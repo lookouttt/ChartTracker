@@ -88,6 +88,7 @@
             //initializing the table
             CsvToHtmlTable.init({
                 csv_path: 'data/' + date + chart + '.csv', 
+                row_limit: 20,
                 element: 'table-container', 
                 allow_download: true,
                 csv_options: {separator: ',', delimiter: '"'},

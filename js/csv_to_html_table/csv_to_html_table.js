@@ -4,6 +4,7 @@ CsvToHtmlTable = {
     init: function (options) {
         options = options || {};
         var csv_path = options.csv_path || "";
+        var row_limit = options.row_limit || 0;
         var el = options.element || "table-container";
         var allow_download = options.allow_download || false;
         var csv_options = options.csv_options || {};
@@ -33,8 +34,14 @@ CsvToHtmlTable = {
 
                 $table.append($tableHead);
                 var $tableBody = $("<tbody></tbody>");
+                var rowLimit;
+                if (row_limit === 0) {
+                    rowLimit = csvData.length;
+                } else {
+                    rowLimit = row_limit + 1;
+                }
 
-                for (var rowIdx = 1; rowIdx < csvData.length; rowIdx++) {
+                for (var rowIdx = 1; rowIdx < rowLimit; rowIdx++) {
                     var $tableBodyRow = $("<tr></tr>");
                     for (var colIdx = 0; colIdx < csvData[rowIdx].length; colIdx++) {
                         var $tableBodyRowTd = $("<td></td>");
