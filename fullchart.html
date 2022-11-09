@@ -83,12 +83,12 @@
         </div>
         <script>
             let params = new URLSearchParams(window.location.search);
-            let date = params.get('decade');
+            let date = params.get('date');
             let chart = params.get('chart');
             //initializing the table
             CsvToHtmlTable.init({
-                csv_path: 'data/' + date + chart + '.csv', 
-                row_limit: 20,
+                csv_path: 'data/' + chart + '/' + chart + '_' + date + '.csv', 
+                row_limit: 0,
                 element: 'table-container', 
                 allow_download: true,
                 csv_options: {separator: ',', delimiter: '"'},
