@@ -16,8 +16,23 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" />
         <link rel="stylesheet" href="css/styles.css" />
 
+        <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
         <script type="text/javascript" src="js/chart_tracker.js" defer></script>
-
+        <script>
+            $(function() {
+                makeDropdownMenu(true,0,'genreGeneral');
+                makeDropdownMenu(true,1,'genreAlternative');
+                makeDropdownMenu(true,2,'genreChristian');
+                makeDropdownMenu(true,3,'genreCountry');
+                makeDropdownMenu(true,4,'genreGlobal');
+                makeDropdownMenu(true,5,'genreGospel');
+                makeDropdownMenu(true,6,'genreHardRock');
+                makeDropdownMenu(true,7,'genreJazz');
+                makeDropdownMenu(true,8,'genrePop');
+                makeDropdownMenu(true,9,'genreRB');
+                makeDropdownMenu(true,10,'genreRock');
+                makeDropdownMenu(true,11,'genreMisc');
+            })
         </script>
 
         <title>ChartTracker</title>
@@ -52,118 +67,22 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-list fa-lg"></i> Select Genre</a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">General Charts &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -7px;">
-                                        <li><a class="dropdown-item" href="#">Hot 100</a></li>
-                                        <li><a class="dropdown-item" href="#">Billboard 200</a></li>
-                                        <li><a class="dropdown-item" href="#">Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Radio Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Digital Song Sales</a></li>
-                                        <li><a class="dropdown-item" href="#">Bubbling Under Hot 100 Singles</a></li>
-                                        <li><a class="dropdown-item" href="#">Hot Singles Recurrents</a></li>
-                                        <li><a class="dropdown-item" href="#">Top Album Sales</a></li>
-                                        <li><a class="dropdown-item" href="#">Current Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Catalog Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Independent Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Vinyl Albums</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Alternative &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -37px;">
-                                        <li><a class="dropdown-item" href="#">Hot Alternative Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Alternative Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Alternative Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Alternative Airplay</a></li>
-                                        <li><a class="dropdown-item" href="#">Alternative Digital Song Sales</a></li>
-                                        <li><a class="dropdown-item" href="#">Triple A</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Christian/Gospel &raquo; </a>      
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -67px;">
-                                        <li><a class="dropdown-item" href="#">Christian Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Christian Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Christian Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Christian Airplay</a></li>
-                                        <li><a class="dropdown-item" href="#">Christian Digital Song Sales</a></li>
-                                        <li><a class="dropdown-item" href="#">Hot Christian Adult Contemporary</a></li>
-                                        <li><a class="dropdown-item" href="#">Gospel Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Gospel Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Gospel Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Gospel Airplay</a></li>
-                                        <li><a class="dropdown-item" href="#">Gospel Digital Song Sales</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Country &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -97px;">
-                                        <li><a class="dropdown-item" href="#">Country Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Country Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Country Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Country Airplay</a></li>
-                                        <li><a class="dropdown-item" href="#">Country Digital Song Sales</a></li>
-                                        <li><a class="dropdown-item" href="#">Americana Folk Albums</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Global &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -127px;">
-                                        <li><a class="dropdown-item" href="#">Billboard Global 200</a></li>
-                                        <li><a class="dropdown-item" href="#">Billboard Global Excluding US</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Hard Rock &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -157px;">
-                                        <li><a class="dropdown-item" href="#">Hot Hard Rock Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Hard Rock Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Hard Rock Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Hard Rock Digital Song Sales</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Jazz &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -187px;">
-                                        <li><a class="dropdown-item" href="#">Jazz Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Jazz Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Contemporary Jazz</a></li>
-                                        <li><a class="dropdown-item" href="#">Traditional Jazz Albums</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Pop &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -217px;">
-                                        <li><a class="dropdown-item" href="#">Pop Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Adult Contemporary</a></li>
-                                        <li><a class="dropdown-item" href="#">Adult Pop Songs</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">R&B/Hip Hop &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -247px;">
-                                        <li><a class="dropdown-item" href="#">R&B/Hip Hop Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">R&B/Hip Hop Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">R&B Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">R&B/Hip Hop Digital Song Sales</a></li>
-                                        <li><a class="dropdown-item" href="#">Mainstream R&B/Hip Hop</a></li>
-                                        <li><a class="dropdown-item" href="#">Hot Adult R&B Airplay</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Rock &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -277px;">
-                                        <li><a class="dropdown-item" href="#">Hot Mainstream Rock Tracks</a> </li>
-                                        <li><a class="dropdown-item" href="#">Rock Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Rock Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Rock Streaming Songs</a></li>
-                                        <li><a class="dropdown-item" href="#">Rock Digital Song Sales</a></li>
-                                        <li><a class="dropdown-item" href="#">Rock Airplay</a> </li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" data-toggle="dropdown" href="#">Miscellaneous &raquo; </a>
-                                    <ul class="dropdown-menu dropdown-submenu" style="--top: -307px;">
-                                        <li><a class="dropdown-item" href="#">Dance Club Play Songs</a> </li>
-                                        <li><a class="dropdown-item" href="#">Heatseekers Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Blues Albums</a></li>
-                                        <li><a class="dropdown-item" href="#">Tastemaker Albums</a></li>
-                                    </ul>
-                                </li>
+                                <li id="genreGeneral"><a class="dropdown-item" data-toggle="dropdown" href="#">General Charts &raquo; </a></li>
+                                <li id="genreAlternative"><a class="dropdown-item" data-toggle="dropdown" href="#">Alternative &raquo; </a></li>
+                                <li id="genreChristian"><a class="dropdown-item" data-toggle="dropdown" href="#">Christian &raquo; </a></li>
+                                <li id="genreCountry"><a class="dropdown-item" data-toggle="dropdown" href="#">Country &raquo; </a></li>
+                                <li id="genreGlobal"><a class="dropdown-item" data-toggle="dropdown" href="#">Global &raquo; </a></li>
+                                <li id="genreGospel"><a class="dropdown-item" data-toggle="dropdown" href="#">Gospel &raquo; </a></li>
+                                <li id="genreHardRock"><a class="dropdown-item" data-toggle="dropdown" href="#">Hard Rock &raquo; </a></li>
+                                <li id="genreJazz"><a class="dropdown-item" data-toggle="dropdown" href="#">Jazz &raquo; </a></li>
+                                <li id="genrePop"><a class="dropdown-item" data-toggle="dropdown" href="#">Pop &raquo; </a></li>
+                                <li id="genreRB"><a class="dropdown-item" data-toggle="dropdown" href="#">R&B/Hip Hop &raquo; </a></li>
+                                <li id="genreRock"><a class="dropdown-item" data-toggle="dropdown" href="#">Rock &raquo; </a></li>
+                                <li id="genreMisc"><a class="dropdown-item" data-toggle="dropdown" href="#">Miscellaneous &raquo; </a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-list fa-lg"></i> Top Current Charts</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown" onclick="makeDropdownMenu(false,12,'topChartDropdown')"><i class="fa fa-list fa-lg"></i> Top Current Charts</a>
                             <div id="topChartDropdown"></div>
                         </li>
                         <!--li class="nav-item"><a class="nav-link" href="artist.html"><i class="fa fa-user fa-lg"></i> Artists</a></li-->
@@ -172,7 +91,7 @@
             </div>
         </nav>
         <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
-        <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
+
         <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     </body>

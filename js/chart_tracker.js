@@ -114,18 +114,57 @@ let top_charts = [
     ['triple-a','Triple A',1996]
 ]
 
+function getCurrentArray(array_id) {
+    switch(array_id) {
+        case 0:
+            return genre_general;
+        case 1:
+            return genre_alternative;
+        case 2:
+            return genre_christian;
+        case 3:
+            return genre_country;
+        case 4:
+            return genre_global;
+        case 5:
+            return genre_gospel;
+        case 6:
+            return genre_hard_rock;
+        case 7:
+            return genre_jazz;
+        case 8:
+            return genre_pop;
+        case 9:
+            return genre_r_b;
+        case 10:
+            return genre_rock;
+        case 11:
+            return genre_misc;
+        case 12:
+            return top_charts;
+        default:
+    }
+}
 
-function makeDropdownMenu(array) {
+function makeDropdownMenu(b_submenu, array_index, html_link ) {
     // Create the list element:
     let list = document.createElement('ul');
     list.classList.add("dropdown-menu");
+    if (b_submenu) {
+        list.classList.add("dropdown-submenu");
+        let offsetVal = ((array_index*30) + 7)*-1;
+        let styleString = offsetVal + "px";
+        list.style.top = styleString;
+    }
 
+    let array = getCurrentArray(array_index);
     for(let i = 0; i < array.length; i++) {
         // Create the list item:
         let item = document.createElement('li');
         let anchor = document.createElement('a');
         anchor.classList.add("dropdown-item");
-        if (i===0) {
+
+        if (i===0 && array_index===12) {
             anchor.setAttribute("href","fullchart.html?decade=1980s&chart=Top100");
         } else {
             anchor.setAttribute("href", "#");
@@ -140,7 +179,7 @@ function makeDropdownMenu(array) {
     }
 
     // Finally, return the constructed list:
-    return list;
+    document.getElementById(html_link).appendChild(list);
+    //return list;
 }
 
-document.getElementById('topChartDropdown').appendChild(makeDropdownMenu(top_charts));
