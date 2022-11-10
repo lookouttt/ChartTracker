@@ -113,6 +113,21 @@ let top_charts = [
     ['triple-a','Triple A',1996,'2022-11-05']
 ]
 
+let genre_list = [
+    'General Charts',
+    'Alternative',
+    'Christian',
+    'Country',
+    'Global',
+    'Gospel',
+    'Hard Rock',
+    'Jazz',
+    'Pop',
+    'R&B/Hip Hop',
+    'Rock',
+    'Miscellaneous'
+]
+
 function getCurrentArray(array_id) {
     switch(array_id) {
         case 0:
@@ -145,7 +160,7 @@ function getCurrentArray(array_id) {
     }
 }
 
-function makeDropdownMenu(b_submenu, array_index, html_link ) {
+function makeDropdownMenu(b_submenu, array_index, html_link, b_reload) {
     // Create the list element:
     let list = document.createElement('ul');
     list.classList.add("dropdown-menu");
@@ -162,11 +177,16 @@ function makeDropdownMenu(b_submenu, array_index, html_link ) {
         let item = document.createElement('li');
         let anchor = document.createElement('a');
         anchor.classList.add("dropdown-item");
-        anchor.setAttribute("href", "fullchart.html?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index);
+        if (b_reload) {
+            anchor.setAttribute("href", "?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index);
+            anchor.setAttribute("target", "_blank");
+        } else {
+            anchor.setAttribute("href", "fullchart.html?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index);
+        }
+
  
         anchor.innerText = array[i][1];
         // Set its contents:
-        //item.appendChild(document.createTextNode(array[i]));
         item.appendChild(anchor);
         // Add it to the list:
         list.appendChild(item);
@@ -198,7 +218,7 @@ function makeDecadeDropdownMenu(b_submenu, array_index, html_link ) {
  
         anchor.innerText = array[i][1];
         // Set its contents:
-        //item.appendChild(document.createTextNode(array[i]));
+
         item.appendChild(anchor);
         // Add it to the list:
         list.appendChild(item);

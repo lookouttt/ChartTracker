@@ -19,7 +19,7 @@
         <!-- This page will not work with jquery.slim.min.js -->
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
         <script src="js/jquery.csv.min.js"></script>
-        <script type="text/javascript" src="js/chart_tracker.js" defer></script>
+        <script type="text/javascript" src="js/chart_tracker.js"></script>
         <script type="text/javascript" src="js/csv_to_html_table/csv_to_html_table.js"></script>
 
         <title>ChartTracker - Full Chart</title>
@@ -52,15 +52,10 @@
                     <ul class="navbar-nav">
                         <li class="nav-item active"><a class="nav-link" href="#"><i class="fa fa-info fa-lg"></i> About</a></li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="chartDrop" data-toggle="dropdown"><i class="fa fa-list fa-lg"></i> Charts</a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Weekly</a> </li>
-                                <li><a class="dropdown-item" href="#">Annual</a> </li>
-                                <li><a class="dropdown-item" href="#">Decade</a> </li>
-                            </ul>
+                            <a class="nav-link dropdown-toggle" href="#" id="chartDrop" data-toggle="dropdown" data-genre="" onclick="makeDropdownMenu(false,parseInt(getElementById('chartDrop').dataset.genre),'chartDrop',true)"><i class="fa fa-list fa-lg"></i> Select Chart</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-music fa-lg"></i> Genres</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-music fa-lg"></i> Switch Genre</a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="#">Hot 100 Singles</a> </li>
                                 <li><a class="dropdown-item" href="#">Mainstream Rock</a> </li>
@@ -83,13 +78,22 @@
             </div>
 
         </div>
+       
+
+        <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
+        <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+        <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
         <script>
             let params = new URLSearchParams(window.location.search);
-            let date = params.get('date');
-            let chart = params.get('chart');
+            let pDate = params.get('date');
+            let pChart = params.get('chart');
+            let pGenre = params.get('genre');
+
+            let myGenre = document.getElementById("chartDrop");
+            myGenre.setAttribute('data-genre',pGenre);
             //initializing the table
             CsvToHtmlTable.init({
-                csv_path: 'data/' + chart + '/' + chart + '_' + date + '.csv', 
+                csv_path: 'data/' + pChart + '/' + pChart + '_' + pDate + '.csv', 
                 row_limit: 0,
                 element: 'table-container', 
                 allow_download: true,
@@ -98,9 +102,5 @@
                 //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
             });
         </script>
-
-        <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
-        <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
-        <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     </body>
 </html>
