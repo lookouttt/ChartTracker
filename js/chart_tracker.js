@@ -160,7 +160,7 @@ function getCurrentArray(array_id) {
     }
 }
 
-function makeDropdownMenu(b_submenu, array_index, html_link, b_reload) {
+function makeDropdownMenu(b_submenu, array_index, html_link) {
     // Create the list element:
     let list = document.createElement('ul');
     list.classList.add("dropdown-menu");
@@ -177,13 +177,9 @@ function makeDropdownMenu(b_submenu, array_index, html_link, b_reload) {
         let item = document.createElement('li');
         let anchor = document.createElement('a');
         anchor.classList.add("dropdown-item");
-        if (b_reload) {
-            anchor.setAttribute("href", "?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index);
-            anchor.setAttribute("target", "_blank");
-        } else {
-            anchor.setAttribute("href", "fullchart.html?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index);
-        }
 
+        anchor.setAttribute("onclick", "location.href='fullchart.html?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index + "'");
+        anchor.setAttribute("target", "_blank");
  
         anchor.innerText = array[i][1];
         // Set its contents:
