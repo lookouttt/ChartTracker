@@ -1,3 +1,8 @@
+const chart_name = 0;
+const chart_text = 1;
+const chart_first_year = 2;
+const chart_most_recent = 3;
+
 let genre_general = [
     ['hot-100','Hot 100',1958,'2022-11-05'],
     ['billboard-200','Billboard 200',1963,'2022-11-05'],
@@ -176,11 +181,13 @@ function makeDropdownMenu(b_submenu, array_index, html_link) {
         // Create the list item:
         let item = document.createElement('li');
         let anchor = document.createElement('a');
-        anchor.classList.add("dropdown-item");
+        let curChart = array[i][chart_name];
+        let curName = array[i][chart_text];
+        let curFirst = array[i][chart_first_year];
+        let curDate = array[i][chart_most_recent];
 
-        anchor.setAttribute("onclick", "location.href='fullchart.html?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index + "'");
-        anchor.setAttribute("target", "_blank");
- 
+        anchor.classList.add("dropdown-item");
+        anchor.setAttribute("onclick", "location.href='fullchart.html?chart=" + curChart + "&cname=" + curName + "&first=" + curFirst + "&date=" + curDate + "&genre=" + array_index + "'");
         anchor.innerText = array[i][1];
         // Set its contents:
         item.appendChild(anchor);
@@ -210,7 +217,7 @@ function makeDecadeDropdownMenu(b_submenu, array_index, html_link ) {
         let item = document.createElement('li');
         let anchor = document.createElement('a');
         anchor.classList.add("dropdown-item");
-        anchor.setAttribute("href", "fullchart.html?chart=" + array[i][0] + "&date=" + array[i][3] + "&genre=" + array_index);
+        anchor.setAttribute("href", "fullchart.html?chart=" + array[i][chart_name] + "&date=" + array[i][chart_most_recent] + "&genre=" + array_index);
  
         anchor.innerText = array[i][1];
         // Set its contents:

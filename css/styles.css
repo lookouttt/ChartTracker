@@ -88,3 +88,8 @@ h2 {
 .page-title {
     text-align: center;
 }
+
+.card-header {
+    background-color: #CEA981;
+    color: white;
+}

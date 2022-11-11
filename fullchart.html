@@ -69,19 +69,15 @@
         </nav>
         <div class=”container”>
             <div class="row row-content">
-                <h2 class="col-md-8 m-auto">Top 100 Songs of the 1980s</h2>
+                <div class="col-md-8 m-auto">
+                    <div class="card">
+                        <h2 class="card-header" id="fc-table-name"></h2>
+                        <div class="card-body" id="fc-table-container">
 
-            </div>
-            <!--div>
-                <a href="fullchart.html?chart=country-songs&date=2022-11-05&genre=3" target="_blank">Hello</a>
-                <a href="index.html" target="_blank">Hello Again</a>
-            </div-->
-            <div class="row row-content">
-                <div class="col-md-8 mx-auto">
-                    <div id="table-container">
+                        </div>
+                    </div>
                 </div>
             </div>
-
         </div>
        
 
@@ -93,14 +89,21 @@
             let pDate = params.get('date');
             let pChart = params.get('chart');
             let pGenre = params.get('genre');
+            let pName = params.get('cname');
+            let pFirst = params.get('first');
 
+            let printDate = new Date(pDate);
+            let titleString = pName + " for Week Ending " + printDate.toLocaleDateString();
+            let myTitle = document.getElementById("fc-table-name")
+            myTitle.innerHTML = titleString;
+ 
             let myGenre = document.getElementById("chartDrop");
             myGenre.setAttribute('data-genre',pGenre);
             //initializing the table
             CsvToHtmlTable.init({
                 csv_path: 'data/' + pChart + '/' + pChart + '_' + pDate + '.csv', 
                 row_limit: 0,
-                element: 'table-container', 
+                element: 'fc-table-container', 
                 allow_download: true,
                 csv_options: {separator: ',', delimiter: '"'},
                 datatables_options: {"paging": false}

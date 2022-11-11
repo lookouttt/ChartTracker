@@ -95,14 +95,18 @@
         </nav>
         <div class="container">
             <div class="row row-content">
-                <div class="col-md-6">
-                    <div id="hot100-container">
-
+                <div class="col-lg-6">
+                    <div class="card">
+                        <h3 class="card-header" id="h100-title">Hot 100</h3>
+                        <div class="card-body" id="hot100-container">
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div id="billboard200-container">
-
+                <div class="col-lg-6">
+                    <div class="card">
+                        <h3 class="card-header" id="b200-title">Billboard 200</h3>
+                        <div class="card-body" id="billboard200-container">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -114,8 +118,18 @@
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
         <script>
             //let params = new URLSearchParams(window.location.search);
-            let pDate1 = genre_general[0][3];
-            let pDate2 = genre_general[1][3];
+            let pDate1 = genre_general[0][chart_most_recent];
+            let printDate = new Date(pDate1);
+            let titleString = "Hot 100 for Week Ending " + printDate.toLocaleDateString();
+            let myTitle = document.getElementById("h100-title");
+            myTitle.innerHTML = titleString;
+            
+            let pDate2 = genre_general[1][chart_most_recent];
+            printDate = new Date(pDate2);
+            titleString = "Billboard 200 for Week Ending " + printDate.toLocaleDateString();
+            myTitle = document.getElementById("b200-title");
+            myTitle.innerHTML = titleString;
+
             //initializing the table
             CsvToHtmlTable.init({
                 csv_path: 'data/hot-100/hot-100_' + pDate1 + '.csv', 
