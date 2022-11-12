@@ -24,17 +24,14 @@
         <script>
             $(function() {
                 makeDropdownMenu(true,0,'genreGeneral');
-                makeDropdownMenu(true,1,'genreAlternative');
-                makeDropdownMenu(true,2,'genreChristian');
+                makeDropdownMenu(true,1,'genrePop');
+                makeDropdownMenu(true,2,'genreRock');
                 makeDropdownMenu(true,3,'genreCountry');
-                makeDropdownMenu(true,4,'genreGlobal');
-                makeDropdownMenu(true,5,'genreGospel');
-                makeDropdownMenu(true,6,'genreHardRock');
-                makeDropdownMenu(true,7,'genreJazz');
-                makeDropdownMenu(true,8,'genrePop');
-                makeDropdownMenu(true,9,'genreRB');
-                makeDropdownMenu(true,10,'genreRock');
-                makeDropdownMenu(true,11,'genreMisc');
+                makeDropdownMenu(true,4,'genreJazz');
+                makeDropdownMenu(true,5,'genreAlternative');
+                makeDropdownMenu(true,6,'genreRB');
+                makeDropdownMenu(true,7,'genreChristian');
+                makeDropdownMenu(true,8,'genreMisc');
             })
         </script>
 
@@ -68,24 +65,21 @@
                     <ul class="navbar-nav">
                         <li class="nav-item active"><a class="nav-link" href="#"><i class="fa fa-info fa-lg"></i> About</a></li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-list fa-lg"></i> Select Genre</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-list fa-lg"></i> Select a Chart</a>
                             <ul class="dropdown-menu">
                                 <li id="genreGeneral"><a class="dropdown-item" data-toggle="dropdown" href="#">General Charts &raquo; </a></li>
-                                <li id="genreAlternative"><a class="dropdown-item" data-toggle="dropdown" href="#">Alternative &raquo; </a></li>
-                                <li id="genreChristian"><a class="dropdown-item" data-toggle="dropdown" href="#">Christian &raquo; </a></li>
-                                <li id="genreCountry"><a class="dropdown-item" data-toggle="dropdown" href="#">Country &raquo; </a></li>
-                                <li id="genreGlobal"><a class="dropdown-item" data-toggle="dropdown" href="#">Global &raquo; </a></li>
-                                <li id="genreGospel"><a class="dropdown-item" data-toggle="dropdown" href="#">Gospel &raquo; </a></li>
-                                <li id="genreHardRock"><a class="dropdown-item" data-toggle="dropdown" href="#">Hard Rock &raquo; </a></li>
-                                <li id="genreJazz"><a class="dropdown-item" data-toggle="dropdown" href="#">Jazz &raquo; </a></li>
                                 <li id="genrePop"><a class="dropdown-item" data-toggle="dropdown" href="#">Pop &raquo; </a></li>
-                                <li id="genreRB"><a class="dropdown-item" data-toggle="dropdown" href="#">R&B/Hip Hop &raquo; </a></li>
                                 <li id="genreRock"><a class="dropdown-item" data-toggle="dropdown" href="#">Rock &raquo; </a></li>
+                                <li id="genreCountry"><a class="dropdown-item" data-toggle="dropdown" href="#">Country &raquo; </a></li>
+                                <li id="genreJazz"><a class="dropdown-item" data-toggle="dropdown" href="#">Jazz &raquo; </a></li>
+                                <li id="genreAlternative"><a class="dropdown-item" data-toggle="dropdown" href="#">Alternative &raquo; </a></li>
+                                <li id="genreRB"><a class="dropdown-item" data-toggle="dropdown" href="#">R&B/Hip Hop &raquo; </a></li>
+                                <li id="genreChristian"><a class="dropdown-item" data-toggle="dropdown" href="#">Christian/Gospel &raquo; </a></li>
                                 <li id="genreMisc"><a class="dropdown-item" data-toggle="dropdown" href="#">Miscellaneous &raquo; </a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown" onclick="makeDropdownMenu(false,12,'topChartDropdown')"><i class="fa fa-list fa-lg"></i> Top Current Charts</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown" onclick="makeDropdownMenu(false,9,'topChartDropdown')"><i class="fa fa-list fa-lg"></i> Top Current Charts</a>
                             <div id="topChartDropdown"></div>
                         </li>
                         <!--li class="nav-item"><a class="nav-link" href="artist.html"><i class="fa fa-user fa-lg"></i> Artists</a></li-->
@@ -118,15 +112,15 @@
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
         <script>
             //let params = new URLSearchParams(window.location.search);
-            let pDate1 = genre_general[0][chart_most_recent];
+            let pDate1 = charts_general[0][chart_most_recent];
             let printDate = new Date(pDate1);
-            let titleString = "Hot 100 for Week Ending " + printDate.toLocaleDateString();
+            let titleString = "Hot 100 for Week Ending " + printDate.toLocaleDateString('en-US', {timeZone: "UTC"});
             let myTitle = document.getElementById("h100-title");
             myTitle.innerHTML = titleString;
             
-            let pDate2 = genre_general[1][chart_most_recent];
+            let pDate2 = charts_general[1][chart_most_recent];
             printDate = new Date(pDate2);
-            titleString = "Billboard 200 for Week Ending " + printDate.toLocaleDateString();
+            titleString = "Billboard 200 for Week Ending " + printDate.toLocaleDateString('en-US', {timeZone: "UTC"});
             myTitle = document.getElementById("b200-title");
             myTitle.innerHTML = titleString;
 
