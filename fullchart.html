@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" />
         <link rel="stylesheet" href="css/styles.css" />
+        <link rel="stylesheet" href="node_modules/jquery-ui/dist/themes/base/jquery-ui.min.css" />
 
         <!-- This page will not work with jquery.slim.min.js -->
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
@@ -69,9 +70,9 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="timeframeDrop" data-toggle="dropdown" data-firstDate="" data-curDate=""><i class="fa fa-music fa-lg"></i> Select Chart by Timeframe</a>
                             <ul class="dropdown-menu">
-                                <li id="decadeSelect"><a class="dropdown-item" data-toggle="dropdown" href="#" onclick="makeDecadeDropdownMenu(true,0,getElementById('timeframeDrop').getAttribute('data-firstDate'), getElementById('timeframeDrop').getAttribute('data-curDate'),'decadeSelect')">Decade Chart</a> </li>
-                                <li id="yearSelect"><a class="dropdown-item" data-toggle="dropdown" href="#">Year-End Chart</a> </li>
-                                <li id="weekSelect"><a class="dropdown-item" data-toggle="dropdown" href="#">Weekly Chart</a> </li>
+                                <li id="decadeSelect"><a class="dropdown-item" data-toggle="dropdown" href="#" onmouseover="makeDecadeDropdownMenu(true,0,getElementById('timeframeDrop').getAttribute('data-firstDate'), getElementById('timeframeDrop').getAttribute('data-curDate'),'decadeSelect')">Decade Chart &raquo; </a></li>
+                                <li id="yearSelect"><a class="dropdown-item" data-toggle="dropdown" href="#" onmouseover="populateYearSelection(getElementById('timeframeDrop').getAttribute('data-firstDate'), getElementById('timeframeDrop').getAttribute('data-curDate'),'yearSelect')">Year-End Chart &raquo; </a></li>
+                                <li id="weekSelect"><a class="dropdown-item" data-toggle="dropdown" href="#">Weekly Chart &raquo; </a> </li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -97,6 +98,13 @@
             </div>
         </nav>
         <div class=”container”>
+            <!--div class="ror row-content">
+                <div class="col">
+                    <input type="text" id="datepicker3" 
+                    placeholder="(year only, no controls)" />
+                </div>
+            </div-->
+            </div>
             <div class="row row-content">
                 <div class="col-md-8 m-auto">
                     <div class="card">
@@ -143,5 +151,37 @@
                 //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
             });
         </script>
+        <script>
+            $(function() { 
+                $('#datepicker3').datepicker( {
+                    dateFormat: "yy",
+                    yearRange: "c-100:c",
+                    changeMonth: false,
+                    changeYear: true,
+                    showButtonPanel: false,
+                    closeText:'Select',
+                    currentText: 'This year',
+                    onClose: function(dateText, inst) {
+                        var year = $("#ui-datepicker-div .ui-datepicker-year :selected").val();
+                        $(this).val($.datepicker.formatDate('yy', new Date(year, 1, 1)));
+                        },
+                    onChangeMonthYear : function () {
+                        $(this).datepicker( "hide" );
+                        }
+                    }).focus(function () {
+                        $(".ui-datepicker-month").hide();
+                        $(".ui-datepicker-calendar").hide();
+                        $(".ui-datepicker-current").hide();
+                        $(".ui-datepicker-prev").hide();
+                        $(".ui-datepicker-next").hide();
+                        $("#ui-datepicker-div").position({
+                        my: "left top",
+                        at: "left bottom",
+                        of: $(this)
+                    });
+                }).attr("readonly", false);
+            });
+        </script>
+
     </body>
 </html>

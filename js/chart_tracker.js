@@ -186,32 +186,68 @@ function makeDropdownMenu(b_submenu, array_index, html_link) {
 
 function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, html_link) {
     // Create the list element:
-    let list = document.createElement('ul');
-    list.classList.add("dropdown-menu");
-    if (b_submenu) {
+    const ulDecadeCheck = document.getElementById('ulDecade');
+    if (!ulDecadeCheck)
+    {
+        let list = document.createElement('ul');
+        list.id = "ulDecade";
+        list.classList.add("dropdown-menu");
+        if (b_submenu) {
+            list.classList.add("dropdown-submenu");
+            let offsetVal = ((array_index*30) + 7)*-1;
+            let styleString = offsetVal + "px";
+            list.style.top = styleString;
+        }
+        const decadeArray = [];
+        myTimeframe = document.getElementById("timeframeDrop");
+        const firstDate = first_date.split('-');
+        const lastDate = last_date.split('-');
+        let myFirstDate = new Date(firstDate[0], firstDate[1]-1, firstDate[2]);
+        let myFirstDecade = parseInt(firstDate[0] / 10) * 10;
+        for (let i=myFirstDecade; i <= max_decade; i += 10) {
+            decadeArray.push(i + 's');
+            let item = document.createElement('li');
+            let anchor = document.createElement('a');
+            anchor.classList.add("dropdown-item");
+            anchor.href = "#";
+            anchor.innerText = i + 's';
+            item.appendChild(anchor);
+            list.appendChild(item);
+        }
+    
+        document.getElementById(html_link).appendChild(list);
+    }
+
+}
+
+function populateYearSelection(first_date, last_date, html_link) {
+    const ulYearCheck = document.getElementById('yearSelector');
+    if (!ulYearCheck)
+    {
+        // Create the list element:
+        let list = document.createElement('ul');
+        list.id = 'yearSelector';
+        list.classList.add("dropdown-menu");
         list.classList.add("dropdown-submenu");
-        let offsetVal = ((array_index*30) + 7)*-1;
-        let styleString = offsetVal + "px";
-        list.style.top = styleString;
-    }
-    const decadeArray = [];
-    myTimeframe = document.getElementById("timeframeDrop");
-    const firstDate = first_date.split('-');
-    const lastDate = last_date.split('-');
-    let myFirstDate = new Date(firstDate[0], firstDate[1]-1, firstDate[2]);
-    let myFirstDecade = parseInt(firstDate[0] / 10) * 10;
-    for (let i=myFirstDecade; i <= max_decade; i += 10) {
-        decadeArray.push(i + 's');
-        let item = document.createElement('li');
-        let anchor = document.createElement('a');
-        anchor.classList.add("dropdown-item");
-        anchor.href = "#";
-        anchor.innerText = i + 's';
-        item.appendChild(anchor);
-        list.appendChild(item);
-    }
+        list.style.top = "-37px";
 
-    document.getElementById(html_link).appendChild(list);
+        const firstDate = first_date.split('-');
+        const lastDate = last_date.split('-');
+        let firstYear = parseInt(firstDate[0]);
+        let lastYear = parseInt(lastDate[0]);
 
-    console.log(decadeArray);
+        for (let i= lastYear; i >= firstYear; i--) {
+            let item = document.createElement('li');
+            let anchor = document.createElement('a');
+            anchor.classList.add("dropdown-item");
+            anchor.href = "#";
+            anchor.innerText = i;
+            item.appendChild(anchor);
+            list.appendChild(item);
+        }
+
+        document.getElementById(html_link).appendChild(list);
+
+    }
+    
 }

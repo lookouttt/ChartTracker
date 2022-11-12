@@ -93,3 +93,9 @@ h2 {
     background-color: #CEA981;
     color: white;
 }
+
+#yearSelector {
+    max-height:150px;
+    overflow-x: hidden;
+    overflow-y:auto;   
+}
