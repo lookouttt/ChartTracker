@@ -68,7 +68,7 @@
                     <ul class="navbar-nav">
                         <li class="nav-item active"><a class="nav-link" href="#"><i class="fa fa-info fa-lg"></i> About</a></li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="timeframeDrop" data-toggle="dropdown" data-firstDate="" data-curDate=""><i class="fa fa-music fa-lg"></i> Select Chart by Timeframe</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="timeframeDrop" data-toggle="dropdown" data-firstDate="" data-lastDate="" data-curDate=""><i class="fa fa-music fa-lg"></i> Select Chart by Timeframe</a>
                             <ul class="dropdown-menu">
                                 <li id="decadeSelect"><a class="dropdown-item" data-toggle="dropdown" href="#" onmouseover="makeDecadeDropdownMenu(true,0,getElementById('timeframeDrop').getAttribute('data-firstDate'), getElementById('timeframeDrop').getAttribute('data-curDate'),'decadeSelect')">Decade Chart &raquo; </a></li>
                                 <li id="yearSelect"><a class="dropdown-item" data-toggle="dropdown" href="#" onmouseover="populateYearSelection(getElementById('timeframeDrop').getAttribute('data-firstDate'), getElementById('timeframeDrop').getAttribute('data-curDate'),'yearSelect')">Year-End Chart &raquo; </a></li>
@@ -92,25 +92,34 @@
                                 <li id="genreMisc"><a class="dropdown-item" data-toggle="dropdown" href="#">Miscellaneous &raquo; </a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-user fa-lg"></i> Artists</a></li>
+                        <!--li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-user fa-lg"></i> Artists</a></li-->
                     </ul>
                 </div>
             </div>
         </nav>
         <div class=”container”>
-            <!--div class="ror row-content">
-                <div class="col">
-                    <input type="text" id="datepicker3" 
-                    placeholder="(year only, no controls)" />
-                </div>
-            </div-->
-            </div>
             <div class="row row-content">
-                <div class="col-md-8 m-auto">
-                    <div class="card">
-                        <h2 class="card-header" id="fc-table-name"></h2>
-                        <div class="card-body" id="fc-table-container">
-
+                <div class="col-md-10 mx-auto">
+                    <div class="row row-content">
+                        <div class="col-2">
+                            <a role=button" class="btn btn-primary" id="fc-prevBtn">Prev</a>
+                        </div>
+                        <div class="col-md-8 mx-auto">
+                            <input type="text" id="datepicker3" autocomplete="off"
+                            placeholder="(year only, no controls)" />
+                        </div>
+                        <div class="col-2">
+                            <a role="button" class="btn btn-primary" id="fc-nextBtn">Next</a>
+                        </div>
+                    </div>
+                    <div class="row row-content">
+                        <div class="col-md-10 m-auto">
+                            <div class="card">
+                                <h2 class="card-header" id="fc-table-name"></h2>
+                                <div class="card-body" id="fc-table-container">
+        
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -121,6 +130,7 @@
         <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
         <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="node_modules/dayjs/dayjs.min.js"></script>
         <script>
             let params = new URLSearchParams(window.location.search);
             let pDate = params.get('date');
@@ -128,9 +138,10 @@
             let pGenre = params.get('genre');
             let pName = params.get('cname');
             let pFirst = params.get('first');
+            let pLast = params.get('last');
 
-            let printDate = new Date(pDate);
-            let titleString = pName + " for Week Ending " + printDate.toLocaleDateString('en-US', {timeZone: "UTC"});
+            let printDate = dayjs(pDate);
+            let titleString = pName + " for Week Ending " + printDate.format('MM/DD/YYYY');
             let myTitle = document.getElementById("fc-table-name")
             myTitle.innerHTML = titleString;
  
@@ -140,6 +151,28 @@
             let myTimeframe = document.getElementById("timeframeDrop");
             myTimeframe.setAttribute('data-firstDate', pFirst);
             myTimeframe.setAttribute('data-curDate', pDate);
+            myTimeframe.setAttribute('data-lastDate',pLast);
+
+            let lastDate = dayjs(pLast);
+            let firstDate = dayjs(pFirst);
+            let nextString;
+            if (pDate === pLast) {
+                nextString = "location.href='#'";
+            }
+            else {
+                let nextDate = printDate.add(7,'d');
+                nextString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + pName + "&first=" + pFirst + "&last=" + pLast + "&date=" + nextDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
+            }
+
+            let prevDate = printDate.subtract(7,'d');
+            let prevString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + pName + "&first=" + pFirst + "&last=" + pLast + "&date=" + prevDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
+
+            myPrevButton = document.getElementById("fc-prevBtn");
+            myPrevButton.setAttribute("onclick",prevString);
+
+            myNextButton = document.getElementById("fc-nextBtn");
+            myNextButton.setAttribute("onclick",nextString);
+
             //initializing the table
             CsvToHtmlTable.init({
                 csv_path: 'data/' + pChart + '/' + pChart + '_' + pDate + '.csv', 
@@ -152,10 +185,17 @@
             });
         </script>
         <script>
-            $(function() { 
+            $(function() {
+                let startDate = document.getElementById('timeframeDrop').getAttribute('data-firstDate');
+                let endDate = document.getElementById('timeframeDrop').getAttribute('data-curDate'); 
+                let firstYear = startDate.split('-')[0];
+                let lastYear = endDate.split('-')[0];
+                let myRange = lastYear - firstYear;
                 $('#datepicker3').datepicker( {
-                    dateFormat: "yy",
-                    yearRange: "c-100:c",
+                    dateFormat: "yy-mm-dd",
+                    minDate: startDate,
+                    maxDate: endDate,
+                    yearRange: "-" + myRange + ":",
                     changeMonth: false,
                     changeYear: true,
                     showButtonPanel: false,

@@ -99,3 +99,8 @@ h2 {
     overflow-x: hidden;
     overflow-y:auto;   
 }
+
+#fc-table-container {
+    height: 750px;
+    overflow-y: auto;
+}

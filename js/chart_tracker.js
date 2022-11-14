@@ -169,9 +169,10 @@ function makeDropdownMenu(b_submenu, array_index, html_link) {
         let curName = array[i][chart_text];
         let curFirst = array[i][chart_first_date];
         let curDate = array[i][chart_most_recent];
+        let curLast = array[i][chart_most_recent];
 
         anchor.classList.add("dropdown-item");
-        anchor.setAttribute("onclick", "location.href='fullchart.html?chart=" + curChart + "&cname=" + curName + "&first=" + curFirst + "&date=" + curDate + "&genre=" + array_index + "'");
+        anchor.setAttribute("onclick", "location.href='fullchart.html?chart=" + curChart + "&cname=" + curName + "&first=" + curFirst + "&last=" + curLast + "&date=" + curDate + "&genre=" + array_index + "'");
         anchor.innerText = array[i][1];
         // Set its contents:
         item.appendChild(anchor);
