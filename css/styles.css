@@ -45,9 +45,15 @@ h2 {
 }
 
 .row-content {
-    padding: 50px 0;
+    padding: 25px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
+}
+
+.row-short {
+    padding: 15px 0;
+    border-bottom: 1px ridge;
+    min-height: 50px;
 }
 
 .navbar {
@@ -103,4 +109,16 @@ h2 {
 #fc-table-container {
     height: 750px;
     overflow-y: auto;
+}
+
+.btn-fcChart {
+    background-color: #CEA981;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#fc-datepicker {
+    width: 300px;
 }

@@ -98,19 +98,17 @@
             </div>
         </nav>
         <div class=”container”>
-            <div class="row row-content">
+            <div class="row row-short">
                 <div class="col-md-10 mx-auto">
-                    <div class="row row-content">
-                        <div class="col-2">
-                            <a role=button" class="btn btn-primary" id="fc-prevBtn">Prev</a>
-                        </div>
-                        <div class="col-md-8 mx-auto">
-                            <input type="text" id="datepicker3" autocomplete="off"
-                            placeholder="(year only, no controls)" />
-                        </div>
-                        <div class="col-2">
-                            <a role="button" class="btn btn-primary" id="fc-nextBtn">Next</a>
-                        </div>
+                    <div class="row row-short">
+                        <form class="form-inline mx-auto">
+                            <div class="form-group"  id="fc-chart-buttons">
+                                    <a role=button" class="btn btn-fcChart" id="fc-prevBtn">Prev</a>
+                                    <input type="text" id="fc-datepicker" data-chart="" data-chartName="" autocomplete="off"/>
+                                    <!--div id="fc-datepicker"></div-->
+                                    <a role="button" class="btn btn-fcChart" id="fc-nextBtn">Next</a>
+                            </div>
+                        </form>
                     </div>
                     <div class="row row-content">
                         <div class="col-md-10 m-auto">
@@ -147,6 +145,10 @@
  
             let myGenre = document.getElementById("chartDrop");
             myGenre.setAttribute('data-genre',pGenre);
+
+            let myDatepicker = document.getElementById("fc-datepicker");
+            myDatepicker.setAttribute('data-chart',pChart);
+            myDatepicker.setAttribute('data-chartName',pName);
 
             let myTimeframe = document.getElementById("timeframeDrop");
             myTimeframe.setAttribute('data-firstDate', pFirst);
@@ -187,33 +189,43 @@
         <script>
             $(function() {
                 let startDate = document.getElementById('timeframeDrop').getAttribute('data-firstDate');
-                let endDate = document.getElementById('timeframeDrop').getAttribute('data-curDate'); 
+                let endDate = document.getElementById('timeframeDrop').getAttribute('data-lastDate'); 
+                let curDate = document.getElementById('timeframeDrop').getAttribute('data-curDate');
                 let firstYear = startDate.split('-')[0];
                 let lastYear = endDate.split('-')[0];
                 let myRange = lastYear - firstYear;
-                $('#datepicker3').datepicker( {
+                $('#fc-datepicker').datepicker( {
                     dateFormat: "yy-mm-dd",
                     minDate: startDate,
                     maxDate: endDate,
+                    defaultDate: curDate,
                     yearRange: "-" + myRange + ":",
-                    changeMonth: false,
+                    changeMonth: true,
                     changeYear: true,
                     showButtonPanel: false,
+                    beforeShowDay: function (date) {
+		                return [date.getDay() == 6, ''];
+                        }, 
                     closeText:'Select',
                     currentText: 'This year',
-                    onClose: function(dateText, inst) {
+                    /*onClose: function(dateText, inst) {
                         var year = $("#ui-datepicker-div .ui-datepicker-year :selected").val();
                         $(this).val($.datepicker.formatDate('yy', new Date(year, 1, 1)));
                         },
                     onChangeMonthYear : function () {
                         $(this).datepicker( "hide" );
-                        }
+                        }*/
+                    onClose: function (date, datepicker) {
+                        if (date != "") {
+                            openDatepickerSelection(date);
+                        }},
+                    
                     }).focus(function () {
-                        $(".ui-datepicker-month").hide();
+                        /*$(".ui-datepicker-month").hide();
                         $(".ui-datepicker-calendar").hide();
                         $(".ui-datepicker-current").hide();
                         $(".ui-datepicker-prev").hide();
-                        $(".ui-datepicker-next").hide();
+                        $(".ui-datepicker-next").hide();*/
                         $("#ui-datepicker-div").position({
                         my: "left top",
                         at: "left bottom",
