@@ -163,11 +163,11 @@
             }
             else {
                 let nextDate = printDate.add(7,'d');
-                nextString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + pName + "&first=" + pFirst + "&last=" + pLast + "&date=" + nextDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
+                nextString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&date=" + nextDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
             }
 
             let prevDate = printDate.subtract(7,'d');
-            let prevString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + pName + "&first=" + pFirst + "&last=" + pLast + "&date=" + prevDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
+            let prevString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&date=" + prevDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
 
             myPrevButton = document.getElementById("fc-prevBtn");
             myPrevButton.setAttribute("onclick",prevString);

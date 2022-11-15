@@ -172,7 +172,7 @@ function makeDropdownMenu(b_submenu, array_index, html_link) {
         let curLast = array[i][chart_most_recent];
 
         anchor.classList.add("dropdown-item");
-        anchor.setAttribute("onclick", "location.href='fullchart.html?chart=" + curChart + "&cname=" + curName + "&first=" + curFirst + "&last=" + curLast + "&date=" + curDate + "&genre=" + array_index + "'");
+        anchor.setAttribute("onclick", "location.href='fullchart.html?chart=" + curChart + "&cname=" + encodeURIComponent(curName) + "&first=" + curFirst + "&last=" + curLast + "&date=" + curDate + "&genre=" + array_index + "'");
         anchor.innerText = array[i][1];
         // Set its contents:
         item.appendChild(anchor);
@@ -259,7 +259,7 @@ function openDatepickerSelection(selectedDate) {
     let myFirst = document.getElementById('timeframeDrop').getAttribute('data-firstDate');
     let myLast = document.getElementById('timeframeDrop').getAttribute('data-lastDate');
     let myGenre = document.getElementById('chartDrop').getAttribute('data-genre');
-    let myHtmlLink = "fullchart.html?chart=" + myChart + "&cname=" + myChartName + "&first=" + myFirst + "&last=" + myLast + "&date=" + selectedDate + "&genre=" + myGenre;
+    let myHtmlLink = "fullchart.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&date=" + selectedDate + "&genre=" + myGenre;
     window.open(myHtmlLink, "_self");
 }
 
