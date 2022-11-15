@@ -6,34 +6,14 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
     
-        <!-- Bootstrap CSS -->
+        <!-- build:css css/main.css -->
         <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" />
-
-        <!-- Additional CSS must be placed after Bootstrap CSS -->
         <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
         <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css" />
+        <link rel="stylesheet" href="css/styles.css" />
+        <!-- endbuild -->        
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" />
-        <link rel="stylesheet" href="css/styles.css" />
-
-        <script src="node_modules/jquery/dist/jquery.min.js"></script>
-        <script src="js/jquery.csv.min.js"></script>
-        <script type="text/javascript" src="js/chart_tracker.js"></script>
-        <script type="text/javascript" src="js/csv_to_html_table/csv_to_html_table.js"></script>
-
-        <script>
-            $(function() {
-                makeDropdownMenu(true,0,'genreGeneral');
-                makeDropdownMenu(true,1,'genrePop');
-                makeDropdownMenu(true,2,'genreRock');
-                makeDropdownMenu(true,3,'genreCountry');
-                makeDropdownMenu(true,4,'genreJazz');
-                makeDropdownMenu(true,5,'genreAlternative');
-                makeDropdownMenu(true,6,'genreRB');
-                makeDropdownMenu(true,7,'genreChristian');
-                makeDropdownMenu(true,8,'genreMisc');
-            })
-        </script>
 
         <title>ChartTracker</title>
     </head>
@@ -51,6 +31,7 @@
                         <h2 contenteditable role="textbox">Your music. Your way.</h2>
                     </div>
                     <div class="col">
+
                     </div>
                 </div>
             </div>
@@ -107,42 +88,16 @@
         </div>
 
         <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
-
+        <!-- This page will not work with jquery.slim.min.js -->
+        <!-- build:js js/main.js -->        
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
         <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-        <script>
-            //let params = new URLSearchParams(window.location.search);
-            let pDate1 = charts_general[0][chart_most_recent];
-            let printDate = new Date(pDate1);
-            let titleString = "Hot 100 for Week Ending " + printDate.toLocaleDateString('en-US', {timeZone: "UTC"});
-            let myTitle = document.getElementById("h100-title");
-            myTitle.innerHTML = titleString;
-            
-            let pDate2 = charts_general[1][chart_most_recent];
-            printDate = new Date(pDate2);
-            titleString = "Billboard 200 for Week Ending " + printDate.toLocaleDateString('en-US', {timeZone: "UTC"});
-            myTitle = document.getElementById("b200-title");
-            myTitle.innerHTML = titleString;
+        <script src="js/jquery.csv.min.js"></script>
+        <script type="text/javascript" src="js/csv_to_html_table/csv_to_html_table.js"></script>
+        <script type="text/javascript" src="js/chart_tracker.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        <!-- endbuild -->
 
-            //initializing the table
-            CsvToHtmlTable.init({
-                csv_path: 'data/hot-100/hot-100_' + pDate1 + '.csv', 
-                row_limit: 20,
-                element: 'hot100-container', 
-                allow_download: true,
-                csv_options: {separator: ',', delimiter: '"'},
-                datatables_options: {"paging": false}
-                //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
-            });
-            CsvToHtmlTable.init({
-                csv_path: 'data/billboard-200/billboard-200_' + pDate2 + '.csv', 
-                row_limit: 20,
-                element: 'billboard200-container', 
-                allow_download: true,
-                csv_options: {separator: ',', delimiter: '"'},
-                datatables_options: {"paging": false}
-                //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
-            });
-        </script>
     </body>
 </html>

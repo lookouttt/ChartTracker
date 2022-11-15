@@ -2,3 +2,4 @@ node_modules
 example.html
 package.json.bak
 data
+dist

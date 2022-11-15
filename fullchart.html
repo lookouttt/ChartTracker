@@ -6,43 +6,21 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
     
-        <!-- Bootstrap CSS -->
+        <!-- build:css css/main.css -->
         <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" />
-
-        <!-- Additional CSS must be placed after Bootstrap CSS -->
         <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
         <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css" />
+        <link rel="stylesheet" href="node_modules/jquery-ui/dist/themes/base/jquery-ui.min.css" />
+        <link rel="stylesheet" href="css/styles.css" />
+        <!-- endbuild -->        
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" />
-        <link rel="stylesheet" href="css/styles.css" />
-        <link rel="stylesheet" href="node_modules/jquery-ui/dist/themes/base/jquery-ui.min.css" />
 
-        <!-- This page will not work with jquery.slim.min.js -->
-        <script src="node_modules/jquery/dist/jquery.min.js"></script>
-        <script src="node_modules/jquery-ui/dist/jquery-ui.min.js"></script>
-        <script src="js/jquery.csv.min.js"></script>
-        <script type="text/javascript" src="js/chart_tracker.js"></script>
-        <script type="text/javascript" src="js/csv_to_html_table/csv_to_html_table.js"></script>
-
-        <script>
-            $(function() {
-                makeDropdownMenu(true,0,'genreGeneral');
-                makeDropdownMenu(true,1,'genrePop');
-                makeDropdownMenu(true,2,'genreRock');
-                makeDropdownMenu(true,3,'genreCountry');
-                makeDropdownMenu(true,4,'genreJazz');
-                makeDropdownMenu(true,5,'genreAlternative');
-                makeDropdownMenu(true,6,'genreRB');
-                makeDropdownMenu(true,7,'genreChristian');
-                makeDropdownMenu(true,8,'genreMisc');
-            })
-        </script>
 
         <title>ChartTracker - Full Chart</title>
     </head>
 
     <body>
-
         <header class="jumbotron jumbotron-fluid">
             <div class="container">
                 <div class="row">
@@ -103,10 +81,9 @@
                     <div class="row row-short">
                         <form class="form-inline mx-auto">
                             <div class="form-group"  id="fc-chart-buttons">
-                                    <a role=button" class="btn btn-fcChart" id="fc-prevBtn">Prev</a>
-                                    <input type="text" id="fc-datepicker" data-chart="" data-chartName="" autocomplete="off"/>
-                                    <!--div id="fc-datepicker"></div-->
-                                    <a role="button" class="btn btn-fcChart" id="fc-nextBtn">Next</a>
+                                <a role="button" class="btn btn-fcChart" id="fc-prevBtn">Prev</a>
+                                <input type="text" id="fc-datepicker" data-chart="" data-chartName="" autocomplete="off"/>
+                                <a role="button" class="btn btn-fcChart" id="fc-nextBtn">Next</a>
                             </div>
                         </form>
                     </div>
@@ -114,126 +91,27 @@
                         <div class="col-md-10 m-auto">
                             <div class="card">
                                 <h2 class="card-header" id="fc-table-name"></h2>
-                                <div class="card-body" id="fc-table-container">
-        
-                                </div>
+                                <div class="card-body" id="fc-table-container"></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-       
 
         <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
+        <!-- This page will not work with jquery.slim.min.js -->
+        <!-- build:js js/main.js -->                
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="node_modules/jquery-ui/dist/jquery-ui.min.js"></script>
         <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="node_modules/dayjs/dayjs.min.js"></script>
-        <script>
-            let params = new URLSearchParams(window.location.search);
-            let pDate = params.get('date');
-            let pChart = params.get('chart');
-            let pGenre = params.get('genre');
-            let pName = params.get('cname');
-            let pFirst = params.get('first');
-            let pLast = params.get('last');
-
-            let printDate = dayjs(pDate);
-            let titleString = pName + " for Week Ending " + printDate.format('MM/DD/YYYY');
-            let myTitle = document.getElementById("fc-table-name")
-            myTitle.innerHTML = titleString;
- 
-            let myGenre = document.getElementById("chartDrop");
-            myGenre.setAttribute('data-genre',pGenre);
-
-            let myDatepicker = document.getElementById("fc-datepicker");
-            myDatepicker.setAttribute('data-chart',pChart);
-            myDatepicker.setAttribute('data-chartName',pName);
-
-            let myTimeframe = document.getElementById("timeframeDrop");
-            myTimeframe.setAttribute('data-firstDate', pFirst);
-            myTimeframe.setAttribute('data-curDate', pDate);
-            myTimeframe.setAttribute('data-lastDate',pLast);
-
-            let lastDate = dayjs(pLast);
-            let firstDate = dayjs(pFirst);
-            let nextString;
-            if (pDate === pLast) {
-                nextString = "location.href='#'";
-            }
-            else {
-                let nextDate = printDate.add(7,'d');
-                nextString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&date=" + nextDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
-            }
-
-            let prevDate = printDate.subtract(7,'d');
-            let prevString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&date=" + prevDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
-
-            myPrevButton = document.getElementById("fc-prevBtn");
-            myPrevButton.setAttribute("onclick",prevString);
-
-            myNextButton = document.getElementById("fc-nextBtn");
-            myNextButton.setAttribute("onclick",nextString);
-
-            //initializing the table
-            CsvToHtmlTable.init({
-                csv_path: 'data/' + pChart + '/' + pChart + '_' + pDate + '.csv', 
-                row_limit: 0,
-                element: 'fc-table-container', 
-                allow_download: true,
-                csv_options: {separator: ',', delimiter: '"'},
-                datatables_options: {"paging": false}
-                //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
-            });
-        </script>
-        <script>
-            $(function() {
-                let startDate = document.getElementById('timeframeDrop').getAttribute('data-firstDate');
-                let endDate = document.getElementById('timeframeDrop').getAttribute('data-lastDate'); 
-                let curDate = document.getElementById('timeframeDrop').getAttribute('data-curDate');
-                let firstYear = startDate.split('-')[0];
-                let lastYear = endDate.split('-')[0];
-                let myRange = lastYear - firstYear;
-                $('#fc-datepicker').datepicker( {
-                    dateFormat: "yy-mm-dd",
-                    minDate: startDate,
-                    maxDate: endDate,
-                    defaultDate: curDate,
-                    yearRange: "-" + myRange + ":",
-                    changeMonth: true,
-                    changeYear: true,
-                    showButtonPanel: false,
-                    beforeShowDay: function (date) {
-		                return [date.getDay() == 6, ''];
-                        }, 
-                    closeText:'Select',
-                    currentText: 'This year',
-                    /*onClose: function(dateText, inst) {
-                        var year = $("#ui-datepicker-div .ui-datepicker-year :selected").val();
-                        $(this).val($.datepicker.formatDate('yy', new Date(year, 1, 1)));
-                        },
-                    onChangeMonthYear : function () {
-                        $(this).datepicker( "hide" );
-                        }*/
-                    onClose: function (date, datepicker) {
-                        if (date != "") {
-                            openDatepickerSelection(date);
-                        }},
-                    
-                    }).focus(function () {
-                        /*$(".ui-datepicker-month").hide();
-                        $(".ui-datepicker-calendar").hide();
-                        $(".ui-datepicker-current").hide();
-                        $(".ui-datepicker-prev").hide();
-                        $(".ui-datepicker-next").hide();*/
-                        $("#ui-datepicker-div").position({
-                        my: "left top",
-                        at: "left bottom",
-                        of: $(this)
-                    });
-                }).attr("readonly", false);
-            });
-        </script>
+        <script src="js/jquery.csv.min.js"></script>
+        <script type="text/javascript" src="js/csv_to_html_table/csv_to_html_table.js"></script>
+        <script type="text/javascript" src="js/chart_tracker.js"></script>
+        <script type="text/javascript" src="js/fullchart.js"></script>
+        <!-- endbuild -->
 
     </body>
 </html>
