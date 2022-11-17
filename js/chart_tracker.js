@@ -149,6 +149,18 @@ function getCurrentArray(array_id) {
     }
 }
 
+function createGenreDropdowns() {
+    makeDropdownMenu(true,0,'genreGeneral');
+    makeDropdownMenu(true,1,'genrePop');
+    makeDropdownMenu(true,2,'genreRock');
+    makeDropdownMenu(true,3,'genreCountry');
+    makeDropdownMenu(true,4,'genreJazz');
+    makeDropdownMenu(true,5,'genreAlternative');
+    makeDropdownMenu(true,6,'genreRB');
+    makeDropdownMenu(true,7,'genreChristian');
+    makeDropdownMenu(true,8,'genreMisc');
+}
+
 function makeDropdownMenu(b_submenu, array_index, html_link) {
     // Create the list element:
     let list = document.createElement('ul');

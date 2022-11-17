@@ -1,13 +1,5 @@
 $(function() {
-    makeDropdownMenu(true,0,'genreGeneral');
-    makeDropdownMenu(true,1,'genrePop');
-    makeDropdownMenu(true,2,'genreRock');
-    makeDropdownMenu(true,3,'genreCountry');
-    makeDropdownMenu(true,4,'genreJazz');
-    makeDropdownMenu(true,5,'genreAlternative');
-    makeDropdownMenu(true,6,'genreRB');
-    makeDropdownMenu(true,7,'genreChristian');
-    makeDropdownMenu(true,8,'genreMisc');
+    createGenreDropdowns();
 
     let params = new URLSearchParams(window.location.search);
     let pYear = params.get('year');
@@ -19,7 +11,7 @@ $(function() {
     
     //let printDate = dayjs(pYear);
     //let titleString = pName + " for Week Ending " + printDate.format('MM/DD/YYYY');
-    let titleString = pYear + " Year End Chart";
+    let titleString = pYear + " " + pName + " Year End Chart";
     let myTitle = document.getElementById("ye-table-name")
     myTitle.innerHTML = titleString;
     
@@ -177,7 +169,7 @@ function populateYearSelection(first_year, last_year, html_link) {
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
-            anchor.href = "#";
+            anchor.href = "location.href='yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + first_year + "&last=" + last_year + "&year=" + i + "&genre=" + myGenre + "'";
             anchor.innerText = i;
             item.appendChild(anchor);
             list.appendChild(item);
@@ -195,6 +187,6 @@ function openYearpickerSelection(selectedYear) {
     let myFirst = document.getElementById('ye-timeframeDrop').getAttribute('data-firstYear');
     let myLast = document.getElementById('ye-timeframeDrop').getAttribute('data-lastYear');
     let myGenre = document.getElementById('ye-chartDrop').getAttribute('data-genre');
-    let myHtmlLink = "yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&year=" + selectedYear + "&genre=" + myGenre;
+    let myHtmlLink = "location.href='yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&year=" + selectedYear + "&genre=" + myGenre + "'";
     window.open(myHtmlLink, "_self");
 }

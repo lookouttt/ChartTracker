@@ -1,13 +1,5 @@
 $(function() {
-    makeDropdownMenu(true,0,'genreGeneral');
-    makeDropdownMenu(true,1,'genrePop');
-    makeDropdownMenu(true,2,'genreRock');
-    makeDropdownMenu(true,3,'genreCountry');
-    makeDropdownMenu(true,4,'genreJazz');
-    makeDropdownMenu(true,5,'genreAlternative');
-    makeDropdownMenu(true,6,'genreRB');
-    makeDropdownMenu(true,7,'genreChristian');
-    makeDropdownMenu(true,8,'genreMisc');
+    createGenreDropdowns();
 
     let pDate1 = charts_general[0][chart_most_recent];
     let printDate = new Date(pDate1);

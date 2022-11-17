@@ -1,13 +1,5 @@
 $(function() {
-    makeDropdownMenu(true,0,'genreGeneral');
-    makeDropdownMenu(true,1,'genrePop');
-    makeDropdownMenu(true,2,'genreRock');
-    makeDropdownMenu(true,3,'genreCountry');
-    makeDropdownMenu(true,4,'genreJazz');
-    makeDropdownMenu(true,5,'genreAlternative');
-    makeDropdownMenu(true,6,'genreRB');
-    makeDropdownMenu(true,7,'genreChristian');
-    makeDropdownMenu(true,8,'genreMisc');
+    createGenreDropdowns();
 
     let params = new URLSearchParams(window.location.search);
     let pDate = params.get('date');
@@ -177,7 +169,7 @@ function populateYearSelection(first_date, last_date, html_link) {
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
-            anchor.href = "yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + firstYear + "&last=" + lastYear + "&year=" + i + "&genre=" + myGenre;;
+            anchor.href = "location.href='yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + firstYear + "&last=" + lastYear + "&year=" + i + "&genre=" + myGenre + "'";
             anchor.innerText = i;
             item.appendChild(anchor);
             list.appendChild(item);
