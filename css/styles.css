@@ -106,7 +106,7 @@ h2 {
     overflow-y:auto;   
 }
 
-#fc-table-container {
+#fc-table-container, #ye-table-container {
     height: 750px;
     overflow-y: auto;
 }

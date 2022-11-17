@@ -10,105 +10,105 @@ $(function() {
     makeDropdownMenu(true,8,'genreMisc');
 
     let params = new URLSearchParams(window.location.search);
-    let pDate = params.get('date');
+    let pYear = params.get('year');
     let pChart = params.get('chart');
     let pGenre = params.get('genre');
     let pName = params.get('cname');
     let pFirst = params.get('first');
     let pLast = params.get('last');
     
-    let printDate = dayjs(pDate);
-    let titleString = pName + " for Week Ending " + printDate.format('MM/DD/YYYY');
-    let myTitle = document.getElementById("fc-table-name")
+    //let printDate = dayjs(pYear);
+    //let titleString = pName + " for Week Ending " + printDate.format('MM/DD/YYYY');
+    let titleString = pYear + " Year End Chart";
+    let myTitle = document.getElementById("ye-table-name")
     myTitle.innerHTML = titleString;
     
-    let myGenre = document.getElementById("fc-chartDrop");
+    let myGenre = document.getElementById("ye-chartDrop");
     myGenre.setAttribute('data-genre',pGenre);
     
-    let myDatepicker = document.getElementById("fc-datepicker");
-    myDatepicker.setAttribute('data-chart',pChart);
-    myDatepicker.setAttribute('data-chartName',pName);
+    let myYearpicker = document.getElementById("ye-datepicker");
+    myYearpicker.setAttribute('data-chart',pChart);
+    myYearpicker.setAttribute('data-chartName',pName);
     
-    let myTimeframe = document.getElementById("fc-timeframeDrop");
-    myTimeframe.setAttribute('data-firstDate', pFirst);
-    myTimeframe.setAttribute('data-curDate', pDate);
-    myTimeframe.setAttribute('data-lastDate',pLast);
+    let myTimeframe = document.getElementById("ye-timeframeDrop");
+    myTimeframe.setAttribute('data-firstYear', pFirst);
+    myTimeframe.setAttribute('data-curYear', pYear);
+    myTimeframe.setAttribute('data-lastYear',pLast);
     
-    let lastDate = dayjs(pLast);
-    let firstDate = dayjs(pFirst);
     let nextString;
-    if (pDate === pLast) {
+    if (pYear === pLast) {
         nextString = "location.href='#'";
     }
     else {
-        let nextDate = printDate.add(7,'d');
-        nextString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&date=" + nextDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
+        let nextYear = parseInt(pYear) + 1;
+        nextString = "location.href='yearend.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&year=" + nextYear + "&genre=" + pGenre + "'";
     }
     
     let prevString;
-    if (pDate === pFirst) {
+    if (pYear === pFirst) {
         prevString = "location.href='#'";        
     }
     else {
-        prevDate = printDate.subtract(7,'d');
-        prevString = "location.href='fullchart.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&date=" + prevDate.format('YYYY-MM-DD') + "&genre=" + pGenre + "'";
+        let prevYear = parseInt(pYear) - 1;
+        prevString = "location.href='yearend.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&year=" + prevYear + "&genre=" + pGenre + "'";
     }
-    
-    myPrevButton = document.getElementById("fc-prevBtn");
+
+    myPrevButton = document.getElementById("ye-prevBtn");
     myPrevButton.setAttribute("onclick",prevString);
     
-    myNextButton = document.getElementById("fc-nextBtn");
+    myNextButton = document.getElementById("ye-nextBtn");
     myNextButton.setAttribute("onclick",nextString);
     
     //initializing the table
     CsvToHtmlTable.init({
-        csv_path: 'data/' + pChart + '/' + pChart + '_' + pDate + '.csv', 
+        csv_path: 'data/YearEnd/' + pChart + '_' + pYear + '_YearEnd.csv', 
         row_limit: 0,
-        element: 'fc-table-container', 
+        element: 'ye-table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false}
         //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
     });    
 
-    let startDate = document.getElementById('fc-timeframeDrop').getAttribute('data-firstDate');
-    let endDate = document.getElementById('fc-timeframeDrop').getAttribute('data-lastDate'); 
-    let curDate = document.getElementById('fc-timeframeDrop').getAttribute('data-curDate');
-    let firstYear = startDate.split('-')[0];
-    let lastYear = endDate.split('-')[0];
-    let myRange = lastYear - firstYear;
-    $('#fc-datepicker').datepicker( {
-        dateFormat: "yy-mm-dd",
-        minDate: startDate,
-        maxDate: endDate,
-        defaultDate: curDate,
+    let startYear = document.getElementById('ye-timeframeDrop').getAttribute('data-firstYear');
+    let endYear = document.getElementById('ye-timeframeDrop').getAttribute('data-lastYear'); 
+    let curYear = document.getElementById('ye-timeframeDrop').getAttribute('data-curYear');
+    //let firstYear = startDate.split('-')[0];
+    //let lastYear = endDate.split('-')[0];
+    //let myRange = lastYear - firstYear;
+    let myRange = endYear - startYear;
+    $('#ye-datepicker').datepicker( {
+        dateFormat: "yy",
+        minDate: startYear,
+        maxDate: endYear,
+        defaultDate: curYear,
         yearRange: "-" + myRange + ":",
-        changeMonth: true,
+        changeMonth: false,
         changeYear: true,
         showButtonPanel: false,
-        beforeShowDay: function (date) {
+        /*beforeShowDay: function (date) {
             return [date.getDay() == 6, ''];
-            }, 
+            }, */
         closeText:'Select',
         currentText: 'This year',
         /*onClose: function(dateText, inst) {
             var year = $("#ui-datepicker-div .ui-datepicker-year :selected").val();
             $(this).val($.datepicker.formatDate('yy', new Date(year, 1, 1)));
-            },
+            },*/
         onChangeMonthYear : function () {
             $(this).datepicker( "hide" );
-            }*/
+            },
         onClose: function (date, datepicker) {
             if (date != "") {
                 openDatepickerSelection(date);
             }},
         
         }).focus(function () {
-            /*$(".ui-datepicker-month").hide();
+            $(".ui-datepicker-month").hide();
             $(".ui-datepicker-calendar").hide();
             $(".ui-datepicker-current").hide();
             $(".ui-datepicker-prev").hide();
-            $(".ui-datepicker-next").hide();*/
+            $(".ui-datepicker-next").hide();
             $("#ui-datepicker-div").position({
             my: "left top",
             at: "left bottom",
@@ -132,7 +132,7 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
             list.style.top = styleString;
         }
         const decadeArray = [];
-        myTimeframe = document.getElementById("fc-timeframeDrop");
+        myTimeframe = document.getElementById("ye-timeframeDrop");
         const firstDate = first_date.split('-');
         const lastDate = last_date.split('-');
         let myFirstDate = new Date(firstDate[0], firstDate[1]-1, firstDate[2]);
@@ -153,7 +153,7 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
 
 }
 
-function populateYearSelection(first_date, last_date, html_link) {
+function populateYearSelection(first_year, last_year, html_link) {
     const ulYearCheck = document.getElementById('yearSelector');
     if (!ulYearCheck)
     {
@@ -164,20 +164,20 @@ function populateYearSelection(first_date, last_date, html_link) {
         list.classList.add("dropdown-submenu");
         list.style.top = "-37px";
 
-        const firstDate = first_date.split('-');
-        const lastDate = last_date.split('-');
-        let firstYear = parseInt(firstDate[0]);
-        let lastYear = parseInt(lastDate[0]);
+        //const firstDate = first_date.split('-');
+        //const lastDate = last_date.split('-');
+        //let firstYear = parseInt(firstDate[0]);
+        //let lastYear = parseInt(lastDate[0]);
 
-        let myChart = document.getElementById('fc-datepicker').getAttribute('data-chart');
-        let myChartName = document.getElementById('fc-datepicker').getAttribute('data-chartName');
-        let myGenre = document.getElementById('fc-chartDrop').getAttribute('data-genre');
+        let myChart = document.getElementById('ye-datepicker').getAttribute('data-chart');
+        let myChartName = document.getElementById('ye-datepicker').getAttribute('data-chartName');
+        let myGenre = document.getElementById('ye-chartDrop').getAttribute('data-genre');
 
-        for (let i= lastYear; i >= firstYear; i--) {
+        for (let i= last_year; i >= first_year; i--) {
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
-            anchor.href = "yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + firstYear + "&last=" + lastYear + "&year=" + i + "&genre=" + myGenre;;
+            anchor.href = "#";
             anchor.innerText = i;
             item.appendChild(anchor);
             list.appendChild(item);
@@ -189,13 +189,12 @@ function populateYearSelection(first_date, last_date, html_link) {
     
 }
 
-function openDatepickerSelection(selectedDate) {
-    let myChart = document.getElementById('fc-datepicker').getAttribute('data-chart');
-    let myChartName = document.getElementById('fc-datepicker').getAttribute('data-chartName');
-    let myFirst = document.getElementById('fc-timeframeDrop').getAttribute('data-firstDate');
-    let myLast = document.getElementById('fc-timeframeDrop').getAttribute('data-lastDate');
-    let myGenre = document.getElementById('fc-chartDrop').getAttribute('data-genre');
-    let myHtmlLink = "fullchart.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&date=" + selectedDate + "&genre=" + myGenre;
+function openYearpickerSelection(selectedYear) {
+    let myChart = document.getElementById('ye-datepicker').getAttribute('data-chart');
+    let myChartName = document.getElementById('ye-datepicker').getAttribute('data-chartName');
+    let myFirst = document.getElementById('ye-timeframeDrop').getAttribute('data-firstYear');
+    let myLast = document.getElementById('ye-timeframeDrop').getAttribute('data-lastYear');
+    let myGenre = document.getElementById('ye-chartDrop').getAttribute('data-genre');
+    let myHtmlLink = "yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&year=" + selectedYear + "&genre=" + myGenre;
     window.open(myHtmlLink, "_self");
 }
-
