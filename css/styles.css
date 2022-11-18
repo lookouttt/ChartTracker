@@ -28,18 +28,20 @@ h2 {
 
 .jumbotron {
     margin: 0;
-    padding: 15px;
+    padding: 5px;
     /*background-image: linear-gradient(to right, #a299cc, #3046C5, #60106B);*/
     background-image: url("../img/main_banner.jpg");
     background-size: 100% 100%;
     background-repeat: contain;
     color: white;
-    min-height: 150px;
+    min-height: 50px;
 }
 
 .jumbtron img {
-    padding-top: 40px;
-    margin: auto;
+    padding-top: 15px;
+    height: 25px;
+    width: 25px;
+    /*margin: auto;*/
     display: block;
     align-self: center;
 }
@@ -57,7 +59,7 @@ h2 {
 }
 
 .navbar {
-    background-color: #CEA981;
+    background-color: #284C85;
 }
 
 .dropdown-menu li {
@@ -96,7 +98,7 @@ h2 {
 }
 
 .card-header {
-    background-color: #CEA981;
+    background-color: #284C85;
     color: white;
 }
 
@@ -112,7 +114,8 @@ h2 {
 }
 
 .btn-fcChart, .btn-yeChart, .btn-deChart {
-    background-color: #CEA981;
+    background-color: #622885;
+    color: white;
     padding-left: 30px;
     padding-right: 30px;
     margin-left: 30px;
@@ -121,4 +124,20 @@ h2 {
 
 #fc-datepicker, #ye-datepicker, #de-datepicker {
     width: 300px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); }
+  
+  .carousel {
+    border: solid #284C85; }
+  
+  #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100; }
+
+.btn-carousel {
+    background-color: #934cbe;
 }

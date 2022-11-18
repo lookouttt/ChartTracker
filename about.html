@@ -10,17 +10,16 @@
         <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" />
         <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
         <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css" />
-        <link rel="stylesheet" href="node_modules/jquery-ui/dist/themes/base/jquery-ui.min.css" />
         <link rel="stylesheet" href="css/styles.css" />
         <!-- endbuild -->        
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" />
 
-
-        <title>ChartTracker - Full Chart</title>
+        <title>ChartTracker</title>
     </head>
 
     <body>
+
         <header class="jumbotron jumbotron-fluid">
             <div class="container">
                 <div class="row">
@@ -32,6 +31,7 @@
                         <h2 contenteditable role="textbox">Your music. Your way.</h2>
                     </div>
                     <div class="col">
+
                     </div>
                 </div>
             </div>
@@ -39,25 +39,14 @@
         <nav class="navbar navbar-expand-sm navbar-dark sticky-top">
             <div class="container">
                 <a class="navbar-brand" href="index.html"><img src="img/ct_high_trans.png" height="30" width="30" /></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fcNavbar">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#indexNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="fcNavbar">
+                <div class="collapse navbar-collapse" id="indexNavbar">
                     <ul class="navbar-nav">
-                        <li class="nav-item active"><a class="nav-link" href="about.html"><i class="fa fa-info fa-lg"></i> About</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="#"><i class="fa fa-info fa-lg"></i> About</a></li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="fc-timeframeDrop" data-toggle="dropdown" data-firstDate="" data-lastDate="" data-curDate=""><i class="fa fa-music fa-lg"></i> Select Chart by Timeframe</a>
-                            <ul class="dropdown-menu">
-                                <li id="decadeSelect"><a class="dropdown-item" data-toggle="dropdown" href="#" onmouseover="makeDecadeDropdownMenu(true,0,getElementById('fc-timeframeDrop').getAttribute('data-firstDate'), getElementById('fc-timeframeDrop').getAttribute('data-lastDate'),'decadeSelect')">Decade Chart &raquo; </a></li>
-                                <li id="yearSelect"><a class="dropdown-item" data-toggle="dropdown" href="#" onmouseover="populateYearSelection(getElementById('fc-timeframeDrop').getAttribute('data-firstDate'), getElementById('fc-timeframeDrop').getAttribute('data-lastDate'),'yearSelect')">Year-End Chart &raquo; </a></li>
-                                <!--li id="weekSelect"><a class="dropdown-item" data-toggle="dropdown" href="#">Weekly Chart &raquo; </a> </li-->
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="fc-chartDrop" data-toggle="dropdown" data-genre="" onclick="makeDropdownMenu(false,parseInt(getElementById('fc-chartDrop').dataset.genre),'fc-chartDrop')"><i class="fa fa-list fa-lg"></i> Select Different Chart</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-music fa-lg"></i> Select Different Genre</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-list fa-lg"></i> Select a Chart</a>
                             <ul class="dropdown-menu">
                                 <li id="genreGeneral"><a class="dropdown-item" data-toggle="dropdown" href="#">General Charts &raquo; </a></li>
                                 <li id="genrePop"><a class="dropdown-item" data-toggle="dropdown" href="#">Pop &raquo; </a></li>
@@ -70,47 +59,42 @@
                                 <li id="genreMisc"><a class="dropdown-item" data-toggle="dropdown" href="#">Miscellaneous &raquo; </a></li>
                             </ul>
                         </li>
-                        <!--li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-user fa-lg"></i> Artists</a></li-->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown" onclick="makeDropdownMenu(false,9,'topChartDropdown')"><i class="fa fa-list fa-lg"></i> Top Current Charts</a>
+                            <div id="topChartDropdown"></div>
+                        </li>
+                        <!--li class="nav-item"><a class="nav-link" href="artist.html"><i class="fa fa-user fa-lg"></i> Artists</a></li-->
                     </ul>
                 </div>
             </div>
         </nav>
-        <div class=”container”>
-            <div class="row row-short">
-                <div class="col-md-10 mx-auto">
-                    <div class="row row-short">
-                        <form class="form-inline mx-auto">
-                            <div class="form-group"  id="fc-chart-buttons">
-                                <a role="button" class="btn btn-fcChart" id="fc-prevBtn">Prev</a>
-                                <input type="text" id="fc-datepicker" placeholder="Select Chart Date" data-chart="" data-chartName="" autocomplete="off"/>
-                                <a role="button" class="btn btn-fcChart" id="fc-nextBtn">Next</a>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="row row-content">
-                        <div class="col-md-10 m-auto">
-                            <div class="card">
-                                <h2 class="card-header" id="fc-table-name"></h2>
-                                <div class="card-body" id="fc-table-container"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+        <div class="container">
+            <div class="row row-content">
+                <h2>
+                    About ChartTracker
+                </h2>
+                <p>
+                    Ever since I was a child, I have been a big fan of music.  In the early ‘80’s, I started listening to Casey Kasem’s American Top 40 as often as I could.  As a teenager, I would ride my bike into town just so I could go to the local record store and look at the Billboard Hot 100 Singles chart and handwrite the information into a notebook.  For a while I even started creating my own personal Top 40 charts based on my own listening preferences.
+                </p>
+                <p>
+                    Fast-forward a few decades and the music landscape has changed greatly.  We’ve gone from records to cassettes, CDs to MP3s, and now the abundance of streaming music options.  We’ve gone from over-the-air radio transmissions to satellite radio and internet-based radio stations and streaming services.  What hasn’t changed is peoples’ appetite for listening to music spanning the eras of the music recording industry. 
+                </p>
+                <p>
+                    The idea for this website is to create a space where music chart data can be found in one central location.  I don't want this website to focus on just one particular music chart but to include chart data from many of the various genres of music.  Much of the data that is out there now can be viewed but cannot be sorted or customized based on user preferences.  The goal is for this website to bridge this current gap at some time in the future.
+                </p>
             </div>
         </div>
 
         <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
         <!-- This page will not work with jquery.slim.min.js -->
-        <!-- build:js js/main.js -->                
+        <!-- build:js js/main.js -->        
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
-        <script src="node_modules/jquery-ui/dist/jquery-ui.min.js"></script>
         <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="node_modules/dayjs/dayjs.min.js"></script>
         <script src="js/jquery.csv.min.js"></script>
         <script type="text/javascript" src="js/csv_to_html_table/csv_to_html_table.js"></script>
         <script type="text/javascript" src="js/chart_tracker.js"></script>
-        <script type="text/javascript" src="js/fullchart.js"></script>
+        <!--script type="text/javascript" src="js/main.js"></script-->
         <!-- endbuild -->
 
     </body>
