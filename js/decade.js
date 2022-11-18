@@ -138,7 +138,7 @@ function populateYearSelection(first_year, last_year, html_link) {
         let myChartName = document.getElementById('de-datepicker').getAttribute('data-chartName');
         let myGenre = document.getElementById('de-chartDrop').getAttribute('data-genre');
 
-        for (let i= last_year; i >= first_year; i--) {
+        for (let i= last_year; i <= first_year; i--) {
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
@@ -155,10 +155,11 @@ function populateYearSelection(first_year, last_year, html_link) {
 }
 
 function populateDecadeSelection(first_decade, last_decade) {
-    const mySelect = document.querySelector('de-datepicker');
-    for (let i = parseInt(first_decade); i >= parseInt(last_decade); i += 10) {
+    const mySelect = document.getElementById('de-datepicker');
+    for (let i = parseInt(first_decade); i <= parseInt(last_decade); i += 10) {
         const myOption = document.createElement('option');
         myOption.value = i;
+        
         myOption.innerHTML = i.toString() + "s";
         mySelect.appendChild(myOption);
     }

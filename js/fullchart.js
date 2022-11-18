@@ -55,7 +55,7 @@ $(function() {
     //initializing the table
     CsvToHtmlTable.init({
         csv_path: 'data/' + pChart + '/' + pChart + '_' + pDate + '.csv', 
-        row_limit: 100,
+        row_limit: 0,
         element: 'fc-table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
