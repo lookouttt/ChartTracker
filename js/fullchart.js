@@ -131,6 +131,8 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
 
         const firstDate = first_date.split('-');
         const lastDate = last_date.split('-');
+        let firstYear = parseInt(firstDate[0]);
+        let lastYear = parseInt(lastDate[0]);
         let myFirstDate = new Date(firstDate[0], firstDate[1]-1, firstDate[2]);
         let myFirstDecade = parseInt(firstDate[0] / 10) * 10;
         for (let i=myFirstDecade; i <= max_decade; i += 10) {
@@ -138,7 +140,7 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
-            anchor.href = "decade.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirstDecade + "&last=" + max_decade + "&year=" + i + "&genre=" + myGenre;
+            anchor.href = "decade.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + firstYear + "&last=" + lastYear + "&decade=" + i + "&genre=" + myGenre;
             anchor.innerText = i + 's';
             item.appendChild(anchor);
             list.appendChild(item);

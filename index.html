@@ -19,7 +19,6 @@
     </head>
 
     <body>
-
         <header class="jumbotron jumbotron-fluid">
             <div class="container">
                 <div class="row">
@@ -38,13 +37,13 @@
         </header>
         <nav class="navbar navbar-expand-sm navbar-dark sticky-top">
             <div class="container">
-                <a class="navbar-brand" href="#"><img src="img/ct_high_trans.png" height="30" width="30" /></a>
+                <a class="navbar-brand" href="#"><img src="img/my_ct_logo.png" height="30" width="30" /></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#indexNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="indexNavbar">
                     <ul class="navbar-nav">
-                        <li class="nav-item active"><a class="nav-link" href="about.html"><i class="fa fa-info fa-lg"></i> About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about.html"><i class="fa fa-info fa-lg"></i> About</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="genreDrop" data-toggle="dropdown"><i class="fa fa-list fa-lg"></i> Select a Chart</a>
                             <ul class="dropdown-menu">
@@ -68,6 +67,59 @@
                 </div>
             </div>
         </nav>
+        <div id="contactModal" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 class="modal-title">Contact Us</h3>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <form>
+                                <div class="form-row">
+                                    <div class="col-md-4 mb-3">
+                                      <label for="contactFirstName">First name</label>
+                                      <input type="text" class="form-control" id="contactFirstName" placeholder="First name" required>
+                                    </div>
+                                    <div class="col-md-4 mb-3">
+                                      <label for="contactLastName">Last name</label>
+                                      <input type="text" class="form-control" id="contactLastName" placeholder="Last name" required>
+                                    </div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col mb-3">
+                                        <label for="contactEmail">Email address</label>
+                                        <input type="email" class="form-control" id="contactEmail" placeholder="Enter email" required>
+                                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                                    </div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col mb-3">
+                                        <label for="contactTopic">Topic</label>
+                                        <select class="form-control" id="contactTopic" required>
+                                            <option selected>Choose...</option>
+                                            <option>Chart Question</option>
+                                            <option>Chart Discrepancy</option>
+                                            <option>Feature Request</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col mb-3">
+                                        <label for="contactDetails">Tell us what you're contacting us about</label>
+                                        <textarea class="form-control" id="contactDetails" rows="3" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-auto">
+                                    <button type="submit" class="btn btn-primary mb-2">Submit</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row row-content">
                 <h2>
@@ -92,6 +144,7 @@
                             <li data-target="#chartCarousel" data-slide-to="2"></li>
                             <li data-target="#chartCarousel" data-slide-to="3"></li>
                             <li data-target="#chartCarousel" data-slide-to="4"></li>
+                            <li data-target="#chartCarousel" data-slide-to="5"></li>
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
@@ -99,6 +152,13 @@
                                 <div class="carousel-caption">
                                     <h3>Hot 100 Singles Chart</h3>
                                     <p class="d-none d-sm-block">This is the granddaddy of them all.</p>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="img/billboard_200.jpg" alt="Billboard 200 Chart">
+                                <div class="carousel-caption">
+                                    <h3>Billboard 200 Album Chart</h3>
+                                    <p class="d-none d-sm-block">The current best-selling albums.</p>
                                 </div>
                             </div>
                             <div class="carousel-item">
@@ -146,14 +206,14 @@
             </div>
             <div class="row row-content">
                 <div class="col-lg-6">
-                    <div class="card">
+                    <div class="card index-card">
                         <h3 class="card-header" id="h100-title">Hot 100</h3>
                         <div class="card-body" id="hot100-container">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="card">
+                    <div class="card index-card">
                         <h3 class="card-header" id="b200-title">Billboard 200</h3>
                         <div class="card-body" id="billboard200-container">
                         </div>
@@ -161,6 +221,29 @@
                 </div>
             </div>
         </div>
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2 offset-1">
+                        <h5>Links</h5>
+                        <ul class="list-unstyled">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a data-target="#contactModal" data-toggle="modal" href="#contactModal">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-5 text-center">
+                        <p>
+                            ChartTracker is an indepedently-produced website and has no affiliation with Billboard Magazineor any other published or broadcast media. Material posted on this site is meant for research, educational, and/or entertainment purposes only.
+                        </p>
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <h5>Connect</h5>
+                        <a role="button" class="btn btn-link" href="mailto:lookoutt@hotmail.com"><i class="fa fa-envelope-o"></i> lookoutt@hotmail.com</a><br>
+                    </div>
+                </div>
+            </div>
+        </footer>
 
         <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
         <!-- This page will not work with jquery.slim.min.js -->

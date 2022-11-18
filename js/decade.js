@@ -2,16 +2,14 @@ $(function() {
     createGenreDropdowns();
 
     let params = new URLSearchParams(window.location.search);
-    let pYear = params.get('year');
+    let pDecade = params.get('decade');
     let pChart = params.get('chart');
     let pGenre = params.get('genre');
     let pName = params.get('cname');
     let pFirst = params.get('first');
     let pLast = params.get('last');
     
-    //let printDate = dayjs(pYear);
-    //let titleString = pName + " for Week Ending " + printDate.format('MM/DD/YYYY');
-    let titleString = pYear + " " + pName + " Decade Chart";
+    let titleString = pDecade + " " + pName + " Decade Chart";
     let myTitle = document.getElementById("de-table-name")
     myTitle.innerHTML = titleString;
     
@@ -24,25 +22,28 @@ $(function() {
     
     let myTimeframe = document.getElementById("de-timeframeDrop");
     myTimeframe.setAttribute('data-firstYear', pFirst);
-    myTimeframe.setAttribute('data-curYear', pYear);
+    myTimeframe.setAttribute('data-curDecade', pDecade);
     myTimeframe.setAttribute('data-lastYear',pLast);
+
+    let pFirstDecade = parseInt(pFirst / 10) * 10;
+    let pLastDecade = parseInt(pLast / 10) * 10;
     
     let nextString;
-    if (pYear === pLast) {
+    if (pDecade === pLastDecade) {
         nextString = "location.href='#'";
     }
     else {
-        let nextYear = parseInt(pYear) + 10;
-        nextString = "location.href='decade.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&year=" + nextYear + "&genre=" + pGenre + "'";
+        let nextYear = parseInt(pDecade) + 10;
+        nextString = "location.href='decade.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&decade=" + nextYear + "&genre=" + pGenre + "'";
     }
     
     let prevString;
-    if (pYear === pFirst) {
+    if (pDecade === pFirstDecade) {
         prevString = "location.href='#'";        
     }
     else {
-        let prevYear = parseInt(pYear) - 10;
-        prevString = "location.href='decade.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&year=" + prevYear + "&genre=" + pGenre + "'";
+        let prevYear = parseInt(pDecade) - 10;
+        prevString = "location.href='decade.html?chart=" + pChart + "&cname=" + encodeURIComponent(pName) + "&first=" + pFirst + "&last=" + pLast + "&decade=" + prevYear + "&genre=" + pGenre + "'";
     }
 
     myPrevButton = document.getElementById("de-prevBtn");
@@ -51,11 +52,11 @@ $(function() {
     myNextButton = document.getElementById("de-nextBtn");
     myNextButton.setAttribute("onclick",nextString);
 
-    populateDecadeSelection(pFirst, pLast);
+    populateDecadeSelection(pFirstDecade, pLastDecade);
     
     //initializing the table
     CsvToHtmlTable.init({
-        csv_path: 'data/Decade/' + pChart + '_' + pYear + '_Decade.csv', 
+        csv_path: 'data/Decade/' + pChart + '_' + pDecade + '_Decade.csv', 
         row_limit: 500,
         element: 'de-table-container', 
         allow_download: true,
@@ -64,13 +65,10 @@ $(function() {
         //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
     });    
 
-    let startYear = document.getElementById('de-timeframeDrop').getAttribute('data-firstYear');
+    /*let startYear = document.getElementById('de-timeframeDrop').getAttribute('data-firstYear');
     let endYear = document.getElementById('de-timeframeDrop').getAttribute('data-lastYear'); 
-    let curYear = document.getElementById('de-timeframeDrop').getAttribute('data-curYear');
-    //let firstYear = startDate.split('-')[0];
-    //let lastYear = endDate.split('-')[0];
-    //let myRange = lastYear - firstYear;
-    let myRange = endYear - startYear;
+    let curDecade = document.getElementById('de-timeframeDrop').getAttribute('data-curDecade');*/
+
     $('#de-datepicker').selectmenu( {
         change: function(event, data) {
             openDecadepickerSelection(data.item.value);
@@ -100,6 +98,8 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
 
         const firstDate = first_date.split('-');
         const lastDate = last_date.split('-');
+        let firstYear = parseInt(firstDate[0]);
+        let lastYear = parseInt(lastDate[0]);
         let myFirstDate = new Date(firstDate[0], firstDate[1]-1, firstDate[2]);
         let myFirstDecade = parseInt(firstDate[0] / 10) * 10;
         for (let i=myFirstDecade; i <= max_decade; i += 10) {
@@ -107,7 +107,7 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
-            anchor.href = "decade.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirstDecade + "&last=" + max_decade + "&year=" + i + "&genre=" + myGenre;
+            anchor.href = "decade.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + firstDate + "&last=" + lastDate + "&decade=" + i + "&genre=" + myGenre;
             anchor.innerText = i + 's';
             item.appendChild(anchor);
             list.appendChild(item);
@@ -138,7 +138,7 @@ function populateYearSelection(first_year, last_year, html_link) {
         let myChartName = document.getElementById('de-datepicker').getAttribute('data-chartName');
         let myGenre = document.getElementById('de-chartDrop').getAttribute('data-genre');
 
-        for (let i= last_year; i <= first_year; i--) {
+        for (let i= last_year; i >= first_year; i--) {
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
@@ -171,6 +171,6 @@ function openDecadepickerSelection(selectedDecade) {
     let myFirst = document.getElementById('de-timeframeDrop').getAttribute('data-firstYear');
     let myLast = document.getElementById('de-timeframeDrop').getAttribute('data-lastYear');
     let myGenre = document.getElementById('de-chartDrop').getAttribute('data-genre');
-    let myHtmlLink = "decade.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&year=" + selectedDecade + "&genre=" + myGenre;
+    let myHtmlLink = "decade.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&decade=" + selectedDecade + "&genre=" + myGenre;
     window.open(myHtmlLink, "_self");
 }
