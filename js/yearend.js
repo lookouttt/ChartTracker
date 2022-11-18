@@ -169,7 +169,7 @@ function populateYearSelection(first_year, last_year, html_link) {
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
-            anchor.href = "location.href='yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + first_year + "&last=" + last_year + "&year=" + i + "&genre=" + myGenre + "'";
+            anchor.href = "yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + first_year + "&last=" + last_year + "&year=" + i + "&genre=" + myGenre;
             anchor.innerText = i;
             item.appendChild(anchor);
             list.appendChild(item);
