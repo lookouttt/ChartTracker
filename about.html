@@ -38,7 +38,7 @@
         </header>
         <nav class="navbar navbar-expand-sm navbar-dark sticky-top">
             <div class="container">
-                <a class="navbar-brand" href="index.html"><img src="img/ct_high_trans.png" height="30" width="30" /></a>
+                <a class="navbar-brand" href="index.html"><img src="img/my_ct_logo.png" height="30" width="30" /></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#indexNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -68,6 +68,59 @@
                 </div>
             </div>
         </nav>
+        <div id="contactModal" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 class="modal-title">Contact Us</h3>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <form>
+                                <div class="form-row">
+                                    <div class="col-md-4 mb-3">
+                                      <label for="contactFirstName">First name</label>
+                                      <input type="text" class="form-control" id="contactFirstName" placeholder="First name" required>
+                                    </div>
+                                    <div class="col-md-4 mb-3">
+                                      <label for="contactLastName">Last name</label>
+                                      <input type="text" class="form-control" id="contactLastName" placeholder="Last name" required>
+                                    </div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col mb-3">
+                                        <label for="contactEmail">Email address</label>
+                                        <input type="email" class="form-control" id="contactEmail" placeholder="Enter email" required>
+                                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                                    </div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col mb-3">
+                                        <label for="contactTopic">Topic</label>
+                                        <select class="form-control" id="contactTopic" required>
+                                            <option selected>Choose...</option>
+                                            <option>Chart Question</option>
+                                            <option>Chart Discrepancy</option>
+                                            <option>Feature Request</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col mb-3">
+                                        <label for="contactDetails">Tell us what you're contacting us about</label>
+                                        <textarea class="form-control" id="contactDetails" rows="3" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-auto">
+                                    <button type="submit" class="btn btn-primary mb-2">Submit</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row row-content">
                 <h2>
@@ -84,18 +137,37 @@
                 </p>
             </div>
         </div>
-
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2 offset-1">
+                        <h5>Links</h5>
+                        <ul class="list-unstyled">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a data-target="#contactModal" data-toggle="modal" href="#contactModal">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-8 text-center">
+                        <h5>Disclaimer</h5>
+                        <p>
+                            ChartTracker is an indepedently-produced website and has no affiliation with Billboard Magazineor any other published or broadcast media. Material posted on this site is meant for research, educational, and/or entertainment purposes only.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
         <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
         <!-- This page will not work with jquery.slim.min.js -->
-        <!-- build:js js/main.js -->        
+        
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
         <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="js/jquery.csv.min.js"></script>
         <script type="text/javascript" src="js/csv_to_html_table/csv_to_html_table.js"></script>
         <script type="text/javascript" src="js/chart_tracker.js"></script>
-        <!--script type="text/javascript" src="js/main.js"></script-->
-        <!-- endbuild -->
+        <script type="text/javascript" src="js/main.js"></script>
+
 
     </body>
 </html>
