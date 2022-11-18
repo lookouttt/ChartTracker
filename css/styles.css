@@ -111,7 +111,7 @@ h2 {
     overflow-y: auto;
 }
 
-.btn-fcChart {
+.btn-fcChart, .btn-yeChart {
     background-color: #CEA981;
     padding-left: 30px;
     padding-right: 30px;
@@ -119,6 +119,6 @@ h2 {
     margin-right: 30px;
 }
 
-#fc-datepicker {
+#fc-datepicker, #ye-datepicker {
     width: 300px;
 }

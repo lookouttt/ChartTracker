@@ -65,36 +65,35 @@ $(function() {
     let startYear = document.getElementById('ye-timeframeDrop').getAttribute('data-firstYear');
     let endYear = document.getElementById('ye-timeframeDrop').getAttribute('data-lastYear'); 
     let curYear = document.getElementById('ye-timeframeDrop').getAttribute('data-curYear');
+    let pickDate = curYear + '-01-01';
     //let firstYear = startDate.split('-')[0];
     //let lastYear = endDate.split('-')[0];
     //let myRange = lastYear - firstYear;
     let myRange = endYear - startYear;
     $('#ye-datepicker').datepicker( {
         dateFormat: "yy",
-        minDate: startYear,
-        maxDate: endYear,
-        defaultDate: curYear,
-        yearRange: "-" + myRange + ":",
+        defaultDate: pickDate,
+        //yearRange: "c-100:c",
+        yearRange: "-" + myRange + ":",        
         changeMonth: false,
         changeYear: true,
         showButtonPanel: false,
-        /*beforeShowDay: function (date) {
-            return [date.getDay() == 6, ''];
-            }, */
         closeText:'Select',
         currentText: 'This year',
+//        onSelect: function (dateText, inst) {
+        onClose: function (dateText, inst) {
+            var year = $("#ui-datepicker-div .ui-datepicker-year :selected").val();
+            $(this).val($.datepicker.formatDate('yy', new Date(year, 1, 1)));
+            if (year != "") {
+                openYearpickerSelection(year);
+            }},
         /*onClose: function(dateText, inst) {
             var year = $("#ui-datepicker-div .ui-datepicker-year :selected").val();
             $(this).val($.datepicker.formatDate('yy', new Date(year, 1, 1)));
             },*/
         onChangeMonthYear : function () {
             $(this).datepicker( "hide" );
-            },
-        onClose: function (date, datepicker) {
-            if (date != "") {
-                openDatepickerSelection(date);
-            }},
-        
+            }
         }).focus(function () {
             $(".ui-datepicker-month").hide();
             $(".ui-datepicker-calendar").hide();
@@ -187,6 +186,6 @@ function openYearpickerSelection(selectedYear) {
     let myFirst = document.getElementById('ye-timeframeDrop').getAttribute('data-firstYear');
     let myLast = document.getElementById('ye-timeframeDrop').getAttribute('data-lastYear');
     let myGenre = document.getElementById('ye-chartDrop').getAttribute('data-genre');
-    let myHtmlLink = "location.href='yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&year=" + selectedYear + "&genre=" + myGenre + "'";
+    let myHtmlLink = "yearend.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirst + "&last=" + myLast + "&year=" + selectedYear + "&genre=" + myGenre;
     window.open(myHtmlLink, "_self");
 }
