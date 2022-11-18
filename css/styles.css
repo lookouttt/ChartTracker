@@ -106,12 +106,12 @@ h2 {
     overflow-y:auto;   
 }
 
-#fc-table-container, #ye-table-container {
+#fc-table-container, #ye-table-container, #de-table-container {
     height: 750px;
     overflow-y: auto;
 }
 
-.btn-fcChart, .btn-yeChart {
+.btn-fcChart, .btn-yeChart, .btn-deChart {
     background-color: #CEA981;
     padding-left: 30px;
     padding-right: 30px;
@@ -119,6 +119,6 @@ h2 {
     margin-right: 30px;
 }
 
-#fc-datepicker, #ye-datepicker {
+#fc-datepicker, #ye-datepicker, #de-datepicker {
     width: 300px;
 }

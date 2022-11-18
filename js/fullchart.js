@@ -55,7 +55,7 @@ $(function() {
     //initializing the table
     CsvToHtmlTable.init({
         csv_path: 'data/' + pChart + '/' + pChart + '_' + pDate + '.csv', 
-        row_limit: 0,
+        row_limit: 100,
         element: 'fc-table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
@@ -125,6 +125,10 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
         }
         const decadeArray = [];
         myTimeframe = document.getElementById("fc-timeframeDrop");
+        let myChart = document.getElementById('fc-datepicker').getAttribute('data-chart');
+        let myChartName = document.getElementById('fc-datepicker').getAttribute('data-chartName');
+        let myGenre = document.getElementById('fc-chartDrop').getAttribute('data-genre');
+
         const firstDate = first_date.split('-');
         const lastDate = last_date.split('-');
         let myFirstDate = new Date(firstDate[0], firstDate[1]-1, firstDate[2]);
@@ -134,7 +138,7 @@ function makeDecadeDropdownMenu(b_submenu, array_index, first_date, last_date, h
             let item = document.createElement('li');
             let anchor = document.createElement('a');
             anchor.classList.add("dropdown-item");
-            anchor.href = "#";
+            anchor.href = "decade.html?chart=" + myChart + "&cname=" + encodeURIComponent(myChartName) + "&first=" + myFirstDecade + "&last=" + max_decade + "&year=" + i + "&genre=" + myGenre;
             anchor.innerText = i + 's';
             item.appendChild(anchor);
             list.appendChild(item);
