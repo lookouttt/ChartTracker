@@ -1,0 +1,224 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Thunderstruck,AC/DC,1,2021-01-02,2021-12-25,1150,52
+2,The Sound Of Silence,Disturbed,2,2021-01-02,2021-12-25,985,52
+3,Bohemian Rhapsody,Queen,1,2021-01-02,2021-12-25,937,50
+4,Enter Sandman,Metallica,1,2021-01-02,2021-12-25,893,51
+5,We Will Rock You,Queen,2,2021-01-02,2021-12-25,824,50
+6,Back In Black,AC/DC,2,2021-01-02,2021-12-25,738,49
+7,Sweet Child O' Mine,Guns N' Roses,6,2021-01-02,2021-12-11,561,44
+8,Another One Bites The Dust,Queen,4,2021-01-09,2021-12-25,511,47
+9,Livin' On A Prayer,Bon Jovi,1,2021-01-02,2021-12-11,492,46
+10,You Shook Me All Night Long,AC/DC,6,2021-01-02,2021-12-18,482,44
+11,Under Pressure,Queen & David Bowie,5,2021-01-02,2021-12-04,375,33
+12,Nothing Else Matters,Metallica,4,2021-01-02,2021-12-25,302,29
+13,The Thunder Rolls,State Of Mine Featuring No Resolve,1,2021-02-06,2021-12-25,300,19
+14,We Are The Champions,Queen,5,2021-02-13,2021-12-25,295,31
+15,I Wanna Be Your Slave,Maneskin,4,2021-07-10,2021-12-11,290,23
+16,Bring Me To Life,Evanescence Featuring Paul McCoy,2,2021-01-09,2021-11-20,274,29
+17,Nothing Else Matters,Chris Stapleton,1,2021-08-21,2021-12-04,262,14
+18,Don't Stop Me Now,Queen,6,2021-02-20,2021-12-04,204,25
+19,Popular Monster,Falling In Reverse,7,2021-01-02,2021-05-15,186,17
+20,Rockstar,Nickelback,2,2021-01-02,2021-07-31,176,19
+21,Crazy Train,Ozzy Osbourne,12,2021-01-02,2021-11-20,173,28
+22,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,1,2021-01-02,2021-12-25,158,7
+23,It's Been Awhile,Staind,5,2021-07-03,2021-11-20,145,10
+24,Welcome To The Jungle,Guns N' Roses,14,2021-01-09,2021-10-30,141,27
+25,Stairway To Heaven,Led Zeppelin,11,2021-01-02,2021-12-25,140,30
+26,Blue On Black,"Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",9,2021-01-30,2021-05-15,139,13
+27,Kryptonite,3 Doors Down,1,2021-06-19,2021-11-13,121,5
+28,Valhalla Calling,Miracle Of Sound Featuring Peyton Parrish,4,2021-11-20,2021-12-25,115,6
+29,Wizards In Winter,Trans-Siberian Orchestra,2,2021-01-02,2021-12-25,109,5
+30,Astronaut In The Ocean,Our Last Night,2,2021-04-24,2021-06-19,108,8
+31,In The End,Linkin Park,2,2021-01-23,2021-07-10,106,7
+32,Endwalker,Masayoshi Soken & THE PRIMALS,1,2021-11-27,2021-12-25,105,5
+33,Dream On,Aerosmith,7,2021-01-09,2021-12-25,104,13
+34,God's Country,State Of Mine & Drew Jacobs,1,2021-12-04,2021-12-25,98,4
+35,Everlong,Foo Fighters,5,2021-01-30,2021-12-11,92,9
+36,Hunter's Moon,Ghost,1,2021-10-09,2021-11-06,89,5
+37,Blurry,Puddle Of Mudd,1,2021-06-05,2021-11-13,88,4
+38,Pour Some Sugar On Me,Def Leppard,15,2021-01-23,2021-08-07,86,16
+39,Numb,Linkin Park,1,2021-01-23,2021-07-10,85,5
+40,Last Resort (Reloaded),Papa Roach x Jeris Johnson,1,2021-02-06,2021-03-13,85,6
+41,Bodies,Drowning Pool,1,2021-04-10,2021-07-10,84,4
+42,Sharp Dressed Man,ZZ Top,2,2021-07-03,2021-08-21,81,5
+43,Mad Russian's Christmas,Trans-Siberian Orchestra,4,2021-01-02,2021-12-25,81,5
+44,Don't Tell Me How To Live,Kid Rock Featuring Monster Truck,2,2021-12-04,2021-12-25,76,4
+45,Immigrant Song,Led Zeppelin,10,2021-01-16,2021-09-18,73,12
+46,Lightning Crashes,Live,5,2021-06-05,2021-10-16,69,4
+47,O Come All Ye Faithful / O Holy Night,Trans-Siberian Orchestra,3,2021-01-02,2021-12-25,68,4
+48,Carry On Wayward Son,Kansas,14,2021-01-02,2021-08-14,66,12
+49,La Grange,ZZ Top,1,2021-08-07,2021-08-28,64,4
+50,Heavy Is The Crown,Daughtry,1,2021-04-03,2021-06-26,62,3
+51,Far Behind,Candlebox,5,2021-06-05,2021-10-16,60,4
+52,Paralyzer,Finger Eleven,8,2021-04-10,2021-07-10,56,4
+53,Photograph,Nickelback,9,2021-02-13,2021-07-10,54,5
+54,Every Rose Has Its Thorn,Poison,3,2021-04-10,2021-04-24,52,3
+55,Dragula,Rob Zombie,10,2021-03-06,2021-11-13,52,7
+56,Highway To Hell,AC/DC,13,2021-01-02,2021-11-13,50,11
+57,Times Like These,Foo Fighters,1,2021-01-30,2021-02-06,49,2
+58,Conflicted,Kitt Wakeley Featuring Joe Satriani,1,2021-03-13,2021-03-20,48,2
+59,Nothing Else Matters,"Miley Cyrus Featuring WATT, Elton John, Yo-Yo Ma, Robert Trujillo, & Chad Smith",1,2021-09-25,2021-11-06,48,3
+60,We're Not Gonna Take It,Twisted Sister,11,2021-01-16,2021-07-10,46,4
+61,I'll Make A Man Out Of You,Peyton Parrish,1,2021-09-11,2021-11-27,45,3
+62,You're The One,Greta Van Fleet,2,2021-07-31,2021-08-07,45,2
+63,Last Resort,Papa Roach,3,2021-04-10,2021-04-17,45,2
+64,She Talks To Angels,The Black Crowes,3,2021-03-13,2021-05-01,45,2
+65,Surviving The Game,Skillet,3,2021-09-25,2021-10-09,45,3
+66,Isn't Everyone,HEALTH + Nine Inch Nails,1,2021-05-15,2021-05-22,44,2
+67,The Writing On The Wall,Iron Maiden,1,2021-07-24,2021-08-07,43,3
+68,I Want To Break Free,Queen,3,2021-02-20,2021-03-06,43,3
+69,Self Destructor,Chevelle,1,2021-01-23,2021-02-06,42,3
+70,Back From The Dead,Halestorm,5,2021-08-28,2021-09-04,42,2
+71,Somebody To Love,Queen,13,2021-02-20,2021-09-18,42,5
+72,Photograph,Def Leppard,5,2021-04-10,2021-04-17,41,2
+73,To The Hellfire,Lorna Shore,4,2021-06-26,2021-08-28,40,2
+74,Blaze Of Glory,Jon Bon Jovi,4,2021-09-25,2021-10-02,40,2
+75,Down With The Sickness,Disturbed,9,2021-02-27,2021-07-10,40,3
+76,Born To Be Wild,Steppenwolf,10,2021-07-03,2021-11-13,40,4
+77,Distance,Mammoth WVH,1,2021-02-27,2021-03-06,39,2
+78,Tush,ZZ Top,5,2021-08-07,2021-08-14,39,2
+79,Zombie,Bad Wolves,18,2021-01-09,2021-05-22,39,10
+80,Sinners And Saints,Kitt Wakeley,1,2021-05-01,2021-05-08,38,2
+81,With Arms Wide Open,Creed,7,2021-07-03,2021-07-10,38,2
+82,You Give Love A Bad Name,Bon Jovi,7,2021-04-10,2021-04-17,38,2
+83,Gimme All Your Lovin',ZZ Top,6,2021-08-07,2021-08-14,37,2
+84,Closer,Nine Inch Nails,6,2021-06-05,2021-06-12,37,2
+85,Silent Lucidity,Queensryche,6,2021-10-02,2021-10-09,37,2
+86,So Called Life,Three Days Grace,7,2021-12-11,2021-12-18,37,2
+87,School's Out,Alice Cooper,11,2021-06-05,2021-06-26,37,4
+88,My Immortal,Evanescence,15,2021-09-11,2021-11-06,36,5
+89,How You Remind Me,Nickelback,10,2021-04-10,2021-07-03,35,3
+90,It's My Life,Bon Jovi,8,2021-07-03,2021-07-10,34,2
+91,Bad Company,Five Finger Death Punch,14,2021-07-31,2021-09-04,34,5
+92,The Chapeltown Rag,Slipknot,1,2021-11-20,2021-11-27,33,2
+93,Easy On Me,No Resolve,2,2021-11-27,2021-12-18,33,2
+94,Dad Vibes,Limp Bizkit,4,2021-10-09,2021-10-16,33,2
+95,Shine,Collective Soul,4,2021-11-06,2021-11-13,32,2
+96,Black Hole Sun,Soundgarden,11,2021-04-24,2021-07-10,32,3
+97,Here I Go Again,Whitesnake,3,2021-05-22,2021-05-29,30,2
+98,Learn To Fly,Foo Fighters,7,2021-01-30,2021-02-20,26,2
+99,Kill The Noise,Papa Roach,9,2021-09-25,2021-12-25,26,2
+100,Interstate Love Song,Stone Temple Pilots,12,2021-06-05,2021-06-12,26,2
+101,The Hero,Miles Guo,1,2021-08-21,2021-08-21,25,1
+102,I'm Not A Vampire (Revamped),Falling In Reverse,1,2021-02-27,2021-02-27,25,1
+103,Timebomb,Motionless In White,1,2021-09-04,2021-09-04,25,1
+104,Circle With Me,Spiritbox,1,2021-05-15,2021-05-15,25,1
+105,Dead Inside,Nita Strauss & David Draiman,1,2021-10-30,2021-10-30,25,1
+106,Forgive Me,Kitt Wakeley Featuring Joe Satriani,1,2021-05-29,2021-05-29,25,1
+107,Constance,Spiritbox,1,2021-08-07,2021-08-07,25,1
+108,Hard Skool,Guns N' Roses,1,2021-10-09,2021-10-09,25,1
+109,DiE4u,Bring Me The Horizon,1,2021-10-02,2021-10-02,25,1
+110,Waiting On A War,Foo Fighters,8,2021-01-30,2021-02-27,25,3
+111,Start The Healing,Korn,9,2021-11-20,2021-11-27,25,2
+112,Bad Girlfriend,Theory Of A Deadman,13,2021-04-10,2021-04-17,25,2
+113,No Son Of Mine,Foo Fighters,2,2021-01-16,2021-01-16,24,1
+114,Hip To Be Scared,Ice Nine Kills Featuring Jacoby Shaddix,2,2021-07-24,2021-07-24,24,1
+115,ABSURD,Guns N' Roses,2,2021-08-21,2021-08-21,24,1
+116,...And I Return To Nothingness,Lorna Shore,2,2021-08-28,2021-08-28,24,1
+117,Blood & Water,Memphis May Fire,2,2021-06-19,2021-06-19,24,1
+118,Plush,Stone Temple Pilots,13,2021-06-05,2021-06-12,24,2
+119,What Hurts The Most,State Of Mine,14,2021-11-20,2021-12-04,24,2
+120,Cult Of Personality,Living Colour,3,2021-09-04,2021-09-04,23,1
+121,Of The Abyss,Lorna Shore,3,2021-08-28,2021-08-28,23,1
+122,Pump It,Eskimo Callboy,3,2021-12-18,2021-12-18,23,1
+123,Funeral Derangements,Ice Nine Kills,3,2021-10-23,2021-10-23,23,1
+124,Set Fire To The Rain,No Resolve,3,2021-11-27,2021-11-27,23,1
+125,The Blade,SION,4,2021-03-27,2021-03-27,22,1
+126,Defence Of Moscow,Sabaton,4,2021-05-22,2021-05-22,22,1
+127,Before You Go,No Resolve & Katey x Krista,4,2021-11-27,2021-11-27,22,1
+128,Enter Sandman,Ghost,5,2021-09-25,2021-09-25,21,1
+129,All About Tha (BOOM!) {Adam Cole Theme],Mikey Rukus,5,2021-10-09,2021-10-09,21,1
+130,Jump,Van Halen,12,2021-07-03,2021-07-10,21,2
+131,The Unforgiven,Metallica,14,2021-08-28,2021-09-25,21,3
+132,Fat Bottomed Girls,Queen,16,2021-02-20,2021-07-24,21,3
+133,Kickstart My Heart,Motley Crue,17,2021-01-16,2021-06-26,21,3
+134,Steel Commanders,Sabaton,6,2021-10-02,2021-10-02,20,1
+135,Rock You Like A Hurricane,Scorpions,16,2021-07-03,2021-07-10,20,2
+136,Remember When,Chevelle,7,2021-03-06,2021-03-06,19,1
+137,Standing In The Storm,Skillet,7,2021-11-27,2021-11-27,19,1
+138,Peach,Chevelle,7,2021-02-13,2021-02-13,19,1
+139,Sane,Fozzy,7,2021-06-12,2021-06-12,19,1
+140,Going Under,Evanescence,14,2021-04-10,2021-04-17,19,2
+141,In The Court Of The Dragon,Trivium,8,2021-07-24,2021-07-24,18,1
+142,I've Been Everywhere,L.A. Rats,8,2021-06-05,2021-06-05,18,1
+143,I Wanna Rock,Twisted Sister,8,2021-01-16,2021-01-16,18,1
+144,You’re To Blame,Mammoth WVH,8,2021-02-27,2021-02-27,18,1
+145,Tom Sawyer,Rush,17,2021-04-10,2021-04-17,18,2
+146,Darkness Settles In,Five Finger Death Punch,9,2021-05-22,2021-05-22,17,1
+147,Wait A Minute My Girl,Volbeat,9,2021-06-19,2021-06-19,17,1
+148,Shotgun Blues,Volbeat,13,2021-10-09,2021-12-25,17,3
+149,Infected,Starset,10,2021-05-08,2021-05-08,16,1
+150,Devastation,Beartooth,10,2021-04-03,2021-04-03,16,1
+151,Highway To Hell,Tom Morello Featuring Bruce Springsteen & Eddie Vedder,11,2021-08-14,2021-08-14,15,1
+152,Mississippi Queen,Mountain,11,2021-01-02,2021-01-02,15,1
+153,Enter Sandman,Alessia Cara & The Warning,11,2021-09-25,2021-09-25,15,1
+154,Hard To Handle,The Black Crowes,12,2021-03-13,2021-03-13,14,1
+155,Roots Below,As I Lay Dying,12,2021-10-09,2021-10-09,14,1
+156,Holier Than Thou,Corey Taylor,12,2021-09-25,2021-09-25,14,1
+157,Christmas Truce,Sabaton,12,2021-11-13,2021-11-13,14,1
+158,Stay,No Resolve,12,2021-09-11,2021-09-11,14,1
+159,High Horse,Wage War,12,2021-08-21,2021-08-21,14,1
+160,Enter Sandman,Weezer,13,2021-09-25,2021-09-25,13,1
+161,Anchor,Of Mice & Men,13,2021-03-13,2021-03-13,13,1
+162,Better Without You,Evanescence,13,2021-03-20,2021-03-20,13,1
+163,The Diary Of Jane,Breaking Benjamin,18,2021-04-10,2021-04-17,13,2
+164,Break Stuff,Limp Bizkit,19,2021-08-14,2021-08-21,13,2
+165,Awaken Love,Lacey Sturm,14,2021-12-25,2021-12-25,12,1
+166,MAMMAMIA,Maneskin,14,2021-12-11,2021-12-11,12,1
+167,A Little Bit Off,Five Finger Death Punch,20,2021-01-09,2021-01-16,12,2
+168,My Heart Will Go On,Future Sunsets,15,2021-12-25,2021-12-25,11,1
+169,"Nothing Else Matters [Jungle Cruise Version, Pt. 2]",James Newton Howard Featuring Metallica,15,2021-08-14,2021-08-14,11,1
+170,Baba Yaga,Slaughter To Prevail,15,2021-06-05,2021-06-05,11,1
+171,We Got The Moves,Eskimo Callboy,15,2021-09-18,2021-09-18,11,1
+172,I Remember You,Skid Row,18,2021-07-03,2021-07-10,11,2
+173,Rock And Roll All Nite,KISS,19,2021-04-10,2021-04-17,11,2
+174,The Eternal Struggles Of The Howling Man,Rob Zombie,16,2021-02-13,2021-02-13,10,1
+175,Don't Back Down,Mammoth WVH,16,2021-04-10,2021-04-10,10,1
+176,Baba O'riley,The Who,19,2021-07-03,2021-07-10,10,2
+177,Christmas Canon Rock,Trans-Siberian Orchestra,19,2021-01-02,2021-12-25,10,2
+178,My Sacrifice,Creed,17,2021-04-24,2021-04-24,9,1
+179,Crazy Little Thing Called Love,Queen,17,2021-07-17,2021-07-17,9,1
+180,November Rain,Guns N' Roses,17,2021-09-04,2021-09-04,9,1
+181,Hunger Strike,Temple Of The Dog,17,2021-10-16,2021-10-16,9,1
+182,Stranglehold,Ted Nugent,20,2021-12-11,2021-12-18,9,2
+183,Alone Again,Asking Alexandria,18,2021-09-04,2021-09-04,8,1
+184,Feast Of Fire,Trivium,18,2021-08-28,2021-08-28,8,1
+185,The River Is Rising,Slash Featuring Myles Kennedy And The Conspirators,18,2021-11-06,2021-11-06,8,1
+186,Blurry,HARDY,18,2021-06-05,2021-06-05,8,1
+187,Can You Feel My Heart,Bring Me The Horizon,19,2021-01-23,2021-02-06,8,2
+188,Somebody,Memphis May Fire,19,2021-10-16,2021-10-16,7,1
+189,All Hail Friday Night Tights,Dan Vasc Featuring Gabriel Belozi,19,2021-09-11,2021-09-11,7,1
+190,Swerve,Papa Roach Featuring Jason Aalon Butler & Sueco,19,2021-08-21,2021-08-21,7,1
+191,Kingdom Come,Sabaton,20,2021-07-31,2021-07-31,6,1
+192,Star Spangled Banner,Jimi Hendrix,20,2021-07-17,2021-07-17,6,1
+193,Defying Gravity,Matt Copley,20,2021-10-02,2021-10-02,6,1
+194,Timeless,Of Mice & Men,21,2021-03-13,2021-03-13,5,1
+195,Become The Firestorm,Machine Head,21,2021-06-26,2021-06-26,5,1
+196,Wolf Totem,The Hu Featuring Jacoby Shaddix,21,2021-01-02,2021-01-02,5,1
+197,Glycerine,Bush,21,2021-12-18,2021-12-18,5,1
+198,Iron Man,Black Sabbath,22,2021-07-03,2021-07-10,5,2
+199,Hunger Strike,Daughtry Featuring Lajon Witherspooon,22,2021-06-12,2021-06-12,4,1
+200,Born For One Thing,GOJIRA,22,2021-03-06,2021-03-06,4,1
+201,"You're A Mean One, Mr. Grinch",Small Town Titans,22,2021-01-02,2021-01-02,4,1
+202,So Far Away,Staind,22,2021-05-08,2021-05-08,4,1
+203,Radio Ga Ga,Queen,24,2021-02-20,2021-05-29,4,2
+204,One,Metallica,23,2021-08-28,2021-08-28,3,1
+205,Payback's A Bitch,Bodom After Midnight,23,2021-05-08,2021-05-08,3,1
+206,State Of Me,Lacey Sturm,23,2021-02-27,2021-02-27,3,1
+207,Levee,Of Mice & Men,23,2021-06-12,2021-06-12,3,1
+208,My Own Worst Enemy,Lit,23,2021-11-27,2021-11-27,3,1
+209,Making A Fire,Foo Fighters,23,2021-02-20,2021-02-20,3,1
+210,Cryin',Aerosmith,23,2021-04-10,2021-04-10,3,1
+211,Wanted Dead Or Alive,Bon Jovi,24,2021-06-05,2021-06-05,2,1
+212,Don't Tread On Me,Volbeat,24,2021-09-25,2021-09-25,2,1
+213,Is This Love,Whitesnake,24,2021-05-22,2021-05-22,2,1
+214,Where Dead Angels Lie,Bodom After Midnight,24,2021-05-08,2021-05-08,2,1
+215,Paranoid,Black Sabbath,24,2021-07-03,2021-07-03,2,1
+216,Heat Above,Greta Van Fleet,24,2021-09-04,2021-09-04,2,1
+217,Burn It To The Ground,Nickelback,24,2021-04-10,2021-04-10,2,1
+218,The Holiday Spirit Carries On,Dream Theater,25,2021-01-09,2021-01-09,1,1
+219,Arrows In Words From The Sky,Machine Head,25,2021-06-26,2021-06-26,1,1
+220,Wherever I May Roam,Metallica,25,2021-09-25,2021-09-25,1,1
+221,And So It Went,The Pretty Reckless Featuring Tom Morello,25,2021-02-27,2021-02-27,1,1
+222,Hell's Bells,AC/DC,25,2021-11-13,2021-11-13,1,1
+223,The Royal Guard,Sabaton,25,2021-04-24,2021-04-24,1,1

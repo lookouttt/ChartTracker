@@ -1,0 +1,380 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Magic,The Cars,1,1984-03-31,1984-08-11,1822,20
+2,Drive,The Cars,3,1984-06-02,1984-10-20,1781,21
+3,Cover Me,Bruce Springsteen,2,1984-06-23,1984-11-10,1665,21
+4,Dancing In The Dark,Bruce Springsteen,1,1984-05-26,1984-09-15,1616,17
+5,JUMP,Van Halen,1,1984-01-14,1984-04-28,1591,13
+6,The Warrior,Scandal Featuring Patty Smyth,1,1984-06-23,1984-10-20,1495,18
+7,Missing You,John Waite,1,1984-06-23,1984-10-20,1489,18
+8,PANAMA,Van Halen,2,1984-01-21,1984-08-18,1375,31
+9,No Way Out,Jefferson Starship,1,1984-05-12,1984-08-11,1368,14
+10,(Pride) In The Name Of Love,U2,2,1984-09-15,1984-12-22,1345,15
+11,You Might Think,The Cars,1,1984-03-10,1984-06-09,1262,14
+12,Rock Me Tonite,Billy Squier,1,1984-07-07,1984-10-13,1261,15
+13,I Can't Hold Back,Survivor,1,1984-09-15,1984-12-22,1249,15
+14,I'LL WAIT,Van Halen,2,1984-02-04,1984-06-23,1236,21
+15,Legs,ZZ Top,3,1984-04-14,1984-08-04,1226,17
+16,Blue Jean,David Bowie,2,1984-09-15,1984-12-01,1223,12
+17,Are We Ourselves?,The Fixx,1,1984-08-18,1984-11-10,1167,13
+18,"Oh, Sherrie",Steve Perry,1,1984-04-07,1984-06-30,1137,13
+19,MIDDLE OF THE ROAD,Pretenders,2,1984-01-07,1984-03-31,1114,13
+20,LEAVE IT,Yes,3,1984-02-11,1984-05-26,1111,16
+21,Deeper and Deeper,The Fixx,3,1984-05-12,1984-08-11,1110,14
+22,"Run, Runaway",Slade,1,1984-03-31,1984-07-21,1102,17
+23,Rock You Like A Hurricane,Scorpions,5,1984-03-03,1984-07-07,1076,19
+24,On The Dark Side,John Cafferty & The Beaver Brown Band,1,1984-09-01,1984-11-10,1068,11
+25,Round And Round,Ratt,4,1984-04-28,1984-09-15,1046,21
+26,Go Insane,Lindsey Buckingham,4,1984-07-28,1984-10-27,1041,14
+27,NOBODY TOLD ME,John Lennon,2,1984-01-21,1984-03-24,1032,10
+28,Back Where You Belong,Thirty Eight Special,4,1984-01-07,1984-04-07,1026,14
+29,Sister Christian,Night Ranger,2,1984-03-31,1984-06-30,995,14
+30,A Fine Fine Day,Tony Carey,1,1984-03-10,1984-05-26,991,12
+31,Run To You,Bryan Adams,1,1984-11-03,1984-12-22,985,8
+32,The Heart Of Rock & Roll,Huey Lewis & The News,5,1984-03-17,1984-07-21,969,19
+33,Distant Early Warning,Rush,3,1984-04-28,1984-07-28,926,14
+34,RUNNER,Manfred Mann's Earth Band,3,1984-02-04,1984-04-28,925,13
+35,Against All Odds (Take A Look At Me Now),Phil Collins,1,1984-02-25,1984-05-26,902,14
+36,GOT A HOLD ON ME,Christine McVie,1,1984-02-04,1984-04-14,859,11
+37,Infatuation,Rod Stewart,5,1984-05-26,1984-09-01,846,15
+38,If This Is It,Huey Lewis & The News,3,1984-07-28,1984-10-13,833,12
+39,GIRLS,Dwight Twilley,2,1984-02-11,1984-05-12,827,14
+40,Two Sides Of Love,Sammy Hagar,5,1984-07-14,1984-10-06,826,13
+41,Footloose,Kenny Loggins,2,1984-02-04,1984-05-05,825,14
+42,High On Emotion,Chris de Burgh,3,1984-06-02,1984-09-01,819,14
+43,Valotte,Julian Lennon,2,1984-10-20,1984-12-22,804,10
+44,Eyes Without A Face,Billy Idol,5,1984-05-12,1984-08-04,791,13
+45,The Boys Of Summer,Don Henley,1,1984-11-10,1984-12-22,788,7
+46,We Belong,Pat Benatar,3,1984-10-27,1984-12-22,783,9
+47,Understanding,Bob Seger,5,1984-10-13,1984-12-22,781,11
+48,Layin' It On The Line,Jefferson Starship,6,1984-06-16,1984-10-06,775,17
+49,We're Not Gonna Take It,Twisted Sister,7,1984-06-16,1984-10-13,775,18
+50,When You Close Your Eyes,Night Ranger,7,1984-07-07,1984-10-13,770,15
+51,THAT's ALL,Genesis,2,1984-01-07,1984-02-25,760,8
+52,NEW MOON ON MONDAY,Duran Duran,4,1984-01-21,1984-03-24,740,10
+53,SHE WAS HOT,The Rolling Stones,4,1984-01-07,1984-03-24,738,12
+54,New Girl Now,Honeymoon Suite,7,1984-07-28,1984-11-03,731,15
+55,PINK HOUSES,John Mellencamp,3,1984-01-07,1984-03-03,707,9
+56,IF I'D BEEN THE ONE,Thirty Eight Special,1,1984-01-07,1984-02-18,687,7
+57,SHOW ME,Pretenders,8,1984-02-18,1984-05-26,677,15
+58,RUNAWAY,Bon Jovi,5,1984-02-11,1984-05-05,639,13
+59,Had A Dream,Rodger Hodgson,5,1984-11-03,1984-12-22,612,8
+60,Here Comes The Rain Again,Eurythmics,8,1984-01-21,1984-04-28,608,15
+61,I Can't Drive 55,Sammy Hagar,9,1984-08-11,1984-11-24,606,16
+62,Tears,John Waite,8,1984-08-25,1984-12-01,601,15
+63,Lights Out,Peter Wolf,6,1984-07-14,1984-09-22,597,11
+64,Changes,Yes,6,1984-01-07,1984-03-24,582,12
+65,It Can Happen,Yes,5,1984-01-07,1984-03-24,580,12
+66,Time The Avenger,Pretenders,6,1984-02-04,1984-05-05,578,14
+67,Stay The Night,Chicago,7,1984-05-19,1984-08-04,576,12
+68,Girls With Guns,Tommy Shaw,6,1984-09-29,1984-12-01,551,10
+69,Flesh For Fantasy,Billy Idol,8,1984-08-18,1984-10-27,537,11
+70,All Night Long,Billy Squier,10,1984-08-11,1984-11-03,526,13
+71,I WANT A NEW DRUG,Huey Lewis & The News,10,1984-01-07,1984-03-24,512,12
+72,Do It Again,The Kinks,4,1984-11-17,1984-12-22,497,6
+73,Owner Of A Lonely Heart,Yes,4,1984-01-07,1984-03-24,496,12
+74,You Can't Get What You Want (Till You Know What You Want),Joe Jackson,12,1984-03-31,1984-06-30,494,14
+75,Ask The Lonely,Journey,3,1984-01-07,1984-02-18,492,7
+76,She's Mine,Steve Perry,15,1984-05-12,1984-08-25,489,16
+77,So You Ran,Orion The Hunter,7,1984-04-21,1984-07-07,480,12
+78,The Language Of Love,Dan Fogelberg,8,1984-02-25,1984-04-28,480,10
+79,Midnight Maniac,Krokus,10,1984-08-18,1984-11-03,459,12
+80,I Do'Wanna Know,REO Speedwagon,5,1984-10-27,1984-12-22,458,9
+81,Modern Day Delilah,Van Stephenson,9,1984-05-12,1984-07-21,452,11
+82,Slow An' Easy,Whitesnake,17,1984-06-02,1984-09-15,449,16
+83,Hold Me Now,Thompson Twins,9,1984-03-10,1984-05-12,436,10
+84,Sunglasses At Night,Corey Hart,15,1984-06-23,1984-09-15,428,13
+85,Voices,Russ Ballard,15,1984-05-12,1984-08-04,428,13
+86,Looks That Kill,Motley Crue,12,1984-01-07,1984-03-24,426,12
+87,Born In The USA,Bruce Springsteen,8,1984-06-23,1984-12-22,419,13
+88,Little Lady,Duke Jupiter,12,1984-04-28,1984-07-21,418,13
+89,Murder,David Gilmour,13,1984-03-31,1984-06-16,411,12
+90,Rockin' At Midnight,The Honeydrippers,8,1984-10-13,1984-12-22,410,11
+91,Time After Time,Cyndi Lauper,10,1984-01-07,1984-06-30,410,15
+92,Hello Again,The Cars,22,1984-03-31,1984-12-22,406,21
+93,Heaven,Bryan Adams,9,1984-01-28,1984-03-24,404,9
+94,Prime Time,The Alan Parsons Project,3,1984-03-31,1984-05-12,401,7
+95,What Is Love,Howard Jones,20,1984-03-31,1984-06-30,387,14
+96,Back Where I Started,Box Of Frogs,14,1984-06-30,1984-09-22,384,13
+97,The Authority Song,John Cougar Mellencamp,15,1984-02-18,1984-06-02,382,11
+98,"The More You Live,The More You Love",A Flock Of Seagulls,10,1984-08-04,1984-10-06,377,10
+99,UNION OF THE SNAKE,Duran Duran,2,1984-01-07,1984-02-04,370,5
+100,Whisper To A Scream (Birds Fly),Icicle Works,18,1984-03-31,1984-06-23,369,12
+101,Teacher Teacher,Thirty Eight Special,4,1984-11-03,1984-12-01,366,5
+102,Stranger,Stephen Stills,12,1984-08-11,1984-10-13,365,10
+103,Doctor! Doctor!,Thompson Twins,12,1984-05-05,1984-07-28,365,13
+104,Let's Go Crazy,Prince And The Revolution,19,1984-08-11,1984-10-20,364,11
+105,TALKING IN YOUR SLEEP,The Romantics,2,1984-01-07,1984-02-04,357,5
+106,Walking In My Sleep,Roger Daltrey,4,1984-03-03,1984-04-14,356,7
+107,Big City Nights,Scorpions,14,1984-04-14,1984-06-16,355,10
+108,Dance Hall Days,Wang Chung,24,1984-03-17,1984-08-04,353,15
+109,No Surrender,Bruce Springsteen,29,1984-06-16,1984-09-29,349,16
+110,"Young Thing, Wild Dreams (Rock Me)",Red Rider,13,1984-05-19,1984-07-28,348,11
+111,Reunited,Greg Kihn Band,9,1984-05-19,1984-07-21,346,10
+112,The Last In Line,Dio,10,1984-08-04,1984-09-29,340,9
+113,A Girl In Trouble (Is A Temporary Thing),Romeo Void,17,1984-08-11,1984-10-27,339,12
+114,Heaven's on Fire,KISS,11,1984-09-22,1984-12-01,337,11
+115,Love Somebody,Rick Springfield,13,1984-03-31,1984-05-19,337,8
+116,Girls Just Want To Have Fun,Cyndi Lauper,16,1984-01-21,1984-03-24,335,10
+117,REBEL YELL,Billy Idol,9,1984-01-07,1984-03-03,332,9
+118,Teacher Teacher,38 Special,5,1984-09-29,1984-10-27,327,5
+119,Beat Of A Heart,Scandal Featuring Patty Smyth,10,1984-09-15,1984-11-10,323,9
+120,Cage Of Freedom,Jon Anderson,16,1984-08-18,1984-10-13,319,9
+121,JUST A JOB TO DO,Genesis,11,1984-01-07,1984-03-03,314,9
+122,5:01AM (The Pros And Cons Of Hitch Hiking),Roger Waters,17,1984-05-05,1984-07-07,311,10
+123,"Mama, Weer All Crazee Now",Quiet Riot,13,1984-06-16,1984-08-25,305,11
+124,Too Young To Fall In Love,Motley Crue,17,1984-05-12,1984-07-28,296,12
+125,I Want To Know What Love Is,Foreigner,3,1984-12-08,1984-12-22,293,3
+126,Red Sector A,Rush,21,1984-05-12,1984-07-21,292,11
+127,Stranger In Town,Toto,7,1984-11-03,1984-12-22,288,8
+128,Restless,Elton John,16,1984-07-28,1984-09-15,286,8
+129,Don't Answer Me,The Alan Parsons Project,15,1984-03-31,1984-05-19,285,8
+130,The Ghost In You,Psychedelic Furs,25,1984-05-05,1984-07-21,285,12
+131,Call to the heart,Giuffria,6,1984-11-17,1984-12-22,280,6
+132,Tender Years,John Cafferty & The Beaver Brown Band,10,1984-11-03,1984-12-22,280,8
+133,Violet And Blue,Stevie Nicks,19,1984-03-31,1984-05-19,280,8
+134,YOU DON't BELIEVE,The Alan Parsons Project,15,1984-01-07,1984-03-24,279,12
+135,No More Words,Berlin,25,1984-03-31,1984-06-09,278,11
+136,It's Not The Night,The Cars,31,1984-06-09,1984-10-13,278,16
+137,I Love You Suzanne,Lou Reed,28,1984-08-04,1984-10-13,269,11
+138,99 Luftballons,Nena,23,1984-01-28,1984-03-24,265,9
+139,Satisfied Man,Molly Hatchet,13,1984-10-13,1984-12-22,264,11
+140,THIS COULD BE THE RIGHT ONE,April Wine,23,1984-02-18,1984-04-21,264,10
+141,IF LOVE SHOULD GO,Streets,6,1984-01-07,1984-02-04,263,5
+142,Out Of Touch,Daryl Hall John Oates,18,1984-10-06,1984-12-15,260,11
+143,The Mask,Roger Glover,20,1984-06-02,1984-07-21,258,8
+144,WALKING ON A THIN LINE,Huey Lewis & The News,16,1984-02-18,1984-12-15,256,15
+145,Bark At The Moon,Ozzy Osbourne,12,1984-01-07,1984-03-03,255,9
+146,When Doves Cry,Prince,31,1984-06-16,1984-09-08,253,13
+147,Sea Of Love,The Honeydrippers,11,1984-10-27,1984-12-22,249,9
+148,Body Electric,Rush,23,1984-05-05,1984-08-11,249,13
+149,Sad Songs (say So Much),Elton John,24,1984-06-16,1984-08-11,249,9
+150,Smuggler's Blues,Glenn Frey,20,1984-07-28,1984-09-15,248,8
+151,TAKE ME AWAY,Blue Oyster Cult,13,1984-01-07,1984-03-03,246,9
+152,The First Day Of Summer,Tony Carey,21,1984-06-16,1984-08-04,239,8
+153,Bears,Zebra,15,1984-09-22,1984-11-24,238,10
+154,WRAPPED AROUND YOUR FINGER,The Police,13,1984-01-21,1984-03-10,236,8
+155,Adult Education,Daryl Hall John Oates,23,1984-02-18,1984-04-21,235,9
+156,(You Can Still) Rock In America,Night Ranger,21,1984-01-07,1984-03-24,231,12
+157,Into The Fire,Dokken,21,1984-09-22,1984-12-01,229,11
+158,Love Will Show Us How,Christine McVie,24,1984-04-07,1984-06-16,229,10
+159,It's My Life,Talk Talk,23,1984-04-14,1984-06-09,225,9
+160,"Naughty,Naughty",John Parr,12,1984-11-10,1984-12-22,224,7
+161,Mystery,Dio,20,1984-09-01,1984-10-27,224,9
+162,UNDERCOVER OF THE NIGHT,The Rolling Stones,8,1984-01-07,1984-02-11,223,6
+163,Strung Out,Steve Perry,17,1984-09-22,1984-11-10,223,8
+164,Radio Ga Ga,Queen,22,1984-02-25,1984-04-14,218,8
+165,Hot For Teacher,Van Halen,24,1984-01-28,1984-12-22,217,13
+166,No More Lonely Nights,Paul McCartney,16,1984-10-20,1984-12-15,216,9
+167,IT's GONNA GET BETTER,Genesis,30,1984-01-07,1984-03-24,216,12
+168,Purple Rain,Prince And The Revolution,18,1984-09-22,1984-11-10,212,8
+169,COLD SHOT,Stevie Ray Vaughan And Double Trouble,29,1984-07-28,1984-09-15,210,8
+170,Perfect Strangers,Deep Purple,12,1984-11-17,1984-12-22,207,6
+171,I Need You Tonight,Peter Wolf,22,1984-10-20,1984-12-22,207,10
+172,Remember The Nights,The Motels,12,1984-01-21,1984-02-18,206,5
+173,Something About You,Dave Edmunds,16,1984-09-15,1984-10-27,206,7
+174,ILLEGAL ALIEN,Genesis,21,1984-01-07,1984-03-24,205,7
+175,Back For More,Ratt,27,1984-07-28,1984-09-29,203,10
+176,It's Only Love,Bryan Adams,7,1984-11-24,1984-12-22,202,5
+177,Pink Cadillac,Bruce Springsteen,27,1984-06-02,1984-09-08,196,14
+178,Top Of The Rock,"Hagar, Schon, Aaronson, Shrieve",15,1984-03-31,1984-05-05,194,6
+179,Who Wears These Shoes?,Elton John,18,1984-09-15,1984-10-27,194,7
+180,She Bop,Cyndi Lauper,27,1984-08-04,1984-09-29,194,9
+181,Love Ain't No Stranger,Whitesnake,33,1984-08-25,1984-10-20,193,9
+182,Rock You,Helix,32,1984-08-04,1984-09-22,191,8
+183,Crazy,Peter Wolf,26,1984-08-18,1984-10-06,190,8
+184,Los Desaparecidos (The Disappeared Ones),Little Steven And The Disciples Of Soul,27,1984-06-09,1984-07-28,190,8
+185,Tell Me,Fastway,27,1984-07-07,1984-09-01,189,9
+186,Hands Tied,Scandal Featuring Patty Smyth,21,1984-11-03,1984-12-22,188,8
+187,Baby Come Back,Billy Rankin,22,1984-03-31,1984-05-05,185,6
+188,Don't Stop Runnin',Y&T,33,1984-08-11,1984-10-13,184,10
+189,Voodoo Chile (Slight Return),Stevie Ray Vaughan And Double Trouble,26,1984-06-09,1984-07-28,180,8
+190,Some Guys Have All The Luck,Rod Stewart,27,1984-09-15,1984-11-03,179,8
+191,Still Loving You,Scorpions,36,1984-06-30,1984-09-08,179,11
+192,Heaven (Must Be There),Eurogliders,21,1984-11-03,1984-12-22,177,8
+193,THE POLITICS OF DANCING,Re-flex,19,1984-01-14,1984-02-25,176,7
+194,SHOOTING SHARK,Blue Oyster Cult,22,1984-01-07,1984-02-18,175,7
+195,Desert Moon,Dennis DeYoung,31,1984-09-08,1984-10-27,170,8
+196,Satisfy Me,Billy Satellite,30,1984-06-23,1984-08-25,168,10
+197,Sign Of The Times,Quiet Riot,28,1984-08-04,1984-09-15,166,7
+198,All Lovers Are Deranged,David Gilmour,10,1984-03-17,1984-04-21,164,6
+199,Crumblin' Down,John Cougar Mellencamp,23,1984-01-07,1984-02-18,163,7
+200,SEND ME AN ANGEL,Real Life,18,1984-01-14,1984-03-03,161,8
+201,2 Minutes To Midnight,Iron Maiden,25,1984-09-22,1984-10-27,151,6
+202,BIG CRASH,Eddie Money,17,1984-01-07,1984-02-04,147,5
+203,CUT LOOSE,Paul Rodgers,15,1984-01-07,1984-01-28,145,4
+204,One In A Million,The Romantics,22,1984-03-31,1984-05-05,144,6
+205,"My, Oh My",Slade,32,1984-02-25,1984-05-05,144,10
+206,Head Over Heels,Go-Go's,33,1984-03-31,1984-05-19,144,7
+207,Easy Lover,Philip Bailey With Phil Collins,9,1984-12-01,1984-12-22,140,4
+208,BALLS TO THE WALL,Accept,21,1984-02-25,1984-03-24,140,5
+209,Romancing The Stone,Eddy Grant,39,1984-05-26,1984-07-21,137,9
+210,THE SIGN OF FIRE,The Fixx,20,1984-01-21,1984-02-11,135,4
+211,TOO TOUGH,The Rolling Stones,21,1984-01-07,1984-02-04,135,5
+212,Better Be Good To Me,Tina Turner,32,1984-09-22,1984-11-17,135,9
+213,HOME BY THE SEA,Genesis,24,1984-02-04,1984-04-07,132,8
+214,Faraway Eyes,Adrenalin,28,1984-07-28,1984-08-25,130,5
+215,Two Tribes,Frankie Goes To Hollywood,27,1984-10-27,1984-12-22,126,8
+216,When The Lady Smiles,Golden Earring,9,1984-03-31,1984-04-07,122,2
+217,DON't WANNA LET YOU GO,Quiet Riot,22,1984-02-11,1984-03-24,121,7
+218,The Reflex,Duran Duran,35,1984-05-05,1984-06-16,121,7
+219,I'm Movin On,Eddie Money,25,1984-09-29,1984-11-10,119,7
+220,MAJOR TOM (COMING HOME),Peter Schilling,21,1984-01-07,1984-01-28,118,4
+221,Our Love,Krokus,24,1984-11-17,1984-12-22,118,6
+222,Only When You Leave,Spandau Ballet,40,1984-08-04,1984-10-06,118,10
+223,South Central Rain (I'm Sorry),R.E.M.,43,1984-05-26,1984-08-04,117,11
+224,Give,Misiing Persons,29,1984-03-31,1984-04-28,116,5
+225,Whiter Shade Of Pale,"Hagar, Schon, Aaronson, Shrieve",30,1984-04-28,1984-06-02,116,6
+226,SYNCHRONICITY II,The Police,18,1984-01-07,1984-02-11,115,6
+227,Knocking At Your Back Door,Deep Purple,19,1984-11-17,1984-12-22,114,6
+228,Concealed Weapons,The J. Geils Band,26,1984-11-03,1984-12-22,113,8
+229,Don't Say Goodnight,Jon Butcher Axis,24,1984-03-10,1984-04-07,112,5
+230,I GUESS THAT's WHY THEY CALL IT THE BLUES,Elton John,22,1984-01-28,1984-02-11,108,3
+231,PLAY GUITAR,John Mellencamp,28,1984-02-04,1984-03-10,108,5
+232,Somebody's Watching Me,Rockwell,31,1984-02-25,1984-03-24,104,5
+233,Sunshine In The Shade,The Fixx,37,1984-09-08,1984-12-08,102,13
+234,Spellbound,Triumph,13,1984-12-01,1984-12-22,101,4
+235,I'm STEPPIN' OUT,John Lennon,34,1984-02-11,1984-03-24,100,7
+236,Catch My Fall,Billy Idol,24,1984-11-24,1984-12-22,98,5
+237,Say It Isn't So,Daryl Hall John Oates,34,1984-01-07,1984-02-11,96,6
+238,MONKEY ON YOUR BACK,Aldo Nova,24,1984-01-07,1984-01-21,95,3
+239,One In A Million,Christine McVie,27,1984-02-25,1984-04-14,95,5
+240,RUMOUR IN THE AIR,Night Ranger,26,1984-02-25,1984-03-24,94,5
+241,Turn Up The Radio,Autograph,27,1984-11-17,1984-12-22,94,6
+242,ELEVEN O'CLOCK TICK-TOCK,U2,30,1984-01-07,1984-01-28,94,4
+243,Original Sin,INXS,43,1984-03-31,1984-06-09,94,10
+244,Jail Break,AC/DC,33,1984-11-03,1984-12-22,93,8
+245,Don't Walk Away,Rick Springfield,41,1984-06-16,1984-07-21,93,6
+246,IN THE MOOD,Robert Plant,37,1984-01-14,1984-02-18,91,6
+247,Bobby Jean,Bruce Springsteen,36,1984-06-23,1984-09-22,89,9
+248,Rebel,Manfred Mann,34,1984-05-19,1984-06-16,87,5
+249,STREET OF DREAMS,Rainbow,29,1984-01-07,1984-01-21,86,3
+250,I Wanna Rock,Twisted Sister,35,1984-10-06,1984-12-08,85,9
+251,CRY BABY,Utopia,30,1984-02-11,1984-03-24,84,5
+252,Had A Dream (Sleeping With The Enemy),Roger Hodgson,11,1984-10-13,1984-10-27,82,3
+253,The Heat,Heart,40,1984-04-21,1984-05-12,81,4
+254,TOO MUCH BLOOD,The Rolling Stones,43,1984-01-07,1984-02-25,81,8
+255,One Time For Old Times,38 Special,17,1984-04-07,1984-04-21,80,3
+256,Lap Of Luxury,Jethro Tull,30,1984-10-13,1984-11-17,79,6
+257,FRIDAY NIGHT,Vandenberg,33,1984-01-07,1984-01-28,77,4
+258,Diamond Field,Pat Benatar,20,1984-12-08,1984-12-22,76,3
+259,It Ain't Enough,Corey Hart,36,1984-10-27,1984-12-08,75,7
+260,Sixty Eight Guns,The Alarm,39,1984-03-31,1984-04-28,73,5
+261,Too Late For Goodbyes,Julian Lennon,22,1984-12-08,1984-12-22,72,3
+262,Serious Business,John Cougar Mellencamp,34,1984-01-28,1984-02-18,72,4
+263,"Fine, Fine Line",Andy Fraser,43,1984-06-23,1984-08-04,72,7
+264,Castaway,Mi-Sex,31,1984-03-31,1984-04-28,71,4
+265,Hyperactive,Thomas Dolby,39,1984-03-10,1984-04-07,71,5
+266,Cum On Feel The Noize,Quiet Riot,41,1984-01-07,1984-02-04,71,5
+267,Killer,Pat Travers,23,1984-04-14,1984-05-12,69,5
+268,She Don't Know Me,Bon Jovi,44,1984-05-05,1984-06-16,69,7
+269,The Only Flame In Town,Elvis Costello & The Atrractions,44,1984-07-28,1984-09-01,68,6
+270,IN A BIG COUNTRY,Big Country,19,1984-01-07,1984-02-04,67,5
+271,HEART AND SOUL,Huey Lewis & The News,27,1984-01-07,1984-01-28,67,4
+272,COME BACK AND STAY,Paul Young,33,1984-03-10,1984-04-21,67,7
+273,BAD GIRLS,Don Felder,36,1984-01-07,1984-01-28,67,4
+274,What I See,Planet P Project,25,1984-12-01,1984-12-22,66,4
+275,Missing You,"Hagar, Schon, Aaronson, Shrieve",37,1984-04-14,1984-05-19,66,6
+276,Blue Light,David Gilmour,35,1984-04-14,1984-05-05,65,4
+277,I Send A Message,INXS,41,1984-07-28,1984-09-08,63,6
+278,Hunters Of The Night,Mr. Mister,36,1984-04-07,1984-04-28,62,3
+279,Ghostbusters,Ray Parker Jr.,38,1984-07-14,1984-08-11,61,5
+280,TAKING IT ALL TOO HARD,Genesis,41,1984-02-25,1984-03-24,60,5
+281,I'm Free (Heaven Helps The Man),Kenny Loggins,42,1984-05-05,1984-07-28,59,9
+282,New Romeo,Southside Johnny & The Jukes,43,1984-08-11,1984-09-22,59,7
+283,NEIGHBORHOOD BULLY,Bob Dylan,37,1984-01-07,1984-01-28,53,4
+284,Sunset Grill,Don Henley,18,1984-12-15,1984-12-22,51,2
+285,ROCK 'N' ROLL REBEL,Ozzy Osbourne,40,1984-02-11,1984-03-03,50,4
+286,I'VE GOT YOU,The Kind,43,1984-02-25,1984-03-10,49,3
+287,Little Bit Of Love,Dwight Twilley,44,1984-05-12,1984-05-26,49,3
+288,Up The Creek,Cheap Trick,36,1984-03-31,1984-04-07,48,2
+289,Eat It,"""Weird Al"" Yankovic",38,1984-03-17,1984-03-24,46,2
+290,All Through The Night,Cyndi Lauper,38,1984-10-20,1984-11-24,46,6
+291,GLORIA,The Doors,36,1984-01-07,1984-01-21,45,3
+292,Wanted Man,Ratt,38,1984-10-06,1984-10-20,45,3
+293,Neighborhood Threat,David Bowie,40,1984-10-13,1984-11-17,45,5
+294,Finally Found A Home,Huey Lewis & The News,41,1984-09-15,1984-10-13,45,5
+295,The Flyer,Saga,39,1984-01-07,1984-01-14,44,2
+296,CHURCH OF THE POISON MIND,Culture Club,49,1984-01-07,1984-02-04,44,5
+297,Nightbird,Stevie Nicks,32,1984-02-11,1984-02-18,43,2
+298,LICK IT UP,KISS,42,1984-01-07,1984-01-28,43,4
+299,Can't Fight This Feeling,REO Speedwagon,29,1984-12-08,1984-12-22,42,3
+300,Say Say Say,Paul McCartney And Michael Jackson,32,1984-01-07,1984-01-14,42,2
+301,Between The Wheels,Rush,39,1984-05-05,1984-05-19,42,3
+302,Gotta Let Go,Lita Ford,51,1984-08-04,1984-09-01,41,5
+303,Tonight,David Bowie,32,1984-12-08,1984-12-22,40,3
+304,Some Heads Are Gonna Roll,Judas Priest,42,1984-03-03,1984-03-31,40,5
+305,TIED UP IN LOVE,Ted Nugent,41,1984-03-03,1984-03-10,39,2
+306,Don't Worry Baby,Los Lobos,31,1984-12-08,1984-12-22,38,3
+307,Hands Across The Sea,Modern English,47,1984-03-31,1984-04-28,38,5
+308,High On You,Survivor,26,1984-12-15,1984-12-22,37,2
+309,STAYED AWAKE ALL NIGHT,Krokus,41,1984-01-07,1984-01-14,37,2
+310,TV Dinners,ZZ Top,42,1984-01-07,1984-01-21,37,3
+311,Hold On,Yes,43,1984-03-17,1984-03-24,36,2
+312,Gone Too Far,Dan Fogelberg,31,1984-04-07,1984-04-14,35,2
+313,Thriller,Michael Jackson,42,1984-02-04,1984-02-11,33,2
+314,LITTLE ROBBERS,The Motels,38,1984-01-07,1984-01-14,32,2
+315,The Wild Boys,Duran Duran,42,1984-11-17,1984-12-08,32,4
+316,Love Is A Battlefield,Pat Benatar,44,1984-01-07,1984-01-21,32,3
+317,Hold On To 18,Black 'N Blue,50,1984-09-08,1984-09-29,32,4
+318,Wire,U2,34,1984-12-08,1984-12-22,31,3
+319,Sleepless,King Crimson,51,1984-04-14,1984-05-05,30,3
+320,"THAT WAS THEN, BUT THIS IS NOW",ABC,35,1984-02-04,1984-02-11,29,2
+321,BIG LOG,Robert Plant,45,1984-01-07,1984-01-14,29,2
+322,Who Wears These Shoes,Elton John,24,1984-11-03,1984-11-03,27,1
+323,Wonderland,Big Country,48,1984-05-19,1984-06-02,26,3
+324,You Take Me Up,Thompson Twins,51,1984-09-08,1984-09-29,26,4
+325,State of Shock,The Jacksons,42,1984-07-14,1984-07-21,24,2
+326,"RED, RED WINE",UB40,41,1984-02-18,1984-02-25,23,2
+327,"Sorry Me, Sorry You",Jefferson Starship,50,1984-09-01,1984-09-15,23,3
+328,RED LIGHTS,Preview,39,1984-02-18,1984-02-18,22,1
+329,Think I'm Going Mad,The Rolling Stones,50,1984-03-03,1984-03-10,21,2
+330,Summer Of 69',Bryan Adams,40,1984-12-08,1984-12-22,20,3
+331,How Much Is Too Much?,Chequered Past,50,1984-08-18,1984-09-08,20,4
+332,What's Love Got To Do With It,Tina Turner,51,1984-08-18,1984-09-08,20,4
+333,If I Had A Rocket Launcher,Bruce Cockburn,33,1984-12-22,1984-12-22,18,1
+334,I Believe,Steve Perry,43,1984-05-05,1984-05-05,18,1
+335,Shout At The Devil,Motley Crue,43,1984-02-25,1984-02-25,18,1
+336,Don't Let Go,Wang Chung,49,1984-03-10,1984-03-24,18,3
+337,Every Man Has A Woman Who Loves Him,John Lennon,52,1984-09-29,1984-10-13,18,3
+338,KING OF PAIN,The Police,56,1984-01-07,1984-02-04,18,5
+339,Pretty Persuasion,R.E.M.,44,1984-09-08,1984-09-08,17,1
+340,SUDDENLY LAST SUMMER,The Motels,46,1984-01-07,1984-01-14,17,2
+341,My Ever Changing Moods,The Style Council,52,1984-05-26,1984-06-09,17,3
+342,DESPERATE HEART,Rainbow,53,1984-03-10,1984-03-24,17,3
+343,Catch Me I'm Falling,Real Life,46,1984-04-14,1984-04-21,16,2
+344,Burnin' In Love,Honeymoon Suite,47,1984-10-20,1984-12-01,16,6
+345,The Old Man Down The Road,John Fogerty,37,1984-12-22,1984-12-22,14,1
+346,Stone In your Heart,Molly Hatchet,43,1984-12-15,1984-12-22,14,2
+347,Backstabber,Hyts,48,1984-02-11,1984-02-11,13,1
+348,I Got A Line On You,Spirit,54,1984-08-18,1984-08-25,13,2
+349,Don't Leave Me This Way,The Ravyns,49,1984-04-07,1984-04-07,12,1
+350,Running With The Night,Lionel Richie,49,1984-02-18,1984-02-18,12,1
+351,Can't Get Next To You,Billy Squier,51,1984-09-29,1984-10-06,12,2
+352,Rock My Nights Away,The Michael Schenker Group,55,1984-03-17,1984-03-24,12,2
+353,I'm Leaving You,Scorpions,56,1984-06-23,1984-07-07,12,3
+354,Lovers In A Dangerous Time,Bruce Cockburn,56,1984-09-01,1984-09-29,11,3
+355,Kids Wanna Rock,Bryan Adams,45,1984-12-15,1984-12-22,10,2
+356,Eve Of Destruction,Red Rockers,54,1984-10-06,1984-10-13,10,2
+357,THE SMILE HAS LEFT YOUR EYES,Asia,54,1984-01-07,1984-01-14,10,2
+358,Out Of My Hands,Face To Face,55,1984-06-09,1984-06-16,10,2
+359,Tear It Up,Queen,52,1984-03-31,1984-03-31,9,1
+360,Perfect Lover,Kansas,54,1984-09-01,1984-09-08,9,2
+361,Days Gone By,Poco,58,1984-05-26,1984-06-09,9,3
+362,Morning Dew,Blackfoot,55,1984-10-06,1984-10-13,8,2
+363,One Small Day,Ultravox,55,1984-05-12,1984-05-19,8,2
+364,WOULDN't IT BE GOOD,Nik Kershaw,58,1984-05-26,1984-06-16,8,4
+365,Do They Know It's Christmas?,Band-Aid,44,1984-12-22,1984-12-22,7,1
+366,Break Down The Wall,Stone Fury,47,1984-11-24,1984-12-01,5,2
+367,Play It Cool,Timothy B. Schmit,48,1984-10-27,1984-11-03,5,2
+368,Stick It,Great White,56,1984-04-07,1984-04-07,5,1
+369,Born In America,Riot,56,1984-01-07,1984-01-07,5,1
+370,I'll Keep Holding On,Jim Capaldi,58,1984-10-06,1984-10-13,5,2
+371,Hammer To Fall,Queen,57,1984-04-07,1984-04-07,4,1
+372,THUMBELINA,Pretenders,57,1984-02-25,1984-02-25,4,1
+373,Hero Takes A Fall,The Bangles,59,1984-08-11,1984-08-25,4,3
+374,NEW SONG,Howard Jones,58,1984-03-31,1984-03-31,3,1
+375,HEAVY METAL LOVE,Helix,58,1984-01-07,1984-01-07,3,1
+376,COMPUTER ONE,Dear Enemy,59,1984-03-10,1984-03-10,2,1
+377,BREAKING THE CHAINS,Dokken,59,1984-01-07,1984-01-07,2,1
+378,I THINK YOU'LL REMEMBER TONIGHT,Axe,60,1984-01-07,1984-01-07,1,1
+379,The Runaround,Tsunami,60,1984-02-18,1984-02-18,1,1

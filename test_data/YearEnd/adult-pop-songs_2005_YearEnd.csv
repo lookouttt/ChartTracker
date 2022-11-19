@@ -1,0 +1,142 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,You And Me,Lifehouse,1,2005-02-19,2005-12-31,1625,46
+2,Boulevard Of Broken Dreams,Green Day,1,2005-01-01,2005-10-01,1383,40
+3,Let Me Go,3 Doors Down,3,2005-01-01,2005-11-05,1347,45
+4,Lonely No More,Rob Thomas,1,2005-02-19,2005-10-22,1325,36
+5,Collide,Howie Day,7,2005-01-01,2005-09-17,1195,38
+6,Give A Little Bit,Goo Goo Dolls,1,2005-01-01,2005-07-30,1077,31
+7,Since U Been Gone,Kelly Clarkson,2,2005-01-01,2005-09-03,1051,36
+8,Breathe (2 AM),Anna Nalick,6,2005-01-01,2005-09-03,978,36
+9,Behind These Hazel Eyes,Kelly Clarkson,1,2005-05-21,2005-12-10,946,30
+10,This Is How A Heart Breaks,Rob Thomas,3,2005-06-18,2005-12-17,857,27
+11,Sunday Morning,Maroon 5,4,2005-01-01,2005-06-25,816,26
+12,Speed Of Sound,Coldplay,3,2005-05-07,2005-10-29,784,26
+13,Breakaway,Kelly Clarkson,2,2005-01-01,2005-05-28,770,22
+14,Chariot,Gavin DeGraw,5,2005-03-19,2005-09-10,701,26
+15,Holiday,Green Day,5,2005-06-04,2005-11-26,688,26
+16,You'll Think Of Me,Keith Urban,6,2005-07-02,2005-12-31,673,27
+17,One Thing,Finger Eleven,4,2005-01-01,2005-05-14,666,20
+18,Cool,Gwen Stefani,4,2005-07-23,2005-12-17,650,22
+19,Photograph,Nickelback,1,2005-09-03,2005-12-31,621,18
+20,She Will Be Loved,Maroon 5,2,2005-01-01,2005-04-30,620,18
+21,Look What You've Done,Jet,9,2005-01-01,2005-06-18,608,25
+22,Good Is Good,Sheryl Crow,5,2005-08-20,2005-12-31,593,20
+23,Better Now,Collective Soul,9,2005-03-12,2005-09-17,589,28
+24,Mr. Brightside,The Killers,11,2005-02-05,2005-07-30,540,26
+25,True,Ryan Cabrera,13,2005-01-01,2005-06-25,539,26
+26,Wake Me Up When September Ends,Green Day,2,2005-09-24,2005-12-31,536,15
+27,Only You,Josh Kelley,9,2005-06-25,2005-11-26,523,23
+28,Get To Me,Train,6,2005-07-09,2005-11-26,522,21
+29,American Baby,Dave Matthews Band,8,2005-04-09,2005-08-27,521,21
+30,Daughters,John Mayer,2,2005-01-01,2005-04-09,516,15
+31,Beautiful Soul,Jesse McCartney,13,2005-01-29,2005-07-23,508,26
+32,Have A Nice Day,Bon Jovi,6,2005-08-13,2005-12-31,500,21
+33,Beverly Hills,Weezer,8,2005-08-06,2005-12-31,489,22
+34,A Lifetime,Better Than Ezra,13,2005-04-02,2005-09-24,485,26
+35,Rich Girl,Gwen Stefani Featuring Eve,16,2005-03-05,2005-08-27,483,26
+36,Lady,Lenny Kravitz,4,2005-01-01,2005-04-02,476,14
+37,She Says,Howie Day,6,2005-08-27,2005-12-31,438,19
+38,Hollaback Girl,Gwen Stefani,18,2005-06-11,2005-11-26,417,25
+39,I'm Feeling You,Santana Featuring Michelle Branch & The Wreckers,6,2005-10-01,2005-12-31,416,14
+40,What Happens Tomorrow,Duran Duran,13,2005-02-05,2005-07-02,416,22
+41,Dare You To Move,Switchfoot,7,2005-01-01,2005-03-26,409,13
+42,Almost,Bowling For Soup,17,2005-02-12,2005-08-06,405,26
+43,Sometimes You Can't Make It On Your Own,U2,15,2005-03-05,2005-07-16,398,20
+44,Over And Over,Nelly Featuring Tim McGraw,16,2005-01-01,2005-05-14,397,20
+45,Better Days,Goo Goo Dolls,4,2005-10-08,2005-12-31,394,13
+46,Listen To Your Heart,D.H.T.,13,2005-08-06,2005-12-17,390,20
+47,Somewhere Only We Know,Keane,11,2005-01-01,2005-04-09,378,15
+48,Because Of You,Kelly Clarkson,2,2005-10-08,2005-12-31,376,13
+49,We Belong Together,Mariah Carey,16,2005-07-02,2005-11-26,372,22
+50,Vertigo,U2,9,2005-01-01,2005-04-02,358,14
+51,"Sitting, Waiting, Wishing",Jack Johnson,18,2005-02-26,2005-08-20,358,26
+52,Stars,Switchfoot,15,2005-08-13,2005-12-24,350,20
+53,Wordplay,Jason Mraz,16,2005-06-04,2005-10-01,339,18
+54,Forever,Vertical Horizon,18,2005-06-04,2005-11-05,334,23
+55,Live Like You Were Dying,Tim McGraw,21,2005-01-29,2005-07-23,326,26
+56,Incomplete,Backstreet Boys,21,2005-05-07,2005-10-01,299,22
+57,Nobody's Home,Avril Lavigne,16,2005-01-01,2005-06-04,296,23
+58,Feel Good Inc,Gorillaz,18,2005-08-27,2005-12-31,294,19
+59,On The Way Down,Ryan Cabrera,8,2005-01-01,2005-02-26,284,9
+60,Right Here,Staind,16,2005-09-03,2005-12-31,282,18
+61,The Reason,Hoobastank,11,2005-01-01,2005-03-05,277,10
+62,You're Beautiful,James Blunt,6,2005-09-24,2005-12-31,264,15
+63,Crazy,Alanis Morissette,10,2005-10-29,2005-12-31,231,10
+64,Home,Michael Buble,24,2005-09-03,2005-12-31,223,18
+65,Heaven,Los Lonely Boys,13,2005-01-01,2005-02-19,212,8
+66,1985,Bowling For Soup,9,2005-01-01,2005-02-12,211,7
+67,No Matter What,Def Leppard,24,2005-06-25,2005-11-19,199,21
+68,Hung Up,Madonna,16,2005-11-05,2005-12-31,198,9
+69,Follow Through,Gavin DeGraw,22,2005-10-01,2005-12-31,197,14
+70,Disappear,Hoobastank,16,2005-01-01,2005-03-05,191,10
+71,Be The Girl,Aslyn,26,2005-01-01,2005-04-30,188,18
+72,One Love,Hootie & The Blowfish,20,2005-08-06,2005-10-29,187,13
+73,Fall To Pieces,Avril Lavigne,18,2005-05-21,2005-08-06,186,12
+74,Eleanor,Low Millions,25,2005-01-01,2005-04-16,176,16
+75,Somebody Told Me,The Killers,18,2005-01-01,2005-02-19,166,8
+76,Almost Perfect,Ingram Hill,25,2005-03-26,2005-07-09,160,16
+77,Statue,Low Millions,22,2005-06-04,2005-09-10,156,15
+78,Pretty Vegas,INXS,11,2005-11-19,2005-12-31,148,7
+79,24,Jem,27,2005-03-12,2005-06-18,145,15
+80,Welcome To My Life,Simple Plan,26,2005-01-01,2005-04-23,141,17
+81,Here By Me,3 Doors Down,26,2005-08-20,2005-11-12,140,13
+82,Broken,Seether Featuring Amy Lee,12,2005-01-01,2005-01-29,138,5
+83,Right To Be Wrong,Joss Stone,27,2005-02-05,2005-05-14,135,15
+84,My Happy Ending,Avril Lavigne,14,2005-01-01,2005-01-29,130,5
+85,Ever The Same,Rob Thomas,9,2005-11-26,2005-12-31,129,6
+86,How Do You Love?,Collective Soul,21,2005-10-22,2005-12-31,128,11
+87,Everything To Me,Liz Phair,27,2005-09-10,2005-12-17,125,15
+88,Beautiful Love,The Afters,29,2005-04-16,2005-07-16,124,14
+89,In The Rough,Anna Nalick,20,2005-11-12,2005-12-31,123,8
+90,Fix You,Coldplay,24,2005-10-08,2005-12-31,121,13
+91,Will I Ever Make It Home,Ingram Hill,24,2005-01-01,2005-03-12,120,11
+92,Fall To Pieces,Velvet Revolver,25,2005-02-12,2005-04-30,117,12
+93,These Words,Natasha Bedingfield,24,2005-09-03,2005-11-12,116,11
+94,"Sugar, We're Goin' Down",Fall Out Boy,18,2005-11-12,2005-12-31,114,8
+95,Let's Get It Started,The Black Eyed Peas,30,2005-01-01,2005-05-14,114,17
+96,More Than Love,Los Lonely Boys,20,2005-01-01,2005-03-05,103,8
+97,Bad Day,Daniel Powter,26,2005-10-08,2005-12-31,102,13
+98,A Life Less Ordinary,Carbon Leaf,30,2005-02-26,2005-06-11,93,15
+99,The Great Divide,Scott Stapp,24,2005-11-12,2005-12-31,92,8
+100,Don't Phunk With My Heart,The Black Eyed Peas,30,2005-07-23,2005-10-08,91,12
+101,Can't Behave,Courtney Jaye,29,2005-05-21,2005-08-20,89,14
+102,Scars,Papa Roach,31,2005-07-30,2005-12-31,85,17
+103,Left Outside Alone,Anastacia,30,2005-04-16,2005-07-09,84,13
+104,Over My Head (Cable Car),The Fray,22,2005-11-19,2005-12-31,82,7
+105,(Reach Up For The) Sunrise,Duran Duran,23,2005-01-01,2005-02-05,76,6
+106,Pieces Of Me,Ashlee Simpson,26,2005-01-01,2005-02-05,75,6
+107,Untitled (How Can This Happen To Me?),Simple Plan,26,2005-07-16,2005-09-17,74,10
+108,Everybody's Changing,Keane,33,2005-05-07,2005-07-30,73,13
+109,Blind,Lifehouse,27,2005-11-05,2005-12-31,68,9
+110,Anything,The Calling,26,2005-01-01,2005-02-05,57,6
+111,Cab,Train,23,2005-12-03,2005-12-31,54,5
+112,Good Times,Tommy Lee,30,2005-09-17,2005-11-12,51,9
+113,Beautiful,Avion,32,2005-04-09,2005-06-04,47,9
+114,Our Last Night,Better Than Ezra,29,2005-11-19,2005-12-31,42,6
+115,World On Fire,Sarah McLachlan,32,2005-01-01,2005-01-29,35,5
+116,Geek In The Pink,Jason Mraz,32,2005-12-03,2005-12-31,33,5
+117,Come To Jesus,Mindy Smith,32,2005-01-01,2005-02-19,28,6
+118,Must Have Been Love,Pat McGee Band,35,2005-07-30,2005-08-27,24,5
+119,Mission Responsible,Michael Tolcher,36,2005-05-21,2005-07-30,24,10
+120,Just Feel Better,Santana Featuring Steven Tyler,28,2005-12-24,2005-12-31,20,2
+121,Precious,Depeche Mode,32,2005-12-03,2005-12-31,20,5
+122,Worn Me Down,Rachael Yamagata,33,2005-01-22,2005-02-19,20,5
+123,Landing In London (All I Think About Is You),3 Doors Down Featuring Bob Seger,31,2005-12-17,2005-12-31,19,3
+124,Ready To Fly,Richard Marx,36,2005-01-01,2005-02-12,19,7
+125,Jerk It Out,Caesars,36,2005-04-30,2005-05-28,17,5
+126,This Is Your Life,Switchfoot,36,2005-04-23,2005-05-28,15,6
+127,Some Hearts,Carrie Underwood,33,2005-12-24,2005-12-31,13,2
+128,Don't Lie,The Black Eyed Peas,38,2005-12-03,2005-12-31,13,5
+129,Walk Tall,John Mellencamp,33,2005-01-01,2005-01-22,12,3
+130,Where You Are,Marc Broussard,37,2005-02-26,2005-03-19,9,4
+131,Who We Are,Hope Partlow,38,2005-07-30,2005-08-13,8,3
+132,The One I Love,David Gray,38,2005-10-29,2005-11-26,8,4
+133,Unwritten,Natasha Bedingfield,36,2005-12-24,2005-12-31,6,2
+134,Dirty Little Secret,The All-American Rejects,37,2005-12-24,2005-12-31,6,2
+135,Best Of You,Foo Fighters,38,2005-09-17,2005-09-24,6,2
+136,City Of Blinding Lights,U2,40,2005-09-24,2005-10-15,3,3
+137,Breaking The Habit,Linkin Park,39,2005-01-08,2005-01-08,2,1
+138,Home,Marc Broussard,40,2005-07-16,2005-07-23,2,2
+139,Landed,Ben Folds,40,2005-08-13,2005-08-13,1,1
+140,Switch,Will Smith,40,2005-08-06,2005-08-06,1,1
+141,Luxurious,Gwen Stefani,40,2005-12-31,2005-12-31,1,1

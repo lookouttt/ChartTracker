@@ -1,0 +1,208 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Speechless,Dan + Shay,1,2019-01-05,2019-12-07,836,48
+2,God's Country,Blake Shelton,1,2019-04-13,2019-12-28,783,38
+3,Beautiful Crazy,Luke Combs,1,2019-01-05,2019-12-07,702,42
+4,Whiskey Glasses,Morgan Wallen,2,2019-01-05,2019-10-19,666,42
+5,The Git Up,Blanco Brown,1,2019-06-15,2019-12-28,595,29
+6,Rumor,Lee Brice,4,2019-01-05,2019-09-21,594,38
+7,Beer Never Broke My Heart,Luke Combs,1,2019-05-18,2019-12-21,581,31
+8,Knockin' Boots,Luke Bryan,2,2019-04-13,2019-10-19,546,28
+9,Tennessee Whiskey,Chris Stapleton,8,2019-01-05,2019-12-28,524,49
+10,One Thing Right,Marshmello & Kane Brown,2,2019-07-20,2019-12-28,512,24
+11,Miss Me More,Kelsea Ballerini,3,2019-01-05,2019-07-06,443,27
+12,One Man Band,Old Dominion,1,2019-02-02,2019-12-28,416,27
+13,Look What God Gave Her,Thomas Rhett,1,2019-03-16,2019-08-17,409,23
+14,Tequila,Dan + Shay,1,2019-01-05,2019-07-13,403,28
+15,Even Though I'm Leaving,Luke Combs,1,2019-06-22,2019-12-28,396,23
+16,Good As You,Kane Brown,4,2019-02-09,2019-08-17,387,26
+17,Down To The Honkytonk,Jake Owen,3,2019-01-05,2019-05-11,317,19
+18,GIRL,Maren Morris,1,2019-02-02,2019-11-30,272,30
+19,Hell Right,Blake Shelton Featuring Trace Adkins,4,2019-08-31,2019-12-28,269,18
+20,"10,000 Hours",Dan + Shay & Justin Bieber,1,2019-10-19,2019-12-28,265,11
+21,Rainbow,Kacey Musgraves,2,2019-02-23,2019-11-30,261,20
+22,The Bones,Maren Morris,2,2019-03-09,2019-12-28,239,18
+23,I Wish Grandpas Never Died,Riley Green,4,2019-08-17,2019-12-28,238,20
+24,What If I Never Get Over You,Lady Antebellum,2,2019-06-01,2019-12-28,225,24
+25,Prayed For You,Matt Stell,2,2019-08-24,2019-11-23,206,14
+26,Tip Of My Tongue,Kenny Chesney,4,2019-07-27,2019-11-16,206,17
+27,She Got The Best Of Me,Luke Combs,3,2019-01-05,2019-05-25,196,17
+28,Millionaire,Chris Stapleton,9,2019-01-05,2019-04-13,196,15
+29,Some Of It,Eric Church,9,2019-04-06,2019-08-24,168,19
+30,Eyes On You,Chase Rice,10,2019-03-02,2019-06-15,168,16
+31,Talk You Out Of It,Florida Georgia Line,12,2019-02-02,2019-08-31,162,26
+32,Meant To Be,Bebe Rexha & Florida Georgia Line,6,2019-01-05,2019-05-18,158,16
+33,All To Myself,Dan + Shay,10,2019-06-01,2019-09-14,149,16
+34,Make It Sweet,Old Dominion,4,2019-01-26,2019-05-25,145,18
+35,I Don't Know About You,Chris Lane,6,2019-07-06,2019-11-02,139,14
+36,Remember You Young,Thomas Rhett,4,2019-05-04,2019-12-21,130,14
+37,Southbound,Carrie Underwood,11,2019-04-20,2019-09-14,130,16
+38,I Hope,Gabby Barrett,11,2019-03-09,2019-12-28,119,16
+39,Here Tonight,Brett Young,2,2019-03-02,2019-05-11,108,10
+40,Rearview Town,Jason Aldean,14,2019-06-08,2019-09-07,100,13
+41,Girl Like You,Jason Aldean,12,2019-01-05,2019-03-02,96,9
+42,Burning Man,Dierks Bentley Featuring Brothers Osborne,10,2019-01-05,2019-02-16,91,7
+43,More Hearts Than Mine,Ingrid Andress,12,2019-10-05,2019-12-28,91,13
+44,Kinfolks,Sam Hunt,2,2019-10-26,2019-12-21,88,8
+45,"The Father, My Son, And The Holy Ghost",Craig Morgan,1,2019-09-21,2019-11-09,87,5
+46,This Is It,Scotty McCreery,13,2019-01-05,2019-03-09,83,10
+47,On My Way To You,Cody Johnson,8,2019-01-19,2019-04-06,82,10
+48,Rockin' Around The Christmas Tree,Brenda Lee,7,2019-01-05,2019-12-28,78,5
+49,homecoming queen?,Kelsea Ballerini,2,2019-09-21,2019-12-07,66,5
+50,Sixteen,Thomas Rhett,13,2019-01-05,2019-02-16,63,7
+51,Drowning,Chris Young,2,2019-06-29,2019-11-16,60,8
+52,We Were,Keith Urban,6,2019-05-25,2019-11-30,60,8
+53,Drunk Me,Mitchell Tenpenny,6,2019-01-05,2019-01-26,57,4
+54,Lose It,Kane Brown,7,2019-01-05,2019-01-26,55,4
+55,Night Shift,Jon Pardi,19,2019-02-09,2019-06-08,55,15
+56,Shut Up About Politics,John Rich Featuring The Five,1,2019-06-08,2019-06-15,47,2
+57,Living,Dierks Bentley,12,2019-08-10,2019-10-19,45,11
+58,Desperado,Jake Hoot,1,2019-12-21,2019-12-28,42,2
+59,Homesick,Kane Brown,6,2019-12-14,2019-12-28,41,3
+60,What She Wants Tonight,Luke Bryan,1,2019-11-09,2019-11-16,38,2
+61,Heaven,Kane Brown,12,2019-01-05,2019-04-06,38,6
+62,Like A Rodeo,Kane Brown,2,2019-07-27,2019-08-03,37,2
+63,What Makes You Country,Luke Bryan,17,2019-01-26,2019-03-16,37,7
+64,Ridin' Roads,Dustin Lynch,1,2019-03-23,2019-12-28,36,3
+65,The Other Side,Lauren Alaina,8,2019-11-02,2019-11-09,36,2
+66,"1, 2 Many",Luke Combs & Brooks & Dunn,1,2019-09-28,2019-10-05,35,2
+67,Have You Ever Seen The Rain,Willie Nelson Featuring Paula Nelson,3,2019-08-03,2019-08-10,34,2
+68,Someone I Used To Know,Zac Brown Band,13,2019-06-15,2019-10-05,34,4
+69,I Hope You're Happy Now,Carly Pearce & Lee Brice,10,2019-10-12,2019-12-28,32,5
+70,Jolene,Dolly Parton,11,2019-01-19,2019-12-07,31,3
+71,For My Daughter,Kane Brown,1,2019-11-16,2019-11-23,30,2
+72,God And Country Music,George Strait,4,2019-02-16,2019-04-20,30,2
+73,Simple,Florida Georgia Line,8,2019-01-05,2019-01-26,30,4
+74,Good Vibes,Chris Janson,12,2019-02-23,2019-12-07,30,6
+75,We Back,Jason Aldean,11,2019-09-21,2019-09-28,29,2
+76,Good Girl,Dustin Lynch,17,2019-01-05,2019-02-09,29,6
+77,It All Comes Out In The Wash,Miranda Lambert,8,2019-07-27,2019-08-03,28,2
+78,Where Are You Christmas?,Faith Hill,13,2019-12-14,2019-12-28,28,3
+79,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,2,2019-08-31,2019-12-14,26,2
+80,Outlaws & Outsiders,"Cory Marks Featuring Travis Tritt, Ivan Moody & Mick Mars",7,2019-11-30,2019-12-21,26,3
+81,Love Ain't,Eli Young Band,18,2019-05-04,2019-06-08,26,5
+82,Nobody But You,Blake Shelton Duet With Gwen Stefani,1,2019-12-28,2019-12-28,25,1
+83,Better Together,Luke Combs,3,2019-11-23,2019-11-30,25,2
+84,Raised On Country,Chris Young,7,2019-01-19,2019-07-20,25,4
+85,Wintersong,Jake Hoot & Kelly Clarkson,2,2019-12-28,2019-12-28,24,1
+86,Women,Florida Georgia Line Featuring Jason Derulo,2,2019-02-16,2019-02-16,24,1
+87,Notice,Thomas Rhett,5,2019-06-15,2019-06-22,24,2
+88,Mercy,Brett Young,7,2019-04-20,2019-04-27,24,2
+89,Ocean,Lady Antebellum,3,2019-10-05,2019-10-05,23,1
+90,Better Off Without You,Jake Hoot,3,2019-12-28,2019-12-28,23,1
+91,Soon You'll Get Better,Taylor Swift Featuring Dixie Chicks,3,2019-09-07,2019-09-07,23,1
+92,The Weight Of The Badge,George Strait,4,2019-03-30,2019-03-30,22,1
+93,Brand New Man,Brooks & Dunn With Luke Combs,4,2019-02-23,2019-02-23,22,1
+94,The Daughters,Little Big Town,4,2019-04-20,2019-04-20,22,1
+95,Lost In The Middle Of Nowhere,Kane Brown & Becky G,4,2019-04-13,2019-04-13,22,1
+96,Drinking Alone,Carrie Underwood,14,2019-11-23,2019-12-07,22,3
+97,Best Shot,Jimmie Allen,14,2019-01-05,2019-01-26,22,4
+98,Getting Good,Lauren Alaina,5,2019-10-12,2019-10-12,21,1
+99,Amazed,Jake Hoot,5,2019-12-28,2019-12-28,21,1
+100,I Hate This,Tenille Arts,5,2019-02-02,2019-02-02,21,1
+101,I'll Be Your Santa Tonight,Keith Urban,6,2019-12-21,2019-12-21,20,1
+102,"Big, Big Plans",Chris Lane,6,2019-07-13,2019-07-13,20,1
+103,Mess With My Head,Miranda Lambert,6,2019-08-24,2019-08-24,20,1
+104,Nobody,Dylan Scott,6,2019-03-16,2019-03-16,20,1
+105,That Old Truck,Thomas Rhett,7,2019-04-13,2019-04-13,19,1
+106,Jesus Got A Tight Grip,Blake Shelton,7,2019-11-02,2019-11-02,19,1
+107,Got What I Got,Jason Aldean,7,2019-10-26,2019-10-26,19,1
+108,Proof I've Always Loved You,Gyth Rigdon,7,2019-06-01,2019-06-01,19,1
+109,Made For You,Jake Owen,7,2019-06-15,2019-06-15,19,1
+110,Lovin' On You,Luke Combs,7,2019-06-22,2019-06-22,19,1
+111,Believe,Brooks & Dunn With Kane Brown,7,2019-02-23,2019-02-23,19,1
+112,Fooled Around And Fell In Love,"Miranda Lambert Featuring Maren Morris, Ashley McBryde, Tenille Townes, Caylee Hammack & Elle King",7,2019-09-28,2019-09-28,19,1
+113,Leaving Love Behind,Zac Brown Band,7,2019-08-10,2019-08-10,19,1
+114,She's Mine,Kip Moore,7,2019-08-24,2019-08-24,19,1
+115,Tequila Does,Miranda Lambert,8,2019-10-26,2019-10-26,18,1
+116,Neon Moon,Brooks & Dunn With Kacey Musgraves,8,2019-04-20,2019-04-20,18,1
+117,Bluebird,Miranda Lambert,8,2019-08-31,2019-08-31,18,1
+118,"Hey Boy, Hey Girl",Upchurch & Katie Noel,8,2019-12-14,2019-12-14,18,1
+119,Man That Hung The Moon,Brantley Gilbert,8,2019-06-29,2019-06-29,18,1
+120,God Bless The USA,Lee Greenwood,9,2019-07-13,2019-07-13,17,1
+121,Not Like Us,Brantley Gilbert,9,2019-04-27,2019-04-27,17,1
+122,Refrigerator Door,Luke Combs,9,2019-06-22,2019-06-22,17,1
+123,Center Point Road,Thomas Rhett Featuring Kelsea Ballerini,9,2019-06-08,2019-06-08,17,1
+124,Burden,Keith Urban,9,2019-04-20,2019-04-20,17,1
+125,The Chain,The Highwomen,9,2019-08-17,2019-08-17,17,1
+126,Some People Do,Old Dominion,9,2019-05-18,2019-05-18,17,1
+127,Never Be Sorry,Old Dominion,10,2019-08-10,2019-08-10,16,1
+128,That Ain’t My Truck,Jake Hoot,10,2019-12-14,2019-12-14,16,1
+129,Pictures,Lady Antebellum,10,2019-08-24,2019-08-24,16,1
+130,Moon Over Mexico,Luke Combs,10,2019-06-22,2019-06-22,16,1
+131,People Are Different,Florida Georgia Line,13,2019-01-05,2019-01-12,16,2
+132,Young,Old Dominion,14,2019-08-31,2019-09-07,16,2
+133,Club,Kelsea Ballerini,11,2019-11-23,2019-11-23,15,1
+134,Rural Route Raising,Andrew Sevener,11,2019-06-01,2019-06-01,15,1
+135,Way Too Pretty For Prison,Miranda Lambert With Maren Morris,11,2019-09-07,2019-09-07,15,1
+136,Hold On,Hootie & The Blowfish,11,2019-11-16,2019-11-16,15,1
+137,Beautiful Lies,Jana Kramer,11,2019-04-13,2019-04-13,15,1
+138,Town Ain't Big Enough,Chris Young & Lauren Alaina,12,2019-07-27,2019-07-27,14,1
+139,Bad Boy,Brantley Gilbert,13,2019-08-17,2019-08-17,13,1
+140,Does To Me,Luke Combs Featuring Eric Church,13,2019-11-23,2019-11-23,13,1
+141,Don't Threaten Me With A Good,Thomas Rhett Featuring Little Big Town,13,2019-03-16,2019-03-16,13,1
+142,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,13,2019-06-01,2019-06-01,13,1
+143,What You See Is What You Get,Luke Combs,16,2019-10-19,2019-10-26,13,2
+144,God Bless The U.S.A.,Gyth Rigdon,14,2019-05-25,2019-05-25,12,1
+145,Keeping Score,Dan + Shay Featuring Kelly Clarkson,14,2019-04-20,2019-04-20,12,1
+146,Sugar Coat,Little Big Town,14,2019-12-07,2019-12-07,12,1
+147,What Ifs,Kane Brown Featuring Lauren Alaina,14,2019-01-12,2019-01-12,12,1
+148,Last Shot,Kip Moore,19,2019-01-19,2019-01-26,12,2
+149,Rednecker,HARDY,21,2019-07-13,2019-09-14,12,4
+150,Y'all Boys,Florida Georgia Line Featuring HARDY,15,2019-02-23,2019-02-23,11,1
+151,Jingle Bell Rock,Bobby Helms,19,2019-01-05,2019-12-28,11,2
+152,Lips Of An Angel,Andrew Sevener,16,2019-06-01,2019-06-01,10,1
+153,Thought About You,Tim McGraw,16,2019-02-16,2019-02-16,10,1
+154,Butterflies,Kacey Musgraves,16,2019-02-23,2019-02-23,10,1
+155,I Can Do Hard Things,Jennifer Nettles,16,2019-03-09,2019-03-09,10,1
+156,Ain't Always The Cowboy,Jon Pardi,16,2019-07-06,2019-07-06,10,1
+157,Good Enough,Jana Kramer,16,2019-09-07,2019-09-07,10,1
+158,Heartache Medication,Jon Pardi,21,2019-10-19,2019-12-21,10,3
+159,"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,17,2019-07-13,2019-07-13,9,1
+160,I Dream In Southern,Kaleb Lee Featuring Kelly Clarkson,17,2019-12-21,2019-12-21,9,1
+161,Drive,Tim McGraw,17,2019-09-14,2019-09-14,9,1
+162,My Heart Is A Bar,Old Dominion,18,2019-08-31,2019-08-31,8,1
+163,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,18,2019-03-16,2019-03-16,8,1
+164,Pretty Bitchin',Miranda Lambert,18,2019-09-21,2019-09-21,8,1
+165,Let's Just Be Friends,Luke Combs,18,2019-08-17,2019-08-17,8,1
+166,Once In A Blue Moon,Gyth Rigdon,18,2019-06-01,2019-06-01,8,1
+167,Be Patient With My Love,Lady Antebellum,18,2019-11-30,2019-11-30,8,1
+168,Right Where I Left It,Cole Swindell,18,2019-10-12,2019-10-12,8,1
+169,"Red Dirt, Blue Eyes",Dustin Lynch,19,2019-03-23,2019-03-23,7,1
+170,My Miracle,Brad Paisley,19,2019-03-30,2019-03-30,7,1
+171,Ain't Nothin' To It,Cody Johnson,19,2019-02-02,2019-02-02,7,1
+172,Drinkin' Hours,Cole Swindell,19,2019-07-06,2019-07-06,7,1
+173,Christmas In The Country,Thomas Rhett,19,2019-11-30,2019-11-30,7,1
+174,Don't Close Your Eyes,Keith Whitley,19,2019-03-16,2019-03-16,7,1
+175,In Case You Didn't Know,Brett Young,19,2019-11-16,2019-11-16,7,1
+176,God's Country,Rose Short,20,2019-12-14,2019-12-14,6,1
+177,Welcome To Hazeville,"Brantley Gilbert Featuring Colt Fold, Lukas Nelson & Willie Nelson",21,2019-05-04,2019-05-04,5,1
+178,Common,Maren Morris Featuring Brandi Carlile,21,2019-02-23,2019-02-23,5,1
+179,Where Were You (When The World Stopped Turning),Alan Jackson,21,2019-09-21,2019-09-21,5,1
+180,Shallow,Jimmie Allen + Abby Anderson,21,2019-03-09,2019-03-09,5,1
+181,Blessings,Florida Georgia Line,21,2019-03-02,2019-03-02,5,1
+182,The Ones That Didn't Make It Back Home,Justin Moore,22,2019-07-20,2019-08-03,5,2
+183,Heartbreak,Hunter Hayes,22,2019-02-09,2019-02-09,4,1
+184,One Night Standards,Ashley McBryde,22,2019-09-14,2019-09-14,4,1
+185,Little Town Livin',Dustin Lynch,22,2019-03-23,2019-03-23,4,1
+186,Nothin' On You,Cody Johnson,22,2019-02-02,2019-02-02,4,1
+187,A Holly Jolly Christmas,Burl Ives,23,2019-12-28,2019-12-28,3,1
+188,Love Someone,Brett Eldredge,23,2019-06-29,2019-06-29,3,1
+189,Fire't Up,Brantley Gilbert,23,2019-09-21,2019-09-21,3,1
+190,Cover Me Up,Morgan Wallen,23,2019-11-09,2019-11-09,3,1
+191,Back When,Blair Mathews,23,2019-09-07,2019-09-07,3,1
+192,A Simple Song,Chris Stapleton,23,2019-04-20,2019-04-20,3,1
+193,Mr. Lonely,Midland,23,2019-04-13,2019-04-13,3,1
+194,Here Without You,Dexter Roberts,23,2019-05-25,2019-05-25,3,1
+195,Girl Crush,Little Big Town,24,2019-11-23,2019-11-23,2,1
+196,Love Wins,Carrie Underwood,24,2019-01-12,2019-01-12,2,1
+197,Roots And Wings,Jessie James Decker,24,2019-04-27,2019-04-27,2,1
+198,"Take Me Home, Country Roads",John Denver,24,2019-03-02,2019-03-02,2,1
+199,You Make It Easy,Jason Aldean,25,2019-01-05,2019-01-12,2,2
+200,The Woods,Zac Brown Band,25,2019-10-05,2019-10-05,1,1
+201,Locomotive,Miranda Lambert,25,2019-07-27,2019-07-27,1,1
+202,Can't Hide Red,Florida Georgia Line Featuring Jason Aldean,25,2019-03-02,2019-03-02,1,1
+203,My Wish,Rascal Flatts,25,2019-06-08,2019-06-08,1,1
+204,Girl Goin' Nowhere,Ashley McBryde,25,2019-04-20,2019-04-20,1,1
+205,Shallow,Danielle Bradbery Featuring Parker McCollum,25,2019-04-06,2019-04-06,1,1
+206,The Dead Don't Die,Sturgill Simpson,25,2019-06-29,2019-06-29,1,1
+207,Every Little Honky Tonk Bar,George Strait,25,2019-03-30,2019-03-30,1,1

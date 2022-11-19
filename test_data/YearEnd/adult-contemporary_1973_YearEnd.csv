@@ -1,0 +1,329 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,The Most Beautiful Girl,Charlie Rich,1,1973-09-29,1973-12-29,1420,14
+2,Delta Dawn,Helen Reddy,1,1973-06-23,1973-10-06,1413,16
+3,Paper Roses,Marie Osmond,1,1973-09-15,1973-12-29,1355,16
+4,Loves Me Like A Rock,Paul Simon w/ The Dixie Hummingbirds,1,1973-08-04,1973-11-17,1341,16
+5,"Say, Has Anybody Seen My Sweet Gypsy Rose",Dawn,1,1973-07-14,1973-10-06,1305,13
+6,All I Know,Garfunkel,1,1973-09-22,1973-12-22,1303,14
+7,I'm Coming Home,Johnny Mathis,1,1973-08-25,1973-12-22,1255,18
+8,My Maria,B.W. Stevenson,1,1973-08-04,1973-11-03,1168,14
+9,Top Of The World,Carpenters,2,1973-10-06,1973-12-29,1065,13
+10,Half-Breed,Cher,3,1973-08-11,1973-11-24,1002,16
+11,Touch Me In The Morning,Diana Ross,1,1973-06-02,1973-09-08,1000,15
+12,Get Down,Gilbert O'Sullivan,3,1973-06-23,1973-09-15,953,13
+13,We May Never Pass This Way (Again),Seals & Crofts,2,1973-09-29,1973-12-22,936,13
+14,Yesterday Once More,Carpenters,1,1973-06-09,1973-08-25,898,12
+15,Photograph,Ringo Starr,3,1973-10-13,1973-12-29,886,12
+16,Leave Me Alone (ruby Red Dress),Helen Reddy,1,1973-11-10,1973-12-29,876,8
+17,Knockin' On Heaven's Door,Bob Dylan,5,1973-09-08,1973-12-15,869,15
+18,How Can I Tell Her,Lobo,4,1973-06-23,1973-09-08,824,12
+19,Clouds,David Gates,3,1973-07-07,1973-09-15,760,11
+20,Boogie Woogie Bugle Boy,Bette Midler,1,1973-05-19,1973-08-18,745,14
+21,I Got A Name,Jim Croce,4,1973-09-29,1973-12-29,730,14
+22,Jesse,Roberta Flack,3,1973-09-22,1973-12-08,729,12
+23,Diamond Girl,Seals & Crofts,4,1973-06-02,1973-08-25,673,13
+24,Let Me In,The Osmonds,4,1973-09-15,1973-11-17,669,10
+25,Just You 'n' Me,Chicago,7,1973-10-06,1973-12-29,660,13
+26,Let Me Be There,Olivia Newton-John,3,1973-09-08,1973-12-29,619,15
+27,In The Midnight Hour,Cross Country,6,1973-08-11,1973-11-03,613,13
+28,The Morning After,Maureen McGovern,6,1973-06-16,1973-09-01,578,12
+29,Loving Arms,Dobie Gray,7,1973-07-28,1973-10-27,577,14
+30,And I Love You So,Perry Como,1,1973-03-24,1973-07-21,574,18
+31,Ashes To Ashes,The 5th Dimension,7,1973-08-04,1973-10-27,571,13
+32,Who's In The Strawberry Patch With Sally,Dawn,3,1973-11-10,1973-12-29,548,8
+33,Kodachrome,Paul Simon,2,1973-05-26,1973-08-04,544,11
+34,Shambala,Three Dog Night,3,1973-05-26,1973-08-04,523,11
+35,Coraz=n,Carole King,5,1973-10-20,1973-12-29,518,11
+36,"Bad, Bad Leroy Brown",Jim Croce,9,1973-04-21,1973-08-25,518,19
+37,Tie A Yellow Ribbon Round The Ole Oak Tree,Dawn,1,1973-02-17,1973-06-02,479,16
+38,Jimmy Loves Mary-Anne,Looking Glass,16,1973-06-30,1973-10-27,460,18
+39,Give Me Love - (Give Me Peace On Earth),George Harrison,4,1973-05-26,1973-08-04,455,11
+40,You Are The Sunshine Of My Life,Stevie Wonder,1,1973-03-24,1973-06-23,427,14
+41,Daisy A Day,Jud Strunk,4,1973-01-06,1973-05-19,426,20
+42,My Love,Paul McCartney/Wings,1,1973-04-28,1973-07-21,422,13
+43,You Light Up My Life/Believe In Humanity,Carole King,6,1973-08-11,1973-09-15,419,6
+44,Behind Closed Doors,Charlie Rich,8,1973-05-12,1973-08-18,415,15
+45,Daniel,Elton John,1,1973-04-14,1973-07-07,405,13
+46,Live And Let Die,Paul McCartney/Wings,8,1973-07-07,1973-09-08,403,10
+47,Time In A Bottle,Jim Croce,1,1973-11-24,1973-12-29,398,6
+48,Danny's Song,Anne Murray,1,1973-01-06,1973-04-14,398,15
+49,The Way We Were,Barbra Streisand,5,1973-10-20,1973-12-29,398,11
+50,Summer (The First Time),Bobby Goldsboro,18,1973-06-16,1973-11-03,389,17
+51,Peaceful,Helen Reddy,2,1973-02-17,1973-05-12,386,13
+52,What About Me,Anne Murray,2,1973-05-19,1973-07-21,384,10
+53,"Never, Never, Never (Grande, Grande, Grande)",Shirley Bassey,8,1973-05-12,1973-07-28,381,12
+54,Killing Me Softly With His Song,Roberta Flack,2,1973-02-03,1973-04-14,368,11
+55,Out Of The Question,Gilbert O'Sullivan,2,1973-03-10,1973-06-02,368,13
+56,Sing,Carpenters,1,1973-02-24,1973-05-12,366,12
+57,Rhapsody In Blue,Deodato,10,1973-08-11,1973-10-20,365,11
+58,Rocky Mountain High,John Denver,3,1973-01-06,1973-03-17,361,11
+59,Send A Little Love My Way,Anne Murray,10,1973-07-21,1973-09-22,360,10
+60,Last Song,Edward Bear,1,1973-01-13,1973-03-31,355,12
+61,The Right Thing To Do,Carly Simon,4,1973-03-31,1973-06-16,355,12
+62,Friends,Bette Midler,9,1973-09-29,1973-12-01,355,10
+63,Dueling Banjos,Eric Weissberg & Steve Mandell,1,1973-01-13,1973-03-31,352,12
+64,It's A Small Small World,The Mike Curb Congregation,9,1973-07-28,1973-09-29,345,10
+65,Playground In My Mind,Clint Holmes,7,1973-03-17,1973-06-23,339,15
+66,Goodbye Yellow Brick Road,Elton John,7,1973-11-03,1973-12-29,321,9
+67,Don't Expect Me To Be Your Friend,Lobo,1,1973-01-13,1973-03-17,320,10
+68,You'll Never Get To Heaven (If You Break My Heart),The Stylistics,4,1973-05-19,1973-07-14,316,9
+69,Welcome Home,Peters And Lee,26,1973-08-18,1973-12-01,310,16
+70,Also Sprach Zarathustra (2001),Deodato,5,1973-02-03,1973-04-21,306,12
+71,Be,Neil Diamond,11,1973-10-27,1973-12-29,303,10
+72,Ramblin' Man,The Allman Brothers Band,12,1973-09-22,1973-11-17,297,9
+73,Sail Around The World,David Gates,11,1973-10-20,1973-12-22,294,10
+74,Was A Sunny Day,Josh,13,1973-07-21,1973-10-06,288,12
+75,I Won't Last A Day Without You,Maureen McGovern,14,1973-10-06,1973-12-08,288,10
+76,Stir It Up,Johnny Nash,6,1973-02-17,1973-05-05,287,12
+77,Love Don't Care (Where It Grows),Perry Como,16,1973-10-06,1973-12-15,287,11
+78,You're So Vain,Carly Simon,1,1973-01-06,1973-02-24,286,8
+79,Wildflower,Skylark,5,1973-03-24,1973-06-02,285,11
+80,Muskrat Love,America,11,1973-08-11,1973-10-13,280,10
+81,Thinking Of You,Loggins & Messina,7,1973-03-31,1973-06-09,272,11
+82,Freedom For The Stallion,The Hues Corporation,9,1973-08-18,1973-10-06,272,8
+83,Midnight Train To Georgia,Gladys Knight/Pips,19,1973-09-15,1973-11-24,264,11
+84,"It Sure Took A Long, Long Time",Lobo,3,1973-04-14,1973-06-09,262,9
+85,Aubrey,Bread,4,1973-02-10,1973-04-07,257,9
+86,He Did With Me,Vicki Lawrence,14,1973-06-16,1973-08-11,256,9
+87,My Music,Loggins & Messina,10,1973-11-10,1973-12-29,245,8
+88,Dreidel,Don McLean,7,1973-01-06,1973-03-03,244,9
+89,Crunchy Granola Suite,Percy Faith And His Orchestra,16,1973-10-27,1973-12-29,242,10
+90,"Oh, Babe, What Would You Say?",Hurricane Smith,2,1973-01-06,1973-02-17,240,7
+91,Separate Ways,Elvis Presley,3,1973-01-06,1973-02-17,238,7
+92,The Night The Lights Went Out In Georgia,Vicki Lawrence,6,1973-03-03,1973-04-28,237,9
+93,Big City Miss Ruth Ann,Gallery,10,1973-01-20,1973-03-24,235,10
+94,Sister James,Nino Tempo And 5th Ave. Sax,18,1973-09-22,1973-11-17,235,9
+95,Do You Want To Dance?,Bette Midler,8,1973-01-13,1973-03-24,234,11
+96,Letter To Lucille,Tom Jones,11,1973-05-12,1973-07-14,233,10
+97,"Living Together, Growing Together",The 5th Dimension,5,1973-01-13,1973-03-10,230,9
+98,Don't Let Me Be Lonely Tonight,James Taylor,3,1973-01-06,1973-02-17,229,7
+99,Teddy Bear Song,Barbara Fairchild,9,1973-04-21,1973-06-23,227,10
+100,The Twelfth Of Never,Donny Osmond,7,1973-03-17,1973-05-12,226,9
+101,I'm Doin' Fine Now,New York City,8,1973-04-14,1973-06-16,218,10
+102,Cook With Honey,Judy Collins,10,1973-02-17,1973-04-21,214,10
+103,Tell Her She's Lovely,El Chicano,22,1973-08-18,1973-12-29,213,10
+104,Eres Tu (Touch The Wind),Mocedades,12,1973-11-17,1973-12-29,205,7
+105,Drift Away,Dobie Gray,12,1973-03-17,1973-05-19,205,10
+106,You're The Best Thing That Ever Happened To Me,Ray Price,21,1973-08-04,1973-10-06,204,10
+107,The Last Thing On My Mind,Neil Diamond,15,1973-08-25,1973-10-06,197,7
+108,Come Live With Me,Ray Charles,20,1973-10-27,1973-12-29,197,10
+109,Close Your Eyes,Edward Bear,11,1973-04-28,1973-06-23,192,9
+110,Hummingbird,Seals & Crofts,12,1973-02-03,1973-03-31,192,9
+111,Open Up Your Heart,Roger Miller,20,1973-07-28,1973-09-22,192,9
+112,One Less Set Of Footsteps,Jim Croce,8,1973-02-10,1973-04-07,187,9
+113,Next Door Neighbor's Kid,Jud Strunk,22,1973-07-07,1973-08-25,183,8
+114,Fool,Elvis Presley,12,1973-04-28,1973-06-16,182,8
+115,Hello It's Me,Todd Rundgren,17,1973-11-03,1973-12-29,182,9
+116,Solitaire,Andy Williams,23,1973-10-06,1973-12-01,177,9
+117,Show And Tell,Al Wilson,10,1973-11-17,1973-12-29,176,7
+118,The Greatest Song I've Ever Heard,The New Seekers,16,1973-07-28,1973-09-15,173,8
+119,Natural High,Bloodstone,20,1973-06-23,1973-08-11,165,8
+120,Grapefruit - Juicy Fruit,Jimmy Buffett,23,1973-09-01,1973-10-13,163,7
+121,Rosalie,Sam Neely,9,1973-02-03,1973-03-17,162,7
+122,Vado Via,Drupi,25,1973-09-15,1973-11-03,162,8
+123,Smoke Gets In Your Eyes,Blue Haze,5,1973-01-06,1973-02-03,161,5
+124,Where Peaceful Waters Flow,Gladys Knight/Pips,18,1973-06-30,1973-08-11,159,7
+125,Jambalaya (On The Bayou),The Blue Ridge Rangers,11,1973-01-20,1973-03-10,156,8
+126,Ooh Baby,Gilbert O'Sullivan,29,1973-10-13,1973-12-08,156,9
+127,"You Turn Me On, I'm A Radio",Joni Mitchell,13,1973-01-06,1973-02-10,153,6
+128,Everyone's Agreed That Everything Will Turn Out Fine,Stealers Wheel,23,1973-07-07,1973-09-01,152,9
+129,I'm Never Gonna Be Alone Anymore,Cornelius Brothers & Sister Rose,10,1973-01-06,1973-02-17,151,7
+130,Sunshine,Mickey Newbury,16,1973-07-07,1973-08-18,149,7
+131,Pieces Of April,Three Dog Night,6,1973-01-06,1973-02-03,148,5
+132,Clair,Gilbert O'Sullivan,4,1973-01-06,1973-02-03,146,5
+133,Been To Canaan,Carole King,1,1973-01-06,1973-01-27,145,4
+134,Good Morning Heartache,Diana Ross,8,1973-01-27,1973-03-03,144,6
+135,Who Was It?,Hurricane Smith,12,1973-03-31,1973-05-05,143,6
+136,If We Try,Don McLean,12,1973-03-31,1973-05-12,143,7
+137,Bitter Bad,Melanie,12,1973-03-03,1973-04-14,142,7
+138,Crocodile Rock,Elton John,11,1973-01-06,1973-02-10,139,6
+139,Ain't No Woman (Like The One I've Got),Four Tops,14,1973-03-03,1973-04-21,139,8
+140,Harmony,Ray Conniff,23,1973-07-28,1973-09-08,137,7
+141,Could It Be I'm Falling In Love,Spinners,14,1973-01-20,1973-03-10,136,8
+142,The Indiana Girl,Marty Cooper,22,1973-03-31,1973-06-09,135,11
+143,Pour Me A Little More Wine,Wayne Newton,26,1973-09-29,1973-11-10,134,7
+144,Farewell Andromeda (Welcome To My Morning),John Denver,20,1973-09-08,1973-10-20,132,7
+145,Stuck In The Middle With You,Stealers Wheel,13,1973-04-21,1973-05-26,130,6
+146,Soul Song,Joe Stampley,17,1973-01-27,1973-03-17,129,8
+147,Gypsy Davy,Arlo Guthrie,23,1973-06-09,1973-07-28,128,8
+148,Ghetto Child,The Spinners,20,1973-08-25,1973-09-29,126,6
+149,Looking Through The Eyes Of Love,The Partridge Family,9,1973-01-06,1973-02-03,125,5
+150,Tequila Sunrise,Eagles,26,1973-06-30,1973-08-04,125,6
+151,Just Don't Want To Be Lonely,Ronnie Dyson,30,1973-06-30,1973-09-22,125,9
+152,I'd Rather Be A Cowboy,John Denver,25,1973-06-09,1973-07-28,124,8
+153,Walk On Water,Neil Diamond,2,1973-01-06,1973-01-27,122,4
+154,Lovin' Naturally,Sandalwood,19,1973-06-02,1973-07-14,121,7
+155,"""Cherry Cherry"" from Hot August Night",Neil Diamond,19,1973-03-31,1973-05-12,120,7
+156,Raised On Rock,Elvis Presley,27,1973-09-29,1973-11-10,119,7
+157,Painted Ladies,Ian Thomas,28,1973-11-24,1973-12-29,118,6
+158,There Ain't No Way,Lobo,29,1973-11-03,1973-12-15,118,7
+159,A Song I'd Like To Sing,Kris Kristofferson & Rita Coolidge,18,1973-11-10,1973-12-29,117,7
+160,One Of A Kind (Love Affair),Spinners,19,1973-05-26,1973-07-07,117,7
+161,Love Is All,Engelbert Humperdinck,33,1973-09-15,1973-11-03,117,8
+162,One Man Band (Plays All Alone),Ronnie Dyson,16,1973-03-17,1973-05-05,115,8
+163,Young Love/a Million To One,Donny Osmond,26,1973-08-11,1973-09-08,115,5
+164,Let Me Try Again (Laisse Moi Le Temps),Frank Sinatra,24,1973-11-24,1973-12-29,114,6
+165,Everything's Been Changed,The 5th Dimension,18,1973-04-07,1973-05-19,113,7
+166,Songman,Cashman & West,16,1973-01-06,1973-02-10,111,6
+167,Peaceful Easy Feeling,Eagles,20,1973-01-20,1973-03-17,111,9
+168,Inspiration,Paul Williams,26,1973-11-24,1973-12-29,111,6
+169,Evil,"Earth, Wind & Fire",19,1973-09-01,1973-09-29,110,5
+170,Sweet Surrender,Bread,1,1973-01-06,1973-01-20,107,3
+171,Me And Mrs. Jones,Billy Paul,10,1973-01-06,1973-01-27,107,4
+172,Keep On Singing,Austin Roberts,22,1973-02-10,1973-03-24,107,7
+173,Don't Cross The River,America,23,1973-02-10,1973-03-24,105,7
+174,My Prayer,The Vogues,31,1973-08-11,1973-09-15,104,6
+175,Since I Don't Have You,Lenny Welch,25,1973-09-08,1973-10-06,102,5
+176,Break Up To Make Up,The Stylistics,20,1973-02-24,1973-04-07,101,7
+177,Venus,Christopher Paul And Shawn,28,1973-10-13,1973-11-24,101,7
+178,Space Race,Billy Preston,34,1973-10-06,1973-11-24,101,8
+179,Funny Face,Donna Fargo,8,1973-01-06,1973-01-27,100,4
+180,I'm Leavin' You,Engelbert Humperdinck,17,1973-05-05,1973-06-09,99,6
+181,Neither One Of Us (Wants To Be The First To Say Goodbye),Gladys Knight/Pips,15,1973-03-24,1973-04-21,97,5
+182,Your Mama Don't Dance,Loggins & Messina,19,1973-01-06,1973-02-10,93,6
+183,You Light Up My Life,Carole King,13,1973-07-21,1973-08-04,92,3
+184,Percolator,Hot Butter,19,1973-04-07,1973-05-26,89,8
+185,You're A Lady,Peter Skellern,11,1973-01-06,1973-01-20,88,3
+186,Summer In The City,Quincy Jones,30,1973-08-04,1973-09-22,86,8
+187,"Lord, Mr. Ford",Jerry Reed,32,1973-06-23,1973-08-04,85,7
+188,Hello Stranger,Fire And Rain,24,1973-05-05,1973-06-16,84,7
+189,Love For You,Sonoma,33,1973-11-10,1973-12-29,84,8
+190,Sunshine Ship,"Arthur, Hurley & Gottlieb",25,1973-07-28,1973-08-25,83,5
+191,Come Live With Me,Roy Clark,23,1973-06-02,1973-07-07,80,6
+192,It Never Rains In Southern California,Albert Hammond,10,1973-01-06,1973-01-20,78,3
+193,Lost Horizon,Shawn Phillips,20,1973-02-24,1973-03-24,78,5
+194,Love Music,Sergio Mendes & Brasil '77,24,1973-03-31,1973-05-05,75,6
+195,Angie,The Rolling Stones,38,1973-10-06,1973-11-17,75,7
+196,Why Me,Kris Kristofferson,28,1973-07-21,1973-10-06,74,5
+197,MIND GAMES,John Lennon,33,1973-12-01,1973-12-29,74,5
+198,Cosmic Sea,The Mystic Moods,25,1973-04-21,1973-05-26,73,6
+199,I'm Gonna Love You Just A Little More Baby,Barry White,27,1973-06-02,1973-07-07,73,6
+200,Half A Million Miles From Home,Albert Hammond,29,1973-12-01,1973-12-29,72,5
+201,With A Child's Heart,Michael Jackson,23,1973-05-19,1973-06-16,71,5
+202,Walking In The Georgia Rain,Sonny Geraci And Climax,38,1973-10-27,1973-12-15,69,8
+203,Sitting,Cat Stevens,17,1973-01-06,1973-01-20,68,3
+204,Remember (Christmas),Nilsson,21,1973-01-06,1973-02-03,67,5
+205,Summer Song,Lettermen,25,1973-06-09,1973-07-14,67,6
+206,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,31,1973-12-08,1973-12-29,66,4
+207,Soul Makossa,Manu Dibango,29,1973-06-30,1973-07-21,65,4
+208,Together (Body And Soulin'),The Mission U.K.,36,1973-10-20,1973-12-01,65,7
+209,American Tune,Paul Simon,27,1973-12-15,1973-12-29,62,3
+210,Come Softly To Me,The New Seekers,21,1973-01-06,1973-01-27,60,4
+211,Last Tango In Paris,Herb Alpert & The TJB,22,1973-03-10,1973-04-14,60,6
+212,Control Of Me,Les Emmerson,26,1973-02-03,1973-03-10,59,6
+213,Ooh What A Feeling,Johnny Nash,38,1973-09-29,1973-11-03,59,6
+214,One Last Time,Glen Campbell,20,1973-01-06,1973-01-20,58,3
+215,Dancing In The Moonlight,King Harvest,22,1973-01-27,1973-02-24,57,5
+216,I Never Said Goodbye,Engelbert Humperdinck,25,1973-01-06,1973-01-27,57,4
+217,My Merry-go-round,Johnny Nash,34,1973-06-23,1973-07-21,57,5
+218,I'm Gonna Sit Right Down And Write Myself A Letter,Joey Scarbury,36,1973-09-01,1973-09-29,57,5
+219,Pillow Talk,Sylvia (r&b),27,1973-05-26,1973-06-23,55,5
+220,That's Why You Remember,Kenny Karen,29,1973-09-15,1973-09-29,55,3
+221,Shiddle-ee-dee,Clint Holmes,34,1973-09-22,1973-10-20,55,5
+222,The Hurt,Cat Stevens,38,1973-07-14,1973-08-18,55,6
+223,Learn To Say Goodbye,Dusty Springfield,33,1973-07-14,1973-08-11,54,5
+224,Top Of The World,Lynn Anderson,34,1973-07-21,1973-08-18,54,5
+225,Knock Knock Who's There,Mary Hopkin,11,1973-01-06,1973-01-13,53,2
+226,Wait Until September,Michael Allen,38,1973-08-25,1973-09-29,53,6
+227,The River Of Love,B.W. Stevenson,34,1973-12-01,1973-12-29,52,5
+228,As Time Goes By,Nilsson,35,1973-08-18,1973-09-22,52,6
+229,Flashback,The 5th Dimension,36,1973-12-08,1973-12-29,52,4
+230,I Need You/Isn't Life Strange/Without You,The Pastors,41,1973-07-28,1973-09-29,52,10
+231,I Knew Jesus (Before He Was A Star),Glen Campbell,26,1973-03-24,1973-04-28,51,6
+232,Love's Theme,Love Unlimited Orchestra,20,1973-12-15,1973-12-29,50,3
+233,Uneasy Rider,Charlie Daniels,37,1973-08-04,1973-09-01,49,5
+234,Country Sunshine,Dottie West,37,1973-10-13,1973-11-10,49,5
+235,But I Do,Bobby Vinton,27,1973-01-06,1973-02-03,48,5
+236,My Sweet Lady,Cliff DeYoung,30,1973-12-15,1973-12-29,46,3
+237,Swamp Witch,Jim Stafford,31,1973-07-07,1973-07-21,46,3
+238,Bongo Rock,The Incredible Bongo Band,35,1973-08-18,1973-09-08,46,4
+239,Love Is What You Make It,The Grass Roots,31,1973-02-10,1973-03-17,44,6
+240,So Very Hard To Go,Tower Of Power,36,1973-07-07,1973-07-28,44,4
+241,Your Side Of The Bed,Mac Davis,28,1973-05-05,1973-06-02,43,5
+242,Where Is The Love,Sergio Mendes & Brasil '77,36,1973-07-28,1973-08-11,43,3
+243,He,Today's People,37,1973-08-18,1973-09-08,43,4
+244,I'll Have To Go Away,Skylark,39,1973-08-25,1973-09-22,43,5
+245,Sweet Understanding Love,Four Tops,41,1973-11-03,1973-12-08,42,6
+246,Ventura Highway,America,16,1973-01-06,1973-01-13,41,2
+247,Shambala,B.W. Stevenson,31,1973-06-02,1973-07-07,41,6
+248,Yesterday And You,Holly Sherwood,30,1973-03-24,1973-04-21,40,5
+249,Happy,Bobby Darin,32,1973-01-06,1973-02-10,40,6
+250,(I'd Be) A Legend In My Time,"Sammy Davis, Jr. with The Mike Curb Congregation",29,1973-04-14,1973-05-19,39,6
+251,Higher Ground,Stevie Wonder,41,1973-09-01,1973-10-20,39,8
+252,Rock 'N Roll (I Gave You The Best Years of My Life),Kevin Johnson,43,1973-11-10,1973-12-22,38,7
+253,Didn't We,Barbra Streisand,22,1973-01-06,1973-01-13,37,2
+254,You're Sixteen,Ringo Starr,25,1973-12-22,1973-12-29,37,2
+255,"Names, Tags, Numbers & Labels",The Association,27,1973-03-03,1973-03-24,37,4
+256,Mama's Little Girl,Dusty Springfield,33,1973-04-28,1973-06-02,36,6
+257,Young Love,Donny Osmond,35,1973-07-21,1973-08-04,36,3
+258,Love Song,Anne Murray,35,1973-12-15,1973-12-29,32,3
+259,Hearts Of Stone,Blue Ridge Rangers,31,1973-04-28,1973-05-26,31,5
+260,Shangri-La,Al Capps,33,1973-05-19,1973-06-16,30,5
+261,Dream Me Home,Mac Davis,32,1973-02-24,1973-03-17,29,4
+262,Spiders & Snakes,Jim Stafford,40,1973-12-08,1973-12-29,29,4
+263,Pretty Lady,Lighthouse,38,1973-12-08,1973-12-29,28,4
+264,Nashville,Ray Stevens,44,1973-07-14,1973-08-11,28,5
+265,Feelin',Steve & Eydie,31,1973-02-24,1973-03-24,27,5
+266,Oklahoma Crude,Henry Mancini And His Orchestra,38,1973-06-30,1973-07-14,27,3
+267,The House Of The Rising Sun,Jody Miller,41,1973-12-01,1973-12-15,27,3
+268,You're A Special Part Of Me,Diana Ross & Marvin Gaye,43,1973-10-20,1973-11-10,25,4
+269,Rockin' Roll Baby,The Stylistics,44,1973-12-01,1973-12-29,25,5
+270,You've Never Been This Far Before,Conway Twitty,37,1973-09-29,1973-10-13,24,3
+271,Everybody Loves A Love Song,Mac Davis,18,1973-01-06,1973-01-06,23,1
+272,Friend,Stephen Ambrose,32,1973-04-07,1973-04-28,23,4
+273,The Long Way Home,Neil Diamond,41,1973-08-04,1973-08-18,23,3
+274,You Are What I Am,Gordon Lightfoot,32,1973-02-03,1973-02-24,22,4
+275,Maybe Baby,Gallery Feat. Jim Gold,40,1973-07-14,1973-07-21,22,2
+276,"Pinball Wizard/See Me, Feel Me",The New Seekers,34,1973-04-07,1973-04-28,21,4
+277,Skylab (Passport To The Future),The Ventures,38,1973-07-28,1973-08-04,21,2
+278,Songs,B.J. Thomas,41,1973-07-07,1973-07-28,21,4
+279,Last Time I Saw Him,Diana Ross,31,1973-12-29,1973-12-29,20,1
+280,First Cut Is The Deepest,Keith Hampshire,32,1973-06-16,1973-07-07,20,4
+281,Little Girl Gone,Donna Fargo,43,1973-10-06,1973-10-27,20,4
+282,Wherefore And Why,Glen Campbell,45,1973-11-03,1973-11-24,20,4
+283,Do It Again,Steely Dan,34,1973-01-27,1973-02-24,19,5
+284,"Biff, The Friendly Purple Bear",Dick Feller,41,1973-12-15,1973-12-29,19,3
+285,Wouldn't I Be Someone,Bee Gees,42,1973-07-07,1973-07-21,19,3
+286,The Last Tango In Paris,Doc Severinsen,33,1973-03-24,1973-04-07,18,3
+287,Something's Wrong With Me,Austin Roberts,24,1973-01-06,1973-01-06,17,1
+288,Come Go With Me,Del Vikings,32,1973-02-10,1973-02-17,17,2
+289,Rosanna,Dennis Yost/Classics IV,35,1973-03-10,1973-03-31,17,4
+290,Let Us Love,Bill Withers,33,1973-01-06,1973-01-13,16,2
+291,Love Has No Pride,Linda Ronstadt,42,1973-12-22,1973-12-29,16,2
+292,Superman,Donna Fargo,35,1973-03-31,1973-04-14,15,3
+293,I'm Sorry,Joey Heatherton,27,1973-01-06,1973-01-06,14,1
+294,If We Make It Through December,Merle Haggard,37,1973-12-29,1973-12-29,14,1
+295,Eye Level,The Simon Park Orchestra,43,1973-12-22,1973-12-29,14,2
+296,Angel,Aretha Franklin,44,1973-09-01,1973-09-08,14,2
+297,What Am I Crying For?,Dennis Yost/Classics IV,28,1973-01-06,1973-01-06,13,1
+298,A Song I'd Like To Sing,Kris Kristofferson And Rita Coolidge,38,1973-11-24,1973-11-24,13,1
+299,This Time It's Real,Tower Of Power,46,1973-09-15,1973-09-29,13,3
+300,Could You Ever Love Me Again,Gary & Dave,47,1973-11-17,1973-12-08,13,4
+301,Smoke! Smoke! Smoke! (That Cigarette),Commander Cody,45,1973-07-07,1973-07-14,12,2
+302,Show And Tell,Johnny Mathis,36,1973-05-12,1973-05-26,11,3
+303,Back When My Hair Was Short,Gunhill Road,37,1973-06-09,1973-06-23,11,3
+304,I've Got So Much To Give,Barry White,46,1973-09-01,1973-09-15,11,3
+305,The End (At The End Of A Rainbow),Steve Lawrence,46,1973-10-13,1973-10-27,11,3
+306,Life Is A Song Worth Singing,Johnny Mathis,44,1973-12-22,1973-12-29,10,2
+307,Long Dark Road,The Hollies,32,1973-01-06,1973-01-06,9,1
+308,Wonderful Summer,The Vogues,47,1973-11-24,1973-12-15,9,4
+309,Superstition,Stevie Wonder,38,1973-01-27,1973-02-10,8,3
+310,Wasn't It Nice In New York City,Tommy Leonetti,38,1973-04-21,1973-05-12,8,4
+311,Tell Her It's Snowing,Tony Bennett,38,1973-05-05,1973-05-19,7,3
+312,Touch The Wind (Eres Tu),Eydie Gorme,45,1973-12-22,1973-12-29,7,2
+313,Take One Step,Eydie Gorme,47,1973-08-11,1973-08-18,7,2
+314,Brand New Kind Of Love,Bobby Goldsboro,37,1973-02-17,1973-03-03,6,3
+315,My Crew,Rita Coolidge,38,1973-02-17,1973-02-24,6,2
+316,Daddy What If,Bobby Bare,47,1973-12-22,1973-12-29,6,2
+317,You Were Always There,Donna Fargo,47,1973-07-14,1973-07-28,6,3
+318,Slag Solution,Hot Butter,49,1973-08-25,1973-09-01,4,2
+319,Ships In The Night,Vicki Lawrence,49,1973-11-17,1973-12-01,4,3
+320,I Love,Tom T. Hall,48,1973-12-29,1973-12-29,3,1
+321,Hurt,Bobby Vinton,40,1973-05-19,1973-05-26,2,2
+322,Take Good Care Of Her,Johnny Mathis,40,1973-03-03,1973-03-10,2,2
+323,I Won't Last A Day Without You,Paul Williams,40,1973-03-17,1973-03-24,2,2
+324,Heartbeat - It's A Lovebeat,DeFranco Family,49,1973-10-13,1973-10-13,2,1
+325,I Shall Sing,Garfunkel,49,1973-12-29,1973-12-29,2,1
+326,Get On With Your Livin',Dean Martin,50,1973-08-18,1973-08-25,2,2
+327,The Love I Lost (Part 1),Harold Melvin And The Blue Notes,50,1973-12-29,1973-12-29,1,1
+328,"Oh, What A Feeling",Mary Travers,50,1973-10-13,1973-10-13,1,1

@@ -1,0 +1,49 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Sweet Child O' Mine,Guns N' Roses,1,2022-01-01,2022-11-05,1086,45
+2,Thunderstruck,AC/DC,1,2022-01-01,2022-11-05,1026,45
+3,Bohemian Rhapsody,Queen,1,2022-01-01,2022-11-05,1010,45
+4,Livin' On A Prayer,Bon Jovi,4,2022-01-01,2022-11-05,874,45
+5,Another One Bites The Dust,Queen,4,2022-01-01,2022-11-05,846,45
+6,Kryptonite,3 Doors Down,4,2022-01-01,2022-11-05,837,45
+7,Dream On,Aerosmith,2,2022-01-01,2022-11-05,834,45
+8,Back In Black,AC/DC,6,2022-01-01,2022-11-05,788,45
+9,Enter Sandman,Metallica,4,2022-01-01,2022-11-05,753,45
+10,Everlong,Foo Fighters,1,2022-01-01,2022-11-05,740,45
+11,You Shook Me All Night Long,AC/DC,9,2022-01-01,2022-11-05,654,45
+12,In The End,Linkin Park,8,2022-01-01,2022-11-05,611,45
+13,Carry On Wayward Son,Kansas,9,2022-01-01,2022-11-05,508,45
+14,Numb,Linkin Park,13,2022-01-01,2022-11-05,416,45
+15,Pour Some Sugar On Me,Def Leppard,12,2022-01-01,2022-11-05,399,45
+16,Under Pressure,Queen & David Bowie,12,2022-01-01,2022-11-05,398,45
+17,Highway To Hell,AC/DC,11,2022-01-01,2022-11-05,369,45
+18,Master Of Puppets,Metallica,1,2022-07-16,2022-11-05,346,17
+19,Welcome To The Jungle,Guns N' Roses,14,2022-01-01,2022-11-05,310,45
+20,Chop Suey,System Of A Down,16,2022-01-01,2022-11-05,266,42
+21,Mary On A Cross,Ghost,1,2022-08-27,2022-11-05,263,11
+22,Bring Me To Life,Evanescence Featuring Paul McCoy,16,2022-01-01,2022-11-05,229,45
+23,King For A Day,Pierce The Veil Featuring Kellin Quinn,1,2022-08-13,2022-11-05,202,13
+24,Crazy Train,Ozzy Osbourne,17,2022-01-08,2022-11-05,193,43
+25,How You Remind Me,Nickelback,18,2022-01-01,2022-10-29,117,34
+26,The Rumbling,SiM,1,2022-01-29,2022-03-26,115,9
+27,We Will Rock You,Queen,14,2022-01-01,2022-07-09,92,22
+28,Paradise City,Guns N' Roses,19,2022-01-15,2022-09-03,61,22
+29,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,1,2022-01-01,2022-01-08,50,2
+30,The Foundations Of Decay,My Chemical Romance,1,2022-05-28,2022-05-28,25,1
+31,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1,2022-02-05,2022-02-05,25,1
+32,The Sound Of Silence,Disturbed,18,2022-01-01,2022-04-30,25,8
+33,Paradise By The Dashboard Light,Meat Loaf,2,2022-02-05,2022-02-05,24,1
+34,Jack,HARDY,10,2022-10-15,2022-10-22,22,2
+35,Sweet Emotion,Aerosmith,21,2022-05-07,2022-07-16,21,8
+36,For Whom The Bell Tolls,Metallica,17,2022-07-16,2022-08-13,18,5
+37,Zombified,Falling In Reverse,14,2022-01-22,2022-01-22,12,1
+38,Last Resort,Papa Roach,23,2022-01-01,2022-03-12,10,6
+39,My Hero,Foo Fighters,18,2022-04-09,2022-04-09,8,1
+40,Down With The Sickness,Disturbed,24,2022-03-26,2022-04-23,7,4
+41,Sold Out,HARDY,20,2022-04-02,2022-04-02,6,1
+42,Pass The Nirvana,Pierce The Veil,20,2022-09-17,2022-09-17,6,1
+43,Rockstar,Nickelback,23,2022-03-12,2022-03-26,6,3
+44,Kickstart My Heart,Motley Crue,24,2022-07-23,2022-08-20,6,4
+45,Stairway To Heaven,Led Zeppelin,24,2022-01-15,2022-05-21,4,3
+46,(I Hate) Everything About You,Three Days Grace,24,2022-02-12,2022-02-26,4,3
+47,Dragula,Rob Zombie,24,2022-11-05,2022-11-05,2,1
+48,The Pretender,Foo Fighters,25,2022-04-09,2022-04-09,1,1

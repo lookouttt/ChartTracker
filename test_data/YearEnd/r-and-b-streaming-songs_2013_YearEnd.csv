@@ -1,0 +1,87 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Body Party,Ciara,1,2013-05-04,2013-12-28,781,35
+2,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,1,2013-04-20,2013-12-28,769,34
+3,Diamonds,Rihanna,3,2013-04-20,2013-12-28,700,37
+4,Suit & Tie,Justin Timberlake Featuring JAY Z,1,2013-04-20,2013-12-21,566,36
+5,Girl On Fire,Alicia Keys Featuring Nicki Minaj,2,2013-04-20,2013-12-14,497,34
+6,"Hold On, We're Going Home",Drake Featuring Majid Jordan,1,2013-08-24,2013-12-28,454,19
+7,Love More,Chris Brown Featuring Nicki Minaj,2,2013-08-10,2013-12-28,451,21
+8,#Beautiful,Mariah Carey Featuring Miguel,2,2013-06-01,2013-10-19,406,21
+9,Beat It,Sean Kingston Featuring Chris Brown & Wiz Khalifa,4,2013-05-18,2013-10-12,392,22
+10,Fine China,Chris Brown,3,2013-04-20,2013-08-31,368,20
+11,Adorn,Miguel,6,2013-04-20,2013-12-07,365,30
+12,Pour It Up,Rihanna,1,2013-04-20,2013-12-28,331,25
+13,Wicked Games,The Weeknd,6,2013-04-20,2013-11-02,330,29
+14,How Many Drinks?,Miguel,10,2013-05-04,2013-10-19,308,25
+15,I Luv This Sh*t,August Alsina Featuring Trinidad James,6,2013-08-17,2013-12-28,305,20
+16,Don't Think They Know,Chris Brown Featuring Aaliyah,6,2013-07-13,2013-12-07,297,22
+17,I'm Out,Ciara Featuring Nicki Minaj,2,2013-07-20,2013-11-02,295,16
+18,Dance For You,Beyonce,8,2013-04-20,2013-12-28,292,28
+19,Next To Me,Emeli Sande,7,2013-04-20,2013-09-14,253,22
+20,Thriller,Michael Jackson,3,2013-04-20,2013-12-14,235,34
+21,Thinkin Bout You,Frank Ocean,10,2013-04-20,2013-10-12,217,26
+22,Billie Jean,Michael Jackson,14,2013-04-20,2013-12-21,209,32
+23,Single Ladies (Put A Ring On It),Beyonce,8,2013-04-20,2013-12-28,202,15
+24,It Won't Stop,Sevyn Streeter Featuring Chris Brown,2,2013-10-26,2013-12-28,197,10
+25,Give It 2 U,Robin Thicke Featuring Kendrick Lamar,4,2013-09-14,2013-11-23,175,11
+26,Lolly,Maejor Ali Featuring Juicy J & Justin Bieber,3,2013-10-05,2013-12-28,170,13
+27,Kisses Down Low,Kelly Rowland,9,2013-04-20,2013-08-03,170,16
+28,All Of Me,John Legend,5,2013-10-19,2013-12-28,161,11
+29,Trapped In The Closet,R. Kelly,14,2013-06-22,2013-12-28,159,22
+30,TKO,Justin Timberlake,5,2013-10-19,2013-12-28,152,11
+31,Don't Judge Me,Chris Brown,10,2013-04-20,2013-09-07,142,18
+32,Own It,Drake,5,2013-10-12,2013-12-28,141,12
+33,I Hit It First,Ray J Featuring Bobby Brackins,2,2013-04-27,2013-06-15,125,8
+34,Connect,Drake,6,2013-10-12,2013-12-21,115,10
+35,Love And War,Tamar Braxton,11,2013-04-20,2013-06-29,93,11
+36,Take Back The Night,Justin Timberlake,10,2013-08-03,2013-10-26,85,10
+37,Pusher Love Girl,Justin Timberlake,5,2013-04-20,2013-06-08,70,8
+38,No Scrubs,TLC,7,2013-11-09,2013-12-14,70,6
+39,Loveeeeeee Song,Rihanna Featuring Future,8,2013-04-20,2013-06-15,67,9
+40,V.S.O.P.,K. Michelle,11,2013-08-24,2013-10-12,67,8
+41,I Will Always Love You,Whitney Houston,12,2013-06-29,2013-12-21,64,17
+42,Talk Dirty,Jason Derulo Featuring 2 Chainz,5,2013-12-14,2013-12-28,58,3
+43,Up Down (Do This All Day),T-Pain Featuring B.o.B,10,2013-12-07,2013-12-28,56,4
+44,Somebody Else,Mario Featuring Nicki Minaj,15,2013-07-27,2013-09-14,48,8
+45,Nobody Does It Better,Nate Dogg Featuring Warren G,11,2013-07-06,2013-08-03,38,5
+46,Halo,Beyonce,20,2013-04-20,2013-12-07,34,9
+47,All The Way Home,Tamar Braxton,9,2013-12-21,2013-12-28,31,2
+48,Hot Sugar,Tamar Braxton,6,2013-11-02,2013-11-09,28,2
+49,Get Me Bodied,Beyonce,1,2013-11-23,2013-11-30,27,2
+50,Santa Baby,Eartha Kitt With Henri Rene And His Orchestra,11,2013-12-21,2013-12-28,26,2
+51,Live For,The Weeknd Featuring Drake,13,2013-09-28,2013-10-05,25,2
+52,Gangsta,Kat Dahlia,21,2013-05-04,2013-06-22,25,8
+53,Without Me,Fantasia Featuring Kelly Rowland & Missy Elliott,7,2013-07-20,2013-07-27,24,2
+54,Tunnel Vision,Justin Timberlake,14,2013-07-20,2013-07-27,24,2
+55,Creep,TLC,13,2013-11-09,2013-11-16,23,2
+56,Dirty Laundry,Kelly Rowland,13,2013-08-10,2013-08-17,22,2
+57,Whip My Hair,WILLOW,21,2013-06-15,2013-08-03,21,6
+58,Run The World (Girls),Beyonce,18,2013-04-20,2013-05-04,20,3
+59,Crazy In Love,Beyonce Featuring Jay Z,15,2013-11-02,2013-11-09,19,2
+60,Got To Give It Up (Pt. 1),Marvin Gaye,8,2013-08-31,2013-08-31,18,1
+61,The Christmas Song (Merry Christmas To You),Nat King Cole,14,2013-12-21,2013-12-28,18,2
+62,Ghostbusters,Ray Parker Jr.,9,2013-11-16,2013-11-16,17,1
+63,"I Believe I Can Fly (From ""Space Jam"")",R. Kelly,10,2013-06-29,2013-06-29,16,1
+64,My Story,R. Kelly Featuring 2 Chainz,16,2013-12-14,2013-12-28,15,3
+65,Beat It,Michael Jackson,21,2013-06-15,2013-07-13,14,5
+66,Don't Hold The Wall,Justin Timberlake,17,2013-04-20,2013-04-27,12,2
+67,All The Time,Jeremih Featuring Lil Wayne & Natasha Mosley,21,2013-05-25,2013-08-10,12,4
+68,All Bad,Justin Bieber,15,2013-11-30,2013-11-30,11,1
+69,Confident,Justin Bieber Featuring Chance The Rapper,15,2013-12-28,2013-12-28,11,1
+70,Strawberry Bubblegum,Justin Timberlake,18,2013-04-20,2013-04-27,10,2
+71,Fire We Make,Alicia Keys Duet With Maxwell,17,2013-05-11,2013-05-11,9,1
+72,A Little Party Never Killed Nobody (All We Got),"Fergie, Q-Tip & GoonRock",22,2013-06-01,2013-06-08,8,2
+73,Cookie,R. Kelly,20,2013-12-28,2013-12-28,6,1
+74,Stronger Than I Was,Eminem,20,2013-11-30,2013-11-30,6,1
+75,Love On Top,Beyonce,21,2013-04-27,2013-05-04,6,2
+76,The Worst,Jhene Aiko,21,2013-12-21,2013-12-28,6,2
+77,Q.U.E.E.N.,Janelle Monae Featuring Erykah Badu,22,2013-05-18,2013-05-25,6,2
+78,Chain Of Fools,Aretha Franklin,21,2013-08-17,2013-08-17,5,1
+79,Waterfalls,TLC,21,2013-11-09,2013-11-09,5,1
+80,The One,Tamar Braxton,22,2013-06-22,2013-09-21,5,2
+81,No Guns Allowed,Snoop Lion Featuring Cori B & Drake,22,2013-04-27,2013-04-27,4,1
+82,That Girl,Justin Timberlake,23,2013-04-20,2013-04-20,3,1
+83,Who Booty,Jonn Hart Featuring IamSU!,24,2013-04-20,2013-06-01,3,2
+84,Lose To Win,Fantasia,24,2013-05-11,2013-05-11,2,1
+85,Paranoid,Ty Dolla $ign Featuring B.o.B,25,2013-12-28,2013-12-28,1,1
+86,Bad Day,Justin Bieber,25,2013-11-23,2013-11-23,1,1

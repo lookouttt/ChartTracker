@@ -1,0 +1,512 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Bleeding Love,Leona Lewis,1,2008-03-01,2008-11-22,5007,39
+2,Low,Flo Rida Featuring T-Pain,1,2008-01-05,2008-08-09,4200,32
+3,Lollipop,Lil Wayne Featuring Static Major,1,2008-03-29,2008-10-04,4002,28
+4,Forever,Chris Brown,2,2008-05-10,2008-12-20,3870,33
+5,No Air,Jordin Sparks Duet With Chris Brown,3,2008-01-19,2008-09-13,3847,35
+6,Viva La Vida,Coldplay,1,2008-05-24,2008-12-27,3773,32
+7,Love Song,Sara Bareilles,4,2008-01-05,2008-08-23,3741,34
+8,Disturbia,Rihanna,1,2008-07-05,2008-12-27,3445,26
+9,With You,Chris Brown,2,2008-01-05,2008-06-28,3366,26
+10,Take A Bow,Rihanna,1,2008-04-26,2008-10-25,3349,27
+11,Love In This Club,Usher Featuring Young Jeezy,1,2008-03-01,2008-08-16,3271,25
+12,Whatever You Like,T.I.,1,2008-08-23,2008-12-27,3212,19
+13,Apologize,Timbaland Featuring OneRepublic,3,2008-01-05,2008-07-05,3158,27
+14,I Kissed A Girl,Katy Perry,1,2008-05-24,2008-10-25,3143,23
+15,Pocketful Of Sunshine,Natasha Bedingfield,5,2008-02-09,2008-10-25,3006,35
+16,Closer,Ne-Yo,7,2008-05-03,2008-12-27,2987,35
+17,No One,Alicia Keys,2,2008-01-05,2008-06-14,2930,24
+18,Sexy Can I,Ray J & Yung Berg,3,2008-02-16,2008-08-09,2876,26
+19,Don't Stop The Music,Rihanna,3,2008-01-05,2008-06-28,2874,26
+20,So What,P!nk,1,2008-09-06,2008-12-27,2644,17
+21,I'm Yours,Jason Mraz,6,2008-05-03,2008-12-27,2625,35
+22,Dangerous,Kardinal Offishall Featuring Akon,5,2008-05-24,2008-11-22,2336,27
+23,Hot N Cold,Katy Perry,3,2008-07-05,2008-12-27,2305,20
+24,Stop And Stare,OneRepublic,12,2008-01-05,2008-07-26,2183,30
+25,Shake It,Metro Station,10,2008-04-19,2008-11-08,2163,30
+26,Live Your Life,T.I. Featuring Rihanna,1,2008-10-11,2008-12-27,2155,12
+27,Paper Planes,M.I.A.,4,2008-08-02,2008-12-13,2150,20
+28,Touch My Body,Mariah Carey,1,2008-03-01,2008-07-12,2086,20
+29,Leavin',Jesse McCartney,10,2008-05-10,2008-10-18,2071,24
+30,4 Minutes,Madonna Featuring Justin Timberlake & Timbaland,3,2008-04-05,2008-08-16,2063,20
+31,Got Money,Lil Wayne Featuring T-Pain,10,2008-06-14,2008-12-13,2047,27
+32,See You Again,Miley Cyrus,10,2008-01-05,2008-06-21,1981,25
+33,A Milli,Lil Wayne,6,2008-05-10,2008-10-11,1977,23
+34,American Boy,Estelle Featuring Kanye West,9,2008-05-03,2008-11-22,1957,30
+35,Can't Believe It,T-Pain Featuring Lil Wayne,7,2008-08-16,2008-12-27,1879,20
+36,Bubbly,Colbie Caillat,6,2008-01-05,2008-05-31,1865,22
+37,Paralyzer,Finger Eleven,6,2008-01-05,2008-05-31,1858,22
+38,Bust It Baby Part 2,Plies Featuring Ne-Yo,7,2008-04-12,2008-09-06,1843,22
+39,Damaged,Danity Kane,10,2008-03-29,2008-08-23,1779,22
+40,Fall For You,Secondhand Serenade,21,2008-06-28,2008-12-27,1778,27
+41,Sorry,Buckcherry,9,2008-01-05,2008-05-31,1770,22
+42,What You Got,Colby O'Donis Featuring Akon,14,2008-03-15,2008-08-30,1746,25
+43,Better In Time,Leona Lewis,11,2008-04-26,2008-12-27,1705,23
+44,Our Song,Taylor Swift,16,2008-01-05,2008-06-14,1703,24
+45,It's Not My Time,3 Doors Down,17,2008-03-08,2008-09-20,1701,29
+46,Take You There,Sean Kingston,7,2008-01-05,2008-05-03,1668,18
+47,Independent,Webbie Featuring Lil' Phat & Lil' Boosie,9,2008-01-05,2008-05-24,1667,21
+48,Clumsy,Fergie,5,2008-01-05,2008-04-12,1653,15
+49,Let It Rock,Kevin Rudolf Featuring Lil Wayne,5,2008-09-13,2008-12-27,1617,16
+50,Miss Independent,Ne-Yo,7,2008-09-06,2008-12-27,1600,17
+51,When I Grow Up,The Pussycat Dolls,9,2008-06-14,2008-10-25,1600,20
+52,Tattoo,Jordin Sparks,8,2008-01-05,2008-05-10,1593,19
+53,Realize,Colbie Caillat,20,2008-02-23,2008-08-16,1576,26
+54,Teardrops On My Guitar,Taylor Swift,13,2008-01-05,2008-05-17,1558,20
+55,Sensual Seduction,Snoop Dogg,7,2008-01-05,2008-04-26,1543,17
+56,In The Ayer,Flo Rida Featuring will.i.am,9,2008-07-05,2008-11-22,1510,21
+57,Say,John Mayer,12,2008-02-09,2008-08-02,1484,26
+58,Crush,David Archuleta,2,2008-08-30,2008-12-27,1482,18
+59,One Step At A Time,Jordin Sparks,17,2008-07-12,2008-11-29,1464,21
+60,Love Lockdown,Kanye West,3,2008-10-04,2008-12-27,1453,13
+61,Like You'll Never See Me Again,Alicia Keys,12,2008-01-05,2008-05-03,1410,18
+62,Love Remains The Same,Gavin Rossdale,27,2008-06-21,2008-12-27,1401,28
+63,Womanizer,Britney Spears,1,2008-10-18,2008-12-27,1388,11
+64,Put On,Young Jeezy Featuring Kanye West,12,2008-06-21,2008-11-01,1378,20
+65,Get Like Me,David Banner Featuring Chris Brown,16,2008-05-24,2008-10-11,1364,21
+66,Kiss Kiss,Chris Brown Featuring T-Pain,4,2008-01-05,2008-03-22,1354,12
+67,The Time Of My Life,David Cook,3,2008-06-07,2008-10-18,1344,20
+68,Addicted,Saving Abel,20,2008-06-28,2008-12-27,1328,27
+69,Superstar,Lupe Fiasco Featuring Matthew Santos,10,2008-01-05,2008-05-10,1326,19
+70,If I Were A Boy,Beyonce,3,2008-10-25,2008-12-27,1315,10
+71,Love Story,Taylor Swift,5,2008-09-27,2008-12-27,1311,14
+72,My Life,The Game Featuring Lil Wayne,21,2008-08-23,2008-12-27,1299,19
+73,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",18,2008-05-31,2008-10-11,1288,20
+74,I Luv Your Girl,The-Dream,20,2008-05-10,2008-09-20,1276,20
+75,Suffocate,J. Holiday,18,2008-01-05,2008-05-03,1272,18
+76,Mrs. Officer,Lil Wayne Featuring Bobby Valentino & Kidd Kidd,16,2008-09-06,2008-12-27,1267,17
+77,Shadow Of The Day,Linkin Park,15,2008-01-05,2008-04-19,1248,16
+78,Just Dance,Lady Gaga Featuring Colby O'Donis,3,2008-08-16,2008-12-27,1241,19
+79,In Love With A Girl,Gavin DeGraw,24,2008-03-01,2008-08-23,1217,23
+80,All Summer Long,Kid Rock,23,2008-07-19,2008-11-29,1203,20
+81,The Boss,Rick Ross Featuring T-Pain,17,2008-03-01,2008-07-12,1197,20
+82,Spotlight,Jennifer Hudson,24,2008-08-09,2008-12-27,1181,21
+83,Burnin' Up,Jonas Brothers,5,2008-07-12,2008-10-25,1175,16
+84,Feels Like Tonight,Daughtry,24,2008-02-09,2008-06-21,1169,20
+85,Right Now (Na Na Na),Akon,8,2008-10-11,2008-12-27,1103,12
+86,She Got It,2 Pistols Featuring T-Pain & Tay Dizm,24,2008-03-01,2008-07-12,1099,20
+87,Heaven Sent,Keyshia Cole,28,2008-05-17,2008-09-27,1094,20
+88,Sweetest Girl (Dollar Bill),"Wyclef Jean Featuring Akon, Lil Wayne & Niia",12,2008-01-05,2008-04-05,1082,14
+89,I Remember,Keyshia Cole,24,2008-01-05,2008-05-10,1081,19
+90,You're Gonna Miss This,Trace Adkins,12,2008-02-16,2008-06-28,1078,20
+91,Swagga Like Us,Jay-Z & T.I. Featuring Kanye West & Lil Wayne,5,2008-09-27,2008-12-27,1045,14
+92,Single Ladies (Put A Ring On It),Beyonce,1,2008-11-01,2008-12-27,1044,9
+93,Just A Dream,Carrie Underwood,29,2008-08-23,2008-12-27,1032,19
+94,All-American Girl,Carrie Underwood,27,2008-01-19,2008-05-31,1025,20
+95,Need U Bad,Jazmine Sullivan,37,2008-08-02,2008-12-13,1014,20
+96,Whatever It Takes,Lifehouse,33,2008-02-02,2008-06-14,978,20
+97,Just Got Started Lovin' You,James Otto,27,2008-03-08,2008-07-19,963,20
+98,Don't Think I Don't Think About It,Darius Rucker,35,2008-07-26,2008-12-06,956,20
+99,Last Name,Carrie Underwood,19,2008-04-19,2008-08-30,954,20
+100,Flashing Lights,Kanye West Featuring Dwele,29,2008-01-05,2008-04-19,942,16
+101,Gotta Be Somebody,Nickelback,10,2008-10-18,2008-12-27,933,11
+102,Shattered (Turn The Car Around),O.A.R.,36,2008-08-23,2008-12-27,910,19
+103,I'm Still A Guy,Brad Paisley,33,2008-03-29,2008-08-09,909,20
+104,7 Things,Miley Cyrus,9,2008-06-21,2008-09-27,904,15
+105,Just Fine,Mary J. Blige,22,2008-01-05,2008-03-29,899,13
+106,New Soul,Yael Naim,7,2008-02-16,2008-06-28,898,19
+107,Piece Of Me,Britney Spears,18,2008-01-05,2008-03-29,894,13
+108,I Saw God Today,George Strait,33,2008-03-08,2008-07-19,892,20
+109,Handlebars,Flobots,37,2008-04-26,2008-09-06,891,20
+110,When You Look Me In The Eyes,Jonas Brothers,25,2008-02-09,2008-05-31,888,17
+111,Falsetto,The-Dream,30,2008-01-26,2008-05-31,878,19
+112,Chicken Fried,Zac Brown Band,20,2008-10-04,2008-12-27,877,13
+113,Take You Down,Chris Brown,43,2008-05-03,2008-09-13,872,20
+114,Crying Out For Me,Mario,33,2008-01-05,2008-04-26,870,17
+115,Mercy,Duffy,27,2008-05-10,2008-09-20,868,20
+116,She Never Cried In Front Of Me,Toby Keith,42,2008-07-26,2008-12-06,866,20
+117,Big Girls Don't Cry,Fergie,20,2008-01-05,2008-03-29,865,13
+118,Should've Said No,Taylor Swift,33,2008-06-07,2008-10-18,864,20
+119,Love Like This,Natasha Bedingfield Featuring Sean Kingston,11,2008-01-05,2008-03-15,857,11
+120,Elevator,Flo Rida Featuring Timbaland,16,2008-03-01,2008-05-24,853,13
+121,Picture To Burn,Taylor Swift,28,2008-03-01,2008-07-12,846,20
+122,All I Want To Do,Sugarland,18,2008-07-05,2008-10-18,841,16
+123,Get Silly,V.I.C.,29,2008-05-10,2008-08-30,837,17
+124,Swing,Savage Featuring Soulja Boy Tell'em,45,2008-08-16,2008-12-27,828,20
+125,Green Light,John Legend Featuring Andre 3000,24,2008-09-20,2008-12-27,827,15
+126,Everybody Wants To Go To Heaven,Kenny Chesney With The Wailers,41,2008-08-30,2008-12-27,820,18
+127,Hypnotized,Plies Featuring Akon,17,2008-01-05,2008-03-15,817,11
+128,All Around Me,Flyleaf,40,2008-01-12,2008-08-02,816,20
+129,Keeps Gettin' Better,Christina Aguilera,7,2008-10-18,2008-12-27,813,11
+130,Hate That I Love You,Rihanna Featuring Ne-Yo,10,2008-01-05,2008-03-08,781,10
+131,Bye Bye,Mariah Carey,19,2008-05-03,2008-07-19,781,12
+132,Won't Go Home Without You,Maroon 5,48,2008-01-05,2008-05-10,770,19
+133,Crank That (Soulja Boy),Soulja Boy Tell'em,5,2008-01-05,2008-03-01,762,9
+134,Home,Blake Shelton,41,2008-04-26,2008-09-06,757,20
+135,Can't Help But Wait,Trey Songz,24,2008-01-05,2008-03-15,754,11
+136,Dey Know,Shawty Lo,31,2008-01-26,2008-05-17,751,17
+137,Waitin' On A Woman,Brad Paisley,44,2008-07-26,2008-12-06,748,20
+138,T-Shirt,Shontelle,36,2008-09-20,2008-12-27,734,15
+139,Feedback,Janet,19,2008-01-12,2008-05-03,717,17
+140,Into The Night,Santana Featuring Chad Kroeger,26,2008-01-05,2008-03-08,705,10
+141,Good Time,Alan Jackson,40,2008-05-24,2008-10-04,704,20
+142,What About Now,Daughtry,18,2008-04-26,2008-12-27,693,19
+143,The Way That I Love You,Ashanti,37,2008-03-22,2008-07-19,691,18
+144,Small Town Southern Man,Alan Jackson,42,2008-01-19,2008-05-31,684,20
+145,Do You Believe Me Now,Jimmy Wayne,36,2008-08-02,2008-12-13,681,20
+146,Letter To Me,Brad Paisley,40,2008-01-05,2008-04-12,681,15
+147,The Business,Yung Berg Featuring Casha,33,2008-07-26,2008-10-25,679,14
+148,Cleaning This Gun (Come On In Boy),Rodney Atkins,40,2008-01-05,2008-04-19,676,16
+149,I Won't Tell,Fat Joe Featuring J. Holiday,37,2008-01-26,2008-05-10,666,16
+150,Love In This Club Part II,Usher Featuring Beyonce & Lil Wayne,18,2008-05-10,2008-08-09,655,14
+151,Killa,Cherish Featuring Yung Joc,39,2008-02-23,2008-05-31,655,15
+152,Break The Ice,Britney Spears,43,2008-03-15,2008-07-05,654,17
+153,Cyclone,Baby Bash Featuring T-Pain,11,2008-01-05,2008-03-01,652,9
+154,You Look Good In My Shirt,Keith Urban,44,2008-07-05,2008-10-25,647,17
+155,Better As A Memory,Kenny Chesney,46,2008-04-26,2008-08-16,646,17
+156,What Them Girls Like,Ludacris Co-Starring Chris Brown & Sean Garrett,33,2008-09-13,2008-12-13,640,14
+157,Calabria 2008,Enur Featuring Natasja,46,2008-01-05,2008-04-12,638,15
+158,Heartless,Kanye West,4,2008-11-22,2008-12-27,637,6
+159,The Anthem,Pitbull Featuring Lil Jon,36,2008-01-05,2008-05-17,637,18
+160,Krazy,Pitbull Featuring Lil Jon,30,2008-10-11,2008-12-27,633,12
+161,Pop Bottles,Birdman Featuring Lil Wayne,38,2008-01-05,2008-03-29,621,13
+162,If I Never See Your Face Again,Maroon 5 Featuring Rihanna,51,2008-05-24,2008-10-04,620,20
+163,Roll With Me,Montgomery Gentry,33,2008-09-27,2008-12-27,612,14
+164,Summertime,New Kids On The Block,36,2008-05-31,2008-08-23,598,13
+165,What Kinda Gone,Chris Cagle,54,2008-02-02,2008-06-14,591,20
+166,"Ready, Set, Don't Go",Billy Ray Cyrus With Miley Cyrus,37,2008-01-05,2008-03-08,589,10
+167,Every Day,Rascal Flatts,45,2008-03-29,2008-07-19,588,17
+168,The Way I Are,Timbaland Featuring Keri Hilson,25,2008-01-05,2008-03-01,572,9
+169,Out Here Grindin,"DJ Khaled Feat. Akon, Plies, Young Jeezy, Rick Ross, Ace Hood, Trick Daddy & Lil' Boosie",38,2008-07-19,2008-10-25,572,15
+170,I Still Miss You,Keith Anderson,48,2008-06-28,2008-11-01,552,19
+171,Here I Am,Rick Ross Featuring Nelly & Avery Storm,41,2008-07-12,2008-10-11,551,14
+172,Watching Airplanes,Gary Allan,43,2008-01-05,2008-03-22,542,12
+173,Hero/Heroine,Boys Like Girls,43,2008-01-05,2008-04-12,542,15
+174,Bartender Song,Rehab,64,2008-07-12,2008-11-22,542,20
+175,Bust Your Windows,Jazmine Sullivan,31,2008-10-25,2008-12-27,534,10
+176,Right Here (Departed),Brandy,34,2008-09-27,2008-12-27,534,14
+177,Shiftwork,Kenny Chesney Duet With George Strait,47,2008-01-19,2008-05-03,534,16
+178,Misery Business,Paramore,26,2008-01-05,2008-02-23,531,8
+179,Gunpowder And Lead,Miranda Lambert,52,2008-05-17,2008-09-13,524,17
+180,Good Life,Kanye West Featuring T-Pain,14,2008-01-05,2008-02-16,514,7
+181,Shawty Get Loose,Lil Mama Featuring Chris Brown & T-Pain,10,2008-03-08,2008-05-24,511,12
+182,Stay,Sugarland,36,2008-01-05,2008-03-08,511,10
+183,Already Gone,Sugarland,41,2008-10-11,2008-12-27,511,12
+184,Human,The Killers,32,2008-10-18,2008-12-27,504,11
+185,So Fly,Slim Featuring Yung Joc,49,2008-09-13,2008-12-20,500,15
+186,Let It Go,Tim McGraw,47,2008-09-27,2008-12-27,490,14
+187,Love Is A Beautiful Thing,Phil Vassar,48,2008-03-08,2008-06-28,480,17
+188,Love Don't Live Here,Lady Antebellum,53,2008-03-15,2008-07-12,480,18
+189,Body On Me,Nelly Featuring Ashanti & Akon,42,2008-06-28,2008-11-08,478,15
+190,Chopped 'N' Skrewed,T-Pain Featuring Ludacris,27,2008-11-01,2008-12-27,471,9
+191,Nine In The Afternoon,Panic! At The Disco,51,2008-02-16,2008-06-21,471,19
+192,I Don't Care,Fall Out Boy,21,2008-09-27,2008-12-27,470,14
+193,Teenage Love Affair,Alicia Keys,54,2008-05-24,2008-09-06,470,16
+194,Who Knew,P!nk,41,2008-01-05,2008-02-23,458,8
+195,What Hurts The Most,Cascada,52,2008-01-26,2008-04-26,452,14
+196,Back When I Knew It All,Montgomery Gentry,56,2008-04-19,2008-08-16,450,18
+197,Stealing Cinderella,Chuck Wicks,56,2008-01-05,2008-04-12,442,15
+198,Pop Champagne,Jim Jones & Ron Browz Featuring Juelz Santana,25,2008-11-01,2008-12-27,436,9
+199,Johnny & June,Heidi Newfield,58,2008-07-26,2008-11-01,435,15
+200,Magic,Robin Thicke,59,2008-06-28,2008-11-01,434,17
+201,Stronger,Kanye West,14,2008-01-05,2008-02-09,432,6
+202,YAHHH!,Soulja Boy Tell'em Featuring Arab,48,2008-02-16,2008-05-10,429,13
+203,Winner At A Losing Game,Rascal Flatts,52,2008-01-05,2008-03-22,428,12
+204,Come On Get Higher,Matt Nathanson,63,2008-09-13,2008-12-27,422,16
+205,Party People,Nelly Featuring Fergie,40,2008-04-12,2008-06-14,416,10
+206,Troubadour,George Strait,54,2008-07-26,2008-11-01,415,15
+207,All Summer Long,The Rock Heroes,29,2008-10-04,2008-12-13,409,11
+208,How Far We've Come,matchbox twenty,24,2008-01-05,2008-02-09,407,6
+209,This Is Me,Demi Lovato & Joe Jonas,9,2008-07-05,2008-08-16,402,7
+210,Get Buck In Here,"DJ Felli Fel Featuring Diddy, Akon, Ludacris & Lil Jon",52,2008-01-05,2008-03-22,401,12
+211,I Don't Wanna Be In Love (Dance Floor Anthem),Good Charlotte,25,2008-01-05,2008-02-09,398,6
+212,Laughed Until We Cried,Jason Aldean,61,2008-02-02,2008-05-17,393,16
+213,Lookin Boy,Hot Stylz Featuring Yung Joc,47,2008-06-21,2008-08-30,385,11
+214,One More Drink,Ludacris Co-Starring T-Pain,25,2008-11-15,2008-12-27,384,7
+215,crushcrushcrush,Paramore,54,2008-01-05,2008-04-19,384,16
+216,Put A Girl In It,Brooks & Dunn,54,2008-06-14,2008-09-06,379,13
+217,Violet Hill,Coldplay,40,2008-05-24,2008-07-26,376,10
+218,Baby,LL Cool J Featuring The-Dream,52,2008-08-09,2008-10-18,375,11
+219,Here,Rascal Flatts,50,2008-10-18,2008-12-27,374,11
+220,Fake It,Seether,56,2008-01-05,2008-03-01,370,9
+221,Duffle Bag Boy,Playaz Circle Featuring Lil Wayne,29,2008-01-05,2008-02-16,365,7
+222,Over You,Daughtry,31,2008-01-05,2008-02-09,363,6
+223,Light On,David Cook,17,2008-10-18,2008-12-27,361,10
+224,Start A Band,Brad Paisley Duet With Keith Urban,55,2008-11-01,2008-12-27,358,9
+225,Girls Around The World,Lloyd Featuring Lil Wayne,64,2008-06-07,2008-09-06,358,14
+226,I'm So Hood,"DJ Khaled Featuring T-Pain, Trick Daddy, Rick Ross & Plies",32,2008-01-05,2008-02-09,357,6
+227,Decode,Paramore,34,2008-11-22,2008-12-27,351,6
+228,Girlfriend,Bow Wow & Omarion,41,2008-01-05,2008-02-23,349,8
+229,International Harvester,Craig Morgan,67,2008-01-05,2008-04-12,349,15
+230,Rehab,Rihanna,21,2008-11-22,2008-12-27,346,6
+231,Circus,Britney Spears,3,2008-12-20,2008-12-27,345,2
+232,I'm So Paid,Akon Featuring Lil Wayne & Young Jeezy,31,2008-10-25,2008-12-27,343,9
+233,That's What You Get,Paramore,66,2008-06-21,2008-10-11,335,17
+234,Corona And Lime,Shwayze,23,2008-08-09,2008-09-27,332,8
+235,Psycho,Puddle Of Mudd,67,2008-02-16,2008-06-14,330,17
+236,The Way I Am,Ingrid Michaelson,63,2008-01-05,2008-03-22,324,12
+237,You Found Me,The Fray,15,2008-12-06,2008-12-27,311,4
+238,Pork And Beans,Weezer,64,2008-05-10,2008-08-23,309,15
+239,Umma Do Me,Rocko,66,2008-02-23,2008-05-03,308,11
+240,Get Up,50 Cent,44,2008-11-01,2008-12-27,303,9
+241,Trying To Stop Your Leaving,Dierks Bentley,73,2008-04-19,2008-07-26,298,15
+242,In Color,Jamey Johnson,53,2008-10-18,2008-12-27,295,11
+243,What Is It,Baby Bash Featuring Sean Kingston,57,2008-01-05,2008-03-29,288,12
+244,White Horse,Taylor Swift,13,2008-11-29,2008-12-27,286,5
+245,Lovebug,Jonas Brothers,57,2008-09-27,2008-12-13,276,12
+246,Please Excuse My Hands,Plies Featuring Jamie Foxx & The-Dream,66,2008-08-09,2008-10-25,274,12
+247,What Do Ya Think About That,Montgomery Gentry,57,2008-01-05,2008-03-01,271,9
+248,Never,Jaheim,76,2008-01-19,2008-05-03,261,16
+249,Ching-A-Ling,Missy Elliott,60,2008-02-16,2008-04-12,256,9
+250,Hollywood's Not America,Ferras,62,2008-04-05,2008-06-07,256,10
+251,Inside The Fire,Disturbed,73,2008-04-12,2008-07-26,251,15
+252,Gives You Hell,The All-American Rejects,37,2008-11-29,2008-12-27,250,5
+253,Rockstar,Nickelback,23,2008-01-05,2008-01-26,249,4
+254,Beat It,Fall Out Boy Featuring John Mayer,19,2008-04-12,2008-05-24,247,7
+255,"You're Gonna Go Far, Kid",The Offspring,68,2008-10-25,2008-12-27,247,10
+256,Moving Mountains,Usher,67,2008-06-14,2008-08-09,245,9
+257,The Day That Never Comes,Metallica,31,2008-09-06,2008-11-15,244,10
+258,Thunder,Boys Like Girls,76,2008-07-12,2008-10-04,241,13
+259,Shoulda Let You Go,Keyshia Cole Introducing Amina,51,2008-01-05,2008-02-23,238,8
+260,Mr. Carter,Lil Wayne Featuring Jay-Z,62,2008-06-21,2008-10-11,238,17
+261,All Summer Long,Hit Masters,19,2008-08-30,2008-09-27,237,5
+262,Feel That Fire,Dierks Bentley,56,2008-10-25,2008-12-27,236,10
+263,Lookin' For A Good Time,Lady Antebellum,68,2008-10-25,2008-12-27,236,10
+264,Play My Music,Jonas Brothers,20,2008-07-05,2008-08-02,229,5
+265,Trading Places,Usher,45,2008-11-15,2008-12-27,226,7
+266,Holler Back,The Lost Trailers,66,2008-07-19,2008-10-11,226,13
+267,Don't Blink,Kenny Chesney,52,2008-01-05,2008-02-02,225,5
+268,Sex On Fire,Kings Of Leon,56,2008-11-08,2008-12-27,223,8
+269,Last Time,Trey Songz,69,2008-04-19,2008-07-12,212,13
+270,She Wouldn't Be Gone,Blake Shelton,54,2008-11-08,2008-12-27,211,8
+271,If I Had Eyes,Jack Johnson,47,2008-01-05,2008-03-29,210,10
+272,Just Stand Up!,Artists Stand Up To Cancer,11,2008-09-13,2008-10-04,209,4
+273,There's Nothin,Sean Kingston Featuring Elan & Juelz Santana,60,2008-05-17,2008-07-05,208,8
+274,Angel,Natasha Bedingfield,63,2008-10-04,2008-11-22,208,8
+275,She's A Hottie,Toby Keith,71,2008-03-22,2008-06-28,208,11
+276,I'll Be Lovin' U Long Time,Mariah Carey,58,2008-07-26,2008-09-13,207,8
+277,Shut Up And Let Me Go,The Ting Tings,55,2008-05-17,2008-10-11,204,11
+278,Fearless,Taylor Swift,9,2008-11-01,2008-11-22,200,4
+279,Sweet Thing,Keith Urban,43,2008-11-29,2008-12-27,187,5
+280,Check Yes Juliet (Run Baby Run),WE the Kings,70,2008-07-26,2008-10-11,187,11
+281,Shawty Is A 10,The-Dream,50,2008-01-05,2008-02-02,184,5
+282,Wake Up Call,Maroon 5,36,2008-01-05,2008-01-19,182,3
+283,Cry For You,September,74,2008-08-30,2008-11-01,182,10
+284,Gimme More,Britney Spears,53,2008-01-05,2008-02-02,180,5
+285,Country Boy,Alan Jackson,57,2008-11-15,2008-12-27,179,7
+286,Don't,Billy Currington,63,2008-11-08,2008-12-27,178,8
+287,Love Remembers,Craig Morgan,73,2008-11-01,2008-12-27,173,9
+288,Change,Taylor Swift,10,2008-08-30,2008-09-13,164,3
+289,I Will Possess Your Heart,Death Cab For Cutie,70,2008-04-12,2008-07-12,164,12
+290,Like Whoa,Aly & AJ,63,2008-02-09,2008-04-05,162,8
+291,Everybody,Keith Urban,64,2008-01-05,2008-02-23,161,8
+292,Come On Over,Jessica Simpson,65,2008-07-12,2008-08-23,161,7
+293,You're Not Sorry,Taylor Swift,11,2008-11-15,2008-11-22,156,2
+294,I'll Walk,Bucky Covington,70,2008-10-18,2008-12-06,156,8
+295,Gotta Find You,Joe Jonas,30,2008-07-05,2008-07-19,155,3
+296,Beautiful,Akon Featuring Colby O'Donis & Kardinal Offishall,19,2008-12-20,2008-12-27,154,2
+297,Tonight,Jonas Brothers,8,2008-08-16,2008-08-23,150,2
+298,Bad Girlfriend,Theory Of A Deadman,75,2008-09-27,2008-12-27,149,11
+299,Untouched,The Veronicas,40,2008-12-13,2008-12-27,147,3
+300,Pictures Of You,The Last Goodnight,70,2008-01-05,2008-02-23,147,8
+301,Customer,Raheem DeVaughn,76,2008-04-19,2008-06-21,147,9
+302,Dreamer,Chris Brown,16,2008-08-30,2008-09-06,145,2
+303,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,62,2008-03-08,2008-04-12,144,6
+304,Soulja Girl,Soulja Boy Tell'em Featuring I-15,50,2008-01-05,2008-01-26,143,4
+305,Energy,Keri Hilson,78,2008-08-23,2008-10-18,142,9
+306,Firecracker,Josh Turner,67,2008-01-05,2008-02-09,139,6
+307,Homecoming,Kanye West Featuring Chris Martin,69,2008-06-07,2008-07-19,137,7
+308,Sober,P!nk,49,2008-12-13,2008-12-27,136,3
+309,Free Fallin',John Mayer,51,2008-07-19,2008-09-27,136,10
+310,Freeze,T-Pain Featuring Chris Brown,38,2008-11-01,2008-11-15,135,3
+311,Game's Pain,The Game Featuring Keyshia Cole,75,2008-06-14,2008-07-26,135,7
+312,Cowgirls Don't Cry,Brooks & Dunn Featuring Reba McEntire,60,2008-11-29,2008-12-27,134,5
+313,My Drink N' My 2 Step,Cassidy Featuring Swizz Beatz,63,2008-01-05,2008-02-09,134,6
+314,Buzzin',Shwayze Featuring Cisco Adler,46,2008-06-21,2008-08-16,131,5
+315,Get Back,Demi Lovato,43,2008-08-30,2008-10-04,130,6
+316,He Said She Said,Ashley Tisdale,58,2008-01-05,2008-02-09,130,6
+317,God Must Be Busy,Brooks & Dunn,78,2008-02-02,2008-04-12,127,11
+318,It's Over,Jesse McCartney,62,2008-10-18,2008-11-15,126,5
+319,Move Shake Drop,DJ Laz Featuring Flo Rida & Casely,56,2008-05-24,2008-06-21,121,5
+320,See You In My Nightmares,Kanye West Featuring Lil Wayne,21,2008-12-13,2008-12-27,115,3
+321,We Rock,Cast Of Camp Rock,33,2008-07-05,2008-07-19,115,3
+322,Breakout,Miley Cyrus,56,2008-08-09,2008-08-30,115,4
+323,Chinese Democracy,Guns N' Roses,34,2008-11-29,2008-12-13,112,3
+324,How 'Bout Them Cowgirls,George Strait,76,2008-01-05,2008-02-02,112,5
+325,If Today Was Your Last Day,Nickelback,35,2008-11-29,2008-12-06,110,2
+326,Life In A Northern Town,Sugarland Featuring Little Big Town & Jake Owen,43,2008-07-12,2008-07-26,110,3
+327,Country Man,Luke Bryan,74,2008-09-20,2008-11-15,110,9
+328,Te Quiero,Flex,86,2008-03-08,2008-08-16,110,17
+329,Dream Big,David Cook,15,2008-06-07,2008-06-14,106,2
+330,Never Would Have Made It,Marvin Sapp,82,2008-06-28,2008-09-20,105,13
+331,Stronger Woman,Jewel,84,2008-02-23,2008-05-31,104,10
+332,Pushin' Me Away,Jonas Brothers,16,2008-08-02,2008-08-09,97,2
+333,Boyfriend/Girlfriend,C-Side Featuring Keyshia Cole,72,2008-04-19,2008-05-31,96,7
+334,I Still Haven't Found What I'm Looking For,David Cook,22,2008-06-07,2008-06-14,95,2
+335,Playa Cardz Right,Keyshia Cole Featuring 2Pac,67,2008-11-29,2008-12-27,94,5
+336,It's Good To Be Us,Bucky Covington,81,2008-03-08,2008-04-26,94,8
+337,I Hate This Part,The Pussycat Dolls,58,2008-12-13,2008-12-27,93,3
+338,1234,Feist,59,2008-01-05,2008-01-19,93,3
+339,Cookie Jar,Gym Class Heroes Featuring The-Dream,59,2008-09-13,2008-10-11,92,5
+340,A Little Bit Longer,Jonas Brothers,11,2008-08-23,2008-08-23,90,1
+341,You Belong With Me,Taylor Swift,12,2008-11-22,2008-11-22,89,1
+342,I Don't Care,Apocalyptica Featuring Adam Gontier,84,2008-11-01,2008-12-27,88,9
+343,We Weren't Crazy,Josh Gracin,82,2008-04-19,2008-08-09,86,10
+344,Witch Doctor (2007),Alvin And The Chipmunks Featuring Chris Classic,62,2008-01-12,2008-01-26,85,3
+345,Put It On Ya,Plies Featuring Chris J,65,2008-12-06,2008-12-27,85,4
+346,Work That,Mary J. Blige,78,2008-01-05,2008-02-09,85,6
+347,God Love Her,Toby Keith,66,2008-12-06,2008-12-27,84,4
+348,Baby Don't Go,Fabolous Featuring Jermaine Dupri,72,2008-01-05,2008-01-26,84,4
+349,Long Road To Ruin,Foo Fighters,89,2008-02-02,2008-04-19,83,12
+350,Praying For Time,Carrie Underwood,27,2008-04-26,2008-05-03,81,2
+351,IfULeave,Musiq Soulchild Featuring Mary J. Blige,71,2008-12-06,2008-12-27,81,4
+352,So Small,Carrie Underwood,55,2008-01-05,2008-01-12,79,2
+353,S.O.S.,Jonas Brothers,40,2008-01-05,2008-01-12,77,2
+354,The World I Know,David Cook,28,2008-06-07,2008-06-07,73,1
+355,American Boy,Studio All-Stars,52,2008-09-06,2008-09-20,73,3
+356,Superwoman,Alicia Keys,82,2008-09-27,2008-11-08,73,7
+357,Roll,Flo Rida Featuring Sean Kingston,61,2008-04-05,2008-04-12,72,2
+358,Rise Above This,Seether,91,2008-05-03,2008-07-19,67,11
+359,The Chipmunk Song (Christmas Don't Be Late) (2007),Alvin And The Chipmunks,66,2008-01-05,2008-01-12,66,2
+360,Imagine,David Archuleta,36,2008-06-07,2008-06-07,65,1
+361,Falling Slowly,The Swell Season (Glen Hansard & Marketa Irglova),61,2008-03-15,2008-03-29,65,3
+362,Start All Over,Miley Cyrus,68,2008-01-19,2008-02-02,65,3
+363,Nude,Radiohead,37,2008-04-19,2008-04-19,64,1
+364,I'd Come For You,Nickelback,44,2008-12-06,2008-12-13,63,2
+365,Broken,Lifehouse,89,2008-11-08,2008-12-27,60,8
+366,I Don't Want To Miss A Thing,David Cook,42,2008-06-07,2008-06-07,59,1
+367,Until The End Of Time,Justin Timberlake Duet With Beyonce,43,2008-01-05,2008-01-05,58,1
+368,Shout To The Lord,American Idol Top 8,43,2008-04-26,2008-04-26,58,1
+369,Who The F*** Is That?,Dolla Featuring T-Pain & Tay Dizm,82,2008-03-15,2008-04-05,58,4
+370,Suspicions,Tim McGraw,87,2008-01-26,2008-02-23,58,5
+371,Bad Day,Alvin And The Chipmunks,67,2008-01-12,2008-01-19,56,2
+372,Now Or Never,High School Musical 3 Cast,68,2008-09-20,2008-11-15,56,3
+373,Bed,J. Holiday,46,2008-01-05,2008-01-05,55,1
+374,Billie Jean,David Cook,47,2008-06-07,2008-06-07,54,1
+375,Freaky Gurl,Gucci Mane,80,2008-01-05,2008-01-26,54,4
+376,Forever & Always,Taylor Swift,49,2008-11-29,2008-11-29,52,1
+377,Cyanide,Metallica,50,2008-09-20,2008-09-20,51,1
+378,That Song In My Head,Julianne Hough,88,2008-06-07,2008-07-26,51,6
+379,Love Is Free,Sheryl Crow,77,2008-02-23,2008-04-05,50,6
+380,Through The Fire And Flames,DragonForce,86,2008-01-19,2008-02-16,50,5
+381,Swing Ya Rag,T.I. Featuring Swizz Beatz,62,2008-09-13,2008-09-20,48,2
+382,Rock Star,Hannah Montana,81,2008-02-16,2008-03-08,48,4
+383,The Pretender,Foo Fighters,55,2008-01-05,2008-01-05,46,1
+384,Go Girl,Pitbull Featuring Trina & Young Bo$$,83,2008-01-05,2008-02-16,46,7
+385,Cuddy Buddy,Mike Jones Featuring Trey Songz & Twista,76,2008-11-01,2008-11-15,45,3
+386,Get My Drink On,Toby Keith,88,2008-01-26,2008-02-23,45,5
+387,Give It 2 Me,Madonna,57,2008-05-17,2008-05-17,44,1
+388,Ready For Whatever,T.I.,57,2008-10-11,2008-10-11,44,1
+389,Don't Let The Sun Go Down On Me,David Archuleta,58,2008-06-07,2008-06-07,43,1
+390,Marco Polo,Bow Wow Featuring Soulja Boy Tell'em,66,2008-08-23,2008-09-06,43,3
+391,In This Moment,David Archuleta,60,2008-06-07,2008-06-07,41,1
+392,This Christmas,Chris Brown,62,2008-01-05,2008-01-05,39,1
+393,Down The Road,Kenny Chesney With Mac McAnally,78,2008-12-20,2008-12-27,39,2
+394,Got Me Going,DAY26,79,2008-04-12,2008-04-26,39,3
+395,Another Way to Die,Jack White & Alicia Keys,81,2008-11-29,2008-12-06,39,2
+396,Second Chance,Shinedown,76,2008-12-13,2008-12-27,38,3
+397,Taking Chances,Celine Dion,81,2008-01-12,2008-01-26,38,3
+398,No Matter What,T.I.,72,2008-05-24,2008-05-31,37,2
+399,Last Of A Dying Breed,Ludacris Co-Starring Lil Wayne,65,2008-12-13,2008-12-13,36,1
+400,We Made It,Busta Rhymes Featuring Linkin Park,65,2008-05-17,2008-05-17,36,1
+401,3 Peat,Lil Wayne,66,2008-06-28,2008-06-28,35,1
+402,All I Ever Wanted,Chuck Wicks,86,2008-10-18,2008-11-08,35,4
+403,Spaceman,The Killers,67,2008-11-22,2008-11-22,34,1
+404,Ayo Technology,50 Cent Featuring Justin Timberlake & Timbaland,67,2008-01-05,2008-01-05,34,1
+405,My Apocalypse,Metallica,67,2008-09-13,2008-09-13,34,1
+406,Always Be My Baby,David Cook,67,2008-06-07,2008-06-07,34,1
+407,Universal Mind Control,Common Featuring Pharrell,73,2008-12-20,2008-12-27,34,2
+408,Never Gonna Be Alone,Nickelback,68,2008-12-06,2008-12-06,33,1
+409,Don't Forget,Demi Lovato,68,2008-10-11,2008-10-11,33,1
+410,Hallelujah,Kate Voegele,68,2008-05-31,2008-05-31,33,1
+411,I'll Be Waiting,Lenny Kravitz,73,2008-02-23,2008-03-01,33,2
+412,Go Hard,DJ Khaled Featuring Kanye West & T-Pain,69,2008-10-04,2008-10-04,32,1
+413,Without You,Hinder,89,2008-10-18,2008-12-27,32,4
+414,Shattered Glass,Britney Spears,70,2008-12-20,2008-12-20,31,1
+415,The Prayer (Live),Celine Dion & Josh Groban,70,2008-03-01,2008-03-01,31,1
+416,Wanna Be Startin' Somethin' 2008,Michael Jackson With Akon,81,2008-02-09,2008-02-23,31,3
+417,The Way I Loved You,Taylor Swift,72,2008-11-29,2008-11-29,29,1
+418,Indestructible,Disturbed,72,2008-06-21,2008-06-21,29,1
+419,Believe,Staind,83,2008-07-12,2008-09-13,29,3
+420,No Me Doy Por Vencido,Luis Fonsi,92,2008-09-20,2008-12-27,29,9
+421,Hello,David Cook,73,2008-06-07,2008-06-07,28,1
+422,Headfirst Slide Into Cooperstown On A Bad Bet,Fall Out Boy,74,2008-10-25,2008-10-25,27,1
+423,Dead And Gone,T.I. Featuring Justin Timberlake,76,2008-10-18,2008-12-27,27,2
+424,Lost!,Coldplay With Jay-Z,87,2008-07-05,2008-12-13,27,3
+425,Did You Wrong,Pleasure P,90,2008-11-08,2008-12-06,27,4
+426,Just Like Me,Jamie Foxx Featuring T.I.,75,2008-12-27,2008-12-27,26,1
+427,Mad,Ne-Yo,79,2008-12-20,2008-12-27,26,2
+428,Arab Money,Busta Rhymes Featuring Ron Browz,86,2008-12-20,2008-12-27,26,2
+429,Chasing Pavements,Adele,82,2008-11-08,2008-12-27,25,3
+430,You Know I'm No Good,Amy Winehouse,77,2008-03-01,2008-03-01,24,1
+431,The Music Of The Night,David Cook,77,2008-06-07,2008-06-07,24,1
+432,Go Girl,Ciara Featuring T-Pain,78,2008-10-18,2008-10-18,23,1
+433,It's A New Day,will.i.am,78,2008-11-22,2008-11-22,23,1
+434,I'd Rather Be With You,Joshua Radin,82,2008-09-27,2008-10-04,23,2
+435,Fifteen,Taylor Swift,79,2008-11-29,2008-11-29,22,1
+436,What If It All Goes Right,Melissa Lawson,79,2008-08-23,2008-08-23,22,1
+437,Many Rivers To Cross,Annie Lennox,80,2008-04-26,2008-04-26,21,1
+438,River Of Love,George Strait,87,2008-12-20,2008-12-27,21,2
+439,You Ain't Got Nuthin,Lil Wayne Featuring Juelz Santana & Fabolous,81,2008-06-21,2008-06-21,20,1
+440,Anything Goes,Randy Houser,92,2008-12-06,2008-12-27,20,4
+441,Lucky,Jason Mraz & Colbie Caillat,82,2008-05-31,2008-05-31,19,1
+442,Seventeen Forever,Metro Station,82,2008-12-27,2008-12-27,19,1
+443,"What Up, What's Haapnin'",T.I.,84,2008-09-20,2008-09-20,17,1
+444,Funkytown,Alvin And The Chipmunks,86,2008-01-12,2008-01-19,17,2
+445,Honey,Erykah Badu,88,2008-03-15,2008-03-29,17,3
+446,Diamond Girl,Ryan Leslie,95,2008-03-29,2008-04-12,17,3
+447,Supernatural Superserious,R.E.M.,85,2008-04-19,2008-04-19,16,1
+448,Fly Like Me,Chingy Featuring Amerie,89,2008-01-05,2008-01-12,16,2
+449,Use Somebody,Kings Of Leon,86,2008-10-11,2008-10-11,15,1
+450,If U Seek Amy,Britney Spears,86,2008-12-20,2008-12-20,15,1
+451,Breathe,Taylor Swift Featuring Colbie Caillat,87,2008-11-29,2008-11-29,14,1
+452,Falling In Love At A Coffee Shop,Landon Pigg,93,2008-01-05,2008-01-12,14,2
+453,Woman,Raheem DeVaughn,96,2008-03-15,2008-04-05,14,4
+454,Going On,Gnarls Barkley,88,2008-04-05,2008-04-05,13,1
+455,That's Not My Name,The Ting Tings,88,2008-12-20,2008-12-20,13,1
+456,BB Good,Jonas Brothers,88,2008-08-30,2008-08-30,13,1
+457,Sweet And Low,Augustana,88,2008-05-17,2008-05-17,13,1
+458,Sneakernight,Vanessa Hudgens,88,2008-07-19,2008-07-19,13,1
+459,Anyone Else But You,Michael Cera & Ellen Page,91,2008-01-26,2008-02-02,13,2
+460,Amazing,Kanye West Featuring Young Jeezy,89,2008-12-13,2008-12-13,12,1
+461,Angels,David Archuleta,89,2008-11-15,2008-11-15,12,1
+462,Do You Hear What I Hear,Carrie Underwood,90,2008-01-05,2008-01-05,11,1
+463,You Are The Best Thing,Ray LaMontagne,90,2008-11-01,2008-11-01,11,1
+464,Me Love,Sean Kingston,90,2008-01-12,2008-01-12,11,1
+465,Our Time Now,Plain White T's,90,2008-01-19,2008-01-19,11,1
+466,Stepped On My J'z,Nelly Featuring Ciara & JD,90,2008-07-26,2008-07-26,11,1
+467,She's Country,Jason Aldean,90,2008-11-29,2008-11-29,11,1
+468,Ride,Ace Hood Featuring Trey Songz,90,2008-12-06,2008-12-06,11,1
+469,Fall,Clay Walker,96,2008-01-05,2008-01-19,11,3
+470,Learning How To Bend,Gary Allan,96,2008-07-26,2008-08-23,11,4
+471,Lloro Por Ti,Enrique Iglesias,91,2008-11-08,2008-11-08,10,1
+472,When It Hurts,Avant,91,2008-12-27,2008-12-27,10,1
+473,Be OK,Ingrid Michaelson,91,2008-11-01,2008-11-01,10,1
+474,Me Enamora,Juanes,91,2008-01-05,2008-01-05,10,1
+475,Go On Girl,Ne-Yo,96,2008-04-05,2008-04-19,10,3
+476,Another Try,Josh Turner Featuring Trisha Yearwood,96,2008-06-14,2008-06-28,10,3
+477,My President,Young Jeezy Featuring Nas,92,2008-11-22,2008-11-22,9,1
+478,Real,Goo Goo Dolls,92,2008-08-30,2008-08-30,9,1
+479,Migrate,Mariah Carey Featuring T-Pain,92,2008-05-03,2008-05-03,9,1
+480,Eleanor Rigby,David Cook,92,2008-06-07,2008-06-07,9,1
+481,Leave Out All The Rest,Linkin Park,94,2008-11-22,2008-12-13,9,2
+482,She Got Her Own,Ne-Yo Featuring Jamie Foxx & Fabolous,93,2008-12-27,2008-12-27,8,1
+483,The Shock Of The Lightning,Oasis,93,2008-10-25,2008-10-25,8,1
+484,Hey Stephen,Taylor Swift,94,2008-11-29,2008-11-29,7,1
+485,"What A Catch, Donnie",Fall Out Boy,94,2008-11-01,2008-11-01,7,1
+486,Coconut Juice,Tyga Featuring Travis McCoy,94,2008-06-28,2008-06-28,7,1
+487,Citizen/Soldier,3 Doors Down,96,2008-01-12,2008-01-19,7,2
+488,I Like The Way She Do It,G Unit,95,2008-05-10,2008-05-10,6,1
+489,Girls In Their Summer Clothes,Bruce Springsteen,95,2008-02-02,2008-02-02,6,1
+490,Shake Your Pom Pom,Missy Elliott,95,2008-03-08,2008-03-08,6,1
+491,Dreams Collide,Colbie Caillat,96,2008-05-17,2008-05-17,5,1
+492,Warrior,Nelly,96,2008-08-30,2008-08-30,5,1
+493,Things That Never Cross A Man's Mind,Kellie Pickler,96,2008-04-19,2008-04-19,5,1
+494,Too Drunk...,Buckcherry,96,2008-11-22,2008-11-22,5,1
+495,Something In Your Mouth,Nickelback,96,2008-11-15,2008-11-15,5,1
+496,Little Miss Obsessive,Ashlee Simpson With Tom Higgenson,96,2008-05-10,2008-05-10,5,1
+497,Troublemaker,Akon Featuring Sweet Rush,97,2008-11-29,2008-11-29,4,1
+498,Lost,Michael Buble,97,2008-04-19,2008-04-19,4,1
+499,Hero,Nas Featuring Keri Hilson,97,2008-08-02,2008-08-02,4,1
+500,I'm Me,Lil Wayne,97,2008-02-16,2008-02-16,4,1
+501,Can I Have This Dance,Zac Efron & Vanessa Hudgens,98,2008-11-08,2008-11-15,4,2
+502,Livin' Our Love Song,Jason Michael Carroll,98,2008-01-12,2008-01-12,3,1
+503,Something Special,Colbie Caillat,98,2008-08-30,2008-08-30,3,1
+504,Love Is Gone,David Guetta & Chris Willis,98,2008-06-14,2008-06-14,3,1
+505,Kindly Unspoken,Kate Voegele,98,2008-02-09,2008-02-09,3,1
+506,Mamma Mia,Meryl Streep,99,2008-08-09,2008-08-09,2,1
+507,I'm Alive,David Cook,99,2008-06-07,2008-06-07,2,1
+508,Nothin' Better To Do,LeAnn Rimes,99,2008-01-05,2008-01-05,2,1
+509,Don't Trust Me,3OH!3,99,2008-11-15,2008-11-15,2,1
+510,Leave It All To Me (iCarly Theme Song),Miranda Cosgrove Featuring Drake Bell,100,2008-01-12,2008-01-12,1,1
+511,On The Line,Demi Lovato Featuring Jonas Brothers,100,2008-10-11,2008-10-11,1,1

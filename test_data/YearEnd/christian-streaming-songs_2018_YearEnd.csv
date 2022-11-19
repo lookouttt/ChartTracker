@@ -1,0 +1,70 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Monster,Skillet,1,2018-01-03,2018-12-29,1269,53
+2,What A Beautiful Name,Hillsong Worship,2,2018-01-03,2018-12-29,1197,53
+3,Reckless Love,Cory Asbury,1,2018-02-10,2018-12-29,1076,47
+4,Oceans (Where Feet May Fail),Hillsong UNITED,4,2018-01-03,2018-12-29,1067,53
+5,"10,000 Reasons (Bless The Lord)",Matt Redman,3,2018-01-03,2018-12-29,996,53
+6,O Come To The Altar,Elevation Worship,3,2018-01-03,2018-12-29,947,53
+7,Hero,Skillet,4,2018-01-03,2018-12-29,839,53
+8,Feel Invincible,Skillet,4,2018-01-03,2018-12-29,776,53
+9,I Can Only Imagine,MercyMe,2,2018-03-31,2018-12-29,775,40
+10,So Will I (100 Billion X),Hillsong UNITED,5,2018-01-20,2018-12-29,690,50
+11,Even If,MercyMe,7,2018-01-03,2018-12-29,659,52
+12,Who You Say I Am,Hillsong Worship,5,2018-03-24,2018-12-29,605,38
+13,Good Good Father,Chris Tomlin,9,2018-01-13,2018-12-08,575,48
+14,You Say,Lauren Daigle,1,2018-07-28,2018-12-29,568,23
+15,Trust In You,Lauren Daigle,11,2018-01-03,2018-12-29,530,52
+16,I Just Need U.,tobyMac,9,2018-03-03,2018-11-03,342,28
+17,How Could You Leave Us,NF,8,2018-01-03,2018-12-08,323,33
+18,Courtesy Call,Thousand Foot Krutch,10,2018-01-03,2018-09-15,301,34
+19,joy.,for KING & COUNTRY,10,2018-06-16,2018-12-29,281,29
+20,Head Above Water,Avril Lavigne,2,2018-10-06,2018-12-29,249,13
+21,Awake And Alive,Skillet,13,2018-01-03,2018-08-04,248,31
+22,Fear Is A Liar,Zach Williams,13,2018-04-07,2018-09-15,222,24
+23,No Longer Slaves,Bethel Music,13,2018-03-03,2018-12-01,213,33
+24,I'll Find You,Lecrae Featuring Tori Kelly,8,2018-01-03,2018-06-09,186,21
+25,I Surrender,Hillsong Worship,11,2018-01-13,2018-07-07,159,24
+26,Mansion,NF Featuring Fleurie,11,2018-01-13,2018-11-10,134,20
+27,O'Lord,Lauren Daigle,16,2018-01-13,2018-06-02,110,21
+28,Beautiful Day,Mike Smith & Jonathan Hay,5,2018-08-25,2018-10-13,109,8
+29,Grown Up Christmas List,Amy Grant,2,2018-01-03,2018-12-29,106,6
+30,Breath Of Heaven (Mary's Song),Amy Grant,3,2018-01-03,2018-12-29,103,7
+31,All My Hope,Crowder Featuring Tauren Wells,13,2018-01-20,2018-05-19,103,18
+32,The Resistance,Skillet,18,2018-01-03,2018-09-15,103,32
+33,Therapy Session,NF,15,2018-01-03,2018-11-03,92,19
+34,Look Up Child,Lauren Daigle,10,2018-09-22,2018-12-01,89,11
+35,Grace Got You,MercyMe,18,2018-05-19,2018-09-15,87,16
+36,Carol Of The Bells / Sing We Now Of Christmas,BarlowGirl,3,2018-01-03,2018-12-22,81,5
+37,Rescue,Lauren Daigle,11,2018-09-22,2018-12-08,81,12
+38,Hark The Herald Angels Sing,Amy Grant,3,2018-01-03,2018-12-29,78,6
+39,The Christmas Song,Lauren Daigle,1,2018-12-15,2018-12-29,74,3
+40,What Child Is This? (First Noel Prelude),Francesca Battistelli,8,2018-01-03,2018-12-29,70,5
+41,Still Rolling Stones,Lauren Daigle,14,2018-09-22,2018-12-01,68,8
+42,So Will I (100 Billion X),Hillsong Worship,15,2018-04-21,2018-08-18,61,12
+43,Old Church Choir,Zach Williams,12,2018-01-13,2018-02-24,60,7
+44,Who Am I,Casting Crowns,12,2018-02-24,2018-03-31,59,6
+45,Known,Tauren Wells,20,2018-09-22,2018-12-08,42,12
+46,O Little Town Of Bethlehem,Elvis Presley,7,2018-01-03,2018-12-29,38,4
+47,Light Of The World,Lauren Daigle,13,2018-01-03,2018-12-29,37,5
+48,I Heard The Bells On Christmas Day,Casting Crowns,12,2018-01-03,2018-12-22,36,4
+49,Hills And Valleys,Tauren Wells,20,2018-01-13,2018-10-27,36,15
+50,How Can It Be,Lauren Daigle,22,2018-08-04,2018-11-24,35,14
+51,Do It Again,Elevation Worship,20,2018-07-28,2018-09-15,34,8
+52,A Hallelujah Christmas,Cloverton,9,2018-01-03,2018-01-06,33,2
+53,Heaven Everywhere,Francesca Battistelli,10,2018-12-15,2018-12-29,28,3
+54,It Is Well (Live At The Civic),Bethel Music & Kristene DiMarco,19,2018-01-13,2018-02-10,28,5
+55,Kiss The Rain,Yiruma,17,2018-11-03,2018-12-01,24,5
+56,Chain Breaker,Zach Williams,23,2018-02-10,2018-06-16,14,8
+57,"Lord, I Need You",Matt Maher,23,2018-01-13,2018-11-17,11,6
+58,Only Jesus,Casting Crowns,20,2018-11-24,2018-12-01,10,2
+59,"Mary, Did You Know?",Kenny Rogers With Wynonna,20,2018-01-03,2018-12-29,10,3
+60,Everything,tobyMac,21,2018-09-01,2018-10-27,8,2
+61,God's Not Dead (Like A Lion),newsboys,22,2018-01-13,2018-04-14,7,2
+62,Tremble,Mosaic MSC,23,2018-07-14,2018-07-28,7,3
+63,Winter Wonderland,Amy Grant,21,2018-01-06,2018-01-06,5,1
+64,This Is Amazing Grace,Phil Wickham,22,2018-04-14,2018-04-14,4,1
+65,Silent Night,Casting Crowns,22,2018-01-06,2018-01-06,4,1
+66,This Girl,Lauren Daigle,23,2018-09-22,2018-10-06,4,2
+67,The Breakup Song,Francesca Battistelli,23,2018-09-08,2018-09-08,3,1
+68,New Wine,Hillsong Worship,23,2018-05-12,2018-05-12,3,1
+69,Tell Your Heart To Beat Again,Danny Gokey,24,2018-01-13,2018-02-03,3,2

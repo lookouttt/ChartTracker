@@ -1,0 +1,157 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Masterpiece,Motionless In White,1,2022-04-30,2022-11-05,778,28
+2,Dead Man Walking,Jelly Roll,1,2022-01-01,2022-06-25,770,26
+3,Ramon Ayala,Giovannie & The Hired Guns,2,2022-01-01,2022-08-27,746,35
+4,Rest In Peace,DOROTHY,2,2022-02-12,2022-08-13,738,27
+5,So Called Life,Three Days Grace,1,2022-01-01,2022-05-21,736,21
+6,Eye Of The Storm,Pop Evil,2,2022-05-07,2022-10-01,718,22
+7,Black Summer,Red Hot Chili Peppers,2,2022-02-12,2022-07-02,696,21
+8,Planet Zero,Shinedown,1,2022-02-05,2022-06-18,693,20
+9,Zombified,Falling In Reverse,1,2022-01-15,2022-06-04,683,21
+10,Call Me Little Sunshine,Ghost,1,2022-01-29,2022-06-25,675,22
+11,If Tomorrow Never Comes,Bad Wolves,2,2022-02-26,2022-07-16,652,21
+12,Lifetime,Three Days Grace,1,2022-04-23,2022-09-03,632,20
+13,Daylight,Shinedown,1,2022-06-11,2022-10-22,631,20
+14,Wild Child,The Black Keys,3,2022-03-19,2022-08-06,626,21
+15,Won't Stand Down,Muse,1,2022-01-22,2022-06-04,625,20
+16,Afterlife,Five Finger Death Punch,1,2022-04-23,2022-09-03,625,20
+17,The Steeple,Halestorm,1,2022-02-19,2022-07-02,621,20
+18,Voices In My Head,Falling In Reverse,5,2022-06-11,2022-11-05,617,22
+19,Tired Of Winning,Nothing More,5,2022-05-14,2022-09-24,602,20
+20,I Still Burn,Fozzy,7,2022-04-02,2022-09-17,600,25
+21,Hey You,Disturbed,1,2022-07-23,2022-11-05,583,16
+22,No Apologies,Papa Roach,1,2022-06-18,2022-10-29,573,20
+23,Like A Villain,Bad Omens,10,2022-02-26,2022-08-06,546,24
+24,Never Gonna Learn,Asking Alexandria,6,2022-01-22,2022-06-04,540,20
+25,Natural Born Killer,Highly Suspect,1,2022-07-09,2022-11-05,539,18
+26,Patient Number 9,Ozzy Osbourne Featuring Jeff Beck,1,2022-07-02,2022-11-05,527,19
+27,Love Dies Young,Foo Fighters,3,2022-01-01,2022-04-16,520,16
+28,Epiphany,Mammoth WVH,9,2022-01-01,2022-04-30,494,18
+29,Start The Healing,Korn,2,2022-01-01,2022-04-02,491,14
+30,Temple Of Ekur,Volbeat,8,2022-03-19,2022-07-30,490,20
+31,Times Like These,Five Finger Death Punch,1,2022-07-30,2022-11-05,476,15
+32,Bad Things,I Prevail,1,2022-07-30,2022-11-05,448,15
+33,Blow,Eva Under Fire,11,2022-06-11,2022-10-22,438,20
+34,Worst Is On Its Way,Korn,11,2022-04-23,2022-09-03,435,20
+35,Taking Me Back,Jack White,2,2022-01-01,2022-03-19,425,12
+36,Kill The Noise,Papa Roach,5,2022-01-01,2022-03-26,393,13
+37,DiE4u,Bring Me The Horizon,5,2022-01-01,2022-03-19,386,12
+38,Dead Inside,Nita Strauss & David Draiman,1,2022-01-01,2022-03-12,380,11
+39,More Than Machines,Bush,4,2022-08-06,2022-11-05,371,14
+40,Strangers,Bring Me The Horizon,10,2022-07-23,2022-11-05,371,16
+41,Stand Up,Papa Roach,12,2022-02-05,2022-05-21,357,16
+42,The River Is Rising,Slash Featuring Myles Kennedy And The Conspirators,8,2022-01-01,2022-03-19,342,12
+43,Re-Entry,A Day To Remember Featuring Mark Hoppus,16,2022-02-12,2022-06-18,337,19
+44,Faded Out,Asking Alexandria Featuring Within Tempation,14,2022-07-02,2022-10-15,324,16
+45,Mystery,Turnstile,16,2022-03-26,2022-07-23,322,18
+46,Behind Your Walls,The Offspring,17,2022-04-09,2022-08-20,316,20
+47,Tippa My Tongue,Red Hot Chili Peppers,6,2022-08-27,2022-11-05,309,11
+48,Wicked Ways,Halestorm,15,2022-07-30,2022-11-05,301,15
+49,Spillways,Ghost,12,2022-08-13,2022-11-05,300,13
+50,Circle The Drain,Wage War,13,2022-01-01,2022-04-23,294,17
+51,The Shower Scene,Ice Nine Kills,18,2022-05-21,2022-10-01,290,20
+52,Shotgun Blues,Volbeat,1,2022-01-01,2022-02-19,283,8
+53,Hunter's Moon,Ghost,1,2022-01-01,2022-02-26,278,9
+54,Changes Are Coming,Daughtry,18,2022-01-01,2022-04-23,272,17
+55,Riptide,Beartooth,17,2022-07-30,2022-11-05,264,15
+56,Master Of Puppets,Metallica,18,2022-07-16,2022-11-05,261,17
+57,Yen,Slipknot,16,2022-08-20,2022-11-05,255,12
+58,The Liars Club,Coheed And Cambria,21,2022-03-19,2022-07-16,252,18
+59,When We Were Young,Architects,20,2022-05-07,2022-08-20,241,16
+60,Waiting On The Sky To Change,STARSET Featuring Breaking Benjamin,12,2022-09-03,2022-11-05,233,10
+61,Teardrinker,Mastodon,10,2022-01-01,2022-02-26,231,9
+62,Another Last Time,Dirty Honey,23,2022-03-05,2022-07-02,223,18
+63,Untouchable,Atreyu Featuring Jacoby Shaddix,22,2022-01-01,2022-04-02,222,14
+64,Set You Free,Crobot,22,2022-05-28,2022-09-03,211,15
+65,Brother The Cloud,Eddie Vedder,16,2022-01-29,2022-04-16,207,12
+66,Rainy Day,Ice Nine Kills,14,2022-01-01,2022-02-19,202,8
+67,The Retaliators Theme (21 Bullets),"The Retaliators Featuring Motley Crue, Asking Alexandria, Ice Nine Kills & From Ashes To New",15,2022-08-20,2022-11-05,198,12
+68,San Quentin,Nickelback,9,2022-09-17,2022-11-05,196,8
+69,Above It All,Saint Asonia,21,2022-05-21,2022-08-13,186,13
+70,Crimson Skies,Black Veil Brides,19,2022-01-01,2022-03-12,185,11
+71,Family,Badflower,20,2022-03-05,2022-05-28,184,13
+72,Voices,Shaman's Harvest,22,2022-01-08,2022-04-23,182,16
+73,One Of Those Days,Ozzy Osbourne Featuring Eric Clapton,8,2022-09-24,2022-11-05,181,7
+74,I'm Not,Zero 9:36,21,2022-01-22,2022-04-30,180,15
+75,What's The Trick?,Jack White,22,2022-05-28,2022-08-20,173,13
+76,The Comeback,All Good Things Featuring Craig Mabbitt Of Escape The Fate,17,2022-01-01,2022-02-26,172,9
+77,Skin,Beartooth,23,2022-02-05,2022-05-07,168,14
+78,Crows,Saliva,27,2022-06-25,2022-10-15,168,17
+79,The Foundations Of Decay,My Chemical Romance,21,2022-05-28,2022-08-13,167,12
+80,Built By Nations,Greta Van Fleet,7,2022-01-01,2022-01-29,165,5
+81,Glitch,Parkway Drive,26,2022-06-25,2022-10-08,163,16
+82,Miracle,A Day To Remember,24,2022-08-13,2022-10-29,159,12
+83,Surrender,Godsmack,2,2022-10-08,2022-11-05,156,5
+84,Kill Beautiful Things,DED,13,2022-01-01,2022-02-05,154,6
+85,Surviving The Game,Skillet,21,2022-01-01,2022-02-26,144,9
+86,Brighten,Jerry Cantrell,19,2022-01-01,2022-02-12,142,7
+87,Will Of The People,Muse,23,2022-09-03,2022-11-05,137,10
+88,Supercharged,Ayron Jones,4,2022-01-01,2022-01-22,134,4
+89,Lifeline,Bad Wolves,10,2022-01-01,2022-01-29,134,5
+90,"""Filthy""",Ayron Jones,21,2022-09-10,2022-11-05,133,9
+91,Silver Tongue,Alter Bridge,27,2022-08-27,2022-11-05,125,11
+92,Hot Friends,Ayron Jones,27,2022-03-19,2022-06-11,117,13
+93,Rainbow Veins,Bullet For My Valentine,27,2022-01-01,2022-03-05,116,10
+94,Shoulders,Coheed And Cambria,11,2022-01-01,2022-01-22,115,4
+95,People Are Strange,The Violent,28,2022-02-12,2022-05-07,115,13
+96,Talking To Ourselves,Rise Against,25,2022-01-01,2022-02-26,112,9
+97,Plastic Heart,Fame On Fire,29,2022-03-05,2022-06-18,112,16
+98,City Of The Dead,Hollywood Undead,27,2022-07-02,2022-10-01,104,14
+99,Beguiled,The Smashing Pumpkins,17,2022-10-08,2022-11-05,100,5
+100,Feast Of Fire,Trivium,20,2022-01-01,2022-01-29,98,5
+101,These Are The Ways,Red Hot Chili Peppers,27,2022-06-18,2022-08-20,90,10
+102,Becoming,Volbeat,24,2022-09-24,2022-11-05,89,7
+103,Gotta Get Outta Here,Blacklite District,31,2022-02-12,2022-06-11,89,16
+104,Ringin' In My Head,Black Stone Cherry,30,2022-04-23,2022-07-23,84,14
+105,Welcome To The Chaos,Fame On Fire Featuring Spencer Charnas,27,2022-09-10,2022-11-05,77,9
+106,Just Pretend,Bad Omens,25,2022-09-10,2022-11-05,76,9
+107,.intoodeep.,Dead Poet Society,28,2022-02-19,2022-04-23,73,9
+108,Money,The Warning,31,2022-04-30,2022-07-23,69,13
+109,Peace And Tranquility,Mastodon,29,2022-04-30,2022-06-18,68,8
+110,I Am The Weapon,Three Days Grace,23,2022-10-08,2022-11-05,66,5
+111,Soldier On!,Megadeth,31,2022-08-27,2022-10-29,66,10
+112,You Don't Know What Love Means,Nothing More,22,2022-10-15,2022-11-05,60,4
+113,Somebody,Memphis May Fire,34,2022-02-05,2022-04-16,60,11
+114,Alone Again,Asking Alexandria,21,2022-01-01,2022-01-15,55,3
+115,Edging,Blink-182,14,2022-10-22,2022-11-05,54,3
+116,Set You Free,Black Label Society,31,2022-01-01,2022-02-05,52,6
+117,Black Sheep,DOROTHY,28,2022-10-01,2022-11-05,49,6
+118,Make Believe,Memphis May Fire,32,2022-06-11,2022-08-06,48,8
+119,Godspeed,Wage War,32,2022-07-23,2022-09-24,45,9
+120,Classless Act,Classless Act Featuring Vince Neil,33,2022-08-20,2022-10-08,44,8
+121,The Wire,Dirty Honey,21,2022-01-01,2022-01-08,38,2
+122,Saturday Night,The Black Moods,34,2022-06-11,2022-08-06,37,9
+123,Kick,Def Leppard,34,2022-04-09,2022-06-04,37,9
+124,The Chapeltown Rag,Slipknot,31,2022-01-01,2022-01-29,35,5
+125,Back From The Dead,Halestorm,25,2022-01-01,2022-01-08,32,2
+126,I Wanna Be Your Slave,Maneskin,34,2022-01-01,2022-02-05,32,6
+127,Anarchy,Lilith Czar,26,2022-01-01,2022-01-08,30,2
+128,Hope In This World,Messer,36,2022-03-12,2022-05-21,26,10
+129,Supermodel,Maneskin,36,2022-08-20,2022-10-08,23,8
+130,No More Tears,Bullet For My Valentine,33,2022-10-01,2022-10-29,21,5
+131,100 Little Deaths,Lilith Czar,37,2022-08-06,2022-09-17,20,7
+132,Tear Gas,Architects,34,2022-10-15,2022-11-05,16,3
+133,Don't Hate Me,Badflower,33,2022-01-01,2022-01-08,14,2
+134,Saviour II,Black Veil Brides,35,2022-10-22,2022-11-05,13,3
+135,The Truth,Pistols At Dawn,36,2022-10-22,2022-11-05,13,3
+136,Dinosaur,Theory Of A Deadman,31,2022-11-05,2022-11-05,10,1
+137,Paranoid (Crash & Burn),Pop Evil,33,2022-10-29,2022-11-05,9,2
+138,You Made Me Want To Live,Black Label Society,38,2022-06-25,2022-08-13,9,6
+139,Three Chords,Goodbye June,38,2022-03-26,2022-05-07,9,6
+140,Dad Vibes,Limp Bizkit,37,2022-01-01,2022-01-22,8,3
+141,Hard Skool,Guns N' Roses,38,2022-01-01,2022-01-15,8,3
+142,Ultraviolet,Silverstein,37,2022-05-14,2022-06-18,7,3
+143,Hallelujah,Underoath,37,2022-02-26,2022-03-12,7,3
+144,Out For Blood,Code Orange,38,2022-01-22,2022-02-05,7,3
+145,Hurts Like Hell,New Years Day,38,2022-10-22,2022-11-05,6,3
+146,Jack,HARDY,36,2022-11-05,2022-11-05,5,1
+147,Down,Versus Me,37,2022-01-15,2022-01-29,5,2
+148,Criminal,Cold Kingdom Featuring Danny Case,39,2022-06-25,2022-07-09,3,2
+149,A Little Bit Of Love,Weezer,39,2022-07-09,2022-07-16,3,2
+150,When I Get Paid,STONE HORSES,39,2022-08-27,2022-09-10,3,2
+151,Overrated,Giovannie And The Hired Guns,39,2022-11-05,2022-11-05,2,1
+152,Sick Of You,Tetrarch,39,2022-01-15,2022-01-15,2,1
+153,Better Off Alone,Plush,40,2022-05-14,2022-05-14,1,1
+154,Fait Accompli,Capital Theatre,40,2022-10-15,2022-10-15,1,1
+155,I Am More,Madame Mayhem,40,2022-02-05,2022-02-05,1,1
+156,Holiday,Turnstile,40,2022-11-05,2022-11-05,1,1

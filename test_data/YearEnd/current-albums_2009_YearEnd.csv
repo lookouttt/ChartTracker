@@ -1,0 +1,833 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Fearless,Taylor Swift,1,2009-01-03,2009-12-26,7125,52
+2,The Fame,Lady Gaga,4,2009-01-03,2009-12-26,5501,52
+3,Dark Horse,Nickelback,2,2009-01-03,2009-12-26,4934,52
+4,I Am...Sasha Fierce,Beyonce,2,2009-01-03,2009-12-26,4597,52
+5,Only By The Night,Kings Of Leon,4,2009-01-03,2009-12-26,4586,52
+6,Twilight,Soundtrack,3,2009-01-03,2009-12-26,4406,52
+7,Hannah Montana: The Movie,Soundtrack,1,2009-04-11,2009-12-26,4184,38
+8,The Foundation,Zac Brown Band,11,2009-01-03,2009-12-26,4050,52
+9,The E.N.D.,The Black Eyed Peas,1,2009-06-27,2009-12-26,3407,27
+10,Learn To Live,Darius Rucker,17,2009-01-03,2009-12-26,3404,52
+11,Funhouse,P!nk,12,2009-01-03,2009-12-26,3399,52
+12,Taylor Swift,Taylor Swift,21,2009-01-03,2009-12-26,3168,52
+13,Lady Antebellum,Lady Antebellum,11,2009-01-03,2009-12-26,3022,52
+14,Love On The Inside,Sugarland,21,2009-01-03,2009-12-26,2925,51
+15,Wide Open,Jason Aldean,4,2009-04-25,2009-12-26,2886,36
+16,Intuition,Jamie Foxx,3,2009-01-03,2009-08-15,2859,33
+17,We Sing. We Dance. We Steal Things.,Jason Mraz,13,2009-01-03,2009-10-17,2686,42
+18,Unstoppable,Rascal Flatts,1,2009-04-25,2009-12-26,2490,33
+19,Relapse,Eminem,1,2009-06-06,2009-12-12,2423,28
+20,The Fray,The Fray,1,2009-02-21,2009-10-17,2387,35
+21,808s & Heartbreak,Kanye West,3,2009-01-03,2009-06-27,2249,26
+22,The Sound Of Madness,Shinedown,21,2009-01-17,2009-12-26,2224,49
+23,Defying Gravity,Keith Urban,1,2009-04-18,2009-12-26,2109,37
+24,Scars & Souvenirs,Theory Of A Deadman,27,2009-01-17,2009-11-14,2078,42
+25,NOW 31,Various Artists,1,2009-07-18,2009-12-26,2075,23
+26,The Time Of Our Lives (EP),Miley Cyrus,2,2009-09-12,2009-12-26,2026,16
+27,Circus,Britney Spears,3,2009-01-03,2009-06-13,2018,24
+28,21st Century Breakdown,Green Day,1,2009-05-30,2009-11-07,1958,24
+29,A Different Me,Keyshia Cole,2,2009-01-03,2009-07-18,1938,27
+30,NOW 30,Various Artists,1,2009-04-11,2009-09-19,1926,23
+31,BLACKsummers'night,Maxwell,1,2009-07-25,2009-12-19,1894,22
+32,Leave This Town,Daughtry,1,2009-08-01,2009-12-26,1857,22
+33,One Of The Boys,Katy Perry,15,2009-01-03,2009-09-19,1845,38
+34,Paper Trail,T.I.,10,2009-01-03,2009-07-11,1832,28
+35,All I Ever Wanted,Kelly Clarkson,1,2009-03-28,2009-12-12,1821,35
+36,The Blueprint 3,JAY-Z,1,2009-09-26,2009-12-26,1769,14
+37,Swan Songs,Hollywood Undead,38,2009-01-10,2009-10-10,1769,40
+38,Viva La Vida or Death And All His Friends,Coldplay,8,2009-01-03,2009-09-19,1743,38
+39,David Cook,David Cook,10,2009-01-03,2009-08-29,1739,35
+40,That Lonesome Song,Jamey Johnson,33,2009-01-03,2009-12-05,1709,40
+41,No Line On The Horizon,U2,1,2009-03-21,2009-10-17,1660,29
+42,Big Whiskey And The GrooGrux King,Dave Matthews Band,1,2009-06-20,2009-12-19,1655,21
+43,Tha Carter III,Lil Wayne,19,2009-01-03,2009-10-03,1643,39
+44,Rock N Roll Jesus,Kid Rock,19,2009-01-03,2009-08-22,1624,34
+45,Carnival Ride,Carrie Underwood,15,2009-01-03,2009-08-29,1602,35
+46,Greatest Hits II,Kenny Chesney,3,2009-06-06,2009-12-19,1587,27
+47,In A Perfect World...,Keri Hilson,4,2009-04-11,2009-09-26,1574,25
+48,19,Adele,10,2009-01-03,2009-08-15,1573,33
+49,Freedom,Akon,10,2009-01-03,2009-06-27,1429,25
+50,NOW 29,Various Artists,8,2009-01-03,2009-05-16,1428,20
+51,I Look To You,Whitney Houston,1,2009-09-19,2009-12-26,1370,15
+52,Crazy Love,Michael Buble,1,2009-10-24,2009-12-26,1351,10
+53,Ocean Eyes,Owl City,8,2009-08-01,2009-12-26,1350,22
+54,Mamma Mia!,Soundtrack,11,2009-01-03,2009-09-12,1349,28
+55,Slumdog Millionaire,Soundtrack,4,2009-01-17,2009-05-30,1274,20
+56,When The World Comes Down,The All-American Rejects,15,2009-01-03,2009-06-27,1241,26
+57,Hannah Montana 3,Soundtrack,2,2009-07-25,2009-12-12,1234,14
+58,Epiphany,Chrisette Michele,1,2009-05-23,2009-11-07,1232,21
+59,Year Of The Gentleman,Ne-Yo,23,2009-01-03,2009-05-30,1208,22
+60,"Lines, Vines And Trying Times",Jonas Brothers,1,2009-07-04,2009-10-03,1191,14
+61,Twang,George Strait,1,2009-08-29,2009-12-26,1172,18
+62,Chickenfoot,Chickenfoot,4,2009-06-20,2009-11-28,1138,16
+63,Love V/S Money,The-Dream,2,2009-03-28,2009-07-18,1132,17
+64,My Christmas,Andrea Bocelli,2,2009-11-21,2009-12-26,1123,6
+65,The Twilight Saga: New Moon,Soundtrack,1,2009-10-31,2009-12-26,1122,9
+66,American Saturday Night,Brad Paisley,2,2009-07-18,2009-12-26,1101,16
+67,Greatest Hits Volume 1,Rascal Flatts,28,2009-01-03,2009-11-14,1051,32
+68,Ready,Trey Songz,3,2009-09-19,2009-12-26,1038,15
+69,Keep On Loving You,Reba,1,2009-09-05,2009-12-26,1030,17
+70,Soul,Seal,24,2009-01-03,2009-07-04,1015,25
+71,Good Girl Gone Bad,Rihanna,19,2009-01-03,2009-04-25,997,17
+72,Working On A Dream,Bruce Springsteen,1,2009-02-14,2009-04-25,993,11
+73,Michael Jackson's This Is It (Soundtrack),Michael Jackson,1,2009-11-14,2009-12-26,992,7
+74,Deeper Than Rap,Rick Ross,1,2009-05-09,2009-08-01,985,13
+75,Want,3OH!3,44,2009-04-04,2009-10-10,975,28
+76,Breakthrough,Colbie Caillat,1,2009-09-12,2009-12-05,949,13
+77,Love Is The Answer,Barbra Streisand,1,2009-10-17,2009-12-26,941,11
+78,Death Magnetic,Metallica,20,2009-01-03,2009-05-30,926,22
+79,The Point Of It All,Anthony Hamilton,12,2009-01-03,2009-08-15,923,30
+80,Good Time,Alan Jackson,47,2009-01-24,2009-08-29,914,32
+81,Play On,Carrie Underwood,1,2009-11-21,2009-12-26,903,6
+82,iSouljaBoyTellem,Soulja Boy Tell'em,43,2009-01-03,2009-07-25,900,30
+83,Quiet Nights,Diana Krall,3,2009-04-18,2009-08-15,886,15
+84,Together Through Life,Bob Dylan,1,2009-05-16,2009-07-18,885,10
+85,High School Musical 3: Senior Year,Soundtrack,12,2009-01-03,2009-04-25,839,17
+86,Here We Go Again,Demi Lovato,1,2009-08-08,2009-10-17,825,11
+87,Awake,Skillet,2,2009-09-12,2009-12-26,804,16
+88,"Testimony: Vol. 2, Love & Politics",India.Arie,3,2009-02-28,2009-06-13,804,14
+89,Little Bit Of Everything,Billy Currington,31,2009-06-13,2009-10-10,793,18
+90,Lotus Flow3r/MPLSoUND/Elix3r,Prince/Bria Valente,2,2009-04-18,2009-06-20,790,10
+91,Dear Agony,Breaking Benjamin,4,2009-10-17,2009-12-26,788,11
+92,Loso's Way (Soundtrack),Fabolous,1,2009-08-15,2009-10-24,785,11
+93,So Far Gone (EP),Drake,6,2009-10-03,2009-12-19,785,12
+94,Jeremih,Jeremih,6,2009-07-18,2009-10-17,777,14
+95,Da REAList,Plies,14,2009-01-03,2009-04-04,774,14
+96,Southern Voice,Tim McGraw,2,2009-11-07,2009-12-26,770,8
+97,Revolution,Miranda Lambert,8,2009-10-17,2009-12-26,770,11
+98,The Last Kiss,Jadakiss,3,2009-04-25,2009-06-27,769,10
+99,Cradlesong,Rob Thomas,3,2009-07-18,2009-10-10,757,12
+100,Theater Of The Mind,Ludacris,14,2009-01-03,2009-04-04,756,14
+101,Backspacer,Pearl Jam,1,2009-10-10,2009-12-12,755,10
+102,Day & Age,The Killers,18,2009-01-03,2009-06-13,742,17
+103,Uncle Charlie,Charlie Wilson,2,2009-03-07,2009-07-04,725,14
+104,Jennifer Hudson,Jennifer Hudson,30,2009-01-03,2009-05-30,712,21
+105,Memoirs Of An Imperfect Angel,Mariah Carey,3,2009-10-17,2009-12-19,701,9
+106,Brand New Eyes,Paramore,2,2009-10-17,2009-12-26,695,11
+107,Black Ice,AC/DC,9,2009-01-03,2009-04-04,694,14
+108,The Resistance,Muse,3,2009-10-03,2009-12-05,693,10
+109,Incredibad,The Lonely Island,13,2009-02-28,2009-07-04,689,19
+110,American Ride,Toby Keith,3,2009-10-24,2009-12-26,684,10
+111,Kiss And Tell,Selena Gomez & The Scene,9,2009-10-17,2009-12-26,684,11
+112,R.O.O.T.S. (Route Of Overcoming The Struggle),Flo Rida,8,2009-04-18,2009-06-27,664,11
+113,If On A Winter's Night...,Sting,6,2009-11-14,2009-12-26,663,7
+114,NOW 32,Various Artists,5,2009-11-21,2009-12-26,651,6
+115,Your Songs,"Harry Connick, Jr.",8,2009-10-10,2009-12-26,651,12
+116,Raising Sand,Robert Plant / Alison Krauss,2,2009-02-21,2009-05-02,650,11
+117,#1s ... And Then Some,Brooks & Dunn,5,2009-09-26,2009-12-05,645,11
+118,Wilco (The Album),Wilco,4,2009-07-18,2009-09-19,637,10
+119,Wolfgang Amadeus Phoenix,Phoenix,37,2009-05-30,2009-11-14,633,22
+120,Evolver,John Legend,33,2009-01-03,2009-03-28,631,13
+121,Black Gives Way To Blue,Alice In Chains,5,2009-10-17,2009-12-26,629,10
+122,The Last,Aventura,5,2009-06-27,2009-08-29,622,10
+123,Glee: Season One: The Music Volume 1,Soundtrack,4,2009-11-21,2009-12-26,619,6
+124,Spirit,Leona Lewis,42,2009-01-03,2009-04-11,618,15
+125,Folie A Deux,Fall Out Boy,8,2009-01-03,2009-03-21,612,12
+126,Transformers: Revenge Of The Fallen: The Album,Soundtrack,7,2009-07-11,2009-11-07,607,10
+127,Night Castle,Trans-Siberian Orchestra,5,2009-11-14,2009-12-26,606,7
+128,I Dreamed A Dream,Susan Boyle,1,2009-12-12,2009-12-26,600,3
+129,Life Starts Now,Three Days Grace,3,2009-10-10,2009-12-12,596,10
+130,Hot August Night/NYC: Live From Madison Square Garden,Neil Diamond,2,2009-08-29,2009-10-10,584,7
+131,Soulbook,Rod Stewart,4,2009-11-14,2009-12-26,578,7
+132,Kidz Bop 15,Kidz Bop Kids,7,2009-02-21,2009-04-25,578,10
+133,"It's Not Me, It's You",Lily Allen,5,2009-02-28,2009-05-16,575,12
+134,LIVE On The Inside,Sugarland,1,2009-08-22,2009-10-10,574,8
+135,WOW Hits 2010,Various Artists,33,2009-10-24,2009-12-26,572,10
+136,Grammy Nominees 2009,Various Artists,6,2009-02-14,2009-04-04,568,8
+137,The Promise,Il Divo,20,2009-01-03,2009-04-11,559,15
+138,Full Circle,Creed,2,2009-11-14,2009-12-26,526,7
+139,La Revolucion,Wisin & Yandel,7,2009-06-13,2009-12-12,523,11
+140,onmyradio,Musiq Soulchild,52,2009-01-03,2009-05-02,523,17
+141,ISolated INcident,Dane Cook,4,2009-06-06,2009-08-22,519,10
+142,Forever In A Day,DAY26,2,2009-05-02,2009-06-06,517,6
+143,Far,Regina Spektor,3,2009-07-11,2009-10-31,511,10
+144,NOW That's What I Call Country Vol. 2,Various Artists,10,2009-09-12,2009-11-28,510,10
+145,Nothing Personal,All Time Low,4,2009-07-25,2009-09-12,502,8
+146,Man On The Moon: The End Of Day,Kid Cudi,4,2009-10-03,2009-11-21,500,8
+147,The Fall,Norah Jones,3,2009-12-05,2009-12-26,499,4
+148,The Circle,Bon Jovi,1,2009-11-28,2009-12-26,495,5
+149,Monuments And Melodies,Incubus,5,2009-07-04,2009-08-29,495,9
+150,Gold And Green,Sugarland,21,2009-10-31,2009-12-26,492,9
+151,Fearless,Jazmine Sullivan,45,2009-01-10,2009-04-11,478,14
+152,The 3D Concert Experience (Soundtrack),Jonas Brothers,3,2009-03-14,2009-04-25,477,7
+153,David Archuleta,David Archuleta,22,2009-01-03,2009-03-14,476,11
+154,Feel That Fire,Dierks Bentley,3,2009-02-21,2009-05-02,475,9
+155,It's Blitz!,Yeah Yeah Yeahs,22,2009-03-28,2009-06-13,473,10
+156,Still,BeBe & CeCe Winans,12,2009-10-24,2009-12-05,469,7
+157,Kidz Bop 16,Kidz Bop Kids,8,2009-08-22,2009-10-10,468,8
+158,Sonic Boom,KISS,2,2009-10-24,2009-11-28,462,6
+159,WOW Hits 2009,Various Artists,53,2009-01-03,2009-07-04,459,21
+160,Category F5,Twista,8,2009-08-01,2009-09-26,458,9
+161,Gloriana,Gloriana,3,2009-08-22,2009-09-26,457,6
+162,Doin' My Thing,Luke Bryan,6,2009-10-24,2009-12-26,455,10
+163,Fantasy Ride,Ciara,3,2009-05-23,2009-06-27,454,6
+164,Battle Studies,John Mayer,1,2009-12-05,2009-12-26,451,4
+165,Thr33 Ringz,T-Pain,41,2009-01-03,2009-03-21,449,12
+166,My World (EP),Justin Bieber,6,2009-12-05,2009-12-26,444,4
+167,Swoon,Silversun Pickups,7,2009-05-02,2009-08-22,442,14
+168,Middle Cyclone,Neko Case,3,2009-03-21,2009-05-16,430,8
+169,Wizards Of Waverly Place,Soundtrack,24,2009-08-22,2009-10-10,430,8
+170,The Man I Want To Be,Chris Young,19,2009-09-19,2009-11-28,429,11
+171,UGK 4 Life,UGK,6,2009-04-18,2009-05-30,428,7
+172,Take It To The Limit,Hinder,52,2009-01-03,2009-03-28,428,13
+173,Justin Moore,Justin Moore,10,2009-08-29,2009-10-17,422,8
+174,Christmas From The Heart,David Archuleta,30,2009-10-31,2009-12-26,421,9
+175,Wrath,Lamb Of God,2,2009-03-14,2009-04-11,418,5
+176,Notorious,Soundtrack,4,2009-01-31,2009-03-07,415,6
+177,Asleep In The Bread Aisle,Asher Roth,5,2009-05-09,2009-06-20,414,7
+178,Killswitch Engage,Killswitch Engage,7,2009-07-18,2009-08-29,412,7
+179,Troubadour,George Strait,34,2009-01-03,2009-09-05,412,17
+180,Lucky Old Sun,Kenny Chesney,41,2009-01-03,2009-05-30,407,16
+181,The Recession,Young Jeezy,50,2009-01-10,2009-04-04,403,13
+182,Sounds Of The Universe,Depeche Mode,3,2009-05-09,2009-06-13,397,6
+183,Blackout! 2,Method Man & Redman,7,2009-06-06,2009-07-11,394,6
+184,Until The Whole World Hears,Casting Crowns,4,2009-12-05,2009-12-26,393,4
+185,Battlefield,Jordin Sparks,7,2009-08-08,2009-09-19,392,7
+186,Horehound,The Dead Weather,6,2009-08-01,2009-09-12,380,7
+187,Rebelution,Pitbull,8,2009-09-19,2009-11-07,379,8
+188,The Rebirth,Bobby V,7,2009-02-28,2009-04-04,378,6
+189,Celebration,Madonna,7,2009-10-17,2009-11-21,377,6
+190,Christmas: 25th Anniversary Collection,Mannheim Steamroller,26,2009-11-14,2009-12-26,376,7
+191,A Man's Thoughts,Ginuwine,9,2009-07-11,2009-08-29,374,8
+192,The Sound,Mary Mary,59,2009-01-31,2009-08-29,373,29
+193,Sci-Fi Crimes,Chevelle,6,2009-09-19,2009-10-31,371,7
+194,Rockferry,Duffy,43,2009-01-03,2009-03-21,370,12
+195,Chinese Democracy,Guns N' Roses,25,2009-01-03,2009-02-14,368,7
+196,Only Built 4 Cuban Linx... Pt. II,Raekwon,4,2009-09-26,2009-10-24,363,5
+197,Glory In The Highest: Christmas Songs Of Worship,Chris Tomlin,40,2009-10-24,2009-12-26,361,10
+198,Signature,Joe,7,2009-08-01,2009-09-05,356,6
+199,A Little Bit Longer,Jonas Brothers,23,2009-01-03,2009-03-07,351,10
+200,Before I Self-Destruct,50 Cent,5,2009-12-05,2009-12-26,348,4
+201,War Is The Answer,Five Finger Death Punch,7,2009-10-10,2009-11-14,348,6
+202,Vans Warped Tour: 2009 Tour Compilation,Various Artists,45,2009-06-27,2009-09-05,344,11
+203,Greatest Hits,Foo Fighters,11,2009-11-21,2009-12-26,342,6
+204,(500) Days Of Summer,Soundtrack,42,2009-08-01,2009-09-26,339,9
+205,I Get Around,K'Jon,12,2009-08-22,2009-10-10,337,8
+206,Back On My B.S.,Busta Rhymes,5,2009-06-06,2009-07-04,336,5
+207,For Your Entertainment,Adam Lambert,3,2009-12-12,2009-12-26,334,3
+208,All Hope Is Gone,Slipknot,61,2009-01-03,2009-04-04,334,14
+209,Metamorphosis,Papa Roach,8,2009-04-11,2009-05-16,333,6
+210,Live From Madison Square Garden,Eric Clapton And Steve Winwood,14,2009-06-06,2009-07-18,332,7
+211,The Fame Monster (EP),Lady Gaga,5,2009-12-12,2009-12-26,331,3
+212,Rated R,Rihanna,4,2009-12-12,2009-12-26,330,3
+213,Raditude,Weezer,7,2009-11-21,2009-12-19,329,5
+214,Chris Botti: In Boston,Chris Botti,13,2009-04-18,2009-05-30,329,7
+215,The Beatles In Stereo,The Beatles,15,2009-09-26,2009-12-26,329,8
+216,Oracular Spectacular,MGMT,38,2009-01-10,2009-08-22,327,18
+217,Uplifter,311,3,2009-06-20,2009-07-18,324,5
+218,Playing For Change: Songs Around The World,Various Artists,10,2009-05-16,2009-06-13,324,5
+219,Yanni Voices,Yanni,20,2009-04-11,2009-07-04,324,8
+220,Christmas In The Heart,Bob Dylan,23,2009-10-31,2009-12-26,322,9
+221,Finding Beauty In Negative Spaces,Seether,52,2009-05-02,2009-08-15,318,16
+222,Son Of A Preacher Man,John Rich,16,2009-04-11,2009-05-16,316,6
+223,The List,Rosanne Cash,22,2009-10-24,2009-12-19,316,7
+224,Saving Abel,Saving Abel,49,2009-01-03,2009-06-06,307,17
+225,The High End Of Low,Marilyn Manson,4,2009-06-13,2009-07-04,306,4
+226,The Ecstatic,Mos Def,9,2009-06-27,2009-08-01,306,6
+227,God & Guns,Lynyrd Skynyrd,18,2009-10-17,2009-11-21,305,6
+228,And Winter Came...,Enya,14,2009-01-03,2009-02-07,304,6
+229,WOW Gospel 2009: 30 Of The Year's Top Gospel Artists And Songs,Various Artists,27,2009-02-14,2009-04-04,303,8
+230,Round 2,J. Holiday,4,2009-03-28,2009-04-18,302,4
+231,SuperBad: The Return Of Boosie Bad Azz,Lil' Boosie,7,2009-10-03,2009-11-07,301,6
+232,Love Drunk,Boys Like Girls,8,2009-09-26,2009-10-31,299,6
+233,Crime Pays,Cam'ron,3,2009-05-30,2009-06-20,295,4
+234,"Secret, Profane & Sugarcane",Elvis Costello,13,2009-06-20,2009-07-11,289,4
+235,The Ballads,Mariah Carey,10,2009-02-07,2009-03-07,288,5
+236,Don't Feed Da Animals,Gorilla Zoe,8,2009-04-04,2009-05-16,284,7
+237,Hot Mess,Cobra Starship,4,2009-08-29,2009-09-19,282,4
+238,Ellipse,Imogen Heap,5,2009-09-12,2009-10-03,280,4
+239,Good Evening New York City,Paul McCartney,15,2009-12-05,2009-12-26,280,4
+240,Kellie Pickler,Kellie Pickler,69,2009-06-06,2009-08-29,280,13
+241,Breakout,Miley Cyrus,27,2009-01-03,2009-04-25,278,8
+242,American Idol: Season 8,Soundtrack,34,2009-07-18,2009-08-22,278,6
+243,Veckatimest,Grizzly Bear,8,2009-06-13,2009-07-18,276,6
+244,Memento Mori,Flyleaf,8,2009-11-28,2009-12-26,272,5
+245,Universal Mind Control,Common,40,2009-01-03,2009-02-14,266,7
+246,Ursa Major,Third Eye Blind,3,2009-09-05,2009-09-26,264,4
+247,Above And Beyonce: Video Collection & Dance Mixes (EP),Beyonce,35,2009-07-04,2009-08-15,264,7
+248,Kris Allen,Kris Allen,11,2009-12-05,2009-12-26,262,4
+249,Boss Of All Bosses,Slim Thug,15,2009-04-11,2009-05-16,262,6
+250,Innocence & Instinct,Red,15,2009-02-28,2009-04-04,261,6
+251,The Hazards Of Love,The Decemberists,14,2009-04-04,2009-05-16,260,6
+252,Bang! Pow! Boom!,Insane Clown Posse,4,2009-09-19,2009-10-03,257,3
+253,Metalocalypse: Dethalbum II (Soundtrack),Dethklok,15,2009-10-17,2009-11-14,256,5
+254,Indestructible,Disturbed,66,2009-01-03,2009-05-30,255,17
+255,The Introduction Of Marcus Cooper,Pleasure P,10,2009-06-27,2009-07-25,254,5
+256,New Again,Taking Back Sunday,7,2009-06-20,2009-07-11,250,4
+257,I and Love and You,The Avett Brothers,16,2009-10-17,2009-11-14,249,5
+258,Total Club Hits 2,DJ Skribble,16,2009-01-24,2009-02-14,248,4
+259,Daughtry,Daughtry,50,2009-01-10,2009-08-22,248,15
+260,Just Go,Lionel Richie,24,2009-06-06,2009-07-04,245,5
+261,NOW That's What I Call Motown,Various Artists,13,2009-01-31,2009-02-28,243,5
+262,Monsters Of Folk,Monsters Of Folk,15,2009-10-10,2009-11-07,242,5
+263,Where The Wild Things Are (Soundtrack),Karen O And The Kids,35,2009-10-17,2009-11-14,237,5
+264,Walt Disney Records Presents: Radio Disney Jams 11,Various Artists,41,2009-02-14,2009-04-25,236,8
+265,Untitled,R. Kelly,4,2009-12-19,2009-12-26,232,2
+266,Shine,Martina McBride,10,2009-04-11,2009-05-02,230,4
+267,Lady Love,LeToya,12,2009-09-12,2009-10-03,228,4
+268,"No One's First, And You're Next (EP)",Modest Mouse,15,2009-08-22,2009-09-19,228,5
+269,Pray IV Reign,Jim Jones,9,2009-04-11,2009-05-02,226,4
+270,Church Music,David Crowder Band,11,2009-10-10,2009-11-07,225,5
+271,Black Clouds & Silver Linings,Dream Theater,6,2009-07-11,2009-07-25,224,3
+272,Tri-Polar,Sick Puppies,31,2009-08-01,2009-10-10,224,8
+273,Daisy,Brand New,6,2009-10-10,2009-10-24,220,3
+274,Crack The Skye,Mastodon,11,2009-04-11,2009-05-09,220,5
+275,Mitchel Musso,Mitchel Musso,19,2009-06-20,2009-07-18,220,5
+276,Christmas Cheers,Straight No Chaser,33,2009-11-21,2009-12-26,218,6
+277,Them Crooked Vultures,Them Crooked Vultures,12,2009-12-05,2009-12-26,217,4
+278,She Wolf,Shakira,15,2009-12-12,2009-12-26,217,3
+279,D.N.A.,Mario,9,2009-10-31,2009-11-21,215,4
+280,Turn Me Loose,Ledisi,14,2009-09-05,2009-10-03,214,5
+281,All Wrapped Up! (EP),Various Artists,10,2009-01-03,2009-01-24,213,4
+282,Doll Domination,The Pussycat Dolls,58,2009-01-10,2009-03-07,213,8
+283,Fleet Foxes,Fleet Foxes,36,2009-01-17,2009-02-14,212,5
+284,Don't Forget,Demi Lovato,49,2009-01-03,2009-05-02,212,9
+285,Cage The Elephant,Cage The Elephant,67,2009-06-06,2009-11-21,212,15
+286,Incanto,Andrea Bocelli,38,2009-01-03,2009-02-28,211,6
+287,Endgame,Megadeth,9,2009-10-03,2009-10-17,210,3
+288,TheOpenDoor EP,Death Cab For Cutie,30,2009-04-18,2009-06-13,209,5
+289,Strict Joy,The Swell Season,15,2009-11-14,2009-11-28,208,3
+290,10,MercyMe,18,2009-04-25,2009-05-09,207,3
+291,Hello Hurricane,Switchfoot,13,2009-11-28,2009-12-26,206,5
+292,Backwoods Barbie,Dolly Parton,40,2009-04-11,2009-05-16,206,6
+293,NOW That's What I Call A Country Christmas,Various Artists,50,2009-11-28,2009-12-26,206,5
+294,For Our Heroes,Montgomery Gentry,11,2009-06-13,2009-06-27,205,3
+295,Opus Collection,Creedence Clearwater Revival,25,2009-08-22,2009-09-05,204,3
+296,Tonight: Franz Ferdinand,Franz Ferdinand,9,2009-02-14,2009-03-21,203,5
+297,Astral Weeks: Live At The Hollywood Bowl,Van Morrison,33,2009-03-14,2009-04-04,200,4
+298,Get Lucky,Mark Knopfler,17,2009-10-03,2009-10-24,198,4
+299,White Lies For Dark Times,Ben Harper And Relentless7,9,2009-05-23,2009-06-06,197,3
+300,Ryan Leslie,Ryan Leslie,35,2009-02-28,2009-03-28,196,5
+301,Making Merry,Various Artists,41,2009-12-05,2009-12-26,196,4
+302,Break Up,Pete Yorn & Scarlett Johansson,41,2009-10-03,2009-11-07,196,5
+303,Love Unstoppable,Fred Hammond,26,2009-10-17,2009-11-14,194,5
+304,Roadsinger,Yusuf,41,2009-05-23,2009-06-20,194,5
+305,The Definitive Collection,Michael Jackson,39,2009-09-12,2009-10-10,193,5
+306,Echo,Leona Lewis,13,2009-12-05,2009-12-26,192,4
+307,Abnormally Attracted To Sin,Tori Amos,9,2009-06-06,2009-06-20,191,3
+308,The Devil You Know,Heaven & Hell,8,2009-05-16,2009-05-30,189,3
+309,Winter Wonderland,Various Artists,46,2009-01-03,2009-01-24,189,4
+310,Imperial Blaze,Sean Paul,12,2009-09-05,2009-09-26,188,4
+311,It's America,Rodney Atkins,15,2009-04-18,2009-05-09,188,4
+312,Noble Beast,Andrew Bird,12,2009-02-07,2009-02-21,187,3
+313,Seduction: Sinatra Sings Of Love,Frank Sinatra,23,2009-02-07,2009-02-28,187,4
+314,En Concert,Jack Johnson,11,2009-11-14,2009-12-05,185,4
+315,Let It Roll: Songs By George Harrison,George Harrison,24,2009-07-04,2009-07-25,185,4
+316,Let The Dominoes Fall,Rancid,11,2009-06-20,2009-07-11,184,4
+317,Michael Buble Meets Madison Square Garden,Michael Buble,14,2009-07-04,2009-07-25,183,4
+318,Can't Slow Down,Foreigner,29,2009-10-17,2009-11-07,183,4
+319,Draw The Line,David Gray,12,2009-10-10,2009-11-07,182,5
+320,A Fine Mess,Kate Voegele,10,2009-06-06,2009-06-20,181,3
+321,Artwork,The Used,10,2009-09-19,2009-10-03,181,3
+322,NOW That's What I Call Power Ballads,Various Artists,30,2009-04-11,2009-05-09,179,5
+323,Glee: Season One: The Music Volume 2,Soundtrack,3,2009-12-26,2009-12-26,178,1
+324,Embryonic,The Flaming Lips,8,2009-10-31,2009-11-14,178,3
+325,City Of Black & White,Mat Kearney,13,2009-06-06,2009-07-11,177,5
+326,Genius: The Ultimate Ray Charles Collection,Ray Charles,35,2009-04-25,2009-07-04,177,4
+327,Fork In The Road,Neil Young,19,2009-04-25,2009-05-16,175,4
+328,Watchmen,Soundtrack,30,2009-03-21,2009-04-04,175,3
+329,Merriweather Post Pavilion,Animal Collective,13,2009-02-07,2009-03-21,173,5
+330,Humbug,Arctic Monkeys,15,2009-09-12,2009-10-03,173,4
+331,That Don't Make Me A Bad Guy,Toby Keith,57,2009-01-03,2009-02-28,172,8
+332,Total Dance 2009,Tony Okungbowa,13,2009-03-21,2009-04-04,166,3
+333,New Jack City II,Bow Wow,16,2009-04-18,2009-05-02,166,3
+334,If Tomorrow Comes...,Maino,25,2009-07-18,2009-08-01,164,3
+335,Crash Love,AFI,12,2009-10-17,2009-10-31,163,3
+336,World Painted Blood,Slayer,12,2009-11-21,2009-12-05,163,3
+337,Human,Brandy,66,2009-01-03,2009-02-14,163,7
+338,Rides Again,John Fogerty/The Blue Ridge Rangers,24,2009-09-19,2009-10-10,162,4
+339,Keeps Gettin' Better: A Decade Of Hits,Christina Aguilera,66,2009-01-03,2009-03-14,161,7
+340,Guilty Pleasure,Ashley Tisdale,12,2009-08-15,2009-09-05,160,4
+341,Twilight: The Score (Carter Burwell),Soundtrack,65,2009-01-17,2009-04-18,160,6
+342,Easy Does It,Jake Owen,13,2009-03-14,2009-04-04,159,4
+343,A Cherry Cherry Christmas,Neil Diamond,50,2009-12-05,2009-12-26,156,4
+344,Approaching Normal,Blue October,13,2009-04-11,2009-05-02,154,4
+345,Beauty Will Rise,Steven Curtis Chapman,27,2009-11-21,2009-12-12,154,4
+346,Let The Truth Be Told,Laura Izibor,27,2009-07-04,2009-07-25,153,4
+347,This Is Us,Backstreet Boys,9,2009-10-24,2009-10-31,149,2
+348,With Roots Above And Branches Below,The Devil Wears Prada,11,2009-05-23,2009-06-06,149,3
+349,Before The Frost...Until The Freeze,The Black Crowes,12,2009-09-19,2009-10-03,149,3
+350,The Voice,Mike Jones,12,2009-05-16,2009-05-30,147,3
+351,The Bridge,Melanie Fiona,57,2009-11-28,2009-12-26,147,5
+352,Joy,Phish,13,2009-09-26,2009-10-10,146,3
+353,Party Rock,LMFAO,33,2009-07-25,2009-10-10,146,7
+354,Shallow Life,Lacuna Coil,16,2009-05-09,2009-05-30,145,4
+355,Joy To The World,Faith Hill,19,2009-01-03,2009-01-10,145,2
+356,Electric Dirt,Levon Helm,36,2009-07-18,2009-08-22,145,5
+357,Constellations,August Burns Red,24,2009-08-01,2009-08-15,144,3
+358,Alvin And The Chipmunks: The Squeakquel,Soundtrack,25,2009-12-19,2009-12-26,144,2
+359,Around The Well,Iron And Wine,25,2009-06-06,2009-06-27,144,4
+360,Colour Me Free!,Joss Stone,10,2009-11-07,2009-11-14,143,2
+361,Punk Goes Pop Volume Two,Various Artists,15,2009-03-28,2009-04-11,142,3
+362,Audience Of One,Heather Headley,27,2009-01-31,2009-02-14,141,3
+363,Halestorm,Halestorm,40,2009-05-16,2009-09-19,141,7
+364,127 Rose Avenue,Hank Williams Jr.,19,2009-07-04,2009-07-18,140,3
+365,My Love: Essential Collection,Celine Dion,69,2009-01-03,2009-02-14,138,7
+366,Scream,Chris Cornell,10,2009-03-28,2009-04-04,137,2
+367,[a_CROSS//the_EARTH] : : Tear Down The Walls,Hillsong UNITED,21,2009-06-13,2009-06-27,137,3
+368,NBC Sounds Of The Season: The Julianne Hough Holiday Collection (EP),Julianne Hough,24,2009-01-03,2009-01-24,135,4
+369,Hold Time,M. Ward,31,2009-03-07,2009-03-21,135,3
+370,Graffiti,Chris Brown,7,2009-12-26,2009-12-26,134,1
+371,Octahedron,The Mars Volta,12,2009-07-11,2009-07-25,134,3
+372,Back & Fourth,Pete Yorn,32,2009-07-04,2009-07-18,134,3
+373,Congo Square,Teena Marie,20,2009-06-27,2009-07-11,133,3
+374,The Annie Lennox Collection,Annie Lennox,34,2009-03-07,2009-03-21,133,3
+375,Live At The Meadowlands,Frank Sinatra,52,2009-05-23,2009-09-05,133,4
+376,Voices: WWE The Music Vol. 9,Soundtrack,11,2009-02-14,2009-02-28,131,3
+377,Years Of Refusal,Morrissey,11,2009-03-07,2009-03-21,130,3
+378,K.O.D.,Tech N9ne,14,2009-11-14,2009-11-21,130,2
+379,Letters To Santa: A Holiday Musical Collection,Various Artists,63,2009-11-28,2009-12-26,130,4
+380,Blood Bank (EP),Bon Iver,16,2009-02-07,2009-02-14,129,2
+381,The Singles Collection,Britney Spears,22,2009-11-28,2009-12-12,129,3
+382,Yo-Yo Ma & Friends: Songs Of Joy & Peace,Yo-Yo Ma,26,2009-01-03,2009-01-10,128,2
+383,"Save Me, San Francisco",Train,17,2009-11-14,2009-11-28,127,3
+384,Number Ones,Janet,20,2009-12-05,2009-12-19,127,3
+385,Fast Life,Paul Wall,15,2009-05-30,2009-06-13,126,3
+386,Light,Matisyahu,19,2009-09-12,2009-09-26,126,3
+387,Mr. Lucky,Chris Isaak,29,2009-03-14,2009-03-28,126,3
+388,Pricele$$,Birdman,29,2009-12-12,2009-12-26,126,3
+389,Total Club Hits 3,DJ Skribble,36,2009-08-08,2009-08-22,125,3
+390,Cosmic - Egg,Wolfmother,16,2009-11-14,2009-11-21,124,2
+391,I Told You So: The Ultimate Hits Of Randy Travis,Randy Travis,21,2009-04-04,2009-04-18,124,3
+392,All Or Nothing,Jay Sean,33,2009-12-12,2009-12-26,124,3
+393,The Power Of One,Israel Houghton,34,2009-04-11,2009-05-09,124,5
+394,Christmas Duets,Elvis Presley,24,2009-01-03,2009-01-10,123,2
+395,American Classic,Willie Nelson,43,2009-09-12,2009-09-26,123,3
+396,Fame,Soundtrack,43,2009-09-12,2009-10-24,123,4
+397,Classique,Will Downing,22,2009-07-04,2009-07-25,122,3
+398,Murder Was The Case,Gucci Mane,23,2009-05-30,2009-06-13,122,3
+399,NOW That's What I Call Club Hits,Various Artists,31,2009-10-10,2009-10-24,122,3
+400,Give Up The Ghost,Brandi Carlile,26,2009-10-24,2009-11-07,121,3
+401,Disney Channel Playlist,Various Artists,72,2009-06-27,2009-08-15,120,7
+402,Ruthless,Ace Hood,23,2009-07-18,2009-07-25,119,2
+403,Harry Potter And The Half-Blood Prince,Soundtrack,29,2009-08-01,2009-08-15,119,3
+404,Waking Up,OneRepublic,19,2009-12-05,2009-12-12,118,2
+405,Dorrough Music,Dorrough,36,2009-08-22,2009-09-05,118,3
+406,Cult Of Static,Static-X,16,2009-04-04,2009-04-11,117,2
+407,Season 8 Favorite Performances,Adam Lambert,33,2009-06-06,2009-06-13,117,2
+408,11:11,Rodrigo y Gabriela,34,2009-09-26,2009-10-24,117,5
+409,The Beatles In Mono,The Beatles,40,2009-09-26,2009-11-07,117,2
+410,Not Without A Fight,New Found Glory,12,2009-03-28,2009-04-04,116,2
+411,Liebe Ist Fur Alle Da,Rammstein,13,2009-11-07,2009-11-14,116,2
+412,What I'm For,Pat Green,18,2009-02-14,2009-02-21,116,2
+413,Exposed,Kristinia DeBarge,23,2009-08-15,2009-08-29,116,3
+414,Gangsta Grillz: The Album Vol. 2,Drama,26,2009-06-06,2009-06-20,116,3
+415,Sickology 101,Tech N9ne Collabos,19,2009-05-16,2009-05-30,114,3
+416,The Outsiders,NEEDTOBREATHE,20,2009-09-12,2009-09-26,113,3
+417,Greatest Hits,Bruce Springsteen & The E Street Band,43,2009-01-31,2009-02-28,112,4
+418,Hello Love,Chris Tomlin,68,2009-03-14,2009-12-12,112,7
+419,Carolina,Eric Church,17,2009-04-11,2009-05-02,111,3
+420,Townes,Steve Earle,19,2009-05-30,2009-06-06,110,2
+421,Wait For Me,Moby,22,2009-07-18,2009-07-25,110,2
+422,Congregation Of The Damned,Atreyu,18,2009-11-14,2009-11-21,109,2
+423,The Long Fall Back To Earth,Jars Of Clay,29,2009-05-09,2009-05-23,109,3
+424,Jason Nevins Presents: Ultra Dance 10,Jason Nevins,41,2009-01-24,2009-02-07,109,3
+425,This Better Be Good,Paul Simon,60,2009-07-18,2009-08-08,109,4
+426,Forget And Not Slow Down,Relient K,15,2009-10-24,2009-10-31,108,2
+427,Lonely Road,The Red Jumpsuit Apparatus,14,2009-02-21,2009-02-28,107,2
+428,Slaughterhouse,Slaughterhouse,25,2009-08-29,2009-09-05,107,2
+429,Beggars,Thrice,47,2009-08-29,2009-10-03,107,2
+430,The Boy Who Knew Too Much,MIKA,19,2009-10-10,2009-10-17,106,2
+431,Spectacular!,Soundtrack,44,2009-03-07,2009-03-14,106,2
+432,Everybody,Ingrid Michaelson,18,2009-09-12,2009-09-19,105,2
+433,In The Hands Of God,newsboys,28,2009-05-23,2009-06-06,105,3
+434,We All Are One (Live In Detroit),Donnie McClurkin,26,2009-04-18,2009-05-02,104,3
+435,Minutes To Midnight,Linkin Park,77,2009-01-03,2009-03-07,104,8
+436,The Eternal,Sonic Youth,18,2009-06-27,2009-07-04,103,2
+437,Already Free,The Derek Trucks Band,19,2009-01-31,2009-02-07,103,2
+438,Homesick,A Day To Remember,21,2009-02-21,2009-03-07,102,3
+439,Fight For Love,Elliott Yamin,26,2009-05-23,2009-05-30,102,2
+440,The State Vs. Radric Davis,Gucci Mane,10,2009-12-26,2009-12-26,101,1
+441,Songs Of Love And Heartache,Alan Jackson,34,2009-11-21,2009-12-05,101,3
+442,American Idol Season 8: The 5 Song EP,Soundtrack,17,2009-08-22,2009-08-29,100,2
+443,I Told You I Was Freaky (Soundtrack),Flight Of The Conchords,19,2009-11-07,2009-11-14,100,2
+444,Sainthood,Tegan And Sara,21,2009-11-14,2009-11-21,100,2
+445,NOW That's What I Call The 80s Vol. 2,Various Artists,37,2009-07-18,2009-07-25,100,2
+446,Peace On Earth,Casting Crowns,41,2009-01-03,2009-01-10,99,2
+447,Evolution Of A Man,Brian McKnight,20,2009-11-14,2009-11-21,98,2
+448,Jessie James,Jessie James,23,2009-08-29,2009-09-05,97,2
+449,What A Night! A Christmas Album,"Harry Connick, Jr.",42,2009-01-03,2009-01-10,96,2
+450,Armistice,MuteMath,18,2009-09-05,2009-09-12,95,2
+451,Collective Soul,Collective Soul,24,2009-09-12,2009-09-19,95,2
+452,Anywhere But Here,Mayday Parade,31,2009-10-24,2009-10-31,95,2
+453,Star Trek,Soundtrack,49,2009-05-23,2009-05-30,95,2
+454,Alter The Ending,Dashboard Confessional,19,2009-11-28,2009-12-05,94,2
+455,Happy Hour,Uncle Kracker,38,2009-10-03,2009-10-10,94,2
+456,A Swingin' Christmas,Tony Bennett Featuring The Count Basie Big Band,45,2009-01-03,2009-01-10,94,2
+457,Attention Deficit,Wale,21,2009-11-28,2009-12-05,93,2
+458,Spongebob Squarepants: Spongebob's Greatest Hits,Soundtrack,62,2009-08-01,2009-08-15,93,3
+459,Anomaly,Ace Frehley,27,2009-10-03,2009-10-10,92,2
+460,Ghostdini: Wizard Of Poetry In Emerald City,Ghostface Killah,28,2009-10-17,2009-10-24,92,2
+461,Just Like You,Allison Iraheta,31,2009-12-19,2009-12-26,92,2
+462,idon,Don Omar,32,2009-05-16,2009-05-23,92,2
+463,77,Kutless,42,2009-11-07,2009-11-28,91,4
+464,W.I.C.K.E.D.,Twiztid,11,2009-04-04,2009-04-04,90,1
+465,Disney: Phineas And Ferb,Soundtrack,59,2009-10-10,2009-11-07,90,4
+466,Dark Was The Night: A Red Hot Compilation,Various Artists,49,2009-03-07,2009-03-21,89,3
+467,Farm,Dinosaur Jr.,29,2009-07-11,2009-07-18,88,2
+468,Holiday Spirits,Straight No Chaser,46,2009-01-03,2009-01-10,88,2
+469,No Time To Bleed,Suicide Silence,32,2009-07-18,2009-07-25,87,2
+470,Free,Gavin DeGraw,19,2009-04-18,2009-04-25,86,2
+471,The Live Anthology,Tom Petty & The Heartbreakers,46,2009-12-12,2009-12-26,86,3
+472,Buffet Hotel,Jimmy Buffett,16,2009-12-26,2009-12-26,85,1
+473,La Granja,Los Tigres del Norte,45,2009-09-26,2009-10-10,85,3
+474,In Search Of Solid Ground,Saosin,19,2009-09-26,2009-10-03,84,2
+475,The Infection,Chimaira,30,2009-05-09,2009-05-16,84,2
+476,This Is War,Thirty Seconds To Mars,18,2009-12-26,2009-12-26,83,1
+477,Fashionably Late,Honor Society,18,2009-10-03,2009-10-03,83,1
+478,Desperate Measures,Hollywood Undead,29,2009-11-28,2009-12-05,83,2
+479,JustDance,Various Artists,30,2009-06-13,2009-06-20,83,2
+480,Troubadour,K'Naan,32,2009-03-14,2009-03-21,83,2
+481,Passione,Paul Potts,33,2009-05-23,2009-05-30,83,2
+482,Losing Sleep,Parachute,40,2009-05-30,2009-08-22,83,3
+483,The Essential NOW That's What I Call Christmas,Various Artists,46,2009-01-03,2009-01-10,82,2
+484,The Real Thing,pureNRG,20,2009-08-01,2009-08-01,81,1
+485,Tomorrow,Sean Kingston,37,2009-10-10,2009-10-17,81,2
+486,"For Emma, Forever Ago",Bon Iver,64,2009-01-17,2009-02-07,81,4
+487,Malice N Wonderland,Snoop Dogg,21,2009-12-26,2009-12-26,80,1
+488,The Incident,Porcupine Tree,25,2009-10-03,2009-10-10,80,2
+489,Pray For Villains,DevilDriver,35,2009-08-01,2009-08-08,80,2
+490,Necesito De Ti,Vicente Fernandez,58,2009-07-25,2009-08-08,80,3
+491,Strange Cousins From The West,Clutch,38,2009-08-01,2009-08-08,79,2
+492,The Very Best Of Enya,Enya,47,2009-12-19,2009-12-26,79,2
+493,Growing Up Is Getting Old,Jason Michael Carroll,28,2009-05-16,2009-05-23,78,2
+494,Hit Man: David Foster & Friends,David Foster,70,2009-01-03,2009-04-04,77,6
+495,Amanda Leigh,Mandy Moore,25,2009-06-13,2009-06-13,76,1
+496,Say Anything,Say Anything,25,2009-11-21,2009-11-21,76,1
+497,Persona,Queen Latifah,25,2009-09-12,2009-09-12,76,1
+498,American Soldier,Queensryche,25,2009-04-18,2009-04-18,76,1
+499,FOR(N)EVER,Hoobastank,26,2009-02-14,2009-02-14,75,1
+500,Soy,Ednita,27,2009-11-14,2009-11-21,75,2
+501,Out Of Ashes,Dead By Sunrise,29,2009-10-31,2009-11-07,75,2
+502,Shaka Rock,Jet,27,2009-09-12,2009-09-12,74,1
+503,World Wide Open,Love And Theft,36,2009-09-12,2009-09-19,74,2
+504,Bomb In A Birdcage,A Fine Frenzy,28,2009-09-26,2009-09-26,73,1
+505,99 Perfectly Relaxing Songs,Various Artists,28,2009-04-11,2009-04-11,73,1
+506,Cities 97 Sampler 21: Live From Studio C,Various Artists,29,2009-12-05,2009-12-05,72,1
+507,The 99 Most Essential Beethoven Masterpieces,Various Artists,29,2009-01-17,2009-01-17,72,1
+508,Natural Forces,Lyle Lovett,29,2009-11-07,2009-11-07,72,1
+509,Poseidon And The Bitter Bug,Indigo Girls,29,2009-04-11,2009-04-11,72,1
+510,Slice,Five For Fighting,34,2009-10-31,2009-11-07,72,2
+511,Street Sweeper Social Club,Street Sweeper Social Club,37,2009-07-04,2009-07-11,72,2
+512,Skinny Jeanz And A Mic,New Boyz,56,2009-10-03,2009-10-10,72,2
+513,Camp Rock,Soundtrack,63,2009-01-03,2009-01-10,72,2
+514,The Blueprint: Collector's Edition,JAY-Z,30,2009-09-26,2009-09-26,71,1
+515,Humanoid,Tokio Hotel,35,2009-10-24,2009-10-31,71,2
+516,Ruination,Job For A Cowboy,42,2009-07-25,2009-08-08,71,3
+517,Back To Tennessee,Billy Ray Cyrus,41,2009-04-25,2009-05-02,70,2
+518,The Stripped Mixes,Michael Jackson,57,2009-07-25,2009-08-29,70,3
+519,Crazy Ex-Girlfriend,Miranda Lambert,84,2009-02-07,2009-03-28,70,8
+520,Timbaland Presents Shock Value II,Timbaland,32,2009-12-26,2009-12-26,69,1
+521,Yes,Pet Shop Boys,32,2009-05-09,2009-05-09,69,1
+522,Welcome To The Masquerade,Thousand Foot Krutch,35,2009-09-26,2009-10-03,69,2
+523,Happiness And All The Other Things,Cross Canadian Ragweed,33,2009-09-19,2009-09-19,68,1
+524,A Shipwreck In The Sand,Silverstein,33,2009-04-18,2009-04-18,68,1
+525,Outer South,Conor Oberst And The Mystic Valley Band,40,2009-05-23,2009-05-30,68,2
+526,Deflorate,The Black Dahlia Murder,43,2009-10-03,2009-10-10,68,2
+527,Bright Nights Dark Days,Cavo,47,2009-08-29,2009-09-05,68,2
+528,By A Thread,Gov't Mule,34,2009-11-14,2009-11-14,67,1
+529,"Finally Famous: Born A Thug, Still A Thug",Trick Daddy,34,2009-10-03,2009-10-03,67,1
+530,The 99 Most Essential Mozart Masterpieces,Various Artists,34,2009-03-14,2009-03-14,67,1
+531,Disney: Fairy Tale Holiday 2008 (EP),Various Artists,34,2009-01-17,2009-01-17,67,1
+532,Flight 666 (Soundtrack),Iron Maiden,34,2009-06-27,2009-06-27,67,1
+533,Jason Mraz's A Beautiful Mess-Live On Earth,Jason Mraz,35,2009-11-28,2009-11-28,66,1
+534,Retribution,Shadows Fall,35,2009-10-03,2009-10-03,66,1
+535,Phrazes For The Young,Julian Casablancas,35,2009-11-21,2009-11-21,66,1
+536,Coaster,NOFX,36,2009-05-16,2009-05-23,66,2
+537,Love Is,Ruben Studdard,36,2009-06-06,2009-06-06,65,1
+538,The Great Misdirect,Between The Buried And Me,36,2009-11-14,2009-11-14,65,1
+539,Sing: Chapter 1,Wynonna,37,2009-02-21,2009-02-21,64,1
+540,Hatebreed,Hatebreed,37,2009-10-17,2009-10-17,64,1
+541,Live At Reading,Nirvana,37,2009-11-21,2009-11-21,64,1
+542,Release,Sister Hazel,37,2009-09-05,2009-09-05,64,1
+543,Mean Everything To Nothing,Manchester Orchestra,37,2009-05-09,2009-05-09,64,1
+544,Fearless,"Phillips, Craig & Dean",46,2009-08-22,2009-09-05,64,2
+545,Divided By Night,The Crystal Method,38,2009-05-30,2009-05-30,63,1
+546,Faith + Hope + Love: Live,Hillsong Worship,47,2009-08-22,2009-08-29,63,2
+547,Backtracks,AC/DC,39,2009-11-28,2009-11-28,62,1
+548,Mi Plan,Nelly Furtado,39,2009-10-03,2009-10-03,62,1
+549,No Security,D-Block,40,2009-06-27,2009-06-27,61,1
+550,Til The Casket Drops,Clipse,41,2009-12-26,2009-12-26,60,1
+551,Burn Burn,Our Lady Peace,41,2009-08-08,2009-08-08,60,1
+552,Bare Bones,Madeleine Peyroux,71,2009-03-28,2009-04-04,60,2
+553,My One And Only Thrill,Melody Gardot,42,2009-05-16,2009-05-16,59,1
+554,Padded Room,Joe Budden,42,2009-03-14,2009-03-14,59,1
+555,High Hopes & Heartbreak,Brooke White,50,2009-08-01,2009-08-08,59,2
+556,Hello Fascination,Breathe Carolina,43,2009-09-05,2009-09-05,58,1
+557,Cocky & Confident,Juvenile,43,2009-12-19,2009-12-19,58,1
+558,Hombre Lobo: 12 Songs Of Desire,eels,43,2009-06-20,2009-06-20,58,1
+559,Transformers: Revenge Of The Fallen: The Score,Soundtrack,49,2009-07-11,2009-07-18,58,2
+560,You Deliver Me,Selah,66,2009-09-12,2009-09-19,58,2
+561,A New Hallelujah,Michael W. Smith,72,2009-01-03,2009-04-11,58,3
+562,Gran City Pop,Paulina Rubio,44,2009-07-11,2009-07-11,57,1
+563,American Central Dust,Son Volt,44,2009-07-25,2009-07-25,57,1
+564,NBC Sounds Of The Season: The Nat King Cole Holiday Collection (EP),Nat King Cole,44,2009-01-17,2009-01-17,57,1
+565,Custom Cars & Cycles,Triple C's,44,2009-11-14,2009-11-14,57,1
+566,The Distance,Taylor Hicks,58,2009-03-28,2009-04-04,57,2
+567,Life Is Beautiful,Press Play,45,2009-06-06,2009-06-06,56,1
+568,Splendor In The Grass,Pink Martini,45,2009-11-14,2009-11-14,56,1
+569,Manners,Passion Pit,51,2009-06-06,2009-06-13,56,2
+570,New Junk Aesthetic,Every Time I Die,46,2009-10-03,2009-10-03,55,1
+571,In Love & War,Amerie,46,2009-11-21,2009-11-21,55,1
+572,Carver City,CKY,46,2009-06-06,2009-06-06,55,1
+573,Smash The Control Machine,Otep,47,2009-09-05,2009-09-12,55,2
+574,The Soundstage Sessions,Stevie Nicks,47,2009-04-18,2009-04-18,54,1
+575,Restrospective 3: 1989 - 2008,Rush,47,2009-03-21,2009-03-21,54,1
+576,There Is No Enemy,Built To Spill,50,2009-10-24,2009-10-31,54,2
+577,The Shining,Violent J,48,2009-05-16,2009-05-16,53,1
+578,Chamber Music,Wu-Tang,49,2009-07-18,2009-07-18,52,1
+579,Glitter And Doom: Live,Tom Waits,56,2009-12-12,2009-12-19,52,2
+580,Coming Back To You,Melinda Doolittle,58,2009-02-21,2009-02-28,52,2
+581,My Paper Heart,Francesca Battistelli,77,2009-05-02,2009-12-12,52,5
+582,Season 8 Favorite Performances,Kris Allen,50,2009-06-06,2009-06-06,51,1
+583,Heaven & Earth,Phil Wickham,50,2009-12-05,2009-12-05,51,1
+584,...In Shallow Seas We Sail,Emery,50,2009-06-20,2009-06-20,51,1
+585,Transition,Ryan Leslie,50,2009-11-21,2009-11-21,51,1
+586,Still Unforgettable,Natalie Cole,50,2009-11-07,2009-11-07,51,1
+587,Battle For The Sun,Placebo,51,2009-06-27,2009-06-27,50,1
+588,Behavioral Problems,Ron White,51,2009-05-09,2009-05-09,50,1
+589,Back From The Dead,Spinal Tap,52,2009-07-04,2009-07-04,49,1
+590,Born Like This.,DOOM,52,2009-04-11,2009-04-11,49,1
+591,Evangelion,Behemoth,55,2009-08-29,2009-09-05,49,2
+592,Jonas Brothers,Jonas Brothers,73,2009-01-03,2009-01-10,49,2
+593,The Definitive Rod Stewart,Rod Stewart,53,2009-06-06,2009-06-06,48,1
+594,Reunion Volume One,Gaither Vocal Band,53,2009-02-14,2009-02-14,48,1
+595,Guilt,Mims,53,2009-04-25,2009-04-25,48,1
+596,Play,Brad Paisley,77,2009-01-03,2009-01-10,48,2
+597,Live Life Loud!,Hawk Nelson,54,2009-10-10,2009-10-10,47,1
+598,Bright Side Of Life,Rebelution,54,2009-08-22,2009-08-22,47,1
+599,Live,Smokie Norful,55,2009-04-25,2009-04-25,46,1
+600,The Mountain 103.7 FM: Live From The Mountain Music Lounge Volume 15,Various Artists,55,2009-10-17,2009-10-17,46,1
+601,Let It Beat,Shwayze,55,2009-11-21,2009-11-21,46,1
+602,Take Me Home,Celtic Thunder,55,2009-08-01,2009-08-01,46,1
+603,Something Else,Robin Thicke,79,2009-01-10,2009-02-28,46,5
+604,Witness,blessthefall,56,2009-10-24,2009-10-24,45,1
+605,King Baby,Jim Gaffigan,56,2009-04-18,2009-04-18,45,1
+606,Us,Brother Ali,56,2009-10-10,2009-10-10,45,1
+607,Common Existence,Thursday,56,2009-03-07,2009-03-07,45,1
+608,LAX,The Game,78,2009-01-17,2009-02-07,45,4
+609,Sunny Side Up,Paolo Nutini,57,2009-06-20,2009-06-20,44,1
+610,The Summer EP,Never Shout Never,57,2009-07-11,2009-07-11,44,1
+611,Songs 4 Worship 50: 50 Greatest Praise And Worship Songs,Various Artists,58,2009-10-24,2009-10-24,43,1
+612,For The Lions,Hatebreed,58,2009-05-23,2009-05-23,43,1
+613,Popular Songs,Yo La Tengo,58,2009-09-26,2009-09-26,43,1
+614,Invaders Must Die,The Prodigy,58,2009-03-21,2009-03-21,43,1
+615,Kaleidoscope,Tiesto,59,2009-10-24,2009-10-31,43,2
+616,How I Got Over,Vickie Winans,67,2009-09-19,2009-09-26,43,2
+617,To Terrapin: Hartford '77,Grateful Dead,59,2009-04-25,2009-04-25,42,1
+618,Time Flies When You're Having Fun,Smokey Robinson,59,2009-09-12,2009-09-12,42,1
+619,Tinted Windows,Tinted Windows,59,2009-05-09,2009-05-09,42,1
+620,Cycles,Cartel,59,2009-11-07,2009-11-07,42,1
+621,Bitte Orca,Dirty Projectors,65,2009-06-27,2009-07-04,42,2
+622,Reunion Volume Two,Gaither Vocal Band,60,2009-02-14,2009-02-14,41,1
+623,Paris Magnifique,Various Artists,60,2009-02-21,2009-02-21,41,1
+624,A New Tide,Gomez,60,2009-04-18,2009-04-18,41,1
+625,Felony,Emmure,60,2009-09-05,2009-09-05,41,1
+626,Big Dreams & High Hopes,Jack Ingram,61,2009-09-12,2009-09-12,40,1
+627,BlaQKout,DJ Quik & Kurupt,61,2009-06-27,2009-06-27,40,1
+628,The Seventh Seal,Rakim,61,2009-12-05,2009-12-05,40,1
+629,The Lost Get Found,Britt Nicole,62,2009-08-29,2009-09-05,40,2
+630,My Weakness Is Strong,Patton Oswalt,67,2009-09-05,2009-09-12,40,2
+631,"Love, Save The Empty",Erin McCarley,76,2009-01-17,2009-01-24,40,2
+632,The Priests,The Priests,76,2009-01-03,2009-01-17,40,3
+633,Jason Crabb,Jason Crabb,62,2009-07-18,2009-07-18,39,1
+634,Mantis,Umphrey's McGee,62,2009-02-07,2009-02-07,39,1
+635,Paper Empire,Better Than Ezra,62,2009-05-30,2009-05-30,39,1
+636,Survival Skills,KRS-One & Buckshot,62,2009-10-03,2009-10-03,39,1
+637,Come Alive,Mark Schultz,62,2009-09-12,2009-09-12,39,1
+638,Christmasville,Mannheim Steamroller,67,2009-01-03,2009-01-10,39,2
+639,Hair,The New Broadway Cast Recording,63,2009-07-11,2009-07-11,38,1
+640,"Swing, Swing, Swing",Various Artists,63,2009-02-21,2009-02-21,38,1
+641,Revelation,Journey,63,2009-10-24,2009-10-24,38,1
+642,Chemical Warfare,The Alchemist,63,2009-07-25,2009-07-25,38,1
+643,Adelphia,A Skylit Drive,64,2009-06-27,2009-06-27,37,1
+644,Crossing The Rubicon,The Sounds,64,2009-06-20,2009-06-20,37,1
+645,This Will Be The Death Of Us,Set Your Goals,65,2009-08-08,2009-08-08,36,1
+646,Too Hood 2 Be Hollywood,B.G.,65,2009-12-26,2009-12-26,36,1
+647,The Crying Light,Antony And The Johnsons,65,2009-02-07,2009-02-07,36,1
+648,Take One,Adam Lambert,65,2009-12-05,2009-12-05,36,1
+649,Roadhouse Sun,Ryan Bingham & The Dead Horses,65,2009-06-20,2009-06-20,36,1
+650,Mr. Houston,Marques Houston,65,2009-10-17,2009-10-17,36,1
+651,Midwinter Graces,Tori Amos,66,2009-11-28,2009-11-28,35,1
+652,Mas Adelante,La Arrolladora Banda el Limon de Rene Camacho,66,2009-04-11,2009-04-11,35,1
+653,Crash,Decyfer Down,66,2009-05-23,2009-05-23,35,1
+654,Stockholm Syndrome,Derek Webb,66,2009-09-19,2009-09-19,35,1
+655,Quiereme Mas,Patrulla 81,66,2009-03-07,2009-03-07,35,1
+656,Perfecto: Vegas,Oakenfold,66,2009-07-25,2009-07-25,35,1
+657,Evisceration Plague,Cannibal Corpse,66,2009-02-21,2009-02-21,35,1
+658,Covers,James Taylor,80,2009-01-03,2009-01-10,35,2
+659,Reunited,Gaither Vocal Band,67,2009-09-26,2009-09-26,34,1
+660,Kari Jobe,Kari Jobe,67,2009-02-28,2009-02-28,34,1
+661,Monster Monster,The Almost,67,2009-11-21,2009-11-21,34,1
+662,The Twilight Saga: New Moon: The Score,Soundtrack,68,2009-12-12,2009-12-12,33,1
+663,Believers Never Die: Greatest Hits,Fall Out Boy,68,2009-12-05,2009-12-05,33,1
+664,Live In London,Leonard Cohen,76,2009-04-18,2009-05-02,33,2
+665,This Is The One,Utada,69,2009-05-30,2009-05-30,32,1
+666,Kate Earl,Kate Earl,69,2009-09-05,2009-09-05,32,1
+667,Just James,J Moss,74,2009-09-12,2009-09-19,32,2
+668,Vampire Weekend,Vampire Weekend,75,2009-01-17,2009-01-24,32,2
+669,Dear Science,TV On The Radio,80,2009-01-17,2009-01-24,32,2
+670,One Love,David Guetta,70,2009-09-12,2009-09-12,31,1
+671,Real Recognize Real,Project Pat,70,2009-03-14,2009-03-14,31,1
+672,In Rainbows,Radiohead,70,2009-02-28,2009-02-28,31,1
+673,Tailgate Party,Larry The Cable Guy,71,2009-10-10,2009-10-10,30,1
+674,Aim And Ignite,fun.,71,2009-09-12,2009-09-12,30,1
+675,"The Pariah, The Parrot, The Delusion",Dredg,71,2009-06-27,2009-06-27,30,1
+676,I'm About To Come Alive,David Nail,71,2009-09-05,2009-09-05,30,1
+677,III,Maylene And The Sons Of Disaster,71,2009-07-11,2009-07-11,30,1
+678,Old Things New,Joe Nichols,71,2009-11-14,2009-11-14,30,1
+679,Fiction Family,Fiction Family,71,2009-02-07,2009-02-07,30,1
+680,Music From The North Country: The Jayhawks Anthology,The Jayhawks,71,2009-07-25,2009-07-25,30,1
+681,"The Law Of Confession, Part I",Donald Lawrence & Co.,72,2009-02-21,2009-02-21,29,1
+682,New World Orphans,(hed) p.e.,72,2009-01-31,2009-01-31,29,1
+683,It's All Crazy! It's All False! It's All A Dream! It's Alright,mewithoutYou,72,2009-06-06,2009-06-06,29,1
+684,The Great Stone War,Winds Of Plague,72,2009-08-29,2009-08-29,29,1
+685,Murder By Pride,Stryper,73,2009-08-08,2009-08-08,28,1
+686,Jealous One's Still Envy (J.O.S.E. 2),Fat Joe,73,2009-10-24,2009-10-24,28,1
+687,Same As It Ever Was,Talking Heads,73,2009-05-30,2009-05-30,28,1
+688,A Higher Place,Born Of Osiris,73,2009-07-25,2009-07-25,28,1
+689,Brutha,Brutha,81,2009-01-10,2009-01-17,28,2
+690,Axe To Fall,Converge,74,2009-11-07,2009-11-07,27,1
+691,Flight 360:the Takeoff,Playaz Circle,74,2009-10-17,2009-10-17,27,1
+692,The Life Of A Song,Joey + Rory,89,2009-02-21,2009-03-21,27,5
+693,UltraHits,David Waxman,75,2009-06-27,2009-06-27,26,1
+694,El Nino Loco,Rodney Carrington,76,2009-07-04,2009-07-04,25,1
+695,Fantasies,Metric,76,2009-05-02,2009-05-02,25,1
+696,Kerry Douglas Presents: Gospel Truth Magazine: Gospel Mix Volume III,Various Artists,76,2009-07-18,2009-07-18,25,1
+697,The 99 Most Essential Baroque Masterpieces,Various Artists,76,2009-10-03,2009-10-03,25,1
+698,Gossip In The Grain,Ray LaMontagne,85,2009-01-24,2009-03-28,25,2
+699,The Boys Are Back,The Oak Ridge Boys,77,2009-06-06,2009-06-06,24,1
+700,The 99 Most Essential Pieces of the Romantic Era,Various Artists,77,2009-09-12,2009-09-12,24,1
+701,The Broad Street Bully,Beanie Sigel,77,2009-09-19,2009-09-19,24,1
+702,Kamaal The Abstract,Q-Tip,77,2009-10-03,2009-10-03,24,1
+703,Love The Future,Chester French,77,2009-05-09,2009-05-09,24,1
+704,B Is For Bob,Bob Marley And The Wailers,77,2009-07-11,2009-07-11,24,1
+705,Send One Your Love,Boney James,77,2009-02-21,2009-02-21,24,1
+706,Ray Guns Are Not Just The Future,the bird and the bee,78,2009-02-14,2009-02-14,23,1
+707,Who Knew,Kevon Edmonds,78,2009-10-31,2009-10-31,23,1
+708,Volume 4: Songs In The Key Of Love & Hate,Puddle Of Mudd,78,2009-12-26,2009-12-26,23,1
+709,The Latest,Cheap Trick,78,2009-08-08,2009-08-08,23,1
+710,Heading West: Songs For The Open Road,Various Artists,80,2009-03-21,2009-03-28,23,2
+711,X: Ten,Trace Adkins,86,2009-01-03,2009-01-10,23,2
+712,Willie And The Wheel,Willie Nelson And Asleep At The Wheel,90,2009-02-21,2009-03-14,23,3
+713,A Winter Symphony,Sarah Brightman,79,2009-01-03,2009-01-03,22,1
+714,The New Game,Mudvayne,81,2009-01-10,2009-01-17,22,2
+715,Music For Cougars,Sugar Ray,80,2009-08-08,2009-08-08,21,1
+716,Departure,Jesse McCartney,80,2009-04-25,2009-04-25,21,1
+717,A Woman A Man Walked By,PJ Harvey & John Parish,80,2009-04-18,2009-04-18,21,1
+718,More Than A Game,Soundtrack,81,2009-10-17,2009-10-17,20,1
+719,The Satanic Satanist,Portugal. The Man,81,2009-08-08,2009-08-08,20,1
+720,Old Crows / Young Cardinals,AlexisOnFire,81,2009-07-11,2009-07-11,20,1
+721,Skeletons In The Closet,Children Of Bodom,81,2009-10-10,2009-10-10,20,1
+722,On Your Side,A Rocket To The Moon,82,2009-10-31,2009-10-31,19,1
+723,Union,The Boxer Rebellion,82,2009-01-31,2009-01-31,19,1
+724,Greatest Hits,Motley Crue,82,2009-12-05,2009-12-05,19,1
+725,Sound The Alarm,Howie Day,82,2009-09-26,2009-09-26,19,1
+726,The Fine Print (A Collection Of Oddities And Rarities) 2003 - 2008,Drive-By Truckers,82,2009-09-19,2009-09-19,19,1
+727,NCIS: The Official TV Soundtrack,Soundtrack,82,2009-02-28,2009-02-28,19,1
+728,Sweetheart: Our Favorite Artists Sing Their Favorite Love Songs,Various Artists,84,2009-02-21,2009-02-28,19,2
+729,3 Doors Down,3 Doors Down,94,2009-01-17,2009-02-07,19,4
+730,Sgt. Pepper Live,Cheap Trick,83,2009-09-12,2009-09-12,18,1
+731,Freedom,Mandisa,83,2009-04-11,2009-04-11,18,1
+732,Cadillac Records,Soundtrack,83,2009-02-07,2009-02-07,18,1
+733,Ultimate Christmas Collection,Jackson 5,83,2009-12-19,2009-12-19,18,1
+734,The Rose Hotel,Robert Earl Keen,83,2009-10-17,2009-10-17,18,1
+735,Brand You Can Trust,La Coka Nostra,84,2009-08-01,2009-08-01,17,1
+736,Let's Do It Again,Leela James,84,2009-04-11,2009-04-11,17,1
+737,Love Is On The Move,Leeland,84,2009-09-12,2009-09-12,17,1
+738,Paraiso Express,Alejandro Sanz,84,2009-11-28,2009-11-28,17,1
+739,The Greatest Songs Of The Eighties,Barry Manilow,84,2009-01-03,2009-01-03,17,1
+740,Road To Revolution:  Live At Milton Keynes,Linkin Park,89,2009-01-03,2009-01-17,17,3
+741,Genius,Krizz Kaliko,85,2009-08-01,2009-08-01,16,1
+742,Honey I'm Home,Al B. Sure!,85,2009-07-11,2009-07-11,16,1
+743,BlakRoc,BlakRoc,85,2009-12-19,2009-12-19,16,1
+744,Pretty Ricky,Pretty Ricky,85,2009-12-05,2009-12-05,16,1
+745,Love & War,BarlowGirl,85,2009-09-26,2009-09-26,16,1
+746,A Philly Soul Christmas (EP),Musiq Soulchild,86,2009-01-24,2009-01-24,15,1
+747,I'm Not A Fan..But The Kids Like It!,Brokencyde,86,2009-07-04,2009-07-04,15,1
+748,The Best Of NOW That's What I Call Music! 10th Anniversary,Various Artists,91,2009-01-03,2009-01-17,15,3
+749,Bible Belt,Diane Birch,87,2009-06-20,2009-06-20,14,1
+750,A Touch Of Evil: Live,Judas Priest,87,2009-08-01,2009-08-01,14,1
+751,March Of The Zapotec And Realpeople Holland,Beirut,87,2009-03-07,2009-03-07,14,1
+752,My Maudlin Career,Camera Obscura,87,2009-05-09,2009-05-09,14,1
+753,Fight Like A Girl,Bomshel,87,2009-11-07,2009-11-07,14,1
+754,Avant,Avant,87,2009-01-03,2009-01-03,14,1
+755,Avanzando En La Vida,Los Creadorez del Pasito Duranguense de Alfredo Ramirez,88,2009-08-15,2009-08-15,13,1
+756,You Can't Take It With You,As Tall As Lions,88,2009-09-05,2009-09-05,13,1
+757,A Collection Of My Best Recollection,George Jones,88,2009-09-19,2009-09-19,13,1
+758,Necesito Mas De Ti,Duelo,88,2009-02-14,2009-02-14,13,1
+759,Shrek: The Musical,Original Broadway Cast Recording,88,2009-04-11,2009-04-11,13,1
+760,No Regrets,Dope,88,2009-03-28,2009-03-28,13,1
+761,Speaking Louder Than Before,Jeremy Camp,88,2009-01-03,2009-01-03,13,1
+762,Smile Kid,WE the Kings,89,2009-12-26,2009-12-26,12,1
+763,Worlds Collide,Apocalyptica,89,2009-01-24,2009-01-24,12,1
+764,Love,Boyz II Men,89,2009-12-12,2009-12-12,12,1
+765,Kingdom Of Rust,Doves,89,2009-04-25,2009-04-25,12,1
+766,Do What You Want Be What You Are: The Music Of Daryl Hall  John Oates,Daryl Hall John Oates,89,2009-10-31,2009-10-31,12,1
+767,Confessions,Pillar,89,2009-10-10,2009-10-10,12,1
+768,Beautiful World,Jim Brickman,89,2009-10-17,2009-10-17,12,1
+769,A Very Special Christmas 7,Various Artists,89,2009-12-19,2009-12-19,12,1
+770,LP,Discovery,89,2009-07-25,2009-07-25,12,1
+771,Blackout!: 10th Anniversary Collector's Edition,Method Man & Redman,90,2009-06-06,2009-06-06,11,1
+772,Actor,St. Vincent,90,2009-05-23,2009-05-23,11,1
+773,Appeal To Reason,Rise Against,91,2009-01-17,2009-11-07,11,2
+774,We Started Nothing,The Ting Tings,93,2009-01-24,2009-05-02,11,2
+775,QU,Sherwood,91,2009-10-31,2009-10-31,10,1
+776,Here Comes Science,They Might Be Giants,91,2009-09-26,2009-09-26,10,1
+777,The Script,The Script,91,2009-04-04,2009-04-04,10,1
+778,Buscame,Jencarlos Canela,91,2009-11-28,2009-11-28,10,1
+779,The Real Thing,Vanessa Williams,91,2009-06-20,2009-06-20,10,1
+780,Mountain Soul II,Patty Loveless,91,2009-10-17,2009-10-17,10,1
+781,Electric Arguments,The Fireman,91,2009-01-31,2009-01-31,10,1
+782,Michael Jackson's This Is It: Selections From (EP) (Soundtrack),Michael Jackson,91,2009-11-14,2009-11-14,10,1
+783,Living Thing,Peter Bjorn And John,92,2009-04-18,2009-04-18,9,1
+784,AssJack,AssJack,92,2009-08-22,2009-08-22,9,1
+785,Unmap,Volcano Choir,92,2009-10-10,2009-10-10,9,1
+786,NOW That's What I Call Country,Various Artists,92,2009-01-03,2009-01-03,9,1
+787,Changing Horses,Ben Kweller,92,2009-02-21,2009-02-21,9,1
+788,Kidz Bop Christmas,Kidz Bop Kids,93,2009-12-19,2009-12-19,8,1
+789,The Crow: New Songs For The Five-String Banjo,Steve Martin,93,2009-06-13,2009-06-13,8,1
+790,Tear Gas,The Jacka Of The Mob Figaz,93,2009-07-04,2009-07-04,8,1
+791,Addiction,Chico DeBarge,93,2009-08-01,2009-08-01,8,1
+792,Baby Einstein: Baby's Holiday Symphony,The Baby Einstein Music Box Orchestra,94,2009-01-17,2009-01-17,7,1
+793,iTunes Live From Las Vegas: Exclusively At The Palms (EP),My Morning Jacket,94,2009-01-31,2009-01-31,7,1
+794,Kidz Bop Greatest Hits,Kidz Bop Kids,94,2009-08-15,2009-08-15,7,1
+795,The Weekend: Friday (EP),Forever The Sickest Kids,94,2009-12-05,2009-12-05,7,1
+796,The Christmas Collection,Amy Grant,94,2009-01-03,2009-01-03,7,1
+797,Some Mad Hope,Matt Nathanson,94,2009-06-20,2009-06-20,7,1
+798,Ben Folds Presents: University A Cappella!,Ben Folds,94,2009-05-16,2009-05-16,7,1
+799,Knives,Aiden,95,2009-05-30,2009-05-30,6,1
+800,This Christmas,Michael McDonald,95,2009-10-17,2009-10-17,6,1
+801,Live From Bonnaroo (EP),Zac Brown Band,95,2009-08-22,2009-08-22,6,1
+802,Live At The Olympia: In Dublin,R.E.M.,95,2009-11-14,2009-11-14,6,1
+803,Something To Say,Matthew West,95,2009-05-23,2009-05-23,6,1
+804,Over And Underneath,Tenth Avenue North,95,2009-08-15,2009-08-15,6,1
+805,Lust In Space,Gwar,96,2009-09-05,2009-09-05,5,1
+806,Let It Go,State Radio,96,2009-10-17,2009-10-17,5,1
+807,Everything Is Different,Shane & Shane,96,2009-11-21,2009-11-21,5,1
+808,Songs And Stories,George Benson,96,2009-09-12,2009-09-12,5,1
+809,World Is Africa,Various Artists,96,2009-07-18,2009-07-18,5,1
+810,Take Us To The Start,Matt Hires,96,2009-08-15,2009-08-15,5,1
+811,Jay Stay Paid,J Dilla,96,2009-06-20,2009-06-20,5,1
+812,Here I Stand,Usher,96,2009-01-24,2009-01-24,5,1
+813,Mothership,Led Zeppelin,98,2009-01-24,2009-02-07,5,3
+814,Hold Back My Heart,Michael Johns,97,2009-07-11,2009-07-11,4,1
+815,Playlist: The Very Best Of Bob Dylan '70s,Bob Dylan,97,2009-09-26,2009-09-26,4,1
+816,Live At Miles High Music Festival,Dave Matthews Band,97,2009-01-03,2009-01-03,4,1
+817,The Master Plan,Tamela Mann,97,2009-11-21,2009-11-21,4,1
+818,everybOdy danCe!,James Roberson,97,2009-09-12,2009-09-12,4,1
+819,Wild Young Hearts,Noisettes,98,2009-10-10,2009-10-10,3,1
+820,Disney: Holiday Magic 2009,Various Artists,98,2009-11-28,2009-11-28,3,1
+821,BHB,Ballas Hough Band,98,2009-03-28,2009-03-28,3,1
+822,Wavering Radiant,ISIS,98,2009-05-23,2009-05-23,3,1
+823,Feel The Steel,Steel Panther,98,2009-10-24,2009-10-24,3,1
+824,Greatest Hits 3,Tim McGraw,98,2009-01-10,2009-01-10,3,1
+825,Philadelphia Freeway 2,Freeway,99,2009-06-06,2009-06-06,2,1
+826,Get Guilty,AC Newman,99,2009-02-07,2009-02-07,2,1
+827,Unexpected,Angie Stone,99,2009-12-12,2009-12-12,2,1
+828,Chess: In Concert,Cast Recording,100,2009-07-04,2009-07-04,1,1
+829,The Princess And The Frog,Soundtrack,100,2009-12-26,2009-12-26,1,1
+830,Love 2,Air,100,2009-10-24,2009-10-24,1,1
+831,How To Be A Lady: Volume 1,Electrik Red,100,2009-06-13,2009-06-13,1,1
+832,Safe Trip Home,Dido,100,2009-01-03,2009-01-03,1,1

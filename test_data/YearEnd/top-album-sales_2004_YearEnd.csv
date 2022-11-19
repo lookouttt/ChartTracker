@@ -1,0 +1,634 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Confessions,Usher,1,2004-04-10,2004-12-25,6012,38
+2,Fallen,Evanescence,3,2004-01-03,2004-11-27,4406,48
+3,The Diary Of Alicia Keys,Alicia Keys,1,2004-01-03,2004-12-25,4220,52
+4,Closer,Josh Groban,1,2004-01-03,2004-12-25,4094,52
+5,Songs About Jane,Maroon 5,6,2004-01-24,2004-12-25,4068,49
+6,When The Sun Goes Down,Kenny Chesney,1,2004-02-21,2004-12-25,3897,45
+7,Speakerboxxx/The Love Below,OutKast,1,2004-01-03,2004-09-25,3816,38
+8,Feels Like Home,Norah Jones,1,2004-02-28,2004-12-25,3745,44
+9,Here For The Party,Gretchen Wilson,2,2004-05-29,2004-12-25,3616,31
+10,In This Skin,Jessica Simpson,2,2004-01-03,2004-12-25,3559,46
+11,The College Dropout,Kanye West,2,2004-02-28,2004-11-06,3289,37
+12,The Reason,Hoobastank,3,2004-01-03,2004-10-30,3237,44
+13,Shock'n Y'All,Toby Keith,2,2004-01-03,2004-11-27,3178,48
+14,The Very Best Of Sheryl Crow,Sheryl Crow,2,2004-01-03,2004-09-25,3044,38
+15,Under My Skin,Avril Lavigne,1,2004-06-12,2004-12-25,2989,29
+16,Elephunk,The Black Eyed Peas,14,2004-01-17,2004-12-25,2963,48
+17,The Beautiful Letdown,Switchfoot,16,2004-01-17,2004-12-25,2865,50
+18,Greatest Hits,Guns N' Roses,3,2004-04-10,2004-12-25,2811,38
+19,Musicology,Prince,3,2004-05-08,2004-10-02,2802,22
+20,Meteora,Linkin Park,12,2004-01-03,2004-12-25,2697,52
+21,Horse Of A Different Color,Big & Rich,6,2004-05-22,2004-12-25,2577,32
+22,The Long Road,Nickelback,14,2004-01-03,2004-10-09,2513,41
+23,Los Lonely Boys,Los Lonely Boys,9,2004-04-24,2004-12-25,2509,36
+24,Come Away With Me,Norah Jones,18,2004-01-03,2004-12-25,2416,52
+25,Autobiography,Ashlee Simpson,1,2004-08-07,2004-12-25,2412,21
+26,The Black Album,JAY-Z,6,2004-01-03,2004-09-25,2381,36
+27,Now 16,Various Artists,1,2004-08-14,2004-12-25,2306,20
+28,In The Zone,Britney Spears,6,2004-01-03,2004-08-14,2297,33
+29,Dangerously In Love,Beyonce,11,2004-01-03,2004-12-11,2285,44
+30,Now 15,Various Artists,2,2004-04-10,2004-09-11,2197,23
+31,Ocean Avenue,Yellowcard,23,2004-03-20,2004-12-25,2165,41
+32,Kamikaze,Twista,1,2004-02-14,2004-11-20,2133,28
+33,Contraband,Velvet Revolver,1,2004-06-26,2004-12-25,2128,27
+34,D12 World,D12,1,2004-05-15,2004-10-09,2110,22
+35,Metamorphosis,Hilary Duff,6,2004-01-03,2004-09-04,2076,36
+36,Good News For People Who Love Bad News,Modest Mouse,18,2004-04-24,2004-11-27,1956,32
+37,Live Like You Were Dying,Tim McGraw,1,2004-09-11,2004-12-25,1936,16
+38,Blink-182,Blink-182,12,2004-01-03,2004-09-04,1916,36
+39,Get Born,Jet,26,2004-01-17,2004-10-02,1876,38
+40,Suit,Nelly,1,2004-10-02,2004-12-25,1857,13
+41,Genius Loves Company,Ray Charles,2,2004-09-18,2004-12-25,1810,15
+42,JoJo,JoJo,4,2004-07-10,2004-12-25,1773,25
+43,Golden Road,Keith Urban,25,2004-01-31,2004-12-04,1766,44
+44,Beg For Mercy,G Unit,8,2004-01-03,2004-07-10,1765,27
+45,Juve The Great,Juvenile,28,2004-01-10,2004-09-18,1734,35
+46,Mud On The Tires,Brad Paisley,21,2004-05-29,2004-12-25,1722,31
+47,The Singles 1992-2003,No Doubt,4,2004-01-03,2004-07-10,1698,27
+48,Now 14,Various Artists,3,2004-01-03,2004-05-08,1681,19
+49,License To Chill,Jimmy Buffett,1,2004-07-31,2004-12-25,1659,22
+50,Jackpot,Chingy,9,2004-01-03,2004-06-19,1659,25
+51,Chicken*N*Beer,Ludacris,17,2004-01-03,2004-07-10,1613,28
+52,Soulful,Ruben Studdard,5,2004-01-03,2004-05-08,1598,19
+53,The Hunger For More,Lloyd Banks,1,2004-07-17,2004-11-20,1564,19
+54,U Gotta Feel Me,Lil' Flip,4,2004-04-17,2004-10-09,1520,26
+55,Greatest Hits Volume II,Alan Jackson,19,2004-01-31,2004-10-09,1512,37
+56,Shrek 2,Soundtrack,8,2004-05-29,2004-12-25,1363,24
+57,50 Number Ones,George Strait,1,2004-10-23,2004-12-25,1298,10
+58,American Idiot,Green Day,1,2004-10-09,2004-12-25,1298,12
+59,Hot Fuss,The Killers,26,2004-07-03,2004-12-25,1227,26
+60,Away From The Sun,3 Doors Down,24,2004-01-03,2004-06-19,1209,25
+61,Vol. 3: (The Subliminal Verses),Slipknot,2,2004-06-12,2004-10-09,1205,18
+62,Afterglow,Sarah McLachlan,12,2004-01-03,2004-05-29,1195,22
+63,To The 5 Boroughs,Beastie Boys,1,2004-07-03,2004-10-09,1194,15
+64,Kiss Of Death,Jadakiss,1,2004-07-10,2004-10-09,1190,14
+65,Sweat,Nelly,2,2004-10-02,2004-12-25,1180,13
+66,Franz Ferdinand,Franz Ferdinand,32,2004-05-15,2004-10-30,1157,24
+67,Hilary Duff,Hilary Duff,2,2004-10-16,2004-12-25,1156,11
+68,Tha Carter,Lil Wayne,5,2004-07-17,2004-11-27,1117,20
+69,Straight Outta Ca$hville,Young Buck,3,2004-09-11,2004-12-11,1102,14
+70,We Are Not Alone,Breaking Benjamin,20,2004-07-17,2004-12-25,1083,24
+71,Only You,"Harry Connick, Jr.",5,2004-02-21,2004-05-29,1035,15
+72,As Time Goes By ... The Great American Songbook Vol. II,Rod Stewart,10,2004-01-03,2004-12-25,1030,24
+73,Damita Jo,Janet Jackson,2,2004-04-17,2004-07-17,1029,14
+74,Hurt No More,Mario Winans,2,2004-05-08,2004-07-31,1027,13
+75,The Cheetah Girls (EP),Soundtrack,33,2004-01-03,2004-08-21,1026,27
+76,A Crow Left Of The Murder...,Incubus,2,2004-02-21,2004-08-07,1021,23
+77,Life For Rent,Dido,22,2004-01-03,2004-07-03,1002,22
+78,Feels Like Today,Rascal Flatts,1,2004-10-16,2004-12-25,992,11
+79,The Girl In The Other Room,Diana Krall,4,2004-05-15,2004-08-28,967,16
+80,Long Black Train,Josh Turner,29,2004-01-17,2004-05-29,961,20
+81,Happy People/U Saved Me,R. Kelly,2,2004-09-11,2004-11-20,950,11
+82,Measure Of A Man,Clay Aiken,11,2004-01-03,2004-05-01,943,18
+83,Goodies,Ciara,3,2004-10-16,2004-12-25,940,11
+84,Encore,Eminem,1,2004-11-27,2004-12-25,934,5
+85,The DEFinition,LL Cool J,4,2004-09-18,2004-12-04,933,12
+86,Stardust... The Great American Songbook Vol. III,Rod Stewart,1,2004-11-06,2004-12-25,923,8
+87,Private Room,Avant,39,2004-01-03,2004-05-15,921,20
+88,Still Writing In My Diary: 2nd Entry,Petey Pablo,4,2004-05-22,2004-09-04,920,16
+89,Motown,Michael McDonald,14,2004-01-03,2004-06-05,910,22
+90,Now 17,Various Artists,1,2004-11-20,2004-12-25,903,6
+91,Spider-Man 2,Soundtrack,7,2004-07-10,2004-10-02,898,13
+92,Permission To Land,The Darkness,36,2004-01-17,2004-05-15,869,18
+93,Terrorist Threats,Westside Connection,19,2004-01-03,2004-04-10,845,15
+94,Living Legends,8Ball & MJG,3,2004-05-29,2004-08-21,839,13
+95,2004 Grammy Nominees,Various Artists,4,2004-02-07,2004-04-24,834,12
+96,What I Do,Alan Jackson,1,2004-09-25,2004-12-25,820,14
+97,Greatest Hits,Shania Twain,2,2004-11-27,2004-12-25,813,5
+98,Hood Hop,J-Kwon,7,2004-04-17,2004-07-17,805,14
+99,The Battle For Everything,Five For Fighting,20,2004-02-21,2004-06-26,804,19
+100,I Don't Want You Back,Eamon,7,2004-03-06,2004-05-15,799,11
+101,Be Here,Keith Urban,3,2004-10-09,2004-12-25,779,12
+102,The Chronicles Of Life And Death,Good Charlotte,3,2004-10-23,2004-12-25,777,10
+103,Me And Mr Johnson,Eric Clapton,6,2004-04-17,2004-07-10,776,13
+104,Take It All Away,Ryan Cabrera,8,2004-09-04,2004-12-25,772,16
+105,Greatest Hits Vol. I,Korn,4,2004-10-23,2004-12-25,764,10
+106,Start Something,Lostprophets,33,2004-02-21,2004-07-10,764,20
+107,Beautifully Human: Words And Sounds Vol. 2,Jill Scott,3,2004-09-18,2004-11-20,750,10
+108,Bad Boy's 10th Anniversary... The Hits,Various Artists,2,2004-03-27,2004-06-19,745,12
+109,Catalyst,New Found Glory,3,2004-06-05,2004-08-21,736,12
+110,Miracle,Celine Dion,4,2004-10-30,2004-12-25,731,9
+111,A Rush Of Blood To The Head,Coldplay,30,2004-01-03,2004-05-01,719,17
+112,Trouble,Akon,38,2004-07-17,2004-11-20,701,19
+113,Greatest Hits 2,Toby Keith,3,2004-11-27,2004-12-25,692,5
+114,The King Of Crunk & BME Recordings Present,Lil Scrappy/Trillville,12,2004-03-13,2004-10-30,692,19
+115,My Everything,Anita Baker,4,2004-09-25,2004-11-27,689,10
+116,The Very Best Of The Eagles,Eagles,22,2004-01-03,2004-04-10,688,15
+117,Tical 0: The Prequel,Method Man,2,2004-06-05,2004-07-24,686,8
+118,Comin' From Where I'm From,Anthony Hamilton,53,2004-02-07,2004-12-04,686,27
+119,Destiny Fulfilled,Destiny's Child,2,2004-11-27,2004-12-25,684,5
+120,Me & My Brother,Ying Yang Twins,42,2004-01-17,2004-07-17,684,20
+121,The Best Of Both Worlds,Van Halen,3,2004-08-07,2004-10-09,676,10
+122,Kings Of Crunk,Lil Jon & The East Side Boyz,47,2004-01-03,2004-05-29,670,21
+123,Garden State,Soundtrack,20,2004-09-04,2004-11-20,669,12
+124,Ray (Soundtrack),Ray Charles,9,2004-11-06,2004-12-25,666,8
+125,Sounds Of Summer: The Very Best Of The Beach Boys,The Beach Boys,45,2004-04-24,2004-10-09,664,25
+126,Honkin' On Bobo,Aerosmith,5,2004-04-17,2004-07-03,663,12
+127,Where You Want To Be,Taking Back Sunday,3,2004-08-14,2004-10-16,656,10
+128,Welcome Back,Mase,4,2004-09-11,2004-11-06,641,9
+129,The Other Side (EP),Godsmack,5,2004-04-03,2004-06-26,634,13
+130,The Princess Diaries 2: Royal Engagement,Soundtrack,15,2004-08-21,2004-12-25,634,13
+131,Still Not Getting Any...,Simple Plan,3,2004-11-13,2004-12-25,622,7
+132,Greatest Hits,Red Hot Chili Peppers,18,2004-01-03,2004-04-03,620,14
+133,Kid Rock,Kid Rock,29,2004-01-03,2004-04-24,618,17
+134,Greatest Hits '93-'03,311,7,2004-06-26,2004-09-11,613,12
+135,Godfather Buried Alive,Shyne,3,2004-08-28,2004-10-16,608,8
+136,The Soul Sessions (EP),Joss Stone,39,2004-03-06,2004-06-19,602,16
+137,Martina,Martina McBride,39,2004-01-03,2004-11-27,598,24
+138,The Passion Of The Christ,Soundtrack,17,2004-03-13,2004-09-18,589,10
+139,Da Derrty Versions - The Reinvention,Nelly,28,2004-01-03,2004-03-20,580,12
+140,How To Dismantle An Atomic Bomb,U2,1,2004-12-11,2004-12-25,578,3
+141,1.22.03.Acoustic (EP),Maroon 5,42,2004-07-17,2004-10-09,575,13
+142,A Cinderella Story,Soundtrack,9,2004-07-31,2004-11-13,574,11
+143,Page Avenue,Story Of The Year,51,2004-02-07,2004-09-04,566,26
+144,Greatest Hits Volume II And Some Other Stuff,Alan Jackson,14,2004-01-03,2004-02-28,565,9
+145,The Punisher: The Album,Soundtrack,22,2004-04-10,2004-06-19,564,11
+146,Leave A Whisper,Shinedown,53,2004-07-03,2004-10-30,554,17
+147,Thug Matrimony: Married To The Streets,Trick Daddy,2,2004-11-13,2004-12-25,553,7
+148,Take A Look In The Mirror,Korn,29,2004-01-03,2004-04-10,547,15
+149,Dino: The Essential Dean Martin,Dean Martin,28,2004-06-19,2004-10-09,540,16
+150,"No Pads, No Helmets...Just Balls",Simple Plan,35,2004-01-03,2004-04-10,535,15
+151,True Story,Terror Squad,7,2004-08-14,2004-10-09,529,9
+152,So-Called Chaos,Alanis Morissette,5,2004-06-05,2004-07-24,528,8
+153,The Best Of Keith Sweat: Make You Sweat,Keith Sweat,31,2004-01-31,2004-04-17,527,12
+154,Tupac: Resurrection,Soundtrack,19,2004-01-03,2004-03-06,526,9
+155,Crunk Juice,Lil Jon & The East Side Boyz,3,2004-11-27,2004-12-25,525,5
+156,The Dana Owens Album,Queen Latifah,16,2004-10-16,2004-12-11,522,9
+157,Up!,Shania Twain,36,2004-01-03,2004-06-19,522,16
+158,The Tipping Point,The Roots,4,2004-07-31,2004-09-18,520,8
+159,The Hard Way,213,4,2004-09-04,2004-10-23,514,8
+160,Split Personality,Cassidy,2,2004-04-03,2004-06-19,509,10
+161,Greatest Hits 1994-2004,Terri Clark,14,2004-08-14,2004-10-16,507,10
+162,Let's Talk About It,Carl Thomas,4,2004-04-10,2004-05-29,502,8
+163,Kevin Lyttle,Kevin Lyttle,8,2004-08-14,2004-10-02,500,8
+164,It's About Time,Christina Milian,14,2004-07-03,2004-09-04,496,10
+165,Afrodisiac,Brandy,3,2004-07-17,2004-09-11,494,8
+166,La Dona,Teena Marie,6,2004-05-29,2004-07-24,493,9
+167,One Day Remains,Alter Bridge,5,2004-08-28,2004-10-16,492,8
+168,Totally Hits 2004,Various Artists,14,2004-05-22,2004-07-24,492,10
+169,This Type Of Thinking (Could Do Us In),Chevelle,8,2004-10-09,2004-12-04,490,9
+170,Tough Luv,Young Gunz,3,2004-03-13,2004-05-01,487,7
+171,Audioslave,Audioslave,54,2004-01-03,2004-05-01,485,17
+172,WOW Hits 2005,Various Artists,39,2004-10-23,2004-12-25,480,10
+173,Vans Warped Tour 2004 Compilation,Various Artists,8,2004-06-26,2004-09-04,477,11
+174,Dance With My Father,Luther Vandross,28,2004-01-03,2004-06-05,475,18
+175,Greatest Hits: My Prerogative,Britney Spears,4,2004-11-27,2004-12-25,472,5
+176,Strong,Tracy Lawrence,17,2004-04-17,2004-06-19,471,10
+177,Get Rich Or Die Tryin',50 Cent,53,2004-01-03,2004-05-01,471,17
+178,Casting Crowns,Casting Crowns,59,2004-03-20,2004-09-25,470,28
+179,The Greatest Hits Collection II,Brooks & Dunn,7,2004-11-06,2004-12-25,467,8
+180,Lest We Forget: The Best Of,Marilyn Manson,9,2004-10-16,2004-12-04,458,8
+181,The Lord Of The Rings: The Return Of The King,Soundtrack,36,2004-01-03,2004-03-27,456,10
+182,Patience,George Michael,12,2004-06-05,2004-08-21,454,9
+183,Fly Or Die,N*E*R*D,6,2004-04-10,2004-05-29,447,8
+184,Merry Christmas With Love,Clay Aiken,4,2004-12-04,2004-12-25,446,4
+185,Unfinished Business,R. Kelly & Jay-Z,1,2004-11-13,2004-12-11,445,5
+186,Mind Body & Soul,Joss Stone,11,2004-10-16,2004-11-27,445,7
+187,De-Lovely,Soundtrack,40,2004-07-17,2004-09-25,440,11
+188,Amerikaz NightMare,Mobb Deep,4,2004-08-28,2004-10-09,439,7
+189,Unleashed,Toby Keith,43,2004-01-03,2004-03-20,437,12
+190,The Young And The Hopeless,Good Charlotte,49,2004-01-03,2004-04-24,437,15
+191,Christmas Celebration,Mannheim Steamroller,19,2004-10-30,2004-12-25,432,7
+192,Disclaimer II,Seether,53,2004-07-03,2004-11-13,432,20
+193,soulstar,Musiq,38,2004-01-03,2004-03-06,425,10
+194,The New Danger,Mos Def,5,2004-10-30,2004-11-27,420,5
+195,R&G (Rhythm & Gangsta): The Masterpiece,Snoop Dogg,6,2004-12-04,2004-12-25,418,4
+196,The Lost Christmas Eve,Trans-Siberian Orchestra,26,2004-10-30,2004-12-25,418,8
+197,Tasty,Kelis,37,2004-01-03,2004-02-21,418,8
+198,It Had To Be You ... The Great American Songbook,Rod Stewart,45,2004-01-03,2004-11-06,414,12
+199,50 First Dates,Soundtrack,30,2004-02-28,2004-08-07,407,13
+200,That's So Raven,Soundtrack,44,2004-06-05,2004-08-21,407,12
+201,Futures,Jimmy Eat World,6,2004-11-06,2004-12-25,397,8
+202,Trap Muzik,T.I.,52,2004-02-14,2004-05-15,394,13
+203,Three Days Grace,Three Days Grace,69,2004-01-17,2004-11-13,390,32
+204,R.U.L.E.,Ja Rule,7,2004-11-27,2004-12-25,388,5
+205,Live In Texas,Linkin Park,37,2004-01-03,2004-03-13,388,11
+206,American Idol Season 3: Greatest Soul Classics,Various Artists,10,2004-05-15,2004-06-26,385,7
+207,This Is Not A Test!,Missy Elliott,43,2004-01-03,2004-03-20,378,12
+208,Getting Away With Murder,Papa Roach,17,2004-09-18,2004-11-20,372,10
+209,Heavier Things,John Mayer,42,2004-01-03,2004-12-25,369,21
+210,In Love And Death,The Used,6,2004-10-16,2004-11-27,361,7
+211,And Then...,Joe,26,2004-01-03,2004-03-06,360,10
+212,eMOTIVe,A Perfect Circle,2,2004-11-20,2004-12-18,358,5
+213,The Cure,The Cure,7,2004-07-17,2004-08-21,357,6
+214,Andrea,Andrea Bocelli,16,2004-11-27,2004-12-25,355,5
+215,Number Ones,Michael Jackson,15,2004-01-03,2004-02-21,354,8
+216,M.I.A.M.I. (Money Is A Major Issue),Pitbull,14,2004-09-11,2004-11-06,352,8
+217,Fired Up!,Various Artists,14,2004-02-14,2004-04-10,352,9
+218,Stripped,Christina Aguilera,63,2004-01-03,2004-03-13,337,11
+219,SMiLE,Brian Wilson,13,2004-10-16,2004-11-20,336,6
+220,M.A.D.E.,Memphis Bleek,35,2004-01-03,2004-02-21,333,8
+221,Motown Two,Michael McDonald,9,2004-11-13,2004-12-25,330,7
+222,Words & Music: John Mellencamp's Greatest Hits,John Mellencamp,13,2004-11-06,2004-12-25,328,8
+223,Splinter,The Offspring,41,2004-01-03,2004-03-06,327,9
+224,Kidz Bop 5,Kidz Bop Kids,34,2004-03-13,2004-04-24,326,7
+225,Barbershop 2: Back In Business,Soundtrack,18,2004-02-21,2004-04-03,323,7
+226,Wire,Third Day,12,2004-05-22,2004-07-03,320,7
+227,Baptism,Lenny Kravitz,14,2004-06-05,2004-07-24,319,8
+228,MTV Ultimate Mash-Ups Presents: Collision Course,Jay-Z/Linkin Park,1,2004-12-18,2004-12-25,312,2
+229,You Do Your Thing,Montgomery Gentry,10,2004-06-05,2004-07-10,312,6
+230,The Pretty Toney Album,Ghostface,6,2004-05-08,2004-06-05,311,5
+231,Southside,Lloyd,11,2004-08-07,2004-10-02,311,8
+232,Van Lear Rose,Loretta Lynn,24,2004-05-15,2004-06-19,311,6
+233,Undone,MercyMe,12,2004-05-08,2004-07-03,309,8
+234,Results May Vary,Limp Bizkit,48,2004-01-03,2004-04-03,304,13
+235,Chuck,Sum 41,10,2004-10-30,2004-11-27,303,5
+236,Life On Display,Puddle Of Mudd,45,2004-01-03,2004-02-21,303,8
+237,Love. Angel. Music. Baby.,Gwen Stefani,7,2004-12-11,2004-12-25,302,3
+238,Real Talk,Fabolous,6,2004-11-27,2004-12-18,298,4
+239,The Beautiful Struggle,Talib Kweli,14,2004-10-16,2004-11-20,297,6
+240,A New Day...Live In Las Vegas,Celine Dion,10,2004-07-03,2004-08-14,296,7
+241,Lucky,Melissa Etheridge,15,2004-02-28,2004-04-10,296,7
+242,Big Money Heavyweight,Big Tymers,46,2004-01-03,2004-02-21,294,8
+243,Restless,Sara Evans,71,2004-08-28,2004-12-11,293,16
+244,You Got Served,Soundtrack,34,2004-01-10,2004-03-06,292,9
+245,Totally Hits 2004 Vol. 2,Various Artists,19,2004-10-23,2004-11-20,291,5
+246,Shark Tale,Soundtrack,31,2004-10-09,2004-11-13,291,6
+247,The Gorge,Dave Matthews Band,10,2004-07-17,2004-08-21,288,6
+248,A Ghost Is Born,Wilco,8,2004-07-10,2004-08-07,283,5
+249,Powerballin',Chingy,10,2004-12-04,2004-12-25,272,4
+250,Healing Rain,Michael W. Smith,11,2004-11-13,2004-12-25,272,7
+251,Free Yourself,Fantasia,8,2004-12-11,2004-12-25,270,3
+252,Let's Be Us Again,Lonestar,14,2004-06-12,2004-07-24,270,6
+253,The R. In R&B Collection: Volume One,R. Kelly,62,2004-01-03,2004-03-13,269,11
+254,Breakaway,Kelly Clarkson,3,2004-12-18,2004-12-25,267,2
+255,WWE Originals,Various Artists,12,2004-01-31,2004-02-21,266,4
+256,Let It Be... Naked,The Beatles,17,2004-01-03,2004-01-31,265,5
+257,Fever To Tell,Yeah Yeah Yeahs,55,2004-03-06,2004-07-03,260,11
+258,It's Already Written,Houston,14,2004-08-28,2004-09-25,258,5
+259,Good Side   Bad Side,Master P,11,2004-04-10,2004-05-15,253,6
+260,One Love,Kimberley Locke,16,2004-05-22,2004-06-19,247,5
+261,Rejoyce: The Christmas Album,Jessica Simpson,14,2004-12-11,2004-12-25,246,3
+262,Top Of The World Tour Live,Dixie Chicks,39,2004-01-03,2004-02-21,242,8
+263,Hopes And Fears,Keane,53,2004-09-25,2004-12-04,239,11
+264,Around The Sun,R.E.M.,13,2004-10-23,2004-11-13,238,4
+265,Sacred Love,Sting,42,2004-01-03,2004-02-28,238,7
+266,2Nights  Live!,Barry Manilow,27,2004-04-24,2004-05-22,236,5
+267,Jump Back: The Best Of The Rolling Stones: '71-'93,The Rolling Stones,30,2004-09-11,2004-11-13,236,7
+268,Stone Love,Angie Stone,14,2004-07-24,2004-08-21,234,5
+269,WOW Gospel 2004,Various Artists,27,2004-02-14,2004-04-03,234,8
+270,Timeless Journey,Patti LaBelle,18,2004-05-22,2004-06-26,230,6
+271,Confessions Of A Teenage Drama Queen,Soundtrack,51,2004-03-06,2004-04-24,229,7
+272,Cee-Lo Green... Is The Soul Machine,Cee-Lo,13,2004-03-20,2004-04-10,228,4
+273,Disneymania 2: Music Stars Sing Disney ...Their Way!,Various Artists,29,2004-02-14,2004-05-01,226,6
+274,Medulla,Bjork,14,2004-09-18,2004-10-09,225,4
+275,Antics,Interpol,15,2004-10-16,2004-11-13,225,5
+276,The Polar Express,Soundtrack,46,2004-11-27,2004-12-25,223,5
+277,Greatest Hits,Creed,15,2004-12-11,2004-12-25,221,3
+278,Street's Disciple,Nas,5,2004-12-18,2004-12-25,220,2
+279,Guerilla City,Guerilla Black,20,2004-10-16,2004-11-13,220,5
+280,More,Tamia,17,2004-04-24,2004-05-15,219,4
+281,Number Ones,Bee Gees,23,2004-11-27,2004-12-25,216,5
+282,Kidz Bop 6,Kidz Bop Kids,23,2004-08-28,2004-10-02,215,6
+283,rearviewmirror: Greatest Hits 1991-2003,Pearl Jam,16,2004-12-04,2004-12-25,214,4
+284,Comin' On Strong,Trace Adkins,75,2004-01-03,2004-10-09,213,17
+285,Julie Roberts,Julie Roberts,51,2004-06-12,2004-10-09,212,11
+286,Urban Legend,T.I.,7,2004-12-18,2004-12-25,207,2
+287,Reflections: Carly Simon's Greatest Hits,Carly Simon,22,2004-05-22,2004-08-28,207,5
+288,Josh Gracin,Josh Gracin,11,2004-07-03,2004-08-07,205,6
+289,Inspiration,William Hung,34,2004-04-24,2004-05-22,205,5
+290,Films About Ghosts: The Best Of...,Counting Crows,53,2004-01-03,2004-02-21,205,8
+291,Tha Down Low,Various Artists,22,2004-03-20,2004-04-10,202,4
+292,The Red Light District,Ludacris,1,2004-12-25,2004-12-25,200,1
+293,With The Lights Out,Nirvana,19,2004-12-11,2004-12-25,198,3
+294,Astronaut,Duran Duran,17,2004-10-30,2004-11-20,197,4
+295,You Are The Quarry,Morrissey,11,2004-06-05,2004-06-26,192,4
+296,Lonely Runs Both Ways,Alison Krauss + Union Station,29,2004-12-11,2004-12-25,192,3
+297,California,Wilson Phillips,35,2004-06-12,2004-07-17,191,5
+298,Melt,Rascal Flatts,72,2004-01-03,2004-10-09,191,17
+299,Elephant,The White Stripes,44,2004-01-10,2004-03-20,190,9
+300,Letters From Home,John Michael Montgomery,31,2004-05-08,2004-06-12,187,6
+301,"No Shoes, No Shirt, No Problems",Kenny Chesney,71,2004-01-03,2004-04-24,187,12
+302,Just For You,Lionel Richie,47,2004-05-22,2004-08-21,186,5
+303,On My Way To Church,The Diplomats Present Jim Jones,18,2004-09-11,2004-10-02,178,4
+304,Some Devil,Dave Matthews,54,2004-01-03,2004-02-07,178,6
+305,13 Going On 30,Soundtrack,41,2004-05-08,2004-09-04,176,7
+306,I Need An Angel,Ruben Studdard,20,2004-12-11,2004-12-25,173,3
+307,Greatest Hits,Neil Young,27,2004-12-04,2004-12-25,173,4
+308,Life After Cash Money,B.G.,22,2004-08-14,2004-09-04,169,4
+309,My Brother & Me,Ying Yang Twins,12,2004-11-20,2004-12-04,168,3
+310,Desensitized,Drowning Pool,17,2004-05-08,2004-05-29,168,4
+311,Freaky Friday,Soundtrack,60,2004-01-03,2004-02-14,168,7
+312,More Than You Think You Are,matchbox twenty,62,2004-01-03,2004-02-14,168,7
+313,Speak,Lindsay Lohan,4,2004-12-25,2004-12-25,167,1
+314,From A Basement On The Hill,Elliott Smith,19,2004-11-06,2004-11-20,167,3
+315,The Source Presents: Hip Hop Hits 8,Various Artists,45,2004-07-17,2004-08-07,161,4
+316,Peachtree Road,Elton John,17,2004-11-27,2004-12-18,159,4
+317,Greatest Hits,Lee Ann Womack,28,2004-05-22,2004-06-12,159,4
+318,At Last... The Duets Album,Kenny G,40,2004-12-11,2004-12-25,159,3
+319,Hymns Of The 49th Parallel,k.d. lang,55,2004-08-14,2004-09-18,159,6
+320,One Love,New Edition,12,2004-11-27,2004-12-11,158,3
+321,Nina Sky,Nina Sky,44,2004-07-17,2004-08-14,158,5
+322,Blake Shelton's Barn & Grill,Blake Shelton,20,2004-11-13,2004-12-04,156,4
+323,Mi Sangre,Juanes,33,2004-10-16,2004-11-13,154,5
+324,Live At Wembley,Beyonce,17,2004-05-15,2004-05-29,152,3
+325,Pressure Chief,Cake,17,2004-10-23,2004-11-06,152,3
+326,Resident Evil: Apocalypse,Soundtrack,43,2004-09-18,2004-10-09,151,4
+327,Trapt,Trapt,67,2004-01-03,2004-05-08,150,11
+328,Live At The Greek,Josh Groban,24,2004-12-18,2004-12-25,147,2
+329,Within A Mile Of Home,Flogging Molly,20,2004-10-02,2004-10-16,146,3
+330,Tha Smokin' Nephew,Baby Bash,69,2004-01-10,2004-02-21,146,7
+331,Hell's Pit,Insane Clown Posse,12,2004-09-18,2004-10-02,145,3
+332,The Greatest Hits,Juvenile,31,2004-11-06,2004-11-20,145,3
+333,Tyrannosaurus Hives,The Hives,33,2004-08-07,2004-08-28,143,4
+334,Worth Tha Weight,Shawnna,22,2004-10-16,2004-10-30,142,3
+335,Dirty Dancing: Havana Nights,Soundtrack,46,2004-03-13,2004-04-03,142,4
+336,Survival of The Sickest,Saliva,20,2004-09-04,2004-09-25,141,4
+337,The OC: Music From: Mix 1,Soundtrack,52,2004-04-17,2004-05-29,141,5
+338,Dutty Rock,Sean Paul,78,2004-02-28,2004-05-15,140,11
+339,Amar Sin Mentiras,Marc Anthony,26,2004-06-26,2004-07-10,138,3
+340,Winning Days,The Vines,23,2004-04-10,2004-05-01,137,4
+341,Till Death Do Us Part,Cypress Hill,21,2004-04-10,2004-05-01,135,4
+342,The End Of Heartache,Killswitch Engage,21,2004-05-29,2004-06-12,132,3
+343,Anywhere But Home,Evanescence,39,2004-12-11,2004-12-25,132,3
+344,Try This,P!nk,52,2004-01-03,2004-01-24,132,4
+345,Sweet Right Here,SHeDAISY,16,2004-06-26,2004-07-10,131,3
+346,The Streetsweeper Vol. 2: The Pain From The Game,DJ KaySlay,27,2004-04-17,2004-05-01,131,3
+347,A Hangover You Don't Deserve,Bowling For Soup,37,2004-10-02,2004-11-06,131,6
+348,Coldplay Live 2003,Coldplay,55,2004-01-03,2004-01-31,129,5
+349,The System Has Failed,Megadeth,18,2004-10-02,2004-10-09,128,2
+350,Deja Vu All Over Again,John Fogerty,23,2004-10-09,2004-10-23,128,3
+351,Spend My Time,Clint Black,27,2004-03-20,2004-04-03,128,3
+352,When I Fall In Love,Chris Botti,37,2004-12-04,2004-12-25,127,4
+353,MMHMM,Relient K,15,2004-11-20,2004-12-11,124,3
+354,Real Gone,Tom Waits,28,2004-10-23,2004-11-06,124,3
+355,Revelation,Joe Nichols,23,2004-07-17,2004-08-07,123,4
+356,Part II,Lil Jon & The East Side Boyz,65,2004-01-10,2004-02-21,123,7
+357,Feedback (EP),Rush,19,2004-07-17,2004-07-24,122,2
+358,Somethin' 'Bout Love,Fred Hammond,35,2004-06-26,2004-07-10,119,3
+359,Manilow Scores: Songs From Copacabana And Harmony,Barry Manilow,47,2004-10-16,2004-10-30,119,3
+360,A Very Larry Christmas,Larry The Cable Guy,43,2004-12-04,2004-12-25,117,4
+361,Undermind,Phish,13,2004-07-03,2004-07-10,116,2
+362,All That We Let In,Indigo Girls,35,2004-03-06,2004-03-27,116,4
+363,Harry For The Holidays,"Harry Connick, Jr.",27,2004-01-03,2004-01-10,115,2
+364,The Dreamer,Tamyra Gray,23,2004-06-12,2004-06-19,114,2
+365,Patient Man,Brad Cotter,27,2004-07-24,2004-07-31,114,2
+366,The War Within,Shadows Fall,20,2004-10-09,2004-10-16,111,2
+367,By Any Means Necessary,Pastor Troy,30,2004-04-10,2004-04-17,105,2
+368,Blue Collar Comedy Tour Rides Again,Soundtrack,50,2004-12-11,2004-12-25,105,3
+369,WOW Worship (Red),Various Artists,62,2004-03-27,2004-05-22,105,7
+370,Best: 1991 - 2004,Seal,47,2004-11-27,2004-12-18,104,4
+371,Schizophrenic,JC Chasez,17,2004-03-13,2004-03-20,103,2
+372,Hell And Back,Drag-On,47,2004-02-28,2004-03-13,103,3
+373,All Things New,Steven Curtis Chapman,22,2004-10-09,2004-10-16,102,2
+374,Between Here And Gone,Mary Chapin Carpenter,50,2004-05-15,2004-05-29,102,3
+375,Queer Eye For The Straight Guy,Soundtrack,39,2004-02-28,2004-03-13,101,3
+376,Neighborhood Watch,Dilated Peoples,55,2004-04-24,2004-05-15,101,4
+377,Kill Bill Vol. 2,Soundtrack,58,2004-05-01,2004-05-15,101,3
+378,Harry Potter And The Prisoner Of Azkaban,Soundtrack,61,2004-06-12,2004-06-26,101,3
+379,Palm Trees And Power Lines,Sugarcult,46,2004-05-01,2004-07-24,100,5
+380,Benaroya Hall: October 22nd 2003,Pearl Jam,18,2004-08-14,2004-08-21,99,2
+381,42 Ultimate Hits,Kenny Rogers,39,2004-06-19,2004-07-03,99,3
+382,Underneath,Hanson,25,2004-05-08,2004-05-15,96,2
+383,Archetype,Fear Factory,30,2004-05-08,2004-05-15,96,2
+384,Ashes Of The Wake,Lamb Of God,27,2004-09-18,2004-09-25,95,2
+385,Acoustic,John Lennon,31,2004-11-20,2004-11-27,95,2
+386,Some Kind Of Monster (EP) [Soundtrack],Metallica,37,2004-07-31,2004-08-07,93,2
+387,Self Explanatory,I-20,42,2004-10-23,2004-10-30,93,2
+388,The Very Best Of Jackson Browne,Jackson Browne,46,2004-04-03,2004-04-17,93,3
+389,"Sex, Love And Rock 'N' Roll",Social Distortion,31,2004-10-16,2004-10-23,92,2
+390,Uh Huh Her,PJ Harvey,29,2004-06-26,2004-07-03,90,2
+391,NOW That's What I Call Christmas! 2: The Signature Collection,Various Artists,37,2004-01-03,2004-01-10,89,2
+392,Back To Basics,Beenie Man,51,2004-07-31,2004-08-07,89,2
+393,Turning Point,Mario,13,2004-12-25,2004-12-25,88,1
+394,The Curse,Atreyu,32,2004-07-17,2004-07-24,88,2
+395,Greatest Hits,LeAnn Rimes,72,2004-01-03,2004-02-07,88,6
+396,Detroit Deli (A Taste Of Detroit),Slum Village,37,2004-07-17,2004-07-24,87,2
+397,MTV2 Headbangers Ball Volume 2,Various Artists,43,2004-10-16,2004-10-23,87,2
+398,Mexico En La Piel,Luis Miguel,37,2004-11-27,2004-12-04,86,2
+399,Live & Off The Record,Shakira,45,2004-04-17,2004-05-01,86,3
+400,MTA2: Baptized In Dirty Water,David Banner,69,2004-01-10,2004-02-14,86,5
+401,Lucky Ones,Pat Green,28,2004-11-06,2004-11-13,85,2
+402,Seventy Two And Sunny,Uncle Kracker,39,2004-07-17,2004-07-31,85,3
+403,Rock Against Bush Vol 1,Various Artists,54,2004-05-08,2004-05-15,82,2
+404,Purple Haze,Cam'ron,20,2004-12-25,2004-12-25,81,1
+405,Let It Enfold You,Senses Fail,34,2004-09-25,2004-10-02,81,2
+406,What The World Needs Now Is Love,Wynonna,46,2004-05-29,2004-09-04,81,2
+407,The SpongeBob SquarePants Movie,Soundtrack,76,2004-12-04,2004-12-25,81,4
+408,New Found Power,damageplan,38,2004-02-28,2004-03-06,80,2
+409,Legion Of Boom,The Crystal Method,36,2004-01-31,2004-02-07,79,2
+410,Rock Against Bush Vol 2,Various Artists,45,2004-08-28,2004-09-04,79,2
+411,Into The Now,Tesla,31,2004-03-27,2004-04-03,78,2
+412,Potter's Field,12 Stones,29,2004-09-11,2004-09-18,77,2
+413,Body Language,Kylie Minogue,42,2004-02-28,2004-03-06,77,2
+414,Fefe Dobson,Fefe Dobson,67,2004-01-31,2004-02-21,76,4
+415,Harmonium,Vanessa Carlton,33,2004-11-27,2004-12-11,74,3
+416,The Passion Of The Christ: Songs (Original Songs Inspired By The Film),Various Artists,37,2004-09-18,2004-09-25,74,2
+417,Endangered Species,Flaw,42,2004-05-22,2004-05-29,74,2
+418,This Is My Time,Raven-Symone,51,2004-10-09,2004-10-30,74,4
+419,The Bootleg Series Vol. 6: Live 1964-The Philharmonic Hall Concert,Bob Dylan,28,2004-04-17,2004-04-17,73,1
+420,Do I Speak For The World,Gerald Levert,29,2004-12-18,2004-12-25,73,2
+421,Greatest Hits: We Will Rock You,Queen,42,2004-09-04,2004-09-18,73,3
+422,Elvis: 2nd To None,Elvis Presley,56,2004-01-03,2004-01-10,73,2
+423,Have Your Loved Ones Spayed Or Neutered,Jeff Foxworthy,47,2004-07-24,2004-07-31,72,2
+424,Beautiful Soul,Jesse McCartney,50,2004-10-16,2004-12-25,72,3
+425,Cold Mountain,Soundtrack,51,2004-01-24,2004-03-27,72,5
+426,Shhh...Don't Tell,Adam Sandler,47,2004-07-31,2004-08-07,71,2
+427,Barenaked For The Holidays,Barenaked Ladies,64,2004-12-04,2004-12-25,71,3
+428,When You're Smiling,Regis Philbin,54,2004-10-16,2004-10-23,70,2
+429,Reggae Gold 2004,Various Artists,64,2004-07-03,2004-07-17,70,3
+430,Patriotic Country,Various Artists,65,2004-07-03,2004-07-24,69,4
+431,Michael Buble,Michael Buble,69,2004-01-03,2004-04-17,69,4
+432,The Way I Am,Knoc-Turn'Al,36,2004-04-10,2004-04-17,67,2
+433,Diplomatic Immunity 2,The Diplomats,46,2004-12-11,2004-12-18,67,2
+434,Shangri-La,Mark Knopfler,66,2004-10-16,2004-10-30,67,3
+435,Greatest Hits 2,Bob Seger,71,2004-01-17,2004-01-31,67,3
+436,The Capitol Albums Vol. 1,The Beatles,35,2004-12-04,2004-12-04,66,1
+437,Love Songs: A Compilation... Old And New,Phil Collins,51,2004-10-16,2004-10-23,66,2
+438,Red Dirt Road,Brooks & Dunn,57,2004-01-03,2004-05-15,65,5
+439,The Best Of Hootie & The Blowfish: 1993 Thru 2003,Hootie & The Blowfish,62,2004-03-20,2004-04-03,65,3
+440,Kill Bill Vol. 1,Soundtrack,71,2004-05-01,2004-05-29,65,5
+441,Educated Guess,Ani DiFranco,37,2004-02-07,2004-02-07,64,1
+442,Themeaddict: WWE The Music V6,Soundtrack,38,2004-12-04,2004-12-04,63,1
+443,Arriving,Chris Tomlin,39,2004-10-09,2004-10-09,62,1
+444,About A Burning Fire,Blindside,39,2004-03-13,2004-03-13,62,1
+445,My Honky Tonk History,Travis Tritt,50,2004-09-04,2004-09-11,62,2
+446,Definitive All-Time Greatest Hits,John Denver,52,2004-10-23,2004-10-30,62,2
+447,Hiding Place,Selah,61,2004-06-12,2004-07-03,62,4
+448,The Empire Strikes First,Bad Religion,40,2004-06-26,2004-06-26,61,1
+449,Hangover Music Vol. VI,Black Label Society,40,2004-05-08,2004-05-08,61,1
+450,The Delivery Man,Elvis Costello & The Imposters,40,2004-10-09,2004-10-09,61,1
+451,Alive At Last,Train,48,2004-11-20,2004-11-27,61,2
+452,To Tha X-treme,Devin The Dude,55,2004-07-31,2004-08-07,61,2
+453,Greatest Hits: 1986-2004,Amy Grant,48,2004-10-30,2004-11-06,60,2
+454,Live,2Pac,54,2004-08-28,2004-09-04,60,2
+455,Songs Inspired By The Passion Of The Christ,Various Artists,59,2004-04-24,2004-05-01,60,2
+456,Fire It Up,Kottonmouth Kings,42,2004-05-08,2004-05-08,59,1
+457,Restored,Jeremy Camp,45,2004-12-04,2004-12-11,59,2
+458,Women & Song: 18 Hits From The World's Greatest Female Artists,Various Artists,67,2004-05-15,2004-05-22,59,2
+459,Welcome To Diverse City,tobyMac,54,2004-10-23,2004-10-30,57,2
+460,Za Za Za,Grupo Climax,79,2004-09-25,2004-11-06,57,4
+461,Everybody Loves A Happy Ending,Tears For Fears,46,2004-10-02,2004-10-09,56,2
+462,Bravehearted,Bravehearts,75,2004-01-10,2004-01-24,53,3
+463,"Tonight, Not Again: Jason Mraz Live At The Eagles Ballroom",Jason Mraz,49,2004-09-11,2004-09-11,52,1
+464,The Rat Pack: Boys Night Out,"Frank Sinatra, Dean Martin & Sammy Davis Jr",49,2004-10-16,2004-10-16,52,1
+465,Razon De Sobra,Marco Antonio Solis,58,2004-11-20,2004-11-27,52,2
+466,Live Licks,The Rolling Stones,50,2004-11-20,2004-11-20,51,1
+467,The Who Then And Now!: 1964-2004,The Who,57,2004-04-17,2004-04-24,51,2
+468,Soul Gravy,Cross Canadian Ragweed,51,2004-03-27,2004-03-27,50,1
+469,Borrowed Heaven,The Corrs,51,2004-06-26,2004-06-26,50,1
+470,Folklore,Nelly Furtado,82,2004-01-03,2004-01-31,50,5
+471,Blue Skies,Diana DeGarmo,52,2004-12-25,2004-12-25,49,1
+472,Throwback,Boyz II Men,52,2004-09-11,2004-09-11,49,1
+473,Ultimate Alabama: 20 #1 Hits,Alabama,52,2004-10-30,2004-10-30,49,1
+474,America's Sweetheart,Courtney Love,53,2004-02-28,2004-02-28,48,1
+475,"100,000,000 Bon Jovi Fans Can't Be Wrong...",Bon Jovi,53,2004-12-04,2004-12-04,48,1
+476,Worship Together: I Could Sing Of Your Love Forever,Various Artists,70,2004-01-31,2004-05-22,48,2
+477,Two,The Calling,54,2004-06-26,2004-06-26,47,1
+478,The Rest Is History,Jin,54,2004-11-06,2004-11-06,47,1
+479,The Essential Bruce Springsteen,Bruce Springsteen,70,2004-01-03,2004-01-10,47,2
+480,Come Fly With Me,Michael Buble,55,2004-04-17,2004-04-17,46,1
+481,Greatest Hits: 30 Years Of Rock,George Thorogood & The Destroyers,55,2004-06-05,2004-06-05,46,1
+482,After We Go,Tantric,56,2004-03-13,2004-03-13,45,1
+483,Future Soundtrack For America,Various Artists,56,2004-09-04,2004-09-04,45,1
+484,White Trash Beautiful,Everlast,56,2004-06-12,2004-06-12,45,1
+485,Chariot - Stripped,Gavin DeGraw,56,2004-08-14,2004-08-14,45,1
+486,Devotion,newsboys,56,2004-11-20,2004-11-20,45,1
+487,Will & Grace: Let The Music Out!,Soundtrack,57,2004-10-02,2004-10-02,44,1
+488,aMOTIOn,A Perfect Circle,57,2004-12-04,2004-12-04,44,1
+489,Nothing Without You,Smokie Norful,57,2004-10-23,2004-10-23,44,1
+490,Bridget Jones: The Edge Of Reason,Soundtrack,72,2004-12-04,2004-12-11,44,2
+491,Guilt Show,The Get Up Kids,58,2004-03-20,2004-03-20,43,1
+492,This I Gotta See,Andy Griggs,59,2004-08-28,2004-08-28,42,1
+493,Porcelain,Sparta,60,2004-07-31,2004-07-31,41,1
+494,RBG: Revolutionary But Gangsta,dead prez,60,2004-04-17,2004-04-17,41,1
+495,The Lizzie McGuire Movie,Soundtrack,71,2004-01-03,2004-01-10,41,2
+496,Hard,Jagged Edge,84,2004-01-10,2004-02-14,41,4
+497,"Chilltown, New York",Erick Sermon,61,2004-07-10,2004-07-10,40,1
+498,"Reise, Reise",Rammstein,61,2004-12-04,2004-12-04,40,1
+499,Talkie Walkie,Air,61,2004-02-14,2004-02-14,40,1
+500,Bette Midler Sings The Rosemary Clooney Songbook,Bette Midler,68,2004-01-03,2004-02-07,40,2
+501,Heritage,The Irish Tenors,69,2004-05-01,2004-08-28,40,2
+502,My Private Nation,Train,70,2004-02-21,2004-02-28,40,2
+503,The Ride,Los Lobos,75,2004-05-22,2004-05-29,40,2
+504,Eastern Energy,Twelve Girls Band,62,2004-09-04,2004-09-04,39,1
+505,"Always Outnumbered, Never Outgunned",The Prodigy,62,2004-10-02,2004-10-02,39,1
+506,See If I Care,Gary Allan,89,2004-02-14,2004-04-10,39,8
+507,Ultimate Daryl Hall + John Oates,Daryl Hall John Oates,63,2004-04-03,2004-04-03,38,1
+508,Bow Wow: Unleashed,Bow Wow,81,2004-01-03,2004-01-10,38,2
+509,Sonic Nurse,Sonic Youth,64,2004-06-26,2004-06-26,37,1
+510,Phinally Phamous,Lil Wyte,64,2004-11-06,2004-11-06,37,1
+511,The Art Of Romance,Tony Bennett,65,2004-11-27,2004-11-27,36,1
+512,Halloween: Monster Mix,Mannheim Steamroller,65,2004-11-13,2004-11-13,36,1
+513,Dress Rehearsal,Carolyn Dawn Johnson,65,2004-05-22,2004-05-22,36,1
+514,Awake: The Best Of Live,Live,65,2004-11-20,2004-11-20,36,1
+515,Love Actually,Soundtrack,77,2004-01-03,2004-05-22,36,3
+516,What A Wonderful World,LeAnn Rimes,81,2004-12-04,2004-12-18,36,2
+517,Pure,Boney James,66,2004-08-21,2004-08-21,35,1
+518,Youth,Collective Soul,66,2004-12-04,2004-12-04,35,1
+519,Where I Belong,Rachel Proctor,66,2004-08-28,2004-08-28,35,1
+520,Romeoland,Lil' Romeo,70,2004-10-09,2004-10-16,35,2
+521,Impossible Dream,Patty Griffin,67,2004-05-08,2004-05-08,34,1
+522,Barrio Fino,Daddy Yankee,67,2004-07-31,2004-07-31,34,1
+523,The Central Park Concert,Dave Matthews Band,81,2004-01-03,2004-01-17,34,3
+524,Probot,Probot,68,2004-02-28,2004-02-28,33,1
+525,Punk-O-Rama Vol. 9,Various Artists,68,2004-06-26,2004-06-26,33,1
+526,Another 700 Miles (EP),3 Doors Down,81,2004-01-17,2004-02-14,33,4
+527,The Definitive Collection,Stevie Wonder,82,2004-06-26,2004-08-28,33,2
+528,Motown 1's,Various Artists,83,2004-05-08,2004-06-05,33,2
+529,Shaken Not Stirred,Phil Vassar,69,2004-10-16,2004-10-16,32,1
+530,Outlaws And Angels,Willie Nelson & Friends,69,2004-10-09,2004-10-09,32,1
+531,Our Kind Of Soul,Daryl Hall John Oates,69,2004-11-13,2004-11-13,32,1
+532,Amor Y Lagrimas,Adan Chalino Sanchez,70,2004-05-08,2004-05-08,31,1
+533,Oprah's Popstar Challenge-2004 Cast Album: Dreams Really Do Come True,Various Artists,70,2004-04-24,2004-04-24,31,1
+534,Pure,Hayley Westenra,70,2004-05-01,2004-05-01,31,1
+535,Black Rain,Dark Lotus,71,2004-04-24,2004-04-24,30,1
+536,Darryl Worley,Darryl Worley,72,2004-11-20,2004-11-20,29,1
+537,The New Testament: The Truth,Suga Free,72,2004-03-27,2004-03-27,29,1
+538,Legend Of The Wu-Tang: Wu-Tang Clan's Greatest Hits,Wu-Tang Clan,72,2004-11-13,2004-11-13,29,1
+539,The No. 1's,Diana Ross & The Supremes,72,2004-02-21,2004-02-21,29,1
+540,All I Want For Christmas Is A Real Good Tan,Kenny Chesney,73,2004-01-03,2004-01-03,28,1
+541,Waiting For My Rocket To Come,Jason Mraz,83,2004-02-07,2004-02-14,28,2
+542,The Definitive Collection,Lionel Richie,84,2004-06-05,2004-08-21,28,3
+543,The Christmas Collection,Frank Sinatra,87,2004-12-18,2004-12-25,28,2
+544,The Opera Band,Amici Forever,74,2004-02-07,2004-02-07,27,1
+545,The Wind,Warren Zevon,74,2004-02-28,2004-02-28,27,1
+546,Where Do We Go From Here,Pillar,74,2004-07-03,2004-07-03,27,1
+547,Da Skool Boy Presents Murphy's Law,Murphy Lee,79,2004-03-13,2004-03-20,27,2
+548,"Rockin' The Rhein With The Grateful Dead: Rheinhalle, Dusseldore, West",Grateful Dead,75,2004-06-12,2004-06-12,26,1
+549,O'ryan,O'Ryan,75,2004-11-06,2004-11-06,26,1
+550,Pacto De Sangre,Los Tigres del Norte,75,2004-04-17,2004-04-17,26,1
+551,Radio Disney: Ultimate Jams-Greatest Hits From Volumes 1-6,Various Artists,75,2004-04-24,2004-04-24,26,1
+552,It Will Always Be,Willie Nelson,75,2004-11-13,2004-11-13,26,1
+553,The Essential Red Collection,Sammy Hagar,75,2004-08-28,2004-08-28,26,1
+554,twentysomething,Jamie Cullum,83,2004-05-29,2004-06-19,26,2
+555,Gold Medal,The Donnas,76,2004-11-13,2004-11-13,25,1
+556,Classified,Bond,76,2004-07-03,2004-07-03,25,1
+557,The Very Best Of ZZ Top: Rancho Texicano,ZZ Top,77,2004-07-03,2004-07-03,24,1
+558,Redefine,Soil,78,2004-04-10,2004-04-10,23,1
+559,Spirit & Truth,Bishop Eddie L. Long Presents New Birth Total Praise Choir,79,2004-06-19,2004-06-19,22,1
+560,The Very Best Of Randy Travis,Randy Travis,80,2004-08-21,2004-08-21,21,1
+561,34th & 8th,O.A.R.,80,2004-09-11,2004-09-11,21,1
+562,Is There Love In Space?,Joe Satriani,80,2004-05-01,2004-05-01,21,1
+563,There Will Be A Light,Ben Harper And The Blind Boys Of Alabama,81,2004-10-09,2004-10-16,21,2
+564,Disciples Of The 36 Chambers: Chapter 1,Wu-Tang Clan,82,2004-10-16,2004-10-16,19,1
+565,WOW Hits 2004,Various Artists,82,2004-01-03,2004-01-03,19,1
+566,Prophecy,Soulfly,82,2004-04-17,2004-04-17,19,1
+567,A Grand Don't Come For Free,The Streets,82,2004-06-05,2004-06-05,19,1
+568,Cheers,Obie Trice,85,2004-01-17,2004-01-24,19,2
+569,On My Way,Ben Kweller,83,2004-04-24,2004-04-24,18,1
+570,Drunk In Public,Ron White,83,2004-08-21,2004-08-21,18,1
+571,Justified,Justin Timberlake,87,2004-01-03,2004-02-28,18,3
+572,Live In Boston,Fleetwood Mac,84,2004-07-03,2004-07-03,17,1
+573,The Last Don: Live,Don Omar,84,2004-06-26,2004-06-26,17,1
+574,The Movie Album,Barbra Streisand,86,2004-01-03,2004-01-10,17,2
+575,Renee Olstead,Renee Olstead,90,2004-06-19,2004-11-06,17,2
+576,In Keeping Secrets Of Silent Earth: 3,Coheed And Cambria,90,2004-07-31,2004-09-04,17,4
+577,The Very Best Of Cher,Cher,85,2004-01-24,2004-01-24,16,1
+578,Cryptic Collection 3,Twiztid,85,2004-06-05,2004-06-05,16,1
+579,I Can Only Imagine: Platinum Edition,Various Artists,85,2004-12-18,2004-12-18,16,1
+580,I Choose You,Point Of Grace,85,2004-10-30,2004-10-30,16,1
+581,One Monkey Don't Stop No Show,Goodie Mob,85,2004-07-17,2004-07-17,16,1
+582,The Grind Date,De La Soul,87,2004-10-23,2004-10-30,16,2
+583,Ray Ray,Raphael Saadiq,86,2004-10-23,2004-10-23,15,1
+584,Deja Voodoo,Gov't Mule,86,2004-10-02,2004-10-02,15,1
+585,***hole,Gene Simmons,86,2004-06-26,2004-06-26,15,1
+586,Halcyon Days,Bruce Hornsby,86,2004-09-04,2004-09-04,15,1
+587,Fuego,A.B. Quintanilla III Presents Kumbia Kings,89,2004-10-23,2004-10-30,15,2
+588,Grand Champ,DMX,87,2004-01-17,2004-01-17,14,1
+589,The Very Best Of Dwight Yoakam,Dwight Yoakam,87,2004-08-14,2004-08-14,14,1
+590,Taking A Chance On Love,Jane Monheit,94,2004-09-25,2004-10-02,14,2
+591,American Idol: The Great Holiday Classics,Various Artists,88,2004-01-03,2004-01-03,13,1
+592,Through The Ashes Of Empires,Machine Head,88,2004-05-08,2004-05-08,13,1
+593,AFI,AFI,88,2004-11-20,2004-11-20,13,1
+594,Seven,Enrique Iglesias,88,2004-01-10,2004-01-10,13,1
+595,Based On A True Story,Silkk The Shocker,88,2004-09-25,2004-09-25,13,1
+596,The Revolution Starts...Now,Steve Earle,89,2004-09-11,2004-09-11,12,1
+597,Nymphetamine,Cradle Of Filth,89,2004-10-16,2004-10-16,12,1
+598,Out The Box,Tonex & The Peculiar People,89,2004-06-05,2004-06-05,12,1
+599,Payable On Death,P.O.D.,92,2004-01-10,2004-01-17,12,2
+600,Crime Mob,Crime Mob,90,2004-08-21,2004-08-21,11,1
+601,I Pray,Amanda Perez,90,2004-07-31,2004-07-31,11,1
+602,Southside Double-Wide: Acoustic Live,Sevendust,90,2004-05-22,2004-05-22,11,1
+603,Big & Rich's Super Galactic Fan Pak (EP),Big & Rich,90,2004-11-13,2004-11-13,11,1
+604,The OC: Music From: Mix 2,Soundtrack,90,2004-11-20,2004-11-20,11,1
+605,Room To Breathe,Reba McEntire,90,2004-01-03,2004-01-03,11,1
+606,American IV: The Man Comes Around,Johnny Cash,95,2004-01-03,2004-01-10,11,2
+607,En Vivo Desde Chicago,Grupo Montez de Durango,91,2004-04-10,2004-04-10,10,1
+608,Veintisiete,Los Temerarios,91,2004-07-17,2004-07-17,10,1
+609,Hotel Paper,Michelle Branch,92,2004-01-03,2004-01-03,9,1
+610,Here Comes The Bride,Brides Of Destruction,92,2004-03-27,2004-03-27,9,1
+611,The Source Presents Hip Hop Hits Vol. 7,Various Artists,93,2004-01-17,2004-01-17,8,1
+612,Bad Boy's R&B Hits,Various Artists,93,2004-12-11,2004-12-11,8,1
+613,House Of Secrets,Otep,93,2004-08-14,2004-08-14,8,1
+614,Jupiter's Darling,Heart,94,2004-07-10,2004-07-10,7,1
+615,Room On Fire,The Strokes,95,2004-01-17,2004-01-17,6,1
+616,Poe Little Rich Girl,Jacki-O,95,2004-11-13,2004-11-13,6,1
+617,Phantom Planet,Phantom Planet,95,2004-01-24,2004-01-24,6,1
+618,14 Shades Of Grey,Staind,96,2004-01-17,2004-01-17,5,1
+619,Finger Eleven,Finger Eleven,96,2004-09-11,2004-09-11,5,1
+620,Sea Of Faces,Kutless,97,2004-03-13,2004-03-13,4,1
+621,Tim McGraw And The Dancehall Doctors,Tim McGraw,97,2004-02-21,2004-02-21,4,1
+622,Kidz Bop 4,Kidz Bop Kids,97,2004-01-03,2004-01-03,4,1
+623,Bipolar And Proud,Cledus T. Judd,98,2004-09-11,2004-09-11,3,1
+624,Ultra.Dance 05,Vic Latino & David Waxman,98,2004-05-15,2004-05-15,3,1
+625,Team America: World Police,Soundtrack,98,2004-11-20,2004-11-20,3,1
+626,Food For Thought,Young Rome,98,2004-07-10,2004-07-10,3,1
+627,Three Cheers For Sweet Revenge,My Chemical Romance,99,2004-11-27,2004-11-27,2,1
+628,Enjoy Every Sandwich: The Songs Of Warren Zevon,Various Artists,99,2004-11-06,2004-11-06,2,1
+629,Wet From Birth,The Faint,99,2004-10-02,2004-10-02,2,1
+630,In Time 1988-2003: The Best Of R.E.M.,R.E.M.,99,2004-01-03,2004-01-03,2,1
+631,Straylight Run,Straylight Run,100,2004-10-30,2004-10-30,1,1
+632,Gettin' In Over My Head,Brian Wilson,100,2004-07-10,2004-07-10,1,1
+633,The Hustle,G. Love,100,2004-09-11,2004-09-11,1,1

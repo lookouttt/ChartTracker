@@ -1,0 +1,125 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Invitation,Joe Sample,1,1993-04-10,1993-12-25,350,19
+2,"So Near, So Far",Joe Henderson,1,1993-03-13,1993-12-25,332,22
+3,25,"Harry Connick, Jr.",1,1993-01-02,1993-12-25,297,14
+4,Homage To Duke,Dave Grusin,2,1993-06-19,1993-12-25,266,16
+5,Take A Look,Natalie Cole,1,1993-07-03,1993-11-20,240,11
+6,Live At Montreux,Miles Davis & Quincy Jones,1,1993-08-28,1993-12-25,240,11
+7,A Single Woman,Nina Simone,3,1993-08-28,1993-12-25,219,11
+8,Perfectly Frank,Tony Bennett,1,1993-01-02,1993-05-08,214,10
+9,Letter To Evan,David Benoit,3,1993-01-02,1993-12-25,197,13
+10,Joshua Redman,Joshua Redman,3,1993-04-10,1993-12-25,192,14
+11,It's Got To Be Funky,Horace Silver,2,1993-07-03,1993-11-20,191,11
+12,Wish,Joshua Redman,1,1993-10-09,1993-12-25,186,8
+13,Rendezvous,Michel Camilo,5,1993-06-05,1993-10-09,160,10
+14,Love Songs,Diane Schuur,3,1993-06-05,1993-09-25,159,9
+15,Bye Bye Blackbird,Keith Jarrett Trio,2,1993-06-05,1993-10-09,151,10
+16,I Heard You Twice The First Time,Branford Marsalis,1,1993-01-02,1993-12-25,146,10
+17,Light Out Of Darkness,Shirley Horn,2,1993-10-23,1993-12-25,145,7
+18,Devil's Got Your Tongue,Abbey Lincoln,2,1993-02-27,1993-06-05,140,8
+19,Portrait Of The Blues,Lou Rawls,4,1993-03-13,1993-06-19,137,8
+20,Live At The Five Spot,Joey DeFrancesco,4,1993-07-17,1993-10-23,132,8
+21,Citi Movement,Wynton Marsalis,2,1993-02-27,1993-05-22,131,7
+22,Ode To Life,Don Pullen & The African-Brazilian Connection,5,1993-08-14,1993-11-20,125,8
+23,What We Do,John Scofield Quartet,4,1993-03-13,1993-06-05,122,7
+24,Dr. T,Billy Taylor,6,1993-02-13,1993-05-22,122,8
+25,Haunted Heart,Charlie Haden Quartet West,4,1993-01-02,1993-03-27,116,7
+26,Rhythm Of The Earth,Jackie McLean,4,1993-01-02,1993-03-27,116,7
+27,Standards,Mike Stern,5,1993-01-02,1993-03-27,114,7
+28,Fictionary,Lyle Mays,4,1993-04-10,1993-07-03,112,7
+29,Of Kindred Souls,Roy Hargrove,7,1993-06-05,1993-08-28,104,7
+30,Chicago Revisited,Ahmad Jamal,5,1993-04-10,1993-07-03,103,7
+31,You Must Believe In Spring,Frank Morgan,5,1993-01-02,1993-03-27,103,7
+32,Steppin' Out,Tony Bennett,1,1993-12-04,1993-12-25,100,4
+33,Hand In Hand,Mulgrew Miller,6,1993-05-08,1993-08-14,99,8
+34,Live In Concert,Jazz Futures,7,1993-07-17,1993-10-09,99,7
+35,Now And Then,Ernestine Anderson,8,1993-07-31,1993-11-06,96,8
+36,Swing Kids,Soundtrack,4,1993-04-24,1993-12-25,95,7
+37,That's Right,The Benny Green Trio,4,1993-09-25,1993-11-20,89,5
+38,Sambao,Kenny Barron,5,1993-05-08,1993-07-17,89,6
+39,Sounds And Visions,The Earl Klugh Trio,6,1993-04-10,1993-06-19,88,6
+40,To Bird With Love,Dizzy Gillespie,7,1993-01-02,1993-03-27,85,7
+41,Reverence And Compassion,Milt Jackson,11,1993-06-19,1993-09-25,80,8
+42,Bloomington,Branford Marsalis,9,1993-06-19,1993-09-11,79,7
+43,Let's Hang Out,J.J. Johnson,6,1993-09-25,1993-11-20,76,5
+44,Blue Light 'til Dawn,Cassandra Wilson,7,1993-11-20,1993-12-25,74,5
+45,Fantasia,Eliane Elias,9,1993-01-02,1993-02-27,73,5
+46,Dance Of Passion,Johnny Griffin,8,1993-02-27,1993-05-08,72,6
+47,Blues At Bradley's,Charles Fambrough,9,1993-09-11,1993-11-06,71,5
+48,More Than A Mood,Stanley Turrentine,9,1993-01-02,1993-02-27,71,5
+49,Portraits By Ellington,The Lincoln Center Jazz Orchestra,5,1993-01-02,1993-02-13,70,4
+50,The Best Of The Songbooks,Ella Fitzgerald,8,1993-12-04,1993-12-25,70,4
+51,Mark Whitfield,Mark Whitfield,10,1993-05-22,1993-07-31,69,6
+52,Portrait Of A Player,Billy Childs,12,1993-02-13,1993-05-22,69,8
+53,Dream Come True,Arturo Sandoval,11,1993-06-19,1993-08-28,64,6
+54,The Charmer,Charles Fambrough,12,1993-01-30,1993-04-24,64,7
+55,Maroons,Geri Allen Trio,11,1993-01-16,1993-03-27,63,6
+56,Heritage,Nnenna Freelon,10,1993-09-11,1993-12-04,62,6
+57,Pastiche,Vanessa Rubin,10,1993-04-24,1993-07-03,61,6
+58,The Lady Sings... Jazz and Blues,Diana Ross,11,1993-12-04,1993-12-25,60,4
+59,Tailor Made,Bobby Watson,13,1993-05-22,1993-07-31,60,6
+60,It's Not About The Melody,Betty Carter,7,1993-01-02,1993-02-27,54,5
+61,Live At The Five Spot,The Thelonious Monk Quartet Featuring John Coltrane,10,1993-04-24,1993-06-05,53,4
+62,Malcolm X The Original Motion Picture Score,Terence Blanchard,11,1993-01-02,1993-03-13,53,6
+63,Live!,GRP All-Star Big Band,15,1993-11-06,1993-12-25,53,6
+64,Warm & Tender,Charlie Watts,13,1993-12-04,1993-12-25,52,4
+65,Enter The Spirit,Bob Berg,14,1993-07-17,1993-09-25,50,6
+66,If I Could,Stanley Turrentine,10,1993-10-09,1993-11-20,49,4
+67,If I Could Be With You,Marcus Roberts,11,1993-02-27,1993-04-24,49,5
+68,Changing Of The Guard,T.S. Monk,6,1993-10-23,1993-11-20,47,3
+69,Billie's Best,Billie Holiday,14,1993-12-04,1993-12-25,47,4
+70,Here's To Life,Shirley Horn,17,1993-01-02,1993-12-25,47,7
+71,Time Remembered,John McLaughlin,10,1993-12-04,1993-12-25,46,4
+72,With Strings,Scott Hamilton,16,1993-03-27,1993-06-05,46,6
+73,Suite 4 Y 20,Gonzalo Rubalcaba,15,1993-07-03,1993-09-11,45,6
+74,Too Much Sugar For A Dime,Henry Threadgill,13,1993-02-27,1993-05-08,44,6
+75,Three Graces,Jeff Beal,14,1993-08-14,1993-10-09,43,5
+76,Volcano Blues,Randy Weston/Melba Liston,15,1993-09-25,1993-11-20,42,5
+77,Good Morning Heartache,Johnny Adams,8,1993-10-23,1993-11-20,41,3
+78,Don't You Know I Care,Antonio Hart,12,1993-01-02,1993-02-13,40,4
+79,Wailin' At The Vanguard,Arthur Taylor's Wailers,11,1993-10-23,1993-11-20,36,3
+80,Forman On The Job,Bruce Forman with Joe Henderson,14,1993-01-02,1993-02-13,33,4
+81,Eleven,"Harry Connick, Jr.",14,1993-01-02,1993-02-13,32,4
+82,Dedicated To Diz,Slide Hampton & The Jazzmasters,16,1993-07-03,1993-08-28,31,5
+83,Robert Hurst Presents: Robert Hurst,Robert Hurst,13,1993-08-14,1993-10-09,29,5
+84,Black Hope,Kenny Garrett,11,1993-01-02,1993-01-30,28,3
+85,Double Rainbow,Kevin Mahogany,17,1993-10-09,1993-11-20,27,4
+86,Lost & Found,Jimmy Scott,14,1993-02-27,1993-04-10,26,4
+87,Finally Yours,Carmen Bradford,18,1993-01-02,1993-02-13,26,4
+88,Aminah's Dream,Stephen Scott,18,1993-07-17,1993-09-11,25,5
+89,Paulistana,Eliane Elias,9,1993-11-06,1993-11-20,24,2
+90,Spirit Talk,Kevin Eubanks,14,1993-10-23,1993-11-20,24,3
+91,Universal Language,Joe Lovano,18,1993-06-05,1993-07-31,24,5
+92,Standards,Bireli Lagrene,17,1993-05-08,1993-06-05,23,3
+93,All The Way,Jimmy Scott,18,1993-01-02,1993-02-13,20,4
+94,Live At The Village Gate,Tito Puente,16,1993-01-30,1993-03-13,19,4
+95,The Original Jazz Masters Series Volume I,Various Artists,20,1993-10-09,1993-11-20,19,4
+96,Departure,Bob Mintzer Big Band,18,1993-03-13,1993-04-10,18,3
+97,The Last Giant,John Coltrane,19,1993-12-11,1993-12-25,18,3
+98,From Bessie To Brazil,Susannah McCorkle,20,1993-07-31,1993-09-25,18,5
+99,Live In Berlin 1991 Vol. 1,Lounge Lizards,19,1993-06-05,1993-07-17,17,4
+100,In Tribute,Diane Schuur,20,1993-12-04,1993-12-25,17,4
+101,Seth Air,Wallace Roney,16,1993-01-02,1993-02-27,16,5
+102,One Day Spent,Vince Jones,18,1993-10-09,1993-11-06,16,3
+103,Encore At The Blue Note,Oscar Peterson Trio,20,1993-12-04,1993-12-25,12,4
+104,Glengarry Glen Ross,Soundtrack,15,1993-01-02,1993-01-02,11,1
+105,Under The Influence,Eddie Daniels,21,1993-05-22,1993-06-19,11,3
+106,40 Years Of Cuban Jam Session,Paquito D'Rivera,16,1993-11-20,1993-11-20,10,1
+107,Last Call At The Blue Note,Oscar Peterson Trio,19,1993-01-02,1993-01-16,9,2
+108,Little Man Big Band,Jimmy Heath,21,1993-01-02,1993-01-16,8,2
+109,Fab,Al Grey,23,1993-04-10,1993-05-08,8,3
+110,Jelly,The Dirty Dozen Brass Band,20,1993-06-05,1993-06-19,7,2
+111,"Algo Nuestro ""Our Thing""",Charlie Sepulveda,22,1993-03-27,1993-04-24,7,3
+112,Live In Tokyo,Tony Williams,21,1993-05-08,1993-05-22,6,2
+113,A Little Piece Of Heaven,Gene Harris,22,1993-12-04,1993-12-18,5,2
+114,The Jackie Mac Attack - Live,Jackie McLean,22,1993-11-20,1993-11-20,4,1
+115,Bewitched,Laura Fygi,23,1993-09-11,1993-09-25,4,2
+116,The Malcolm X Jazz Suite,Terence Blanchard,23,1993-06-19,1993-07-03,4,2
+117,Red Hot Jazz-Dixieland Album,Canadian Brass,23,1993-12-25,1993-12-25,3,1
+118,When It's Haynes It Roars,Roy Haynes,23,1993-11-20,1993-11-20,3,1
+119,Till We Have Faces,Gary Thomas,23,1993-05-22,1993-05-22,3,1
+120,Promenade With Duke,Michel Petrucciani,24,1993-05-22,1993-05-22,2,1
+121,Christmas Is The Time,Lou Rawls,24,1993-12-11,1993-12-11,2,1
+122,Live In Paris 92,Ahmad Jamal,24,1993-11-20,1993-11-20,2,1
+123,Lush Life,Joe Henderson,25,1993-12-04,1993-12-04,1,1
+124,A Night With Strings,Sadao Watanabe,25,1993-12-11,1993-12-11,1,1

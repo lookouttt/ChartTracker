@@ -1,0 +1,456 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,The Places You Have Come To Fear The Most,Dashboard Confessional,1,2002-01-12,2002-12-28,1814,50
+2,Play It Loud,Chris Cagle,5,2002-01-05,2002-09-21,1400,38
+3,Through The Eyes,Flaw,1,2002-01-12,2002-08-31,1309,34
+4,Life,ZOEgirl,2,2002-01-05,2002-12-28,1170,38
+5,Un Dia Normal,Juanes,1,2002-06-08,2002-12-28,1143,30
+6,12 Stones,12 Stones,3,2002-05-11,2002-12-28,1138,34
+7,musicforthemorningafter,Pete Yorn,1,2002-01-05,2002-07-27,1134,30
+8,Man With A Memory,Joe Nichols,1,2002-08-10,2002-12-28,927,21
+9,Start Static,Sugarcult,4,2002-05-25,2002-12-28,927,31
+10,Trance Party (Volume Two),The Happy Boys,1,2002-07-13,2002-12-14,823,23
+11,Grandes Exitos,Chayanne,9,2002-04-06,2002-11-16,802,31
+12,Talk About It,Nicole C. Mullen,17,2002-01-05,2002-12-28,792,42
+13,The Used,The Used,1,2002-08-17,2002-12-28,769,20
+14,Full Collapse,Thursday,10,2002-02-09,2002-10-05,704,35
+15,XX,Mushroomhead,6,2002-01-26,2002-08-31,700,28
+16,Momentum,tobyMac,14,2002-01-05,2002-12-28,651,34
+17,Dirty Sexy Knights In Paris,Audiovent,4,2002-06-22,2002-12-07,641,20
+18,Superkala,Course Of Nature,6,2002-03-16,2002-07-13,604,18
+19,Thalia,Thalia,4,2002-06-08,2002-11-23,597,24
+20,Nickel Creek,Nickel Creek,2,2002-01-05,2002-03-30,592,13
+21,Libre,Jennifer Pena,6,2002-06-29,2002-11-16,583,21
+22,Family Affair II: Live At Radio City Music Hall,Hezekiah Walker & The Love Fellowship Crusade Choir,4,2002-09-07,2002-12-28,573,17
+23,Fireproof,Pillar,6,2002-06-08,2002-12-28,571,23
+24,Love Is Here,Starsailor,1,2002-01-26,2002-05-04,549,15
+25,Room For Squares,John Mayer,1,2002-01-05,2002-03-23,548,12
+26,How I Do,Res,1,2002-03-23,2002-07-06,548,16
+27,OK Go,OK Go,1,2002-10-05,2002-12-28,535,13
+28,Woven & Spun,Nichole Nordeman,2,2002-10-12,2002-12-28,531,12
+29,Love Machine,Sir Charles Jones,13,2002-02-16,2002-08-10,531,26
+30,The Guest,Phantom Planet,3,2002-03-16,2002-07-06,520,17
+31,Perdoname Mi Amor,Conjunto Primavera,1,2002-09-07,2002-12-07,516,14
+32,Brushfire Fairytales,Jack Johnson,3,2002-01-05,2002-03-30,513,13
+33,Turn On The Bright Lights,Interpol,4,2002-09-07,2002-12-28,498,16
+34,Leaving Through The Window,Something Corporate,1,2002-06-08,2002-12-14,482,25
+35,Kaleidoscope,Rachael Lampa,2,2002-03-23,2002-07-27,474,17
+36,The Spirit Of America,Daniel Rodriguez,1,2002-03-02,2002-10-12,471,17
+37,Awesome Wonder,Kurt Carr & The Kurt Carr Singers,16,2002-02-09,2002-08-03,466,23
+38,Emerson Drive,Emerson Drive,2,2002-06-08,2002-12-28,438,19
+39,Saturate,Breaking Benjamin,2,2002-09-14,2002-12-28,427,16
+40,Now Again,The Flatlanders,3,2002-06-08,2002-09-07,413,13
+41,DJ Encore Presents: Ultra.Dance 02,DJ Encore,4,2002-07-13,2002-09-21,384,11
+42,Child Of The Ghetto,G. Dep,3,2002-01-05,2002-03-30,379,12
+43,Triple 6 Mafia Presents DJ Paul -- Underground Vol. 16: For Da Summa,DJ Paul,2,2002-06-15,2002-08-17,378,10
+44,Crash The Party,Smilez & Southstar,5,2002-08-10,2002-12-28,375,14
+45,Burn It Black,Injected,7,2002-03-16,2002-06-01,374,12
+46,No Secrets,No Secrets,1,2002-08-24,2002-12-28,365,15
+47,"No Pads, No Helmets...Just Balls",Simple Plan,3,2002-10-26,2002-12-28,363,10
+48,Scars,Soil,13,2002-01-05,2002-05-18,361,17
+49,Jinx,Quarashi,2,2002-04-27,2002-07-27,354,11
+50,White Blood Cells,The White Stripes,1,2002-01-19,2002-04-13,351,12
+51,Spend The Night,The Donnas,1,2002-11-09,2002-12-28,348,8
+52,1000 Kisses,Patty Griffin,1,2002-04-27,2002-07-06,347,11
+53,What It Is To Burn,Finch,9,2002-03-30,2002-12-14,333,17
+54,Good Charlotte,Good Charlotte,17,2002-01-05,2002-10-05,330,18
+55,Belly Of The Sun,Cassandra Wilson,4,2002-04-13,2002-06-29,328,12
+56,Cledus Envy,Cledus T. Judd,3,2002-05-18,2002-12-28,326,11
+57,Thug Misses,Khia Featuring DSD,1,2002-04-06,2002-06-15,324,11
+58,MTV Unplugged,Alejandro Sanz,16,2002-01-05,2002-10-05,324,15
+59,This Is Your Life,Out Of Eden,6,2002-02-16,2002-04-27,322,11
+60,30 Seconds To Mars,30 Secnods To Mars,1,2002-09-14,2002-11-09,319,9
+61,The Richest Man In Babylon,Thievery Corporation,1,2002-10-19,2002-12-14,318,9
+62,Guess Who's Back?,50 Cent,11,2002-06-15,2002-12-28,318,13
+63,Special Edition,Infamous Mobb,2,2002-04-13,2002-06-01,315,8
+64,Barricades & Brickwalls,Kasey Chambers,1,2002-03-02,2002-05-11,312,11
+65,Mix Of Life,ZOEgirl,15,2002-10-12,2002-12-28,307,12
+66,Simple Things,Zero 7,20,2002-01-19,2002-07-06,300,19
+67,Platinum In Da Ghetto,Lil' Keke,1,2002-02-09,2002-04-06,293,9
+68,Ultra.Dance 01,Johnny Vicious,14,2002-02-09,2002-06-01,292,13
+69,Historia Musical,Liberacion,12,2002-10-05,2002-12-07,290,10
+70,Santa Claus Lane,Hilary Duff,2,2002-11-23,2002-12-28,280,6
+71,Rose Of Bethlehem,Selah,5,2002-11-16,2002-12-28,278,7
+72,Pop Stars 2: Music From The TV Show,Scene 23,2,2002-01-05,2002-02-23,277,8
+73,Rascal Flatts,Rascal Flatts,1,2002-01-05,2002-02-09,272,6
+74,Go Get Your Life Back,Donald Lawrence & The Tri-City Singers,10,2002-04-13,2002-06-29,267,12
+75,Myself When I Am Real,Bebo Norman,1,2002-09-28,2002-12-28,263,13
+76,Drunken Lullabies,Flogging Molly,4,2002-04-06,2002-11-23,256,14
+77,Life Force Radio,Afu-Ra,7,2002-06-08,2002-07-27,253,8
+78,Humanistic,Abandoned Pools,12,2002-03-16,2002-06-01,250,12
+79,Suenos,Intocable,4,2002-04-27,2002-06-15,242,8
+80,Shiver,Jamie O'Neal,15,2002-01-05,2002-03-09,242,10
+81,Jump 5,Jump5,15,2002-01-05,2002-04-13,241,12
+82,thefakesoundofprogress,Lostprophets,13,2002-03-09,2002-06-01,240,12
+83,No Me Se Rajar,Banda El Recodo de Cruz Lizarraga,4,2002-08-17,2002-10-05,239,8
+84,Lovesick Broke & Driftin',Hank Williams III,4,2002-02-16,2002-04-06,238,8
+85,Veni Vidi Vicious,The Hives,1,2002-05-04,2002-06-08,235,6
+86,Almost There,MercyMe,1,2002-01-05,2002-02-02,233,5
+87,Amorcito Corazon,Lupillo Rivera,5,2002-10-12,2002-11-30,232,8
+88,Christmas In Black And White,Nicole C. Mullen,8,2002-11-23,2002-12-28,231,6
+89,All About J,Lil' J,4,2002-04-20,2002-05-25,230,6
+90,Send A Revival,"Keith ""Wonderboy"" Johnson & The Spiritual Voices",7,2002-07-20,2002-08-31,230,7
+91,Night Sessions,Chris Botti,18,2002-02-02,2002-05-04,228,13
+92,About A Boy (Soundtrack),Badly Drawn Boy,7,2002-05-11,2002-07-06,219,8
+93,Groovin',bwb,9,2002-11-09,2002-12-14,218,6
+94,Say It Like You Mean It,The Starting Line,1,2002-08-03,2002-09-21,214,7
+95,TheGoldenHum,Remy Zero,20,2002-01-12,2002-06-08,212,9
+96,Gold,Linda Eder,3,2002-03-02,2002-04-13,210,7
+97,Australia,Howie Day,18,2002-06-29,2002-09-21,207,10
+98,The Anatomy Of The Tongue In Cheek,Relient K,22,2002-01-05,2002-12-28,202,14
+99,Soul Music,Woody Rock,10,2002-04-27,2002-06-22,199,7
+100,Source Tags & Codes,...And You Will Know Us By The Trail Of Dead,17,2002-03-16,2002-07-06,192,11
+101,by surprise,Joy Williams,21,2002-10-26,2002-12-28,192,9
+102,One Beat,Sleater-Kinney,2,2002-09-07,2002-10-12,190,6
+103,Just Chillin',Norman Brown,6,2002-07-20,2002-09-07,189,8
+104,Higher Ground,The Blind Boys Of Alabama,13,2002-09-14,2002-11-16,189,9
+105,Historia De Un Idolo Vol. 2,Vicente Fernandez,18,2002-04-20,2002-10-05,186,11
+106,Blue Moon,Steve Holy,1,2002-01-05,2002-01-26,184,4
+107,Blessed By Association,John P. Kee And New Life,1,2002-11-30,2002-12-28,182,5
+108,I Believe,Marvin Sapp,14,2002-06-29,2002-08-10,182,7
+109,Essential Presents: Skribble's House,DJ Skribble,19,2002-01-05,2002-02-23,181,8
+110,Sufriendo A Solas,Lupillo Rivera,22,2002-01-05,2002-03-02,177,9
+111,Dorinda Clark-Cole,Dorinda Clark-Cole,14,2002-07-13,2002-09-28,174,9
+112,Alexandre Pires,Alexandre Pires,23,2002-02-23,2002-07-06,173,15
+113,The Instigator,Rhett Miller,1,2002-10-12,2002-11-16,171,6
+114,Dejame Entrar,Carlos Vives,11,2002-01-05,2002-03-02,170,7
+115,Last One Picked,Superchick,10,2002-10-26,2002-12-28,168,9
+116,Revolution/Revolucion,Ill Nino,28,2002-01-26,2002-05-04,165,13
+117,"Lifted or The Story Is In The Soil, Keep Your Ear To The Ground",Bright Eyes,2,2002-08-31,2002-11-16,164,8
+118,Kevin Denney,Kevin Denney,2,2002-05-11,2002-06-08,163,5
+119,For All Time,Soluna,17,2002-07-20,2002-09-21,163,8
+120,The Natural,Haystak,6,2002-08-10,2002-09-14,160,6
+121,Po' Like Dis,Po' White Trash And The Trailer Park Symphony,12,2002-01-26,2002-03-02,160,5
+122,Toya,Toya,16,2002-01-05,2002-03-09,160,9
+123,Beyond The Valley Of The Murderdolls,Murderdolls,1,2002-09-07,2002-10-05,158,5
+124,airdrawndagger,Sasha,5,2002-08-24,2002-09-28,155,6
+125,Desahogo,Pilar Montenegro,11,2002-05-25,2002-07-20,155,8
+126,Storm,Fernando Ortega,9,2002-02-23,2002-04-06,152,7
+127,Fast,Custom,2,2002-04-06,2002-05-04,151,5
+128,Shut Up,Kelly Osbourne,1,2002-12-14,2002-12-28,149,3
+129,Big Ballin,Lil Blacky,13,2002-01-26,2002-02-23,149,5
+130,I Get Wet,Andrew W.K.,1,2002-04-13,2002-04-27,148,3
+131,Pinmonkey,Pinmonkey,3,2002-10-26,2002-11-16,148,4
+132,Into Motion,Salvador,8,2002-06-22,2002-08-10,148,8
+133,Sevas Tra,Otep,2,2002-07-06,2002-08-10,147,6
+134,Viceversa,Gilberto Santa Rosa,7,2002-09-21,2002-10-19,147,5
+135,The Fallout,Default,1,2002-01-05,2002-01-19,145,3
+136,Have You Fed The Fish?,Badly Drawn Boy,1,2002-11-23,2002-12-14,142,4
+137,Las Ketchup,Las Ketchup,1,2002-10-05,2002-10-26,141,4
+138,Chapter 2: The Voice,Syleena Johnson,2,2002-12-14,2002-12-28,141,3
+139,Sometimes I Dream,Mario Frangoulis,13,2002-11-23,2002-12-28,140,5
+140,Back To Then,Darius Rucker,1,2002-08-17,2002-09-07,139,4
+141,Acustico,Ednita Nazario,9,2002-08-17,2002-09-21,137,5
+142,Dance Mix NYC -- Vol. 2,The Riddler,14,2002-08-24,2002-09-28,136,6
+143,Las Romanticas De Los Tucanes De Tijuana,Los Tucanes de Tijuana,20,2002-02-23,2002-04-06,131,7
+144,Made In The Dirdy South,Calhouns,5,2002-09-07,2002-09-28,129,4
+145,Ralph Stanley,Ralph Stanley,5,2002-06-29,2002-08-03,127,5
+146,This Time Of The Year,Steve Tyrell,18,2002-11-30,2002-12-28,127,5
+147,My Bad,Rayvon,20,2002-07-13,2002-08-10,127,5
+148,Santo Pecado,Ricardo Arjona,5,2002-12-14,2002-12-28,124,3
+149,In The Sun,Jane Monheit,5,2002-10-05,2002-11-02,124,5
+150,Charango,Morcheeba,8,2002-08-03,2002-08-24,123,4
+151,Cledus Navidad,Cledus T. Judd,11,2002-11-30,2002-12-28,122,5
+152,A Smooth Jazz Christmas,Dave Koz And Friends,10,2002-01-05,2002-01-19,119,3
+153,Everythang's Gon' Be Different...,Dirty South,15,2002-02-02,2002-02-23,119,4
+154,All Right Here,Sara Groves,18,2002-09-07,2002-12-28,119,7
+155,Rock City,"Royce da 5'9""",6,2002-12-14,2002-12-28,118,3
+156,New Found Glory,New Found Glory,14,2002-01-05,2002-02-09,115,6
+157,Black Ivory Soul,Angelique Kidjo,20,2002-04-20,2002-07-13,115,10
+158,Sensational Life,Women Of Faith,8,2002-06-15,2002-10-26,113,5
+159,Lifestyles,The Katinas,9,2002-07-06,2002-08-03,111,5
+160,83/93: An Anthology,Uncle Tupelo,8,2002-04-06,2002-05-18,109,6
+161,Live For Today (EP),BoySetsFire,9,2002-09-28,2002-10-19,109,4
+162,De Un Solo Sentimiento,Charlie Zaa,20,2002-02-16,2002-05-25,107,8
+163,The Irish Tenors: Ellis Island,Anthony Kearns/Ronan Tynan/Finbar Wright,7,2002-01-05,2002-04-13,105,6
+164,Any Time Now,O.A.R.,4,2002-05-25,2002-08-31,104,5
+165,Amor Secreto,Luis Fonsi,1,2002-03-30,2002-04-20,103,4
+166,The Deep End Volume 2,Gov't Mule,2,2002-10-26,2002-11-09,103,3
+167,Dance Party (Like It's 2003),The Happy Boys,18,2002-11-23,2002-12-21,103,5
+168,Something More,Ginny Owens,22,2002-04-06,2002-07-27,103,7
+169,"Live On St. Patrick's Day From Boston, MA At The Avalon Ballroom",Dropkick Murphys,3,2002-09-28,2002-10-19,102,4
+170,Not To Us,Chris Tomlin,5,2002-09-28,2002-12-14,100,6
+171,Truthless Heros,Project 86,4,2002-10-12,2002-11-02,99,4
+172,Nothing,Meshuggah,6,2002-08-24,2002-09-14,99,4
+173,Josh Groban,Josh Groban,1,2002-01-05,2002-01-12,98,2
+174,Groovology,Gerald Albright,28,2002-07-06,2002-08-10,98,5
+175,Play (EP),Play,2,2002-07-13,2002-07-20,97,2
+176,Historia Musical: 30 Pegaditas,Los Acosta,26,2002-08-17,2002-10-05,97,8
+177,Purple Onion,The Les Claypool Frog Brigade,3,2002-10-12,2002-11-02,96,4
+178,The Christmas Shoes,NewSong,4,2002-01-05,2002-01-19,94,3
+179,En Vivo: Desde La Plaza El Progreso De Guadalajara,Joan Sebastian,28,2002-01-12,2002-03-02,94,7
+180,Rooty,Basement Jaxx,32,2002-01-12,2002-04-20,94,9
+181,A La Reconquista,Hector & Tito,9,2002-11-23,2002-12-07,92,3
+182,The Very Best Of James Galway,James Galway,15,2002-07-13,2002-08-10,92,5
+183,Corazon De Perico,Los Razos,21,2002-05-11,2002-06-08,92,5
+184,God Loves Ugly,Atmosphere,1,2002-06-29,2002-07-06,91,2
+185,Trik Turner,Trik Turner,5,2002-03-16,2002-03-23,91,2
+186,1919 * Eternal,Black Label Society,6,2002-03-23,2002-04-06,91,3
+187,Reincarnated,918,17,2002-04-27,2002-06-01,91,5
+188,"Love, Shelby",Shelby Lynne,29,2002-01-05,2002-02-09,91,6
+189,New Earth Mud,Chris Robinson,2,2002-11-09,2002-11-23,89,3
+190,Resonate,Sonicflood,12,2002-01-05,2002-01-26,87,4
+191,Soy Asi,Limite,20,2002-12-07,2002-12-28,87,4
+192,Rendezvous,Walter Beasley,32,2002-01-26,2002-03-09,87,7
+193,My Time,Choobakka,18,2002-04-27,2002-06-01,86,5
+194,beautiful,Brent Jones & The T.P. Mobb,19,2002-05-04,2002-06-01,85,5
+195,O2,Tonex,20,2002-04-27,2002-05-25,85,5
+196,Walking By Faith,The Canton Spirituals,15,2002-07-13,2002-08-10,84,5
+197,Uninvisible,Medeski Martin & Wood,10,2002-04-27,2002-05-18,82,4
+198,Easy,Kelly Willis,17,2002-09-07,2002-09-21,80,3
+199,Born,Bond,17,2002-01-05,2002-03-16,80,5
+200,From The Inside,Laura Pausini,15,2002-11-23,2002-12-07,78,3
+201,Hymns,Shirley Caesar,25,2002-01-05,2002-03-09,77,7
+202,Acustico Vol. 2,Ednita Nazario,1,2002-12-07,2002-12-21,76,3
+203,Early In The Game,NAAM Brigade,23,2002-10-12,2002-11-16,76,5
+204,Engage,Pax217,11,2002-06-08,2002-06-22,75,3
+205,If That Ain't Country,Anthony Smith,16,2002-09-07,2002-09-21,73,3
+206,Destination Unknown,Mest,19,2002-01-12,2002-02-09,72,3
+207,Topsy-Turvy,The Apex Theory,6,2002-04-20,2002-07-06,71,3
+208,Fashionably Late,Linda Thompson,15,2002-08-17,2002-08-31,71,3
+209,Souljacker,eels,15,2002-03-30,2002-04-20,71,4
+210,The Art Of Translation,Grits,22,2002-08-31,2002-12-14,71,4
+211,Praise Is What I Do,Shekinah Glory Ministry,35,2002-07-27,2002-12-07,71,9
+212,Crucible,Halford,2,2002-07-13,2002-07-20,70,2
+213,Keepin It Real,Camoflauge,26,2002-09-14,2002-10-12,67,5
+214,From One,Ra,13,2002-11-09,2002-12-07,66,3
+215,Sing Sing Death House,The Distillers,30,2002-11-02,2002-11-30,66,5
+216,Origenes,Alejandro Fernandez,37,2002-01-05,2002-03-02,66,5
+217,Fortunate,Lathun,8,2002-06-29,2002-07-06,65,2
+218,Soma Holiday,Greenwheel,14,2002-07-13,2002-11-02,65,4
+219,Group Therapy,The Faculty,17,2002-08-03,2002-08-10,65,2
+220,Another Happy Ending,The Clarks,2,2002-06-29,2002-07-06,64,2
+221,Now You Know,Doug Martsch,6,2002-10-05,2002-10-12,64,2
+222,Perfecting Loneliness,Jets To Brazil,9,2002-11-02,2002-11-09,64,2
+223,Movies For The Blind,Cage,12,2002-08-24,2002-08-31,64,2
+224,Five Stories Falling (EP),Thursday,6,2002-11-09,2002-11-16,63,2
+225,How To Ruin Everything,Face To Face,12,2002-04-27,2002-05-04,63,2
+226,35 Aniversario...Lo Mejor De Lara,Vicente Fernandez,20,2002-12-14,2002-12-28,63,3
+227,Bonita Mujer,Los Angeles de Charly,24,2002-10-26,2002-11-09,63,3
+228,Fantastic Damage,EL-P,9,2002-06-01,2002-06-08,62,2
+229,Standard Time,Steve Tyrell,24,2002-01-19,2002-02-16,62,5
+230,Since I Left You,The Avalanches,31,2002-01-19,2002-02-09,62,4
+231,Precious,Ours,3,2002-11-23,2002-11-30,60,2
+232,An American Composer In Concert,Tim Janis,18,2002-02-02,2002-08-24,60,2
+233,Tammy Cochran,Tammy Cochran,33,2002-01-05,2002-02-16,60,7
+234,Universal Truths And Cycles,Guided By Voices,3,2002-07-06,2002-07-13,59,2
+235,Storytelling (Soundtrack),Belle And Sebastian,4,2002-06-22,2002-06-29,59,2
+236,Respect The Game Vol. 3,Legit Ballaz,13,2002-08-10,2002-08-17,59,2
+237,Before The Storm,Darude,28,2002-01-12,2002-02-02,59,4
+238,Kings Of Pop,Home Grown,6,2002-07-13,2002-07-20,58,2
+239,Lil' Chopper Toy,Baby D,19,2002-09-28,2002-10-05,58,2
+240,California Crossing,Fu Manchu,10,2002-02-23,2002-03-02,57,2
+241,"Shut Up, You Fucking Baby!",David Cross,18,2002-11-23,2002-11-30,57,2
+242,Can You Hear Us?,David Crowder Band,14,2002-03-16,2002-03-23,56,2
+243,Water's Edge,Tim Janis,10,2002-02-02,2002-03-23,55,2
+244,Naked,Amber,20,2002-09-07,2002-09-21,55,3
+245,The Politics Of Dancing,Paul Van Dyk,30,2002-01-12,2002-01-26,55,3
+246,Reroute To Remain,In Flames,10,2002-09-21,2002-09-28,54,2
+247,God Bless The U.S.A. -- Kids Sing Songs For America,St. John's Children's Choir,28,2002-01-05,2002-07-20,54,3
+248,Touch,delirious?,34,2002-12-07,2002-12-28,54,4
+249,30 Inolvidables,Los Bukis,20,2002-12-21,2002-12-28,53,2
+250,Game,KHM,26,2002-08-10,2002-09-07,53,5
+251,Last Stop Suburbia,Allister,9,2002-10-26,2002-11-02,52,2
+252,Soy Lo Prohibido,Alicia Villarreal,23,2002-02-16,2002-03-23,51,4
+253,Waitin' On Joe,Steve Azar,31,2002-05-04,2002-06-29,51,6
+254,Nobody But You,Norman Hutchins,36,2002-06-29,2002-08-31,51,7
+255,Nivea,Nivea,1,2002-12-28,2002-12-28,50,1
+256,Hoobastank,Hoobastank,1,2002-01-05,2002-01-05,50,1
+257,In Violet Light,The Tragically Hip,6,2002-06-29,2002-07-06,50,2
+258,Home From Home,Millencolin,22,2002-03-30,2002-04-13,50,3
+259,Glow,Peter White,34,2002-01-05,2002-02-09,50,6
+260,Sobrevivir,Olga Tanon,16,2002-12-07,2002-12-21,49,3
+261,Come Away With Me,Norah Jones,5,2002-03-16,2002-03-16,46,1
+262,Enter The Life Of Suella,Pretty Willie,22,2002-04-13,2002-04-20,46,2
+263,Plastic Fang,The Jon Spencer Blues Explosion,16,2002-04-27,2002-05-04,45,2
+264,Dandole Vuelo A La Hilacha,Los Razos,28,2002-11-09,2002-11-23,44,3
+265,Mas De Lo Que Merecias,Chuy Vega,23,2002-11-09,2002-11-16,43,2
+266,Bellas Artes En Vivo: Un Canto De Mexico,Alejandro Fernandez,26,2002-12-21,2002-12-28,43,2
+267,Genetic World,Telepopmusik,28,2002-11-16,2002-11-23,43,2
+268,Vic Latino Presents: 80's NOW!,Vic Latino,29,2002-10-26,2002-11-09,43,3
+269,An American Paradox,Strung Out,9,2002-05-11,2002-05-11,42,1
+270,Someone To Love You,Kim Waters,28,2002-10-12,2002-11-02,42,4
+271,Geogaddi,Boards Of Canada,19,2002-03-09,2002-03-16,41,2
+272,Dawn,Dawn Robinson,22,2002-02-16,2002-02-23,41,2
+273,Constant,Watermark,28,2002-05-18,2002-05-25,41,2
+274,El Numero 100,Ramon Ayala y Sus Bravos del Norte,35,2002-05-04,2002-06-01,41,5
+275,We Win!,Alicia,11,2002-11-02,2002-11-02,40,1
+276,Sinch,Sinch,11,2002-08-17,2002-08-17,40,1
+277,Free All Angels,Ash,11,2002-07-13,2002-07-13,40,1
+278,You Can Play These Songs With Chords,Death Cab For Cutie,19,2002-11-09,2002-11-16,40,2
+279,I Phantom,Mr. Lif,20,2002-10-05,2002-10-12,40,2
+280,Alive!,Snot,12,2002-08-17,2002-08-17,39,1
+281,200 KM/H In The Wrong Lane,t.A.T.u.,12,2002-12-28,2002-12-28,39,1
+282,Left Of Self-Centered,Butch Walker,12,2002-07-27,2002-07-27,39,1
+283,Rock N Roll Gangster,Fieldy's Dreams,15,2002-02-09,2002-02-16,39,2
+284,The Future Is Now,Non Phixion,14,2002-05-11,2002-05-11,37,1
+285,Grandes Hits,Cristian,33,2002-10-12,2002-11-02,37,3
+286,Earl Scruggs And Friends,Earl Scruggs And Friends,34,2002-01-05,2002-03-16,37,3
+287,The Ring,Keiko Matsui,35,2002-10-26,2002-11-16,37,4
+288,Irony Is A Dead Scene (EP),The Dillinger Escape Plan With Mike Patton,16,2002-09-14,2002-09-14,35,1
+289,Outside The Lines,Cory Morrow,16,2002-03-09,2002-03-09,35,1
+290,Learning From Falling,Lamya,16,2002-08-17,2002-08-17,35,1
+291,Cross Canadian Ragweed,Cross Canadian Ragweed,16,2002-09-28,2002-09-28,35,1
+292,Deliverance,Opeth,16,2002-11-30,2002-11-30,35,1
+293,Don't Give Up On Me,Solomon Burke,27,2002-09-07,2002-09-14,35,2
+294,Your Majesty,The Anniversary,17,2002-02-09,2002-02-09,34,1
+295,The Art Of Balance,Shadows Fall,17,2002-10-05,2002-10-05,34,1
+296,Yanqui U.X.O.,Godspeed You! Black Emperor,34,2002-11-30,2002-12-07,33,2
+297,Jools Holland's Big Band Rhythm & Blues Orchestra,Jools Holland & His Rhythm & Blues Orchestra,19,2002-02-02,2002-02-02,32,1
+298,Perro Malagradecido,Los Originales de San Juan,28,2002-08-17,2002-08-24,32,2
+299,Joyful Noise,The Derek Trucks Band,20,2002-09-21,2002-09-21,31,1
+300,The Illusion Of Safety,Thrice,20,2002-02-23,2002-02-23,31,1
+301,Informal Introduction,Shade Sheist,20,2002-09-28,2002-09-28,31,1
+302,Kill The Moonlight,Spoon,24,2002-09-07,2002-09-14,31,2
+303,Eudora,The Get Up Kids,35,2002-01-12,2002-01-19,31,2
+304,Agaetis Byrjun,Sigur Ros,36,2002-01-19,2002-02-02,31,3
+305,Sharpen Your Teeth,Ugly Casanova,21,2002-06-08,2002-06-08,30,1
+306,1st Class,Large Professor,21,2002-10-26,2002-10-26,30,1
+307,Fight The Feeling,Luis Fonsi,21,2002-07-20,2002-07-20,30,1
+308,projectHUMAN,Dieselboy,26,2002-04-06,2002-04-13,30,2
+309,One All,Neil Finn,26,2002-06-08,2002-06-15,30,2
+310,Uberjam,The John Scofield Band,29,2002-02-16,2002-02-23,30,2
+311,Geoff Tate,Geoff Tate,22,2002-07-13,2002-07-13,29,1
+312,A Thousand Summers,Tim Janis,22,2002-08-24,2002-08-24,29,1
+313,God Bless America: The Light Of Freedom,The 101 Strings Orchestra,22,2002-07-20,2002-07-20,29,1
+314,Romantica,Luna,23,2002-05-11,2002-05-11,28,1
+315,El Cielo,Dredg,23,2002-10-26,2002-10-26,28,1
+316,Electric,Jack Ingram,23,2002-06-22,2002-06-22,28,1
+317,A Day N A Life...,Rozelly Presents Da Fam,37,2002-11-09,2002-11-23,28,3
+318,Chase The Sun,Shannon Lawson,24,2002-06-22,2002-06-22,27,1
+319,To Whom It May Concern,Splender,24,2002-09-21,2002-09-21,27,1
+320,Divine Operating System,Supreme Beings Of Leisure,29,2002-09-28,2002-10-05,27,2
+321,Sharing The Season 4,Lorie Line,34,2002-12-07,2002-12-28,27,3
+322,Song Cinema,Mark Schultz,25,2002-01-05,2002-01-05,26,1
+323,Caution,Hot Water Music,25,2002-10-26,2002-10-26,26,1
+324,Parade Of Chaos,Zao,25,2002-08-03,2002-08-03,26,1
+325,Vida Blue,Vida Blue,25,2002-07-13,2002-07-13,26,1
+326,Paulina,Paulina Rubio,32,2002-01-19,2002-03-02,26,3
+327,South,Heather Nova,36,2002-06-08,2002-06-15,26,2
+328,Amazed,Lincoln Brewster,26,2002-08-03,2002-08-03,25,1
+329,Audioboxer (EP),Something Corporate,27,2002-03-23,2002-04-06,25,2
+330,Drunk Enough To Dance,Bowling For Soup,31,2002-09-07,2002-11-02,25,2
+331,The Swiss Army Romance,Dashboard Confessional,39,2002-07-06,2002-08-10,25,4
+332,You Have Reached Mike Phillips,Mike Phillips,26,2002-06-01,2002-06-01,24,1
+333,Hard Rock Bottom,No Use For A Name,27,2002-07-06,2002-07-06,24,1
+334,Hindsight,John Reuben,28,2002-06-08,2002-06-08,23,1
+335,Earth Music,Junior Vasquez,28,2002-04-27,2002-04-27,23,1
+336,All Of The Above,J-Live,28,2002-04-20,2002-04-20,23,1
+337,Gore Obsessed,Cannibal Corpse,28,2002-03-16,2002-03-16,23,1
+338,Light & Magic,Ladytron,31,2002-10-05,2002-10-12,23,2
+339,Wings Of A Honky Tonk Angel,Brad Martin,32,2002-07-06,2002-07-13,23,2
+340,A Hillbilly Tribute To Mountain Love,Hayseed Dixie,38,2002-06-08,2002-06-15,23,2
+341,Bernadette Peters Loves Rodgers & Hammerstein,Bernadette Peters,39,2002-03-30,2002-04-13,23,2
+342,Here Comes The Zoo,Local H,29,2002-03-23,2002-03-23,22,1
+343,End Transmission,Snapcase,29,2002-10-12,2002-10-12,22,1
+344,Wood/Water,The Promise Ring,29,2002-05-11,2002-05-11,22,1
+345,Handcream For A Generation,Cornershop,31,2002-05-11,2002-05-18,22,2
+346,Swordfish: The Album (Soundtrack),Paul Oakenfold,39,2002-01-12,2002-01-19,22,2
+347,Boss Hogg Outlaws,E.S.G. & Slim Thug,30,2002-03-09,2002-03-09,21,1
+348,Waiting For My Rocket To Come,Jason Mraz,30,2002-11-02,2002-11-02,21,1
+349,Feelin' You,Andre Ward,30,2002-02-16,2002-02-16,21,1
+350,Cliches,Greg O'Quin 'N Joyful Noyze,37,2002-02-02,2002-02-09,21,2
+351,A Time To Remember,John McDermott,38,2002-03-23,2002-04-06,21,3
+352,Tell All Your Friends,Taking Back Sunday,41,2002-12-14,2002-12-28,21,3
+353,See The Light,True Vibe,41,2002-09-07,2002-09-21,21,3
+354,I Need You Now,Smokie Norful,43,2002-09-14,2002-11-23,21,3
+355,Tha Collabo,Big Bokey And Wreckshop Wolfpack,31,2002-02-23,2002-02-23,20,1
+356,Star Kitty's Revenge,Joi,31,2002-04-06,2002-04-06,20,1
+357,Genuine,Stacie Orrico,31,2002-01-05,2002-01-05,20,1
+358,Conceived In Fire,Living Sacrifice,31,2002-10-12,2002-10-12,20,1
+359,Dirty District,Slum Village,34,2002-07-13,2002-07-27,20,2
+360,Sissel,Sissel,35,2002-11-16,2002-11-23,20,2
+361,Happenstance,Fozzy,32,2002-08-17,2002-08-17,19,1
+362,Lucky 7,Reverend Horton Heat,32,2002-03-16,2002-03-16,19,1
+363,Sixwire,Sixwire,32,2002-09-14,2002-09-14,19,1
+364,Round One: The Album,"Roy Jones, Jr.",34,2002-03-16,2002-03-23,19,2
+365,Glad About It!,Joe Pace & The Colorado Mass Choir,37,2002-03-09,2002-05-18,19,5
+366,Journey For The Heart,Blessed,39,2002-02-09,2002-02-16,19,2
+367,Alas Al Mundo,Los Angeles Azules,42,2002-04-20,2002-05-25,19,4
+368,MMII,John Digweed,33,2002-06-22,2002-06-22,18,1
+369,Rise,Rubyhorse,33,2002-06-08,2002-06-08,18,1
+370,Morning Wood,Rodney Carrington,41,2002-01-05,2002-01-12,18,2
+371,Miss Fortune,Allison Moorer,34,2002-08-24,2002-08-24,17,1
+372,Unshakeable,Acquire The Fire,34,2002-05-04,2002-05-04,17,1
+373,Happy Valentine's Day,The Hit Crew,34,2002-03-02,2002-03-02,17,1
+374,Blacklisted,Neko Case,34,2002-09-07,2002-09-07,17,1
+375,Echobrain,Echobrain,34,2002-03-23,2002-03-23,17,1
+376,reVoltingRoom,Skinlab,35,2002-06-15,2002-06-15,16,1
+377,Tear From The Red,Poison The Well,36,2002-03-09,2002-03-09,15,1
+378,Once In A Red Moon,Secret Garden,36,2002-04-20,2002-04-20,15,1
+379,downthesun,downthesun,37,2002-10-19,2002-10-19,14,1
+380,In Our Gun,Gomez,37,2002-04-13,2002-04-13,14,1
+381,From The Screen To Your Stereo (EP),New Found Glory,37,2002-01-12,2002-01-12,14,1
+382,Woven In Time,Steve Green,37,2002-05-04,2002-05-04,14,1
+383,Alive Or Just Breathing,Killswitch Engage,37,2002-06-08,2002-06-08,14,1
+384,Godlike,Natas,45,2002-06-15,2002-07-20,14,3
+385,Emergency Rations,Mr. Lif,38,2002-07-13,2002-07-13,13,1
+386,Bel Canto,Renee Fleming,38,2002-11-09,2002-11-09,13,1
+387,After The Playboy Mansion,Dimitri From Paris,39,2002-03-09,2002-03-09,12,1
+388,New Map Of The World,Paul Colman Trio,39,2002-06-08,2002-06-08,12,1
+389,Christmas With Chanticleer,Chanticleer Featuring Dawn Upshaw,39,2002-01-05,2002-01-05,12,1
+390,Sounds From The Verve Hi-Fi,Thievery Corporation,43,2002-02-16,2002-02-23,12,2
+391,All Sides,LMNT,40,2002-06-22,2002-06-22,11,1
+392,Sin Bandera,Sin Bandera,40,2002-10-05,2002-10-05,11,1
+393,Vuela Muy Alto,Jerry Rivera,40,2002-08-31,2002-08-31,11,1
+394,30 Inolvidables,Industria del Amor,43,2002-12-14,2002-12-21,11,2
+395,"Joy, Grace, Love & Peace",Women Of Faith,44,2002-10-05,2002-10-19,11,2
+396,Contra Music Presents: Promatic,Promatic,45,2002-09-14,2002-09-28,11,2
+397,Resonance,Mad At Gravity,41,2002-08-03,2002-08-03,10,1
+398,Last Call For Vitriol,Superdrag,41,2002-07-27,2002-07-27,10,1
+399,La Negra Tiene Tumbao,Celia Cruz,42,2002-10-05,2002-10-05,9,1
+400,The Embodiment Of Instrumentation,Scratch,42,2002-06-22,2002-06-22,9,1
+401,Ready Ready Set Go,Simon And Milo,42,2002-06-29,2002-06-29,9,1
+402,Five Iron Frenzy 2: Electric Boogaloo,Five Iron Frenzy,42,2002-01-05,2002-01-05,9,1
+403,Wanna Buy A Monkey?,Dan The Automator,42,2002-03-09,2002-03-09,9,1
+404,Life,Dope,42,2002-01-12,2002-01-12,9,1
+405,Crazy Vibes and Things,Down To The Bone,45,2002-06-15,2002-06-22,9,2
+406,Party Time 2002,DJ Escape,45,2002-01-19,2002-01-26,9,2
+407,Look Both Ways Before You Cross Me,Truck Turner,43,2002-10-12,2002-10-12,8,1
+408,Little Big Town,Little Big Town,43,2002-06-08,2002-06-08,8,1
+409,Zoegirl,ZOEgirl,43,2002-01-05,2002-01-05,8,1
+410,Out From Out Where,Amon Tobin,43,2002-11-02,2002-11-02,8,1
+411,Gangstas Doin' Gangsta S#@t!,Fear No M.O.B.,45,2002-02-16,2002-02-23,8,2
+412,The Best Of Ho! Ho! Hoey!,Gary Hoey,44,2002-01-05,2002-01-05,7,1
+413,Something Wikid This Way Comes...,Midwikid,44,2002-10-19,2002-10-19,7,1
+414,Saturate,Jeff Deyo,46,2002-04-13,2002-04-20,7,2
+415,Lo Dijo El Corazon,Joan Sebastian,48,2002-03-02,2002-03-30,7,3
+416,Fly2K,Playa Fly,45,2002-12-07,2002-12-07,6,1
+417,7 Worlds Collide: Live At The St. James,Neil Finn,45,2002-03-16,2002-03-16,6,1
+418,Blue Country Heart,Jorma Kaukonen,45,2002-06-29,2002-06-29,6,1
+419,Songs About Jane,Maroon 5,45,2002-12-21,2002-12-21,6,1
+420,Constantly,Rev. Clay Evans And The AARC Mass Choir,45,2002-02-02,2002-02-02,6,1
+421,Christmas Wish (EP),Stacie Orrico,45,2002-01-05,2002-01-05,6,1
+422,Millennium Monsterwork 2000,Fantomas+Melvins=Big Band,45,2002-04-20,2002-04-20,6,1
+423,Split (EP),Alkaline Trio/Hot Water Music,45,2002-02-09,2002-02-09,6,1
+424,Modulate,Bob Mould,45,2002-03-30,2002-03-30,6,1
+425,Phonosynthesis,DJ Irene,46,2002-06-22,2002-06-22,5,1
+426,Mushroom Jazz 4,DJ Mark Farina,46,2002-11-23,2002-11-23,5,1
+427,Welcome To Discovery Park,Brad,46,2002-08-31,2002-08-31,5,1
+428,Da Sky's Da Limit,Big Pokey,46,2002-08-24,2002-08-24,5,1
+429,Burning The Process,Pressure 4-5,46,2002-01-12,2002-01-12,5,1
+430,The Art Of Cecilia Bartoli,Cecilia Bartoli,46,2002-10-19,2002-10-19,5,1
+431,Joy Williams,Joy Williams,46,2002-08-17,2002-08-17,5,1
+432,Under Cold Blue Star,Josh Rouse,46,2002-03-09,2002-03-09,5,1
+433,Confesiones...,Monchy & Alexandra,47,2002-03-30,2002-06-22,5,2
+434,El Autentiko Y Unico En Vivo,El Poder del Norte,47,2002-01-26,2002-02-02,5,2
+435,True Vibe,True Vibe,47,2002-01-05,2002-01-05,4,1
+436,Everybody Got Their Something,Nikka Costa,47,2002-01-12,2002-01-12,4,1
+437,Loud,Timo Maas,47,2002-04-06,2002-04-06,4,1
+438,The Family Album,Roy D. Mercer,47,2002-08-17,2002-08-17,4,1
+439,Myra,Myra,47,2002-01-19,2002-01-19,4,1
+440,Bob & Tom Gone Wild,Bob & Tom,47,2002-12-28,2002-12-28,4,1
+441,Family Busine$$,Power Houze,48,2002-04-13,2002-04-13,3,1
+442,Kutless,Kutless,48,2002-12-28,2002-12-28,3,1
+443,Black Letter Days,Frank Black & The Catholics,48,2002-09-07,2002-09-07,3,1
+444,Suena La Banda,Los Tucanes de Tijuana,48,2002-12-07,2002-12-07,3,1
+445,Fuzzy Logic,David Benoit,49,2002-03-02,2002-03-02,2,1
+446,Michael Feinstein With The Israel Philharmonic Orchestra,Michael Feinstein,49,2002-06-29,2002-06-29,2,1
+447,The Living Room Sessions: Christmas,Chris Rice,49,2002-01-05,2002-01-05,2,1
+448,Skidaddle!,Buck Howdy,49,2002-12-21,2002-12-21,2,1
+449,Jugo A La Vida,Los Tucanes de Tijuana,49,2002-08-17,2002-08-17,2,1
+450,The Art Of Drowning,AFI,50,2002-01-12,2002-01-12,1,1
+451,Sunburnt,Lil Sun,50,2002-02-09,2002-02-09,1,1
+452,Perpetual Motion,Bela Fleck,50,2002-01-05,2002-01-05,1,1
+453,I'm Not Anybody's Girl,Kaci,50,2002-08-03,2002-08-03,1,1
+454,Fuerza Musical,Palomo,50,2002-02-23,2002-02-23,1,1
+455,Welcome To The Village!,Pastor Kirbyjon Caldwell And The Windsor Village UMC Mass Choir,50,2002-10-26,2002-10-26,1,1

@@ -1,0 +1,157 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Blinding Lights,The Weeknd,1,2021-01-02,2021-10-23,1268,43
+2,Kings & Queens,Ava Max,3,2021-01-02,2021-11-20,1146,47
+3,Before You Go,Lewis Capaldi,2,2021-01-02,2021-09-25,1080,39
+4,Levitating,Dua Lipa,1,2021-03-27,2021-12-25,1052,40
+5,I Hope,Gabby Barrett Featuring Charlie Puth,2,2021-01-02,2021-09-04,976,36
+6,Willow,Taylor Swift,6,2021-01-09,2021-10-16,944,41
+7,Save Your Tears,The Weeknd,2,2021-03-13,2021-12-25,932,42
+8,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),6,2021-03-27,2021-11-27,781,36
+9,Arcade,Duncan Laurence,9,2021-03-06,2021-11-27,715,39
+10,Break My Heart,Dua Lipa,4,2021-01-02,2021-07-10,693,28
+11,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,7,2021-03-27,2021-12-04,680,37
+12,Bad Habits,Ed Sheeran,1,2021-07-10,2021-12-25,617,25
+13,Watermelon Sugar,Harry Styles,7,2021-01-09,2021-07-10,597,27
+14,Adore You,Harry Styles,2,2021-01-02,2021-05-08,530,19
+15,All I Know So Far,P!nk,9,2021-05-22,2021-11-13,485,26
+16,Drivers License,Olivia Rodrigo,9,2021-02-20,2021-08-14,463,26
+17,Holy,Justin Bieber Featuring Chance The Rapper,8,2021-01-02,2021-05-29,456,22
+18,Cold Heart (PNAU Remix),Elton John & Dua Lipa,5,2021-08-28,2021-12-25,406,18
+19,Leave Before You Love Me,Marshmello X Jonas Brothers,6,2021-06-19,2021-12-18,389,26
+20,Don't Start Now,Dua Lipa,5,2021-01-09,2021-04-03,334,13
+21,Afterglow,Ed Sheeran,11,2021-01-09,2021-05-22,311,20
+22,Good 4 U,Olivia Rodrigo,12,2021-07-03,2021-12-04,303,23
+23,Stay,The Kid LAROI & Justin Bieber,10,2021-09-04,2021-12-25,285,17
+24,Easy On Me,Adele,1,2021-10-23,2021-12-25,281,10
+25,Amen,for KING & COUNTRY,13,2021-06-19,2021-10-23,281,19
+26,Anyone,Justin Bieber,13,2021-04-10,2021-09-11,281,23
+27,The Good Ones,Gabby Barrett,12,2021-07-17,2021-11-27,273,20
+28,Put Your Records On,Ritt Momney,14,2021-04-24,2021-09-04,262,20
+29,Lonely,Justin Bieber & benny blanco,14,2021-02-20,2021-07-24,260,22
+30,Diamonds,Sam Smith,11,2021-01-02,2021-04-10,259,15
+31,Hold On To Me,Lauren Daigle,14,2021-07-03,2021-11-06,233,19
+32,Intentions,Justin Bieber Featuring Quavo,7,2021-01-09,2021-03-13,228,10
+33,Circles,Post Malone,3,2021-01-09,2021-02-27,218,8
+34,You Broke Me First.,Tate McRae,15,2021-05-08,2021-09-18,214,19
+35,Rain On Me,Lady Gaga & Ariana Grande,11,2021-01-09,2021-03-20,199,11
+36,ily,Surf Mesa Featuring Emilee,14,2021-05-08,2021-08-14,197,15
+37,Bang!,AJR,17,2021-02-06,2021-06-19,195,20
+38,Move,"Santana, Rob Thomas & American Authors",11,2021-09-25,2021-12-18,188,13
+39,Story Of Love,Bon Jovi,13,2021-02-13,2021-05-01,170,12
+40,Shivers,Ed Sheeran,11,2021-10-09,2021-12-25,163,12
+41,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,17,2021-08-28,2021-12-11,152,16
+42,Golden,Harry Styles,18,2021-02-20,2021-07-03,149,18
+43,Levitating,Dua Lipa Featuring DaBaby,11,2021-01-09,2021-03-20,148,11
+44,Let It Snow! (10th Anniversary),Michael Buble,1,2021-11-20,2021-12-25,142,6
+45,Mood,24kGoldn Featuring iann dior,20,2021-03-13,2021-07-24,126,20
+46,Christmas Isn't Canceled (Just You),Kelly Clarkson,3,2021-11-20,2021-12-25,121,6
+47,Deja Vu,Olivia Rodrigo,19,2021-08-14,2021-12-11,115,16
+48,Hear Your Love,EM,20,2021-06-12,2021-09-11,109,14
+49,Small Town Christmas,Rob Thomas,6,2021-11-27,2021-12-25,105,5
+50,Fancy Like,Walker Hayes,16,2021-10-02,2021-11-27,99,9
+51,Therefore I Am,Billie Eilish,18,2021-05-08,2021-07-03,97,9
+52,My Universe,Coldplay x BTS,16,2021-11-06,2021-12-25,95,8
+53,New Day,Firerose Featuring Billy Ray Cyrus,19,2021-09-25,2021-11-20,94,9
+54,Officially Christmas,Dan + Shay,10,2021-11-27,2021-12-25,93,5
+55,Loyal Brave True,Christina Aguilera,12,2021-01-02,2021-02-06,93,6
+56,Love Again,Dua Lipa,16,2021-09-25,2021-11-27,92,10
+57,Dynamite,BTS,16,2021-01-02,2021-02-13,89,7
+58,Angels,Josh Groban,19,2021-02-13,2021-05-01,89,12
+59,Higher Power,Coldplay,20,2021-06-05,2021-08-07,84,10
+60,Kiss Me More,Doja Cat Featuring SZA,20,2021-08-28,2021-12-04,84,14
+61,Go Crazy,Chris Brown & Young Thug,21,2021-06-26,2021-10-16,81,13
+62,Favorite Time Of Year,Carrie Underwood,12,2021-11-27,2021-12-25,80,5
+63,Nobody's Love,Maroon 5,19,2021-01-09,2021-03-06,80,9
+64,Memories,Maroon 5,5,2021-01-09,2021-01-23,78,3
+65,Merry Christmas,Ed Sheeran & Elton John,2,2021-12-11,2021-12-25,76,3
+66,Forever Valentine,Charlie Wilson,18,2021-01-30,2021-03-20,76,8
+67,Seen (Io Si),Laura Pausini,19,2021-03-27,2021-05-15,70,8
+68,My Way,Aloe Blacc,19,2021-01-09,2021-02-27,69,8
+69,Renegade,Big Red Machine Featuring Taylor Swift,20,2021-07-24,2021-09-18,68,9
+70,The Christmas Sweater,Michael Buble,14,2021-12-04,2021-12-25,61,4
+71,Take My Breath,The Weeknd,21,2021-09-18,2021-12-11,60,10
+72,Lose Somebody,Kygo & OneRepublic,23,2021-01-09,2021-05-15,60,16
+73,Homesick,Veronika,20,2021-02-06,2021-03-27,58,8
+74,Rockin' Around The Christmas Tree,Meghan Trainor,16,2021-12-04,2021-12-25,55,4
+75,Without You,The Kid LAROI,23,2021-09-11,2021-11-20,55,10
+76,Conversations In The Dark,John Legend,21,2021-01-09,2021-04-03,54,10
+77,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,17,2021-01-02,2021-01-23,53,4
+78,One More Time,Rod Stewart,19,2021-10-23,2021-11-20,50,5
+79,Watchu Tryna Do?,GiGi Vega Featuring TEC,19,2021-05-15,2021-06-26,50,7
+80,Do What You Can,Bon Jovi,18,2021-01-09,2021-01-30,48,4
+81,Summer Of Love,Shawn Mendes & Tainy,20,2021-09-11,2021-10-30,47,8
+82,"Merry Christmas, Happy New Year",Ingrid Michaelson & Zooey Deschanel,20,2021-11-27,2021-12-25,46,5
+83,For What It's Worth,Pete Muller & The Kindred Souls,20,2021-01-30,2021-02-27,46,5
+84,Skate,Silk Sonic (Bruno Mars & Anderson .Paak),20,2021-09-04,2021-10-09,46,6
+85,Positions,Ariana Grande,22,2021-02-27,2021-08-07,46,9
+86,Lost,Maroon 5,23,2021-08-14,2021-10-16,46,10
+87,Say What You Mean,EM,23,2021-03-20,2021-05-08,43,8
+88,Little Drummer Boy (2020),for KING & COUNTRY,16,2021-12-11,2021-12-25,42,3
+89,Beggin',Maneskin,20,2021-11-20,2021-12-18,41,5
+90,I've Seen The Light,Lisa St. Lou,21,2021-01-30,2021-03-13,41,7
+91,White Christmas,Meghan Trainor Featuring Seth MacFarlane,1,2021-01-02,2021-01-09,35,2
+92,Wonder,Shawn Mendes,22,2021-01-09,2021-02-06,35,5
+93,Muse With A Dagger,Taylor Castro,23,2021-03-27,2021-05-08,33,7
+94,Light Of The World,Lauren Daigle,15,2021-12-18,2021-12-25,32,2
+95,Butter,BTS,25,2021-06-12,2021-08-21,32,10
+96,Ghost,Justin Bieber,23,2021-11-27,2021-12-25,30,5
+97,You Deserve It All,John Legend,19,2021-12-11,2021-12-25,29,3
+98,Lonely People,Pete Muller & The Kindred Souls,23,2021-07-17,2021-08-21,29,6
+99,Christmas Tree Farm (Old Timey Version),Taylor Swift,22,2021-12-04,2021-12-25,28,4
+100,Celebrate Me Home,Josh Groban,6,2021-01-02,2021-01-02,25,1
+101,Hallelujah,Carrie Underwood & John Legend,7,2021-01-02,2021-01-09,25,2
+102,If You Love Her,Forest Blakk,25,2021-05-22,2021-06-26,25,6
+103,This Is Christmas,Goo Goo Dolls,8,2021-01-02,2021-01-02,23,1
+104,High,Nya,23,2021-06-19,2021-07-10,23,4
+105,Hey World,Lee Brice,27,2021-02-27,2021-04-17,23,8
+106,Under The Mistletoe,Kelly Clarkson & Brett Eldredge,9,2021-01-02,2021-01-02,22,1
+107,Cardigan,Taylor Swift,21,2021-01-09,2021-01-30,22,4
+108,Love Story (Taylor's Version),Taylor Swift,25,2021-04-17,2021-06-05,22,8
+109,"Cuddle Up, Cozy Down Christmas",Dolly Parton & Michael Buble,10,2021-01-02,2021-01-02,21,1
+110,Do You?,April Rose Gabrielli,24,2021-09-18,2021-10-16,21,5
+111,Christmas Lights,Coldplay,11,2021-01-02,2021-01-02,20,1
+112,It's Your Night,aliensdontringdoorbells,23,2021-05-15,2021-06-05,19,4
+113,ily,surf mesa Featuring Emilee,26,2021-01-16,2021-02-13,19,5
+114,Oh Santa!,Mariah Carey Featuring Ariana Grande & Jennifer Hudson,13,2021-01-02,2021-01-02,18,1
+115,Rockin' Around The Christmas Tree,Justin Bieber,14,2021-01-02,2021-01-02,17,1
+116,Happy Xmas (War Is Over),John Legend,15,2021-01-02,2021-01-02,16,1
+117,I Need You Christmas,Jonas Brothers,16,2021-01-02,2021-01-02,15,1
+118,The Way,Pete Muller & The Kindred Souls,21,2021-05-15,2021-05-29,15,3
+119,Mittens,Train,22,2021-12-18,2021-12-25,15,2
+120,Just The Way,Parmalee x Blanco Brown,25,2021-08-07,2021-08-21,15,3
+121,Open Up A Window,Lavendine,25,2021-05-29,2021-06-19,15,4
+122,Heat Waves,Glass Animals,21,2021-12-18,2021-12-25,14,2
+123,Meet Me In The Middle,Kirk Covington - Cpt Kirk And The Devil Horns Featuring Cindy Herron-Braggs,25,2021-11-06,2021-11-20,14,3
+124,Princess,Olivia Rox,27,2021-10-23,2021-11-13,14,4
+125,Christmas Without You,Ava Max,18,2021-01-02,2021-01-02,13,1
+126,Chasing Shadows,Alicia Witt,26,2021-08-21,2021-09-18,13,5
+127,Black Like Me,Mickey Guyton,27,2021-04-10,2021-05-01,12,4
+128,Celebrate Me Home,Elizabeth Chan,21,2021-01-02,2021-01-02,10,1
+129,Christmas Don't Be Late,Norah Jones,26,2021-12-04,2021-12-25,10,2
+130,Daylight,aliensdontringdoorbells,27,2021-01-30,2021-02-13,10,3
+131,A Christmas Song (10th Anniversary),Elizabeth Chan,23,2021-11-27,2021-12-25,9,2
+132,(Everybody's Waitin' For) The Man With The Bag,Darren Criss Featuring Adam Lambert,27,2021-12-11,2021-12-25,9,3
+133,We Need A Little Christmas,Pentatonix,23,2021-01-02,2021-01-02,8,1
+134,Tired,McKenna Michels,29,2021-10-23,2021-11-13,7,4
+135,It's The Most Wonderful Time Of The Year,"Stevie Mackey, Jennifer Lopez & The Eleven",25,2021-01-02,2021-01-02,6,1
+136,Don't Worry Be Happy,Pete Muller & The Kindred Souls,26,2021-11-06,2021-11-13,6,2
+137,Break Your Heart,Kari Kirkland,28,2021-07-31,2021-08-28,6,3
+138,We're Good,Dua Lipa,29,2021-06-05,2021-07-17,5,3
+139,Better Days,NEIKED X Mae Muller X Polo G,27,2021-12-04,2021-12-04,4,1
+140,"Fa La La, HO HO HO",Jim Brickman Featuring Luke McMaster,27,2021-01-02,2021-01-02,4,1
+141,Thinking Of You,Macy Gray And The California Jet Club,27,2021-10-02,2021-10-02,4,1
+142,Someday,OneRepublic,28,2021-11-13,2021-11-20,4,2
+143,In Your Eyes,The Weeknd Featuring Kenny G,29,2021-01-16,2021-01-23,4,2
+144,One Last Song About Christmas,Goo Goo Dolls,28,2021-12-11,2021-12-11,3,1
+145,Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,28,2021-12-25,2021-12-25,3,1
+146,So Many Lies,Veronika,28,2021-01-09,2021-01-09,3,1
+147,Justified,Kacey Musgraves,28,2021-10-30,2021-10-30,3,1
+148,It's Christmastime,Olivia Rox Featuring Warren Hill,28,2021-01-02,2021-01-02,3,1
+149,Christmas Is Calling (Jolly Jones),Norah Jones,29,2021-12-04,2021-12-18,3,2
+150,Lonely Christmas,Wallis Featuring Schriver Sisters,29,2021-12-18,2021-12-25,3,2
+151,Let It Snow,Goo Goo Dolls,29,2021-01-02,2021-01-02,2,1
+152,I Want A Hippopotamus For Christmas (Hippo The Hero),Darren Criss,30,2021-12-25,2021-12-25,1,1
+153,I Called Mama,Tim McGraw,30,2021-01-16,2021-01-16,1,1
+154,The Christmas Song (Chestnuts Roasting On An Open Fire),"Nat ""King"" Cole & John Legend",30,2021-12-11,2021-12-11,1,1
+155,Up On The Housetop,Jane Lynch Featuring Kate Flannery & Tim Davis With The Tony Guerrero Quintet,30,2021-01-02,2021-01-02,1,1
+156,Fearless,Goo Goo Dolls,30,2021-01-23,2021-01-23,1,1

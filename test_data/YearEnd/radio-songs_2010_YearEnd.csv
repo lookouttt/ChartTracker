@@ -1,0 +1,311 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Need You Now,Lady Antebellum,1,2010-01-02,2010-10-16,4074,42
+2,OMG,Usher Feat. will.i.am,1,2010-04-17,2010-11-06,3237,30
+3,"Hey, Soul Sister",Train,5,2010-01-02,2010-10-23,3110,43
+4,TiK ToK,Ke$ha,1,2010-01-02,2010-07-10,3100,28
+5,California Gurls,Katy Perry Feat. Snoop Dogg,1,2010-05-29,2010-11-27,2983,27
+6,Nothin' On You,B.o.B Feat. Bruno Mars,1,2010-02-20,2010-08-21,2947,27
+7,Airplanes,B.o.B Feat. Haley Williams,2,2010-05-15,2010-11-20,2924,28
+8,Dynamite,Taio Cruz,2,2010-07-03,2010-12-25,2916,26
+9,Bad Romance,Lady Gaga,2,2010-01-02,2010-07-03,2869,27
+10,Love The Way You Lie,Eminem Feat. Rihanna,1,2010-07-03,2010-12-25,2799,26
+11,DJ Got Us Fallin' In Love,Usher Feat. Pitbull,2,2010-07-31,2010-12-25,2665,22
+12,Break Your Heart,Taio Cruz Feat. Ludacris,2,2010-03-13,2010-09-25,2633,29
+13,Just The Way You Are,Bruno Mars,1,2010-08-14,2010-12-25,2607,20
+14,Rude Boy,Rihanna,1,2010-02-27,2010-07-24,2488,22
+15,I Like It,Enrique Iglesias Feat. Pitbull,3,2010-06-19,2010-12-25,2326,28
+16,BedRock,Young Money Feat. Lloyd,1,2010-01-02,2010-05-29,2310,22
+17,Teenage Dream,Katy Perry,1,2010-08-07,2010-12-25,2195,21
+18,Telephone,Lady Gaga Feat. Beyonce,4,2010-01-02,2010-07-24,2195,30
+19,Cooler Than Me,Mike Posner,5,2010-05-22,2010-11-27,2162,28
+20,In My Head,Jason Derulo,4,2010-01-30,2010-08-14,2133,29
+21,Say Aah,Trey Songz Feat. Fabolous,4,2010-01-02,2010-06-12,2105,24
+22,Breakeven,The Script,9,2010-02-13,2010-10-09,2097,35
+23,Find Your Love,Drake,3,2010-05-22,2010-10-09,2072,21
+24,Sexy Chick,David Guetta Feat. Akon,3,2010-01-02,2010-05-22,2022,21
+25,Just A Dream,Nelly,3,2010-09-04,2010-12-25,1762,17
+26,Imma Be,The Black Eyed Peas,4,2010-01-09,2010-06-19,1731,23
+27,Replay,Iyaz,2,2010-01-02,2010-04-24,1681,17
+28,Billionaire,Travie McCoy Feat. Bruno Mars,5,2010-05-08,2010-10-16,1663,24
+29,Only Girl (In The World),Rihanna,1,2010-09-25,2010-12-25,1635,14
+30,Your Love Is My Drug,Ke$ha,5,2010-04-17,2010-09-04,1606,21
+31,Empire State Of Mind,Jay-Z + Alicia Keys,1,2010-01-02,2010-04-17,1561,16
+32,Like A G6,Far*East Movement Feat. Cataracs & Dev,4,2010-09-18,2010-12-25,1503,15
+33,Haven't Met You Yet,Michael Buble,17,2010-01-16,2010-08-14,1483,31
+34,How Low,Ludacris,6,2010-01-02,2010-05-15,1462,20
+35,Alejandro,Lady Gaga,7,2010-04-24,2010-09-18,1434,22
+36,Bottoms Up,Trey Songz Feat. Nicki Minaj,7,2010-08-14,2010-12-25,1358,20
+37,Mine,Taylor Swift,7,2010-08-21,2010-12-25,1326,19
+38,Deuces,Chris Brown Feat. Tyga & Kevin McCall,8,2010-08-14,2010-12-25,1212,20
+39,I Gotta Feeling,The Black Eyed Peas,20,2010-01-02,2010-07-17,1207,29
+40,Un-Thinkable (I'm Ready),Alicia Keys,8,2010-04-17,2010-09-04,1201,21
+41,Whataya Want From Me,Adam Lambert,18,2010-02-13,2010-07-24,1170,24
+42,Carry Out,Timbaland Feat. Justin Timberlake,10,2010-01-09,2010-06-12,1148,23
+43,Over,Drake,9,2010-03-27,2010-08-07,1079,20
+44,According To You,Orianthi,9,2010-01-02,2010-05-08,1050,19
+45,There Goes My Baby,Usher,11,2010-04-24,2010-09-18,1047,22
+46,Your Love,Nicki Minaj,9,2010-06-12,2010-10-23,1040,20
+47,You Belong With Me,Taylor Swift,8,2010-01-02,2010-04-17,1038,16
+48,Club Can't Handle Me,Flo Rida Feat. David Guetta,10,2010-08-28,2010-12-25,1023,18
+49,Bulletproof,La Roux,10,2010-05-01,2010-09-18,1004,21
+50,My Chick Bad,Ludacris Feat. Nicki Minaj,8,2010-03-27,2010-07-24,1001,18
+51,Say Something,Timbaland Feat. Drake,11,2010-01-30,2010-06-05,1000,19
+52,Live Like We're Dying,Kris Allen,16,2010-01-02,2010-05-29,976,22
+53,Animal,Neon Trees,10,2010-08-21,2010-12-25,966,19
+54,Ridin' Solo,Jason Derulo,10,2010-06-19,2010-10-23,954,19
+55,Not Afraid,Eminem,14,2010-06-05,2010-11-06,953,23
+56,Whatcha Say,Jason Derulo,6,2010-01-02,2010-04-03,948,14
+57,Down,Jay Sean Feat. Lil Wayne,9,2010-01-02,2010-04-17,946,16
+58,Hey Daddy (Daddy's Home),Usher Feat. Plies,11,2010-02-06,2010-06-19,919,20
+59,Misery,Maroon 5,12,2010-07-17,2010-11-20,906,19
+60,Raise Your Glass,P!nk,4,2010-10-23,2010-12-25,905,10
+61,Tie Me Down,New Boyz Feat. Ray J,13,2010-01-02,2010-04-24,871,17
+62,Hard,Rihanna Feat. Jeezy,6,2010-01-02,2010-03-20,859,12
+63,Fireflies,Owl City,7,2010-01-02,2010-04-03,830,14
+64,It Kills Me,Melanie Fiona,13,2010-01-02,2010-04-17,769,16
+65,Secrets,OneRepublic,22,2010-08-28,2010-12-25,733,18
+66,Fancy,Drake Feat. T.I. & Swizz Beatz,18,2010-08-21,2010-12-25,718,19
+67,Do You Remember,Jay Sean Feat. Sean Paul & Lil Jon,11,2010-01-02,2010-04-03,713,14
+68,Everything To Me,Monica,17,2010-03-06,2010-07-10,712,19
+69,Already Gone,Kelly Clarkson,9,2010-01-02,2010-03-13,697,11
+70,Neighbors Know My Name,Trey Songz,22,2010-03-13,2010-07-24,697,20
+71,Take It Off,Ke$ha,12,2010-08-21,2010-12-04,685,16
+72,Love All Over Me,Monica,23,2010-07-31,2010-12-11,684,20
+73,What's My Name?,Rihanna Feat. Drake,2,2010-11-06,2010-12-25,682,8
+74,The House That Built Me,Miranda Lambert,22,2010-04-24,2010-08-21,681,18
+75,All About Tonight,Blake Shelton,25,2010-06-12,2010-11-13,677,23
+76,All The Right Moves,OneRepublic,21,2010-02-20,2010-06-12,672,17
+77,Miss Me,Drake Feat. Lil Wayne,19,2010-07-17,2010-10-30,667,16
+78,Hot Tottie,Usher Feat. Jay-Z,17,2010-08-28,2010-12-04,658,15
+79,I Am,Mary J. Blige,24,2010-01-02,2010-05-08,649,19
+80,Impossible,Shontelle,20,2010-05-29,2010-09-18,640,17
+81,The Man I Want To Be,Chris Young,22,2010-03-27,2010-07-31,630,19
+82,Gimmie That Girl,Joe Nichols,24,2010-03-27,2010-07-24,622,18
+83,Right Above It,Lil Wayne Feat. Drake,16,2010-10-02,2010-12-25,621,13
+84,Come Back Song,Darius Rucker,18,2010-08-07,2010-12-11,617,19
+85,Young Forever,Jay-Z + Mr. Hudson,18,2010-04-03,2010-07-17,616,16
+86,Roll With It,Easton Corbin,24,2010-07-31,2010-12-25,607,22
+87,Smile,Uncle Kracker,18,2010-01-02,2010-10-02,605,14
+88,I Invented Sex,Trey Songz Feat. Drake,15,2010-01-02,2010-03-20,602,12
+89,Water,Brad Paisley,21,2010-05-01,2010-09-04,594,19
+90,Try Sleeping With A Broken Heart,Alicia Keys,22,2010-01-02,2010-04-17,594,16
+91,Can't Be Friends,Trey Songz,17,2010-10-02,2010-12-25,591,13
+92,Ride,Ciara Feat. Ludacris,22,2010-06-12,2010-09-18,591,15
+93,I'm In,Keith Urban,27,2010-06-12,2010-10-09,590,18
+94,Our Kind Of Love,Lady Antebellum,25,2010-07-03,2010-11-06,585,19
+95,September,Daughtry,19,2010-09-04,2010-12-25,581,17
+96,Crazy Town,Jason Aldean,23,2010-04-24,2010-08-21,575,18
+97,As She's Walking Away,Zac Brown Band Feat. Alan Jackson,20,2010-09-25,2010-12-25,571,14
+98,Stuck Like Glue,Sugarland,21,2010-08-28,2010-12-25,570,18
+99,Lose My Mind,Young Jeezy Feat. Plies,28,2010-05-15,2010-09-04,565,17
+100,Rain Is A Good Thing,Luke Bryan,26,2010-05-01,2010-08-21,564,17
+101,Why Don't We Just Dance,Josh Turner,25,2010-01-02,2010-04-10,560,15
+102,Undo It,Carrie Underwood,26,2010-06-05,2010-09-25,556,17
+103,Use Somebody,Kings Of Leon,17,2010-01-02,2010-03-13,553,11
+104,The Boys of Fall,Kenny Chesney,22,2010-08-07,2010-11-27,539,17
+105,Why Wait,Rascal Flatts,27,2010-09-04,2010-12-25,535,17
+106,Sex Therapy,Robin Thicke,20,2010-01-23,2010-05-08,534,16
+107,American Honey,Lady Antebellum,24,2010-02-27,2010-06-12,533,16
+108,Please Don't Go,Mike Posner,15,2010-10-16,2010-12-25,530,11
+109,No Hands,Waka Flocka Flame,16,2010-10-09,2010-12-25,530,12
+110,All Over Me,Josh Turner,23,2010-07-10,2010-11-20,528,20
+111,Love Like Crazy,Lee Brice,35,2010-06-12,2010-10-02,519,17
+112,Sweet Dreams,Beyonce,8,2010-01-02,2010-02-20,517,8
+113,Anything Like Me,Brad Paisley,24,2010-09-25,2010-12-25,511,14
+114,Pretty Good At Drinkin' Beer,Billy Currington,28,2010-07-10,2010-10-30,511,17
+115,A Little More Country Than That,Easton Corbin,26,2010-01-30,2010-06-05,509,19
+116,Highway 20 Ride,Zac Brown Band,25,2010-02-13,2010-06-12,507,18
+117,Free,Zac Brown Band,26,2010-06-19,2010-10-09,506,17
+118,Forever,Drake,11,2010-01-02,2010-03-13,504,11
+119,Firework,Katy Perry,6,2010-11-06,2010-12-25,502,8
+120,If It's Love,Train,29,2010-07-17,2010-11-06,500,17
+121,Two Is Better Than One,Boys Like Girls Feat. Taylor Swift,23,2010-01-02,2010-03-27,499,13
+122,"Lover, Lover",Jerrod Niemann,27,2010-05-29,2010-09-25,493,18
+123,Got Your Back,T.I. Feat. Keri Hilson,39,2010-06-26,2010-10-23,491,18
+124,If I Die Young,The Band Perry,26,2010-09-25,2010-12-25,485,14
+125,Ain't Back Yet,Kenny Chesney,27,2010-03-13,2010-06-12,485,14
+126,She Won't Be Lonely Long,Clay Walker,30,2010-04-24,2010-08-07,484,16
+127,Rock That Body,The Black Eyed Peas,19,2010-05-15,2010-08-14,475,14
+128,Paparazzi,Lady Gaga,13,2010-01-02,2010-03-13,466,11
+129,The Truth,Jason Aldean,25,2010-01-02,2010-04-03,466,14
+130,'Til Summer Comes Around,Keith Urban,30,2010-01-02,2010-05-15,464,20
+131,Half Of My Heart,John Mayer,31,2010-06-26,2010-10-23,456,18
+132,Aston Martin Music,Rick Ross Feat. Drake & Chrisette Michele,17,2010-10-23,2010-12-25,448,10
+133,American Saturday Night,Brad Paisley,28,2010-01-02,2010-04-17,446,16
+134,Magic,B.o.B Feat. Rivers Cuomo,27,2010-07-31,2010-10-16,439,12
+135,Meet Me Halfway,The Black Eyed Peas,19,2010-01-02,2010-03-13,436,11
+136,Hillbilly Bone,Blake Shelton Feat. Trace Adkins,26,2010-01-23,2010-05-22,436,18
+137,I Gotta Get To You,George Strait,27,2010-03-27,2010-07-03,434,15
+138,3,Britney Spears,10,2010-01-02,2010-02-27,426,9
+139,King Of Anything,Sara Bareilles,33,2010-08-28,2010-12-04,424,15
+140,Temporary Home,Carrie Underwood,26,2010-01-16,2010-05-01,423,16
+141,Baby,Justin Bieber Feat. Ludacris,24,2010-02-13,2010-05-08,418,13
+142,Lil Freak,Usher Feat. Nicki Minaj,37,2010-03-20,2010-06-26,417,15
+143,Money To Blow,Birdman Feat. Lil Wayne & Drake,18,2010-01-02,2010-03-06,411,10
+144,That's How Country Boys Roll,Billy Currington,32,2010-01-02,2010-04-24,408,17
+145,We R Who We R,Ke$ha,9,2010-11-13,2010-12-25,407,7
+146,History In The Making,Darius Rucker,35,2010-01-02,2010-03-27,401,13
+147,Whip My Hair,WILLOW,23,2010-10-16,2010-12-25,398,11
+148,All I Do Is Win,DJ Khaled,33,2010-05-15,2010-08-14,397,14
+149,Turn On The Radio,Reba,29,2010-10-02,2010-12-25,387,13
+150,Keep On Lovin' You,Steel Magnolia,33,2010-03-20,2010-06-19,386,14
+151,The Breath You Take,George Strait,40,2010-09-11,2010-12-25,382,16
+152,Right Thru Me,Nicki Minaj,19,2010-10-30,2010-12-25,374,9
+153,B.M.F. (Blowin' Money Fast),Rick Ross Feat. Styles P,34,2010-07-31,2010-10-30,360,14
+154,My Kinda Party,Jason Aldean,32,2010-10-09,2010-12-25,353,12
+155,Holding You Down (Goin In Circles),Jazmine Sullivan,31,2010-09-11,2010-12-04,350,13
+156,Teach Me How To Dougie,Cali Swag District,40,2010-06-19,2010-09-18,347,14
+157,Life After You,Daughtry,38,2010-01-09,2010-05-01,342,14
+158,All I Want Is You,Miguel Feat. J. Cole,37,2010-10-02,2010-12-25,337,13
+159,White Liar,Miranda Lambert,32,2010-01-02,2010-03-06,333,10
+160,Farmer's Daughter,Rodney Atkins,30,2010-09-11,2010-11-20,331,11
+161,I Wanna Rock,Snoop Dogg,26,2010-01-02,2010-03-20,330,12
+162,Mama's Song,Carrie Underwood,33,2010-10-09,2010-12-25,330,12
+163,Heartbreak Warfare,John Mayer,42,2010-02-06,2010-05-08,330,14
+164,If You Only Knew,Shinedown,37,2010-01-02,2010-03-27,328,13
+165,Bittersweet,Fantasia,44,2010-07-10,2010-11-06,327,18
+166,Unstoppable,Rascal Flatts,41,2010-03-20,2010-06-19,326,14
+167,Fallin' For You,Colbie Caillat,24,2010-01-02,2010-02-13,325,7
+168,If I Had You,Adam Lambert,30,2010-08-21,2010-10-30,312,11
+169,Blah Blah Blah,Ke$ha Feat. 3OH!3,21,2010-02-13,2010-04-10,311,9
+170,Someday,Rob Thomas,49,2010-01-02,2010-04-17,307,16
+171,Stereo Love,Edward Maya & Vika Jigulina,20,2010-11-06,2010-12-25,305,8
+172,Southern Voice,Tim McGraw,29,2010-01-02,2010-02-27,305,9
+173,Hello Good Morning,Diddy - Dirty Money Feat. T.I.,36,2010-06-05,2010-08-21,300,12
+174,The Only Exception,Paramore,28,2010-07-24,2010-10-02,297,11
+175,Little White Church,Little Big Town,44,2010-06-26,2010-10-23,291,18
+176,Gangsta Luv,Snoop Dogg Feat. The-Dream,27,2010-01-02,2010-02-27,290,9
+177,I Wanna Make You Close Your Eyes,Dierks Bentley,29,2010-01-02,2010-02-27,287,9
+178,Evacuate The Dancefloor,Cascada,33,2010-01-02,2010-02-20,287,8
+179,Fifteen,Taylor Swift,25,2010-01-02,2010-02-06,286,6
+180,Sex Room,Ludacris Feat. Trey Songz,37,2010-06-19,2010-08-21,272,10
+181,Grenade,Bruno Mars,12,2010-11-20,2010-12-25,269,6
+182,Memories,David Guetta Feat. Kid Cudi,37,2010-10-23,2010-12-25,266,10
+183,Pretty Boy Swag,Soulja Boy Tell'em,35,2010-07-17,2010-09-18,256,10
+184,Consider Me Gone,Reba,22,2010-01-02,2010-02-20,254,8
+185,Felt Good On My Lips,Tim McGraw,34,2010-10-30,2010-12-25,247,9
+186,I Keep On Loving You,Reba,40,2010-04-24,2010-07-10,239,12
+187,Black And Yellow,Wiz Khalifa,26,2010-11-20,2010-12-25,236,6
+188,Love Like Woe,The Ready Set,39,2010-10-30,2010-12-25,232,9
+189,This Afternoon,Nickelback,46,2010-05-15,2010-08-07,230,13
+190,Backwoods,Justin Moore,38,2010-03-27,2010-05-29,229,10
+191,Halfway Gone,Lifehouse,47,2010-02-13,2010-05-08,228,13
+192,Naturally,Selena Gomez & The Scene,35,2010-04-10,2010-05-29,226,8
+193,Steady Mobbin',Young Money Feat. Gucci Mane,46,2010-03-06,2010-06-05,221,14
+194,Put You In A Song,Keith Urban,43,2010-10-23,2010-12-25,215,10
+195,Somebody To Love,Justin Bieber Featuring Usher,41,2010-06-12,2010-07-31,199,8
+196,No Love,Eminem Feat. Lil Wayne,42,2010-11-06,2010-12-25,198,8
+197,Cryin' For Me (Wayman's Song),Toby Keith,49,2010-01-02,2010-03-13,197,11
+198,Shut It Down,Pitbull Feat. Akon,46,2010-01-02,2010-02-27,193,9
+199,Only Prettier,Miranda Lambert,47,2010-10-16,2010-12-25,192,11
+200,On To The Next One,Jay-Z + Swizz Beatz,48,2010-02-06,2010-04-17,191,11
+201,The Time (Dirty Bit),The Black Eyed Peas,18,2010-11-27,2010-12-25,189,5
+202,Wrong Baby Wrong,Martina McBride,54,2010-04-10,2010-07-10,188,14
+203,Lay It Down,Lloyd,44,2010-11-06,2010-12-25,181,8
+204,Do I,Luke Bryan,28,2010-01-02,2010-01-30,176,5
+205,My First Kiss,3OH!3 Feat. Ke$ha,46,2010-06-26,2010-08-14,176,8
+206,Party In The U.S.A.,Miley Cyrus,36,2010-01-02,2010-02-06,175,6
+207,Papers,Usher,34,2010-01-02,2010-02-06,170,6
+208,Soldier Of Love,Sade,58,2010-01-02,2010-04-10,165,14
+209,Yeah 3X,Chris Brown,23,2010-11-27,2010-12-25,164,5
+210,Baby By Me,50 Cent Feat. Ne-Yo,30,2010-01-02,2010-01-30,163,5
+211,Hell On The Heart,Eric Church,48,2010-04-03,2010-05-29,161,9
+212,Voices,Chris Young,42,2010-11-13,2010-12-25,159,7
+213,We No Speak Americano,Yolanda Be Cool & Dcup,53,2010-10-30,2010-12-25,156,9
+214,Eenie Meenie,Sean Kingston & Justin Bieber,46,2010-05-01,2010-06-12,155,7
+215,Winner,Jamie Foxx Feat. Justin Timberlake & T.I.,43,2010-05-01,2010-06-12,154,7
+216,Gettin' Over You,David Guetta & Chris Willis,50,2010-06-19,2010-08-21,152,10
+217,Somewhere With You,Kenny Chesney,38,2010-11-20,2010-12-25,151,6
+218,Champagne Life,Ne-Yo,47,2010-07-31,2010-09-25,145,9
+219,"Beamer, Benz, Or Bentley",Lloyd Banks Feat. Juelz Santana,49,2010-04-24,2010-06-12,145,8
+220,Check It Out,will.i.am & Nicki Minaj,45,2010-10-16,2010-11-20,143,6
+221,Cuando Me Enamoro,Enrique Iglesias Feat. Juan Luis Guerra,62,2010-06-05,2010-10-16,143,19
+222,Lemonade,Gucci Mane,50,2010-03-06,2010-05-01,141,9
+223,Fearless,Taylor Swift,55,2010-02-27,2010-05-01,138,10
+224,F**k You! (Forget You),CeeLo Green,46,2010-09-25,2010-11-06,135,7
+225,Fistful Of Tears,Maxwell,62,2010-03-20,2010-06-26,132,15
+226,Hey Baby (Drop It To The Floor),Pitbull Feat. T-Pain,37,2010-11-13,2010-12-25,128,7
+227,Bad Habits,Maxwell,44,2010-01-02,2010-02-06,128,6
+228,I Made It (Cash Money Heroes),Kevin Rudolf,46,2010-05-15,2010-07-03,126,8
+229,I Never Told You,Colbie Caillat,54,2010-06-19,2010-08-21,125,10
+230,Someone Else Calling You Baby,Luke Bryan,51,2010-11-13,2010-12-25,121,7
+231,I'm Back,T.I.,55,2010-05-01,2010-06-26,114,9
+232,O Let's Do It,Waka Flocka Flame,55,2010-02-27,2010-04-24,113,9
+233,This Ain't Nothin',Craig Morgan,58,2010-07-24,2010-09-25,104,10
+234,Cowboy Casanova,Carrie Underwood,49,2010-01-02,2010-02-06,103,6
+235,This Ain't No Love Song,Trace Adkins,58,2010-10-23,2010-12-11,103,8
+236,Run This Town,"Jay-Z, Rihanna & Kanye West",41,2010-01-02,2010-01-16,100,3
+237,Hold You (Hold Yuh),Gyptian,59,2010-06-26,2010-10-09,99,12
+238,Pray For You,Jaron And The Long Road To Love,59,2010-06-05,2010-07-24,98,8
+239,POWER,Kanye West Feat. Dwele,55,2010-07-17,2010-09-04,95,8
+240,Toot It And Boot It,YG,56,2010-09-18,2010-11-13,95,9
+241,Eight Second Ride,Jake Owen,56,2010-01-02,2010-02-06,91,6
+242,Spotlight,Gucci Mane Feat. Usher,47,2010-01-02,2010-01-30,89,5
+243,Solo,Iyaz,51,2010-04-10,2010-05-22,89,7
+244,How I Got To Be This Way,Justin Moore,61,2010-10-09,2010-12-04,89,9
+245,Ain't Leavin Without You,Jaheim,61,2010-01-16,2010-04-24,88,11
+246,Tonight (I'm Lovin' You),Enrique Iglesias Feat. Ludacris & DJ Frank E,31,2010-12-11,2010-12-25,87,3
+247,Make A Movie,Twista Feat. Chris Brown,50,2010-11-27,2010-12-25,87,5
+248,Not Myself Tonight,Christina Aguilera,49,2010-04-24,2010-05-22,85,5
+249,2012 (It Ain't The End),Jay Sean Feat. Nicki Minaj,58,2010-09-25,2010-10-30,83,6
+250,Red Light,David Nail,43,2010-01-02,2010-01-23,77,4
+251,Today Was A Fairytale,Taylor Swift,59,2010-03-20,2010-04-24,75,6
+252,Can't Be Tamed,Miley Cyrus,52,2010-06-19,2010-07-10,73,4
+253,Break My Bank,New Boyz Feat. Iyaz,61,2010-08-21,2010-10-02,72,7
+254,Never Gonna Be Alone,Nickelback,62,2010-01-02,2010-02-13,72,7
+255,Way Out Here,Josh Thompson,61,2010-09-25,2010-11-06,70,7
+256,Roger That,Young Money,53,2010-05-08,2010-06-05,66,5
+257,Runaway,Kanye West Feat. Pusha T,62,2010-11-13,2010-12-18,66,6
+258,Back To December,Taylor Swift,36,2010-12-18,2010-12-25,65,2
+259,Loca,Shakira,57,2010-10-30,2010-12-18,64,8
+260,Letting Go (Dutty Love),Sean Kingston Featuring Nicki Minaj,64,2010-09-18,2010-12-04,58,11
+261,Bonfire,Craig Morgan,42,2010-01-02,2010-01-16,53,3
+262,Danza Kuduro,Don Omar & Lucenzo,65,2010-11-06,2010-12-25,50,8
+263,Hello World,Lady Antebellum,59,2010-12-04,2010-12-25,47,4
+264,Who Are You When I'm Not Looking,Blake Shelton,55,2010-12-11,2010-12-25,45,3
+265,Bullets In The Gun,Toby Keith,63,2010-12-04,2010-12-25,44,4
+266,I Can Transform Ya,Chris Brown Feat. Lil Wayne & Swizz Beatz,53,2010-01-02,2010-01-16,43,3
+267,I'm Doing Me,Fantasia,60,2010-11-27,2010-12-25,43,5
+268,Finding My Way Back,Jaheim,63,2010-06-19,2010-08-28,40,8
+269,Maybe,Sick Puppies,58,2010-12-11,2010-12-25,39,3
+270,Rhythm of Love,Plain White T's,60,2010-12-04,2010-12-25,38,4
+271,Window Seat,Erykah Badu,62,2010-05-08,2010-06-12,35,6
+272,Beautiful Monster,Ne-Yo,66,2010-07-10,2010-07-31,35,4
+273,Twang,George Strait,61,2010-01-02,2010-01-30,34,5
+274,Still,Tim McGraw,67,2010-04-17,2010-05-22,29,6
+275,Shake,Jesse McCartney,62,2010-11-27,2010-12-11,28,3
+276,Every Dog Has Its Day,Toby Keith,64,2010-05-22,2010-06-12,28,4
+277,Hurry Home,Jason Michael Carroll,68,2010-01-02,2010-02-20,28,6
+278,Rocketeer,Far*East Movement Feat. Ryan Tedder,53,2010-12-25,2010-12-25,23,1
+279,You're The One,Dondria,69,2010-05-29,2010-07-03,22,5
+280,Why Would You Stay?,Kem,68,2010-08-28,2010-09-11,19,3
+281,One Less Lonely Girl,Justin Bieber,63,2010-01-02,2010-01-23,18,3
+282,You Are,Charlie Wilson,64,2010-12-04,2010-12-25,18,4
+283,Let Me Down Easy,Billy Currington,65,2010-12-18,2010-12-25,18,2
+284,Wasted,Gucci Mane Feat. Plies,65,2010-01-02,2010-01-16,18,3
+285,Kissin U,Miranda Cosgrove,68,2010-08-28,2010-09-11,15,3
+286,No BS,Chris Brown,63,2010-12-25,2010-12-25,13,1
+287,One In A Million,Ne-Yo,68,2010-12-11,2010-12-18,13,2
+288,Coming Home,Diddy - Dirty Feat. Skylar Grey,64,2010-12-25,2010-12-25,12,1
+289,Give It Up To Me,Shakira Feat. Lil Wayne,70,2010-01-02,2010-01-09,11,2
+290,Break,Three Days Grace,68,2010-01-02,2010-01-09,10,2
+291,It's Just That Way,Alan Jackson,71,2010-04-10,2010-04-17,10,2
+292,All The Way Turnt Up,Roscoe Dash Feat. Soulja Boy Tell'em,72,2010-03-06,2010-03-20,10,3
+293,Pretty Girl Rock,Keri Hilson,69,2010-12-18,2010-12-25,9,2
+294,Gettin' You Home,Chris Young,71,2010-01-02,2010-01-16,9,2
+295,Nina Bonita,Chino & Nacho,72,2010-05-29,2010-07-10,9,3
+296,Sometimes I Cry,Eric Benet,73,2010-11-13,2010-12-11,8,4
+297,Waiting For The End,Linkin Park,70,2010-12-18,2010-12-25,7,2
+298,"Bon, Bon",Pitbull,71,2010-12-11,2010-12-18,6,2
+299,Kush,Dr. Dre Feat. Snoop Dogg & Akon,71,2010-12-25,2010-12-25,5,1
+300,Love King,The-Dream,72,2010-05-08,2010-05-15,5,2
+301,Dile Al Amor,Aventura,74,2010-03-06,2010-04-10,5,3
+302,This Is Country Music,Brad Paisley,72,2010-12-25,2010-12-25,4,1
+303,Nina De Mi Corazon,La Arrolladora Banda el Limon de Rene Camacho,73,2010-11-13,2010-11-13,3,1
+304,Hold My Hand,Michael Jackson Duet With Akon,73,2010-12-18,2010-12-18,3,1
+305,Bachata En Fukuoka,Juan Luis Guerra 440,73,2010-06-05,2010-06-05,3,1
+306,Waka Waka (This Time For Africa),Shakira Feat. Freshlyground,74,2010-07-24,2010-07-24,2,1
+307,Mockingbird,Rob Thomas,74,2010-08-28,2010-08-28,2,1
+308,La La La,Auburn Feat. Iyaz,74,2010-09-11,2010-09-11,2,1
+309,Dime Que Me Quieres,Banda El Recodo de Cruz Lizarraga,74,2010-07-31,2010-07-31,2,1
+310,El Malo,Aventura,75,2010-10-16,2010-10-30,2,2

@@ -1,0 +1,585 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,One Nation Under A Groove,Funkadelic,1,1978-08-19,1978-12-30,2795,20
+2,Flashlight,Parliament,1,1978-01-28,1978-06-10,2646,20
+3,Boogie Oogie Oogie,A Taste Of Honey,1,1978-05-13,1978-10-28,2645,25
+4,Use Ta Be My Girl,The O'Jays,1,1978-04-08,1978-08-26,2631,21
+5,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,1,1978-03-04,1978-07-15,2608,20
+6,You And I,Rick James,1,1978-05-20,1978-10-14,2482,22
+7,Get Off,Foxy,1,1978-06-24,1978-12-02,2470,24
+8,The Closer I Get To You,Roberta Flack With Donny Hathaway,1,1978-02-11,1978-06-17,2322,19
+9,Close The Door,Teddy Pendergrass,1,1978-05-27,1978-09-30,2260,19
+10,Bootzilla,Bootsy's Rubber Band,1,1978-02-04,1978-06-10,2257,19
+11,It's You That I Need,Enchantment,1,1978-01-07,1978-05-13,2256,19
+12,Stuff Like That,Quincy Jones,1,1978-05-20,1978-09-30,2237,20
+13,Take Me To The Next Phase,The Isley Brothers,1,1978-04-01,1978-07-29,2231,18
+14,The Grooveline,Heatwave,3,1978-04-08,1978-08-12,2182,19
+15,Holding On (When Love Is Gone),L.T.D.,1,1978-07-15,1978-11-04,2181,17
+16,Three Times A Lady,Commodores,1,1978-06-24,1978-10-14,2167,17
+17,Our Love,Natalie Cole,1,1978-01-07,1978-04-29,2143,17
+18,Got To Get You Into My Life,"Earth, Wind & Fire",1,1978-07-29,1978-11-11,2127,16
+19,Dance With Me,Peter Brown With Betty Wright,5,1978-02-11,1978-07-08,2112,22
+20,It Seems To Hang On,Ashford & Simpson,2,1978-08-26,1978-12-16,2008,17
+21,"Theme Song From ""Which Way Is Up""",Stargard,1,1978-01-07,1978-04-22,1961,16
+22,Stay,Rufus/Chaka Khan,3,1978-03-25,1978-07-22,1926,18
+23,On Broadway,George Benson,2,1978-03-11,1978-07-01,1915,17
+24,Take Me I'm Yours,Michael Henderson,3,1978-07-01,1978-11-11,1890,20
+25,There'll Never Be,Switch,6,1978-07-29,1978-12-30,1871,23
+26,Reaching For The Sky,Peabo Bryson,6,1978-01-07,1978-05-27,1858,21
+27,Your Sweetness Is My Weakness,Barry White,2,1978-09-16,1978-12-30,1843,16
+28,Always And Forever,Heatwave,2,1978-01-07,1978-04-15,1839,15
+29,I'm Every Woman,Chaka Khan,1,1978-10-07,1978-12-30,1836,13
+30,Dance (Disco Heat),Sylvester,4,1978-07-22,1978-12-02,1823,20
+31,What You Waiting For,Stargard,4,1978-07-22,1978-11-18,1761,18
+32,Runaway Love,Linda Clifford,3,1978-05-06,1978-08-19,1740,16
+33,Blame It On The Boogie,The Jacksons,3,1978-09-02,1978-12-16,1679,16
+34,Dukey Stick (Part One),George Duke,4,1978-04-08,1978-08-12,1674,19
+35,Shake And Dance,ConFunkShun,5,1978-07-01,1978-10-21,1670,17
+36,Shame,"Evelyn ""Champagne"" King",7,1978-04-29,1978-09-16,1651,21
+37,I'm In Love (And I Love The Feeling),Rose Royce,5,1978-08-05,1978-11-25,1633,17
+38,I Like Girls,The Fatback Band,9,1978-05-20,1978-10-28,1596,24
+39,Stayin' Alive,Bee Gees,4,1978-01-21,1978-05-13,1567,17
+40,Got To Be Real,Cheryl Lynn,2,1978-09-09,1978-12-30,1545,17
+41,Annie Mae,Natalie Cole,6,1978-05-06,1978-09-02,1539,18
+42,Dance Across The Floor,"Jimmy ""Bo"" Horne",8,1978-03-18,1978-08-05,1532,21
+43,Too Hot Ta Trot,Commodores,1,1978-01-07,1978-03-25,1498,12
+44,Le Freak,Chic,1,1978-10-21,1978-12-30,1487,11
+45,Jack And Jill,Raydio,5,1978-01-07,1978-05-06,1462,18
+46,Last Dance,Donna Summer,5,1978-05-27,1978-09-09,1440,16
+47,Am I Loosing You,The Manhattans,6,1978-01-28,1978-05-20,1430,17
+48,"Let Me Party With You (Part 1) (Party, Party, Party)",Bunny Sigler,8,1978-01-07,1978-05-13,1425,19
+49,Mary Jane,Rick James,3,1978-09-30,1978-12-30,1396,14
+50,Let's Start The Dance,Hamilton Bohannon,9,1978-08-05,1978-12-09,1366,19
+51,Ffun,ConFunkShun,1,1978-01-07,1978-03-18,1353,11
+52,Get On Up (Disco),Tyrone Davis,12,1978-02-25,1978-07-08,1328,20
+53,Riding High,Faze-O,9,1978-03-04,1978-07-01,1320,18
+54,Victim,Candi Staton,17,1978-06-17,1978-11-11,1313,22
+55,Smile,The Emotions,6,1978-07-29,1978-10-28,1305,14
+56,Daylight And Darkness,Smokey Robinson,9,1978-04-22,1978-08-05,1295,16
+57,Soft And Wet,Prince,12,1978-07-29,1978-12-09,1291,20
+58,You,The McCrarys,9,1978-05-27,1978-11-04,1279,22
+59,(Olivia) Lost And Turned Out,The Whispers,13,1978-09-02,1978-12-30,1227,18
+60,Ain't Gonna Hurt Nobody,Brick,7,1978-01-07,1978-04-01,1199,13
+61,Let's Go All The Way,The Whispers,10,1978-04-22,1978-08-19,1193,18
+62,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,6,1978-01-07,1978-03-25,1189,12
+63,Workin Together,Maze Featuring Frankie Beverly,9,1978-01-21,1978-05-13,1183,17
+64,Feel The Fire,Peabo Bryson,13,1978-05-06,1978-08-26,1173,17
+65,MacArthur Park,Donna Summer,8,1978-09-23,1978-12-30,1161,15
+66,Shout It Out,B.T. Express,12,1978-01-07,1978-04-22,1161,16
+67,Don't Cost You Nothing,Ashford & Simpson,10,1978-01-21,1978-05-13,1157,17
+68,Love Me Right,Denise LaSalle,10,1978-01-07,1978-04-15,1148,15
+69,Never Get Enough Of Your Love,LTD,8,1978-02-18,1978-05-20,1147,14
+70,Galaxy,War,5,1978-01-07,1978-03-18,1131,11
+71,Ms.,David Oliver,13,1978-03-25,1978-07-29,1120,19
+72,Don't Hold Back,Chanson,8,1978-09-23,1978-12-30,1109,15
+73,Night Fever,Bee Gees,8,1978-03-04,1978-06-03,1090,14
+74,Disco To Go,Brides Of Funkenstein,7,1978-09-30,1978-12-30,1080,14
+75,Stellar Funk,Slave,14,1978-07-08,1978-10-28,1079,17
+76,Everybody Dance,Chic,12,1978-04-01,1978-07-22,1074,17
+77,"Funk 'N' Roll (Dancin' In The ""Funkshine"")",Quazar,11,1978-09-16,1978-12-30,1050,16
+78,STAND UP,Atlantic Starr,16,1978-08-12,1978-11-25,1048,16
+79,Only You,Loleatta Holloway And Bunny Sigler,11,1978-08-19,1978-11-25,1047,15
+80,Slick Superchick,Kool & The Gang,19,1978-03-04,1978-06-17,1042,16
+81,Oh What A Night For Dancing,Barry White,13,1978-03-25,1978-07-08,1039,16
+82,All The Way Lover,Millie Jackson,12,1978-02-18,1978-05-27,1034,15
+83,Do You Love Somebody,Luther Ingram,13,1978-01-21,1978-05-06,1022,16
+84,Let's All Chant,The Michael Zager Band,15,1978-02-18,1978-06-17,1017,18
+85,Lady Love,Lou Rawls,21,1978-01-07,1978-04-15,1016,15
+86,Girl Callin',Chocolate Milk,14,1978-04-08,1978-07-22,1011,16
+87,"Playing Your Game, Baby",Barry White,8,1978-01-07,1978-03-25,1005,12
+88,Shadow Dancing,Andy Gibb,11,1978-05-13,1978-08-19,980,15
+89,Reach For It,George Duke,2,1978-01-07,1978-03-04,974,9
+90,Love To See You Smile,Bobby Bland,14,1978-05-20,1978-09-09,972,17
+91,Tonight Is The Night (Pts. 1 & 2),Betty Wright,11,1978-09-02,1978-12-09,971,15
+92,Baby Come Back,Player,10,1978-01-07,1978-04-01,969,13
+93,Ain't No Smoke Without Fire,Eddie Kendricks,13,1978-04-29,1978-07-29,960,14
+94,"Don't Stop,get Off",The Sylvers,15,1978-09-02,1978-12-02,960,14
+95,Lovely Day,Bill Withers,6,1978-01-07,1978-03-18,955,11
+96,"I Am Your Women,she Is Your Wife",Barbara Mason,14,1978-04-29,1978-08-05,945,15
+97,Love Don't Live Here Anymore,Rose Royce,5,1978-10-28,1978-12-30,942,10
+98,LE SPANK,Le Pamplemousse,13,1978-01-07,1978-04-01,934,13
+99,Let's Have Some Fun,Barkays,11,1978-01-07,1978-04-01,930,13
+100,Ocean Of Thought And Dreams,The Dramatics,17,1978-02-18,1978-05-27,927,15
+101,Long Stroke,ADC Band,6,1978-10-21,1978-12-30,925,11
+102,It's A Better Than Good Time,Gladys Knight And The Pips,16,1978-08-12,1978-11-04,925,13
+103,You Fooled Me,Grey And Hanks,19,1978-09-09,1978-12-30,924,17
+104,L-o-v-e-u-,Brass Construction,18,1978-01-28,1978-05-06,920,15
+105,I Could Have Loved You,Moments,20,1978-02-18,1978-06-03,915,15
+106,Unlock Your Mind,Staples,16,1978-09-23,1978-12-30,913,15
+107,You Were Meant For Me,Donny Hathaway,17,1978-08-12,1978-11-18,912,15
+108,With Pen In Hand,Dorothy Moore,12,1978-01-07,1978-03-25,911,12
+109,Fantasy,"Earth, Wind & Fire",12,1978-02-25,1978-05-20,897,13
+110,Never Make A Move Too Soon,B.B. King,19,1978-06-24,1978-10-14,890,17
+111,Love Brought Me Back,D.J. Rogers,20,1978-07-15,1978-10-21,888,15
+112,Sun Is Here,The Sundays,18,1978-06-03,1978-09-16,879,16
+113,You Should Do It,Peter Brown,25,1978-09-02,1978-12-09,872,15
+114,Ease On Down The Road,Diana Ross & Michael Jackson,17,1978-09-16,1978-12-09,870,13
+115,Hollywood Squares,Bootsy's Rubber Band,17,1978-05-20,1978-08-12,864,13
+116,It's Serious,Cameo,21,1978-03-25,1978-07-01,861,15
+117,I Wanna Make Love To You,Randy Brown,22,1978-09-16,1978-12-30,861,16
+118,Don't Pity Me,"Faith, Hope And Charity",20,1978-06-03,1978-09-09,857,15
+119,YOUNGBLOOD (LIVIN' IN THE STREETS),War,21,1978-07-01,1978-10-07,857,15
+120,Can't Give Up A Good Thing,Soul Children,19,1978-05-27,1978-08-26,849,14
+121,"Baby,baby My Love's All For You",Deniece Williams,13,1978-01-07,1978-03-18,842,11
+122,I Just Wanna Stop,Gino Vannelli,21,1978-09-16,1978-12-30,840,16
+123,It's All In Your Mind,Side Effect,18,1978-03-11,1978-06-10,832,14
+124,Attitudes,Barkays,22,1978-04-08,1978-07-15,832,15
+125,Freaky Deaky,Roy Ayers Ubiquity,29,1978-02-04,1978-05-20,832,16
+126,You're All I Need To Get By,Johnny Mathis & Deniece Williams,10,1978-07-08,1978-09-23,831,12
+127,Almighty Fire (Woman Of The Future),Aretha Franklin,12,1978-04-29,1978-07-15,827,12
+128,Ooh Boy,Rose Royce,3,1978-01-07,1978-02-18,818,7
+129,Supernatural Feeling,The Blackbyrds,19,1978-04-01,1978-07-01,816,14
+130,Special Occasion,Dorothy Moore,30,1978-08-26,1978-12-09,816,16
+131,Saturday,Norma Jean Wright,15,1978-07-15,1978-10-14,808,14
+132,I Don't Know If It's Right,"Evelyn ""Champagne"" King",9,1978-10-21,1978-12-30,805,11
+133,Is This A Love Thing,Raydio,20,1978-05-20,1978-08-05,805,12
+134,If You Wanna Do A Dance,The Spinners,17,1978-07-15,1978-09-30,801,12
+135,Brandy,The O'Jays,21,1978-08-05,1978-10-28,794,13
+136,Take It On Top,Pockets,24,1978-08-26,1978-11-25,792,14
+137,September,"Earth, Wind & Fire",3,1978-11-18,1978-12-30,783,7
+138,My Radio Sure Sounds Good To Me,Graham Central Station,18,1978-06-24,1978-09-16,777,13
+139,Hot Shot,Karen Young,24,1978-08-12,1978-11-18,777,15
+140,Party,Leon Haywood,24,1978-09-02,1978-12-09,774,15
+141,First Impressions,The Stylistics,22,1978-07-08,1978-10-07,772,14
+142,Intimate Friends,Eddie Kendricks,24,1978-01-21,1978-04-22,772,14
+143,Waiting On Love,Johnny Bristol,27,1978-04-01,1978-07-01,764,14
+144,Serpentine Fire,"Earth, Wind & Fire",4,1978-01-07,1978-02-25,760,8
+145,I Love The Nightlife (Disco 'round),Alicia Bridges,31,1978-08-19,1978-12-09,744,17
+146,(I'm Just Thinking About) Cooling Out,Jerry Butler,14,1978-10-14,1978-12-30,739,12
+147,Funk-o-nots,Ohio Players,27,1978-07-29,1978-10-21,737,13
+148,What You Won't Do For Love,Bobby Caldwell,10,1978-10-14,1978-12-30,733,12
+149,You Know You Wanna Be Loved,Keith Barrow,26,1978-06-03,1978-09-09,729,15
+150,Get Down,Gene Chandler,7,1978-10-28,1978-12-30,726,10
+151,Love Is All You Need,High Inergy,20,1978-02-18,1978-05-13,718,13
+152,If You're Ready (Here It Comes),Enchantment,14,1978-06-17,1978-08-26,714,11
+153,Soft And Easy,The Blackbyrds,20,1978-01-07,1978-03-25,714,12
+154,Super Woman,The Dells,24,1978-07-15,1978-10-07,690,13
+155,Let's Get Funkified,Boiling Point,35,1978-04-01,1978-07-01,689,14
+156,Baby I Need Your Love Today,Sweet Thunder,21,1978-06-24,1978-09-09,688,12
+157,Keep On Dancing,Johnnie Taylor,32,1978-04-01,1978-06-24,683,13
+158,Flying High,Commodores,21,1978-09-30,1978-12-09,679,11
+159,Your Love Is So Good For Me,Diana Ross,16,1978-02-25,1978-05-06,676,11
+160,Stop Your Weeping,The Dramatics,22,1978-06-17,1978-09-02,676,12
+161,Get To Me,Luther Ingram,41,1978-05-13,1978-08-26,673,16
+162,Groove With You,The Isley Brothers,16,1978-07-01,1978-09-09,671,11
+163,Take That To The Bank,Shalamar,12,1978-10-21,1978-12-30,669,11
+164,Thank God It's Friday,Love And Kisses,23,1978-06-03,1978-08-19,658,12
+165,In The Bush,Musique,29,1978-10-07,1978-12-30,657,13
+166,Come Go With Me,Pockets,17,1978-01-07,1978-03-04,656,9
+167,Miss Broadway,Belle Epoque,26,1978-03-11,1978-05-27,649,12
+168,The Spank,James Brown,26,1978-06-24,1978-09-09,636,12
+169,Dancing In Paradise,El Coco,31,1978-09-02,1978-11-18,635,12
+170,Rumour Has It,Donna Summer,21,1978-03-04,1978-05-13,619,11
+171,Angel Dust,Gil Scott-Heron,15,1978-10-21,1978-12-30,618,11
+172,I Love You,Donna Summer,28,1978-01-07,1978-03-11,618,10
+173,"For Your Love, Love, Love",Joe Simon,27,1978-01-07,1978-03-25,616,12
+174,In The Night Time,Michael Henderson,15,1978-10-28,1978-12-30,615,10
+175,I Can't Stand The Rain,Eruption,30,1978-03-04,1978-05-27,611,13
+176,By Way Of Love's Express,Ashford & Simpson,35,1978-05-27,1978-08-12,610,12
+177,Confunkshunizoya,ConFunkShun,31,1978-03-25,1978-06-03,607,11
+178,This Is Your Life,Norman Connors,31,1978-07-08,1978-09-23,605,12
+179,You Stepped Into My Life,Melba Moore,17,1978-10-21,1978-12-30,601,11
+180,Cocomotion,El Coco,22,1978-01-07,1978-02-25,597,8
+181,Makin Love Is Good For You,Brook Brenton,49,1978-01-07,1978-04-29,590,17
+182,"Good,bad And Funky",Shotgun,38,1978-05-27,1978-08-26,586,14
+183,Love To Burn,O.C. Smith,34,1978-09-23,1978-12-16,585,13
+184,The Party Song,Slave,22,1978-02-04,1978-04-08,580,10
+185,Only You,Teddy Pendergrass,22,1978-10-07,1978-12-16,580,11
+186,Spank Your Blank Blank,Morris Jefferson,34,1978-01-07,1978-03-18,580,11
+187,Native New Yorker,Odyssey,10,1978-01-07,1978-02-25,578,8
+188,Try And Understand,Jaisun,42,1978-04-15,1978-07-08,574,13
+189,Shouting Out Love,The Emotions,31,1978-01-07,1978-03-11,570,10
+190,Belle,Al Green,9,1978-01-07,1978-02-18,569,7
+191,One Life To Live,Lou Rawls,32,1978-05-20,1978-07-29,568,11
+192,You And I (Pt. 1),Livin' Proof,34,1978-01-07,1978-03-25,564,12
+193,"You Are, You Are",Curtis Mayfield,34,1978-04-01,1978-06-17,563,12
+194,Funkentelchy,Parliament,27,1978-06-03,1978-08-05,562,10
+195,On Fire,T-Connection,27,1978-01-07,1978-03-04,561,9
+196,One On One,Prince Phillip Mitchell,32,1978-06-03,1978-08-12,560,11
+197,Close Encounters Of The Third Kind,Gene Page,30,1978-01-21,1978-03-25,556,10
+198,Midnight Girl,Lenny Williams,20,1978-10-28,1978-12-30,549,10
+199,Weekend Lover,Odyssey,37,1978-04-29,1978-07-15,548,12
+200,Think It Over,Cissy Houston,32,1978-08-12,1978-10-14,546,10
+201,You Got Me Running,Lenny Williams,40,1978-07-29,1978-10-28,546,14
+202,It's The Same Old Song,KC And The Sunshine Band,30,1978-05-20,1978-07-22,539,10
+203,This Time They Told The Truth,Z.Z. Hill,42,1978-02-25,1978-05-20,538,13
+204,Just Wanna Make A Dream Come True,Mass Production,46,1978-05-06,1978-07-29,525,13
+205,Miss You,The Rolling Stones,33,1978-06-17,1978-09-09,522,13
+206,I Can See Clearly Now,Ray Charles,35,1978-01-07,1978-03-04,517,9
+207,We Both Deserve Each Others Love,LTD,19,1978-11-04,1978-12-30,514,9
+208,You Can't Turn Me Off (in The Middle Of Turning Me,High Inergy,6,1978-01-07,1978-02-11,511,6
+209,Say A Prayer For Two,Crown Heights Affair,41,1978-09-09,1978-11-18,509,11
+210,Emotion,Samantha Sang,42,1978-02-11,1978-04-29,508,12
+211,Heaven Is Only One Step Away,The Controllers,37,1978-02-25,1978-04-29,507,10
+212,Free Me From My Freedom/Tie Me To A Tree (Handcuff Me),Bonnie Pointer,18,1978-11-04,1978-12-30,504,9
+213,Sweet Music Man,Millie Jackson,33,1978-09-09,1978-11-11,497,10
+214,"Somebody's Gotta Win, Somebody's Gotta Lose",The Controllers,12,1978-01-07,1978-02-18,494,7
+215,I Got What You Need,Bunny Sigler,42,1978-05-27,1978-08-05,489,11
+216,Old Man With Young Ideas,Ann Peebles,54,1978-03-11,1978-06-17,476,15
+217,I Feel Good,Al Green,36,1978-04-01,1978-06-10,475,11
+218,If It Don't Fit Don't Force It,Kellee Patterson,16,1978-01-07,1978-02-18,471,7
+219,Guess Who's Back In Town,Heaven And Earth,42,1978-08-12,1978-10-28,471,12
+220,Ganster Of Love,Johnny Guitar Watson,32,1978-11-04,1978-12-30,464,9
+221,Find Me A Girl,The Jacksons,38,1978-02-04,1978-04-22,464,12
+222,Tomorrow I May Not Feel The Same,Gene Chandler,51,1978-04-01,1978-06-17,462,12
+223,The One And Only,Gladys Knight And The Pips,40,1978-03-18,1978-05-20,460,10
+224,Castles Of Sand,Jermaine Jackson,38,1978-07-15,1978-09-16,456,10
+225,Love Attack,Shotgun,40,1978-09-02,1978-11-11,451,11
+226,Blue Love,Rufus And Chaka Khan,34,1978-07-29,1978-09-23,449,9
+227,We Fell In Love While Dancing,Bill Brandon,30,1978-02-25,1978-04-29,448,10
+228,Ready Or Not,Deborah Washington,38,1978-07-08,1978-09-23,448,12
+229,Boogie Shoes,KC And The Sunshine Band,29,1978-03-04,1978-05-06,447,10
+230,So Easy,ConFunkShun,28,1978-10-21,1978-12-16,445,9
+231,Where Did Love Go,Leroy Hutson,45,1978-03-04,1978-05-13,439,11
+232,If Ever I See You Again,Roberta Flack,37,1978-06-03,1978-07-29,438,9
+233,I Just Want To Be With You,The Floaters,36,1978-05-27,1978-07-22,437,9
+234,Shake Your Groove Thing,Peaches & Herb,24,1978-10-28,1978-12-30,434,10
+235,Eyesight,James Brown,38,1978-04-22,1978-06-17,432,9
+236,I Don't Know What I'd Do (If You Ever Left Me),Sweet Cream,41,1978-07-01,1978-09-16,430,12
+237,You Got It,Diana Ross,39,1978-05-13,1978-07-08,427,9
+238,Our Love Will Survive,Memphis Horns,42,1978-07-29,1978-10-07,426,11
+239,Your Love Is A Miracle,AWB,33,1978-05-20,1978-07-15,420,9
+240,Baby You Got My Nose Open,Harold Melvin And The Blue Notes,36,1978-01-28,1978-04-01,413,10
+241,The Best Of Strangers,Eddie Kendricks,49,1978-08-05,1978-10-21,404,12
+242,Golden Time Of Day/Travelin' Man,Maze Featuring Frankie Beverly,39,1978-05-27,1978-07-22,399,9
+243,Wrap Your Arms Around Me,KC And The Sunshine Band,24,1978-01-07,1978-02-11,391,6
+244,Honey I'm Rich,Raydio,43,1978-08-12,1978-10-07,391,9
+245,Lady Blue,George Benson,39,1978-07-22,1978-09-16,389,9
+246,Out Of The Ghetto,Isaac Hayes,42,1978-01-21,1978-03-25,387,10
+247,Automatic Lover,Sylvia (r&b),43,1978-06-10,1978-08-05,387,9
+248,Can You Get It (Suzie Caesar),Mandrill,43,1978-02-04,1978-04-15,387,11
+249,(Every Time I Turn Around) Back In Love Again,LTD,13,1978-01-07,1978-02-04,386,5
+250,Trust Your Heart,Bobby Womack,47,1978-02-18,1978-05-06,385,12
+251,Mind Blowing Decisions,Heatwave,49,1978-09-02,1978-11-04,383,10
+252,What You Gonna Do After The Party,Willie Hutch,40,1978-01-21,1978-03-18,382,9
+253,Gettin Ready For Love,Diana Ross,17,1978-01-07,1978-02-11,376,6
+254,Ride-o-rocket,The Brothers Johnson,45,1978-09-30,1978-11-25,374,9
+255,Don't Wanna Come Back,Mother's Finest,54,1978-09-23,1978-12-02,374,11
+256,Whole Lot Of Shakin',The Emotions,44,1978-10-14,1978-12-09,369,9
+257,Bop Gun (Endangered Species),Parliament,14,1978-01-07,1978-02-04,365,5
+258,Let The Music Play,Dorothy Moore,50,1978-04-29,1978-06-24,364,9
+259,I'm So Into You,Peabo Bryson,16,1978-11-25,1978-12-30,357,6
+260,Don't Let It Go To Your Head,Jean Cairn,54,1978-08-26,1978-11-11,357,12
+261,If You're Not Back In Love By Monday,Millie Jackson,15,1978-01-07,1978-02-04,346,5
+262,Bare Back,The Temptations,42,1978-10-07,1978-11-25,345,8
+263,New Horizon,The Sylvers,45,1978-01-28,1978-04-01,345,10
+264,Mean Machine,The Miracles,55,1978-05-06,1978-07-08,344,10
+265,Home Made Jam,Bobby Humphrey,60,1978-05-27,1978-08-05,344,11
+266,Don't Wear Yourself Out,The Mc Crarys,40,1978-10-28,1978-12-16,337,8
+267,Cause You're Mine Now,R.B.Hudman,47,1978-03-11,1978-05-06,332,9
+268,Instant Replay,Dan Hartman,44,1978-11-11,1978-12-30,330,8
+269,Lovin' Fever,High Inergy,51,1978-09-09,1978-11-04,329,9
+270,Two Hot For Love,T.H.P. Orchestra,46,1978-03-18,1978-05-06,327,8
+271,It's All The Way Live,Lakeside,32,1978-11-18,1978-12-30,326,7
+272,Good Luck Charm (Part I),Ohio Players,51,1978-01-07,1978-02-25,324,8
+273,Sorry Doesn't Always Make It Right,Gladys Knight And The Pips,24,1978-01-07,1978-02-18,323,7
+274,"Precious, Precious",O.V. Wright,50,1978-01-14,1978-03-18,322,10
+275,Is It Still Good To Ya,Ashford & Simpson,25,1978-12-02,1978-12-30,321,5
+276,Now That We Found Love,Third World,38,1978-11-11,1978-12-30,314,8
+277,If You Don't Give A Dogone About It,James Brown,45,1978-01-07,1978-02-18,313,7
+278,"Easy Come,easy Go",The Spinners,46,1978-02-11,1978-04-08,312,9
+279,Teach Me Tonight (Me Gusta Tu Baile),Patti LaBelle,51,1978-06-10,1978-07-29,311,8
+280,I'm Gonna Need This Love,N'cole,60,1978-08-12,1978-10-28,310,12
+281,More Than A Woman,Tavares,36,1978-01-07,1978-02-11,306,6
+282,The Ghost Of Love (Part 1),Tavares,48,1978-02-18,1978-04-29,304,10
+283,Easy Comin' Out (Hard Goin' In),William Bell,30,1978-01-07,1978-02-11,301,6
+284,Grease,Frankie Valli,40,1978-08-12,1978-09-23,301,7
+285,The Mighty Army,New Birth Total Praise Choir,49,1978-01-07,1978-02-18,297,7
+286,Private Property,The Dells,57,1978-01-21,1978-03-18,297,9
+287,More Than Just A Joy,Aretha Franklin,51,1978-07-22,1978-09-16,286,9
+288,Ain't We Funkin' Now,The Brothers Johnson,45,1978-11-18,1978-12-30,285,7
+289,Lucy In The Sky With Diamonds,Natalie Cole,53,1978-09-09,1978-10-28,284,8
+290,Seasons For Girls,The Trammps,50,1978-08-05,1978-09-30,283,9
+291,Love Vibration,Joe Simon,31,1978-11-25,1978-12-30,281,6
+292,Mellow Lovin',Judy Cheeks,53,1978-09-16,1978-11-11,281,9
+293,Every 1's A Winner,Hot Chocolate,39,1978-11-18,1978-12-30,277,7
+294,In The Mood,Leroy Hutson,56,1978-05-20,1978-07-01,277,7
+295,Never Had A Love Like This Before,Tavares,36,1978-11-25,1978-12-30,276,6
+296,Change,Zulema,46,1978-10-28,1978-12-16,267,8
+297,In A Lifetime,The Temptations,21,1978-01-07,1978-01-28,265,4
+298,My Love Ain't Never Been This Strong,7th Wonder,51,1978-11-18,1978-12-30,265,7
+299,Wishing On A Star,Rose Royce,52,1978-02-25,1978-04-08,263,7
+300,Sister Fine,Impact,49,1978-01-21,1978-03-25,262,10
+301,Don't Ask My Neighbors,The Emotions,20,1978-01-07,1978-01-28,261,4
+302,"Get On Up,get On Down",Roy Ayers,56,1978-10-21,1978-12-09,259,8
+303,Till You Take My Love,Harvey Mason,57,1978-04-29,1978-06-24,259,9
+304,"Baby, I'm Through",The Emotions,59,1978-03-25,1978-05-13,254,8
+305,Lighting A Fire (That You Can't Put Out),Patti Hendrix,65,1978-08-19,1978-10-21,254,10
+306,I Love My Music,Wild Cherry,49,1978-03-04,1978-04-22,253,8
+307,Love Is,The Brothers Johnson,50,1978-03-11,1978-04-22,253,7
+308,It's Over,Cameo,60,1978-07-08,1978-09-02,250,9
+309,Love Changes,Mother's Finest,42,1978-11-25,1978-12-30,248,6
+310,I'm Here Again,Thelma Houston,31,1978-01-07,1978-02-04,245,5
+311,If I Can't Have You,Yvonne Elliman,60,1978-04-01,1978-05-20,243,8
+312,Come Fly With Me,Bobby Bland,55,1978-10-07,1978-11-18,242,7
+313,Stay By My Side,Bo Kirkland And Ruth Davis,63,1978-01-14,1978-03-11,239,9
+314,Everybody Has A Dream,The Manhattans,65,1978-07-01,1978-08-26,239,9
+315,If I Had My Way,Walter Jackson,68,1978-03-11,1978-05-13,239,10
+316,Aqua Boogie (A Psychoalphadiscobetabioaquadoloop),Parliament,21,1978-12-09,1978-12-30,236,4
+317,I'm Really Gonna Miss You,Billy Preston,59,1978-04-01,1978-05-27,236,9
+318,I Didn't Take Your Man,Ann Peebles,55,1978-07-29,1978-09-30,233,10
+319,Let Me (Let Me Be Your Lover),"Jimmy ""Bo"" Horne",60,1978-10-14,1978-11-25,232,7
+320,How Do You Do,Al Hudson And The Soul Partners,51,1978-11-11,1978-12-30,230,8
+321,I've Been Missing You,Archie Bell & The Drells,56,1978-01-21,1978-02-25,230,6
+322,Mr. Fix It,Jeffree,53,1978-11-18,1978-12-30,229,7
+323,Who Turned You On,Wilson Pickett,59,1978-06-17,1978-07-29,229,7
+324,"Love, I Never Had It So Good",Quincy Jones,60,1978-09-30,1978-11-18,229,8
+325,Do What You Want To Do,The Dramatics,56,1978-09-23,1978-11-04,222,7
+326,You Are My Friend,Patti LaBelle,61,1978-01-21,1978-02-25,219,6
+327,H.e.l.p.,Four Tops,48,1978-11-25,1978-12-30,212,6
+328,Was Dog A Doughnut,Cat Stevens,53,1978-01-07,1978-02-04,211,5
+329,Thinkin' About It Too,Jarreau,55,1978-11-11,1978-12-30,210,8
+330,"That's Alright, Too",Brian And Brenda,67,1978-01-14,1978-03-11,209,9
+331,I'm Coming Home Again,Gladys Knight,54,1978-11-25,1978-12-30,208,6
+332,All American Funkathon,Willie Hutch,62,1978-08-05,1978-09-23,208,8
+333,Good Thang,Faze-O,49,1978-11-25,1978-12-30,206,6
+334,Wide Stride,Billy Preston,44,1978-01-07,1978-02-11,205,6
+335,Too Much Heaven,Bee Gees,47,1978-12-02,1978-12-30,205,5
+336,Can't Help But Say,Tyrone Davis,65,1978-07-15,1978-09-02,204,8
+337,Trust Me,Milt Matthews,61,1978-02-18,1978-04-29,203,11
+338,Holy Ghost,Barkays,34,1978-12-09,1978-12-30,200,4
+339,Ever Ready Love,The Temptations,50,1978-11-25,1978-12-30,200,6
+340,Time Slips Away,Ohio Players,53,1978-11-11,1978-12-16,200,6
+341,Do What You Feel,Creme D'Cocoa,63,1978-10-14,1978-12-02,198,8
+342,Love Is,Vernon Burch,52,1978-11-11,1978-12-30,196,8
+343,Summer Song,"Grover Washington, Jr.",57,1978-04-22,1978-05-27,191,6
+344,Think Of Yourself,The Temptations,58,1978-03-04,1978-04-08,191,6
+345,Help Yourself,Brass Construction,58,1978-10-14,1978-11-25,191,7
+346,Any Way You Want Me,The Sylvers,28,1978-01-07,1978-01-21,189,3
+347,Star Cruiser,Gregg Diamond,57,1978-11-25,1978-12-30,182,6
+348,Why You Wanna See My Bad Side,Smokey Robinson,52,1978-03-18,1978-04-15,181,5
+349,Is It Love,Larry Graham And Graham Central Station,65,1978-10-21,1978-11-25,181,6
+350,I Wish You Well,Maze,61,1978-09-30,1978-11-18,180,8
+351,25th Of Last December,Roberta Flack,52,1978-01-07,1978-01-28,179,4
+352,Pleasure Principle,Parlet,66,1978-04-22,1978-06-03,179,7
+353,Happy For Love,Pockets,63,1978-11-25,1978-12-30,178,6
+354,Dance To The Music,Muscle Shoals Horns,57,1978-01-07,1978-02-11,176,6
+355,The End Of The Rainbow,Mc Kinley Mitchell,71,1978-01-07,1978-02-25,176,8
+356,Love That Will Not Die,Johnny Guitar Watson,59,1978-02-18,1978-03-25,173,6
+357,Plato's Retreat,Joe,76,1978-08-12,1978-10-21,169,11
+358,Chump Change,Albert King,72,1978-05-06,1978-06-24,167,8
+359,I Honestly Love You,Staples,68,1978-01-07,1978-02-11,166,6
+360,If My Friends Could See Me Now,Linda Clifford,68,1978-08-26,1978-10-07,163,7
+361,"COME ON DANCE, DANCE",Saturday Night Band,70,1978-06-03,1978-07-22,163,7
+362,Livin' It Up (Friday Night),Bell & James,64,1978-11-18,1978-12-30,162,7
+363,Hey Senorita,War,70,1978-04-15,1978-05-20,160,6
+364,Feels So Good,Chuck Mangione,68,1978-02-11,1978-03-25,159,7
+365,Two Doors Down,Joe,70,1978-06-10,1978-07-29,159,8
+366,Words Don't Say Enough,7th Wonder,78,1978-06-24,1978-08-26,155,10
+367,Do Do Wap Is Strong In Here,Curtis Mayfield,47,1978-01-07,1978-01-28,154,4
+368,Love Is So Easy,Stargard,75,1978-05-13,1978-07-01,154,8
+369,Beyond The Clouds,Quartz,65,1978-11-18,1978-12-30,153,7
+370,I.o.u.,Joe Simon,71,1978-07-22,1978-09-09,153,8
+371,Look Up With Your Mind,Lenny Williams,74,1978-04-01,1978-05-13,153,7
+372,Little Girls,Patti LaBelle,60,1978-08-12,1978-09-23,152,7
+373,I Might As Well Forget About Lovin' You,Kinsman Dazz,58,1978-12-02,1978-12-30,150,5
+374,Dig A Little Deeper,Latimore,62,1978-12-02,1978-12-30,148,5
+375,West Side Encounter - West Side Story (Medley),The Salsoul Orchestra,68,1978-04-22,1978-05-20,146,5
+376,Keep It Comin',Atlantic Starr,59,1978-12-02,1978-12-30,145,5
+377,My Favorite Fantasy,Van Mccoy,76,1978-04-29,1978-06-17,145,8
+378,Just Freak,Slave,64,1978-11-11,1978-12-09,144,5
+379,"GIVING UP,GIVING IN",The Three Degrees,60,1978-11-25,1978-12-30,141,6
+380,As,Stevie Wonder,48,1978-01-07,1978-01-21,139,3
+381,Goin' Places,The Jacksons,29,1978-01-07,1978-01-14,138,2
+382,Wonder Worm,Captain Sky,61,1978-12-02,1978-12-30,138,5
+383,Choosing You,Lenny Williams,62,1978-01-07,1978-02-11,137,6
+384,If I Can't Stop You,C.B.Overton,72,1978-02-18,1978-04-08,136,8
+385,Rub Down,Joe Tex,70,1978-01-28,1978-03-04,134,6
+386,Only The Strong Survive,Billy Paul,68,1978-01-07,1978-02-11,133,6
+387,Supernature,Cerrone,72,1978-01-28,1978-03-04,130,6
+388,You Are The Reason (I Feel Like Dancing),The 5th Dimension,66,1978-03-11,1978-04-22,129,7
+389,You Don't Have To Say You Love Me,The Floaters,50,1978-01-07,1978-01-21,128,3
+390,Insane,Cameo,56,1978-12-09,1978-12-30,128,4
+391,Just For Your Love,Memphis Horns,33,1978-01-07,1978-01-14,127,2
+392,<P6>(You're The) <P255>Biggest Joke In Town,Eon,72,1978-08-26,1978-09-23,127,5
+393,Black Water Gold,The Sunshine Band,75,1978-04-01,1978-05-20,127,8
+394,Cheaters Never Win,Love Committee,57,1978-01-07,1978-01-28,126,4
+395,Who's Gonna Love Me,Imperials,73,1978-06-10,1978-07-15,125,6
+396,Don't Stop Reaching For The Top,Jean Terrell,72,1978-05-27,1978-06-24,124,5
+397,A Piece Of The Action,Mavis Staples,52,1978-01-07,1978-01-28,123,4
+398,We Are The Future,High Inergy,77,1978-06-24,1978-08-05,123,7
+399,I'm Gonna Make You My Wife,The Whispers,54,1978-01-07,1978-01-21,122,3
+400,Cheek To Cheek,Kay-Gees,75,1978-07-29,1978-09-02,122,6
+401,"Monkey See, Monkey Do",Le Pamplemousse,76,1978-05-13,1978-07-08,121,9
+402,Do You Feel All Right,KC And The Sunshine Band,62,1978-10-14,1978-11-04,119,4
+403,Zeke The Freak,Isaac Hayes,55,1978-12-16,1978-12-30,118,3
+404,Call My Job,Albert King,72,1978-01-28,1978-03-11,118,7
+405,Dusic,Brick,38,1978-01-07,1978-01-14,117,2
+406,Joy To Have Your Love,Patti LaBelle,42,1978-01-07,1978-01-14,117,2
+407,Pasado,Pockets,65,1978-03-11,1978-04-22,117,7
+408,After All The Good Is Gone,Johnny Adams,75,1978-05-20,1978-07-08,113,8
+409,Runnin' For Your Lovin,The Brothers Johnson,39,1978-01-07,1978-01-14,112,2
+410,Tonight I'm Gonna Make You A Star,Brenda And Herb,70,1978-09-09,1978-09-30,111,4
+411,Your My Peace Of Mind,David Ruffin,71,1978-02-04,1978-03-04,111,5
+412,Risky Changes,Bionic Boogie,79,1978-03-18,1978-05-06,111,8
+413,Send It,Ashford & Simpson,41,1978-01-07,1978-01-14,108,2
+414,Theme From Close Encounters,Meco,76,1978-02-04,1978-03-04,105,5
+415,Baltimore,Ron Preyer,84,1978-04-29,1978-06-17,105,8
+416,If You Feel Like Dancin',Al Hudson,78,1978-01-07,1978-02-11,103,6
+417,Standing Right Here,Melba Moore,69,1978-01-07,1978-02-04,100,5
+418,Movin' On,George Duke,68,1978-09-23,1978-10-14,99,4
+419,Too Late,Mandrill,69,1978-12-09,1978-12-30,98,4
+420,Working Overtime,Denise LaSalle,70,1978-10-28,1978-12-02,98,6
+421,Shoe Soul,Smokey Robinson,68,1978-11-11,1978-12-09,97,5
+422,Get Up,Brass Construction,66,1978-12-16,1978-12-30,95,3
+423,Come On Back To Me Lover,Margie Joseph,85,1978-04-29,1978-06-10,95,7
+424,Welcome To Harlem,Gary Toms Empire,78,1978-10-21,1978-11-25,94,6
+425,"For Goodness Sakes,look At Those Cakes",James Brown,67,1978-12-16,1978-12-30,92,3
+426,Slow Dance,Stanley Clarke,76,1978-07-29,1978-09-02,92,6
+427,Especially For You,Manchild,70,1978-01-07,1978-02-04,91,5
+428,Paradise,Willie Hutch,74,1978-11-18,1978-12-09,91,4
+429,Love Is Here,Ronnie Laws,71,1978-12-09,1978-12-30,90,4
+430,Bustin' Loose,Chuck Brown & The Soul Searchers,68,1978-12-16,1978-12-30,88,3
+431,Love Having You Around,First Choice,68,1978-01-07,1978-01-28,88,4
+432,Baby Sinister,Slave,74,1978-06-03,1978-06-24,88,4
+433,I Second That Emotion,Thelma Jones,74,1978-10-07,1978-11-11,88,6
+434,Celebrate,Brass Construction,77,1978-07-15,1978-08-12,88,5
+435,Whistle Bump,Eumir Deodato,81,1978-07-22,1978-08-26,87,6
+436,What's Your Sign Girl,Danny Pearson,74,1978-12-02,1978-12-30,86,5
+437,It's Alright (This Feeling I'm Feeling),Vivian Reed,74,1978-10-07,1978-11-04,86,5
+438,Do It With Feeling,Michael Zager And The Moon Band,76,1978-06-17,1978-08-19,86,10
+439,Take Me As I Am,Philippe Wynne,69,1978-01-07,1978-01-21,84,3
+440,She Puts The Ease Back Into Easy,Brothers By Choice,79,1978-09-09,1978-10-21,83,7
+441,Loose Caboose,Joe Tex,70,1978-12-16,1978-12-30,82,3
+442,Number One,Eloise Laws,78,1978-04-15,1978-05-13,81,5
+443,We're On Our Way Home Pt. 1,Brainstorm,84,1978-03-18,1978-04-22,78,6
+444,Let's Dance Together,Wilton Felder,72,1978-12-16,1978-12-30,76,3
+445,Honest I Do Love You,Candi Staton,77,1978-12-09,1978-12-30,75,4
+446,E.s.p.,Fiesta,73,1978-12-16,1978-12-30,73,3
+447,Change Of Pace,Brotherhood Of Man,77,1978-07-29,1978-08-19,72,4
+448,Having A Party,Norma Jean,83,1978-11-18,1978-12-16,69,5
+449,Funky Monkey,Mandrill,74,1978-01-07,1978-01-28,68,4
+450,Lovely Night For Dancin',Bill Withers,75,1978-04-15,1978-04-29,68,3
+451,Spread Love,Al Hudson And The Soul Partners,75,1978-09-02,1978-09-16,68,3
+452,Spend The Night With Me,Silver Convention,80,1978-06-17,1978-07-22,68,6
+453,Do Yourself A Favor,Newcomers,84,1978-08-19,1978-10-07,68,8
+454,Love Makes A Woman,Phoebe Snow,87,1978-01-21,1978-03-04,68,7
+455,THE NIGHT THE LIGHTS WENT OUT,The Trammps,80,1978-01-07,1978-02-04,66,5
+456,When It's Over,Roberta Flack,82,1978-12-09,1978-12-30,66,4
+457,I Got To Have Your Love,Fantastic Four,66,1978-01-07,1978-01-14,65,2
+458,There Will Be Love,Lou Rawls,76,1978-08-19,1978-09-02,65,3
+459,"Baby, I Just Wanna Love You",Jonell,89,1978-04-22,1978-05-27,64,6
+460,KISS ME (THE WAY I LIKE IT),George McCrae,64,1978-01-07,1978-01-21,63,3
+461,Substitute,Gloria Gaynor,78,1978-10-14,1978-11-04,63,4
+462,Hang It Up,Patrice Rushen,76,1978-12-16,1978-12-30,62,3
+463,Ain't Nothing Wrong,Ronnie Dyson,77,1978-01-28,1978-02-11,62,3
+464,Up The Down Stairs,Wilson Williams,80,1978-04-08,1978-05-06,61,5
+465,You've Been A Part Of Me,Wee Gee,86,1978-04-15,1978-05-20,61,6
+466,GET ON UP (GET ON DOWN),Roundtree,76,1978-09-30,1978-10-14,59,3
+467,True Love <P6>(You Took My Heart),Betty Everett,78,1978-09-23,1978-10-07,59,3
+468,Can't Nobody Love Me Like You Do,General Johnson,79,1978-11-04,1978-12-02,58,5
+469,Sittin' On A Poor Man's Throne,Bobby Bland,82,1978-03-04,1978-04-08,58,6
+470,Solutions,Dexter Wansel,87,1978-06-03,1978-07-01,57,5
+471,One Night To Live,Denise LaSalle,87,1978-05-20,1978-06-17,57,5
+472,Everybody's Dancin',Kool & The Gang,78,1978-12-16,1978-12-30,56,3
+473,Don't Look At Me That Way,Alex Taylor,83,1978-12-09,1978-12-30,54,4
+474,Rhythm Of Life,Afro-Cuban Band,84,1978-09-16,1978-10-28,54,7
+475,Skokian,Herb Alpert And Hugh Masekela,87,1978-04-29,1978-05-27,54,5
+476,Off,Kathy Barnes,79,1978-12-16,1978-12-30,53,3
+477,Let Me Live The Life I Love,Latimore,71,1978-01-07,1978-01-21,52,3
+478,Shaker Song,Spyro Gyra,90,1978-05-13,1978-07-08,52,9
+479,You Can Do It,Dobie Gray,80,1978-12-16,1978-12-30,50,3
+480,All You Got,Tyrone Davis,73,1978-01-07,1978-01-14,47,2
+481,Star Love,3 Ounces Of Love,87,1978-05-13,1978-06-03,47,4
+482,"You Like It, We Love It",South Road Connection,88,1978-02-11,1978-03-11,46,5
+483,Sensous Woman,Stargard,84,1978-12-16,1978-12-30,45,3
+484,Sky High,Mass Production,85,1978-08-26,1978-09-16,45,4
+485,Jazz Freak,Paulette Reaves,88,1978-01-21,1978-02-25,45,6
+486,Shoot Me (With Your Love),Tasha Thomas,81,1978-12-16,1978-12-30,44,3
+487,Shake Down Part I,Black Ice,85,1978-01-07,1978-01-28,44,4
+488,Shine On Silver Moon,"Marilyn McCoo & Billy Davis, Jr.",86,1978-09-16,1978-10-07,43,4
+489,The Beat Goes On + On,Ripple,91,1978-03-25,1978-04-29,43,6
+490,Maximum Stimulation,Jimmy Castor,82,1978-02-04,1978-02-25,42,4
+491,I'm At The Crossroad (pt. 1),Vernon Garrett,79,1978-01-07,1978-01-21,41,3
+492,Don't Put Out The Fire,Frank Lucas,85,1978-02-04,1978-03-04,39,5
+493,Sticks And Stones (But The Funk Won't Never Hurt You),Finished Touch,88,1978-09-23,1978-10-14,39,4
+494,Holdin' Out (For Your Love),Rhythm Heritage,92,1978-03-18,1978-04-15,39,5
+495,Ever Ready,Johnnie Taylor,84,1978-07-15,1978-08-05,38,4
+496,Sing A Happy Song,War,87,1978-10-28,1978-11-11,37,3
+497,Fine And Healthy Thing,Leon Haywood,84,1978-05-06,1978-05-27,36,4
+498,I Thought It Was You,Herbie Hancock,85,1978-08-05,1978-08-26,36,4
+499,Double My Pleasure,Leon Haywood,91,1978-02-11,1978-03-11,35,5
+500,Won't You Be Mine,Michael Henderson,84,1978-01-07,1978-01-21,34,3
+501,All My Love (Part 1),D.J. Rogers,87,1978-11-25,1978-12-30,34,6
+502,"MR. DJ,YOU KNOW HOW TO MAKE ME DANCE",The Glass Family,88,1978-11-04,1978-11-18,34,3
+503,I'd Rather Hurt Myself (Than To Hurt You),Randy Brown,89,1978-03-25,1978-04-15,33,4
+504,Please Don't Say Goodbye To Me,Solomon Burke,91,1978-09-23,1978-10-14,33,4
+505,Night People,Lee Dorsey,93,1978-02-18,1978-03-25,33,6
+506,What I Did For Love,Inner City Jam Band,77,1978-01-07,1978-01-14,32,2
+507,Mind Pleaser,Cuba Gooding,91,1978-05-20,1978-06-10,31,4
+508,You Make Me Feel (Mighty Real),Sylvester,85,1978-12-23,1978-12-30,30,2
+509,Shake Your Body (It's The Joint),Gary Bartz,89,1978-08-12,1978-09-09,30,5
+510,Do Dat,"Grover Washington, Jr.",87,1978-12-16,1978-12-30,29,3
+511,Say Yeah,Sam Dees,89,1978-05-06,1978-06-10,29,6
+512,One Night Affair,Samona Cooke,91,1978-07-08,1978-07-22,29,3
+513,From East To West,Voyage,85,1978-07-15,1978-07-22,28,2
+514,Heat Of The Beat,Roy Ayers And Wayne Henderson,86,1978-12-23,1978-12-30,28,2
+515,I'm Gonna Let Ya,Nancy Wilson,94,1978-06-10,1978-07-08,28,5
+516,I Love The Way You Love,Ginie Lynn,95,1978-07-15,1978-08-19,28,6
+517,I'm In Love With Love,Kathy Barnes,88,1978-07-15,1978-07-29,27,3
+518,Yours And Yours Alone,Esther Williams,91,1978-12-16,1978-12-30,27,3
+519,Bayou Bottoms,The Crusaders,93,1978-09-23,1978-10-14,27,4
+520,Just Funnin',Mtume,93,1978-08-05,1978-09-02,27,5
+521,The Path (Part Two),Ralph MacDonald,90,1978-05-13,1978-05-27,25,3
+522,Hot Stuff,Wayne Henderson,91,1978-08-05,1978-08-19,25,3
+523,"Freak In,freak Out",Timmy Thomas,92,1978-10-07,1978-10-21,25,3
+524,Personality,Jackie Moore,92,1978-08-26,1978-09-16,25,4
+525,I'll Dance,Barkays,88,1978-12-23,1978-12-30,24,2
+526,I Just Can't Leave Your Love Alone,B.B. King,90,1978-11-04,1978-11-18,24,3
+527,I Can't Move No Mountains,Shirley Brown,92,1978-07-22,1978-08-05,24,3
+528,Dance To The Drummers Beat,Herman Kelly And Life,92,1978-11-04,1978-11-18,24,3
+529,Magic Trick,Ohio Players,93,1978-04-01,1978-04-22,24,4
+530,We're In Love,Patti Austin,90,1978-02-04,1978-02-25,23,4
+531,My Reason To Be Is You,"Marilyn McCoo & Billy Davis, Jr.",92,1978-02-11,1978-02-25,23,3
+532,Keep The Home Fire Burnin',Millie Jackson,89,1978-12-23,1978-12-30,22,2
+533,Sho You Rite,Wilson Williams,92,1978-07-08,1978-07-22,22,3
+534,I Feel His Love Getting Stronger,Margie Joseph,94,1978-09-16,1978-09-30,21,3
+535,Somewhere In My Lifetime,Phyllis Hyman,90,1978-12-23,1978-12-30,20,2
+536,Minnie The Moocher,DJ Leon Cormack Featuring Cab Calloway,91,1978-10-14,1978-10-21,20,2
+537,How Can I Be Sure,Randy Jackson,91,1978-09-09,1978-09-16,20,2
+538,Love The Way You Love Me,Eddie Horan,91,1978-08-19,1978-09-02,19,3
+539,A Piece Of My Heart,Etta James,93,1978-06-03,1978-06-17,19,3
+540,1-2-3 (You and Me),Dorothy Moore,93,1978-07-08,1978-08-05,19,5
+541,From Now On,Linda Clifford,94,1978-01-07,1978-01-28,19,4
+542,Overdose Of Love,Lowrell,89,1978-11-04,1978-11-18,18,3
+543,Journey Into Love,Lonnie Liston Smith,92,1978-06-24,1978-07-01,18,2
+544,Get Ready For The Future,WINNER,93,1978-09-16,1978-09-30,18,3
+545,Don't Take Away Your Love,"Hodges, James And Smith",90,1978-01-07,1978-01-14,17,2
+546,Let's Dance (People All Over The World),George McCrae,93,1978-06-24,1978-07-08,17,3
+547,I Don't Do Windows,O.V. Wright,91,1978-07-01,1978-07-08,16,2
+548,Soul Bones,The Trammps,92,1978-12-23,1978-12-30,16,2
+549,I Live Across The Street,Sho-Nuff,93,1978-10-21,1978-11-04,16,3
+550,Before The Rain,Lee Oskar,91,1978-12-02,1978-12-09,15,2
+551,Dance (do What You Wanna Do),The Sundays,92,1978-03-11,1978-03-25,15,3
+552,Kiss You All Over,Broadway,92,1978-12-02,1978-12-16,14,3
+553,This Kind Of Love,Special Delivery,93,1978-12-09,1978-12-16,14,2
+554,Standing In The Shadows Of Love,Deborah Washington,93,1978-11-25,1978-12-02,14,2
+555,Glad I Gotcha Baby,Beverly And Duane,93,1978-12-23,1978-12-30,14,2
+556,Peaceful Journey,Fat Larry's Band,94,1978-04-15,1978-04-22,14,2
+557,Use Ta Be My Guy,MFSB,94,1978-08-05,1978-08-12,14,2
+558,Timber,Tavares,94,1978-07-08,1978-07-15,14,2
+559,Do It All Night,Curtis Mayfield,96,1978-09-30,1978-10-14,13,3
+560,We Got Our Own Thing - Pt. I,C.J. & Company,93,1978-01-07,1978-01-14,12,2
+561,Groovin',Wilson Pickett,94,1978-11-04,1978-11-11,12,2
+562,Just As Long As We're Together,Prince And The Revolution,94,1978-12-23,1978-12-30,12,2
+563,Just Family,Dee Dee Bridgewater,95,1978-06-10,1978-06-17,12,2
+564,Je Suis Music,Cerrone,95,1978-12-16,1978-12-30,12,3
+565,Almost Like Being In Love,Michael Johnson,91,1978-11-11,1978-11-18,11,2
+566,Don't Even Try (Give It Up),Bunny Sigler,94,1978-12-02,1978-12-09,11,2
+567,Witch Doctor,Paul Horn,95,1978-11-11,1978-11-18,10,2
+568,MOONLIGHT LOVIN'(MENAGE A TROIS)/STRANGER IN PARAD,Isaac Hayes,96,1978-05-06,1978-05-13,10,2
+569,Law And Order,Love Committee,97,1978-07-01,1978-07-22,10,4
+570,Having A Party,The Pointer Sisters,95,1978-01-07,1978-01-14,9,2
+571,I Will,Ruby Winters,97,1978-06-10,1978-06-24,9,3
+572,Wonderful,"Marilyn McCoo & Billy Davis, Jr.",96,1978-01-07,1978-01-14,7,2
+573,#1 Dee Jay,Goody Goody,97,1978-11-25,1978-12-02,6,2
+574,Catch Me On The Rebound,Loleatta Holloway,97,1978-12-23,1978-12-30,6,2
+575,"see KIRKLAND, Bo",Ruth Davis ù,98,1978-06-24,1978-07-01,6,2
+576,Lovin You Is Gonna See Me Thru,Tower Of Power,98,1978-05-13,1978-05-20,6,2
+577,Melodies,Made In U.S.A.,97,1978-01-07,1978-01-07,4,1
+578,Groove (Ain't No Doubt About It),Bobby Lyle,98,1978-12-23,1978-12-30,4,2
+579,Master Booty,The Fatback Band,98,1978-01-07,1978-01-14,4,2
+580,Happy Beat,Mandrill,99,1978-05-27,1978-06-03,4,2
+581,Voyage To Atlantis,The Isley Brothers,99,1978-01-07,1978-01-07,2,1
+582,If Somebody Cares,The Controllers,99,1978-12-23,1978-12-30,2,2
+583,One Step At A Time,Joe Simon,100,1978-01-07,1978-01-07,1,1
+584,Y.M.C.A.,Village People,36,1978-11-14,1978-12-26,-395,7

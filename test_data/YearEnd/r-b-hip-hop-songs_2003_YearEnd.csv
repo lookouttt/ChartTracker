@@ -1,0 +1,411 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Get Low,Lil Jon & The East Side Boyz Featuring Ying Yang Twins,2,2003-04-12,2003-12-27,4423,38
+2,Right Thurr,Chingy,2,2003-04-26,2003-12-27,4129,36
+3,In Da Club,50 Cent,1,2003-01-04,2003-08-02,4084,31
+4,So Gone,Monica,1,2003-04-05,2003-11-01,3827,31
+5,Miss You,Aaliyah,1,2003-01-04,2003-07-26,3723,30
+6,Get Busy,Sean Paul,1,2003-02-15,2003-10-04,3698,34
+7,Frontin',Pharrell Featuring Jay-Z,1,2003-05-17,2003-12-27,3684,33
+8,Ignition,R. Kelly,2,2003-01-04,2003-07-05,3556,27
+9,21 Questions,50 Cent Featuring Nate Dogg,1,2003-03-08,2003-09-13,3489,28
+10,P.I.M.P.,50 Cent,2,2003-04-12,2003-11-22,3450,33
+11,How You Gonna Act Like That,Tyrese,3,2003-01-04,2003-08-02,3355,31
+12,Damn!,YoungBloodZ Featuring Lil Jon,2,2003-06-28,2003-12-27,3266,27
+13,Step In The Name Of Love,R. Kelly,1,2003-01-04,2003-12-27,3264,33
+14,Put That Woman First,Jaheim,5,2003-02-22,2003-10-18,3205,35
+15,I Know What You Want,Busta Rhymes & Mariah Carey Featuring The Flipmode Squad,2,2003-02-01,2003-08-16,3135,29
+16,Beautiful,Snoop Dogg Featuring Pharrell & Uncle Charlie Wilson,3,2003-01-25,2003-08-16,3112,30
+17,Come Over,Aaliyah,9,2003-04-19,2003-12-27,3104,37
+18,Crazy In Love,Beyonce Featuring Jay Z,1,2003-05-24,2003-11-08,3094,25
+19,Can't Let You Go,Fabolous Featuring Mike Shorey & Lil' Mo,2,2003-02-15,2003-08-23,3085,28
+20,Baby Boy,Beyonce Featuring Sean Paul,1,2003-07-05,2003-12-27,3076,26
+21,Magic Stick,Lil' Kim Featuring 50 Cent,2,2003-04-05,2003-09-27,2891,26
+22,In Those Jeans,Ginuwine,3,2003-05-10,2003-11-08,2877,27
+23,I Wish I Wasn't,Heather Headley,15,2003-03-08,2003-11-15,2810,37
+24,Stand Up,Ludacris Featuring Shawnna,1,2003-08-16,2003-12-27,2710,20
+25,Excuse Me Miss,JAY-Z,1,2003-01-25,2003-06-28,2561,23
+26,Say Yes,Floetry,8,2003-02-08,2003-08-30,2470,30
+27,Into You,Fabolous Featuring Tamia Or Ashanti,6,2003-05-24,2003-11-15,2451,26
+28,Thoia Thoing,R. Kelly,6,2003-07-12,2003-12-27,2399,25
+29,Love Calls,Kem,25,2003-04-19,2003-12-27,2399,37
+30,Rain On Me,Ashanti,2,2003-07-26,2003-12-27,2389,23
+31,Walked Outta Heaven,Jagged Edge,2,2003-08-16,2003-12-27,2326,20
+32,Shake Ya Tailfeather,"Nelly, P. Diddy & Murphy Lee",3,2003-06-21,2003-11-22,2296,23
+33,Never Scared,Bone Crusher Featuring Killer Mike & T.I.,8,2003-01-04,2003-08-30,2223,35
+34,Love Of My Life (An Ode To Hip Hop),Erykah Badu Featuring Common,1,2003-01-04,2003-05-17,2222,20
+35,Like A Pimp,David Banner Featuring Lil' Flip,15,2003-03-22,2003-10-18,2143,31
+36,"Can't Stop, Won't Stop",Young Gunz,10,2003-05-31,2003-12-13,2133,29
+37,The Jump Off,Lil' Kim Featuring Mr. Cheeks,8,2003-02-01,2003-07-12,2028,24
+38,Rock Wit U (Awww Baby),Ashanti,4,2003-05-03,2003-09-13,2014,20
+39,Emotional Rollercoaster,Vivian Green,13,2003-01-04,2003-07-05,2002,27
+40,No Letting Go,Wayne Wonder,14,2003-01-04,2003-06-28,2001,26
+41,I Can,Nas,7,2003-01-04,2003-06-28,1975,26
+42,I'll Never Leave,R. Kelly,29,2003-04-05,2003-11-01,1972,31
+43,What Would You Do?,The Isley Brothers Featuring Ronald Isley,14,2003-02-15,2003-08-16,1935,27
+44,Dance With My Father,Luther Vandross,28,2003-05-17,2003-12-06,1930,30
+45,All I Have,Jennifer Lopez Featuring LL Cool J,4,2003-01-04,2003-05-03,1862,18
+46,Gossip Folks,"Missy ""Misdemeanor"" Elliott Featuring Ludacris",5,2003-01-04,2003-05-03,1841,18
+47,The Way You Move,OutKast Featuring Sleepy Brown,3,2003-09-13,2003-12-27,1823,16
+48,Holidae In,Chingy Featuring Ludacris & Snoop Dogg,2,2003-09-06,2003-12-27,1821,17
+49,Fabulous,Jaheim Featuring Tha Rayne,7,2003-01-04,2003-05-31,1818,22
+50,"Never Leave You - Uh Ooh, Uh Oooh!",Lumidee,9,2003-05-03,2003-09-27,1810,22
+51,Wanksta,50 Cent,4,2003-01-04,2003-04-26,1763,17
+52,dontchange,Musiq,7,2003-01-04,2003-05-24,1706,21
+53,4 Ever,Lil' Mo Featuring Fabolous,13,2003-03-08,2003-08-09,1699,23
+54,Read Your Mind,Avant,5,2003-08-09,2003-12-27,1695,21
+55,Mesmerize,Ja Rule Featuring Ashanti,5,2003-01-04,2003-05-03,1688,18
+56,Clubbin,Marques Houston Featuring Joe Budden & Pied Piper,12,2003-08-02,2003-12-27,1658,22
+57,Like Glue,Sean Paul,9,2003-05-31,2003-10-11,1624,20
+58,Pump It Up,Joe Budden,16,2003-03-01,2003-08-09,1597,24
+59,"Bump, Bump, Bump",B2K & P. Diddy,2,2003-01-04,2003-03-29,1578,13
+60,Snake,R. Kelly Featuring Big Tigger,9,2003-03-15,2003-08-02,1568,21
+61,Signs Of Love Makin',Tyrese,18,2003-05-17,2003-10-18,1551,23
+62,Officially Missing You,Tamia,31,2003-05-31,2003-11-22,1517,26
+63,Air Force Ones,"Nelly Featuring Kyjuan, Ali & Murphy Lee",4,2003-01-04,2003-04-12,1512,15
+64,Sick Of Being Lonely,Field Mob,10,2003-01-04,2003-05-10,1505,19
+65,If I Can't,50 Cent,34,2003-02-22,2003-09-13,1479,30
+66,I Should Be...,Dru Hill,6,2003-01-04,2003-04-05,1420,14
+67,Superstar,Ruben Studdard,2,2003-06-21,2003-11-01,1404,20
+68,Let's Get Down,Bow Wow Featuring Baby,12,2003-06-21,2003-11-01,1373,20
+69,24's,T.I.,27,2003-05-24,2003-11-08,1340,25
+70,Hell Yeah,Ginuwine Featuring Baby,16,2003-01-25,2003-06-07,1331,20
+71,Guess What,Syleena Johnson,29,2003-01-04,2003-05-24,1331,21
+72,Work It,"Missy ""Misdemeanor"" Elliott",2,2003-01-04,2003-03-29,1316,13
+73,Cry Me A River,Justin Timberlake,11,2003-01-04,2003-05-10,1301,19
+74,What Up Gangsta,50 Cent,26,2003-05-03,2003-10-11,1295,24
+75,Thugz Mansion,2Pac,10,2003-01-04,2003-04-19,1287,16
+76,Realest N*ggas,The Notorious B.I.G. & 50 Cent,30,2003-01-04,2003-08-09,1278,20
+77,Still Ballin,2Pac Featuring Trick Daddy,31,2003-02-22,2003-07-26,1274,23
+78,Wat Da Hook Gon Be,Murphy Lee Featuring Jermaine Dupri,11,2003-08-30,2003-12-27,1264,18
+79,Love At 1st Sight,Mary J. Blige Featuring Method Man,10,2003-06-28,2003-11-08,1263,20
+80,What Happened To That Boy,Baby Featuring Clipse,14,2003-01-04,2003-05-03,1257,18
+81,Milkshake,Kelis,6,2003-09-06,2003-12-27,1251,17
+82,Girlfriend,B2K,19,2003-02-08,2003-06-21,1247,20
+83,"Pon De River, Pon De Bank",Elephant Man,29,2003-05-24,2003-11-15,1233,26
+84,My Love Is Like... Wo,Mya,17,2003-06-21,2003-11-01,1200,20
+85,Laundromat,Nivea,20,2003-01-04,2003-05-10,1181,19
+86,Ooh!,Mary J. Blige,14,2003-08-23,2003-12-27,1172,19
+87,I Love You,Dru Hill,27,2003-04-05,2003-08-16,1172,20
+88,Find A Way,Dwele,42,2003-06-28,2003-12-20,1147,26
+89,You Don't Know My Name,Alicia Keys,1,2003-11-01,2003-12-27,1144,9
+90,Knock Knock,Monica,24,2003-09-06,2003-12-27,1144,17
+91,Stunt 101,G Unit,7,2003-10-04,2003-12-27,1104,13
+92,P***ycat,"Missy ""Misdemeanor"" Elliott",26,2003-02-22,2003-07-05,1088,20
+93,Act A Fool,Ludacris,20,2003-05-10,2003-09-20,1078,20
+94,La-La-La (Excuse Me Again),JAY-Z,37,2003-04-12,2003-09-13,1073,23
+95,Light Your A** On Fire,Busta Rhymes,23,2003-07-05,2003-11-15,1070,20
+96,Busted,The Isley Brothers Featuring Ronald Isley & JS,35,2003-08-09,2003-12-20,1069,20
+97,Make It Clap,Busta Rhymes Featuring Spliff Star,17,2003-01-04,2003-04-05,1063,14
+98,Getting Late,Floetry,31,2003-08-23,2003-12-27,1004,19
+99,Come Close To Me,Common Featuring Mary J. Blige,21,2003-01-04,2003-04-05,1002,14
+100,Danger,Erykah Badu,27,2003-08-16,2003-12-27,989,20
+101,Runnin (Dying To Live),Tupac Featuring The Notorious B.I.G.,11,2003-10-11,2003-12-27,976,12
+102,Summertime,Beyonce Featuring P. Diddy Or Ghostface Killah,35,2003-07-26,2003-12-06,967,20
+103,"Shoulda, Woulda, Coulda",Brian McKnight,35,2003-03-15,2003-07-26,966,20
+104,Bad Boy This Bad Boy That,Bad Boy's Da Band,15,2003-09-27,2003-12-27,961,14
+105,Beware Of The Boys (Mundian To Bach Ke),Panjabi MC Featuring Jay-Z,21,2003-04-12,2003-08-23,961,20
+106,Pimp Juice,Nelly,27,2003-01-04,2003-05-31,951,22
+107,Pass That Dutch,Missy Elliott,17,2003-10-11,2003-12-27,946,12
+108,In Love Wit Chu,Da Brat Featuring Cherish,32,2003-03-29,2003-08-09,940,20
+109,That Girl,Marques Houston,24,2003-01-25,2003-05-24,939,17
+110,All I Need,Fat Joe Featuring Tony Sunshine & Armageddon,35,2003-01-04,2003-05-10,939,19
+111,X Gon' Give It To Ya,DMX,32,2003-01-25,2003-06-07,931,20
+112,Get By,Talib Kweli,29,2003-03-15,2003-08-09,927,20
+113,Made You Look,Nas,12,2003-01-04,2003-03-22,917,12
+114,Crazy,Javier,42,2003-06-14,2003-10-25,905,20
+115,More & More,Joe,15,2003-09-27,2003-12-27,897,14
+116,Flipside,Freeway Featuring Peedi Crakk,40,2003-05-10,2003-09-20,894,20
+117,I Care 4 U,Aaliyah,22,2003-01-04,2003-03-29,888,13
+118,Clap Back,Ja Rule,17,2003-10-11,2003-12-27,853,12
+119,Far Away,Kindred The Family Soul,53,2003-04-26,2003-09-06,853,20
+120,Change Clothes,JAY-Z,6,2003-11-08,2003-12-27,839,8
+121,Tell Me (What's Goin' On),Smilez & Southstar,28,2003-01-04,2003-04-19,833,16
+122,U Got That Love (Call It A Night),Gerald Levert,30,2003-09-20,2003-12-27,826,15
+123,Love You More,Ginuwine,28,2003-10-04,2003-12-27,819,13
+124,Satisfaction,Eve,22,2003-01-04,2003-03-22,807,12
+125,How You Want That,Loon Featuring Kelis,41,2003-05-03,2003-09-20,806,20
+126,Where The Hood At?,DMX,24,2003-07-19,2003-11-01,804,16
+127,I Need You Now,Smokie Norful,45,2003-08-23,2003-12-27,804,19
+128,'03 Bonnie & Clyde,Jay-Z Featuring Beyonce Knowles,6,2003-01-04,2003-03-01,801,9
+129,I Don't Give A @#&%,Lil Jon & The East Side Boyz Featuring Mystikal & Krayzie Bone,50,2003-01-04,2003-04-26,795,17
+130,Down For Me,Loon Featuring Mario Winans,28,2003-10-04,2003-12-27,791,13
+131,Superman,Eminem,44,2003-02-01,2003-06-14,781,20
+132,Paradise,LL Cool J Featuring Amerie,14,2003-01-04,2003-03-08,778,10
+133,Do That...,Baby Featuring P. Diddy,21,2003-01-04,2003-03-15,775,11
+134,Naggin,Ying Yang Twins,43,2003-07-05,2003-11-15,765,20
+135,One Of Those Days,Whitney Houston,29,2003-01-04,2003-03-22,757,12
+136,Fly,213,39,2003-08-23,2003-12-27,755,19
+137,Forthenight,Musiq,18,2003-10-18,2003-12-27,713,11
+138,Gimme The Light,Sean Paul,16,2003-01-04,2003-03-08,706,10
+139,Ice Cream,JS,54,2003-05-17,2003-09-27,695,20
+140,I Still Love You,702,49,2003-03-22,2003-08-02,691,20
+141,Hot & Wet,112 Featuring Ludacris,29,2003-09-27,2003-12-27,682,14
+142,This Very Moment,K-Ci & JoJo,53,2003-01-04,2003-05-03,679,18
+143,Suga Suga,Baby Bash Featuring Frankie J,54,2003-08-23,2003-12-27,670,19
+144,Salt Shaker,Ying Yang Twins Featuring Lil Jon & The East Side Boyz,20,2003-10-04,2003-12-27,669,13
+145,Crush On You,Mr. Cheeks Featuring Mario Winans,52,2003-02-22,2003-07-05,658,20
+146,"Ma, I Don't Love Her",Clipse Featuring Faith Evans,40,2003-01-04,2003-04-19,653,16
+147,A.D.I.D.A.S.,Killer Mike Featuring Big Boi,42,2003-02-08,2003-05-31,653,17
+148,Backtight,Jaheim,51,2003-09-20,2003-12-27,641,15
+149,Gigolo,Nick Cannon Featuring R. Kelly,27,2003-10-11,2003-12-27,640,12
+150,Party To Damascus,Wyclef Jean Featuring Missy Elliott,34,2003-09-27,2003-12-27,639,14
+151,Luv U Better,LL Cool J,17,2003-01-04,2003-03-01,628,9
+152,Shake That Monkey,Too Short Featuring Lil Jon & The East Side Boyz,56,2003-08-09,2003-12-20,625,20
+153,Step Daddy,Hitman Sammy Sam,41,2003-04-05,2003-07-19,620,16
+154,Got Some Teeth,Obie Trice,33,2003-08-30,2003-11-22,604,13
+155,Na Na Na,112 Featuring Super Cat,24,2003-07-26,2003-10-18,597,13
+156,"Me, Myself And I",Beyonce,12,2003-11-08,2003-12-27,596,8
+157,Choppa Style,Choppa Featuring Master P,49,2003-01-04,2003-04-12,596,15
+158,He Proposed,Kelly Price,58,2003-03-08,2003-07-12,589,19
+159,Hail Mary,"Eminem, 50 Cent & Busta Rhymes",33,2003-05-10,2003-08-16,586,15
+160,Deep,BLACKstreet,51,2003-01-04,2003-04-19,578,16
+161,Gangsta Nation,Westside Connection Featuring Nate Dogg,35,2003-10-18,2003-12-27,570,11
+162,Thug Holiday,Trick Daddy Featuring LaTocha Scott,40,2003-01-04,2003-03-15,569,11
+163,B R Right,Trina Featuring Ludacris,50,2003-01-04,2003-03-22,568,12
+164,Lose Yourself,Eminem,9,2003-01-04,2003-02-15,564,7
+165,My Baby,Bow Wow Featuring Jagged Edge,24,2003-11-01,2003-12-27,557,9
+166,Closure,Gerald Levert,57,2003-02-15,2003-06-21,549,19
+167,"Fire (Yes, Yes Y'all)",Joe Budden Featuring Busta Rhymes,48,2003-07-05,2003-11-15,544,20
+168,Comin' From Where I'm From,Anthony Hamilton,60,2003-08-16,2003-12-27,539,20
+169,Hot Damn,Clipse Featuring Ab-Liva & Rosco P. Coldchain,58,2003-01-11,2003-08-02,538,20
+170,Cop That Sh#!,Timbaland & Magoo Featuring Missy Elliott,49,2003-07-12,2003-10-11,535,14
+171,Ridin' Spinners,Three 6 Mafia Featuring Lil' Flip,62,2003-05-31,2003-10-04,535,19
+172,Patiently Waiting,50 Cent Featuring Eminem,56,2003-02-15,2003-06-28,534,20
+173,Break You Off,The Roots Featuring Musiq,55,2003-01-04,2003-03-29,526,13
+174,When The Last Time,Clipse,19,2003-01-04,2003-02-15,520,7
+175,One More Chance,Michael Jackson,40,2003-10-25,2003-12-27,520,10
+176,Wonderful,Aretha Franklin,46,2003-10-18,2003-12-27,497,11
+177,Rock Your Body,Justin Timberlake,45,2003-04-12,2003-07-26,496,16
+178,Talkin' To Me,Amerie,23,2003-01-04,2003-02-15,492,7
+179,Yeah Yeah U Know It,Keith Murray Featuring Def Squad,50,2003-02-15,2003-06-07,488,17
+180,The Only Thing Missin',Aretha Franklin,53,2003-07-19,2003-10-25,483,15
+181,Slow Jamz,Twista Featuring Kanye West & Jamie Foxx,10,2003-11-15,2003-12-27,482,7
+182,Hey Ya!,OutKast,14,2003-11-15,2003-12-27,473,7
+183,What We Do,Freeway Featuring Jay-Z & Beanie Sigel,52,2003-01-04,2003-03-15,473,11
+184,Party & Bullsh*t 2003,Rah Digga,65,2003-08-16,2003-12-27,465,20
+185,Through The Wire,Kanye West,16,2003-10-18,2003-12-27,464,11
+186,The Battle Is The Lord's,Yolanda Adams,75,2003-01-04,2003-05-17,464,20
+187,Calling All Girls,ATL,48,2003-08-23,2003-11-29,463,15
+188,Too Much For Me,"DJ KaySlay Featuring Nas, Foxy Brown, Baby & Amerie",53,2003-03-15,2003-06-14,463,14
+189,Feelin' Freaky,Nick Cannon Featuring B2K,46,2003-07-12,2003-09-27,462,12
+190,Fallen,Mya,35,2003-11-08,2003-12-27,447,8
+191,C'mon,Mario,61,2003-02-01,2003-05-10,442,15
+192,What A Girl Wants,B2K,47,2003-08-16,2003-11-01,431,12
+193,Lights Out,Mack 10 Featuring Westside Connection & Knoc-Turn'Al,61,2003-05-24,2003-10-11,427,20
+194,Touched A Dream,R. Kelly,49,2003-10-25,2003-12-27,424,10
+195,Angel,Amanda Perez,57,2003-01-04,2003-05-03,423,18
+196,Fanatic,Vivian Green,52,2003-06-14,2003-09-06,416,13
+197,He Is,Heather Headley,38,2003-01-04,2003-02-15,410,7
+198,Hit The Freeway,Toni Braxton Featuring Loon,39,2003-01-04,2003-02-22,407,8
+199,Hotel,Cassidy Featuring R. Kelly,44,2003-10-18,2003-12-27,401,11
+200,Neva Eva,Trillville,46,2003-10-11,2003-12-27,401,12
+201,Don't Mess With My Man,Nivea Featuring Brian & Brandon Casey,27,2003-01-04,2003-02-08,398,6
+202,Bunny Hop,Da Entourage,67,2003-02-08,2003-05-24,398,16
+203,21 Questions (Again),Debreca,42,2003-04-26,2003-07-12,391,12
+204,Stop,JAY-Z,53,2003-04-05,2003-07-19,391,16
+205,21 Answers,Lil' Mo Featuring Free,50,2003-05-10,2003-07-19,385,11
+206,Be Easy,T.I.,55,2003-10-25,2003-12-27,380,10
+207,I Want You,Thalia Featuring Fat Joe,61,2003-06-07,2003-09-06,379,14
+208,Not Today,Mary J. Blige Featuring Eve,21,2003-11-22,2003-12-27,361,6
+209,Stingy,Ginuwine,34,2003-01-04,2003-02-08,361,6
+210,React,Erick Sermon Featuring Redman,21,2003-01-04,2003-02-01,357,5
+211,Dilemma,Nelly Featuring Kelly Rowland,37,2003-01-04,2003-02-08,355,6
+212,Rock The Party,Benzino,37,2003-01-04,2003-02-08,352,6
+213,Roun' The Globe,Nappy Roots,53,2003-08-16,2003-10-18,348,10
+214,Just A Dog,Big Moe,69,2003-09-20,2003-12-27,344,15
+215,Thug Lovin',Ja Rule Featuring Bobby Brown,33,2003-01-04,2003-03-01,341,9
+216,Say How I Feel,Rhian Benson,66,2003-09-27,2003-12-27,336,14
+217,This Is How We Do,Big Tymers,53,2003-10-11,2003-12-27,326,12
+218,Iz U,Nelly,51,2003-10-25,2003-12-27,323,10
+219,Make Me A Song,Kiley Dean,54,2003-05-03,2003-07-05,318,10
+220,Roll Wit M.V.P. (We Be Like! The La La Song),Stagga Lee,68,2003-03-15,2003-06-28,316,16
+221,Nookie (Real Good),Jacki-O Featuring Rodney,61,2003-08-23,2003-11-08,315,12
+222,Love Angel,JS,62,2003-11-01,2003-12-27,315,9
+223,Take You Home,Angie Martinez Featuring Kelis,62,2003-01-04,2003-03-29,309,12
+224,Baby,Ashanti,36,2003-01-04,2003-02-01,305,5
+225,Get It On The Floor,DMX Featuring Swizz Beatz,57,2003-10-25,2003-12-27,302,10
+226,The Morning After,Deborah Cox,63,2003-01-04,2003-03-15,300,11
+227,8 Mile,Eminem,65,2003-01-04,2003-03-29,298,13
+228,Jenny From The Block,Jennifer Lopez Featuring Styles & Jadakiss,44,2003-01-04,2003-02-22,284,8
+229,Symphony In X Major,Xzibit Featuring Dr. Dre,63,2003-01-11,2003-04-26,283,15
+230,Closer,Goapele,83,2003-05-31,2003-10-11,283,20
+231,Faithful To You,Syleena Johnson,68,2003-07-12,2003-10-04,282,13
+232,Gangsta Girl,Big Tymers Featuring R. Kelly,45,2003-11-08,2003-12-27,280,8
+233,Head Bussa,Lil Scrappy,75,2003-09-20,2003-12-27,279,15
+234,Forever,R. Kelly,71,2003-06-28,2003-11-29,275,17
+235,The Set Up,Obie Trice Featuring Nate Dogg,41,2003-11-22,2003-12-27,271,6
+236,Quick To Back Down,Bravehearts Featuring Nas & Lil Jon,48,2003-11-22,2003-12-27,270,6
+237,Candi Bar,Keith Murray,63,2003-06-07,2003-08-16,264,11
+238,You Already Know,H.A.W.K. Featuring Big T,73,2003-05-31,2003-08-16,263,12
+239,Rubber Band Man,T.I.,39,2003-11-22,2003-12-27,261,6
+240,Little Things,India.Arie,47,2003-01-04,2003-02-01,261,5
+241,Imagine That,Next,66,2003-01-04,2003-03-08,259,10
+242,I Need A Man,Foxy Brown Featuring The Letter M.,62,2003-04-05,2003-07-05,252,14
+243,From Tha Chuuuch To Da Palace,Snoop Dogg,46,2003-01-04,2003-02-15,250,7
+244,Thug Luv,Lil' Kim Featuring Twista,60,2003-05-31,2003-12-06,250,17
+245,Pop That Booty,"Marques Houston Featuring Jermaine ""JD"" Dupri",37,2003-11-29,2003-12-27,241,5
+246,Hooked,Mary J. Blige Featuring P. Diddy,54,2003-03-29,2003-05-24,241,9
+247,A Million Ways,Will Downing,69,2003-11-08,2003-12-27,240,8
+248,I'll Be Around,Cee-Lo Featuring Timbaland,55,2003-11-22,2003-12-27,239,6
+249,Dipset Anthem,The Diplomats Featuring Cam'Ron & Juelz Santana,64,2003-04-05,2003-06-14,236,11
+250,Smooth Sailin',Roscoe,73,2003-07-05,2003-09-20,236,12
+251,Don't Wanna Try,Frankie J,80,2003-05-17,2003-08-30,236,16
+252,Alright,Freeway Featuring Allen Anthony,64,2003-03-15,2003-05-17,221,10
+253,Didn't You Know,Tha' Rayne,76,2003-08-02,2003-11-01,220,14
+254,Dipset (Santana's Town),Juelz Santana Featuring Cam'ron,70,2003-08-02,2003-10-04,211,10
+255,Try It On My Own,Whitney Houston,80,2003-05-10,2003-08-09,207,14
+256,What Is Love?,Vivian Green,75,2003-10-18,2003-12-13,199,9
+257,Boy (I Need You),Mariah Carey Featuring Cam'Ron,68,2003-02-22,2003-04-12,198,8
+258,Who's That,R. Kelly Featuring Fat Joe,65,2003-02-22,2003-04-19,194,9
+259,It Blows My Mind,Snoop Dogg,68,2003-10-25,2003-12-20,194,9
+260,Still On My Brain,Justin Timberlake,75,2003-08-30,2003-11-15,190,12
+261,Girl Talk,TLC,56,2003-01-04,2003-02-08,187,6
+262,Bigger Business,"Swizz Beatz Featuring Ron Isley, P. Diddy, Baby, Jadakiss, Snoop Dogg, Cassidy & TQ",72,2003-01-04,2003-02-15,185,7
+263,Mighty D-Block (2 Guns Up),"Sheek Louch Featuring Jadakiss, Styles P. & J Hood",65,2003-08-16,2003-11-01,182,12
+264,Rest Of Our Lives,Jeffrey Osborne,75,2003-07-12,2003-09-06,178,9
+265,Amazin',LL Cool J Introducing Kandice Love,73,2003-05-17,2003-07-26,176,11
+266,Feelin' You (Part II),Solange Featuring N.O.R.E.,73,2003-01-04,2003-03-01,175,9
+267,Cadillac On 22's,David Banner,83,2003-09-27,2003-12-13,175,12
+268,Splash Waterfalls,Ludacris,54,2003-11-29,2003-12-27,174,5
+269,In Da Club,Beyonce,67,2003-03-22,2003-05-03,163,7
+270,That Girl,Joe Featuring Mr. Cheeks,71,2003-04-26,2003-07-26,162,11
+271,What More Can I Say,JAY-Z,48,2003-11-08,2003-12-27,159,8
+272,Badaboom,B2K Featuring Fabolous,42,2003-12-13,2003-12-27,158,3
+273,Where Is The Love?,The Black Eyed Peas,82,2003-06-21,2003-09-20,158,14
+274,Girl I'm A Bad Boy,Fat Joe & P. Diddy Featuring Dre,69,2003-09-06,2003-11-22,155,10
+275,Hey Ma,"Cam'Ron Featuring Juelz Santana, Freekey Zekey & Toya",49,2003-01-04,2003-01-18,154,3
+276,Wake Up,Shade Sheist Featuring Nate Dogg & Warren G,53,2003-01-04,2003-02-01,153,5
+277,I'm Still In Love With You,Sean Paul Featuring Sasha,65,2003-11-15,2003-12-27,152,7
+278,My Name,Xzibit Featuring Eminem & Nate Dogg,66,2003-08-09,2003-11-15,150,13
+279,Nothins Free,Oobie Featuring Lil Jon & The East Side Boyz,68,2003-01-04,2003-02-08,144,6
+280,This Is My Party,Fabolous,64,2003-01-04,2003-03-01,143,9
+281,Put Your Drinks Down,"Drag-On Featuring DMX, Eve, Jadakiss, Baby & TQ",80,2003-09-20,2003-11-22,143,10
+282,Getchya Hands Up,E.S.G. & Slim Thug,80,2003-01-25,2003-04-12,143,12
+283,All In The Way,"Earth, Wind & Fire",77,2003-06-21,2003-08-09,142,8
+284,Think About You,Luther Vandross,64,2003-12-06,2003-12-27,137,4
+285,Supa Star,Montell Jordan,71,2003-11-01,2003-12-13,137,7
+286,Pick Up The Phone,"Tyrese, Ludacris & R. Kelly",65,2003-09-13,2003-10-18,135,6
+287,In My Life,Juvenile Featuring Mannie Fresh,50,2003-12-13,2003-12-27,132,3
+288,Them Jeans,Master P,61,2003-12-06,2003-12-27,132,4
+289,The Crown,Ja Rule,67,2003-09-20,2003-10-18,132,5
+290,Industry,Wyclef Jean,73,2003-08-23,2003-10-11,132,7
+291,Can't Nobody,Kelly Rowland,72,2003-02-22,2003-04-05,130,7
+292,Sorry 2004,Ruben Studdard,31,2003-12-20,2003-12-27,128,2
+293,Through The Rain,Mariah Carey,69,2003-02-22,2003-04-05,124,7
+294,Hottest Of The Hot,B.G.,74,2003-03-29,2003-05-10,123,7
+295,Ooh Wee,Mark Ronson Featuring Ghostface & Nate Dogg,80,2003-08-02,2003-09-27,123,9
+296,Indian Flute,Timbaland & Magoo Featuring Sebastian & Rajeshwari,73,2003-11-29,2003-12-27,117,5
+297,Wanna Get To Know You,G-Unit Featuring Joe,67,2003-12-06,2003-12-27,113,4
+298,Nas' Angels... The Flyest,Nas Featuring Pharrell,72,2003-07-19,2003-08-16,113,5
+299,Let Me Know,Hi-C Featuring DJ Quik,74,2003-08-02,2003-08-30,109,5
+300,Love Iz,Erick Sermon Featuring Al Green,80,2003-02-01,2003-03-29,105,9
+301,Back In The Day (Puff),Erykah Badu,63,2003-12-13,2003-12-27,104,3
+302,All I Know,Field Mob Featuring Cee-Lo & Jazze Pha,77,2003-05-17,2003-06-28,104,7
+303,Breathe,Blu Cantrell Featuring Sean Paul,83,2003-01-04,2003-06-14,104,12
+304,Multiply,Xzibit,74,2003-01-04,2003-01-25,102,4
+305,Dirt Off Your Shoulder,JAY-Z,60,2003-12-13,2003-12-27,100,3
+306,More Than A Woman,Angie Stone & Joe,78,2003-01-04,2003-02-08,98,6
+307,John Doe,"Shade Sheist Featuring DJ Quik, Hi-C, AMG & Swift",66,2003-02-15,2003-04-05,97,8
+308,Skills,Gang Starr,91,2003-01-04,2003-03-22,97,12
+309,Everybody,Hahz The Rippa,88,2003-01-25,2003-03-22,93,9
+310,Get Up,Nate Dogg Featuring Eve,81,2003-01-04,2003-02-08,91,6
+311,Double Shots,Mobb Deep Featuring Big Noyd,81,2003-04-26,2003-06-07,85,7
+312,Damn,Fabolous,69,2003-02-08,2003-03-08,83,4
+313,By Myself,Ying Yang Twins Featuring Mr. Ball,59,2003-01-04,2003-01-11,82,2
+314,Anything Goes,"CNN (Capone-N-N.O.R.E.), Wayne Wonder & Lexxus",85,2003-10-18,2003-12-13,79,9
+315,Who Run This,"Roy Jones, Jr. Featuring Pastor Troy & Lil' Jon & The East Side Boyz",88,2003-04-26,2003-06-14,79,8
+316,No Means No,Nee-Nee Gwynn Featuring Baby Diva,89,2003-02-22,2003-04-26,77,10
+317,Guess What (Guess Again),Syleena Johnson Featuring R. Kelly,75,2003-04-19,2003-05-10,71,4
+318,Back In The Day,"Missy ""Misdemeanor"" Elliott Featuring Jay-Z",86,2003-04-26,2003-06-07,71,7
+319,"Tonite, I'm Yours",Zane Featuring Tank,87,2003-07-26,2003-10-04,70,11
+320,If You Let Me,Lou Mosley,89,2003-04-19,2003-07-12,68,12
+321,Miss P.,Cherish Featuring Da Brat,87,2003-08-02,2003-09-13,66,7
+322,Get Down,Nas,76,2003-06-14,2003-07-19,65,4
+323,Just Friends,LSG Featuring Loon,74,2003-05-10,2003-05-31,64,4
+324,You'll Never Find (A Better Woman),Teedra Moses Featuring Jadakiss,86,2003-11-29,2003-12-27,64,5
+325,What Would You Do,"Damizza Presents: Shade Sheist, Nate Dogg & Mariah Carey",69,2003-12-20,2003-12-27,63,2
+326,Headz Up,Nappy Roots,88,2003-01-04,2003-02-15,63,7
+327,She Is,Carl Thomas Featuring LL Cool J,70,2003-12-20,2003-12-27,61,2
+328,Back For More,Glenn Lewis Featuring Kardinal Offishall,85,2003-11-22,2003-12-27,61,6
+329,It's Goin' Down,Baby D Featuring Bone Crusher & Dru,88,2003-11-08,2003-12-13,61,6
+330,Dream Eyes,Ax Featuring Killer Mike,88,2003-07-05,2003-08-16,61,7
+331,Jah Is My Rock,"Caribbean Pulse Featuring Damian ""Jr. Gong"" Marley",87,2003-02-08,2003-04-12,59,8
+332,Freek-A-Leek,Petey Pablo,68,2003-12-20,2003-12-27,58,2
+333,Dat Sexy Body,Sasha,79,2003-08-30,2003-11-01,55,8
+334,Up In Da Club 2Nite,Revenue,92,2003-02-08,2003-04-12,55,10
+335,Let Me Live,Tank Featuring Mannie Fresh & Jazze Pha,82,2003-01-04,2003-01-25,54,4
+336,Tight Whips,504 Boyz,83,2003-01-04,2003-01-18,53,3
+337,"No, No, No",Jae Millz,89,2003-11-29,2003-12-27,52,5
+338,Irresistible (West Side Connection),"Mariah Carey Featuring Ice Cube, Mack 10 & WC",81,2003-01-04,2003-01-25,50,4
+339,Soldier's Heart,R. Kelly,84,2003-04-12,2003-05-10,49,5
+340,I Got'cha Ma,Caddillac Tah Featuring Althea,88,2003-04-12,2003-05-24,48,6
+341,Starting With Me,Brandy Moss-Scott,88,2003-03-15,2003-06-21,48,9
+342,Learn Chinese,Jin Featuring Wyclef Jean,74,2003-12-20,2003-12-27,47,2
+343,I Like,AJ,91,2003-08-23,2003-10-11,47,8
+344,Focus,Joe Budden,85,2003-01-04,2003-01-25,46,4
+345,Soul Shake,Nathaniel Lamar,91,2003-08-23,2003-10-11,46,7
+346,"Choke Me, Spank Me (Pull My Hair)",Xzibit,73,2003-03-29,2003-04-05,43,2
+347,How I Feel,Lexx Featuring Lil' Flip,90,2003-02-15,2003-03-22,43,6
+348,Come Close (Closer),"Common Featuring Erykah Badu, Pharrell & Q-Tip",86,2003-04-05,2003-04-19,42,3
+349,I C U (Doin' It),Violator Featuring A Tribe Called Quest & Erykah Badu,89,2003-11-08,2003-12-06,40,5
+350,All Life Long,Mo Thugs,83,2003-05-03,2003-05-17,38,3
+351,The Way We Ball,Lil' Flip,90,2003-01-04,2003-01-25,37,4
+352,No L.O.V.E.,Jhene,91,2003-10-25,2003-11-22,36,5
+353,Why I Love You,B2K,86,2003-01-04,2003-01-18,34,3
+354,Blowin' Me Up (Callin' Me),Zion,92,2003-06-07,2003-08-02,31,5
+355,Crush Tonight,Fat Joe Featuring Ginuwine,89,2003-01-04,2003-01-18,30,3
+356,The Way I Am,Knoc-Turn'Al Featuring Snoop Dogg,78,2003-12-20,2003-12-27,28,2
+357,Incomplete,C-lanae,90,2003-02-08,2003-04-12,28,5
+358,Oh Yeah!,"Big Tymers Featuring Tateeze, Boo & Gotti",74,2003-01-04,2003-01-04,27,1
+359,Tipsy,J-Kwon,88,2003-12-13,2003-12-27,27,3
+360,Diamond In Da Ruff,Jaheim Featuring Jadakiss & Left Gunz,76,2003-12-27,2003-12-27,25,1
+361,Single For The Rest Of My Life,Isyss,89,2003-01-04,2003-02-01,25,4
+362,OK,Sheek Louch,92,2003-07-12,2003-07-26,25,3
+363,Smile,G Unit,77,2003-12-27,2003-12-27,24,1
+364,Off The Wall,Skillz,92,2003-06-28,2003-07-19,24,4
+365,All Night Long,Seduction With Saddler,94,2003-07-19,2003-08-09,24,4
+366,I'm Good,Blaque,95,2003-11-15,2003-12-06,23,4
+367,Pack Ya Bags,Sarai,90,2003-03-15,2003-03-22,22,2
+368,Hyphy,Federation Featuring E-40,91,2003-12-06,2003-12-20,22,3
+369,Hell Is A Flame,Big C,96,2003-03-22,2003-04-19,22,5
+370,Come Get Some,TLC Featuring Lil Jon & Sean Paul Of YoungBloodZ,81,2003-12-27,2003-12-27,20,1
+371,F**k It (I Don't Want You Back),Eamon,89,2003-12-13,2003-12-27,20,3
+372,Hovi Baby,JAY-Z,87,2003-01-04,2003-01-18,19,3
+373,Disco,Slum Village Featuring Ms. Jade & Rajeshwari,93,2003-01-11,2003-02-01,19,3
+374,Make U Mine,Fabolous Featuring Mike Shorey,93,2003-11-08,2003-11-29,18,3
+375,Lean Low,YoungBloodZ Featuring Backbone,94,2003-11-15,2003-11-29,18,3
+376,Keep Doin' It,"Violator Featuring Mystikal, Dirtbag & Busta Rhymes",93,2003-11-29,2003-12-13,17,3
+377,GhettoMusick,OutKast,93,2003-08-02,2003-08-16,17,3
+378,I Want A Girl Like You,Joe Featuring Jadakiss,96,2003-01-04,2003-01-18,15,3
+379,Dance With Me,Jaimie Lee Featuring AJ And Young Blaze,96,2003-01-04,2003-03-08,15,5
+380,63/64,Roez Boyz,97,2003-04-26,2003-05-17,14,4
+381,Braid My Hair,Mario,88,2003-01-04,2003-01-04,13,1
+382,When You Hear That,Beanie Sigel Featuring Peedi Crakk & Dirt McGirt,95,2003-08-16,2003-08-23,12,2
+383,Dude,Beenie Man Featuring Ms. Thing,90,2003-12-27,2003-12-27,11,1
+384,Head To Toe,Roscoe Featuring Sleepy Brown,95,2003-05-17,2003-05-24,10,2
+385,Respect My Pimpin',Grafic International Featuring Jackie Ray Frost,96,2003-06-14,2003-06-21,10,2
+386,Get Something,Lil Wayne,97,2003-11-22,2003-11-29,8,2
+387,I Don't Wanna Hurt You,Latif,97,2003-06-07,2003-06-14,8,2
+388,Bang Bang Boom,Drag-On,94,2003-12-27,2003-12-27,7,1
+389,Built This City,"The Diplomats Featuring Cam'Ron, Jimmy Jones & Juelz Santana",94,2003-03-29,2003-03-29,7,1
+390,Flirt,WC Featuring Case,97,2003-03-01,2003-03-08,7,2
+391,Club Banger,Petey Pablo,98,2003-01-18,2003-02-01,7,3
+392,Just Like You,G-Wiz,98,2003-03-01,2003-04-26,7,4
+393,Represent,"Papa Reu Featuring Lil' Flip, Lil Keke & Hawk",98,2003-04-19,2003-04-26,6,2
+394,What Cha Gone Do,Playboy Shane Featuring Lil' Flip,98,2003-10-04,2003-10-11,6,2
+395,Star,702 Featuring Clipse,98,2003-01-04,2003-01-11,6,2
+396,Make Room,Double Doze,96,2003-12-06,2003-12-06,5,1
+397,Belly Dancer,Kardinal Offishall Featuring Pharrell Williams,96,2003-05-24,2003-05-24,5,1
+398,Let's Get It,Smoot Featuring Jadakiss & Swizz Beatz,98,2003-09-06,2003-09-13,5,2
+399,Jimmy Mathis,Bubba Sparxxx,98,2003-06-21,2003-06-28,5,2
+400,Super B-Boy Pimpin',The Earthquake Institute,99,2003-05-03,2003-05-17,5,3
+401,Virginity,TG4,97,2003-01-11,2003-01-11,4,1
+402,Faithful To,Poww Bros.,97,2003-01-18,2003-01-18,4,1
+403,"Nice Girl, Wrong Place",Gang Starr Featuring Boy Big,99,2003-04-19,2003-04-26,4,2
+404,Baby Do Those Things,Dave Hollister,99,2003-01-04,2003-01-18,4,3
+405,Gotta Get The Money,Ellis Hall,98,2003-10-25,2003-10-25,3,1
+406,Auld Lang Syne (Freedom Mix),Kenny G,98,2003-01-25,2003-01-25,3,1
+407,Up Against All Odds,Tarralyn Ramsey,98,2003-12-27,2003-12-27,3,1
+408,Thug Lady,Dyshon & Squabble,99,2003-01-25,2003-02-01,3,2
+409,Hearts On Fire,Big Advice,99,2003-12-20,2003-12-20,2,1
+410,By The Way,Jesse Powell,99,2003-10-04,2003-10-04,2,1

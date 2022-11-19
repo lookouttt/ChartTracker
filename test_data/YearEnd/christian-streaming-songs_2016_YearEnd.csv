@@ -1,0 +1,75 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Monster,Skillet,1,2016-01-02,2016-12-31,1324,53
+2,Oceans (Where Feet May Fail),Hillsong UNITED,2,2016-01-02,2016-12-31,1260,53
+3,Hero,Skillet,2,2016-01-02,2016-12-31,1206,53
+4,"10,000 Reasons (Bless The Lord)",Matt Redman,3,2016-01-02,2016-12-31,1145,53
+5,Awake And Alive,Skillet,5,2016-01-02,2016-12-31,951,53
+6,Good Good Father,Chris Tomlin,5,2016-01-02,2016-12-31,915,53
+7,Trust In You,Lauren Daigle,5,2016-02-13,2016-12-31,898,47
+8,Courtesy Call,Thousand Foot Krutch,4,2016-01-02,2016-12-31,887,53
+9,Brother,NEEDTOBREATHE Featuring Gavin DeGraw,5,2016-01-02,2016-12-31,815,53
+10,Amazing Grace (My Chains Are Gone),Chris Tomlin,9,2016-01-30,2016-12-31,646,49
+11,Who Am I,Casting Crowns,8,2016-01-02,2016-12-31,626,53
+12,Feel Invincible,Skillet,3,2016-06-11,2016-12-31,577,30
+13,Touch The Sky,Hillsong UNITED,8,2016-01-02,2016-12-03,561,49
+14,God's Not Dead (Like A Lion),newsboys,6,2016-01-02,2016-12-17,558,51
+15,Not Gonna Die,Skillet,10,2016-01-02,2016-12-31,491,53
+16,Thy Will,Hillary Scott & The Scott Family,6,2016-06-25,2016-12-31,459,28
+17,This Is Amazing Grace,Phil Wickham,14,2016-01-16,2016-12-10,315,48
+18,Tell Your Heart To Beat Again,Danny Gokey,12,2016-04-16,2016-10-29,272,29
+19,The River,Jordan Feliz,12,2016-01-16,2016-07-02,225,25
+20,First,Lauren Daigle,15,2016-01-02,2016-07-30,225,30
+21,Our God,Chris Tomlin,14,2016-01-16,2016-11-05,197,37
+22,No Longer Slaves,Bethel Music,18,2016-01-23,2016-12-17,184,39
+23,Happiness,NEEDTOBREATHE,7,2016-07-02,2016-10-29,179,15
+24,Just Be Held,Casting Crowns,9,2016-01-02,2016-06-04,139,21
+25,Breath Of Heaven (Mary's Song),Amy Grant,2,2016-01-02,2016-12-31,136,6
+26,Something In The Water,Carrie Underwood,12,2016-01-02,2016-07-30,135,29
+27,Ooh Ahh,Grits Featuring tobyMac,9,2016-01-02,2016-04-23,131,16
+28,Eye Of The Storm,Ryan Stevenson Featuring GabeReal,14,2016-08-13,2016-12-03,129,16
+29,What Child Is This? (First Noel Prelude),Francesca Battistelli,4,2016-01-02,2016-12-31,119,6
+30,Whispers In The Dark,Skillet,11,2016-01-02,2016-09-24,104,15
+31,Chain Breaker,Zach Williams,12,2016-10-15,2016-12-31,102,12
+32,Forever,Kari Jobe,7,2016-01-16,2016-04-30,84,16
+33,Warm Up,NF,6,2016-11-05,2016-12-17,83,7
+34,Rise,Skillet,15,2016-01-09,2016-12-10,79,16
+35,Grown Up Christmas List,Amy Grant,3,2016-01-02,2016-12-31,77,5
+36,"Jesus, Take The Wheel",Carrie Underwood,19,2016-03-12,2016-12-31,75,27
+37,Amazing Grace,BYU Noteworthy,8,2016-02-27,2016-11-26,74,6
+38,What A Glorious Night,Sidewalk Prophets,4,2016-12-17,2016-12-31,62,3
+39,The Christmas Shoes,NewSong,9,2016-01-02,2016-12-31,62,5
+40,Hallelujah,Lindsey Stirling,1,2016-01-09,2016-12-31,60,4
+41,Whom Shall I Fear (God Of Angel Armies),Chris Tomlin,21,2016-01-23,2016-05-07,59,16
+42,Grindin',NF Featuring Marty,13,2016-11-19,2016-12-31,58,7
+43,Slow Down,Nichole Nordeman,3,2016-05-21,2016-06-11,55,4
+44,Real,NF,9,2016-05-14,2016-11-19,54,6
+45,I Just Wanna Know,NF,6,2016-05-14,2016-05-28,38,3
+46,Where You Are,Hillsong Young & Free,15,2016-01-02,2016-04-16,38,6
+47,Kiss The Rain,Yiruma,18,2016-10-29,2016-12-31,36,8
+48,I Heard The Bells On Christmas Day,Casting Crowns,12,2016-01-02,2016-12-31,34,4
+49,Therapy Session,NF,13,2016-05-14,2016-11-12,33,6
+50,How Great Thou Art,Home Free,6,2016-11-19,2016-12-10,25,2
+51,Priceless,for KING & COUNTRY,17,2016-10-01,2016-12-10,25,7
+52,Learn To Love,NEEDTOBREATHE,13,2016-07-02,2016-07-09,22,2
+53,God Bless The USA,Home Free,6,2016-12-03,2016-12-03,20,1
+54,Songs Of The Year 2014 Mash-Up,Anthem Lights,8,2016-03-19,2016-03-19,18,1
+55,Hard Love,NEEDTOBREATHE,11,2016-08-06,2016-10-22,16,2
+56,"Mary, Did You Know?",Kenny Rogers With Wynonna,14,2016-01-02,2016-01-09,14,2
+57,Save My Life,Sidewalk Prophets,13,2016-04-09,2016-04-09,13,1
+58,Back From The Dead,Skillet,13,2016-08-27,2016-08-27,13,1
+59,"Children, Go Where I Send Thee",Kenny Rogers Featuring Home Free,19,2016-01-02,2016-01-09,13,2
+60,God Is On The Move,7eventh Time Down,22,2016-07-23,2016-09-10,11,4
+61,I Want To Live,Skillet,18,2016-08-27,2016-08-27,8,1
+62,Fierce,Jesus Culture Featuring Chris Quilala,22,2016-09-03,2016-09-17,8,3
+63,Move (Keep Walkin'),tobyMac,23,2016-06-25,2016-07-23,7,3
+64,Flawless,MercyMe,24,2016-01-23,2016-05-07,7,4
+65,The Star Spangled Banner,Sandi Patty,20,2016-02-13,2016-02-13,6,1
+66,How Could You Leave Us,NF,20,2016-05-14,2016-05-14,6,1
+67,"God Rest Ye Merry, Gentlemen",Brigham Young University Vocal Point,21,2016-01-09,2016-01-09,5,1
+68,Mighty To Save,Hillsong Worship,23,2016-01-23,2016-01-30,4,2
+69,No Excuses,NEEDTOBREATHE,23,2016-08-06,2016-08-06,3,1
+70,Break Every Chain,Jesus Culture Featuring Kristene DiMarco,24,2016-06-11,2016-06-18,3,2
+71,Intro 2,NF,24,2016-05-14,2016-05-14,2,1
+72,Stars,Skillet,24,2016-08-27,2016-08-27,2,1
+73,Lead Me To The Cross,Hillsong UNITED,25,2016-04-16,2016-04-16,1,1
+74,Money,NEEDTOBREATHE,25,2016-08-06,2016-08-06,1,1

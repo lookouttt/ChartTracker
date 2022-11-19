@@ -1,0 +1,683 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,American Idiot,Green Day,1,2005-01-01,2005-12-31,5865,53
+2,The Emancipation Of Mimi,Mariah Carey,1,2005-04-30,2005-12-31,5388,36
+3,Breakaway,Kelly Clarkson,6,2005-01-01,2005-12-31,5354,53
+4,Love. Angel. Music. Baby.,Gwen Stefani,5,2005-01-01,2005-12-31,4570,53
+5,Feels Like Today,Rascal Flatts,11,2005-01-01,2005-12-31,4323,53
+6,The Massacre,50 Cent,1,2005-03-19,2005-12-10,4085,39
+7,Hot Fuss,The Killers,7,2005-01-01,2005-12-31,3841,52
+8,Monkey Business,The Black Eyed Peas,2,2005-06-25,2005-12-31,3804,28
+9,Be Here,Keith Urban,11,2005-01-01,2005-12-31,3083,52
+10,Encore,Eminem,1,2005-01-01,2005-08-27,2934,35
+11,X&Y,Coldplay,1,2005-06-25,2005-12-31,2849,28
+12,Goodies,Ciara,11,2005-01-01,2005-10-15,2842,42
+13,In Between Dreams,Jack Johnson,2,2005-03-19,2005-12-31,2810,40
+14,The Documentary,The Game,1,2005-02-05,2005-08-20,2655,28
+15,Twice The Speed Of Life,Sugarland,16,2005-03-19,2005-12-31,2621,42
+16,Here For The Party,Gretchen Wilson,16,2005-01-01,2005-12-31,2579,51
+17,Demon Days,Gorillaz,6,2005-06-11,2005-12-31,2546,30
+18,Get Lifted,John Legend,4,2005-01-15,2005-09-24,2526,35
+19,From Under The Cork Tree,Fall Out Boy,9,2005-05-21,2005-12-31,2526,33
+20,It's Time,Michael Buble,7,2005-02-26,2005-12-31,2431,45
+21,Now 19,Various Artists,1,2005-08-06,2005-12-31,2329,22
+22,The Red Light District,Ludacris,5,2005-01-01,2005-08-06,2210,32
+23,Confessions,Usher,5,2005-01-01,2005-12-10,2186,27
+24,Destiny Fulfilled,Destiny's Child,4,2005-01-01,2005-09-24,2149,39
+25,Greatest Hits 2,Toby Keith,7,2005-01-01,2005-12-31,2121,49
+26,Greatest Hits,Guns N' Roses,40,2005-01-01,2005-12-31,2070,52
+27,Who Is Mike Jones?,Mike Jones,3,2005-05-07,2005-11-05,2028,27
+28,Late Registration,Kanye West,1,2005-09-17,2005-12-31,1978,16
+29,Let's Get It: Thug Motivation 101,Young Jeezy,2,2005-08-13,2005-12-31,1962,21
+30,Greatest Hits,Shania Twain,3,2005-01-01,2005-07-23,1961,30
+31,Mezmerize,System Of A Down,1,2005-06-04,2005-12-24,1945,26
+32,Honkytonk University,Toby Keith,2,2005-06-04,2005-12-31,1943,27
+33,Genius Loves Company,Ray Charles,1,2005-01-01,2005-07-02,1935,24
+34,Three Cheers For Sweet Revenge,My Chemical Romance,28,2005-01-15,2005-12-03,1922,47
+35,Crunk Juice,Lil Jon & The East Side Boyz,3,2005-01-01,2005-06-04,1908,23
+36,Seventeen Days,3 Doors Down,1,2005-02-26,2005-10-01,1893,32
+37,Free Yourself,Fantasia,12,2005-01-01,2005-07-23,1854,30
+38,Now 18,Various Artists,2,2005-04-02,2005-08-13,1785,20
+39,Fireflies,Faith Hill,1,2005-08-20,2005-12-31,1784,20
+40,All The Right Reasons,Nickelback,1,2005-10-22,2005-12-31,1672,11
+41,How To Dismantle An Atomic Bomb,U2,3,2005-01-01,2005-06-18,1664,25
+42,...Something To Be,Rob Thomas,1,2005-05-07,2005-10-08,1621,23
+43,Songs About Jane,Maroon 5,9,2005-01-01,2005-06-18,1590,25
+44,Beautiful Soul,Jesse McCartney,15,2005-01-01,2005-12-31,1586,37
+45,Live Like You Were Dying,Tim McGraw,11,2005-01-01,2005-08-20,1578,33
+46,Most Wanted,Hilary Duff,1,2005-09-03,2005-12-31,1565,18
+47,Il Divo,Il Divo,4,2005-05-07,2005-12-31,1541,24
+48,Make Believe,Weezer,2,2005-05-28,2005-12-31,1531,28
+49,Now 17,Various Artists,2,2005-01-01,2005-05-07,1518,19
+50,Stand Up,Dave Matthews Band,1,2005-05-28,2005-10-08,1506,20
+51,Horse Of A Different Color,Big & Rich,33,2005-01-01,2005-12-24,1493,43
+52,When The Sun Goes Down,Kenny Chesney,43,2005-01-01,2005-09-03,1475,36
+53,Be As You Are: Songs From An Old Blue Chair,Kenny Chesney,1,2005-02-12,2005-07-02,1427,21
+54,In Your Honor,Foo Fighters,2,2005-07-02,2005-10-15,1427,16
+55,Urban Legend,T.I.,23,2005-01-01,2005-06-18,1410,25
+56,Lifehouse,Lifehouse,10,2005-04-09,2005-11-12,1396,30
+57,Bluestars,Pretty Ricky,16,2005-06-11,2005-11-26,1380,25
+58,Turning Point,Mario,15,2005-01-01,2005-05-28,1370,22
+59,Lyfe 268-192,Lyfe Jennings,39,2005-03-26,2005-11-19,1361,32
+60,Getting Away With Murder,Papa Roach,41,2005-01-15,2005-10-01,1349,38
+61,Wanted,Bow Wow,3,2005-07-30,2005-12-31,1339,19
+62,The One,Frankie J,3,2005-04-09,2005-10-29,1333,26
+63,U.S.A.: United State Of Atlanta,Ying Yang Twins,2,2005-07-16,2005-11-19,1322,19
+64,Trouble,Akon,18,2005-03-19,2005-10-01,1310,24
+65,Fijacion Oral: Vol. 1,Shakira,4,2005-06-25,2005-11-05,1269,20
+66,Barrio Fino,Daddy Yankee,26,2005-01-22,2005-09-24,1263,34
+67,Ray (Soundtrack),Ray Charles,12,2005-01-01,2005-05-21,1261,21
+68,NOW 20,Various Artists,1,2005-11-19,2005-12-31,1257,7
+69,Out Of Exile,Audioslave,1,2005-06-11,2005-11-12,1250,22
+70,Crossfade,Crossfade,41,2005-01-15,2005-09-24,1243,37
+71,Lost And Found,Will Smith,6,2005-04-16,2005-08-13,1240,18
+72,Mind Body & Soul,Joss Stone,18,2005-01-29,2005-10-01,1216,30
+73,MTV Ultimate Mash-Ups Presents: Collision Course,Jay-Z/Linkin Park,4,2005-01-01,2005-04-16,1194,16
+74,The Way It Is,Keyshia Cole,6,2005-07-09,2005-12-31,1191,26
+75,TP.3 Reloaded,R. Kelly,1,2005-07-23,2005-10-15,1183,13
+76,Still Not Getting Any...,Simple Plan,25,2005-01-01,2005-09-03,1175,36
+77,R&G (Rhythm & Gangsta): The Masterpiece,Snoop Dogg,11,2005-01-01,2005-05-07,1173,19
+78,Guero,Beck,2,2005-04-16,2005-09-03,1160,21
+79,50 Number Ones,George Strait,18,2005-01-01,2005-07-16,1125,24
+80,The Phantom Of The Opera,Soundtrack,16,2005-01-15,2005-07-23,1118,23
+81,PCD,The Pussycat Dolls,5,2005-10-01,2005-12-31,1113,14
+82,All Jacked Up,Gretchen Wilson,1,2005-10-15,2005-12-31,1092,12
+83,Be,Common,2,2005-06-11,2005-09-24,1088,16
+84,Time Well Wasted,Brad Paisley,2,2005-09-03,2005-12-31,1072,18
+85,Totally Country Vol. 4,Various Artists,5,2005-02-26,2005-07-23,1069,20
+86,Suit,Nelly,12,2005-01-01,2005-04-23,1064,17
+87,The Road And The Radio,Kenny Chesney,1,2005-11-26,2005-12-31,1035,6
+88,Modern Day Drifter,Dierks Bentley,6,2005-05-28,2005-12-31,1021,23
+89,Ten Thousand Fists,Disturbed,1,2005-10-08,2005-12-31,1017,13
+90,Move Along,The All-American Rejects,6,2005-07-30,2005-12-31,1007,22
+91,Timeless,Martina McBride,3,2005-11-05,2005-12-31,990,9
+92,Loyal To The Game,2Pac,1,2005-01-01,2005-04-02,988,14
+93,Album II,Kem,5,2005-06-04,2005-10-15,974,19
+94,With Teeth,Nine Inch Nails,1,2005-05-21,2005-09-24,959,18
+95,Wildflower,Sheryl Crow,2,2005-10-15,2005-12-31,948,12
+96,Have A Nice Day,Bon Jovi,2,2005-10-08,2005-12-31,947,13
+97,Disturbing Tha Peace Presents Bobby Valentino,Bobby Valentino,3,2005-05-14,2005-09-17,947,19
+98,Heavier Things,John Mayer,19,2005-01-01,2005-05-28,944,22
+99,The Cookbook,Missy Elliott,2,2005-07-23,2005-10-15,941,13
+100,Rebirth,Jennifer Lopez,2,2005-03-19,2005-05-28,935,11
+101,The Right To Bare Arms,Larry The Cable Guy,7,2005-04-16,2005-07-30,926,16
+102,Wreck Of The Day,Anna Nalick,20,2005-05-07,2005-09-24,923,21
+103,Thanks For The Memory... The Great American Songbook Vol. IV,Rod Stewart,2,2005-11-05,2005-12-31,915,9
+104,Get Behind Me Satan,The White Stripes,3,2005-06-25,2005-10-01,879,15
+105,The Diary Of Alicia Keys,Alicia Keys,11,2005-01-01,2005-05-21,879,21
+106,O,Omarion,1,2005-03-12,2005-06-18,868,15
+107,Chapter V,Staind,1,2005-08-27,2005-11-26,864,14
+108,Garden State,Soundtrack,21,2005-01-15,2005-05-14,861,18
+109,Some Hearts,Carrie Underwood,2,2005-12-03,2005-12-31,846,5
+110,I Am Me,Ashlee Simpson,1,2005-11-05,2005-12-31,844,9
+111,Karma And Effect,Seether,8,2005-06-11,2005-10-01,840,17
+112,Never Gone,Backstreet Boys,3,2005-07-02,2005-09-24,838,13
+113,#1's,Destiny's Child,1,2005-11-12,2005-12-31,837,8
+114,Somewhere Down In Texas,George Strait,1,2005-07-16,2005-10-01,819,12
+115,Songs About Me,Trace Adkins,11,2005-04-09,2005-12-31,802,16
+116,Unplugged,Alicia Keys,1,2005-10-29,2005-12-31,793,10
+117,All The Best,Tina Turner,2,2005-02-19,2005-05-07,792,12
+118,Most Known Unknown,Three 6 Mafia,3,2005-10-15,2005-12-24,777,11
+119,Lost And Found,Mudvayne,2,2005-04-30,2005-08-06,776,15
+120,The Peoples Champ,Paul Wall,1,2005-10-01,2005-12-03,754,10
+121,Pleasure & Pain,112,4,2005-04-16,2005-06-18,730,10
+122,Get Rich Or Die Tryin',Soundtrack,2,2005-11-26,2005-12-31,726,6
+123,Concrete Rose,Ashanti,7,2005-01-01,2005-03-19,717,12
+124,Closer,Josh Groban,30,2005-01-01,2005-05-21,715,21
+125,Retaliation,Dane Cook,4,2005-08-13,2005-12-31,707,13
+126,Devils & Dust,Bruce Springsteen,1,2005-05-14,2005-07-02,705,8
+127,Los Lonely Boys,Los Lonely Boys,22,2005-01-01,2005-05-21,693,17
+128,The First Lady,Faith Evans,2,2005-04-23,2005-06-18,679,9
+129,Grammy Nominees 2005,Various Artists,4,2005-02-19,2005-04-16,677,9
+130,Chaos And Creation In The Backyard,Paul McCartney,6,2005-10-01,2005-12-17,676,12
+131,The Legend Of Johnny Cash,Johnny Cash,10,2005-11-12,2005-12-31,675,8
+132,Plans,Death Cab For Cutie,4,2005-09-17,2005-12-31,673,13
+133,Confessions On A Dance Floor,Madonna,1,2005-12-03,2005-12-31,664,5
+134,Under My Skin,Avril Lavigne,28,2005-01-01,2005-04-23,663,17
+135,Mud On The Tires,Brad Paisley,45,2005-01-01,2005-06-04,657,20
+136,Greatest Hits,Creed,32,2005-01-01,2005-04-02,650,14
+137,Hillbilly Deluxe,Brooks & Dunn,3,2005-09-17,2005-12-31,623,13
+138,Real Fine Place,Sara Evans,3,2005-10-22,2005-12-31,619,11
+139,All That I Am,Santana,2,2005-11-19,2005-12-31,617,7
+140,Lifesong,Casting Crowns,9,2005-09-17,2005-12-31,617,16
+141,Already Platinum,Slim Thug,2,2005-07-30,2005-09-24,615,9
+142,The Christmas Collection,Il Divo,14,2005-11-12,2005-12-31,598,8
+143,Autobiography,Ashlee Simpson,39,2005-01-01,2005-04-16,596,16
+144,Kidz Bop 7,Kidz Bop Kids,7,2005-03-12,2005-07-30,594,11
+145,Greatest Hits,The Offspring,8,2005-07-09,2005-09-24,587,11
+146,The Day After,Twista,2,2005-10-22,2005-12-03,585,7
+147,Guilty Pleasures,Barbra Streisand,5,2005-10-08,2005-12-17,582,10
+148,The B. Coming,Beanie Sigel,3,2005-04-16,2005-06-04,581,8
+149,"Red, White & Crue",Motley Crue,6,2005-02-19,2005-05-07,580,12
+150,Thug Matrimony: Married To The Streets,Trick Daddy,57,2005-01-01,2005-05-14,576,20
+151,A Bigger Bang,The Rolling Stones,3,2005-09-24,2005-12-10,575,10
+152,Hopes And Fears,Keane,45,2005-01-15,2005-05-21,563,19
+153,Speak,Lindsay Lohan,14,2005-01-01,2005-03-12,559,11
+154,Thoughts Of A Predicate Felon,Tony Yayo,2,2005-09-17,2005-10-29,544,7
+155,Kidz Bop 8,Kidz Bop Kids,6,2005-08-20,2005-12-31,543,12
+156,Mary Mary,Mary Mary,8,2005-08-06,2005-10-15,543,11
+157,Frances The Mute,The Mars Volta,4,2005-03-19,2005-05-28,542,10
+158,The Trinity,Sean Paul,7,2005-10-15,2005-12-10,542,9
+159,Christmas Songs,Diana Krall Featuring The Clayton/Hamilton Jazz Orchestra,17,2005-11-19,2005-12-31,539,7
+160,Stardust... The Great American Songbook Vol. III,Rod Stewart,24,2005-01-01,2005-03-26,535,13
+161,The Beautiful Letdown,Switchfoot,37,2005-01-01,2005-04-09,525,15
+162,Nothing Is Sound,Switchfoot,3,2005-10-01,2005-11-26,524,9
+163,Boyz N Da Hood,Boyz N Da Hood,5,2005-07-09,2005-09-03,521,9
+164,Rock Of Ages: The Definitive Collection,Def Leppard,10,2005-06-04,2005-08-13,506,11
+165,Hero,Kirk Franklin,13,2005-10-22,2005-12-24,503,10
+166,Doin' Somethin' Right,Billy Currington,11,2005-11-05,2005-12-31,499,9
+167,Welcome To Jamrock,"Damian ""Jr. Gong"" Marley",7,2005-10-01,2005-12-03,498,10
+168,Hustle & Flow,Soundtrack,30,2005-07-30,2005-09-24,493,9
+169,We Are Not Alone,Breaking Benjamin,58,2005-01-01,2005-06-11,488,24
+170,Contraband,Velvet Revolver,46,2005-01-01,2005-04-16,487,15
+171,Tough All Over,Gary Allan,3,2005-10-29,2005-12-17,485,8
+172,This Woman,LeAnn Rimes,3,2005-02-12,2005-04-02,478,8
+173,Star Wars Episode III: Revenge Of The Sith (Soundtrack),The London Symphony Orchestra And London Voices (John Williams),6,2005-05-21,2005-07-02,473,7
+174,Trill,Bun-B,6,2005-11-05,2005-12-10,466,6
+175,Jasper County,Trisha Yearwood,4,2005-10-01,2005-11-12,465,7
+176,WOW Hits 2006,Various Artists,42,2005-10-22,2005-12-31,463,11
+177,Hypnotize,System Of A Down,1,2005-12-10,2005-12-31,462,4
+178,12 Songs,Neil Diamond,4,2005-11-26,2005-12-31,459,6
+179,Delicious Surprise,Jo Dee Messina,7,2005-05-14,2005-07-02,459,8
+180,The Dukes Of Hazzard,Soundtrack,26,2005-08-06,2005-09-24,459,8
+181,Amarantine,Enya,6,2005-12-10,2005-12-31,458,4
+182,Comin' To Your City,Big & Rich,7,2005-12-03,2005-12-31,455,5
+183,Moonlight Serenade,Carly Simon,7,2005-08-06,2005-09-17,454,7
+184,Lullabies To Paralyze,Queens Of The Stone Age,5,2005-04-09,2005-06-04,453,9
+185,Libra,Toni Braxton,4,2005-10-15,2005-11-26,452,7
+186,So Amazing: An All-Star Tribute To Luther Vandross,Various Artists,4,2005-10-08,2005-11-19,448,7
+187,Elephunk,The Black Eyed Peas,53,2005-01-01,2005-07-09,448,21
+188,Music Of The Sun,Rihanna,10,2005-09-17,2005-11-19,447,10
+189,Vans Warped Tour '05: 2005 Tour Compilation,Various Artists,13,2005-06-25,2005-09-03,447,11
+190,The Longest Yard,Soundtrack,11,2005-06-11,2005-10-15,445,9
+191,American Idol Season 4: The Showstoppers,Soundtrack,6,2005-06-04,2005-07-09,438,6
+192,A Time To Love,Stevie Wonder,5,2005-11-05,2005-12-10,432,6
+193,Jason Aldean,Jason Aldean,37,2005-08-13,2005-11-19,432,13
+194,Lonely Runs Both Ways,Alison Krauss + Union Station,38,2005-01-01,2005-03-12,432,11
+195,Extraordinary Machine,Fiona Apple,7,2005-10-22,2005-12-03,430,7
+196,The Silence In Black And White,Hawthorne Heights,56,2005-06-11,2005-09-24,429,14
+197,Greatest Hits Vol. I,Korn,42,2005-01-01,2005-04-02,428,14
+198,The Chronicles Of Life And Death,Good Charlotte,34,2005-01-01,2005-03-12,426,11
+199,Touch,Amerie,5,2005-05-14,2005-06-18,425,6
+200,Glamorest Life,Trina,11,2005-10-22,2005-12-03,419,7
+201,The Naked Truth,Lil' Kim,6,2005-10-15,2005-11-19,413,6
+202,Feels Like Home,Norah Jones,48,2005-01-01,2005-03-26,413,13
+203,The Living Room Tour,Carole King,17,2005-07-30,2005-09-10,412,7
+204,Greatest Hits,Blink-182,6,2005-11-19,2005-12-31,407,7
+205,Curtain Call: The Hits,Eminem,1,2005-12-24,2005-12-31,400,2
+206,Gemini,Brian McKnight,4,2005-02-26,2005-04-02,400,6
+207,Prairie Wind,Neil Young,11,2005-10-15,2005-11-26,395,7
+208,There's More Where That Came From,Lee Ann Womack,12,2005-02-26,2005-04-30,388,10
+209,Bleed Like Me,Garbage,4,2005-04-30,2005-06-04,382,6
+210,Certified,David Banner,6,2005-10-08,2005-11-12,381,6
+211,Harlem: Diary Of A Summer,Jim Jones,5,2005-09-10,2005-10-15,377,6
+212,Wherever You Are,Third Day,8,2005-11-19,2005-12-31,376,7
+213,Mr. A-Z,Jason Mraz,5,2005-08-13,2005-09-17,374,6
+214,Savage Life,Webbie,8,2005-07-23,2005-09-03,371,7
+215,Greatest Hits: The Road Less Traveled,Melissa Etheridge,14,2005-10-22,2005-11-26,369,6
+216,Greatest Hits: My Prerogative,Britney Spears,31,2005-01-01,2005-03-05,365,9
+217,Street's Disciple,Nas,50,2005-01-01,2005-03-19,365,12
+218,All Or Nothing,Fat Joe,6,2005-07-02,2005-08-06,361,6
+219,Chris Brown,Chris Brown,2,2005-12-17,2005-12-31,359,3
+220,Disneymania 3: Music Stars Sing Disney ...Their Way!,Various Artists,30,2005-03-05,2005-05-07,359,8
+221,Playing The Angel,Depeche Mode,7,2005-11-05,2005-12-03,355,5
+222,III,Joe Nichols,7,2005-11-12,2005-12-31,354,8
+223,"I'm Wide Awake, It's Morning",Bright Eyes,10,2005-02-12,2005-04-09,354,9
+224,I'm A Hustla,Cassidy,5,2005-07-16,2005-08-20,353,6
+225,Roc-A-Fella Presents Teairra Mari,Teairra Mari,5,2005-08-20,2005-10-01,353,7
+226,Bullet In A Bible,Green Day,8,2005-12-03,2005-12-31,352,5
+227,Life In Slow Motion,David Gray,16,2005-10-01,2005-11-19,351,8
+228,Possibilities,Herbie Hancock,22,2005-09-17,2005-11-05,345,8
+229,Take It All Away,Ryan Cabrera,59,2005-01-01,2005-03-26,345,13
+230,The Beekeeper,Tori Amos,5,2005-03-12,2005-04-09,344,5
+231,Hilary Duff,Hilary Duff,21,2005-01-01,2005-04-09,343,11
+232,No Direction Home: The Soundtrack -- The Bootleg Series Vol. 7,Bob Dylan,16,2005-09-17,2005-10-22,340,6
+233,JoJo,JoJo,43,2005-01-01,2005-02-19,334,8
+234,Grown & Sexy,Babyface,10,2005-08-13,2005-09-24,325,7
+235,You Could Have It So Much Better,Franz Ferdinand,8,2005-10-22,2005-11-19,323,5
+236,Reba: #1's,Reba McEntire,12,2005-12-10,2005-12-31,323,4
+237,Purple Haze,Cam'ron,35,2005-01-01,2005-02-19,313,8
+238,Life,Ricky Martin,6,2005-10-29,2005-11-26,308,5
+239,"Charlie, Last Name Wilson",Charlie Wilson,10,2005-10-01,2005-11-12,306,7
+240,Loco Motive,Cowboy Troy,15,2005-06-04,2005-07-16,302,7
+241,WOW Gospel 2005,Various Artists,29,2005-02-12,2005-04-02,299,8
+242,Oral Fixation Vol. 2,Shakira,5,2005-12-17,2005-12-31,295,3
+243,The Very Best Of The Eagles,Eagles,39,2005-06-18,2005-09-24,294,10
+244,Back Home,Eric Clapton,13,2005-09-17,2005-10-15,291,5
+245,The Long Road Home: The Ultimate John Fogerty-Creedence Collection,John Fogerty,13,2005-11-19,2005-12-31,290,7
+246,Souls Alike,Bonnie Raitt,19,2005-10-01,2005-11-05,290,6
+247,Andrea,Andrea Bocelli,32,2005-01-01,2005-03-05,290,9
+248,Magic Time,Van Morrison,25,2005-06-04,2005-07-09,289,6
+249,What The Game's Been Missing!,Juelz Santana,9,2005-12-10,2005-12-31,288,4
+250,WOW Hits 2005,Various Artists,64,2005-01-01,2005-04-09,288,13
+251,Elvis By The Presleys (Soundtrack),Elvis Presley,15,2005-05-21,2005-06-18,285,5
+252,Chain Letter,Brooke Valentine,16,2005-04-02,2005-05-14,285,7
+253,Don't Tread On Me,311,5,2005-09-03,2005-09-24,284,4
+254,You Can't See Me,John Cena & Tha Trademarc,15,2005-05-28,2005-07-09,284,7
+255,Walk The Line,Soundtrack,31,2005-12-03,2005-12-31,284,5
+256,Greetings From Imrie House,The Click Five,15,2005-09-03,2005-10-08,276,6
+257,Good News For People Who Love Bad News,Modest Mouse,32,2005-01-08,2005-03-05,276,9
+258,"Psalms, Hymns & Spiritual Songs",Donnie McClurkin,12,2005-04-23,2005-06-04,274,7
+259,Totally Hits 2005,Various Artists,20,2005-06-04,2005-07-23,273,7
+260,Get Right With The Man,Van Zant,21,2005-05-28,2005-09-03,272,11
+261,Miracle,Celine Dion,36,2005-01-01,2005-02-19,270,7
+262,Tha Carter II,Lil Wayne,2,2005-12-24,2005-12-31,269,2
+263,The Sound Of Revenge,Chamillionaire,10,2005-12-10,2005-12-31,269,4
+264,See You On The Other Side,Korn,3,2005-12-24,2005-12-31,262,2
+265,Day By Day,Yolanda Adams,23,2005-09-17,2005-10-29,260,7
+266,Madagascar,Soundtrack,36,2005-06-18,2005-07-30,260,7
+267,Coach Carter,Soundtrack,25,2005-01-29,2005-02-26,251,5
+268,Sweat,Nelly,44,2005-01-01,2005-02-19,247,8
+269,Number Ones,Bee Gees,56,2005-01-01,2005-05-21,247,11
+270,The Great Divide,Scott Stapp,19,2005-12-10,2005-12-31,246,4
+271,Bette Midler Sings The Peggy Lee Songbook,Bette Midler,10,2005-11-12,2005-12-03,242,4
+272,Flo' Ology,Floetry,7,2005-11-26,2005-12-17,241,4
+273,Crazy Frog Presents Crazy Hits,Crazy Frog,19,2005-09-10,2005-10-08,241,5
+274,Natalie,Natalie,16,2005-06-04,2005-07-02,239,5
+275,To Love Again: The Duets,Chris Botti,18,2005-11-05,2005-12-03,238,5
+276,Good Apollo I'm Burning Star IV...,Coheed And Cambria,7,2005-10-08,2005-10-29,235,4
+277,Three 6 Mafia Presents Choices II: The Setup,Soundtrack,10,2005-05-07,2005-06-04,234,5
+278,Soulife,Anthony Hamilton,12,2005-07-16,2005-08-06,234,4
+279,Hotel,Moby,28,2005-04-09,2005-05-07,233,5
+280,Now What,Lisa Marie Presley,9,2005-04-23,2005-05-21,232,5
+281,Anywhere But Here,Chris Cagle,24,2005-10-22,2005-11-26,228,6
+282,Fast Money,Birdman,9,2005-07-09,2005-07-30,223,4
+283,Sweatsuit,Nelly,26,2005-12-10,2005-12-31,223,4
+284,Kerosene,Miranda Lambert,18,2005-04-02,2005-12-31,221,7
+285,The Bravery,The Bravery,18,2005-04-16,2005-06-25,220,9
+286,The Greatest Holiday Classics,Kenny G,39,2005-12-03,2005-12-31,217,5
+287,Unwritten,Natasha Bedingfield,26,2005-08-20,2005-09-24,215,6
+288,Stop All The World Now,Howie Day,79,2005-04-16,2005-08-13,215,17
+289,Naked,Marques Houston,13,2005-06-11,2005-08-20,214,10
+290,Martina,Martina McBride,66,2005-02-05,2005-05-21,214,13
+291,The Ultimate Collection,Michael McDonald,19,2005-08-27,2005-09-24,212,5
+292,Us And Them,Shinedown,23,2005-10-22,2005-11-19,212,5
+293,It's Me Again,Tweet,17,2005-04-09,2005-04-30,208,4
+294,Powerballin',Chingy,52,2005-01-01,2005-02-12,207,7
+295,Ray: More Music From (Soundtrack),Ray Charles,46,2005-02-19,2005-03-26,205,6
+296,Why Should The Fire Die?,Nickel Creek,17,2005-08-27,2005-09-24,203,5
+297,Into The Rush,Aly & AJ,36,2005-09-03,2005-12-31,198,10
+298,B5,B5,19,2005-08-06,2005-09-03,196,5
+299,Songs For Silverman,Ben Folds,13,2005-05-14,2005-06-04,195,4
+300,I Gotta Make It,Trey Songz,20,2005-08-13,2005-10-01,193,7
+301,Rent: Selections From The Original Motion Picture,Soundtrack,43,2005-12-10,2005-12-31,192,4
+302,Someone In Control,Trapt,14,2005-10-01,2005-10-22,191,4
+303,25 To Life,T.I. Presents The P$C,10,2005-10-08,2005-10-22,190,3
+304,Christmas Celebration,Mannheim Steamroller,31,2005-01-01,2005-01-22,189,4
+305,When I Fall In Love,Chris Botti,47,2005-01-01,2005-05-07,183,9
+306,Don't Believe The Truth,Oasis,12,2005-06-18,2005-07-02,182,3
+307,Something To Be Proud Of: The Best Of 1999-2005,Montgomery Gentry,20,2005-11-19,2005-12-10,181,4
+308,The Mind Of Mannie Fresh,Mannie Fresh,47,2005-01-08,2005-02-05,180,5
+309,R.U.L.E.,Ja Rule,56,2005-01-01,2005-02-05,179,6
+310,WOW #1s,Various Artists,58,2005-04-23,2005-05-28,178,6
+311,Rent,Soundtrack,40,2005-10-15,2005-12-31,177,5
+312,Live At The Greek,Josh Groban,33,2005-01-01,2005-01-29,175,5
+313,Dark Light,HIM,18,2005-10-15,2005-11-05,174,4
+314,Slow Motion,Various Artists,37,2005-07-16,2005-08-13,173,5
+315,The Dana Owens Album,Queen Latifah,48,2005-01-08,2005-03-26,173,10
+316,Super Saucy,Baby Bash,11,2005-04-02,2005-04-30,172,5
+317,534,Memphis Bleek,11,2005-06-04,2005-06-18,171,3
+318,The College Dropout,Kanye West,33,2005-02-26,2005-09-24,169,7
+319,Weapons Of Mass Destruction,Xzibit,43,2005-01-01,2005-02-05,169,6
+320,The Real Thing,Bo Bice,4,2005-12-31,2005-12-31,167,1
+321,The Foundation,Geto Boys,19,2005-02-12,2005-03-05,167,4
+322,City Of Evil,Avenged Sevenfold,30,2005-06-25,2005-12-03,166,11
+323,Angel Of Retribution,Judas Priest,13,2005-03-19,2005-04-02,165,3
+324,Tyler Perry's Diary Of A Mad Black Woman,Soundtrack,19,2005-05-07,2005-07-23,163,6
+325,Switch,INXS,17,2005-12-17,2005-12-31,159,3
+326,Down For Life,D4L,22,2005-11-26,2005-12-31,159,5
+327,MMHMM,Relient K,72,2005-07-23,2005-09-03,154,7
+328,Born To Run: 30th Anniversary Edition,Bruce Springsteen,18,2005-12-03,2005-12-31,151,5
+329,The Heart Of Tha Streetz,B.G.,21,2005-06-11,2005-06-25,151,3
+330,Classic Moments,Patti LaBelle,24,2005-07-09,2005-07-23,150,3
+331,Digital Ash In A Digital Urn,Bright Eyes,15,2005-02-12,2005-03-05,149,4
+332,Back II Da Basics,Ginuwine,12,2005-12-03,2005-12-24,148,4
+333,Y Sigue La Mata Dando,Grupo Montez de Durango,34,2005-02-19,2005-03-12,146,4
+334,At Last... The Duets Album,Kenny G,68,2005-01-01,2005-02-26,145,7
+335,Careless Love,Madeleine Peyroux,71,2005-04-09,2005-05-14,144,6
+336,9.0: Live,Slipknot,17,2005-11-19,2005-12-03,143,3
+337,Merry Christmas With Love,Clay Aiken,23,2005-01-01,2005-01-08,141,2
+338,WOW Christmas (Green),Various Artists,54,2005-12-03,2005-12-24,139,4
+339,Brothers From Another,Young Gunz,15,2005-06-11,2005-06-25,138,3
+340,A Little More Personal (Raw),Lindsay Lohan,20,2005-12-24,2005-12-31,136,2
+341,Jagged Little Pill: Acoustic,Alanis Morissette,50,2005-08-13,2005-09-10,136,5
+342,The Source Presents Hip-Hop Hits Volume 9,Various Artists,75,2005-01-08,2005-02-19,136,7
+343,Vivian,Vivian Green,18,2005-07-16,2005-07-30,135,3
+344,Greatest Hits,Neil Young,54,2005-01-01,2005-02-05,135,6
+345,Cold Roses,Ryan Adams & The Cardinals,26,2005-05-21,2005-06-04,132,3
+346,Mafia,Black Label Society,15,2005-03-26,2005-04-02,131,2
+347,A Different Kind Of Pain,Cold,26,2005-09-17,2005-10-01,128,3
+348,In The Wake Of Determination,Story Of The Year,19,2005-10-29,2005-11-05,126,2
+349,Mighty Rearranger,Robert Plant And The Strange Sensation,22,2005-05-28,2005-06-11,126,3
+350,Back To Bedlam,James Blunt,47,2005-12-17,2005-12-31,126,3
+351,Now 16,Various Artists,63,2005-01-01,2005-02-05,124,6
+352,Twelve Eighteen: Part I,Lil Rob,31,2005-08-13,2005-08-27,123,3
+353,Meteora,Linkin Park,76,2005-01-01,2005-02-19,123,8
+354,Her Story: Scenes From A Lifetime,Wynonna,25,2005-10-15,2005-10-22,122,2
+355,rearviewmirror: Greatest Hits 1991-2003,Pearl Jam,74,2005-01-01,2005-02-05,122,6
+356,Try! Live in Concert,John Mayer Trio,34,2005-12-10,2005-12-24,121,3
+357,Hefty Fine,Bloodhound Gang,24,2005-10-15,2005-10-29,119,3
+358,The Best Of Brandy,Brandy,27,2005-04-23,2005-04-30,119,2
+359,Franz Ferdinand,Franz Ferdinand,66,2005-01-15,2005-03-05,119,5
+360,Vol. 3: (The Subliminal Verses),Slipknot,29,2005-04-30,2005-05-14,118,3
+361,Purified,CeCe Winans,41,2005-10-01,2005-10-22,118,4
+362,Ocean Avenue,Yellowcard,57,2005-01-01,2005-01-29,118,5
+363,The Lost Christmas Eve,Trans-Siberian Orchestra,34,2005-01-01,2005-01-08,116,2
+364,The World Of Nat King Cole,Nat King Cole,41,2005-02-12,2005-03-05,114,4
+365,Vheissu,Thrice,15,2005-11-05,2005-11-12,111,2
+366,Sliver: The Best Of The Box,Nirvana,21,2005-11-19,2005-11-26,111,2
+367,Money Is Still A Major Issue,Pitbull,25,2005-12-03,2005-12-10,110,2
+368,Next,Sevendust,20,2005-10-29,2005-11-05,108,2
+369,Life Goes On,Terri Clark,26,2005-11-19,2005-11-26,108,2
+370,Pa'l Mundo,Wisin & Yandel,30,2005-11-26,2005-12-03,108,2
+371,Tommyland: The Ride,Tommy Lee,62,2005-08-27,2005-10-01,108,6
+372,Based On A True Story,The Starting Line,18,2005-05-28,2005-06-04,107,2
+373,Rockin' The Joint: Live At The Hard Rock Hotel Las Vegas,Aerosmith,24,2005-11-12,2005-11-19,107,2
+374,"Diplomats & DukeDaGod Present: More Than Music, Vol. 1",Dipset,22,2005-07-30,2005-08-06,106,2
+375,Genius & Friends,Ray Charles,36,2005-10-08,2005-10-15,106,2
+376,Where You Live,Tracy Chapman,49,2005-10-01,2005-10-15,106,3
+377,Takk...,Sigur Ros,27,2005-10-01,2005-10-08,104,2
+378,True Parallels,TRUSTcompany,32,2005-04-09,2005-04-23,104,3
+379,Then & Now: The Hits Collection,Tracy Lawrence,35,2005-11-05,2005-11-12,104,2
+380,Divinas,Patrulla 81,54,2005-05-07,2005-05-28,104,4
+381,Rejoyce: The Christmas Album,Jessica Simpson,41,2005-01-01,2005-01-08,103,2
+382,Haunted Cities,Transplants,28,2005-07-09,2005-07-23,101,3
+383,You Stand Watching,Ryan Cabrera,24,2005-10-08,2005-10-15,98,2
+384,Directo Al Corazon,Los Tigres del Norte,48,2005-04-16,2005-04-30,98,3
+385,R.I.D.E.,Trick Pony,20,2005-09-10,2005-09-17,97,2
+386,Start A War,Static-X,29,2005-07-02,2005-07-09,97,2
+387,The Unquestionable Truth (Part 1),Limp Bizkit,24,2005-05-21,2005-05-28,96,2
+388,My Kind Of Livin',Craig Morgan,40,2005-03-26,2005-04-09,96,3
+389,Greatest Hits,"Crosby, Stills & Nash",24,2005-04-02,2005-04-09,95,2
+390,Illumination,"Earth, Wind & Fire",32,2005-10-08,2005-10-15,94,2
+391,Crimson,Alkaline Trio,25,2005-06-11,2005-06-18,91,2
+392,The Truest $#!@ I Ever Said,C-Murder,41,2005-04-09,2005-04-23,91,3
+393,Ludacris Presents...Disturbing Tha Peace,Ludacris And DTP,11,2005-12-31,2005-12-31,90,1
+394,Coming Home,Lonestar,26,2005-10-01,2005-10-08,89,2
+395,Shadows Are Security,As I Lay Dying,35,2005-07-02,2005-07-09,88,2
+396,Discovering The Waterfront,Silverstein,34,2005-09-03,2005-09-10,87,2
+397,The Sweet James Jones Stories,Pimp C,50,2005-03-19,2005-03-26,87,2
+398,An Answer Can Be Found,CKY,35,2005-07-16,2005-07-23,85,2
+399,Complicated,Nivea,37,2005-05-21,2005-05-28,85,2
+400,Those Were The Days,Dolly Parton,48,2005-10-29,2005-11-19,84,3
+401,Erika Jo,Erika Jo,27,2005-07-02,2005-07-09,83,2
+402,Elevator,Hot Hot Heat,34,2005-04-23,2005-04-30,83,2
+403,With The Lights Out,Nirvana,55,2005-01-01,2005-01-08,83,2
+404,Ain't Nobody Worryin',Anthony Hamilton,19,2005-12-31,2005-12-31,82,1
+405,The King Of Crunk & BME Recordings Present,Lil Scrappy/Trillville,82,2005-03-19,2005-05-07,82,7
+406,Back To The Future: The Very Best Of Jodeci,Jodeci,27,2005-06-25,2005-07-02,81,2
+407,Chicken Little,Soundtrack,57,2005-11-26,2005-12-10,81,3
+408,After Taxes,Sheek Louch,23,2005-11-26,2005-12-03,80,2
+409,Futures,Jimmy Eat World,63,2005-01-01,2005-01-29,80,5
+410,Solid Gold Hits,Beastie Boys,42,2005-11-26,2005-12-03,79,2
+411,Raydiation,Ray J,48,2005-10-08,2005-11-19,79,4
+412,Everything's OK,The Reverend Al Green,50,2005-04-02,2005-04-23,79,4
+413,Say Hello To Sunshine,Finch,24,2005-06-25,2005-07-02,78,2
+414,Barrio Fino: En Directo,Daddy Yankee,24,2005-12-31,2005-12-31,77,1
+415,The Black Rob Report,Black Rob,40,2005-11-05,2005-11-12,77,2
+416,Times Like These,Buddy Jewell,31,2005-05-14,2005-05-21,76,2
+417,Greatest Hits,Pat Benatar,47,2005-06-25,2005-08-06,76,3
+418,Rock Of Ages... Hymns & Faith,Amy Grant,42,2005-05-21,2005-05-28,75,2
+419,Countryman,Willie Nelson,46,2005-07-30,2005-08-06,75,2
+420,B.B. King & Friends: 80,B.B. King,45,2005-10-01,2005-10-08,74,2
+421,Anywhere But Home,Evanescence,76,2005-01-01,2005-01-29,72,5
+422,Chariot - Stripped,Gavin DeGraw,83,2005-01-15,2005-08-27,72,8
+423,Brave,Jamie O'Neal,40,2005-03-19,2005-03-26,71,2
+424,Dig That Crazy Christmas,The Brian Setzer Orchestra,56,2005-12-17,2005-12-24,71,2
+425,TheFutureEmbrace,Billy Corgan,31,2005-07-09,2005-07-09,70,1
+426,The Calm (EP),Insane Clown Posse,32,2005-06-04,2005-06-04,69,1
+427,That's Life,Neal McCoy,32,2005-09-10,2005-09-10,69,1
+428,Ghetto Bill,Master P,39,2005-07-09,2005-07-16,69,2
+429,Fired Up! 2,Various Artists,48,2005-02-26,2005-03-05,69,2
+430,Big Boi Presents...Got Purp? Vol. II,Purple Ribbon All-Stars,49,2005-12-10,2005-12-17,69,2
+431,Aha Shake Heartbreak,Kings Of Leon,55,2005-03-12,2005-03-19,69,2
+432,Celtic Woman,Celtic Woman,75,2005-07-02,2005-12-31,69,6
+433,Jacksonville City Nights,Ryan Adams & The Cardinals,33,2005-10-15,2005-10-15,68,1
+434,Blue-Sky Research,Taproot,33,2005-09-03,2005-09-03,68,1
+435,Weekend On The Rocks,Dave Matthews Band,37,2005-12-17,2005-12-24,68,2
+436,Rappa Ternt Sanga,T-Pain,40,2005-12-24,2005-12-31,68,2
+437,Herbie: Fully Loaded,Soundtrack,73,2005-07-16,2005-07-30,68,3
+438,"Rebel, Sweetheart",The Wallflowers,40,2005-06-11,2005-06-18,67,2
+439,40 Years: A Charlie Brown Christmas,Various Artists,66,2005-12-10,2005-12-31,67,4
+440,A Collision Or (3 + 4 = 7),David Crowder Band,39,2005-10-15,2005-10-22,66,2
+441,I Need An Angel,Ruben Studdard,67,2005-01-01,2005-02-05,66,3
+442,Prince Of Darkness,Ozzy Osbourne,36,2005-04-09,2005-04-09,65,1
+443,Octavarium,Dream Theater,36,2005-06-25,2005-06-25,65,1
+444,The Christmas Sessions,MercyMe,64,2005-12-10,2005-12-24,65,3
+445,Garage,Cross Canadian Ragweed,37,2005-10-22,2005-10-22,64,1
+446,Everything In Transit,Jack's Mannequin,37,2005-09-10,2005-09-10,64,1
+447,Ruff Ryders: Redemption Volume 4,Various Artists,40,2005-08-13,2005-08-20,64,2
+448,"Jermaine Dupri Presents... Young, Fly & Flashy Vol. 1",Various Artists,43,2005-08-06,2005-08-13,64,2
+449,Catching Tales,Jamie Cullum,49,2005-10-29,2005-11-12,64,2
+450,The Greatest Hits Collection II,Brooks & Dunn,83,2005-01-01,2005-02-12,64,5
+451,The Mouse And The Mask,Danger Doom,41,2005-10-29,2005-11-05,63,2
+452,Gimme Fiction,Spoon,44,2005-05-28,2005-06-04,63,2
+453,X,Intocable,62,2005-03-05,2005-03-26,63,3
+454,License To Chill,Jimmy Buffett,75,2005-01-01,2005-03-19,63,4
+455,Waiting For The Sirens' Call,New Order,46,2005-05-14,2005-05-21,62,2
+456,Blame The Vain,Dwight Yoakam,54,2005-07-02,2005-07-09,62,2
+457,Stories Of A Stranger,O.A.R.,40,2005-10-22,2005-10-22,61,1
+458,T.I.P.,Young Buck,40,2005-11-26,2005-11-26,61,1
+459,D.O.D.,Do Or Die,40,2005-02-19,2005-02-19,61,1
+460,Live At Fenway Park,Jimmy Buffett,41,2005-12-03,2005-12-03,60,1
+461,The Source Presents: Hip Hip Hits 10,Various Artists,60,2005-08-13,2005-08-20,60,2
+462,All My Life: Their Greatest Hits,K-Ci & JoJo,52,2005-02-26,2005-03-05,59,2
+463,Trauma,DJ Quik,43,2005-10-01,2005-10-01,58,1
+464,B-Sides & Rarities,Deftones,43,2005-10-22,2005-10-22,58,1
+465,"The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe",Soundtrack,43,2005-12-31,2005-12-31,58,1
+466,The OC: Music From: Mix 4,Soundtrack,56,2005-04-23,2005-04-30,58,2
+467,Twin Cinema,The New Pornographers,44,2005-09-10,2005-09-10,57,1
+468,Ev'rybody Know Me,YoungBloodZ,44,2005-12-31,2005-12-31,57,1
+469,A Beautiful Lie,30 Secnds To Mars,44,2005-09-17,2005-09-17,57,1
+470,The Question,Emery,45,2005-08-20,2005-08-20,56,1
+471,Transgression,Fear Factory,45,2005-09-10,2005-09-10,56,1
+472,Healthy In Paranoid Times,Our Lady Peace,45,2005-09-17,2005-09-17,56,1
+473,Livin' The Luxury Brown,Mint Condition,45,2005-05-14,2005-05-14,56,1
+474,The Warrior's Code,Dropkick Murphys,48,2005-07-09,2005-07-16,56,2
+475,Atticus: Dragging The Lake 3,Various Artists,63,2005-03-12,2005-03-19,56,2
+476,Big Bang Theory,Styx,46,2005-05-28,2005-05-28,55,1
+477,Somebody's Miracle,Liz Phair,46,2005-10-22,2005-10-22,55,1
+478,The Love Experience,Raheem DeVaughn,46,2005-07-16,2005-07-16,55,1
+479,Devil's Playground,Billy Idol,46,2005-04-09,2005-04-09,55,1
+480,Love Songs,Chicago,57,2005-02-12,2005-02-26,55,2
+481,The Phantom Of The Opera (Special Edition),Soundtrack,71,2005-01-29,2005-02-19,55,4
+482,Cheetah-licious Christmas,The Cheetah Girls,74,2005-12-10,2005-12-24,55,3
+483,Greatest Hits,'N Sync,47,2005-11-12,2005-11-12,54,1
+484,Looking For Lucky,Hootie & The Blowfish,47,2005-08-27,2005-08-27,54,1
+485,Greatest Hitz,Limp Bizkit,47,2005-11-26,2005-11-26,54,1
+486,Kicking Television: Live In Chicago,Wilco,47,2005-12-03,2005-12-03,54,1
+487,One Tree Hill,Soundtrack,51,2005-02-12,2005-02-26,54,2
+488,Elektra: The Album,Soundtrack,62,2005-01-29,2005-02-05,54,2
+489,Charlie And The Chocolate Factory,Soundtrack,76,2005-08-06,2005-08-20,54,3
+490,Aerial,Kate Bush,48,2005-11-26,2005-11-26,53,1
+491,Hannicap Circus,Bizarre,48,2005-07-16,2005-07-16,53,1
+492,Knuckle Down,Ani DiFranco,49,2005-02-12,2005-02-19,53,2
+493,I Can Only Imagine: Platinum Edition,Various Artists,49,2005-01-22,2005-02-05,53,2
+494,Three Chord Country And American Rock & Roll,Keith Anderson,71,2005-05-21,2005-08-06,53,4
+495,The Polar Express,Soundtrack,72,2005-01-01,2005-01-08,53,2
+496,You Do Your Thing,Montgomery Gentry,85,2005-04-30,2005-09-10,53,6
+497,In Love And Death,The Used,84,2005-01-15,2005-04-23,52,6
+498,Kottonmouth Kings,Kottonmouth Kings,50,2005-06-18,2005-06-18,51,1
+499,Let Them Be Little,Billy Dean,50,2005-04-16,2005-04-16,51,1
+500,Ice Princess,Soundtrack,53,2005-04-09,2005-04-23,51,2
+501,The Everglow,Mae,51,2005-04-16,2005-04-16,50,1
+502,Here's To The Mourning,Unwritten Law,51,2005-02-19,2005-02-19,50,1
+503,The Collection,Alanis Morissette,51,2005-12-03,2005-12-03,50,1
+504,Hoy Como Ayer,Conjunto Primavera,58,2005-02-19,2005-02-26,50,2
+505,Songs,Willie Nelson,64,2005-03-05,2005-03-12,50,2
+506,Team Sleep,Team Sleep,52,2005-05-28,2005-05-28,49,1
+507,Ardientes,Beto y Sus Canarios,62,2005-08-06,2005-08-13,49,2
+508,West Coast Resurrection,The Game,53,2005-04-16,2005-04-16,48,1
+509,Now & Forever: The Hits,TLC,53,2005-07-09,2005-07-09,48,1
+510,Chosen Few: El Documental,Various Artists,65,2005-04-16,2005-04-30,48,3
+511,The Truth,Tru,54,2005-03-12,2005-03-12,47,1
+512,Some Kinda...,Dwele,54,2005-10-22,2005-10-22,47,1
+513,What I Do,Alan Jackson,75,2005-01-01,2005-01-08,47,2
+514,Los Bandoleros: The First Don Omar Production,Various Artists,55,2005-05-28,2005-05-28,46,1
+515,Solo Acoustic Vol. 1,Jackson Browne,55,2005-10-29,2005-10-29,46,1
+516,Crunk Hits,Various Artists,55,2005-12-03,2005-12-03,46,1
+517,Fair & Square,John Prine,55,2005-05-14,2005-05-14,46,1
+518,Rock Angelz,Bratz,79,2005-08-13,2005-08-27,46,3
+519,The Minstrel Show,Little Brother,56,2005-10-01,2005-10-01,45,1
+520,Radio Disney Jams 7,Various Artists,57,2005-04-09,2005-04-09,44,1
+521,Abandon Your Friends,From Autumn To Ashes,58,2005-09-17,2005-09-17,43,1
+522,One Way Ticket To Hell... And Back,The Darkness,58,2005-12-17,2005-12-17,43,1
+523,Gasoline,Theory Of A Deadman,58,2005-04-16,2005-04-16,43,1
+524,Y Seguimos Con Duranguense!!!,Los Horoscopos de Durango,78,2005-03-19,2005-03-26,43,2
+525,Push The Button,The Chemical Brothers,59,2005-02-12,2005-02-12,42,1
+526,Collectables By Ashanti,Ashanti,59,2005-12-24,2005-12-24,42,1
+527,Royal Albert Hall: London May 2-3-5-6 2005,Cream,59,2005-10-22,2005-10-22,42,1
+528,Elizabethtown,Soundtrack,68,2005-11-05,2005-11-12,42,2
+529,Against The Grain,Kurupt,60,2005-09-10,2005-09-10,41,1
+530,The Forgotten Arm,Aimee Mann,60,2005-05-21,2005-05-21,41,1
+531,The Rising Tied,Fort Minor,60,2005-12-10,2005-12-10,41,1
+532,Bone Brothers,Layzie Bone And Bizzy Bone,60,2005-03-12,2005-03-12,41,1
+533,Hot Apple Pie,Hot Apple Pie,60,2005-07-16,2005-07-16,41,1
+534,Live: Friday The 13th,Maroon 5,61,2005-10-08,2005-10-08,40,1
+535,Greatest Hits,Tracy Byrd,61,2005-02-26,2005-02-26,40,1
+536,Untold Story: Volume II,The Game,61,2005-08-13,2005-08-13,40,1
+537,Da Hitman Presents Reggaeton Latino,Don Omar,61,2005-12-24,2005-12-24,40,1
+538,Heart & Soul,Joe Cocker,61,2005-02-19,2005-02-19,40,1
+539,Mas Flow 2,Luny Tunes & Baby Ranks,68,2005-04-02,2005-04-16,40,2
+540,Cautivo,Chayanne,62,2005-10-15,2005-10-15,39,1
+541,"O' God, The Aftermath",Norma Jean,62,2005-03-19,2005-03-19,39,1
+542,Alive In South Africa,Israel & New Breed,62,2005-11-12,2005-11-12,39,1
+543,Man's Myth (Vol. 1),Twiztid,62,2005-07-16,2005-07-16,39,1
+544,Paso A Paso,Luis Fonsi,62,2005-07-30,2005-07-30,39,1
+545,El Sexto Sentido,Thalia,63,2005-08-06,2005-08-06,38,1
+546,Greatest Hits: Back To The Start,Megadeth,65,2005-07-16,2005-07-23,38,2
+547,House Of Fatty Koo,Fatty Koo,64,2005-07-30,2005-07-30,37,1
+548,My World: The Definitive Collection,Smokey Robinson,64,2005-05-21,2005-05-21,37,1
+549,Ghost Reveries,Opeth,64,2005-09-17,2005-09-17,37,1
+550,Shine,Trey Anastasio,64,2005-11-19,2005-11-19,37,1
+551,Por Muchas Razones Te Quiero,Grupo Bryndis,79,2005-08-20,2005-09-03,37,3
+552,Real Talk,Fabolous,85,2005-01-15,2005-02-05,37,4
+553,Anthology,Bryan Adams,65,2005-11-05,2005-11-05,36,1
+554,Hustla's Handbook,Mack 10,65,2005-10-15,2005-10-15,36,1
+555,Searching For Jerry Garcia,Proof,65,2005-08-27,2005-08-27,36,1
+556,Live In Hawaii,Jimmy Buffett,66,2005-04-09,2005-04-09,35,1
+557,Live @ The Fillmore,Lucinda Williams,66,2005-05-28,2005-05-28,35,1
+558,You Can't Imagine How Much Fun We're Having,Atmosphere,66,2005-10-22,2005-10-22,35,1
+559,All Of Me,Anne Murray,66,2005-02-12,2005-02-12,35,1
+560,Monty Python's Spamalot,Original Broadway Cast Recording,69,2005-05-21,2005-05-28,35,2
+561,Z,My Morning Jacket,67,2005-10-22,2005-10-22,34,1
+562,The Art Of Breaking,Thousand Foot Krutch,67,2005-08-06,2005-08-06,34,1
+563,Casting Crowns,Casting Crowns,84,2005-03-26,2005-05-07,34,5
+564,Nuestro Amor,RBD,88,2005-10-22,2005-11-12,34,4
+565,Apasionada,Ednita Nazario,68,2005-07-09,2005-07-09,33,1
+566,Rock Star: A Night At The Mayan Theatre,Soundtrack,68,2005-10-08,2005-10-08,33,1
+567,Come Away With Me,Norah Jones,82,2005-01-01,2005-01-08,33,2
+568,Zucchero & Co.,Zucchero,84,2005-07-30,2005-08-06,33,2
+569,Gemini: Good Vs. Evil,Krayzie Bone,69,2005-02-26,2005-02-26,32,1
+570,Let The Truth Be Told,Z-Ro,69,2005-05-14,2005-05-14,32,1
+571,Live At The Fillmore,Los Lonely Boys,69,2005-03-12,2005-03-12,32,1
+572,Power To The People And The Beats: Public Enemy's Greatest Hits,Public Enemy,69,2005-08-20,2005-08-20,32,1
+573,Caught In The Act,Michael Buble,82,2005-12-10,2005-12-24,32,2
+574,Mas Capaces Que Nunca,K-Paz De La Sierra,70,2005-10-22,2005-10-22,31,1
+575,Gutter Phenomenon,Every Time I Die,71,2005-09-10,2005-09-10,30,1
+576,Redemption Songs,Jars Of Clay,71,2005-04-09,2005-04-09,30,1
+577,The Road To Here,Little Big Town,90,2005-10-22,2005-12-31,30,5
+578,Commit This To Memory,Motion City Soundtrack,72,2005-06-25,2005-06-25,29,1
+579,Remix City Volume 1,R. Kelly,72,2005-12-03,2005-12-03,29,1
+580,The Autumn Effect,10 Years,72,2005-09-03,2005-09-03,29,1
+581,Hits,Dru Hill,72,2005-10-29,2005-10-29,29,1
+582,A*W*O*L,AZ,73,2005-09-24,2005-09-24,28,1
+583,This Type Of Thinking (Could Do Us In),Chevelle,82,2005-01-15,2005-01-29,28,3
+584,Passion: How Great Is Our God,Passion Worship Band,74,2005-04-30,2005-04-30,27,1
+585,Chimaira,Chimaira,74,2005-08-27,2005-08-27,27,1
+586,"Six Feet Under, Volume Two: Everything Ends",Soundtrack,74,2005-09-10,2005-09-10,27,1
+587,Lest We Forget: The Best Of,Marilyn Manson,77,2005-01-15,2005-01-22,27,2
+588,Chapter 3: The Flesh,Syleena Johnson,75,2005-10-01,2005-10-01,26,1
+589,Bloom: Remix Album,Sarah McLachlan,76,2005-09-24,2005-09-24,25,1
+590,Scabdates,The Mars Volta,76,2005-11-26,2005-11-26,25,1
+591,Rarities 1971-2003,The Rolling Stones,76,2005-12-10,2005-12-10,25,1
+592,Get Born,Jet,87,2005-01-29,2005-02-05,25,2
+593,The All-Star Session,Roadrunner United,77,2005-10-29,2005-10-29,24,1
+594,Panic,MxPx,77,2005-06-25,2005-06-25,24,1
+595,In This Life Together,Kindred The Family Soul,77,2005-10-08,2005-10-08,24,1
+596,Fantastic Four: The Album,Soundtrack,77,2005-07-23,2005-07-23,24,1
+597,Listen To Your Heart,D.H.T. Featuring Edmee,78,2005-08-06,2005-08-06,23,1
+598,The Fuse,Pennywise,78,2005-08-27,2005-08-27,23,1
+599,Shrek 2,Soundtrack,82,2005-01-01,2005-01-08,23,2
+600,Off To Join The World,Blaine Larsen,79,2005-02-12,2005-02-12,22,1
+601,Hits I Missed...And One I Didn't,George Jones,79,2005-10-01,2005-10-01,22,1
+602,Straight Outta Ca$hville,Young Buck,86,2005-01-15,2005-02-05,22,2
+603,Harry Potter And The Goblet Of Fire,Soundtrack,80,2005-12-03,2005-12-03,21,1
+604,Church In The Wildwood,Bill & Gloria Gaither And Their Homecoming Friends,80,2005-02-12,2005-02-12,21,1
+605,The Woods,Sleater-Kinney,80,2005-06-11,2005-06-11,21,1
+606,Mutant (Vol. 2),Twiztid,80,2005-08-13,2005-08-13,21,1
+607,In The Mid-Nite Hour,Warren G,80,2005-10-29,2005-10-29,21,1
+608,The Regis Philbin Christmas Album,Regis Philbin,83,2005-12-03,2005-12-17,21,2
+609,Dangerously In Love,Beyonce,87,2005-01-15,2005-02-19,21,4
+610,Shock'n Y'All,Toby Keith,88,2005-01-01,2005-01-08,21,2
+611,Worlds Apart,...And You Will Know Us By The Trail Of Dead,81,2005-02-12,2005-02-12,20,1
+612,Distort Yourself,Institute,81,2005-10-01,2005-10-01,20,1
+613,Love & Life,LaToya London,82,2005-10-08,2005-10-08,19,1
+614,Words & Music: John Mellencamp's Greatest Hits,John Mellencamp,91,2005-01-01,2005-01-22,19,4
+615,Best: 1991 - 2004,Seal,83,2005-01-22,2005-01-22,18,1
+616,Motown Two,Michael McDonald,84,2005-01-01,2005-01-08,18,2
+617,The SpongeBob SquarePants Movie,Soundtrack,88,2005-01-01,2005-01-08,18,2
+618,Blue Collar Comedy Tour Rides Again,Soundtrack,92,2005-01-01,2005-01-08,18,2
+619,Return Of The Champion,Queen + Paul Rodgers,84,2005-10-01,2005-10-01,17,1
+620,Before The Robots,Better Than Ezra,84,2005-06-18,2005-06-18,17,1
+621,In This Skin,Jessica Simpson,91,2005-01-01,2005-01-08,17,2
+622,Another Journal Entry,BarlowGirl,85,2005-10-15,2005-10-15,16,1
+623,Israel Homecoming,Bill & Gloria Gaither And Their Homecoming Friends,85,2005-03-19,2005-03-19,16,1
+624,Soul Symphony,Will Downing,85,2005-10-22,2005-10-22,16,1
+625,Blake Shelton's Barn & Grill,Blake Shelton,90,2005-06-04,2005-08-06,16,2
+626,Fallen,Evanescence,95,2005-01-01,2005-02-19,16,4
+627,Employment,Kaiser Chiefs,86,2005-04-02,2005-04-02,15,1
+628,Reflection Of Something,Todd Agnew,86,2005-09-03,2005-09-03,15,1
+629,Motown: Remixed,Various Artists,86,2005-06-11,2005-06-11,15,1
+630,Jerusalem,Bill & Gloria Gaither And Their Homecoming Friends,86,2005-03-19,2005-03-19,15,1
+631,Strong Tower,Kutless,87,2005-03-19,2005-03-19,14,1
+632,Doomsday Machine,Arch Enemy,87,2005-08-13,2005-08-13,14,1
+633,Dream Big,Ryan Shupe & The RubberBand,87,2005-09-24,2005-09-24,14,1
+634,Found In The Flood,The Bled,87,2005-09-10,2005-09-10,14,1
+635,Forgotten Freshness: Volume 4,Insane Clown Posse,88,2005-12-03,2005-12-03,13,1
+636,Grace,Jim Brickman,88,2005-05-07,2005-05-07,13,1
+637,La Historia Continua... Parte II,Marco Antonio Solis,92,2005-06-11,2005-06-25,13,3
+638,Okemah And The Melody Of Riot,Son Volt,89,2005-07-30,2005-07-30,12,1
+639,The Great Depression,Blindside,89,2005-08-20,2005-08-20,12,1
+640,Odditorium Or Warlords Of Mars,The Dandy Warhols,89,2005-10-01,2005-10-01,12,1
+641,All I Really Want For Christmas,Steven Curtis Chapman,90,2005-12-17,2005-12-17,11,1
+642,Howl,Black Rebel Motorcycle Club,90,2005-09-10,2005-09-10,11,1
+643,One Thing Remains,Default,90,2005-10-29,2005-10-29,11,1
+644,Shifting Gears,Z-Trip,90,2005-05-07,2005-05-07,11,1
+645,Hitch,Soundtrack,90,2005-03-05,2005-03-05,11,1
+646,The Princess Diaries 2: Royal Engagement,Soundtrack,90,2005-01-01,2005-01-01,11,1
+647,The Rose Vol. 2: Music Inspired By Tupac's Poetry,Various Artists,91,2005-10-08,2005-10-08,10,1
+648,Ernie Haase & Signature Sound,Ernie Haase & Signature Sound,91,2005-11-12,2005-11-12,10,1
+649,Final Straw,Snow Patrol,91,2005-01-15,2005-01-15,10,1
+650,The Gospel,Soundtrack,93,2005-11-05,2005-11-12,10,2
+651,The Best Of Guy Penrod,Guy Penrod,92,2005-08-06,2005-08-06,9,1
+652,Furious,Soopa Villainz,92,2005-09-03,2005-09-03,9,1
+653,eMOTIVe,A Perfect Circle,93,2005-01-15,2005-01-15,8,1
+654,Punk O Rama 10,Various Artists,93,2005-06-25,2005-06-25,8,1
+655,Hymns,Bill & Gloria Gaither And Their Homecoming Friends,93,2005-02-12,2005-02-12,8,1
+656,Blinking Lights And Other Revelations,eels,93,2005-05-14,2005-05-14,8,1
+657,Desperate Housewives,Soundtrack,93,2005-10-08,2005-10-08,8,1
+658,Cosmic Game,Thievery Corporation,94,2005-03-12,2005-03-12,7,1
+659,The Very Best Of Death Row,Various Artists,94,2005-05-14,2005-05-14,7,1
+660,Kasabian,Kasabian,94,2005-03-26,2005-03-26,7,1
+661,Robot Hive / Exodus,Clutch,94,2005-07-09,2005-07-09,7,1
+662,Apathetic ep,Relient K,94,2005-11-26,2005-11-26,7,1
+663,This Station Is Non-Operational,At The Drive-In,95,2005-06-11,2005-06-11,6,1
+664,Rebelde,RBD,95,2005-10-08,2005-10-08,6,1
+665,As Time Goes By ... The Great American Songbook Vol. II,Rod Stewart,95,2005-01-01,2005-01-01,6,1
+666,Greatest Hits,Bone Thugs-N-Harmony,95,2005-04-30,2005-04-30,6,1
+667,It's Not A Game,Layzie Bone,96,2005-06-18,2005-06-18,5,1
+668,The Metropolitan Hotel,Chely Wright,96,2005-03-12,2005-03-12,5,1
+669,Healing Rain,Michael W. Smith,96,2005-01-01,2005-01-01,5,1
+670,The Ultimate Collection,B.B. King,96,2005-04-02,2005-04-02,5,1
+671,All Star: The Smash Hits,Smash Mouth,96,2005-09-10,2005-09-10,5,1
+672,The Essential Michael Jackson,Michael Jackson,96,2005-08-13,2005-08-13,5,1
+673,Nickelodeon Kids' Choice,Various Artists,96,2005-04-09,2005-04-09,5,1
+674,Tha Carter,Lil Wayne,96,2005-01-15,2005-01-15,5,1
+675,Sounds Of Summer: The Very Best Of The Beach Boys,The Beach Boys,98,2005-03-05,2005-03-12,5,2
+676,Reggae Gold 2005,Various Artists,97,2005-07-09,2005-07-09,4,1
+677,Chuck,Sum 41,98,2005-01-15,2005-01-15,3,1
+678,Human After All,Daft Punk,98,2005-04-02,2005-04-02,3,1
+679,Van Lear Rose,Loretta Lynn,98,2005-03-05,2005-03-05,3,1
+680,The Way Up,Pat Metheny Group,99,2005-02-12,2005-02-12,2,1
+681,Lords Of Dogtown,Soundtrack,99,2005-06-25,2005-06-25,2,1
+682,Platinum Collection,Genesis,100,2005-10-01,2005-10-01,1,1

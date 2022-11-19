@@ -1,0 +1,776 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Daughtry,Daughtry,1,2007-01-06,2007-12-29,5772,52
+2,The Dutchess,Fergie,2,2007-01-06,2007-12-29,4875,52
+3,All The Right Reasons,Nickelback,7,2007-01-06,2007-12-29,4465,52
+4,Konvicted,Akon,2,2007-01-06,2007-11-03,4309,44
+5,FutureSex/LoveSounds,Justin Timberlake,3,2007-01-06,2007-12-29,4274,52
+6,Taylor Swift,Taylor Swift,8,2007-01-06,2007-12-29,4016,52
+7,Some Hearts,Carrie Underwood,4,2007-01-06,2007-12-29,3841,52
+8,Hannah Montana,Soundtrack,2,2007-01-06,2007-12-29,3753,52
+9,Hannah Montana 2 (Soundtrack)/Meet Miley Cyrus,Miley Cyrus,1,2007-07-14,2007-12-29,3376,25
+10,Back To Black,Amy Winehouse,6,2007-03-31,2007-12-29,3117,40
+11,Minutes To Midnight,Linkin Park,1,2007-06-02,2007-12-29,3021,31
+12,The Evolution Of Robin Thicke,Robin Thicke,5,2007-01-06,2007-10-06,3011,40
+13,Me And My Gang,Rascal Flatts,12,2007-01-06,2007-12-22,2830,46
+14,The Sweet Escape,Gwen Stefani,13,2007-01-06,2007-10-06,2707,40
+15,Enjoy The Ride,Sugarland,13,2007-01-06,2007-12-29,2670,52
+16,B'Day,Beyonce,6,2007-01-06,2007-12-22,2608,41
+17,The Best Damn Thing,Avril Lavigne,1,2007-05-05,2007-12-29,2599,35
+18,Timbaland Presents Shock Value,Timbaland,5,2007-04-21,2007-12-29,2551,37
+19,High School Musical 2,Soundtrack,1,2007-09-01,2007-12-29,2541,18
+20,Call Me Irresponsible,Michael Buble,1,2007-05-19,2007-12-29,2494,33
+21,Corinne Bailey Rae,Corinne Bailey Rae,4,2007-01-06,2007-09-29,2467,39
+22,It Won't Be Soon Before Long,Maroon 5,1,2007-06-09,2007-12-29,2466,30
+23,Let It Go,Tim McGraw,1,2007-04-14,2007-11-17,2406,32
+24,Infinity On High,Fall Out Boy,1,2007-02-24,2007-12-22,2392,35
+25,Loose,Nelly Furtado,7,2007-01-06,2007-10-06,2313,40
+26,Extreme Behavior,Hinder,19,2007-01-06,2007-09-29,2203,39
+27,Continuum,John Mayer,10,2007-01-06,2007-12-22,2064,40
+28,Good Girl Gone Bad,Rihanna,2,2007-06-23,2007-12-29,1978,28
+29,Hairspray,Soundtrack,2,2007-07-28,2007-12-29,1976,23
+30,High School Musical,Soundtrack,16,2007-01-06,2007-12-29,1973,39
+31,Not Too Late,Norah Jones,1,2007-02-17,2007-07-21,1959,23
+32,NOW 25,Various Artists,1,2007-08-04,2007-11-24,1890,17
+33,Coco,Colbie Caillat,5,2007-08-04,2007-12-29,1872,22
+34,NOW 24,Various Artists,1,2007-04-14,2007-08-18,1853,19
+35,Dreamgirls,Soundtrack,1,2007-01-06,2007-06-02,1831,18
+36,Lost Highway,Bon Jovi,1,2007-07-07,2007-12-29,1802,26
+37,Noel,Josh Groban,1,2007-10-27,2007-12-29,1681,10
+38,Because Of You,Ne-Yo,1,2007-05-19,2007-10-13,1673,22
+39,T.I. Vs T.I.P.,T.I.,1,2007-07-21,2007-12-08,1651,19
+40,The Inspiration,Young Jeezy,5,2007-01-06,2007-06-16,1542,24
+41,Jonas Brothers,Jonas Brothers,5,2007-08-25,2007-12-29,1527,19
+42,Epiphany,T-Pain,1,2007-06-23,2007-11-03,1505,20
+43,5th Gear,Brad Paisley,3,2007-07-07,2007-12-29,1502,26
+44,Still Feels Good,Rascal Flatts,1,2007-10-13,2007-12-29,1476,12
+45,How To Save A Life,The Fray,18,2007-01-06,2007-09-22,1471,30
+46,Graduation,Kanye West,1,2007-09-29,2007-12-29,1446,14
+47,RIOT!,Paramore,15,2007-06-30,2007-12-29,1442,27
+48,"Love, Pain & The Whole Crazy Thing",Keith Urban,21,2007-01-06,2007-12-01,1430,38
+49,Reba Duets,Reba McEntire,1,2007-10-06,2007-12-29,1405,13
+50,I'm Not Dead,P!nk,38,2007-03-31,2007-12-29,1400,34
+51,NOW 23,Various Artists,3,2007-01-06,2007-04-21,1399,16
+52,Every Second Counts,Plain White T's,10,2007-05-26,2007-10-20,1246,22
+53,Long Road Out Of Eden,Eagles,1,2007-11-17,2007-12-29,1235,7
+54,Ciara: The Evolution,Ciara,9,2007-01-06,2007-06-02,1221,22
+55,Double Up,R. Kelly,1,2007-06-16,2007-09-29,1205,16
+56,Big Dog Daddy,Toby Keith,1,2007-06-30,2007-10-20,1202,17
+57,Awake,Josh Groban,7,2007-01-06,2007-09-08,1180,24
+58,One - X,Three Days Grace,58,2007-01-13,2007-11-03,1172,43
+59,If You're Going Through Hell,Rodney Atkins,27,2007-01-06,2007-09-15,1161,36
+60,Icky Thump,The White Stripes,2,2007-07-07,2007-10-13,1152,15
+61,Just Who I Am: Poets & Pirates,Kenny Chesney,3,2007-09-29,2007-12-29,1151,14
+62,Introducing Joss Stone,Joss Stone,2,2007-04-07,2007-07-28,1148,17
+63,Love,The Beatles,5,2007-01-06,2007-08-04,1144,25
+64,The Altar And The Door,Casting Crowns,2,2007-09-15,2007-12-29,1142,16
+65,Carnival Ride,Carrie Underwood,1,2007-11-10,2007-12-29,1138,8
+66,My December,Kelly Clarkson,2,2007-07-14,2007-10-13,1127,14
+67,Luvanmusiq,Musiq Soulchild,1,2007-03-31,2007-07-28,1121,18
+68,Jump In!,Soundtrack,3,2007-01-27,2007-05-05,1112,15
+69,Just Like You,Keyshia Cole,2,2007-10-13,2007-12-29,1109,12
+70,Elliott Yamin,Elliott Yamin,3,2007-04-07,2007-10-06,1108,27
+71,Street Love,Lloyd,2,2007-03-31,2007-07-21,1105,17
+72,Magic,Bruce Springsteen,1,2007-10-20,2007-12-29,1098,11
+73,From Nothin' To Somethin',Fabolous,2,2007-06-30,2007-10-13,1090,16
+74,A Beautiful Lie,30 Secnds To Mars,36,2007-01-06,2007-06-30,1049,26
+75,Curtis,50 Cent,2,2007-09-29,2007-12-29,1035,14
+76,"Alright, Still...",Lily Allen,20,2007-02-17,2007-07-28,1030,24
+77,The Black Parade,My Chemical Romance,16,2007-01-06,2007-09-29,1023,29
+78,Finding Forever,Common,1,2007-08-18,2007-12-01,1019,16
+79,Grammy Nominees 2007,Various Artists,3,2007-02-10,2007-05-12,1017,13
+80,A New Journey,Celtic Woman,4,2007-02-17,2007-06-30,1006,17
+81,Waking Up Laughing,Martina McBride,4,2007-04-21,2007-07-21,1003,14
+82,Your Man,Josh Turner,49,2007-01-06,2007-08-11,998,27
+83,Rock N Roll Jesus,Kid Rock,1,2007-10-27,2007-12-29,994,10
+84,Hip Hop Is Dead,Nas,1,2007-01-06,2007-03-31,986,13
+85,Memory Almost Full,Paul McCartney,3,2007-06-23,2007-08-25,959,10
+86,A Hundred Miles Or More: A Collection,Alison Krauss,10,2007-04-21,2007-09-22,947,21
+87,As I Am,Alicia Keys,1,2007-12-01,2007-12-29,945,5
+88,Strength & Loyalty,Bone Thugs-N-Harmony,2,2007-05-26,2007-09-08,939,16
+89,Between Raising Hell And Amazing Grace,Big & Rich,6,2007-06-23,2007-10-06,935,16
+90,souljaboytellem.com,Soulja Boy Tell'em,4,2007-10-20,2007-12-29,927,11
+91,The Reminder,Feist,16,2007-05-19,2007-12-29,923,27
+92,The Open Door,Evanescence,28,2007-01-06,2007-05-12,917,19
+93,Late Night Special,Pretty Ricky,1,2007-02-10,2007-05-19,913,15
+94,The Real Testament,Plies,2,2007-08-25,2007-11-24,913,14
+95,Stadium Arcadium,Red Hot Chili Peppers,12,2007-01-06,2007-05-12,908,19
+96,Reflections (A Retrospective),Mary J. Blige,19,2007-01-06,2007-04-07,890,14
+97,Back To Basics,Christina Aguilera,35,2007-01-06,2007-05-19,885,20
+98,As Cruel As School Children,Gym Class Heroes,35,2007-02-03,2007-08-04,883,26
+99,The Ultimate Hits,Garth Brooks,3,2007-11-24,2007-12-29,881,6
+100,Don't You Fake It,The Red Jumpsuit Apparatus,47,2007-01-13,2007-07-07,862,26
+101,Eminem Presents: The Re-Up,Various Artists,7,2007-01-06,2007-04-07,847,14
+102,NOW 26,Various Artists,3,2007-12-01,2007-12-29,846,5
+103,Exile On Mainstream,matchbox twenty,3,2007-10-20,2007-12-29,842,11
+104,Relentless,Jason Aldean,4,2007-06-16,2007-09-29,841,16
+105,Wincing The Night Away,The Shins,2,2007-02-10,2007-04-28,828,12
+106,Year Zero,Nine Inch Nails,2,2007-05-05,2007-07-14,813,11
+107,Christmas Song,Mannheim Steamroller,5,2007-10-27,2007-12-29,808,10
+108,Taking The Long Way,Dixie Chicks,8,2007-01-06,2007-05-26,792,15
+109,Raising Sand,Robert Plant / Alison Krauss,2,2007-11-10,2007-12-29,791,8
+110,"Echoes, Silence, Patience & Grace",Foo Fighters,3,2007-10-13,2007-12-29,783,12
+111,We Were Dead Before The Ship Even Sank,Modest Mouse,1,2007-04-07,2007-06-23,755,12
+112,Time Well Wasted,Brad Paisley,39,2007-01-06,2007-06-30,748,24
+113,21,Omarion,1,2007-01-13,2007-04-07,723,13
+114,Bucky Covington,Bucky Covington,4,2007-05-05,2007-09-01,715,18
+115,Underground Kingz,UGK,1,2007-08-25,2007-10-13,713,8
+116,Black Rain,Ozzy Osbourne,3,2007-06-09,2007-09-01,701,13
+117,The Real Thing: Words And Sounds Vol. 3,Jill Scott,4,2007-10-13,2007-12-15,699,10
+118,Buck The World,Young Buck,3,2007-04-14,2007-06-16,698,10
+119,Greatest Hits,Gary Allan,5,2007-03-24,2007-06-16,698,13
+120,Back Of My Lac',J. Holiday,5,2007-10-20,2007-12-29,685,11
+121,Sam's Town,The Killers,44,2007-01-06,2007-06-09,677,23
+122,Rich Boy,Rich Boy,3,2007-03-31,2007-06-16,675,11
+123,Sean Kingston,Sean Kingston,6,2007-08-18,2007-10-20,670,10
+124,Once Again,John Legend,23,2007-01-06,2007-03-31,661,13
+125,Kingdom Come,JAY-Z,21,2007-01-06,2007-03-24,649,12
+126,Exclusive,Chris Brown,4,2007-11-24,2007-12-29,647,6
+127,Sex Love & Pain,Tank,2,2007-06-02,2007-08-04,635,10
+128,Untitled,Korn,2,2007-08-18,2007-10-13,632,9
+129,American Gangster,JAY-Z,1,2007-11-24,2007-12-29,626,6
+130,In My Songs,Gerald Levert,2,2007-03-03,2007-04-14,622,7
+131,Tha Blue Carpet Treatment,Snoop Dogg,26,2007-01-06,2007-03-24,620,12
+132,Blackout,Britney Spears,2,2007-11-17,2007-12-29,619,7
+133,The Police,The Police,11,2007-06-23,2007-08-18,617,9
+134,Zeitgeist,The Smashing Pumpkins,2,2007-07-28,2007-09-29,603,10
+135,Dignity,Hilary Duff,3,2007-04-21,2007-06-16,600,9
+136,Taking Chances,Celine Dion,3,2007-12-01,2007-12-29,599,5
+137,Siempre,Il Divo,19,2007-01-06,2007-05-26,598,12
+138,"Like Father, Like Son",Birdman & Lil Wayne,41,2007-01-06,2007-04-07,586,14
+139,Cold Summer: The Authorized Mixtape,Young Jeezy Presents U.S.D.A.,4,2007-06-09,2007-08-04,585,9
+140,The Price Of Fame,Bow Wow,6,2007-01-06,2007-03-31,582,13
+141,Katharine McPhee,Katharine McPhee,2,2007-02-17,2007-04-21,579,10
+142,Get Money Stay True,Paul Wall,8,2007-04-21,2007-06-16,576,9
+143,Music Is My Savior,Mims,4,2007-04-14,2007-06-23,568,11
+144,The Best Of Andrea Bocelli: Vivere,Andrea Bocelli,9,2007-11-17,2007-12-29,567,7
+145,Rocket Man: Number Ones,Elton John,9,2007-04-14,2007-07-28,565,16
+146,Kidz Bop 11,Kidz Bop Kids,4,2007-03-10,2007-04-21,564,7
+147,Snakes & Arrows,Rush,3,2007-05-19,2007-07-21,559,10
+148,Who We Are,Lifehouse,14,2007-07-07,2007-10-06,551,14
+149,Special Occasion,Bobby Valentino,3,2007-05-26,2007-07-21,543,9
+150,Insomniatic,Aly & AJ,15,2007-07-28,2007-09-29,538,10
+151,PCD,The Pussycat Dolls,45,2007-01-06,2007-06-16,537,18
+152,Sky Blue Sky,Wilco,4,2007-06-02,2007-07-21,536,8
+153,Release Therapy,Ludacris,37,2007-01-06,2007-04-07,533,14
+154,Neon Bible,Arcade Fire,2,2007-03-24,2007-05-26,526,10
+155,U218: Singles,U2,32,2007-01-06,2007-03-31,526,13
+156,Ain't Nothing Like Me,Joe,2,2007-05-12,2007-06-23,525,7
+157,Begin To Hope,Regina Spektor,20,2007-01-13,2007-04-07,523,13
+158,Everything Is Fine,Josh Turner,5,2007-11-17,2007-12-29,518,7
+159,One Chance,Paul Potts,23,2007-10-06,2007-12-29,518,11
+160,Kidz Bop 12,Kidz Bop Kids,7,2007-08-18,2007-10-06,512,8
+161,Planet Earth,Prince,3,2007-08-11,2007-09-29,511,8
+162,Across The Universe: Deluxe Edition,Soundtrack,24,2007-09-29,2007-12-01,508,10
+163,I Am,Chrisette Michele,29,2007-07-07,2007-11-10,491,17
+164,Libertad,Velvet Revolver,5,2007-07-21,2007-09-22,490,9
+165,Mothership,Led Zeppelin,7,2007-12-01,2007-12-29,479,5
+166,Morning Constitutions,Larry The Cable Guy,16,2007-04-21,2007-06-30,479,10
+167,All The Lost Souls,James Blunt,7,2007-10-06,2007-12-29,474,9
+168,Headstrong,Ashley Tisdale,5,2007-02-24,2007-04-21,472,9
+169,Family,LeAnn Rimes,4,2007-10-27,2007-12-29,470,9
+170,Them Vs. You Vs. Me,Finger Eleven,31,2007-03-24,2007-12-29,470,24
+171,A Toby Keith Classic Christmas: Volumes One & Two,Toby Keith,23,2007-11-03,2007-12-29,469,9
+172,Boys Like Girls,Boys Like Girls,55,2007-07-07,2007-12-29,466,17
+173,Rockstar Mentality,Shop Boyz,11,2007-07-07,2007-09-01,464,9
+174,Live At Massey Hall 1971,Neil Young,6,2007-03-31,2007-05-19,461,8
+175,Eardrum,Talib Kweli,2,2007-09-08,2007-10-13,460,6
+176,Crazy Ex-Girlfriend,Miranda Lambert,6,2007-05-19,2007-07-07,460,8
+177,Lies For The Liars,The Used,5,2007-06-09,2007-07-28,457,8
+178,Complete Clapton,Eric Clapton,14,2007-10-27,2007-12-29,445,10
+179,Live At Radio City,Dave Matthews & Tim Reynolds,3,2007-09-01,2007-10-06,438,6
+180,We The Best,DJ Khaled,8,2007-06-30,2007-09-29,433,9
+181,Greatest Hits,The Notorious B.I.G.,1,2007-03-24,2007-05-05,428,7
+182,Vans Warped Tour: 2007 Tour Compilation,Various Artists,31,2007-06-23,2007-09-01,421,11
+183,Greatest Hits Vol 2: Reflected,Tim McGraw,31,2007-01-06,2007-12-08,419,26
+184,Ultimate Santana,Santana,8,2007-11-03,2007-12-29,418,9
+185,One Of The Boys,Gretchen Wilson,5,2007-06-02,2007-07-07,410,6
+186,Into White,Carly Simon,13,2007-01-20,2007-03-03,407,7
+187,El Cartel: The Big Boss,Daddy Yankee,9,2007-06-23,2007-08-11,403,8
+188,The Traveling Wilburys Collection,Traveling Wilburys,9,2007-06-30,2007-08-18,396,8
+189,Disneymania 5: Music Stars Sing Disney... Their Way!,Various Artists,14,2007-04-14,2007-05-19,391,6
+190,Duets: An American Classic,Tony Bennett,22,2007-01-06,2007-06-30,391,15
+191,Doctor's Advocate,The Game,35,2007-01-06,2007-03-31,388,12
+192,Taylor Hicks,Taylor Hicks,15,2007-01-06,2007-03-03,386,9
+193,Hustlenomic$,Yung Joc,3,2007-09-15,2007-10-13,381,5
+194,Five Score And Seven Years Ago,Relient K,6,2007-03-24,2007-04-28,371,6
+195,Cassadaga,Bright Eyes,4,2007-04-28,2007-06-02,368,6
+196,Flyleaf,Flyleaf,57,2007-07-28,2007-11-24,366,14
+197,Finding Beauty In Negative Spaces,Seether,9,2007-11-10,2007-12-29,365,8
+198,Songs Of Mass Destruction,Annie Lennox,9,2007-10-20,2007-11-17,363,5
+199,22 More Hits,George Strait,13,2007-12-01,2007-12-29,358,5
+200,Revival,John Fogerty,14,2007-10-20,2007-11-24,358,6
+201,Pure BS,Blake Shelton,8,2007-05-19,2007-06-30,357,7
+202,El Cantante (Soundtrack),Marc Anthony,31,2007-08-11,2007-09-22,357,7
+203,The Breakthrough,Mary J. Blige,21,2007-02-03,2007-03-31,356,9
+204,Ms. Kelly,Kelly Rowland,6,2007-07-21,2007-08-18,355,5
+205,"Eat Me, Drink Me",Marilyn Manson,8,2007-06-23,2007-08-04,355,7
+206,One Man Band,James Taylor,17,2007-12-01,2007-12-29,355,5
+207,Foiled,Blue October,65,2007-01-13,2007-04-07,355,13
+208,Stockings By The Fire,Various Artists,34,2007-11-24,2007-12-29,352,6
+209,Phobia,Breaking Benjamin,38,2007-03-17,2007-07-07,351,14
+210,Greatest Hits,Sara Evans,8,2007-10-27,2007-12-01,350,6
+211,Living Hard,Gary Allan,3,2007-11-10,2007-12-15,348,6
+212,The Greatest Songs Of The Seventies,Barry Manilow,4,2007-10-06,2007-11-03,347,5
+213,Live At Texas Stadium,Alan Jackson/George Strait/Jimmy Buffett,11,2007-04-21,2007-05-26,347,6
+214,Rough Around The Edges: Live From Madison Square Garden,Dane Cook,11,2007-12-01,2007-12-29,346,5
+215,Our Love To Admire,Interpol,4,2007-07-28,2007-09-01,345,6
+216,Freedom's Road,John Mellencamp,5,2007-02-10,2007-03-10,343,5
+217,Eyes Open,Snow Patrol,46,2007-01-06,2007-04-07,343,13
+218,Como Ama Una Mujer,Jennifer Lopez,10,2007-04-14,2007-05-26,341,7
+219,Light Grenades,Incubus,30,2007-01-06,2007-03-03,338,9
+220,(portable sounds),tobyMac,10,2007-03-10,2007-05-05,337,8
+221,West,Lucinda Williams,14,2007-03-03,2007-04-28,337,7
+222,Jordin Sparks,Jordin Sparks,10,2007-12-08,2007-12-29,336,4
+223,Disney Channel Holiday,Various Artists,32,2007-11-17,2007-12-29,336,7
+224,WOW Hits 2008,Various Artists,56,2007-10-20,2007-12-29,334,11
+225,Alter Ego,Tyrese (AKA Black-Ty),53,2007-01-06,2007-03-17,332,11
+226,Ga Ga Ga Ga Ga,Spoon,10,2007-07-28,2007-09-08,331,7
+227,The Very Best Of Diana Krall,Diana Krall,19,2007-10-06,2007-11-17,331,7
+228,Waitin' In The Country,Jason Michael Carroll,8,2007-02-24,2007-03-31,329,6
+229,Easy Tiger,Ryan Adams,7,2007-07-14,2007-08-18,326,6
+230,Across The Universe,Soundtrack,36,2007-10-06,2007-11-17,324,7
+231,Into The Wild (Soundtrack),Eddie Vedder,11,2007-10-06,2007-11-24,323,8
+232,Italia,Chris Botti,27,2007-10-13,2007-12-29,323,10
+233,Baby Makin' Project,Jagged Edge,8,2007-10-13,2007-11-10,318,5
+234,Greatest Hits,Keith Urban,11,2007-12-08,2007-12-29,314,4
+235,Avenged Sevenfold,Avenged Sevenfold,4,2007-11-17,2007-12-15,313,5
+236,Elect The Dead,Serj Tankian,4,2007-11-10,2007-12-01,312,4
+237,Shine,Joni Mitchell,14,2007-10-13,2007-11-24,312,7
+238,Move Along,The All-American Rejects,43,2007-01-06,2007-03-17,312,10
+239,Once,Soundtrack,60,2007-06-30,2007-10-06,312,15
+240,Vena Sera,Chevelle,12,2007-04-21,2007-06-02,306,6
+241,Trav'lin' Light,Queen Latifah,11,2007-10-13,2007-11-17,305,6
+242,Insomniac,Enrique Iglesias,17,2007-06-30,2007-08-11,303,7
+243,Veteran,Marques Houston,5,2007-04-07,2007-05-05,301,5
+244,It Just Comes Natural,George Strait,37,2007-01-06,2007-11-24,300,12
+245,Pirates Of The Caribbean: At World's End,Soundtrack,14,2007-06-09,2007-07-07,297,5
+246,Underclass Hero,Sum 41,7,2007-08-11,2007-09-08,296,5
+247,Instant Karma: The Amnesty International Campaign To Save Darfur,Various Artists,15,2007-06-30,2007-08-04,295,6
+248,Ultimate Victory,Chamillionaire,8,2007-10-06,2007-11-03,293,5
+249,Trey Day,Trey Songz,11,2007-10-20,2007-11-24,293,6
+250,Lifeline,Ben Harper And The Innocent Criminals,9,2007-09-15,2007-10-13,291,5
+251,Fantasia,Fantasia,63,2007-01-06,2007-06-23,287,12
+252,Small Town Girl,Kellie Pickler,51,2007-01-06,2007-08-11,284,14
+253,Cowboy Town,Brooks & Dunn,13,2007-10-20,2007-11-24,283,6
+254,WOW Gospel 2007,Various Artists,21,2007-02-17,2007-03-31,280,7
+255,Life In Cartoon Motion,MIKA,29,2007-04-14,2007-05-19,280,6
+256,Transformers: The Album,Soundtrack,21,2007-07-21,2007-08-25,278,6
+257,Christmastime In Larryland,Larry The Cable Guy,42,2007-11-24,2007-12-29,275,6
+258,Tyler Perry's Daddy's Little Girls,Soundtrack,34,2007-02-03,2007-03-24,273,8
+259,Lead Sails Paper Anchor,Atreyu,8,2007-09-15,2007-10-06,272,4
+260,Drastic Fantastic,KT Tunstall,9,2007-10-06,2007-11-03,269,5
+261,Dreamgirls: Deluxe Edition,Soundtrack,39,2007-01-13,2007-02-17,269,6
+262,Good Morning Revival,Good Charlotte,7,2007-04-14,2007-05-12,267,5
+263,Favourite Worst Nightmare,Arctic Monkeys,7,2007-05-12,2007-06-09,265,5
+264,The Naked Brothers Band (Soundtrack),The Naked Brothers Band,23,2007-10-27,2007-12-29,265,10
+265,An Ocean Between Us,As I Lay Dying,8,2007-09-08,2007-09-29,263,4
+266,"Oh, My Nola","Harry Connick, Jr.",11,2007-02-17,2007-03-17,263,5
+267,Dreaming Out Loud,OneRepublic,17,2007-12-08,2007-12-29,260,4
+268,One Man Band Man,Swizz Beatz,7,2007-09-08,2007-09-29,259,4
+269,It's Not Big It's Large,Lyle Lovett And His Large Band,18,2007-09-15,2007-10-13,258,5
+270,Chase This Light,Jimmy Eat World,5,2007-11-03,2007-11-24,257,4
+271,American Doll Posse,Tori Amos,5,2007-05-19,2007-06-09,257,4
+272,Eye To The Telescope,KT Tunstall,59,2007-01-06,2007-10-06,256,10
+273,Totally Country 6,Various Artists,18,2007-02-17,2007-03-24,254,6
+274,MTV Unplugged,Korn,9,2007-03-24,2007-04-14,251,4
+275,Crystal Visions... The Very Best Of Stevie Nicks,Stevie Nicks,21,2007-04-14,2007-05-19,249,6
+276,Back By Thug Demand,Trick Daddy,48,2007-01-06,2007-02-17,248,7
+277,Ridin High,8Ball & MJG,8,2007-03-31,2007-04-14,247,3
+278,The Cheetah Girls 2,Soundtrack,26,2007-01-06,2007-02-10,245,6
+279,United Abominations,Megadeth,8,2007-06-02,2007-06-23,243,4
+280,HellYeah,HellYeah,9,2007-04-28,2007-05-19,243,4
+281,Stand,Michael W. Smith,48,2007-08-11,2007-09-08,243,5
+282,Live In Concert 2006,Barbra Streisand,7,2007-05-26,2007-06-16,241,4
+283,The Awakening,Melissa Etheridge,13,2007-10-13,2007-11-03,241,4
+284,Bone Palace Ballet,Chiodos,5,2007-09-22,2007-10-06,240,3
+285,The Mix-Up,Beastie Boys,15,2007-07-14,2007-08-11,233,5
+286,Sawdust,The Killers,12,2007-12-01,2007-12-29,231,5
+287,The Hits,Faith Hill,12,2007-10-20,2007-11-10,230,4
+288,No World For Tomorrow,Coheed And Cambria,6,2007-11-10,2007-11-24,229,3
+289,Volta,Bjork,9,2007-05-26,2007-06-16,228,4
+290,Under The Desert Sky,Andrea Bocelli,45,2007-01-06,2007-03-03,227,9
+291,Home At Last,Billy Ray Cyrus,20,2007-08-11,2007-09-08,222,5
+292,Rebels,RBD,40,2007-01-06,2007-02-03,221,5
+293,Jill Scott Collaborations,Jill Scott,12,2007-02-17,2007-03-17,219,5
+294,Kala,M.I.A.,18,2007-09-08,2007-10-06,219,5
+295,The Dethalbum (Soundtrack),Dethklok,21,2007-10-13,2007-11-17,216,6
+296,Brave,Jennifer Lopez,12,2007-10-27,2007-11-17,215,4
+297,Era Vulgaris,Queens Of The Stone Age,14,2007-06-30,2007-07-21,214,4
+298,Van Morrison At The Movies,Van Morrison,35,2007-03-03,2007-04-07,213,6
+299,La Vida... Es Un Ratico,Juanes,13,2007-11-10,2007-12-01,212,4
+300,Oh! Gravity,Switchfoot,18,2007-01-13,2007-02-03,205,4
+301,Funk This,Chaka Khan,15,2007-10-13,2007-11-10,203,5
+302,The Road To Escondido,J.J. Cale & Eric Clapton,47,2007-01-06,2007-02-10,203,6
+303,Shrek The Third,Soundtrack,34,2007-06-02,2007-06-23,200,4
+304,Chrome Dreams II,Neil Young,11,2007-11-10,2007-12-01,199,4
+305,Unbreakable,Backstreet Boys,7,2007-11-17,2007-11-24,195,2
+306,Celtic Woman,Celtic Woman,59,2007-01-06,2007-04-07,194,11
+307,Motown: A Journey Through Hitsville USA,Boyz II Men,27,2007-12-01,2007-12-29,191,5
+308,Enchanted,Soundtrack,39,2007-12-08,2007-12-29,190,4
+309,90 Millas,Gloria Estefan,25,2007-10-06,2007-11-03,188,5
+310,Coming Up To Breathe,MercyMe,43,2007-09-15,2007-10-06,188,4
+311,Blackbird,Alter Bridge,13,2007-10-27,2007-11-17,185,4
+312,Survival Of The Fittest,"Lil Boosie, Webbie & Foxx",17,2007-06-09,2007-06-23,184,3
+313,Paper Walls,Yellowcard,13,2007-08-04,2007-08-25,183,4
+314,Wisin Vs. Yandel: Los Extraterrestres,Wisin & Yandel,14,2007-11-24,2007-12-15,182,4
+315,High School Musical: The Concert,Various Artists,28,2007-05-19,2007-06-16,182,5
+316,The Art Of Love & War,Angie Stone,11,2007-11-03,2007-11-17,181,3
+317,Under The Blacklight,Rilo Kiley,22,2007-09-08,2007-09-29,180,4
+318,Because Of The Times,Kings Of Leon,25,2007-04-21,2007-05-12,180,4
+319,Dylan,Bob Dylan,36,2007-10-20,2007-11-24,180,6
+320,Broken Bridges,Soundtrack,41,2007-01-27,2007-02-17,177,4
+321,Blood Stained Love Story,Saliva,19,2007-02-10,2007-03-24,173,6
+322,It's A Wonderful Christmas,Michael W. Smith,59,2007-11-03,2007-12-29,173,7
+323,Adrenaline Rush 2007,Twista,10,2007-10-06,2007-10-20,172,3
+324,Fall,Clay Walker,15,2007-05-05,2007-05-26,171,4
+325,Audio Day Dream,Blake Lewis,10,2007-12-22,2007-12-29,170,2
+326,"Greatest Hits, Volume One: The Singles",The Goo Goo Dolls,33,2007-12-01,2007-12-29,170,5
+327,Radio Disney Jams 9,Various Artists,55,2007-03-31,2007-04-21,170,4
+328,All That Is Within Me,MercyMe,15,2007-12-08,2007-12-29,169,4
+329,The Shade Of Poison Trees,Dashboard Confessional,18,2007-10-20,2007-11-03,168,3
+330,Welcome To The Zoo,Gorilla Zoe,18,2007-10-13,2007-11-03,168,4
+331,The Storm,Travis Tritt,28,2007-09-08,2007-09-29,168,4
+332,V,Vanessa Hudgens,69,2007-01-06,2007-04-21,168,10
+333,The Shepherd's Dog,Iron And Wine,24,2007-10-13,2007-11-03,167,4
+334,Celestial,RBD,54,2007-01-06,2007-02-03,167,5
+335,Carry On,Chris Cornell,17,2007-06-23,2007-07-07,166,3
+336,Face The Promise,Bob Seger,61,2007-01-06,2007-03-03,166,7
+337,Press Play,Diddy,69,2007-01-13,2007-05-12,164,11
+338,I Need Mine $$,Lil' Flip,15,2007-04-14,2007-05-05,163,4
+339,Across The Water,Baby Boy Da Prince,26,2007-04-07,2007-05-12,162,6
+340,Alpha,Sevendust,14,2007-03-24,2007-04-07,161,3
+341,I-Empire,Angels & Airwaves,9,2007-11-24,2007-12-01,160,2
+342,New Moon,Elliott Smith,24,2007-05-26,2007-06-16,157,4
+343,15,Buckcherry,80,2007-04-28,2007-07-07,157,11
+344,Real Things,Joe Nichols,23,2007-09-08,2007-09-29,156,4
+345,Kill To Get Crimson,Mark Knopfler,26,2007-10-06,2007-11-03,155,5
+346,Anything Worth Saying,Aaron Shust,63,2007-04-28,2007-05-26,151,5
+347,Red Gone Wild,Redman,13,2007-04-14,2007-04-28,149,3
+348,The Definition Of X: Pick Of The Litter,DMX,26,2007-06-30,2007-07-21,148,4
+349,Agarrese!,Grupo Montez de Durango,41,2007-07-21,2007-08-11,147,4
+350,This Christmas,Soundtrack,53,2007-12-08,2007-12-29,147,4
+351,Grey's Anatomy 3,Soundtrack,16,2007-09-29,2007-10-13,146,3
+352,Southern Weather,The Almost,39,2007-04-21,2007-07-07,145,7
+353,Happy Feet,Soundtrack,71,2007-01-06,2007-04-28,145,8
+354,Live In Dublin,Bruce Springsteen With The Sessions Band,23,2007-06-23,2007-07-07,143,3
+355,The Paramour Sessions,Papa Roach,61,2007-06-16,2007-08-11,143,7
+356,For The Love,Tracy Lawrence,53,2007-02-17,2007-07-28,141,8
+357,B.A.R.S. The Barry Adrian Reese Story,Cassidy,10,2007-11-24,2007-12-01,140,2
+358,A Weekend In The City,Bloc Party,12,2007-02-24,2007-03-10,140,3
+359,I'll Stay Me,Luke Bryan,24,2007-09-01,2007-09-22,139,4
+360,The Story,Brandi Carlile,41,2007-04-21,2007-07-28,138,7
+361,Something To Talk About,Eddie Levert Sr. & Gerald Levert,19,2007-06-30,2007-07-14,137,3
+362,Djin Djin,Angelique Kidjo,58,2007-05-19,2007-06-09,137,4
+363,Cannibal,Static-X,36,2007-04-21,2007-05-05,136,3
+364,NOW That's What I Call Christmas! 3,Various Artists,31,2007-01-06,2007-01-13,135,2
+365,Arrivals & Departures,Silverstein,25,2007-07-21,2007-08-04,130,3
+366,Tony Bennett Sings The Ultimate American Songbook Vol. 1,Tony Bennett,16,2007-10-13,2007-10-27,128,3
+367,American Man: Greatest Hits Volume II,Trace Adkins,22,2007-12-22,2007-12-29,128,2
+368,The Meanest Of Times,Dropkick Murphys,20,2007-10-06,2007-10-20,126,3
+369,Undiscovered,James Morrison,24,2007-03-31,2007-04-07,126,2
+370,Notebook Paper,Huey,26,2007-07-07,2007-07-21,126,3
+371,Still On Top - The Greatest Hits,Van Morrison,48,2007-11-24,2007-12-15,126,4
+372,9,Damien Rice,56,2007-01-20,2007-02-10,126,4
+373,The Coolest Kidz Bop Christmas Ever!,Kidz Bop Kids,57,2007-12-01,2007-12-29,124,5
+374,The Confessions Tour,Madonna,15,2007-02-17,2007-03-03,123,3
+375,Venus Doom,HIM,12,2007-10-06,2007-10-13,122,2
+376,Remedy,David Crowder Band,22,2007-10-13,2007-10-27,122,3
+377,Forever Cool,Dean Martin,39,2007-09-01,2007-09-22,120,4
+378,Famous,Puddle Of Mudd,27,2007-10-27,2007-11-10,119,3
+379,Little Voice,Sara Bareilles,45,2007-07-21,2007-08-04,118,3
+380,The Warmth Of The Sun,The Beach Boys,40,2007-06-09,2007-06-23,117,3
+381,300,Soundtrack,52,2007-03-24,2007-04-14,117,4
+382,Monterey International Pop Festival,Various Artists,58,2007-06-23,2007-07-07,117,3
+383,Cexcells,Blaqk Audio,18,2007-09-01,2007-09-08,116,2
+384,Cities,Anberlin,19,2007-03-10,2007-03-24,116,3
+385,Greatest Hits,Trisha Yearwood,22,2007-09-29,2007-10-06,116,2
+386,Children Running Through,Patty Griffin,34,2007-02-24,2007-03-10,116,3
+387,Systematic Chaos,Dream Theater,19,2007-06-23,2007-06-30,114,2
+388,Cartel,Cartel,20,2007-09-08,2007-09-22,114,3
+389,51/50 Ratchet,Hurricane Chris,24,2007-11-10,2007-11-17,114,2
+390,The High Road,JoJo,58,2007-01-06,2007-01-27,113,4
+391,So Much Better,Carl Thomas,25,2007-06-23,2007-06-30,112,2
+392,Long Trip Alone,Dierks Bentley,72,2007-01-06,2007-05-26,111,9
+393,Even If It Kills Me,Motion City Soundtrack,16,2007-10-06,2007-10-13,110,2
+394,Hey Eugene!,Pink Martini,30,2007-06-02,2007-06-09,110,2
+395,Wild Hope,Mandy Moore,30,2007-07-07,2007-07-21,110,3
+396,Made,Scarface,17,2007-12-22,2007-12-29,109,2
+397,Vencedor,Valentin Elizalde,70,2007-02-10,2007-03-10,108,5
+398,Hated On Mostly,Crime Mob,31,2007-04-07,2007-04-14,107,2
+399,WOW Hits 2007,Various Artists,64,2007-01-06,2007-02-17,107,6
+400,This Is It,Jack Ingram,34,2007-04-14,2007-04-21,106,2
+401,The Con,Tegan And Sara,34,2007-08-11,2007-08-25,104,3
+402,The Sun And The Moon Complete,The Bravery,24,2007-06-09,2007-06-16,103,2
+403,A Place To Land,Little Big Town,24,2007-11-24,2007-12-01,103,2
+404,St. Elsewhere,Gnarls Barkley,44,2007-01-20,2007-03-17,103,4
+405,A Deeper Level: Live,Israel & New Breed,48,2007-09-22,2007-10-06,103,3
+406,Hillbilly Deluxe,Brooks & Dunn,81,2007-01-27,2007-04-21,102,10
+407,Waitin' To Inhale,Devin The Dude,30,2007-04-07,2007-04-14,101,2
+408,On Letting Go,Circa Survive,24,2007-06-16,2007-06-23,100,2
+409,Romance: Songs From The Heart,Frank Sinatra,36,2007-02-03,2007-02-10,100,2
+410,Harry Potter And The Order Of The Phoenix,Soundtrack,43,2007-07-28,2007-08-04,99,2
+411,Release The Stars,Rufus Wainwright,23,2007-06-02,2007-06-09,98,2
+412,"Recio, Recio Mis Creadorez",Los Creadorez del Pasito Duranguense de Alfredo Ramirez,31,2007-02-17,2007-02-24,98,2
+413,Love Songs Of The '70s,Donny Osmond,27,2007-05-12,2007-05-19,97,2
+414,Supply & Demand,Playaz Circle,27,2007-11-17,2007-11-24,96,2
+415,Another Side,Corbin Bleu,36,2007-05-19,2007-05-26,96,2
+416,Tyler Perry's Why Did I Get Married?,Soundtrack,51,2007-10-20,2007-11-03,96,3
+417,V Is For Vagina,Puscifer,25,2007-11-17,2007-11-24,95,2
+418,POISON'D!,Poison,32,2007-06-23,2007-06-30,95,2
+419,The Tempest,Insane Clown Posse,20,2007-04-07,2007-04-14,94,2
+420,We Got This,B.G. And The Chopper City Boyz,21,2007-03-17,2007-03-24,94,2
+421,New Maps Of Hell,Bad Religion,35,2007-07-28,2007-08-04,94,2
+422,Wonderful World,"Israel ""IZ"" Kamakawiwo'Ole",44,2007-07-14,2007-07-28,94,3
+423,Back To Bedlam,James Blunt,47,2007-01-06,2007-03-10,94,6
+424,Elvis: Viva Las Vegas,Elvis Presley,54,2007-08-18,2007-09-08,94,3
+425,A Fever You Can't Sweat Out,Panic! At The Disco,70,2007-01-06,2007-01-27,94,4
+426,Carnival Vol. II: Memories Of An Immigrant,Wyclef Jean,28,2007-12-22,2007-12-29,92,2
+427,Cyclone,Baby Bash,30,2007-11-17,2007-11-24,92,2
+428,Almost Famous: The Sexy Lady EP,Yung Berg,32,2007-08-11,2007-08-18,92,2
+429,"Good Times, Bad Times...Ten Years Of Godsmack",Godsmack,35,2007-12-22,2007-12-29,92,2
+430,Dwight Sings Buck,Dwight Yoakam,42,2007-11-10,2007-11-24,92,3
+431,Santi,The Academy Is...,32,2007-04-21,2007-04-28,91,2
+432,TCG,The Cheetah Girls,44,2007-10-13,2007-10-27,91,3
+433,CeU,CeU,57,2007-04-28,2007-05-12,91,3
+434,Face Off,Bow Wow & Omarion,11,2007-12-29,2007-12-29,90,1
+435,Doin' Somethin' Right,Billy Currington,76,2007-05-19,2007-06-30,90,7
+436,"DukeDaGod Presents Dipset: More Than Music, Vol. 2",Dipset,26,2007-05-26,2007-06-02,89,2
+437,Down III: Over The Under,Down,26,2007-10-13,2007-10-20,89,2
+438,Chris Brown,Chris Brown,80,2007-01-06,2007-03-17,89,11
+439,Come What(ever) May,Stone Sour,77,2007-01-13,2007-02-10,88,5
+440,Lobo Domesticado,Valentin Elizalde,44,2007-02-17,2007-03-17,87,3
+441,Spider-Man 3,Soundtrack,33,2007-05-19,2007-05-26,86,2
+442,Gangsta Grillz: The Album,Drama,26,2007-12-22,2007-12-29,85,2
+443,"Heaven, Heartache And The Power Of Love",Trisha Yearwood,30,2007-12-01,2007-12-08,85,2
+444,5*Stunna,Birdman,18,2007-12-29,2007-12-29,83,1
+445,Direction,The Starting Line,30,2007-08-18,2007-08-25,83,2
+446,Challengers,The New Pornographers,34,2007-09-08,2007-09-15,83,2
+447,BIG,Macy Gray,39,2007-04-14,2007-05-05,83,2
+448,Music And Lyrics,Soundtrack,63,2007-03-10,2007-03-31,82,4
+449,I Love You,Diana Ross,32,2007-02-03,2007-02-10,81,2
+450,The Dio Years,Black Sabbath,54,2007-04-21,2007-04-28,81,2
+451,Go,Mario,21,2007-12-29,2007-12-29,80,1
+452,"Don't Talk, Just Listen",B5,27,2007-09-29,2007-10-06,80,2
+453,Free At Last,Freeway,42,2007-12-08,2007-12-15,80,2
+454,Pac's Life,2Pac,68,2007-01-06,2007-02-03,80,5
+455,The Definitive Collection,Neil Sedaka,22,2007-05-12,2007-05-12,79,1
+456,The Alchemy Index Vols. I & II: Fire & Water,Thrice,24,2007-11-03,2007-11-10,79,2
+457,Bred 2 Die - Born 2 Live,Lil Scrappy,69,2007-01-13,2007-02-10,79,5
+458,In Defense Of The Genre,Say Anything,27,2007-11-10,2007-11-17,78,2
+459,Wintersong,Sarah McLachlan,30,2007-01-06,2007-01-13,78,2
+460,Historia De Un Idolo,Vicente Fernandez,81,2007-05-05,2007-06-16,78,5
+461,8 Diagrams,Wu-Tang Clan,25,2007-12-29,2007-12-29,76,1
+462,Ahora Y Siempre,Alacranes Musical,47,2007-06-09,2007-06-16,75,2
+463,Recuerdos Del Alma,Los Temerarios,59,2007-10-20,2007-11-03,75,3
+464,Dead Again,Type O Negative,27,2007-03-31,2007-03-31,74,1
+465,System,Seal,35,2007-12-01,2007-12-08,74,2
+466,The Taylor Swift Holiday Collection (EP),Taylor Swift,46,2007-12-08,2007-12-22,73,3
+467,Love/Hate,The-Dream,30,2007-12-29,2007-12-29,71,1
+468,Mission California,Cross Canadian Ragweed,30,2007-10-20,2007-10-20,71,1
+469,True Beauty,Mandisa,43,2007-08-18,2007-08-25,71,2
+470,Threads Of Life,Shadows Fall,46,2007-04-21,2007-04-28,71,2
+471,Costello Music,The Fratellis,48,2007-03-31,2007-04-07,70,2
+472,Return Of The Mac,Prodigy,32,2007-04-14,2007-04-14,69,1
+473,Mind Control,Stephen Marley,35,2007-04-07,2007-04-14,69,2
+474,Songs Of Inspiration II,Alabama,33,2007-04-14,2007-04-14,68,1
+475,Todo Cambio,Camila,76,2007-09-01,2007-09-29,68,5
+476,Cease To Begin,Band Of Horses,35,2007-10-27,2007-10-27,66,1
+477,The Essential Paul Simon,Paul Simon,42,2007-07-14,2007-07-21,66,2
+478,Cars,Soundtrack,78,2007-01-06,2007-02-03,66,4
+479,Duran Duran's Red Carpet Massacre,Duran Duran,36,2007-12-01,2007-12-01,65,1
+480,American Gangster,Soundtrack,36,2007-11-24,2007-11-24,65,1
+481,Live At The Gorge 05/06,Pearl Jam,36,2007-07-14,2007-07-14,65,1
+482,Dusk And Summer,Dashboard Confessional,53,2007-06-09,2007-06-16,65,2
+483,After Tonight,Will Downing,37,2007-11-17,2007-11-17,64,1
+484,We're About The Business,Chuck Brown,37,2007-05-12,2007-05-12,64,1
+485,The Solution,Beanie Sigel,37,2007-12-29,2007-12-29,64,1
+486,Songs About Girls,will.i.am,38,2007-10-13,2007-10-13,63,1
+487,How Can We Be Silent,BarlowGirl,40,2007-08-11,2007-08-18,63,2
+488,Zombies! Aliens! Vampires! Dinosaurs!,Hellogoodbye,77,2007-01-13,2007-03-31,63,7
+489,Angels & Devils,Fuel,42,2007-08-25,2007-09-01,62,2
+490,Heroes & Thieves,Vanessa Carlton,44,2007-10-27,2007-11-03,62,2
+491,The Calling,Mary Chapin Carpenter,59,2007-03-24,2007-03-31,62,2
+492,Precious Memories,Alan Jackson,62,2007-01-06,2007-05-26,62,5
+493,Modern Times,Bob Dylan,68,2007-01-06,2007-01-27,62,4
+494,Follow The Lights (EP),Ryan Adams & The Cardinals,40,2007-11-10,2007-11-10,61,1
+495,Pocket Symphony,Air,40,2007-03-24,2007-03-24,61,1
+496,Singularity,Mae,40,2007-09-01,2007-09-01,61,1
+497,NOW Party Hits!,Various Artists,60,2007-12-01,2007-12-15,61,3
+498,James Taylor At Christmas,James Taylor,41,2007-01-06,2007-01-06,60,1
+499,The Big Dirty,Every Time I Die,41,2007-09-22,2007-09-22,60,1
+500,The Big Doe Rehab,Ghostface Killah,41,2007-12-22,2007-12-22,60,1
+501,Mi Tiempo,Chayanne,42,2007-04-28,2007-05-05,60,2
+502,Cloud Nine,Kottonmouth Kings,44,2007-09-15,2007-09-22,60,2
+503,Baby 81,Black Rebel Motorcycle Club,46,2007-05-19,2007-05-26,60,2
+504,The Road And The Radio,Kenny Chesney,76,2007-08-11,2007-09-01,60,4
+505,Calling The World,Rooney,42,2007-08-04,2007-08-04,59,1
+506,High School Musical: Hits Remixed (EP),Various Artists,42,2007-12-29,2007-12-29,59,1
+507,Resurrection,Chimaira,42,2007-03-24,2007-03-24,59,1
+508,From The Screen To Your Stereo Part II,New Found Glory,42,2007-10-06,2007-10-06,59,1
+509,The Legend Of Johnny Cash,Johnny Cash,77,2007-01-06,2007-02-10,59,6
+510,In Sort Diaboli,Dimmu Borgir,43,2007-05-12,2007-05-12,58,1
+511,The Pursuit Begins When This Portrayal Of Life Ends,Evans Blue,44,2007-08-11,2007-08-11,57,1
+512,Do You Feel,The Rocket Summer,44,2007-08-04,2007-08-04,57,1
+513,Unexpected,Lumidee,44,2007-05-05,2007-05-05,57,1
+514,Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes),2Pac,45,2007-09-01,2007-09-01,56,1
+515,"Yours Truly, Angry Mob",Kaiser Chiefs,45,2007-04-14,2007-04-14,56,1
+516,Playlist,"Kenny ""Babyface"" Edmonds",48,2007-10-06,2007-10-13,56,2
+517,Monsters Of Rock: Platinum Edition,Various Artists,77,2007-08-11,2007-08-25,56,3
+518,The One And Only,Lil Wyte,46,2007-06-23,2007-06-23,55,1
+519,Sound Of Silver,LCD Soundsystem,46,2007-04-07,2007-04-07,55,1
+520,Time On Earth,Crowded House,46,2007-07-28,2007-07-28,55,1
+521,The Definitive Greatest Hits,Al Green,46,2007-02-03,2007-02-03,55,1
+522,None Shall Pass,Aesop Rock,50,2007-09-15,2007-09-29,55,2
+523,This Moment,Steven Curtis Chapman,47,2007-11-10,2007-11-10,54,1
+524,Walkin' Bank Roll,Project Pat,47,2007-11-17,2007-11-17,54,1
+525,Some Loud Thunder,Clap Your Hands Say Yeah,47,2007-02-17,2007-02-17,54,1
+526,Halloween,The 101 Strings Orchestra,48,2007-11-10,2007-11-17,54,2
+527,These Streets,Paolo Nutini,48,2007-02-17,2007-02-17,53,1
+528,Real To Reel,Tesla,48,2007-06-23,2007-06-23,53,1
+529,Let Love In,Goo Goo Dolls,48,2007-03-17,2007-03-17,53,1
+530,Live At The Cow Palace: New Year's Eve 1976,Grateful Dead,48,2007-02-10,2007-02-10,53,1
+531,The Last Kind Words,DevilDriver,48,2007-08-18,2007-08-18,53,1
+532,Misery Loves Kompany,Tech N9ne Collabos,49,2007-08-04,2007-08-04,52,1
+533,Music From Regions Beyond,Tiger Army,49,2007-06-23,2007-06-23,52,1
+534,Guilty By Affiliation,WC,49,2007-09-01,2007-09-01,52,1
+535,"The Good, The Bad & The Queen","The Good, The Bad & The Queen",49,2007-02-10,2007-02-10,52,1
+536,Straight Outta Lynwood,"""Weird Al"" Yankovic",81,2007-01-06,2007-01-20,52,3
+537,The Boatlift,Pitbull,50,2007-12-15,2007-12-15,51,1
+538,Back Up N Da Chevy,Boyz N Da Hood,51,2007-10-20,2007-10-27,51,2
+539,"By The People, For The People",Mudvayne,51,2007-12-15,2007-12-15,50,1
+540,Residente O Visitante,Calle 13,52,2007-05-12,2007-05-12,49,1
+541,Super Gangster (Extraordinary Gentleman),Styles P,52,2007-12-22,2007-12-22,49,1
+542,Rap-Murr-Phobia (The Fear Of Real Hip-Hop),Keith Murray,52,2007-08-18,2007-08-18,49,1
+543,The Wolf,Shooter Jennings,52,2007-11-10,2007-11-10,49,1
+544,From Beale Street To Oblivion,Clutch,52,2007-04-14,2007-04-14,49,1
+545,Here & Now,America,52,2007-02-03,2007-02-03,49,1
+546,Decemberunderground,AFI,74,2007-01-13,2007-01-20,49,2
+547,Anthem For The Underdog,12 Stones,53,2007-09-01,2007-09-01,48,1
+548,The Perfect Melody,Zion,53,2007-06-23,2007-06-23,48,1
+549,Jewels In The Crown: Duets With The Queen,Aretha Franklin,54,2007-12-01,2007-12-08,48,2
+550,Frank,Amy Winehouse,61,2007-12-08,2007-12-15,48,2
+551,Hustler's P.O.M.E. (Product Of My Environment),Jim Jones,80,2007-01-13,2007-01-27,48,3
+552,Over Dressed,Caedmon's Call,54,2007-09-15,2007-09-15,47,1
+553,Conviction,Aiden,54,2007-09-08,2007-09-08,47,1
+554,The Blackening,Machine Head,54,2007-04-14,2007-04-14,47,1
+555,Jimmy Buffett Live In Anguilla,Jimmy Buffett,54,2007-11-24,2007-11-24,47,1
+556,Genesis,Job For A Cowboy,54,2007-06-02,2007-06-02,47,1
+557,Tru3 Magic,Mos Def,77,2007-01-20,2007-01-27,47,2
+558,For The Hell Of It,Diplomats Presents: Hell Rell,55,2007-10-13,2007-10-13,46,1
+559,Chronchitis,Slightly Stoopid,55,2007-08-25,2007-08-25,46,1
+560,DJ Clue?: The Professional 3,DJ Clue,73,2007-01-06,2007-01-13,46,2
+561,How You Live,Point Of Grace,56,2007-09-15,2007-09-15,45,1
+562,Live...One Last Time,The Clark Sisters,56,2007-04-28,2007-04-28,45,1
+563,The Walk,Hanson,56,2007-08-11,2007-08-11,45,1
+564,Colors,Between The Buried And Me,57,2007-10-06,2007-10-06,44,1
+565,Independents Day,Twiztid,57,2007-07-21,2007-07-21,44,1
+566,New Wave,Against Me!,57,2007-07-28,2007-07-28,44,1
+567,Back To The Traphouse,Gucci Mane,57,2007-12-29,2007-12-29,44,1
+568,Zombie Live,Rob Zombie,57,2007-11-10,2007-11-10,44,1
+569,My Kind Of Country,Van Zant,57,2007-10-27,2007-10-27,44,1
+570,Plagues,The Devil Wears Prada,57,2007-09-08,2007-09-08,44,1
+571,Four Winds (EP),Bright Eyes,57,2007-03-24,2007-03-24,44,1
+572,Last Of The Breed,Willie Nelson / Merle Haggard / Ray Price,64,2007-04-07,2007-04-14,44,2
+573,Appassionato,Yo-Yo Ma,79,2007-01-27,2007-02-03,44,2
+574,9 Lives,Kat DeLuna,58,2007-08-25,2007-08-25,43,1
+575,The Flame In All Of Us,Thousand Foot Krutch,58,2007-10-06,2007-10-06,43,1
+576,This Is Forever,She Wants Revenge,58,2007-10-27,2007-10-27,43,1
+577,Hvarf / Heim,Sigur Ros,58,2007-11-24,2007-11-24,43,1
+578,Time For A Change,Cupid,58,2007-09-29,2007-09-29,43,1
+579,Desire,Pharoahe Monch,58,2007-07-14,2007-07-14,43,1
+580,The Boy With No Name,Travis,58,2007-05-26,2007-05-26,43,1
+581,"Get Away, Jordan",Ernie Haase & Signature Sound,59,2007-02-10,2007-02-10,42,1
+582,A Poet's Life,Tim Armstrong,59,2007-06-09,2007-06-09,42,1
+583,Quien Dijo Ayer,Ricardo Arjona,59,2007-09-08,2007-09-08,42,1
+584,Fear Of A Blank Planet,Porcupine Tree,59,2007-05-12,2007-05-12,42,1
+585,Some Mad Hope,Matt Nathanson,60,2007-09-01,2007-09-01,41,1
+586,Twelve,Patti Smith,60,2007-05-12,2007-05-12,41,1
+587,Empezar Desde Cero,RBD,60,2007-12-08,2007-12-08,41,1
+588,The Best Of Me,Yolanda Adams,60,2007-05-26,2007-05-26,41,1
+589,All Of The Above,Hillsong UNITED,60,2007-06-09,2007-06-09,41,1
+590,Chronology: Volume One: 1996-2000,Third Day,61,2007-04-14,2007-04-21,41,2
+591,"So Wrong, It's Right",All Time Low,62,2007-10-13,2007-10-13,39,1
+592,Rise To Power,Rick Ross,62,2007-10-06,2007-10-06,39,1
+593,The Heroin Diaries Soundtrack,Sixx: A.M.,62,2007-09-08,2007-09-08,39,1
+594,The Stage Names,Okkervil River,62,2007-08-25,2007-08-25,39,1
+595,Dangerous Man,Trace Adkins,84,2007-01-06,2007-03-24,39,6
+596,Humanity: Hour 1,Scorpions,63,2007-09-15,2007-09-15,38,1
+597,23,Blonde Redhead,63,2007-04-28,2007-04-28,38,1
+598,Serve & Collect,Slim Thug Presents Boss Hogg Outlawz,63,2007-03-17,2007-03-17,38,1
+599,The Essential Elvis Presley,Elvis Presley,72,2007-01-20,2007-01-27,38,2
+600,Brad Paisley Christmas,Brad Paisley,64,2007-01-13,2007-01-13,37,1
+601,No Ordinary Girl,Jordan Pruitt,64,2007-02-24,2007-02-24,37,1
+602,Remains,Alkaline Trio,64,2007-02-17,2007-02-17,37,1
+603,Truth In Sincerity,Amber Pacific,64,2007-06-09,2007-06-09,37,1
+604,Full Circle,Drowning Pool,64,2007-08-25,2007-08-25,37,1
+605,Detalles Y Emociones,Los Tigres del Norte,65,2007-04-14,2007-04-14,36,1
+606,The Best Of 2Pac - Part 1: Thug,2Pac,65,2007-12-22,2007-12-22,36,1
+607,We Are The Night,The Chemical Brothers,65,2007-08-04,2007-08-04,36,1
+608,The Black And White Album,The Hives,65,2007-12-01,2007-12-01,36,1
+609,White Chalk,PJ Harvey,65,2007-10-20,2007-10-20,36,1
+610,Scary Kids Scaring Kids,Scary Kids Scaring Kids,80,2007-09-15,2007-09-22,36,2
+611,The Road To Here,Little Big Town,90,2007-06-02,2007-08-18,36,6
+612,Pages,Shane & Shane,66,2007-09-15,2007-09-15,35,1
+613,The Best Of Poison: 20 Years Of Rock,Poison,66,2007-12-08,2007-12-08,35,1
+614,Hear Something Country: Christmas,Various Artists,82,2007-12-15,2007-12-22,35,2
+615,Alvin And The Chipmunks,Soundtrack,67,2007-12-29,2007-12-29,34,1
+616,Still The Same... Great Rock Classics Of Our Time,Rod Stewart,67,2007-01-06,2007-01-06,34,1
+617,Live At Piedmont Park,Dave Matthews Band,68,2007-12-29,2007-12-29,33,1
+618,King Of The Mountains,Rodney Carrington,68,2007-05-05,2007-05-05,33,1
+619,Boxer,The National,68,2007-06-09,2007-06-09,33,1
+620,Collie Buddz,Collie Buddz,68,2007-07-21,2007-07-21,33,1
+621,Absolute Garbage,Garbage,68,2007-08-11,2007-08-11,33,1
+622,The Undisputed Truth,Brother Ali,69,2007-04-28,2007-04-28,32,1
+623,Autumn Of The Seraphs,Pinback,69,2007-09-29,2007-09-29,32,1
+624,La Cucaracha,Ween,69,2007-11-10,2007-11-10,32,1
+625,Trap-A-Thon,Gucci Mane,69,2007-10-13,2007-10-13,32,1
+626,Beyond,Dinosaur Jr.,69,2007-05-19,2007-05-19,32,1
+627,Live From Madison Square Garden,O.A.R.,69,2007-06-23,2007-06-23,32,1
+628,Disney's Karaoke Series: Hannah Montana,Various Artists,84,2007-12-15,2007-12-29,32,3
+629,Young Modern,Silverchair,70,2007-08-11,2007-08-11,31,1
+630,Like Red On A Rose,Alan Jackson,70,2007-01-06,2007-01-06,31,1
+631,Born Into This,The Cult,70,2007-10-20,2007-10-20,31,1
+632,Combinations,Eisley,70,2007-09-01,2007-09-01,31,1
+633,Berth,The Used,71,2007-02-24,2007-02-24,30,1
+634,La Radiolina,Manu Chao,71,2007-09-22,2007-09-22,30,1
+635,Snoop Dogg Presents The Big Squeeze,Various Artists,71,2007-05-12,2007-05-12,30,1
+636,Elements Of Life,Tiesto,71,2007-04-28,2007-04-28,30,1
+637,As Daylight Dies,Killswitch Engage,76,2007-01-13,2007-01-20,30,2
+638,"Hissing Fauna,  Are You The Destroyer?",of Montreal,72,2007-02-10,2007-02-10,29,1
+639,Is Is (EP),Yeah Yeah Yeahs,72,2007-08-11,2007-08-11,29,1
+640,A Christmas Celebration,Celtic Woman,72,2007-01-06,2007-01-06,29,1
+641,Nocturnal,The Black Dahlia Murder,72,2007-10-06,2007-10-06,29,1
+642,Strawberry Jam,Animal Collective,72,2007-09-29,2007-09-29,29,1
+643,The Needles The Space,Straylight Run,72,2007-07-07,2007-07-07,29,1
+644,R.E.M. Live,R.E.M.,72,2007-11-03,2007-11-03,29,1
+645,Viento A Favor,Alejandro Fernandez,73,2007-07-14,2007-07-14,28,1
+646,T.H.U.G.S.,Bone Thugs-N-Harmony,73,2007-12-01,2007-12-01,28,1
+647,Sight & Sound Collection,AC/DC,73,2007-12-08,2007-12-08,28,1
+648,"Chronology, Volume Two: 2001-2006",Third Day,73,2007-08-25,2007-08-25,28,1
+649,Para Siempre,Vicente Fernandez,78,2007-10-13,2007-11-03,28,3
+650,"Stand Still, Look Pretty",The Wreckers,91,2007-01-06,2007-03-17,28,6
+651,WOW Gospel #1s: 30 Of The Greatest Gospel Hits Ever!,Various Artists,74,2007-05-26,2007-05-26,27,1
+652,The Greatest Songs Of The Sixties,Barry Manilow,74,2007-01-06,2007-01-06,27,1
+653,Holding A Wolf By The Ears,From Autumn To Ashes,74,2007-04-28,2007-04-28,27,1
+654,Planet Of Ice,Minus The Bear,74,2007-09-08,2007-09-08,27,1
+655,One Cell In The Sea,A Fine Frenzy,91,2007-09-01,2007-10-27,27,5
+656,Cool Yule,Bette Midler,75,2007-01-06,2007-01-06,26,1
+657,Constantine,Constantine,75,2007-08-25,2007-08-25,26,1
+658,The Walking Wounded,Bayside,75,2007-02-24,2007-02-24,26,1
+659,Manipulator,The Fall Of Troy,76,2007-05-19,2007-05-19,25,1
+660,Armchair Apocrypha,Andrew Bird,76,2007-04-07,2007-04-07,25,1
+661,The Best,Luciano Pavarotti,76,2007-09-22,2007-09-22,25,1
+662,All Of A Sudden I Miss Everyone,Explosions In The Sky,76,2007-03-10,2007-03-10,25,1
+663,Secret Weapon,MxPx,76,2007-08-04,2007-08-04,25,1
+664,The Crane Wife,The Decemberists,80,2007-01-27,2007-02-03,25,2
+665,La Llave De Mi Corazon,Juan Luis Guerra 440,77,2007-04-07,2007-04-07,24,1
+666,The Very Best Of Mick Jagger,Mick Jagger,77,2007-10-20,2007-10-20,24,1
+667,The Best Of 2Pac - Part 2: Life,2Pac,77,2007-12-22,2007-12-22,24,1
+668,Y34RZ3R0R3MIX3D,Nine Inch Nails,77,2007-12-08,2007-12-08,24,1
+669,Are You Listening?,Dolores O'Riordan,77,2007-06-02,2007-06-02,24,1
+670,Dogg Chit,Tha Dogg Pound,77,2007-04-14,2007-04-14,24,1
+671,I'm Only A Man,Emery,78,2007-10-20,2007-10-20,23,1
+672,Lost & Found,Ledisi,78,2007-09-15,2007-09-15,23,1
+673,I'll Sleep When You're Dead,EL-P,78,2007-04-07,2007-04-07,23,1
+674,WOW Gospel Christmas,Various Artists,78,2007-12-15,2007-12-15,23,1
+675,The Historical Conquests Of Josh Ritter,Josh Ritter,79,2007-09-08,2007-09-08,22,1
+676,Time Is Money,Styles P,79,2007-01-06,2007-01-06,22,1
+677,Washington Square Serenade,Steve Earle,79,2007-10-13,2007-10-13,22,1
+678,Framing Armageddon: Something Wicked Part 1,Iced Earth,79,2007-09-29,2007-09-29,22,1
+679,Sounds Of The Season: The Elliott Yamin Holiday Collection (EP),Elliott Yamin,79,2007-12-15,2007-12-15,22,1
+680,Christmas Number 1's,Various Artists,85,2007-12-15,2007-12-22,22,2
+681,Carnavas,Silversun Pickups,80,2007-03-17,2007-03-17,21,1
+682,!Viva La Cobra!,Cobra Starship,80,2007-11-10,2007-11-10,21,1
+683,The Search,Son Volt,81,2007-03-24,2007-03-24,20,1
+684,Messengers,August Burns Red,81,2007-07-07,2007-07-07,20,1
+685,The_Ascension,Otep,81,2007-11-17,2007-11-17,20,1
+686,Home For The Holidays,Elvis Presley,81,2007-12-15,2007-12-15,20,1
+687,Venom & Tears,Throwdown,81,2007-08-25,2007-08-25,20,1
+688,Indiana,Jon McLaughlin,81,2007-05-19,2007-05-19,20,1
+689,Ultra.Dance 08,The Riddler & Trevor Simpson,82,2007-02-10,2007-02-10,19,1
+690,Halloween (2007),Soundtrack,82,2007-09-08,2007-09-08,19,1
+691,Last Of Seven,Pat Monahan,82,2007-10-06,2007-10-06,19,1
+692,V2...,J Moss,84,2007-04-21,2007-04-28,19,2
+693,Danity Kane,Danity Kane,89,2007-01-06,2007-01-13,19,2
+694,Bratz,Soundtrack,83,2007-08-25,2007-08-25,18,1
+695,Trans-Siberian Orchestra (EP),Trans-Siberian Orchestra,90,2007-11-24,2007-12-15,18,2
+696,III,Joe Nichols,90,2007-03-17,2007-03-24,18,2
+697,Dark Passion Play,Nightwish,84,2007-10-20,2007-10-20,17,1
+698,Rise Of The Tyrant,Arch Enemy,84,2007-10-13,2007-10-13,17,1
+699,Diplomat Records And DukeDaGod Present: Writer's Block 4,JR Writer,84,2007-03-03,2007-03-03,17,1
+700,Due Season,Kia Shine,84,2007-08-18,2007-08-18,17,1
+701,Fireflies,Faith Hill,84,2007-07-14,2007-07-14,17,1
+702,La Historia Continua... Parte III,Marco Antonio Solis,91,2007-03-17,2007-03-24,17,2
+703,Step Up,Soundtrack,92,2007-01-13,2007-01-20,17,2
+704,Welcome The Night,The Ataris,85,2007-03-10,2007-03-10,16,1
+705,Alone But Not Alone,Marvin Winans,85,2007-10-13,2007-10-13,16,1
+706,Storm The Gates Of Hell,Demon Hunter,85,2007-11-24,2007-11-24,16,1
+707,Happiness LTD.,Hot Hot Heat,86,2007-09-29,2007-09-29,15,1
+708,Il Divo,Il Divo,86,2007-01-27,2007-01-27,15,1
+709,Greatest Hits,Social Distortion,86,2007-07-14,2007-07-14,15,1
+710,Unappreciated,Cherish,86,2007-01-13,2007-01-13,15,1
+711,Sunshine At Midnight,Sunshine Anderson,86,2007-02-10,2007-02-10,15,1
+712,At The Movies,Dave Koz,86,2007-02-17,2007-02-17,15,1
+713,Legally Blonde: The Musical,Original Broadway Cast Recording,86,2007-08-04,2007-08-04,15,1
+714,Kidz Bop 10,Kidz Bop Kids,86,2007-01-06,2007-01-06,15,1
+715,Rocky Balboa: The Best Of Rocky,Soundtrack,87,2007-01-20,2007-01-20,14,1
+716,Halfway To Hazard,Halfway To Hazard,87,2007-09-01,2007-09-01,14,1
+717,Jason Aldean,Jason Aldean,87,2007-06-16,2007-06-16,14,1
+718,NOW Latino 3,Various Artists,89,2007-10-27,2007-11-03,14,2
+719,These Days,Vince Gill,88,2007-01-06,2007-01-06,13,1
+720,Aqualung Presents Memory Man,Aqualung,88,2007-03-31,2007-03-31,13,1
+721,Amazing Grace,Bill & Gloria Gaither With Their Homecoming Friends,88,2007-09-15,2007-09-15,13,1
+722,It's Time,Michael Buble,92,2007-01-06,2007-01-20,13,2
+723,Getback,Little Brother,89,2007-11-10,2007-11-10,12,1
+724,Bitchin',The Donnas,89,2007-10-06,2007-10-06,12,1
+725,Pressure The Hinges,Haste The Day,89,2007-04-07,2007-04-07,12,1
+726,Canon,Ani DiFranco,89,2007-09-29,2007-09-29,12,1
+727,El Amor Que Nunca Fue,Conjunto Primavera,89,2007-02-17,2007-02-17,12,1
+728,Te Va A Gustar,El Chapo de Sinaloa,95,2007-07-14,2007-07-21,12,2
+729,Play It As It Lays,Patti Scialfa,90,2007-09-22,2007-09-22,11,1
+730,Hairspray: Collector's Edition,Soundtrack,90,2007-12-08,2007-12-08,11,1
+731,Southern Comfort,Anthony Hamilton,90,2007-04-21,2007-04-21,11,1
+732,We Are Pilots,Shiny Toy Guns,90,2007-01-27,2007-01-27,11,1
+733,Tool Muziq,Pastor Troy,91,2007-07-21,2007-07-21,10,1
+734,Ultra Payloaded,Perry Farrell's Satellite Party,91,2007-06-16,2007-06-16,10,1
+735,Together,Gaither Vocal Band And Ernie Haase & Signature Sound,91,2007-11-10,2007-11-10,10,1
+736,LIVE: Live Those Songs Again,Kenny Chesney,91,2007-01-06,2007-01-06,10,1
+737,Christmas: Traditions,Mannheim Steamroller,92,2007-12-15,2007-12-15,9,1
+738,La Mejor... Coleccion,Marco Antonio Solis,92,2007-10-06,2007-10-06,9,1
+739,All The Stars And Boulevards,Augustana,96,2007-02-03,2007-04-07,9,2
+740,Let It Snow Baby... Let It Reindeer,Relient K,96,2007-12-08,2007-12-15,9,2
+741,Jesus,Shekinah Glory Ministry,93,2007-10-13,2007-10-13,8,1
+742,Marie Osmond's Magic Of Christmas,Marie Osmond,93,2007-12-01,2007-12-01,8,1
+743,15 Degrees Off Cool,Bill Engvall,93,2007-03-17,2007-03-17,8,1
+744,Dylan: Deluxe Edition,Bob Dylan,93,2007-10-20,2007-10-20,8,1
+745,Smile For Them,Armor For Sleep,93,2007-11-17,2007-11-17,8,1
+746,Capaz De Todo Por Ti,K-Paz De La Sierra,93,2007-12-22,2007-12-22,8,1
+747,The Cleansing,Suicide Silence,94,2007-10-06,2007-10-06,7,1
+748,Te Voy A Mostrar,Diana Reyes,94,2007-02-17,2007-02-17,7,1
+749,Mary J. Blige & Friends,Mary J. Blige,95,2007-12-08,2007-12-08,6,1
+750,I'm Not There,Soundtrack,95,2007-11-17,2007-11-17,6,1
+751,How Great Thou Art,Bill & Gloria Gaither With Their Homecoming Friends,95,2007-09-15,2007-09-15,6,1
+752,Jibbs Feat. Jibbs,Jibbs,96,2007-01-13,2007-01-13,5,1
+753,Greatest Hits,David Gray,96,2007-12-01,2007-12-01,5,1
+754,Homecoming,Jim Brickman,96,2007-10-20,2007-10-20,5,1
+755,Spring Awakening,Original Broadway Cast Recording,96,2007-06-30,2007-06-30,5,1
+756,S.O.S.: Save Our Soul,Marc Broussard,96,2007-07-14,2007-07-14,5,1
+757,Traffic And Weather,Fountains Of Wayne,97,2007-04-21,2007-04-21,4,1
+758,Solo Pienso En Ti,Grupo Bryndis,97,2007-04-14,2007-04-14,4,1
+759,Kings Of Bachata: Sold Out At Madison Square Garden,Aventura,97,2007-12-01,2007-12-01,4,1
+760,Human The Death Dance,Sage Francis,97,2007-05-26,2007-05-26,4,1
+761,Mas Flow: Los Benjamins,Luny Tunes & Tainy,97,2007-06-02,2007-06-02,4,1
+762,Love Letters From Ella,Ella Fitzgerald,97,2007-08-18,2007-08-18,4,1
+763,Disney's Karaoke Series: High School Musical 2,Various Artists,98,2007-12-22,2007-12-22,3,1
+764,Rodrigo y Gabriela,Rodrigo y Gabriela,98,2007-09-08,2007-09-08,3,1
+765,The Departed,Soundtrack,98,2007-06-02,2007-06-02,3,1
+766,Live From Radio City Music Hall,Heaven & Hell,99,2007-09-15,2007-09-15,2,1
+767,Skin And Bones,Foo Fighters,99,2007-01-13,2007-01-13,2,1
+768,Take The Weather With You,Jimmy Buffett,99,2007-01-06,2007-01-06,2,1
+769,August Rush,Soundtrack,99,2007-12-15,2007-12-15,2,1
+770,Better Questions,Todd Agnew,100,2007-08-04,2007-08-04,1,1
+771,WOW Hymns,Various Artists,100,2007-03-24,2007-03-24,1,1
+772,The Best Of Chicago: 40th Anniversary Edition,Chicago,100,2007-10-20,2007-10-20,1,1
+773,Build A Nation,Bad Brains,100,2007-07-14,2007-07-14,1,1
+774,Clockwork Gray,Blaze,100,2007-09-08,2007-09-08,1,1
+775,15 Years On Death Row,Various Artists,100,2007-01-13,2007-01-13,1,1

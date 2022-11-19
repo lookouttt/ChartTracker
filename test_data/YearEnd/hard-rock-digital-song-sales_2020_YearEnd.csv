@@ -1,0 +1,210 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Thunderstruck,AC/DC,1,2020-01-04,2020-12-26,1098,52
+2,The Sound Of Silence,Disturbed,1,2020-01-04,2020-12-26,1053,52
+3,Popular Monster,Falling In Reverse,1,2020-01-04,2020-12-26,1026,50
+4,Bohemian Rhapsody,Queen,1,2020-01-04,2020-12-26,950,50
+5,We Will Rock You,Queen,5,2020-01-04,2020-12-26,661,49
+6,Enter Sandman,Metallica,5,2020-01-04,2020-12-26,651,50
+7,Wolf Totem,The Hu Featuring Jacoby Shaddix,1,2020-01-04,2020-12-19,640,40
+8,A Little Bit Off,Five Finger Death Punch,1,2020-03-14,2020-12-26,607,35
+9,Back In Black,AC/DC,5,2020-01-04,2020-12-26,598,50
+10,Livin' On A Prayer,Bon Jovi,4,2020-01-04,2020-12-26,529,50
+11,Sweet Child O' Mine,Guns N' Roses,8,2020-01-04,2020-12-26,506,45
+12,Under Pressure,Queen & David Bowie,1,2020-01-04,2020-12-26,445,44
+13,Zombie,Bad Wolves,5,2020-01-04,2020-12-26,422,42
+14,Don't Stop Me Now,Queen,6,2020-01-04,2020-11-21,410,41
+15,You Shook Me All Night Long,AC/DC,9,2020-01-11,2020-12-26,349,47
+16,Blue On Black,"Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",11,2020-01-04,2020-11-14,273,35
+17,Another One Bites The Dust,Queen,11,2020-01-04,2020-10-10,260,36
+18,Pour Some Sugar On Me,Def Leppard,13,2020-01-04,2020-09-19,217,30
+19,Outlaws & Outsiders,"Cory Marks Featuring Travis Tritt, Ivan Moody & Mick Mars",4,2020-01-04,2020-07-25,178,12
+20,We Are The Champions,Queen,7,2020-01-04,2020-11-21,168,26
+21,Shot In The Dark,AC/DC,1,2020-10-17,2020-12-12,160,8
+22,Round And Round,Ratt,5,2020-05-02,2020-06-27,154,9
+23,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,1,2020-01-04,2020-12-26,149,7
+24,Sweet Emotion,Aerosmith,3,2020-07-11,2020-09-19,140,9
+25,Under The Graveyard,Ozzy Osbourne,4,2020-01-04,2020-02-29,126,9
+26,Ordinary Man,Ozzy Osbourne Featuring Elton John,1,2020-01-25,2020-03-07,114,5
+27,Nothing Else Matters,Metallica,6,2020-02-22,2020-12-26,114,10
+28,Inside Out,Five Finger Death Punch,7,2020-01-04,2020-02-29,111,9
+29,Crazy Train,Ozzy Osbourne,8,2020-01-18,2020-11-14,107,14
+30,Stairway To Heaven,Led Zeppelin,11,2020-03-21,2020-12-26,104,25
+31,Wizards In Winter,Trans-Siberian Orchestra,2,2020-01-04,2020-12-26,99,5
+32,Jump,Van Halen,1,2020-10-17,2020-12-05,98,6
+33,Immigrant Song,Led Zeppelin,5,2020-01-18,2020-11-28,96,11
+34,Atlas Falls,Shinedown,1,2020-06-06,2020-09-05,83,7
+35,Bring Me To Life,Evanescence Featuring Paul McCoy,3,2020-05-09,2020-12-26,83,8
+36,Parasite Eve,Bring Me The Horizon,1,2020-07-04,2020-08-01,79,5
+37,Distance,Mammoth WVH,1,2020-11-28,2020-12-26,78,4
+38,Mad Russian's Christmas,Trans-Siberian Orchestra,6,2020-12-05,2020-12-26,77,4
+39,Dream On,Aerosmith,8,2020-02-08,2020-12-12,76,10
+40,Highway To Hell,AC/DC,10,2020-07-25,2020-12-05,73,8
+41,Carry On Wayward Son,Kansas,3,2020-09-26,2020-12-26,72,6
+42,La Grange,ZZ Top,2,2020-03-21,2020-04-11,71,4
+43,O Come All Ye Faithful / O Holy Night,Trans-Siberian Orchestra,5,2020-12-05,2020-12-26,70,4
+44,Panama,Van Halen,2,2020-10-17,2020-10-31,67,3
+45,Runnin' With The Devil,Van Halen,4,2020-10-17,2020-10-31,63,3
+46,Down With The Sickness,Disturbed,8,2020-01-11,2020-04-18,63,5
+47,Living The Dream,Five Finger Death Punch,1,2020-02-22,2020-10-31,59,3
+48,You Really Got Me,Van Halen,5,2020-10-17,2020-10-31,59,3
+49,The In-Between,In This Moment,1,2020-02-01,2020-02-15,58,3
+50,Why Can't This Be Love,Van Halen,6,2020-10-17,2020-10-31,53,3
+51,Killing In The Name,Rage Against The Machine,3,2020-06-13,2020-06-27,52,3
+52,Right Now,Van Halen,6,2020-10-17,2020-10-31,52,3
+53,Eruption,Van Halen,3,2020-10-17,2020-10-31,51,3
+54,Obey,Bring Me The Horizon With YUNGBLUD,1,2020-09-12,2020-09-19,50,2
+55,Maybe It's Time,"Sixx:A.M. Presents: Artists For Recovery Featuring Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION & Tommy Vext",1,2020-09-05,2020-09-19,49,3
+56,The Game Is Over,Evanescence,1,2020-07-11,2020-07-18,48,2
+57,Dance The Night Away,Van Halen,7,2020-10-17,2020-10-31,48,3
+58,Somebody To Love,Queen,7,2020-01-11,2020-07-04,48,5
+59,Hot For Teacher,Van Halen,9,2020-10-17,2020-10-31,48,3
+60,Rockstar,Nickelback,11,2020-08-22,2020-12-26,46,7
+61,Protect The Land,System Of A Down,1,2020-11-21,2020-11-28,43,2
+62,Bury The Light,Casey Edwards/Victor Borba,1,2020-10-03,2020-10-10,42,2
+63,We Will Rock You,"In This Moment Featuring Maria Brink, Lzzy Hale & Taylor Momsen",1,2020-04-11,2020-04-18,42,2
+64,The Devil Went Down To Georgia,Nickelback Featuring Dave Martone,1,2020-08-29,2020-09-05,41,2
+65,Use My Voice,Evanescence,2,2020-08-29,2020-09-12,41,2
+66,Times Like These,Foo Fighters,3,2020-05-09,2020-11-21,41,2
+67,Ain't Talkin' Bout Love,Van Halen,11,2020-10-17,2020-10-31,41,3
+68,Genocidal Humanoidz,System Of A Down,2,2020-11-21,2020-11-28,40,2
+69,Memento Mori,Lamb Of God,5,2020-03-28,2020-04-04,40,2
+70,She Talks To Angels,The Black Crowes,11,2020-03-14,2020-04-25,40,7
+71,Welcome To The Jungle,Guns N' Roses,20,2020-01-04,2020-10-10,39,11
+72,The Triumph Of King Freak (A Crypt Of Preservation And Superstition),Rob Zombie,1,2020-11-14,2020-11-21,37,2
+73,Mindreader,A Day To Remember,6,2020-04-25,2020-05-02,37,2
+74,Tom Sawyer,Rush,2,2020-01-25,2020-02-01,35,2
+75,Checkmate,Lamb Of God,4,2020-02-15,2020-02-22,35,2
+76,Another World,GOJIRA,5,2020-08-15,2020-08-22,35,2
+77,Wanted Dead Or Alive,Bon Jovi,9,2020-06-06,2020-10-10,35,4
+78,We Are Chaos,Marilyn Manson,1,2020-08-08,2020-08-15,32,2
+79,Hemorrhage (In My Hands),Fuel,3,2020-10-31,2020-11-07,32,2
+80,Dreams,Van Halen,13,2020-10-17,2020-10-31,32,3
+81,The Holiday Spirit Carries On,Dream Theater,2,2020-12-12,2020-12-19,31,2
+82,World On Fire,Daughtry,3,2020-08-29,2020-10-10,30,2
+83,Death By Rock And Roll,The Pretty Reckless,1,2020-05-30,2020-09-05,28,2
+84,Wasted On You,Evanescence,1,2020-05-09,2020-05-16,27,2
+85,I Was Made For Lovin' You,KISS,7,2020-08-15,2020-08-22,27,2
+86,Sharp Dressed Man,ZZ Top,12,2020-03-21,2020-03-28,27,2
+87,Sad But True,The Hu,2,2020-12-19,2020-12-26,26,2
+88,Toss A Coin To Your Witcher,Dan Vasc,6,2020-01-25,2020-02-01,26,2
+89,Teardrops,Bring Me The Horizon,1,2020-11-07,2020-11-07,25,1
+90,Full Circle,Five Finger Death Punch,1,2020-01-18,2020-01-18,25,1
+91,Iris,Diamante & Breaking Benjamin,1,2020-07-25,2020-07-25,25,1
+92,If I Ever Lose My Faith In You,Disturbed,1,2020-09-26,2020-09-26,25,1
+93,Jamie's Cryin',Van Halen,12,2020-10-17,2020-10-24,25,2
+94,Ohms,Deftones,2,2020-09-05,2020-09-05,24,1
+95,Dance Of The Clairvoyants,Pearl Jam,2,2020-02-01,2020-02-01,24,1
+96,Carry On,Falling In Reverse,9,2020-07-25,2020-08-01,24,2
+97,Set Me Free,Avenged Sevenfold,3,2020-02-01,2020-02-01,23,1
+98,Limelight,Rush,3,2020-01-25,2020-01-25,23,1
+99,Shine,Collective Soul,3,2020-05-30,2020-05-30,23,1
+100,Dangerous,Seether,4,2020-07-11,2020-07-11,22,1
+101,Genesis,Deftones,4,2020-10-03,2020-10-03,22,1
+102,Brighter Side Of Grey,Five Finger Death Punch,4,2020-03-14,2020-03-14,22,1
+103,Idol,Hollywood Undead Featuring Tech N9ne,4,2020-08-15,2020-08-15,22,1
+104,Scarlet Cross,Black Veil Brides,4,2020-11-28,2020-11-28,22,1
+105,Nothing Else Matters,Metallica And San Francisco Symphony,4,2020-08-01,2020-08-01,22,1
+106,Hurricane,I Prevail,4,2020-03-28,2020-03-28,22,1
+107,Dragula,Rob Zombie,7,2020-11-07,2020-11-14,22,2
+108,Love Walks In,Van Halen,14,2020-10-17,2020-10-24,22,2
+109,Yuve Yuve Yu,The Hu Featuring From Ashes To New,19,2020-01-04,2020-02-29,22,6
+110,Don't Chase The Dead,Marilyn Manson,5,2020-09-26,2020-09-26,21,1
+111,Present Tense,Pearl Jam,5,2020-05-30,2020-05-30,21,1
+112,Superblood Wolfmoon,Pearl Jam,5,2020-02-29,2020-02-29,21,1
+113,The Spirit Of Radio,Rush,5,2020-01-25,2020-01-25,21,1
+114,My Hero,Foo Fighters,5,2020-04-11,2020-04-11,21,1
+115,Bruised And Bloodied,Seether,5,2020-08-01,2020-08-01,21,1
+116,"My Way, Soon",Greta Van Fleet,11,2020-10-24,2020-12-19,21,2
+117,Somebody That I Used To Know,Three Days Grace,6,2020-08-08,2020-08-08,20,1
+118,DOA,I Prevail x Joyner Lucas,6,2020-06-13,2020-06-13,20,1
+119,Kingslayer,Bring Me The Horizon Featuring BABYMETAL,6,2020-11-14,2020-11-14,20,1
+120,Realize,AC/DC,6,2020-11-28,2020-11-28,20,1
+121,You Are The Champions,Queen + Adam Lambert,6,2020-05-16,2020-05-16,20,1
+122,When It's Love,Van Halen,15,2020-10-17,2020-10-24,20,2
+123,Now That We're Dead,Metallica,7,2020-04-18,2020-04-18,19,1
+124,Jessie's Girl 2,Coheed And Cambria Featuring Rick Springfield,7,2020-09-05,2020-09-05,19,1
+125,Destruction Or Strength,As I Lay Dying,7,2020-04-11,2020-04-11,19,1
+126,Breathe Again,Pop Evil,7,2020-11-28,2020-11-28,19,1
+127,Panic,From Ashes To New,7,2020-05-02,2020-05-02,19,1
+128,Comatose,jxdn,7,2020-03-07,2020-03-07,19,1
+129,Antisocialist,Asking Alexandria,7,2020-03-21,2020-03-21,19,1
+130,Creatures X: To The Grave,Motionless In White,7,2020-11-07,2020-11-07,19,1
+131,Everlong,Foo Fighters,10,2020-09-12,2020-11-21,19,2
+132,CMFT Must Be Stopped,Corey Taylor Featuring Tech N9ne & Kid Bookie,8,2020-08-15,2020-08-15,18,1
+133,The Drug In Me Is Reimagined,Falling In Reverse,8,2020-03-07,2020-03-07,18,1
+134,Age Of Machine,Greta Van Fleet,8,2020-12-19,2020-12-19,18,1
+135,Catastrophist,Trivium,8,2020-03-14,2020-03-14,18,1
+136,In The End,Linkin Park,11,2020-08-01,2020-08-08,18,2
+137,I'll Wait,Van Halen,16,2020-10-17,2020-10-24,18,2
+138,"You're A Mean One, Mr. Grinch",Small Town Titans,19,2020-12-12,2020-12-26,18,3
+139,Darkness Settles In,Five Finger Death Punch,9,2020-03-14,2020-03-14,17,1
+140,Constance,Spiritbox,9,2020-12-19,2020-12-19,17,1
+141,How Did You Love,Shinedown,9,2020-02-01,2020-02-01,17,1
+142,USA,Mr. Bungle,9,2020-06-20,2020-06-20,17,1
+143,Song Of Women,The Hu Featuring Lzzy Hale,9,2020-05-16,2020-05-16,17,1
+144,Somebody Told Me,Motionless In White,9,2020-09-26,2020-09-26,17,1
+145,The Unforgiven,Metallica,16,2020-04-18,2020-04-25,17,2
+146,Yeah Right,Evanescence,10,2020-12-19,2020-12-19,16,1
+147,Trust Love,Jeff Williams Featuring Casey Lee Williams,10,2020-08-15,2020-08-15,16,1
+148,What The Dead Men Say,Trivium,10,2020-04-11,2020-04-11,16,1
+149,The Day I Tried To Live,Sevendust,10,2020-07-11,2020-07-11,16,1
+150,Kick You When You're Down,AC/DC,12,2020-11-28,2020-11-28,14,1
+151,Subdivisions,Rush,12,2020-01-25,2020-01-25,14,1
+152,This Is Halloween,Marilyn Manson,12,2020-11-14,2020-11-14,14,1
+153,Judas,Fozzy,12,2020-03-14,2020-03-14,14,1
+154,The Devil Went Down To Georgia,Korn Featuring YelaWolf,12,2020-09-12,2020-09-12,14,1
+155,Wrong Side Of Heaven,Five Finger Death Punch,13,2020-10-10,2020-10-10,13,1
+156,"As Above, So Below",In This Moment,13,2020-04-04,2020-04-04,13,1
+157,Unchained,Van Halen,19,2020-10-17,2020-10-24,13,2
+158,Closer To The Heart,Rush,14,2020-01-25,2020-01-25,12,1
+159,Demon Fire,AC/DC,14,2020-11-28,2020-11-28,12,1
+160,Beautiful Girls,Van Halen,18,2020-10-17,2020-10-24,12,2
+161,Hero,Jeff Williams Featuring Caleb Hyles,16,2020-08-15,2020-08-15,10,1
+162,Straight To Hell,Ozzy Osbourne,16,2020-01-25,2020-01-25,10,1
+163,Heart Of A Champion,Hollywood Undead Featuring Papa Roach & Ice Nine Kills,16,2020-10-31,2020-10-31,10,1
+164,1x1,Bring Me The Horizon Featuring Nova Twins,16,2020-11-14,2020-11-14,10,1
+165,And the Cradle Will Rock...,Van Halen,21,2020-10-17,2020-10-24,10,2
+166,War,"Jeff Williams Featuring Casey Lee Williams, Adrienne Cowan, Erin Reilly & Dawn M. Bennett",17,2020-08-15,2020-08-15,9,1
+167,It's A Raid,Ozzy Osbourne Featuring Post Malone,17,2020-03-07,2020-03-07,9,1
+168,Knockin' On Heaven's Door,Guns N' Roses,18,2020-05-02,2020-05-09,9,2
+169,Are You Tired?,R0SE,18,2020-09-19,2020-09-19,8,1
+170,Coming Home,Hollywood Undead,18,2020-10-03,2020-10-03,8,1
+171,Closer,Nine Inch Nails,18,2020-11-21,2020-11-21,8,1
+172,Another Life,Motionless In White,18,2020-05-16,2020-05-16,8,1
+173,Monsters,Shinedown,22,2020-01-11,2020-06-06,8,4
+174,Toss A Coin To Your Witcher,Jonny Lovato,19,2020-01-18,2020-01-18,7,1
+175,Beg,Seether,19,2020-08-29,2020-08-29,7,1
+176,Holy Roller,Spiritbox,19,2020-10-17,2020-10-17,7,1
+177,The Purge,Within Temptation,19,2020-12-05,2020-12-05,7,1
+178,The Death Of Us,Lamb Of God,19,2020-09-12,2020-09-12,7,1
+179,I Love Rock 'N Roll,Joan Jett & the Blackhearts,20,2020-07-25,2020-07-25,6,1
+180,Animals,Architects,20,2020-11-07,2020-11-07,6,1
+181,Fly By Night,Rush,20,2020-01-25,2020-01-25,6,1
+182,Can You Hear Me,Korn,20,2020-06-13,2020-06-13,6,1
+183,Numb,Linkin Park,22,2020-08-01,2020-08-08,6,2
+184,Star Spangled Banner,Jimi Hendrix,21,2020-07-18,2020-07-18,5,1
+185,"Mama, I'm Coming Home",Ozzy Osbourne,21,2020-09-19,2020-09-19,5,1
+186,Freewill,Rush,21,2020-01-25,2020-01-25,5,1
+187,Gimme All Your Lovin',ZZ Top,21,2020-03-21,2020-03-21,5,1
+188,Dead Man Walking,Skillet,22,2020-09-26,2020-09-26,4,1
+189,With Arms Wide Open,Creed,22,2020-07-04,2020-07-04,4,1
+190,Walk This Way,Aerosmith,22,2020-02-08,2020-02-08,4,1
+191,To Be Alone,Five Finger Death Punch,22,2020-03-14,2020-03-14,4,1
+192,(Oh) Pretty Woman,Van Halen,23,2020-10-17,2020-10-17,3,1
+193,Killing Me Slowly,Bad Wolves,23,2020-02-08,2020-02-08,3,1
+194,The Decree,Lacey Sturm,23,2020-05-30,2020-05-30,3,1
+195,Here I Go Again,Whitesnake,23,2020-09-19,2020-09-19,3,1
+196,Bulls On Parade,Rage Against The Machine,23,2020-06-20,2020-06-20,3,1
+197,Kashmir,Led Zeppelin,24,2020-02-15,2020-02-15,2,1
+198,Sick And Empty,Skillet,24,2020-09-26,2020-09-26,2,1
+199,Animals,Nickelback,24,2020-10-03,2020-10-03,2,1
+200,Hinotori,Takanashi Kiara,24,2020-12-12,2020-12-12,2,1
+201,Working Man,Rush,24,2020-01-25,2020-01-25,2,1
+202,Long Awaited,Suspect208,25,2020-11-28,2020-11-28,1,1
+203,Every Rose Has Its Thorn,Poison,25,2020-05-02,2020-05-02,1,1
+204,Tush,ZZ Top,25,2020-03-28,2020-03-28,1,1
+205,Kickstart My Heart,Motley Crue,25,2020-01-04,2020-01-04,1,1
+206,Ice Cream Man,Van Halen,25,2020-10-17,2020-10-17,1,1
+207,Unforgettable,Godsmack,25,2020-06-27,2020-06-27,1,1
+208,Fat Bottomed Girls,Queen,25,2020-07-04,2020-07-04,1,1
+209,Christmas Canon Rock,Trans-Siberian Orchestra,25,2020-12-19,2020-12-19,1,1

@@ -1,0 +1,1140 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Sour,Olivia Rodrigo,2,2022-01-01,2022-11-05,5070,45
+2,Rumours,Fleetwood Mac,6,2022-01-01,2022-11-05,4169,45
+3,"good kid, m.A.A.d city",Kendrick Lamar,4,2022-01-01,2022-11-05,3853,45
+4,30,Adele,1,2022-01-01,2022-11-05,3747,45
+5,Red (Taylor's Version),Taylor Swift,2,2022-01-01,2022-11-05,3496,45
+6,Harry's House,Harry Styles,1,2022-06-04,2022-11-05,3381,23
+7,Happier Than Ever,Billie Eilish,5,2022-01-01,2022-11-05,3080,45
+8,Folklore,Taylor Swift,11,2022-01-01,2022-11-05,3054,45
+9,Encanto,Soundtrack,1,2022-01-01,2022-07-23,2959,29
+10,Fine Line,Harry Styles,5,2022-01-01,2022-11-05,2912,45
+11,Chronicle The 20 Greatest Hits,Creedence Clearwater Revival,21,2022-01-01,2022-11-05,2840,45
+12,Metallica,Metallica,19,2022-01-01,2022-11-05,2758,44
+13,Abbey Road,The Beatles,6,2022-01-01,2022-11-05,2675,45
+14,IGOR,"Tyler, The Creator",11,2022-02-12,2022-11-05,2633,36
+15,Nevermind,Nirvana,6,2022-01-01,2022-11-05,2487,41
+16,The College Dropout,Kanye West,14,2022-01-15,2022-11-05,2409,43
+17,Traveller,Chris Stapleton,22,2022-01-01,2022-11-05,2361,45
+18,Thriller,Michael Jackson,12,2022-01-01,2022-11-05,2337,44
+19,"""Awaken, My Love!""",Childish Gambino,8,2022-01-01,2022-11-05,2320,44
+20,Dawn FM,The Weeknd,1,2022-01-22,2022-11-05,2249,35
+21,Minisode 2: Thursday's Child (EP),TOMORROW X TOGETHER,1,2022-05-28,2022-09-24,2223,18
+22,Greatest Hits,Queen,25,2022-01-01,2022-11-05,2197,44
+23,The Dark Side Of The Moon,Pink Floyd,18,2022-01-01,2022-11-05,2182,41
+24,Legend: The Best Of...,Bob Marley And The Wailers,16,2022-01-01,2022-11-05,2171,44
+25,Gold: Greatest Hits,ABBA,27,2022-01-01,2022-11-05,2136,44
+26,Purple Rain (Soundtrack),Prince And The Revolution,15,2022-01-01,2022-11-05,2047,42
+27,Sounds Of Summer: The Very Best Of The Beach Boys,The Beach Boys,11,2022-01-01,2022-10-15,1995,41
+28,Call Me If You Get Lost,"Tyler, The Creator",1,2022-04-30,2022-11-05,1982,20
+29,AM,Arctic Monkeys,23,2022-01-01,2022-11-05,1912,45
+30,Mr. Morale & The Big Steppers,Kendrick Lamar,2,2022-05-28,2022-11-05,1881,23
+31,Evermore,Taylor Swift,6,2022-01-01,2022-11-05,1842,40
+32,An Evening With Silk Sonic,Silk Sonic (Bruno Mars & Anderson .Paak),3,2022-01-01,2022-11-05,1822,30
+33,Guardians Of The Galaxy: Awesome Mix Vol. 1,Soundtrack,20,2022-01-01,2022-11-05,1731,44
+34,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,17,2022-01-01,2022-10-08,1713,38
+35,Born To Die,Lana Del Rey,33,2022-01-01,2022-11-05,1683,43
+36,SEVENTEEN 4th Album: Face The Sun,SEVENTEEN,1,2022-06-18,2022-10-15,1598,18
+37,Manifesto : Day 1 (EP),ENHYPEN,1,2022-08-13,2022-11-05,1576,13
+38,Proof,BTS,1,2022-06-25,2022-11-05,1465,18
+39,Harry Styles,Harry Styles,24,2022-01-01,2022-11-05,1435,30
+40,Currents,Tame Impala,11,2022-01-01,2022-11-05,1432,28
+41,Renaissance,Beyonce,1,2022-08-13,2022-11-05,1400,13
+42,Unlimited Love,Red Hot Chili Peppers,1,2022-04-16,2022-08-20,1384,18
+43,"Guardians Of The Galaxy, Vol. 2: Awesome Mix Vol. 2",Soundtrack,38,2022-01-01,2022-11-05,1333,39
+44,"Universe: The 3rd Album, Neo Culture Technology (2021)",NCT,4,2022-01-01,2022-04-02,1236,14
+45,Sticker: The 3rd Album,NCT 127,7,2022-01-01,2022-05-14,1234,19
+46,Greatest Hits,Guns N' Roses,45,2022-01-08,2022-10-15,1234,38
+47,Back In Black,AC/DC,21,2022-02-05,2022-11-05,1209,34
+48,Master Of Puppets,Metallica,14,2022-06-18,2022-11-05,1193,21
+49,IM NAYEON: The 1st Mini Album (EP),NAYEON,1,2022-07-09,2022-09-17,1187,11
+50,Lover,Taylor Swift,15,2022-01-01,2022-11-05,1177,26
+51,Sing 2,Soundtrack,11,2022-01-01,2022-07-30,1176,22
+52,Between 1&2: 11th Mini Album (EP),TWICE,1,2022-09-10,2022-11-05,1148,9
+53,Stray Kids Mini Album: Oddinary (EP),Stray Kids,1,2022-04-02,2022-09-03,1144,13
+54,Let It Be (Soundtrack),The Beatles,10,2022-01-01,2022-07-23,1128,22
+55,Special,Lizzo,1,2022-07-30,2022-11-05,1067,15
+56,To Pimp A Butterfly,Kendrick Lamar,28,2022-01-22,2022-10-01,1027,29
+57,DAMN.,Kendrick Lamar,21,2022-01-01,2022-08-27,1025,30
+58,SEVENTEEN 4th Album Repackage: Sector 17,SEVENTEEN,1,2022-08-06,2022-10-15,1003,10
+59,Checkmate: Mini Album (EP),iTZY,2,2022-07-30,2022-10-29,995,14
+60,Diamond Star Halos,Def Leppard,2,2022-06-11,2022-09-10,965,12
+61,=,Ed Sheeran,12,2022-01-01,2022-06-11,945,18
+62,Back To Black,Amy Winehouse,42,2022-01-08,2022-11-05,935,28
+63,Love Yourself: Her,BTS,22,2022-03-26,2022-08-27,921,19
+64,Fear Of The Dawn,Jack White,1,2022-04-23,2022-08-06,879,13
+65,2 Baddies,NCT 127,2,2022-10-01,2022-11-05,861,6
+66,Diamonds,Elton John,39,2022-01-01,2022-10-15,860,31
+67,Fearless (Taylor's Version),Taylor Swift,8,2022-01-01,2022-11-05,851,23
+68,Superache,Conan Gray,3,2022-07-09,2022-10-08,817,12
+69,Un Verano Sin Ti,Bad Bunny,3,2022-05-21,2022-11-05,807,14
+70,Inside (The Songs),Bo Burnham,3,2022-01-01,2022-06-18,803,14
+71,Greatest Hits,Tom Petty And The Heartbreakers,19,2022-01-01,2022-07-23,796,26
+72,Girls: The 2nd Mini Album (EP),aespa,1,2022-07-23,2022-09-10,784,8
+73,"Run, Rose, Run",Dolly Parton,2,2022-03-19,2022-05-21,767,9
+74,Impera,Ghost,1,2022-03-26,2022-09-24,761,13
+75,Patient Number 9,Ozzy Osbourne,1,2022-09-24,2022-11-05,759,7
+76,Laurel Hell,Mitski,1,2022-02-19,2022-04-16,759,9
+77,Ride The Lightning,Metallica,26,2022-04-23,2022-11-05,747,21
+78,The Black Parade,My Chemical Romance,35,2022-03-26,2022-11-05,740,26
+79,Born Pink,BLACKPINK,1,2022-10-01,2022-11-05,725,6
+80,Because The Internet,Childish Gambino,7,2022-01-01,2022-04-30,721,18
+81,Starting Over,Chris Stapleton,19,2022-01-01,2022-07-23,708,23
+82,Palomino,Miranda Lambert,2,2022-05-14,2022-07-16,667,9
+83,Man On The Moon III: The Chosen,Kid Cudi,4,2022-01-01,2022-08-06,662,13
+84,Brightside,The Lumineers,1,2022-01-29,2022-04-02,657,10
+85,DIMENSION : ANSWER,ENHYPEN,2,2022-01-29,2022-03-05,629,6
+86,What Are We Waiting For?,for KING & COUNTRY,2,2022-03-26,2022-08-06,610,10
+87,A Charlie Brown Christmas (Soundtrack),Vince Guaraldi Trio,9,2022-01-01,2022-11-05,604,12
+88,Dance Fever,Florence + The Machine,2,2022-05-28,2022-07-02,594,6
+89,Raise The Roof,Robert Plant / Alison Krauss,17,2022-01-01,2022-07-23,592,12
+90,Mainstream Sellout,Machine Gun Kelly,1,2022-04-09,2022-08-27,582,10
+91,Dont Smile At Me,Billie Eilish,26,2022-01-01,2022-06-04,580,20
+92,Higher,Michael Buble,3,2022-04-09,2022-06-04,574,8
+93,Dangerous: The Double Album,Morgan Wallen,16,2022-01-15,2022-10-29,569,18
+94,"The Sick, The Dying... And The Dead!",Megadeth,1,2022-09-17,2022-10-22,568,6
+95,Map Of The Soul: PERSONA,BTS,43,2022-01-01,2022-04-30,566,18
+96,Greatest Hits,Foo Fighters,13,2022-01-01,2022-11-05,561,19
+97,Animals,Pink Floyd,3,2022-10-01,2022-11-05,560,6
+98,MAP OF THE SOUL : 7,BTS,28,2022-01-01,2022-03-05,558,10
+99,Bad Reputation,Kid Rock,11,2022-04-02,2022-07-09,554,8
+100,Planet Her,Doja Cat,4,2022-06-11,2022-08-20,551,11
+101,My Beautiful Dark Twisted Fantasy,Kanye West,18,2022-02-26,2022-04-30,551,10
+102,Planet Zero,Shinedown,1,2022-07-16,2022-09-24,547,10
+103,Top Gun: Maverick,Soundtrack,7,2022-06-11,2022-09-17,546,11
+104,Maxident,Stray Kids,1,2022-10-22,2022-11-05,545,3
+105,Donda,Kanye West,6,2022-02-26,2022-08-13,531,9
+106,Growin' Up,Luke Combs,2,2022-07-09,2022-08-27,528,8
+107,AfterLife,Five Finger Death Punch,2,2022-09-03,2022-10-22,523,8
+108,Who Cares?,Rex Orange County,3,2022-03-26,2022-06-25,511,10
+109,Wet Leg,Wet Leg,4,2022-04-23,2022-06-18,509,9
+110,The Tipping Point,Tears For Fears,1,2022-03-12,2022-04-09,504,5
+111,Once Twice Melody,Beach House,1,2022-03-05,2022-04-23,497,8
+112,Dropout Boogie,The Black Keys,4,2022-05-28,2022-07-23,490,6
+113,"The End, So Far",Slipknot,1,2022-10-15,2022-11-05,476,4
+114,Denim & Rhinestones,Carrie Underwood,4,2022-06-25,2022-08-06,474,7
+115,Greatest Hits,Bob Seger & The Silver Bullet Band,67,2022-01-15,2022-07-16,462,24
+116,Dirt,Alice In Chains,3,2022-10-08,2022-11-05,461,5
+117,Country Stuff: The Album,Walker Hayes,3,2022-02-05,2022-03-26,458,8
+118,Led Zeppelin IV,Led Zeppelin,37,2022-01-01,2022-09-17,455,12
+119,The World EP.1 : Movement,ATEEZ,2,2022-08-13,2022-10-22,451,6
+120,Earthling,Eddie Vedder,1,2022-02-26,2022-08-13,448,5
+121,Flower Boy,"Tyler, The Creator",20,2022-01-22,2022-08-06,436,10
+122,Just Like That...,Bonnie Raitt,2,2022-05-07,2022-06-11,425,6
+123,Good Morning Gorgeous,Mary J. Blige,3,2022-02-26,2022-03-26,424,5
+124,Finally Enough Love,Madonna,1,2022-09-03,2022-09-24,422,4
+125,We,Arcade Fire,1,2022-05-21,2022-06-18,417,5
+126,5SOS5,5 Seconds Of Summer,1,2022-10-08,2022-11-05,410,5
+127,Lucifer On The Sofa,Spoon,2,2022-02-26,2022-04-02,404,6
+128,SEVENTEEN 9th Mini Album: Attacca (EP),SEVENTEEN,41,2022-01-01,2022-06-11,403,14
+129,Entering Heaven Alive,Jack White,2,2022-08-06,2022-09-10,402,6
+130,A Light For Attracting Attention,The Smile,3,2022-05-28,2022-07-23,401,5
+131,Man On The Moon: The End Of Day,Kid Cudi,34,2022-03-05,2022-04-30,399,9
+132,Twelve Carat Toothache,Post Malone,3,2022-06-18,2022-07-16,395,5
+133,Punisher,Phoebe Bridgers,20,2022-03-19,2022-11-05,395,12
+134,My Chains Are Gone: Hymns & Gospel Favorites,Reba McEntire,6,2022-04-09,2022-05-21,388,6
+135,Texas Moon (EP),Khruangbin & Leon Bridges,2,2022-03-05,2022-04-02,383,5
+136,Love Sux,Avril Lavigne,2,2022-03-12,2022-04-02,378,4
+137,We Are,Jon Batiste,3,2022-04-16,2022-04-30,378,3
+138,Formula Of Love:  O+T=<3,TWICE,8,2022-01-01,2022-01-29,375,5
+139,Cheat Codes,Danger Mouse & Black Thought,2,2022-08-27,2022-10-01,367,6
+140,Encanto (Highlights),Soundtrack,2,2022-04-23,2022-05-21,364,4
+141,"Stranger Things: Soundtrack From The Netflix Series, Season 4",Soundtrack,10,2022-06-11,2022-10-08,357,7
+142,Curtain Call 2,Eminem,1,2022-08-20,2022-09-17,356,5
+143,Viva Las Vengeance,Panic! At The Disco,3,2022-09-03,2022-09-24,351,4
+144,Fighting Demons,Juice WRLD,4,2022-04-02,2022-04-30,349,5
+145,Back From The Dead,Halestorm,2,2022-05-21,2022-06-11,346,4
+146,The Dreaming,MONSTA X,26,2022-01-01,2022-09-24,345,6
+147,Macadelic,Mac Miller,7,2022-04-09,2022-11-05,344,4
+148,Take Care,Drake,42,2022-04-16,2022-08-06,341,14
+149,Dragon New Warm Mountain I Believe In You,Big Thief,4,2022-02-26,2022-03-26,340,5
+150,The Highlights,The Weeknd,35,2022-01-01,2022-07-23,340,11
+151,Melt My Eyez See Your Future,Denzel Curry,2,2022-10-15,2022-11-05,331,4
+152,Scaled And Icy,twenty one pilots,37,2022-01-01,2022-07-23,327,11
+153,Crash,Charli XCX,2,2022-04-02,2022-04-16,326,3
+154,Fear Inoculum,Tool,5,2022-04-23,2022-08-27,323,3
+155,KIDS SEE GHOSTS,KIDS SEE GHOSTS,30,2022-01-01,2022-09-24,321,9
+156,Requiem,Korn,2,2022-02-19,2022-03-12,320,4
+157,Ctrl,SZA,54,2022-01-15,2022-10-22,320,12
+158,Madvillainy,Madvillain,18,2022-01-15,2022-10-15,317,10
+159,Freedom,Journey,3,2022-07-23,2022-09-10,316,4
+160,Elvis (Soundtrack),Elvis Presley & Various Artists,9,2022-07-09,2022-09-24,316,7
+161,Las Leyendas Nunca Mueren,Anuel AA,23,2022-01-08,2022-02-12,316,6
+162,NOW 81,Various Artists,11,2022-02-12,2022-04-02,307,8
+163,Return Of The Dream Canteen,Red Hot Chili Peppers,1,2022-10-29,2022-11-05,301,2
+164,Moving Pictures,Rush,2,2022-04-30,2022-05-14,299,3
+165,It's Almost Dry,Pusha T,10,2022-05-07,2022-10-22,298,4
+166,Dominion,Skillet,5,2022-01-29,2022-03-26,297,5
+167,NOW 82,Various Artists,11,2022-05-21,2022-06-18,296,5
+168,Can I Take My Hounds To Heaven,Tyler Childers,3,2022-10-15,2022-10-29,293,3
+169,FOUR,One Direction,3,2022-03-19,2022-05-28,290,2
+170,Stranger In The Alps,Phoebe Bridgers,7,2022-01-15,2022-10-15,288,9
+171,The Chronic,Dr. Dre,33,2022-01-01,2022-04-16,285,10
+172,Surrender,Maggie Rogers,6,2022-08-13,2022-09-03,282,4
+173,Georgia,Jason Aldean,3,2022-05-07,2022-05-21,280,3
+174,Different Man,Kane Brown,4,2022-09-24,2022-10-15,280,4
+175,Magic Man,Jackson Wang,3,2022-09-24,2022-10-08,279,3
+176,Healer,Casting Crowns,5,2022-01-29,2022-09-10,277,3
+177,Blue Rev,Alvvays,6,2022-10-22,2022-11-05,276,3
+178,Prince And The Revolution: Live,Prince And The Revolution,4,2022-06-18,2022-07-02,275,3
+179,Where We Started,Thomas Rhett,2,2022-04-16,2022-04-30,272,3
+180,What's Going On,Marvin Gaye,12,2022-01-22,2022-07-23,272,10
+181,Rock Believer,Scorpions,4,2022-03-12,2022-03-26,271,3
+182,Zeit,Rammstein,4,2022-05-14,2022-05-28,271,3
+183,NOW That's What I Call Music! 2000's Hip Hop,Various Artists,35,2022-02-12,2022-03-19,267,6
+184,Hotel California,Eagles,49,2022-01-01,2022-03-12,267,10
+185,4,Slash Featuring Myles Kennedy And The Conspirators,7,2022-02-26,2022-03-19,266,4
+186,Yankee Hotel Foxtrot,Wilco,4,2022-10-15,2022-11-05,264,4
+187,Glitch Mode,NCT DREAM,5,2022-04-09,2022-05-07,264,4
+188,Stranger Things: Music From The Netflix Original Series,Soundtrack,42,2022-07-09,2022-08-27,264,8
+189,Being Funny In A Foreign Language,The 1975,3,2022-10-29,2022-11-05,263,2
+190,Tell Me That It’s Over,Wallows,8,2022-04-09,2022-04-30,258,4
+191,Bat Out Of Hell,Meat Loaf,2,2022-02-05,2022-02-12,256,2
+192,Live At The El Mocambo,The Rolling Stones,5,2022-05-28,2022-06-11,252,3
+193,Omens,Lamb Of God,3,2022-10-22,2022-10-29,251,2
+194,A Very Backstreet Christmas,Backstreet Boys,4,2022-10-29,2022-11-05,250,2
+195,Frayed At Both Ends,Aaron Lewis,5,2022-02-12,2022-05-28,250,3
+196,Holy Fvck,Demi Lovato,4,2022-09-03,2022-09-17,248,3
+197,A Beautiful Time,Willie Nelson,5,2022-05-14,2022-05-28,246,3
+198,The Brave,Tom MacDonald X Adam Calhoun,1,2022-03-19,2022-03-26,243,2
+199,Love For Sale,Tony Bennett & Lady Gaga,27,2022-01-01,2022-07-23,243,8
+200,Cool It Down,Yeah Yeah Yeahs,5,2022-10-15,2022-11-05,237,4
+201,Familia,Camila Cabello,7,2022-04-23,2022-07-30,236,3
+202,(Self-Titled),Marcus Mumford,6,2022-10-01,2022-10-22,235,3
+203,"NOW That's What I Call Country, Volume 15",Various Artists,28,2022-06-18,2022-08-06,235,7
+204,Girl Of My Dreams,FLETCHER,4,2022-10-01,2022-10-08,230,2
+205,Live On Two Legs,Pearl Jam,4,2022-07-02,2022-07-09,228,2
+206,Dreamland,Glass Animals,6,2022-08-20,2022-09-03,227,3
+207,Demons Protected By Angels,NAV,2,2022-09-24,2022-10-01,225,2
+208,Will Of The People,Muse,4,2022-09-10,2022-09-17,225,2
+209,Come Home The Kids Miss You,Jack Harlow,5,2022-05-21,2022-10-01,222,2
+210,One In A Million,Aaliyah,18,2022-08-20,2022-09-17,222,4
+211,Elv1s: 30 #1 Hits,Elvis Presley,41,2022-07-09,2022-09-17,222,9
+212,Top Gun,Soundtrack,25,2022-06-11,2022-07-09,219,4
+213,Blurryface,twenty one pilots,48,2022-01-01,2022-03-05,217,8
+214,Anniversary Trilogy,Bad Bunny,3,2022-01-15,2022-01-22,216,2
+215,Mercury - Act 1,Imagine Dragons,6,2022-07-16,2022-08-06,215,4
+216,Pawns & Kings,Alter Bridge,5,2022-10-29,2022-11-05,213,2
+217,Life After Death,tobyMac,5,2022-09-03,2022-09-10,212,2
+218,Asphalt Meadows,Death Cab For Cutie,10,2022-10-01,2022-10-15,212,3
+219,Jackpot Juicer,Dance Gavin Dance,5,2022-08-13,2022-08-20,209,2
+220,Ali,Vieux Farka Toure Et Khruangbin,15,2022-10-08,2022-10-22,209,3
+221,Wisdom,Stick Figure,7,2022-09-24,2022-10-01,207,2
+222,Fossora,Bjork,7,2022-10-15,2022-10-22,204,2
+223,Chloe And The Next 20th Century,Father John Misty,6,2022-04-23,2022-04-30,202,2
+224,Crazy Times,Sammy Hagar And The Circle,6,2022-10-15,2022-10-29,202,3
+225,Weezer,Weezer,52,2022-01-01,2022-01-29,202,5
+226,Humble Quest,Maren Morris,9,2022-04-09,2022-04-23,201,3
+227,Ants From Up There,"Black Country, New Road",12,2022-02-19,2022-03-05,201,3
+228,Kauai (EP),Childish Gambino,1,2022-05-07,2022-05-07,200,1
+229,Midnights,Taylor Swift,1,2022-11-05,2022-11-05,200,1
+230,The Last Goodbye,ODESZA,3,2022-08-06,2022-08-13,199,2
+231,Scoring The End Of The World,Motionless In White,3,2022-06-25,2022-07-02,199,2
+232,Motomami,Rosalia,12,2022-04-02,2022-07-30,199,5
+233,Blue Train,John Coltrane,7,2022-10-01,2022-10-15,197,3
+234,Charlie,Charlie Puth,5,2022-10-22,2022-10-29,196,2
+235,Enter The Wu-Tang (36 Chambers),Wu-Tang Clan,72,2022-02-19,2022-11-05,195,14
+236,Subject To Change,Kelsea Ballerini,6,2022-10-08,2022-10-15,193,2
+237,Voyage,ABBA,30,2022-01-01,2022-01-22,193,4
+238,Vinyl Days,Logic,8,2022-07-02,2022-10-15,192,2
+239,Hellfire,black midi,8,2022-07-30,2022-08-06,191,2
+240,Late Registration,Kanye West,30,2022-05-21,2022-07-02,191,5
+241,The Car,Arctic Monkeys,2,2022-11-05,2022-11-05,189,1
+242,"Dave's Picks, Volume 41: Baltimore Civic Center, Baltimore, MD - 5/26/77",Grateful Dead,2,2022-02-12,2022-02-12,189,1
+243,God Did,DJ Khaled,6,2022-09-10,2022-09-17,188,2
+244,Sunrise On Slaughter Beach,Clutch,8,2022-10-01,2022-10-22,188,2
+245,Vaxis II: A Window Of The Waking Mind,Coheed And Cambria,8,2022-07-09,2022-07-16,187,2
+246,House Of Balloons,The Weeknd,10,2022-02-26,2022-03-19,187,2
+247,A Holly Dolly Christmas,Dolly Parton,32,2022-01-01,2022-11-05,187,4
+248,YUNGBLUD,YUNGBLUD,3,2022-09-17,2022-09-24,184,2
+249,The Dirt (Soundtrack),Motley Crue,32,2022-07-09,2022-09-03,184,4
+250,Greatest Hits,Fleetwood Mac,73,2022-05-14,2022-11-05,183,16
+251,Bronco,Orville Peck,9,2022-04-23,2022-04-30,182,2
+252,Portals (EP),Kirk Hammett,6,2022-05-07,2022-05-14,180,2
+253,Things Are Great,Band Of Horses,7,2022-03-19,2022-03-26,180,2
+254,Meet The Moonlight,Jack Johnson,9,2022-07-09,2022-07-23,180,3
+255,Slipknot,Slipknot,57,2022-05-07,2022-08-20,179,6
+256,ANTIFRAGILE (EP),LE SSERAFIM,3,2022-11-05,2022-11-05,178,1
+257,"Dave's Picks, Volume 42: Winterland, San Francisco, CA - 2/23/74",Grateful Dead,3,2022-05-14,2022-05-14,178,1
+258,rearviewmirror: Greatest Hits 1991-2003,Pearl Jam,3,2022-04-02,2022-04-02,178,1
+259,The Ballad Of Dood & Juanita,Sturgill Simpson,3,2022-03-12,2022-03-12,178,1
+260,Omnium Gatherum,King Gizzard And The Lizard Wizard,8,2022-08-27,2022-10-08,178,2
+261,Come Away With Me,Norah Jones,9,2022-05-14,2022-06-04,174,3
+262,NOW That's What I Call '90s Alternative Rock,Various Artists,40,2022-08-20,2022-09-17,174,5
+263,Immutable,Meshuggah,6,2022-04-09,2022-04-23,171,3
+264,The War To End All Wars,Sabaton,5,2022-03-19,2022-03-26,170,2
+265,Are You Experienced,The Jimi Hendrix Experience,59,2022-01-01,2022-04-30,168,6
+266,Gabriel,keshi,4,2022-04-09,2022-04-09,167,1
+267,"Dave's Picks Volume 43: San Francisco, 11/2/69 · Dallas, 12/26/69",Grateful Dead,4,2022-08-13,2022-08-13,167,1
+268,Pour Your Spirit Out: A Live Album,Thrive Worship,4,2022-05-21,2022-05-21,167,1
+269,CM10: Free Game,Yo Gotti,4,2022-02-19,2022-02-19,167,1
+270,Traumazine,Megan Thee Stallion,4,2022-08-27,2022-08-27,167,1
+271,In These Silent Days,Brandi Carlile,24,2022-01-15,2022-10-22,167,6
+272,Strictly A One-Eyed Jack,John Mellencamp,8,2022-02-05,2022-02-12,166,2
+273,Europe '72,Grateful Dead,16,2022-06-18,2022-08-13,166,2
+274,The Gold Experience,The Artist (Formerly Known As Prince),5,2022-07-02,2022-07-09,165,2
+275,The Wall,Pink Floyd,67,2022-01-01,2022-05-14,163,8
+276,Kid A Mnesia,Radiohead,6,2022-01-22,2022-02-12,162,2
+277,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,David Bowie,15,2022-07-02,2022-07-30,161,4
+278,Cowboy Tears,Oliver Tree,12,2022-03-05,2022-07-30,160,3
+279,Long Term Effects Of Suffering,$uicideBoy$,20,2022-05-28,2022-06-04,160,2
+280,Led Zeppelin,Led Zeppelin,56,2022-01-01,2022-04-09,160,6
+281,The Chaos Chapter : FREEZE,TOMORROW X TOGETHER,71,2022-01-01,2022-02-12,159,7
+282,"At The Royal Albert Hall: April, 14 1970",Creedence Clearwater Revival,13,2022-10-01,2022-10-15,157,3
+283,El Ultimo Tour del Mundo,Bad Bunny,18,2022-03-26,2022-04-16,157,4
+284,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,56,2022-02-05,2022-07-30,157,6
+285,Jack In The Box,j-hope,5,2022-07-30,2022-07-30,156,1
+286,Electra Heart,Marina And The Diamonds,5,2022-10-08,2022-10-08,156,1
+287,Bella Donna,Stevie Nicks,5,2022-05-07,2022-05-07,156,1
+288,"Roadrunner: New Light, New Machine",BrockHampton,5,2022-08-27,2022-08-27,156,1
+289,Explosions,Three Days Grace,6,2022-05-21,2022-05-28,156,2
+290,Combat Rock,The Clash,9,2022-06-04,2022-06-11,156,2
+291,Hozier,Hozier,57,2022-08-06,2022-11-05,156,9
+292,The Boy Named If,Elvis Costello & The Imposters,11,2022-01-29,2022-02-05,154,2
+293,Tim Burton's The Nightmare Before Christmas,Soundtrack,13,2022-02-12,2022-03-12,154,5
+294,Big Time,Angel Olsen,8,2022-06-18,2022-06-25,153,2
+295,I Know NIGO,Nigo,12,2022-04-09,2022-09-10,153,2
+296,Californication,Red Hot Chili Peppers,28,2022-07-30,2022-08-27,152,5
+297,The Lumineers,The Lumineers,61,2022-01-08,2022-02-05,152,5
+298,The Mars Volta,The Mars Volta,11,2022-10-01,2022-10-15,151,3
+299,Barn,Neil Young / Crazy Horse,40,2022-01-01,2022-02-12,151,5
+300,The Miseducation Of Lauryn Hill,Lauryn Hill,59,2022-02-19,2022-10-29,151,9
+301,Minions: The Rise Of Gru,Soundtrack,16,2022-07-16,2022-07-30,149,3
+302,Give Or Take,Giveon,18,2022-07-09,2022-11-05,149,2
+303,"If I Can't Have Love, I Want Power",Halsey,25,2022-07-23,2022-09-10,148,3
+304,Marry Me (Soundtrack),Jennifer Lopez & Maluma,32,2022-02-19,2022-03-05,148,3
+305,Demon Days,Gorillaz,23,2022-07-09,2022-07-30,146,4
+306,Bobby Weir And Wolf Bros: Live In Colorado,Bobby Weir & Wolf Bros,6,2022-03-05,2022-03-05,145,1
+307,The Loneliest Time,Carly Rae Jepsen,6,2022-11-05,2022-11-05,145,1
+308,Iowa,Slipknot,6,2022-05-28,2022-05-28,145,1
+309,Heaux Tales,Jazmine Sullivan,6,2022-06-04,2022-06-04,145,1
+310,"Honestly, Nevermind",Drake,6,2022-07-02,2022-07-02,145,1
+311,Blue Water Road,Kehlani,7,2022-05-14,2022-05-21,140,2
+312,NOW That's What I Call Music! 83,Various Artists,22,2022-08-20,2022-09-03,140,3
+313,Positions,Ariana Grande,42,2022-01-01,2022-01-22,140,4
+314,Is This It,The Strokes,61,2022-06-04,2022-07-09,140,6
+315,My Jesus,Anne Wilson,8,2022-05-07,2022-05-14,139,2
+316,My Gift,Carrie Underwood,19,2022-01-01,2022-01-08,139,2
+317,"It's The Great Pumpkin, Charlie Brown (Soundtrack)",Vince Guaraldi,21,2022-09-24,2022-10-29,138,3
+318,The Dream,alt-J,12,2022-02-26,2022-03-05,137,2
+319,Three Cheers For Sweet Revenge,My Chemical Romance,27,2022-03-26,2022-10-29,137,6
+320,Love Yourself: Tear,BTS,58,2022-05-28,2022-11-05,137,6
+321,The Unraveling Of PUPTheBand,PUP,7,2022-04-16,2022-04-16,134,1
+322,American Heartbreak,Zach Bryan,7,2022-06-04,2022-06-04,134,1
+323,In The Wild,The Interrupters,7,2022-08-20,2022-08-20,134,1
+324,Time Skiffs,Animal Collective,7,2022-02-19,2022-02-19,134,1
+325,Takin' It Back,Meghan Trainor,7,2022-11-05,2022-11-05,134,1
+326,Wallows Singles Collection 2017-2020,Wallows,7,2022-05-07,2022-05-07,134,1
+327,Melt Away: A Tribute To Brian Wilson,She & Him,21,2022-08-06,2022-08-13,134,2
+328,17,XXXTENTACION,18,2022-06-18,2022-06-25,133,2
+329,West Side Story (2021),Soundtrack,38,2022-01-01,2022-03-26,133,6
+330,Formentera,Metric,26,2022-07-23,2022-10-15,132,2
+331,Cruel Country,Wilco,31,2022-06-11,2022-07-02,132,2
+332,The Zealot Gene,Jethro Tull,10,2022-02-12,2022-02-19,129,2
+333,Star-Crossed,Kacey Musgraves,14,2022-01-01,2022-05-07,129,5
+334,NOW That's What I Call A Decade 2000s,Various Artists,50,2022-05-21,2022-06-18,129,5
+335,Dawn Of Chromatica,Lady Gaga,14,2022-02-19,2022-06-25,124,2
+336,Dr. Dre -- 2001,Dr. Dre,30,2022-02-26,2022-03-05,124,2
+337,Mr. Saturday Night,Jon Pardi,8,2022-09-17,2022-09-17,123,1
+338,Tornillo,Whiskey Myers,8,2022-08-13,2022-08-13,123,1
+339,Thats What They All Say,Jack Harlow,8,2022-03-05,2022-03-05,123,1
+340,True Power,I Prevail,8,2022-09-03,2022-09-03,123,1
+341,Pokemon 25: The Album,Various Artists,8,2022-03-12,2022-03-12,123,1
+342,Heroes,The Midnight,8,2022-09-24,2022-09-24,123,1
+343,Tana Talk 4,Benny The Butcher,8,2022-03-26,2022-03-26,123,1
+344,Voyeurist,Underoath,8,2022-01-29,2022-01-29,123,1
+345,Madman Across The Water,Elton John,8,2022-06-25,2022-06-25,123,1
+346,"In And Out Of The Garden: Madison Square Garden '81, '82, '83",Grateful Dead,8,2022-10-15,2022-10-15,123,1
+347,Pink Friday,Nicki Minaj,8,2022-04-30,2022-04-30,123,1
+348,Queens Of The Stone Age,Queens Of The Stone Age,8,2022-11-05,2022-11-05,123,1
+349,I Never Liked You,Future,8,2022-05-14,2022-05-14,123,1
+350,Mr. Sun,Little Big Town,12,2022-10-01,2022-10-08,123,2
+351,Rich White Honky Blues,Hank Williams Jr.,14,2022-07-02,2022-08-20,123,3
+352,Closure / Continuation,Porcupine Tree,10,2022-07-09,2022-07-16,122,2
+353,12th Of June,Lyle Lovett,11,2022-05-28,2022-06-18,122,3
+354,When The Wind Forgets Your Name,Built To Spill,11,2022-09-24,2022-10-01,120,2
+355,Still Over It,Summer Walker,14,2022-03-26,2022-04-09,120,3
+356,A Very Lonely Solstice,Fleet Foxes,28,2022-07-16,2022-07-23,120,2
+357,Mahal,Toro y Moi,12,2022-05-14,2022-05-28,119,3
+358,24K Magic,Bruno Mars,13,2022-02-26,2022-03-05,119,2
+359,Heavy Pendulum,Cave In,23,2022-06-04,2022-06-18,119,2
+360,...And Justice For All,Metallica,66,2022-07-16,2022-09-24,119,7
+361,1971: The Road Starts Hear,Aerosmith,16,2022-04-23,2022-04-30,117,2
+362,All We Know Is Falling,Paramore,27,2022-05-21,2022-10-15,117,2
+363,Lateralus,Tool,28,2022-04-09,2022-04-16,117,2
+364,The Other Side Of Make-Believe,Interpol,13,2022-07-30,2022-08-06,116,2
+365,Camp,Childish Gambino,22,2022-02-12,2022-03-26,116,3
+366,Greatest Hits,2Pac,77,2022-02-26,2022-09-17,116,10
+367,Oh What The Future Holds,Fit For An Autopsy,23,2022-01-29,2022-02-05,115,2
+368,21,Adele,70,2022-01-08,2022-04-02,115,5
+369,Digital Noise Alliance,Queensryche,16,2022-10-22,2022-10-29,114,2
+370,We've Been Going About This All Wrong,Sharon Van Etten,10,2022-05-21,2022-05-28,113,2
+371,Greatest Hits,The Offspring,21,2022-05-07,2022-08-13,113,2
+372,I Love: 5th Mini Album (EP),(G)I-DLE,9,2022-11-05,2022-11-05,112,1
+373,Cowboy Bebop (Soundtrack),Seatbelts,9,2022-06-25,2022-06-25,112,1
+374,It's Only Me,Lil Baby,9,2022-10-29,2022-10-29,112,1
+375,& (EP),Eric Church,9,2022-09-03,2022-09-03,112,1
+376,Give Me The Future,Bastille,9,2022-02-19,2022-02-19,112,1
+377,(Watch My Moves),Kurt Vile,9,2022-04-30,2022-04-30,112,1
+378,Good Music To Ensure Safe Abortion Access To All,Various Artists,9,2022-10-22,2022-10-22,112,1
+379,The Great Heathen Army,Amon Amarth,9,2022-08-20,2022-08-20,112,1
+380,18,Jeff Beck & Johnny Depp,10,2022-07-30,2022-10-15,112,3
+381,Dookie,Green Day,37,2022-05-28,2022-09-17,112,4
+382,"Sometimes, Forever",Soccer Mommy,14,2022-07-09,2022-07-16,110,2
+383,God Save The Animals,Alex G,12,2022-10-08,2022-10-15,109,2
+384,Lion,Elevation Worship,20,2022-03-19,2022-04-02,109,2
+385,BE,BTS,64,2022-01-01,2022-06-25,109,7
+386,NOW That's What I Call Country Classics 80s,Various Artists,41,2022-06-18,2022-07-16,108,3
+387,Tickets To My Downfall,Machine Gun Kelly,10,2022-03-12,2022-04-09,107,2
+388,When Christmas Comes Around...,Kelly Clarkson,24,2022-01-01,2022-01-08,107,2
+389,The Battle At Garden’s Gate,Greta Van Fleet,56,2022-01-01,2022-01-22,107,4
+390,Future Nostalgia,Dua Lipa,66,2022-01-15,2022-05-28,107,6
+391,The Man From Waco,Charley Crockett,14,2022-09-24,2022-10-01,105,2
+392,Holy Diver,Dio,20,2022-07-23,2022-07-30,105,2
+393,Spinning The Truth Around,Blue October,20,2022-10-29,2022-11-05,104,2
+394,Christmas,Michael Buble,28,2022-01-01,2022-01-08,104,2
+395,Beatopia,beabadoobee,29,2022-07-30,2022-08-06,102,2
+396,ASTROWORLD,Travis Scott,57,2022-01-01,2022-01-15,102,3
+397,Toast,Neil Young With Crazy Horse,10,2022-07-23,2022-07-23,101,1
+398,Three Sides Of One,King's X,10,2022-09-17,2022-09-17,101,1
+399,Hotel Kalifornia,Hollywood Undead,10,2022-08-27,2022-08-27,101,1
+400,"The Lyceum Theatre London, England 5/26/72",Grateful Dead,10,2022-08-13,2022-08-13,101,1
+401,Rise & Fall Of Slaughterhouse,Joell Ortiz & KXNG Crooked,10,2022-03-26,2022-03-26,101,1
+402,Bleed Out,The Mountain Goats,10,2022-09-03,2022-09-03,101,1
+403,Pornography,The Cure,10,2022-05-07,2022-05-07,101,1
+404,"Hurry Up, We're Dreaming.",M83.,40,2022-04-02,2022-04-30,101,2
+405,Greatest Hits,Red Hot Chili Peppers,63,2022-06-25,2022-07-23,101,3
+406,Ones,Selena,68,2022-01-01,2022-09-24,101,4
+407,Doo-Wops & Hooligans,Bruno Mars,59,2022-03-05,2022-09-17,100,5
+408,I Am The Moon: I. Crescent (EP),Tedeschi Trucks Band,24,2022-06-18,2022-09-24,98,2
+409,Snow Waltz,Lindsey Stirling,21,2022-10-22,2022-11-05,97,3
+410,Circles,Mac Miller,71,2022-01-01,2022-11-05,97,8
+411,Fashion Nugget,Cake,14,2022-07-23,2022-07-30,95,2
+412,Greatest Hits,The Police,17,2022-04-30,2022-05-14,95,2
+413,Hot Pink,Doja Cat,64,2022-05-07,2022-05-28,94,4
+414,Torches,Foster The People,25,2022-04-23,2022-04-30,92,2
+415,Physical,Olivia Newton-John,30,2022-06-11,2022-08-27,91,2
+416,Whole Lotta Red,Playboi Carti,49,2022-01-01,2022-01-08,91,2
+417,Always Only Jesus,MercyMe,11,2022-11-05,2022-11-05,90,1
+418,Pain Remains,Lorna Shore,11,2022-10-29,2022-10-29,90,1
+419,Young Blood,Marcus King,11,2022-09-10,2022-09-10,90,1
+420,Dreamland,Amos Lee,11,2022-02-26,2022-02-26,90,1
+421,Physical Thrills,Silversun Pickups,11,2022-09-03,2022-09-03,90,1
+422,Skinty Fia,FONTAINES D.C.,38,2022-05-07,2022-05-14,90,2
+423,Tron: Legacy (Soundtrack),Daft Punk,50,2022-01-15,2022-01-29,90,3
+424,Toy,David Bowie,12,2022-01-22,2022-01-22,89,1
+425,Tell All Your Friends,Taking Back Sunday,12,2022-06-11,2022-06-11,89,1
+426,Raw ('That Little Ol' Band From Texas') (Soundtrack),ZZ Top,12,2022-08-06,2022-08-06,89,1
+427,"LP On LP 03: Recorded Live August 22, 2015, Magnaball - Watkins Glen...",Phish,12,2022-08-27,2022-08-27,89,1
+428,Moonchild Mixes,Selena,12,2022-09-10,2022-09-10,89,1
+429,Montega,French Montana & Harry Fraud,12,2022-07-09,2022-07-09,89,1
+430,Emails I Can't Send,Sabrina Carpenter,12,2022-07-30,2022-07-30,89,1
+431,How Do You Burn?,The Afghan Whigs,12,2022-09-24,2022-09-24,89,1
+432,Ego Trip,Papa Roach,12,2022-04-23,2022-04-23,89,1
+433,Vaudeville Villain,Viktor Vaughn AKA MF Doom,12,2022-07-02,2022-07-02,89,1
+434,Vessel,twenty one pilots,43,2022-01-29,2022-02-05,89,2
+435,Citizen Kane Jr. Blues,Neil Young,55,2022-05-21,2022-06-04,89,2
+436,Wasteland,Brent Faiyaz,13,2022-07-23,2022-07-23,88,1
+437,The Final Battle,Stryper,13,2022-11-05,2022-11-05,88,1
+438,Tough Love (EP),Teddy Swims,13,2022-02-05,2022-02-05,88,1
+439,Lavender Days,CAAMP,13,2022-07-09,2022-07-09,88,1
+440,ØF KINGDØM AND CRØWN,Machine Head,13,2022-09-10,2022-09-10,88,1
+441,Kings Of The New Age,State Champs,13,2022-05-28,2022-05-28,88,1
+442,The Royal Tenenbaums,Soundtrack,13,2022-07-02,2022-07-02,88,1
+443,"Blue Highlights: Demos, Outtakes, Live",Joni Mitchell,13,2022-05-07,2022-05-07,88,1
+444,Magic,Nas,21,2022-01-08,2022-01-15,88,2
+445,Discovery,Daft Punk,29,2022-03-05,2022-03-19,88,3
+446,Ramona Park Broke My Heart,Vince Staples,44,2022-04-23,2022-05-21,88,2
+447,Unplugged,Eric Clapton,14,2022-06-04,2022-06-04,87,1
+448,"The Clifford Ball: Flatbread Jam, August 16, 1996",Phish,14,2022-03-19,2022-03-19,87,1
+449,$oul $old $eparately,Freddie Gibbs,14,2022-10-15,2022-10-15,87,1
+450,The Gang's All Here,Skid Row,14,2022-10-29,2022-10-29,87,1
+451,Homework,Daft Punk,14,2022-05-21,2022-05-21,87,1
+452,All 4 Nothing,Lauv,14,2022-08-20,2022-08-20,87,1
+453,I Used To Think I Could Fly,Tate McRae,14,2022-06-11,2022-06-11,87,1
+454,Kid Krow,Conan Gray,14,2022-03-05,2022-03-05,87,1
+455,"Bridgerton, Season Two (Covers From The Netflix Series)",Soundtrack,56,2022-04-09,2022-04-16,87,2
+456,LLD (Long Live Young Dolph),Various Artists,15,2022-02-05,2022-02-05,86,1
+457,Around The World: Restored & Expanded,The Police,15,2022-06-04,2022-06-04,86,1
+458,The Elephants Of Mars,Joe Satriani,15,2022-04-23,2022-04-23,86,1
+459,Into The Blue,Broken Bells,15,2022-10-22,2022-10-22,86,1
+460,DS4EVER,Gunna,15,2022-01-22,2022-01-22,86,1
+461,Welcome 2 Club XIII,Drive-By Truckers,15,2022-06-18,2022-06-18,86,1
+462,A Bit Of Previous,Belle And Sebastian,15,2022-05-21,2022-05-21,86,1
+463,Moodswings In To Order,DPR IAN,15,2022-08-13,2022-08-13,86,1
+464,Czarmageddon!,CZARFACE,15,2022-05-07,2022-05-07,86,1
+465,Thursday,The Weeknd,15,2022-05-14,2022-05-14,86,1
+466,A Family Christmas,"Matteo, Andrea & Virginia Bocelli",15,2022-11-05,2022-11-05,86,1
+467,Thee Sacred Souls,Thee Sacred Souls,28,2022-09-10,2022-09-24,86,2
+468,Get On Board: The Songs Of Sonny Terry & Brownie McGhee,Taj Mahal & Ry Cooder,32,2022-05-07,2022-05-14,86,2
+469,Deceivers,Arch Enemy,16,2022-08-27,2022-08-27,85,1
+470,C'mon You Know,Liam Gallagher,16,2022-06-11,2022-06-11,85,1
+471,The Hum Goes On Forever,The Wonder Years,16,2022-10-08,2022-10-08,85,1
+472,Sage Motel,Monophonics,16,2022-05-28,2022-05-28,85,1
+473,All The Truth That I Can Tell,Dashboard Confessional,16,2022-03-12,2022-03-12,85,1
+474,DS2,Future,16,2022-05-07,2022-05-07,85,1
+475,Survivor's Guilt,Mozzy,16,2022-08-06,2022-08-06,85,1
+476,The Alien Coast,St. Paul & The Broken Bones,16,2022-02-12,2022-02-12,85,1
+477,Spirits,Nothing More,16,2022-10-29,2022-10-29,85,1
+478,Sin Miedo (Del Amor y Otros Demonios),Kali Uchis,16,2022-07-02,2022-07-02,85,1
+479,Doggerel,Pixies,16,2022-10-15,2022-10-15,85,1
+480,"Dave's Picks Volume 1: The Mosque, Richmond, VA: 5/25/77",Grateful Dead,16,2022-05-14,2022-05-14,85,1
+481,"KISS Off The Soundboard:Veterans Memorial Auditorium,Des Moines,Nov.29,1977",KISS,16,2022-09-24,2022-09-24,85,1
+482,I Dream Of Christmas,Norah Jones,48,2022-01-01,2022-01-08,85,2
+483,Under The Midnight Sun,The Cult,17,2022-10-22,2022-10-22,84,1
+484,Remade In Misery,Memphis May Fire,17,2022-06-18,2022-06-18,84,1
+485,Paradise Again,Swedish House Mafia,17,2022-10-08,2022-10-08,84,1
+486,A Tribute To Led Zeppelin,Beth Hart,17,2022-03-12,2022-03-12,84,1
+487,"Miles Davis Live:  What It Is, Montreal 7/7/83",Miles Davis,17,2022-07-02,2022-07-02,84,1
+488,Take Me Home,One Direction,17,2022-07-30,2022-07-30,84,1
+489,Color Decay,The Devil Wears Prada,17,2022-10-01,2022-10-01,84,1
+490,I Am The Moon: IV. Farewell (EP),Tedeschi Trucks Band,17,2022-09-10,2022-09-10,84,1
+491,The Joy Of Music,Ben Rector,17,2022-03-26,2022-03-26,84,1
+492,So... How's Your Girl?,Handsome Boy Modeling School,17,2022-05-07,2022-05-07,84,1
+493,Nothing But The Blues,Eric Clapton,25,2022-07-09,2022-08-13,84,2
+494,Taylor Swift,Taylor Swift,49,2022-04-23,2022-05-21,84,3
+495,Revolver,The Beatles,66,2022-01-01,2022-01-22,84,4
+496,Stereotype,Cole Swindell,18,2022-04-23,2022-04-23,83,1
+497,Brilliant Adventure EP,David Bowie,18,2022-05-07,2022-05-07,83,1
+498,Leave The Light On,Bailey Zimmerman,18,2022-10-29,2022-10-29,83,1
+499,Legend,John Legend,18,2022-09-24,2022-09-24,83,1
+500,Main Offender,Keith Richards,18,2022-04-02,2022-04-02,83,1
+501,Growing Up,The Linda Lindas,18,2022-07-30,2022-07-30,83,1
+502,What's It Gonna Take?,Van Morrison,18,2022-06-04,2022-06-04,83,1
+503,Lucy Ford: The Atmospehre EP's,Atmosphere,18,2022-06-11,2022-06-11,83,1
+504,Bobby Weir & Wolf Bros: Live In Colorado (Vol. 2),Bobby Weir & Wolf Bros,18,2022-10-22,2022-10-22,83,1
+505,Third Eye Blind,Third Eye Blind,18,2022-09-17,2022-09-17,83,1
+506,Echoes Of Silence,The Weeknd,18,2022-07-16,2022-07-16,83,1
+507,Core,Stone Temple Pilots,56,2022-02-19,2022-10-08,83,3
+508,An Hour Before It's Dark,Marillion,19,2022-03-19,2022-03-19,82,1
+509,Licked Live In NYC,Rolling Stones,19,2022-06-25,2022-06-25,82,1
+510,# 1's,Mariah Carey,19,2022-05-07,2022-05-07,82,1
+511,Wild In The Streets,Circle Jerks,19,2022-03-05,2022-03-05,82,1
+512,F.E.A.R.,Stand Atlantic,19,2022-05-21,2022-05-21,82,1
+513,Darker Still,Parkway Drive,19,2022-09-24,2022-09-24,82,1
+514,A Hundred Highways,Zach Williams,19,2022-10-15,2022-10-15,82,1
+515,Breezy,Chris Brown,19,2022-07-09,2022-07-09,82,1
+516,Emotional Creature,Beach Bunny,19,2022-08-06,2022-08-06,82,1
+517,Heal,The Rose,19,2022-10-22,2022-10-22,82,1
+518,Free LSD,OFF!,20,2022-10-15,2022-10-15,81,1
+519,Powers That B,Death Grips,20,2022-10-08,2022-10-08,81,1
+520,The Last Slimeto,YoungBoy Never Broke Again,20,2022-08-20,2022-08-20,81,1
+521,Heart On My Sleeve,Ella Mai,20,2022-05-21,2022-05-21,81,1
+522,Euphoria: Season 2,Soundtrack,20,2022-08-13,2022-08-13,81,1
+523,Parrhesia,Animals As Leaders,25,2022-04-09,2022-04-16,81,2
+524,Bon Iver,Bon Iver,21,2022-04-09,2022-04-09,80,1
+525,Born For This Moment,Chicago,21,2022-07-30,2022-07-30,80,1
+526,Dripfield,Goose,21,2022-07-09,2022-07-09,80,1
+527,Ancient Dreams In A Modern Land,MARINA,21,2022-03-26,2022-03-26,80,1
+528,Mark Tremonti Sings Frank Sinatra,Mark Tremonti,21,2022-06-11,2022-06-11,80,1
+529,The Blues Don't Lie,Buddy Guy,21,2022-10-15,2022-10-15,80,1
+530,We The Kingdom,We The Kingdom,21,2022-10-01,2022-10-01,80,1
+531,1972 (EP),The Black Crowes,34,2022-05-21,2022-05-28,80,2
+532,LP3,Hippo Campus,22,2022-02-19,2022-02-19,79,1
+533,Bat Out Of Hell II: Back Into Hell,Meat Loaf,22,2022-02-05,2022-02-05,79,1
+534,Hold The Girl,Rina Sawayama,22,2022-10-01,2022-10-01,79,1
+535,MUNA,MUNA,22,2022-07-09,2022-07-09,79,1
+536,Terror Twilight,Pavement,22,2022-04-23,2022-04-23,79,1
+537,Ragged But Right,Jerry Garcia Acoustic Band,22,2022-07-02,2022-07-02,79,1
+538,This World Is Going To Ruin You,Vein.Fm,22,2022-03-19,2022-03-19,79,1
+539,Cold As Weiss,Delvon Lamarr Organ Trio,22,2022-02-26,2022-02-26,79,1
+540,Before After,Daryl Hall,22,2022-04-16,2022-04-16,79,1
+541,Chronic Town (EP),R.E.M.,22,2022-09-03,2022-09-03,79,1
+542,Anthem,Flogging Molly,22,2022-09-24,2022-09-24,79,1
+543,I'm So Free: The 1971 RCA Demos,Lou Reed,22,2022-05-07,2022-05-07,79,1
+544,There And Back Again,Eric Nam,22,2022-06-18,2022-06-18,79,1
+545,Pyromania,Def Leppard,63,2022-05-21,2022-08-27,79,4
+546,Chicamacomico,American Aquarium,23,2022-06-25,2022-06-25,78,1
+547,Hesitant Alien,Gerard Way,23,2022-07-02,2022-07-02,78,1
+548,"Live At Wembley Empire Pool, London, England (4/8/72)",Grateful Dead,23,2022-05-07,2022-05-07,78,1
+549,What It Means To Be King,King Von,23,2022-03-19,2022-03-19,78,1
+550,Black Radio III,Robert Glasper,23,2022-03-12,2022-03-12,78,1
+551,I Am The Moon: II. Ascension,Tedeschi Trucks Band,23,2022-07-16,2022-07-16,78,1
+552,Always,Chris Tomlin,23,2022-09-24,2022-09-24,78,1
+553,Noise & Flowers,Neil Young + Promise Of The Real,23,2022-08-20,2022-08-20,78,1
+554,Expert In A Dying Field,The Beths,23,2022-10-01,2022-10-01,78,1
+555,The God Machine,Blind Guardian,23,2022-09-17,2022-09-17,78,1
+556,A Eulogy For Those Still Here,Counterparts,23,2022-10-22,2022-10-22,78,1
+557,In Rainbows,Radiohead,60,2022-01-22,2022-08-13,78,4
+558,[Hybrid Theory],Linkin Park,77,2022-02-26,2022-09-24,78,5
+559,Crybaby,Tegan And Sara,24,2022-11-05,2022-11-05,77,1
+560,Bloodmoon - I,Converge & Chelsea Wolfe,24,2022-07-09,2022-07-09,77,1
+561,More Hot Rocks (Big Hits & Fazed Cookies),Rolling Stones,24,2022-05-07,2022-05-07,77,1
+562,Disciplined Breakdown,Collective Soul,24,2022-07-02,2022-07-02,77,1
+563,Gnosis,Russian Circles,24,2022-09-03,2022-09-03,77,1
+564,Envy Of None,Envy Of None,24,2022-04-23,2022-04-23,77,1
+565,Covers,Cat Power,24,2022-01-29,2022-01-29,77,1
+566,Gangsta Art,Various Artists,24,2022-07-30,2022-07-30,77,1
+567,Lost In Translation,Soundtrack,24,2022-01-22,2022-01-22,77,1
+568,People's Champ,Upchurch,24,2022-02-19,2022-02-19,77,1
+569,Toy E.P.,David Bowie,25,2022-05-07,2022-05-07,76,1
+570,Drif,Heilung,25,2022-09-03,2022-09-03,76,1
+571,Pep,LIGHTS,25,2022-04-16,2022-04-16,76,1
+572,Misadventures Of Doomscroller,Dawes,25,2022-08-06,2022-08-06,76,1
+573,Suckerpunch,Maggie Lindemann,25,2022-10-01,2022-10-01,76,1
+574,Kingdom: Book One,Maverick City Music X Kirk Franklin,25,2022-07-02,2022-07-02,76,1
+575,Fragments,Bonobo,25,2022-01-29,2022-01-29,76,1
+576,Rae,Ashe,25,2022-10-29,2022-10-29,76,1
+577,Ukulele Songs,Eddie Vedder,25,2022-05-21,2022-05-21,76,1
+578,Pre Pleasure,Julia Jacklin,25,2022-09-10,2022-09-10,76,1
+579,Purple Hearts (Soundtrack),Sofia Carson,52,2022-08-13,2022-08-20,76,2
+580,LEGENDADDY,Daddy Yankee,57,2022-04-09,2022-10-08,76,2
+581,Unsuitable For Airplay - The Lost KFAI Concert,The Replacements,26,2022-05-07,2022-05-07,75,1
+582,Hate Uber Alles,Kreator,26,2022-06-25,2022-06-25,75,1
+583,"Home, Before And After",Regina Spektor,26,2022-07-09,2022-07-09,75,1
+584,Blue Skies,Dehd,26,2022-06-11,2022-06-11,75,1
+585,So Happy It Hurts,Bryan Adams,26,2022-03-26,2022-03-26,75,1
+586,Night Visions,Imagine Dragons,26,2022-09-24,2022-09-24,75,1
+587,Chaos In Bloom,Goo Goo Dolls,26,2022-08-27,2022-08-27,75,1
+588,Evergreen,Pentatonix,36,2022-01-01,2022-01-08,75,2
+589,Opvs Contra Natvram,Behemoth,27,2022-10-01,2022-10-01,74,1
+590,Darkbloom,We Came As Romans,27,2022-10-29,2022-10-29,74,1
+591,L.A. Woman Sessions,The Doors,27,2022-05-07,2022-05-07,74,1
+592,No Code,Pearl Jam,27,2022-04-30,2022-04-30,74,1
+593,In/Out/In,Sonic Youth,27,2022-04-02,2022-04-02,74,1
+594,It's Hard,The Who,27,2022-07-02,2022-07-02,74,1
+595,Harold And Maude (Soundtrack),Cat Stevens,27,2022-02-26,2022-02-26,74,1
+596,Jude,Julian Lennon,27,2022-09-24,2022-09-24,74,1
+597,KISS Off The Soundboard: Live At Donington [Monsters Of Rock],KISS,27,2022-06-25,2022-06-25,74,1
+598,Not Just A Girl: The Highlights (Soundtrack),Shania Twain,27,2022-09-17,2022-09-17,74,1
+599,Best Day Ever,Mac Miller,35,2022-04-02,2022-04-16,74,2
+600,ABC,Jackson 5,28,2022-05-07,2022-05-07,73,1
+601,Second Nature,Lucius,28,2022-04-23,2022-04-23,73,1
+602,Vibrating,Collective Soul,28,2022-08-27,2022-08-27,73,1
+603,Alive 2007,Daft Punk,28,2022-09-24,2022-09-24,73,1
+604,No More Worlds To Conquer,Robin Trower,28,2022-05-14,2022-05-14,73,1
+605,I Am The Moon: III. The Fall (EP),Tedeschi Trucks Band,28,2022-08-13,2022-08-13,73,1
+606,11:11,Pinegrove,29,2022-02-12,2022-02-12,72,1
+607,Live From Coachella (2004),Pixies,29,2022-05-07,2022-05-07,72,1
+608,A Tear In The Fabric Of Life (EP),Knocked Loose,29,2022-01-15,2022-01-15,72,1
+609,"Sing Me A Lullaby, My Sweet Temptation",$uicideBoy$,29,2022-08-13,2022-08-13,72,1
+610,Going To Hell,The Pretty Reckless,29,2022-04-02,2022-04-02,72,1
+611,Rakshak,Bloodywood,35,2022-03-05,2022-05-28,72,2
+612,.5: The Gray Chapter,Slipknot,30,2022-08-06,2022-08-06,71,1
+613,BALLADS 1,Joji,30,2022-03-12,2022-03-12,71,1
+614,The Piper At The Gates Of Dawn,Pink Floyd,30,2022-03-19,2022-03-19,71,1
+615,Everything Was Beautiful,Spiritualized,30,2022-05-07,2022-05-07,71,1
+616,Totem,Soulfly,30,2022-08-20,2022-08-20,71,1
+617,Feel The Void,Hot Water Music,30,2022-04-02,2022-04-02,71,1
+618,Happy Like That,Mat & Savanna Shaw,30,2022-08-13,2022-08-13,71,1
+619,Jerry Jeff,Steve Earle & The Dukes,30,2022-09-10,2022-09-10,71,1
+620,CAPRISONGS,FKA twigs,30,2022-10-08,2022-10-08,71,1
+621,Labyrinthitis,Destroyer,30,2022-04-09,2022-04-09,71,1
+622,Marvel Studios Wandavision: Music From,Soundtrack,45,2022-02-05,2022-03-05,71,2
+623,Pompeii,Cate Le Bon,31,2022-02-19,2022-02-19,70,1
+624,"Live At The Texas Opry House, 1974",Willie Nelson,31,2022-05-07,2022-05-07,70,1
+625,Inside Problems,Andrew Bird,31,2022-06-18,2022-06-18,70,1
+626,Take It Like A Man,Amanda Shires,31,2022-08-13,2022-08-13,70,1
+627,"Funk Wav Bounces, Vol. 2",Calvin Harris,31,2022-08-20,2022-08-20,70,1
+628,Dream Widow,Dream Widow,31,2022-04-09,2022-04-09,70,1
+629,The Asylum Albums (1972–1975),Joni Mitchell,31,2022-10-08,2022-10-08,70,1
+630,DeAnn,Zach Bryan,31,2022-02-05,2022-02-05,70,1
+631,You Are Cordially Invited... A Tribute To The Rolling Stones,Lucinda Williams,31,2022-02-12,2022-02-12,70,1
+632,Sticking With It,The Dip,31,2022-03-19,2022-03-19,70,1
+633,Country Coming Down,Paul Cauthen,31,2022-04-16,2022-04-16,70,1
+634,Purgatory,Tyler Childers,54,2022-02-05,2022-02-12,70,2
+635,The Money Store,Death Grips,32,2022-06-18,2022-06-18,69,1
+636,Hell On Church Street,Punch Brothers,32,2022-01-29,2022-01-29,69,1
+637,Last Ones Left,42 Dugg & EST Gee,32,2022-04-23,2022-04-23,69,1
+638,McCartney I / II / III,Paul McCartney,32,2022-08-20,2022-08-20,69,1
+639,"GarciaLive: Volume 18, Keystone Berkeley, November 2nd, 1974",Jerry Garcia & Merl Saunders,32,2022-06-25,2022-06-25,69,1
+640,Living In Clip,Ani DiFranco,32,2022-08-13,2022-08-13,69,1
+641,Sweet Tooth,Mom Jeans.,32,2022-03-12,2022-03-12,69,1
+642,Love Always,Dallas String Quartet,32,2022-10-22,2022-10-22,69,1
+643,Hell Is In Your Head,Senses Fail,32,2022-07-30,2022-07-30,69,1
+644,HiROQUEST: Genesis,Steve Aoki,32,2022-10-01,2022-10-01,69,1
+645,Zombies 3,Soundtrack,47,2022-07-30,2022-08-06,69,2
+646,Royce Hall 1971,Neil Young,65,2022-05-21,2022-06-18,69,2
+647,Hell Paso,Koe Wetzel,33,2022-10-01,2022-10-01,68,1
+648,Brother Johnny,Edgar Winter,33,2022-04-30,2022-04-30,68,1
+649,The Sire Albums 1981-1989,The Ramones,33,2022-05-07,2022-05-07,68,1
+650,Spaceships On The Blade,Larry June,33,2022-09-03,2022-09-03,68,1
+651,FOREVERANDEVERNOMORE,Brian Eno,33,2022-10-29,2022-10-29,68,1
+652,A Saucerful Of Secrets,Pink Floyd,33,2022-05-14,2022-05-14,68,1
+653,Live Blood,Peter Gabriel / The New Blood Orchestra Conducted By Ben Foster,33,2022-07-02,2022-07-02,68,1
+654,Check Your Head,Beastie Boys,33,2022-08-27,2022-08-27,68,1
+655,Five Seconds Flat,Lizzy McAlpine,33,2022-09-10,2022-09-10,68,1
+656,The Batman,Soundtrack,39,2022-03-12,2022-03-19,68,2
+657,"Live At The Los Angeles Music Center Dorothy Chandler Pavilion February1,19",Neil Young,61,2022-05-21,2022-06-18,68,2
+658,Otherness,AlexisOnFire,34,2022-07-09,2022-07-09,67,1
+659,Wilderness Of Mirrors,The Black Angels,34,2022-10-01,2022-10-01,67,1
+660,Denim & Diamonds,Nikki Lane,34,2022-10-08,2022-10-08,67,1
+661,Drillmatic Heart Vs. Mind,The Game,34,2022-08-27,2022-08-27,67,1
+662,Older,George Michael,34,2022-10-15,2022-10-15,67,1
+663,Livin' My Best Life,Dylan Scott,34,2022-08-20,2022-08-20,67,1
+664,Songs About You,Brett Eldredge,34,2022-07-02,2022-07-02,67,1
+665,Acoustics,Joan Jett And The Blackhearts,34,2022-05-07,2022-05-07,67,1
+666,Stumpwork,Dry Cleaning,34,2022-11-05,2022-11-05,67,1
+667,The Comeback,Zac Brown Band,35,2022-10-15,2022-10-15,66,1
+668,Apricot Princess,Rex Orange County,35,2022-05-07,2022-05-07,66,1
+669,All Hope Is Gone,Slipknot,35,2022-09-10,2022-09-10,66,1
+670,To Only A Few At First,Royal Coda,35,2022-08-27,2022-08-27,66,1
+671,Folk Singer,Muddy Waters,35,2022-03-19,2022-03-19,66,1
+672,Ultimate Aaliyah,Aaliyah,36,2022-10-01,2022-10-01,65,1
+673,100 Proof Neon,Ronnie Dunn,36,2022-08-13,2022-08-13,65,1
+674,Netherheaven,Revocation,36,2022-09-24,2022-09-24,65,1
+675,Dope Don't Sell Itself,2 Chainz,36,2022-02-19,2022-02-19,65,1
+676,Load,Metallica,36,2022-07-02,2022-07-02,65,1
+677,Kellyoke (EP),Kelly Clarkson,47,2022-06-18,2022-06-25,65,2
+678,The Evolution Of Tears,The Gentle Men,37,2022-01-22,2022-01-22,64,1
+679,Live From The Astroturf,Alice Cooper,37,2022-10-15,2022-10-15,64,1
+680,Waiting For Columbus,Little Feat,37,2022-08-13,2022-08-13,64,1
+681,Crackdown,GA-20,37,2022-09-24,2022-09-24,64,1
+682,Moss,Maya Hawke,37,2022-10-08,2022-10-08,64,1
+683,Hygiene,Drug Church,37,2022-03-26,2022-03-26,64,1
+684,In Tongues (EP),Joji,50,2022-01-29,2022-02-19,64,2
+685,NOW That's What I Call Pride,Various Artists,53,2022-06-04,2022-06-11,64,2
+686,Be The Cowboy,Mitski,56,2022-06-25,2022-08-06,64,3
+687,Queen Radio: Volume 1,Nicki Minaj,38,2022-09-10,2022-09-10,63,1
+688,Loner,Alison Wonderland,38,2022-05-21,2022-05-21,63,1
+689,Wild Loneliness,Superchunk,38,2022-03-12,2022-03-12,63,1
+690,The Classic Symptoms Of A Broken Spirit,Architects,38,2022-11-05,2022-11-05,63,1
+691,Mid-Atlantic Dub,Bumpin Uglies,38,2022-10-01,2022-10-01,63,1
+692,Versions Of Modern Performance,Horsegirl,38,2022-06-18,2022-06-18,63,1
+693,Drill Music In Zion,Lupe Fiasco,42,2022-09-10,2022-10-01,63,2
+694,Still,Steven Curtis Chapman,39,2022-10-29,2022-10-29,62,1
+695,Remembering Dolores,The Cranberries,39,2022-05-07,2022-05-07,62,1
+696,Death Magnetic,Metallica,39,2022-07-02,2022-07-02,62,1
+697,Carry Me Home,Mavis Staples / Levon Helm,39,2022-06-04,2022-06-04,62,1
+698,Oracular Spectacular,MGMT,39,2022-10-15,2022-10-15,62,1
+699,Follow The Leader,Korn,39,2022-09-03,2022-09-03,62,1
+700,The Art Of Survival,Bush,39,2022-10-22,2022-10-22,62,1
+701,Tapestry,Carole King,39,2022-01-29,2022-01-29,62,1
+702,When Facing The Things We Turn Away From,Luke Hemmings,48,2022-03-12,2022-04-09,62,2
+703,Art Pepper Meets The Rhythm Section,Art Pepper,40,2022-05-07,2022-05-07,61,1
+704,All Things New,Tye Tribbett,40,2022-07-23,2022-07-23,61,1
+705,Inviolate,Steve Vai,40,2022-02-12,2022-02-12,61,1
+706,This Is A Photograph,Kevin Morby,40,2022-05-28,2022-05-28,61,1
+707,Dirt Femme,Tove Lo,40,2022-10-29,2022-10-29,61,1
+708,Grease,Soundtrack,59,2022-08-20,2022-08-27,61,2
+709,Medicine At Midnight,Foo Fighters,70,2022-04-09,2022-07-23,61,3
+710,"MMJ Live, Vol. 2: 11/5/21, Auditorium Theatre, Chicago, IL",My Morning Jacket,41,2022-11-05,2022-11-05,60,1
+711,Midnight Control,Dirty Heads,41,2022-09-10,2022-09-10,60,1
+712,In Real Life,Mandy Moore,41,2022-05-28,2022-05-28,60,1
+713,The Complete Thom Bell Sessions,Elton John,41,2022-05-07,2022-05-07,60,1
+714,Butterfly 3001,King Gizzard And The Lizard Wizard,41,2022-02-05,2022-02-05,60,1
+715,"Something Borrowed, Something New: A Tribute To John Anderson",Various Artists,41,2022-08-20,2022-08-20,60,1
+716,Relaxin' With The Miles Davis Quintet,The Miles Davis Quintet,41,2022-05-21,2022-05-21,60,1
+717,Hounds Of Love,Kate Bush,45,2022-06-11,2022-06-18,60,2
+718,Merry Christmas,Mariah Carey,45,2022-01-01,2022-01-08,60,2
+719,Outdated Emotion,Delbert McClinton,42,2022-05-28,2022-05-28,59,1
+720,Curated By Records Store Day,Patti Smith,42,2022-05-07,2022-05-07,59,1
+721,Into The Woods,2022 Broadway Cast Recording,42,2022-10-15,2022-10-15,59,1
+722,Never Let Me Go,Placebo,42,2022-04-09,2022-04-09,59,1
+723,Human After All,Daft Punk,42,2022-09-24,2022-09-24,59,1
+724,The Stranger,Billy Joel,42,2022-03-05,2022-03-05,59,1
+725,External Combustion,Mike Campbell & The Dirty Knobs,42,2022-03-19,2022-03-19,59,1
+726,Hits To The Head,Franz Ferdinand,42,2022-03-26,2022-03-26,59,1
+727,The Cage EP,Billy Idol,42,2022-10-08,2022-10-08,59,1
+728,Follow Your Heart,Michael Franti + Spearhead,43,2022-06-18,2022-06-18,58,1
+729,Made in Timeland (EP),King Gizzard And The Lizard Wizard,43,2022-03-19,2022-03-19,58,1
+730,BLVNCO,Millyz,43,2022-06-11,2022-06-11,58,1
+731,Garage Inc.,Metallica,43,2022-07-02,2022-07-02,58,1
+732,Snofall,Jeezy & DJ Drama,43,2022-11-05,2022-11-05,58,1
+733,The Death Of Peace Of Mind,Bad Omens,43,2022-03-12,2022-03-12,58,1
+734,Eldorado: A Symphony By The Electroic Light Orchestra,Electric Light Orchestra,43,2022-04-09,2022-04-09,58,1
+735,Blue Velvet,Soundtrack,43,2022-05-07,2022-05-07,58,1
+736,Feelin' The Spirit,Grant Green / Herbie Hancock / Butch Warren / Billy Higgins / Garvin Masseaux,44,2022-10-22,2022-10-22,57,1
+737,Whitey Ford Sings The Blues,Everlast,44,2022-05-07,2022-05-07,57,1
+738,Back For Everything,Kodak Black,44,2022-03-12,2022-03-12,57,1
+739,Endwalker: Final Fantasy XIV,Soundtrack,44,2022-03-05,2022-03-05,57,1
+740,Duke Ellington & John Coltrane,Duke Ellington & John Coltrane,44,2022-03-26,2022-03-26,57,1
+741,2014 Forest Hills Drive,J. Cole,67,2022-01-01,2022-01-08,57,2
+742,ReLoad,Metallica,45,2022-07-02,2022-07-02,56,1
+743,7220,Lil Durk,45,2022-03-26,2022-03-26,56,1
+744,Ashley McBryde Presents: Lindeville,Ashley McBryde,45,2022-10-15,2022-10-15,56,1
+745,Crooked Tree,Molly Tuttle & Golden Highway,45,2022-04-16,2022-04-16,56,1
+746,Greatest Hits,Al Green,82,2022-01-01,2022-02-19,56,7
+747,From The New World,Alan Parsons,46,2022-07-30,2022-07-30,55,1
+748,Further Joy,The Regrettes,46,2022-04-23,2022-04-23,55,1
+749,Merge,Lawrence Flowers & Intercession,46,2022-02-26,2022-02-26,55,1
+750,Pulse Of The Early Brain [Switched On Volume 5],Stereolab,46,2022-09-17,2022-09-17,55,1
+751,Belle (English Edition),Soundtrack,46,2022-11-05,2022-11-05,55,1
+752,Vol. 3: (The Subliminal Verses),Slipknot,47,2022-07-02,2022-07-02,54,1
+753,This Is The Heavy,Mitchell Tenpenny,47,2022-10-01,2022-10-01,54,1
+754,Cream Of The Crop 2003: Highlights 3LP Edition,The Allman Brothers Band,47,2022-05-07,2022-05-07,54,1
+755,Black Pumas,Black Pumas,83,2022-01-08,2022-01-29,54,4
+756,Joy In The Morning,Tauren Wells,48,2022-06-25,2022-06-25,53,1
+757,"White Trash, Two Heebs And A Bean",NOFX,48,2022-09-17,2022-09-17,53,1
+758,Pillow Talk,Tink,48,2022-09-03,2022-09-03,53,1
+759,Us Vs The Industry,Bryson Gray,48,2022-02-12,2022-02-12,53,1
+760,Girls Night Out,Babyface,48,2022-11-05,2022-11-05,53,1
+761,Young Forever,Nessa Barrett,48,2022-10-29,2022-10-29,53,1
+762,The Jimi Hendrix Experience,Jimi Hendrix,48,2022-04-30,2022-04-30,53,1
+763,Live At Glastonbury 2007,Amy Winehouse,48,2022-06-18,2022-06-18,53,1
+764,My Everything,Ariana Grande,64,2022-10-08,2022-10-15,53,2
+765,In These Times,Makaya McCraven,49,2022-10-08,2022-10-08,52,1
+766,Slanted And Enchanted,Pavement,49,2022-08-27,2022-08-27,52,1
+767,God's Work,LeAnn Rimes,49,2022-10-01,2022-10-01,52,1
+768,"Greatest Hits, Volume One: The Singles",The Goo Goo Dolls,49,2022-02-19,2022-02-19,52,1
+769,Multitude,Stromae,49,2022-03-19,2022-03-19,52,1
+770,Sticks And Stones,New Found Glory,49,2022-05-14,2022-05-14,52,1
+771,Kill 'Em All,Metallica,53,2022-09-03,2022-09-17,52,2
+772,Fierce Bliss,Ann Wilson,50,2022-05-14,2022-05-14,51,1
+773,Live In Loveland!,Delvon Lamarr Organ Trio,50,2022-05-07,2022-05-07,51,1
+774,Live From RCA Studio A (Jim James Acoustic) (EP),My Morning Jacket,50,2022-07-02,2022-07-02,51,1
+775,Everything I Know About Love,Laufey,50,2022-10-01,2022-10-01,51,1
+776,Olivia Newton-John's Greatest Hits,Olivia Newton-John,50,2022-11-05,2022-11-05,51,1
+777,The Clifford Ball,Phish,50,2022-03-19,2022-03-19,51,1
+778,Spider-Man: No Way Home,Soundtrack,50,2022-07-23,2022-07-23,51,1
+779,"Formula, Vol. 3",Romeo Santos,50,2022-09-17,2022-09-17,51,1
+780,The Nowhere Inn (Soundtrack),St. Vincent,51,2022-05-07,2022-05-07,50,1
+781,Love Can Build A Bridge: Best Of The Judds,The Judds,51,2022-07-16,2022-07-16,50,1
+782,The Agony & Ecstasy Of Watain,Watain,51,2022-05-14,2022-05-14,50,1
+783,Detour,Boney James,51,2022-10-08,2022-10-08,50,1
+784,The Sounds Of Lockdown,Home Free,51,2022-07-02,2022-07-02,50,1
+785,The Forever Story,JID,51,2022-09-10,2022-09-10,50,1
+786,Ready To Die,The Notorious B.I.G.,81,2022-01-01,2022-01-22,50,4
+787,"Inner Spirit:The 1979 Concert At The Teatro General San Martin,Buenos Aires",Bill Evans,52,2022-05-07,2022-05-07,49,1
+788,The Last Resort: Greetings From,Midland,52,2022-05-21,2022-05-21,49,1
+789,St. Anger,Metallica,52,2022-07-02,2022-07-02,49,1
+790,My Favorite Things,John Coltrane,59,2022-06-04,2022-06-11,49,2
+791,Kenny Burrell,Kenny Burrell,53,2022-10-22,2022-10-22,48,1
+792,Zappa '75: Zagreb/Ljubljana,Frank Zappa,53,2022-10-29,2022-10-29,48,1
+793,In Loving Memory,blackbear,53,2022-09-10,2022-09-10,48,1
+794,"Morning Glory: The 1973 Concert At The Teatro Gran Rex, Buenos Aires",Bill Evans,53,2022-05-07,2022-05-07,48,1
+795,I Walked With You A Ways,Plains,54,2022-10-29,2022-10-29,47,1
+796,Fevers And Mirrors: A Companion (EP),Bright Eyes,54,2022-06-11,2022-06-11,47,1
+797,"Oh, No! It's Devo",Devo,54,2022-05-07,2022-05-07,47,1
+798,"tick, tick... BOOM!",Soundtrack,54,2022-06-18,2022-06-18,47,1
+799,Khaza,Kevin Gates,54,2022-07-02,2022-07-02,47,1
+800,Radiate Like This,Warpaint,54,2022-05-21,2022-05-21,47,1
+801,Cave World,Viagra Boys,54,2022-08-13,2022-08-13,47,1
+802,Dedication To Flesh,Spite,55,2022-09-03,2022-09-03,46,1
+803,Madison Square Garden 3/9/81,Grateful Dead,55,2022-10-08,2022-10-08,46,1
+804,11:11,Regina Spektor,55,2022-09-10,2022-09-10,46,1
+805,Yessie,Jessie Reyez,55,2022-10-01,2022-10-01,46,1
+806,Good To Be...,Keb' Mo',55,2022-02-05,2022-02-05,46,1
+807,Motown 1's,Various Artists,79,2022-01-01,2022-02-05,46,3
+808,Words & Music May 1965,Lou Reed,56,2022-11-05,2022-11-05,45,1
+809,From 2 To 3,Peach Pit,56,2022-03-19,2022-03-19,45,1
+810,EP3,Ringo Starr,56,2022-10-01,2022-10-01,45,1
+811,Bustin' + Dronin',Blur,56,2022-05-07,2022-05-07,45,1
+812,W,Boris,56,2022-02-05,2022-02-05,45,1
+813,Up All Night,One Direction,56,2022-08-13,2022-08-13,45,1
+814,Here It Is: A Tribute To Leonard Cohen,Various Artists,56,2022-10-29,2022-10-29,45,1
+815,Richer Than I Ever Been,Rick Ross,56,2022-02-12,2022-02-12,45,1
+816,Beatbox: The 2nd Album Repackage,NCT DREAM,61,2022-06-18,2022-07-09,45,3
+817,Stick Season,Noah Kahan,57,2022-10-29,2022-10-29,44,1
+818,Alpha Games,Bloc Party,57,2022-05-14,2022-05-14,44,1
+819,Ivory,Omar Apollo,57,2022-04-23,2022-04-23,44,1
+820,Electrified Brain,Municipal Waste,57,2022-07-16,2022-07-16,44,1
+821,Zero And Below,Crowbar,57,2022-03-19,2022-03-19,44,1
+822,Floating On A Dream,Avi Kaplan,57,2022-06-04,2022-06-04,44,1
+823,The Best Of Pentatonix Christmas,Pentatonix,57,2022-01-01,2022-01-01,44,1
+824,Tekkno,Electric Callboy,57,2022-10-01,2022-10-01,44,1
+825,King's Disease II,Nas,58,2022-04-09,2022-04-09,43,1
+826,"The Bootleg Series, Vol. 7: That's What Happened, 1982-1985",Miles Davis,58,2022-10-01,2022-10-01,43,1
+827,Forrest Gump,Soundtrack,58,2022-05-28,2022-05-28,43,1
+828,Dr. Feelgood,Motley Crue,59,2022-08-06,2022-08-06,42,1
+829,"Down By The River Thames, Sat: 5th December / Live 1 - 8 PM GMT",Liam Gallagher,59,2022-06-11,2022-06-11,42,1
+830,"KISS Off The Soundboard: Live In Virgina Beach, July 25, 2004",KISS,59,2022-03-26,2022-03-26,42,1
+831,Siamese Dream,The Smashing Pumpkins,62,2022-05-28,2022-06-04,42,2
+832,The Slow Rush,Tame Impala,79,2022-03-26,2022-05-07,42,3
+833,Greatest Hits,Blink-182,60,2022-04-09,2022-04-09,41,1
+834,R&B Money,Tank,60,2022-09-03,2022-09-03,41,1
+835,Manipulator,The Fall Of Troy,60,2022-10-15,2022-10-15,41,1
+836,AM Gold,Train,60,2022-06-04,2022-06-04,41,1
+837,John Coltrane And Johnny Hartman,John Coltrane And Johnny Hartman,60,2022-05-14,2022-05-14,41,1
+838,Zeal & Ardor,Zeal & Ardor,60,2022-02-26,2022-02-26,41,1
+839,MTV Unplugged In New York,Nirvana,60,2022-01-15,2022-01-15,41,1
+840,Angels Hung From The Arches Of Heaven,Goatwhore,60,2022-10-22,2022-10-22,41,1
+841,"Summer Of Soul (...Or, When The Revolution Could Not Be Televised)",Soundtrack,61,2022-02-12,2022-07-02,41,2
+842,1989,Taylor Swift,63,2022-06-25,2022-07-02,41,2
+843,Warm Chris,Aldous Harding,61,2022-04-09,2022-04-09,40,1
+844,The Rain Museum,Armor For Sleep,61,2022-09-24,2022-09-24,40,1
+845,Only Built For Infinity Links,Quavo & Takeoff,61,2022-10-22,2022-10-22,40,1
+846,High 'N' Dry,Def Leppard,61,2022-05-07,2022-05-07,40,1
+847,The Trouble With Fever,Michelle Branch,61,2022-10-01,2022-10-01,40,1
+848,1,The Beatles,67,2022-02-26,2022-07-23,40,3
+849,Music Of The Spheres,Coldplay,78,2022-01-01,2022-01-08,40,2
+850,Rage Against The Machine,Rage Against The Machine,85,2022-05-14,2022-08-27,40,6
+851,Rolling Papers,Wiz Khalifa,62,2022-04-23,2022-04-23,39,1
+852,Greatest Hits,Shania Twain,62,2022-08-13,2022-08-13,39,1
+853,Dying Is Your Latest Fashion,Escape The Fate,62,2022-02-12,2022-02-12,39,1
+854,Vol. 2,Jazz Sabbath,62,2022-05-07,2022-05-07,39,1
+855,I Got Issues,YG,62,2022-10-15,2022-10-15,39,1
+856,Playboy,Fireboy DML,62,2022-08-20,2022-08-20,39,1
+857,Carpe Diem,Saxon,63,2022-02-19,2022-02-19,38,1
+858,Face The River,Gavin DeGraw,63,2022-06-04,2022-06-04,38,1
+859,Beam Me Up Scotty,Nicki Minaj,63,2022-07-02,2022-07-02,38,1
+860,Overgivenheten,Soilwork,63,2022-09-03,2022-09-03,38,1
+861,All-Time Greatest Hits,The Judds,63,2022-05-14,2022-05-14,38,1
+862,Direction Of The Heart,Simple Minds,63,2022-11-05,2022-11-05,38,1
+863,BODR,Snoop Dogg,63,2022-02-26,2022-02-26,38,1
+864,Nymph,Shygirl,64,2022-10-15,2022-10-15,37,1
+865,Cocodrillo Turbo,Action Bronson,64,2022-10-22,2022-10-22,37,1
+866,Rumble Of Thunder,The Hu,80,2022-09-17,2022-10-01,37,2
+867,Night Call,Years & Years,65,2022-02-05,2022-02-05,36,1
+868,Breaking Point,Freddie Hubbard,65,2022-06-18,2022-06-18,36,1
+869,Chasing Ghosts,Stabbing Westward,65,2022-04-02,2022-04-02,36,1
+870,Manticore,Shovels & Rope,65,2022-03-05,2022-03-05,36,1
+871,"Sex, Drugs & Country Music",Wheeler Walker Jr.,65,2022-04-30,2022-04-30,36,1
+872,Live From Vienna 1967,The Dave Brubeck Trio,65,2022-05-07,2022-05-07,36,1
+873,Out Of The Blue,"Sonny Red With Wynton Kelly, Sam Jones, Paul Chambers, Roy Brooks & Jimmy Cobb",66,2022-04-16,2022-04-16,35,1
+874,Heavy Rocks (2022),Boris,66,2022-08-27,2022-08-27,35,1
+875,Ocean To Ocean,Tori Amos,66,2022-02-12,2022-02-12,35,1
+876,Sun's Signature (EP),Sun's Signature,66,2022-07-02,2022-07-02,35,1
+877,Summertime Blues,Zach Bryan,66,2022-07-30,2022-07-30,35,1
+878,The Blonde & Pink Albums,Trixie Mattel,66,2022-07-09,2022-07-09,35,1
+879,Live At Brixton Academy,Gojira,66,2022-05-07,2022-05-07,35,1
+880,Nirvana,Nirvana,85,2022-08-27,2022-09-17,35,3
+881,The Lyceum Theatre 1972: The Complete Recordings,Grateful Dead,67,2022-08-13,2022-08-13,34,1
+882,Trio '65,Bill Evans Trio,67,2022-07-02,2022-07-02,34,1
+883,Beautiful Mind,Rod Wave,67,2022-08-27,2022-08-27,34,1
+884,GOT7 (EP),GOT7,67,2022-06-04,2022-06-04,34,1
+885,About Time,Sabrina Claudio,67,2022-01-22,2022-01-22,34,1
+886,Jazz Dispensary: Super Skunk,Various Artists,67,2022-05-07,2022-05-07,34,1
+887,Fever Dreams Pts 1- 4,Johnny Marr,67,2022-03-12,2022-03-12,34,1
+888,Chemtrails Over The Country Club,Lana Del Rey,76,2022-01-08,2022-01-15,34,2
+889,Unorthodox Jukebox,Bruno Mars,81,2022-07-02,2022-07-09,34,2
+890,Detroit Muscle,Ted Nugent,68,2022-05-14,2022-05-14,33,1
+891,Vacation In The Underworld,EllefsonSoto,68,2022-10-22,2022-10-22,33,1
+892,The Gods We Can Touch,AURORA,68,2022-05-21,2022-05-21,33,1
+893,Live: Return Of The Storyteller,Todd Snider,68,2022-10-08,2022-10-08,33,1
+894,Face The Face,Pete Townshend's Deep End,68,2022-05-07,2022-05-07,33,1
+895,Seventh Rum Of A Seventh Rum,Alestorm,68,2022-07-09,2022-07-09,33,1
+896,Working Class Dog: 40th Anniversary Special Live Edition,Rick Springfield,68,2022-07-02,2022-07-02,33,1
+897,It's A Shame About Ray,The Lemonheads,68,2022-03-19,2022-03-19,33,1
+898,Against The Odds: 1974-1982,Blondie,68,2022-09-10,2022-09-10,33,1
+899,Random Access Memories,Daft Punk,82,2022-07-02,2022-07-09,33,2
+900,Drake Milligan (EP),Drake Milligan,69,2022-08-20,2022-08-20,32,1
+901,Complete Captured Live,Peter Tosh,69,2022-05-07,2022-05-07,32,1
+902,Purple,Stone Temple Pilots,71,2022-02-12,2022-02-19,32,2
+903,Illmatic,Nas,70,2022-05-14,2022-05-14,31,1
+904,More Of The Monkees,The Monkees,70,2022-04-30,2022-04-30,31,1
+905,No Love Deep Web,Death Grips,70,2022-10-22,2022-10-22,31,1
+906,Waterloo Sunset (EP),The Kinks,70,2022-07-02,2022-07-02,31,1
+907,Comalies XX,Lacuna Coil,70,2022-10-29,2022-10-29,31,1
+908,Thick As A Brick,Jethro Tull,70,2022-08-13,2022-08-13,31,1
+909,Radiance,The Dead Daisies,70,2022-10-15,2022-10-15,31,1
+910,Cancer Culture,Decapitated,71,2022-06-11,2022-06-11,30,1
+911,Hey Doll Baby,The Everly Brothers,71,2022-05-07,2022-05-07,30,1
+912,I Can Hear The Heart Beating As One,Yo La Tengo,71,2022-08-13,2022-08-13,30,1
+913,Impossible Princess,Kylie Minogue,71,2022-11-05,2022-11-05,30,1
+914,Orange Blood,Mt. Joy,71,2022-07-02,2022-07-02,30,1
+915,River Fools & Mountain Saints,Ian Noe,72,2022-04-09,2022-04-09,29,1
+916,Songwriter,Richard Marx,72,2022-10-15,2022-10-15,29,1
+917,"SIX: The Musical, Live On Opening Night",Original Broadway Cast,72,2022-05-21,2022-05-21,29,1
+918,Pain Into Power,Terror,73,2022-05-21,2022-05-21,28,1
+919,Painless,Nilufer Yanya,73,2022-03-19,2022-03-19,28,1
+920,From A Birds Eye View,Cordae,73,2022-01-29,2022-01-29,28,1
+921,Black Rain,Ozzy Osbourne,73,2022-06-04,2022-06-04,28,1
+922,Blood Sugar Sex Magik,Red Hot Chili Peppers,79,2022-04-16,2022-08-06,28,3
+923,I Will Always Love You: The Best Of Whitney Houston,Whitney Houston,82,2022-02-19,2022-02-26,28,2
+924,Adam's Apple,Wayne Shorter / Herbie Hancock / Reginald Workman / Joe Chambers,74,2022-09-03,2022-09-03,27,1
+925,"Milt Jackson With John Lewis, Percy Heath, Kenny Clarke, Lou Donaldson...","Milt Jackson With John Lewis, Percy Heath, Kenny Clarke, Lou Donaldson And The Thelonious Monk Quintet",74,2022-04-02,2022-04-02,27,1
+926,Blanco / Negro,Ricardo Arjona,74,2022-03-12,2022-03-12,27,1
+927,Red Balloon,Tank And The Bangas,74,2022-05-28,2022-05-28,27,1
+928,Entergalactic,Kid Cudi,74,2022-10-15,2022-10-15,27,1
+929,Christmas Eve And Other Stories,Trans-Siberian Orchestra,74,2022-01-01,2022-01-01,27,1
+930,Steady,Sloan,74,2022-11-05,2022-11-05,27,1
+931,Havasu,Pedro The Lion,75,2022-02-26,2022-02-26,26,1
+932,Fun Machine: The Sequel (EP),Lake Street Dive,75,2022-09-24,2022-09-24,26,1
+933,Paint This Town,Old Crow Medicine Show,75,2022-05-07,2022-05-07,26,1
+934,Hymns,Tasha Cobbs Leonard,75,2022-10-22,2022-10-22,26,1
+935,40 Oz. To Freedom,Sublime,75,2022-06-11,2022-06-11,26,1
+936,Blue,Joni Mitchell,76,2022-10-22,2022-10-29,26,2
+937,"rearviewmirror: Greatest Hits 1991-2003, Volume 2",Pearl Jam,76,2022-04-09,2022-04-09,25,1
+938,All In,Chris Janson,76,2022-05-14,2022-05-14,25,1
+939,20,matchbox 20,76,2022-02-26,2022-02-26,25,1
+940,Boston Accent,Matt Nathanson,76,2022-08-13,2022-08-13,25,1
+941,Space Force,Todd Rundgren,76,2022-10-29,2022-10-29,25,1
+942,Lil G.L. Presents: Jukebox Chaley,Charley Crockett,76,2022-05-07,2022-05-07,25,1
+943,The Christmas Song,Nat King Cole,76,2022-01-01,2022-01-01,25,1
+944,Happiness Begins,Jonas Brothers,77,2022-03-12,2022-03-12,24,1
+945,Rise Of Vikingr,Peyton Parrish,77,2022-09-10,2022-09-10,24,1
+946,Modern Lovers 88,Jonathan Richman And The Modern Lovers,77,2022-05-07,2022-05-07,24,1
+947,My Savior,Carrie Underwood,77,2022-01-01,2022-01-01,24,1
+948,To The Dead,Exhumed,77,2022-11-05,2022-11-05,24,1
+949,25,Adele,87,2022-01-22,2022-02-05,24,3
+950,Wild Life,Wings,78,2022-02-19,2022-02-19,23,1
+951,You Must Believe In Spring,Bill Evans Featuring Eddie Gomez And Eliot Zigmund,78,2022-06-18,2022-06-18,23,1
+952,"""Survival Of The Sickest""",Bloodbath,78,2022-09-24,2022-09-24,23,1
+953,La Fuerza (EP),Christina Aguilera,78,2022-02-05,2022-02-05,23,1
+954,So Far So Good,The Chainsmokers,78,2022-05-28,2022-05-28,23,1
+955,Juno,Soundtrack,78,2022-01-22,2022-01-22,23,1
+956,How Will I Laugh Tomorrow When I Can't Even Smile Today,Suicidal Tendencies,78,2022-05-14,2022-05-14,23,1
+957,Still Jealous,Tegan And Sara,78,2022-05-07,2022-05-07,23,1
+958,MM..Food,MF Doom,79,2022-06-11,2022-09-03,23,2
+959,Wish You Were Here,Pink Floyd,89,2022-01-29,2022-03-19,23,2
+960,V I N C E N T,FKJ,79,2022-06-25,2022-06-25,22,1
+961,A Drummer Boy Christmas,for KING & COUNTRY,79,2022-01-01,2022-01-01,22,1
+962,Through The Madness,Maddie & Tae,79,2022-02-12,2022-02-12,22,1
+963,"Broken Hearts & Dirty Windows: Songs Of John Prine, Vol. 2",Various Artists,79,2022-02-26,2022-02-26,22,1
+964,Gifts From The Holy Ghost,DOROTHY,79,2022-05-07,2022-05-07,22,1
+965,Crazy In Love: The 1st Album,iTZY,79,2022-01-08,2022-01-08,22,1
+966,Appetite For Destruction,Guns N' Roses,79,2022-09-10,2022-09-10,22,1
+967,Nightmare,Avenged Sevenfold,80,2022-02-19,2022-02-19,21,1
+968,"#1's,  Vol. 1 & Vol. 2",Luke Bryan,80,2022-10-15,2022-10-15,21,1
+969,Greatest Hits,Neil Young,80,2022-02-12,2022-02-12,21,1
+970,The Process Of Belief,Bad Religion,80,2022-06-25,2022-06-25,21,1
+971,Merry Christmas,Bing Crosby,80,2022-01-01,2022-01-01,21,1
+972,Fables In A Foreign Land,John Doe,80,2022-06-04,2022-06-04,21,1
+973,Time Waits,The Amazing Bud Powell,80,2022-04-02,2022-04-02,21,1
+974,Fuck The World,Brent Faiyaz,80,2022-06-18,2022-06-18,21,1
+975,Sable (Soundtrack),Japanese Breakfast,81,2022-04-23,2022-04-23,20,1
+976,The Original Recordings,Sex Pistols,81,2022-06-11,2022-06-11,20,1
+977,KOD,J. Cole,81,2022-10-22,2022-10-22,20,1
+978,Janet Jackson's Rhythm Nation 1814,Janet Jackson,81,2022-02-12,2022-02-12,20,1
+979,LaLaLaLoveSongs,Jason Mraz,81,2022-02-26,2022-02-26,20,1
+980,Avenged Sevenfold,Avenged Sevenfold,81,2022-02-19,2022-02-19,20,1
+981,God Don't Make Mistakes,Conway The Machine,81,2022-03-12,2022-03-12,20,1
+982,Lucero,Lucero,81,2022-01-29,2022-01-29,20,1
+983,Forever On My Mind,Son House,81,2022-04-02,2022-04-02,20,1
+984,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,81,2022-05-28,2022-05-28,20,1
+985,The Used,The Used,81,2022-09-24,2022-09-24,20,1
+986,This Mess We're In,Arlo McKinley,82,2022-07-30,2022-07-30,19,1
+987,Co-Starring Too,Ray Wylie Hubbard,82,2022-04-02,2022-04-02,19,1
+988,Look Up!,The Harlem Gospel Travelers,82,2022-10-01,2022-10-01,19,1
+989,Ley de Gravedad,Luis Fonsi,82,2022-03-26,2022-03-26,19,1
+990,Gold Rush Kid,George Ezra,82,2022-06-25,2022-06-25,19,1
+991,The Other Side,Mark Tuan,82,2022-10-08,2022-10-08,19,1
+992,Lifted,Trombone Shorty,82,2022-05-14,2022-05-14,19,1
+993,Inner Urge,Joe Henderson,82,2022-03-05,2022-03-05,19,1
+994,The Very Best Of Outlaw Country,Various Artists,92,2022-04-09,2022-05-14,19,3
+995,Famous Friends,Chris Young,83,2022-06-18,2022-06-18,18,1
+996,Dread Reaver,Abbath,83,2022-04-09,2022-04-09,18,1
+997,Songbird: A Solo Collection,Christine McVie,83,2022-07-09,2022-07-09,18,1
+998,40 Oz. To Fresno,Joyce Manor,83,2022-06-25,2022-06-25,18,1
+999,Crown,Eric Gales,83,2022-02-12,2022-02-12,18,1
+1000,Good Person,Ingrid Andress,83,2022-09-10,2022-09-10,18,1
+1001,Rolling Golden Holy,Bonny Light Horseman,83,2022-10-22,2022-10-22,18,1
+1002,Blue Hours,Bear's Den,83,2022-05-28,2022-05-28,18,1
+1003,Live - 1979,Bad Company,83,2022-05-07,2022-05-07,18,1
+1004,Cruella,Soundtrack,83,2022-04-02,2022-04-02,18,1
+1005,Non-Perishable,tobi lou,83,2022-03-26,2022-03-26,18,1
+1006,Life After Death,The Notorious B.I.G.,89,2022-06-25,2022-07-23,18,2
+1007,The Essential Elvis Presley,Elvis Presley,89,2022-08-27,2022-09-17,18,2
+1008,Generation Mind,Black Swan,84,2022-04-23,2022-04-23,17,1
+1009,Super Fly (Soundtrack),Curtis Mayfield,84,2022-09-10,2022-09-10,17,1
+1010,Mingus: The Lost Album From Ronnie Scott's,Charles Mingus,84,2022-05-07,2022-05-07,17,1
+1011,Gigaton (Tour Edition),Pearl Jam,84,2022-07-23,2022-07-23,17,1
+1012,Watertown,Frank Sinatra,84,2022-06-18,2022-06-18,17,1
+1013,A Heartless Portrait (The Orphean Testament),Evergrey,84,2022-06-04,2022-06-04,17,1
+1014,It's Time...To Rise From The Grave,Undeath,85,2022-05-07,2022-05-07,16,1
+1015,Life On Earth,Hurray For The Riff Raff,85,2022-03-05,2022-03-05,16,1
+1016,We Were Cowboys,Kameron Marlowe,85,2022-09-10,2022-09-10,16,1
+1017,The Band CAMINO,The Band CAMINO,85,2022-06-25,2022-06-25,16,1
+1018,Blue In The Sky,Dustin Lynch,85,2022-02-26,2022-02-26,16,1
+1019,Bone Palace Ballet,Chiodos,85,2022-02-19,2022-02-19,16,1
+1020,Arkhon,Zola Jesus,85,2022-07-09,2022-07-09,16,1
+1021,Deliverance,Corrosion Of Conformity,86,2022-03-12,2022-03-12,15,1
+1022,Against The Odds: 1974-1982 (Super Deluxe Box Set),Blondie,86,2022-09-10,2022-09-10,15,1
+1023,ye,Kanye West,86,2022-07-23,2022-07-23,15,1
+1024,Dallas / Fort Worth,Drake Milligan,86,2022-10-01,2022-10-01,15,1
+1025,Grand Theft Audio,Lone Wolf,86,2022-09-03,2022-09-03,15,1
+1026,Tenacious D,Tenacious D,86,2022-04-09,2022-04-09,15,1
+1027,Things Happen That Way,Dr. John,86,2022-10-08,2022-10-08,15,1
+1028,Love Yourself: Answer,BTS,86,2022-10-29,2022-10-29,15,1
+1029,"I Brought You My Bullets, You Brought Me Your Love.",My Chemical Romance,86,2022-06-25,2022-06-25,15,1
+1030,Nothing Face,Voivod,86,2022-07-02,2022-07-02,15,1
+1031,Midnight Marauders,A Tribe Called Quest,91,2022-07-30,2022-08-06,15,2
+1032,Complete Collapse,Sleeping With Sirens,87,2022-10-29,2022-10-29,14,1
+1033,Generator,Bad Religion,87,2022-09-24,2022-09-24,14,1
+1034,Regimental Sgt. Zippo,Elton John,87,2022-07-23,2022-07-23,14,1
+1035,American Idiot,Green Day,87,2022-09-03,2022-09-03,14,1
+1036,2 Alive,Yeat,87,2022-10-22,2022-10-22,14,1
+1037,Boombox,Fozzy,88,2022-05-21,2022-05-21,13,1
+1038,For Django,Joe Pass,88,2022-02-26,2022-02-26,13,1
+1039,Look At Me: The Album. (Soundtrack),XXXTENTACION,88,2022-07-02,2022-07-02,13,1
+1040,"Dial ""S"" For Sonny","Sonny Clark With Art Farmer, Curtis Fuller, Hank Mobley, Wilbur Ware & Louis Hayes",88,2022-08-13,2022-08-13,13,1
+1041,Shades,Ty Tabor,88,2022-03-19,2022-03-19,13,1
+1042,Days Of The Lost,The Halo Effect,88,2022-08-27,2022-08-27,13,1
+1043,Berlin '91,Iggy Pop,88,2022-05-07,2022-05-07,13,1
+1044,American Teen,Khalid,88,2022-01-08,2022-01-08,13,1
+1045,Destination... Out!,Jackie McLean,88,2022-02-05,2022-02-05,13,1
+1046,"Fillmore West 1969, March 1st",Grateful Dead,88,2022-02-12,2022-02-12,13,1
+1047,Misery Made Me,Silverstein,92,2022-05-21,2022-08-13,13,2
+1048,High Road,Kesha,89,2022-03-12,2022-03-12,12,1
+1049,Mother Earth's Plantasia,Mort Garson,89,2022-09-03,2022-09-03,12,1
+1050,Euthanasia,Stray From The Path,89,2022-09-24,2022-09-24,12,1
+1051,Little Voice,Sara Bareilles,89,2022-05-07,2022-05-07,12,1
+1052,Autofiction,The London Suede,89,2022-10-01,2022-10-01,12,1
+1053,Twenty,The Early November,89,2022-10-29,2022-10-29,12,1
+1054,Lowest Form Of Animal (EP),Kublai Khan TX,90,2022-04-16,2022-04-16,11,1
+1055,Justice,Justin Bieber,90,2022-01-08,2022-01-08,11,1
+1056,Harder Than It Looks,Simple Plan,90,2022-05-21,2022-05-21,11,1
+1057,Gershwin Country,Michael Feinstein,90,2022-03-26,2022-03-26,11,1
+1058,Sign 'O' The Times,Prince,90,2022-02-19,2022-02-19,11,1
+1059,Caramba!,Lee Morgan,90,2022-03-05,2022-03-05,11,1
+1060,Unknown Artist,Frankie Moreno,90,2022-04-23,2022-04-23,11,1
+1061,Weather Alive,Beth Orton,90,2022-10-08,2022-10-08,11,1
+1062,Moon Rappin',Brother Jack McDuff,90,2022-06-11,2022-06-11,11,1
+1063,Stress Dreams,Greensky Bluegrass,91,2022-02-05,2022-02-05,10,1
+1064,FTHC,Frank Turner,91,2022-03-05,2022-03-05,10,1
+1065,Led Zeppelin III,Led Zeppelin,94,2022-07-09,2022-07-16,10,2
+1066,Letting Off The Happiness: A Companion (EP),Bright Eyes,92,2022-06-11,2022-06-11,9,1
+1067,Dissolution Wave,Cloakroom,92,2022-02-12,2022-02-12,9,1
+1068,"Bear's Sonic Journals: Johnny Cash At The Carousel Ballroom, April 24, 1968",Johnny Cash,92,2022-01-29,2022-01-29,9,1
+1069,...And Stuff,Psychostick,92,2022-04-30,2022-04-30,9,1
+1070,Songs To Learn & Sing,Echo & The Bunnymen,92,2022-03-05,2022-03-05,9,1
+1071,Their Greatest Hits: Volumes 1 & 2,Eagles,92,2022-09-24,2022-09-24,9,1
+1072,Goodbye & Good Riddance,Juice WRLD,93,2022-01-22,2022-01-22,8,1
+1073,Blue Banisters,Lana Del Rey,93,2022-02-05,2022-02-05,8,1
+1074,Sweet Relief: A Benefit For Victoria Williams,Various Artists,93,2022-07-02,2022-07-02,8,1
+1075,Universal,Michael Schenker Group,93,2022-06-11,2022-06-11,8,1
+1076,Medazzaland,Duran Duran,93,2022-10-29,2022-10-29,8,1
+1077,Country Rap Tunes,Adam Calhoun,93,2022-10-22,2022-10-22,8,1
+1078,The Latin Bit,Grant Green,93,2022-03-19,2022-03-19,8,1
+1079,1999,Prince,93,2022-03-05,2022-03-05,8,1
+1080,2000,Joey Bada$$,93,2022-08-06,2022-08-06,8,1
+1081,Journey's Greatest Hits,Journey,96,2022-05-14,2022-07-16,8,2
+1082,This Is What It Feels Like,Gracie Abrams,94,2022-04-30,2022-04-30,7,1
+1083,Presence,Led Zeppelin,94,2022-04-09,2022-04-09,7,1
+1084,On To Better Things,iann dior,94,2022-02-05,2022-02-05,7,1
+1085,Storm Front,Billy Joel,94,2022-03-05,2022-03-05,7,1
+1086,Damnum,Allegaeon,94,2022-03-12,2022-03-12,7,1
+1087,We Are Not Your Kind,Slipknot,94,2022-09-10,2022-09-10,7,1
+1088,Irony Is A Dead Scene (EP),The Dillinger Escape Plan With Mike Patton,94,2022-05-28,2022-05-28,7,1
+1089,Best Of The Doobies,The Doobie Brothers,95,2022-07-16,2022-07-16,6,1
+1090,The Essential Meat Loaf,Meat Loaf,95,2022-02-05,2022-02-05,6,1
+1091,Fortune Favors The Bold,49 Winchester,95,2022-05-28,2022-05-28,6,1
+1092,Get Fucked,The Chats,95,2022-09-03,2022-09-03,6,1
+1093,In The Court Of The Dragon,Trivium,95,2022-02-12,2022-02-12,6,1
+1094,Joe Strummer 002: The Mescaleros Years,Joe Strummer & The Mescaleros,95,2022-10-01,2022-10-01,6,1
+1095,Golden Hour,Kacey Musgraves,95,2022-01-15,2022-01-15,6,1
+1096,Depression Cherry,Beach House,95,2022-01-22,2022-01-22,6,1
+1097,A Night At The Opera,Queen,95,2022-06-18,2022-06-18,6,1
+1098,K.I.D.S. (Kickin Incredibly Dope Shit),Mac Miller,95,2022-06-11,2022-06-11,6,1
+1099,Leap,James Bay,95,2022-07-23,2022-07-23,6,1
+1100,Portrait Of A Legend: 1951-1964,Sam Cooke,96,2022-01-22,2022-01-29,6,2
+1101,Greatest KISS,KISS,96,2022-07-09,2022-07-09,5,1
+1102,Live In Houston 1981: Escape Tour,Journey,96,2022-06-25,2022-06-25,5,1
+1103,I Care 4 U,Aaliyah,96,2022-10-01,2022-10-01,5,1
+1104,The Course Of The Inevitable 2,Lloyd Banks,96,2022-07-30,2022-07-30,5,1
+1105,Dirty Dancing,Soundtrack,96,2022-01-01,2022-01-01,5,1
+1106,Turning Red,Soundtrack,96,2022-04-02,2022-04-02,5,1
+1107,A Collection Of Songs Written And Recorded 1995-1997: A Companion (EP),Bright Eyes,96,2022-06-11,2022-06-11,5,1
+1108,Covers,James Blake,97,2022-05-07,2022-05-07,4,1
+1109,Colors,YoungBoy Never Broke Again,97,2022-02-05,2022-02-05,4,1
+1110,Temptations 60,The Temptations,97,2022-02-12,2022-02-12,4,1
+1111,"Official Release Series Discs 13, 14, 20 & 21",Neil Young,97,2022-05-14,2022-05-14,4,1
+1112,reputation,Taylor Swift,97,2022-11-05,2022-11-05,4,1
+1113,Outgrown Things (EP),Movements,97,2022-03-12,2022-03-12,4,1
+1114,Always Dream,Dimelo Flow,97,2022-06-25,2022-06-25,4,1
+1115,NOW Christmas Classics,Various Artists,97,2022-01-01,2022-01-01,4,1
+1116,Music To Make Love To Your Old Lady By,Nathaniel Merriweather Presents... Lovage Avec Michael Pattion & Jennifer Charles,98,2022-03-19,2022-03-19,3,1
+1117,Full Circle,Pennywise,98,2022-06-11,2022-06-11,3,1
+1118,Glow On,Turnstile,98,2022-10-01,2022-10-01,3,1
+1119,Alive 1997,Daft Punk,98,2022-05-21,2022-05-21,3,1
+1120,Dimension : Dilemma,ENHYPEN,98,2022-01-15,2022-01-15,3,1
+1121,Christmas Classics,Bing Crosby,98,2022-01-01,2022-01-01,3,1
+1122,Tippin' The Scales,Jackie McLean,98,2022-04-16,2022-04-16,3,1
+1123,Freakout/Release,Hot Chip,98,2022-09-03,2022-09-03,3,1
+1124,Birds In The Ceiling,John Moreland,98,2022-08-06,2022-08-06,3,1
+1125,Wireless World,Nick Lowe,98,2022-05-07,2022-05-07,3,1
+1126,Fascination,The Birthday Massacre,98,2022-03-05,2022-03-05,3,1
+1127,Inhale (Exhale),MercyMe,99,2022-05-14,2022-05-14,2,1
+1128,Robot Hive / Exodus,Clutch,99,2022-06-18,2022-06-18,2,1
+1129,From The Bayou,YoungBoy Never Broke Again & Birdman,99,2022-01-08,2022-01-08,2,1
+1130,Ahora Me Da Pena EP,Buena Vista Social Club,99,2022-05-07,2022-05-07,2,1
+1131,Plastic Beach,Gorillaz,99,2022-09-10,2022-09-10,2,1
+1132,Hunky Dory,David Bowie,99,2022-01-22,2022-01-22,2,1
+1133,Sheryl: Music From The Feature Documentary (Soundtrack),Sheryl Crow,99,2022-05-21,2022-05-21,2,1
+1134,R.A.P. Music,Killer Mike,99,2022-05-28,2022-05-28,2,1
+1135,Van Halen,Van Halen,100,2022-07-16,2022-07-16,1,1
+1136,Live Seeds,Nick Cave & The Bad Seeds,100,2022-05-07,2022-05-07,1,1
+1137,Always,Frightnrs,100,2022-06-11,2022-06-11,1,1
+1138,Gorillaz,Gorillaz,100,2022-04-02,2022-04-02,1,1
+1139,Death Of A Bachelor,Panic! At The Disco,100,2022-01-08,2022-01-08,1,1

@@ -1,0 +1,334 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Becoming X,Sneaker Pimps,1,1997-03-15,1997-12-27,1596,42
+2,Heavenly Place,Jaci Velasquez,4,1997-01-04,1997-12-27,1568,51
+3,Lee Ann Womack,Lee Ann Womack,1,1997-05-31,1997-12-27,1346,31
+4,No Mercy,No Mercy,1,1997-01-04,1997-10-11,1344,41
+5,Rock Spectacle,Barenaked Ladies,8,1997-01-04,1997-12-27,1296,46
+6,Allure,Allure,1,1997-05-24,1997-12-27,1232,32
+7,Robyn Is Here,Robyn,1,1997-07-12,1997-12-13,1098,23
+8,Homework,Daft Punk,5,1997-04-26,1997-12-27,1041,36
+9,Paradise In Me,K's Choice,1,1997-04-19,1997-11-01,1006,29
+10,Michael Peterson,Michael Peterson,2,1997-08-02,1997-12-27,1006,22
+11,Dude Ranch,Blink-182,2,1997-07-05,1997-12-27,985,26
+12,Clumsy,Our Lady Peace,5,1997-05-03,1997-12-27,916,29
+13,Michael Flatley's Lord Of The Dance,Ronan Hardiman,2,1997-03-22,1997-12-27,834,28
+14,As Good As Dead,Local H,6,1997-01-04,1997-09-13,826,37
+15,Goodnight Sweetheart,David Kersh,7,1997-01-04,1997-06-21,814,25
+16,Controversee... That's Life...And That's The Way It Is,Freak Nasty,3,1997-02-22,1997-08-23,810,25
+17,Sweet Thing,Boney James,1,1997-06-14,1997-12-27,800,26
+18,Supertones Strike Back,The O.C. Supertones,3,1997-06-21,1997-12-27,777,27
+19,I Stoled This Record,Cledus T. Judd,9,1997-01-04,1997-09-06,723,33
+20,True To Myself,Eric Benet,7,1997-01-18,1997-09-06,698,28
+21,Da Da Da,Trio,1,1997-08-02,1997-11-29,659,18
+22,Losing Streak,Less Than Jake,18,1997-03-08,1997-11-08,648,36
+23,98 Degrees,98 Degrees,4,1997-08-16,1997-12-27,647,20
+24,Amanda Marshall,Amanda Marshall,6,1997-01-04,1997-09-20,641,25
+25,Irresistible Bliss,Soul Coughing,10,1997-01-11,1997-09-20,592,26
+26,The Garden,Merril Bainbridge,1,1997-01-04,1997-04-19,584,16
+27,Caedmon's Call,Caedmon's Call,1,1997-04-12,1997-09-20,576,24
+28,I'm Here For You,Ann Nesby,10,1997-01-04,1997-06-21,574,23
+29,Twenty-Eight Teeth,Buck-O-Nine,12,1997-06-21,1997-11-08,573,21
+30,Me And You,Kenny Chesney,1,1997-01-04,1997-03-29,539,13
+31,Me Estoy Enamorando,Alejandro Fernandez,3,1997-10-11,1997-12-27,534,12
+32,Come Find Yourself,Fun Lovin' Criminals,9,1997-01-04,1997-05-10,527,19
+33,Used Heart For Sale,Gary Allan,4,1997-01-04,1997-04-19,510,16
+34,Are You With Me?,Cowboy Mouth,10,1997-05-10,1997-09-20,501,19
+35,Just Between You And Me,The Kinleys,6,1997-10-11,1997-12-27,500,12
+36,Yourself Or Someone Like You,matchbox 20,2,1997-01-25,1997-05-03,494,15
+37,This Time It's Personal,Somethin' For The People,7,1997-10-11,1997-12-27,490,12
+38,Put It In Your Mouth (EP),Akinyele,19,1997-01-11,1997-06-07,460,22
+39,Kenny Lattimore,Kenny Lattimore,1,1997-01-25,1997-04-26,448,13
+40,Duncan Sheik,Duncan Sheik,1,1997-01-04,1997-03-22,445,12
+41,Let Me In,Chely Wright,10,1997-09-27,1997-12-27,432,14
+42,Republica,Republica,8,1997-01-04,1997-04-05,430,14
+43,Let Me Clear My Throat,DJ Kool,8,1997-01-18,1997-05-17,420,18
+44,Calm Before The Storm,Paul Brandt,6,1997-01-04,1997-04-05,414,14
+45,Rahsaan Patterson,Rahsaan Patterson,13,1997-03-01,1997-11-01,413,24
+46,Lie To Me,Jonny Lang,1,1997-02-15,1997-04-12,410,9
+47,Sweetback,Sweetback,11,1997-01-25,1997-05-10,403,16
+48,"Three Dollar Bill, Y'all",Limp Bizkit,23,1997-07-19,1997-12-27,402,24
+49,Turn The Radio Off,Reel Big Fish,5,1997-03-22,1997-06-21,401,14
+50,Sentimientos,Charlie Zaa,15,1997-08-02,1997-12-27,398,18
+51,Time For Healing,The Sounds Of Blackness,2,1997-05-24,1997-12-27,394,15
+52,Rated Next,Next,8,1997-10-18,1997-12-27,389,11
+53,Stained Glass,Clay Crosse,4,1997-07-19,1997-11-08,387,17
+54,Love Scenes,Diana Krall,10,1997-09-13,1997-12-27,385,16
+55,Hot,Squirrel Nut Zippers,1,1997-02-01,1997-04-05,382,10
+56,Politics & Bullsh*t,Frankie Cutlass,4,1997-03-01,1997-05-17,379,12
+57,Stackin Chips,3X Krazy,6,1997-04-26,1997-07-12,372,12
+58,How Bizarre,OMC,1,1997-04-12,1997-06-21,363,11
+59,Spiders,Space,13,1997-02-15,1997-05-03,363,12
+60,Days Of The New,Days Of The New,1,1997-08-23,1997-10-18,362,9
+61,The End,Three 6 Mafia,4,1997-03-29,1997-06-21,361,13
+62,No Doubt,702,1,1997-01-04,1997-03-01,356,9
+63,Wild Orchid,Wild Orchid,4,1997-04-12,1997-07-05,354,13
+64,Many Facez,Tracey Lee,2,1997-04-26,1997-06-21,350,9
+65,Exit Planet Dust,The Chemical Brothers,18,1997-01-25,1997-04-19,348,13
+66,BR5-49,BR549,18,1997-01-04,1997-04-12,342,15
+67,Pre-Millennium Tension,Tricky,5,1997-01-11,1997-04-05,340,12
+68,Jefe de Jefes,Los Tigres del Norte,5,1997-07-05,1997-10-25,333,17
+69,...Pushing The Salmanilla Envelope,Jimmie's Chicken Shack,21,1997-09-06,1997-12-27,331,17
+70,Artist Of My Soul,Sandi Patty,3,1997-11-08,1997-12-27,309,8
+71,Juntos Otra Vez,Juan Gabriel / Rocio Durcal,3,1997-05-17,1997-07-19,305,10
+72,My Own Prison,Creed,1,1997-09-13,1997-11-08,302,9
+73,Blacka Da Berry,Alfonzo Hunter,17,1997-01-18,1997-04-05,301,12
+74,This Fire,Paula Cole,2,1997-01-04,1997-03-15,297,11
+75,Lila,Lila McCann,1,1997-07-05,1997-08-16,294,7
+76,Riverdance,Bill Whelan,1,1997-01-04,1997-02-08,285,6
+77,Dreamin' Out Loud,Trace Adkins,2,1997-01-04,1997-02-08,283,6
+78,Hi How Are You Today?,Ashley MacIsaac,20,1997-01-18,1997-04-05,283,12
+79,Stop The Gunfight,Trapp,2,1997-05-10,1997-07-05,282,8
+80,Music For Pleasure,Monaco,12,1997-07-19,1997-09-27,268,11
+81,Deep Enough To Dream,Chris Rice,18,1997-07-05,1997-12-27,267,20
+82,Marcy Playground,Marcy Playground,1,1997-11-15,1997-12-27,265,7
+83,K,Kula Shaker,11,1997-01-04,1997-04-19,261,15
+84,In That Water,Ghetto Twiinz,13,1997-07-19,1997-10-04,261,12
+85,Love And Mercy,Kathy Troccoli,6,1997-05-17,1997-11-01,260,18
+86,Lovin' God & Lovin' Each Other,Gaither Vocal Band,22,1997-09-27,1997-12-27,259,14
+87,Somewhere More Familiar,Sister Hazel,1,1997-05-17,1997-06-28,257,7
+88,Romanza,Andrea Bocelli,1,1997-10-25,1997-12-20,255,9
+89,Strength,New Life Community Choir Featuring John P. Kee,1,1997-11-15,1997-12-27,250,7
+90,Bad Newz Travels Fast,DJ Pooh,2,1997-08-02,1997-09-20,243,8
+91,A Christmas Album,Ray Boltz,5,1997-11-15,1997-12-27,241,7
+92,Jocelyn,Jocelyn Enriquez,11,1997-05-31,1997-08-09,235,10
+93,Talk Show,Talk Show,2,1997-09-20,1997-11-08,234,8
+94,Live In London At Wembley,Hezekiah Walker & The Love Fellowship Crusade Choir,11,1997-06-07,1997-08-02,231,9
+95,Invitation Only,Will Downing,5,1997-11-15,1997-12-27,229,7
+96,Songs,Rich Mullins,5,1997-10-11,1997-12-27,229,10
+97,Women In Technology,White Town,4,1997-03-15,1997-04-12,228,5
+98,Stone Crazy,The Beatnuts,4,1997-07-12,1997-09-20,227,10
+99,Lemon Parade,Tonic,1,1997-03-08,1997-05-03,219,8
+100,Timeless,Big Bub,2,1997-11-08,1997-12-20,215,7
+101,Tucanes De Oro,Los Tucanes de Tijuana,11,1997-05-17,1997-07-05,204,8
+102,Ego-Trip,Keoki,15,1997-08-16,1997-10-04,204,8
+103,Forest For The Trees,Forest For The Trees,16,1997-09-27,1997-11-15,201,8
+104,Partiendome El Alma,Limite,33,1997-03-01,1997-09-13,200,23
+105,Enrique Iglesias,Enrique Iglesias,11,1997-01-04,1997-02-08,194,6
+106,Straight From The Dec,Ghetto Mafia,17,1997-07-26,1997-09-20,192,9
+107,Third Eye Blind,Third Eye Blind,2,1997-04-26,1997-05-17,190,4
+108,Remanufacture (Cloning Technology),Fear Factory,6,1997-06-07,1997-07-12,190,6
+109,"Yeah, It's That Easy",G. Love & Special Sauce,3,1997-11-15,1997-12-27,184,7
+110,Beauty For Ashes,Crystal Lewis,27,1997-01-04,1997-09-06,179,18
+111,Destruction By Definition,The Suicide Machines,32,1997-01-18,1997-05-03,177,15
+112,Everything You Want,Ray J,16,1997-04-12,1997-05-31,176,8
+113,Finally Karen,Karen Clark-Sheard,15,1997-11-22,1997-12-27,175,6
+114,Music For The Jilted Generation,The Prodigy,15,1997-02-01,1997-03-08,174,6
+115,Ricochet,Ricochet,15,1997-01-04,1997-05-17,172,11
+116,Lo Mejor De Mi,Cristian,20,1997-10-18,1997-12-20,172,10
+117,How Big'A Boy Are Ya? Volume 3,Roy D. Mercer,18,1997-11-08,1997-12-27,170,8
+118,Villains,The Verve Pipe,1,1997-02-22,1997-03-15,169,4
+119,Da Dirty 30,CRU,1,1997-09-13,1997-10-11,169,5
+120,Fush Yu Mang,Smash Mouth,2,1997-07-26,1997-08-16,169,4
+121,It's On Tonight,Sam Salter,15,1997-10-18,1997-11-22,163,6
+122,Where Strength Begins,"Phillips, Craig & Dean",16,1997-08-16,1997-10-11,162,9
+123,The Comrads,The Comrads,2,1997-07-26,1997-08-30,159,6
+124,Here's Your Sign,Bill Engvall,3,1997-02-08,1997-03-08,158,5
+125,When I Was Born For The 7Th Time,Cornershop,19,1997-10-04,1997-12-27,157,12
+126,Blink Of An Eye,Ricochet,9,1997-07-05,1997-08-23,155,8
+127,Unveiled Hope,Michael Card,14,1997-04-19,1997-05-24,155,6
+128,Ghetto Cyrano,Christion,4,1997-11-22,1997-12-20,147,5
+129,Christmas,Rebecca St. James,12,1997-11-29,1997-12-27,145,5
+130,Uncle Sam,Uncle Sam,17,1997-11-22,1997-12-27,145,6
+131,Dots And Loops,Stereolab,2,1997-10-11,1997-11-15,143,6
+132,Strangest Places,Abra Moore,24,1997-07-12,1997-09-06,142,9
+133,Orblivion,The Orb,10,1997-03-29,1997-05-17,138,8
+134,Organized Bass,Kilo Ali,9,1997-08-16,1997-09-27,136,7
+135,Butterfly Kisses (Shades Of Grace),Bob Carlisle,1,1997-05-03,1997-05-17,133,3
+136,Llevame Contigo,Olga Tanon,7,1997-05-17,1997-06-14,133,5
+137,Big House,Big House,21,1997-04-12,1997-06-28,133,10
+138,My Heart,Donell Jones,26,1997-01-11,1997-03-22,133,11
+139,Tucanes De Plata,Los Tucanes de Tijuana,17,1997-05-10,1997-06-14,132,6
+140,Adriana Evans,Adriana Evans,19,1997-05-17,1997-07-05,131,7
+141,One Fierce Beer Coaster,Bloodhound Gang,2,1997-01-04,1997-01-18,127,3
+142,Picnic,Robert Earl Keen,4,1997-05-17,1997-06-28,125,5
+143,Street Gospel,Suga Free,14,1997-07-12,1997-10-04,125,6
+144,...The Dandy Warhols Come Down,The Dandy Warhols,22,1997-08-30,1997-10-04,125,6
+145,Vendetta,Mic Geronimo,2,1997-11-22,1997-12-20,124,5
+146,Road To Zen,Corey Stevens,21,1997-05-24,1997-07-05,124,7
+147,Dream Walk,Keiko Matsui,28,1997-01-25,1997-06-07,124,11
+148,The More Things Change...,Machine Head,5,1997-04-12,1997-05-10,123,5
+149,Roots And Wings,James Bonamy,11,1997-07-12,1997-09-06,122,9
+150,Marco,Marco Antonio Solis,16,1997-10-25,1997-11-22,122,5
+151,Mark Wills,Mark Wills,26,1997-06-07,1997-07-26,122,8
+152,End Of The Summer,Dar Williams,9,1997-08-02,1997-09-13,121,7
+153,Don't Mess Wit Texas,Lil' Keke,20,1997-07-19,1997-08-30,121,7
+154,God,Rebecca St. James,27,1997-01-04,1997-12-27,119,9
+155,American Psycho,Misfits,3,1997-05-31,1997-06-21,117,4
+156,Beautiful Freak,eels,18,1997-01-04,1997-02-01,116,5
+157,That's Them,Artifacts,3,1997-05-03,1997-05-31,115,5
+158,Pies Descalzos,Shakira,34,1997-01-18,1997-06-28,114,12
+159,Fountains Of Wayne,Fountains Of Wayne,20,1997-01-18,1997-02-22,113,6
+160,Fun House,Bob & Tom,10,1997-09-27,1997-10-18,111,4
+161,December Makes Me Feel This Way,Dave Koz,10,1997-12-06,1997-12-27,110,4
+162,Under The Influence,Anointed,23,1997-01-04,1997-05-24,110,9
+163,Celtic Pride,Column MacOireachtaigh & The Irish Ceili Band,10,1997-07-05,1997-08-09,109,5
+164,Romance,Giovanni,9,1997-02-15,1997-04-12,108,4
+165,Our Newest Album Ever!,Five Iron Frenzy,8,1997-11-29,1997-12-27,105,4
+166,Buena Vista Social Club,Buena Vista Social Club,24,1997-10-04,1997-12-27,105,7
+167,Sobre El Fuego,India,33,1997-09-27,1997-11-15,101,8
+168,Measure Of A Man,Kevin Sharp,1,1997-01-04,1997-01-11,100,2
+169,Whatever Comes First,Sons Of The Desert,25,1997-06-21,1997-08-09,97,8
+170,Nuyorican Soul,NuYorican Soul,27,1997-03-29,1997-05-10,97,7
+171,This Gift,Gary Chapman,16,1997-12-06,1997-12-27,96,4
+172,Fresh!,Gina G,27,1997-03-22,1997-04-19,95,5
+173,The Spirit Of David,Fred Hammond & Radical For Christ,35,1997-02-08,1997-04-05,95,8
+174,First Band On The Moon,The Cardigans,3,1997-01-04,1997-01-11,93,2
+175,The Mollusk,Ween,5,1997-07-12,1997-08-02,92,4
+176,Sentimiento,Limite,26,1997-11-08,1997-12-13,89,6
+177,Dru Hill,Dru Hill,6,1997-01-04,1997-01-11,87,2
+178,The Boatman's Call,Nick Cave & The Bad Seeds,8,1997-03-22,1997-04-05,87,3
+179,Extra Virgin,Olive,32,1997-10-04,1997-12-06,82,9
+180,It's Time,Linda Eder,17,1997-05-10,1997-07-26,81,8
+181,Raw Deluxe,Jungle Brothers,12,1997-06-21,1997-07-05,80,3
+182,A New Breed Of Female,II Tru,14,1997-10-18,1997-11-01,80,3
+183,Body And Soul,Rick Braun,37,1997-04-19,1997-08-30,79,12
+184,A Distant Call,Susan Ashton,22,1997-01-04,1997-03-01,78,5
+185,Never Home,Freedy Johnston,13,1997-03-15,1997-03-29,75,3
+186,E O Mai,Keali'i Reichel,14,1997-11-08,1997-11-22,75,3
+187,More Twisted Christmas,Bob Rivers,13,1997-12-13,1997-12-27,73,3
+188,Jo Dee Messina,Jo Dee Messina,23,1997-01-04,1997-01-25,73,4
+189,The Equinox,Organized Konfusion,4,1997-10-11,1997-10-25,72,3
+190,Help Yourself,Peggy Scott-Adams,6,1997-01-18,1997-02-01,72,3
+191,O Holy Night!,Sandi Patty,10,1997-01-04,1997-01-11,71,2
+192,Plastic Seat Sweat,Southern Culture On The Skids,18,1997-10-11,1997-11-08,70,5
+193,Legends,James Galway & Phil Coulter,10,1997-03-29,1997-04-05,69,2
+194,The Beauty Process: Triple Platinum,L7,12,1997-03-15,1997-03-29,68,3
+195,Peace On Earth,Kitaro,11,1997-01-04,1997-01-11,67,2
+196,The Concert Of A Lifetime,Ray Boltz,33,1997-02-08,1997-05-24,67,6
+197,Threads,Geoff Moore & The Distance,24,1997-10-11,1997-11-01,66,4
+198,The Psycho Realm,The Psycho Realm,13,1997-11-15,1997-11-22,65,2
+199,The One And Only,PlankEye,34,1997-11-22,1997-12-13,64,4
+200,Double Plaidinum,Lagwagon,20,1997-09-06,1997-09-20,63,3
+201,Baile De Los Locos,Voodoo Glow Skulls,13,1997-05-24,1997-06-07,61,3
+202,Soul Searching Sun,Life Of Agony,9,1997-09-27,1997-10-04,59,2
+203,More Than You Know,Out Of Eden,29,1997-01-04,1997-02-22,59,5
+204,Ledbetter Heights,Kenny Wayne Shepherd,33,1997-01-04,1997-04-26,59,7
+205,Lucid,Freddy Jones Band,19,1997-09-27,1997-10-11,57,3
+206,Adrenaline,Deftones,26,1997-01-11,1997-02-01,57,4
+207,Adam And Eve,The Catherine Wheel,11,1997-09-13,1997-09-20,56,2
+208,Yardcore,Born Jamericans,26,1997-06-14,1997-06-28,55,3
+209,That's Enough Of That,Mila Mason,37,1997-04-12,1997-05-10,54,5
+210,Chocolate Supa Highway,Spearhead,25,1997-04-12,1997-04-26,52,3
+211,The Message,4Him,20,1997-01-04,1997-01-11,51,2
+212,The Christmas I Love,Andre Rieu,21,1997-12-20,1997-12-27,51,2
+213,Endtroducing..... DJ Shadow,DJ Shadow,37,1997-02-22,1997-04-26,51,8
+214,What I Live To Do,James Bonamy,27,1997-01-04,1997-02-08,50,5
+215,Serpents Of The Light,Deicide,17,1997-11-08,1997-11-15,49,2
+216,Retreat From The Sun,That Dog,31,1997-06-28,1997-08-09,49,4
+217,Return Of The Mack,Mark Morrison,3,1997-03-29,1997-03-29,48,1
+218,It's All On You Vol. 2,B.G.,14,1997-11-15,1997-11-22,45,2
+219,Mag Earwhig!,Guided By Voices,19,1997-06-07,1997-06-14,45,2
+220,"Honey, I'm Homely!",Dance Hall Crashers,22,1997-09-27,1997-10-04,44,2
+221,Avalon,Avalon,30,1997-01-18,1997-03-15,44,6
+222,Richard D. James Album,Aphex Twin,20,1997-02-15,1997-02-22,43,2
+223,Ho Ho Ho,RuPaul,27,1997-12-20,1997-12-27,43,2
+224,Butterfly Kisses,Jeff Carson,28,1997-07-12,1997-07-26,43,3
+225,It's All On U,B.G.,17,1997-07-19,1997-07-26,42,2
+226,I Like To Score,Moby,22,1997-11-08,1997-11-15,42,2
+227,Lovesongs For Underdogs,Tanya Donelly,20,1997-09-27,1997-10-04,41,2
+228,The Fury Of The Aquabats!,The Aquabats!,12,1997-11-15,1997-11-15,39,1
+229,God Sound,Boogiemonsters,15,1997-07-05,1997-07-12,39,2
+230,I Can Hear The Heart Beating As One,Yo La Tengo,19,1997-05-10,1997-05-17,39,2
+231,A Crime For All Seasons,My Life With The Thrill Kill Kult,33,1997-06-28,1997-07-12,37,3
+232,Get It How U Live!!,Hot Boys,37,1997-10-11,1997-11-01,37,4
+233,Misguided Roses,Edwin McCain,15,1997-07-12,1997-07-12,36,1
+234,Wiseblood,Corrosion Of Conformity,37,1997-01-11,1997-02-01,36,4
+235,Ghetto Millionaire,Royal Flush,30,1997-09-13,1997-09-20,35,2
+236,Animal Rights,Moby,31,1997-03-01,1997-03-08,35,2
+237,Happy End Of The World,Pizzicato Five,32,1997-09-27,1997-10-04,35,2
+238,Coming Up,The London Suede,17,1997-04-26,1997-04-26,34,1
+239,"T.D. Jakes Presents Music From Woman, Thou Art Loosed!",T.D. Jakes,17,1997-03-15,1997-03-15,34,1
+240,My Dream,Yvette Michele,20,1997-11-01,1997-11-08,34,2
+241,In It For The Money,Supergrass,23,1997-05-24,1997-05-31,34,2
+242,Red Clay Harvest,Cravin' Melon,18,1997-02-15,1997-02-15,33,1
+243,Perfect From Now On.,Built To Spill,26,1997-02-15,1997-02-22,33,2
+244,Joose,Joose,33,1997-06-07,1997-06-21,32,3
+245,Live At Azusa 2 Precious Memories,Carlton Pearson,34,1997-03-08,1997-04-05,32,3
+246,Words,Sherrie Austin,35,1997-08-02,1997-08-23,32,4
+247,Living The Dream: Live In Washington D.C.,The Canton Spirituals,31,1997-08-02,1997-08-16,31,3
+248,How Big'A Boy Are Ya? Volume 1,Roy D. Mercer,36,1997-12-13,1997-12-27,31,3
+249,Melt,Artificial Joy Club,37,1997-08-23,1997-09-13,31,4
+250,No Greater Sacrifice,Ray Boltz,28,1997-01-04,1997-01-11,30,2
+251,Sixpence None The Richer,Sixpence None The Richer,32,1997-11-22,1997-11-29,29,2
+252,Come To Daddy,Aphex Twin,37,1997-11-08,1997-11-22,28,2
+253,Just Like You,Keb' Mo',39,1997-01-25,1997-03-15,28,3
+254,Carnival Of Chaos,Gwar,24,1997-04-12,1997-04-12,27,1
+255,Schizophonic,Nuno,25,1997-03-01,1997-03-01,26,1
+256,Tailspin Headwhack,Chris Duarte Group,25,1997-10-04,1997-10-04,26,1
+257,Back From The Dead,Obituary,25,1997-05-10,1997-05-10,26,1
+258,Ladies And Gentlemen We Are Floating In Space,Spiritualized,26,1997-07-19,1997-07-26,26,2
+259,The Truth,Brady Seals,39,1997-03-15,1997-03-29,26,3
+260,Sand And Water,Beth Nielsen Chapman,30,1997-11-22,1997-11-22,21,1
+261,Interiors,Brad,30,1997-07-12,1997-07-12,21,1
+262,Pup Tent,Luna,30,1997-08-16,1997-08-16,21,1
+263,Time To Say Goodbye,Sarah Brightman & The London Symphony Orchestra,33,1997-11-08,1997-12-27,21,3
+264,...Worldwide,DJ Taz,38,1997-08-30,1997-09-06,21,2
+265,"Hatred, Passion And Infidelity",Diamond,31,1997-11-29,1997-11-29,20,1
+266,Whoridin',The Whoridas,31,1997-12-13,1997-12-13,20,1
+267,Dreamland,Madeleine Peyroux,36,1997-02-08,1997-02-15,20,2
+268,Built To Last,Sick Of It All,32,1997-03-01,1997-03-01,19,1
+269,By Heart,Jim Brickman,32,1997-01-04,1997-01-04,19,1
+270,10 Cent Wings,Jonatha Brooke,34,1997-11-22,1997-12-06,19,2
+271,The First Noel,Steve Green,37,1997-01-04,1997-01-11,19,2
+272,Keep It Movin',Ill Al Skratch,33,1997-05-10,1997-05-10,18,1
+273,Everything Sucks,Descendents,34,1997-01-11,1997-01-18,18,2
+274,The Girl Next Door,Crystal Bernard,36,1997-01-18,1997-05-17,18,3
+275,(See Inside),Out Of The Grey,39,1997-04-26,1997-05-03,18,2
+276,Tammy Graham,Tammy Graham,41,1997-06-07,1997-06-14,18,2
+277,From The Underground And Below,Overkill,34,1997-10-18,1997-10-18,17,1
+278,Inna Heights,Buju Banton,34,1997-12-20,1997-12-20,17,1
+279,Vanishing Point,Primal Scream,34,1997-08-02,1997-08-02,17,1
+280,How Big'A Boy Are Ya? Volume 2,Roy D. Mercer,39,1997-12-20,1997-12-27,17,2
+281,Warpath,Six Feet Under,35,1997-09-27,1997-09-27,16,1
+282,Unpredictable,Mystikal,35,1997-11-22,1997-11-22,16,1
+283,Have Heart Have Money,The Mossie,35,1997-10-18,1997-10-18,16,1
+284,New Moon Daughter,Cassandra Wilson,37,1997-01-25,1997-03-15,16,2
+285,Deseos Y Delirios,Pedro Fernandez,43,1997-01-25,1997-03-01,16,4
+286,It's A Wonderful Laugh,Bob & Tom,36,1997-01-04,1997-01-04,15,1
+287,A Pleasant Shade Of Gray,Fates Warning,37,1997-05-10,1997-05-10,14,1
+288,Live To Love,Gerald Albright,37,1997-11-15,1997-11-15,14,1
+289,Trysome Eatone,Love Spit Love,38,1997-09-27,1997-09-27,13,1
+290,Born On A Pirate Ship,Barenaked Ladies,38,1997-07-05,1997-07-05,13,1
+291,The Whole Truth,Point Of Grace,40,1997-01-04,1997-01-11,12,2
+292,A Miracle In Harlem,Shirley Caesar,41,1997-06-14,1997-06-28,12,2
+293,The Time Has Come,Twelve A.M.,44,1997-01-18,1997-01-25,12,2
+294,The Album,Angelina,45,1997-04-19,1997-05-03,12,2
+295,Souls On Ice,Seagram,40,1997-08-30,1997-08-30,11,1
+296,Every Night's A Saturday Night,Lee Roy Parnell,41,1997-07-05,1997-07-12,11,2
+297,Life In General,MxPx,43,1997-01-04,1997-01-11,11,2
+298,Opie & Anthony's Demented World,Opie & Anthony,44,1997-10-25,1997-11-15,11,2
+299,High Places: The Best of Ron Kenoly,Ron Kenoly,45,1997-11-29,1997-12-06,11,2
+300,Progression Through Unlearning,Snapcase,41,1997-04-26,1997-04-26,10,1
+301,Indoor Living,Superchunk,41,1997-09-27,1997-09-27,10,1
+302,Goldfinger,Goldfinger,41,1997-01-11,1997-01-11,10,1
+303,Repeat The Sounding Joy,"Phillips, Craig & Dean",41,1997-01-04,1997-01-04,10,1
+304,Not Perfect,Church Of Rhythm,42,1997-05-17,1997-05-17,9,1
+305,Ho! Ho! Hoey II,Gary Hoey,42,1997-12-27,1997-12-27,9,1
+306,Thicker Than Water,H20,42,1997-10-25,1997-10-25,9,1
+307,Big Moves,The Delinquents,43,1997-06-07,1997-06-07,8,1
+308,Third Day,Third Day,43,1997-01-04,1997-01-04,8,1
+309,Willis,The Pietasters,44,1997-10-25,1997-10-25,7,1
+310,Musical Monkey,Guttermouth,44,1997-08-02,1997-08-02,7,1
+311,Scam-A-Mania '96 Comedy Album -- Volume 5,Scott & Todd,44,1997-01-04,1997-01-04,7,1
+312,Go!,Letters To Cleo,45,1997-10-25,1997-10-25,6,1
+313,IV,Intocable,45,1997-07-12,1997-07-12,6,1
+314,From Now On,Robin S.,45,1997-07-05,1997-07-05,6,1
+315,En Concierto Vol. 2,Los Temerarios,45,1997-06-07,1997-06-07,6,1
+316,The 7 Sins,Kane & Abel,45,1997-01-18,1997-01-18,6,1
+317,Light Of The World,The Martins,48,1997-11-29,1997-12-06,6,2
+318,En Tus Manos,La Mafia,46,1997-06-28,1997-06-28,5,1
+319,What About Now,The Kry,46,1997-01-04,1997-01-04,5,1
+320,Nu Flavor,Nu Flavor,48,1997-09-20,1997-10-04,5,2
+321,Con Un Mismo Corazon,Ana Gabriel,47,1997-12-27,1997-12-27,4,1
+322,In Sides,Orbital,47,1997-05-03,1997-05-03,4,1
+323,The Late Great PFR,PFR,48,1997-11-01,1997-11-01,3,1
+324,I'd Be With You,Kippi Brannon,48,1997-06-28,1997-06-28,3,1
+325,Urban Knights II,Urban Knights,48,1997-05-03,1997-05-03,3,1
+326,This Is Your Night,Amber,49,1997-02-15,1997-02-15,2,1
+327,Outside the Frame,Paul Brandt,49,1997-11-29,1997-11-29,2,1
+328,Angel's Glory,Kathleen Battle & Christopher Parkening,49,1997-01-04,1997-01-04,2,1
+329,Le Click Featuring Kayo,Le Click Featuring Kayo,49,1997-08-23,1997-08-23,2,1
+330,Glow,Reef,50,1997-09-06,1997-09-06,1,1
+331,La Ultima Huella,Bronco: El Gigante De America,50,1997-03-29,1997-03-29,1,1
+332,Cabo Verde,Cesaria Evora,50,1997-04-19,1997-04-19,1,1
+333,Life Insurance,Mr. Serv-on,50,1997-08-16,1997-08-16,1,1

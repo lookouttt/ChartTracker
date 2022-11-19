@@ -1,0 +1,482 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Abbey Road,The Beatles,1,2017-01-07,2017-12-30,754,50
+2,Guardians Of The Galaxy: Awesome Mix Vol. 1,Soundtrack,2,2017-01-07,2017-12-30,642,44
+3,Back To Black,Amy Winehouse,1,2017-01-07,2017-12-30,639,47
+4,Legend: The Best Of...,Bob Marley And The Wailers,4,2017-01-07,2017-12-23,495,34
+5,The Dark Side Of The Moon,Pink Floyd,3,2017-01-28,2017-12-30,487,45
+6,Purple Rain (Soundtrack),Prince And The Revolution,1,2017-01-07,2017-12-30,477,40
+7,÷ (Divide),Ed Sheeran,1,2017-03-25,2017-12-30,390,30
+8,Thriller,Michael Jackson,5,2017-01-07,2017-12-30,352,38
+9,Rumours,Fleetwood Mac,5,2017-01-07,2017-12-30,329,31
+10,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,1,2017-01-07,2017-12-30,324,21
+11,La La Land,Soundtrack,1,2017-01-28,2017-06-17,296,18
+12,"good kid, m.A.A.d city",Kendrick Lamar,4,2017-02-25,2017-11-25,276,25
+13,DAMN.,Kendrick Lamar,1,2017-08-05,2017-12-30,262,19
+14,Blurryface,twenty one pilots,1,2017-01-07,2017-12-30,260,21
+15,Harry Styles,Harry Styles,1,2017-06-03,2017-12-30,219,18
+16,Kind Of Blue,Miles Davis,3,2017-01-07,2017-12-30,219,32
+17,"Guardians Of The Galaxy, Vol. 2: Awesome Mix Vol. 2",Soundtrack,1,2017-09-02,2017-12-30,199,16
+18,A Deeper Understanding,The War On Drugs,2,2017-09-16,2017-11-25,156,9
+19,A Charlie Brown Christmas (Soundtrack),Vince Guaraldi Trio,1,2017-01-07,2017-12-30,146,7
+20,Born To Die,Lana Del Rey,7,2017-01-07,2017-08-19,126,16
+21,OK Computer: OKNOTOK 1997 2017,Radiohead,1,2017-07-29,2017-09-09,125,7
+22,The Thrill Of It All,Sam Smith,2,2017-11-25,2017-12-30,119,6
+23,Vessel,twenty one pilots,6,2017-01-07,2017-07-29,111,12
+24,Lemonade,Beyonce,2,2017-09-16,2017-12-30,99,10
+25,We Got It From Here...Thank You 4 Your Service,A Tribe Called Quest,1,2017-01-14,2017-03-11,98,8
+26,Colors,Beck,1,2017-11-04,2017-12-02,96,5
+27,From A Room: Volume 1,Chris Stapleton,2,2017-05-27,2017-07-08,96,7
+28,Crack-Up,Fleet Foxes,1,2017-07-08,2017-08-12,95,6
+29,Villains,Queens Of The Stone Age,1,2017-09-16,2017-10-28,94,7
+30,Hot Fuss,The Killers,2,2017-02-04,2017-09-02,94,7
+31,I See You,The xx,3,2017-02-04,2017-03-04,81,5
+32,American Dream,LCD Soundsystem,1,2017-09-23,2017-10-21,77,5
+33,Humanz,Gorillaz,1,2017-05-20,2017-06-24,77,6
+34,Traveller,Chris Stapleton,14,2017-01-07,2017-12-30,77,12
+35,Run The Jewels 3,Run The Jewels,1,2017-02-04,2017-03-04,76,5
+36,Sleep Well Beast,The National,1,2017-09-30,2017-10-28,75,5
+37,Concrete And Gold,Foo Fighters,1,2017-10-07,2017-11-11,75,6
+38,The Nashville Sound,Jason Isbell And The 400 Unit,2,2017-07-08,2017-09-23,73,5
+39,Death Of A Bachelor,Panic! At The Disco,11,2017-01-07,2017-05-06,72,10
+40,Science Fiction,Brand New,1,2017-11-11,2017-12-02,71,4
+41,Prisoner,Ryan Adams,1,2017-03-11,2017-04-01,70,4
+42,Greatest Hits,Tom Petty And The Heartbreakers,6,2017-10-21,2017-12-30,69,5
+43,hopeless fountain kingdom,Halsey,1,2017-06-24,2017-07-15,68,4
+44,This Old Dog,Mac DeMarco,1,2017-05-27,2017-06-24,68,5
+45,Baby Driver: Music From The Motion Picture,Soundtrack,6,2017-07-15,2017-10-07,68,8
+46,"""Awaken, My Love!""",Childish Gambino,4,2017-06-10,2017-12-09,66,4
+47,Everything Now,Arcade Fire,1,2017-08-19,2017-09-02,64,3
+48,After Laughter,Paramore,5,2017-09-16,2017-10-07,64,4
+49,Pure Comedy,Father John Misty,1,2017-04-29,2017-06-03,63,5
+50,25,Adele,8,2017-01-07,2017-03-11,63,5
+51,Lotta Sea Lice,Courtney Barnett / Kurt Vile,4,2017-11-04,2017-11-25,61,3
+52,Greatest Hits,Bob Seger & The Silver Bullet Band,3,2017-07-15,2017-09-09,59,3
+53,Hot Thoughts,Spoon,1,2017-04-08,2017-04-22,58,3
+54,American Teen,Khalid,3,2017-05-06,2017-12-30,58,5
+55,VOIDS,Minus The Bear,2,2017-03-25,2017-04-08,55,3
+56,Masseduction,St. Vincent,2,2017-11-04,2017-11-18,55,3
+57,"Koji Kondo: Hero Of Time, Music From The Legend Of Zelda: Ocarina Of Time",Eric Buchholz/Slovak National Symphony Orchestra/Naigus/Strange/Rudisill/Peacock/Gonzales,2,2017-08-05,2017-10-07,54,3
+58,Slowdive,Slowdive,5,2017-05-27,2017-06-17,52,4
+59,Labyrinth,Soundtrack,8,2017-06-03,2017-07-08,47,4
+60,No Plan (EP),David Bowie,1,2017-05-13,2017-06-17,46,2
+61,A Fever You Can't Sweat Out,Panic! At The Disco,3,2017-06-03,2017-06-17,45,3
+62,Cleopatra,The Lumineers,14,2017-01-07,2017-02-18,45,6
+63,Near To The Wild Heart Of Life,Japandroids,2,2017-02-11,2017-02-18,43,2
+64,From A Room: Volume 2,Chris Stapleton,1,2017-12-23,2017-12-30,42,2
+65,The Harrow & The Harvest,Gillian Welch,5,2017-08-19,2017-08-26,41,2
+66,One More Light,Linkin Park,7,2017-06-10,2017-08-19,41,3
+67,Painted Ruins,Grizzly Bear,1,2017-09-09,2017-09-16,40,2
+68,Twin Peaks: Music From The Limited Event Series,Soundtrack,4,2017-10-14,2017-10-21,40,2
+69,Woodstock,Portugal. The Man,4,2017-09-02,2017-10-28,40,2
+70,Unpeeled,Cage The Elephant,4,2017-08-19,2017-09-23,40,3
+71,Hitchhiker,Neil Young,2,2017-09-30,2017-11-25,38,3
+72,Let's Play Two: Live At Wrigley Field (Soundtrack),Pearl Jam,2,2017-10-21,2017-10-28,37,2
+73,Southern Blood,Gregg Allman,3,2017-09-30,2017-10-07,37,2
+74,Beast Epic,Iron And Wine,4,2017-09-16,2017-09-23,37,2
+75,Emperor Of Sand,Mastodon,1,2017-04-22,2017-04-29,36,2
+76,Heartworms,The Shins,2,2017-04-01,2017-04-08,36,2
+77,Singles,Soundtrack,2,2017-06-10,2017-06-24,36,2
+78,Is This The Life We Really Want?,Roger Waters,7,2017-06-24,2017-07-08,36,2
+79,Starboy,The Weeknd,3,2017-03-04,2017-03-11,35,2
+80,Awkward Phase,Eternal Boy,9,2017-08-05,2017-09-30,35,4
+81,Twin Peaks: Limited Event Series Soundtrack,Soundtrack,6,2017-10-14,2017-10-21,34,2
+82,Add Violence (EP),Nine Inch Nails,6,2017-12-09,2017-12-16,34,2
+83,Greatest Hits,The Cure,6,2017-05-13,2017-07-22,34,2
+84,Good Apollo I'm Burning Star IV...,Coheed And Cambria,7,2017-05-27,2017-07-22,34,2
+85,Turn Out The Lights,Julien Baker,1,2017-11-18,2017-11-25,33,2
+86,The Queen Is Dead,The Smiths,9,2017-07-15,2017-11-11,33,2
+87,For Sale: Live At Maxwell's 1986,The Replacements,1,2017-10-28,2017-11-04,32,2
+88,The Bob's Burgers Music Album,Soundtrack,2,2017-06-03,2017-06-10,32,2
+89,All American Made,Margo Price,3,2017-11-11,2017-11-18,32,2
+90,Automatic For The People,R.E.M.,7,2017-12-02,2017-12-09,31,2
+91,Since I Left You,The Avalanches,8,2017-02-18,2017-02-25,31,2
+92,AM,Arctic Monkeys,10,2017-01-07,2017-01-21,31,3
+93,Something To Tell You,HAIM,3,2017-09-09,2017-09-16,30,2
+94,The Far Field,Future Islands,3,2017-04-29,2017-05-06,30,2
+95,Flying Microtonal Banana,King Gizzard And The Lizard Wizard,1,2017-03-18,2017-03-25,29,2
+96,Yourself Or Someone Like You,matchbox 20,7,2017-09-30,2017-10-07,29,2
+97,The Joshua Tree,U2,6,2017-06-24,2017-07-01,28,2
+98,Going Grey,The Front Bottoms,8,2017-11-04,2017-11-18,28,2
+99,Moana,Soundtrack,8,2017-05-06,2017-08-12,28,2
+100,Hysteria,Def Leppard,2,2017-08-26,2017-09-02,27,2
+101,Pretty.Odd.,Panic! At The Disco,2,2017-03-04,2017-03-11,27,2
+102,Rainbow,Kesha,4,2017-11-18,2017-11-25,27,2
+103,Waiting On A Song,Dan Auerbach,5,2017-06-24,2017-07-01,27,2
+104,Migration,Bonobo,8,2017-02-04,2017-02-11,27,2
+105,Joanne,Lady Gaga,6,2017-01-07,2017-01-14,26,2
+106,11 Short Stories Of Pain & Glory,Dropkick Murphys,1,2017-01-28,2017-01-28,25,1
+107,B-Sides And Rarities,Beach House,1,2017-07-22,2017-07-22,25,1
+108,Epoch,Tycho,1,2017-02-11,2017-02-11,25,1
+109,The Amulet,Circa Survive,1,2017-10-14,2017-10-14,25,1
+110,After The Party,The Menzingers,1,2017-02-25,2017-02-25,25,1
+111,Low In High School,Morrissey,1,2017-12-09,2017-12-09,25,1
+112,Master Of Puppets (Super Deluxe),Metallica,1,2017-12-02,2017-12-02,25,1
+113,Trouble Maker,Rancid,1,2017-07-01,2017-07-01,25,1
+114,The Desaturating Seven,Primus,1,2017-10-21,2017-10-21,25,1
+115,The Dusk In Us,Converge,1,2017-11-25,2017-11-25,25,1
+116,California,Blink-182,1,2017-06-10,2017-06-10,25,1
+117,Either/Or: Expanded Edtition,Elliott Smith,3,2017-04-01,2017-04-08,25,2
+118,Relaxer,alt-J,4,2017-06-24,2017-07-01,25,2
+119,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,David Bowie,6,2017-07-08,2017-07-29,25,3
+120,Live At Red Rocks 8.15.95,Dave Matthews Band,10,2017-05-13,2017-07-01,25,2
+121,The Lumineers,The Lumineers,14,2017-01-28,2017-08-05,25,4
+122,Soul Of A Woman,Sharon Jones And The Dap-Kings,2,2017-12-09,2017-12-09,24,1
+123,Heaven Upside Down,Marilyn Manson,2,2017-10-28,2017-10-28,24,1
+124,Lovely Little Lonely,The Maine,2,2017-04-29,2017-04-29,24,1
+125,Heartless,Pallbearer,2,2017-04-15,2017-04-15,24,1
+126,AFI (The Blood Album),AFI,2,2017-02-11,2017-02-11,24,1
+127,Interiors,Quicksand,2,2017-12-02,2017-12-02,24,1
+128,"P.N.E. Garden Auditorium, Vancouver, British Columbia, Canada July 29, 1966",Grateful Dead,2,2017-05-13,2017-05-13,24,1
+129,Black Mile To The Surface,Manchester Orchestra,2,2017-08-19,2017-08-19,24,1
+130,Yours Conditionally,Tennis,2,2017-04-08,2017-04-08,24,1
+131,What Now,Sylvan Esso,2,2017-05-20,2017-05-20,24,1
+132,Murder Of The Universe,King Gizzard And The Lizard Wizard,2,2017-07-15,2017-07-15,24,1
+133,Human,Death,2,2017-04-22,2017-04-22,24,1
+134,Pacific Daydream,Weezer,2,2017-11-18,2017-11-18,24,1
+135,The Peace And The Panic,Neck Deep,2,2017-09-09,2017-09-09,24,1
+136,Together At Last,Jeff Tweedy,4,2017-07-15,2017-07-22,24,2
+137,In-Ter A-Li-A,At The Drive-In,3,2017-05-27,2017-05-27,23,1
+138,Master Of Puppets,Metallica,3,2017-12-02,2017-12-02,23,1
+139,Last Young Renegade,All Time Low,3,2017-06-24,2017-06-24,23,1
+140,Souvenir,Drew Holcomb And The Neighbors,3,2017-04-15,2017-04-15,23,1
+141,Burst & Decay (An Acoustic EP),The Wonder Years,3,2017-10-14,2017-10-14,23,1
+142,Triplicate,Bob Dylan,3,2017-04-22,2017-04-22,23,1
+143,The Ultimate Collection,Evanescence,3,2017-03-11,2017-03-11,23,1
+144,Olympia,Austra,3,2017-09-02,2017-09-02,23,1
+145,Good Nature,Turnover,3,2017-09-16,2017-09-16,23,1
+146,Nightbringers,The Black Dahlia Murder,3,2017-10-28,2017-10-28,23,1
+147,MOSAIC,311,3,2017-07-15,2017-07-15,23,1
+148,A Live One,Phish,3,2017-11-18,2017-11-18,23,1
+149,Sound The Alarm,Less Than Jake,3,2017-02-25,2017-02-25,23,1
+150,Death Song,The Black Angels,3,2017-05-13,2017-05-13,23,1
+151,The Breaker,Little Big Town,3,2017-05-20,2017-05-20,23,1
+152,Live In Paris,Sleater-Kinney,3,2017-02-18,2017-02-18,23,1
+153,Victory Lap,Propagandhi,3,2017-10-21,2017-10-21,23,1
+154,Wolves,Rise Against,3,2017-07-01,2017-07-01,23,1
+155,True View,Stick To Your Guns,3,2017-11-04,2017-11-04,23,1
+156,Spirit,Depeche Mode,3,2017-04-08,2017-04-08,23,1
+157,Anthology (Movie Themes 1974-1998),John Carpenter,10,2017-11-11,2017-11-18,23,2
+158,Sketches Of Brunswick East,King Gizzard & The Lizard Wizard With Mild High Club,14,2017-10-28,2017-11-04,23,2
+159,How Did We Get So Dark?,Royal Blood,4,2017-07-08,2017-07-08,22,1
+160,The Search For Everything,John Mayer,4,2017-06-17,2017-06-17,22,1
+161,Phantom Anthem,August Burns Red,4,2017-10-28,2017-10-28,22,1
+162,Youngish American,Dams Of The West,4,2017-03-18,2017-03-18,22,1
+163,"Live At The Matrix: San Francisco, CA, Mar. 7, 1967",The Doors,4,2017-05-13,2017-05-13,22,1
+164,Boo Boo,Toro y Moi,4,2017-07-29,2017-07-29,22,1
+165,All Eyez On Me,2Pac,4,2017-09-23,2017-09-23,22,1
+166,Ty Segall,Ty Segall,4,2017-02-18,2017-02-18,22,1
+167,Believe,The String Cheese Incident,4,2017-05-06,2017-05-06,22,1
+168,God's Problem Child,Willie Nelson,4,2017-05-20,2017-05-20,22,1
+169,Lemon Cotton Candy Sunset,Richard Edwards,4,2017-04-22,2017-04-22,22,1
+170,"Barton Hall, Cornell Univ., Ithaca, NY, May 8, 1977",Grateful Dead,4,2017-05-27,2017-05-27,22,1
+171,Whiteout Conditions,The New Pornographers,4,2017-04-29,2017-04-29,22,1
+172,Antisocialites,Alvvays,4,2017-09-30,2017-09-30,22,1
+173,Zombies On Broadway,Andrew McMahon In The Wilderness,4,2017-03-04,2017-03-04,22,1
+174,Long Strange Trip: The Untold Story Of The Grateful Dead (Soundtrack),Grateful Dead,4,2017-08-26,2017-08-26,22,1
+175,Currents,Tame Impala,4,2017-12-09,2017-12-09,22,1
+176,Carnival III,Wyclef Jean,4,2017-10-21,2017-10-21,22,1
+177,Bury Me In Philly,Dave Hause,4,2017-02-25,2017-02-25,22,1
+178,[Hybrid Theory],Linkin Park,6,2017-08-12,2017-08-19,22,2
+179,Acoustic Hits,The Cure,9,2017-05-13,2017-07-22,22,2
+180,Barefoot In The Head,Chris Robinson Brotherhood,5,2017-08-12,2017-08-12,21,1
+181,Ultu Ulla,Rings Of Saturn,5,2017-08-19,2017-08-19,21,1
+182,Songs Of Experience,U2,5,2017-12-23,2017-12-23,21,1
+183,Legacy,David Bowie,5,2017-01-28,2017-01-28,21,1
+184,Oczy Mlody,The Flaming Lips,5,2017-02-04,2017-02-04,21,1
+185,A Momentary Lapse Of Reason,Pink Floyd,5,2017-02-11,2017-02-11,21,1
+186,Life Without Sound,Cloud Nothings,5,2017-02-18,2017-02-18,21,1
+187,Phases,Angel Olsen,5,2017-12-02,2017-12-02,21,1
+188,Jane: Live,Converge,5,2017-03-25,2017-03-25,21,1
+189,Drunk,Thundercat,5,2017-04-01,2017-04-01,21,1
+190,In Mind,Real Estate,5,2017-04-08,2017-04-08,21,1
+191,You're Not You Anymore,Counterparts,5,2017-10-14,2017-10-14,21,1
+192,Live From Welcome To 1979 (EP),Jason Isbell & The 400 Unit,5,2017-05-13,2017-05-13,21,1
+193,Makes Me Sick,New Found Glory,5,2017-05-20,2017-05-20,21,1
+194,Goths,The Mountain Goats,5,2017-06-10,2017-06-10,21,1
+195,Cats Under The Stars,Jerry Garcia,5,2017-11-04,2017-11-04,21,1
+196,Ti Amo,Phoenix,5,2017-07-01,2017-07-01,21,1
+197,Iteration,Com Truise,5,2017-07-08,2017-07-08,21,1
+198,Undivided Heart & Soul,JD McPherson,5,2017-10-28,2017-10-28,21,1
+199,Gravebloom,The Acacia Strain,5,2017-07-22,2017-07-22,21,1
+200,Hug Of Thunder,Broken Social Scene,5,2017-07-29,2017-07-29,21,1
+201,Out In The Storm,Waxahatchee,5,2017-08-05,2017-08-05,21,1
+202,Akira,Soundtrack,5,2017-10-21,2017-10-21,21,1
+203,"All We Know Of Heaven, All We Need Of Hell",PVRIS,8,2017-09-23,2017-10-14,21,2
+204,Westworld: Music From The HBO Series - Season 1,Soundtrack,6,2017-04-29,2017-04-29,20,1
+205,"Listen Without Prejudice, Vol. 1",George Michael,6,2017-11-11,2017-11-11,20,1
+206,4 Your Eyez Only,J. Cole,6,2017-05-20,2017-05-20,20,1
+207,Dedicated To Bobby Jameson,Ariel Pink,6,2017-10-07,2017-10-07,20,1
+208,Mental Illness,Aimee Mann,6,2017-04-22,2017-04-22,20,1
+209,Chuck,Chuck Berry,6,2017-07-01,2017-07-01,20,1
+210,Kids In The Street,Justin Townes Earle,6,2017-06-17,2017-06-17,20,1
+211,Shapeshifter,Knuckle Puck,6,2017-11-04,2017-11-04,20,1
+212,Salutations,Conor Oberst,6,2017-04-08,2017-04-08,20,1
+213,On Letting Go,Circa Survive,6,2017-02-04,2017-02-04,20,1
+214,Dirty Projectors,Dirty Projectors,6,2017-03-18,2017-03-18,20,1
+215,Scream,Michael Jackson,6,2017-11-18,2017-11-18,20,1
+216,In Your Absence (EP),Senses Fail,6,2017-03-25,2017-03-25,20,1
+217,To The Bone,Steven Wilson,6,2017-09-09,2017-09-09,20,1
+218,Evolve,Imagine Dragons,7,2017-08-12,2017-08-12,19,1
+219,Dead Cross,Dead Cross,7,2017-08-26,2017-08-26,19,1
+220,Nightmare Logic,Power Trip,7,2017-03-18,2017-03-18,19,1
+221,Planetarium,"Sufjan Stevens, Nico Muhly, Bryce Dessner & James McAlister",7,2017-07-01,2017-07-01,19,1
+222,Individual Thought Patterns,Death,7,2017-11-11,2017-11-11,19,1
+223,You Can't Stay Here,Iron Chic,7,2017-11-04,2017-11-04,19,1
+224,All-Amerikkkan Bada$$,Joey Bada$$,7,2017-04-29,2017-04-29,19,1
+225,Light It Up,Hot Water Music,7,2017-10-07,2017-10-07,19,1
+226,Harmony Of Difference,Kamasi Washington,7,2017-10-21,2017-10-21,19,1
+227,Harvest Moon,Neil Young,7,2017-12-16,2017-12-16,19,1
+228,You're Not As ______ As You Think,Sorority Noise,7,2017-04-08,2017-04-08,19,1
+229,Wendigo,Penny And Sparrow,7,2017-09-23,2017-09-23,19,1
+230,Rarities: 1981-1983 (EP),Stevie Nicks,7,2017-05-13,2017-05-13,19,1
+231,As You Were,Liam Gallagher,7,2017-10-28,2017-10-28,19,1
+232,Hiss Spun,Chelsea Wolfe,7,2017-10-14,2017-10-14,19,1
+233,Dear Evan Hansen,Original Broadway Cast Recording,7,2017-09-16,2017-09-16,19,1
+234,Merry Christmas,Bing Crosby,13,2017-12-02,2017-12-23,19,3
+235,To Pimp A Butterfly,Kendrick Lamar,17,2017-05-06,2017-06-10,19,4
+236,Chronicle The 20 Greatest Hits,Creedence Clearwater Revival,21,2017-01-07,2017-12-23,19,6
+237,In Spades,The Afghan Whigs,8,2017-05-27,2017-05-27,18,1
+238,Losing,Bully,8,2017-11-11,2017-11-11,18,1
+239,"Woodstock: Saturday August 16, 1969",Santana,8,2017-05-13,2017-05-13,18,1
+240,Carry Fire,Robert Plant,8,2017-11-04,2017-11-04,18,1
+241,Silver Eye,Goldfrapp,8,2017-04-22,2017-04-22,18,1
+242,You're Welcome,Wavves,8,2017-06-10,2017-06-10,18,1
+243,Flowers In The Dirt,Paul McCartney,8,2017-04-15,2017-04-15,18,1
+244,Gone Now,Bleachers,8,2017-06-24,2017-06-24,18,1
+245,Ultramega OK,Soundgarden,8,2017-04-01,2017-04-01,18,1
+246,Volcano,Temples,8,2017-03-25,2017-03-25,18,1
+247,Graveyard Whistling,Old 97's,8,2017-03-18,2017-03-18,18,1
+248,Crossover Ministry,Iron Reagan,8,2017-02-25,2017-02-25,18,1
+249,"Hissing Fauna,  Are You The Destroyer?",of Montreal,8,2017-07-22,2017-07-22,18,1
+250,A Moment Apart,ODESZA,8,2017-09-30,2017-09-30,18,1
+251,Poncier,Poncier,8,2017-12-16,2017-12-16,18,1
+252,(V),The Bronx,8,2017-10-14,2017-10-14,18,1
+253,Godless Prophets & The Migrant Flora,Darkest Hour,9,2017-04-01,2017-04-01,17,1
+254,Suicide Silence,Suicide Silence,9,2017-03-18,2017-03-18,17,1
+255,Relatives In Descent,Protomartyr,9,2017-10-21,2017-10-21,17,1
+256,Cold Dark Place (EP),Mastodon,9,2017-11-18,2017-11-18,17,1
+257,Nimrod.,Green Day,9,2017-11-04,2017-11-04,17,1
+258,Prophets Of Rage,Prophets Of Rage,9,2017-10-07,2017-10-07,17,1
+259,Greatest Hits: God's Favorite Band,Green Day,9,2017-12-09,2017-12-09,17,1
+260,The Immaculate Collection,Madonna,9,2017-02-11,2017-02-11,17,1
+261,Cover Stories: Brandi Carlile Celebrates 10 Years Of The Story...,Various Artists,9,2017-05-27,2017-05-27,17,1
+262,Wonderful Wonderful,The Killers,9,2017-10-14,2017-10-14,17,1
+263,The Fickle Finger Of Fate,Dale Crover,9,2017-08-26,2017-08-26,17,1
+264,Shakey Graves & The Horse He Rode In On./Nobody's Fool... E.P.,Shakey Graves,9,2017-07-22,2017-07-22,17,1
+265,Cry Cry Cry,Wolf Parade,9,2017-10-28,2017-10-28,17,1
+266,Capacity,Big Thief,9,2017-07-01,2017-07-01,17,1
+267,Ten,Pearl Jam,9,2017-12-02,2017-12-02,17,1
+268,Ultimate Sinatra,Frank Sinatra,18,2017-02-11,2017-11-25,17,3
+269,24K Magic,Bruno Mars,18,2017-01-21,2017-05-06,17,5
+270,Mountain Moves,Deerhoof,10,2017-09-30,2017-09-30,16,1
+271,Somersault,Beach Fossils,10,2017-06-24,2017-06-24,16,1
+272,Savage Young Du,Husker Du,10,2017-12-02,2017-12-02,16,1
+273,Overcast!,Atmosphere,10,2017-11-18,2017-11-18,16,1
+274,Collage (EP),The Chainsmokers,10,2017-01-28,2017-01-28,16,1
+275,Visions Of A Life,Wolf Alice,10,2017-10-28,2017-10-28,16,1
+276,We All Want The Same Things,Craig Finn,10,2017-04-15,2017-04-15,16,1
+277,Luciferian Towers,Godspeed You! Black Emperor,10,2017-10-14,2017-10-14,16,1
+278,Everybody,Logic,10,2017-05-27,2017-05-27,16,1
+279,The Stories We Tell Ourselves,Nothing More,10,2017-10-07,2017-10-07,16,1
+280,Cygnus X- 1 (EP),Rush,10,2017-05-13,2017-05-13,16,1
+281,Last Place,Grandaddy,10,2017-03-25,2017-03-25,16,1
+282,Rage Against The Machine,Rage Against The Machine,12,2017-10-28,2017-11-04,16,2
+283,21,Adele,18,2017-01-07,2017-01-21,16,3
+284,Soup,Blind Melon,11,2017-02-18,2017-02-18,15,1
+285,A New Career In A New Town (1977 - 1982),David Bowie,11,2017-10-21,2017-10-21,15,1
+286,Freedom Is Free,Chicano Batman,11,2017-03-25,2017-03-25,15,1
+287,Butterfly,Mariah Carey,11,2017-11-11,2017-11-11,15,1
+288,Beautiful Trauma,P!nk,11,2017-11-04,2017-11-04,15,1
+289,Outlive,Demon Hunter,11,2017-04-22,2017-04-22,15,1
+290,The Mission,Styx,11,2017-07-08,2017-07-08,15,1
+291,All The Light Above It Too,Jack Johnson,11,2017-09-30,2017-09-30,15,1
+292,Hard Love,Strand Of Oaks,11,2017-03-11,2017-03-11,15,1
+293,"Really Rock 'Em Right: Sun Records Curated By Record Store Day, Volume 4",Various Artists,11,2017-05-13,2017-05-13,15,1
+294,Pleasure,Feist,11,2017-05-20,2017-05-20,15,1
+295,La Divine,Cold War Kids,11,2017-04-29,2017-04-29,15,1
+296,Slime And Punishment,Municipal Waste,12,2017-07-15,2017-07-15,14,1
+297,Forever,Code Orange,12,2017-02-04,2017-02-04,14,1
+298,Windy City,Alison Krauss,12,2017-03-11,2017-03-11,14,1
+299,Overexposed,Sleep On It,12,2017-11-25,2017-11-25,14,1
+300,Live / North America 2016,Gary Clark Jr.,12,2017-04-08,2017-04-08,14,1
+301,"Live From Austin, Tx",Widespread Panic,12,2017-11-18,2017-11-18,14,1
+302,Bowie: Cracked Actor (Live Los Angeles '74),David Bowie,12,2017-05-13,2017-05-13,14,1
+303,"Betty's Self-Rising Southern Blends, Vol. 3",Chris Robinson Brotherhood,12,2017-05-27,2017-05-27,14,1
+304,Badmotorfinger,Soundgarden,12,2017-06-17,2017-06-17,14,1
+305,Beauty And The Beast (2017),Soundtrack,12,2017-06-24,2017-06-24,14,1
+306,As You Please,Citizen,12,2017-10-28,2017-10-28,14,1
+307,Dead Reflection,Silverstein,12,2017-08-05,2017-08-05,14,1
+308,Doom Side Of The Moon,Doom Side Of The Moon,12,2017-08-26,2017-08-26,14,1
+309,Our Love To Admire,Interpol,12,2017-09-09,2017-09-09,14,1
+310,A Seat At The Table,Solange,15,2017-01-21,2017-10-21,14,2
+311,Sigh No More,Mumford & Sons,18,2017-01-21,2017-01-28,14,2
+312,Blade Runner (Soundtrack),Vangelis,13,2017-05-13,2017-05-13,13,1
+313,Ken,Destroyer,13,2017-11-11,2017-11-11,13,1
+314,Greatest Hits,Foo Fighters,13,2017-04-29,2017-04-29,13,1
+315,Meaning Of Life,Kelly Clarkson,13,2017-11-18,2017-11-18,13,1
+316,Live At Pompeii,David Gilmour,13,2017-10-21,2017-10-21,13,1
+317,Who Built The Moon?,Noel Gallagher's High Flying Birds,13,2017-12-16,2017-12-16,13,1
+318,Lindsey Buckingham Christine McVie,Lindsey Buckingham / Christine McVie,13,2017-07-01,2017-07-01,13,1
+319,Flicker,Niall Horan,13,2017-12-09,2017-12-09,13,1
+320,Flower Boy,"Tyler, The Creator",13,2017-12-30,2017-12-30,13,1
+321,New Miserable Experience,Gin Blossoms,13,2017-04-15,2017-04-15,13,1
+322,Trumpeting Ecstasy,Full Of Hell,13,2017-05-27,2017-05-27,13,1
+323,The OOZ,King Krule,13,2017-11-04,2017-11-04,13,1
+324,Their Satanic Majesties Request,The Rolling Stones,13,2017-10-14,2017-10-14,13,1
+325,Parasite (EP),The Coathangers,13,2017-07-22,2017-07-22,13,1
+326,Dear Desolation,Thy Art Is Murder,13,2017-09-09,2017-09-09,13,1
+327,spin,Tigers Jaw,13,2017-07-15,2017-07-15,13,1
+328,Destroyers Of The Soft Life,J Roddy Walston & The Business,14,2017-10-21,2017-10-21,12,1
+329,Walk With Love & Death,The Melvins,14,2017-07-29,2017-07-29,12,1
+330,So You Wannabe An Outlaw,Steve Earle And The Dukes,14,2017-07-08,2017-07-08,12,1
+331,Everything Sucks,Descendents,14,2017-05-27,2017-05-27,12,1
+332,Ogilala,William Patrick Corgan,14,2017-11-04,2017-11-04,12,1
+333,A Long Way From Your Heart,The Turnpike Troubadours,14,2017-11-11,2017-11-11,12,1
+334,Alternate Mirage,Fleetwood Mac,14,2017-05-13,2017-05-13,12,1
+335,Fried Shallots,Ty Segall,14,2017-09-16,2017-09-16,12,1
+336,Rogue One: A Star Wars Story,Soundtrack,14,2017-04-22,2017-04-22,12,1
+337,August And Everything After,Counting Crows,14,2017-04-15,2017-04-15,12,1
+338,Landmark,Hippo Campus,14,2017-03-18,2017-03-18,12,1
+339,Being There,Wilco,14,2017-12-23,2017-12-23,12,1
+340,Clairvoyant,The Contortionist,14,2017-10-07,2017-10-07,12,1
+341,1989,Taylor Swift,21,2017-01-07,2017-01-21,12,3
+342,Led Zeppelin IV,Led Zeppelin,21,2017-01-07,2017-12-30,12,3
+343,Get Up,Bryan Adams,15,2017-07-01,2017-07-01,11,1
+344,Skin&Earth,LIGHTS,15,2017-10-14,2017-10-14,11,1
+345,The Final Cut,Pink Floyd,15,2017-02-11,2017-02-11,11,1
+346,Hunky Dory,David Bowie,15,2017-07-08,2017-07-08,11,1
+347,Dance Of Death,Iron Maiden,15,2017-07-15,2017-07-15,11,1
+348,Utopia,Bjork,15,2017-12-16,2017-12-16,11,1
+349,Kaleidoscope EP,Coldplay,15,2017-08-26,2017-08-26,11,1
+350,Orc,Oh Sees,15,2017-09-16,2017-09-16,11,1
+351,BOWPROMO,David Bowie,15,2017-05-13,2017-05-13,11,1
+352,Quazarz: Born On A Gangster Star,Shabazz Palaces,15,2017-08-05,2017-08-05,11,1
+353,Blue & Lonesome,The Rolling Stones,15,2017-01-07,2017-01-07,11,1
+354,Always Foreign,The World Is A Beautiful Place And I Am No Longer Afraid To Die,15,2017-10-21,2017-10-21,11,1
+355,Memories...Do Not Open,The Chainsmokers,15,2017-06-17,2017-06-17,11,1
+356,Home For Christmas,'N Sync,15,2017-12-09,2017-12-09,11,1
+357,Paranormal,Alice Cooper,16,2017-08-19,2017-08-19,10,1
+358,Transistor,311,16,2017-02-11,2017-02-11,10,1
+359,The Continuous Evilution Of Life's ?'s,Twiztid,16,2017-02-18,2017-02-18,10,1
+360,The Hamilton Mixtape,Various Artists,16,2017-03-04,2017-03-04,10,1
+361,Notes Of Blue,Son Volt,16,2017-03-11,2017-03-11,10,1
+362,Electric Ladyland,The Jimi Hendrix Experience,16,2017-04-15,2017-04-15,10,1
+363,The Walls Will Fall (EP),Terror,16,2017-05-20,2017-05-20,10,1
+364,Louder Now,Taking Back Sunday,16,2017-08-05,2017-08-05,10,1
+365,Popular Manipulations,The Districts,16,2017-09-02,2017-09-02,10,1
+366,Some Of You Will Like This // Some Of You Won't,Four Year Strong,16,2017-09-30,2017-09-30,10,1
+367,Gathering,Josh Ritter,16,2017-10-14,2017-10-14,10,1
+368,Live At The Warfield 1997 (EP),Morphine,16,2017-12-02,2017-12-02,10,1
+369,Ctrl,SZA,16,2017-12-09,2017-12-09,10,1
+370,Plastic Beach,Gorillaz,18,2017-04-29,2017-05-20,10,2
+371,Lust For Life,Lana Del Rey,20,2017-10-28,2017-11-04,10,2
+372,Purgatory,Tyler Childers,17,2017-08-26,2017-08-26,9,1
+373,Pollinator,Blondie,17,2017-05-27,2017-05-27,9,1
+374,Box Car Racer,Box Car Racer,17,2017-06-10,2017-06-10,9,1
+375,Moh Lhean,WHY?,17,2017-03-25,2017-03-25,9,1
+376,Every Country's Sun,Mogwai,17,2017-09-23,2017-09-23,9,1
+377,50 Years Of Blonde On Blonde,Old Crow Medicine Show,17,2017-05-20,2017-05-20,9,1
+378,The World's Best American Band,White Reaper,17,2017-04-29,2017-04-29,9,1
+379,Okovi,Zola Jesus,17,2017-09-30,2017-09-30,9,1
+380,Strange Peace,METZ,17,2017-10-14,2017-10-14,9,1
+381,Cigarettes After Sex,Cigarettes After Sex,17,2017-07-01,2017-07-01,9,1
+382,Feel Something,Movements,17,2017-11-11,2017-11-11,9,1
+383,A Matter Of Life And Death,Iron Maiden,17,2017-07-15,2017-07-15,9,1
+384,"For Emma, Forever Ago",Bon Iver,20,2017-01-28,2017-07-29,9,2
+385,True Romance,Soundtrack,18,2017-08-12,2017-08-12,8,1
+386,Electric Lady Sessions (EP),Drive-By Truckers,18,2017-05-13,2017-05-13,8,1
+387,All The Beauty In This Whole Life,Brother Ali,18,2017-05-27,2017-05-27,8,1
+388,A.M.,Wilco,18,2017-12-23,2017-12-23,8,1
+389,Time Well,Cloakroom,18,2017-09-09,2017-09-09,8,1
+390,Gossip,Sleeping With Sirens,18,2017-10-14,2017-10-14,8,1
+391,Nocturnal,The Black Dahlia Murder,18,2017-08-19,2017-08-19,8,1
+392,Sick Scenes,Los Campesinos!,18,2017-03-18,2017-03-18,8,1
+393,Dont Smile At Me,Billie Eilish,18,2017-12-02,2017-12-02,8,1
+394,IV,Timothy Seth Avett As Darling,18,2017-04-22,2017-04-22,8,1
+395,The Canyon,The Used,18,2017-11-18,2017-11-18,8,1
+396,Do Or Die,Burn,18,2017-09-30,2017-09-30,8,1
+397,Witness,Benjamin Booker,18,2017-06-24,2017-06-24,8,1
+398,Mareridt,Myrkur,18,2017-10-07,2017-10-07,8,1
+399,Blonde,Frank Ocean,19,2017-01-14,2017-01-14,7,1
+400,Sacred Hearts Club,Foster The People,19,2017-09-02,2017-09-02,7,1
+401,Brave New World,Iron Maiden,19,2017-07-15,2017-07-15,7,1
+402,11-17-70,Elton John,19,2017-05-13,2017-05-13,7,1
+403,"Deer Tick, Vol. 1",Deer Tick,19,2017-10-07,2017-10-07,7,1
+404,Weather Diaries,Ride,19,2017-07-08,2017-07-08,7,1
+405,2014 Forest Hills Drive,J. Cole,19,2017-01-21,2017-01-21,7,1
+406,Best Of Old Crow Medicine Show,Old Crow Medicine Show,19,2017-03-04,2017-03-04,7,1
+407,The Book Of Souls: The Live Chapter,Iron Maiden,19,2017-12-09,2017-12-09,7,1
+408,Fail You Again,Can't Swim,19,2017-04-01,2017-04-01,7,1
+409,Damage And Joy,The Jesus And Mary Chain,19,2017-04-15,2017-04-15,7,1
+410,Enter The Wu-Tang (36 Chambers),Wu-Tang Clan,21,2017-11-18,2017-11-25,7,2
+411,4Ever,Prince,20,2017-10-07,2017-10-07,6,1
+412,Even If It Kills Me,Motion City Soundtrack,20,2017-12-30,2017-12-30,6,1
+413,Garcia,Jerry Garcia,20,2017-09-09,2017-09-09,6,1
+414,The Prestaliis,Hundred Suns,20,2017-09-02,2017-09-02,6,1
+415,Rare,Hundredth,20,2017-07-08,2017-07-08,6,1
+416,Do You Feel,The Rocket Summer,20,2017-06-24,2017-06-24,6,1
+417,No Shape,Perfume Genius,20,2017-05-27,2017-05-27,6,1
+418,Few,He Is Legend,20,2017-05-20,2017-05-20,6,1
+419,Stinson Beach Sessions,The Head And The Heart,20,2017-05-13,2017-05-13,6,1
+420,Coming Home,Leon Bridges,20,2017-04-01,2017-04-01,6,1
+421,Why Love Now,Pissed Jeans,20,2017-03-18,2017-03-18,6,1
+422,I'm Only Dreaming,Eisley,20,2017-03-11,2017-03-11,6,1
+423,Y Kant Tori Read,Y Kant Tori Read,20,2017-12-16,2017-12-16,6,1
+424,First Impressions Of Earth,The Strokes,21,2017-03-04,2017-03-04,5,1
+425,Heatwave,Trapped Under Ice,21,2017-08-12,2017-08-12,5,1
+426,Pinewood Smile,The Darkness,21,2017-10-28,2017-10-28,5,1
+427,Divisi,A Lot Like Birds,21,2017-05-27,2017-05-27,5,1
+428,"Squeeze Box: The Complete Works Of ""Weird Al"" Yankovic","""Weird Al"" Yankovic",21,2017-12-16,2017-12-16,5,1
+429,Dookie,Green Day,21,2017-05-20,2017-05-20,5,1
+430,My Beautiful Dark Twisted Fantasy,Kanye West,21,2017-01-28,2017-01-28,5,1
+431,The Only EP,Dua Lipa,21,2017-05-06,2017-05-06,5,1
+432,Spotify Sessions (EP),Sia,22,2017-05-13,2017-05-13,4,1
+433,Violator,Depeche Mode,22,2017-06-03,2017-06-03,4,1
+434,World Be Gone,Erasure,22,2017-06-10,2017-06-10,4,1
+435,Turn On The Bright Lights,Interpol,22,2017-04-29,2017-04-29,4,1
+436,"Everybody Else Is Doing It, So Why Can't We?",The Cranberries,22,2017-07-22,2017-07-22,4,1
+437,Epitaph,Necrophagist,22,2017-04-08,2017-04-08,4,1
+438,The Navigator,Hurray For The Riff Raff,22,2017-04-01,2017-04-01,4,1
+439,All Things Must Pass,George Harrison,22,2017-03-18,2017-03-18,4,1
+440,reputation,Taylor Swift,22,2017-12-30,2017-12-30,4,1
+441,Hang,Foxygen,22,2017-02-11,2017-02-11,4,1
+442,Absolutely Live,The Doors,22,2017-12-16,2017-12-16,4,1
+443,Badlands,Halsey,22,2017-01-21,2017-01-21,4,1
+444,L.A. Witch,L.A. Witch,22,2017-09-30,2017-09-30,4,1
+445,The Chronic,Dr. Dre,23,2017-08-12,2017-09-02,4,2
+446,Ride The Lightning,Metallica,23,2017-12-02,2017-12-02,3,1
+447,Supa Dupa Fly,"Missy ""Misdemeanor"" Elliott",23,2017-07-29,2017-07-29,3,1
+448,Carolina,Eric Church,23,2017-08-05,2017-08-05,3,1
+449,Greatest Hits,Queen,23,2017-05-06,2017-05-06,3,1
+450,Galactic Empire,Galactic Empire,23,2017-02-25,2017-02-25,3,1
+451,Lime And Limpid Green (EP),The Claypool Lennon Delirum,23,2017-08-26,2017-08-26,3,1
+452,Sunset Riders,Soundtrack,23,2017-09-16,2017-09-16,3,1
+453,"America, Location 12",Dispatch,23,2017-06-24,2017-06-24,3,1
+454,Audioslave,Audioslave,23,2017-09-09,2017-09-09,3,1
+455,Live From The Fox Oakland,Tedeschi Trucks Band,23,2017-06-03,2017-06-03,3,1
+456,93 / 99 (EP),Alice In Chains,23,2017-05-13,2017-05-13,3,1
+457,"Trouble No More: The Bootleg Series, Vol. 13 / 1979-1981",Bob Dylan,23,2017-11-25,2017-11-25,3,1
+458,Obituary,Obituary,23,2017-04-08,2017-04-08,3,1
+459,Miasma,The Black Dahlia Murder,24,2017-11-18,2017-11-18,2,1
+460,Little Fictions,Elbow,24,2017-02-25,2017-02-25,2,1
+461,Precious Art,Rozwell Kid,24,2017-07-15,2017-07-15,2,1
+462,40 Oz. To Freedom,Sublime,24,2017-12-16,2017-12-16,2,1
+463,Space Oddity,David Bowie,24,2017-04-22,2017-04-22,2,1
+464,"Live At The Agora, 1978",The Cars,24,2017-05-13,2017-05-13,2,1
+465,Quazarz vs The Jealous Machine,Shabazz Palaces,24,2017-08-05,2017-08-05,2,1
+466,Forget,Xiu Xiu,24,2017-03-18,2017-03-18,2,1
+467,Dark Matter,Randy Newman,24,2017-09-09,2017-09-09,2,1
+468,"22, A Million",Bon Iver,24,2017-01-14,2017-01-14,2,1
+469,Live At Luther College,Dave Matthews & Tim Reynolds,25,2017-12-16,2017-12-16,1,1
+470,Inviting Light,The Flatliners,25,2017-04-29,2017-04-29,1,1
+471,Superchunk,Superchunk,25,2017-09-16,2017-09-16,1,1
+472,Austin City Limits,Townes Van Zandt,25,2017-05-13,2017-05-13,1,1
+473,The Satellite Years,Hopesfall,25,2017-02-25,2017-02-25,1,1
+474,Revolution Come... Revolution Go,Gov't Mule,25,2017-07-01,2017-07-01,1,1
+475,"Deer Tick, Vol. 2",Deer Tick,25,2017-10-07,2017-10-07,1,1
+476,How To Dismantle An Atomic Bomb,U2,25,2017-05-20,2017-05-20,1,1
+477,Doggy Style,Snoop Doggy Dogg,25,2017-07-29,2017-07-29,1,1
+478,The Grateful Dead,Grateful Dead,25,2017-02-11,2017-02-11,1,1
+479,2112,Rush,25,2017-01-07,2017-01-07,1,1
+480,Cry Baby,Melanie Martinez,25,2017-01-21,2017-01-21,1,1
+481,From The Unforgiving Arms Of God (EP),END,25,2017-09-30,2017-09-30,1,1

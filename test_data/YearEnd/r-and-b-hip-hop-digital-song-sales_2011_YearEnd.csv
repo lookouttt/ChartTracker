@@ -1,0 +1,302 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Super Bass,Nicki Minaj,1,2011-02-19,2011-12-31,4096,37
+2,F**k You! (Forget You),CeeLo Green,1,2011-01-01,2011-12-31,4081,53
+3,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",1,2011-04-16,2011-12-31,3945,38
+4,Look At Me Now,Chris Brown Featuring Lil Wayne & Busta Rhymes,1,2011-02-19,2011-12-31,3812,46
+5,How To Love,Lil Wayne,1,2011-06-11,2011-12-31,2879,30
+6,The Show Goes On,Lupe Fiasco,3,2011-01-01,2011-11-12,2833,43
+7,6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,1,2011-01-01,2011-12-31,2514,46
+8,Lighters,Bad Meets Evil Featuring Bruno Mars,1,2011-07-02,2011-12-31,2485,27
+9,Down On Me,Jeremih Featuring 50 Cent,1,2011-01-01,2011-09-10,2423,37
+10,Black And Yellow,Wiz Khalifa,1,2011-01-01,2011-09-24,2329,34
+11,I Need A Doctor,Dr. Dre Featuring Eminem & Skylar Grey,1,2011-02-19,2011-09-03,1969,29
+12,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,3,2011-01-01,2011-07-30,1925,30
+13,I'm On One,DJ Khaled,2,2011-06-04,2011-12-31,1847,31
+14,Headlines,Drake,2,2011-08-27,2011-12-31,1754,18
+15,Lose Yourself,Eminem,17,2011-01-01,2011-12-31,1752,53
+16,5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,1,2011-10-15,2011-12-31,1569,12
+17,Ni**as In Paris,Jay Z Kanye West,1,2011-08-27,2011-12-31,1564,19
+18,Roll Up,Wiz Khalifa,6,2011-02-26,2011-09-10,1503,29
+19,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,2,2011-01-01,2011-07-30,1501,31
+20,Written In The Stars,Tinie Tempah Featuring Eric Turner,1,2011-03-05,2011-10-29,1439,25
+21,All Of The Lights,Kanye West,8,2011-01-22,2011-10-08,1431,38
+22,Motivation,Kelly Rowland Featuring Lil Wayne,8,2011-04-30,2011-12-10,1428,33
+23,More,Usher,4,2011-01-01,2011-08-13,1360,32
+24,No Hands,Waka Flocka Flame,5,2011-01-01,2011-07-30,1352,30
+25,Love The Way You Lie,Eminem Featuring Rihanna,14,2011-01-01,2011-12-10,1233,45
+26,Teach Me How To Dougie,Cali Swag District,19,2011-01-01,2011-12-31,1219,46
+27,She Will,Lil Wayne Featuring Drake,1,2011-09-03,2011-12-31,1210,18
+28,Dance (A$$),Big Sean Featuring Nicki Minaj,2,2011-09-24,2011-12-31,1188,15
+29,What's My Name?,Rihanna Featuring Drake,1,2011-01-01,2011-05-14,1157,20
+30,Best Love Song,T-Pain Featuring Chris Brown,7,2011-04-09,2011-11-05,1128,30
+31,Best Thing I Never Had,Beyonce,6,2011-06-18,2011-11-12,1079,22
+32,No Sleep,Wiz Khalifa,1,2011-04-09,2011-11-26,1076,34
+33,Moment 4 Life,Nicki Minaj Featuring Drake,10,2011-01-01,2011-08-20,1046,33
+34,Otis,Jay Z Kanye West Featuring Otis Redding,5,2011-08-06,2011-12-31,929,21
+35,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,1,2011-10-29,2011-12-31,895,10
+36,Work Out,J. Cole,5,2011-07-23,2011-12-31,885,18
+37,Fly,Nicki Minaj Featuring Rihanna,6,2011-09-17,2011-12-31,870,16
+38,Better With The Lights Off,New Boyz Featuring Chris Brown,7,2011-05-21,2011-12-03,866,25
+39,Pretty Girl Rock,Keri Hilson,12,2011-01-01,2011-06-25,857,26
+40,Sure Thing,Miguel,17,2011-03-19,2011-10-22,826,32
+41,Bottoms Up,Trey Songz Featuring Nicki Minaj,3,2011-01-01,2011-05-14,821,20
+42,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,9,2011-01-01,2011-07-30,807,30
+43,Backseat,New Boyz Featuring The Cataracs & Dev,8,2011-03-05,2011-07-23,803,21
+44,Like A G6,Far*East Movement Featuring Cataracs & Dev,6,2011-01-01,2011-09-03,797,27
+45,Strange Clouds,B.o.B Featuring Lil Wayne,1,2011-10-15,2011-12-31,770,12
+46,Just A Dream,Nelly,4,2011-01-01,2011-05-28,759,22
+47,Just Can't Get Enough,The Black Eyed Peas,1,2011-03-12,2011-04-23,741,7
+48,Marvin & Chardonnay,Big Sean Featuring Kanye West & Roscoe Dash,8,2011-07-16,2011-12-31,728,24
+49,Marvins Room,Drake,5,2011-08-06,2011-12-24,717,20
+50,Make Me Proud,Drake Featuring Nicki Minaj,1,2011-10-29,2011-12-31,659,9
+51,Donald Trump,Mac Miller,18,2011-06-04,2011-12-31,637,31
+52,She Ain't You,Chris Brown,12,2011-04-09,2011-10-08,624,23
+53,Run The World (Girls),Beyonce,6,2011-05-07,2011-11-05,614,23
+54,John,Lil Wayne Featuring Rick Ross,5,2011-04-09,2011-09-03,584,22
+55,The Motto,Drake Featuring Lil Wayne,2,2011-12-03,2011-12-31,552,5
+56,My Last,Big Sean Featuring Chris Brown,14,2011-03-19,2011-09-10,546,22
+57,Not Afraid,Eminem,12,2011-01-01,2011-09-10,539,27
+58,Yeah 3X,Chris Brown,9,2011-02-12,2011-09-17,538,21
+59,Rain Over Me,Pitbull Featuring Marc Anthony,8,2011-07-02,2011-10-08,532,12
+60,All I Do Is Win,"DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",26,2011-01-01,2011-10-22,517,33
+61,Blunt Blowin,Lil Wayne,6,2011-09-17,2011-12-31,465,16
+62,Whip My Hair,WILLOW,9,2011-01-01,2011-05-07,462,19
+63,Booty Wurk (One Cheek At A Time),T-Pain Featuring Joey Galaxy,7,2011-07-30,2011-11-26,447,17
+64,Right Above It,Lil Wayne Featuring Drake,12,2011-01-01,2011-05-21,444,21
+65,Love On Top,Beyonce,2,2011-09-10,2011-12-31,431,17
+66,Take Care,Drake Featuring Rihanna,1,2011-12-03,2011-12-31,429,5
+67,Racks,YC Featuring Future,14,2011-04-23,2011-08-13,420,17
+68,Gucci Gucci,Kreayshawn,11,2011-08-13,2011-11-12,384,14
+69,Mirror,Lil Wayne Featuring Bruno Mars,1,2011-09-17,2011-12-31,379,8
+70,I'm Into You,Jennifer Lopez Featuring Lil Wayne,11,2011-04-16,2011-09-17,377,17
+71,OMG,Usher Featuring will.i.am,19,2011-01-01,2011-06-11,343,19
+72,Do The John Wall,Troop 41,19,2011-01-01,2011-05-07,303,19
+73,All I Want For Christmas Is You,Mariah Carey,8,2011-01-01,2011-12-31,301,7
+74,On My Level,Wiz Khalifa Featuring Too $hort,12,2011-03-12,2011-09-10,297,20
+75,No Love,Eminem Featuring Lil Wayne,13,2011-01-01,2011-04-02,295,13
+76,Countdown,Beyonce,17,2011-07-16,2011-12-31,290,12
+77,Wobble,V.I.C.,23,2011-09-24,2011-12-31,281,15
+78,Fast Lane,Bad Meets Evil,7,2011-05-21,2011-10-22,280,12
+79,Buzzin',Mann,20,2011-01-29,2011-04-23,275,13
+80,Out Of My Head,Lupe Fiasco Featuring Trey Songz,16,2011-06-25,2011-09-10,269,12
+81,International Love,Pitbull Featuring Chris Brown,8,2011-06-18,2011-12-31,267,8
+82,Man Down,Rihanna,20,2011-06-18,2011-09-03,265,12
+83,Lotus Flower Bomb,Wale Featuring Miguel,18,2011-10-29,2011-12-31,249,10
+84,Hustle Hard,Ace Hood,22,2011-04-30,2011-08-27,248,14
+85,Kush,Dr. Dre Featuring Snoop Dogg & Akon,17,2011-01-01,2011-03-19,236,12
+86,H*A*M,Kanye West Jay Z,3,2011-01-29,2011-03-12,220,7
+87,Did It On'em,Nicki Minaj,24,2011-04-02,2011-06-25,216,13
+88,'Till I Collapse,Eminem Featuring Nate Dogg,15,2011-08-13,2011-11-26,214,11
+89,Right Thru Me,Nicki Minaj,18,2011-01-01,2011-02-26,209,9
+90,Cat Daddy,Rej3ctz,31,2011-04-09,2011-07-30,206,15
+91,Deuces,Chris Brown Featuring Tyga & Kevin McCall,23,2011-01-01,2011-04-09,205,12
+92,You Be Killin Em,Fabolous,32,2011-01-29,2011-05-14,196,16
+93,Talk That Talk,Rihanna Featuring Jay-Z,3,2011-12-10,2011-12-24,185,3
+94,Good Good Night,Roscoe Dash,18,2011-10-22,2011-12-31,185,11
+95,That's All She Wrote,T.I. Featuring Eminem,6,2011-01-01,2011-02-12,184,7
+96,Party On Fifth Ave.,Mac Miller,10,2011-11-19,2011-12-31,176,7
+97,Aston Martin Music,Rick Ross Featuring Drake & Chrisette Michele,25,2011-01-01,2011-03-05,175,10
+98,Airplanes,B.o.B Featuring Hayley Williams,21,2011-01-01,2011-03-05,172,10
+99,Fall For Your Type,Jamie Foxx Featuring Drake,29,2011-01-01,2011-03-26,172,13
+100,You The Boss,Rick Ross Featuring Nicki Minaj,18,2011-10-29,2011-12-31,171,10
+101,Magic,B.o.B Featuring Rivers Cuomo,17,2011-01-01,2011-03-12,161,9
+102,Stitch By Stitch,Javier Colon,3,2011-07-16,2011-07-23,158,2
+103,Roman's Revenge,Nicki Minaj Featuring Eminem,25,2011-01-01,2011-03-05,155,10
+104,Fire Flame,Birdman Featuring Lil Wayne,27,2011-01-01,2011-02-26,154,9
+105,Who Gon Stop Me,Jay Z Kanye West,6,2011-08-27,2011-09-10,151,3
+106,Smile Back,Mac Miller,5,2011-11-26,2011-12-10,150,3
+107,Mrs. Right,Mindless Behavior Featuring Diggy,30,2011-08-27,2011-11-26,149,10
+108,Boom,Snoop Dogg Featuring T-Pain,21,2011-03-26,2011-05-21,144,9
+109,Bring It Back,Travis Porter,31,2011-03-12,2011-06-04,143,11
+110,Rehab,Amy Winehouse,7,2011-08-06,2011-08-20,142,3
+111,Hold My Hand,Michael Jackson Duet With Akon,12,2011-01-01,2011-02-12,142,7
+112,Rack City,Tyga,12,2011-12-10,2011-12-31,140,4
+113,Party,Beyonce Featuring Andre 3000,19,2011-11-12,2011-12-31,138,8
+114,Sweat,Bow Wow Featuring Lil Wayne,5,2011-11-12,2011-11-19,135,2
+115,Got 2 Luv U,Sean Paul Featuring Alexis Jordan,25,2011-10-01,2011-11-12,131,7
+116,That Way,Wale Featuring Jeremih & Rick Ross,20,2011-10-08,2011-12-03,127,9
+117,Dedication To My Ex (Miss That),Lloyd Featuring Andre 3000 & Lil Wayne,24,2011-10-08,2011-11-19,125,7
+118,MegaMan,Lil Wayne,9,2011-09-17,2011-10-08,123,4
+119,Bang Bang Pow Pow,T-Pain Featuring Lil Wayne,7,2011-12-24,2011-12-31,119,2
+120,Welcome To My Hood,"DJ Khaled Featuring Rick Ross, Plies, Lil Wayne & T-Pain",21,2011-02-05,2011-08-06,116,10
+121,Empire State Of Mind,Jay-Z + Alicia Keys,32,2011-01-15,2011-10-01,116,14
+122,Frick Park Market,Mac Miller,10,2011-09-03,2011-10-15,109,5
+123,Shake Senora,Pitbull Featuring T-Pain & Sean Paul,13,2011-07-09,2011-07-30,108,4
+124,HYFR (Hell Ya F*****g Right),Drake Featuring Lil Wayne,14,2011-12-03,2011-12-31,108,5
+125,Fix You,Javier Colon,8,2011-07-09,2011-07-16,102,2
+126,Thriller,Michael Jackson,10,2011-11-05,2011-11-19,100,3
+127,Words I Never Said,Lupe Fiasco Featuring Skylar Grey,26,2011-02-26,2011-06-25,99,8
+128,Y.U. MAD,Birdman Featuring Nicki Minaj & Lil Wayne,9,2011-10-01,2011-12-31,95,4
+129,Ice Ice Baby,Vanilla Ice,32,2011-03-05,2011-10-01,91,11
+130,Time After Time,Javier Colon,16,2011-05-14,2011-07-16,90,5
+131,Far Away,Tyga Featuring Chris Richardson,37,2011-06-04,2011-10-29,88,11
+132,Can't Get Enough,J. Cole Featuring Trey Songz,22,2011-10-15,2011-12-31,86,5
+133,Man In The Mirror,Adam Levine & Javier Colon,7,2011-07-16,2011-07-16,84,1
+134,Gangsta's Paradise,Coolio Featuring L.V.,18,2011-01-22,2011-11-26,84,4
+135,The Christmas Song (Merry Christmas To You),Nat King Cole,21,2011-12-17,2011-12-31,83,3
+136,Angel,Javier Colon,12,2011-07-02,2011-07-16,79,3
+137,All I Want For Christmas Is You (SuperFestive!),Justin Bieber Duet With Mariah Carey,15,2011-11-19,2011-12-31,78,3
+138,Opposite Of Adults,Chiddy Bang,27,2011-01-01,2011-08-27,78,6
+139,Drummer Boy,Justin Bieber Featuring Busta Rhymes,19,2011-11-19,2011-12-31,77,4
+140,Roman In Moscow,Nicki Minaj,13,2011-12-17,2011-12-24,71,2
+141,Runaway,Kanye West Featuring Pusha T,28,2011-01-01,2011-01-29,71,5
+142,Drop The World,Lil Wayne Featuring Eminem,34,2011-01-08,2011-03-05,71,9
+143,9 Piece,Rick Ross Featuring Lil Wayne,13,2011-05-28,2011-06-25,69,5
+144,Hate Sleeping Alone,Drake,9,2011-12-03,2011-12-10,66,2
+145,1+1,Beyonce,12,2011-06-11,2011-06-18,65,2
+146,Ballin',Young Jeezy Featuring Lil Wayne,13,2011-06-04,2011-06-18,64,3
+147,Strip,Chris Brown Featuring Kevin K-MAC McCall,17,2011-12-10,2011-12-17,61,2
+148,President Carter,Lil Wayne,23,2011-09-17,2011-10-08,60,4
+149,I'm Flexin',T.I. Featuring Big K.R.I.T.,11,2011-10-22,2011-10-29,57,2
+150,POWER,Kanye West,34,2011-03-12,2011-04-02,57,4
+151,Till I'm Gone,Tinie Tempah Featuring Wiz Khalifa,35,2011-06-04,2011-09-10,57,5
+152,Grove St. Party,Waka Flocka Flame Featuring Kebo Gotti,33,2011-04-23,2011-05-28,56,6
+153,You Know I'm No Good,Amy Winehouse Featuring Ghostface Killah,17,2011-08-06,2011-08-13,54,2
+154,When I'm Gone,Wiz Khalifa,18,2011-04-16,2011-04-23,53,2
+155,How To Hate,Lil Wayne Featuring T-Pain,20,2011-09-17,2011-09-24,53,2
+156,Forever,"Drake Featuring Kanye West, Lil Wayne & Eminem",35,2011-01-01,2011-03-05,53,8
+157,Say Yeah,Wiz Khalifa,30,2011-04-30,2011-05-21,52,4
+158,Pause,Pitbull,14,2011-06-25,2011-07-02,50,2
+159,Monster,"Kanye West Featuring Jay-Z, Rick Ross, Bon Iver & Nicki Minaj",41,2011-01-01,2011-06-18,50,7
+160,Beautiful Lasers (2 Ways),Lupe Fiasco Featuring MDMA,19,2011-03-26,2011-04-02,48,2
+161,Back To Black,Amy Winehouse,19,2011-08-06,2011-08-13,47,2
+162,We Don't Get Down Like Y'all,T.I. Featuring B.o.B.,15,2011-08-27,2011-09-03,45,2
+163,Mr. Wrong,Mary J. Blige Featuring Drake,32,2011-11-19,2011-12-17,45,3
+164,Shot For Me,Drake,15,2011-12-03,2011-12-10,44,2
+165,Red Nation,Game Featuring Lil Wayne,17,2011-04-30,2011-05-07,44,2
+166,Pursuit Of Happiness (Nightmare),Kid Cudi Featuring MGMT & Ratatat,40,2011-01-08,2011-02-19,41,6
+167,We'll Be Fine,Drake Featuring Birdman,13,2011-12-03,2011-12-03,38,1
+168,Ambition,Wale Featuring Meek Mill & Rick Ross,13,2011-11-19,2011-11-19,38,1
+169,Valerie,Mark Ronson Featuring Amy Winehouse,28,2011-08-13,2011-09-17,38,2
+170,The Race,Wiz Khalifa,17,2011-03-26,2011-04-02,37,2
+171,High,Big Sean Featuring Wiz Khalifa,23,2011-07-16,2011-07-23,35,2
+172,No Church In The Wild,Jay Z Kanye West Featuring Frank Ocean,34,2011-08-27,2011-09-10,35,3
+173,Crazy In Love,Beyonce Featuring Jay Z,39,2011-02-19,2011-08-20,35,4
+174,Over My Dead Body,Drake,17,2011-12-03,2011-12-03,34,1
+175,Focused,Wale Featuring Kid Cudi,17,2011-11-05,2011-11-05,34,1
+176,Still Got It,Tyga Featuring Drake,17,2011-10-29,2011-10-29,34,1
+177,It's Good,Lil Wayne Featuring Drake & Jadakiss,19,2011-09-17,2011-09-24,34,2
+178,Pretty Lil' Heart,Robin Thicke Featuring Lil Wayne,20,2011-11-26,2011-12-24,34,2
+179,Nightmares Of The Bottom,Lil Wayne,22,2011-09-17,2011-09-24,34,2
+180,Twisted,Gorilla Zoe Featuring Lil Jon,22,2011-03-19,2011-03-26,33,2
+181,Quickie,Miguel,40,2011-09-03,2011-10-15,33,6
+182,Regulate,Warren G & Nate Dogg,19,2011-04-02,2011-04-02,32,1
+183,The Real Her,Drake Featuring Lil Wayne,19,2011-12-03,2011-12-03,32,1
+184,Knock Knock,Mac Miller,22,2011-03-19,2011-12-31,32,2
+185,Lay It Down,Lloyd,32,2011-02-05,2011-03-12,32,5
+186,Bright Lights Bigger City,CeeLo Green,38,2011-07-09,2011-08-20,32,5
+187,Outlaw,50 Cent,20,2011-08-06,2011-08-06,31,1
+188,Yonker,"Tyler, The Creator",27,2011-09-17,2011-09-24,31,2
+189,Now That We Found Love,Heavy D & The Boyz,21,2011-11-26,2011-11-26,30,1
+190,Make It Hot,Wiz Khalifa,33,2011-01-22,2011-01-29,30,2
+191,Under Ground Kings,Drake,22,2011-12-03,2011-12-03,29,1
+192,Turn All The Lights On,T-Pain Featuring Ne-Yo,22,2011-12-24,2011-12-24,29,1
+193,Illest Motherf**ker Alive,Jay Z Kanye West,22,2011-08-27,2011-08-27,29,1
+194,Martians Vs Goblins,"Game Featuring Lil Wayne & Tyler, The Creator",23,2011-09-10,2011-09-10,28,1
+195,The Way You Move,Ne-Yo Featuring Trey Songz & T-Pain,23,2011-12-03,2011-12-03,28,1
+196,Cockiness (Love It),Rihanna Featuring A$AP Rocky,26,2011-12-10,2011-12-17,28,2
+197,Where You At,Jennifer Hudson,27,2011-02-26,2011-04-16,28,3
+198,99 Problems,JAY-Z,39,2011-11-05,2011-12-31,28,4
+199,So Special,Lil Wayne Featuring John Legend,24,2011-09-17,2011-09-17,27,1
+200,Fancy,Drake Featuring T.I. & Swizz Beatz,38,2011-01-08,2011-01-22,27,3
+201,Erase Me,Kid Cudi Featuring Kanye West,41,2011-01-22,2011-02-12,27,4
+202,Look At Her Go,T-Pain Featuring Chris Brown,25,2011-12-24,2011-12-24,26,1
+203,Smokin' On,Snoop Dogg & Wiz Khalifa Featuring Juicy J,25,2011-12-31,2011-12-31,26,1
+204,Round Of Applause,Waka Flocka Flame Featuring Drake,26,2011-11-05,2011-11-05,25,1
+205,In The Morning,J. Cole Featuring Drake,26,2011-10-15,2011-10-15,25,1
+206,Crew Love,Drake Featuring The Weeknd,26,2011-12-03,2011-12-03,25,1
+207,Yeah!,Usher Featuring Lil Jon & Ludacris,34,2011-06-25,2011-07-02,24,2
+208,Nothin' On You,B.o.B Featuring Bruno Mars,36,2011-01-08,2011-03-05,24,3
+209,Birthday Cake,Rihanna,28,2011-12-10,2011-12-10,23,1
+210,Up All Night,Mac Miller,29,2011-11-26,2011-11-26,22,1
+211,Lord Knows,Drake Featuring Rick Ross,29,2011-12-03,2011-12-03,22,1
+212,Outro,"Lil Wayne Featuring Bun B, Nas, Shyne & Busta Rhymes",29,2011-09-17,2011-09-17,22,1
+213,Don't Let Me Fall,B.o.B,29,2011-01-29,2011-01-29,22,1
+214,Worldwide Choppers,"Tech N9ne F/D-Loc, Twista, Busta Rhymes, Ceza, JL B. Hood,, Twisted Insane, Uso & Yelawolf",30,2011-06-18,2011-06-18,21,1
+215,Doing It Wrong,Drake,30,2011-12-03,2011-12-03,21,1
+216,Remember The Name,Fort Minor Featuring Styles Of Beyond,40,2011-05-14,2011-11-26,21,2
+217,Pot Of Gold,Game Featuring Chris Brown,31,2011-09-10,2011-09-10,20,1
+218,21st Century Girl,WILLOW,31,2011-03-19,2011-03-19,20,1
+219,Mind Your Manners,Chiddy Bang Featuring Icona Pop,32,2011-08-06,2011-08-06,19,1
+220,Lay It On Me,Kelly Rowland Featuring Big Sean,40,2011-08-13,2011-11-05,19,2
+221,End Of Time,Beyonce,33,2011-07-16,2011-07-16,18,1
+222,Two Shots,Lil Wayne,33,2011-09-17,2011-09-17,18,1
+223,Letting Go,Lupe Fiasco Featuring Sarah Green,33,2011-03-26,2011-03-26,18,1
+224,No More,LL Cool J Featuring Ne-Yo,33,2011-12-03,2011-12-03,18,1
+225,Imma Be,The Black Eyed Peas,44,2011-01-15,2011-02-26,18,3
+226,Let It Fly,Maino Featuring Roscoe Dash,34,2011-09-03,2011-09-03,17,1
+227,Santa Claus Is Comin' To Town,Jackson 5,36,2011-12-24,2011-12-31,17,2
+228,Till I Get There,Lupe Fiasco,35,2011-03-26,2011-03-26,16,1
+229,Lift Off,Jay Z Kanye West Featuring Beyonce,35,2011-08-27,2011-08-27,16,1
+230,Fa La La,Justin Bieber Featuring Boyz II Men,35,2011-11-19,2011-11-19,16,1
+231,I Do It,Big Sean,35,2011-05-28,2011-05-28,16,1
+232,I Don't Wanna Care Right Now,Lupe Fiasco Featuring MDMA,36,2011-03-26,2011-03-26,15,1
+233,F.A.M.E.,Young Jeezy Featuring T.I.,36,2011-10-29,2011-10-29,15,1
+234,I Like The View,Lil Wayne,36,2011-09-17,2011-09-17,15,1
+235,What I Be On,Trey Songz Featuring Fabolous,36,2011-11-19,2011-11-19,15,1
+236,Wild Boy,MGK Featuring Waka Flocka Flame,43,2011-12-24,2011-12-31,15,2
+237,Make It Rain,Travis Porter,44,2011-02-12,2011-02-26,15,3
+238,By Any Means,Wale/Meek Mill/Pill/Rick Ross,37,2011-05-28,2011-05-28,14,1
+239,I Am The Champion,B.o.B,37,2011-01-08,2011-01-08,14,1
+240,Let's Go,"Travis Barker Featruing Yelawolf, Twista, Busta Rhmes & Lil Jon",37,2011-04-02,2011-04-02,14,1
+241,Mr. Nice Watch,J. Cole Featruing Jay-Z,37,2011-10-15,2011-10-15,14,1
+242,Lighters,Sky Full Of,39,2011-09-24,2011-10-01,14,2
+243,Let's Roll,YelaWolf Featuring Kid Rock,38,2011-11-19,2011-11-19,13,1
+244,Blue Slide Park,Mac Miller,38,2011-11-26,2011-11-26,13,1
+245,Turn Around (5 4 3 2 1),Flo Rida,40,2011-06-04,2011-06-18,13,2
+246,Sex Ain't Better Than Love,Trey Songz,39,2011-12-17,2011-12-17,12,1
+247,Practice,Drake,39,2011-12-03,2011-12-03,12,1
+248,Oh Santa!,Mariah Carey,40,2011-01-01,2011-01-01,11,1
+249,Taylor Gang,Wiz Khalifa,40,2011-04-16,2011-04-16,11,1
+250,Intro,Lil Wayne,41,2011-09-17,2011-09-17,10,1
+251,Fly Solo,Wiz Khalifa,41,2011-04-16,2011-04-16,10,1
+252,Gonorrhea,Lil Wayne Featuring Drake,44,2011-01-08,2011-01-15,10,2
+253,Forever,Chris Brown,44,2011-04-16,2011-10-29,10,2
+254,Fool For You,Cee Lo Green Featuring Melanie Fiona or Phillip Bailey,42,2011-12-17,2011-12-17,9,1
+255,Halo,Beyonce,45,2011-10-01,2011-11-26,9,2
+256,Bed Intruder Song,Antoine Dodson & The Gregory Brothers Featuring Kelly Dodson,47,2011-01-01,2011-01-22,9,3
+257,If I Were A Boy,Beyonce,43,2011-06-11,2011-06-11,8,1
+258,Listen,Beyonce,43,2011-10-08,2011-10-08,8,1
+259,No One,Alicia Keys,43,2011-11-26,2011-11-26,8,1
+260,O Holy Night,Nat King Cole,43,2011-01-01,2011-01-01,8,1
+261,Wet The Bed,Chris Brown Featuring Ludacris,43,2011-04-09,2011-04-09,8,1
+262,Cupid Shuffle,Cupid,43,2011-11-12,2011-11-12,8,1
+263,Interlude,Lil Wayne Featuring Tech N9ne,44,2011-09-17,2011-09-17,7,1
+264,Hard In Da Paint,Waka Flocka Flame,46,2011-03-05,2011-03-19,7,3
+265,Break The Chain,Lupe Fiasco Featuring Eric Turner & Sway,45,2011-03-26,2011-03-26,6,1
+266,Go Girl,Baby Bash Featuring E-40,45,2011-01-01,2011-01-01,6,1
+267,Whatever You Like,T.I.,45,2011-10-29,2011-10-29,6,1
+268,Top Of The World,Trey Songz,45,2011-11-19,2011-11-19,6,1
+269,The Way You Make Me Feel,Michael Jackson,45,2011-09-10,2011-09-10,6,1
+270,Single Ladies (Put A Ring On It),Beyonce,45,2011-06-11,2011-06-11,6,1
+271,Oh My,"DJ Drama Featuring Fabolous, Roscoe Dash & Wiz Khalifa",46,2011-07-30,2011-08-20,6,2
+272,Trouble,Bei Maejor Featuring J. Cole,46,2011-12-17,2011-12-17,5,1
+273,My Girl,Mindless Behavior,46,2011-08-27,2011-08-27,5,1
+274,Intro,Diddy - Dirty Money,46,2011-01-01,2011-01-01,5,1
+275,Love Faces,Trey Songz,47,2011-03-19,2011-03-19,4,1
+276,It Takes Two,Rob Base & D.J. E-Z Rock,47,2011-08-20,2011-08-20,4,1
+277,Bring Em Out,T.I.,47,2011-05-28,2011-05-28,4,1
+278,Buy U A Drank (Shawty Snappin'),T-Pain Featuring Yung Joc,47,2011-01-08,2011-01-08,4,1
+279,Irreplaceable,Beyonce,47,2011-06-11,2011-06-11,4,1
+280,Ray Charles,Chiddy Bang,47,2011-12-03,2011-12-03,4,1
+281,Loving You No More,Diddy - Dirty Money Featuring Drake,47,2011-01-01,2011-01-01,4,1
+282,Body 2 Body,Ace Hood Featuring Chris Brown,49,2011-11-12,2011-11-26,4,2
+283,Slight Work,Wale Featuring Big Sean,48,2011-11-19,2011-11-19,3,1
+284,Push It,Salt-N-Pepa,48,2011-09-10,2011-09-10,3,1
+285,I'm On It,5th Flow,48,2011-10-15,2011-10-15,3,1
+286,Kiss,Prince And The Revolution,48,2011-03-26,2011-03-26,3,1
+287,Nasty,Nas,48,2011-08-27,2011-08-27,3,1
+288,Pretty Boy Swag,Soulja Boy Tell'em,49,2011-01-08,2011-01-15,3,2
+289,Echo,Bad Meets Evil,49,2011-07-02,2011-07-02,2,1
+290,Shake That,Eminem Featuring Nate Dogg,49,2011-04-02,2011-04-02,2,1
+291,Bonfire,Childish Gambino,49,2011-10-08,2011-10-08,2,1
+292,Ghetto Dreams,Common/Nas,49,2011-07-23,2011-07-23,2,1
+293,Turn It Up,Ciara Featuring Usher,49,2011-01-01,2011-01-01,2,1
+294,Sweat,Snoop Dogg,50,2011-04-02,2011-04-02,1,1
+295,Never Forget You,Lupe Fiasco Featuring John Legend,50,2011-03-26,2011-03-26,1,1
+296,Soundtrack 2 My Life,Kid Cudi,50,2011-01-08,2011-01-08,1,1
+297,Why I Love You,Jay Z Kanye West Featuring Mr. Hudson,50,2011-08-27,2011-08-27,1,1
+298,Love A Woman,Mary J. Blige Featuring Beyonce,50,2011-12-10,2011-12-10,1,1
+299,When A Woman Loves,R. Kelly,50,2011-01-01,2011-01-01,1,1
+300,Won't Back Down,Eminem Featuring P!nk,50,2011-08-13,2011-08-13,1,1
+301,Hello,Ryan Leslie/Jasmine Villegas,50,2011-02-26,2011-02-26,1,1

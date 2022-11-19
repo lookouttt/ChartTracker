@@ -1,0 +1,374 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Shut Up And Dance,WALK THE MOON,1,2015-01-03,2015-12-26,6820,52
+2,Uma Thurman,Fall Out Boy,1,2015-01-31,2015-12-26,5101,48
+3,Centuries,Fall Out Boy,2,2015-01-03,2015-12-26,4961,52
+4,Take Me To Church,Hozier,1,2015-01-03,2015-12-26,4626,52
+5,Renegades,X Ambassadors,2,2015-04-11,2015-12-26,4586,38
+6,Ex's & Oh's,Elle King,1,2015-03-07,2015-12-26,4097,40
+7,Riptide,Vance Joy,3,2015-01-03,2015-12-12,4023,50
+8,Budapest,George Ezra,2,2015-01-03,2015-11-28,3818,45
+9,Immortals,Fall Out Boy,5,2015-01-03,2015-12-12,2381,49
+10,I Bet My Life,Imagine Dragons,3,2015-01-03,2015-08-22,2294,34
+11,Radioactive,Imagine Dragons,7,2015-01-03,2015-12-19,2045,50
+12,Stressed Out,twenty one pilots,2,2015-05-16,2015-12-26,2000,32
+13,Sail,AWOLNATION,10,2015-01-03,2015-12-26,1933,52
+14,Thunderstruck,AC/DC,14,2015-01-03,2015-12-26,1915,52
+15,Stolen Dance,Milky Chance,5,2015-01-03,2015-09-12,1794,37
+16,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,9,2015-01-03,2015-11-28,1634,48
+17,Brother,NEEDTOBREATHE Featuring Gavin DeGraw,5,2015-02-21,2015-11-21,1564,34
+18,S.O.B.,Nathaniel Rateliff & The Night Sweats,5,2015-08-22,2015-12-26,1551,19
+19,Don't Stop Believin',Journey,21,2015-01-17,2015-11-28,1358,46
+20,Tear In My Heart,twenty one pilots,4,2015-04-18,2015-12-26,1327,33
+21,First,Cold War Kids,5,2015-06-13,2015-12-26,1285,27
+22,Bohemian Rhapsody,Queen,19,2015-01-10,2015-12-26,1095,47
+23,Believe,Mumford & Sons,1,2015-03-28,2015-10-17,1077,26
+24,Eye Of The Tiger,Survivor,13,2015-01-17,2015-12-19,1026,45
+25,Demons,Imagine Dragons,10,2015-01-03,2015-11-21,964,40
+26,Cecilia And The Satellite,Andrew McMahon In The Wilderness,7,2015-03-21,2015-12-12,950,27
+27,Hallelujah,Panic! At The Disco,2,2015-05-02,2015-12-19,912,31
+28,Someone New,Hozier,5,2015-07-04,2015-12-26,869,24
+29,Cut The Cord,Shinedown,4,2015-07-18,2015-11-28,801,18
+30,Roots,Imagine Dragons,1,2015-09-12,2015-12-26,788,16
+31,Let It Go,James Bay,3,2015-03-07,2015-12-26,766,22
+32,Jekyll And Hyde,Five Finger Death Punch,8,2015-07-04,2015-11-21,735,20
+33,Best Day Of My Life,American Authors,11,2015-01-03,2015-09-12,721,33
+34,Nothing Without Love,Nate Ruess,4,2015-03-14,2015-06-20,710,14
+35,Back In Black,AC/DC,13,2015-01-10,2015-12-05,691,37
+36,Shots,Imagine Dragons,3,2015-02-14,2015-10-10,687,23
+37,Adventure Of A Lifetime,Coldplay,2,2015-11-28,2015-12-26,673,5
+38,2 Heads,Coleman Hell,12,2015-07-11,2015-12-26,664,23
+39,Work Song,Hozier,12,2015-01-03,2015-08-22,662,30
+40,Irresistible,Fall Out Boy,3,2015-01-24,2015-12-26,657,11
+41,Pompeii,Bastille,4,2015-01-03,2015-12-19,585,23
+42,Hotel California,Eagles,20,2015-02-07,2015-11-28,584,35
+43,Dreams,Beck,5,2015-07-04,2015-10-31,576,18
+44,Victorious,Panic! At The Disco,3,2015-10-17,2015-12-26,559,11
+45,Hold Back The River,James Bay,13,2015-04-04,2015-11-14,529,20
+46,A Sky Full Of Stars,Coldplay,7,2015-01-03,2015-12-26,500,16
+47,Flawless,MercyMe,22,2015-06-06,2015-11-07,488,23
+48,Come With Me Now,KONGOS,12,2015-01-03,2015-05-02,466,17
+49,First Kiss,Kid Rock,3,2015-01-24,2015-04-04,458,10
+50,What Kind Of Man,Florence + The Machine,5,2015-02-28,2015-06-27,456,14
+51,Blank Space,I Prevail,5,2015-01-24,2015-08-22,450,14
+52,Emperor's New Clothes,Panic! At The Disco,3,2015-11-07,2015-12-26,421,8
+53,Ship To Wreck,Florence + The Machine,8,2015-04-25,2015-11-07,401,18
+54,Failure,Breaking Benjamin,3,2015-04-11,2015-07-04,359,13
+55,Dangerous,Big Data Featuring Joywave,20,2015-01-03,2015-04-11,352,15
+56,In The Air Tonight,Phil Collins,17,2015-01-03,2015-12-19,336,18
+57,Go Big Or Go Home,American Authors,12,2015-06-06,2015-09-12,326,12
+58,Let Her Go,Passenger,10,2015-01-03,2015-06-27,319,16
+59,Yellow Flicker Beat,Lorde,7,2015-01-03,2015-04-04,318,9
+60,Cigarette Daydreams,Cage The Elephant,10,2015-01-03,2015-04-04,292,13
+61,Could Have Been Me,The Struts,15,2015-08-29,2015-11-21,282,13
+62,Hollow Moon (Bad Wolf),AWOLNATION,17,2015-02-14,2015-06-13,280,17
+63,Young And Beautiful,Lana Del Rey,12,2015-01-10,2015-10-17,272,20
+64,Hero,Family Of The Year,9,2015-01-24,2015-03-28,271,10
+65,Rolling In The Deep,Adele,9,2015-11-14,2015-12-26,267,7
+66,Heavy Is The Head,Zac Brown Band Featuring Chris Cornell,9,2015-03-21,2015-05-30,255,10
+67,Electric Love,BORNS,8,2015-02-07,2015-12-26,254,17
+68,Sound & Color,Alabama Shakes,6,2015-12-05,2015-12-26,249,4
+69,The Final Countdown,Europe,13,2015-10-03,2015-11-28,245,9
+70,Warriors,Imagine Dragons,12,2015-01-03,2015-04-25,241,14
+71,I Am,AWOLNATION,11,2015-05-09,2015-10-24,240,14
+72,Simple Man,Sawyer Fredericks,2,2015-05-16,2015-06-06,234,4
+73,Drops Of Jupiter (Tell Me),Train,18,2015-01-03,2015-12-19,223,10
+74,I Write Sins Not Tragedies,Panic! At The Disco,19,2015-01-10,2015-12-19,192,10
+75,You Shook Me All Night Long,AC/DC,26,2015-01-17,2015-11-28,192,21
+76,Imagine,Sawyer Fredericks,2,2015-05-02,2015-06-06,191,4
+77,Shine On,Sawyer Fredericks,2,2015-05-23,2015-06-06,185,3
+78,Reflections,MisterWives,28,2015-01-03,2015-04-11,183,15
+79,Mr. Brightside,The Killers,6,2015-09-26,2015-10-10,182,3
+80,I See Fire,Ed Sheeran,25,2015-01-03,2015-03-07,182,10
+81,Fairly Local,twenty one pilots,4,2015-04-04,2015-05-02,181,5
+82,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,10,2015-01-03,2015-12-26,179,5
+83,The Vengeful One,Disturbed,8,2015-07-11,2015-08-29,177,8
+84,The Wolf,Mumford & Sons,7,2015-04-25,2015-10-03,176,5
+85,Everglow,Coldplay,2,2015-12-19,2015-12-26,175,2
+86,For What It's Worth,Sawyer Fredericks,2,2015-05-30,2015-06-06,163,2
+87,Iris,Sawyer Fredericks,3,2015-05-09,2015-06-06,163,3
+88,All Summer Long,Kid Rock,15,2015-03-14,2015-12-05,160,15
+89,Have You Ever Seen The Rain,Noelle Bybee & Sawyer Fredericks,7,2015-04-04,2015-06-06,158,5
+90,Beast (Southpaw Remix),"Rob Bailey & The Hustle Standard Featuring Busta Rhymes, KXNG Crooked & Tech N9ne",6,2015-08-15,2015-11-21,155,4
+91,Trouble,Sawyer Fredericks,5,2015-04-25,2015-06-06,154,4
+92,Do I Wanna Know?,Arctic Monkeys,19,2015-01-03,2015-02-28,153,9
+93,Chasing Cars,Snow Patrol,13,2015-05-09,2015-12-19,150,5
+94,Please,Sawyer Fredericks,2,2015-06-06,2015-06-13,148,2
+95,The A Team,Ed Sheeran,25,2015-01-03,2015-12-05,144,19
+96,I Won't Give Up,Jason Mraz,28,2015-04-18,2015-12-19,142,10
+97,The Kids Aren't Alright,Fall Out Boy,8,2015-01-03,2015-01-31,139,5
+98,I Was Me,Imagine Dragons,5,2015-10-31,2015-11-07,137,2
+99,On Top Of The World,Imagine Dragons,22,2015-01-10,2015-07-11,137,11
+100,Delilah,Florence + The Machine,8,2015-06-06,2015-06-20,136,3
+101,I'm Gonna Be (500 Miles),Sleeping At Last,8,2015-02-14,2015-02-21,135,2
+102,Footsteps,Pop Evil,26,2015-08-29,2015-11-07,134,10
+103,Royals,Lorde,17,2015-01-10,2015-03-28,133,6
+104,Tear You Apart,She Wants Revenge,8,2015-10-24,2015-11-07,129,3
+105,Love Me,The 1975,3,2015-10-31,2015-10-31,128,1
+106,Old Man,Sawyer Fredericks,3,2015-06-06,2015-06-06,128,1
+107,House Of The Rising Sun,Kimberly Nichole,3,2015-05-02,2015-05-02,128,1
+108,Paper Planes,M.I.A.,6,2015-09-05,2015-12-19,127,3
+109,Iris,Goo Goo Dolls,26,2015-01-03,2015-12-05,126,9
+110,Christmas Canon,Trans-Siberian Orchestra,13,2015-01-03,2015-12-26,124,4
+111,How To Save A Life,The Fray,27,2015-01-10,2015-12-19,124,10
+112,Unsteady,X Ambassadors,23,2015-11-14,2015-12-26,123,7
+113,Sweet Home Alabama,Lynyrd Skynyrd,25,2015-01-03,2015-12-19,122,11
+114,Plush,Stone Temple Pilots,4,2015-12-26,2015-12-26,117,1
+115,Wrong Side Of Heaven,Five Finger Death Punch,30,2015-01-03,2015-03-14,117,9
+116,She Will Be Loved,Maroon 5,16,2015-03-21,2015-11-14,116,6
+117,Take Me To The River,Sawyer Fredericks,6,2015-05-23,2015-06-06,114,3
+118,Piano Man,Billy Joel,24,2015-01-10,2015-11-21,114,7
+119,Picture,Kid Rock Featuring Sheryl Crow,15,2015-03-14,2015-12-19,113,4
+120,Born In The USA,Bruce Springsteen,8,2015-07-18,2015-07-25,111,2
+121,"Paint It, Black",The Rolling Stones,16,2015-02-07,2015-12-05,108,6
+122,Interstate Love Song,Stone Temple Pilots,5,2015-12-26,2015-12-26,106,1
+123,R.I.P. 2 My Youth,The Neighbourhood,5,2015-09-12,2015-09-12,106,1
+124,Don't Wanna Fight,Alabama Shakes,18,2015-03-14,2015-05-30,104,8
+125,The Divine Zero,Pierce The Veil,6,2015-07-04,2015-07-11,103,2
+126,I'm On Fire,AWOLNATION,7,2015-02-28,2015-03-07,102,2
+127,Carry On Wayward Son,Kansas,34,2015-04-18,2015-12-19,100,10
+128,Landslide,Fleetwood Mac,12,2015-01-03,2015-12-19,99,9
+129,With A Little Help From My Friends,Joe Cocker,6,2015-01-10,2015-01-10,95,1
+130,LA Devotee,Panic! At The Disco,6,2015-12-19,2015-12-19,95,1
+131,Angel Eyes,The Jeff Healey Band,6,2015-10-10,2015-10-10,95,1
+132,Welcome,Fort Minor,6,2015-07-11,2015-07-11,95,1
+133,Counting On Love,Matt McAndrew,6,2015-05-16,2015-05-16,95,1
+134,Miracles,Coldplay,6,2015-01-03,2015-01-03,95,1
+135,The Workingman's Hymn,Joshua Davis,6,2015-06-06,2015-06-06,95,1
+136,Thank God For Girls,Weezer,8,2015-11-14,2015-11-21,95,2
+137,Santa Claus Is Comin' To Town,Bruce Springsteen,18,2015-01-03,2015-12-26,92,3
+138,Happy Song,Bring Me The Horizon,10,2015-08-01,2015-08-15,91,3
+139,Smells Like Teen Spirit,Nirvana,28,2015-01-10,2015-10-31,91,8
+140,"Sugar, We're Goin Down",Fall Out Boy,21,2015-01-31,2015-03-07,87,5
+141,Angels Fall,Breaking Benjamin,11,2015-05-02,2015-05-30,85,4
+142,Hallelujah,Joshua Davis,7,2015-06-06,2015-06-06,84,1
+143,Take Me To Church,Matt McAndrew,7,2015-01-03,2015-01-03,84,1
+144,Psycho,Muse,12,2015-03-28,2015-04-11,81,3
+145,Dead Inside,Muse,17,2015-04-11,2015-07-04,81,3
+146,Livin' On A Prayer,Bon Jovi,18,2015-11-28,2015-12-19,81,4
+147,Gold,Imagine Dragons,9,2015-01-03,2015-02-14,80,3
+148,Seven Nation Army,The White Stripes,18,2015-01-31,2015-07-25,76,5
+149,American Pie (Parts I & II),Don McLean,23,2015-04-25,2015-10-03,74,4
+150,Buddy Holly,Weezer,25,2015-08-01,2015-08-22,73,4
+151,Car Radio,twenty one pilots,27,2015-09-19,2015-11-21,73,4
+152,We Will Rock You,Queen,30,2015-05-23,2015-11-28,73,9
+153,Cat's In The Cradle,Harry Chapin,14,2015-02-14,2015-10-03,72,3
+154,Something's Gotta Give,All Time Low,9,2015-01-31,2015-02-07,71,2
+155,Peaches,In The Valley Below,18,2015-04-25,2015-06-13,70,5
+156,Snake Eyes,Mumford & Sons,12,2015-05-09,2015-05-16,68,2
+157,Throne,Bring Me The Horizon,11,2015-08-15,2015-09-12,67,4
+158,Dream On,Aerosmith,28,2015-02-21,2015-09-26,66,4
+159,Creep,Radiohead,30,2015-05-16,2015-12-19,66,4
+160,Hymn For The Weekend,Coldplay,9,2015-12-26,2015-12-26,62,1
+161,Inside Yourself,Godsmack,9,2015-12-12,2015-12-12,62,1
+162,Makeshift Love,Good Charlotte,9,2015-11-28,2015-11-28,62,1
+163,Fire And The Flood,Vance Joy,16,2015-08-15,2015-11-28,62,4
+164,Wasn't Expecting That,Jamie Lawson,28,2015-10-17,2015-10-31,61,3
+165,Blue Christmas,Elvis Presley,27,2015-01-03,2015-12-26,60,3
+166,Ain't It Fun,Paramore,23,2015-01-10,2015-04-18,59,4
+167,The Sound Of Silence,Disturbed,17,2015-09-12,2015-12-26,58,2
+168,Take It All,Sawyer Fredericks,18,2015-11-28,2015-12-05,58,2
+169,Viva La Vida,Coldplay,22,2015-05-30,2015-12-26,58,4
+170,One Last Night,Vaults,16,2015-02-21,2015-03-07,57,2
+171,Bennie And The Jets,Elton John,30,2015-12-05,2015-12-19,57,3
+172,Thnks Fr Th Mmrs,Fall Out Boy,32,2015-01-10,2015-03-07,57,4
+173,Collide,Sawyer Fredericks,14,2015-04-11,2015-04-25,56,2
+174,Black Sun,Death Cab For Cutie,15,2015-02-14,2015-04-18,56,2
+175,Crystals,Of Monsters And Men,22,2015-04-04,2015-06-27,56,3
+176,What's Up,4 Non Blondes,18,2015-04-25,2015-07-04,55,3
+177,Lampshades On Fire,Modest Mouse,28,2015-01-03,2015-04-11,53,5
+178,Team,Lorde,19,2015-01-10,2015-01-24,52,3
+179,In My Life,Joshua Davis,10,2015-05-23,2015-05-23,51,1
+180,Hunger,Of Monsters And Men,10,2015-06-13,2015-06-13,51,1
+181,I'm Yours,Jason Mraz,31,2015-04-18,2015-10-03,50,5
+182,Defeated,Breaking Benjamin,11,2015-05-30,2015-06-06,49,2
+183,Lips Of An Angel,Hinder,34,2015-02-21,2015-11-28,48,4
+184,Mess Is Mine,Vance Joy,39,2015-02-14,2015-08-01,48,6
+185,Mercy,Muse,26,2015-06-06,2015-06-13,47,2
+186,Time Of Your Life (Good Riddance),Green Day,30,2015-06-13,2015-06-27,44,3
+187,I'm So Sorry,Imagine Dragons,15,2015-03-07,2015-03-14,43,2
+188,All I Want,Kodaline,26,2015-03-14,2015-04-04,42,3
+189,Somebody That I Used To Know,Gotye Featuring Kimbra,27,2015-04-18,2015-05-30,42,2
+190,Hell To Pay,Five Finger Death Punch,21,2015-08-15,2015-08-22,41,2
+191,Budapest,Joshua Davis,11,2015-04-25,2015-04-25,40,1
+192,The Blower's Daughter,Matt McAndrew,11,2015-01-03,2015-01-03,40,1
+193,Ex's & Oh's,Ellie Lawrence,11,2015-11-28,2015-11-28,40,1
+194,Brown Eyed Girl,Van Morrison,18,2015-04-18,2015-05-09,40,2
+195,LAST KISS,Pearl Jam,12,2015-03-21,2015-03-21,39,1
+196,Steamroller Blues,Meghan Linsey,12,2015-05-23,2015-05-23,39,1
+197,Bad Blood,Ryan Adams,12,2015-10-10,2015-10-10,39,1
+198,Kids In The Dark,All Time Low,13,2015-03-28,2015-03-28,38,1
+199,Home,Meghan Linsey,13,2015-05-09,2015-05-09,38,1
+200,Something,Meghan Linsey,13,2015-05-16,2015-05-16,38,1
+201,Learn To Fly,Foo Fighters,14,2015-08-22,2015-08-22,37,1
+202,Forever Young,Rhiannon Giddens And Iron & Wine,14,2015-02-14,2015-02-14,37,1
+203,Creep,Stone Temple Pilots,14,2015-12-26,2015-12-26,37,1
+204,American Beauty / American Psycho,Fall Out Boy,14,2015-01-03,2015-01-03,37,1
+205,What's Up,Kimberly Nichole,14,2015-04-25,2015-04-25,37,1
+206,Skinny Love,Birdy,24,2015-03-14,2015-03-21,37,2
+207,Werewolves Of London,Warren Zevon,24,2015-11-14,2015-11-21,37,2
+208,Ain't No Rest For The Wicked,Cage The Elephant,32,2015-07-18,2015-07-25,37,2
+209,Ain't No Sunshine,Mia Z,15,2015-04-25,2015-04-25,36,1
+210,Simple Man,Lynyrd Skynyrd,15,2015-05-16,2015-05-16,36,1
+211,Come Join The Murder,The White Buffalo & The Forest Rangers,15,2015-01-03,2015-01-03,36,1
+212,Give Me Love,Ed Sheeran,39,2015-01-03,2015-09-19,36,6
+213,Trouble,Cage The Elephant,16,2015-12-12,2015-12-12,35,1
+214,Fall To Pieces,Velvet Revolver,16,2015-12-26,2015-12-26,35,1
+215,Changed The Locks,Lucinda Williams,16,2015-11-14,2015-11-14,35,1
+216,When I Paint My Masterpiece,Joshua Davis,16,2015-05-30,2015-05-30,35,1
+217,America,Joshua Davis,16,2015-05-02,2015-05-02,35,1
+218,The Scientist,Coldplay,16,2015-10-24,2015-10-24,35,1
+219,Sweet Child O' Mine,Guns N' Roses,42,2015-05-16,2015-11-28,35,7
+220,Ride,twenty one pilots,17,2015-05-30,2015-05-30,34,1
+221,I Of The Storm,Of Monsters And Men,17,2015-05-16,2015-05-16,34,1
+222,Leave A Trace,CHVRCHES,17,2015-08-08,2015-08-08,34,1
+223,Everlong,Foo Fighters,17,2015-06-06,2015-06-06,34,1
+224,Loser,Beck,17,2015-02-28,2015-02-28,34,1
+225,Coming For You,The Offspring,24,2015-03-07,2015-04-04,34,2
+226,The Last Goodbye,Billy Boyd,25,2015-01-03,2015-01-17,34,2
+227,True Friends,Bring Me The Horizon,31,2015-09-12,2015-09-19,34,2
+228,Gravity,Papa Roach,39,2015-09-05,2015-11-21,34,3
+229,Songs I Can't Listen To,Neon Trees,18,2015-05-23,2015-05-23,33,1
+230,I'm Shipping Up To Boston,Dropkick Murphys,18,2015-04-04,2015-04-04,33,1
+231,Joe (Live From Austin City Limits),Alabama Shakes,18,2015-11-21,2015-11-21,33,1
+232,Heart Is A Drum,Beck,18,2015-02-28,2015-02-28,33,1
+233,Fun,Coldplay Featuring Tove Lo,18,2015-12-26,2015-12-26,33,1
+234,I'm Gonna Be (500 Miles),The Proclaimers,29,2015-02-14,2015-02-28,33,3
+235,Heart Is Full,Miike Snow,19,2015-11-21,2015-11-21,32,1
+236,Lane Boy,twenty one pilots,19,2015-05-23,2015-05-23,32,1
+237,Imagine,John Lennon,19,2015-12-05,2015-12-05,32,1
+238,Immortalized,Disturbed,19,2015-08-15,2015-08-15,32,1
+239,Face Everything And Rise,Papa Roach,20,2015-02-14,2015-02-21,32,2
+240,Mad World,Michael Andrews Featuring Gary Jules,30,2015-08-01,2015-08-15,32,3
+241,Vasoline,Stone Temple Pilots,20,2015-12-26,2015-12-26,31,1
+242,Never Stop (Wedding Version),SafetySuit,20,2015-02-28,2015-02-28,31,1
+243,State Of My Head,Shinedown,20,2015-09-19,2015-09-19,31,1
+244,Electric Feel,MGMT,20,2015-04-18,2015-04-18,31,1
+245,What Are You Waiting For,Disturbed,20,2015-08-29,2015-08-29,31,1
+246,Chasing Cars,Sleeping At Last,20,2015-05-09,2015-05-09,31,1
+247,Your Love,The Outfield,27,2015-01-17,2015-01-24,31,2
+248,My Type,Saint Motel,37,2015-06-13,2015-08-29,31,4
+249,All Bad Things,Motley Crue,21,2015-02-07,2015-02-07,30,1
+250,Take Me To Church,India Carney,21,2015-05-02,2015-05-02,30,1
+251,Run,AWOLNATION,35,2015-08-08,2015-08-15,30,2
+252,Shout,Hannah Kirby,22,2015-05-09,2015-05-09,29,1
+253,I Wan'na Be Like You (The Monkey Song),Fall Out Boy,22,2015-11-21,2015-11-21,29,1
+254,Dream,Imagine Dragons,22,2015-03-07,2015-03-07,29,1
+255,Army Of One,Coldplay,22,2015-12-26,2015-12-26,29,1
+256,Drown,Bring Me The Horizon,24,2015-01-10,2015-01-17,29,2
+257,Jesus And Bocephus,Kid Rock,23,2015-02-14,2015-02-14,28,1
+258,Dirt Sledding,The Killers Featuring Ryan Pardey & Richard Dreyfuss,23,2015-12-19,2015-12-19,28,1
+259,Dream On,Koryn Hawthorne,23,2015-05-23,2015-05-23,28,1
+260,Dancing On Glass,St. Lucia,23,2015-11-14,2015-11-14,28,1
+261,Stars,Grace Potter & The Nocturnals,24,2015-10-24,2015-10-24,27,1
+262,Big Empty,Stone Temple Pilots,24,2015-12-26,2015-12-26,27,1
+263,Miss You,Mia Z,24,2015-05-02,2015-05-02,27,1
+264,Have You Ever Seen The Rain,Creedence Clearwater Revival,30,2015-04-04,2015-05-09,27,2
+265,Reapers,Muse,25,2015-06-20,2015-06-20,26,1
+266,Knockin' On Heaven's Door,Brian Johnson & Joshua Davis,25,2015-03-28,2015-03-28,26,1
+267,Blue Moon,Beck,25,2015-02-28,2015-02-28,26,1
+268,Bring Me To Life,Evanescence Featuring Paul McCoy,25,2015-09-26,2015-09-26,26,1
+269,More Than Words,Extreme,25,2015-05-23,2015-05-23,26,1
+270,Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,31,2015-01-03,2015-12-26,26,2
+271,Old Man,Neil Young,26,2015-02-21,2015-02-21,25,1
+272,I Won't Give In,Asking Alexandria,26,2015-06-13,2015-06-13,25,1
+273,Mene,Brand New,27,2015-05-02,2015-05-02,24,1
+274,A Head Full Of Dreams,Coldplay,27,2015-12-26,2015-12-26,24,1
+275,Sweater Weather,The Neighbourhood,27,2015-10-31,2015-10-31,24,1
+276,Here I Go Again,Whitesnake,27,2015-10-17,2015-10-17,24,1
+277,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,28,2015-11-28,2015-11-28,23,1
+278,Sex Type Thing,Stone Temple Pilots,28,2015-12-26,2015-12-26,23,1
+279,Running Behind,HOLYCHILD,28,2015-03-28,2015-03-28,23,1
+280,Can't Deny My Love,Brandon Flowers,28,2015-04-11,2015-04-11,23,1
+281,Way Down We Go,KALEO,28,2015-12-12,2015-12-12,23,1
+282,Got Your Six,Five Finger Death Punch,28,2015-09-26,2015-09-26,23,1
+283,Eminence Front,The Who,32,2015-03-21,2015-04-04,23,2
+284,Home,Edward Sharpe & The Magnetic Zeros,41,2015-01-24,2015-02-07,23,3
+285,This Is Gospel,Panic! At The Disco,37,2015-01-10,2015-04-18,22,2
+286,Closer,Nine Inch Nails,41,2015-07-18,2015-08-01,22,3
+287,Never Tear Us Apart,Blaine Mitchell,30,2015-11-28,2015-11-28,21,1
+288,Black Cadillac,Shinedown,30,2015-09-05,2015-09-05,21,1
+289,Blame It On Me,George Ezra,30,2015-12-12,2015-12-12,21,1
+290,Too Late To Say Goodbye,Cage The Elephant,30,2015-12-26,2015-12-26,21,1
+291,21 Guns,Green Day,34,2015-01-10,2015-01-17,21,2
+292,You Want A Battle? (Here's A War),Bullet For My Valentine,37,2015-07-18,2015-07-25,21,2
+293,Look What We've Become,Grace Potter,31,2015-07-04,2015-07-04,20,1
+294,Barton Hollow,Chance Pena,31,2015-11-28,2015-11-28,20,1
+295,Cowboy,Kid Rock,31,2015-03-14,2015-03-14,20,1
+296,Deep Six,Marilyn Manson,31,2015-01-03,2015-01-03,20,1
+297,Edge Of Seventeen,Hannah Kirby,32,2015-05-02,2015-05-02,19,1
+298,Chelsea Dagger,The Fratellis,32,2015-07-04,2015-07-04,19,1
+299,I Shall Be Released,Joshua Davis,32,2015-03-14,2015-03-14,19,1
+300,Lego House,Ed Sheeran,35,2015-02-07,2015-04-18,19,2
+301,Feeling Alright,Joe Cocker,33,2015-01-10,2015-01-10,18,1
+302,There's A Place,The All-American Rejects,33,2015-11-21,2015-11-21,18,1
+303,Stairway To Heaven,Led Zeppelin,33,2015-07-04,2015-07-04,18,1
+304,Shut Up And Dance With Me,Fun Guns,33,2015-04-11,2015-04-11,18,1
+305,Johnny Cash,Kid Rock,33,2015-03-14,2015-03-14,18,1
+306,Dog Days Are Over,Florence + The Machine,34,2015-06-20,2015-06-20,17,1
+307,No Way Out,Bullet For My Valentine,34,2015-06-06,2015-06-06,17,1
+308,Highway To Hell,AC/DC,37,2015-02-21,2015-02-28,17,2
+309,Linger,The Cranberries,35,2015-07-11,2015-07-11,16,1
+310,Do You Wanna Get High?,Weezer,35,2015-11-28,2015-11-28,16,1
+311,Slither,Velvet Revolver,35,2015-12-26,2015-12-26,16,1
+312,Polaroid,Imagine Dragons,35,2015-03-07,2015-03-07,16,1
+313,Absolution Calling,Incubus,35,2015-02-21,2015-02-21,16,1
+314,I Want To Know What Love Is,Foreigner,35,2015-11-14,2015-11-14,16,1
+315,Apple Pie,Rafferty,36,2015-10-10,2015-10-10,15,1
+316,Gold In The Summertime,Matt Nathanson,36,2015-07-04,2015-07-04,15,1
+317,Sour Girl,Stone Temple Pilots,36,2015-12-26,2015-12-26,15,1
+318,Arms Of A Woman,Joshua Davis,37,2015-04-18,2015-04-18,14,1
+319,Apocalyptic,Halestorm,37,2015-01-31,2015-01-31,14,1
+320,She Talks To Angels,The Black Crowes,41,2015-12-05,2015-12-19,14,3
+321,Welcome To The Black Parade,My Chemical Romance,43,2015-09-26,2015-12-05,14,2
+322,Undivided,Asking Alexandria,38,2015-10-17,2015-10-17,13,1
+323,Crazy Bitch,Buckcherry,39,2015-12-05,2015-12-05,12,1
+324,Nine In The Afternoon,Panic! At The Disco,39,2015-01-10,2015-01-10,12,1
+325,Like A River Runs,Bleachers,40,2015-06-20,2015-06-20,11,1
+326,Hold Back The River,Blaine Mitchell,40,2015-11-14,2015-11-14,11,1
+327,Enter Sandman,Metallica,41,2015-09-26,2015-10-24,11,2
+328,Empire,Of Monsters And Men,41,2015-06-06,2015-06-06,10,1
+329,Thief,Imagine Dragons,41,2015-11-21,2015-11-21,10,1
+330,Fast Car,Tracy Chapman,41,2015-12-12,2015-12-12,10,1
+331,Country Boy,Aaron Lewis Featuring George Jones & Charlie Daniels,41,2015-08-01,2015-08-01,10,1
+332,Let Her Cry,Hootie & The Blowfish,42,2015-10-10,2015-10-10,9,1
+333,Somebody To Love,Queen,42,2015-12-26,2015-12-26,9,1
+334,Pumped Up Kicks,Foster The People,46,2015-07-18,2015-07-25,9,2
+335,House Of The Rising Sun,The Animals,43,2015-05-09,2015-05-09,8,1
+336,Bawitdaba,Kid Rock,43,2015-03-14,2015-03-14,8,1
+337,What This World Is Coming To,Nate Ruess Featuring Beck,43,2015-06-20,2015-06-20,8,1
+338,Summertime,The Mowgli's,43,2015-08-08,2015-08-08,8,1
+339,Nearly Forgot My Broken Heart,Chris Cornell,45,2015-10-10,2015-11-07,8,2
+340,It's Time,Imagine Dragons,44,2015-03-07,2015-03-07,7,1
+341,Feel Good Inc,Gorillaz,44,2015-09-05,2015-09-05,7,1
+342,Samson,Regina Spektor,44,2015-11-07,2015-11-07,7,1
+343,Jane,Jefferson Starship,45,2015-08-22,2015-08-22,6,1
+344,Still Into You,Paramore,45,2015-02-28,2015-02-28,6,1
+345,Gimme All Your Love,Alabama Shakes,45,2015-03-21,2015-03-21,6,1
+346,I Will Wait,Mumford & Sons,45,2015-03-28,2015-03-28,6,1
+347,Viva Voce,The Rocketboys,46,2015-01-31,2015-01-31,5,1
+348,Wizards In Winter,Trans-Siberian Orchestra,46,2015-12-19,2015-12-19,5,1
+349,Desire,Joshua Davis,46,2015-05-23,2015-05-23,5,1
+350,Bitter Sweet Symphony,The Verve,48,2015-07-18,2015-07-25,5,2
+351,50 Ways To Leave Your Lover,Paul Simon,47,2015-03-07,2015-03-07,4,1
+352,"Hey, Soul Sister",Train,47,2015-02-28,2015-02-28,4,1
+353,Evil Woman,Electric Light Orchestra,47,2015-02-21,2015-02-21,4,1
+354,Rollercoaster,Bleachers,47,2015-01-31,2015-01-31,4,1
+355,We Are Young,fun. Featuring Janelle Monae,47,2015-05-30,2015-05-30,4,1
+356,God Rest Ye Merry Gentlemen / We Three Kings,Barenaked Ladies & Sarah McLachlan,47,2015-01-03,2015-01-03,4,1
+357,Dreaming With A Broken Heart,John Mayer,47,2015-10-17,2015-10-17,4,1
+358,Lover Come Back,City And Colour,48,2015-09-12,2015-09-12,3,1
+359,Blank Space,Ryan Adams,48,2015-10-10,2015-10-10,3,1
+360,Rivers And Roads,The Head And The Heart,48,2015-05-23,2015-05-23,3,1
+361,Looking Up,SafetySuit,48,2015-11-14,2015-11-14,3,1
+362,Lydia,Highly Suspect,50,2015-09-05,2015-10-03,3,3
+363,Dead And Bloated,Stone Temple Pilots,49,2015-12-26,2015-12-26,2,1
+364,Blow,Theory Of A Deadman,49,2015-08-08,2015-08-08,2,1
+365,West End Kids,New Politics,49,2015-07-11,2015-07-11,2,1
+366,More Than A Feeling,Boston,49,2015-05-16,2015-05-16,2,1
+367,Hold Back The River,Joshua Davis,49,2015-05-09,2015-05-09,2,1
+368,Who Needs You,The Orwells,49,2015-01-31,2015-01-31,2,1
+369,Wash It All Away,Five Finger Death Punch,49,2015-11-28,2015-11-28,2,1
+370,Far Away,Nickelback,50,2015-01-17,2015-01-17,1,1
+371,(I Hate) Everything About You,Three Days Grace,50,2015-01-10,2015-01-10,1,1
+372,Hey There Delilah,Plain White T's,50,2015-09-19,2015-09-19,1,1
+373,The Beach,The Neighbourhood,50,2015-10-17,2015-10-17,1,1

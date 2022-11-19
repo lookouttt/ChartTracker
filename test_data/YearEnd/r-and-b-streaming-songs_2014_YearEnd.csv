@@ -1,0 +1,88 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,All Of Me,John Legend,1,2014-01-04,2014-12-27,1178,52
+2,Happy,Pharrell Williams,1,2014-01-25,2014-12-27,1126,49
+3,Talk Dirty,Jason Derulo Featuring 2 Chainz,1,2014-01-04,2014-12-27,1016,52
+4,Loyal,Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,3,2014-02-22,2014-12-27,857,45
+5,Or Nah,Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard,2,2014-03-15,2014-12-27,827,42
+6,Drunk In Love,Beyonce Featuring Jay Z,1,2014-01-04,2014-12-27,776,52
+7,Wiggle,Jason Derulo Featuring Snoop Dogg,1,2014-05-17,2014-12-27,723,33
+8,Partition,Beyonce,3,2014-01-25,2014-12-27,702,48
+9,Na Na,Trey Songz,5,2014-02-22,2014-12-27,674,45
+10,"Hold On, We're Going Home",Drake Featuring Majid Jordan,2,2014-01-04,2014-12-27,656,52
+11,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,3,2014-01-04,2014-11-29,591,47
+12,2 On,Tinashe Featuring ScHoolboy Q,6,2014-05-24,2014-12-27,482,31
+13,Paranoid,Ty Dolla $ign Featuring B.o.B,7,2014-01-04,2014-09-20,480,38
+14,The Man,Aloe Blacc,5,2014-01-25,2014-09-06,466,31
+15,Don't Tell 'Em,Jeremih Featuring YG,1,2014-07-26,2014-12-27,435,23
+16,New Flame,Chris Brown Featuring Usher & Rick Ross,4,2014-07-19,2014-12-27,393,24
+17,It Won't Stop,Sevyn Streeter Featuring Chris Brown,3,2014-01-04,2014-07-05,311,26
+18,The Worst,Jhene Aiko,10,2014-01-25,2014-07-19,311,26
+19,Up Down (Do This All Day),T-Pain Featuring B.o.B,11,2014-01-04,2014-08-02,306,30
+20,Love Never Felt So Good,Michael Jackson & Justin Timberlake,4,2014-05-17,2014-10-04,299,21
+21,Love More,Chris Brown Featuring Nicki Minaj,4,2014-01-04,2014-07-05,266,22
+22,Foreign,Trey Songz,9,2014-07-19,2014-12-13,253,22
+23,Body Party,Ciara,6,2014-01-04,2014-08-30,245,33
+24,XO,Beyonce,5,2014-01-04,2014-09-13,242,18
+25,Hold You Down,"DJ Khaled Featuring Chris Brown, August Alsina, Future & Jeremih",6,2014-09-27,2014-12-27,223,14
+26,Diamonds,Rihanna,12,2014-01-04,2014-12-27,217,32
+27,Single Ladies (Put A Ring On It),Beyonce,10,2014-01-04,2014-12-06,201,36
+28,Tuesday,I LOVE MAKONNEN Featuring Drake,1,2014-11-01,2014-12-27,191,9
+29,Thriller,Michael Jackson,1,2014-03-08,2014-12-13,190,33
+30,Ride,SoMo,14,2014-02-08,2014-12-06,189,29
+31,No Love,August Alsina,8,2014-10-04,2014-12-27,188,13
+32,Halo,Beyonce,14,2014-01-18,2014-12-27,178,41
+33,Confident,Justin Bieber Featuring Chance The Rapper,5,2014-02-15,2014-06-14,175,17
+34,"Touchin, Lovin",Trey Songz Featuring Nicki Minaj,11,2014-09-06,2014-12-27,168,15
+35,Often,The Weeknd,10,2014-09-27,2014-12-27,156,14
+36,I Luv This Sh*t,August Alsina Featuring Trinidad James,12,2014-01-04,2014-07-26,120,17
+37,Come Get It Bae,Pharrell Williams,4,2014-08-09,2014-09-27,87,8
+38,7/11,Beyonce,1,2014-12-13,2014-12-27,69,3
+39,Promises,Wiz Khalifa,13,2014-09-13,2014-11-01,64,7
+40,Recognize,PARTYNEXTDOOR Featuring Drake,19,2014-09-20,2014-11-29,60,11
+41,The Christmas Song (Merry Christmas To You),Nat King Cole,7,2014-01-04,2014-12-27,56,4
+42,TKO,Justin Timberlake,14,2014-01-04,2014-02-08,54,6
+43,Run The World (Girls),Beyonce,15,2014-01-18,2014-08-30,51,10
+44,You & I (Nobody In The World),John Legend,4,2014-07-26,2014-08-09,45,3
+45,Can't Raise A Man,K. Michelle,19,2014-02-15,2014-04-26,45,11
+46,Good Kisser,Usher,16,2014-05-24,2014-08-16,44,13
+47,***Flawless,Beyonce Featuring Nicki Minaj Or Chimamanda Ngozi Adichie,16,2014-02-08,2014-12-27,40,5
+48,Slave To The Rhythm,Michael Jackson,5,2014-05-31,2014-06-14,36,3
+49,I Don't Mind,Usher Featuring Juicy J,11,2014-12-13,2014-12-27,32,3
+50,Pretty Hurts,Beyonce,17,2014-05-10,2014-09-13,30,5
+51,Lolly,Maejor Ali Featuring Juicy J & Justin Bieber,17,2014-01-04,2014-02-08,29,6
+52,Mine,Beyonce Featuring Drake,17,2014-01-11,2014-02-15,26,4
+53,Pour It Up,Rihanna,18,2014-01-04,2014-02-15,26,7
+54,Dance For You,Beyonce,19,2014-01-04,2014-02-15,25,7
+55,Get Her Back,Robin Thicke,8,2014-07-12,2014-07-12,18,1
+56,My Story,R. Kelly Featuring 2 Chainz,18,2014-01-04,2014-01-18,18,3
+57,Marilyn Monroe,Pharrell Williams,9,2014-05-10,2014-05-10,17,1
+58,All The Way Home,Tamar Braxton,19,2014-01-04,2014-02-01,15,3
+59,2AM.,Adrian Marcel Featuring Sage The Gemini,21,2014-08-16,2014-09-20,15,5
+60,I Want You Back,Jackson 5,12,2014-08-30,2014-08-30,14,1
+61,Santa Baby,Eartha Kitt With Henri Rene And His Orchestra,13,2014-01-04,2014-01-04,13,1
+62,What Christmas Means To Me,CeeLo Green,13,2014-01-11,2014-01-11,13,1
+63,X,Chris Brown,15,2014-10-04,2014-10-11,13,2
+64,Ghostbusters,Ray Parker Jr.,14,2014-11-15,2014-11-15,12,1
+65,Beat It,Michael Jackson,19,2014-10-25,2014-11-01,11,2
+66,Kings And Queens,Thirty Seconds To Mars,17,2014-01-04,2014-01-04,9,1
+67,She Came To Give It To You,Usher Featuring Nicki Minaj,18,2014-09-13,2014-09-13,8,1
+68,I Will Always Love You,Whitney Houston,19,2014-09-20,2014-09-27,8,2
+69,Post To Be,Omarion Featuring Chris Brown & Jhene Aiko,22,2014-12-20,2014-12-27,8,2
+70,Drunk Texting,Chris Brown Featuring Jhene Aiko,23,2014-10-18,2014-11-08,8,4
+71,Prototype,OutKast,19,2014-04-26,2014-04-26,7,1
+72,Smooth Criminal,Michael Jackson,19,2014-06-21,2014-06-21,7,1
+73,Billie Jean,Michael Jackson,20,2014-01-18,2014-02-01,7,2
+74,Wait For A Minute,Tyga & Justin Bieber,23,2014-01-11,2014-01-25,7,3
+75,Own It,Drake,20,2014-01-04,2014-01-04,6,1
+76,Chicago,Michael Jackson,20,2014-06-07,2014-06-07,6,1
+77,Cookie,R. Kelly,21,2014-01-04,2014-01-04,5,1
+78,Crazy In Love,Beyonce Featuring Jay Z,23,2014-05-03,2014-08-23,5,2
+79,Take Back The Night,TryHardNinja,22,2014-01-11,2014-01-11,4,1
+80,A Place With No Name,Michael Jackson,23,2014-06-07,2014-06-07,3,1
+81,Ordinary People,John Legend,23,2014-03-29,2014-03-29,3,1
+82,End Of Time,Beyonce,23,2014-01-25,2014-01-25,3,1
+83,Wicked Games,The Weeknd,24,2014-12-06,2014-12-06,2,1
+84,Sober,Childish Gambino,24,2014-10-25,2014-10-25,2,1
+85,Suit & Tie,Justin Timberlake Featuring JAY Z,25,2014-01-18,2014-01-18,1,1
+86,Autumn Leaves,Chris Brown Featuring Kendrick Lamar,25,2014-10-11,2014-10-11,1,1
+87,Pony,Ginuwine,25,2014-03-01,2014-03-01,1,1

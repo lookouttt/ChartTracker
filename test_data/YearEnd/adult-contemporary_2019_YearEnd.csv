@@ -1,0 +1,122 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,You Say,Lauren Daigle,1,2019-01-05,2019-12-21,1237,51
+2,Girls Like You,Maroon 5,1,2019-01-05,2019-10-12,1212,41
+3,Shallow,Lady Gaga & Bradley Cooper,2,2019-01-05,2019-10-26,1125,43
+4,Walk Me Home,P!nk,1,2019-03-09,2019-12-28,961,43
+5,High Hopes,Panic! At The Disco,8,2019-01-05,2019-11-30,922,48
+6,Be Alright,Dean Lewis,4,2019-01-19,2019-09-21,820,36
+7,Love Someone,Lukas Graham,6,2019-01-05,2019-09-07,813,36
+8,Dancing With A Stranger,Sam Smith & Normani,4,2019-02-16,2019-12-14,810,44
+9,Sucker,Jonas Brothers,1,2019-03-30,2019-12-28,789,37
+10,The Middle,"Zedd, Maren Morris & Grey",3,2019-01-05,2019-07-13,767,28
+11,A Million Dreams,P!nk,10,2019-01-12,2019-11-30,741,47
+12,I Don't Care,Ed Sheeran & Justin Bieber,2,2019-05-25,2019-12-28,667,32
+13,I Like Me Better,Lauv,5,2019-01-05,2019-07-06,667,27
+14,Speechless,Dan + Shay,6,2019-06-15,2019-12-14,568,27
+15,Someone You Loved,Lewis Capaldi,1,2019-07-20,2019-12-28,518,24
+16,Delicate,Taylor Swift,2,2019-01-05,2019-05-04,514,18
+17,Senorita,Shawn Mendes & Camila Cabello,4,2019-07-20,2019-12-28,434,24
+18,Happier,Marshmello & Bastille,8,2019-01-05,2019-06-08,421,23
+19,ME!,Taylor Swift Featuring Brendon Urie,6,2019-05-04,2019-09-21,409,21
+20,Tequila,Dan + Shay,11,2019-01-05,2019-06-22,392,25
+21,Broken,lovelytheband,7,2019-01-05,2019-05-11,390,19
+22,If I Can't Have You,Shawn Mendes,11,2019-05-18,2019-11-09,364,26
+23,Without Me,Halsey,11,2019-01-05,2019-06-29,348,26
+24,Perfect,Ed Sheeran,3,2019-01-05,2019-03-23,324,12
+25,In My Blood,Shawn Mendes,7,2019-01-05,2019-04-06,321,14
+26,Love You Anymore,Michael Buble,10,2019-01-12,2019-05-25,311,20
+27,(I'm Gonna) Love Me Again,Elton John & Taron Egerton,12,2019-06-15,2019-11-02,302,20
+28,Higher Love,Kygo X Whitney Houston,12,2019-07-27,2019-12-07,295,20
+29,You Need To Calm Down,Taylor Swift,11,2019-07-06,2019-12-21,293,25
+30,Never Be The Same,Camila Cabello,8,2019-01-05,2019-03-16,241,11
+31,Give You Up,Dido,13,2019-02-16,2019-06-29,239,19
+32,Another One Down,Richard Marx,14,2019-08-31,2019-12-28,229,18
+33,Crave,Madonna & Swae Lee,11,2019-06-08,2019-09-07,214,14
+34,"Hey Look Ma, I Made It",Panic! At The Disco,18,2019-08-03,2019-12-14,207,20
+35,With You,Mariah Carey,7,2019-01-05,2019-03-09,203,10
+36,Sweet But Psycho,Ava Max,17,2019-05-18,2019-10-19,196,23
+37,Memories,Maroon 5,11,2019-10-05,2019-12-28,195,13
+38,One Less Day (Dying Young),Rob Thomas,18,2019-03-09,2019-07-06,173,18
+39,We're Still Here,Steve Perry,14,2019-04-06,2019-07-20,171,16
+40,Rainbow,Kacey Musgraves,16,2019-02-16,2019-06-29,168,20
+41,Breathin,Ariana Grande,21,2019-01-05,2019-05-18,162,20
+42,Forever Now,Michael Buble,19,2019-07-20,2019-11-23,155,19
+43,Meant To Be,Bebe Rexha & Florida Georgia Line,6,2019-01-05,2019-02-09,149,6
+44,Imperfections,Celine Dion,13,2019-10-05,2019-12-28,146,13
+45,Lost Without You,Freya Ridings,16,2019-04-20,2019-07-13,142,12
+46,Out Of Love,Alessia Cara,20,2019-03-23,2019-08-10,142,20
+47,Rumor,Lee Brice,18,2019-08-24,2019-11-23,139,14
+48,Lights Down Low,MAX Featuring gnash,5,2019-01-05,2019-02-02,130,5
+49,Castles,Freya Ridings,15,2019-10-12,2019-12-07,129,9
+50,Never Really Over,Katy Perry,18,2019-06-22,2019-09-28,128,15
+51,Like It's Christmas,Jonas Brothers,1,2019-11-30,2019-12-28,124,5
+52,Christmas (Baby Please Come Home),Matt Nathanson,2,2019-11-30,2019-12-28,120,5
+53,"10,000 Hours",Dan + Shay & Justin Bieber,15,2019-11-02,2019-12-28,116,9
+54,Beautiful People,Ed Sheeran Featuring Khalid,19,2019-08-03,2019-12-21,116,20
+55,Eastside,"benny blanco, Halsey & Khalid",21,2019-03-16,2019-08-03,112,20
+56,Lover,Taylor Swift,20,2019-09-14,2019-12-28,110,16
+57,Youngblood,5 Seconds Of Summer,14,2019-01-05,2019-02-16,108,7
+58,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,21,2019-04-06,2019-08-31,108,18
+59,As You Are,Daughtry,17,2019-06-29,2019-09-21,106,13
+60,"Thank U, Next",Ariana Grande,22,2019-01-12,2019-06-08,90,16
+61,God Only Knows,for KING & COUNTRY,18,2019-03-30,2019-12-07,89,16
+62,Havana,Camila Cabello Featuring Young Thug,10,2019-01-05,2019-01-26,84,4
+63,Broken & Beautiful,Kelly Clarkson,20,2019-05-11,2019-07-27,82,12
+64,Dance Of The Sugar Plum Fairy,Lindsey Stirling,10,2019-12-07,2019-12-28,79,4
+65,Do You Hear What I Hear?,Pentatonix Featuring Whitney Houston,9,2019-12-07,2019-12-28,72,4
+66,Silver Bells,Steve Perry,11,2019-12-07,2019-12-28,71,4
+67,How Do You Sleep?,Sam Smith,21,2019-09-07,2019-11-23,68,12
+68,Kick It,Natasha Bedingfield,20,2019-08-31,2019-11-30,67,11
+69,You Mean The World To Me,Freya Ridings,15,2019-03-23,2019-04-20,62,5
+70,Talk,Khalid,21,2019-08-17,2019-10-26,59,11
+71,It's Beginning To Look A Lot Like Christmas,Martina McBride,14,2019-12-07,2019-12-28,57,4
+72,Christmas Tree Farm,Taylor Swift,3,2019-12-14,2019-12-28,55,3
+73,"Caroling, Caroling",Idina Menzel,12,2019-12-07,2019-12-28,52,4
+74,99 Years,Josh Groban Duet With Jennifer Nettles,21,2019-03-09,2019-08-17,49,13
+75,Circles,Post Malone,22,2019-10-26,2019-12-28,48,10
+76,Sleigh Ride 2019,Chicago,15,2019-12-14,2019-12-28,44,3
+77,No Erasin',Steve Perry,22,2019-01-12,2019-02-16,43,6
+78,Happy Christmas (War Is Over),King Calaway,17,2019-12-07,2019-12-28,42,4
+79,Rain,Gregory Darling,24,2019-02-23,2019-04-27,41,10
+80,If The Fates Allow,Elizabeth Chan,16,2019-12-14,2019-12-28,39,3
+81,Only Human,Jonas Brothers,22,2019-10-19,2019-12-28,37,8
+82,A Million Lights,Michael W. Smith,26,2019-01-12,2019-02-23,31,7
+83,Turn This Love Around,Michael Burrows,24,2019-02-02,2019-03-02,28,5
+84,All I Want (For Christmas),Liam Payne,18,2019-12-14,2019-12-28,26,3
+85,The Bones,Maren Morris,24,2019-11-02,2019-11-30,23,5
+86,Back To You,Selena Gomez,17,2019-01-05,2019-01-12,22,2
+87,Have Yourself A Merry Little Christmas,John Legend Featuring Esperanza Spalding,14,2019-01-05,2019-01-05,17,1
+88,Cozy Little Christmas,Katy Perry,15,2019-01-05,2019-01-05,16,1
+89,Nice To Meet Ya,Niall Horan,26,2019-11-09,2019-12-07,15,5
+90,What Christmas Means To Me,Pentatonix,18,2019-01-05,2019-01-05,13,1
+91,I'll Be Home For Christmas,Idina Menzel,24,2019-12-21,2019-12-28,13,2
+92,Come On To Me,Paul McCartney,25,2019-01-12,2019-01-26,13,3
+93,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,26,2019-02-09,2019-03-02,13,4
+94,I Think We're Alone Now (Acoustic),Tommy James,27,2019-08-03,2019-08-24,12,4
+95,Smokey Mountain Rain,Ronnie Milsap Featuring Dolly Parton,27,2019-07-27,2019-08-24,12,5
+96,Chances,Backstreet Boys,27,2019-01-12,2019-02-16,12,5
+97,No Place,Backstreet Boys,27,2019-02-23,2019-05-25,12,5
+98,White Christmas,Eric Clapton,20,2019-01-05,2019-01-05,11,1
+99,Brightest Star,Michael Burrows,25,2019-07-06,2019-07-20,11,3
+100,Trampoline,SHAED,26,2019-11-23,2019-12-28,11,3
+101,Didn't I,Rod Stewart,27,2019-01-19,2019-02-09,11,3
+102,You Never Stop Loving Somebody,Danny Griego,27,2019-07-13,2019-08-10,11,4
+103,Lose You To Love Me,Selena Gomez,28,2019-11-16,2019-12-28,11,7
+104,Best Gift Ever,Elizabeth Chan,21,2019-01-05,2019-01-05,10,1
+105,Christmas Valentine,Ingrid Michaelson & Jason Mraz,23,2019-12-21,2019-12-28,10,2
+106,Candy Cane Lane,Sia,22,2019-01-05,2019-01-05,9,1
+107,Mercy,Brett Young,26,2019-05-04,2019-06-01,9,3
+108,Carol Of The Bells,Lindsey Stirling,24,2019-01-05,2019-01-05,7,1
+109,It's Christmastime,Olivia Rox Featuring Warren Hill,25,2019-12-28,2019-12-28,6,1
+110,All I Want For Christmas Is You,Ingrid Michaelson Featuring Leslie Odom Jr.,25,2019-01-05,2019-01-05,6,1
+111,Heat,Kelly Clarkson,28,2019-02-23,2019-03-02,5,2
+112,joy.,for KING & COUNTRY,28,2019-01-26,2019-02-09,5,3
+113,Can We Pretend,P!nk Featuring Cash Cash,28,2019-09-28,2019-10-05,4,2
+114,Believe in Love,Kaz Bielinski,28,2019-03-02,2019-03-16,4,2
+115,Feliz Navidad,Jim Brickman Featuring Kathy Phillips,28,2019-12-28,2019-12-28,3,1
+116,All Over the World,Chicago,28,2019-12-21,2019-12-21,3,1
+117,Natural,Imagine Dragons,28,2019-01-12,2019-01-12,3,1
+118,So Beautiful,Tommy James,29,2019-03-23,2019-03-30,3,2
+119,Only Love,Jordan Smith,30,2019-02-09,2019-03-16,3,3
+120,Look Right,Ryan Chernin,29,2019-05-11,2019-05-11,2,1
+121,Truth Hurts,Lizzo,30,2019-09-28,2019-09-28,1,1

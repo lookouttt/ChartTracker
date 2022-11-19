@@ -1,0 +1,878 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Heat Waves,Glass Animals,1,2022-01-01,2022-11-05,10431,45
+2,Cold Heart (PNAU Remix),Elton John & Dua Lipa,2,2022-01-01,2022-11-05,10143,45
+3,Stay,The Kid LAROI & Justin Bieber,3,2022-01-01,2022-11-05,10121,45
+4,Shivers,Ed Sheeran,5,2022-01-01,2022-11-05,9166,45
+5,Enemy,Imagine Dragons X JID,3,2022-01-01,2022-11-05,9152,45
+6,abcdefu,GAYLE,1,2022-01-01,2022-11-05,9141,45
+7,Bad Habits,Ed Sheeran,6,2022-01-01,2022-11-05,8782,45
+8,Save Your Tears,The Weeknd & Ariana Grande,9,2022-01-01,2022-11-05,8653,45
+9,As It Was,Harry Styles,1,2022-04-16,2022-11-05,8601,30
+10,Levitating,Dua Lipa,15,2022-01-01,2022-11-05,8132,45
+11,Blinding Lights,The Weeknd,16,2022-01-01,2022-11-05,7988,45
+12,Pepas,Farruko,9,2022-01-01,2022-11-05,7881,45
+13,Easy On Me,Adele,4,2022-01-01,2022-11-05,7808,45
+14,Where Are You Now,Lost Frequencies & Calum Scott,13,2022-01-01,2022-11-05,7659,45
+15,Another Love,Tom Odell,10,2022-01-01,2022-11-05,7420,45
+16,Industry Baby,Lil Nas X & Jack Harlow,9,2022-01-01,2022-11-05,7264,45
+17,Ghost,Justin Bieber,21,2022-01-01,2022-11-05,6971,45
+18,Dynamite,BTS,25,2022-01-01,2022-11-05,6883,45
+19,Love Nwantiti (Ah Ah Ah),CKay,10,2022-01-01,2022-11-05,6860,45
+20,Desesperados,Rauw Alejandro & Chencho Corleone,10,2022-01-01,2022-11-05,6831,45
+21,Perfect,Ed Sheeran,37,2022-01-01,2022-11-05,6742,45
+22,My Universe,Coldplay x BTS,14,2022-01-01,2022-11-05,6705,45
+23,Middle Of The Night,Elley Duhe,19,2022-01-01,2022-11-05,6589,45
+24,Butter,BTS,17,2022-01-01,2022-11-05,6586,45
+25,Happier Than Ever,Billie Eilish,28,2022-01-01,2022-11-05,6542,45
+26,Shape Of You,Ed Sheeran,46,2022-01-01,2022-11-05,6333,45
+27,The Motto,Tiesto & Ava Max,16,2022-01-01,2022-10-22,6321,43
+28,Bam Bam,Camila Cabello Featuring Ed Sheeran,4,2022-03-19,2022-11-05,6266,34
+29,Me Porto Bonito,Bad Bunny & Chencho Corleone,2,2022-05-21,2022-11-05,6210,25
+30,Sweater Weather,The Neighbourhood,31,2022-01-01,2022-11-05,6063,45
+31,Woman,Doja Cat,20,2022-01-01,2022-11-05,6003,45
+32,Believer,Imagine Dragons,56,2022-01-01,2022-11-05,5978,45
+33,Watermelon Sugar,Harry Styles,43,2022-01-01,2022-11-05,5874,45
+34,Titi Me Pregunto,Bad Bunny,4,2022-05-21,2022-11-05,5872,25
+35,MAMIII,Becky G X Karol G,5,2022-02-26,2022-11-05,5807,37
+36,Baby Shark,Pinkfong,65,2022-01-01,2022-11-05,5529,45
+37,Ojitos Lindos,Bad Bunny & Bomba Estereo,2,2022-05-21,2022-11-05,5525,25
+38,Dandelions,Ruth B.,45,2022-01-22,2022-11-05,5520,42
+39,Love Tonight,Shouse,21,2022-01-01,2022-10-29,5467,44
+40,Provenza,Karol G,5,2022-05-07,2022-11-05,5305,27
+41,Envolver,Anitta,1,2022-03-19,2022-10-29,5289,33
+42,Good 4 U,Olivia Rodrigo,19,2022-01-01,2022-10-08,5254,41
+43,Someone You Loved,Lewis Capaldi,71,2022-01-01,2022-11-05,5233,45
+44,Dance Monkey,Tones And I,46,2022-01-01,2022-11-05,5194,45
+45,Do It To It,Acraze Featuring Cherish,12,2022-01-01,2022-09-24,5185,39
+46,Infinity,Jaymes Young,17,2022-01-01,2022-09-24,5041,39
+47,Efecto,Bad Bunny,7,2022-05-21,2022-11-05,4954,25
+48,Running Up That Hill (A Deal With God),Kate Bush,1,2022-06-11,2022-11-05,4945,22
+49,Moscow Mule,Bad Bunny,2,2022-05-21,2022-11-05,4905,25
+50,Without Me,Eminem,32,2022-01-01,2022-11-05,4897,45
+51,Una Noche En Medellin,Cris Mj,16,2022-03-12,2022-11-05,4866,35
+52,Bones,Imagine Dragons,27,2022-03-26,2022-11-05,4598,33
+53,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,45,2022-01-01,2022-10-15,4587,42
+54,About Damn Time,Lizzo,8,2022-05-14,2022-11-05,4536,26
+55,Thats What I Want,Lil Nas X,21,2022-01-01,2022-08-27,4528,35
+56,Beggin',Maneskin,26,2022-01-01,2022-11-05,4525,45
+57,Peru,Fireboy DML & Ed Sheeran,29,2022-01-08,2022-08-27,4498,34
+58,Te Felicito,Shakira & Rauw Alejandro,6,2022-05-07,2022-11-05,4434,27
+59,"Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,1,2022-07-23,2022-11-05,4420,16
+60,Shallow,Lady Gaga & Bradley Cooper,83,2022-01-01,2022-11-05,4367,45
+61,Don't Start Now,Dua Lipa,61,2022-01-01,2022-11-05,4334,45
+62,Yonaguni,Bad Bunny,30,2022-01-01,2022-10-08,4295,41
+63,Kiss Me More,Doja Cat Featuring SZA,24,2022-01-01,2022-09-03,4277,36
+64,First Class,Jack Harlow,2,2022-04-23,2022-10-15,4213,26
+65,Unstoppable,Sia,64,2022-02-05,2022-11-05,4189,40
+66,I Ain't Worried,OneRepublic,6,2022-06-18,2022-11-05,4182,21
+67,Tacones Rojos,Sebastian Yatra,41,2022-01-01,2022-09-24,4152,39
+68,Ultra Solo,Polima WestCoast Featuring Pailita,9,2022-05-07,2022-11-05,4109,27
+69,Yellow,Coldplay,57,2022-01-15,2022-11-05,4093,43
+70,Drivers License,Olivia Rodrigo,49,2022-01-01,2022-10-15,4000,42
+71,Glimpse Of Us,Joji,2,2022-06-25,2022-11-05,3992,20
+72,Tarot,Bad Bunny & Jhay Cortez,10,2022-05-21,2022-11-05,3880,25
+73,Late Night Talking,Harry Styles,3,2022-06-04,2022-11-05,3874,23
+74,Light Switch,Charlie Puth,24,2022-02-05,2022-08-27,3850,30
+75,Lo Siento BB:/,"Tainy, Bad Bunny & Julieta Venegas",33,2022-01-01,2022-09-10,3767,35
+76,Lovely,Billie Eilish & Khalid,100,2022-01-01,2022-11-05,3743,45
+77,Party,Bad Bunny & Rauw Alejandro,7,2022-05-21,2022-11-05,3620,25
+78,La Bachata,Manuel Turizo,3,2022-07-16,2022-11-05,3510,17
+79,Counting Stars,OneRepublic,97,2022-01-01,2022-11-05,3498,45
+80,Gangsta's Paradise,Coolio Featuring L.V.,22,2022-01-01,2022-11-05,3474,43
+81,Neverita,Bad Bunny,21,2022-05-21,2022-11-05,3455,25
+82,Love Dive,IVE,10,2022-04-16,2022-10-29,3442,29
+83,Until I Found You,Stephen Sanchez,46,2022-05-28,2022-11-05,3440,24
+84,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,63,2022-01-01,2022-10-29,3425,44
+85,Montero (Call Me By Your Name),Lil Nas X,27,2022-01-01,2022-07-30,3375,31
+86,Left And Right,Charlie Puth Featuring Jung Kook,2,2022-07-09,2022-11-05,3292,18
+87,Something Just Like This,The Chainsmokers & Coldplay,95,2022-01-01,2022-11-05,3255,44
+88,Traitor,Olivia Rodrigo,68,2022-01-01,2022-09-24,3240,38
+89,Ferrari,James Hype & Miggy Dela Rosa,12,2022-06-18,2022-11-05,3232,21
+90,One Kiss,Calvin Harris & Dua Lipa,30,2022-06-11,2022-11-05,3197,22
+91,I Like You (A Happier Song),Post Malone Featuring Doja Cat,18,2022-06-18,2022-11-05,3137,21
+92,Calm Down,Rema & Selena Gomez,8,2022-06-18,2022-11-05,3128,21
+93,Mixed Nuts,Official HIGE DANdism,26,2022-04-30,2022-10-22,3027,25
+94,Sunroof,Nicky Youre & dazy,39,2022-06-11,2022-11-05,3018,22
+95,Zankyosanka,Aimer,16,2022-01-01,2022-05-21,3003,21
+96,La Corriente,Bad Bunny & Tony Dize,20,2022-05-21,2022-11-05,2987,25
+97,Despecha,Rosalia,3,2022-08-13,2022-11-05,2982,13
+98,Mon Amour,zzoilo,38,2022-01-01,2022-08-06,2914,25
+99,Permission To Dance,BTS,60,2022-01-01,2022-07-16,2906,29
+100,Snap,Rosa Linn,13,2022-07-23,2022-11-05,2827,16
+101,Entre Nosotros,"Tiago pzk, LIT killa, Nicki Nicole & Maria Becerra",17,2022-01-22,2022-08-27,2808,29
+102,Crazy What Love Can Do,David Guetta & Becky Hill & Ella Henderson,47,2022-04-23,2022-10-08,2800,25
+103,Break My Soul,Beyonce,9,2022-07-02,2022-11-05,2788,19
+104,2step,Ed Sheeran Featuring Lil Baby,27,2022-05-07,2022-10-15,2769,24
+105,Only Love Can Hurt Like This,Paloma Faith,67,2022-05-14,2022-11-05,2767,26
+106,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",9,2022-01-15,2022-05-07,2757,17
+107,Medallo,"Blessd, Justin Quiles & Lenny Tavarez",51,2022-01-01,2022-05-21,2677,21
+108,Oh My God,Adele,25,2022-01-01,2022-05-21,2636,21
+109,Under The Influence,Chris Brown,7,2022-08-06,2022-11-05,2627,14
+110,New Genesis,Ado,8,2022-06-25,2022-11-05,2621,20
+111,Bohemian Rhapsody,Queen,110,2022-01-01,2022-10-29,2617,42
+112,W / X / Y,Tani Yuuki,87,2022-04-16,2022-11-05,2596,30
+113,Moth To A Flame,Swedish House Mafia & The Weeknd,26,2022-01-01,2022-05-21,2590,21
+114,She's All I Wanna Be,Tate McRae,53,2022-02-19,2022-07-30,2579,24
+115,Jordan,Ryan Castro,34,2022-03-12,2022-08-06,2547,22
+116,Need To Know,Doja Cat,55,2022-01-01,2022-06-04,2480,23
+117,Pink Venom,BLACKPINK,1,2022-09-03,2022-11-05,2447,10
+118,Where Did You Go?,Jax Jones Featuring MNEK,66,2022-03-26,2022-09-03,2438,24
+119,Last Last,Burna Boy,37,2022-05-28,2022-11-05,2432,21
+120,Todo de Ti,Rauw Alejandro,48,2022-01-01,2022-07-16,2423,29
+121,Fuera del Mercado,Danny Ocean,25,2022-04-02,2022-08-27,2406,22
+122,I'm Good (Blue),David Guetta & Bebe Rexha,2,2022-09-10,2022-11-05,2397,9
+123,Hold My Hand,Lady Gaga,43,2022-05-21,2022-10-22,2380,23
+124,Doja,Central Cee,13,2022-08-06,2022-11-05,2364,14
+125,Every Breath You Take,The Police,104,2022-01-15,2022-11-05,2361,42
+126,Boyfriend,Dove Cameron,22,2022-02-26,2022-07-02,2353,19
+127,Malvadao 3,"Xama, Gustah & Neo Beats",22,2022-01-08,2022-04-30,2351,17
+128,Ojos Marrones,Lasso,39,2022-07-16,2022-11-05,2344,17
+129,Bad Habit,Steve Lacy,22,2022-07-30,2022-11-05,2332,15
+130,Despues de La Playa,Bad Bunny,9,2022-05-21,2022-09-24,2296,19
+131,Money,Lisa,31,2022-01-01,2022-05-14,2243,20
+132,Dakiti,Bad Bunny & Jhay Cortez,67,2022-01-01,2022-05-21,2239,21
+133,Belly Dancer,Imanbek & BYOR,66,2022-06-11,2022-11-05,2238,22
+134,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,114,2022-01-08,2022-09-17,2217,37
+135,Vegas,Doja Cat,52,2022-06-18,2022-10-29,2151,20
+136,Un Ratito,Bad Bunny,13,2022-05-21,2022-09-24,2132,19
+137,Die For You,The Weeknd,54,2022-07-02,2022-11-05,2112,19
+138,Jimmy Cooks,Drake Featuring 21 Savage,12,2022-07-02,2022-11-05,2107,19
+139,Habit,SEKAI NO OWARI,41,2022-05-28,2022-10-01,2087,19
+140,POP!,NAYEON,15,2022-07-09,2022-10-15,2082,15
+141,La Llevo Al Cielo,"Chris Jedi, Chencho Corleone, Anuel AA & Nengo Flow",72,2022-06-04,2022-10-15,2037,20
+142,Afraid To Feel,LF SYSTEM,50,2022-07-02,2022-10-29,2015,18
+143,Sweet Child O' Mine,Guns N' Roses,80,2022-04-30,2022-11-05,1999,28
+144,The Real Slim Shady,Eminem,70,2022-01-22,2022-11-05,1971,39
+145,Andrea,Bad Bunny & Buscabulla,27,2022-05-21,2022-09-24,1956,19
+146,Super Freaky Girl,Nicki Minaj,16,2022-08-27,2022-11-05,1946,11
+147,Eleven,IVE,40,2022-01-01,2022-04-30,1939,18
+148,Down Under,Luude Featuring Colin Hay,57,2022-01-29,2022-05-21,1924,17
+149,There's Nothing Holdin' Me Back,Shawn Mendes,107,2022-01-29,2022-10-29,1921,40
+150,Toxic,BoyWithUke,46,2022-01-01,2022-05-14,1900,20
+151,Starboy,The Weeknd Featuring Daft Punk,78,2022-01-22,2022-11-05,1879,29
+152,Hype Boy,NewJeans,32,2022-08-20,2022-11-05,1857,12
+153,Sacrifice,The Weeknd,6,2022-01-22,2022-04-30,1851,15
+154,Wait For U,Future Featuring Drake & Tems,29,2022-05-14,2022-09-24,1846,20
+155,"Bzrp Music Sessions, Vol. 51",Bizarrap & Villano Antillano,36,2022-06-25,2022-09-24,1750,14
+156,Fearless,LE SSERAFIM,48,2022-05-14,2022-09-17,1729,19
+157,Wa Da Da,Kep1er,39,2022-01-15,2022-04-30,1727,16
+158,Fingers Crossed,Lauren Spencer-Smith,25,2022-01-22,2022-04-30,1726,15
+159,To The Moon!,JNR CHOI & Sam Tompkins,60,2022-01-15,2022-05-14,1725,17
+160,The Feels,TWICE,64,2022-01-01,2022-05-21,1696,21
+161,Mal Feito,Hugo & Guilherme E Marilia Mendonca,54,2022-01-29,2022-05-21,1695,17
+162,After Like,IVE,9,2022-09-03,2022-11-05,1692,10
+163,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),70,2022-01-01,2022-05-21,1670,19
+164,Don't You Worry,"Black Eyed Peas, Shakira + David Guetta",64,2022-07-02,2022-11-05,1659,19
+165,That That,PSY Featuring SUGA,2,2022-05-14,2022-08-06,1651,13
+166,Betelgeuse,Yuuri,74,2022-01-01,2022-05-14,1629,20
+167,Volvi,Aventura x Bad Bunny,66,2022-01-01,2022-04-23,1609,17
+168,All Too Well (Taylor's Version),Taylor Swift,36,2022-01-01,2022-04-23,1603,17
+169,Attention,NewJeans,34,2022-08-13,2022-11-05,1602,13
+170,Sakayume,King Gnu,30,2022-01-08,2022-04-09,1591,14
+171,Tomboy,(G)I-DLE,34,2022-03-26,2022-07-16,1583,17
+172,Softcore,The Neighbourhood,63,2022-01-22,2022-05-14,1583,17
+173,"Bzrp Music Sessions, Vol. 48",Bizarrap & Tiago pzk,29,2022-01-15,2022-08-06,1566,19
+174,I Love You So,The Walters,88,2022-01-01,2022-05-14,1561,19
+175,Un Coco,Bad Bunny,33,2022-05-21,2022-10-08,1547,21
+176,X Ultima Vez,Daddy Yankee & Bad Bunny,28,2022-04-09,2022-06-25,1525,12
+177,Riptide,Vance Joy,145,2022-01-29,2022-11-05,1517,41
+178,Starlight,Dave,33,2022-03-19,2022-05-28,1515,11
+179,Ichizu,King Gnu,33,2022-01-01,2022-04-09,1512,15
+180,Surface Pressure,Jessica Darrow,34,2022-01-15,2022-04-02,1511,12
+181,Overpass Graffiti,Ed Sheeran,79,2022-01-01,2022-05-14,1507,20
+182,Hold Me Closer,Elton John & Britney Spears,11,2022-09-10,2022-11-05,1506,9
+183,In Da Club,50 Cent,52,2022-02-26,2022-10-29,1501,33
+184,Unholy,Sam Smith & Kim Petras,1,2022-10-08,2022-11-05,1489,5
+185,Mood,24kGoldn Featuring iann dior,78,2022-01-01,2022-05-21,1489,21
+186,Dos Mil 16,Bad Bunny,22,2022-05-21,2022-10-01,1488,20
+187,I'm Invincible,Ado,40,2022-08-20,2022-11-05,1487,12
+188,Wake Me Up!,Avicii,136,2022-01-15,2022-10-15,1477,40
+189,Bad Guy,Billie Eilish,137,2022-01-01,2022-10-22,1465,35
+190,Lokera,"Rauw Alejandro, Lyanno & Brray",46,2022-08-27,2022-11-05,1456,11
+191,Caile,Luar La L,43,2022-08-27,2022-11-05,1440,11
+192,Smells Like Teen Spirit,Nirvana,137,2022-01-15,2022-10-29,1439,42
+193,Normal,Feid,45,2022-07-23,2022-11-05,1436,16
+194,Malvada,Ze Felipe,32,2022-02-12,2022-05-07,1433,13
+195,Wait A Minute!,Willow Smith,52,2022-04-09,2022-07-23,1432,16
+196,Take Me To Church,Hozier,137,2022-01-01,2022-10-29,1426,36
+197,In The Stars,Benson Boone,59,2022-05-14,2022-09-03,1414,17
+198,B.O.T.A. (Baddest Of Them All),Eliza Rose & Interplanetary Criminal,30,2022-09-03,2022-11-05,1408,10
+199,Still D.R.E.,Dr. Dre Featuring Snoop Dogg,27,2022-02-26,2022-06-04,1403,15
+200,Sentadona (Ai Calica),"MC Frog, Davi Kneip E DJ Gabriel Do Borel",29,2022-04-02,2022-06-25,1399,13
+201,La Fama,Rosalia Featuring The Weeknd,57,2022-01-01,2022-05-21,1398,21
+202,Talk That Talk,TWICE,10,2022-09-10,2022-11-05,1395,9
+203,Shut Down,BLACKPINK,1,2022-10-01,2022-11-05,1394,6
+204,Yet To Come,BTS,1,2022-06-25,2022-10-08,1388,10
+205,Summertime Sadness,Lana Del Rey & Cedric Gervais,87,2022-07-30,2022-11-05,1382,15
+206,Plan A,Paulo Londra,3,2022-04-02,2022-05-28,1380,9
+207,Gatubela,Karol G x Maldy,27,2022-09-10,2022-11-05,1378,9
+208,Do I Wanna Know?,Arctic Monkeys,104,2022-03-19,2022-11-05,1370,29
+209,Cayo La Noche,"Quevedo, El Ima, Cruz Cafune, Bejo, La Pantera, Juseph & Abhir Hathi",64,2022-02-19,2022-05-14,1367,13
+210,Go,Cat Burns,76,2022-03-12,2022-07-30,1363,20
+211,Como Dormiste?,Rels B,29,2022-08-20,2022-11-05,1351,12
+212,Get Lucky,Daft Punk Featuring Pharrell Williams,72,2022-03-19,2022-07-30,1348,20
+213,Acapulco,Jason Derulo,72,2022-01-01,2022-05-07,1344,19
+214,Numb,Marshmello & Khalid,97,2022-06-25,2022-11-05,1342,20
+215,Cuff It,Beyonce,13,2022-08-13,2022-11-05,1341,9
+216,Me Fui de Vacaciones,Bad Bunny,14,2022-05-21,2022-08-13,1341,13
+217,Take My Breath,The Weeknd,13,2022-01-01,2022-04-02,1332,14
+218,Take On Me,a-ha,144,2022-01-15,2022-11-05,1322,41
+219,Call Out My Name,The Weeknd,110,2022-07-09,2022-11-05,1317,18
+220,One Right Now,Post Malone & The Weeknd,54,2022-01-01,2022-06-18,1314,16
+221,Dancarina,Pedro Sampaio & MC Pedrinho,33,2022-03-05,2022-08-13,1311,13
+222,Locked Out Of Heaven,Bruno Mars,129,2022-01-15,2022-11-05,1306,33
+223,The Business,Tiesto,65,2022-01-01,2022-05-07,1289,19
+224,Senorita,Shawn Mendes & Camila Cabello,146,2022-01-15,2022-08-20,1289,32
+225,Ya No Somos Ni Seremos,Christian Nodal,24,2022-03-05,2022-07-02,1272,18
+226,Cheap Thrills,Sia Featuring Sean Paul,146,2022-01-15,2022-10-22,1246,35
+227,Sweetest Pie,Megan Thee Stallion & Dua Lipa,21,2022-03-26,2022-07-23,1242,18
+228,Closer,The Chainsmokers Featuring Halsey,124,2022-01-15,2022-07-16,1238,25
+229,No Lie,Sean Paul Featuring Dua Lipa,113,2022-01-01,2022-05-21,1231,21
+230,Yo No Soy Celoso,Bad Bunny,17,2022-05-21,2022-07-30,1229,11
+231,Bloqueado,Gusttavo Lima,70,2022-01-08,2022-04-30,1226,16
+232,Feliz Cumpleanos Ferxxo,Feid,41,2022-09-03,2022-11-05,1208,10
+233,The Nights,Avicii,130,2022-01-15,2022-07-23,1202,28
+234,Angel Baby,Troye Sivan,75,2022-04-16,2022-07-23,1195,15
+235,Aguacero,Bad Bunny,32,2022-05-21,2022-07-30,1191,11
+236,For My Hand,Burna Boy Featuring Ed Sheeran,66,2022-07-23,2022-11-05,1186,16
+237,Don't Be Shy,Tiesto & Karol G,86,2022-01-01,2022-05-14,1186,20
+238,Chale!,Eden Munoz,55,2022-03-12,2022-06-11,1180,12
+239,Fleeting Lullaby,Ado,49,2022-08-20,2022-10-29,1169,11
+240,Music For A Sushi Restaurant,Harry Styles,9,2022-06-04,2022-08-06,1136,10
+241,Astronaut In The Ocean,Masked Wolf,89,2022-01-01,2022-05-07,1132,19
+242,Lose Yourself,Eminem,46,2022-02-26,2022-10-29,1129,18
+243,Pushin P,Gunna & Future Featuring Young Thug,44,2022-01-22,2022-03-26,1124,10
+244,Backlight,Ado,38,2022-08-20,2022-10-22,1122,10
+245,House Of Memories,Panic! At The Disco,85,2022-05-07,2022-08-06,1107,14
+246,Pipoco,"Ana Castela, Melody & DJ Chris No Beat",57,2022-07-23,2022-10-08,1097,12
+247,Deja Vu,Olivia Rodrigo,112,2022-01-15,2022-07-30,1089,29
+248,Vai La Em Casa Hoje,George Henrique & Rodrigo Featuring Marilia Mendonca,56,2022-01-01,2022-03-05,1088,10
+249,Mary On A Cross,Ghost,55,2022-09-03,2022-11-05,1080,10
+250,Murder In My Mind,Kordhell,92,2022-08-20,2022-11-05,1080,12
+251,Massive,Drake,23,2022-07-02,2022-08-27,1079,9
+252,Step Back,GOT The Beat,64,2022-01-15,2022-04-02,1064,12
+253,It'll Be Okay,Shawn Mendes,45,2022-01-01,2022-03-12,1061,11
+254,Yo Voy,Zion & Lennox Featuring Daddy Yankee,83,2022-03-12,2022-06-04,1059,13
+255,When You're Gone,Shawn Mendes,24,2022-04-16,2022-06-25,1057,11
+256,Mujeriego,Ryan Castro,94,2022-02-12,2022-05-14,1054,14
+257,Forget Me,Lewis Capaldi,34,2022-09-24,2022-11-05,1053,7
+258,Ku Lo Sa,Oxlade,61,2022-09-10,2022-11-05,1053,9
+259,Cool For The Summer,Demi Lovato,41,2022-04-02,2022-06-04,1045,10
+260,Srivalli,Sid Sriram,37,2022-01-15,2022-03-26,1043,11
+261,Layla,DJ Robin & Schurze,20,2022-07-02,2022-08-27,1019,9
+262,Bad Decisions,"benny blanco, BTS & Snoop Dogg",7,2022-08-20,2022-10-08,1017,8
+263,Cooped Up,Post Malone Featuring Roddy Ricch,26,2022-05-28,2022-07-23,1013,9
+264,Potion,"Calvin Harris, Dua Lipa & Young Thug",31,2022-06-11,2022-08-20,1011,10
+265,I Wanna Be Yours,Arctic Monkeys,59,2022-08-27,2022-11-05,1004,11
+266,La Inocente,Mora & Feid,98,2022-07-23,2022-11-05,985,16
+267,Comedy,Gen Hoshino,49,2022-04-23,2022-07-16,984,13
+268,Supermodel,Maneskin,70,2022-05-28,2022-08-13,975,12
+269,I'm Not The Only One,Sam Smith,83,2022-09-03,2022-11-05,963,10
+270,Pantysito,"Alejo, Feid & ROBI",70,2022-04-02,2022-06-04,962,10
+271,Feel My Rhythm,Red Velvet,20,2022-04-02,2022-05-21,957,8
+272,Matilda,Harry Styles,8,2022-06-04,2022-07-23,954,8
+273,Chameleon,King Gnu,26,2022-03-12,2022-04-30,947,8
+274,Lost,Frank Ocean,94,2022-01-29,2022-04-09,939,11
+275,Thunder,Gabry Ponte X LUM!X X Prezioso,107,2022-01-15,2022-04-23,936,15
+276,212,Chefin,57,2022-01-29,2022-04-02,935,10
+277,Volando,"Mora, Bad Bunny & Sech",107,2022-01-01,2022-04-16,933,16
+278,I Was Never There,The Weeknd Featuring Gesaffelstein,120,2022-07-30,2022-11-05,898,15
+279,Sobrio,Maluma,96,2022-01-01,2022-04-02,894,14
+280,O.O,NMIXX,71,2022-03-12,2022-05-07,885,9
+281,Wellerman,Nathan Evans,98,2022-01-01,2022-08-20,868,22
+282,Rolling In The Deep,Adele,103,2022-01-01,2022-10-22,868,19
+283,Dos Oruguitas,Sebastian Yatra,77,2022-01-22,2022-04-09,860,10
+284,Yoru Ni Kakeru,YOASOBI,105,2022-01-01,2022-05-14,833,20
+285,Star Walkin' (League Of Legends Worlds Anthem),Lil Nas X,21,2022-10-08,2022-11-05,823,5
+286,Thousand Miles,The Kid LAROI,32,2022-05-07,2022-07-02,823,9
+287,Vista Al Mar,Quevedo,66,2022-09-24,2022-11-05,823,7
+288,Big Energy,Latto,117,2022-04-16,2022-07-30,823,16
+289,Atlantis,Seafret,104,2022-08-20,2022-11-05,821,12
+290,The Joker And The Queen,Ed Sheeran Featuring Taylor Swift,11,2022-02-26,2022-04-09,808,7
+291,Brividi,Mahmood & BLANCO,7,2022-02-12,2022-05-28,801,7
+292,A Tu Merced,Bad Bunny,108,2022-02-12,2022-05-21,800,15
+293,Friday,Riton X Nightcrawlers Featuring Mufasa & Hypeman,50,2022-01-01,2022-04-09,799,14
+294,Demasiadas Mujeres,C. Tangana,81,2022-04-02,2022-05-28,784,9
+295,Givenchy,DuKi,21,2022-08-06,2022-09-17,777,7
+296,Payphone,Maroon 5 Featuring Wiz Khalifa,95,2022-03-26,2022-10-29,776,26
+297,Still Life,BIGBANG,3,2022-04-16,2022-05-14,769,5
+298,Esqueca-Me Se For Capaz,Marilia Mendonca & Maiara & Maraisa,73,2022-01-01,2022-03-12,761,10
+299,Master Of Puppets,Metallica,33,2022-07-16,2022-08-27,759,7
+300,Termina Comigo Antes,Gusttavo Lima,128,2022-04-23,2022-08-06,754,16
+301,All For Us,Labrinth,73,2022-02-12,2022-04-02,741,8
+302,505,Arctic Monkeys,119,2022-05-14,2022-11-05,733,14
+303,Ai Preto,"DJ Biel do Furduncinho, L7nnon & Bianca",89,2022-07-16,2022-09-24,730,11
+304,AM,Nio Garcia X J Balvin X Bad Bunny,114,2022-01-01,2022-03-12,724,11
+305,Beautiful Girl,Luciano,41,2022-05-14,2022-07-02,721,8
+306,Daylight,Harry Styles,16,2022-06-04,2022-07-09,715,6
+307,Don't Blame Me,Taylor Swift,97,2022-06-04,2022-08-06,700,10
+308,Shinunoga E-Wa,Fujii Kaze,85,2022-09-24,2022-11-05,699,7
+309,"Nanndemonaiyo,",Macaroni Empitsu,93,2022-01-15,2022-03-26,693,11
+310,Nostalgico,"Rvssian, Rauw Alejandro & Chris Brown",106,2022-01-01,2022-03-19,689,12
+311,Ella,Boza X Lunay X Lenny Tavarez X Juhn X Beele,118,2022-01-01,2022-03-26,689,12
+312,Mount Everest,Labrinth,76,2022-02-26,2022-04-16,684,8
+313,Ameaca,"Paulo Pires, MC Danny E Marcynho Sensacao",62,2022-01-01,2022-03-12,673,9
+314,Wildberry Lillet,Nina Chuba,96,2022-09-03,2022-10-29,671,9
+315,21 Reasons,Nathan Dawe & Ella Henderson,122,2022-06-25,2022-09-24,670,14
+316,Maniac,Stray Kids,15,2022-04-02,2022-05-14,667,7
+317,Viva La Vida,Coldplay,118,2022-04-16,2022-11-05,661,11
+318,Parada Louca,Mari Fernandez & Marcynho Sensacao,84,2022-01-01,2022-03-12,660,10
+319,Love Again,Dua Lipa,104,2022-01-01,2022-03-26,660,13
+320,Otro Atardecer,Bad Bunny & The Marias,34,2022-05-21,2022-07-16,657,9
+321,No Ouvidinho,Felipe Amorim,75,2022-04-23,2022-06-18,655,9
+322,Cinderella Boy,Saucy Dog,133,2022-02-26,2022-08-06,655,23
+323,Pandora,"DJ Matt-D, Vulgo FK, Menor MC & MC GP",95,2022-01-08,2022-03-12,654,10
+324,ZOOM,Jessi,53,2022-05-07,2022-06-18,650,7
+325,"Bzrp Music Sessions, Vol. 23",Bizarrap & Paulo Londra,12,2022-05-07,2022-06-04,648,5
+326,Run BTS,BTS,8,2022-06-25,2022-10-29,640,6
+327,I Am Woman,Emmy Meli,82,2022-01-01,2022-02-19,638,8
+328,When I'm Gone,Alesso / Katy Perry,114,2022-01-15,2022-04-02,630,12
+329,N95,Kendrick Lamar,6,2022-05-28,2022-06-25,628,5
+330,Green Green Grass,George Ezra,123,2022-06-25,2022-09-17,627,13
+331,Kick Back,Kenshi Yonezu,4,2022-10-22,2022-11-05,622,3
+332,Callaita,Bad Bunny & Tainy,50,2022-05-21,2022-07-16,621,9
+333,Baby Otaku,Pablo Pesadilla x Polima Westcoast x Nicko OG,61,2022-10-08,2022-11-05,618,5
+334,The Blessing,YOASOBI,27,2022-10-15,2022-11-05,617,4
+335,Forever 1,Girls' Generation,41,2022-08-20,2022-09-24,617,6
+336,Meet Me At Our Spot,THE ANXIETY: WILLOW & Tyler Cole,99,2022-01-01,2022-02-26,615,9
+337,Life Goes On,Oliver Tree,83,2022-01-01,2022-02-19,614,8
+338,All I Want For Christmas Is You,Mariah Carey,1,2022-01-01,2022-01-15,613,3
+339,Out Of Time,The Weeknd,19,2022-01-22,2022-05-14,602,7
+340,Sneakers,iTZY,44,2022-07-30,2022-09-10,597,7
+341,Romantic Homicide,d4vd,73,2022-10-01,2022-11-05,591,6
+342,Little Freak,Harry Styles,13,2022-06-04,2022-07-02,587,5
+343,Si Quieren Frontear,"Quevedo, DuKi & De La Ghetto",86,2022-04-16,2022-05-28,583,7
+344,Last Christmas,Wham!,2,2022-01-01,2022-01-08,578,2
+345,No Se Va,Grupo Frontera,30,2022-10-15,2022-11-05,578,4
+346,All Of Me,John Legend,129,2022-01-01,2022-05-14,576,19
+347,Stay With Me,"Calvin Harris, Justin Timberlake, Halsey & Pharrell Williams",95,2022-07-30,2022-09-24,575,9
+348,Vampiro,"Matue, WIU & Teto",67,2022-04-16,2022-06-04,569,7
+349,Bandido,Ze Felipe & MC Mari,70,2022-07-02,2022-08-13,568,7
+350,Casei Com A Putaria,MC Paiva E MC Ryan SP,128,2022-08-27,2022-11-05,564,11
+351,Haja Colirio,Guilherme & Benuto Featuring Hugo & Guilherme,130,2022-08-27,2022-11-05,552,11
+352,Bamba,Luciano & Aitch Featuring BIA,49,2022-10-08,2022-11-05,551,5
+353,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,150,2022-01-15,2022-11-05,551,25
+354,Ginseng Strip 2002,Yung Lean,54,2022-02-12,2022-03-12,549,5
+355,"Kesariya (From ""Brahmastra: Part One: Shiva"")",Arijit Singh,104,2022-07-30,2022-10-22,546,11
+356,Tiroteo,Marc Segui & Pol Granch & Rauw Alejandro,136,2022-01-01,2022-03-26,545,12
+357,You Right,Doja Cat & The Weeknd,126,2022-01-01,2022-04-09,539,13
+358,Celestial,Ed Sheeran,33,2022-10-15,2022-11-05,532,4
+359,The Family Madrigal,"Stephanie Beatriz, Olga Merediz & Encanto Cast",91,2022-01-29,2022-03-12,532,7
+360,I Wanna Be Your Slave,Maneskin,109,2022-01-01,2022-03-05,527,10
+361,Something In The Way,Nirvana,42,2022-03-19,2022-04-16,515,5
+362,Un Verano Sin Ti,Bad Bunny,25,2022-05-21,2022-06-25,509,6
+363,Toma Toma Vapo Vapo,Ze Felipe & MC Danny,52,2022-01-01,2022-03-12,508,7
+364,M87,Kenshi Yonezu,16,2022-05-28,2022-06-18,507,4
+365,Monster,YOASOBI,100,2022-01-01,2022-03-19,504,11
+366,Overdose,natori,74,2022-10-08,2022-11-05,498,5
+367,Girls,aespa,25,2022-07-23,2022-08-20,494,5
+368,Hati-Hati di Jalan,Tulus,51,2022-03-19,2022-04-16,493,5
+369,Stay Alive,Jung Kook,8,2022-02-26,2022-03-19,492,4
+370,Typa Girl,BLACKPINK,13,2022-10-01,2022-10-29,489,5
+371,Presepada,Marilia Mendonca & Maiara & Maraisa,90,2022-01-01,2022-02-12,486,7
+372,Numb Little Bug,Em Beihold,105,2022-03-12,2022-05-07,485,9
+373,Sad Girlz Luv Money,Amaarae & Moliy Featuring Kali Uchis,117,2022-01-01,2022-02-19,482,8
+374,Staying Alive,DJ Khaled Featuring Drake & Lil Baby,33,2022-08-20,2022-09-10,481,4
+375,Die Hard,"Kendrick Lamar, Blxst & Amanda Reifer",15,2022-05-28,2022-06-18,480,4
+376,Acorda Pedrinho,Jovem Dionisio,45,2022-06-04,2022-06-25,477,4
+377,Ensename A Bailar,Bad Bunny,39,2022-05-21,2022-06-25,473,6
+378,Que Mas Pues?,J Balvin & Maria Becerra,108,2022-01-01,2022-03-12,472,11
+379,It's Beginning To Look A Lot Like Christmas,Michael Buble,6,2022-01-01,2022-01-08,468,2
+380,Hasta La Raiz,Natalia LaFourcade,142,2022-01-15,2022-04-09,465,13
+381,Miss You,Oliver Tree & Robin Schulz,18,2022-10-22,2022-11-05,464,3
+382,Tot Musica,Ado,67,2022-08-27,2022-09-24,464,5
+383,Je M'appelle,Benzz,106,2022-06-04,2022-08-06,461,10
+384,Tom's Diner,AnnenMayKantereit & Giant Rooks,106,2022-04-02,2022-05-14,460,7
+385,DARARI,TREASURE,91,2022-03-12,2022-05-28,457,8
+386,Satellite,Harry Styles,22,2022-06-04,2022-07-02,448,5
+387,Oo Antava Oo Oo Antava,Indravathi Chauhan,72,2022-01-22,2022-02-19,444,5
+388,Nobody Like U,4*TOWN (From Disney And Pixar's Turning Red),70,2022-04-02,2022-04-30,439,5
+389,Out Out,"Joel Corry, Jax Jones, Charli XCX & Saweetie",88,2022-01-01,2022-02-19,438,8
+390,Arasan Da,UZI,44,2022-04-02,2022-04-23,437,4
+391,Belki,Dedubluman Featuring Mavzer Tabancas,52,2022-10-15,2022-11-05,437,4
+392,Merry Christmas,Ed Sheeran & Elton John,7,2022-01-01,2022-01-08,435,2
+393,Hymn For The Weekend,Coldplay,145,2022-04-09,2022-10-22,434,13
+394,In My Head,Lil Tjay,50,2022-04-16,2022-05-07,429,4
+395,Love Of My Life,Harry Styles,20,2022-06-04,2022-07-02,425,5
+396,Rockin' Around The Christmas Tree,Brenda Lee,8,2022-01-01,2022-01-08,424,2
+397,"Bzrp Music Sessions, Vol. 49",Bizarrap & Residente,13,2022-03-19,2022-04-02,419,3
+398,Formula,Labrinth,121,2022-02-12,2022-03-26,417,7
+399,Christmas Tree,V,43,2022-01-08,2022-02-12,416,5
+400,More,j-hope,12,2022-07-16,2022-07-30,415,3
+401,The Loneliest,Maneskin,45,2022-10-22,2022-11-05,415,3
+402,L'enfer,Stromae,56,2022-01-22,2022-03-19,413,5
+403,Flowers,Lauren Spencer-Smith,88,2022-04-30,2022-05-28,410,5
+404,Smokin Out The Window,Silk Sonic (Bruno Mars & Anderson .Paak),91,2022-01-01,2022-02-05,406,6
+405,Santa Tell Me,Ariana Grande,9,2022-01-01,2022-01-08,402,2
+406,Baby,Aitch & Ashanti,109,2022-03-26,2022-05-07,402,7
+407,Alien Superstar,Beyonce,33,2022-08-13,2022-09-03,401,4
+408,Snowman,Sia,16,2022-01-01,2022-01-15,397,3
+409,Cry Baby,Official HIGE DANdism,110,2022-01-01,2022-02-19,397,8
+410,Grapejuice,Harry Styles,17,2022-06-04,2022-06-18,392,3
+411,Botadinha Saliente,MC Rogerinho,65,2022-03-05,2022-04-09,392,6
+412,Golden Hour,JVKE,86,2022-09-24,2022-11-05,390,7
+413,Billie Eilish.,Armani White,135,2022-09-17,2022-11-05,386,8
+414,Depende,DJ Guuga,75,2022-02-19,2022-03-26,383,6
+415,Is There Someone Else?,The Weeknd,24,2022-01-22,2022-02-05,380,3
+416,Miss You,southstar,32,2022-10-22,2022-11-05,378,3
+417,Jingle Bell Rock,Bobby Helms,12,2022-01-01,2022-01-08,377,2
+418,Nerdesin,Ezhel,113,2022-08-06,2022-09-03,377,5
+419,Someone Like You,Adele,158,2022-01-01,2022-10-22,377,19
+420,Sticky,Drake,24,2022-07-02,2022-07-23,369,4
+421,Driving Home For Christmas,Chris Rea,17,2022-01-01,2022-01-08,367,2
+422,Feliz Navidad,Jose Feliciano,13,2022-01-01,2022-01-08,366,2
+423,Subtitle,Official HIGE DANdism,14,2022-10-22,2022-11-05,364,3
+424,Arranhao,Henrique & Juliano,95,2022-01-01,2022-02-05,364,6
+425,How Do I Say Goodbye,Dean Lewis,83,2022-10-15,2022-11-05,360,4
+426,What Else Can I Do?,Diane Guerrero & Stephanie Beatriz,105,2022-01-29,2022-03-05,360,6
+427,Dreams Come True,aespa,119,2022-01-01,2022-02-12,360,7
+428,It's The Most Wonderful Time Of The Year,Andy Williams,19,2022-01-01,2022-01-08,359,2
+429,Underneath The Tree,Kelly Clarkson,21,2022-01-01,2022-01-08,359,2
+430,Saoko,Rosalia,80,2022-02-19,2022-04-16,359,4
+431,Bar,TINI & L-Gante,111,2022-01-01,2022-02-12,356,7
+432,Dry Flower,Yuuri,127,2022-01-01,2022-02-26,354,9
+433,Merry Christmas Everyone,Shakin' Stevens,24,2022-01-01,2022-01-08,353,2
+434,Circles,Post Malone,154,2022-01-15,2022-10-22,351,20
+435,Do They Know It's Christmas?,Band Aid,25,2022-01-01,2022-01-08,349,2
+436,Punto 40,Rauw Alejandro & Baby Rasta,59,2022-10-22,2022-11-05,347,3
+437,Mistletoe,Justin Bieber,27,2022-01-01,2022-01-08,346,2
+438,Tus Lagrimas,Mora & Sech,96,2022-05-07,2022-06-04,346,5
+439,Cinema,Harry Styles,21,2022-06-04,2022-06-18,345,3
+440,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,26,2022-01-01,2022-01-08,343,2
+441,Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,28,2022-01-01,2022-01-08,342,2
+442,Salimo de Noche,Tiago pzk x Trueno,116,2022-01-01,2022-02-12,340,7
+443,Gunjou,YOASOBI,97,2022-01-15,2022-03-26,339,11
+444,"Sex, Drugs, Etc.",Beach Weather,138,2022-09-17,2022-11-05,338,8
+445,With You,HA SUNG WOON x Jimin,14,2022-05-07,2022-05-21,337,3
+446,Wonderful Christmastime,Paul McCartney,31,2022-01-01,2022-01-08,337,2
+447,Antifragile,LE SSERAFIM,26,2022-10-29,2022-11-05,334,2
+448,Holly Jolly Christmas,Michael Buble,33,2022-01-01,2022-01-08,334,2
+449,I'm Tired,Labrinth & Zendaya,42,2022-03-12,2022-04-02,333,4
+450,Night Changes,One Direction,144,2022-06-25,2022-10-01,333,14
+451,Sleigh Ride,The Ronettes,35,2022-01-01,2022-01-08,330,2
+452,Suiheisen,back number,133,2022-01-01,2022-03-05,330,10
+453,Daydreaming,Harry Styles,23,2022-06-04,2022-06-18,329,3
+454,JIKJIN,TREASURE,53,2022-02-26,2022-03-26,329,4
+455,Fairytale Of New York,The Pogues Featuring Kirsty MacColl,38,2022-01-01,2022-01-08,323,2
+456,Besos Moja2,Wisin & Yandel + Rosalia,105,2022-10-15,2022-11-05,323,4
+457,Case 143,Stray Kids,48,2022-10-22,2022-11-05,319,3
+458,Honest,Justin Bieber & Don Toliver,37,2022-05-14,2022-05-28,315,3
+459,"Let It Snow, Let It Snow, Let It Snow",Frank Sinatra With The B. Swanson Quartet,39,2022-01-01,2022-01-08,315,2
+460,Sigue,J Balvin & Ed Sheeran,48,2022-04-09,2022-04-23,312,3
+461,Automatico,Maria Becerra,128,2022-09-24,2022-11-05,312,7
+462,Me Arrepenti,"Ak4:20, Pailita, & Cris Mj",63,2022-04-16,2022-04-30,311,3
+463,Step Into Christmas,Elton John,42,2022-01-01,2022-01-08,310,2
+464,Hot,SEVENTEEN,50,2022-06-11,2022-06-25,307,3
+465,The Next Episode,Dr. Dre Featuring Snoop Dogg,76,2022-02-26,2022-03-19,306,4
+466,I Hate U,SZA,101,2022-01-01,2022-02-05,302,6
+467,Keep Driving,Harry Styles,26,2022-06-04,2022-06-18,301,3
+468,Anti-Hero,Taylor Swift,1,2022-11-05,2022-11-05,300,1
+469,Tout Va Bien,Alonzo Featuring Ninha & Naps,80,2022-06-04,2022-06-25,299,4
+470,Eu Gosto Assim,Gustavo Mioto & Mari Fernandez,94,2022-10-22,2022-11-05,298,3
+471,Come Back Home,Sofia Carson,85,2022-08-20,2022-09-03,297,3
+472,Fim de Semana No Rio,Teto,107,2022-04-16,2022-05-14,294,5
+473,La Santa,Bad Bunny X Daddy Yankee,152,2022-02-19,2022-04-30,293,10
+474,Nachts Wach,Miksu / Macloud & makko,101,2022-09-10,2022-10-08,290,5
+475,Si Te La Encuentras Por Ahi,Feid,83,2022-08-20,2022-09-10,289,4
+476,Gasoline,The Weeknd,20,2022-01-22,2022-01-29,288,2
+477,The Christmas Song (Merry Christmas To You),Nat King Cole,53,2022-01-01,2022-01-08,287,2
+478,Chance,Paulo Londra,47,2022-04-23,2022-05-07,286,3
+479,Adore You,Harry Styles,131,2022-04-16,2022-06-04,286,8
+480,Dance Hall,Mrs. GREEN APPLE,132,2022-07-30,2022-09-03,286,6
+481,Falling Back,Drake,17,2022-07-02,2022-07-09,285,2
+482,White Christmas,Bing Crosby,54,2022-01-01,2022-01-08,285,2
+483,Thinking Out Loud,Ed Sheeran,149,2022-01-15,2022-04-16,285,14
+484,Lavender Haze,Taylor Swift,3,2022-11-05,2022-11-05,278,1
+485,Hard To Love,BLACKPINK,19,2022-10-01,2022-10-08,277,2
+486,295,Sidhu Moose Wala,73,2022-06-11,2022-07-02,277,4
+487,How Do I Make You Love Me?,The Weeknd,22,2022-01-22,2022-01-29,275,2
+488,Ready For Love,BLACKPINK,39,2022-08-13,2022-10-08,274,3
+489,True Love,Kanye West & XXXTENTACION,52,2022-06-11,2022-06-25,274,3
+490,Goosebumps,Travis Scott & HVME,124,2022-01-01,2022-03-19,274,10
+491,Christmas Lights,Coldplay,62,2022-01-01,2022-01-08,273,2
+492,El Apagon,Bad Bunny,47,2022-05-21,2022-06-11,272,4
+493,Rumbaton,Daddy Yankee,59,2022-04-09,2022-04-23,272,3
+494,Snow On The Beach,Taylor Swift Featuring Lana Del Rey,4,2022-11-05,2022-11-05,267,1
+495,Agosto,Bad Bunny,46,2022-05-21,2022-06-04,267,3
+496,One More Sleep,Leona Lewis,65,2022-01-01,2022-01-08,267,2
+497,For Youth,BTS,21,2022-06-25,2022-07-02,263,2
+498,2 Be Loved (Am I Ready),Lizzo,141,2022-10-08,2022-11-05,263,5
+499,Less Than Zero,The Weeknd,33,2022-01-22,2022-01-29,262,2
+500,Tu Turrito,Rei & Callejero Fino,143,2022-08-27,2022-10-15,262,8
+501,TV,Billie Eilish,34,2022-08-06,2022-08-13,260,2
+502,Se Le Ve,"Dimelo Flow, Sech, Lenny Tavarez, Arcangel. De La Ghetto, Justin Quiles & Dalex",158,2022-01-15,2022-03-05,257,8
+503,Midnight Rain,Taylor Swift,5,2022-11-05,2022-11-05,256,1
+504,Boyfriends,Harry Styles,29,2022-06-04,2022-06-11,254,2
+505,Cachorrinhas,Luisa Sonza,69,2022-08-06,2022-08-20,251,3
+506,Kirari,Fujii Kaze,80,2022-01-15,2022-01-29,248,3
+507,Love Yourself,Justin Bieber,157,2022-04-02,2022-09-17,246,11
+508,Maroon,Taylor Swift,6,2022-11-05,2022-11-05,245,1
+509,Santa Baby,Kylie Minogue,73,2022-01-01,2022-01-08,245,2
+510,Christmas (Baby Please Come Home),Darlene Love,71,2022-01-01,2022-01-08,244,2
+511,"1, 2, 3",Sofia Reyes Featuring Jason Derulo & De La Ghetto,137,2022-07-16,2022-08-20,241,6
+512,Dance Crip,Trueno,117,2022-01-01,2022-01-29,240,5
+513,The Scientist,Coldplay,128,2022-04-09,2022-10-15,240,8
+514,Hot In It,Tiesto & Charli XCX,145,2022-07-16,2022-09-17,240,8
+515,Dice,NMIXX,99,2022-10-08,2022-10-29,239,4
+516,My Only Wish (This Year),Britney Spears,78,2022-01-01,2022-01-08,238,2
+517,Somewhere Only We Know,Keane,148,2022-10-01,2022-11-05,236,6
+518,The Happiest Girl,BLACKPINK,22,2022-10-01,2022-10-08,234,2
+519,Imdat,Cakal,89,2022-04-30,2022-05-21,233,4
+520,Blank Space,Taylor Swift,170,2022-02-26,2022-11-05,232,21
+521,Pop Song,Kenshi Yonezu,68,2022-02-19,2022-02-26,230,2
+522,I Wish It Could Be Christmas Everyday,Wizzard,85,2022-01-01,2022-01-08,228,2
+523,Stefania,Kalush Orchestra,39,2022-05-28,2022-06-04,227,2
+524,Ovunque Sarai,Irama,56,2022-02-19,2022-02-26,226,2
+525,Space Man,Sam Ryder,37,2022-05-28,2022-06-04,225,2
+526,"You're On Your Own, Kid",Taylor Swift,8,2022-11-05,2022-11-05,223,1
+527,Jingle Bells,Frank Sinatra,68,2022-01-01,2022-01-08,222,2
+528,Merry Christmas Everybody,Slade,87,2022-01-01,2022-01-08,220,2
+529,Mockingbird,Eminem,74,2022-10-29,2022-11-05,215,2
+530,Monotonia,Shakira + Ozuna,14,2022-10-29,2022-11-05,214,2
+531,Hallelujah,Pentatonix,81,2022-01-01,2022-01-08,214,2
+532,Bejeweled,Taylor Swift,9,2022-11-05,2022-11-05,212,1
+533,Chicken Teriyaki,Rosalia,55,2022-04-02,2022-04-09,209,2
+534,Candy,Rosalia,59,2022-04-02,2022-04-09,209,2
+535,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,157,2022-01-15,2022-05-14,208,9
+536,Hey Mor,Ozuna Featuring Feid,60,2022-10-29,2022-11-05,203,2
+537,Freaky Deaky,Tyga X Doja Cat,103,2022-03-12,2022-04-02,203,4
+538,Vigilante Shit,Taylor Swift,10,2022-11-05,2022-11-05,201,1
+539,Todo Mundo Menos Voce,Marilia Mendonca & Maiara & Maraisa,126,2022-01-01,2022-01-15,200,3
+540,Marisola,Cris Mj Featuring Standly,153,2022-09-24,2022-10-29,200,6
+541,It's Beginning To Look Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,93,2022-01-01,2022-01-08,198,2
+542,Where The Wind Blows,Ado,121,2022-08-27,2022-09-17,198,4
+543,Chainsaw Blood,VAUNDY,69,2022-10-29,2022-11-05,194,2
+544,Like It's Christmas,Jonas Brothers,96,2022-01-01,2022-01-08,193,2
+545,A Holly Jolly Christmas,Burl Ives,92,2022-01-01,2022-01-08,192,2
+546,United In Grief,Kendrick Lamar,21,2022-05-28,2022-06-04,191,2
+547,Karma,Taylor Swift,11,2022-11-05,2022-11-05,190,1
+548,You Make It Feel Like Christmas,Gwen Stefani Featuring Blake Shelton,103,2022-01-01,2022-01-08,190,2
+549,The Last Ride,Sidhu Moose Wala,103,2022-06-11,2022-06-25,190,3
+550,Question...?,Taylor Swift,12,2022-11-05,2022-11-05,189,1
+551,Yeah Yeah Yeah,BLACKPINK,27,2022-10-01,2022-10-08,189,2
+552,Let Her Go,Passenger,163,2022-01-29,2022-10-08,189,16
+553,Life's Too Short,aespa,92,2022-07-09,2022-07-23,186,3
+554,We Made It,T-Low & Miksu / Macloud,73,2022-05-07,2022-05-14,185,2
+555,Tally,BLACKPINK,35,2022-10-01,2022-10-08,184,2
+556,Labyrinth,Taylor Swift,19,2022-11-05,2022-11-05,182,1
+557,Ciao Ciao,La Rappresentante di Lista,77,2022-02-19,2022-02-26,182,2
+558,Tak Ingin Usai,Keisya Levronka,147,2022-06-25,2022-07-16,182,4
+559,Sausage Rolls For Everyone,LadBaby Featuring Ed Sheeran & Elton John,20,2022-01-01,2022-01-01,181,1
+560,No Se Habla de Bruno,"Carolina Gaitan, Mauro Castillo, Daniela Sierra, Juanse Diez, Isabel Garces, Olga Lucia Vives & Elenco de Encanto",121,2022-03-05,2022-03-19,181,3
+561,Mastermind,Taylor Swift,22,2022-11-05,2022-11-05,179,1
+562,Sweet Nothing,Taylor Swift,23,2022-11-05,2022-11-05,178,1
+563,Souvenir,BUMP OF CHICKEN,81,2022-10-15,2022-10-29,177,3
+564,Santa Claus Is Coming To Town,Michael Buble,104,2022-01-01,2022-01-08,176,2
+565,Rush Hour,Crush Featuring j-hope,76,2022-10-08,2022-10-15,175,2
+566,SloMo,Chanel,79,2022-05-28,2022-06-04,174,2
+567,Edamame,bbno$ Featuring Rich Brian,160,2022-01-01,2022-02-19,174,7
+568,Santa Claus Is Comin' To Town,Jackson 5,100,2022-01-01,2022-01-08,173,2
+569,Arson,j-hope,29,2022-07-30,2022-07-30,172,1
+570,Father Time,Kendrick Lamar Featuring Sampha,30,2022-05-28,2022-05-28,171,1
+571,Born Singer,BTS,31,2022-06-25,2022-06-25,170,1
+572,Nxde,(G)I-DLE,34,2022-10-29,2022-11-05,170,2
+573,Rich Spirit,Kendrick Lamar,41,2022-05-28,2022-06-04,169,2
+574,Die,Gazo,147,2022-09-03,2022-10-01,167,5
+575,Words,Alesso & Zara Larsson,154,2022-09-03,2022-10-08,165,6
+576,The Heart Part 5,Kendrick Lamar,63,2022-05-21,2022-05-28,164,2
+577,Mienteme,TINI X Maria Becerra,143,2022-01-01,2022-02-05,164,6
+578,I Really Want To Stay At Your House,Rosa Walton,124,2022-10-08,2022-10-22,163,3
+579,Grace,Fujii Kaze,104,2022-10-22,2022-10-29,162,2
+580,Fala Mal de Mim,Gusttavo Lima,152,2022-07-30,2022-09-17,162,6
+581,"Would've, Could've, Should've",Taylor Swift,40,2022-11-05,2022-11-05,161,1
+582,Best Friends,The Weeknd,42,2022-01-22,2022-01-29,161,2
+583,Bigger Than The Whole Sky,Taylor Swift,41,2022-11-05,2022-11-05,160,1
+584,Texts Go Green,Drake,41,2022-07-02,2022-07-02,160,1
+585,Head & Heart,Joel Corry X MNEK,112,2022-01-15,2022-02-19,160,6
+586,The Rumbling,SiM,115,2022-02-19,2022-02-26,159,2
+587,Dawn FM,The Weeknd,43,2022-01-22,2022-01-22,158,1
+588,The Great War,Taylor Swift,43,2022-11-05,2022-11-05,158,1
+589,Here We Go... Again,"The Weeknd Featuring Tyler, The Creator",44,2022-01-22,2022-01-22,157,1
+590,Darl+ing,SEVENTEEN,45,2022-04-30,2022-04-30,156,1
+591,Poland,Lil Yachty,73,2022-10-29,2022-11-05,156,2
+592,Cozy Little Christmas,Katy Perry,108,2022-01-01,2022-01-08,154,2
+593,Prohibidox,Feid,123,2022-10-01,2022-10-22,154,4
+594,Attention,Omah Lay & Justin Bieber,73,2022-03-19,2022-03-26,153,2
+595,Psychofreak,Camila Cabello Featuring WILLOW,74,2022-04-23,2022-04-30,153,2
+596,Nail Tech,Jack Harlow,115,2022-03-05,2022-03-19,153,3
+597,Do We Have A Problem?,Nicki Minaj X Lil Baby,49,2022-02-19,2022-02-19,152,1
+598,Coracao Cachorro,Avine Vinny E Matheus Fernandes,132,2022-01-01,2022-01-15,152,3
+599,Worldwide Steppers,Kendrick Lamar,50,2022-05-28,2022-05-28,151,1
+600,Black Summer,Red Hot Chili Peppers,50,2022-02-19,2022-02-19,151,1
+601,I'm That Girl,Beyonce,50,2022-08-13,2022-08-13,151,1
+602,Paris,Taylor Swift,51,2022-11-05,2022-11-05,150,1
+603,I Heard You’re Married,The Weeknd Featuring Lil Wayne,54,2022-01-22,2022-01-22,147,1
+604,Calling My Name,Drake,54,2022-07-02,2022-07-02,147,1
+605,We Cry Together,Kendrick Lamar & Taylour Paige,54,2022-05-28,2022-05-28,147,1
+606,Geccek,Tarkan,54,2022-03-05,2022-03-05,147,1
+607,Boys Don't Cry,Anitta,81,2022-02-12,2022-02-19,147,2
+608,Silent Hill,Kendrick Lamar & Kodak Black,55,2022-05-28,2022-05-28,146,1
+609,Ara,Zeynep Bastik,150,2022-08-20,2022-09-10,146,4
+610,A Keeper,Drake,56,2022-07-02,2022-07-02,145,1
+611,Church Girl,Beyonce,57,2022-08-13,2022-08-13,144,1
+612,Dua Lipa,Jack Harlow,86,2022-05-21,2022-05-28,143,2
+613,Starry Eyes,The Weeknd,59,2022-01-22,2022-01-22,142,1
+614,Count Me Out,Kendrick Lamar,59,2022-05-28,2022-05-28,142,1
+615,Boris Johnson Is STILL A Fucking Cunt,The Kunts,59,2022-01-01,2022-01-01,142,1
+616,This Love (Taylor's Version),Taylor Swift,59,2022-05-21,2022-05-21,142,1
+617,Mary's Boy Child / Oh My Lord,Boney M.,118,2022-01-01,2022-01-08,141,2
+618,Energy,Beyonce Featuring BEAM,61,2022-08-13,2022-08-13,140,1
+619,High Infidelity,Taylor Swift,64,2022-11-05,2022-11-05,137,1
+620,Poesia Acustica 13,"MC Cabelinho, TZ da Coronel, Chefin, Luisa Sonza, N.I.N.A., Xama, Oruam, Chris MC, L7NNON & Salve Malak",115,2022-10-08,2022-10-22,137,3
+621,Purple Hearts,"Kendrick Lamar, Summer Walker & Ghostface Killah",66,2022-05-28,2022-05-28,135,1
+622,Memories,Maroon 5,173,2022-01-15,2022-04-30,135,10
+623,Cozy,Beyonce,67,2022-08-13,2022-08-13,134,1
+624,Good Boy Gone Bad,TOMORROW X TOGETHER,125,2022-05-21,2022-05-28,134,2
+625,Bye-Good-Bye,BE:FIRST,115,2022-03-19,2022-03-26,133,2
+626,Zeit,Rammstein,90,2022-03-26,2022-05-14,132,2
+627,Uptown Funk!,Mark Ronson Featuring Bruno Mars,148,2022-01-15,2022-05-14,132,8
+628,Summer Renaissance,Beyonce,70,2022-08-13,2022-08-13,131,1
+629,Baile No Morro,MC Tairon E MC Vitin Da Igreji,152,2022-07-16,2022-08-06,131,4
+630,Zick Zack,Rammstein,106,2022-04-23,2022-05-14,130,2
+631,Ame Sansan,King Gnu,72,2022-07-30,2022-07-30,129,1
+632,Run Rudolph Run,Chuck Berry,113,2022-01-01,2022-01-08,129,2
+633,Flight's Booked,Drake,73,2022-07-02,2022-07-02,128,1
+634,Blue Christmas,Elvis Presley,116,2022-01-01,2022-01-08,128,2
+635,La Triple T,TINI,159,2022-06-04,2022-06-25,128,4
+636,Currents,Drake,75,2022-07-02,2022-07-02,126,1
+637,Te Amo Demais,Marilia Mendonca,111,2022-08-06,2022-08-13,125,2
+638,Savior,"Kendrick Lamar, Baby Keem, & Sam Dew",77,2022-05-28,2022-05-28,124,1
+639,La Loto,"TINI, Becky G & Anitta",114,2022-07-23,2022-07-30,124,2
+640,Paris,Morat & Duki,112,2022-06-04,2022-06-11,123,2
+641,Don't Break My Heart,The Weeknd,80,2022-01-22,2022-01-22,121,1
+642,August,Taylor Swift,105,2022-08-13,2022-08-20,121,2
+643,Galopa,Pedro Sampaio,141,2022-01-01,2022-02-05,121,5
+644,Desenrola Bate Joga de Ladin,"DJ Bel da CDD, L7nnon & Os Hawaianos Featuring DJ Biel do Furduncinho",148,2022-04-30,2022-05-14,121,3
+645,Lost In The Fire,Gesaffelstein & The Weeknd,154,2022-01-22,2022-02-12,121,4
+646,Glitch,Taylor Swift,81,2022-11-05,2022-11-05,120,1
+647,"Santa, Can't You Hear Me",Kelly Clarkson Featuring Ariana Grande,137,2022-01-01,2022-01-08,120,2
+648,From The D 2 The LBC,Eminem & Snoop Dogg,86,2022-07-09,2022-07-16,118,2
+649,Ask Sadece Anlayana,Velet,127,2022-06-04,2022-06-11,118,2
+650,INVU,TAEYEON,138,2022-03-05,2022-03-19,118,3
+651,Tchuco Nela,Wesley Safadao & Rogerinho,150,2022-06-04,2022-06-18,118,3
+652,Siempre Pendientes,Peso Pluma X Luis R Conriquez,155,2022-09-03,2022-09-17,118,3
+653,Sharks,Imagine Dragons,123,2022-07-09,2022-07-16,117,2
+654,Move Your Body,Ownboss & SEVEK,170,2022-04-23,2022-07-09,117,8
+655,Wasurena,Awesome City Club,107,2022-01-15,2022-01-22,116,2
+656,Molhando O Volante,Jorge & Mateus,144,2022-02-19,2022-03-12,116,4
+657,Evergreen,Omar Apollo,159,2022-10-15,2022-10-29,116,3
+658,Eazy,The Game & Kanye West,95,2022-01-29,2022-02-05,115,2
+659,Dear Reader,Taylor Swift,87,2022-11-05,2022-11-05,114,1
+660,Thank God It's Christmas,Queen,121,2022-01-01,2022-01-08,112,2
+661,Billie Jean,Michael Jackson,154,2022-01-15,2022-08-06,112,9
+662,The 30th,Billie Eilish,91,2022-08-06,2022-08-06,110,1
+663,Santa Claus Is Comin' To Town,Bruce Springsteen,123,2022-01-01,2022-01-08,109,2
+664,Rich (Interlude),Kendrick Lamar,94,2022-05-28,2022-05-28,107,1
+665,Christmas (Baby Please Come Home),Mariah Carey,131,2022-01-01,2022-01-08,107,2
+666,Emiliana,CKay,171,2022-02-05,2022-03-19,106,6
+667,Churchill Downs,Jack Harlow Featuring Drake,96,2022-05-21,2022-05-21,105,1
+668,Everybody Wants To Rule The World,Tears For Fears,175,2022-07-23,2022-10-08,105,10
+669,High,The Chainsmokers,97,2022-02-12,2022-02-12,104,1
+670,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,97,2022-02-05,2022-02-05,104,1
+671,Have Yourself A Merry Little Christmas,Sam Smith,142,2022-01-01,2022-01-08,104,2
+672,Dark Horse,Katy Perry Featuring Juicy J,144,2022-10-22,2022-11-05,103,3
+673,Carolina,Taylor Swift,99,2022-07-09,2022-07-09,102,1
+674,Maybe,Machine Gun Kelly & Bring Me The Horizon,149,2022-04-02,2022-04-09,102,2
+675,Sign Of The Times,Harry Styles,157,2022-04-16,2022-05-14,102,4
+676,Every Angel Is Terrifying,The Weeknd,101,2022-01-22,2022-01-22,100,1
+677,Party En El Barrio,Paulo Londra Featuring Duki,103,2022-10-01,2022-10-01,98,1
+678,O Forse Sei Tu,Elisa,103,2022-02-19,2022-02-19,98,1
+679,Arcade,Duncan Laurence,176,2022-01-15,2022-03-26,98,8
+680,A Sky Full Of Stars,Coldplay,171,2022-09-03,2022-10-08,97,5
+681,Are You Entertained,Russ & Ed Sheeran,105,2022-08-06,2022-08-06,96,1
+682,Finesse,Pheelz x Buju,106,2022-03-19,2022-03-19,95,1
+683,Buga,Kizz Daniel Featuring Tekno,139,2022-05-21,2022-06-04,94,3
+684,Bijlee Bijlee,Harrdy Sandhu,128,2022-01-01,2022-01-22,93,3
+685,Angst,Rammstein,109,2022-05-14,2022-05-14,92,1
+686,Cigarettes,Juice WRLD,110,2022-02-19,2022-02-19,91,1
+687,La Zona,Bad Bunny,160,2022-03-12,2022-03-26,91,3
+688,Bad Memories,MEDUZA x James Carter Featuring Elley Duhe & FAST BOY,165,2022-10-15,2022-11-05,91,4
+689,Farfalle,Sangiovanni,112,2022-02-19,2022-02-26,90,2
+690,Please Come Home For Christmas,Eagles,130,2022-01-01,2022-01-08,90,2
+691,Made You Look,Meghan Trainor,112,2022-11-05,2022-11-05,89,1
+692,Abalo Emocional,Luan Santana,167,2022-03-12,2022-04-30,89,5
+693,Overdrive,Drake,113,2022-07-02,2022-07-02,88,1
+694,Mr. Morale,Kendrick Lamar & Tanna Leone,114,2022-05-28,2022-05-28,87,1
+695,Citrus,Da-iCE,115,2022-01-15,2022-01-22,87,2
+696,Celebrate,TWICE,154,2022-08-06,2022-08-13,86,2
+697,Crown,Kendrick Lamar,116,2022-05-28,2022-05-28,85,1
+698,Sehnsucht,Miksu / Macloud & T-Low,119,2022-03-19,2022-03-26,84,2
+699,Hot Shit,"Cardi B, Ye & Lil Durk",118,2022-07-16,2022-07-16,83,1
+700,Bye Bye,Marshmello & Juice WRLD,118,2022-10-29,2022-10-29,83,1
+701,Zukunft Pink,Peter Fox Featuring Inez,118,2022-11-05,2022-11-05,83,1
+702,La Trampa Es Ley,LIT killah,138,2022-02-26,2022-03-05,80,2
+703,Savage,aespa,170,2022-01-15,2022-02-05,80,4
+704,City Of Gods,"Fivio Foreign, Kanye West & Alicia Keys",137,2022-02-26,2022-03-05,79,2
+705,Balanco da Rede,Matheus Fernandes & Xand Aviao,162,2022-05-07,2022-06-11,78,3
+706,Chaotic,Tate McRae,124,2022-04-09,2022-04-09,77,1
+707,Watercolor Eyes,Lana Del Rey,125,2022-02-05,2022-02-05,76,1
+708,Glitch Mode,NCT DREAM,126,2022-04-09,2022-04-09,75,1
+709,Dove Si Balla,Dargen D'Amico,126,2022-02-19,2022-02-19,75,1
+710,Ohne Benzin,Domiziana,166,2022-06-11,2022-06-25,74,3
+711,Velvet,back number,128,2022-09-10,2022-09-10,73,1
+712,Chronostasis,BUMP OF CHICKEN,142,2022-04-23,2022-04-30,73,2
+713,Iris,Goo Goo Dolls,161,2022-05-21,2022-06-11,72,3
+714,Salincak,Mustafa Ceceli & Nigar Muharrem,130,2022-01-29,2022-01-29,71,1
+715,Virgo's Groove,Beyonce,130,2022-08-13,2022-08-13,71,1
+716,That's Hilarious,Charlie Puth,130,2022-04-23,2022-04-23,71,1
+717,So Good,Halsey,131,2022-06-25,2022-06-25,70,1
+718,Stop the Cavalry,Jona Lewie,152,2022-01-01,2022-01-08,70,2
+719,Tem Cabare Essa Noite,Nivaldo Marques / Nattan,155,2022-08-06,2022-08-13,70,2
+720,Hold Me Closer,Cornelia Jakobs,132,2022-05-28,2022-05-28,69,1
+721,Child,MARK,132,2022-02-19,2022-02-19,69,1
+722,Love Me More,Sam Smith,132,2022-05-14,2022-05-14,69,1
+723,'Till I Collapse,Eminem Featuring Nate Dogg,166,2022-02-26,2022-03-05,69,2
+724,Chop (Nouvelle Ecole),Fresh Lapeufra,165,2022-07-09,2022-07-16,68,2
+725,Rasputin,Majestic X Boney M.,134,2022-01-15,2022-01-15,67,1
+726,OJALA,Maria Becerra,141,2022-06-18,2022-07-16,67,4
+727,Jingle Bell Rock,Daryl Hall John Oates,143,2022-01-01,2022-01-08,66,2
+728,Remix,Daddy Yankee,136,2022-04-09,2022-04-09,65,1
+729,How You Like That,BLACKPINK,136,2022-09-03,2022-09-03,65,1
+730,Not Over Yet,KSI & Tom Grennan,136,2022-08-20,2022-08-20,65,1
+731,Time Left,Zutomayo,136,2022-11-05,2022-11-05,65,1
+732,Cough (Odo),Kizz Daniel,138,2022-10-29,2022-10-29,63,1
+733,Hey Hey Rise Up,Pink Floyd Featuring Andriy Khlyvnyuk,138,2022-04-23,2022-04-23,63,1
+734,Erro Planejado,Luan E Henrique & Juliano,174,2022-05-14,2022-06-04,63,3
+735,La Cancion,J Balvin & Bad Bunny,183,2022-09-24,2022-10-15,62,4
+736,Auntie Diaries,Kendrick Lamar,140,2022-05-28,2022-05-28,61,1
+737,El Panuelo,Romeo Santos & Rosalia,140,2022-09-17,2022-09-17,61,1
+738,Bussin,Nicki Minaj X Lil Baby,141,2022-02-26,2022-02-26,60,1
+739,El Rescate,Marca Registrada + Junior H,170,2022-08-13,2022-09-24,60,3
+740,Roses,SAINt JHN,146,2022-01-15,2022-01-29,59,2
+741,Mr,YOASOBI,143,2022-03-05,2022-03-05,58,1
+742,Beatbox,NCT DREAM,147,2022-06-11,2022-06-18,57,2
+743,En El Radio Un Cochinero,Victor Cibrian,171,2022-06-11,2022-06-18,57,2
+744,I Gotta Feeling,The Black Eyed Peas,145,2022-01-15,2022-01-15,56,1
+745,God Did,"DJ Khaled Featuring Rick Ross, Lil Wayne, JAY-Z, John Legend & Fridayy",145,2022-09-10,2022-09-10,56,1
+746,Come On Home For Christmas,George Ezra,154,2022-01-01,2022-01-08,56,2
+747,Jingle Bells,Michael Buble Featuring The Puppini Sisters,159,2022-01-01,2022-01-08,56,2
+748,Jefe,Ninho,146,2022-01-01,2022-01-01,55,1
+749,Fils de Joie,Stromae,146,2022-03-19,2022-03-19,55,1
+750,I'm On One,Future Featuring Drake,146,2022-05-14,2022-05-14,55,1
+751,Santa Baby,Eartha Kitt With Henri Rene And His Orchestra,161,2022-01-01,2022-01-08,55,2
+752,2 Baddies,NCT 127,147,2022-10-01,2022-10-01,54,1
+753,Insuperabile,Rkomi,149,2022-02-19,2022-02-19,52,1
+754,Tie That Binds,Drake,149,2022-07-02,2022-07-02,52,1
+755,Letztes Mal,Bonez MC & RAF Camora,150,2022-07-30,2022-07-30,51,1
+756,Illusion,aespa,150,2022-07-23,2022-07-23,51,1
+757,Kimini Muchuu,Hikaru Utada,150,2022-01-01,2022-01-01,51,1
+758,Christmas (Baby Please Come Home),Michael Buble,170,2022-01-01,2022-01-08,51,2
+759,Vontade de Morder,Simone & Simaria - Ze Felipe,151,2022-03-12,2022-03-12,50,1
+760,Reputation,Post Malone,151,2022-06-18,2022-06-18,50,1
+761,Plastic Off The Sofa,Beyonce,152,2022-08-13,2022-08-13,49,1
+762,Terminator,Asake,153,2022-09-03,2022-09-03,48,1
+763,Excuses,"AP Dhillon, Intense & Gurinder Gill",172,2022-02-12,2022-03-19,48,2
+764,Edging,Blink-182,154,2022-10-29,2022-10-29,47,1
+765,Boy With Luv,BTS Featuring Halsey,154,2022-06-25,2022-06-25,47,1
+766,Savior (Interlude),Kendrick Lamar,155,2022-05-28,2022-05-28,46,1
+767,Mercedes Tintea,Anuel AA,156,2022-09-17,2022-09-17,45,1
+768,Tell It To My Heart,Meduza Featuring Hozier,156,2022-02-05,2022-02-05,45,1
+769,Down Hill,Drake,158,2022-07-02,2022-07-02,43,1
+770,Mirror,Kendrick Lamar,158,2022-05-28,2022-05-28,43,1
+771,Si Te Pudiera Mentir,Calibre 50,177,2022-01-01,2022-04-02,43,4
+772,Wonderful Dream (Holidays Are Coming),Melanie Thornton,159,2022-01-01,2022-01-01,42,1
+773,A La Antiguita,Calibre 50,176,2022-01-08,2022-01-15,42,2
+774,Before You Go,Lewis Capaldi,187,2022-01-15,2022-02-12,42,5
+775,Pass The Dutchie,Musical Youth,165,2022-06-18,2022-06-25,41,2
+776,Odo,Ado,176,2022-01-08,2022-02-12,41,3
+777,_World,SEVENTEEN,161,2022-08-06,2022-08-06,40,1
+778,Lemon Tree,Post Malone,161,2022-06-18,2022-06-18,40,1
+779,Mother I Sober,Kendrick Lamar Featuring Beth Gibbons,161,2022-05-28,2022-05-28,40,1
+780,Al Sevgilim,Semicenk & Funda Arar,171,2022-04-30,2022-05-07,39,2
+781,Santa's Coming For Us,Sia,175,2022-01-01,2022-01-08,39,2
+782,Venom,Stray Kids,164,2022-04-02,2022-04-02,37,1
+783,Nos Comemos,Tiago pzk X Ozuna,164,2022-06-18,2022-06-18,37,1
+784,Heated,Beyonce,164,2022-08-13,2022-08-13,37,1
+785,Give That Wolf A Banana,Subwoolfer,165,2022-05-28,2022-05-28,36,1
+786,The World's Continuation,Ado,165,2022-08-27,2022-08-27,36,1
+787,Stan,Eminem Featuring Dido,172,2022-02-26,2022-03-05,35,2
+788,Up!,Kep1er,167,2022-07-09,2022-07-09,34,1
+789,Wrapped Around Your Finger,Post Malone,167,2022-06-18,2022-06-18,34,1
+790,Say You Won't Let Go,James Arthur,182,2022-01-29,2022-02-26,34,3
+791,Hentai,Rosalia,168,2022-04-02,2022-04-02,33,1
+792,Pope Is A Rockstar,SALES,168,2022-01-01,2022-01-01,33,1
+793,Face It Alone,Queen,169,2022-10-29,2022-10-29,32,1
+794,New Gold,Gorillaz Featuring Tame Impala & Bootie Brown,169,2022-09-17,2022-09-17,32,1
+795,Better Days,NEIKED X Mae Muller X Polo G,180,2022-01-15,2022-02-12,32,3
+796,Run2u,STAYC,170,2022-03-12,2022-03-12,31,1
+797,Every Summertime,NIKI,181,2022-02-05,2022-02-12,31,2
+798,Get Into It (Yuh),Doja Cat,171,2022-02-12,2022-02-12,30,1
+799,Paradise,Coldplay,182,2022-09-24,2022-10-01,30,2
+800,Title,Meghan Trainor,172,2022-01-01,2022-01-01,29,1
+801,Wasting Angels,Post Malone Featuring The Kid LAROI,173,2022-06-18,2022-06-18,28,1
+802,Photograph,Ed Sheeran,191,2022-01-15,2022-05-14,28,5
+803,House On Fire,Mimi Webb,174,2022-03-05,2022-03-05,27,1
+804,Rudolph The Red Nosed Reindeer,Dean Martin,174,2022-01-08,2022-01-08,27,1
+805,Asa Ga Kuru,Aimer,175,2022-01-22,2022-01-22,26,1
+806,In Da Getto,J Balvin & Skrillex,175,2022-01-15,2022-01-15,26,1
+807,Wildest Dreams (Taylor's Version),Taylor Swift,175,2022-05-21,2022-05-21,26,1
+808,Felina,WIU & MC Ryan SP,181,2022-10-29,2022-11-05,26,2
+809,Don't Stop Me Now,Queen,178,2022-01-15,2022-01-15,23,1
+810,Mr. Brightside,The Killers,183,2022-01-15,2022-05-14,23,2
+811,Move,Beyonce Featuring Grace Jones & Tems,179,2022-08-13,2022-08-13,22,1
+812,Problemon,Alvaro Diaz Con Rauw Alejandro,189,2022-02-26,2022-03-05,21,2
+813,Anarchy,Official HIGE DANdism,181,2022-01-22,2022-01-22,20,1
+814,Don't Go Yet,Camila Cabello,181,2022-01-15,2022-01-15,20,1
+815,One Up,Central Cee,183,2022-10-29,2022-10-29,18,1
+816,Manike (From Thank God),"Yohani, Tanishk Bagchi, Surya",183,2022-11-05,2022-11-05,18,1
+817,White Christmas,Michael Buble Duet With Shania Twain,183,2022-01-08,2022-01-08,18,1
+818,Love Me Like You Do,Ellie Goulding,191,2022-02-05,2022-04-16,18,4
+819,West Connect,Luciano & Central Cee,184,2022-10-15,2022-10-15,17,1
+820,Liability,Drake,184,2022-07-02,2022-07-02,17,1
+821,Another One Bites The Dust,Queen,184,2022-01-15,2022-01-15,17,1
+822,Eien,Mr.Children,184,2022-04-09,2022-04-09,17,1
+823,Blessed-Cursed,ENHYPEN,184,2022-01-22,2022-01-22,17,1
+824,Coracao Cigano (Ao Vivo),Luan E Luisa Sonza,185,2022-09-10,2022-09-10,16,1
+825,Me Rehuso,Danny Ocean,191,2022-04-16,2022-04-23,16,2
+826,Hotel,Montell Fish,186,2022-10-01,2022-10-01,15,1
+827,En La de Ella,"Jhayco, Feid & Sech",186,2022-11-05,2022-11-05,15,1
+828,We Fell In Love In October,girl in red,186,2022-10-15,2022-10-15,15,1
+829,Demons,Imagine Dragons,193,2022-09-24,2022-10-01,15,2
+830,Assunto Delicado,Guilherme & Benuto E Xand Aviao,193,2022-10-22,2022-11-05,15,2
+831,Careless Whisper,Wham! Featuring George Michael,187,2022-01-15,2022-01-15,14,1
+832,Pure/Honey,Beyonce,187,2022-08-13,2022-08-13,14,1
+833,I Cannot Be (A Sadder Song),Post Malone Featuring Gunna,187,2022-06-18,2022-06-18,14,1
+834,Bizcochito,Rosalia,187,2022-04-02,2022-04-02,14,1
+835,A Maior Saudade,Henrique & Juliano,188,2022-01-08,2022-01-08,13,1
+836,The Hills,The Weeknd,188,2022-08-06,2022-08-06,13,1
+837,When I Was Your Man,Bruno Mars,193,2022-10-29,2022-11-05,13,2
+838,Agua,"Daddy Yankee, Rauw Alejandro & Nile Rodgers",189,2022-04-09,2022-04-09,12,1
+839,Fade Up,"ZEG P, Hamza & SCH",189,2022-08-06,2022-08-06,12,1
+840,"Mehabooba (From KGF Chapter 2"")",Ananya Bhat,189,2022-05-28,2022-05-28,12,1
+841,Ce Ta Preparada?,Tayrone,195,2022-01-08,2022-01-15,12,2
+842,Omokage,milet & Aimer & Lilas ikuta,190,2022-01-01,2022-01-01,11,1
+843,Hello,TREASURE,190,2022-10-22,2022-10-22,11,1
+844,Pareja del Ano,Sebastian Yatra X Myke Towers,190,2022-01-15,2022-01-15,11,1
+845,Have Yourself A Merry Little Christmas,Michael Buble,191,2022-01-08,2022-01-08,10,1
+846,Superman,Eminem,191,2022-11-05,2022-11-05,10,1
+847,No Chao Novinha,Anitta & Pedro Sampaio,192,2022-01-15,2022-01-15,9,1
+848,Kaikai Kitan,Eve,192,2022-01-22,2022-01-22,9,1
+849,The Christmas Sweater,Michael Buble,192,2022-01-08,2022-01-08,9,1
+850,Luces,Paulo Londra,192,2022-07-16,2022-07-16,9,1
+851,Late To Da Party (F*CK BET),Lil Nas X & Youngboy Never Broke Again,193,2022-07-09,2022-07-09,8,1
+852,Your Love (9PM),ATB x Topic x A7S,194,2022-01-15,2022-01-15,7,1
+853,Heart,aimyon,194,2022-01-08,2022-01-08,7,1
+854,Beg For You,Charli XCX Featuring Rina Sawayama,195,2022-02-12,2022-02-12,6,1
+855,Ferxxo 100,Feid,195,2022-09-24,2022-09-24,6,1
+856,La Dolce Vita,"Fedez, Tananai & Mara Sattei",195,2022-07-16,2022-07-16,6,1
+857,Levels,Sidhu Moose Wala & Sunny Malton,195,2022-06-11,2022-06-11,6,1
+858,Paradise,Liaze,196,2022-07-30,2022-07-30,5,1
+859,Curame,Rauw Alejandro,196,2022-01-01,2022-01-01,5,1
+860,Vermelho,Gloria Groove,196,2022-03-26,2022-03-26,5,1
+861,I'll Be Home For Christmas,Michael Buble,196,2022-01-08,2022-01-08,5,1
+862,10von10,Pajel,196,2022-01-15,2022-01-15,5,1
+863,Recall,BOWKYLION,198,2022-08-13,2022-08-20,5,2
+864,Ddu-du Ddu-du,BLACKPINK,197,2022-09-03,2022-09-03,4,1
+865,Thique,Beyonce,197,2022-08-13,2022-08-13,4,1
+866,Save Yourself,ONE OK ROCK,197,2022-07-09,2022-07-09,4,1
+867,Cookie,NewJeans,198,2022-08-27,2022-08-27,3,1
+868,Christmas Time,Bryan Adams,198,2022-01-08,2022-01-08,3,1
+869,Cash In Cash Out,"Pharrell Williams Featuring 21 Savage & Tyler, The Creator",198,2022-06-25,2022-06-25,3,1
+870,Thunderstruck,AC/DC,199,2022-07-23,2022-07-23,2,1
+871,Taxi,Bonez MC & RAF Camora Featuring Gzuz,199,2022-09-17,2022-09-17,2,1
+872,Positions,Ariana Grande,199,2022-01-15,2022-01-15,2,1
+873,Beat The Odds,Lil Tjay,200,2022-09-10,2022-09-10,1,1
+874,My Heart Goes (La Di Da),Becky Hill Featuring Topic,200,2022-01-15,2022-01-15,1,1
+875,Syl,Sidhu Moose Wala,200,2022-07-09,2022-07-09,1,1
+876,PETETE,Gambi,200,2022-08-13,2022-08-13,1,1
+877,10 Things I Hate About You,Leah Kate,200,2022-05-21,2022-05-21,1,1

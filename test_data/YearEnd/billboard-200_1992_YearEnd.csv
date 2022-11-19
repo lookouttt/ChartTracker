@@ -1,0 +1,630 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Ropin' The Wind,Garth Brooks,1,1992-01-04,1992-12-26,12209,52
+2,Ten,Pearl Jam,2,1992-01-04,1992-12-26,10819,52
+3,No Fences,Garth Brooks,3,1992-01-04,1992-12-26,10802,52
+4,Nevermind,Nirvana,1,1992-01-04,1992-12-26,10325,52
+5,Blood Sugar Sex Magik,Red Hot Chili Peppers,3,1992-01-04,1992-12-26,10185,52
+6,Metallica,Metallica,5,1992-01-04,1992-12-26,10002,52
+7,Achtung Baby,U2,4,1992-01-04,1992-12-26,9788,52
+8,"Time, Love And Tenderness",Michael Bolton,4,1992-01-04,1992-12-26,9717,52
+9,Cooleyhighharmony,Boyz II Men,5,1992-01-04,1992-12-26,9080,52
+10,Totally Krossed Out,Kris Kross,1,1992-04-18,1992-12-26,9053,37
+11,We Can't Dance,Genesis,7,1992-01-04,1992-12-26,9041,52
+12,Luck Of The Draw,Bonnie Raitt,4,1992-01-04,1992-12-26,8946,52
+13,Dangerous,Michael Jackson,1,1992-01-04,1992-12-26,8723,52
+14,Some Gave All,Billy Ray Cyrus,1,1992-06-06,1992-12-26,8505,30
+15,Garth Brooks,Garth Brooks,13,1992-01-04,1992-12-26,8414,52
+16,Use Your Illusion I,Guns N' Roses,8,1992-01-04,1992-12-26,8308,52
+17,Shepherd Moons,Enya,17,1992-01-04,1992-12-26,8207,52
+18,Forever My Lady,Jodeci,18,1992-01-04,1992-12-26,7999,52
+19,Waking Up The Neighbours,Bryan Adams,13,1992-01-04,1992-12-26,7938,52
+20,Use Your Illusion II,Guns N' Roses,7,1992-01-04,1992-12-26,7909,52
+21,Unforgettable: With Love,Natalie Cole,2,1992-01-04,1992-12-26,7796,52
+22,For My Broken Heart,Reba McEntire,23,1992-01-04,1992-12-26,7683,52
+23,Adrenalize,Def Leppard,1,1992-04-18,1992-12-26,7639,37
+24,No More Tears,Ozzy Osbourne,24,1992-01-04,1992-12-26,7631,52
+25,Heart In Motion,Amy Grant,13,1992-01-04,1992-12-26,7495,52
+26,C.M.B.,Color Me Badd,5,1992-01-04,1992-12-26,7486,52
+27,Beauty And The Beast,Soundtrack,19,1992-01-04,1992-12-26,7304,52
+28,Funky Divas,En Vogue,8,1992-04-11,1992-12-26,7158,38
+29,Don't Rock The Jukebox,Alan Jackson,37,1992-01-04,1992-12-26,6946,52
+30,Ooooooohhh. . .On The TLC Tip,TLC,14,1992-03-14,1992-12-26,6904,42
+31,Mack Daddy,Sir Mix-A-Lot,9,1992-02-22,1992-12-26,6843,45
+32,Wynonna,Wynonna,4,1992-04-18,1992-12-26,6830,37
+33,Too Legit To Quit,M.C. Hammer,3,1992-01-04,1992-12-26,6772,45
+34,Brand New Man,Brooks & Dunn,11,1992-01-18,1992-12-26,6479,43
+35,Classic Queen,Queen,4,1992-03-28,1992-12-26,6448,40
+36,The Comfort Zone,Vanessa Williams,17,1992-01-04,1992-12-26,6397,52
+37,Cypress Hill,Cypress Hill,31,1992-01-04,1992-12-26,6301,52
+38,It's All About To Change,Travis Tritt,25,1992-01-04,1992-12-26,6294,52
+39,The Phantom Of The Opera: Highlights,Original London Cast Recording,46,1992-01-04,1992-12-26,6261,52
+40,Wayne's World,Soundtrack,1,1992-03-07,1992-12-26,5942,43
+41,3 Years 5 Months & 2 Days In The Life Of . . .,Arrested Development,13,1992-04-18,1992-12-26,5741,37
+42,MTV Unplugged EP,Mariah Carey,3,1992-06-20,1992-12-26,5582,28
+43,Emotions,Mariah Carey,9,1992-01-04,1992-12-26,5582,41
+44,Seminole Wind,John Anderson,35,1992-02-29,1992-12-26,5439,44
+45,Rush Street,Richard Marx,35,1992-01-04,1992-12-26,5385,50
+46,The Immaculate Collection,Madonna,69,1992-01-04,1992-12-26,5339,52
+47,The Southern Harmony And Musical Companion,The Black Crowes,1,1992-05-30,1992-12-26,5232,31
+48,Badmotorfinger,Soundgarden,39,1992-01-04,1992-11-14,5199,46
+49,Boomerang,Soundtrack,4,1992-07-18,1992-12-26,5164,24
+50,Diva,Annie Lennox,23,1992-05-30,1992-12-26,5152,31
+51,Celine Dion,Celine Dion,34,1992-04-18,1992-12-26,5125,37
+52,Shake Your Money Maker,The Black Crowes,59,1992-01-04,1992-12-26,5093,52
+53,Empire,Queensryche,37,1992-01-04,1992-12-26,5090,52
+54,Ingenue,k.d. lang,44,1992-04-04,1992-12-26,5071,39
+55,Trisha Yearwood,Trisha Yearwood,48,1992-01-04,1992-12-26,4961,52
+56,Born Into The '90's,R. Kelly & Public Announcement,42,1992-02-15,1992-12-19,4911,45
+57,Soul Provider,Michael Bolton,63,1992-01-04,1992-12-26,4851,52
+58,Something In Red,Lorrie Morgan,53,1992-01-04,1992-12-26,4848,52
+59,Naughty By Nature,Naughty By Nature,25,1992-01-04,1992-09-26,4829,39
+60,The Commitments,Soundtrack,52,1992-01-04,1992-12-26,4769,51
+61,Greatest Hits,ZZ Top,9,1992-05-02,1992-12-26,4760,35
+62,Pocket Full Of Gold,Vince Gill,37,1992-01-04,1992-12-26,4744,51
+63,Out Of Time,R.E.M.,17,1992-01-04,1992-12-26,4724,52
+64,Dead Serious,Das EFX,16,1992-04-25,1992-12-26,4708,36
+65,Lean Into It,Mr. Big,15,1992-02-01,1992-09-12,4597,33
+66,The One,Elton John,8,1992-07-11,1992-12-26,4542,25
+67,The Best Of Van Morrison,Van Morrison,82,1992-01-04,1992-12-26,4527,52
+68,For Unlawful Carnal Knowledge,Van Halen,35,1992-01-04,1992-10-17,4485,42
+69,Temple Of The Dog,Temple Of The Dog,5,1992-06-27,1992-12-26,4434,27
+70,Diamonds And Pearls,Prince And The New Power Generation,10,1992-01-04,1992-08-22,4420,34
+71,Unplugged,Eric Clapton,2,1992-09-12,1992-12-26,4349,16
+72,Psychotic Supper,Tesla,53,1992-01-04,1992-10-17,4338,42
+73,As Ugly As They Wanna Be (EP),Ugly Kid Joe,4,1992-02-08,1992-09-26,4334,34
+74,Spellbound,Paula Abdul,15,1992-01-04,1992-12-26,4236,38
+75,The Sky Is Crying,Stevie Ray Vaughan And Double Trouble,25,1992-01-04,1992-10-03,4222,40
+76,A Wolf In Sheep's Clothing,Black Sheep,30,1992-01-11,1992-09-26,4216,37
+77,Jon Secada,Jon Secada,31,1992-06-06,1992-12-26,4167,30
+78,"Blue Light, Red Light","Harry Connick, Jr.",17,1992-01-04,1992-09-12,4128,37
+79,T.E.V.I.N.,Tevin Campbell,38,1992-01-04,1992-10-03,4080,40
+80,Countdown To Extinction,Megadeth,2,1992-08-01,1992-12-26,4069,22
+81,Singles,Soundtrack,6,1992-07-18,1992-12-26,4016,24
+82,Wish,The Cure,2,1992-05-09,1992-10-31,4012,26
+83,Shadows And Light,Wilson Phillips,4,1992-06-20,1992-12-26,3964,28
+84,MTV Party To Go Vol. 2,Various Artists,19,1992-06-20,1992-12-26,3923,28
+85,What Do I Do With Me,Tanya Tucker,48,1992-01-04,1992-11-14,3920,46
+86,What's The 411?,Mary J. Blige,6,1992-08-15,1992-12-26,3917,20
+87,Gonna Make You Sweat,C+C Music Factory,29,1992-01-04,1992-08-22,3884,34
+88,Check Your Head,Beastie Boys,10,1992-05-09,1992-12-12,3767,31
+89,Keep It Comin',Keith Sweat,25,1992-01-04,1992-07-25,3751,30
+90,Human Touch,Bruce Springsteen,2,1992-04-18,1992-10-17,3718,27
+91,Rush,Soundtrack,24,1992-02-01,1992-09-05,3699,31
+92,Real Love,Lisa Stansfield,43,1992-01-04,1992-09-05,3692,35
+93,Don't Go Near The Water,Sammy Kershaw,95,1992-01-25,1992-12-26,3672,49
+94,Come On Come On,Mary Chapin Carpenter,31,1992-07-18,1992-12-26,3661,24
+95,Low End Theory,A Tribe Called Quest,53,1992-01-04,1992-09-12,3608,37
+96,Aces,Suzy Bogguss,83,1992-02-01,1992-12-26,3608,48
+97,Pocket Full Of Kryptonite,Spin Doctors,26,1992-07-04,1992-12-26,3595,26
+98,Past The Point Of Rescue,Hal Ketchum,45,1992-02-01,1992-10-24,3515,39
+99,Beyond The Season,Garth Brooks,2,1992-09-12,1992-12-26,3509,16
+100,Longnecks & Short Stories,Mark Chesnutt,68,1992-04-18,1992-12-26,3496,37
+101,Back To Front,Lionel Richie,19,1992-05-23,1992-12-05,3486,29
+102,The Chase,Garth Brooks,1,1992-10-10,1992-12-26,3468,12
+103,Diamond Rio,Diamond Rio,83,1992-01-04,1992-12-26,3467,51
+104,The Hard Way,Clint Black,8,1992-08-01,1992-12-26,3431,22
+105,House Of Pain,House Of Pain,14,1992-08-15,1992-12-26,3431,20
+106,Nick Of Time,Bonnie Raitt,85,1992-01-04,1992-12-26,3357,48
+107,Finally,CeCe Peniston,70,1992-02-15,1992-10-17,3335,36
+108,Whenever We Wanted,John Mellencamp,40,1992-01-04,1992-09-05,3315,36
+109,Bobby,Bobby Brown,2,1992-09-12,1992-12-26,3308,16
+110,Dare To Dream,Yanni,32,1992-03-28,1992-12-26,3296,33
+111,MCMXC A.D.,Enigma,110,1992-01-04,1992-12-26,3279,52
+112,Off The Deep End,"""Weird Al"" Yankovic",17,1992-05-02,1992-12-26,3220,27
+113,Hold Your Fire,Firehouse,23,1992-07-04,1992-12-26,3163,26
+114,Two Rooms: Songs Of E. John & B. Taupin,Various Artists,18,1992-01-04,1992-06-13,3147,24
+115,Rites Of Passage,Indigo Girls,21,1992-05-30,1992-12-26,3108,31
+116,Read Between The Lines,Aaron Tippin,50,1992-03-28,1992-10-31,3093,32
+117,Lucky Town,Bruce Springsteen,3,1992-04-18,1992-09-19,3089,23
+118,Leap Of Faith,Kenny Loggins,87,1992-01-04,1992-10-31,3054,44
+119,All I Can Be,Collin Raye,54,1992-01-04,1992-10-24,3037,38
+120,Music For The People,Marky Mark & The Funky Bunch,21,1992-01-04,1992-06-20,2994,24
+121,Timeless  (The Classics),Michael Bolton,1,1992-10-17,1992-12-26,2981,11
+122,Fear,Toad The Wet Sprocket,49,1992-07-11,1992-12-26,2971,25
+123,Sticks & Stones,Tracy Lawrence,71,1992-01-18,1992-11-21,2945,37
+124,Wild Life,Slaughter,8,1992-05-09,1992-10-10,2927,23
+125,Mariah Carey,Mariah Carey,49,1992-01-04,1992-08-22,2923,34
+126,Private Line,Gerald Levert,48,1992-01-04,1992-08-01,2908,31
+127,Little Earthquakes,Tori Amos,54,1992-04-04,1992-10-31,2871,31
+128,Death Certificate,Ice Cube,29,1992-01-04,1992-06-27,2857,26
+129,Mo' Money,Soundtrack,6,1992-07-11,1992-11-14,2853,19
+130,Body Count,Body Count,26,1992-04-18,1992-08-29,2844,20
+131,Vulgar Display Of Power,Pantera,44,1992-03-14,1992-12-26,2815,42
+132,Juice,Soundtrack,17,1992-01-18,1992-10-03,2807,29
+133,Apocalypse 91. . .Enemy Strikes Black,Public Enemy,32,1992-01-04,1992-06-27,2800,26
+134,Sister Act,Soundtrack,40,1992-06-27,1992-12-26,2790,27
+135,Back To The Hotel,N2Deep,55,1992-07-11,1992-12-26,2753,25
+136,I Still Believe In You,Vince Gill,10,1992-09-19,1992-12-26,2723,15
+137,Never Enough,Melissa Etheridge,21,1992-04-04,1992-09-26,2708,26
+138,Decade Of Decadence,Motley Crue,21,1992-01-04,1992-06-27,2700,26
+139,Honeymoon In Vegas,Soundtrack,18,1992-08-29,1992-12-26,2603,18
+140,T-R-O-U-B-L-E,Travis Tritt,27,1992-09-05,1992-12-26,2601,17
+141,Power Of Love,Luther Vandross,53,1992-01-04,1992-07-04,2569,27
+142,Joshua Judges Ruth,Lyle Lovett,57,1992-04-18,1992-11-21,2567,31
+143,Bitch Betta Have My Money,AMG,63,1992-01-04,1992-07-25,2562,30
+144,Shorty The Pimp,Too $hort,6,1992-08-01,1992-12-05,2557,19
+145,Pure Country (Soundtrack),George Strait,6,1992-10-03,1992-12-26,2538,13
+146,Roll The Bones,Rush,59,1992-01-04,1992-07-11,2538,28
+147,The Dirt Road,Sawyer Brown,68,1992-02-01,1992-08-22,2514,30
+148,American Pride,Alabama,46,1992-08-29,1992-12-26,2493,18
+149,Tongues And Tails,Sophie B. Hawkins,51,1992-05-16,1992-10-31,2491,24
+150,Mad Mad World,Tom Cochrane,46,1992-05-09,1992-11-28,2485,29
+151,The Phantom Of The Opera,Original London Cast Recording,68,1992-01-04,1992-12-26,2467,52
+152,Stars,Simply Red,76,1992-01-04,1992-08-08,2456,32
+153,Seal,Seal,56,1992-01-04,1992-10-03,2448,39
+154,New Moon Shine,James Taylor,41,1992-01-04,1992-09-26,2433,36
+155,Vagabond Heart,Rod Stewart,41,1992-01-04,1992-06-06,2383,23
+156,Firehouse,Firehouse,40,1992-01-04,1992-08-15,2377,33
+157,Angel Dust,Faith No More,10,1992-07-04,1992-11-07,2373,19
+158,Spice 1,Spice 1,82,1992-05-02,1992-11-28,2367,31
+159,Welcome To Wherever You Are,INXS,16,1992-08-22,1992-12-26,2323,19
+160,Don't Tread,Damn Yankees,22,1992-08-29,1992-12-26,2320,18
+161,Pretty Hate Machine,Nine Inch Nails,94,1992-01-04,1992-10-24,2317,43
+162,Automatic For The People,R.E.M.,2,1992-10-24,1992-12-26,2290,10
+163,I Thought It Was You,Doug Stone,74,1992-01-04,1992-08-22,2275,34
+164,2nd II None,2nd II None,83,1992-01-04,1992-07-04,2210,27
+165,Black's Magic,Salt-N-Pepa,59,1992-01-04,1992-05-16,2206,20
+166,Greatest Hits,Queen,11,1992-10-03,1992-12-26,2205,13
+167,Revenge,KISS,6,1992-06-06,1992-11-07,2183,23
+168,Hearts In Armor,Trisha Yearwood,46,1992-09-19,1992-12-26,2170,15
+169,Greatest Hits Plus,Ricky Van Shelton,50,1992-08-29,1992-12-26,2155,18
+170,Psalm 69,Ministry,27,1992-08-01,1992-12-26,2152,22
+171,Up,Right Said Fred,46,1992-03-21,1992-08-08,2125,20
+172,East Coast Family Volume One,East Coast Family,54,1992-08-15,1992-12-26,2111,20
+173,Us,Peter Gabriel,2,1992-10-17,1992-12-26,2083,11
+174,Patty Smyth,Patty Smyth,47,1992-09-05,1992-12-26,2076,17
+175,Dirt,Alice In Chains,6,1992-10-17,1992-12-26,2073,11
+176,Performs Andrew Lloyd Webber,Michael Crawford,54,1992-01-04,1992-12-26,2036,25
+177,Holding My Own,George Strait,33,1992-05-09,1992-10-17,2010,24
+178,"Of The Heart, The Soul & The Cross",P.M. Dawn,48,1992-01-04,1992-04-25,1999,17
+179,Homebase,D.J. Jazzy Jeff & The Fresh Prince,43,1992-01-04,1992-05-09,1986,19
+180,Marc Cohn,Marc Cohn,38,1992-01-04,1992-08-22,1981,27
+181,Billy Dean,Billy Dean,88,1992-07-04,1992-12-26,1979,26
+182,Abba-esque,Erasure,85,1992-07-18,1992-12-12,1971,22
+183,We Can't Be Stopped,Geto Boys,47,1992-01-04,1992-05-09,1945,19
+184,Inner Child,Shanice,83,1992-01-18,1992-07-11,1929,26
+185,Extremist,Joe Satriani,22,1992-08-08,1992-12-26,1922,21
+186,On Every Street,Dire Straits,53,1992-01-04,1992-05-02,1901,18
+187,Mental Jewelry,Live,73,1992-01-18,1992-06-27,1833,24
+188,In This Life,Collin Raye,42,1992-09-12,1992-12-26,1831,16
+189,Whatcha Gonna Do With A Cowboy,Chris LeDoux,65,1992-08-15,1992-12-26,1826,20
+190,Good Stuff,The B-52s,16,1992-07-11,1992-10-17,1806,15
+191,Ten Strait Hits,George Strait,46,1992-01-18,1992-05-23,1805,19
+192,Burnin',Patti LaBelle,71,1992-01-04,1992-07-25,1805,25
+193,Guerillas In Tha Mist,Da Lench Mob,24,1992-10-10,1992-12-26,1797,12
+194,What Hits!?,Red Hot Chili Peppers,22,1992-10-17,1992-12-26,1785,11
+195,Way 2 Fonky,DJ Quik,10,1992-08-08,1992-11-07,1782,14
+196,Home For Christmas,Amy Grant,2,1992-10-24,1992-12-26,1768,10
+197,Meantime,Helmet,68,1992-08-22,1992-12-26,1747,19
+198,Business Never Personal,EPMD,14,1992-08-15,1992-12-05,1745,17
+199,If There Was A Way,Dwight Yoakam,116,1992-01-18,1992-10-10,1722,39
+200,Into The Light,Gloria Estefan,66,1992-01-04,1992-05-30,1711,22
+201,III Sides To Every Story,Extreme,10,1992-10-10,1992-12-26,1710,12
+202,"Music From ""For The Boys""",Bette Midler,22,1992-01-04,1992-04-18,1707,16
+203,Put Yourself In My Shoes,Clint Black,62,1992-01-04,1992-05-30,1702,22
+204,Lovers Lane,M.C. Brains,47,1992-04-04,1992-07-25,1700,17
+205,America's Least Wanted,Ugly Kid Joe,29,1992-09-26,1992-12-26,1699,14
+206,Maverick,Hank Williams Jr.,55,1992-03-07,1992-07-18,1699,20
+207,Erotica,Madonna,2,1992-11-07,1992-12-26,1694,8
+208,Hormonally Yours,Shakespear's Sister,56,1992-07-18,1992-12-26,1679,22
+209,"Greatest Hits, Vol. 1",Randy Travis,44,1992-10-03,1992-12-26,1675,13
+210,F.U.-Don't Take It Personal,Fu-Schnickens,64,1992-04-04,1992-08-15,1659,20
+211,Extreme II Pornograffitti,Extreme,49,1992-01-04,1992-05-16,1655,20
+212,I Got Shit On My Mind,Luke,52,1992-02-29,1992-06-20,1655,17
+213,Our Time In Eden,"10,000 Maniacs",34,1992-10-17,1992-12-26,1638,11
+214,A Lot About Livin' (And A Little 'Bout Love),Alan Jackson,22,1992-10-24,1992-12-26,1626,10
+215,2Pacalypse Now,2Pac,64,1992-02-29,1992-08-01,1619,23
+216,Love Symbol Album,Prince And The New Power Generation,5,1992-10-31,1992-12-26,1618,9
+217,Different Lifestyles,BeBe & CeCe Winans,106,1992-01-04,1992-07-04,1609,27
+218,This One's Gonna Hurt You,Marty Stuart,77,1992-07-25,1992-12-26,1606,22
+219,Sports Weekend,The 2 Live Crew,78,1992-01-04,1992-05-16,1588,20
+220,Upfront,David Sanborn,107,1992-05-16,1992-12-12,1580,31
+221,Kizz My Black Azz,MC Ren,12,1992-07-18,1992-10-10,1544,13
+222,Broken,Nine Inch Nails,7,1992-10-10,1992-12-26,1533,12
+223,White Room,The KLF,78,1992-01-04,1992-06-06,1532,23
+224,Sons Of The P,Digital Underground,71,1992-01-04,1992-05-02,1521,18
+225,Backroads,Ricky Van Shelton,56,1992-01-04,1992-07-04,1520,27
+226,Meant To Be Mint,Mint Condition,63,1992-02-08,1992-07-18,1517,22
+227,Here Comes Trouble,Bad Company,40,1992-10-10,1992-12-26,1499,12
+228,Peaceful Journey,Heavy D & The Boyz,72,1992-01-04,1992-04-25,1487,17
+229,Into The Great Wide Open,Tom Petty And The Heartbreakers,52,1992-01-04,1992-04-25,1477,17
+230,Greatest Hits Vol. II,The Judds,54,1992-01-04,1992-05-09,1467,18
+231,Fear Of The Dark,Iron Maiden,12,1992-05-30,1992-08-22,1462,13
+232,"Greatest Hits, Vol. 2",Randy Travis,67,1992-10-03,1992-12-26,1454,13
+233,Girlfriend,Matthew Sweet,100,1992-02-29,1992-09-12,1439,29
+234,Takin' My Time,After 7,76,1992-09-12,1992-12-26,1434,16
+235,Ain't No Doubt About It,D.J. Magic Mike & M.C. Madness,72,1992-01-04,1992-04-25,1433,17
+236,As Raw As Ever,Shabba Ranks,115,1992-01-04,1992-07-25,1425,30
+237,Put Yourself In My Place,Pam Tillis,69,1992-01-25,1992-06-27,1406,23
+238,Bleach,Nirvana,89,1992-01-04,1992-05-16,1390,20
+239,Can't Run From Yourself,Tanya Tucker,51,1992-10-24,1992-12-26,1376,10
+240,Greatest Misses,Public Enemy,13,1992-10-03,1992-12-19,1364,12
+241,Rumor Has It: 30th Anniversary Edition,Reba McEntire,85,1992-01-04,1992-05-30,1360,22
+242,Mecca And The Soul Brother,Pete Rock & C.L. Smooth,43,1992-06-27,1992-10-03,1343,15
+243,Hotwired,The Soup Dragons,97,1992-06-27,1992-10-24,1342,18
+244,Your Arsenal,Morrissey,21,1992-08-15,1992-12-05,1335,14
+245,Love Deluxe,Sade,3,1992-11-21,1992-12-26,1322,6
+246,Wilson Phillips,Wilson Phillips,101,1992-01-04,1992-10-03,1317,35
+247,The Fire Inside,Bob Seger & The Silver Bullet Band,47,1992-01-04,1992-03-28,1316,13
+248,Little Village,Little Village,66,1992-03-07,1992-05-23,1303,12
+249,Keep It Goin' On,Hi-Five,82,1992-08-29,1992-12-26,1303,18
+250,A Very Special Christmas 2,Various Artists,7,1992-11-14,1992-12-26,1290,7
+251,The Last Of The Mohicans,Soundtrack,42,1992-10-24,1992-12-26,1284,10
+252,Serious Hits...Live!,Phil Collins,117,1992-01-04,1992-09-26,1273,39
+253,Greatest Hits Vol. 2,Alabama,77,1992-01-04,1992-05-30,1268,21
+254,Barcelona Gold,Various Artists,32,1992-08-01,1992-10-17,1265,12
+255,Robin Hood: Prince Of Thieves,Soundtrack,70,1992-01-04,1992-07-11,1264,21
+256,Xtra Naked,Shabba Ranks,64,1992-10-17,1992-12-26,1258,11
+257,Solo Para Ti,Ottmar Liebert + Luna Negra,94,1992-04-11,1992-09-26,1257,25
+258,Don't Sweat The Technique,Eric B. & Rakim,22,1992-07-11,1992-09-19,1253,11
+259,Chipmunks In Low Places,Alvin And The Chipmunks,31,1992-10-24,1992-12-26,1252,10
+260,The Christmas Album,Neil Diamond,8,1992-10-24,1992-12-26,1251,10
+261,Whut? Thee Album,Redman,49,1992-10-24,1992-12-26,1247,10
+262,Black-Eyed Man,Cowboy Junkies,76,1992-02-29,1992-06-06,1245,15
+263,The Mambo Kings,Soundtrack,50,1992-03-14,1992-06-13,1242,14
+264,Slave To The Grind,Skid Row,67,1992-01-04,1992-05-09,1230,19
+265,Somewhere Between Heaven & Hell,Social Distortion,76,1992-02-29,1992-06-13,1214,16
+266,Walking In London,Concrete Blonde,73,1992-03-28,1992-07-04,1213,15
+267,Xodus,XClan,31,1992-06-06,1992-08-22,1211,12
+268,Harvest Moon,Neil Young,16,1992-11-14,1992-12-26,1210,7
+269,Dog Eat Dog,Warrant,25,1992-09-12,1992-12-05,1208,13
+270,Sexy Versus,Al B. Sure!,41,1992-10-10,1992-12-19,1207,11
+271,Lizard,Saigon Kick,80,1992-06-20,1992-12-26,1199,17
+272,Live,AC/DC,15,1992-11-14,1992-12-26,1198,7
+273,Keep The Faith,Bon Jovi,5,1992-11-21,1992-12-26,1196,6
+274,The Three Tenors In Concert,"Carreras, Domingo, Pavarotti (Mehta)",66,1992-01-04,1992-12-26,1190,22
+275,The Bodyguard,Whitney Houston,1,1992-12-05,1992-12-26,1189,4
+276,The Heights,Soundtrack,40,1992-11-07,1992-12-26,1153,8
+277,Crazy World,Scorpions,74,1992-01-04,1992-04-11,1140,15
+278,Tears Roll Down-Hits 1982-92,Tears For Fears,53,1992-04-04,1992-06-27,1132,13
+279,Change Your World,Michael W. Smith,95,1992-09-19,1992-12-26,1131,15
+280,Live At Wembley,Queen,53,1992-06-20,1992-09-26,1126,15
+281,Matters Of The Heart,Tracy Chapman,53,1992-05-16,1992-07-25,1121,11
+282,Little Big Man,Bushwick Bill,32,1992-10-17,1992-12-12,1110,9
+283,Joyride,Roxette,77,1992-01-04,1992-05-09,1108,19
+284,Fourplay,Fourplay,109,1992-01-04,1992-05-23,1102,21
+285,Watch Me,Lorrie Morgan,65,1992-10-31,1992-12-26,1098,9
+286,Red Hot + Dance,Various Artists,52,1992-07-25,1992-10-03,1085,11
+287,Bass Computer,Techmaster P.E.B.,132,1992-02-29,1992-09-26,1078,30
+288,Greatest Hits,Gloria Estefan,15,1992-11-21,1992-12-26,1075,6
+289,Hush,Yo-Yo Ma/Bobby McFerrin,93,1992-02-15,1992-06-13,1073,18
+290,Homeward Looking Angel,Pam Tillis,82,1992-10-17,1992-12-26,1056,11
+291,The Baddest Of George Thorogood And The Destroyers,George Thorogood And The Destroyers,100,1992-08-15,1992-12-05,1042,17
+292,Amused To Death,Roger Waters,21,1992-09-19,1992-11-21,1025,10
+293,Greatest Hits 1966-1992,Neil Diamond,90,1992-06-06,1992-12-26,1008,21
+294,Joe Public,Joe Public,111,1992-04-11,1992-08-01,1006,17
+295,Boats Beaches Bars & Ballads,Jimmy Buffett,68,1992-06-06,1992-12-26,1005,18
+296,Deepa,Troop,78,1992-06-20,1992-09-05,1001,12
+297,In Celebration Of Life,Yanni,60,1992-01-04,1992-03-21,977,12
+298,Summer,George Winston,61,1992-01-04,1992-07-04,972,14
+299,High Lonesome,Randy Travis,80,1992-01-04,1992-04-11,964,15
+300,The Predator,Ice Cube,1,1992-12-05,1992-12-26,950,4
+301,WBBD - Bootcity! The Remix Album,Bell Biv DeVoe,66,1992-01-04,1992-03-14,946,11
+302,Rough & Ready-Vol. 1,Shabba Ranks,78,1992-08-01,1992-10-10,943,11
+303,We Are In Love,"Harry Connick, Jr.",89,1992-01-04,1992-08-08,942,20
+304,Time For Love,Freddie Jackson,83,1992-08-29,1992-11-14,938,12
+305,Country Club,Travis Tritt,113,1992-01-04,1992-07-25,935,27
+306,Perfectly Frank,Tony Bennett,102,1992-10-03,1992-12-26,922,13
+307,Mr. Scarface Is Back,Scarface,114,1992-01-04,1992-04-25,921,17
+308,Am I Not Your Girl?,Sinead O'Connor,27,1992-10-10,1992-12-05,902,9
+309,Curtis Stigers,Curtis Stigers,101,1992-01-04,1992-12-05,896,20
+310,Greatest Hits,The Judds,91,1992-01-04,1992-05-30,888,21
+311,The Prince Of Tides,Soundtrack,84,1992-01-11,1992-04-18,886,12
+312,The Globe,Big Audio,118,1992-01-04,1992-05-02,884,18
+313,God Fodder,Ned's Atomic Dustbin,91,1992-01-11,1992-04-11,877,14
+314,Don't Overlook Salvation,Ricky Van Shelton,122,1992-05-23,1992-10-17,875,22
+315,Live: Special Collector's Edition,AC/DC,34,1992-11-14,1992-12-26,872,7
+316,Sex And Violence,Boogie Down Productions,42,1992-03-14,1992-05-09,867,9
+317,Songs Of Freedom,Bob Marley,86,1992-10-24,1992-12-26,860,10
+318,Breathless,Kenny G,8,1992-12-05,1992-12-26,859,4
+319,Secret Story,Pat Metheny,110,1992-08-01,1992-11-28,852,17
+320,Beaches,Soundtrack,79,1992-01-04,1992-07-04,836,22
+321,Warm Your Heart,Aaron Neville,103,1992-01-04,1992-04-04,834,14
+322,First Time For Everything,Little Texas,99,1992-03-21,1992-06-06,831,12
+323,Sailing The Sea Of Cheese,Primus,120,1992-01-11,1992-07-04,831,23
+324,Reel To Reel,Grand Puba,28,1992-11-07,1992-12-26,830,8
+325,Remasters,Led Zeppelin,47,1992-03-28,1992-06-20,824,12
+326,The End Of The Innocence,Don Henley,113,1992-01-04,1992-05-16,824,20
+327,East Side Story,Kid Frost,73,1992-05-09,1992-07-18,818,10
+328,Milagro,Santana,102,1992-05-23,1992-09-19,817,13
+329,Lovescape,Neil Diamond,111,1992-01-04,1992-05-23,801,16
+330,Paid The Cost,Penthouse Players Clique,76,1992-05-16,1992-07-18,799,10
+331,Efil4zaggin,N.W.A,93,1992-01-04,1992-04-11,796,15
+332,Dirty,Sonic Youth,83,1992-08-08,1992-10-17,789,11
+333,Stick Around For Joy,The Sugarcubes,95,1992-03-07,1992-05-16,787,11
+334,Just An Illusion,Najee,107,1992-07-18,1992-10-10,782,13
+335,Arc Angels,Arc Angels,127,1992-05-16,1992-10-10,782,22
+336,You Gotta Believe,Marky Mark & The Funky Bunch,67,1992-10-03,1992-12-26,781,11
+337,Shooting Straight In The Dark,Mary Chapin Carpenter,70,1992-01-11,1992-10-24,780,20
+338,Pump Up The Jam - The Album,Technotronic,112,1992-08-29,1992-12-19,755,17
+339,Art Of Rebellion,Suicidal Tendencies,52,1992-07-18,1992-09-19,738,10
+340,From The Heart,Doug Stone,99,1992-08-29,1992-12-26,731,11
+341,99.9 F,Suzanne Vega,86,1992-09-26,1992-12-12,729,11
+342,"Beverly Hills, 90210",Soundtrack,82,1992-11-07,1992-12-26,721,8
+343,In The Beginning,Stevie Ray Vaughan And Double Trouble,58,1992-10-24,1992-12-26,720,10
+344,Music To Drive By,Compton's Most Wanted,66,1992-10-17,1992-12-12,700,9
+345,Far And Away,Soundtrack,89,1992-06-13,1992-08-08,695,9
+346,Femme Fatale,Miki Howard,110,1992-10-03,1992-12-12,695,11
+347,Daily Operation,Gang Starr,65,1992-05-23,1992-07-25,693,10
+348,Nonsuch,XTC,97,1992-05-16,1992-07-25,692,11
+349,Love Crazy,Atlantic Starr,134,1992-02-08,1992-05-09,685,14
+350,Ritual,Testament,55,1992-05-30,1992-07-25,670,9
+351,Now & Then,Michelle Wright,126,1992-06-13,1992-09-05,653,13
+352,Never Been Rocked Enough,Delbert McClinton,118,1992-05-30,1992-08-22,652,13
+353,Aladdin: Special Edition,Soundtrack,16,1992-11-28,1992-12-26,650,5
+354,Infinity Within,Deee-Lite,67,1992-07-11,1992-08-29,642,8
+355,Doug Stone,Doug Stone,140,1992-05-16,1992-10-10,642,21
+356,Live: The Way We Walk Volume 1,Genesis,35,1992-12-05,1992-12-26,640,4
+357,Dehumanizer,Black Sabbath,44,1992-07-18,1992-09-05,637,8
+358,Please Hammer Don't Hurt 'Em,M.C. Hammer,87,1992-01-04,1992-05-02,634,13
+359,Family Groove,The Neville Brothers,103,1992-05-23,1992-07-18,633,9
+360,Greatest Remixes Vol. 1,Clivilles & Cole,87,1992-02-29,1992-04-25,627,9
+361,Danzig III How The Gods Kill,Danzig,24,1992-08-01,1992-09-12,626,7
+362,Lynch Mob,Lynch Mob,56,1992-05-16,1992-07-11,619,9
+363,The Very Best And Beyond,Foreigner,123,1992-10-10,1992-12-26,617,12
+364,My Girl,Soundtrack,104,1992-01-04,1992-03-07,600,10
+365,Reflections Of Passion,Yanni,128,1992-01-04,1992-07-04,599,23
+366,Swallow This Live,Poison,78,1992-01-04,1992-02-22,596,8
+367,Mother Love Bone,Mother Love Bone,77,1992-10-10,1992-11-28,592,8
+368,Heaven And Earth,Al Jarreau,105,1992-07-04,1992-08-29,592,9
+369,Walls Can Fall,George Jones,102,1992-11-14,1992-12-26,585,7
+370,Live,Kenny G,132,1992-01-04,1992-04-18,568,16
+371,When Harry Met Sally (Soundtrack),"Harry Connick, Jr.",131,1992-01-04,1992-04-11,558,15
+372,Voices In The Wind,Suzy Bogguss,116,1992-10-31,1992-12-26,555,9
+373,Good As I Been To You,Bob Dylan,51,1992-11-21,1992-12-26,554,6
+374,White Men Can't Jump,Soundtrack,92,1992-04-11,1992-05-30,549,8
+375,Facelift,Alice In Chains,131,1992-01-11,1992-10-17,547,20
+376,Vol. III Just Right,Soul II Soul,88,1992-05-16,1992-07-04,546,8
+377,Get In Touch With Yourself,Swing Out Sister,113,1992-09-19,1992-11-28,533,11
+378,The Woman I Am,Chaka Khan,92,1992-05-02,1992-06-27,532,9
+379,I'm Goin' Out Lika Soldier,Willie D,88,1992-10-03,1992-11-21,531,8
+380,Hard Or Smooth,Wreckx-N-Effect,21,1992-12-12,1992-12-26,530,3
+381,Eagle When She Flies,Dolly Parton,84,1992-01-04,1992-02-22,524,8
+382,Magic And Loss,Lou Reed,80,1992-02-01,1992-03-14,507,7
+383,Night Calls,Joe Cocker,111,1992-08-01,1992-10-03,506,10
+384,Coolin' At The Playground Ya' Know!,Another Bad Creation,93,1992-01-04,1992-02-29,497,9
+385,Out Of The Cradle,Lindsey Buckingham,128,1992-07-04,1992-09-19,494,9
+386,An Evening With The Allman Brothers Band: First Set,The Allman Brothers Band,80,1992-06-27,1992-08-15,488,8
+387,Love Hurts,Cher,111,1992-01-04,1992-02-22,487,8
+388,Return Of The Product,MC Serch,103,1992-09-12,1992-11-21,483,11
+389,20,"Harry Connick, Jr.",133,1992-01-04,1992-04-18,483,14
+390,25,"Harry Connick, Jr.",32,1992-12-12,1992-12-26,482,3
+391,Here In The Real World,Alan Jackson,124,1992-01-04,1992-05-30,478,18
+392,Until The End Of The World,Soundtrack,114,1992-02-01,1992-03-28,474,9
+393,Mama Said Knock You Out,LL Cool J,111,1992-01-04,1992-03-21,470,11
+394,Break Like The Wind,Spinal Tap,61,1992-04-04,1992-05-09,468,6
+395,Pandora's Box,Aerosmith,45,1992-01-04,1992-02-01,466,5
+396,Timespace: Best Of Stevie Nicks,Stevie Nicks,120,1992-01-04,1992-02-29,462,9
+397,Dances With Wolves,Soundtrack,127,1992-01-04,1992-04-18,462,15
+398,Radio Fusion Radio,The College Boyz,118,1992-05-02,1992-07-25,459,11
+399,Trey Lorenz,Trey Lorenz,111,1992-10-24,1992-12-12,455,8
+400,Batman Returns,Soundtrack,61,1992-07-11,1992-08-08,454,5
+401,24 Nights,Eric Clapton,78,1992-01-04,1992-02-29,453,9
+402,Madman's Return,Snap!,121,1992-10-31,1992-12-26,451,9
+403,Doubt,Jesus Jones,100,1992-01-04,1992-02-15,448,7
+404,Nature Of A Sista',Queen Latifah,134,1992-01-11,1992-03-21,440,11
+405,Chorus,Erasure,107,1992-01-04,1992-02-22,439,8
+406,Act Like You Know,MC Lyte,139,1992-01-25,1992-03-28,437,10
+407,Ritual Of Love,Karyn White,130,1992-01-04,1992-03-07,433,10
+408,Tourism,Roxette,117,1992-10-24,1992-12-12,432,8
+409,Regular Joe,Joe Diffie,132,1992-02-08,1992-08-01,429,12
+410,Rave 'til Dawn,Various Artists,136,1992-08-29,1992-11-07,419,11
+411,Izzy Stradlin And The Ju Ju Hounds,Izzy Stradlin And The Ju Ju Hounds,102,1992-10-31,1992-12-19,411,8
+412,Apollo 18,They Might Be Giants,99,1992-04-11,1992-05-16,406,6
+413,Greatest Hits,TKA,131,1992-04-25,1992-07-11,405,9
+414,Commitments - Vol. 2,Soundtrack,118,1992-04-04,1992-07-11,403,12
+415,Cool As Ice,Soundtrack,91,1992-01-04,1992-02-15,396,6
+416,B-Side Ourselves,Skid Row,58,1992-10-10,1992-12-12,395,6
+417,The Storm,The Storm,133,1992-01-25,1992-03-28,388,10
+418,"Songs From ""Cool World""",Various Artists,89,1992-08-01,1992-09-05,386,6
+419,A Romantic Christmas,John Tesh,59,1992-12-12,1992-12-26,378,3
+420,Blind,The Sundays,103,1992-11-07,1992-12-12,374,6
+421,Jackyl,Jackyl,153,1992-10-10,1992-12-26,369,12
+422,Schubert Dip,EMF,106,1992-01-04,1992-02-01,367,5
+423,Mas Canciones,Linda Ronstadt,88,1992-01-04,1992-03-07,363,9
+424,When I Call Your Name,Vince Gill,120,1992-01-04,1992-03-28,360,12
+425,Another Minute,Cause And Effect,141,1992-04-04,1992-06-13,359,11
+426,Paul Simon's Concert In The Park,Paul Simon,74,1992-01-04,1992-02-01,358,5
+427,After Hours,Gary Moore,145,1992-03-28,1992-05-16,345,8
+428,I Got The Bass,Bass Boy,160,1992-06-06,1992-08-22,345,12
+429,Kiko,Los Lobos,143,1992-06-13,1992-08-15,336,10
+430,Psycho City,Great White,107,1992-10-10,1992-11-14,331,6
+431,I Was Warned,Robert Cray,103,1992-09-26,1992-11-07,329,7
+432,Operation: Livecrime,Queensryche,98,1992-01-04,1992-02-01,328,5
+433,Killin' Time,Clint Black,125,1992-01-04,1992-02-29,328,9
+434,Forever Your Girl,Paula Abdul,114,1992-01-04,1992-02-22,327,8
+435,Main Offender,Keith Richards,99,1992-11-07,1992-12-12,326,6
+436,Just For The Record...,Barbra Streisand,57,1992-01-04,1992-02-29,325,4
+437,"Hard To Wet, Easy To Dry",Mad Cobra,125,1992-11-07,1992-12-26,319,8
+438,Chill Of An Early Fall,George Strait,122,1992-01-04,1992-03-07,318,10
+439,Simply The Best,Tina Turner,146,1992-01-04,1992-02-29,317,9
+440,Affairs Of The Heart,Jody Watley,124,1992-01-04,1992-02-29,312,7
+441,Do I Ever Cross Your Mind,George Howard,137,1992-05-02,1992-07-04,311,9
+442,Back To Basics/Essential Collection 1971-1992,Olivia Newton-John,121,1992-06-27,1992-08-15,310,8
+443,Uh-Oh,David Byrne,125,1992-03-21,1992-04-25,308,6
+444,Travis Tritt Christmas,Travis Tritt,109,1992-11-28,1992-12-26,300,5
+445,Skanless,Hi-C Featuring Tony A,152,1992-01-25,1992-04-11,299,12
+446,Handel's Messiah - A Soulful Celebration,Various Artists,82,1992-12-05,1992-12-26,292,4
+447,Book OF Roses,Andreas Vollenweider,117,1992-02-29,1992-03-28,292,5
+448,Some People's Lives,Bette Midler,115,1992-01-04,1992-02-29,287,9
+449,Where Dey At?,Lo-Key?,140,1992-11-14,1992-12-26,285,7
+450,Twenty Degrees Below Zero,D.J. Magic Mike & M.C. Madness,149,1992-07-25,1992-09-05,285,7
+451,"An Irish Evening: Live At The Grand Opera House, Belfast",The Chieftains With Roger Daltery And Nanci Griffith,120,1992-03-14,1992-04-04,275,4
+452,Ain't A Damn Thing Changed,Nice & Smooth,164,1992-01-11,1992-08-08,275,13
+453,Whipped,Faster Pussycat,90,1992-08-22,1992-09-12,273,4
+454,Big Iron Horses,Restless Heart,160,1992-11-07,1992-12-26,272,8
+455,The Razors Edge,AC/DC,139,1992-01-04,1992-04-25,267,12
+456,Sacred Ground,McBride & The Ride,144,1992-05-16,1992-10-03,264,10
+457,Next Exit,"Grover Washington, Jr.",149,1992-05-16,1992-07-25,262,11
+458,Life Is Messy,Rodney Crowell,155,1992-06-06,1992-10-10,262,9
+459,Right Here,Eddie Money,160,1992-02-01,1992-04-11,262,10
+460,Heart Shaped World,Chris Isaak,166,1992-01-04,1992-03-21,262,12
+461,En-Tact,The Shamen,138,1992-02-01,1992-03-21,254,8
+462,Black Moon,"Emerson, Lake & Palmer",78,1992-06-27,1992-07-18,250,4
+463,Lethal Weapon 3,Soundtrack,101,1992-06-27,1992-07-11,246,3
+464,Encino Man,Soundtrack,130,1992-06-13,1992-07-11,240,5
+465,Pop! The First 20 Hits,Erasure,114,1992-12-12,1992-12-26,230,3
+466,Grave Dancers Union,Soul Asylum,147,1992-11-21,1992-12-26,230,6
+467,Fat City,Shawn Colvin,142,1992-11-14,1992-12-26,226,6
+468,Guys & Dolls,The New Broadway Cast Recording,109,1992-08-01,1992-12-26,224,5
+469,Trespass,Soundtrack,122,1992-12-12,1992-12-26,220,3
+470,Collector's Series,Nat King Cole,123,1992-01-04,1992-02-01,215,5
+471,Bram Stoker's Dracula,Soundtrack,94,1992-12-12,1992-12-26,214,3
+472,Discography - Complete Singles Collection,Pet Shop Boys,158,1992-01-04,1992-02-22,207,8
+473,Fire & Ice,Yngwie Malmsteen,121,1992-02-29,1992-03-28,205,5
+474,Saxuality,Candy Dulfer,145,1992-01-04,1992-02-22,202,8
+475,Home Alone 2: Lost In New York,Soundtrack,98,1992-12-12,1992-12-26,198,3
+476,Sinatra Reprise -- The Very Good Years,Frank Sinatra,159,1992-01-04,1992-12-26,198,7
+477,Please Don't Go,K.W.S.,143,1992-10-17,1992-11-14,197,5
+478,Tangled In Reins,Steelheart,144,1992-06-27,1992-08-08,194,7
+479,World Falling Down,Peter Cetera,163,1992-08-08,1992-10-03,193,9
+480,Two From The Vault,Grateful Dead,119,1992-05-30,1992-06-13,189,3
+481,Sure Love,Hal Ketchum,151,1992-10-10,1992-12-26,188,8
+482,Sense,Lightning Seeds,154,1992-03-14,1992-04-18,183,6
+483,Wild America,Tora Tora,132,1992-06-06,1992-07-18,182,6
+484,Close To The Edge,Diamond Rio,150,1992-11-21,1992-12-26,181,6
+485,Live Baby Live,INXS,126,1992-01-04,1992-02-01,178,5
+486,A League Of Their Own,Soundtrack,159,1992-07-25,1992-08-29,178,6
+487,The Christmas Album,The Manhattan Transfer,120,1992-12-12,1992-12-26,175,3
+488,I Gotta Get Mine Yo,Chubb Rock,127,1992-09-19,1992-10-03,166,3
+489,Straight Talk,Soundtrack,138,1992-04-25,1992-05-09,165,3
+490,Best Of Restless Heart,Restless Heart,144,1992-01-04,1992-02-08,164,6
+491,Hymns To The Silence,Van Morrison,112,1992-01-04,1992-02-29,160,5
+492,Duophonic,Charles & Eddie,153,1992-10-31,1992-11-28,159,5
+493,Holy Smoke,Peter Murphy,108,1992-05-02,1992-05-16,156,3
+494,Bandwagonesque,Teenage Fanclub,137,1992-03-07,1992-03-28,156,4
+495,Brian McKnight,Brian McKnight,149,1992-09-12,1992-10-10,156,5
+496,Funky As I Wanna Be,Pooh-Man (MC Pooh),158,1992-03-28,1992-05-02,153,6
+497,Too Cold At Home,Mark Chesnutt,163,1992-01-18,1992-02-22,149,6
+498,Malcolm X,Soundtrack,130,1992-12-05,1992-12-19,148,3
+499,CSN,"Crosby, Stills & Nash",109,1992-01-04,1992-01-11,147,2
+500,The King And I,Hollywood(Mauceri),135,1992-10-24,1992-11-14,147,3
+501,Patti LaBelle Live!,Patti LaBelle,135,1992-11-28,1992-12-12,147,3
+502,Hear!,Trixter,109,1992-10-31,1992-11-21,140,3
+503,Bricks Are Heavy,L7,160,1992-08-08,1992-09-26,138,7
+504,Labour Of Love II,UB40,173,1992-01-04,1992-02-22,137,8
+505,Bells Of Dublin,The Chieftains,107,1992-01-04,1992-01-11,136,2
+506,Confederate Railroad,Confederate Railroad,171,1992-09-19,1992-10-31,132,7
+507,Best. . .I,The Smiths,139,1992-10-17,1992-10-31,131,3
+508,He Is Christmas,Take 6,100,1992-01-04,1992-01-11,124,2
+509,End Of Silence,Rollins Band,160,1992-04-25,1992-05-16,121,4
+510,The Jacksons: An American Dream,Various Artists,137,1992-12-05,1992-12-12,119,2
+511,Tracks Of Life,The Isley Brothers Featuring Ronald Isley,140,1992-06-13,1992-06-27,117,3
+512,Live In Japan,George Harrison,126,1992-08-01,1992-08-08,116,2
+513,Scream In Blue: Live,Midnight Oil,141,1992-05-30,1992-06-13,116,3
+514,Time 3,Journey,93,1992-12-26,1992-12-26,108,1
+515,20 Below,M.C. Breed,155,1992-05-30,1992-06-20,107,4
+516,Return To Zero,RTZ,169,1992-03-07,1992-04-04,107,5
+517,Black Pearl,Yo-Yo,145,1992-07-11,1992-07-18,106,2
+518,Time's Up,K-Solo,135,1992-06-20,1992-06-27,103,2
+519,Deep Cover,Soundtrack,166,1992-05-09,1992-08-01,103,7
+520,Heavy Rhyme Experience,The Brand New Heavies,139,1992-08-22,1992-09-05,98,3
+521,Weekend In Monaco,The Rippingtons Featuring Russ Freeman,147,1992-09-05,1992-09-19,98,3
+522,King's X,King's X,138,1992-03-28,1992-04-11,96,3
+523,Cafe On The Corner,Sawyer Brown,174,1992-09-19,1992-10-17,94,5
+524,Geto Boy's The Best Uncut Dope,Geto Boys,147,1992-12-05,1992-12-12,93,2
+525,40 Too Long,Andrew Dice Clay,144,1992-05-02,1992-05-23,91,4
+526,Racine,Sass Jordan,174,1992-08-29,1992-10-10,90,7
+527,Love Can Build A Bridge,The Judds,130,1992-01-04,1992-01-18,89,3
+528,The Night Before Christmas...A Musical Fantasy,The Sounds Of Blackness,149,1992-12-19,1992-12-26,87,2
+529,Solace,Sarah McLachlan,167,1992-04-25,1992-05-16,86,4
+530,The One,Chubb Rock,172,1992-02-01,1992-03-14,85,6
+531,New York Rock & Soul Revue,Various Artists,170,1992-01-04,1992-02-22,77,6
+532,House Party II,Soundtrack,172,1992-01-04,1992-01-25,74,4
+533,Free,The Party,163,1992-09-12,1992-10-03,73,4
+534,Pretty Woman,Soundtrack,166,1992-01-04,1992-01-25,70,4
+535,Ratt & Roll '81 - '91,Ratt,170,1992-01-18,1992-02-01,68,3
+536,Tribute,Roy Rogers,135,1992-01-04,1992-01-04,66,1
+537,Free-For-All,Michael Penn,160,1992-10-03,1992-10-10,66,2
+538,Crazy For You,Original Broadway Cast Recording,165,1992-06-13,1992-06-20,66,2
+539,Little Light Music,Jethro Tull,150,1992-10-10,1992-10-17,65,2
+540,Attack Of The Killer B's,Anthrax,161,1992-01-11,1992-01-25,65,3
+541,O.G. Original Gangster,Ice-T,148,1992-01-11,1992-02-22,63,2
+542,"GRP Christmas Collection, Volume 2",Various Artists,141,1992-01-04,1992-01-04,60,1
+543,Honey's Dead,The Jesus And Mary Chain,158,1992-05-02,1992-05-09,60,2
+544,Narada Christmas Collection Volume 2,Various Artists,166,1992-12-19,1992-12-26,58,2
+545,Hollywood Vampires,L.A. Guns,171,1992-04-04,1992-04-18,57,3
+546,Christmas Songs,Mel Torme,170,1992-12-19,1992-12-26,56,2
+547,Pump,Aerosmith,170,1992-01-04,1992-01-18,56,3
+548,Popular Favorites 1976-1992: Sand In The Vaseline,Talking Heads,158,1992-10-31,1992-11-07,55,2
+549,Newsies,Soundtrack,149,1992-05-02,1992-05-02,52,1
+550,Between 10th & 11th,The Charlatans UK,173,1992-05-02,1992-05-09,52,2
+551,Brown & Proud,Lighter Shade Of Brown,184,1992-02-08,1992-03-07,52,4
+552,MSG,MSG,180,1992-03-07,1992-03-28,51,4
+553,King Of Rock 'N' Roll - The Complete '50's Masters,Elvis Presley,159,1992-08-29,1992-09-05,50,2
+554,Live - Decade Of Aggression,Slayer,155,1992-01-04,1992-01-11,49,2
+555,For Our Children,Various Artists,154,1992-01-04,1992-01-04,47,1
+556,Set The Night To Music,Roberta Flack,160,1992-01-04,1992-01-25,46,2
+557,Change Everything,Del Amitri,178,1992-09-26,1992-10-10,45,3
+558,Sleeping With The Enemy,Paris,182,1992-12-12,1992-12-26,45,3
+559,Start The Car,Jude Cole,177,1992-10-17,1992-10-31,44,3
+560,Ceremony,The Cult,170,1992-01-11,1992-02-01,43,3
+561,"In The Meantime, In Between Time",The Party,179,1992-01-04,1992-02-08,43,4
+562,At The Ryman,Emmylou Harris & The Nash Ramblers,174,1992-02-01,1992-02-15,42,3
+563,Bone Machine,Tom Waits,176,1992-09-26,1992-10-10,42,3
+564,Extremely Live,Vanilla Ice,167,1992-01-04,1992-01-25,41,3
+565,Cool,Bob James/Earl Klugh,170,1992-08-29,1992-09-19,40,3
+566,Something Good,Utah Saints,182,1992-11-14,1992-12-05,39,4
+567,Back On The Street,Ron C,183,1992-07-25,1992-08-08,38,3
+568,Showstoppers,Barry Manilow,164,1992-01-04,1992-01-04,37,1
+569,Time Passes By,Kathy Mattea,167,1992-01-04,1992-01-18,36,2
+570,The Patsy Cline Collection,Patsy Cline,166,1992-01-04,1992-01-04,35,1
+571,Hook,Soundtrack,182,1992-01-18,1992-01-25,35,2
+572,Lonesome Standard Time,Kathy Mattea,182,1992-10-24,1992-12-19,34,4
+573,Feel This,The Jeff Healey Band,174,1992-11-28,1992-12-05,33,2
+574,To The Extreme,Vanilla Ice,169,1992-01-04,1992-01-04,32,1
+575,King Of Hearts,Roy Orbison,179,1992-12-19,1992-12-26,32,2
+576,Priest = Aura,The Church,176,1992-03-28,1992-04-04,31,2
+577,Fried Green Tomatoes,Soundtrack,181,1992-02-29,1992-03-14,31,3
+578,Star Trek VI,Soundtrack,171,1992-01-04,1992-01-04,30,1
+579,Twin Peaks: Fire Walk With Me,Soundtrack,173,1992-09-19,1992-09-19,28,1
+580,Ridin' High,Robert Palmer,173,1992-11-14,1992-11-14,28,1
+581,Pavarotti Songbook,Luciano Pavarotti,173,1992-01-04,1992-01-04,28,1
+582,Ritual De Lo Habitual,Jane's Addiction,174,1992-01-11,1992-01-11,27,1
+583,Up Against My Heart,Patty Loveless,186,1992-01-25,1992-02-01,25,2
+584,Doo-Bop,Miles Davis,190,1992-07-25,1992-08-15,25,4
+585,Only Love - The Best Of Nana Mouskouri,Nana Mouskouri,177,1992-01-04,1992-01-04,24,1
+586,America Must Be Destroyed,Gwar,177,1992-04-18,1992-04-18,24,1
+587,Quik Is The Name,DJ Quik,177,1992-01-11,1992-01-11,24,1
+588,Face The Nation,Kid 'N Play,184,1992-01-11,1992-01-18,24,2
+589,Mama Said,Lenny Kravitz,187,1992-01-11,1992-01-25,24,3
+590,To Tha Rescue,D-Nice,185,1992-01-04,1992-01-11,23,2
+591,I Am Ready,Steve Wariner,187,1992-01-18,1992-01-25,22,2
+592,Fabulous Chi-Ali,Chi-Ali,189,1992-04-18,1992-04-25,22,2
+593,Storyville,Robbie Robertson,181,1992-02-08,1992-02-08,20,1
+594,The Gershwin Connection,Dave Grusin,181,1992-03-14,1992-03-14,20,1
+595,Are You Normal?,Ned's Atomic Dustbin,183,1992-11-28,1992-11-28,18,1
+596,Calor,Julio Iglesias,186,1992-06-06,1992-06-13,18,2
+597,Les Miserables Highlights - Complete Symphonic,Original Cast,184,1992-01-11,1992-01-11,17,1
+598,Merry Christmas,Doc Severinsen,184,1992-01-04,1992-01-04,17,1
+599,Live And Let Die,Kool G Rap & D.J. Polo,185,1992-12-12,1992-12-12,16,1
+600,Janet Jackson's Rhythm Nation 1814,Janet Jackson,189,1992-01-04,1992-01-11,15,2
+601,Better Together - The Duet Album,Johnny Mathis,189,1992-01-11,1992-01-11,12,1
+602,Piece Of Cake,Mudhoney,189,1992-10-31,1992-10-31,12,1
+603,The Muppet Christmas Carol,Soundtrack,189,1992-12-26,1992-12-26,12,1
+604,Mondo Bizarro,The Ramones,190,1992-09-26,1992-09-26,11,1
+605,The Saga Continues. . .,The Boys,191,1992-05-30,1992-05-30,10,1
+606,Fe Real,Maxi Priest,191,1992-12-12,1992-12-12,10,1
+607,Cherry Pie,Warrant,192,1992-01-18,1992-01-18,9,1
+608,Put Me In Your Mix,Barry White,193,1992-01-04,1992-01-04,8,1
+609,Tempted,Marty Stuart,193,1992-05-16,1992-05-16,8,1
+610,Expose,Expose,193,1992-11-21,1992-11-21,8,1
+611,Frenesi,Linda Ronstadt,193,1992-10-03,1992-10-03,8,1
+612,Trompe Le Monde,Pixies,193,1992-01-11,1992-01-11,8,1
+613,Last Rights,Skinny Puppy,193,1992-04-11,1992-04-11,8,1
+614,A Collection Of Hits,Kathy Mattea,194,1992-05-16,1992-05-16,7,1
+615,And Along Came Jones,George Jones,195,1992-01-18,1992-01-18,6,1
+616,Young Man,Billy Dean,195,1992-05-23,1992-05-23,6,1
+617,Lose Control,Silk,196,1992-12-05,1992-12-05,5,1
+618,A Carnegie Hall Christmas Concert,"Battle, von Stade, Marsalis (Previn)",196,1992-12-26,1992-12-26,5,1
+619,Get Ready,2 Unlimited,197,1992-10-17,1992-10-17,4,1
+620,Prince Of Darkness,Big Daddy Kane,197,1992-01-11,1992-01-11,4,1
+621,Simply Mad About The Mouse,Various Artists,197,1992-01-04,1992-01-04,4,1
+622,Close To You,Father M.C.,198,1992-09-12,1992-09-12,3,1
+623,New Jack City,Soundtrack,198,1992-01-18,1992-01-18,3,1
+624,Plague That Makes Your Booty. . .,Infectious Grooves,198,1992-02-22,1992-02-22,3,1
+625,Second Coming,Shotgun Messiah,199,1992-05-02,1992-05-02,2,1
+626,Rhythm Of The Saints,Paul Simon,199,1992-01-11,1992-01-11,2,1
+627,Liverpool Oratorio,Paul McCartney/Carl Davis,199,1992-01-04,1992-01-04,2,1
+628,Sarafina! The Sound Of Freedom,Soundtrack,200,1992-10-24,1992-10-24,1,1
+629,Dangerous Curves,Lita Ford,200,1992-01-25,1992-01-25,1,1

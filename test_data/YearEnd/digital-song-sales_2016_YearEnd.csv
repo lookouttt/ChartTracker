@@ -1,0 +1,429 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Can't Stop The Feeling!,Justin Timberlake,1,2016-05-28,2016-12-31,2724,32
+2,Closer,The Chainsmokers Featuring Halsey,1,2016-08-20,2016-12-31,2675,20
+3,Heathens,twenty one pilots,2,2016-07-09,2016-12-31,2498,26
+4,My House,Flo Rida,1,2016-01-02,2016-08-20,2393,33
+5,One Dance,Drake Featuring WizKid & Kyla,1,2016-04-23,2016-10-15,2146,26
+6,7 Years,Lukas Graham,1,2016-02-13,2016-08-13,2019,27
+7,Cheap Thrills,Sia Featuring Sean Paul,2,2016-03-05,2016-12-03,1901,31
+8,Love Yourself,Justin Bieber,1,2016-01-02,2016-06-18,1893,24
+9,Don't Let Me Down,The Chainsmokers Featuring Daya,4,2016-02-27,2016-11-12,1893,34
+10,Stressed Out,twenty one pilots,2,2016-01-02,2016-07-02,1839,25
+11,H.O.L.Y.,Florida Georgia Line,2,2016-05-21,2016-11-05,1670,25
+12,Starboy,The Weeknd Featuring Daft Punk,2,2016-10-08,2016-12-31,1620,13
+13,Work,Rihanna Featuring Drake,1,2016-02-13,2016-06-25,1491,20
+14,This Is What You Came For,Calvin Harris Featuring Rihanna,3,2016-05-21,2016-10-22,1480,23
+15,Panda,Desiigner,2,2016-04-02,2016-09-03,1382,23
+16,Hello,Adele,1,2016-01-02,2016-04-16,1321,16
+17,I Took A Pill In Ibiza,Mike Posner,5,2016-02-13,2016-08-13,1316,27
+18,24K Magic,Bruno Mars,2,2016-10-29,2016-12-31,1247,10
+19,Let Me Love You,DJ Snake Featuring Justin Bieber,1,2016-08-27,2016-12-31,1230,19
+20,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,4,2016-03-19,2016-08-27,1220,24
+21,I Hate U I Love U,gnash Featuring Olivia O'Brien,5,2016-07-30,2016-12-31,1211,23
+22,No,Meghan Trainor,1,2016-03-26,2016-08-20,1192,18
+23,Cold Water,Major Lazer Featuring Justin Bieber & MO,1,2016-08-13,2016-12-03,1153,15
+24,Me Too,Meghan Trainor,4,2016-06-04,2016-10-22,1121,21
+25,Sorry,Justin Bieber,2,2016-01-02,2016-04-30,1100,18
+26,Pillowtalk,Zayn,1,2016-02-20,2016-06-18,1084,18
+27,Cake By The Ocean,DNCE,10,2016-01-02,2016-09-17,1038,33
+28,Side To Side,Ariana Grande Featuring Nicki Minaj,5,2016-09-17,2016-12-31,1005,16
+29,Gold,Kiiara,6,2016-07-23,2016-12-03,995,20
+30,Just Like Fire,P!nk,3,2016-05-07,2016-10-01,988,21
+31,Broccoli,D.R.A.M. Featuring Lil Yachty,6,2016-07-09,2016-12-31,972,26
+32,Black Beatles,Rae Sremmurd Featuring Gucci Mane,1,2016-10-15,2016-12-31,955,10
+33,Ride,twenty one pilots,6,2016-05-28,2016-11-12,916,25
+34,"Me, Myself & I",G-Eazy x Bebe Rexha,6,2016-01-09,2016-05-21,914,19
+35,Unsteady,X Ambassadors,7,2016-06-11,2016-12-24,890,29
+36,One Call Away,Charlie Puth,7,2016-01-02,2016-05-28,861,20
+37,Treat You Better,Shawn Mendes,3,2016-06-25,2016-12-10,853,21
+38,Don't Wanna Know,Maroon 5 Featuring Kendrick Lamar,2,2016-10-29,2016-12-31,852,10
+39,Roses,The Chainsmokers Featuring Rozes,6,2016-01-02,2016-04-16,781,16
+40,We Don't Talk Anymore,Charlie Puth Featuring Selena Gomez,4,2016-02-20,2016-10-29,764,18
+41,Starving,Hailee Steinfeld & Grey Featuring Zedd,6,2016-09-10,2016-12-31,740,17
+42,Lost Boy,Ruth B,9,2016-03-12,2016-08-20,740,23
+43,Sucker For Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",5,2016-07-16,2016-12-10,703,19
+44,Blue Ain't Your Color,Keith Urban,3,2016-09-17,2016-12-31,689,16
+45,Send My Love (To Your New Lover),Adele,10,2016-06-11,2016-10-22,676,20
+46,Needed Me,Rihanna,17,2016-02-20,2016-10-15,670,25
+47,Dangerous Woman,Ariana Grande,2,2016-04-02,2016-07-16,669,16
+48,Die A Happy Man,Thomas Rhett,7,2016-01-02,2016-11-19,643,19
+49,Setting The World On Fire,Kenny Chesney Featuring P!nk,2,2016-08-20,2016-12-10,614,17
+50,Let It Go,James Bay,10,2016-03-05,2016-07-30,607,22
+51,The Sound Of Silence,Disturbed,15,2016-02-13,2016-10-01,606,26
+52,Hands To Myself,Selena Gomez,6,2016-01-02,2016-04-30,601,18
+53,Humble And Kind,Tim McGraw,11,2016-02-13,2016-11-26,581,23
+54,Never Forget You,Zara Larsson & MNEK,7,2016-03-19,2016-07-09,538,17
+55,Sorry,Beyonce,7,2016-05-14,2016-09-24,537,18
+56,The Greatest,Sia Featuring Kendrick Lamar,6,2016-09-24,2016-12-31,524,15
+57,Hymn For The Weekend,Coldplay,14,2016-02-20,2016-12-10,507,21
+58,Too Good,Drake Featuring Rihanna,18,2016-05-28,2016-10-22,503,22
+59,Close,Nick Jonas Featuring Tove Lo,6,2016-04-16,2016-07-30,471,15
+60,"Sit Still, Look Pretty",Daya,10,2016-07-16,2016-12-24,464,22
+61,This Town,Niall Horan,4,2016-10-15,2016-12-31,461,12
+62,Never Be Like You,Flume Featuring Kai,17,2016-07-02,2016-10-08,447,15
+63,Formation,Beyonce,3,2016-05-14,2016-09-17,444,11
+64,Vice,Miranda Lambert,6,2016-08-06,2016-12-03,442,18
+65,For Free,DJ Khaled Featuring Drake,2,2016-06-25,2016-10-15,438,16
+66,Same Old Love,Selena Gomez,6,2016-01-02,2016-02-27,434,9
+67,Juju On That Beat (TZ Anthem),Zay Hilfigerrr & Zayion McCall,8,2016-10-22,2016-12-31,424,11
+68,I Know What You Did Last Summer,Shawn Mendes & Camila Cabello,5,2016-01-02,2016-03-12,420,11
+69,Hotline Bling,Drake,5,2016-01-02,2016-03-12,415,11
+70,Fake Love,Drake,5,2016-11-12,2016-12-31,405,8
+71,Stitches,Shawn Mendes,6,2016-01-02,2016-04-09,397,15
+72,My Church,Maren Morris,17,2016-02-13,2016-11-26,396,21
+73,Into You,Ariana Grande,7,2016-05-28,2016-10-15,386,14
+74,Rise,Katy Perry,1,2016-08-06,2016-10-01,384,9
+75,Piece By Piece,Kelly Clarkson,1,2016-03-12,2016-04-30,373,8
+76,Forever Country,"Artists Of Then, Now & Forever",2,2016-10-08,2016-11-26,364,8
+77,Stand By You,Rachel Platten,8,2016-01-09,2016-04-02,357,13
+78,When We Were Young,Adele,13,2016-01-02,2016-04-02,349,14
+79,Don't Mind,Kent Jones,14,2016-05-28,2016-09-03,349,15
+80,Bad Things,Machine Gun Kelly x Camila Cabello,3,2016-11-05,2016-12-31,346,6
+81,Make Me...,Britney Spears Featuring G-Eazy,3,2016-08-06,2016-09-24,345,6
+82,In The Night,The Weeknd,7,2016-01-02,2016-03-19,344,12
+83,Hallelujah,Pentatonix,6,2016-11-12,2016-12-31,339,8
+84,Like I'm Gonna Lose You,Meghan Trainor Featuring John Legend,9,2016-01-02,2016-04-09,339,12
+85,You Should Be Here,Cole Swindell,17,2016-01-02,2016-05-07,333,16
+86,Purple Rain,Prince And The Revolution,1,2016-05-07,2016-05-21,332,3
+87,Ex's & Oh's,Elle King,9,2016-01-02,2016-03-26,331,13
+88,May We All,Florida Georgia Line Featuring Tim McGraw,16,2016-08-06,2016-12-24,331,16
+89,Hide Away,Daya,14,2016-01-02,2016-03-19,318,12
+90,Hold Up,Beyonce,5,2016-05-14,2016-09-24,314,10
+91,Pop Style,Drake Featuring The Throne,1,2016-04-23,2016-06-18,313,7
+92,All Time Low,Jon Bellion,11,2016-10-29,2016-12-31,307,10
+93,Million Reasons,Lady Gaga,6,2016-10-22,2016-12-31,303,10
+94,Somewhere On A Beach,Dierks Bentley,23,2016-02-13,2016-06-25,283,16
+95,When Doves Cry,Prince,2,2016-05-07,2016-05-21,274,3
+96,679,Fetty Wap Featuring Remy Boyz,7,2016-01-02,2016-03-19,267,11
+97,Better Man,Little Big Town,7,2016-11-12,2016-12-31,266,8
+98,Here,Alessia Cara,13,2016-01-02,2016-02-27,264,9
+99,Jumpman,Drake & Future,12,2016-01-02,2016-05-21,253,14
+100,Break Up In A Small Town,Sam Hunt,21,2016-01-02,2016-03-12,253,11
+101,Adventure Of A Lifetime,Coldplay,6,2016-01-02,2016-04-02,239,11
+102,You Don't Own Me,Grace Featuring G-Eazy,14,2016-05-28,2016-11-05,237,15
+103,Came Here To Forget,Blake Shelton,12,2016-03-26,2016-06-18,236,10
+104,2 Phones,Kevin Gates,19,2016-02-20,2016-06-18,235,15
+105,My Way,Calvin Harris,4,2016-10-08,2016-11-19,234,7
+106,Mama Said,Lukas Graham,10,2016-08-06,2016-10-22,232,9
+107,HandClap,Fitz And The Tantrums,24,2016-10-15,2016-12-24,232,11
+108,Scars To Your Beautiful,Alessia Cara,21,2016-10-15,2016-12-31,229,12
+109,Peter Pan,Kelsea Ballerini,22,2016-06-25,2016-11-26,215,19
+110,Little Red Corvette,Prince,4,2016-05-07,2016-05-14,212,2
+111,Confident,Demi Lovato,10,2016-01-02,2016-02-13,211,7
+112,What Do You Mean?,Justin Bieber,11,2016-01-02,2016-02-27,209,9
+113,Summer Sixteen,Drake,2,2016-02-20,2016-03-19,207,5
+114,Down In The DM,Yo Gotti Featuring Nicki Minaj,12,2016-01-30,2016-04-16,204,12
+115,Caroline,Amine,14,2016-10-29,2016-12-31,203,10
+116,Controlla,Drake,28,2016-05-28,2016-09-03,197,15
+117,Try Everything,Shakira,20,2016-03-26,2016-07-16,195,9
+118,Perfect,One Direction,17,2016-01-02,2016-02-20,194,8
+119,Different For Girls,Dierks Bentley Featuring Elle King,26,2016-06-18,2016-10-15,191,15
+120,This Girl,Kungs vs Cookin' On 3 Burners,12,2016-09-03,2016-10-29,183,9
+121,Let's Go Crazy,Prince And The Revolution,5,2016-05-07,2016-05-21,178,3
+122,New Romantics,Taylor Swift,12,2016-03-26,2016-05-07,176,7
+123,Middle,DJ Snake Featuring Bipolar Sunshine,16,2016-03-19,2016-05-28,176,10
+124,Drunk On Your Love,Brett Eldredge,30,2016-02-06,2016-04-23,175,12
+125,The Hills,The Weeknd,17,2016-01-02,2016-03-19,168,9
+126,Messin' Around,Pitbull Featuring Enrique Iglesias,20,2016-04-30,2016-07-23,164,8
+127,Mary Did You Know,Jordan Smith,1,2016-01-02,2016-01-09,163,2
+128,Perfect Illusion,Lady Gaga,2,2016-10-01,2016-10-22,159,4
+129,Kiss,Prince And The Revolution,7,2016-05-07,2016-05-14,157,2
+130,White Iverson,Post Malone,24,2016-01-02,2016-02-20,157,8
+131,From The Ground Up,Dan + Shay,24,2016-02-27,2016-09-17,151,12
+132,I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,1,2016-12-31,2016-12-31,150,1
+133,Love Me Now,John Legend,12,2016-10-29,2016-12-31,149,7
+134,Love On The Brain,Rihanna,20,2016-06-11,2016-12-31,137,6
+135,T-Shirt,Thomas Rhett,35,2016-03-26,2016-07-09,136,14
+136,1999,Prince,6,2016-05-07,2016-05-14,133,2
+137,Mercy,Shawn Mendes,18,2016-09-10,2016-12-31,133,7
+138,Toothbrush,DNCE,17,2016-07-23,2016-08-27,132,6
+139,Antidote,Travis Scott,28,2016-01-02,2016-02-20,130,8
+140,All I Want For Christmas Is You,Mariah Carey,19,2016-01-02,2016-12-31,127,6
+141,Youth,Troye Sivan,11,2016-03-19,2016-04-30,124,7
+142,Low Life,Future Featuring The Weeknd,9,2016-02-27,2016-05-07,123,9
+143,Think Of You,Chris Young Duet With Cassadee Pope,28,2016-03-12,2016-05-21,123,10
+144,Darlin' Don't Go,Sundance Head,4,2016-12-31,2016-12-31,117,1
+145,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,37,2016-04-23,2016-07-23,117,12
+146,Fresh Eyes,Andy Grammer,21,2016-11-26,2016-12-24,114,5
+147,In The Name Of Love,Martin Garrix & Bebe Rexha,25,2016-10-29,2016-12-31,114,10
+148,On My Mind,Ellie Goulding,19,2016-01-02,2016-02-06,112,6
+149,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",22,2016-06-18,2016-07-30,108,7
+150,Burning House,Emily Ann Roberts,5,2016-01-02,2016-01-02,106,1
+151,All We Know,The Chainsmokers Featuring Phoebe Ryan,5,2016-10-22,2016-10-22,106,1
+152,M.I.L.F. $,Fergie,5,2016-07-23,2016-07-23,106,1
+153,Irresistible,Fall Out Boy,20,2016-01-16,2016-02-20,106,6
+154,Raspberry Beret,Prince And The Revolution,8,2016-05-07,2016-05-14,105,2
+155,Home Alone Tonight,Luke Bryan Featuring Karen Fairchild,30,2016-01-02,2016-03-12,105,11
+156,Wildest Dreams,Taylor Swift,19,2016-01-02,2016-02-06,104,6
+157,Burning House,Cam,13,2016-01-02,2016-01-30,102,5
+158,Get Ugly,Jason Derulo,31,2016-01-23,2016-03-19,99,8
+159,Just Hold On,Steve Aoki & Louis Tomlinson,6,2016-12-31,2016-12-31,95,1
+160,Climb Every Mountain,Jordan Smith,6,2016-01-02,2016-01-02,95,1
+161,Play That Song,Train,11,2016-12-10,2016-12-31,94,4
+162,Uptown Funk!,Mark Ronson Featuring Bruno Mars,19,2016-01-23,2016-03-19,94,5
+163,How Far I'll Go,Auli'i Cravalho,9,2016-12-17,2016-12-31,92,3
+164,All In My Head (Flex),Fifth Harmony Featuring Fetty Wap,27,2016-07-30,2016-09-17,92,8
+165,6 Inch,Beyonce Featuring The Weeknd,13,2016-05-14,2016-05-28,88,3
+166,Sneakin',Drake Featuring 21 Savage,9,2016-11-12,2016-11-19,87,2
+167,At Last,Sundance Head,7,2016-12-31,2016-12-31,84,1
+168,All I Ask,Adele,18,2016-02-06,2016-03-12,78,3
+169,Greenlight,Pitbull Featuring Flo Rida & LunchMoney Lewis,31,2016-11-05,2016-12-24,78,8
+170,OOOUUU,Young M.A,37,2016-10-22,2016-12-10,78,8
+171,Lights Come On,Jason Aldean,10,2016-04-23,2016-07-23,74,6
+172,I Would Die 4 U,Prince And The Revolution,12,2016-05-07,2016-05-14,73,2
+173,Jimmy Choo,Fetty Wap,25,2016-02-27,2016-03-12,71,3
+174,Can't Feel My Face,The Weeknd,33,2016-01-02,2016-03-05,71,5
+175,Make Me Like You,Gwen Stefani,12,2016-03-05,2016-04-09,67,3
+176,Chill Bill,Rob $tone Featuring J. Davi$ & Spooks,37,2016-10-01,2016-12-24,67,12
+177,Head Over Boots,Jon Pardi,34,2016-04-09,2016-09-03,66,12
+178,Purple Lamborghini,Skrillex & Rick Ross,21,2016-08-13,2016-09-03,63,3
+179,My Boo,Ghost Town DJ's,28,2016-05-21,2016-06-04,63,3
+180,Love Make The World Go Round,Jennifer Lopez & Lin-Manuel Miranda,9,2016-07-30,2016-07-30,62,1
+181,Today,Brad Paisley,9,2016-10-29,2016-10-29,62,1
+182,Walking On A Dream,Empire Of The Sun,19,2016-01-30,2016-02-13,62,3
+183,Back To Sleep,Chris Brown,13,2016-03-19,2016-04-02,60,3
+184,Church Bells,Carrie Underwood,35,2016-06-25,2016-07-30,60,6
+185,Good To Be Alive (Hallelujah),Andy Grammer,31,2016-01-02,2016-02-13,59,7
+186,Go Ahead And Break My Heart,Blake Shelton Featuring Gwen Stefani,12,2016-05-28,2016-06-04,58,2
+187,I Wanna Be Your Lover,Prince,16,2016-05-07,2016-05-14,58,2
+188,Drag Me Down,One Direction,31,2016-01-09,2016-02-06,57,5
+189,Heartbeat,Carrie Underwood,25,2016-03-05,2016-03-19,56,3
+190,Love On The Weekend,John Mayer,11,2016-12-03,2016-12-10,55,2
+191,Wherever I Go,OneRepublic,31,2016-06-04,2016-08-06,54,3
+192,Freedom,Beyonce Featuring Kendrick Lamar,20,2016-05-14,2016-05-21,52,2
+193,Oui,Jeremih,37,2016-04-02,2016-05-07,51,6
+194,The Fighter,Keith Urban Featuring Carrie Underwood,13,2016-05-28,2016-06-04,50,2
+195,Don't Hurt Yourself,Beyonce Featuring Jack White,21,2016-05-14,2016-05-21,49,2
+196,I Got The Keys,DJ Khaled Featuring Jay Z & Future,16,2016-07-16,2016-07-23,45,2
+197,Fight Song,Rachel Platten,36,2016-01-16,2016-02-13,45,5
+198,False Prophets (Be Like This),J. Cole,26,2016-12-24,2016-12-31,43,2
+199,Cancer,twenty one pilots,28,2016-10-01,2016-10-08,43,2
+200,She's Got A Way With Words,Blake Shelton,38,2016-06-11,2016-09-10,42,6
+201,Team,Iggy Azalea,17,2016-04-09,2016-04-30,41,2
+202,All Night,Beyonce,24,2016-05-14,2016-05-21,41,2
+203,Luv,Tory Lanez,33,2016-09-10,2016-10-15,41,5
+204,I Know Somebody,LOCASH,36,2016-10-29,2016-11-12,41,3
+205,Bake Sale,Wiz Khalifa Featuring Travi$ Scott,11,2016-02-13,2016-02-13,40,1
+206,God Only Knows,Jordan Smith & Adam Levine,11,2016-01-02,2016-01-02,40,1
+207,Bohemian Rhapsody,Panic! At The Disco,11,2016-08-27,2016-08-27,40,1
+208,WTF (Where They From),Missy Elliott Featuring Pharrell Williams,27,2016-01-02,2016-01-09,40,2
+209,Kids,OneRepublic,31,2016-09-03,2016-10-29,40,3
+210,Hallelujah,Leonard Cohen,12,2016-12-03,2016-12-03,39,1
+211,"Lonesome, Broken And Blue",Adam Wakefield,12,2016-06-11,2016-06-11,39,1
+212,I'm Sorry,Adam Wakefield,12,2016-06-04,2016-06-04,39,1
+213,A-YO,Lady Gaga,19,2016-11-12,2016-11-19,39,2
+214,What The World Needs Now Is Love,Broadway For Orlando,13,2016-07-09,2016-07-09,38,1
+215,Girls Talk Boys,5 Seconds Of Summer,13,2016-08-06,2016-08-06,38,1
+216,Something In The Way You Move,Ellie Goulding,17,2016-03-12,2016-03-19,38,2
+217,American Country Love Song,Jake Owen,18,2016-03-26,2016-08-20,38,2
+218,Gangsta,Kehlani,35,2016-08-27,2016-09-10,38,3
+219,"Mary, Did You Know?",Pentatonix,38,2016-01-02,2016-12-31,38,4
+220,True Colors,Zedd & Kesha,14,2016-05-21,2016-05-21,37,1
+221,Somebody To Love,Jordan Smith,14,2016-01-02,2016-01-02,37,1
+222,My Way,Billy Gilman,14,2016-12-31,2016-12-31,37,1
+223,Used To This,Future Featuring Drake,15,2016-11-26,2016-11-26,36,1
+224,Me And Jesus,Sundance Head,15,2016-12-17,2016-12-17,36,1
+225,Be Alright,Ariana Grande,15,2016-04-09,2016-04-09,36,1
+226,Because Of Me,Billy Gilman,15,2016-12-31,2016-12-31,36,1
+227,Trap Queen,Fetty Wap,32,2016-01-09,2016-01-23,36,3
+228,It Don't Hurt Like It Used To,Billy Currington,38,2016-09-03,2016-10-29,36,6
+229,Islands In The Stream,Emily Ann Roberts & Blake Shelton,16,2016-01-02,2016-01-02,35,1
+230,Space Oddity,David Bowie,16,2016-01-30,2016-01-30,35,1
+231,Girl Crush,Little Big Town,17,2016-03-05,2016-03-12,35,2
+232,Sandcastles,Beyonce,29,2016-05-14,2016-05-21,35,2
+233,Ain't No Stopping Us Now,Kane Brown,17,2016-07-09,2016-07-09,34,1
+234,Diamonds And Pearls,Prince And The N.P.G.,23,2016-05-07,2016-05-14,34,2
+235,Fade,Kanye West,36,2016-10-01,2016-10-22,34,4
+236,Dirty Laundry,Carrie Underwood,36,2016-11-05,2016-12-03,34,4
+237,Every Breath You Take,Hannah Huston,19,2016-06-11,2016-06-11,32,1
+238,It's You,Zayn,19,2016-03-19,2016-03-19,32,1
+239,Kill Em With Kindness,Selena Gomez,38,2016-07-09,2016-08-20,32,4
+240,Sweatshirt,Jacob Sartorius,20,2016-05-21,2016-05-21,31,1
+241,True Colors,Brendan Fletcher,20,2016-12-17,2016-12-17,31,1
+242,Pick Any Small Town,Josh Gallagher,20,2016-12-31,2016-12-31,31,1
+243,Viva La Vida,Coldplay,20,2016-02-27,2016-02-27,31,1
+244,Down That Road,Alisan Porter,20,2016-06-11,2016-06-11,31,1
+245,Infinite,Eminem,21,2016-12-10,2016-12-10,30,1
+246,Fly S**t Only,Future,21,2016-02-27,2016-02-27,30,1
+247,Somewhere,Alisan Porter,21,2016-06-11,2016-06-11,30,1
+248,Deja Vu,J. Cole,21,2016-12-31,2016-12-31,30,1
+249,Hello Friday,Flo Rida Featuring Jason Derulo,21,2016-03-19,2016-03-19,30,1
+250,Setting Fires,The Chainsmokers Featuring XYLO,21,2016-11-26,2016-11-26,30,1
+251,A Little More Summertime,Jason Aldean,23,2016-08-06,2016-09-24,29,2
+252,U Got The Look,Prince,25,2016-05-07,2016-05-14,29,2
+253,I Surrender,Billy Gilman,23,2016-12-24,2016-12-24,28,1
+254,Die A Happy Man,Nelly,24,2016-02-27,2016-02-27,27,1
+255,Morning Light,Laith Al-Saadi,24,2016-06-11,2016-06-11,27,1
+256,Deja Vu,Post Malone Featuring Justin Bieber,24,2016-10-01,2016-10-01,27,1
+257,Thinking Out Loud,Ed Sheeran,24,2016-03-05,2016-03-05,27,1
+258,If I Told You,Darius Rucker,24,2016-07-23,2016-07-23,27,1
+259,Desperado,Alisan Porter,24,2016-06-04,2016-06-04,27,1
+260,Champions,"Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner",24,2016-07-02,2016-07-02,27,1
+261,Darling Nikki,Prince And The Revolution,26,2016-05-07,2016-05-14,27,2
+262,Again,Fetty Wap,36,2016-01-09,2016-01-23,27,3
+263,Wasted Time,Keith Urban,25,2016-04-23,2016-04-23,26,1
+264,The Weekend,Brantley Gilbert,25,2016-08-13,2016-08-13,26,1
+265,Anyway,Billy Gilman,25,2016-12-17,2016-12-17,26,1
+266,Pray You Catch Me,Beyonce,28,2016-05-14,2016-05-21,26,2
+267,Sugar,Robin Schulz Featuring Francesco Yates,42,2016-03-12,2016-04-02,26,4
+268,Dust My Shoulders Off,Jane Zhang Featuring Timbaland,31,2016-11-12,2016-11-19,25,2
+269,Snapback,Old Dominion,42,2016-03-26,2016-04-23,25,5
+270,"Two Birds, One Stone",Drake,27,2016-11-19,2016-11-19,24,1
+271,Black Barbies,Nicki Minaj X Mike WiLL Made-It,27,2016-12-24,2016-12-24,24,1
+272,Hit Or Miss,Jacob Sartorius,27,2016-08-13,2016-08-13,24,1
+273,Noise,Kenny Chesney,27,2016-04-16,2016-04-16,24,1
+274,False Alarm,The Weeknd,27,2016-10-22,2016-10-22,24,1
+275,Whisper,Chase Rice,27,2016-02-27,2016-02-27,24,1
+276,I Call The Shots,Hannah Huston,27,2016-06-11,2016-06-11,24,1
+277,Til It Happens To You,Lady Gaga,27,2016-03-19,2016-03-19,24,1
+278,See You Again,Wiz Khalifa Featuring Charlie Puth,37,2016-01-16,2016-01-23,24,2
+279,Everbody Dies,J. Cole,39,2016-12-24,2016-12-31,24,2
+280,Paradise,Coldplay,28,2016-02-27,2016-02-27,23,1
+281,Treat Her Right,Sundance Head & Blake Shelton,28,2016-12-31,2016-12-31,23,1
+282,Under Pressure,Queen & David Bowie,28,2016-01-30,2016-01-30,23,1
+283,Falling,Trent Harmon,31,2016-04-23,2016-04-30,23,2
+284,Daddy Lessons,Beyonce,32,2016-05-14,2016-05-21,23,2
+285,Hallelujah,Jeff Buckley,29,2016-12-03,2016-12-03,22,1
+286,Shout Out To My Ex,Little Mix,30,2016-11-05,2016-11-12,22,2
+287,We The People....,A Tribe Called Quest,30,2016-12-03,2016-12-03,21,1
+288,Dirt On My Boots,Jon Pardi,45,2016-12-03,2016-12-31,21,5
+289,"God, Your Mama, And Me",Florida Georgia Line Featuring Backstreet Boys,31,2016-09-10,2016-09-10,20,1
+290,7,Prince And The New Power Generation,31,2016-05-14,2016-05-14,20,1
+291,Love Can Build A Bridge,Sundance Head,31,2016-12-24,2016-12-24,20,1
+292,Thriller,Michael Jackson,31,2016-11-19,2016-11-19,20,1
+293,Thunder In The Rain,Kane Brown,31,2016-08-27,2016-08-27,20,1
+294,Like I Would,Zayn,31,2016-04-02,2016-04-02,20,1
+295,Hit The Quan,iLoveMemphis,35,2016-01-09,2016-01-16,20,2
+296,Vacation,Thomas Rhett,37,2016-08-06,2016-08-27,20,3
+297,Change,Christina Aguilera,32,2016-07-09,2016-07-09,19,1
+298,Million Reasons,Christian Cuevas,32,2016-12-17,2016-12-17,19,1
+299,The Sound,The 1975,32,2016-02-06,2016-02-06,19,1
+300,Everybody We Know Does,Chase Rice,32,2016-07-16,2016-07-16,19,1
+301,I Feel It Coming,The Weeknd Featuring Daft Punk,36,2016-12-10,2016-12-31,19,2
+302,Bad And Boujee,Migos Featuring Lil Uzi Vert,40,2016-12-24,2016-12-31,19,2
+303,Don't,Bryson Tiller,42,2016-01-09,2016-01-30,19,4
+304,Ain't Your Mama,Jennifer Lopez,33,2016-04-30,2016-04-30,18,1
+305,Adore,Prince,33,2016-05-14,2016-05-14,18,1
+306,Party Monster,The Weeknd,33,2016-12-10,2016-12-10,18,1
+307,Hype,Drake,33,2016-05-28,2016-05-28,18,1
+308,How Far I'll Go,Alessia Cara,33,2016-12-17,2016-12-17,18,1
+309,Erotic City,Prince And The Revolution,34,2016-05-14,2016-05-14,17,1
+310,Let Him Fly,Alisan Porter,34,2016-05-21,2016-05-21,17,1
+311,Satisfied,Sia Featuring Miguel And Queen Latifah,34,2016-12-03,2016-12-03,17,1
+312,Still Falling For You,Ellie Goulding,34,2016-09-10,2016-09-10,17,1
+313,Trust Nobody,Cashmere Cat Featuring Selena Gomez & Tory Lanez,34,2016-10-22,2016-10-22,17,1
+314,Hollow,Tori Kelly,34,2016-03-05,2016-03-05,17,1
+315,Watch Me,Silento,39,2016-01-09,2016-01-16,17,2
+316,No Shopping,French Montana Featuring Drake,41,2016-08-06,2016-08-20,17,2
+317,Sleep Without You,Brett Young,43,2016-10-08,2016-11-05,17,3
+318,When I Call Your Name,Adam Wakefield,35,2016-06-11,2016-06-11,16,1
+319,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",35,2016-11-19,2016-11-19,16,1
+320,To Worship You I Live (Away),Christian Cuevas,35,2016-12-24,2016-12-24,16,1
+321,Delirious,Prince,35,2016-05-14,2016-05-14,16,1
+322,Smooth,Florida Georgia Line,35,2016-07-30,2016-07-30,16,1
+323,Let's Dance,David Bowie,35,2016-01-30,2016-01-30,16,1
+324,True Colors,Anna Kendrick & Justin Timberlake,35,2016-10-08,2016-10-08,16,1
+325,Focus,Ariana Grande,38,2016-01-09,2016-01-16,16,2
+326,That's My Girl,Fifth Harmony,41,2016-12-17,2016-12-24,16,2
+327,Not Easy,"Alex Da Kid Featuring X Ambassadors, Elle King & Wiz Khalifa",36,2016-11-12,2016-11-12,15,1
+328,Nothing Is Promised,Mike WiLL Made-It x Rihanna,36,2016-06-25,2016-06-25,15,1
+329,Untitled 07 l 2014 - 2016,Kendrick Lamar,36,2016-03-26,2016-03-26,15,1
+330,Star Of The Show,Thomas Rhett,36,2016-10-22,2016-10-22,15,1
+331,Cream,Prince And The N.P.G.,37,2016-05-14,2016-05-14,14,1
+332,THat Part,ScHoolboy Q Featuring Kanye West,37,2016-06-04,2016-06-04,14,1
+333,Pony,Ginuwine,37,2016-01-30,2016-01-30,14,1
+334,Writing's On The Wall,Sam Smith,37,2016-03-19,2016-03-19,14,1
+335,Jolene,Pentatonix Featuring Dolly Parton,37,2016-10-08,2016-10-08,14,1
+336,Ophelia,The Lumineers,37,2016-02-27,2016-02-27,14,1
+337,I Don't Know My Name,Grace VanderWaal,37,2016-12-10,2016-12-10,14,1
+338,That Don't Sound Like You,Lee Brice,39,2016-04-16,2016-04-30,14,2
+339,Make You Miss Me,Sam Hunt,45,2016-09-03,2016-09-24,14,4
+340,Hotel California,Eagles,38,2016-02-06,2016-02-06,13,1
+341,Let Me Love You,Ariana Grande Featuring Lil Wayne,38,2016-05-07,2016-05-07,13,1
+342,There Goes My Everything,Kane Brown,38,2016-04-09,2016-04-09,13,1
+343,We Know The Way,Opetaia Foa'i & Lin-Manuel Miranda,38,2016-12-17,2016-12-17,13,1
+344,Holy Key,"DJ Khaled Featuring Big Sean, Kendrick Lamar & Betty Wright",39,2016-08-13,2016-08-13,12,1
+345,Don't Be A Fool,Shawn Mendes,39,2016-10-08,2016-10-08,12,1
+346,#WHERESTHELOVE,Black Eyed Peas Featuring The World,39,2016-09-24,2016-09-24,12,1
+347,The Way A Night Should Feel,Jason Aldean,39,2016-09-17,2016-09-17,12,1
+348,Hardwired,Metallica,39,2016-09-10,2016-09-10,12,1
+349,Die A Happy Man,Barrett Baber,39,2016-01-02,2016-01-02,12,1
+350,Ruin,Shawn Mendes,40,2016-07-30,2016-07-30,11,1
+351,Lush Life,Zara Larsson,40,2016-08-20,2016-08-20,11,1
+352,Changes,David Bowie,40,2016-01-30,2016-01-30,11,1
+353,Sex With Me,Rihanna,40,2016-02-20,2016-02-20,11,1
+354,The Internet Is Here,Dan & Phil,40,2016-10-29,2016-10-29,11,1
+355,No One,Sundance Head,40,2016-12-10,2016-12-10,11,1
+356,The Life,Fifth Harmony,40,2016-04-16,2016-04-16,11,1
+357,Do You Mind,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",42,2016-10-29,2016-12-10,11,2
+358,Rise Up,Andra Day,45,2016-08-13,2016-10-29,11,2
+359,Record Year,Eric Church,46,2016-07-23,2016-08-27,11,3
+360,My PYT,Wale,46,2016-08-13,2016-09-17,11,5
+361,Pick Up The Phone,Young Thug And Travis Scott Featuring Quavo,41,2016-09-24,2016-09-24,10,1
+362,Backroad Song,Granger Smith,41,2016-03-26,2016-03-26,10,1
+363,Middle Of A Memory,Cole Swindell,41,2016-09-10,2016-09-10,10,1
+364,Dessert,Dawin,41,2016-02-06,2016-02-06,10,1
+365,Neighbors,J. Cole,41,2016-12-31,2016-12-31,10,1
+366,The Stage,Avenged Sevenfold,41,2016-11-05,2016-11-05,10,1
+367,Jam,"Kevin Gates Featuring Trey Songz, Ty Dolla $ign & Jamie Foxx",41,2016-02-20,2016-02-20,10,1
+368,Stay,Jeffery Austin,41,2016-01-02,2016-01-02,10,1
+369,Out Of The Woods,Taylor Swift,42,2016-03-05,2016-03-05,9,1
+370,You're Welcome,Dwayne Johnson,42,2016-12-17,2016-12-17,9,1
+371,When A Man Loves A Woman,Hannah Huston,42,2016-06-04,2016-06-04,9,1
+372,Tennessee Whiskey,Chris Stapleton,44,2016-01-23,2016-04-23,9,2
+373,Nothing Compares 2 U,Prince And The New Power Generation,43,2016-05-14,2016-05-14,8,1
+374,Flexicution,Logic,43,2016-07-02,2016-07-02,8,1
+375,Dibs,Kelsea Ballerini,43,2016-04-16,2016-04-16,8,1
+376,Bone Marrow,G-Eazy,43,2016-12-17,2016-12-17,8,1
+377,Downtown,"Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz",43,2016-01-23,2016-01-23,8,1
+378,Hallelujah,Jordan Smith,43,2016-01-02,2016-01-02,8,1
+379,Waste A Moment,Kings Of Leon,44,2016-10-01,2016-10-01,7,1
+380,Danny's Song,Josh Gallagher,44,2016-12-24,2016-12-24,7,1
+381,X Gon' Give It To Ya,DMX,44,2016-03-05,2016-03-05,7,1
+382,Halo,Beyonce,44,2016-04-16,2016-04-16,7,1
+383,Freedom,Pitbull,44,2016-01-30,2016-01-30,7,1
+384,Nobody To Blame,Chris Stapleton,47,2016-02-06,2016-04-23,7,2
+385,Love Drought,Beyonce,45,2016-05-14,2016-05-14,6,1
+386,I Told You So,Mary Sarah,45,2016-06-04,2016-06-04,6,1
+387,Fire Away,Chris Stapleton,45,2016-04-23,2016-04-23,6,1
+388,Wild Things,Alessia Cara,45,2016-04-09,2016-04-09,6,1
+389,Shut Up And Dance,WALK THE MOON,45,2016-01-23,2016-01-23,6,1
+390,Misery,Gwen Stefani,45,2016-04-02,2016-04-02,6,1
+391,Here's To The Farmer,Luke Bryan,46,2016-10-01,2016-10-01,5,1
+392,Immortal,J. Cole,46,2016-12-31,2016-12-31,5,1
+393,Bounce Back,Big Sean,46,2016-11-26,2016-11-26,5,1
+394,Take Your Time,Sam Hunt,46,2016-03-05,2016-03-05,5,1
+395,Don't Threaten Me With A Good Time,Panic! At The Disco,46,2016-01-23,2016-01-23,5,1
+396,All I Know,The Weeknd Featuring Future,46,2016-12-17,2016-12-17,5,1
+397,Ain't My Fault,Zara Larsson,47,2016-09-24,2016-09-24,4,1
+398,It's Quiet Uptown,Kelly Clarkson,47,2016-11-26,2016-11-26,4,1
+399,The Beautiful Ones,Prince And The Revolution,47,2016-05-14,2016-05-14,4,1
+400,Right Hand,Drake,47,2016-01-16,2016-01-16,4,1
+401,Drove U Crazy,Gucci Mane Featuring Bryson Tiller,48,2016-12-24,2016-12-24,3,1
+402,I Would Like,Zara Larsson,48,2016-12-03,2016-12-03,3,1
+403,I Met A Girl,William Michael Morgan,48,2016-10-22,2016-10-22,3,1
+404,Seein' Red,Dustin Lynch,48,2016-07-16,2016-07-16,3,1
+405,No Limit,Usher Featuring Young Thug,48,2016-10-08,2016-10-08,3,1
+406,God Bless The USA,Lee Greenwood,48,2016-07-23,2016-07-23,3,1
+407,Move,Luke Bryan,48,2016-10-15,2016-10-15,3,1
+408,No Role Modelz,J. Cole,48,2016-01-16,2016-01-16,3,1
+409,God Bless The Child,We McDonald,48,2016-12-17,2016-12-17,3,1
+410,Vengeance On My Mind,G-Eazy Featuring Dana,48,2016-12-31,2016-12-31,3,1
+411,Fame,David Bowie,49,2016-01-30,2016-01-30,2,1
+412,Wishes,We McDonald,49,2016-12-31,2016-12-31,2,1
+413,Baby I'm A Star,Prince And The Revolution,49,2016-05-14,2016-05-14,2,1
+414,Hurt,Bryan Bautista,49,2016-06-04,2016-06-04,2,1
+415,Watch Out,2 Chainz,49,2016-02-13,2016-02-13,2,1
+416,Death Of A Bachelor,Panic! At The Disco,49,2016-02-06,2016-02-06,2,1
+417,Tiimmy Turner,Desiigner,49,2016-11-05,2016-11-05,2,1
+418,If I Ain't Got You,Alicia Keys,49,2016-10-08,2016-10-08,2,1
+419,My Way,Fetty Wap Featuring Monty,49,2016-01-16,2016-01-16,2,1
+420,Go Cubs Go,Steve Goodman,49,2016-11-19,2016-11-19,2,1
+421,Untitled 02 l 06.23.2014.,Kendrick Lamar,50,2016-03-26,2016-03-26,1,1
+422,Used To Love You,Gwen Stefani,50,2016-01-02,2016-01-02,1,1
+423,True Disaster,Tove Lo,50,2016-11-05,2016-11-05,1,1
+424,It Wasn't Me,"Shaggy Featuring Ricardo ""RikRok"" Ducent",50,2016-07-02,2016-07-02,1,1
+425,Easy Street,The Collapsable Hearts Club Featuring Jim Bianco & Petra Haden,50,2016-11-26,2016-11-26,1,1
+426,Castle,Halsey,50,2016-04-30,2016-04-30,1,1
+427,Pop Life,Prince And The Revolution,50,2016-05-14,2016-05-14,1,1
+428,Heroes,David Bowie,50,2016-01-30,2016-01-30,1,1

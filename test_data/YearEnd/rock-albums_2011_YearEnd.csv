@@ -1,0 +1,580 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Sigh No More,Mumford & Sons,1,2011-01-01,2011-12-31,2449,53
+2,Lungs,Florence + The Machine,3,2011-01-01,2011-10-01,1614,40
+3,Brothers,The Black Keys,2,2011-01-01,2011-11-26,1557,48
+4,Born Free,Kid Rock,1,2011-01-01,2011-10-08,1449,40
+5,Torches,Foster The People,1,2011-06-11,2011-12-31,1348,30
+6,"Save Me, San Francisco",Train,7,2011-01-01,2011-11-19,1295,43
+7,Wasting Light,Foo Fighters,1,2011-04-30,2011-12-31,1275,36
+8,Greatest Hits: The Ultimate Collection,Bon Jovi,3,2011-01-01,2011-12-31,1111,40
+9,Awake,Skillet,17,2011-01-01,2011-12-31,1038,53
+10,Barton Hollow,The Civil Wars,3,2011-02-19,2011-12-31,927,46
+11,The Suburbs,Arcade Fire,2,2011-01-01,2011-10-01,900,32
+12,Bon Iver,Bon Iver,1,2011-07-09,2011-12-31,783,24
+13,Science & Faith,The Script,2,2011-02-05,2011-12-10,765,39
+14,Nightmare,Avenged Sevenfold,14,2011-01-01,2011-12-31,731,50
+15,A Thousand Suns,Linkin Park,6,2011-01-01,2011-08-06,678,25
+16,Holding Onto Strings Better Left To Fray,Seether,1,2011-06-04,2011-12-10,673,23
+17,Come Around Sundown,Kings Of Leon,4,2011-01-01,2011-09-17,648,28
+18,The Truth Is...,Theory Of A Deadman,2,2011-07-30,2011-12-31,643,23
+19,I'm With You,Red Hot Chili Peppers,1,2011-09-17,2011-12-31,635,16
+20,Town Line (EP),Aaron Lewis,3,2011-03-19,2011-09-03,630,23
+21,American Tragedy,Hollywood Undead,2,2011-04-23,2011-12-10,627,24
+22,Hot Sauce Committee Part Two,Beastie Boys,1,2011-05-21,2011-09-17,589,18
+23,Waking Up,OneRepublic,18,2011-01-01,2011-12-31,566,36
+24,The King Is Dead,The Decemberists,1,2011-02-05,2011-12-17,549,23
+25,Helplessness Blues,Fleet Foxes,2,2011-05-21,2011-12-31,537,19
+26,War Is The Answer,Five Finger Death Punch,20,2011-01-01,2011-06-18,502,25
+27,So Beautiful Or So What,Paul Simon,2,2011-04-30,2011-12-31,495,15
+28,Endgame,Rise Against,1,2011-04-02,2011-07-30,463,18
+29,Farmer's Daughter,Crystal Bowersox,2,2011-01-01,2011-05-14,439,16
+30,The King Of Limbs,Radiohead,1,2011-04-16,2011-10-22,428,14
+31,Evanescence,Evanescence,1,2011-10-29,2011-12-31,425,10
+32,Time Of My Life,3 Doors Down,1,2011-08-06,2011-12-10,423,11
+33,Neighborhoods,Blink-182,1,2011-10-15,2011-12-31,419,12
+34,American Capitalist,Five Finger Death Punch,2,2011-10-29,2011-12-31,416,10
+35,Codes And Keys,Death Cab For Cutie,1,2011-06-18,2011-09-17,413,14
+36,Ukulele Songs,Eddie Vedder,2,2011-06-18,2011-09-24,398,14
+37,"If Not Now, When?",Incubus,1,2011-07-30,2011-10-08,387,11
+38,Mylo Xyloto,Coldplay,1,2011-11-12,2011-12-31,385,8
+39,The Whole Love,Wilco,2,2011-10-15,2011-12-31,373,12
+40,Thank You Happy Birthday,Cage The Elephant,2,2011-01-29,2011-04-23,364,13
+41,A Very She & Him Christmas,She & Him,3,2011-11-12,2011-12-31,361,8
+42,The Harrow & The Harvest,Gillian Welch,4,2011-07-16,2011-09-24,356,11
+43,Sucker Punch,Soundtrack,4,2011-04-09,2011-09-10,351,14
+44,Asylum,Disturbed,15,2011-01-01,2011-04-09,349,15
+45,My Darkest Days,My Darkest Days,21,2011-01-01,2011-06-11,349,19
+46,Move,Third Day,13,2011-01-01,2011-05-21,344,18
+47,Vice Verses,Switchfoot,3,2011-10-15,2011-12-31,330,12
+48,Vans Warped Tour '11: 2011 Tour Compilation,Various Artists,13,2011-06-25,2011-09-03,326,11
+49,Revelator,Tedeschi Trucks Band,4,2011-06-25,2011-10-01,323,14
+50,Low Country Blues,Gregg Allman,4,2011-02-05,2011-04-09,321,10
+51,Ceremonials,Florence + The Machine,1,2011-11-19,2011-12-31,319,7
+52,Circuital,My Morning Jacket,3,2011-06-18,2011-09-03,314,12
+53,In Your Dreams,Stevie Nicks,3,2011-05-21,2011-10-01,310,16
+54,Extended Versions,Bad Company,20,2011-04-09,2011-12-31,310,22
+55,Drama y Luz,Mana,3,2011-04-30,2011-12-03,308,11
+56,All American Nightmare,Hinder,11,2011-01-01,2011-06-11,308,13
+57,Megalithic Symphony,AWOLNATION,24,2011-09-03,2011-12-31,307,18
+58,Metals,Feist,1,2011-10-22,2011-12-31,304,10
+59,Bad As Me,Tom Waits,2,2011-11-12,2011-12-31,296,8
+60,Angles,The Strokes,1,2011-04-09,2011-06-25,288,11
+61,Ashes & Fire,Ryan Adams,3,2011-10-29,2011-12-31,285,10
+62,Danger Days: The True Lives Of The Fabulous Killjoys,My Chemical Romance,8,2011-01-01,2011-05-28,284,13
+63,Staind,Staind,1,2011-10-01,2011-12-31,283,12
+64,Yours Truly,Sublime With Rome,3,2011-07-30,2011-09-24,282,9
+65,The Twilight Saga: Breaking Dawn: Part 1,Soundtrack,1,2011-11-26,2011-12-31,281,6
+66,Young Love,Mat Kearney,1,2011-08-20,2011-11-12,277,10
+67,Mission Bell,Amos Lee,1,2011-02-12,2011-09-03,274,13
+68,Until We Have Faces,Red,1,2011-02-19,2011-04-16,273,9
+69,Showroom Of Compassion,Cake,1,2011-01-29,2011-04-02,266,10
+70,What Separates Me From You,A Day To Remember,11,2011-01-01,2011-06-11,261,14
+71,Extended Versions,Creedence Clearwater Revisited,21,2011-02-12,2011-07-30,260,19
+72,"Hurry Up, We're Dreaming.",M83.,5,2011-11-05,2011-12-31,258,9
+73,The Reckoning,NEEDTOBREATHE,1,2011-10-08,2011-12-10,242,10
+74,The Sound Of Madness,Shinedown,24,2011-01-01,2011-05-21,239,19
+75,Play The Blues: Live From Jazz At Lincoln Center,Wynton Marsalis & Eric Clapton,12,2011-10-01,2011-12-31,238,11
+76,God Willin' & The Creek Don't Rise,Ray Lamontagne And The Pariah Dogs,23,2011-01-01,2011-03-19,237,12
+77,Collapse Into Now,R.E.M.,1,2011-03-26,2011-05-07,233,7
+78,The Lost Children,Disturbed,4,2011-11-26,2011-12-31,226,6
+79,American Idol Season 10 Highlights: James Durbin (EP),James Durbin,7,2011-07-16,2011-09-10,222,9
+80,Muppets: The Green Album,Various Artists,1,2011-09-10,2011-12-17,220,8
+81,Vices & Virtues,Panic! At The Disco,2,2011-04-09,2011-06-18,218,11
+82,The Union,Elton John / Leon Russell,5,2011-01-01,2011-03-05,218,10
+83,Move Like This,The Cars,2,2011-05-28,2011-07-09,216,7
+84,Going Out In Style,Dropkick Murphys,2,2011-03-19,2011-04-23,201,6
+85,Beyond The Sun,Chris Isaak,8,2011-11-05,2011-12-31,200,9
+86,Hard Times And Nursery Rhymes,Social Distortion,3,2011-02-05,2011-04-02,199,9
+87,Here And Now,Nickelback,1,2011-12-10,2011-12-31,198,4
+88,Chickenfoot III,Chickenfoot,4,2011-10-15,2011-11-26,198,7
+89,Modern Love,Matt Nathanson,4,2011-07-09,2011-11-26,197,11
+90,The Social Network (Soundtrack),Trent Reznor And Atticus Ross,13,2011-01-29,2011-03-26,192,7
+91,A Foot In The Door: The Best Of Pink Floyd,Pink Floyd,12,2011-11-26,2011-12-31,191,6
+92,Rave On: Buddy Holly,Various Artists,2,2011-07-16,2011-08-13,189,5
+93,Break The Spell,Daughtry,2,2011-12-10,2011-12-31,188,4
+94,Th1rt3en,Megadeth,3,2011-11-19,2011-12-31,188,7
+95,Mirrorball: Live & More,Def Leppard,7,2011-06-25,2011-08-06,180,7
+96,Ultimate Hits: Rock And Roll Never Forgets,Bob Seger & The Silver Bullet Band,5,2011-12-10,2011-12-31,176,4
+97,Extended Versions,Foreigner,25,2011-04-09,2011-12-10,174,13
+98,Eclipse,Journey,4,2011-06-11,2011-08-13,172,6
+99,The Hunter,Mastodon,5,2011-10-15,2011-12-03,171,8
+100,Kiss Each Other Clean,Iron And Wine,2,2011-02-12,2011-03-26,168,6
+101,Worship Music,Anthrax,5,2011-10-01,2011-11-05,164,6
+102,A 40th Anniversary Collection,Various Artists,9,2011-03-26,2011-04-23,164,5
+103,Blessed,Lucinda Williams,4,2011-03-19,2011-04-30,163,7
+104,Grace Potter & The Nocturnals,Grace Potter & The Nocturnals,27,2011-01-01,2011-08-27,163,15
+105,The People's Key,Bright Eyes,3,2011-03-05,2011-04-02,156,5
+106,shaLLow bay: The Best Of Breaking Benjamin,Breaking Benjamin,4,2011-09-03,2011-10-08,151,6
+107,Young The Giant,Young The Giant,6,2011-09-10,2011-12-31,151,11
+108,Memories Of A Beautiful Disaster,James Durbin,8,2011-12-10,2011-12-31,150,4
+109,Universal Pulse,311,2,2011-08-06,2011-09-03,149,5
+110,Sing It Loud,k.d. lang And The Siss Boom Bang,9,2011-04-30,2011-05-28,149,5
+111,Broken Bells,Broken Bells,19,2011-01-01,2011-02-12,146,7
+112,This Is Gonna Hurt,Sixx: A.M.,5,2011-05-21,2011-06-18,145,5
+113,I and Love and You,The Avett Brothers,10,2011-01-22,2011-04-02,145,9
+114,Nine Types Of Light,TV On The Radio,5,2011-04-30,2011-05-28,144,5
+115,Transformers: Dark Of The Moon: The Album,Soundtrack,12,2011-07-02,2011-07-30,143,5
+116,Jeff Bridges,Jeff Bridges,5,2011-09-03,2011-09-24,142,4
+117,Greatest Hits,Foo Fighters,10,2011-04-16,2011-05-14,142,5
+118,The Twilight Saga: Eclipse,Soundtrack,21,2011-01-01,2011-02-05,142,6
+119,SuperHeavy,SuperHeavy,8,2011-10-08,2011-11-05,141,5
+120,Reckless & Relentless,Asking Alexandria,4,2011-04-23,2011-06-11,140,6
+121,Within And Without,Washed Out,6,2011-07-30,2011-09-17,140,7
+122,The Promise,Bruce Springsteen,10,2011-01-01,2011-02-26,139,6
+123,Every Mother Counts,Various Artists,12,2011-04-30,2011-05-21,135,4
+124,Wolfgang Amadeus Phoenix,Phoenix,22,2011-01-08,2011-02-19,134,7
+125,Dirty Work,All Time Low,1,2011-06-25,2011-09-03,133,6
+126,Set The World On Fire,Black Veil Brides,3,2011-07-02,2011-08-13,132,7
+127,The Rip Tide,Beirut,15,2011-08-20,2011-10-08,129,6
+128,Green Naugahyde,Primus,7,2011-10-01,2011-11-19,128,6
+129,Gold Cobra,Limp Bizkit,3,2011-07-16,2011-08-13,123,5
+130,Rome,Danger Mouse & Daniele Luppi Starring Jack White & Norah Jones,5,2011-06-04,2011-07-16,122,6
+131,The Drug In Me Is You,Falling In Reverse,3,2011-08-13,2011-09-03,121,4
+132,A Dramatic Turn Of Events,Dream Theater,2,2011-10-01,2011-10-22,120,4
+133,Hard Bargain,Emmylou Harris,6,2011-05-14,2011-06-04,120,4
+134,Night Of Hunters,Tori Amos,7,2011-10-08,2011-10-29,120,4
+135,Man In Motion,Warren Haynes,7,2011-05-28,2011-06-18,120,4
+136,How To Become Clairvoyant,Robbie Robertson,5,2011-04-23,2011-05-14,119,4
+137,Let England Shake,PJ Harvey,6,2011-03-05,2011-03-26,119,4
+138,Speed Of Darkness,Flogging Molly,4,2011-06-18,2011-10-15,118,5
+139,Pearl Jam Twenty (Soundtrack),Pearl Jam,2,2011-10-08,2011-12-17,117,5
+140,Part Lies Part Heart Part Truth Part Garbage: 1982-2011,R.E.M.,9,2011-12-03,2011-12-31,117,5
+141,"Take Care, Take Care, Take Care",Explosions In The Sky,4,2011-05-14,2011-06-18,116,4
+142,King,O.A.R.,2,2011-08-20,2011-09-24,114,4
+143,In Waves,Trivium,1,2011-08-27,2011-09-17,113,4
+144,Any Man In America,Blue October,1,2011-09-03,2011-09-24,113,4
+145,Leveler,August Burns Red,2,2011-07-09,2011-07-30,111,4
+146,Wounded Rhymes,Lykke Li,10,2011-03-19,2011-04-09,111,4
+147,Guitar Heaven: The Greatest Guitar Classics Of All Time,Santana,22,2011-01-01,2011-02-05,110,6
+148,Love Albums Parts One & Two,Angels & Airwaves,8,2011-11-19,2011-12-10,109,4
+149,Dirty Jeans And Mudslide Hymns,John Hiatt,13,2011-08-20,2011-09-10,108,4
+150,All You Need Is Now,Duran Duran,7,2011-01-08,2011-04-23,107,5
+151,All At Once,The Airborne Toxic Event,5,2011-05-14,2011-06-11,105,5
+152,Dead Throne,The Devil Wears Prada,3,2011-10-01,2011-10-22,103,4
+153,Black And White America,Lenny Kravitz,4,2011-09-17,2011-10-01,103,3
+154,Leave This Town,Daughtry,27,2011-01-01,2011-02-26,102,9
+155,El Camino,The Black Keys,1,2011-12-24,2011-12-31,100,2
+156,The Sea Of Memories,Bush,8,2011-10-01,2011-11-05,100,5
+157,The Light Meets The Dark,Tenth Avenue North,17,2011-01-22,2011-10-29,100,6
+158,Biophilia,Bjork,8,2011-10-29,2011-11-12,99,3
+159,Contra,Vampire Weekend,18,2011-01-08,2011-02-05,97,5
+160,"When You're Through Thinking, Say Yes",Yellowcard,5,2011-04-09,2011-05-14,96,4
+161,To The Sea,Jack Johnson,25,2011-01-01,2011-02-05,96,6
+162,Taking Back Sunday,Taking Back Sunday,4,2011-07-16,2011-07-30,95,3
+163,Mockingbird Time,The Jayhawks,11,2011-10-08,2011-11-05,95,5
+164,The Great Escape Artist,Jane's Addiction,3,2011-11-05,2011-11-19,94,3
+165,New Blood,Peter Gabriel,9,2011-10-29,2011-11-26,94,4
+166,Feels Like The First Time,Foreigner,16,2011-10-01,2011-10-22,94,4
+167,Mayday Parade,Mayday Parade,5,2011-10-22,2011-11-12,93,4
+168,Give Till It's Gone,Ben Harper,6,2011-06-04,2011-06-18,93,3
+169,I'll Never Get Out Of This World Alive,Steve Earle,7,2011-05-14,2011-05-28,91,3
+170,50 Words For Snow,Kate Bush,13,2011-12-10,2011-12-31,90,4
+171,The Path Of Totality,Korn,3,2011-12-24,2011-12-31,89,2
+172,Awesome As F**k,Green Day,4,2011-04-09,2011-04-23,89,3
+173,The Fall,Gorillaz,5,2011-05-07,2011-05-21,89,3
+174,Opus Collection,Roy Orbison,17,2011-05-28,2011-06-11,87,3
+175,Conditions Of My Parole,Puscifer,7,2011-11-05,2011-11-19,86,3
+176,A Treasure,Neil Young/International Harvesters,7,2011-07-02,2011-07-16,86,3
+177,The Resistance,Muse,16,2011-01-01,2011-03-12,86,7
+178,Hats Off To The Bull,Chevelle,5,2011-12-24,2011-12-31,84,2
+179,Heritage,Opeth,6,2011-10-08,2011-10-22,82,3
+180,The Black Crown,Suicide Silence,7,2011-07-30,2011-09-17,82,4
+181,People and Things,Jack's Mannequin,2,2011-10-22,2011-10-29,81,2
+182,Strange Mercy,St. Vincent,9,2011-10-01,2011-10-22,81,4
+183,This Is War,Thirty Seconds To Mars,30,2011-01-01,2011-02-12,81,7
+184,Suck It And See,Arctic Monkeys,6,2011-06-25,2011-07-09,80,3
+185,Band Of Joy,Robert Plant,31,2011-01-01,2011-02-19,80,7
+186,Go-Go Boots,Drive-By Truckers,8,2011-03-05,2011-03-19,79,3
+187,Noel Gallagher's High Flying Birds,Noel Gallagher's High Flying Birds,5,2011-11-26,2011-12-03,78,2
+188,Blood Pressures,The Kills,6,2011-04-23,2011-05-14,78,4
+189,Mine Is Yours,Cold War Kids,7,2011-02-12,2011-02-26,78,3
+190,Surtur Rising,Amon Amarth,7,2011-04-16,2011-04-30,78,3
+191,Tomboy,Panda Bear,8,2011-04-30,2011-05-21,78,4
+192,Punk Goes Pop: Volume 4,Various Artists,14,2011-12-10,2011-12-31,77,4
+193,Welcome 2 My Nightmare,Alice Cooper,11,2011-10-01,2011-10-15,76,3
+194,T Bone Burnett: The Producer,Various Artists,22,2011-08-13,2011-09-03,75,4
+195,Symphony Soldier,The Cab,9,2011-09-10,2011-09-17,74,2
+196,Sunshine State Of Mind,WE the Kings,9,2011-07-23,2011-07-30,74,2
+197,Songbook,Chris Cornell,12,2011-12-10,2011-12-24,74,3
+198,Mirror Traffic,Stephen Malkmus And The Jicks,4,2011-09-10,2011-09-24,73,3
+199,Fly From Here,Yes,9,2011-07-30,2011-08-13,73,3
+200,Opus Collection: Something To Talk About,Bonnie Raitt,25,2011-04-30,2011-05-21,72,4
+201,The Way It Was,Parachute,7,2011-06-04,2011-07-23,71,4
+202,Unto The Locust,Machine Head,8,2011-10-15,2011-10-22,71,2
+203,Habits,Neon Trees,28,2011-01-01,2011-01-29,71,5
+204,Live At Shea Stadium: The Concert,Billy Joel,8,2011-03-26,2011-04-02,70,2
+205,III/IV,Ryan Adams & The Cardinals,15,2011-01-01,2011-02-05,70,2
+206,Blues-Rock Crossroads / 1964-1986,Various Artists,20,2011-06-18,2011-07-02,68,3
+207,Major/Minor,Thrice,5,2011-10-08,2011-10-15,66,2
+208,Sky Full Of Holes,Fountains Of Wayne,6,2011-08-20,2011-08-27,66,2
+209,Love Album Part Two,Angels & Airwaves,7,2011-11-19,2011-11-26,66,2
+210,Sounds Of A Playground Fading,In Flames,7,2011-07-09,2011-07-23,66,3
+211,Simple Math,Manchester Orchestra,8,2011-05-28,2011-06-04,66,2
+212,HOW I GO,The Kenny Wayne Shepherd Band,11,2011-08-20,2011-09-03,66,3
+213,Understanding What We've Grown To Be,We Came As Romans,10,2011-10-01,2011-10-08,65,2
+214,Brand New Eyes,Paramore,28,2011-01-01,2011-01-22,65,4
+215,"Father, Son, Holy Ghost",Girls,14,2011-10-01,2011-10-15,64,3
+216,When Folk Meets Rock,Various Artists,24,2011-10-22,2011-11-05,64,3
+217,Songs Of Anarchy: Music From Sons Of Anarchy Seasons 1-4,Soundtrack,18,2011-12-24,2011-12-31,63,2
+218,Forevermore,Whitesnake,13,2011-04-16,2011-04-23,62,2
+219,The Flood,Of Mice & Men,6,2011-07-02,2011-07-09,61,2
+220,Live On Ten Legs,Pearl Jam,8,2011-02-05,2011-02-12,60,2
+221,Cults,Cults,14,2011-06-25,2011-07-16,60,4
+222,"Relentless, Reckless Forever",Children Of Bodom,11,2011-03-26,2011-04-02,59,2
+223,Balls Out,Steel Panther,12,2011-11-19,2011-11-26,59,2
+224,Screaming Bloody Murder,Sum 41,5,2011-04-16,2011-04-23,58,2
+225,Clapton,Eric Clapton,21,2011-01-01,2011-01-08,58,2
+226,Icon: Lynyrd Skynyrd,Lynyrd Skynyrd,35,2011-01-08,2011-09-24,58,7
+227,The Song Remains Not The Same,Black Label Society,11,2011-05-28,2011-06-04,57,2
+228,Beauty Queen Sister,Indigo Girls,14,2011-10-22,2011-10-29,57,2
+229,Dust Bowl,Joe Bonamassa,9,2011-04-09,2011-04-16,56,2
+230,Awakening,blessthefall,13,2011-10-22,2011-10-29,56,2
+231,Winterland,The Jimi Hendrix Experience,17,2011-10-01,2011-10-08,56,2
+232,The Promise: The Darkness On The Edge Of Town Story,Bruce Springsteen,19,2011-01-01,2011-01-08,56,2
+233,High Violet,The National,32,2011-01-15,2011-02-05,56,4
+234,D.R.U.G.S.,Destroy Rebuild Until God Shows,6,2011-03-12,2011-03-19,55,2
+235,Forever The Sickest Kids,Forever The Sickest Kids,8,2011-03-19,2011-03-26,55,2
+236,Decas,As I Lay Dying,16,2011-11-26,2011-12-03,55,2
+237,"Different Gear, Still Speeding",Beady Eye,7,2011-03-19,2011-03-26,54,2
+238,Between The Devil & The Deep Blue Sea,Black Stone Cherry,9,2011-06-18,2011-06-25,54,2
+239,10 Great Songs,Pat Benatar,33,2011-04-30,2011-05-28,54,5
+240,Beast,DevilDriver,10,2011-03-12,2011-03-19,53,2
+241,(Red) Christmas (EP),The Killers,11,2011-12-17,2011-12-24,53,2
+242,TKOL RMX 1 2 3 4 5 6 7,Radiohead,12,2011-10-29,2011-11-05,53,2
+243,Long Live The King (EP),The Decemberists,13,2011-11-19,2011-11-26,53,2
+244,The Unforgiving,Within Temptation,14,2011-04-16,2011-04-23,53,2
+245,The Script,The Script,24,2011-02-05,2011-02-19,53,3
+246,The Oracle,Godsmack,36,2011-01-01,2011-01-29,53,5
+247,Seeds We Sow,Lindsey Buckingham,6,2011-09-24,2011-10-01,52,2
+248,Lulu,Lou Reed & Metallica,10,2011-11-19,2011-11-26,52,2
+249,Zonoscope,Cut Copy,10,2011-02-26,2011-03-05,52,2
+250,Time Machine: Live In Cleveland 2011,Rush,13,2011-11-26,2011-12-03,52,2
+251,The Girl With The Dragon Tattoo (Soundtrack),Trent Reznor And Atticus Ross,16,2011-12-24,2011-12-31,52,2
+252,The Head And The Heart,The Head And The Heart,35,2011-05-07,2011-12-17,52,5
+253,Odd Soul,MuteMath,8,2011-10-22,2011-10-29,51,2
+254,Ritual,The Black Dahlia Murder,9,2011-07-09,2011-07-16,51,2
+255,Little Hell,City And Colour,11,2011-06-25,2011-07-02,51,2
+256,Songs Of The Ungrateful Living,Everlast,14,2011-11-05,2011-11-12,51,2
+257,Meyrin Fields (EP),Broken Bells,17,2011-04-16,2011-04-23,51,2
+258,Rockpango,Los Lonely Boys,19,2011-04-16,2011-04-23,50,2
+259,Fixin' To Die,G. Love,8,2011-03-12,2011-03-19,49,2
+260,The Hymn Of A Broken Man,Times Of Grace,13,2011-02-05,2011-02-12,49,2
+261,The Party Ain't Over,Wanda Jackson,17,2011-02-12,2011-02-19,49,2
+262,Cities 97 Sampler: Live From Studio C: 23,Various Artists,3,2011-12-03,2011-12-03,48,1
+263,I Am Very Far,Okkervil River,10,2011-05-28,2011-06-04,48,2
+264,Rescue,Silverstein,11,2011-05-14,2011-05-21,48,2
+265,Ready For Confetti,Robert Earl Keen,8,2011-09-17,2011-09-24,47,2
+266,Days,Real Estate,15,2011-11-05,2011-11-12,47,2
+267,This Is Christmas (EP),Kutless,39,2011-11-26,2011-12-31,46,6
+268,Beyond Magnetic (EP),Metallica,6,2011-12-31,2011-12-31,45,1
+269,Radiosurgery,New Found Glory,9,2011-10-22,2011-10-29,45,2
+270,Best Of 25 Years,Sting,27,2011-11-05,2011-12-10,45,2
+271,Am I The Enemy,The Red Jumpsuit Apparatus,7,2011-09-17,2011-09-17,44,1
+272,Killing Time,Bayside,7,2011-03-12,2011-03-12,44,1
+273,Elsie,The Horrible Crowes,7,2011-09-24,2011-09-24,44,1
+274,Superfiction,Cold,10,2011-08-06,2011-08-13,44,2
+275,Re:(Disc)Overed,Puddle Of Mudd,21,2011-09-17,2011-09-24,44,2
+276,Join Us,They Might Be Giants,8,2011-08-06,2011-08-06,43,1
+277,War Of Angels,Pop Evil,8,2011-07-23,2011-07-23,43,1
+278,(Ahk-toong Bay-bi) Covered,Various Artists,8,2011-12-03,2011-12-03,43,1
+279,Hell Is What You Make It,Breathe Carolina,10,2011-07-30,2011-08-06,43,2
+280,Loverboy,Brett Dennen,17,2011-04-30,2011-06-04,43,3
+281,Augustana,Augustana,9,2011-05-14,2011-05-14,42,1
+282,Vs. / Vitalogy,Pearl Jam,9,2011-04-16,2011-04-16,42,1
+283,Age Of Hell,Chimaira,9,2011-09-03,2011-09-03,42,1
+284,August And Everything After: Live At Town Hall,Counting Crows,10,2011-09-17,2011-09-17,41,1
+285,This Is Where It Ends,All Shall Perish,10,2011-08-13,2011-08-13,41,1
+286,Rock 'n' Roll Party: Honoring Les Paul,Jeff Beck,15,2011-03-12,2011-03-19,41,2
+287,KMAG YOYO (& Other American Stories),Hayes Carll,17,2011-03-05,2011-03-12,41,2
+288,Kaputt,Destroyer,19,2011-02-12,2011-02-19,41,2
+289,Damnesia,Alkaline Trio,11,2011-07-30,2011-07-30,40,1
+290,Weights & Wings,Matt Wertz,11,2011-04-02,2011-04-02,40,1
+291,Wild Flag,Wild Flag,18,2011-10-01,2011-11-05,40,3
+292,Justice,Rev Theory,20,2011-03-05,2011-03-12,40,2
+293,In The Mountain In The Cloud,Portugal. The Man,12,2011-08-06,2011-08-06,39,1
+294,Forever If Ever,Jon McLaughlin,12,2011-09-24,2011-09-24,39,1
+295,Dispatch (EP),Dispatch,12,2011-06-04,2011-06-04,39,1
+296,Live At Benaroya Hall,Brandi Carlile With The Seattle Symphony,14,2011-05-21,2011-05-28,39,2
+297,Get Your Heart On!,Simple Plan,14,2011-07-09,2011-07-16,39,2
+298,Inni,Sigur Ros,13,2011-12-03,2011-12-03,38,1
+299,Live At Wrigley Field,Dave Matthews Band,13,2011-06-18,2011-06-18,38,1
+300,Against The World,Winds Of Plague,13,2011-05-07,2011-05-07,38,1
+301,Live On I-5,Soundgarden,14,2011-04-09,2011-04-09,37,1
+302,Bad Habits,Every Avenue,14,2011-08-20,2011-08-20,37,1
+303,Pioneer,The Maine,14,2011-12-24,2011-12-24,37,1
+304,Love Album Part One,Angels & Airwaves,14,2011-11-19,2011-11-19,37,1
+305,Post Mortem,Black Tide,14,2011-09-10,2011-09-10,37,1
+306,Teen Dream,Beach House,36,2011-01-15,2011-01-29,37,3
+307,Something Like This,Ben Rector,15,2011-10-01,2011-10-01,36,1
+308,No Color,The Dodos,15,2011-04-02,2011-04-02,36,1
+309,Divine Providence,Deer Tick,15,2011-11-12,2011-11-12,36,1
+310,Kicking & Screaming,Sebastian Bach,15,2011-10-15,2011-10-15,36,1
+311,The Best Imitation Of Myself: A Retrospective,Ben Folds,15,2011-10-29,2011-10-29,36,1
+312,Stepped Up & Scratched,Asking Alexandria,26,2011-12-10,2011-12-17,36,2
+313,The Beatles In Stereo,The Beatles,31,2011-01-01,2011-01-15,36,3
+314,Dedicated To Chaos,Queensryche,16,2011-07-16,2011-07-16,35,1
+315,Unplugged MTV (EP),Thirty Seconds To Mars,16,2011-09-10,2011-09-10,35,1
+316,A Place Where The Sun Is Silent,Alesana,16,2011-11-05,2011-11-05,35,1
+317,My Damnation,Chelsea Grin,16,2011-08-06,2011-08-06,35,1
+318,Live At The Aragon,Mastodon,16,2011-04-02,2011-04-02,35,1
+319,Ruining It For Everybody,iwrestledabearonce,16,2011-08-13,2011-08-13,35,1
+320,The Parallax: Hypersleep Dialogues (EP),Between The Buried And Me,16,2011-04-30,2011-04-30,35,1
+321,Belong,The Pains Of Being Pure At Heart,27,2011-04-16,2011-04-23,35,2
+322,For We Are Many,All That Remains,31,2011-01-15,2011-01-29,35,3
+323,III,Family Force 5,17,2011-11-05,2011-11-05,34,1
+324,The Bridge School Concerts: 25th Anniversary Edition: Volume 1,Various Artists,17,2011-11-12,2011-11-12,34,1
+325,Arrows & Anchors,Fair To Midland,17,2011-07-30,2011-07-30,34,1
+326,Everything's Fine,The Summer Set,17,2011-08-06,2011-08-06,34,1
+327,100 Lovers,Devotchka,17,2011-03-19,2011-03-19,34,1
+328,Truant Wave (EP),Patrick Stump,17,2011-03-12,2011-03-12,34,1
+329,The Long Surrender,Over The Rhine,17,2011-02-26,2011-02-26,34,1
+330,Nothing Is Wrong,Dawes,18,2011-06-25,2011-09-10,34,2
+331,The Reflection,Keb Mo,20,2011-08-20,2011-08-27,34,2
+332,Devil's Rain,Misfits,18,2011-10-22,2011-10-22,33,1
+333,Lucky Street,Go Radio,18,2011-03-19,2011-03-19,33,1
+334,Light Me Up,The Pretty Reckless,18,2011-02-26,2011-02-26,33,1
+335,Live From Shepherd's Bush Empire,Mumford & Sons,18,2011-11-12,2011-11-12,33,1
+336,Skying,The Horrors,18,2011-08-27,2011-08-27,33,1
+337,Europe '72: Volume 2,Grateful Dead,18,2011-10-08,2011-10-08,33,1
+338,Towards The Sun,Alexi Murdoch,18,2011-03-26,2011-03-26,33,1
+339,In Some Way Shape Or Form,Four Year Strong,18,2011-11-26,2011-11-26,33,1
+340,Speaker Of The Dead,Emmure,18,2011-03-05,2011-03-05,33,1
+341,Atavist,Otep,19,2011-05-14,2011-05-21,33,2
+342,Grace For Drowning,Steven Wilson,19,2011-10-15,2011-10-15,32,1
+343,Iconoclast,Symphony X,19,2011-07-09,2011-07-09,32,1
+344,We Are The Tide,Blind Pilot,19,2011-10-01,2011-10-01,32,1
+345,Dystopia,Iced Earth,19,2011-11-05,2011-11-05,32,1
+346,Downtown Battle Mountain II,Dance Gavin Dance,19,2011-03-26,2011-03-26,32,1
+347,Everything Everytime Everywhere,Trevor Hall,19,2011-09-10,2011-09-10,32,1
+348,No Devolucion,Thursday,19,2011-04-30,2011-04-30,32,1
+349,2,Black Country Communion,19,2011-07-02,2011-07-02,32,1
+350,Outlawed,Attila,19,2011-09-03,2011-09-03,32,1
+351,The Essential Aerosmith,Aerosmith,19,2011-09-24,2011-09-24,32,1
+352,Weightless,Animals As Leaders,19,2011-11-26,2011-11-26,32,1
+353,In Darkness & In Light (Soundtrack),The Maine,19,2011-01-15,2011-01-15,32,1
+354,Home School Valedictorian,Adelitas Way,20,2011-06-25,2011-06-25,31,1
+355,Suburbia I've Given You All And Now I'm Nothing,The Wonder Years,20,2011-07-02,2011-07-02,31,1
+356,Gift Horse,Stephen Kellogg And The Sixers,20,2011-10-29,2011-10-29,31,1
+357,Junk Of The Heart,The Kooks,20,2011-10-01,2011-10-01,31,1
+358,"Passive Me, Aggressive You",The Naked And Famous,20,2011-04-02,2011-04-02,31,1
+359,Scurrilous,Protest The Hero,20,2011-04-09,2011-04-09,31,1
+360,The Valley,Eisley,20,2011-03-19,2011-03-19,31,1
+361,Get Along,Tegan And Sara,20,2011-12-03,2011-12-03,31,1
+362,Parallax,Atlas Sound,20,2011-11-26,2011-11-26,31,1
+363,The Bright Lights (EP),Gary Clark Jr.,20,2011-08-27,2011-08-27,31,1
+364,The World Is Yours,Motorhead,24,2011-02-26,2011-03-05,31,2
+365,Burst Apart,The Antlers,24,2011-05-28,2011-06-04,31,2
+366,Follow Me Down,Sarah Jarosz,26,2011-06-04,2011-07-09,31,2
+367,Let's Cheers To This,Sleeping With Sirens,21,2011-05-28,2011-05-28,30,1
+368,Crazy Love,Hawk Nelson,21,2011-02-26,2011-02-26,30,1
+369,Somewhere In The Stratosphere,Shinedown,21,2011-05-21,2011-05-21,30,1
+370,ONXRT: Live From The Archives: Vol. 13,Various Artists,21,2011-12-24,2011-12-24,30,1
+371,Era Extrana,Neon Indian,21,2011-10-01,2011-10-01,30,1
+372,Darkness In The Light,Unearth,21,2011-07-23,2011-07-23,30,1
+373,All Eternals Deck,The Mountain Goats,21,2011-04-16,2011-04-16,30,1
+374,Night Castle,Trans-Siberian Orchestra,35,2011-01-01,2011-01-08,30,2
+375,Pighammer,Wayne Static,22,2011-10-22,2011-10-22,29,1
+376,Ugly Side: An Acoustic Evening With Blue October,Blue October,22,2011-05-28,2011-05-28,29,1
+377,Greatest Hits 2,Journey,22,2011-11-19,2011-11-19,29,1
+378,Singing Mailman Delivers,John Prine,22,2011-11-12,2011-11-12,29,1
+379,We Do What We Want,Emery,22,2011-04-16,2011-04-16,29,1
+380,C'mon,Low,22,2011-04-30,2011-04-30,29,1
+381,Death By Stereo,Umphrey's McGee,22,2011-10-01,2011-10-01,29,1
+382,Under Your Skin,Saliva,22,2011-04-09,2011-04-09,29,1
+383,White Rabbit,Egypt Central,22,2011-06-18,2011-06-18,29,1
+384,Ritual,White Lies,22,2011-02-05,2011-02-05,29,1
+385,Scripted,Icon For Hire,22,2011-09-10,2011-09-10,29,1
+386,Tri-Polar,Sick Puppies,34,2011-01-08,2011-02-19,29,3
+387,Battle Studies,John Mayer,36,2011-01-01,2011-02-26,29,3
+388,Economy,John Mark McMillan,23,2011-11-19,2011-11-19,28,1
+389,Outside,Tapes 'n Tapes,23,2011-01-29,2011-01-29,28,1
+390,The Discovery,Born Of Osiris,23,2011-04-09,2011-04-09,28,1
+391,Here We Rest,Jason Isbell And The 400 Unit,24,2011-04-30,2011-04-30,27,1
+392,Only In Dreams,Dum Dum Girls,24,2011-10-15,2011-10-15,27,1
+393,Road Trips: Vol. 4 No. 4: Spectrum 4-6-82,Grateful Dead,24,2011-08-20,2011-08-20,27,1
+394,Polar Opposite (EP),Sick Puppies,24,2011-03-19,2011-03-19,27,1
+395,Spade,Butch Walker And The Black Widows,24,2011-09-17,2011-09-17,27,1
+396,iTunes Sessions (EP),My Morning Jacket,24,2011-12-24,2011-12-24,27,1
+397,Spider-Man: Turn Off The Dark,Original Cast Recording,24,2011-07-02,2011-07-02,27,1
+398,"Hardcore Will Never Die, But You Will.",Mogwai,25,2011-03-05,2011-03-05,26,1
+399,Twisted Wires & The Acoustic Sessions....,Tesla,25,2011-07-30,2011-07-30,26,1
+400,Running From A Gamble,Company Of Thieves,25,2011-06-04,2011-06-04,26,1
+401,Nightlife (EP),Phantogram,25,2011-11-19,2011-11-19,26,1
+402,Invisible Empires,Sara Groves,25,2011-11-05,2011-11-05,26,1
+403,The Old Magic,Nick Lowe,25,2011-10-01,2011-10-01,26,1
+404,Attack Attack!,Attack Attack!,26,2011-08-06,2011-08-06,25,1
+405,Artificial Heart,Jonathan Coulton,26,2011-11-26,2011-11-26,25,1
+406,Awake And Remixed (EP),Skillet,26,2011-04-09,2011-04-09,25,1
+407,Identity On Fire,A Skylit Drive,26,2011-03-05,2011-03-05,25,1
+408,Raven In The Grave,The Raveonettes,26,2011-04-23,2011-04-23,25,1
+409,Khaos Legions,Arch Enemy,26,2011-06-25,2011-06-25,25,1
+410,Deas Vail,Deas Vail,26,2011-10-29,2011-10-29,25,1
+411,We All Bleed,Crossfade,26,2011-07-09,2011-07-09,25,1
+412,Listen To The Sound,Building 429,31,2011-05-28,2011-06-04,25,2
+413,In The Grace Of Your Love,The Rapture,27,2011-09-24,2011-09-24,24,1
+414,Instinct,As Blood Runs Black,27,2011-04-02,2011-04-02,24,1
+415,A Thousand Suns: Puerta De Alcala (EP),Linkin Park,27,2011-02-19,2011-02-19,24,1
+416,Marc Broussard,Marc Broussard,27,2011-07-02,2011-07-02,24,1
+417,Rock Symphonies,David Garrett,31,2011-02-05,2011-02-12,24,2
+418,Pull Up Some Dust And Sit Down,Ry Cooder,28,2011-09-17,2011-09-17,23,1
+419,Dynamite Steps,the twilight singers,28,2011-03-05,2011-03-05,23,1
+420,Alexander,Alexander,28,2011-03-19,2011-03-19,23,1
+421,David Comes To Life,Fucked Up,28,2011-06-25,2011-06-25,23,1
+422,"Dharoha Project, Laura Marling And Mumford & Sons (EP)","Dharoha Project, Laura Marling And Mumford & Sons",28,2011-02-26,2011-02-26,23,1
+423,A Creature I Don't Know,Laura Marling,28,2011-10-01,2011-10-01,23,1
+424,ZZ Top: A Tribute From Friends,Various Artists,28,2011-10-29,2011-10-29,23,1
+425,Achtung Baby (Super Deluxe),U2,28,2011-11-19,2011-11-19,23,1
+426,Made In Germany,Rammstein,29,2011-12-31,2011-12-31,22,1
+427,Tough Love: Best Of The Ballads,Aerosmith,29,2011-05-28,2011-05-28,22,1
+428,Laugh Now...Laugh Later,Face To Face,29,2011-06-04,2011-06-04,22,1
+429,Lungs: The B-Sides (EP),Florence + The Machine,29,2011-03-19,2011-03-19,22,1
+430,Daybreak,Saves The Day,29,2011-10-01,2011-10-01,22,1
+431,Dye It Blonde,Smith Westerns,29,2011-02-05,2011-02-05,22,1
+432,Best Intentions,We Are The In Crowd,29,2011-10-22,2011-10-22,22,1
+433,Chesapeake,Rachael Yamagata,29,2011-10-29,2011-10-29,22,1
+434,Easy - Wonderful,Guster,29,2011-01-22,2011-01-22,22,1
+435,Empty Hands And Heavy Hearts,Close Your Eyes,29,2011-11-12,2011-11-12,22,1
+436,Hampton/Winston-Salem '97,Phish,29,2011-12-24,2011-12-24,22,1
+437,Scandalous,Black Joe Lewis & The Honeybears,30,2011-04-02,2011-04-02,21,1
+438,Valdosta (EP),Mayday Parade,30,2011-03-26,2011-03-26,21,1
+439,The Grand Theatre Vol. 2,Old 97's,30,2011-07-23,2011-07-23,21,1
+440,Seeking Major Tom,William Shatner,30,2011-10-29,2011-10-29,21,1
+441,Broken Record,Corey Smith,30,2011-07-09,2011-07-09,21,1
+442,"Live, Volume 3",The Avett Brothers,37,2011-02-26,2011-03-12,21,3
+443,Wonders Of The Younger,Plain White T's,38,2011-01-01,2011-01-29,21,3
+444,Save It For A Rainy Day,Various Artists,40,2011-03-05,2011-03-19,21,3
+445,Hysterical,Clap Your Hands Say Yeah,31,2011-10-08,2011-10-08,20,1
+446,Listen To Me: Buddy Holly,Various Artists,31,2011-09-24,2011-09-24,20,1
+447,Songbook (EP),Chris Cornell,31,2011-11-19,2011-11-19,20,1
+448,Vices And Virtues,Art Of Dying,31,2011-04-09,2011-04-09,20,1
+449,From Fear To Eternity: The Best Of 1990-2010,Iron Maiden,31,2011-06-25,2011-06-25,20,1
+450,Songwriter,Paul Simon,31,2011-11-12,2011-11-12,20,1
+451,Headfirst (EP),Jillian Edwards,32,2011-12-03,2011-12-03,19,1
+452,Strange Negotiations,David Bazan,32,2011-06-11,2011-06-11,19,1
+453,Ironiclast,The Damned Things,32,2011-01-01,2011-01-01,19,1
+454,Road Trips Vol. 4 No. 5: Boston Music Hall 6-9-76,Grateful Dead,32,2011-11-19,2011-11-19,19,1
+455,Don't Explain,Beth Hart And Joe Bonamassa,32,2011-10-15,2011-10-15,19,1
+456,Children Of Fire,"Oh, Sleeper",32,2011-09-24,2011-09-24,19,1
+457,Ghostbird,Zee Avi,32,2011-09-10,2011-09-10,19,1
+458,American Goldwing,Blitzen Trapper,32,2011-10-01,2011-10-01,19,1
+459,Civilian,Wye Oak,32,2011-05-07,2011-05-07,19,1
+460,There Are Rules,The Get Up Kids,33,2011-02-12,2011-02-12,18,1
+461,Several Shades Of Why,J Mascis,33,2011-04-02,2011-04-02,18,1
+462,Cape Dory,Tennis,33,2011-02-05,2011-02-05,18,1
+463,Gimme Some,Peter Bjorn And John,33,2011-04-16,2011-04-16,18,1
+464,Live: Made In Stoke 24/7/11,Slash Featuring Myles Kennedy,33,2011-12-03,2011-12-03,18,1
+465,Rolling Blackouts,The Go! Team,33,2011-02-19,2011-02-19,18,1
+466,Bride Of The Noisemakers,Bruce Hornsby And The Noisemakers,33,2011-05-21,2011-05-21,18,1
+467,W H O K I L L,tUnE-YaRdS,37,2011-05-07,2011-05-14,18,2
+468,Jasta,Jasta,34,2011-08-13,2011-08-13,17,1
+469,Demolished Thoughts,Thurston Moore,34,2011-06-11,2011-06-11,17,1
+470,Unida Cantina,Roger Clyne And The Peacemakers,34,2011-05-07,2011-05-07,17,1
+471,Nevermind (Super Deluxe Edition),Nirvana,34,2011-10-15,2011-10-15,17,1
+472,Mayhem,Imelda May,34,2011-08-06,2011-08-06,17,1
+473,Gloss Drop,Battles,34,2011-06-25,2011-06-25,17,1
+474,This Warm December: A Brushfire Holiday Vol. 2,Various Artists,34,2011-12-03,2011-12-03,17,1
+475,Iron Man 2 (Soundtrack),AC/DC,41,2011-01-01,2011-01-08,17,2
+476,Last Night On Earth,Noah And The Whale,35,2011-04-02,2011-04-02,16,1
+477,In The Pit Of The Stomach,We Were Promised Jetpacks,35,2011-10-22,2011-10-22,16,1
+478,Power To The People: The Hits,John Lennon,42,2011-01-01,2011-01-08,16,2
+479,iTunes Session (EP),The Decemberists,36,2011-08-20,2011-08-20,15,1
+480,Road Trips Vol. 4 No. 2: April Fools '88,Grateful Dead,36,2011-02-12,2011-02-12,15,1
+481,Build A Rocket Boys!,Elbow,36,2011-03-26,2011-03-26,15,1
+482,iTunes Session (EP),The Gaslight Anthem,36,2011-11-05,2011-11-05,15,1
+483,Pala,Friendly Fires,36,2011-06-11,2011-06-11,15,1
+484,Blunt Force Trauma,Cavalera Conspiracy,36,2011-04-16,2011-04-16,15,1
+485,The Hollow,Memphis May Fire,36,2011-05-14,2011-05-14,15,1
+486,The Singles Collection 2001-2011,Gorillaz,37,2011-12-17,2011-12-17,14,1
+487,Valleyheart,She Wants Revenge,37,2011-06-11,2011-06-11,14,1
+488,iTunes Live From SoHo (EP),Amos Lee,37,2011-09-03,2011-09-03,14,1
+489,iTunes Session (EP),Vampire Weekend,37,2011-01-15,2011-01-15,14,1
+490,The End Of The World Party,I See Stars,37,2011-03-12,2011-03-12,14,1
+491,xx,The xx,40,2011-01-22,2011-01-29,14,2
+492,10 Great Songs,George Thorogood,44,2011-04-30,2011-05-07,14,2
+493,Forever Abomination,Skeletonwitch,38,2011-10-29,2011-10-29,13,1
+494,Remixes 2: 81-11 (Deluxe Edition),Depeche Mode,38,2011-06-25,2011-06-25,13,1
+495,Wildlife,La Dispute,38,2011-10-22,2011-10-22,13,1
+496,Bob Dylan In Concert: Brandeis University 1963,Bob Dylan,38,2011-04-30,2011-04-30,13,1
+497,The Death Of Greeley Estates,Greeley Estates,38,2011-08-27,2011-08-27,13,1
+498,Escape The Fate,Escape The Fate,38,2011-01-15,2011-01-15,13,1
+499,Attention Deficit Domination,Attention Deficit Domination,38,2011-09-24,2011-09-24,13,1
+500,Elvis: Memories,Elvis Presley,38,2011-01-29,2011-01-29,13,1
+501,A Perfect Day,Bob Schneider,38,2011-05-07,2011-05-07,13,1
+502,Smoke Ring For My Halo,Kurt Vile,38,2011-03-26,2011-03-26,13,1
+503,Whatever's On Your Mind,Gomez,38,2011-07-09,2011-07-09,13,1
+504,The Cold Still,The Boxer Rebellion,39,2011-02-19,2011-02-19,12,1
+505,Kingdom Days In An Evil Age,Sleeping Giant,39,2011-07-30,2011-07-30,12,1
+506,Chasing Someday,Drew Holcomb And The Neighbors,39,2011-02-26,2011-02-26,12,1
+507,iTunes Session (EP),Slash,39,2011-01-15,2011-01-15,12,1
+508,Let's Be Animals,The Downtown Fiction,39,2011-05-14,2011-05-14,12,1
+509,Dum Spiro Spero,Dir En Grey,39,2011-08-20,2011-08-20,12,1
+510,AB III,Alter Bridge,45,2011-01-22,2011-01-29,12,2
+511,Is For Karaoke (EP),Relient K,40,2011-07-16,2011-07-16,11,1
+512,The Hits,Billy Joel,40,2011-12-10,2011-12-10,11,1
+513,Sidewalks,Matt And Kim,40,2011-01-29,2011-01-29,11,1
+514,Middle Brother,Middle Brother,40,2011-04-16,2011-04-16,11,1
+515,10 Great Songs,Poison,40,2011-04-09,2011-04-09,11,1
+516,Ramble At The Ryman,Levon Helm,40,2011-06-04,2011-06-04,11,1
+517,77,Kutless,41,2011-03-05,2011-03-12,11,2
+518,True Blood: Music From The HBO Original Series: Volume 3,Soundtrack,41,2011-09-24,2011-09-24,10,1
+519,Deerhoof vs. Evil,Deerhoof,41,2011-02-12,2011-02-12,10,1
+520,Remember To Live (EP),Flyleaf,41,2011-01-01,2011-01-01,10,1
+521,Mosh N' Roll,Bury Your Dead,41,2011-08-20,2011-08-20,10,1
+522,Chuckles And Mr. Squeezy,Dredg,41,2011-05-21,2011-05-21,10,1
+523,Revelation Road,Shelby Lynne,42,2011-11-05,2011-11-05,9,1
+524,Something To Die For,The Sounds,42,2011-04-16,2011-04-16,9,1
+525,The Covering,Stryper,42,2011-03-05,2011-03-05,9,1
+526,Life Gone Wild (EP),Asking Alexandria,42,2011-01-08,2011-01-08,9,1
+527,Scott Pilgrim Vs. The World,Soundtrack,46,2011-01-15,2011-01-22,9,2
+528,Colliding Grace,Shake The Nation,43,2011-11-19,2011-11-19,8,1
+529,Burning At Both Ends,Set Your Goals,43,2011-07-16,2011-07-16,8,1
+530,Dreaming In Black And White,TRUSTcompany,43,2011-03-26,2011-03-26,8,1
+531,Another Hopeless Summer 2011,Various Artists,43,2011-07-09,2011-07-09,8,1
+532,Oh Land,Oh Land,43,2011-04-02,2011-04-02,8,1
+533,Living Proof,Buddy Guy,43,2011-01-01,2011-01-01,8,1
+534,Gold In The Shadow,William Fitzsimmons,44,2011-04-09,2011-04-09,7,1
+535,War Paint,The Dangerous Summer,44,2011-08-06,2011-08-06,7,1
+536,Life Fantastic,Man Man,44,2011-05-28,2011-05-28,7,1
+537,Digital Veil,The Human Abstract,44,2011-03-26,2011-03-26,7,1
+538,Arabia Mountain,Black Lips,44,2011-06-25,2011-06-25,7,1
+539,Audio Secrecy,Stone Sour,44,2011-01-15,2011-01-15,7,1
+540,The Bootleg Series Vol. 9: The Witmark Demos: 1962-1964,Bob Dylan,46,2011-01-01,2011-01-08,7,2
+541,Sever The Wicked Hand,Crowbar,45,2011-02-26,2011-02-26,6,1
+542,Hi-Five Soup!,The Aquabats!,45,2011-02-05,2011-02-05,6,1
+543,No One Listens To The Band Anymore,The Damnwells,45,2011-04-02,2011-04-02,6,1
+544,Yes And Also Yes,Mike Doughty,45,2011-09-17,2011-09-17,6,1
+545,Plastic Beach,Gorillaz,47,2011-01-15,2011-01-22,6,2
+546,Until I Feel Nothing,Carnifex,46,2011-11-12,2011-11-12,5,1
+547,Roots,Johnny Winter,46,2011-10-15,2011-10-15,5,1
+548,One Reality,Texas In July,46,2011-05-14,2011-05-14,5,1
+549,Halcyon Digest,Deerhunter,46,2011-01-22,2011-01-22,5,1
+550,The Great Awakening,Leeland,46,2011-10-08,2011-10-08,5,1
+551,Nick 13,Nick 13,46,2011-06-25,2011-06-25,5,1
+552,Back Burner,For The Fallen Dreams,46,2011-06-11,2011-06-11,5,1
+553,I've Failed You,Kittie,46,2011-09-17,2011-09-17,5,1
+554,Keys To The Kingdom,North Mississippi Allstars,46,2011-02-19,2011-02-19,5,1
+555,iTunes Session (EP),The Head And The Heart,47,2011-12-17,2011-12-17,4,1
+556,Flashback With The Grateful Dead,Grateful Dead,47,2011-04-30,2011-04-30,4,1
+557,What Did You Expect From The Vaccines?,The Vaccines,47,2011-06-18,2011-06-18,4,1
+558,"When You're Through Thinking, Say Yes (Acoustic)",Yellowcard,47,2011-11-12,2011-11-12,4,1
+559,Let Your Hair Down,The Steve Miller Band,48,2011-05-07,2011-05-07,3,1
+560,Hello Sadness,Los Campesinos!,48,2011-12-03,2011-12-03,3,1
+561,Treats,Sleigh Bells,48,2011-02-19,2011-02-19,3,1
+562,Tarot Classics (EP),Surfer Blood,48,2011-11-12,2011-11-12,3,1
+563,Illud Divinum Insanus,Morbid Angel,48,2011-06-25,2011-06-25,3,1
+564,KINK Live 14,Various Artists,48,2011-10-08,2011-10-08,3,1
+565,Downtown Battle Mountain I & II,Dance Gavin Dance,48,2011-03-26,2011-03-26,3,1
+566,Eleven Eleven,Dave Alvin,49,2011-07-09,2011-07-09,2,1
+567,Cattle Callin,3 Bar Ranch,49,2011-09-24,2011-09-24,2,1
+568,England Keep My Bones,Frank Turner,49,2011-06-25,2011-06-25,2,1
+569,The Human Romance,Darkest Hour,49,2011-03-12,2011-03-12,2,1
+570,American Tragedy: Redux,Hollywood Undead,49,2011-12-10,2011-12-10,2,1
+571,Never Trust A Happy Song,Grouplove,49,2011-12-17,2011-12-17,2,1
+572,Bella,Teddy Thompson,49,2011-02-26,2011-02-26,2,1
+573,iTunes Session (EP),Grace Potter & The Nocturnals,50,2011-12-24,2011-12-24,1,1
+574,Viva Elvis: The Album,Elvis Presley,50,2011-01-01,2011-01-01,1,1
+575,Greatest Hits,Motley Crue,50,2011-02-19,2011-02-19,1,1
+576,Mariachi El Bronx (II),Mariachi El Bronx,50,2011-08-20,2011-08-20,1,1
+577,Something For The Pain,Redlight King,50,2011-07-16,2011-07-16,1,1
+578,Immersion,Pendulum,50,2011-02-12,2011-02-12,1,1
+579,Underneath The Pine,Toro y Moi,50,2011-03-12,2011-03-12,1,1

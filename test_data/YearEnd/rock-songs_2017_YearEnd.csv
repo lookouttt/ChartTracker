@@ -1,0 +1,404 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Believer,Imagine Dragons,1,2017-02-18,2017-12-30,6907,46
+2,Feel It Still,Portugal. The Man,1,2017-03-25,2017-12-30,4595,41
+3,Thunder,Imagine Dragons,1,2017-05-13,2017-12-30,4485,34
+4,Heathens,twenty one pilots,1,2017-01-07,2017-08-05,4392,31
+5,Wish I Knew You,The Revivalists,4,2017-01-07,2017-12-30,4318,52
+6,Heavy,Linkin Park Featuring Kiiara,2,2017-03-04,2017-09-16,3067,29
+7,Human,Rag'n'Bone Man,4,2017-01-07,2017-07-29,2401,30
+8,Ride,twenty one pilots,2,2017-01-07,2017-05-06,2249,18
+9,The Night We Met,Lord Huron,5,2017-04-22,2017-10-14,1893,26
+10,Sucker For Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",4,2017-01-07,2017-05-27,1807,21
+11,Angela,The Lumineers,10,2017-01-07,2017-12-23,1655,48
+12,HandClap,Fitz And The Tantrums,2,2017-01-07,2017-04-08,1605,14
+13,Way Down We Go,KALEO,5,2017-01-07,2017-05-06,1600,18
+14,Rx (Medicate),Theory Of A Deadman,4,2017-08-19,2017-12-30,1435,20
+15,Walk On Water,Thirty Seconds To Mars,5,2017-09-09,2017-12-30,1323,17
+16,Whatever It Takes,Imagine Dragons,5,2017-05-27,2017-12-30,1203,24
+17,Old Church Choir,Zach Williams,7,2017-06-17,2017-12-09,1162,26
+18,Unsteady,X Ambassadors,2,2017-01-07,2017-03-04,1097,9
+19,The Man,The Killers,5,2017-07-01,2017-12-16,1077,25
+20,Take It All Back,Judah & The Lion,6,2017-01-07,2017-09-23,1032,19
+21,One More Light,Linkin Park,6,2017-06-10,2017-12-30,927,23
+22,Hard Times,Paramore,6,2017-05-06,2017-09-16,823,20
+23,Heavydirtysoul,twenty one pilots,8,2017-01-14,2017-04-29,808,16
+24,One Foot,WALK THE MOON,4,2017-10-14,2017-12-30,718,12
+25,Love,Lana Del Rey,2,2017-03-11,2017-08-12,685,20
+26,Numb,Linkin Park,2,2017-08-05,2017-09-09,669,6
+27,Lust For Life,Lana Del Rey Featuring The Weeknd,4,2017-05-06,2017-09-16,668,20
+28,You're The Best Thing About Me,U2,5,2017-09-23,2017-12-30,643,15
+29,Lay It On Me,Vance Joy,12,2017-08-05,2017-12-30,642,22
+30,Chain Breaker,Zach Williams,9,2017-01-07,2017-04-08,640,14
+31,Hard Love,NEEDTOBREATHE,12,2017-03-25,2017-10-14,634,23
+32,In The End,Linkin Park,3,2017-08-05,2017-09-09,625,6
+33,Run,Foo Fighters,7,2017-06-17,2017-10-28,622,20
+34,Feels Like Summer,Weezer,12,2017-04-08,2017-10-07,619,25
+35,Testify,NEEDTOBREATHE,14,2017-01-14,2017-05-20,579,19
+36,The Sky Is A Neighborhood,Foo Fighters,11,2017-09-16,2017-12-30,571,16
+37,Ophelia,The Lumineers,7,2017-01-07,2017-02-18,555,7
+38,Love Is Mystical,Cold War Kids,16,2017-02-25,2017-07-08,547,20
+39,Don't Take The Money,Bleachers,12,2017-04-22,2017-09-02,544,20
+40,Help,Papa Roach,15,2017-03-11,2017-07-22,544,20
+41,High,Sir Sly,18,2017-04-15,2017-09-09,536,22
+42,Still Breathing,Green Day,11,2017-01-07,2017-04-08,525,14
+43,Love On The Weekend,John Mayer,7,2017-01-07,2017-04-15,503,15
+44,Good News,Ocean Park Standoff,12,2017-04-01,2017-07-15,492,16
+45,Somebody Else,The 1975,8,2017-01-07,2017-03-11,489,10
+46,Free Fallin',Tom Petty,4,2017-10-21,2017-11-25,477,6
+47,Up All Night,Beck,11,2017-09-30,2017-12-30,461,14
+48,Waste A Moment,Kings Of Leon,9,2017-01-07,2017-03-25,453,12
+49,Saturnz Barz,Gorillaz Featuring Popcaan,5,2017-04-15,2017-07-29,450,15
+50,On Hold,The xx,8,2017-01-07,2017-04-15,445,15
+51,Suit And Jacket,Judah & The Lion,16,2017-06-24,2017-11-11,444,20
+52,How Did You Love,Shinedown,17,2017-01-07,2017-05-13,426,19
+53,My Name Is Human,Highly Suspect,12,2017-01-07,2017-03-25,424,12
+54,The Last Of The Real Ones,Fall Out Boy,5,2017-09-30,2017-12-30,420,14
+55,The Way You Used To Do,Queens Of The Stone Age,15,2017-07-08,2017-11-25,416,20
+56,Immigrant Song,Led Zeppelin,4,2017-04-29,2017-12-30,411,7
+57,Cleopatra,The Lumineers,11,2017-01-07,2017-03-18,409,11
+58,I Won't Back Down,Tom Petty,4,2017-10-21,2017-11-25,401,6
+59,Black Hole Sun,Soundgarden,5,2017-06-03,2017-09-09,394,8
+60,Little One,Highly Suspect,21,2017-07-01,2017-11-18,394,20
+61,No Roots,Alice Merton,9,2017-10-07,2017-12-30,392,13
+62,Highway Tune,Greta Van Fleet,23,2017-08-19,2017-12-30,391,20
+63,Everything Now,Arcade Fire,11,2017-06-24,2017-10-14,389,16
+64,Middle Fingers,MISSIO,18,2017-02-25,2017-06-17,379,17
+65,Cold Cold Cold,Cage The Elephant,22,2017-02-18,2017-07-01,353,20
+66,Vacation,The Dirty Heads,20,2017-07-22,2017-12-23,347,20
+67,Walking The Wire,Imagine Dragons,6,2017-07-08,2017-12-02,334,20
+68,Fire Escape,Andrew McMahon In The Wilderness,21,2017-01-07,2017-04-22,334,16
+69,Dig Down,Muse,21,2017-06-10,2017-09-23,331,16
+70,Go To War,Nothing More,23,2017-09-16,2017-12-30,329,16
+71,She's Out Of Her Mind,Blink-182,17,2017-01-07,2017-03-11,320,10
+72,The Violence,Rise Against,26,2017-05-13,2017-10-21,312,20
+73,Mary Jane's Last Dance,Tom Petty And The Heartbreakers,6,2017-10-21,2017-11-25,309,6
+74,What I've Done,Linkin Park,7,2017-08-05,2017-09-09,300,6
+75,Song #3,Stone Sour,13,2017-05-20,2017-10-21,288,20
+76,The Chain,Fleetwood Mac,7,2017-05-27,2017-07-08,284,7
+77,Ahead Of Myself,X Ambassadors,24,2017-08-12,2017-12-23,284,20
+78,All The Pretty Girls,KALEO,24,2017-01-21,2017-05-13,283,17
+79,Thunderstruck,AC/DC,6,2017-12-09,2017-12-30,281,4
+80,Mr. Blue Sky,Electric Light Orchestra,12,2017-05-27,2017-07-15,278,8
+81,Monster,Starset,27,2017-01-07,2017-05-27,273,19
+82,Andromeda,Gorillaz Featuring D.R.A.M.,9,2017-04-15,2017-07-01,270,10
+83,Lights Out,Royal Blood,28,2017-05-06,2017-10-14,269,19
+84,Not Easy,"Alex Da Kid Featuring X Ambassadors, Elle King & Wiz Khalifa",10,2017-01-07,2017-03-18,262,11
+85,Blame,Bastille,27,2017-02-25,2017-07-08,262,19
+86,Sit Next To Me,Foster The People,17,2017-10-07,2017-12-30,258,13
+87,Good Times,All Time Low,23,2017-09-16,2017-12-09,258,13
+88,Super Far,LANY,24,2017-07-22,2017-11-25,258,16
+89,Champion,Fall Out Boy,10,2017-07-08,2017-10-28,257,15
+90,Want You Back,HAIM,10,2017-05-20,2017-08-05,256,11
+91,Two High,Moon Taxi,26,2017-07-15,2017-12-16,256,20
+92,In The Blood,John Mayer,13,2017-05-06,2017-09-23,252,17
+93,Crawling,Linkin Park,8,2017-08-05,2017-09-09,246,6
+94,Come Together,Gary Clark Jr.,7,2017-11-11,2017-12-30,238,8
+95,"Atlas, Rise!",Metallica,23,2017-01-07,2017-04-01,238,13
+96,Like A Stone,Audioslave,7,2017-06-03,2017-07-01,235,5
+97,Stars,Skillet,20,2017-01-14,2017-04-15,232,14
+98,Wild Horses,Bishop Briggs,21,2017-01-07,2017-03-25,220,12
+99,Go Robot,Red Hot Chili Peppers,26,2017-01-07,2017-03-18,220,11
+100,Square Hammer,Ghost,23,2017-01-07,2017-03-11,219,10
+101,Learning To Fly,Tom Petty And The Heartbreakers,7,2017-10-21,2017-11-11,214,4
+102,The Thunder Rolls,All That Remains,26,2017-08-26,2017-12-30,213,16
+103,Cocoon,Milky Chance,29,2017-01-14,2017-04-29,213,16
+104,Whole Wide World,Cage The Elephant,25,2017-09-16,2017-12-16,212,14
+105,Young And Menace,Fall Out Boy,7,2017-05-13,2017-06-24,208,7
+106,Sleep On The Floor,The Lumineers,22,2017-01-07,2017-02-25,205,8
+107,Let Me Out,Gorillaz Featuring Mavis Staples & Pusha T,7,2017-04-22,2017-05-27,199,6
+108,In Cold Blood,alt-J,19,2017-04-22,2017-07-29,193,13
+109,Let You Down,Seether,25,2017-03-18,2017-07-01,191,16
+110,Somewhere I Belong,Linkin Park,9,2017-08-05,2017-09-02,189,5
+111,Reverend,Kings Of Leon,26,2017-04-22,2017-08-05,188,16
+112,You Don't Know How It Feels,Tom Petty,8,2017-10-21,2017-11-11,181,4
+113,Ascension,Gorillaz Featuring Vince Staples,11,2017-04-15,2017-05-27,180,7
+114,Every Breath You Take,The Police,6,2017-11-18,2017-11-25,179,2
+115,Got It Going On,My Silent Bravery,13,2017-09-16,2017-10-28,174,7
+116,One Step Closer,Linkin Park,14,2017-08-05,2017-09-02,165,5
+117,So Tied Up,Cold War Kids Featuring Bishop Briggs,29,2017-04-08,2017-12-30,163,10
+118,Sweet Disaster,DREAMERS,33,2017-03-25,2017-07-01,159,14
+119,Moving On And Getting Over,John Mayer,8,2017-02-11,2017-05-06,155,6
+120,Alone,I Prevail,25,2017-02-25,2017-11-11,152,15
+121,Still Feel Like Your Man,John Mayer,13,2017-03-18,2017-05-13,150,7
+122,Back In Black,AC/DC,11,2017-12-09,2017-12-30,147,4
+123,Fool,Fitz And The Tantrums,33,2017-07-15,2017-11-11,147,12
+124,Talk Too Much,COIN,28,2017-01-07,2017-03-04,145,9
+125,Cancer,twenty one pilots,16,2017-01-07,2017-02-11,140,6
+126,Hot Thoughts,Spoon,21,2017-02-11,2017-05-13,136,9
+127,The Resistance,Skillet,29,2017-09-23,2017-12-30,135,11
+128,The Cure,Unspoken,35,2017-04-01,2017-08-26,135,16
+129,Midnight Rider,The Allman Brothers Band,9,2017-06-17,2017-07-01,130,3
+130,Trouble,Five Finger Death Punch,10,2017-11-18,2017-12-30,130,6
+131,You Shook Me All Night Long,AC/DC,15,2017-12-09,2017-12-30,129,4
+132,The One Moment,OK Go,9,2017-01-07,2017-01-14,124,2
+133,High And Low,Empire Of The Sun,24,2017-01-07,2017-02-04,122,5
+134,Highway To Hell,AC/DC,18,2017-12-09,2017-12-30,119,4
+135,7,Catfish And The Bottlemen,32,2017-01-07,2017-04-08,119,12
+136,I Apologize,Five Finger Death Punch,20,2017-01-07,2017-01-28,118,4
+137,Hold Me Tight Or Don't,Fall Out Boy,12,2017-12-09,2017-12-30,117,4
+138,Talking To Myself,Linkin Park,13,2017-08-05,2017-09-02,117,5
+139,World Gone Mad,Bastille,18,2017-12-02,2017-12-30,115,5
+140,Live In The Moment,Portugal. The Man,22,2017-12-02,2017-12-30,114,5
+141,We Got The Power,Gorillaz Featuring Jehnny Beth,13,2017-04-15,2017-05-20,112,6
+142,Never Again,Breaking Benjamin,28,2017-02-04,2017-04-29,107,11
+143,Hypnotised,Coldplay,8,2017-03-25,2017-04-08,104,3
+144,Breaking The Habit,Linkin Park,12,2017-08-05,2017-08-19,101,3
+145,Runnin' Down A Dream,Tom Petty,9,2017-10-21,2017-10-28,100,2
+146,Bad Moon Rising,Creedence Clearwater Revival,17,2017-09-09,2017-11-25,97,3
+147,Hymn For The Weekend,Coldplay,6,2017-01-07,2017-01-07,95,1
+148,Black Rose,Volbeat Featuring Danko Jones,30,2017-04-29,2017-07-29,93,10
+149,The Stage,Avenged Sevenfold,30,2017-01-07,2017-02-18,91,7
+150,Johnny B. Goode,Chuck Berry,9,2017-04-08,2017-04-15,90,2
+151,American Dream,Bob Pressner,10,2017-05-06,2017-05-13,90,2
+152,Shine,Mondo Cozmo,40,2017-01-07,2017-04-29,89,14
+153,Good Goodbye,Linkin Park Featuring Pusha T & Stormzy,15,2017-05-06,2017-08-19,88,4
+154,Nimble Bastard,Incubus,28,2017-03-11,2017-05-13,88,9
+155,Tennessee Mountain Top,Kid Rock,10,2017-09-30,2017-12-02,84,5
+156,Told You So,Paramore,16,2017-05-27,2017-06-17,84,4
+157,You're Gonna Live Forever In Me,John Mayer,10,2017-02-11,2017-05-06,83,3
+158,Battle Symphony,Linkin Park,11,2017-04-08,2017-08-12,83,5
+159,Happy Hour,Weezer,33,2017-11-18,2017-12-30,82,6
+160,Po-Dunk,Kid Rock,9,2017-08-05,2017-11-25,80,4
+161,Move,Saint Motel,29,2017-01-07,2017-02-04,80,5
+162,American Girl,Tom Petty And The Heartbreakers,11,2017-10-21,2017-10-28,76,2
+163,Into The Fire,Asking Alexandria,18,2017-10-14,2017-12-30,75,8
+164,Little Of Your Love,HAIM,24,2017-07-15,2017-09-02,75,3
+165,Gone Away,Five Finger Death Punch,11,2017-12-23,2017-12-30,73,2
+166,I Don't Know Why,Imagine Dragons,12,2017-07-15,2017-07-29,73,3
+167,Say Something Loving,The xx,19,2017-01-21,2017-02-11,73,4
+168,Hated,Beartooth,36,2017-02-18,2017-04-22,73,10
+169,Fell On Black Days,Soundgarden,14,2017-06-03,2017-06-10,72,2
+170,Feed The Machine,Nickelback,17,2017-02-18,2017-03-25,71,6
+171,American Dreams,Papa Roach,35,2017-09-23,2017-11-18,70,9
+172,For The Damaged Coda,Blonde Redhead,15,2017-09-30,2017-10-07,68,2
+173,Hunger Strike,Temple Of The Dog,16,2017-06-03,2017-06-10,68,2
+174,Don't Do Me Like That,Tom Petty And The Heartbreakers,13,2017-10-21,2017-10-28,67,2
+175,Spoonman,Soundgarden,18,2017-06-03,2017-06-10,65,2
+176,Alaska,Maggie Rogers,26,2017-01-07,2017-04-01,63,6
+177,I Only Lie When I Love You,Royal Blood,30,2017-12-02,2017-12-30,63,5
+178,Don't Come Around Here No More,Tom Petty And The Heartbreakers,15,2017-10-21,2017-10-28,62,2
+179,Faint,Linkin Park,15,2017-08-12,2017-08-19,62,2
+180,Wildflowers,Tom Petty,16,2017-10-21,2017-10-28,62,2
+181,Rise Up,Imagine Dragons,16,2017-07-15,2017-11-11,62,5
+182,Numb/Encore,Jay-Z/Linkin Park,17,2017-08-05,2017-08-12,61,2
+183,The Doomed,A Perfect Circle,19,2017-11-04,2017-11-25,61,4
+184,Show Me How To Live,Audioslave,20,2017-06-03,2017-06-10,61,2
+185,Judas,Fozzy,35,2017-05-27,2017-12-30,59,9
+186,Seal The Deal,Volbeat,36,2017-01-07,2017-02-11,59,5
+187,I Am The Highway,Audioslave,19,2017-06-03,2017-06-10,58,2
+188,Legend,The Score,42,2017-09-23,2017-12-30,56,9
+189,All I Can Think About Is You,Coldplay,10,2017-07-08,2017-08-05,55,2
+190,Run For Cover,The Killers,22,2017-08-19,2017-12-30,55,4
+191,The Gold,Manchester Orchestra,37,2017-11-25,2017-12-30,55,6
+192,Kill4me,Marilyn Manson,39,2017-10-14,2017-12-30,55,6
+193,The Apprentice,"Gorillaz Featuring Rag'n'Bone Man, Zebra Katz & RAY BLK",18,2017-05-13,2017-05-20,54,2
+194,Now That We're Dead,Metallica,39,2017-06-17,2017-07-29,54,7
+195,Changing,John Mayer,12,2017-02-11,2017-05-06,53,3
+196,Woman,Jesse Larson,10,2017-06-10,2017-06-10,51,1
+197,Come Together,Godsmack,11,2017-03-18,2017-04-15,49,2
+198,Bohemian Rhapsody,Panic! At The Disco,21,2017-01-07,2017-01-14,48,2
+199,Stand By Me,Florence + The Machine,36,2017-01-07,2017-01-28,47,4
+200,Doing It For The Money,Foster The People,37,2017-05-20,2017-07-29,47,6
+201,I'll Make It Up To You,Imagine Dragons,17,2017-07-15,2017-07-22,46,2
+202,Lions,Skillet,34,2017-10-14,2017-12-16,46,6
+203,Dirty Laundry,All Time Low,16,2017-03-11,2017-03-18,43,2
+204,J-Boy,Phoenix,26,2017-05-20,2017-07-08,43,4
+205,Invisible,Linkin Park,32,2017-06-03,2017-08-12,43,3
+206,Legendary,Welshly Arms,39,2017-12-02,2017-12-30,42,5
+207,Lost On You,LP,42,2017-02-18,2017-04-22,42,8
+208,Helpless,John Mayer,21,2017-03-18,2017-05-06,41,2
+209,Landslide,Chloe Kohanski,26,2017-11-18,2017-12-16,41,2
+210,Moth Into Flame,Metallica,35,2017-01-07,2017-01-28,41,4
+211,(Don't Fear) The Reaper,Blue Oyster Cult,11,2017-11-18,2017-11-18,40,1
+212,Strobelite,Gorillaz Featuring Peven Everett,22,2017-05-20,2017-08-26,40,2
+213,Emoji Of A Wave,John Mayer,23,2017-03-18,2017-05-06,40,2
+214,Black Honey,Thrice,37,2017-01-07,2017-01-28,40,4
+215,Werewolves Of London,Warren Zevon,12,2017-11-18,2017-11-18,39,1
+216,Don't Bring Me Down,Tom Petty And The Heartbreakers,12,2017-10-21,2017-10-21,39,1
+217,Tearing Me Up,Bob Moses,40,2017-02-18,2017-04-15,38,6
+218,Here Comes The Sun,The Beatles,14,2017-09-09,2017-09-09,37,1
+219,Call Me,Chloe Kohanski,14,2017-12-23,2017-12-23,37,1
+220,River,Noah Mac,16,2017-12-30,2017-12-30,35,1
+221,Bleed It Out,Linkin Park,16,2017-08-12,2017-08-12,35,1
+222,Less Than,Nine Inch Nails,16,2017-08-05,2017-08-05,35,1
+223,A L I E N S,Coldplay,17,2017-07-29,2017-07-29,34,1
+224,Fox On The Run,Sweet,18,2017-05-27,2017-05-27,33,1
+225,House Of The Rising Sun,The Animals,18,2017-09-09,2017-09-09,33,1
+226,Rosie,John Mayer,18,2017-05-06,2017-05-06,33,1
+227,Papercut,Linkin Park,18,2017-08-12,2017-08-12,33,1
+228,Name For You,The Shins,32,2017-01-28,2017-04-01,33,2
+229,Start Over,Imagine Dragons,19,2017-07-15,2017-07-15,32,1
+230,Scary Love,The Neighbourhood,19,2017-12-30,2017-12-30,32,1
+231,Shadow Of The Day,Linkin Park,19,2017-08-12,2017-08-12,32,1
+232,Cross My Mind,A R I Z O N A,39,2017-09-16,2017-10-07,32,4
+233,Breakdown,Tom Petty And The Heartbreakers,20,2017-10-21,2017-10-21,31,1
+234,Momentz,Gorillaz Featuring De La Soul,20,2017-05-20,2017-05-20,31,1
+235,Get Together,The Youngbloods,20,2017-09-16,2017-09-16,31,1
+236,Ramblin' Man,The Allman Brothers Band,20,2017-06-17,2017-06-17,31,1
+237,Sleeping Powder,Gorillaz,22,2017-07-08,2017-07-15,31,2
+238,Born For Greatness,Papa Roach,34,2017-12-16,2017-12-30,31,3
+239,Centerfold,The J. Geils Band,21,2017-04-29,2017-04-29,30,1
+240,Submission,Gorillaz Featuring Danny Brown & Kelela,21,2017-05-20,2017-05-20,30,1
+241,My Sweet Lord,George Harrison,21,2017-05-27,2017-05-27,30,1
+242,Melissa,The Allman Brothers Band,21,2017-06-17,2017-06-17,30,1
+243,Sweat,The All-American Rejects,21,2017-07-29,2017-07-29,30,1
+244,Here Comes My Girl,Tom Petty And The Heartbreakers,21,2017-10-21,2017-10-21,30,1
+245,3WW,alt-J,22,2017-04-01,2017-06-24,30,2
+246,13 Beaches,Lana Del Rey,27,2017-08-12,2017-08-19,30,2
+247,Leave Out All The Rest,Linkin Park,22,2017-08-12,2017-08-12,29,1
+248,Dear Life,Beck,22,2017-09-16,2017-09-16,29,1
+249,Come A Little Bit Closer,Jay & The Americans,22,2017-05-27,2017-05-27,29,1
+250,With Or Without You,Hunter Plake,22,2017-06-03,2017-06-03,29,1
+251,Burn It Down,Linkin Park,23,2017-08-12,2017-08-12,28,1
+252,Misery,Blink-182,23,2017-04-22,2017-04-22,28,1
+253,You Never Can Tell,Chuck Berry,23,2017-04-08,2017-04-08,28,1
+254,T.N.T.,AC/DC,23,2017-12-09,2017-12-09,28,1
+255,The Night Begins To Shine,B.E.R.,23,2017-08-26,2017-08-26,28,1
+256,Human,Jesse Larson,23,2017-05-20,2017-05-20,28,1
+257,I Was Wrong,Jesse Larson,23,2017-06-03,2017-06-03,28,1
+258,I Dare You,The xx,23,2017-02-04,2017-02-04,28,1
+259,Miracles (Someone Special),Coldplay & Big Sean,23,2017-08-05,2017-08-05,28,1
+260,The System Only Dreams In Total Darkness,The National,31,2017-06-03,2017-09-30,28,2
+261,Take Me,Korn,42,2017-04-01,2017-04-29,28,5
+262,Dangerous,The xx,24,2017-02-04,2017-02-04,27,1
+263,Father And Son,Cat Stevens,24,2017-05-27,2017-05-27,27,1
+264,Maybellene,Chuck Berry,24,2017-04-08,2017-04-08,27,1
+265,New Divide,Linkin Park,24,2017-08-12,2017-08-12,27,1
+266,Outshined,Soundgarden,24,2017-06-10,2017-06-10,27,1
+267,Hells Bells,AC/DC,24,2017-12-09,2017-12-09,27,1
+268,Lips,The xx,25,2017-02-04,2017-02-04,26,1
+269,Into The Great Wide Open,Tom Petty And The Heartbreakers,25,2017-10-21,2017-10-21,26,1
+270,This Is Halloween,Marilyn Manson,25,2017-11-18,2017-11-18,26,1
+271,I'm No Angel,The Gregg Allman Band,25,2017-06-17,2017-06-17,26,1
+272,Say Hello 2 Heaven,Temple Of The Dog,25,2017-06-10,2017-06-10,26,1
+273,Never On The Day You Leave,John Mayer,25,2017-05-06,2017-05-06,26,1
+274,Betray And Degrade,Seether,39,2017-12-02,2017-12-30,26,4
+275,call the police,LCD Soundsystem,26,2017-05-27,2017-05-27,25,1
+276,Get Out Of Your Own Way,U2,33,2017-11-25,2017-12-23,25,2
+277,Nobody Can Save Me,Linkin Park,37,2017-06-10,2017-08-12,25,2
+278,Dream,Bishop Briggs,42,2017-12-09,2017-12-30,25,4
+279,Busted And Blue,Gorillaz,27,2017-05-20,2017-05-20,24,1
+280,In The Air Tonight,Noah Mac,27,2017-12-02,2017-12-02,24,1
+281,Electric Love,Noah Mac,27,2017-12-16,2017-12-16,24,1
+282,Rose-Colored Boy,Paramore,27,2017-06-03,2017-06-03,24,1
+283,Unstoppable,The Score,35,2017-01-21,2017-11-11,24,3
+284,Kamikaze,WALK THE MOON,28,2017-12-02,2017-12-02,23,1
+285,Charger,Gorillaz Featuring Grace Jones,28,2017-05-20,2017-05-20,23,1
+286,Creature Comfort,Arcade Fire,28,2017-07-08,2017-07-08,23,1
+287,I Hate Myself For Loving You,Halestorm,28,2017-01-21,2017-01-21,23,1
+288,Love Falls,HellYeah,43,2017-10-28,2017-11-18,23,4
+289,What Would It Take,Anderson East,29,2017-03-04,2017-03-04,22,1
+290,Beautiful People Beautiful Problems,Lana Del Rey Featuring Stevie Nicks,29,2017-08-12,2017-08-12,22,1
+291,We Can Always Come Back To This,Hannah Miller,29,2017-03-11,2017-03-11,22,1
+292,Bring Me To Life (Synthesis),Evanescence,31,2017-09-09,2017-12-02,22,2
+293,Roll It On Home,John Mayer,33,2017-03-18,2017-05-06,22,2
+294,Mouth Of The River,Imagine Dragons,30,2017-07-15,2017-07-15,21,1
+295,Like Gold,Vance Joy,30,2017-11-25,2017-11-25,21,1
+296,Los Ageless,St. Vincent,37,2017-09-30,2017-11-04,21,2
+297,All Around You,Sturgill Simpson,31,2017-03-04,2017-03-04,20,1
+298,Where's The Revolution,Depeche Mode,31,2017-02-25,2017-02-25,20,1
+299,Wild Love,Elle King,31,2017-04-01,2017-04-01,20,1
+300,Yesterday,Imagine Dragons,31,2017-07-15,2017-07-15,20,1
+301,Show Yourself,Mastodon,37,2017-04-22,2017-04-29,20,2
+302,My Mind Is For Sale,Jack Johnson,40,2017-08-05,2017-09-30,20,2
+303,Little Dark Age,MGMT,32,2017-11-11,2017-11-11,19,1
+304,By Your Side,The 1975,32,2017-03-18,2017-03-18,19,1
+305,Back In The USA,Green Day,32,2017-12-09,2017-12-09,19,1
+306,A Violent Noise,The xx,32,2017-02-04,2017-02-04,19,1
+307,Fake Happy,Paramore,33,2017-06-03,2017-06-03,18,1
+308,Terryfold,Chaos Chaos Featuring Justin Roiland,33,2017-09-23,2017-09-23,18,1
+309,Last Young Renegade,All Time Low,33,2017-04-15,2017-04-15,18,1
+310,I Give You Power,Arcade Fire Featuring Mavis Staples,33,2017-02-11,2017-02-11,18,1
+311,Go Fuck Yourself,Two Feet,36,2017-12-23,2017-12-30,18,2
+312,Oh Devil,Electric Guest Featuring Devin Di Dakta,45,2017-07-22,2017-12-30,18,5
+313,Let's Go Crazy,Jesse Larson & Adam Levine,34,2017-06-10,2017-06-10,17,1
+314,Parking Lot,Blink-182,34,2017-04-08,2017-04-08,17,1
+315,Die Young,Sylvan Esso,34,2017-03-25,2017-03-25,17,1
+316,Speak To Me,Amy Lee,35,2017-04-08,2017-04-08,16,1
+317,Ordinary World,Noah Mac,35,2017-12-23,2017-12-23,16,1
+318,Forgiveness,Paramore,35,2017-06-03,2017-06-03,16,1
+319,Passion,AWOLNATION,35,2017-11-04,2017-11-04,16,1
+320,Loser,Falling In Reverse,35,2017-02-11,2017-02-11,16,1
+321,Replica,The xx,36,2017-02-04,2017-02-04,15,1
+322,Good Girls,LANY,36,2017-03-25,2017-03-25,15,1
+323,She's My Collar,Gorillaz Featuring Kali Uchis,36,2017-05-20,2017-05-20,15,1
+324,Eternally Yours,Motionless In White,36,2017-02-18,2017-02-18,15,1
+325,Ultralife,Oh Wonder,36,2017-04-22,2017-04-22,15,1
+326,We Fight,Dashboard Confessional,36,2017-12-09,2017-12-09,15,1
+327,Dancing In The Dark,Imagine Dragons,36,2017-07-15,2017-07-15,15,1
+328,Song On Fire,Nickelback,39,2017-05-20,2017-07-08,15,2
+329,The Line,Foo Fighters,41,2017-09-30,2017-10-07,15,2
+330,Hardwired,Metallica,42,2017-01-07,2017-01-14,15,2
+331,Performance,The xx,37,2017-02-04,2017-02-04,14,1
+332,"Theme From ""The Search For Everything""",John Mayer,37,2017-05-06,2017-05-06,14,1
+333,We Don't Know,The Strumbellas,46,2017-01-07,2017-01-21,14,3
+334,Some Kind Of Love,The Killers,38,2017-10-14,2017-10-14,13,1
+335,Edge Of Darkness,Greta Van Fleet,38,2017-12-02,2017-12-02,13,1
+336,One Of Us,New Politics,40,2017-07-22,2017-07-29,13,2
+337,Greatest Show On Earth,Kid Rock,39,2017-08-05,2017-08-05,12,1
+338,List Of People (To Try And Forget About),Tame Impala,39,2017-12-09,2017-12-09,12,1
+339,Imperfection,Evanescence,39,2017-12-02,2017-12-02,12,1
+340,So Close,Andrew McMahon In The Wilderness,40,2017-01-28,2017-01-28,11,1
+341,Day I Die,The National,40,2017-09-30,2017-09-30,11,1
+342,The Promise,Chris Cornell,40,2017-04-01,2017-04-01,11,1
+343,Stuck In Your Head,I Prevail,40,2017-02-25,2017-02-25,11,1
+344,Tomorrow Never Came,Lana Del Rey Featuring Sean Ono Lennon,40,2017-08-12,2017-08-12,11,1
+345,Feet Don't Fail Me,Queens Of The Stone Age,41,2017-09-16,2017-09-16,10,1
+346,To Be Without You,Ryan Adams,41,2017-01-14,2017-01-14,10,1
+347,We Know Where You Fucking Live,Marilyn Manson,41,2017-10-07,2017-10-07,10,1
+348,Sorry For Now,Linkin Park,41,2017-06-10,2017-06-10,10,1
+349,Brave For You,The xx,41,2017-02-04,2017-02-04,10,1
+350,Colors,Beck,41,2017-11-04,2017-11-04,10,1
+351,Carnival,Gorillaz Featuring Anthony Hamilton,42,2017-05-20,2017-05-20,9,1
+352,Sure And Certain,Jimmy Eat World,45,2017-01-07,2017-01-14,9,2
+353,Battles,The Afters,46,2017-01-21,2017-01-28,9,2
+354,Parachute,Neck Deep,43,2017-09-09,2017-09-09,8,1
+355,Bang Bang,Green Day,43,2017-01-07,2017-01-07,8,1
+356,After The Rain,Nickelback,43,2017-07-08,2017-07-08,8,1
+357,american dream,LCD Soundsystem,43,2017-05-27,2017-05-27,8,1
+358,Levitate,Imagine Dragons,43,2017-01-14,2017-01-14,8,1
+359,Whatever It Takes,Hollywood Undead,44,2017-09-16,2017-09-23,8,2
+360,Right Now,HAIM,44,2017-06-03,2017-06-03,7,1
+361,New York,St. Vincent,44,2017-07-22,2017-07-22,7,1
+362,Homecoming,Josh Ritter,44,2017-05-27,2017-05-27,7,1
+363,The Evil Has Landed,Queens Of The Stone Age,44,2017-09-02,2017-09-02,7,1
+364,Do You Still Love Me?,Ryan Adams,44,2017-03-11,2017-03-11,7,1
+365,On + Off,Maggie Rogers,44,2017-02-11,2017-02-11,7,1
+366,Pills,St. Vincent,44,2017-11-04,2017-11-04,7,1
+367,Take What You Want,ONE OK ROCK Featuring 5 Seconds Of Summer,44,2017-02-04,2017-02-04,7,1
+368,Safari Song,Greta Van Fleet,44,2017-12-02,2017-12-02,7,1
+369,Third Of May / Odaigahara,Fleet Foxes,45,2017-04-01,2017-04-01,6,1
+370,Roll Up,Fitz And The Tantrums,47,2017-02-18,2017-02-25,6,2
+371,Signs Of Life,Arcade Fire,46,2017-07-22,2017-07-22,5,1
+372,Angel From Montgomery,Addison Agen,46,2017-12-02,2017-12-02,5,1
+373,Girl You Think You Know,My Silent Bravery,46,2017-12-30,2017-12-30,5,1
+374,Halfway Right,Linkin Park,46,2017-08-12,2017-08-12,5,1
+375,California Dreaming,Hollywood Undead,46,2017-08-19,2017-08-19,5,1
+376,Sex Murder Party,Gorillaz Featuring Jamie Principle & Zebra Katz,47,2017-05-20,2017-05-20,4,1
+377,26,Paramore,47,2017-06-03,2017-06-03,4,1
+378,Waves,Dean Lewis,47,2017-10-07,2017-10-07,4,1
+379,Bruises,Lewis Capaldi,47,2017-12-30,2017-12-30,4,1
+380,Must Be Nice,Nickelback,47,2017-06-24,2017-06-24,4,1
+381,Unbreakable,Of Mice & Men,47,2017-05-13,2017-05-13,4,1
+382,Get Free,Lana Del Rey,47,2017-08-12,2017-08-12,4,1
+383,I Promise,Radiohead,48,2017-06-24,2017-06-24,3,1
+384,Takin' It To The Streets,Jesse Larson,48,2017-06-10,2017-06-10,3,1
+385,Lifetimes,Oh Wonder,48,2017-04-29,2017-04-29,3,1
+386,Silvertongue,Young The Giant,48,2017-04-01,2017-04-01,3,1
+387,24/7,The Neighbourhood,49,2017-10-14,2017-10-14,2,1
+388,American Soul,U2,49,2017-12-23,2017-12-23,2,1
+389,Basket Case,Bastille,49,2017-09-16,2017-09-16,2,1
+390,Too Much To Think,311,49,2017-04-01,2017-04-01,2,1
+391,Ricochet,Starset,49,2017-01-28,2017-01-28,2,1
+392,Ran,Future Islands,49,2017-04-29,2017-04-29,2,1
+393,A 1000 Times,Hamilton Leithauser + Rostam,49,2017-05-13,2017-05-13,2,1
+394,Where Did It Go?,Asking Alexandria,50,2017-11-18,2017-11-18,1,1
+395,Wonderful Wonderful,The Killers,50,2017-10-14,2017-10-14,1,1
+396,Living On The 110,Prophets Of Rage,50,2017-10-07,2017-10-07,1,1
+397,Roller Coaster,Bon Jovi,50,2017-04-08,2017-04-08,1,1
+398,In Hell I'll Be In Good Company,The Dead South,50,2017-04-15,2017-04-15,1,1
+399,Hate That You Know Me,Bleachers,50,2017-05-13,2017-05-13,1,1
+400,Blue Christmas,The Lumineers,50,2017-01-07,2017-01-07,1,1
+401,SHC,Foster The People,50,2017-05-20,2017-05-20,1,1
+402,Pool,Paramore,50,2017-06-03,2017-06-03,1,1
+403,Revolution,The Score,50,2017-02-11,2017-02-11,1,1

@@ -1,0 +1,336 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Hard Rock Bottom Of Your Heart,Randy Travis,1,1990-01-27,1990-07-21,2388,26
+2,"Love Without End, Amen",George Strait,1,1990-04-28,1990-09-15,2292,21
+3,Walkin' Away,Clint Black,1,1990-03-10,1990-08-25,2254,25
+4,Love On Arrival,Dan Seals,1,1990-02-17,1990-08-11,2154,26
+5,I've Cried My Last Tear For You,Ricky Van Shelton,1,1990-03-03,1990-08-25,2149,26
+6,Chains,Patty Loveless,1,1990-01-20,1990-06-30,2086,24
+7,Help Me Hold On,Travis Tritt,1,1990-02-24,1990-08-18,2085,26
+8,Friends In Low Places,Garth Brooks,1,1990-08-18,1990-12-29,2045,20
+9,Five Minutes,Lorrie Morgan,1,1990-02-03,1990-07-28,2019,26
+10,The Dance,Garth Brooks,1,1990-04-21,1990-09-22,2013,23
+11,Here In The Real World,Alan Jackson,3,1990-01-20,1990-07-07,1994,25
+12,I'm Over You,Keith Whitley,3,1990-02-24,1990-08-25,1952,27
+13,Not Counting You,Garth Brooks,2,1990-01-20,1990-07-07,1946,25
+14,Jukebox In My Mind,Alabama,1,1990-07-28,1990-12-08,1941,20
+15,Stranger Things Have Happened,Ronnie Milsap,2,1990-02-10,1990-08-04,1937,26
+16,No Matter How High,The Oak Ridge Boys,1,1990-01-20,1990-06-09,1904,21
+17,Seein' My Father In Me,Paul Overstreet,2,1990-01-20,1990-06-30,1902,24
+18,On Second Thought,Eddie Rabbitt,1,1990-01-20,1990-06-02,1855,20
+19,He Walked On Water,Randy Travis,2,1990-05-12,1990-09-29,1802,21
+20,"Next To You, Next To Me",Shenandoah,1,1990-06-09,1990-10-27,1770,21
+21,Good Times,Dan Seals,1,1990-06-02,1990-10-27,1756,22
+22,Southern Star,Alabama,1,1990-01-20,1990-06-02,1748,20
+23,I'd Be Better Off (In A Pine Box),Doug Stone,4,1990-02-24,1990-08-25,1734,27
+24,Pass It On Down,Alabama,3,1990-04-28,1990-09-15,1724,21
+25,You Lie,Reba McEntire,1,1990-08-18,1990-12-29,1703,20
+26,Walk On,Reba McEntire,2,1990-04-14,1990-09-01,1699,21
+27,Nothing's News,Clint Black,3,1990-06-30,1990-11-24,1683,22
+28,Wanted,Alan Jackson,3,1990-06-16,1990-11-10,1639,22
+29,Walking Shoes,Tanya Tucker,3,1990-03-24,1990-08-25,1634,23
+30,Holdin' A Good Hand,Lee Greenwood,2,1990-06-30,1990-11-24,1624,22
+31,I'm Gonna Be Somebody,Travis Tritt,2,1990-06-09,1990-11-03,1610,22
+32,"Walkin', Talkin', Cryin', Barely Beatin' Broken Heart",Highway 101,4,1990-02-03,1990-08-04,1600,27
+33,I Meant Every Word He Said,Ricky Van Shelton,2,1990-06-30,1990-11-17,1588,21
+34,Just As Long As I Have You,Don Williams,4,1990-01-27,1990-07-21,1582,26
+35,Too Cold At Home,Mark Chesnutt,3,1990-08-04,1990-12-15,1576,20
+36,When I Call Your Name,Vince Gill,2,1990-05-19,1990-10-13,1568,22
+37,Nobody's Home,Clint Black,1,1990-01-20,1990-05-12,1556,17
+38,Home,Joe Diffie,1,1990-08-11,1990-12-29,1554,21
+39,She Came From Fort Worth,Kathy Mattea,2,1990-03-31,1990-08-25,1549,22
+40,Statue Of A Fool,Ricky Van Shelton,2,1990-01-20,1990-05-19,1502,18
+41,Fast Movin' Train,Restless Heart,4,1990-01-20,1990-06-09,1456,21
+42,On Down The Line,Patty Loveless,5,1990-05-12,1990-10-06,1446,22
+43,Nobody's Talking,Exile,2,1990-04-14,1990-09-01,1418,21
+44,Dancy's Dream,Restless Heart,5,1990-04-07,1990-09-08,1408,23
+45,I Fell In Love,Carlene Carter,3,1990-07-07,1990-12-01,1381,22
+46,If You Could Only See Me Now,T. Graham Brown,6,1990-03-24,1990-08-25,1373,23
+47,I Watched It All (On My Radio),Lionel Cartwright,8,1990-03-10,1990-08-25,1359,25
+48,See If I Care,Shenandoah,6,1990-02-10,1990-08-11,1340,27
+49,You Really Had Me Going,Holly Dunn,1,1990-08-18,1990-12-29,1334,20
+50,Quittin' Time,Mary Chapin Carpenter,7,1990-01-20,1990-06-30,1320,24
+51,If Looks Could Kill,Rodney Crowell,6,1990-03-03,1990-08-25,1319,26
+52,Dumas Walker,The Kentucky Headhunters,15,1990-02-10,1990-08-18,1318,28
+53,Sooner Or Later,Eddy Raven,6,1990-01-20,1990-06-16,1317,22
+54,He Talks To Me,Lorrie Morgan,4,1990-05-19,1990-10-13,1312,22
+55,Wrong,Waylon Jennings,5,1990-05-19,1990-10-13,1304,22
+56,Crazy In Love,Conway Twitty,2,1990-09-08,1990-12-29,1296,17
+57,Back In My Younger Days,Don Williams,2,1990-09-15,1990-12-29,1294,16
+58,The Domino Theory,Steve Wariner,7,1990-03-10,1990-08-25,1289,25
+59,Richest Man On Earth,Paul Overstreet,3,1990-05-19,1990-10-06,1286,21
+60,Drinking Champagne,George Strait,4,1990-08-11,1990-12-29,1279,21
+61,Fourteen Minutes Old,Doug Stone,6,1990-07-07,1990-12-01,1268,22
+62,Chasin' That Neon Rainbow,Alan Jackson,2,1990-10-06,1990-12-29,1248,13
+63,Come Next Monday,K.T. Oslin,1,1990-09-29,1990-12-29,1242,14
+64,Fool Such As I,Baillie And The Boys,5,1990-08-04,1990-12-29,1229,22
+65,Don't Go Out,Tanya Tucker With T. Graham Brown,6,1990-06-23,1990-11-10,1214,21
+66,Little Girl,Reba McEntire,7,1990-01-20,1990-06-16,1210,22
+67,Born To Be Blue,The Judds,5,1990-08-04,1990-12-29,1201,22
+68,Oh Lonesome Me,The Kentucky Headhunters,8,1990-05-26,1990-10-20,1180,22
+69,My Arms Stay Open All Night,Tanya Tucker,2,1990-01-20,1990-04-21,1161,14
+70,Precious Thing,Steve Wariner,8,1990-07-14,1990-12-01,1143,21
+71,Runnin' With The Wind,Eddie Rabbitt,8,1990-03-31,1990-08-25,1125,22
+72,Hillbilly Rock,Marty Stuart,8,1990-04-14,1990-09-15,1115,23
+73,I Could Be Persuaded,The Bellamy Brothers,7,1990-06-23,1990-11-17,1113,22
+74,Right In The Wrong Direction,Vern Gosdin,10,1990-02-03,1990-07-28,1113,26
+75,Black Velvet,Robin Lee,12,1990-03-03,1990-08-25,1108,26
+76,Start All Over Again,The Desert Rose Band,6,1990-01-20,1990-04-28,1096,15
+77,I've Come To Expect It From You,George Strait,1,1990-11-03,1990-12-29,1093,9
+78,Ghost In This House,Shenandoah,5,1990-10-06,1990-12-29,1091,13
+79,Black Coffee,Lacy J. Dalton,15,1990-03-10,1990-08-25,1089,25
+80,Oklahoma Swing,Vince Gill With Reba,13,1990-01-20,1990-07-14,1067,26
+81,Island,Eddy Raven,10,1990-04-14,1990-09-08,1060,22
+82,Feed This Fire,Anne Murray,5,1990-08-11,1990-12-29,1058,21
+83,Leave It Alone,The Forester Sisters,7,1990-01-20,1990-05-19,1053,18
+84,Bring Back Your Love To Me,Earl Thomas Conley,11,1990-02-17,1990-07-21,1043,23
+85,In Another Lifetime,The Desert Rose Band,13,1990-03-17,1990-08-25,1040,24
+86,Overnight Success,George Strait,8,1990-01-20,1990-05-26,1031,19
+87,"Good Friends, Good Whiskey, Good Lovin'",Hank Williams Jr.,10,1990-05-19,1990-10-06,1030,21
+88,The Battle Hymn Of Love,Kathy Mattea & Tim O'Brien,9,1990-07-14,1990-12-01,1028,21
+89,When I Could Come Home To You,Steve Wariner,5,1990-01-20,1990-04-14,1002,13
+90,Put Yourself In My Shoes,Clint Black,4,1990-10-27,1990-12-29,993,10
+91,This Side Of Goodbye,Highway 101,11,1990-05-19,1990-10-13,986,22
+92,Never Knew Lonely,Vince Gill,3,1990-09-29,1990-12-29,966,14
+93,Guardian Angels,The Judds,16,1990-03-31,1990-08-18,966,21
+94,My Heart Is Set On You,Lionel Cartwright,7,1990-07-21,1990-12-08,964,21
+95,A Few Ole Country Boys,Randy Travis & George Jones,8,1990-09-08,1990-12-29,963,17
+96,Where've You Been,Kathy Mattea,10,1990-01-20,1990-05-19,945,18
+97,Yet,Exile,7,1990-09-01,1990-12-29,926,18
+98,'Til A Tear Becomes A Rose,Keith Whitley & Lorrie Morgan,13,1990-07-28,1990-12-08,913,20
+99,Back Where I Come From,Mac McAnally,14,1990-02-03,1990-06-23,905,21
+100,Tell Me Why,Jann Browne,18,1990-01-20,1990-05-19,904,18
+101,One Man Woman,The Judds,8,1990-01-20,1990-05-19,894,18
+102,Unanswered Prayers,Garth Brooks,2,1990-11-03,1990-12-29,880,9
+103,Searchin' For Some Kind Of Clue,Billy Joe Royal,17,1990-05-05,1990-09-29,873,22
+104,Heartbreak Hurricane,Ricky Skaggs,13,1990-01-20,1990-06-02,872,20
+105,I Can't Turn The Tide,Baillie And The Boys,9,1990-01-20,1990-04-28,869,15
+106,Keep It In The Middle Of The Road,Exile,17,1990-01-20,1990-06-02,869,20
+107,Story Of Love,The Desert Rose Band,10,1990-07-21,1990-12-01,861,20
+108,Ain't Nobody's Business,Hank Williams Jr.,15,1990-02-10,1990-09-01,855,19
+109,Something Of A Dreamer,Mary Chapin Carpenter,14,1990-06-09,1990-11-03,836,22
+110,This Ain't My First Rodeo,Vern Gosdin,14,1990-08-18,1990-12-29,771,20
+111,Maybe That's All It Takes,Don Williams,22,1990-06-09,1990-11-03,721,22
+112,Western Girls,Marty Stuart,20,1990-09-01,1990-12-29,691,18
+113,He Was On To Something,Ricky Skaggs,25,1990-08-25,1990-12-29,691,19
+114,American Boy,Eddie Rabbitt,11,1990-09-29,1990-12-29,686,14
+115,Someone Else's Trouble Now,Highway 101,14,1990-09-22,1990-12-29,673,15
+116,Hummingbird,Ricky Skaggs,20,1990-04-14,1990-09-01,664,18
+117,It's You Again,Skip Ewing,6,1990-01-20,1990-03-31,651,11
+118,It Ain't Nothin',Keith Whitley,5,1990-01-20,1990-04-07,637,12
+119,Love Is Strange,Kenny Rogers & Dolly Parton,21,1990-08-11,1990-12-29,636,21
+120,Ain't Necessarily So,Willie Nelson,17,1990-09-29,1990-12-29,629,14
+121,Mister DJ,The Charlie Daniels Band,34,1990-02-10,1990-06-23,616,20
+122,I'll Lie Myself To Sleep,Shelby Lynne,26,1990-06-02,1990-10-20,607,21
+123,Life's Little Ups And Downs,Ricky Van Shelton,8,1990-03-24,1990-12-29,603,11
+124,Silver Stallion,"Waylon, Willie, Johnny & Kris",25,1990-02-10,1990-06-02,598,16
+125,Moonshadow Road,T. Graham Brown,18,1990-09-15,1990-12-29,594,16
+126,Perfect,Baillie And The Boys,23,1990-04-07,1990-07-14,593,15
+127,Honky Tonk Blues,Pirates Of The Mississippi,26,1990-07-21,1990-12-08,572,21
+128,My Past Is Present,Rodney Crowell,22,1990-07-07,1990-10-20,568,16
+129,Many A Long & Lonesome Highway,Rodney Crowell,8,1990-01-20,1990-04-07,560,12
+130,Looks Aren't Everything,Mark Collie,35,1990-05-26,1990-10-27,554,23
+131,Forever's As Far As I'll Go,Alabama,7,1990-11-17,1990-12-29,539,7
+132,The Night's Too Long,Patty Loveless,20,1990-09-22,1990-12-29,539,15
+133,When Somebody Loves You,Restless Heart,21,1990-08-25,1990-12-15,530,17
+134,New Kind Of Love,Michelle Wright,32,1990-05-19,1990-10-20,529,23
+135,That Just About Does It,Vern Gosdin,9,1990-01-20,1990-03-24,523,10
+136,Fit To Be Tied Down,Conway Twitty,30,1990-04-07,1990-07-14,522,15
+137,A Woman In Love,Ronnie Milsap,17,1990-01-20,1990-03-17,519,9
+138,This Heart,Sweethearts Of The Rodeo,25,1990-02-03,1990-05-05,506,14
+139,Maybe,Kenny Rogers (With Holly Dunn),25,1990-02-17,1990-05-12,503,13
+140,Rock 'N' Roll Angel,The Kentucky Headhunters,23,1990-10-13,1990-12-29,488,12
+141,Puttin' The Dark Back Into The Night,Sawyer Brown,33,1990-05-05,1990-09-01,487,17
+142,I Go To Pieces,Southern Pacific,31,1990-03-31,1990-07-07,480,15
+143,Did It For Love,Sawyer Brown,33,1990-02-03,1990-05-26,480,17
+144,White Limozeen,Dolly Parton,29,1990-05-05,1990-07-28,457,13
+145,Who's Lonely Now,Highway 101,18,1990-01-20,1990-03-31,454,11
+146,Time's Up,Southern Pacific & Carlene Carter,26,1990-01-20,1990-03-31,452,11
+147,Reckless Heart,Southern Pacific,32,1990-08-04,1990-11-24,450,17
+148,Two Dozen Roses,Shenandoah,21,1990-01-20,1990-03-10,449,8
+149,It Won't Be Me,Tanya Tucker,11,1990-10-20,1990-12-29,444,11
+150,Put Some Drive In Your Country,Travis Tritt,28,1990-09-22,1990-12-29,444,15
+151,Till I Can't Take It Anymore,Billy Joe Royal,14,1990-01-20,1990-03-24,438,10
+152,Out Of Your Shoes,Lorrie Morgan,11,1990-01-20,1990-03-03,425,7
+153,If You Want To Be My Woman,Merle Haggard,23,1990-01-20,1990-03-17,420,9
+154,I've Been Loved By The Best,Don Williams,23,1990-01-20,1990-03-10,419,8
+155,You Win Again,Mary Chapin Carpenter,18,1990-10-20,1990-12-29,415,11
+156,Is It Love,Foster & Lloyd,43,1990-04-07,1990-07-07,406,14
+157,"Turn It On, Turn It Up, Turn Me Loose",Dwight Yoakam,16,1990-10-20,1990-12-29,398,11
+158,Come On Back,Carlene Carter,12,1990-10-27,1990-12-29,395,10
+159,Go Down Swingin',Wild Rose,38,1990-01-20,1990-04-21,393,14
+160,In My Eyes,Lionel Cartwright,13,1990-01-20,1990-03-03,382,7
+161,Till I See You Again,Kevin Welch,39,1990-05-05,1990-08-04,374,14
+162,If Tomorrow Never Comes,Garth Brooks,22,1990-01-20,1990-03-03,373,7
+163,Time For Me To Fly,Dolly Parton,39,1990-02-03,1990-04-14,372,11
+164,Now That We're Alone,Rodney Crowell,23,1990-10-20,1990-12-29,370,11
+165,There You Are,Willie Nelson,19,1990-01-20,1990-03-31,368,11
+166,There Goes My Heart Again,Holly Dunn,29,1990-01-20,1990-03-17,355,9
+167,Dance In Circles,Tim Ryan,42,1990-07-07,1990-11-24,353,21
+168,"Baby, Walk On",Matraca Berg,36,1990-05-26,1990-09-01,347,13
+169,"She's Gone, Gone, Gone",Glen Campbell,27,1990-01-20,1990-03-24,344,10
+170,It's Just A Matter Of Time,Randy Travis,33,1990-01-20,1990-03-17,339,9
+171,A Few Good Things Remain,Kathy Mattea,15,1990-11-10,1990-12-29,336,8
+172,A Ring Where A Ring Used To Be,Billy Joe Royal,33,1990-09-15,1990-12-29,334,16
+173,We've Got It Made,Lee Greenwood,24,1990-10-27,1990-12-29,322,10
+174,The Highway,Willie Nelson,52,1990-02-17,1990-05-19,317,14
+175,The Things You Left Undone,Matraca Berg,36,1990-09-01,1990-12-15,316,16
+176,When It's Gone,Nitty Gritty Dirt Band,26,1990-01-20,1990-03-31,310,11
+177,Lonely Out Tonite,Eddie Rabbitt,32,1990-07-28,1990-09-29,310,10
+178,What We Really Want,Rosanne Cash,39,1990-09-29,1990-12-08,295,11
+179,These Lips Don't Know How To Say Goodbye,Doug Stone,21,1990-11-10,1990-12-29,284,8
+180,Oughta Be A Law,Lee Roy Parnell,54,1990-06-09,1990-09-22,282,16
+181,When Love Comes Callin',Sawyer Brown,40,1990-10-06,1990-12-29,279,13
+182,Rumor Has It,Reba McEntire,13,1990-12-01,1990-12-29,260,5
+183,Simple Man,The Charlie Daniels Band,40,1990-01-20,1990-04-07,260,12
+184,Daddy's Come Around,Paul Overstreet,14,1990-11-24,1990-12-29,255,6
+185,Something With A Ring To It,Mark Collie,54,1990-02-03,1990-04-21,243,12
+186,You've Got To Stand For Something,Aaron Tippin,32,1990-11-03,1990-12-29,239,9
+187,All The Fun,Paul Overstreet,30,1990-01-20,1990-02-17,231,5
+188,Brother Jukebox,Mark Chesnutt,19,1990-11-24,1990-12-29,230,6
+189,Country Club,Travis Tritt,39,1990-01-20,1990-02-24,223,6
+190,Knowin' You Were Leavin',Les Taylor,58,1990-04-07,1990-06-30,220,13
+191,Things Are Tough All Over,Shelby Lynne,41,1990-10-27,1990-12-29,215,10
+192,Love Will Bring Her Around,Rob Crosby,34,1990-11-10,1990-12-29,211,8
+193,Yellow Roses,Dolly Parton,34,1990-01-20,1990-02-17,206,5
+194,Don't Give Us A Reason,Hank Williams Jr.,27,1990-09-15,1990-10-20,204,6
+195,The Lonely Side Of Love,Patty Loveless,45,1990-01-20,1990-03-03,198,7
+196,Bordertown,Dan Seals,49,1990-10-13,1990-12-15,197,10
+197,A Bottle Of Wine And Patsy Cline,Marsha Thornton,59,1990-02-03,1990-04-14,196,10
+198,Walk On Faith,Mike Reid,31,1990-11-24,1990-12-29,191,6
+199,"Goodbye, So Long, Hello",Prairie Oyster,62,1990-02-24,1990-05-19,185,12
+200,Crocodile Tears,Lee Roy Parnell,59,1990-02-10,1990-05-05,183,13
+201,The Race Is On,Sawyer Brown,44,1990-01-20,1990-02-24,182,6
+202,Small Small World,The Statler Brothers,54,1990-06-09,1990-09-15,182,15
+203,Praying For Rain,Kevin Welch,49,1990-10-20,1990-12-29,175,11
+204,If Your Heart Should Ever Roll This Way Again,Jo-El Sonnier,36,1990-01-20,1990-02-17,173,5
+205,There For A While,Steve Wariner,40,1990-11-10,1990-12-29,173,8
+206,The Vows Go Unbroken (Always True To You),Kenny Rogers,42,1990-01-20,1990-02-17,173,5
+207,Amy's Eyes,Charley Pride,50,1990-01-20,1990-02-24,169,6
+208,Work Song,Corbin/Hanner,55,1990-07-07,1990-09-29,167,12
+209,Love Can Build A Bridge,The Judds,28,1990-12-08,1990-12-29,161,4
+210,She's A Little Past Forty,Ronnie McDowell,56,1990-01-20,1990-03-10,161,8
+211,(You're My) Soul And Inspiration,The Oak Ridge Boys,36,1990-12-01,1990-12-29,160,5
+212,Walkin' In The Sun,Glen Campbell,61,1990-03-03,1990-05-05,158,10
+213,Cowboy Logic,Michael Martin Murphey,52,1990-09-01,1990-11-17,155,12
+214,You Made Life Good Again,Nitty Gritty Dirt Band,60,1990-09-01,1990-12-29,147,18
+215,One Step Over The Line,N.G.D.B. Feat. Cash & Hiatt,63,1990-02-03,1990-04-07,147,9
+216,Like A Hurricane,Marie Osmond,57,1990-10-13,1990-12-15,143,10
+217,From Small Things (Big Things One Day Come),Nitty Gritty Dirt Band,65,1990-05-26,1990-07-21,141,9
+218,What A Way To Go,Ray Kennedy,42,1990-11-17,1990-12-29,139,7
+219,Drive South,The Forester Sisters With The Bellamy Brothers,63,1990-04-07,1990-05-26,136,8
+220,Who's Gonna Know,Conway Twitty,54,1990-01-20,1990-02-24,135,6
+221,Never Had It So Good,Mary Chapin Carpenter,55,1990-01-20,1990-02-24,132,6
+222,Who's Gonna Tell Her Goodbye,Earl Thomas Conley,61,1990-06-30,1990-09-01,131,9
+223,The Great Divide,Gene Watson,63,1990-01-20,1990-03-10,131,8
+224,The Scene Of The Crime,Jo-El Sonnier,65,1990-03-10,1990-05-12,126,9
+225,Can't Have Nothin',Foster & Lloyd,46,1990-11-24,1990-12-29,125,6
+226,Bayou Boys,Eddy Raven,43,1990-01-20,1990-02-10,123,4
+227,Til Love Comes Again,Reba McEntire,54,1990-01-20,1990-02-24,123,6
+228,A Few More Rednecks,The Charlie Daniels Band,56,1990-07-21,1990-09-22,118,10
+229,Keepin' Me Up Nights,Asleep At The Wheel,54,1990-07-28,1990-09-22,114,9
+230,Boogie And Beethoven,The Gatlin Brothers,65,1990-07-07,1990-09-08,114,10
+231,I Don't Hurt Anymore,Prairie Oyster,70,1990-06-09,1990-07-28,113,8
+232,High Cotton,Alabama,38,1990-01-20,1990-02-03,111,3
+233,Let's Call It A Day Today,Tammy Wynette,57,1990-08-11,1990-10-20,101,11
+234,Hollywood Squares,George Strait,67,1990-03-03,1990-04-21,99,8
+235,Say It's Not True,Lionel Cartwright,50,1990-12-01,1990-12-29,97,5
+236,When It Rains It Pours,Merle Haggard,60,1990-08-11,1990-10-06,94,9
+237,My Anniversary For Being A Fool,Holly Dunn,63,1990-05-05,1990-06-23,93,8
+238,If You Want Me To,Joe Diffie,44,1990-12-15,1990-12-29,87,3
+239,Don't Tell Me What To Do,Pam Tillis,49,1990-12-01,1990-12-29,87,5
+240,Rollin' Home,Pirates Of The Mississippi,56,1990-11-17,1990-12-29,86,7
+241,If A Man Could Live On Love Alone,Skip Ewing,70,1990-02-17,1990-03-31,86,7
+242,Burnin' Old Memories,Kathy Mattea,56,1990-01-20,1990-02-10,84,4
+243,Zydeco Lady,Eddy Raven,56,1990-09-22,1990-11-03,81,7
+244,I'm Your Man,Skip Ewing,69,1990-07-14,1990-09-08,77,9
+245,Down The Road,Mac McAnally,70,1990-06-23,1990-08-04,74,7
+246,Ace In The Hole,George Strait,53,1990-01-20,1990-02-03,71,3
+247,Man To Man,Hank Williams Jr.,62,1990-08-25,1990-10-06,71,7
+248,Quit While I'm Behind,Jennifer McCarter & The McCarters,50,1990-01-20,1990-02-03,66,3
+249,An American Family,The Oak Ridge Boys,61,1990-01-20,1990-02-10,66,4
+250,"It Wasn't You, It Wasn't Me",Daniele Alexander & Butch Baker,58,1990-12-01,1990-12-29,63,5
+251,Walk Softly On This Heart Of Mine,The Kentucky Headhunters,64,1990-01-20,1990-02-17,62,5
+252,Is It Raining At Your House,Vern Gosdin,53,1990-12-08,1990-12-29,60,4
+253,Nothing's Gonna Bother Me Tonight,The Forester Sisters,63,1990-08-04,1990-09-08,60,6
+254,"Baby, You'll Be My Baby",The Oak Ridge Boys,71,1990-04-28,1990-06-02,58,6
+255,Lonely Town,David Lynn Jones,76,1990-03-24,1990-05-12,58,7
+256,Hardin County Line,Mark Collie,59,1990-10-06,1990-11-03,54,5
+257,You Just Get Better All The Time,James House,60,1990-12-08,1990-12-29,52,4
+258,Unchained Melody,Ronnie McDowell,62,1990-12-08,1990-12-29,50,4
+259,Born And Raised In Black And White,"Waylon, Willie, Johnny & Kris",76,1990-06-16,1990-07-21,50,6
+260,Two Hearts,K.T. Oslin,73,1990-06-23,1990-07-21,48,5
+261,I Don't Want To Love You (But I Do),Kelly Willis,78,1990-04-07,1990-05-19,47,7
+262,Bluebird,Anne Murray,60,1990-12-08,1990-12-29,46,4
+263,Better Be Home Soon,Jennifer McCarter & The McCarters,73,1990-03-03,1990-04-07,44,6
+264,Carryin' On,Canyon,74,1990-03-31,1990-05-12,44,5
+265,Everybody Wants To Be Hank Williams,Larry Boone,75,1990-02-03,1990-03-17,44,6
+266,Long Lost Friend,Restless Heart,56,1990-12-22,1990-12-29,40,2
+267,Shot Full Of Love,Jennifer McCarter & The McCarters,73,1990-05-19,1990-06-16,40,4
+268,That's The Way Love Is,Asleep At The Wheel,65,1990-12-01,1990-12-29,39,5
+269,She's Got A Man On Her Mind,Curtis Wright,65,1990-01-20,1990-02-03,36,3
+270,Little Things,Marty Stuart,59,1990-12-22,1990-12-29,34,2
+271,Where Corn Don't Grow,Waylon Jennings,67,1990-10-13,1990-11-17,34,6
+272,There You Go,Exile,63,1990-12-15,1990-12-29,33,3
+273,Tanqueray,Vern Gosdin,75,1990-06-02,1990-06-23,33,4
+274,Ghost Town,Zaca Creek,74,1990-02-03,1990-02-17,32,3
+275,Let It Be You,Ricky Skaggs,60,1990-01-20,1990-01-27,31,2
+276,Doghouse,John Conlee,66,1990-12-15,1990-12-29,28,3
+277,Hell Stays Open (All Night Long),George Jones,76,1990-04-14,1990-05-05,27,4
+278,He's Alive,Dolly Parton,58,1990-01-20,1990-01-27,26,2
+279,Mexican Wind,Jann Browne,77,1990-05-26,1990-06-30,26,6
+280,Pardon Me,Moe Bandy & Becky Hobbs,78,1990-02-24,1990-03-17,25,4
+281,Goin' By The Book,Johnny Cash,69,1990-09-22,1990-10-13,23,4
+282,Love Letter,Robin Lee,67,1990-11-10,1990-11-24,21,3
+283,"Shoulda, Coulda, Woulda Loved You",Les Taylor,71,1990-01-20,1990-02-03,19,3
+284,Heart To Heart Talk,Johnny Lee,79,1990-03-24,1990-04-28,19,4
+285,How About Goodbye,Robin Lee,70,1990-08-11,1990-09-08,18,3
+286,I'm With You,Delbert McClinton,78,1990-06-09,1990-06-23,18,3
+287,Say What's In Your Heart,Restless Heart,59,1990-01-20,1990-01-20,17,1
+288,Under The Gun,Suzy Bogguss,72,1990-08-25,1990-09-01,17,2
+289,Only Here For A Little While,Billy Dean,68,1990-12-22,1990-12-29,16,2
+290,"Angel, Angelina",George Strait,76,1990-03-17,1990-03-31,16,2
+291,He's Gotta Have Me,The Girls Next Door,78,1990-02-03,1990-02-10,16,2
+292,How 'Bout Us,Girls Next Door,71,1990-09-01,1990-09-01,15,1
+293,Woman's Intuition,Michelle Wright,72,1990-10-13,1990-11-10,15,5
+294,Chasin' Something Called Love,Molly & The Heymakers,69,1990-12-22,1990-12-29,14,2
+295,"Six Foot Deep, Six Foot Down",George Jones,78,1990-08-04,1990-09-01,13,2
+296,The Grass Is Greener,Marsha Thornton,79,1990-05-26,1990-06-02,13,2
+297,Tomorrow's World,Various Artists,74,1990-05-05,1990-05-05,12,1
+298,Every Step Of The Way,McBride & The Ride,80,1990-07-07,1990-07-21,12,3
+299,Roseanne,Jeff Stevens And The Bullets,81,1990-04-28,1990-06-02,12,4
+300,Don't Leave Her Lonely Too Long,Marty Stuart,69,1990-01-20,1990-01-27,11,2
+301,Learning The Game,Black Tie,71,1990-12-15,1990-12-29,11,3
+302,Old Memory,Scott McQuaig,81,1990-03-31,1990-04-21,11,3
+303,Everybody's Reaching Out For Someone,Crystal Gayle,82,1990-06-09,1990-06-30,11,4
+304,Dam These Tears,Canyon,71,1990-11-03,1990-11-24,10,4
+305,All Things Made New Again,Suzy Bogguss,72,1990-12-15,1990-12-29,10,3
+306,Never Alone,Vince Gill,71,1990-01-20,1990-01-27,9,2
+307,Hot Night In A Small Town,Billy & the American Suns,77,1990-09-01,1990-09-01,9,1
+308,Where Did We Go Wrong,Wild Rose,79,1990-05-12,1990-05-26,8,2
+309,Where Did We Go Right?,Lacy J. Dalton,82,1990-07-28,1990-09-01,8,3
+310,The Center Of My Universe,The Bellamy Brothers,70,1990-01-20,1990-01-27,7,2
+311,Broken Friend,Merle Haggard,79,1990-04-21,1990-04-21,7,1
+312,Angelina,George Fox,82,1990-04-28,1990-05-12,7,2
+313,Is The Better Part Over,Willie Nelson,81,1990-07-21,1990-07-28,6,2
+314,Diddy All Night Long,The O'Kanes,82,1990-05-05,1990-05-12,6,2
+315,Too Blue To Be True,Larry Boone,83,1990-05-26,1990-06-16,6,3
+316,Never Ending Song Of Love,Crystal Gayle,72,1990-09-15,1990-09-22,5,2
+317,Boomtown,Jeff Stevens And The Bullets,81,1990-03-24,1990-03-24,5,1
+318,Radio Romance,Canyon,81,1990-02-03,1990-02-03,5,1
+319,Any Ole Time,Joe Barnhill,83,1990-04-14,1990-04-21,5,2
+320,Breakin' All The Way,Tim Ryan,74,1990-12-22,1990-12-29,4,2
+321,Lessons Of Love,Jerry Lansdowne,82,1990-03-24,1990-03-24,4,1
+322,Listen To The Radio,Jonathan Edwards,82,1990-02-24,1990-02-24,4,1
+323,Why Should I,The O'Kanes,82,1990-02-10,1990-02-10,4,1
+324,Walking Heartache In Disguise,The Statler Brothers,83,1990-03-10,1990-03-31,4,2
+325,Family Tree,Lee Roy Parnell,73,1990-10-27,1990-10-27,3,1
+326,Wild And Wooly,Chris LeDoux,83,1990-03-24,1990-03-24,3,1
+327,I'd Fall In Love Tonight,Anne Murray,83,1990-02-03,1990-02-03,3,1
+328,Route 66,Michael Martin Murphey,74,1990-01-20,1990-01-20,2,1
+329,Moody Woman,Charley Pride,84,1990-04-28,1990-04-28,2,1
+330,Some Somebody,Rhonda Gunn,85,1990-06-30,1990-07-14,2,2
+331,Louisville,Jann Browne,75,1990-09-15,1990-09-15,1,1
+332,River Of Love,Kelly Willis,85,1990-08-25,1990-08-25,1,1
+333,Southern Belles,James House,85,1990-07-28,1990-07-28,1,1
+334,Nickel To My Name,Billy Hill,85,1990-03-17,1990-03-17,1,1
+335,Farmer's Almanac,Johnny Cash,85,1990-03-24,1990-03-24,1,1

@@ -1,0 +1,542 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Poker Face,Lady Gaga,1,2009-01-03,2009-12-26,4364,51
+2,Boom Boom Pow,The Black Eyed Peas,1,2009-04-18,2009-12-26,3868,37
+3,I Gotta Feeling,The Black Eyed Peas,1,2009-06-27,2009-12-26,3547,27
+4,Just Dance,Lady Gaga Featuring Colby O'Donis,1,2009-01-03,2009-12-26,2910,39
+5,Use Somebody,Kings Of Leon,2,2009-03-07,2009-12-26,2775,43
+6,Gives You Hell,The All-American Rejects,2,2009-01-03,2009-07-04,2479,27
+7,Right Round,Flo Rida,1,2009-02-28,2009-09-05,2461,28
+8,Party In The U.S.A.,Miley Cyrus,1,2009-08-29,2009-12-26,2455,18
+9,Down,Jay Sean Featuring Lil Wayne,2,2009-07-18,2009-12-26,2384,23
+10,The Climb,Miley Cyrus,2,2009-03-21,2009-10-17,2275,31
+11,You Belong With Me,Taylor Swift,4,2009-05-23,2009-12-26,2249,32
+12,Don't Trust Me,3OH!3,3,2009-01-03,2009-10-03,2238,40
+13,I Know You Want Me (Calle Ocho),Pitbull,2,2009-03-14,2009-11-07,2190,35
+14,Fire Burning,Sean Kingston,3,2009-05-23,2009-11-07,2152,25
+15,Whatcha Say,Jason Derulo,2,2009-08-29,2009-12-26,2116,18
+16,Love Story,Taylor Swift,3,2009-01-03,2009-12-12,2059,35
+17,Kiss Me Thru The Phone,Soulja Boy Tell 'em Featuring Sammie,3,2009-01-17,2009-07-04,2013,25
+18,Single Ladies (Put A Ring On It),Beyonce,1,2009-01-03,2009-12-26,1968,33
+19,Heartless,Kanye West,2,2009-01-03,2009-06-27,1964,26
+20,Fireflies,Owl City,1,2009-09-05,2009-12-26,1904,17
+21,Dead And Gone,T.I. Featuring Justin Timberlake,2,2009-01-24,2009-06-27,1806,23
+22,Halo,Beyonce,8,2009-02-14,2009-10-10,1781,35
+23,I'm Yours,Jason Mraz,6,2009-01-03,2009-09-26,1753,37
+24,Run This Town,"Jay-Z, Rihanna & Kanye West",3,2009-08-29,2009-12-26,1736,18
+25,You Found Me,The Fray,4,2009-01-03,2009-08-15,1685,28
+26,Empire State Of Mind,Jay-Z + Alicia Keys,1,2009-09-26,2009-12-26,1678,14
+27,Day 'N' Nite,Kid Cudi,5,2009-02-14,2009-08-15,1677,27
+28,Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,6,2009-04-11,2009-10-17,1662,28
+29,Second Chance,Shinedown,6,2009-01-03,2009-09-26,1631,35
+30,My Life Would Suck Without You,Kelly Clarkson,1,2009-02-07,2009-06-27,1626,21
+31,Good Girls Go Bad,Cobra Starship Featuring Leighton Meester,4,2009-05-30,2009-11-28,1606,24
+32,Blame It,Jamie Foxx Featuring T-Pain,4,2009-02-14,2009-07-18,1531,23
+33,Best I Ever Had,Drake,2,2009-06-13,2009-10-24,1506,18
+34,Replay,Iyaz,2,2009-09-05,2009-12-26,1467,17
+35,LoveGame,Lady Gaga,2,2009-03-21,2009-10-10,1420,24
+36,Waking Up In Vegas,Katy Perry,5,2009-05-16,2009-10-10,1371,22
+37,Circus,Britney Spears,3,2009-01-03,2009-05-23,1334,21
+38,Paparazzi,Lady Gaga,3,2009-09-12,2009-12-26,1265,16
+39,New Divide,Linkin Park,3,2009-06-06,2009-11-21,1255,25
+40,Obsessed,Mariah Carey,6,2009-07-25,2009-12-12,1234,21
+41,Let It Rock,Kevin Rudolf Featuring Lil Wayne,6,2009-01-03,2009-05-23,1194,21
+42,She Wolf,Shakira,7,2009-08-01,2009-12-19,1166,21
+43,Crack A Bottle,"Eminem, Dr. Dre & 50 Cent",1,2009-02-21,2009-05-23,1141,14
+44,Sugar,Flo Rida Featuring Wynter,3,2009-04-04,2009-07-11,1140,15
+45,TiK ToK,Ke$ha,2,2009-10-24,2009-12-26,1120,10
+46,Sexy Bitch,David Guetta Featuring Akon,7,2009-08-15,2009-12-26,1107,20
+47,Birthday Sex,Jeremih,5,2009-05-09,2009-09-12,1103,19
+48,3,Britney Spears,1,2009-10-24,2009-12-26,1090,10
+49,One Time,Justin Bieber,13,2009-08-15,2009-12-26,1075,20
+50,Bad Romance,Lady Gaga,1,2009-11-14,2009-12-26,1071,7
+51,Hotel Room Service,Pitbull,7,2009-07-04,2009-11-28,1069,20
+52,Hot N Cold,Katy Perry,4,2009-01-03,2009-06-27,1062,21
+53,Meet Me Halfway,The Black Eyed Peas,3,2009-10-10,2009-12-26,1044,12
+54,I Hate This Part,The Pussycat Dolls,4,2009-01-03,2009-05-02,1041,18
+55,Love Drunk,Boys Like Girls,13,2009-07-18,2009-12-12,1036,22
+56,21 Guns,Green Day,13,2009-07-11,2009-12-12,1036,23
+57,That's Not My Name,The Ting Tings,29,2009-02-14,2009-09-05,1036,30
+58,Battlefield,Jordin Sparks,7,2009-05-30,2009-11-07,1012,23
+59,I Love College,Asher Roth,6,2009-02-28,2009-06-20,1005,17
+60,Need You Now,Lady Antebellum,2,2009-08-29,2009-12-26,995,17
+61,Sober,P!nk,15,2009-01-03,2009-10-03,988,23
+62,Beautiful,Akon Featuring Colby O'Donis & Kardinal Offishall,16,2009-01-03,2009-05-30,964,22
+63,Falling For You,Colbie Caillat,9,2009-07-18,2009-12-19,930,23
+64,Sweet Dreams,Beyonce,16,2009-08-22,2009-12-26,910,19
+65,"1, 2, 3, 4",Plain White T's,23,2009-02-07,2009-07-04,906,22
+66,Forever,Drake,2,2009-10-03,2009-12-26,897,13
+67,Already Gone,Kelly Clarkson,20,2009-03-28,2009-12-26,894,20
+68,Live Your Life,T.I. Featuring Rihanna,5,2009-01-03,2009-04-11,875,15
+69,Big Green Tractor,Jason Aldean,20,2009-07-04,2009-12-12,805,23
+70,If Today Was Your Last Day,Nickelback,20,2009-05-09,2009-09-26,804,21
+71,All The Above,Maino Featuring T-Pain,24,2009-03-14,2009-08-08,803,21
+72,Evacuate The Dance Floor,Cascada,25,2009-08-29,2009-12-26,797,18
+73,Say Hey (I Love You),Michael Franti & Spearhead,14,2009-08-15,2009-12-12,784,18
+74,Womanizer,Britney Spears,7,2009-01-03,2009-04-11,777,15
+75,No Surprise,Daughtry,7,2009-05-23,2009-10-10,773,21
+76,Untouched,The Veronicas,13,2009-01-03,2009-05-09,757,17
+77,Viva La Vida,Coldplay,9,2009-01-03,2009-06-27,751,22
+78,Toes,Zac Brown Band,24,2009-08-15,2009-12-26,750,20
+79,Turn My Swag On,Soulja Boy Tell'em,15,2009-03-28,2009-08-08,732,20
+80,I'm On A Boat,The Lonely Island Featuring T-Pain,29,2009-02-28,2009-08-29,719,25
+81,Love Lockdown,Kanye West,6,2009-01-03,2009-04-04,715,14
+82,Mad,Ne-Yo,17,2009-01-24,2009-05-02,703,15
+83,Gotta Be Somebody,Nickelback,15,2009-01-03,2009-04-25,689,17
+84,Goodbye,Kristinia DeBarge,10,2009-05-16,2009-08-22,687,15
+85,Please Don't Leave Me,P!nk,23,2009-05-09,2009-10-10,685,23
+86,Cowboy Casanova,Carrie Underwood,8,2009-10-10,2009-12-26,682,12
+87,We Made You,Eminem,3,2009-05-02,2009-07-04,680,10
+88,If U Seek Amy,Britney Spears,17,2009-02-14,2009-06-27,670,17
+89,Turnin Me On,Keri Hilson Featuring Lil Wayne,19,2009-01-31,2009-05-16,659,16
+90,You're A Jerk,New Boyz,21,2009-07-04,2009-11-07,641,19
+91,White Horse,Taylor Swift,30,2009-01-03,2009-05-16,638,20
+92,So What,P!nk,13,2009-01-03,2009-06-06,630,16
+93,How Do You Sleep?,Jesse McCartney,20,2009-02-28,2009-06-13,611,15
+94,Lucky,Jason Mraz & Colbie Caillat,27,2009-01-31,2009-06-27,602,22
+95,Hoedown Throwdown,Miley Cyrus,8,2009-03-28,2009-06-27,581,14
+96,Thriller,Michael Jackson,2,2009-07-11,2009-11-21,580,10
+97,Man In The Mirror,Michael Jackson,2,2009-07-11,2009-08-15,566,6
+98,Disturbia,Rihanna,18,2009-01-03,2009-04-04,566,14
+99,Jai Ho! (You Are My Destiny),A R Rahman & The Pussycat Dolls Featuring Nicole Scherzinger,7,2009-03-14,2009-05-30,544,12
+100,Whatever You Like,T.I.,11,2009-01-03,2009-03-28,542,13
+101,Right Now (Na Na Na),Akon,13,2009-01-03,2009-03-28,535,13
+102,Chicken Fried,Zac Brown Band,21,2009-01-03,2009-09-19,532,17
+103,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,17,2009-10-24,2009-12-26,530,10
+104,Love Sex Magic,Ciara Featuring Justin Timberlake,8,2009-04-04,2009-05-30,521,9
+105,Come On Get Higher,Matt Nathanson,33,2009-01-03,2009-07-04,502,23
+106,Billie Jean,Michael Jackson,4,2009-07-11,2009-11-14,493,8
+107,I Run To You,Lady Antebellum,25,2009-04-25,2009-12-05,486,21
+108,Thinking Of You,Katy Perry,20,2009-02-07,2009-05-02,476,13
+109,Break Up,Mario Featuring Gucci Mane & Sean Garrett,24,2009-08-08,2009-11-07,474,14
+110,Never Say Never,The Fray,36,2009-02-21,2009-10-31,469,19
+111,Best Days Of Your Life,Kellie Pickler,34,2009-04-25,2009-08-22,465,18
+112,Smile,Uncle Kracker,24,2009-08-15,2009-12-26,463,19
+113,Ice Cream Paint Job,Dorrough,26,2009-08-01,2009-10-31,459,14
+114,Paper Planes,M.I.A.,31,2009-01-03,2009-03-28,455,13
+115,If I Were A Boy,Beyonce,10,2009-01-03,2009-03-07,452,10
+116,Know Your Enemy,Green Day,22,2009-05-02,2009-07-11,450,11
+117,Here We Go Again,Demi Lovato,6,2009-07-11,2009-09-05,449,9
+118,Russian Roulette,Rihanna,4,2009-11-21,2009-12-26,442,6
+119,Then,Brad Paisley,18,2009-04-04,2009-08-08,440,18
+120,Every Girl,Young Money,10,2009-06-13,2009-09-05,434,11
+121,Whatever It Is,Zac Brown Band,33,2009-04-18,2009-08-22,433,19
+122,I Do Not Hook Up,Kelly Clarkson,20,2009-05-09,2009-07-18,432,11
+123,Body Language,Jesse McCartney Featuring T-Pain,25,2009-09-19,2009-12-26,429,11
+124,Prom Queen,Lil Wayne Featuring Shanell AKA SNL,5,2009-02-14,2009-04-25,428,11
+125,Diva,Beyonce,23,2009-01-31,2009-04-11,426,11
+126,I'm In Miami Trick,LMFAO,23,2009-03-21,2009-10-17,419,14
+127,I'm So Paid,Akon Featuring Lil Wayne & Young Jeezy,25,2009-01-03,2009-03-28,419,13
+128,He Could Be The One,Hannah Montana,2,2009-07-25,2009-08-29,412,6
+129,Imma Star (Everywhere We Are),Jeremih,40,2009-08-29,2009-12-05,405,15
+130,Her Diamonds,Rob Thomas,30,2009-06-06,2009-09-12,400,15
+131,Don't Stop Believin',Journey,37,2009-01-10,2009-10-24,397,25
+132,People Are Crazy,Billy Currington,38,2009-06-13,2009-09-19,397,15
+133,Crazier,Taylor Swift,7,2009-04-11,2009-05-30,396,8
+134,"Hey, Soul Sister",Train,30,2009-10-24,2009-12-26,392,10
+135,Rehab,Rihanna,18,2009-01-03,2009-02-28,388,9
+136,Throw It In The Bag,Fabolous Featuring The-Dream,29,2009-08-15,2009-11-07,378,13
+137,Make Her Say,Kid Cudi Featuring Kanye West & Common,25,2009-06-27,2009-09-26,371,10
+138,Don't Stop Believin',Glee Cast,2,2009-06-06,2009-10-24,361,6
+139,I Told You So,Carrie Underwood Featuring Randy Travis,4,2009-04-04,2009-05-23,352,8
+140,Light On,David Cook,17,2009-01-03,2009-03-21,352,12
+141,She's Country,Jason Aldean,43,2009-03-07,2009-08-08,346,19
+142,The Way You Make Me Feel,Michael Jackson,6,2009-07-11,2009-11-14,335,6
+143,Here Comes Goodbye,Rascal Flatts,8,2009-03-28,2009-05-23,334,9
+144,Uprising,Muse,19,2009-08-22,2009-12-26,320,14
+145,Crush,David Archuleta,22,2009-01-03,2009-03-07,318,10
+146,Sex On Fire,Kings Of Leon,55,2009-01-03,2009-12-19,318,26
+147,Be On You,Flo Rida Featuring Ne-Yo,29,2009-04-18,2009-10-31,316,9
+148,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,15,2009-11-21,2009-12-26,315,6
+149,Beat It,Michael Jackson,7,2009-07-11,2009-11-14,313,7
+150,Drop It Low,Ester Dean Featuring Chris Brown,33,2009-10-03,2009-12-05,313,10
+151,Human,The Killers,28,2009-01-03,2009-03-14,309,11
+152,Addicted,Saving Abel,24,2009-01-03,2009-02-21,305,8
+153,Send It On,Disney's Friends For Change,9,2009-08-29,2009-09-26,303,5
+154,Alright,Darius Rucker,42,2009-07-04,2009-11-28,301,13
+155,Green Light,John Legend Featuring Andre 3000,43,2009-01-03,2009-03-21,301,12
+156,I Kissed A Girl,Katy Perry,28,2009-01-03,2009-03-28,299,12
+157,Rockin' That Thang,The-Dream,27,2009-03-07,2009-05-09,296,10
+158,Don't Forget,Demi Lovato,22,2009-04-04,2009-05-23,295,8
+159,Funhouse,P!nk,31,2009-10-17,2009-12-12,290,9
+160,I Don't Care,Fall Out Boy,21,2009-01-03,2009-02-21,284,8
+161,Baby By Me,50 Cent Featuring Ne-Yo,26,2009-11-14,2009-12-26,277,7
+162,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,23,2009-09-26,2009-12-26,274,8
+163,Happy,Leona Lewis,15,2009-10-03,2009-12-19,265,7
+164,Money To Blow,Birdman Featuring Lil Wayne & Drake,39,2009-09-26,2009-12-26,263,9
+165,One Less Lonely Girl,Justin Bieber,7,2009-10-24,2009-12-26,262,8
+166,No Boundaries,Kris Allen,4,2009-06-06,2009-06-20,261,3
+167,Pop Champagne,Jim Jones & Ron Browz,39,2009-01-03,2009-03-07,261,10
+168,Forever,Chris Brown,20,2009-01-03,2009-10-31,260,10
+169,All The Right Moves,OneRepublic,31,2009-10-24,2009-12-26,258,10
+170,Out Last Night,Kenny Chesney,13,2009-06-20,2009-08-08,257,8
+171,Don't Stop 'til You Get Enough,Michael Jackson,9,2009-07-11,2009-09-12,248,5
+172,Jump Then Fall,Taylor Swift,2,2009-11-14,2009-11-28,245,3
+173,Who Says,John Mayer,10,2009-10-31,2009-12-12,237,7
+174,All I Want For Christmas Is You,Mariah Carey,14,2009-01-03,2009-12-26,236,4
+175,Decode,Paramore,27,2009-01-03,2009-02-14,233,7
+176,Kiss A Girl,Keith Urban,18,2009-03-28,2009-07-04,231,6
+177,One More Drink,Ludacris Co-Starring T-Pain,33,2009-01-03,2009-02-21,230,8
+178,La La Land,Demi Lovato,27,2009-01-17,2009-02-28,222,7
+179,Miss Independent,Ne-Yo,30,2009-01-03,2009-02-14,222,7
+180,Face Drop,Sean Kingston,40,2009-09-26,2009-11-21,220,8
+181,Shattered (Turn The Car Around),O.A.R.,36,2009-01-03,2009-02-14,217,7
+182,Heartless,Kris Allen,5,2009-06-06,2009-06-20,216,3
+183,Smooth Criminal,Michael Jackson,12,2009-07-11,2009-08-01,211,4
+184,Black Or White,Michael Jackson,13,2009-07-11,2009-08-01,210,4
+185,Careless Whisper,Seether,47,2009-02-21,2009-06-27,201,14
+186,Young Forever,Jay-Z + Mr. Hudson,14,2009-09-26,2009-10-31,200,6
+187,Welcome To The World,Kevin Rudolf Featuring Rick Ross,45,2009-05-02,2009-06-27,198,9
+188,Mrs. Officer,Lil Wayne Featuring Bobby Valentino & Kidd Kidd,26,2009-01-03,2009-02-14,197,7
+189,Give It Up To Me,Shakira Featuring Lil Wayne,19,2009-11-28,2009-12-26,193,5
+190,P.Y.T. (Pretty Young Thing),Michael Jackson,14,2009-07-11,2009-08-01,189,4
+191,Jump,Flo Rida Featuring Nelly Furtado,22,2009-04-18,2009-09-05,189,6
+192,Shake It,Metro Station,31,2009-01-03,2009-02-14,187,7
+193,Starstrukk,3OH!3 Featuring Katy Perry,51,2009-09-05,2009-11-21,186,12
+194,BedRock,Young Money Featuring Lloyd,10,2009-12-12,2009-12-26,181,3
+195,Wanna Be Startin' Somethin',Michael Jackson,20,2009-07-11,2009-11-14,179,4
+196,I'm Going In,Drake Featuring Lil Wayne & Young Jeezy,21,2009-10-03,2009-11-21,178,8
+197,Live Like We're Dying,Kris Allen,28,2009-10-17,2009-12-26,174,5
+198,Hard,Rihanna Featuring Jeezy,12,2009-12-12,2009-12-26,173,3
+199,Wanted,Jessie James,17,2009-05-30,2009-09-05,169,8
+200,Mad World,Adam Lambert,7,2009-06-06,2009-06-20,168,3
+201,Fifteen,Taylor Swift,41,2009-02-28,2009-12-26,165,6
+202,Magic,Selena Gomez,24,2009-08-22,2009-09-19,164,5
+203,Summer Nights,Rascal Flatts,45,2009-06-27,2009-09-12,157,9
+204,You Are Not Alone,Michael Jackson,17,2009-07-11,2009-08-01,156,4
+205,Rock With You,Michael Jackson,17,2009-07-11,2009-07-25,154,3
+206,Funny The Way It Is,Dave Matthews Band,17,2009-05-09,2009-06-27,154,4
+207,Paranoid,Jonas Brothers,17,2009-05-30,2009-07-04,154,5
+208,Tie Me Down,New Boyz Featuring Ray J,39,2009-11-21,2009-12-26,152,6
+209,Not Meant To Be,Theory Of A Deadman,53,2009-05-02,2009-08-08,150,11
+210,I Will Not Bow,Breaking Benjamin,18,2009-09-19,2009-10-17,149,5
+211,Telephone,Lady Gaga Featuring Beyonce,16,2009-12-12,2009-12-26,148,3
+212,Bad,Michael Jackson,23,2009-07-11,2009-08-01,148,4
+213,Chasing Pavements,Adele,10,2009-02-21,2009-04-11,146,4
+214,'Till I Collapse,Eminem Featuring Nate Dogg,35,2009-11-21,2009-12-26,146,6
+215,Somebody To Love,Glee Cast,10,2009-10-10,2009-10-24,145,3
+216,Successful,Drake Featuring Trey Songz & Lil Wayne,24,2009-10-03,2009-10-31,143,5
+217,Home Sweet Home,Carrie Underwood,10,2009-03-28,2009-06-06,140,4
+218,Can't Believe It,T-Pain Featuring Lil Wayne,32,2009-01-03,2009-01-31,140,5
+219,My President,Young Jeezy Featuring Nas,30,2009-02-07,2009-03-07,137,5
+220,Falling Down,Selena Gomez & The Scene,41,2009-09-12,2009-10-17,137,6
+221,Candle (Sick And Tired),The White Tie Affair,46,2009-03-28,2009-05-09,137,7
+222,Show Me What I'm Looking For,Carolina Liar,52,2009-02-21,2009-08-22,136,12
+223,Stanky Legg,GS Boyz,46,2009-03-07,2009-04-25,133,8
+224,Hot Revolver,Lil Wayne,15,2009-04-04,2009-04-18,132,3
+225,Haven't Met You Yet,Michael Buble,33,2009-09-19,2009-12-26,132,7
+226,Fall For You,Secondhand Serenade,34,2009-01-03,2009-01-31,132,5
+227,Untouchable,Taylor Swift,9,2009-11-14,2009-11-21,128,2
+228,I'll Be There,Jackson 5,29,2009-07-11,2009-07-25,128,3
+229,Just A Friend,Biz Markie,35,2009-05-23,2009-06-27,128,6
+230,Dirty Diana,Michael Jackson,32,2009-07-11,2009-07-25,126,3
+231,Will You Be There,Michael Jackson,10,2009-07-11,2009-08-01,125,4
+232,Human Nature,Michael Jackson,21,2009-07-11,2009-07-25,123,3
+233,Defying Gravity,Glee Cast,15,2009-11-21,2009-12-05,122,3
+234,Love Me,Justin Bieber,22,2009-11-14,2009-11-28,122,3
+235,Seventeen Forever,Metro Station,37,2009-01-03,2009-01-31,122,5
+236,Beautiful,Eminem,6,2009-05-30,2009-08-08,121,2
+237,About You Now,Miranda Cosgrove,35,2009-01-03,2009-01-31,121,5
+238,How Low,Ludacris,6,2009-12-26,2009-12-26,120,1
+239,Echo,Gorilla Zoe,40,2009-05-16,2009-07-04,120,7
+240,Try Sleeping With A Broken Heart,Alicia Keys,36,2009-12-05,2009-12-26,119,4
+241,La La La,LMFAO,35,2009-10-03,2009-10-24,115,4
+242,American Ride,Toby Keith,46,2009-08-15,2009-10-24,113,8
+243,Livin' On A Prayer,Bon Jovi,47,2009-01-17,2009-02-14,110,5
+244,Permanent,David Cook,10,2009-06-06,2009-06-13,107,2
+245,Good Morning,Chamillionaire,21,2009-10-31,2009-11-14,106,3
+246,ABC,Jackson 5,34,2009-07-11,2009-07-25,106,3
+247,D.O.A. (Death Of Auto-Tune),JAY-Z,22,2009-07-11,2009-08-01,105,4
+248,In The Ayer,Flo Rida Featuring will.i.am,47,2009-01-03,2009-01-31,104,5
+249,Favorite Girl,Justin Bieber,12,2009-11-21,2009-11-28,103,2
+250,Butterfly Fly Away,Miley Cyrus & Billy Ray Cyrus,29,2009-04-25,2009-05-09,103,3
+251,It's My Life / Confessions Part II,Glee Cast,12,2009-10-24,2009-10-31,102,2
+252,Let's Get Crazy,Hannah Montana,33,2009-04-11,2009-05-02,102,4
+253,Remember Me,T.I. Featuring Mary J. Blige,10,2009-08-15,2009-08-22,100,2
+254,I Want You Back,Jackson 5,31,2009-07-11,2009-07-25,100,3
+255,Crawl,Chris Brown,39,2009-12-12,2009-12-26,99,3
+256,Gangsta Luv,Snoop Dogg Featuring The-Dream,47,2009-11-07,2009-12-26,98,7
+257,Remember The Time,Michael Jackson,35,2009-07-11,2009-07-25,97,3
+258,The Fixer,Pearl Jam,40,2009-09-12,2009-10-17,96,4
+259,Other Side Of The Door,Taylor Swift,11,2009-11-14,2009-11-21,95,2
+260,The One,Mary J. Blige Featuring Drake,40,2009-08-08,2009-10-03,94,5
+261,When I Grow Up,The Pussycat Dolls,49,2009-01-17,2009-02-14,94,5
+262,White Liar,Miranda Lambert,34,2009-11-28,2009-12-19,93,4
+263,Swagga Like Us,Jay-Z & T.I. Featuring Kanye West & Lil Wayne,35,2009-01-03,2009-03-07,93,5
+264,Old Time's Sake,Eminem Featuring Dr. Dre,9,2009-05-23,2009-05-30,92,2
+265,Half Of My Heart,John Mayer,12,2009-12-05,2009-12-12,92,2
+266,Tell Me Something I Don't Know,Selena Gomez,30,2009-01-31,2009-02-14,92,3
+267,You're Not Sorry,Taylor Swift,22,2009-03-21,2009-04-04,90,3
+268,Halo / Walking On Sunshine,Glee Cast,15,2009-10-24,2009-10-31,89,2
+269,Keeps Gettin' Better,Christina Aguilera,46,2009-01-03,2009-02-07,89,6
+270,Carry Out,Timbaland Featuring Justin Timberlake,18,2009-12-19,2009-12-26,87,2
+271,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,40,2009-01-03,2009-12-26,84,3
+272,Krazy,Pitbull Featuring Lil Jon,51,2009-01-10,2009-02-14,82,5
+273,American Boy,Estelle Featuring Kanye West,43,2009-01-17,2009-03-07,80,5
+274,She Is Love,Parachute,46,2009-09-05,2009-09-19,77,3
+275,Only You Can Love Me This Way,Keith Urban,61,2009-04-11,2009-10-10,77,7
+276,Swing,Savage Featuring Soulja Boy Tell'em,55,2009-01-03,2009-02-14,76,7
+277,Forever & Always,Taylor Swift,21,2009-11-14,2009-11-21,75,2
+278,I'm Alive,Kenny Chesney With Dave Matthews,30,2009-11-07,2009-12-05,73,3
+279,Low,Flo Rida Featuring T-Pain,57,2009-01-10,2009-03-21,72,8
+280,Lost!,Coldplay,25,2009-02-28,2009-03-07,71,2
+281,Last Christmas,Glee Cast,26,2009-12-19,2009-12-26,71,2
+282,Hypnotize,The Notorious B.I.G.,30,2009-01-31,2009-02-07,71,2
+283,Hell Of A Life,T.I.,25,2009-10-24,2009-10-31,70,2
+284,Better In Time,Leona Lewis,51,2009-01-03,2009-01-17,69,3
+285,Superstar,Taylor Swift,14,2009-11-14,2009-11-21,68,2
+286,Ain't No Sunshine,Kris Allen,17,2009-06-06,2009-06-13,67,2
+287,Imma Be,The Black Eyed Peas,28,2009-06-06,2009-07-04,64,2
+288,Morning After Dark,Timbaland Featuring Nelly Furtado & SoShy,33,2009-12-12,2009-12-19,64,2
+289,Papers,Usher,34,2009-11-07,2009-11-21,64,3
+290,Hey,Mitchel Musso,38,2009-06-20,2009-06-27,64,2
+291,3am,Eminem,13,2009-05-16,2009-05-16,63,1
+292,Chopped 'N' Skrewed,T-Pain Featuring Ludacris,52,2009-01-03,2009-01-24,63,4
+293,All Summer Long,The Rock Heroes,53,2009-01-03,2009-01-24,63,4
+294,For Your Entertainment,Adam Lambert,35,2009-11-28,2009-12-12,62,3
+295,You'll Always Find Your Way Back Home,Hannah Montana,52,2009-04-11,2009-05-02,62,4
+296,Hot Mess,Cobra Starship,25,2009-08-29,2009-09-05,61,2
+297,Lovebug,Jonas Brothers,41,2009-01-10,2009-01-17,61,2
+298,Sideways,Dierks Bentley,54,2009-05-16,2009-07-04,61,7
+299,Sweet Caroline,Glee Cast,16,2009-11-07,2009-11-07,60,1
+300,Take A Bow,Glee Cast,18,2009-09-26,2009-10-03,59,2
+301,Wasted,Gucci Mane Featuring Plies Or OJ Da Juiceman,61,2009-09-26,2009-11-21,59,7
+302,Come In With The Rain,Taylor Swift,18,2009-11-14,2009-11-14,58,1
+303,Mercy,Duffy,44,2009-02-21,2009-02-28,57,2
+304,Alone,Glee Cast Featuring Kristin Chenoweth,20,2009-10-17,2009-10-17,56,1
+305,Pursuit Of Happiness (Nightmare),Kid Cudi Featuring MGMT & Ratatat,29,2009-10-03,2009-10-10,56,2
+306,Time For Miracles,Adam Lambert,21,2009-11-07,2009-11-07,55,1
+307,Get On Your Boots,U2,21,2009-02-07,2009-02-07,55,1
+308,Taking Chances,Glee Cast,32,2009-10-10,2009-10-17,55,2
+309,Move (If You 'W'anna),Mims,60,2009-02-21,2009-04-25,55,8
+310,Good Life,OneRepublic,33,2009-11-28,2009-12-05,54,2
+311,Tonight,Jonas Brothers,43,2009-03-07,2009-03-14,54,2
+312,Amazing,Kanye West Featuring Young Jeezy,53,2009-05-23,2009-06-13,54,3
+313,What I've Done,Linkin Park,53,2009-01-10,2009-01-31,54,4
+314,Lean On Me,Glee Cast,23,2009-12-05,2009-12-05,53,1
+315,My Life Would Suck Without You,Glee Cast,23,2009-12-26,2009-12-26,53,1
+316,Put It On Ya,Plies Featuring Chris J,35,2009-01-03,2009-01-10,53,2
+317,Note To God,Charice,24,2009-06-06,2009-06-06,52,1
+318,Don't Rain On My Parade,Glee Cast,24,2009-12-26,2009-12-26,52,1
+319,Broken,Lifehouse,38,2009-08-29,2009-09-05,51,2
+320,LOL :-),Trey Songz Featuring Gucci Mane & Soulja Boy Tell'em,43,2009-09-19,2009-09-26,51,2
+321,Spotlight,Gucci Mane Featuring Usher,45,2009-12-19,2009-12-26,51,2
+322,F*ck You,Lily Allen,47,2009-02-28,2009-03-07,51,2
+323,Hold Up My Heart,Brooke White,27,2009-03-14,2009-03-14,49,1
+324,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",28,2009-11-14,2009-11-14,48,1
+325,Keep Holding On,Glee Cast,28,2009-10-31,2009-10-31,48,1
+326,Sweet Thing,Keith Urban,44,2009-03-21,2009-03-28,48,2
+327,On Fire,Lil Wayne,29,2009-12-26,2009-12-26,47,1
+328,So Fine,Sean Paul,44,2009-08-15,2009-09-05,47,3
+329,Forever,Rascal Flatts,30,2009-04-04,2009-04-04,46,1
+330,Lollipop,Framing Hanley,60,2009-01-31,2009-03-28,46,6
+331,Don't Stand So Close To Me / Young Girl,Glee Cast,31,2009-12-05,2009-12-05,45,1
+332,You Can't Always Get What You Want,Glee Cast,31,2009-12-26,2009-12-26,45,1
+333,A Change Is Gonna Come,Adam Lambert,32,2009-06-06,2009-06-06,44,1
+334,True Colors,Glee Cast,37,2009-12-12,2009-12-19,44,2
+335,I Dreamed A Dream,Susan Boyle,33,2009-12-12,2009-12-12,43,1
+336,This Is War,Thirty Seconds To Mars,33,2009-12-26,2009-12-26,43,1
+337,Daylight,Matt And Kim,59,2009-06-27,2009-08-29,43,3
+338,Gettin' You Home,Chris Young,65,2009-10-10,2009-11-07,43,5
+339,No Air,Glee Cast,34,2009-10-31,2009-10-31,42,1
+340,Who I Am,Nick Jonas & The Administration,34,2009-12-19,2009-12-19,42,1
+341,Lollipop,Lil Wayne Featuring Static Major,49,2009-01-10,2009-01-24,42,3
+342,In My Head,Jason Derulo,35,2009-12-26,2009-12-26,41,1
+343,Got Money,Lil Wayne Featuring T-Pain,48,2009-01-10,2009-01-24,41,3
+344,Ain't I,Yung L.A. Featuring Young Dro & T.I.,61,2009-03-21,2009-04-18,41,5
+345,Mad World,Michael Andrews Featuring Gary Jules,36,2009-04-25,2009-04-25,40,1
+346,Love Who You Love,Rascal Flatts,36,2009-04-11,2009-04-11,40,1
+347,No Boundaries,Adam Lambert,43,2009-06-06,2009-06-13,40,2
+348,I'll Stand By You,Glee Cast,37,2009-12-05,2009-12-05,39,1
+349,Shone,Flo Rida Featuring Pleasure P,37,2009-03-14,2009-03-14,39,1
+350,Freeze,T-Pain Featuring Chris Brown,52,2009-03-07,2009-03-21,39,3
+351,Careful,Paramore,38,2009-10-17,2009-10-17,38,1
+352,Apologize,Kris Allen,38,2009-06-06,2009-06-06,38,1
+353,Heal The World,Michael Jackson,39,2009-07-25,2009-07-25,37,1
+354,Absolute,The Fray,39,2009-02-21,2009-02-21,37,1
+355,Imagine,Glee Cast,39,2009-12-12,2009-12-12,37,1
+356,Celebration,Madonna,40,2009-08-22,2009-08-22,36,1
+357,Damned If I Do Ya (Damned If I Don't),All Time Low,40,2009-07-04,2009-07-04,36,1
+358,Come Back To Me,David Cook,40,2009-04-18,2009-04-18,36,1
+359,Ain't No Rest For The Wicked,Cage The Elephant,63,2009-11-07,2009-11-21,36,3
+360,I Get It In,50 Cent,41,2009-02-28,2009-02-28,35,1
+361,Wild At Heart,Gloriana,49,2009-08-22,2009-08-29,35,2
+362,Endless Love,Glee Cast,42,2009-12-05,2009-12-05,34,1
+363,I Want To Know What Love Is,Mariah Carey,54,2009-10-03,2009-10-17,34,2
+364,Vanilla Twilight,Owl City,60,2009-10-31,2009-11-21,34,4
+365,Down To Earth,Justin Bieber,43,2009-12-05,2009-12-05,33,1
+366,Mama's Song,Carrie Underwood,43,2009-10-31,2009-10-31,33,1
+367,Always Strapped,Birdman Featuring Lil Wayne,46,2009-04-04,2009-07-04,33,2
+368,Alone,Heart,44,2009-03-14,2009-03-14,32,1
+369,Take Your Shirt Off,T-Pain,44,2009-11-07,2009-11-07,32,1
+370,Run,Leona Lewis,44,2009-01-03,2009-01-03,32,1
+371,Imma Put It On Her,DAY26 Featuring P. Diddy & Yung Joc,58,2009-04-25,2009-05-02,32,2
+372,Christmas Canon,Trans-Siberian Orchestra,50,2009-01-03,2009-12-26,31,2
+373,Bleeding Love,Leona Lewis,58,2009-01-10,2009-01-17,31,2
+374,Love Remains The Same,Gavin Rossdale,60,2009-01-03,2009-02-14,31,4
+375,Ghostbusters,Ray Parker Jr.,46,2009-11-14,2009-11-14,30,1
+376,Pen & Paper,The Red Jumpsuit Apparatus,46,2009-01-24,2009-01-24,30,1
+377,4 My Town (Play Ball),Birdman Featuring Drake & Lil Wayne,53,2009-12-12,2009-12-19,30,2
+378,It Happens,Sugarland,69,2009-04-25,2009-05-30,30,6
+379,Universal Mind Control,Common Featuring Pharrell,48,2009-01-03,2009-01-10,29,2
+380,Say Aah,Trey Songz Featuring Fabolous,58,2009-12-19,2009-12-26,29,2
+381,Closer,Ne-Yo,61,2009-01-10,2009-01-24,29,3
+382,Undo It,Carrie Underwood,48,2009-11-14,2009-11-14,28,1
+383,Stay,Sugarland,48,2009-02-28,2009-02-28,28,1
+384,Fly With Me,Jonas Brothers,48,2009-07-04,2009-07-04,28,1
+385,Come Home,OneRepublic With Sara Bareilles,48,2009-08-01,2009-08-01,28,1
+386,Whatever You Like,Anya Marina,48,2009-11-28,2009-11-28,28,1
+387,Shake Your Body (Down To The Ground),The Jacksons,50,2009-07-11,2009-07-18,28,2
+388,If You Only Knew,Shinedown,64,2009-12-05,2009-12-26,28,3
+389,Bigger,Justin Bieber,49,2009-12-05,2009-12-05,27,1
+390,Maybe This Time,Glee Cast Featuring Kristin Chenoweth,49,2009-10-17,2009-10-17,27,1
+391,Feel That Fire,Dierks Bentley,52,2009-02-21,2009-02-28,27,2
+392,My Life,The Game Featuring Lil Wayne,54,2009-01-03,2009-01-10,27,2
+393,Burnin' Up,Jonas Brothers,59,2009-01-10,2009-01-17,27,2
+394,Halle Berry (She's Fine),Hurricane Chris Featuring SupaSTAAR,61,2009-06-20,2009-06-27,27,2
+395,Do I,Luke Bryan,69,2009-09-26,2009-12-26,27,7
+396,We Are The World,USA For Africa,50,2009-07-25,2009-07-25,26,1
+397,The Invitation,50 Cent,50,2009-12-05,2009-12-05,26,1
+398,What I Do,Chris Brown Featuring Plies,50,2009-12-26,2009-12-26,26,1
+399,Off The Wall,Michael Jackson,51,2009-07-11,2009-07-18,26,2
+400,Angels On The Moon,Thriving Ivory,66,2009-02-14,2009-03-07,26,3
+401,Falling Slowly,The Swell Season (Glen Hansard & Marketa Irglova),51,2009-05-02,2009-05-02,25,1
+402,Boyfriend #2,Pleasure P,65,2009-05-23,2009-06-27,25,3
+403,Right Here (Departed),Brandy,52,2009-01-03,2009-01-03,24,1
+404,At Last,Beyonce,52,2009-02-07,2009-02-07,24,1
+405,Video Phone,Beyonce,52,2009-12-12,2009-12-12,24,1
+406,Overcome,Creed,52,2009-09-12,2009-09-12,24,1
+407,I'm Just Here For The Music,Paula Abdul,61,2009-05-23,2009-05-30,24,2
+408,You Can Get It All,Bow Wow Featuring Johnta Austin,62,2009-04-18,2009-04-25,24,2
+409,Eye Of The Tiger,Survivor,64,2009-01-24,2009-02-07,24,3
+410,If We Ever Meet Again,Timbaland Featuring Katy Perry,53,2009-12-19,2009-12-19,23,1
+411,Awake And Alive,Skillet,53,2009-09-12,2009-09-12,23,1
+412,Just Like Me,Jamie Foxx Featuring T.I.,53,2009-01-03,2009-01-03,23,1
+413,Top Of The World,The Pussycat Dolls,53,2009-02-21,2009-02-21,23,1
+414,Heartless,The Fray,53,2009-05-30,2009-05-30,23,1
+415,Juicy,The Notorious B.I.G.,56,2009-01-31,2009-02-07,23,2
+416,Temporary Home,Carrie Underwood,54,2009-11-07,2009-11-07,22,1
+417,And I Am Telling You I'm Not Going,Glee Cast,54,2009-12-26,2009-12-26,22,1
+418,Unstoppable,Rascal Flatts,54,2009-04-25,2009-04-25,22,1
+419,They Don't Care About Us,Michael Jackson,64,2009-07-18,2009-07-25,22,2
+420,A Milli,Lil Wayne,55,2009-01-10,2009-01-10,21,1
+421,Who's Lovin' You,Jackson 5,55,2009-07-25,2009-07-25,21,1
+422,Love Is On Its Way,Jonas Brothers,55,2009-03-14,2009-03-14,21,1
+423,First Dance,Justin Bieber Featuring Usher,55,2009-12-05,2009-12-05,21,1
+424,Shake My,Three 6 Mafia Featuring Kalenna,57,2009-09-12,2009-09-19,21,2
+425,Ego,Beyonce,63,2009-07-04,2009-08-08,21,2
+426,The Truth,Jason Aldean,63,2009-12-19,2009-12-26,21,2
+427,I Will Be,Leona Lewis,65,2009-02-21,2009-03-07,21,3
+428,It's A New Day,will.i.am,56,2009-02-07,2009-02-07,20,1
+429,Drops Of Jupiter (Tell Me),Train,56,2009-03-14,2009-03-14,20,1
+430,Smile,Michael Jackson,56,2009-07-25,2009-07-25,20,1
+431,Bust A Move,Glee Cast,56,2009-11-07,2009-11-07,20,1
+432,Apologize,Timbaland Featuring OneRepublic,57,2009-05-30,2009-05-30,19,1
+433,One,Adam Lambert,57,2009-06-06,2009-06-06,19,1
+434,Falling Slowly,The Frames,57,2009-07-04,2009-07-04,19,1
+435,Ignorance,Paramore,58,2009-07-25,2009-07-25,18,1
+436,Things That Matter,Rascal Flatts,58,2009-04-18,2009-04-18,18,1
+437,Southern Voice,Tim McGraw,68,2009-11-07,2009-12-12,18,4
+438,The Fear,Lily Allen,70,2009-04-18,2009-05-09,18,4
+439,Insane,Eminem,59,2009-06-06,2009-06-06,17,1
+440,(If You're Wondering If I Want You To) I Want You To,Weezer,59,2009-09-12,2009-09-12,17,1
+441,Let's Just Fall In Love Again,Jason Castro,59,2009-09-19,2009-09-19,17,1
+442,Our Song,Taylor Swift,59,2009-01-10,2009-01-10,17,1
+443,"You're Gonna Go Far, Kid",The Offspring,65,2009-01-24,2009-01-31,17,2
+444,Two Rebels,Honor Society,60,2009-09-26,2009-09-26,16,1
+445,Speechless,Lady Gaga,60,2009-12-12,2009-12-12,16,1
+446,Sooner Or Later,Michelle Branch,60,2009-08-15,2009-08-15,16,1
+447,Last Christmas,Taylor Swift,60,2009-12-19,2009-12-19,16,1
+448,Catch Me,Demi Lovato,61,2009-08-08,2009-08-08,15,1
+449,I Dreamed A Dream,Original London Cast,61,2009-05-02,2009-05-02,15,1
+450,Hey There Delilah,Plain White T's,61,2009-03-21,2009-03-21,15,1
+451,You Rock My World,Michael Jackson,62,2009-07-11,2009-07-11,14,1
+452,Even Flow,Pearl Jam,62,2009-02-07,2009-02-07,14,1
+453,Lark On My Go-Kart,Asher Roth,62,2009-05-09,2009-05-09,14,1
+454,Smile (Cover Of Charlie Chaplin Song),Glee Cast,62,2009-12-19,2009-12-19,14,1
+455,Betcha Gon' Know (The Prologue),Mariah Carey,66,2009-10-17,2009-10-24,14,2
+456,Break My Heart,Spectacular! Cast,63,2009-03-07,2009-03-07,13,1
+457,Maybach Music 2,"Rick Ross Featuring Kanye West, T-Pain & Lil' Wayne",63,2009-05-09,2009-05-09,13,1
+458,What Child Is This,Andrea Bocelli With Mary J. Blige,63,2009-12-19,2009-12-19,13,1
+459,I Wanna Know You,Hannah Montana,63,2009-07-25,2009-07-25,13,1
+460,Somewhere Over The Rainbow,"Israel ""IZ"" Kamakawiwo'Ole",63,2009-02-07,2009-02-07,13,1
+461,O... Saya,M.I.A. & A R Rahman,63,2009-03-14,2009-03-14,13,1
+462,Clocks,Coldplay,63,2009-02-28,2009-02-28,13,1
+463,Hate On Me,Glee Cast,63,2009-10-31,2009-10-31,13,1
+464,Feliz Navidad,Jose Feliciano,64,2009-01-03,2009-01-03,12,1
+465,Wild Horses,Susan Boyle,64,2009-12-12,2009-12-12,12,1
+466,Heartbreak Warfare,John Mayer,64,2009-12-05,2009-12-05,12,1
+467,Life After You,Daughtry,64,2009-12-26,2009-12-26,12,1
+468,It's A Business Doing Pleasure With You,Tim McGraw,65,2009-08-29,2009-08-29,11,1
+469,Heaven Can Wait,WE the Kings,65,2009-09-19,2009-09-19,11,1
+470,Gold Digger,Glee Cast,65,2009-09-26,2009-09-26,11,1
+471,Undertow,Timbaland Featuring The Fray & Esthero,65,2009-11-28,2009-11-28,11,1
+472,Shots,LMFAO Featuring Lil Jon,69,2009-11-14,2009-11-21,11,2
+473,Alive,Pearl Jam,66,2009-02-14,2009-02-14,10,1
+474,Jump,Glee Cast,66,2009-12-19,2009-12-19,10,1
+475,Tennessee Line,Daughtry,66,2009-11-28,2009-11-28,10,1
+476,According To You,Orianthi,66,2009-12-26,2009-12-26,10,1
+477,If It Kills Me,Jason Mraz,68,2009-08-01,2009-08-22,10,2
+478,Digital Girl,"Jamie Foxx Featuring Drake, Kanye West + The-Dream",67,2009-08-22,2009-08-22,9,1
+479,Gone Too Soon,Michael Jackson,67,2009-07-25,2009-07-25,9,1
+480,Secrets,OneRepublic,67,2009-11-21,2009-11-21,9,1
+481,Too Many Rappers,Beastie Boys Featuring Nas,67,2009-08-08,2009-08-08,9,1
+482,Fearless,Taylor Swift,67,2009-05-16,2009-05-16,9,1
+483,Magnificent,U2,67,2009-03-21,2009-03-21,9,1
+484,"Baby, It's Cold Outside",Dean Martin,67,2009-01-03,2009-01-03,9,1
+485,Rain,Creed,67,2009-10-24,2009-10-24,9,1
+486,Silent Night,Mariah Carey,67,2009-12-26,2009-12-26,9,1
+487,I'm In,Keith Urban,67,2009-04-04,2009-04-04,9,1
+488,War,Sean Kingston,68,2009-09-12,2009-09-12,8,1
+489,Wavin' Flag,K'Naan,68,2009-03-14,2009-03-14,8,1
+490,Working On A Dream,Bruce Springsteen,68,2009-02-21,2009-02-21,8,1
+491,It's Your Life,Francesca Battistelli,68,2009-12-12,2009-12-12,8,1
+492,"It's Alright, It's OK",Ashley Tisdale,68,2009-05-02,2009-05-02,8,1
+493,At Last,Etta James,68,2009-02-07,2009-02-07,8,1
+494,Shut It Down,Pitbull Featuring Akon,68,2009-09-19,2009-09-19,8,1
+495,No Air,Jordin Sparks Duet With Chris Brown,69,2009-01-17,2009-01-17,7,1
+496,"Baby, It's Cold Outside",Lady Antebellum,69,2009-01-03,2009-01-03,7,1
+497,Kings And Queens,Thirty Seconds To Mars,69,2009-10-31,2009-10-31,7,1
+498,Stronger,Kanye West,69,2009-02-21,2009-02-21,7,1
+499,Say,John Mayer,69,2009-02-28,2009-02-28,7,1
+500,Small Town USA,Justin Moore,69,2009-08-29,2009-08-29,7,1
+501,Bad Girlfriend,Theory Of A Deadman,71,2009-04-04,2009-04-11,7,2
+502,Wanted Dead Or Alive,Bon Jovi,70,2009-01-31,2009-01-31,6,1
+503,Scream,Michael Jackson & Janet Jackson,70,2009-07-11,2009-07-11,6,1
+504,"Let It Snow, Let It Snow, Let It Snow",Michael Buble,70,2009-12-19,2009-12-19,6,1
+505,Never Ever,Ciara Featuring Young Jeezy,71,2009-03-14,2009-03-14,5,1
+506,One And The Same,Selena Gomez & Demi Lovato,71,2009-07-18,2009-07-18,5,1
+507,America's Suitehearts,Fall Out Boy,71,2009-05-16,2009-05-16,5,1
+508,Everybody Loves Me,OneRepublic,71,2009-11-07,2009-11-07,5,1
+509,You Don't Belong,Daughtry,71,2009-08-01,2009-08-01,5,1
+510,It Won't Be Like This For Long,Darius Rucker,72,2009-05-02,2009-05-02,4,1
+511,Consider Me Gone,Reba,72,2009-11-28,2009-11-28,4,1
+512,Angel,Kate Voegele,72,2009-05-09,2009-05-09,4,1
+513,Rockstar,Nickelback,72,2009-01-10,2009-01-10,4,1
+514,Pocketful Of Sunshine,Natasha Bedingfield,72,2009-01-17,2009-01-17,4,1
+515,Naturally,Selena Gomez & The Scene,72,2009-10-17,2009-10-17,4,1
+516,Santa Claus Is Comin' To Town,Bruce Springsteen,72,2009-01-03,2009-01-03,4,1
+517,Never Can Say Goodbye,Jackson 5,72,2009-07-11,2009-07-11,4,1
+518,Runaway,Love And Theft,72,2009-09-12,2009-09-12,4,1
+519,Soundtrack 2 My Life,Kid Cudi,72,2009-10-03,2009-10-03,4,1
+520,Flashing Lights,Kanye West Featuring Dwele,72,2009-01-24,2009-01-24,4,1
+521,Give Me The Meltdown,Rob Thomas,72,2009-06-27,2009-06-27,4,1
+522,Falling Slowly,Kris Allen,72,2009-06-06,2009-06-06,4,1
+523,J**z In My Pants,The Lonely Island,73,2009-01-10,2009-01-10,3,1
+524,Chillin,Wale Feat. Lady Gaga,73,2009-09-12,2009-09-12,3,1
+525,My Love,The-Dream Featuring Mariah Carey,73,2009-03-21,2009-03-21,3,1
+526,We Weren't Born To Follow,Bon Jovi,73,2009-11-28,2009-11-28,3,1
+527,Rockin' Around The Christmas Tree,Brenda Lee,74,2009-01-03,2009-12-26,3,2
+528,Alive,The Black Eyed Peas,74,2009-06-13,2009-06-13,2,1
+529,Bust Your Windows,Glee Cast,74,2009-10-03,2009-10-03,2,1
+530,Keep You,Sugarland,74,2009-11-28,2009-11-28,2,1
+531,Rehab,Glee Cast,74,2009-06-06,2009-06-06,2,1
+532,Wheels,Foo Fighters,74,2009-10-17,2009-10-17,2,1
+533,What We Talkin' About,Jay-Z + Luke Steele,75,2009-10-10,2009-10-10,1,1
+534,Welcome To The Future,Brad Paisley,75,2009-11-28,2009-11-28,1,1
+535,Cryin',Adam Lambert,75,2009-06-06,2009-06-06,1,1
+536,Ben,Michael Jackson,75,2009-07-11,2009-07-11,1,1
+537,Weightless,All Time Low,75,2009-04-25,2009-04-25,1,1
+538,World War III,Jonas Brothers,75,2009-07-04,2009-07-04,1,1
+539,God Love Her,Toby Keith,75,2009-02-14,2009-02-14,1,1
+540,We Belong To The Music,Timbaland Featuring Miley Cyrus,75,2009-12-19,2009-12-19,1,1
+541,Change,Carrie Underwood,75,2009-11-21,2009-11-21,1,1

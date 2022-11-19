@@ -1,0 +1,163 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Brave,Sara Bareilles,3,2013-05-18,2013-12-28,951,33
+2,"Gone, Gone, Gone",Phillip Phillips,3,2013-03-02,2013-09-21,928,30
+3,Just Give Me A Reason,P!nk Featuring Nate Ruess,1,2013-03-16,2013-09-07,899,26
+4,Daylight,Maroon 5,1,2013-01-05,2013-06-29,878,26
+5,Ho Hey,The Lumineers,1,2013-01-05,2013-06-08,852,23
+6,Love Somebody,Maroon 5,1,2013-05-25,2013-11-16,832,26
+7,Carry On,fun.,4,2013-01-19,2013-07-13,787,26
+8,Radioactive,Imagine Dragons,2,2013-04-13,2013-10-12,774,27
+9,Safe And Sound,Capital Cities,2,2013-07-13,2013-12-28,766,25
+10,When I Was Your Man,Bruno Mars,1,2013-02-09,2013-07-20,755,24
+11,Mirrors,Justin Timberlake,1,2013-04-27,2013-10-05,746,24
+12,Cups (Pitch Perfect's When I'm Gone),Anna Kendrick,2,2013-05-25,2013-11-09,740,25
+13,Stay,Rihanna Featuring Mikky Ekko,2,2013-03-09,2013-08-24,740,25
+14,I Will Wait,Mumford & Sons,1,2013-01-05,2013-06-01,736,22
+15,Counting Stars,OneRepublic,1,2013-06-29,2013-12-28,719,27
+16,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,1,2013-06-29,2013-11-23,714,22
+17,Next To Me,Emeli Sande,3,2013-01-26,2013-07-20,691,26
+18,Catch My Breath,Kelly Clarkson,4,2013-01-05,2013-05-18,671,20
+19,Roar,Katy Perry,1,2013-08-24,2013-12-28,659,19
+20,Try,P!nk,1,2013-01-05,2013-05-04,642,18
+21,I Knew You Were Trouble.,Taylor Swift,1,2013-01-05,2013-05-11,640,19
+22,Royals,Lorde,1,2013-08-17,2013-12-28,615,20
+23,Let Her Go,Passenger,4,2013-07-27,2013-12-28,582,23
+24,True Love,P!nk Featuring Lily Allen,4,2013-07-27,2013-12-07,564,20
+25,Locked Out Of Heaven,Bruno Mars,2,2013-01-05,2013-04-13,541,15
+26,Treasure,Bruno Mars,6,2013-06-01,2013-10-12,541,20
+27,Everything Has Changed,Taylor Swift Featuring Ed Sheeran,8,2013-08-03,2013-12-14,521,20
+28,Wake Me Up!,Avicii,1,2013-09-14,2013-12-28,515,16
+29,Madness,Muse,11,2013-01-05,2013-05-18,512,20
+30,Suit & Tie,Justin Timberlake Featuring JAY Z,8,2013-02-02,2013-06-15,510,20
+31,Cruise,Florida Georgia Line Featuring Nelly,6,2013-04-27,2013-09-07,496,20
+32,Red Hands,Walk Off The Earth,14,2013-04-06,2013-09-14,478,24
+33,Little Talks,Of Monsters And Men,6,2013-01-05,2013-04-06,461,14
+34,Get Lucky,Daft Punk Featuring Pharrell Williams,8,2013-06-01,2013-10-12,460,20
+35,Lego House,Ed Sheeran,10,2013-02-23,2013-07-06,454,20
+36,Applause,Lady Gaga,8,2013-08-31,2013-12-28,448,18
+37,Bruises,Train Featuring Ashley Monroe,11,2013-06-15,2013-10-26,443,20
+38,People Like Us,Kelly Clarkson,7,2013-05-04,2013-09-07,431,19
+39,Demons,Imagine Dragons,2,2013-09-14,2013-12-28,428,16
+40,I Love It,Icona Pop Featuring Charli XCX,11,2013-05-11,2013-09-21,426,20
+41,Still Into You,Paramore,11,2013-06-22,2013-12-07,409,25
+42,Don't You Worry Child,Swedish House Mafia Featuring John Martin,14,2013-01-12,2013-05-25,404,20
+43,22,Taylor Swift,9,2013-03-30,2013-08-03,401,19
+44,Girl On Fire,Alicia Keys Featuring Nicki Minaj,10,2013-01-05,2013-05-04,396,18
+45,Mermaid,Train,12,2013-01-05,2013-04-27,381,17
+46,Best I Ever Had,Gavin DeGraw,14,2013-07-13,2013-11-16,373,19
+47,Come Along,Vicci Martinez Featuring Cee Lo Green,17,2013-01-05,2013-05-25,366,21
+48,Clarity,Zedd Featuring Foxes,16,2013-07-20,2013-11-30,361,20
+49,Rebel Beat,Goo Goo Dolls,16,2013-02-16,2013-06-29,350,20
+50,It's Time,Imagine Dragons,8,2013-01-05,2013-03-16,349,11
+51,Wanted,Hunter Hayes,12,2013-01-05,2013-03-30,347,13
+52,Heart Attack,Demi Lovato,12,2013-03-30,2013-07-20,329,17
+53,Home,Phillip Phillips,2,2013-01-05,2013-03-02,326,9
+54,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,15,2013-03-30,2013-08-10,318,20
+55,Come & Get It,Selena Gomez,17,2013-05-25,2013-10-05,310,20
+56,Wrecking Ball,Miley Cyrus,7,2013-10-12,2013-12-28,306,12
+57,Troublemaker,Olly Murs Featuring Flo Rida,13,2013-02-23,2013-06-29,305,19
+58,Our Song,matchbox twenty,19,2013-05-04,2013-09-14,303,20
+59,Best Day Of My Life,American Authors,7,2013-10-05,2013-12-28,297,13
+60,Come To Me,Goo Goo Dolls,17,2013-08-31,2013-12-28,293,18
+61,Because We Can,Bon Jovi,17,2013-01-26,2013-05-11,285,16
+62,Feel This Moment,Pitbull Featuring Christina Aguilera,18,2013-04-06,2013-08-17,282,20
+63,Overjoyed,matchbox twenty,16,2013-01-05,2013-03-30,269,13
+64,Should've Gone To Bed,Plain White T's,20,2013-05-11,2013-09-07,269,18
+65,Sweater Weather,The Neighbourhood,13,2013-09-14,2013-12-28,258,16
+66,Out Of My League,Fitz And The Tantrums,16,2013-09-21,2013-12-28,251,15
+67,Waiting For Superman,Daughtry,14,2013-10-19,2013-12-28,248,11
+68,Summertime Sadness,Lana Del Rey & Cedric Gervais,16,2013-09-14,2013-12-07,235,13
+69,Unconditionally,Katy Perry,10,2013-11-09,2013-12-28,217,8
+70,Diamonds,Rihanna,14,2013-01-05,2013-03-09,217,10
+71,Who You Love,John Mayer Featuring Katy Perry,18,2013-10-12,2013-12-28,210,12
+72,It's A Beautiful Day,Michael Buble,22,2013-04-20,2013-09-07,208,17
+73,"Lessons In Love (All Day, All Night)",Neon Trees Featuring Kaskade,19,2013-01-05,2013-03-23,206,12
+74,The A Team,Ed Sheeran,6,2013-01-05,2013-02-09,205,6
+75,Here's To Never Growing Up,Avril Lavigne,21,2013-05-04,2013-08-03,204,14
+76,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,25,2013-06-08,2013-10-19,203,20
+77,Some Nights,fun.,6,2013-01-05,2013-02-09,202,6
+78,Hall Of Fame,The Script Featuring will.i.am,14,2013-01-05,2013-04-06,198,8
+79,Sweet Nothing,Calvin Harris Featuring Florence Welch,20,2013-02-16,2013-05-25,195,15
+80,If I Lose Myself,OneRepublic,23,2013-02-23,2013-06-01,194,15
+81,Love Don't Die,The Fray,11,2013-11-09,2013-12-28,185,8
+82,The Other Side,Jason Derulo,22,2013-07-06,2013-10-05,182,14
+83,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,23,2013-06-22,2013-10-19,180,18
+84,One More Night,Maroon 5,4,2013-01-05,2013-02-02,179,5
+85,Scream & Shout,will.i.am & Britney Spears,23,2013-02-09,2013-05-25,170,16
+86,I'm Alive (Life Sounds Like),Michael Franti & Spearhead,25,2013-07-06,2013-10-19,167,16
+87,Say Something,A Great Big World & Christina Aguilera,12,2013-10-26,2013-12-28,166,10
+88,"Hold On, We're Going Home",Drake Featuring Majid Jordan,19,2013-10-26,2013-12-28,160,10
+89,My Kind Of Love,Emeli Sande,24,2013-09-28,2013-12-21,159,13
+90,Mountain Sound,Of Monsters And Men,25,2013-06-22,2013-09-21,149,14
+91,Feel Again,OneRepublic,8,2013-01-05,2013-02-02,148,5
+92,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,20,2013-01-05,2013-03-23,147,12
+93,Can't Help,Parachute,21,2013-07-27,2013-11-09,146,16
+94,Between The Raindrops,Lifehouse Featuring Natasha Bedingfield,21,2013-01-05,2013-02-23,139,8
+95,Take Back The Night,Justin Timberlake,21,2013-08-10,2013-10-12,136,10
+96,Love Me Again,John Newman,23,2013-10-19,2013-12-28,128,11
+97,Take A Walk,Passion Pit,24,2013-01-05,2013-03-30,128,13
+98,Let Me Go,Avril Lavigne Featuring Chad Kroeger,22,2013-11-02,2013-12-28,126,9
+99,Gorilla,Bruno Mars,23,2013-10-12,2013-11-30,118,8
+100,Die Young,Ke$ha,22,2013-01-05,2013-03-02,116,9
+101,We Come Running,Youngblood Hawke,26,2013-03-09,2013-05-18,113,11
+102,I Need Your Love,Calvin Harris Featuring Ellie Goulding,23,2013-08-17,2013-11-09,111,13
+103,Closer,Tegan And Sara,30,2013-03-16,2013-06-15,110,14
+104,What If,Five For Fighting,29,2013-09-21,2013-12-07,106,12
+105,Too Close,Alex Clare,9,2013-01-05,2013-01-19,95,3
+106,C'mon,Ke$ha,27,2013-02-09,2013-04-06,94,9
+107,93 Million Miles,Jason Mraz,25,2013-01-05,2013-02-16,93,7
+108,365 Days,ZZ Ward,28,2013-10-19,2013-12-28,92,11
+109,Pompeii,Bastille,21,2013-11-16,2013-12-28,91,7
+110,Just A Fool,Christina Aguilera With Blake Shelton,28,2013-01-05,2013-03-16,88,11
+111,Bones,Ginny Blackmore,30,2013-04-06,2013-06-22,85,12
+112,Skyfall,Adele,27,2013-01-05,2013-03-16,83,11
+113,Stars,Grace Potter & The Nocturnals,27,2013-01-05,2013-02-16,78,7
+114,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,27,2013-01-05,2013-03-23,75,11
+115,Soldier,Gavin DeGraw,26,2013-01-05,2013-02-09,73,6
+116,Restless Heart,Matt Hires,33,2013-03-23,2013-06-15,70,13
+117,Sail,AWOLNATION,31,2013-10-05,2013-12-28,67,12
+118,Slow Down,Selena Gomez,26,2013-11-16,2013-12-28,64,7
+119,Make A Move,Gavin DeGraw,25,2013-11-30,2013-12-28,63,5
+120,Hold On,Colbie Caillat,18,2013-12-07,2013-12-28,62,4
+121,#Beautiful,Mariah Carey Featuring Miguel,30,2013-05-25,2013-07-27,62,9
+122,Bonfire Heart,James Blunt,31,2013-10-26,2013-12-28,57,10
+123,Blow Me (One Last Kiss),P!nk,14,2013-01-05,2013-01-12,53,2
+124,Marry Me,Jason Derulo,27,2013-11-30,2013-12-28,50,5
+125,Stompa,Serena Ryder,34,2013-07-06,2013-09-28,48,13
+126,Miss Me,Andy Grammer,19,2013-01-05,2013-01-12,42,2
+127,The Giving Tree,Plain White T's,31,2013-11-02,2013-12-28,41,8
+128,We Are Never Ever Getting Back Together,Taylor Swift,22,2013-01-05,2013-01-12,38,2
+129,Hold On,Alabama Shakes,33,2013-03-23,2013-05-18,37,9
+130,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,35,2013-03-23,2013-06-22,35,11
+131,In A World Like This,Backstreet Boys,34,2013-10-19,2013-11-23,34,6
+132,Story Of My Life,One Direction,25,2013-12-14,2013-12-28,32,3
+133,Human,Christina Perri,28,2013-12-14,2013-12-28,32,3
+134,Don't Wake Me Up,Chris Brown,33,2013-01-05,2013-02-02,28,5
+135,Blown Away,Carrie Underwood,31,2013-01-05,2013-01-26,25,4
+136,Mission Bells,Matt Nathanson,35,2013-09-21,2013-10-26,25,6
+137,Carried Away,Passion Pit,34,2013-06-01,2013-06-22,23,4
+138,Lover Of The Light,Mumford & Sons,36,2013-06-29,2013-08-10,23,7
+139,Stay The Night,Zedd Featuring Hayley Williams,33,2013-12-14,2013-12-28,18,3
+140,Sirens,Pearl Jam,34,2013-11-23,2013-12-21,17,5
+141,Remix (I Like The),New Kids On The Block,38,2013-04-13,2013-06-15,15,6
+142,Team,Lorde,30,2013-12-21,2013-12-28,14,2
+143,Lucky Strike,Maroon 5,36,2013-11-23,2013-12-28,14,5
+144,Do What U Want,Lady Gaga Featuring R. Kelly,34,2013-12-21,2013-12-28,13,2
+145,American Girl,Bonnie McKee,37,2013-09-28,2013-10-19,13,4
+146,Timber,Pitbull Featuring Ke$ha,32,2013-12-14,2013-12-28,12,3
+147,I Cry,Flo Rida,37,2013-01-05,2013-02-02,12,5
+148,TKO,Justin Timberlake,36,2013-11-30,2013-12-14,11,3
+149,The Monster,Eminem Featuring Rihanna,36,2013-12-21,2013-12-28,9,2
+150,Don't Stop The Party,Pitbull Featuring TJR,38,2013-02-02,2013-02-16,7,3
+151,Picking Up The Pieces,Paloma Faith,39,2013-02-16,2013-03-09,6,4
+152,Shooting Star,Owl City,39,2013-01-19,2013-01-26,4,2
+153,Heartbeat Slowing Down,The All-American Rejects,39,2013-02-09,2013-02-23,4,3
+154,This Is The New Year,A Great Big World,39,2013-08-10,2013-08-24,4,3
+155,Harlem,New Politics,39,2013-10-26,2013-11-02,3,2
+156,Get The Girl Back,Hanson,39,2013-06-22,2013-06-29,3,2
+157,I Could Be A King,The Dunwells,39,2013-04-13,2013-04-20,3,2
+158,All Of Me,John Legend,40,2013-12-28,2013-12-28,1,1
+159,The Way,Ariana Grande Featuring Mac Miller,40,2013-07-06,2013-07-06,1,1
+160,We Can't Stop,Miley Cyrus,40,2013-09-14,2013-09-14,1,1
+161,As Long As You Love Me,Justin Bieber Featuring Big Sean,40,2013-01-19,2013-01-19,1,1
+162,Best Song Ever,One Direction,40,2013-09-28,2013-09-28,1,1

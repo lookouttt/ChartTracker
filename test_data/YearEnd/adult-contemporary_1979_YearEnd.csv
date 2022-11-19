@@ -1,0 +1,295 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Lead Me On,Maxine Nightingale,1,1979-05-12,1979-11-03,2352,26
+2,Crazy Love,Poco,1,1979-01-20,1979-06-09,1948,21
+3,Rise,Herb Alpert,1,1979-06-30,1979-12-01,1867,23
+4,Shadows In The Moonlight,Anne Murray,1,1979-05-19,1979-10-27,1849,24
+5,Morning Dance,Spyro Gyra,1,1979-04-28,1979-10-27,1750,27
+6,Just When I Needed You Most,Randy VanWarmer,1,1979-03-03,1979-08-04,1666,23
+7,LOVE IS THE ANSWER,England Dan & John Ford Coley,1,1979-03-17,1979-08-04,1657,21
+8,She Believes In Me,Kenny Rogers,1,1979-04-28,1979-08-11,1647,16
+9,Where Were You When I Was Falling In Love,Lobo,1,1979-07-21,1979-12-01,1643,20
+10,You're Only Lonely,J.D. Souther,1,1979-09-29,1979-12-29,1590,14
+11,Different Worlds,Maureen McGovern,1,1979-06-30,1979-11-17,1580,21
+12,Broken Hearted Me,Anne Murray,1,1979-09-22,1979-12-29,1559,15
+13,I Just Fall In Love Again,Anne Murray,1,1979-01-27,1979-05-12,1504,16
+14,You Decorated My Life,Kenny Rogers,2,1979-09-22,1979-12-29,1448,15
+15,Lotta Love,Nicolette Larson,1,1979-01-06,1979-05-12,1444,19
+16,Mama Can't Buy You Love,Elton John,1,1979-06-16,1979-10-13,1341,18
+17,The Main Event/Fight,Barbra Streisand,2,1979-06-23,1979-10-27,1291,19
+18,I'll Never Love This Way Again,Dionne Warwick,5,1979-05-26,1979-11-10,1283,25
+19,Forever In Blue Jeans,Neil Diamond,2,1979-01-27,1979-05-12,1274,16
+20,After The Love Has Gone,"Earth, Wind & Fire",3,1979-07-14,1979-12-01,1246,21
+21,All Things Are Possible,Dan Peek,6,1979-06-30,1979-12-29,1154,27
+22,Blow Away,George Harrison,2,1979-03-17,1979-06-16,1087,14
+23,This Night Won't Last Forever,Michael Johnson,5,1979-08-04,1979-12-08,1084,19
+24,I Never Said I Love You,Orsa Lia,1,1979-02-24,1979-06-16,1075,17
+25,When You're In Love With A Beautiful Woman,Dr. Hook,5,1979-04-28,1979-09-22,1075,22
+26,The Gambler,Kenny Rogers,3,1979-01-06,1979-04-21,1057,16
+27,Can You Read My Mind,Maureen McGovern,5,1979-02-17,1979-06-23,1041,19
+28,Stumblin' In,Suzi Quatro & Chris Norman,4,1979-02-24,1979-06-30,1000,19
+29,Heart Of The Night,Poco,5,1979-05-26,1979-10-27,910,23
+30,Ships,Barry Manilow,4,1979-10-13,1979-12-29,895,12
+31,If You Remember Me,Chris Thompson & Night,7,1979-06-30,1979-12-08,887,24
+32,Somewhere In The Night,Barry Manilow,4,1979-01-06,1979-03-31,881,13
+33,Music Box Dancer,Frank Mills,4,1979-02-03,1979-06-02,872,18
+34,Reunited,Peaches & Herb,4,1979-03-31,1979-07-21,867,17
+35,Say Maybe,Neil Diamond,3,1979-05-19,1979-08-04,850,12
+36,No Tell Lover,Chicago,5,1979-01-13,1979-04-21,838,15
+37,A Little More Love,Olivia Newton-John,4,1979-01-06,1979-04-21,835,16
+38,This Moment In Time,Engelbert Humperdinck,1,1979-01-06,1979-03-10,793,10
+39,Deeper Than The Night,Olivia Newton-John,4,1979-04-28,1979-07-28,789,14
+40,Up On The Roof,James Taylor,7,1979-05-26,1979-10-13,789,21
+41,My Life,Billy Joel,2,1979-01-06,1979-03-10,783,10
+42,Lady,Little River Band,7,1979-01-20,1979-05-19,769,18
+43,Dancin' Shoes,Nigel Olsson,8,1979-01-13,1979-04-21,696,15
+44,Sad Eyes,Robert John,10,1979-05-19,1979-11-03,683,25
+45,Do That To Me One More Time,Captain & Tennille,4,1979-11-03,1979-12-29,661,9
+46,Send One Your Love,Stevie Wonder,1,1979-11-10,1979-12-29,650,8
+47,Better Love Next Time,Dr. Hook,3,1979-10-20,1979-12-29,641,11
+48,Still,Commodores,6,1979-10-13,1979-12-29,638,12
+49,Since I Don't Have You,Art Garfunkel,5,1979-06-02,1979-08-11,635,11
+50,Too Much Heaven,Bee Gees,4,1979-01-06,1979-03-10,630,10
+51,Deja Vu,Dionne Warwick,3,1979-10-27,1979-12-29,623,10
+52,Suspicions,Eddie Rabbitt,9,1979-06-16,1979-10-20,611,19
+53,Ooh Baby Baby,Linda Ronstadt,3,1979-01-06,1979-02-24,604,8
+54,Promises,Eric Clapton,6,1979-01-06,1979-03-17,590,11
+55,I Know A Heartache When I See One,Jennifer Warnes,14,1979-06-16,1979-11-10,588,22
+56,(If Loving You Is Wrong) I Don't Want To Be Right,Barbara Mandrell,6,1979-03-31,1979-07-14,583,16
+57,"So Good, So Right",Brenda Russell,8,1979-08-25,1979-12-08,563,16
+58,Then You Can Tell Me Goodbye,Toby Beau,7,1979-08-11,1979-11-03,560,13
+59,Half The Way,Crystal Gayle,9,1979-09-22,1979-12-29,493,15
+60,Sail On,Commodores,9,1979-08-18,1979-11-10,488,13
+61,Don't Cry Out Loud,Melissa Manchester,9,1979-01-06,1979-03-17,481,11
+62,Time Passages,Al Stewart,1,1979-01-06,1979-02-17,473,7
+63,Honesty,Billy Joel,9,1979-04-28,1979-07-21,464,13
+64,What You Won't Do For Love,Bobby Caldwell,10,1979-02-03,1979-05-19,463,16
+65,I Want Your Love,Chic,9,1979-03-10,1979-06-02,456,13
+66,I Will Survive,Gloria Gaynor,9,1979-01-27,1979-05-12,454,16
+67,Peter Piper,Frank Mills,6,1979-11-03,1979-12-29,453,9
+68,I'd Rather Leave While I'm In Love,Rita Coolidge,4,1979-11-17,1979-12-29,438,7
+69,Please Don't Leave,Lauren Wood,5,1979-10-20,1979-12-08,437,8
+70,No More Tears (Enough Is Enough),Barbra Streisand/Donna Summer,7,1979-10-27,1979-12-29,434,10
+71,Just One Look,Linda Ronstadt,5,1979-02-24,1979-04-28,429,10
+72,Do It Or Die,Atlanta Rhythm Section,11,1979-06-09,1979-09-01,418,13
+73,We Don't Talk Anymore,Cliff Richard,5,1979-11-10,1979-12-29,417,8
+74,Good Friend,Mary Macgregor,11,1979-08-11,1979-11-10,415,14
+75,I'll Come Running,Livingston Taylor,8,1979-03-03,1979-05-19,414,12
+76,(Our Love) Don't Throw It All Away,Andy Gibb,5,1979-01-06,1979-02-24,408,8
+77,Babe,Styx,9,1979-10-20,1979-12-29,383,11
+78,"Goodbye, I Love You",Firefall,10,1979-01-20,1979-04-21,368,14
+79,Escape (The Pina Colada Song),Rupert Holmes,8,1979-11-03,1979-12-29,362,9
+80,Take Me Home,Cher,19,1979-02-24,1979-06-09,361,16
+81,Cool Change,Little River Band,8,1979-11-03,1979-12-29,359,9
+82,Lonesome Loser,Little River Band,15,1979-08-04,1979-10-27,358,13
+83,Little Bit Of Soap,Nigel Olsson,9,1979-04-28,1979-06-30,349,10
+84,Song On The Radio,Al Stewart,10,1979-02-10,1979-04-21,339,11
+85,You Take My Breath Away,Rex Smith,11,1979-05-12,1979-07-21,339,11
+86,Baby I'm Burning/i Really Got The Feeling,Dolly Parton,11,1979-01-06,1979-03-17,336,11
+87,One Fine Day,Rita Coolidge,15,1979-08-25,1979-11-17,334,13
+88,Life Goes On,Charlie Rich,13,1979-08-11,1979-11-03,332,13
+89,When I Think Of You,Leif Garrett,11,1979-09-08,1979-12-01,331,13
+90,Theme From Ice Castles (through The Eyes Of Love),Melissa Manchester,13,1979-03-24,1979-06-23,328,14
+91,The Last Time I Felt Like This,Johnny Mathis And Jane Oliver,15,1979-02-24,1979-05-12,326,12
+92,Love You Inside Out,Bee Gees,15,1979-04-28,1979-07-28,326,14
+93,I Need Your Help Barry Manilow,Ray Stevens,11,1979-03-31,1979-06-23,325,13
+94,You're The Only One,Dolly Parton,14,1979-06-09,1979-08-25,325,12
+95,Coward Of The County,Kenny Rogers,6,1979-11-17,1979-12-29,314,7
+96,What's On Your Mind,John Denver,10,1979-03-31,1979-06-02,314,10
+97,Give A Little,Nicolette Larson,19,1979-06-23,1979-09-22,313,14
+98,You Don't Bring Me Flowers,Barbra Streisand & Neil Diamond,8,1979-01-06,1979-02-24,312,8
+99,In A Little While (i'll Be On My Way),Art Garfunkel,12,1979-04-07,1979-06-23,310,12
+100,Love Ballad,George Benson,12,1979-03-17,1979-06-02,309,12
+101,Rainbow Connection,Kermit (Jim Henson),18,1979-09-22,1979-12-29,289,15
+102,When I Dream,Crystal Gayle,20,1979-04-14,1979-07-14,286,14
+103,Looks Like Love Again,Dann Rogers,10,1979-10-27,1979-12-29,281,10
+104,Minute By Minute,The Doobie Brothers,13,1979-05-19,1979-07-28,280,11
+105,What A Fool Believes,The Doobie Brothers,22,1979-02-17,1979-05-12,277,13
+106,Love Takes Time,Orleans,13,1979-04-28,1979-06-30,272,10
+107,Get It Right Next Time,Gerry Rafferty,15,1979-08-25,1979-11-03,272,11
+108,I Believe You,Carpenters,9,1979-01-06,1979-02-17,267,7
+109,Pieces Of April,David Loggins,22,1979-06-09,1979-09-01,266,13
+110,Heaven Knows,Donna Summer With Brooklyn Dreams,17,1979-01-27,1979-04-21,260,13
+111,Fire,The Pointer Sisters,21,1979-01-20,1979-04-21,259,14
+112,Good Timin',The Beach Boys,12,1979-05-12,1979-07-07,256,9
+113,Chuck E.'s In Love,Rickie Lee Jones,20,1979-05-19,1979-07-28,253,11
+114,Sweets For My Sweet,Tony Orlando,20,1979-07-07,1979-09-22,247,12
+115,I Will Be In Love With You,Livingston Taylor,15,1979-01-06,1979-02-24,245,8
+116,What Can I Do With This Broken Heart,England Dan & John Ford Coley,12,1979-10-20,1979-12-08,241,8
+117,Dancin' 'round And 'round,Olivia Newton-John,25,1979-08-04,1979-10-20,236,12
+118,Tragedy,Bee Gees,19,1979-02-17,1979-04-21,233,10
+119,Days Gone Down (Still Got The Light In Your Eyes),Gerry Rafferty,17,1979-06-16,1979-08-11,230,9
+120,Hard Times For Lovers,Judy Collins,16,1979-03-24,1979-05-19,218,9
+121,You Need A Woman Tonight,Captain & Tennille,17,1979-01-06,1979-02-24,217,8
+122,Can You Fool,Glen Campbell,7,1979-01-06,1979-01-27,213,4
+123,Hold On,Ian Gomm,10,1979-10-06,1979-11-17,213,7
+124,You Can't Change That,Raydio,25,1979-05-19,1979-08-25,208,12
+125,Don't You Write Her Off,"McGuinn, Clark & Hillman",17,1979-04-07,1979-06-23,207,12
+126,Shake It,Ian Matthews,21,1979-01-13,1979-03-17,206,10
+127,Spooky,Atlanta Rhythm Section,23,1979-09-01,1979-11-03,201,10
+128,Get Used To It,Roger Voudouris,18,1979-04-07,1979-07-14,197,13
+129,Stormy,Santana,19,1979-01-20,1979-03-17,197,9
+130,Why Have You Left The One You Left Me For,Crystal Gayle,22,1979-01-06,1979-03-10,193,10
+131,Change Of Heart,Eric Carmen,18,1979-01-06,1979-02-17,192,7
+132,Forever,Orleans,24,1979-10-06,1979-12-08,190,10
+133,Chiquitita,ABBA,18,1979-11-17,1979-12-29,187,7
+134,Goodnight Tonight,Paul McCartney/Wings,30,1979-04-14,1979-06-23,187,11
+135,We Are Family,Sister Sledge,30,1979-06-02,1979-08-25,186,12
+136,Cool Breeze,The Jeremy Spencer Band,21,1979-08-04,1979-10-13,183,11
+137,Fooled By A Feeling,Barbara Mandrell,26,1979-09-01,1979-11-10,178,11
+138,Every Which Way But Loose,Eddie Rabbitt,26,1979-02-10,1979-04-21,171,11
+139,Bright Eyes,Art Garfunkel,29,1979-08-18,1979-10-20,159,10
+140,Good Times,Chic,28,1979-07-21,1979-09-22,158,10
+141,This Is Love,Paul Anka,15,1979-01-06,1979-02-03,149,5
+142,I Just Wanna Stop,Gino Vannelli,11,1979-01-06,1979-02-03,146,5
+143,Pretty Girls,Melissa Manchester,26,1979-11-10,1979-12-29,146,8
+144,This Is It,Kenny Loggins,24,1979-11-10,1979-12-29,144,8
+145,As Long As We Keep Believing,Paul Anka,29,1979-07-28,1979-09-22,142,9
+146,Sail Away,The Oak Ridge Boys,29,1979-05-19,1979-07-14,136,9
+147,Holdin' On For Dear Love,Lobo,17,1979-12-01,1979-12-29,134,5
+148,Please Don't Go,KC And The Sunshine Band,27,1979-10-20,1979-12-15,132,9
+149,Superman,Barbra Streisand,29,1979-03-24,1979-05-05,132,7
+150,Take The Long Way Home,Supertramp,28,1979-11-03,1979-12-29,131,9
+151,Simply Jessie,Rex Smith,31,1979-07-21,1979-09-15,131,9
+152,How You Gonna See Me Now,Alice Cooper,22,1979-01-06,1979-02-03,129,5
+153,Rotation,Herb Alpert,23,1979-11-24,1979-12-29,125,6
+154,"Yes,i'm Ready",Teri DeSario With K.C.,19,1979-11-24,1979-12-29,117,6
+155,The Devil Went Down To Georgia,Charlie Daniels Band,30,1979-07-28,1979-09-15,117,8
+156,Sharing The Night Together,Dr. Hook,21,1979-01-06,1979-02-03,115,5
+157,Home And Dry,Gerry Rafferty,26,1979-01-20,1979-02-24,112,6
+158,Dream Lover,Rick Nelson,29,1979-04-14,1979-06-02,111,8
+159,I Go To Rio,Pablo Cruise,29,1979-01-20,1979-03-17,111,9
+160,Wheels Of Life,Gino Vannelli,24,1979-02-10,1979-03-31,110,7
+161,The Piano Picker,George Fischoff,28,1979-01-06,1979-02-10,109,6
+162,Sweet Life,Paul Davis,19,1979-01-06,1979-01-27,107,4
+163,Oh Honey,Delegation,34,1979-03-03,1979-05-05,107,10
+164,Lost In Your Love,John Paul Young,28,1979-01-06,1979-02-17,105,7
+165,Dog And Butterfly,Heart,33,1979-02-17,1979-04-07,105,8
+166,Unchained Melody,George Benson,27,1979-07-21,1979-08-25,104,6
+167,Wait For Me,Daryl Hall John Oates,27,1979-11-24,1979-12-29,103,6
+168,Take It Like A Woman,Mary Welch,24,1979-01-06,1979-02-03,101,5
+169,"Baby, I Need Your Lovin'",Eric Carmen,30,1979-02-03,1979-03-17,101,7
+170,Smooth Sailin',Jim Weatherly,32,1979-11-17,1979-12-29,101,7
+171,Garden Song,John Denver,31,1979-07-07,1979-08-25,100,8
+172,The Wedding Song (There Is Love),Mary Macgregor,23,1979-01-06,1979-01-27,98,4
+173,Almost Gone,Barry Mann,30,1979-03-03,1979-04-21,97,8
+174,Dancing In The City,Marshall Hain,33,1979-01-20,1979-03-10,93,8
+175,Alison,Linda Ronstadt,30,1979-05-05,1979-06-09,90,6
+176,Can't Take My Eyes Off Of You,Maureen Mc Govern,28,1979-12-01,1979-12-29,89,5
+177,Your Kisses Will,Crystal Gayle,35,1979-08-04,1979-09-15,85,7
+178,Dependin' On You,The Doobie Brothers,37,1979-09-22,1979-11-03,83,7
+179,Rock With You,Michael Jackson,29,1979-11-17,1979-12-29,79,7
+180,Make Believe It's Your First Time,Bobby Vinton,30,1979-11-24,1979-12-29,79,6
+181,Goodbye Stranger,Supertramp,32,1979-08-18,1979-09-22,78,6
+182,Arrow Through Me,Paul McCartney/Wings,29,1979-09-22,1979-10-20,76,5
+183,We've Got Tonight,Bob Seger,29,1979-01-06,1979-02-03,68,5
+184,Right Down The Line,Gerry Rafferty,27,1979-01-06,1979-01-20,66,3
+185,Love Pains,Yvonne Elliman,33,1979-11-10,1979-12-08,66,5
+186,When I Wanted You,Barry Manilow,26,1979-12-15,1979-12-29,63,3
+187,Cruel To Be Kind,Nick Lowe,36,1979-09-22,1979-10-20,63,5
+188,Here I Go (Fallin' In Love Again),Frannie Golde,36,1979-07-21,1979-08-25,63,6
+189,Cruisin',Smokey Robinson,34,1979-12-01,1979-12-29,62,5
+190,All I Ever Need Is You,Kenny Rogers And Dottie West,38,1979-04-14,1979-06-02,62,8
+191,Moment By Moment,Yvonne Elliman,32,1979-01-20,1979-02-10,61,4
+192,Rhumba Girl,Nicolette Larson,38,1979-04-28,1979-06-02,60,6
+193,"Whenever I Call You ""friend""",Kenny Loggins,29,1979-01-06,1979-01-20,58,3
+194,Spy,Carly Simon,34,1979-09-01,1979-10-13,58,7
+195,Begin To Beguine,Johnny Mathis,37,1979-07-21,1979-08-18,58,5
+196,Precious Love,Bob Welch,42,1979-03-17,1979-05-12,58,9
+197,Do It In A Heartbeat,Carlene Carter,36,1979-11-17,1979-12-29,57,7
+198,Westward Wind,England Dan & John Ford Coley,30,1979-01-06,1979-01-20,56,3
+199,Every Time I Think Of You,The Babys,36,1979-03-03,1979-04-07,55,6
+200,Dance Away,Roxy Music,38,1979-05-26,1979-07-14,54,8
+201,She's Always A Woman,Billy Joel,25,1979-01-06,1979-01-13,52,2
+202,How Much I Feel,Ambrosia,20,1979-01-06,1979-01-13,51,2
+203,Amanda,Waylon Jennings,40,1979-06-09,1979-07-14,50,6
+204,This Time I'll Be Sweeter,Angela Bofill,39,1979-04-28,1979-06-09,49,7
+205,Angeleyes,ABBA,37,1979-09-29,1979-11-03,48,6
+206,No Chance,Moon Martin,37,1979-12-08,1979-12-29,47,4
+207,Shine A Little Love,Electric Light Orchestra,40,1979-06-30,1979-08-11,47,7
+208,The Dream Never Dies,Cooper Brothers,26,1979-01-06,1979-01-13,46,2
+209,Love Comes To Everyone,George Harrison,38,1979-06-23,1979-07-28,46,6
+210,Lady Lynda,The Beach Boys,39,1979-09-22,1979-10-20,46,5
+211,Voulez-Vous,ABBA,40,1979-08-18,1979-09-15,46,5
+212,Gold,John Stewart,42,1979-07-07,1979-08-18,45,7
+213,You Are My Miracle,Roger Whittaker,39,1979-11-24,1979-12-29,44,6
+214,Does Your Mother Know,ABBA,41,1979-06-30,1979-08-11,44,7
+215,The Boss,Diana Ross,41,1979-08-18,1979-10-06,44,7
+216,Strange Way,Firefall,28,1979-01-06,1979-01-13,42,2
+217,Fancy Dancer,Frankie Valli,36,1979-02-03,1979-03-03,42,5
+218,Heartache Tonight,Eagles,38,1979-10-27,1979-11-24,42,5
+219,September Morn',Neil Diamond,31,1979-12-22,1979-12-29,40,2
+220,I Was Made For Dancin',Leif Garrett,38,1979-01-20,1979-02-24,39,6
+221,Touch Me When We're Dancing,Bama,42,1979-09-01,1979-10-27,38,9
+222,Give Me An Inch,Ian Matthews,43,1979-03-24,1979-04-28,37,6
+223,Raining In My Heart,Leo Sayer,32,1979-01-06,1979-01-13,36,2
+224,"A Much,much Greater Love",Engelbert Humperdinck,39,1979-07-07,1979-07-28,36,4
+225,You Needed Me,Anne Murray,33,1979-01-06,1979-01-13,34,2
+226,God Bless The Childern,B.J. Thomas,40,1979-12-15,1979-12-29,33,3
+227,All The Time In The World,Dr. Hook,41,1979-03-03,1979-03-24,32,4
+228,An American Dream,The Dirt Band (Linda Ronstadt),39,1979-12-15,1979-12-29,31,3
+229,Sara,Fleetwood Mac,36,1979-12-22,1979-12-29,30,2
+230,Song For Guy,Elton John,37,1979-03-10,1979-03-31,30,4
+231,I Will Play A Rhapsody,Burton Cummings,38,1979-01-20,1979-02-10,30,3
+232,Ghost Dancer,Addrisi Brothers,41,1979-09-01,1979-09-22,30,4
+233,Make Love To Me,Helen Reddy,41,1979-06-09,1979-07-07,30,5
+234,Sweet Summer Lovin',Dolly Parton,41,1979-10-13,1979-11-10,30,5
+235,Love Me Again,Rita Coolidge,36,1979-01-06,1979-01-13,29,2
+236,I Don't Want To Be Lonely,Dana Valery,41,1979-12-15,1979-12-29,28,3
+237,Don't Hang Up Your Dancing Shoes,Ian Matthews,42,1979-06-02,1979-06-30,28,5
+238,We've Got Love,Peaches & Herb,43,1979-08-04,1979-08-25,28,4
+239,Love To Burn,O.C. Smith,37,1979-01-06,1979-01-13,26,2
+240,I'm Gonna Love You,Glen Campbell,38,1979-03-10,1979-03-24,26,3
+241,Heaven Must Have Sent You,Bonnie Pointer,43,1979-09-01,1979-09-29,25,4
+242,Four Strong Winds,Neil Young,43,1979-02-17,1979-03-17,25,5
+243,Travellin',The Jeremy Spencer Band,41,1979-12-15,1979-12-29,24,3
+244,Bellavia,Chuck Mangione,41,1979-03-17,1979-04-07,23,4
+245,New And Different Way,Jim Messina,43,1979-11-17,1979-12-08,23,4
+246,Can't Help Falling In Love,Engelbert Humperdinck,44,1979-05-05,1979-05-26,23,4
+247,See You In September,Debby Boone,45,1979-09-01,1979-10-06,23,6
+248,Forever Autumn,Justin Hayward,36,1979-01-06,1979-01-13,22,2
+249,September,"Earth, Wind & Fire",41,1979-01-20,1979-02-10,22,3
+250,Let Me Be Your Woman,Helen Reddy,43,1979-11-10,1979-12-15,22,5
+251,Sailing Without A Sail,Michael Johnson,44,1979-01-20,1979-02-10,22,4
+252,On The Shelf,Donny & Marie Osmond,40,1979-01-06,1979-01-13,21,2
+253,Confusion,Electric Light Orchestra,41,1979-11-10,1979-11-24,21,3
+254,Superman,Herbie Mann,46,1979-02-10,1979-04-21,21,5
+255,Everybody Needs Love,Stephen Bishop,40,1979-01-06,1979-01-13,20,2
+256,Chase,Giorgio Moroder,42,1979-02-24,1979-03-31,20,4
+257,With You I'm Born Again,Billy Preston & Syreeta,45,1979-12-15,1979-12-29,18,3
+258,Dream On,The Oak Ridge Boys,45,1979-09-29,1979-11-10,18,5
+259,Ready To Take A Chance Again,Barry Manilow,34,1979-01-06,1979-01-06,17,1
+260,You Can Do It,Dobie Gray,44,1979-02-17,1979-03-03,17,3
+261,Surrender To Me,"McGuinn, Clark & Hillman",45,1979-07-28,1979-08-25,17,5
+262,Sultans Of Swing,Dire Straits,46,1979-03-24,1979-04-21,17,5
+263,Hallelujah,Parker And Penny,46,1979-08-04,1979-09-15,17,5
+264,Morning Sun,Carole King,43,1979-01-06,1979-01-13,16,2
+265,My Prayer,Glen Campbell,42,1979-12-08,1979-12-29,15,4
+266,Fins,Jimmy Buffett,42,1979-11-03,1979-11-10,14,2
+267,Heart Of Glass,Blondie,44,1979-05-12,1979-05-26,14,3
+268,The Long Run,Eagles,46,1979-12-15,1979-12-29,14,3
+269,Only Time,Robert John,42,1979-11-10,1979-11-17,13,2
+270,DIM ALL THE LIGHTS,Donna Summer,44,1979-10-27,1979-11-10,13,3
+271,Land Of Make Believe,Chuck Mangione,44,1979-09-29,1979-10-13,13,3
+272,Volcano,Jimmy Buffett,46,1979-12-15,1979-12-29,13,3
+273,"Saturday Night, Sunday Morning",Thelma Houston,44,1979-06-09,1979-06-16,12,2
+274,Run For Home,Lindisfarne,45,1979-01-06,1979-01-13,12,2
+275,Disco Polka,Bobby Vinton,47,1979-09-01,1979-09-15,11,3
+276,I Apologize,Wayne Newton,45,1979-11-24,1979-12-08,9,3
+277,Makin' It,David Naughton,48,1979-07-07,1979-07-28,9,4
+278,Part-Time Love,Elton John,44,1979-01-06,1979-01-06,7,1
+279,"European Nights (Nothin' Fits Me Like You, Babe)",George Deffet,47,1979-01-06,1979-01-13,7,2
+280,Lost Her In The Sun,John Stewart,48,1979-12-22,1979-12-29,6,2
+281,Oh Boy,Starbabies,47,1979-04-28,1979-05-05,5,2
+282,Le Freak,Chic,48,1979-01-20,1979-01-27,5,2
+283,Come To Me,France Joli,47,1979-11-17,1979-11-17,4,1
+284,I Still Have Dreams,Richie Furay,48,1979-12-08,1979-12-15,4,2
+285,Georgy Porgy,Toto,49,1979-06-09,1979-06-16,4,2
+286,All My Life,America,48,1979-11-17,1979-11-17,3,1
+287,Star Crossed Lover,George Deffet,49,1979-04-28,1979-05-05,3,2
+288,Midnight Wind,John Stewart,49,1979-09-29,1979-09-29,2,1
+289,I Don't Wanna' Lose You,Daryl Hall John Oates,49,1979-02-10,1979-02-10,2,1
+290,Wisdom Of A Fool,Jacky Ward,49,1979-03-24,1979-03-24,2,1
+291,Don't Make Me Over,Jennifer Warnes,50,1979-12-22,1979-12-29,2,2
+292,Let The Song Last Forever,Dan Hill,50,1979-01-06,1979-01-06,1,1
+293,Woman In Love,The Three Degrees,50,1979-03-24,1979-03-24,1,1
+294,We're A Melody,The Jones Girls,50,1979-12-15,1979-12-15,1,1

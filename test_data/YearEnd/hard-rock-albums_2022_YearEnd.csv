@@ -1,0 +1,125 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Greatest Hits,Queen,1,2022-01-01,2022-11-05,1106,45
+2,Greatest Hits,Guns N' Roses,2,2022-01-01,2022-11-05,1001,44
+3,Back In Black,AC/DC,2,2022-01-01,2022-11-05,995,45
+4,The Best Of Nickelback: Volume 1,Nickelback,3,2022-01-01,2022-11-05,877,45
+5,Metallica,Metallica,2,2022-01-01,2022-11-05,865,45
+6,Greatest Hits,Foo Fighters,1,2022-01-01,2022-11-05,860,45
+7,Greatest Hits: The Ultimate Collection,Bon Jovi,4,2022-01-01,2022-11-05,841,45
+8,[Hybrid Theory],Linkin Park,9,2022-01-01,2022-11-05,709,45
+9,A Decade Of Destruction,Five Finger Death Punch,10,2022-01-01,2022-11-05,574,45
+10,Devil's Got A New Disguise: The Very Best Of Aerosmith,Aerosmith,6,2022-01-01,2022-11-05,512,31
+11,Vicennial: 2 Decades Of Seether,Seether,11,2022-01-01,2022-11-05,474,45
+12,Toxicity,System Of A Down,10,2022-01-01,2022-11-05,461,43
+13,The Greatest Hits,3 Doors Down,10,2022-01-01,2022-11-05,422,45
+14,Rage Against The Machine,Rage Against The Machine,11,2022-01-01,2022-11-05,398,44
+15,Led Zeppelin IV,Led Zeppelin,7,2022-01-01,2022-11-05,389,44
+16,Greatest Hits,Motley Crue,11,2022-01-01,2022-06-18,274,24
+17,Master Of Puppets,Metallica,2,2022-07-16,2022-11-05,264,17
+18,Melophobia,Cage The Elephant,16,2022-01-08,2022-11-05,182,39
+19,Meteora,Linkin Park,16,2022-01-08,2022-10-29,178,34
+20,The Dirt (Soundtrack),Motley Crue,9,2022-06-25,2022-09-10,138,10
+21,Aerosmith's Greatest Hits,Aerosmith,13,2022-04-09,2022-08-27,131,14
+22,Collide With The Sky,Pierce The Veil,14,2022-08-20,2022-11-05,115,12
+23,Mothership,Led Zeppelin,12,2022-02-12,2022-10-01,113,12
+24,Ride The Lightning,Metallica,11,2022-04-30,2022-09-03,112,11
+25,Greatest Hits I II & III: The Platinum Collection,Queen,12,2022-01-01,2022-08-13,105,21
+26,Impera,Ghost,1,2022-03-26,2022-05-07,104,7
+27,One - X,Three Days Grace,17,2022-01-15,2022-11-05,101,23
+28,Diamond Star Halos,Def Leppard,1,2022-06-11,2022-07-23,94,6
+29,Patient Number 9,Ozzy Osbourne,1,2022-09-24,2022-10-22,88,5
+30,AfterLife,Five Finger Death Punch,1,2022-09-03,2022-10-08,83,6
+31,Dirt,Alice In Chains,1,2022-10-08,2022-11-05,78,5
+32,The Essential Ozzy Osbourne,Ozzy Osbourne,19,2022-04-02,2022-10-22,76,23
+33,"The End, So Far",Slipknot,1,2022-10-15,2022-11-05,69,4
+34,Planet Zero,Shinedown,1,2022-07-16,2022-08-06,67,4
+35,"The Sick, The Dying... And The Dead!",Megadeth,1,2022-09-17,2022-10-01,61,3
+36,System Of A Down,System Of A Down,7,2022-05-07,2022-10-15,53,5
+37,Hysteria,Def Leppard,18,2022-02-12,2022-08-13,53,15
+38,Greatest Hits Vol. I,Korn,18,2022-01-22,2022-05-21,46,7
+39,Fear Inoculum,Tool,1,2022-04-23,2022-08-20,45,2
+40,Moving Pictures,Rush,1,2022-04-30,2022-05-14,44,3
+41,Christmas Eve And Other Stories,Trans-Siberian Orchestra,2,2022-01-01,2022-01-08,44,2
+42,The Battle At Garden’s Gate,Greta Van Fleet,11,2022-01-01,2022-01-22,42,4
+43,Scoring The End Of The World,Motionless In White,1,2022-06-25,2022-07-02,41,2
+44,Requiem,Korn,1,2022-02-19,2022-02-26,40,2
+45,Jackpot Juicer,Dance Gavin Dance,1,2022-08-13,2022-08-20,40,2
+46,The Best Of Both Worlds,Van Halen,12,2022-06-11,2022-07-02,39,3
+47,Led Zeppelin,Led Zeppelin,14,2022-01-01,2022-04-09,37,6
+48,True Power,I Prevail,3,2022-09-03,2022-09-10,36,2
+49,shaLLow bay: The Best Of Breaking Benjamin,Breaking Benjamin,20,2022-01-22,2022-06-04,33,11
+50,Zeit,Rammstein,1,2022-05-14,2022-05-21,32,2
+51,Vaxis II: A Window Of The Waking Mind,Coheed And Cambria,1,2022-07-09,2022-07-16,31,2
+52,4,Slash Featuring Myles Kennedy And The Conspirators,2,2022-02-26,2022-03-05,31,2
+53,Are You Experienced,The Jimi Hendrix Experience,10,2022-01-01,2022-01-15,31,3
+54,All The Right Reasons,Nickelback,13,2022-01-15,2022-08-27,31,3
+55,Back From The Dead,Halestorm,2,2022-05-21,2022-05-28,30,2
+56,Nirvana,Nirvana,4,2022-08-27,2022-10-08,30,4
+57,Dominion,Skillet,2,2022-01-29,2022-02-05,27,2
+58,rearviewmirror: Greatest Hits 1991-2003,Pearl Jam,1,2022-04-02,2022-04-02,25,1
+59,Omens,Lamb Of God,1,2022-10-22,2022-10-22,25,1
+60,The War To End All Wars,Sabaton,2,2022-03-19,2022-03-19,24,1
+61,Bat Out Of Hell II: Back Into Hell,Meat Loaf,2,2022-02-05,2022-02-05,24,1
+62,Queens Of The Stone Age,Queens Of The Stone Age,2,2022-11-05,2022-11-05,24,1
+63,Pawns & Kings,Alter Bridge,2,2022-10-29,2022-10-29,24,1
+64,Portals (EP),Kirk Hammett,2,2022-05-07,2022-05-07,24,1
+65,Live On Two Legs,Pearl Jam,2,2022-07-02,2022-07-02,24,1
+66,Rock Believer,Scorpions,2,2022-03-12,2022-03-12,24,1
+67,Sunrise On Slaughter Beach,Clutch,3,2022-10-01,2022-10-01,23,1
+68,Ten,Pearl Jam,17,2022-01-01,2022-02-26,23,7
+69,Crazy Times,Sammy Hagar And The Circle,4,2022-10-15,2022-10-15,22,1
+70,Appetite For Destruction,Guns N' Roses,4,2022-09-10,2022-09-10,22,1
+71,Explosions,Three Days Grace,4,2022-05-21,2022-05-21,22,1
+72,Immutable,Meshuggah,5,2022-04-16,2022-04-16,21,1
+73,Experience Hendrix: The Best Of Jimi Hendrix,Jimi Hendrix,16,2022-01-01,2022-08-27,21,5
+74,Ego Trip,Papa Roach,6,2022-04-23,2022-04-23,20,1
+75,Voyeurist,Underoath,6,2022-01-29,2022-01-29,20,1
+76,Iowa,Slipknot,6,2022-05-28,2022-05-28,20,1
+77,Raw ('That Little Ol' Band From Texas') (Soundtrack),ZZ Top,8,2022-08-06,2022-08-13,20,2
+78,Pain Remains,Lorna Shore,7,2022-10-29,2022-10-29,19,1
+79,Hotel Kalifornia,Hollywood Undead,8,2022-08-27,2022-08-27,18,1
+80,The Great Heathen Army,Amon Amarth,10,2022-08-20,2022-08-20,16,1
+81,Color Decay,The Devil Wears Prada,11,2022-10-01,2022-10-01,15,1
+82,The Death Of Peace Of Mind,Bad Omens,11,2022-03-12,2022-03-12,15,1
+83,The Elephants Of Mars,Joe Satriani,11,2022-04-23,2022-04-23,15,1
+84,The Final Battle,Stryper,11,2022-11-05,2022-11-05,15,1
+85,Goin' 50,ZZ Top,22,2022-04-30,2022-07-16,15,7
+86,Vol. 3: (The Subliminal Verses),Slipknot,12,2022-07-02,2022-07-02,14,1
+87,1971: The Road Starts Hear,Aerosmith,12,2022-04-23,2022-04-23,14,1
+88,Darker Still,Parkway Drive,13,2022-09-24,2022-09-24,13,1
+89,Slipknot,Slipknot,14,2022-05-07,2022-05-07,12,1
+90,Holy Diver,Dio,14,2022-07-23,2022-07-23,12,1
+91,Digital Noise Alliance,Queensryche,14,2022-10-22,2022-10-22,12,1
+92,Spirits,Nothing More,14,2022-10-29,2022-10-29,12,1
+93,Fallen,Evanescence,18,2022-01-08,2022-09-24,12,5
+94,Greatest Hits,Creed,24,2022-02-12,2022-05-14,12,9
+95,Lateralus,Tool,15,2022-04-09,2022-04-09,11,1
+96,The Sire Albums 1981-1989,The Ramones,15,2022-05-07,2022-05-07,11,1
+97,Deceivers,Arch Enemy,15,2022-08-27,2022-08-27,11,1
+98,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,17,2022-05-28,2022-06-04,11,2
+99,Oh What The Future Holds,Fit For An Autopsy,16,2022-01-29,2022-01-29,10,1
+100,Parrhesia,Animals As Leaders,16,2022-04-09,2022-04-09,10,1
+101,Remade In Misery,Memphis May Fire,16,2022-06-18,2022-06-18,10,1
+102,Dr. Feelgood,Motley Crue,18,2022-02-26,2022-08-06,9,2
+103,ØF KINGDØM AND CRØWN,Machine Head,18,2022-09-10,2022-09-10,8,1
+104,A Eulogy For Those Still Here,Counterparts,19,2022-10-22,2022-10-22,7,1
+105,The Gang's All Here,Skid Row,19,2022-10-29,2022-10-29,7,1
+106,The Ultimate Collection,Black Sabbath,23,2022-06-04,2022-08-13,7,4
+107,This World Is Going To Ruin You,Vein.Fm,20,2022-03-19,2022-03-19,6,1
+108,A Tribute To Led Zeppelin,Beth Hart,20,2022-03-12,2022-03-12,6,1
+109,Dream Widow,Dream Widow,20,2022-04-09,2022-04-09,6,1
+110,"KISS Off The Soundboard:Veterans Memorial Auditorium,Des Moines,Nov.29,1977",KISS,21,2022-09-24,2022-09-24,5,1
+111,.5: The Gray Chapter,Slipknot,21,2022-08-06,2022-08-06,5,1
+112,All Hope Is Gone,Slipknot,21,2022-09-10,2022-09-10,5,1
+113,Follow The Leader,Korn,22,2022-09-03,2022-09-03,4,1
+114,...And Justice For All,Metallica,22,2022-07-23,2022-07-23,4,1
+115,The Ghosts Of Christmas Eve,Trans-Siberian Orchestra,22,2022-01-01,2022-01-01,4,1
+116,Minutes To Midnight,Linkin Park,23,2022-01-29,2022-11-05,4,2
+117,Pyromania,Def Leppard,23,2022-05-21,2022-06-11,4,2
+118,Free LSD,OFF!,23,2022-10-15,2022-10-15,3,1
+119,Led Zeppelin II,Led Zeppelin,23,2022-01-01,2022-01-01,3,1
+120,Three Sides Of One,King's X,24,2022-09-17,2022-09-17,2,1
+121,The Classic Symptoms Of A Broken Spirit,Architects,24,2022-11-05,2022-11-05,2,1
+122,Greatest KISS,KISS,24,2022-07-09,2022-07-09,2,1
+123,Darkbloom,We Came As Romans,25,2022-10-29,2022-10-29,1,1
+124,Garage Inc.,Metallica,25,2022-07-02,2022-07-02,1,1

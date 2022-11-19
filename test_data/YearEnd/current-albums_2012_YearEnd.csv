@@ -1,0 +1,930 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,21,Adele,1,2012-01-07,2012-12-29,7429,52
+2,Up All Night,One Direction,1,2012-03-31,2012-12-29,4678,40
+3,Tailgates & Tanlines,Luke Bryan,9,2012-01-07,2012-12-29,4422,52
+4,Chief,Eric Church,13,2012-01-07,2012-12-29,3705,52
+5,Some Nights,fun.,2,2012-03-10,2012-12-29,3660,43
+6,El Camino,The Black Keys,3,2012-01-07,2012-12-29,3401,51
+7,Sigh No More,Mumford & Sons,12,2012-01-07,2012-12-29,3401,52
+8,Take Care,Drake,2,2012-01-07,2012-10-13,3384,41
+9,Blown Away,Carrie Underwood,1,2012-05-19,2012-12-29,3254,33
+10,Teenage Dream,Katy Perry,2,2012-01-07,2012-12-29,3127,52
+11,My Kinda Party,Jason Aldean,13,2012-01-07,2012-12-01,3104,48
+12,Believe,Justin Bieber,1,2012-07-07,2012-12-29,2922,26
+13,Talk That Talk,Rihanna,5,2012-01-07,2012-09-29,2864,39
+14,Making Mirrors,Gotye,6,2012-01-28,2012-10-13,2789,38
+15,Overexposed,Maroon 5,2,2012-07-14,2012-12-29,2680,25
+16,Stronger,Kelly Clarkson,10,2012-01-07,2012-12-08,2640,41
+17,Tuskegee,Lionel Richie,1,2012-04-14,2012-12-08,2516,25
+18,My Head Is An Animal,Of Monsters And Men,6,2012-04-21,2012-12-29,2507,37
+19,Own The Night,Lady Antebellum,4,2012-01-07,2012-11-17,2506,40
+20,The Lumineers,The Lumineers,11,2012-04-21,2012-12-29,2472,37
+21,Mylo Xyloto,Coldplay,5,2012-01-07,2012-09-22,2242,38
+22,Pink Friday: Roman Reloaded,Nicki Minaj,1,2012-04-21,2012-12-29,2194,31
+23,Halfway To Heaven,Brantley Gilbert,36,2012-01-07,2012-12-01,2193,48
+24,Ceremonials,Florence + The Machine,6,2012-01-07,2012-11-03,2131,44
+25,Bangarang (EP),Skrillex,14,2012-01-14,2012-10-13,2112,40
+26,Uncaged,Zac Brown Band,1,2012-07-28,2012-12-29,2078,23
+27,Sorry For Party Rocking,LMFAO,5,2012-01-07,2012-08-04,2003,31
+28,NOW 41,Various Artists,2,2012-02-25,2012-07-21,1942,22
+29,TM:103: Hustlerz Ambition,Young Jeezy,3,2012-01-07,2012-09-08,1881,25
+30,Born To Die,Lana Del Rey,2,2012-02-18,2012-12-29,1806,44
+31,Here And Now,Nickelback,8,2012-01-07,2012-08-18,1750,30
+32,NOW 43,Various Artists,1,2012-08-25,2012-12-29,1749,19
+33,The Band Perry,The Band Perry,17,2012-01-07,2012-09-15,1731,37
+34,NOW 42,Various Artists,3,2012-05-19,2012-09-29,1694,20
+35,Babel,Mumford & Sons,1,2012-10-13,2012-12-29,1664,12
+36,Welcome To The Fishbowl,Kenny Chesney,2,2012-07-07,2012-12-29,1634,26
+37,California 37,Train,4,2012-05-05,2012-12-15,1618,32
+38,Love Is A Four Letter Word,Jason Mraz,2,2012-05-05,2012-10-27,1612,26
+39,Hunter Hayes,Hunter Hayes,24,2012-06-02,2012-12-29,1608,30
+40,Red,Taylor Swift,1,2012-11-10,2012-12-29,1567,8
+41,The Truth About Love,P!nk,1,2012-10-06,2012-12-29,1560,13
+42,Based On A T.R.U. Story,2 Chainz,1,2012-09-01,2012-12-29,1528,18
+43,Boys & Girls,Alabama Shakes,8,2012-04-21,2012-10-20,1502,27
+44,Red River Blue,Blake Shelton,21,2012-01-07,2012-12-29,1498,35
+45,Born And Raised,John Mayer,1,2012-06-09,2012-10-13,1477,19
+46,+,Ed Sheeran,5,2012-06-30,2012-12-29,1450,27
+47,Tornado,Little Big Town,2,2012-09-29,2012-12-29,1449,14
+48,Living Things,Linkin Park,1,2012-07-14,2012-11-24,1441,20
+49,Looking 4 Myself,Usher,1,2012-06-30,2012-12-08,1412,20
+50,Changed,Rascal Flatts,3,2012-04-21,2012-12-29,1394,30
+51,Tha Carter IV,Lil Wayne,7,2012-01-07,2012-09-08,1345,26
+52,Blunderbuss,Jack White,1,2012-05-12,2012-12-29,1323,21
+53,Four The Record,Miranda Lambert,23,2012-01-07,2012-12-29,1323,31
+54,Clear As Day,Scotty McCreery,11,2012-01-07,2012-07-28,1319,26
+55,Fortune,Chris Brown,1,2012-07-21,2012-12-08,1314,20
+56,You Get What You Give,Zac Brown Band,16,2012-01-07,2012-09-08,1307,36
+57,Channel Orange,Frank Ocean,2,2012-07-28,2012-12-29,1304,22
+58,Doo-Wops & Hooligans,Bruno Mars,6,2012-01-07,2012-06-23,1290,25
+59,Kidz Bop 22,Kidz Bop Kids,3,2012-08-04,2012-12-29,1253,21
+60,"God Forgives, I Don't",Rick Ross,1,2012-08-18,2012-12-08,1232,16
+61,Careless World: Rise Of The Last King,Tyga,3,2012-03-10,2012-09-08,1226,21
+62,Hard 2 Love,Lee Brice,5,2012-05-12,2012-11-24,1219,28
+63,Hands All Over,Maroon 5,23,2012-01-07,2012-07-07,1217,27
+64,Clancy's Tavern,Toby Keith,8,2012-01-07,2012-08-04,1194,29
+65,Watch The Throne,Jay Z Kanye West,14,2012-01-07,2012-07-21,1178,22
+66,Night Visions,Imagine Dragons,2,2012-09-22,2012-12-29,1171,15
+67,"Merry Christmas, Baby",Rod Stewart,3,2012-11-17,2012-12-29,1169,7
+68,Night Train,Jason Aldean,1,2012-11-03,2012-12-29,1157,9
+69,Kidz Bop 21,Kidz Bop Kids,2,2012-02-04,2012-07-28,1150,19
+70,...Little Broken Hearts,Norah Jones,2,2012-05-19,2012-09-29,1138,17
+71,Torches,Foster The People,13,2012-01-07,2012-09-08,1135,30
+72,My Life II...The Journey Continues (Act 1),Mary J. Blige,11,2012-01-07,2012-05-05,1103,18
+73,Wrecking Ball,Bruce Springsteen,1,2012-03-24,2012-09-22,1077,14
+74,The Hunger Games: Songs From District 12 And Beyond,Soundtrack,1,2012-04-07,2012-09-08,1075,14
+75,Barton Hollow,The Civil Wars,8,2012-01-14,2012-07-14,1072,26
+76,A Different Kind Of Truth,Van Halen,2,2012-02-25,2012-05-19,1043,13
+77,Amaryllis,Shinedown,4,2012-04-14,2012-10-13,1037,25
+78,Speak Now,Taylor Swift,23,2012-01-07,2012-05-26,1017,21
+79,Life Is Good,Nas,1,2012-08-04,2012-10-20,1007,12
+80,Scary Monsters And Nice Sprites (EP),Skrillex,45,2012-01-07,2012-07-07,1002,27
+81,2012 Grammy Nominees,Various Artists,3,2012-02-11,2012-05-12,984,13
+82,Up All Night,Kip Moore,6,2012-05-12,2012-12-08,974,22
+83,Chapter V,Trey Songz,1,2012-09-08,2012-12-01,943,13
+84,4,Beyonce,21,2012-01-07,2012-05-19,932,20
+85,Come To The Well,Casting Crowns,40,2012-01-07,2012-12-29,925,29
+86,Slipstream,Bonnie Raitt,6,2012-04-28,2012-07-28,908,14
+87,NOW 40,Various Artists,9,2012-01-07,2012-04-21,893,15
+88,Take Me Home,One Direction,1,2012-12-01,2012-12-29,890,5
+89,Away From The World,Dave Matthews Band,1,2012-09-29,2012-12-29,887,14
+90,Eye On It,tobyMac,1,2012-09-15,2012-12-29,885,16
+91,Rock Of Ages,Soundtrack,5,2012-06-23,2012-11-24,880,14
+92,"Cheers, It's Christmas",Blake Shelton,7,2012-10-20,2012-12-29,876,11
+93,Project X,Soundtrack,10,2012-03-17,2012-09-22,853,18
+94,"good kid, m.A.A.d city",Kendrick Lamar,2,2012-11-10,2012-12-29,836,8
+95,Christmas With Scotty McCreery,Scotty McCreery,4,2012-11-03,2012-12-29,835,9
+96,Kanye West Presents GOOD Music Cruel Summer,Various Artists,2,2012-10-06,2012-12-15,830,11
+97,Thirty Miles West,Alan Jackson,2,2012-06-23,2012-09-22,826,14
+98,Kaleidoscope Dream,Miguel,3,2012-10-20,2012-12-29,824,11
+99,Nothing But The Beat,David Guetta,32,2012-01-14,2012-10-27,823,30
+100,Duets II,Tony Bennett,17,2012-01-07,2012-04-21,811,16
+101,Emotional Traffic,Tim McGraw,2,2012-02-11,2012-07-28,810,19
+102,Strange Clouds,B.o.B,5,2012-05-19,2012-09-15,802,17
+103,On This Winter's Night,Lady Antebellum,7,2012-11-10,2012-12-29,802,8
+104,American Capitalist,Five Finger Death Punch,36,2012-01-07,2012-09-15,791,28
+105,Wild Ones,Flo Rida,14,2012-07-21,2012-12-01,770,20
+106,Maybach Music Group Presents: Self Made 2,Various Artists,4,2012-07-14,2012-09-22,761,11
+107,The Twilight Saga: Breaking Dawn: Part 1,Soundtrack,14,2012-01-07,2012-04-21,761,16
+108,Pluto,Future,8,2012-05-05,2012-12-22,760,25
+109,Write Me Back,R. Kelly,5,2012-07-14,2012-09-29,750,12
+110,Lioness: Hidden Treasures,Amy Winehouse,15,2012-01-07,2012-05-05,743,16
+111,NOW That's What I Call Country: Volume  5,Various Artists,13,2012-06-30,2012-09-29,713,14
+112,WOW Hits 2013,Various Artists,35,2012-10-13,2012-12-29,702,12
+113,Clockwork Angels,Rush,2,2012-06-30,2012-09-29,701,12
+114,Break The Spell,Daughtry,20,2012-01-07,2012-04-21,693,15
+115,Kiss,Carly Rae Jepsen,6,2012-10-06,2012-12-29,683,13
+116,NOW 44,Various Artists,2,2012-11-24,2012-12-29,678,6
+117,Battle Born,The Killers,3,2012-10-06,2012-12-15,678,11
+118,Kisses On The Bottom,Paul McCartney,5,2012-02-25,2012-09-29,655,10
+119,MDNA,Madonna,1,2012-04-14,2012-10-06,647,10
+120,The 2nd Law,Muse,2,2012-10-20,2012-12-29,644,10
+121,North,matchbox twenty,1,2012-09-22,2012-12-22,643,9
+122,The Idler Wheel Is Wiser Than...,Fiona Apple,3,2012-07-07,2012-09-01,642,9
+123,Punching Bag,Josh Turner,4,2012-06-30,2012-09-15,632,12
+124,The Carpenter,The Avett Brothers,4,2012-09-29,2012-12-15,624,11
+125,Shake It Up: Live 2 Dance: Music From The Disney Channel Series,Soundtrack,13,2012-04-07,2012-06-16,624,11
+126,The Heist,Macklemore & Ryan Lewis,2,2012-10-27,2012-12-29,620,9
+127,Port Of Morrow,The Shins,3,2012-04-07,2012-06-16,620,11
+128,Uno!,Green Day,2,2012-10-13,2012-12-29,614,10
+129,Born This Way,Lady Gaga,24,2012-01-07,2012-04-07,612,13
+130,Cole World: The Sideline Story,J. Cole,38,2012-01-07,2012-05-05,601,18
+131,The World From The Side Of The Moon,Phillip Phillips,4,2012-12-08,2012-12-29,591,4
+132,Americana,Neil Young With Crazy Horse,4,2012-06-23,2012-11-03,582,9
+133,Tempest,Bob Dylan,3,2012-09-29,2012-11-10,574,7
+134,The Fresh Beat Band: Music From The Hit TV Show,Soundtrack,20,2012-02-18,2012-05-12,573,12
+135,Declaration Of Independence,Colt Ford,4,2012-08-25,2012-11-03,557,10
+136,Back To Love,Anthony Hamilton,22,2012-01-07,2012-04-21,554,15
+137,Planet Pit,Pitbull,61,2012-01-07,2012-09-08,548,27
+138,Let It Shine,Soundtrack,12,2012-06-30,2012-08-25,545,9
+139,Dreams Of Fireflies (On A Christmas Night) (EP),Trans-Siberian Orchestra,9,2012-11-17,2012-12-29,539,7
+140,That's Why God Made The Radio,The Beach Boys,3,2012-06-23,2012-08-04,527,7
+141,Songs From The Silver Screen,Jackie Evancho,7,2012-10-20,2012-12-29,523,10
+142,Unapologetic,Rihanna,1,2012-12-08,2012-12-29,522,4
+143,The Wanted,The Wanted,7,2012-05-12,2012-09-08,511,13
+144,Best Days,Tamela Mann,14,2012-09-01,2012-11-24,504,13
+145,Perfectly Imperfect,Elle Varner,3,2012-08-25,2012-10-13,503,8
+146,Dreams And Nightmares,Meek Mill,2,2012-11-17,2012-12-22,501,6
+147,Pitch Perfect,Soundtrack,12,2012-10-13,2012-12-01,495,8
+148,New Life,Monica,4,2012-04-28,2012-06-09,492,7
+149,Push And Shove,No Doubt,3,2012-10-13,2012-12-08,482,8
+150,Halcyon,Ellie Goulding,9,2012-10-27,2012-12-29,477,10
+151,Two Eleven,Brandy,3,2012-11-03,2012-12-08,474,6
+152,What We Saw From The Cheap Seats,Regina Spektor,3,2012-06-16,2012-09-15,471,7
+153,Girl On Fire,Alicia Keys,1,2012-12-15,2012-12-29,468,3
+154,Hope On The Rocks,Toby Keith,6,2012-11-17,2012-12-29,468,7
+155,Home,Dierks Bentley,6,2012-02-25,2012-06-16,468,12
+156,Think Like A Man,Soundtrack,21,2012-04-28,2012-09-22,462,9
+157,Coexist,The xx,5,2012-09-29,2012-11-17,461,8
+158,Trespassing,Adam Lambert,1,2012-06-02,2012-07-07,458,6
+159,Scars & Stories,The Fray,4,2012-02-25,2012-05-19,451,9
+160,The Path Of Totality,Korn,39,2012-01-07,2012-03-24,448,12
+161,The Twilight Saga: Breaking Dawn: Part 2,Soundtrack,3,2012-12-01,2012-12-29,445,5
+162,I Win,Marvin Sapp,9,2012-04-21,2012-06-16,442,9
+163,Viva Duets,Tony Bennett,5,2012-11-10,2012-12-29,439,8
+164,R.E.D,Ne-Yo,4,2012-11-24,2012-12-29,437,6
+165,Pink Friday,Nicki Minaj,56,2012-01-07,2012-04-21,435,16
+166,Ultimate Hits: Rock And Roll Never Forgets,Bob Seger & The Silver Bullet Band,43,2012-01-07,2012-12-08,434,14
+167,Old Ideas,Leonard Cohen,3,2012-02-18,2012-03-31,428,7
+168,Rebel Soul,Kid Rock,5,2012-12-08,2012-12-29,427,4
+169,Glad Rag Doll,Diana Krall,6,2012-10-20,2012-12-29,425,7
+170,Gravity,Lecrae,3,2012-09-22,2012-11-03,423,7
+171,Music From Another Dimension!,Aerosmith,5,2012-11-24,2012-12-29,415,6
+172,Go Get It (Soundtrack),Mary Mary,16,2012-05-26,2012-07-14,411,8
+173,Food & Liquor II: The Great American Rap Album Pt. 1,Lupe Fiasco,5,2012-10-13,2012-11-17,409,6
+174,Ambition,Wale,56,2012-01-07,2012-04-07,409,14
+175,The MF Life,Melanie Fiona,7,2012-04-07,2012-05-19,399,7
+176,Monster,KISS,3,2012-10-27,2012-12-08,397,6
+177,Transit Of Venus,Three Days Grace,5,2012-10-20,2012-12-01,397,7
+178,American Idol: Season 11: Highlights (EP),Phillip Phillips,25,2012-07-21,2012-09-01,397,7
+179,Trilogy,The Weeknd,4,2012-12-01,2012-12-29,396,5
+180,Gossamer,Passion Pit,4,2012-08-11,2012-10-13,396,8
+181,SMASH,Soundtrack,9,2012-05-19,2012-06-23,395,6
+182,Apocalyptic Love,Slash Featuring Myles Kennedy And The Conspirators,4,2012-06-09,2012-08-11,393,6
+183,Bloom,Beach House,7,2012-06-02,2012-07-21,390,6
+184,Sparkle,Soundtrack,20,2012-08-18,2012-09-22,387,6
+185,Wasting Light,Foo Fighters,19,2012-01-07,2012-08-11,386,13
+186,God's Not Dead,newsboys,44,2012-03-03,2012-12-08,384,17
+187,WOW Gospel 2012,Various Artists,28,2012-02-11,2012-05-26,383,13
+188,Lace Up,MGK,4,2012-10-27,2012-11-24,379,5
+189,Identity,James Fortune & FIYA,7,2012-02-04,2012-03-17,378,7
+190,The Lateness Of The Hour,Alex Clare,43,2012-04-28,2012-11-10,371,15
+191,Lotus,Christina Aguilera,7,2012-12-01,2012-12-29,365,5
+192,Standing Ovation: The Greatest Songs From The Stage,Susan Boyle,12,2012-12-01,2012-12-29,365,5
+193,Celebration Day,Led Zeppelin,9,2012-12-08,2012-12-29,363,4
+194,The Hurt & The Healer,MercyMe,7,2012-06-09,2012-09-15,360,7
+195,Radio Music Society,Esperanza Spalding,9,2012-04-07,2012-06-09,359,8
+196,Kiss The Ring,DJ Khaled,4,2012-09-08,2012-09-29,347,4
+197,Continued Silence (EP),Imagine Dragons,37,2012-07-21,2012-09-15,347,9
+198,Welcome To: Our House,Slaughterhouse,2,2012-09-15,2012-10-06,336,4
+199,Album Title Goes Here,deadmau5,6,2012-10-13,2012-11-10,336,5
+200,Here,Edward Sharpe & The Magnetic Zeros,5,2012-06-16,2012-07-21,333,6
+201,The Dark Knight Rises,Soundtrack,7,2012-08-04,2012-09-01,330,5
+202,Release Me,Barbra Streisand,7,2012-10-27,2012-11-24,327,5
+203,Woman To Woman,Keyshia Cole,10,2012-12-08,2012-12-29,324,4
+204,Give Us Rest Or (A Requiem Mass In C [The Happiest Of All Keys]),David Crowder Band,2,2012-01-28,2012-02-18,323,4
+205,"Glee: The Music, Season Three: The Graduation Album",Soundtrack,8,2012-06-02,2012-06-30,323,5
+206,Oceania,The Smashing Pumpkins,4,2012-07-07,2012-08-04,322,5
+207,The Dreamer / The Believer,Common,17,2012-01-07,2012-02-04,322,5
+208,Open Invitation,Tyrese,52,2012-01-07,2012-05-05,318,15
+209,Dustin Lynch,Dustin Lynch,13,2012-09-08,2012-10-20,315,7
+210,Handwritten,The Gaslight Anthem,3,2012-08-11,2012-09-01,313,4
+211,Rize Of The Fenix,Tenacious D,4,2012-06-02,2012-07-21,313,6
+212,Unbroken,Demi Lovato,25,2012-01-07,2012-10-13,312,13
+213,Live From The Underground,Big K.R.I.T.,5,2012-06-23,2012-07-21,310,5
+214,King Animal,Soundgarden,5,2012-12-01,2012-12-29,309,5
+215,Live Across America,Josh Turner,46,2012-09-15,2012-10-27,308,7
+216,The Strange Case Of...,Halestorm,15,2012-04-28,2012-09-22,299,9
+217,GRRR!,The Rolling Stones,19,2012-12-01,2012-12-29,298,5
+218,Born To Sing : No Plan B,Van Morrison,10,2012-10-20,2012-11-17,297,5
+219,Blak And Blu,Gary Clark Jr.,6,2012-11-10,2012-12-01,296,4
+220,La Futura,ZZ Top,6,2012-09-29,2012-11-10,296,7
+221,Greatest Hits: Chapter One,Kelly Clarkson,11,2012-12-08,2012-12-29,296,4
+222,Joyful Noise,Soundtrack,12,2012-01-28,2012-02-25,295,5
+223,Believe,Celtic Woman,13,2012-02-11,2012-04-07,295,7
+224,Fallen Empires,Snow Patrol,5,2012-01-28,2012-03-10,291,4
+225,Blessings,Laura Story,28,2012-05-05,2012-06-09,290,6
+226,Hell On Heels,Pistol Annies,67,2012-01-07,2012-09-01,289,18
+227,Voice Of Ages,The Chieftains,12,2012-03-10,2012-04-07,287,5
+228,Top 25 Praise Songs 2012 Edition,Various Artists,21,2012-03-24,2012-05-05,285,7
+229,The OF Tape Vol. 2,Odd Future,5,2012-04-07,2012-04-28,284,4
+230,Avengers: Assemble,Soundtrack,11,2012-05-19,2012-06-16,284,5
+231,Christmas,Michael Buble,1,2012-01-07,2012-01-14,278,2
+232,Neck Of The Woods,Silversun Pickups,6,2012-05-26,2012-06-16,278,4
+233,Soul 2,Seal,8,2012-02-11,2012-03-10,277,5
+234,A Thousand Miles Left Behind,Gloriana,10,2012-08-18,2012-09-15,277,5
+235,Bon Iver,Bon Iver,27,2012-01-14,2012-03-17,277,8
+236,Evanescence,Evanescence,29,2012-01-07,2012-02-25,277,8
+237,Havoc And Bright Lights,Alanis Morissette,5,2012-09-15,2012-10-06,272,4
+238,Christmas In The Sand,Colbie Caillat,37,2012-11-10,2012-12-29,272,7
+239,Triple F Life: Fans Friends & Family,Waka Flocka Flame,10,2012-06-30,2012-07-28,271,5
+240,Living For A Song: A Tribute to Hank Cochran,Jamey Johnson,5,2012-11-03,2012-11-24,270,4
+241,Mighty Death Pop,Insane Clown Posse,4,2012-09-01,2012-09-22,269,4
+242,This Is How I Feel,Tank,9,2012-05-26,2012-06-23,269,5
+243,The Very Best Of Neil Diamond: The Studio Recordings,Neil Diamond,42,2012-01-07,2012-05-26,269,10
+244,When The Sun Goes Down,Selena Gomez & The Scene,44,2012-01-07,2012-03-17,269,11
+245,WZRD,WZRD,2,2012-03-17,2012-03-31,268,3
+246,NOW That's What I Call Today's Christmas,Various Artists,32,2012-11-24,2012-12-29,267,6
+247,O.N.I.F.C.,Wiz Khalifa,2,2012-12-22,2012-12-29,265,2
+248,Global Warming,Pitbull,14,2012-12-08,2012-12-29,265,4
+249,Cee Lo's Magic Moment,CeeLo Green,24,2012-11-17,2012-12-29,264,5
+250,Shields,Grizzly Bear,7,2012-10-06,2012-10-27,261,4
+251,House Of Gold & Bones: Part 1,Stone Sour,7,2012-11-10,2012-12-01,261,4
+252,Sticks & Stones,Cher Lloyd,9,2012-10-20,2012-11-17,261,5
+253,I Will Always Love You: The Best Of Whitney Houston,Whitney Houston,14,2012-12-01,2012-12-29,261,5
+254,Not Your Kind Of People,Garbage,13,2012-06-02,2012-07-14,260,5
+255,Concerto: One Night In Central Park,Andrea Bocelli,13,2012-01-07,2012-02-18,259,7
+256,Blood,In This Moment,15,2012-09-01,2012-10-13,254,7
+257,Home For Christmas,Celtic Woman,39,2012-11-24,2012-12-29,253,6
+258,Resolution,Lamb Of God,3,2012-02-11,2012-03-10,250,5
+259,Dos!,Green Day,9,2012-12-01,2012-12-29,250,5
+260,Love After War,Robin Thicke,51,2012-01-07,2012-02-25,250,8
+261,Triple Feature: I'm Your Baby Tonight/My Love Is Your Love/Just Whitney,Whitney Houston,14,2012-03-10,2012-04-07,247,5
+262,Phase II,Prince Royce,16,2012-04-28,2012-06-02,246,6
+263,The Midsummer Station,Owl City,7,2012-09-08,2012-10-06,245,5
+264,Austin & Ally (Soundtrack),Ross Lynch,27,2012-09-29,2012-11-10,244,7
+265,"God, Love & Romance",Fred Hammond,8,2012-02-18,2012-03-24,242,6
+266,Break It Yourself,Andrew Bird,9,2012-03-24,2012-05-05,241,4
+267,Synthetica,Metric,12,2012-06-30,2012-07-28,241,5
+268,Blue Slide Park,Mac Miller,33,2012-01-07,2012-04-07,240,6
+269,Psychedelic Pill,Neil Young & Crazy Horse,8,2012-11-17,2012-12-22,239,5
+270,Miracle,Third Day,10,2012-11-24,2012-12-29,238,6
+271,Under The Mistletoe,Justin Bieber,4,2012-01-07,2012-01-14,237,2
+272,Beyond Magnetic (EP),Metallica,27,2012-01-14,2012-03-10,237,6
+273,Collide With The Sky,Pierce The Veil,10,2012-08-04,2012-08-25,232,4
+274,Born Villain,Marilyn Manson,10,2012-05-19,2012-06-09,232,4
+275,Analog Man,Joe Walsh,12,2012-06-23,2012-07-21,230,5
+276,The Muppets,Soundtrack,48,2012-01-07,2012-05-12,230,9
+277,Brave,Soundtrack,33,2012-07-07,2012-08-04,228,5
+278,Holidays Rule,Various Artists,39,2012-12-01,2012-12-29,225,5
+279,Passion: White Flag,Passion,4,2012-03-31,2012-04-14,224,3
+280,The Struggle,Tenth Avenue North,9,2012-09-08,2012-09-29,224,4
+281,Warrior,Ke$ha,5,2012-12-22,2012-12-29,223,2
+282,Vows,Kimbra,14,2012-06-09,2012-07-21,222,4
+283,Old School New Rules,Hank Williams. Jr.,12,2012-07-28,2012-08-25,221,5
+284,Antennas To Hell,Slipknot,18,2012-08-11,2012-09-01,220,4
+285,The Afterman: Ascension,Coheed And Cambria,5,2012-10-27,2012-11-10,219,3
+286,Last Of A Dyin' Breed,Lynyrd Skynyrd,14,2012-09-08,2012-10-13,219,5
+287,Number One Hits,Tim McGraw,35,2012-01-21,2012-02-18,219,5
+288,Sun,Cat Power,10,2012-09-22,2012-10-13,218,4
+289,Heroes,Willie Nelson,18,2012-06-02,2012-06-30,217,5
+290,Voyage,Celtic Thunder,22,2012-03-17,2012-04-07,216,4
+291,Breakfast,Chiddy Bang,5,2012-03-10,2012-03-17,214,2
+292,Lights,Ellie Goulding,21,2012-07-14,2012-09-15,213,10
+293,Alvin And The Chipmunks: Chipwrecked,Soundtrack,35,2012-01-07,2012-02-04,213,5
+294,All Over The Road,Easton Corbin,11,2012-10-06,2012-11-03,207,5
+295,Jesus At The Center: Live,Israel & New Breed,31,2012-09-01,2012-09-29,207,5
+296,Home For The Holidays,Andre Rieu,53,2012-11-17,2012-12-29,203,7
+297,Vans Warped Tour '12: 2012 Tour Compilation,Various Artists,56,2012-07-07,2012-08-18,203,7
+298,#1 Girl,Mindless Behavior,52,2012-01-07,2012-02-25,198,7
+299,Reign Of Terror,Sleigh Bells,8,2012-03-10,2012-03-24,196,3
+300,Spring Break 4... Suntan City (EP),Luke Bryan,8,2012-03-24,2012-04-07,195,3
+301,Someone To Watch Over Me,Susan Boyle,24,2012-01-07,2012-01-28,193,4
+302,Chimes Of Freedom: The Songs Of Bob Dylan,Various Artists,11,2012-02-11,2012-03-03,192,4
+303,NOW That's What I Call Country Ballads,Various Artists,55,2012-02-11,2012-04-07,192,8
+304,Unorthodox Jukebox,Bruno Mars,2,2012-12-29,2012-12-29,189,1
+305,Don't Panic,All Time Low,6,2012-10-27,2012-11-03,188,2
+306,Here's To The Good Times,Florida Georgia Line,9,2012-12-22,2012-12-29,187,2
+307,WOW Hits 2012,Various Artists,54,2012-01-07,2012-05-12,187,12
+308,Bear Creek,Brandi Carlile,10,2012-06-23,2012-07-14,186,4
+309,Victorious: Victorious 2.0: More Music From The Hit TV Show (EP),Soundtrack,18,2012-06-23,2012-07-14,185,4
+310,A Very Special Christmas: 25 Years Bringing Joy To The World,Various Artists,49,2012-12-01,2012-12-29,185,5
+311,Valtari,Sigur Ros,7,2012-06-16,2012-06-30,184,3
+312,These Times,SafetySuit,7,2012-01-21,2012-01-28,183,2
+313,100 Proof,Kellie Pickler,7,2012-02-11,2012-03-03,183,4
+314,Unexpected Arrival,Diggy,12,2012-04-07,2012-04-21,177,3
+315,Dance Again ... The Hits,Jennifer Lopez,20,2012-08-11,2012-08-25,176,3
+316,Move,Third Day,59,2012-02-04,2012-03-10,176,6
+317,The Stoned Immaculate,Curren$Y,8,2012-06-23,2012-07-07,175,3
+318,NOW 39,Various Artists,55,2012-01-07,2012-02-18,175,6
+319,Underwater Sunshine (Or What We Did On Our Summer Vacation),Counting Crows,11,2012-04-28,2012-05-12,174,3
+320,Picture Show,Neon Trees,17,2012-05-05,2012-09-22,174,6
+321,Locked Down,Dr. John,31,2012-04-21,2012-05-12,173,4
+322,Paradise (EP),Lana Del Rey,10,2012-12-01,2012-12-22,172,4
+323,Impressions,Chris Botti,31,2012-05-05,2012-05-26,171,4
+324,Vulnerable,The Used,8,2012-04-14,2012-04-21,169,2
+325,Metalocalypse: Dethalbum III (Soundtrack),Dethklok,10,2012-11-03,2012-11-17,169,3
+326,3 Pears,Dwight Yoakam,18,2012-10-06,2012-10-27,168,4
+327,Hats Off To The Bull,Chevelle,62,2012-01-07,2012-08-11,168,8
+328,American Idol: Season 11: Phillip Phillips Journey To The Finale,Phillip Phillips,11,2012-06-09,2012-06-16,166,2
+329,The Soul Sessions: Vol. 2,Joss Stone,9,2012-08-18,2012-08-25,164,2
+330,Master Of My Make Believe,Santigold,20,2012-05-19,2012-06-16,162,4
+331,"Glee: The Music, Season 3: Volume 7",Soundtrack,42,2012-01-07,2012-02-04,162,5
+332,The Lion The Beast The Beat,Grace Potter & The Nocturnals,17,2012-06-30,2012-07-14,161,3
+333,Once Upon Another Time (EP),Sara Bareilles,8,2012-06-09,2012-06-16,160,2
+334,Black Radio,Robert Glasper Experiment,10,2012-03-17,2012-04-07,160,3
+335,All Of Me,Estelle,21,2012-03-17,2012-04-07,160,4
+336,Footloose (2011),Soundtrack,35,2012-03-24,2012-04-07,160,3
+337,Fifty Shades Of Grey: The Classical Album,Various Artists,22,2012-09-29,2012-10-13,157,3
+338,Jesus Piece,The Game,5,2012-12-29,2012-12-29,156,1
+339,Carry Me Back,Old Crow Medicine Show,20,2012-08-04,2012-08-25,156,4
+340,Where I Find You,Kari Jobe,10,2012-02-11,2012-03-03,152,4
+341,Koi No Yokan,Deftones,11,2012-12-01,2012-12-22,152,4
+342,Opus Collection: Commemorating The 80th Anniversay Of The Birth Of,Johnny Cash,27,2012-06-16,2012-06-30,152,3
+343,Dedicated,Wilson Phillips,27,2012-04-21,2012-05-12,152,4
+344,Elevate (Soundtrack),Big Time Rush,47,2012-01-07,2012-04-21,152,6
+345,Formula: Vol. 1,Romeo Santos,77,2012-01-07,2012-04-07,150,13
+346,The Sound Of The Life Of The Mind,Ben Folds Five,10,2012-10-06,2012-10-20,149,3
+347,Edens Edge,Edens Edge,49,2012-06-30,2012-07-28,149,4
+348,Mac + Devin Go To High School (Soundtrack),Snoop Dogg & Wiz Khalifa,50,2012-01-07,2012-01-28,148,4
+349,Jack Johnson & Friends: Best Of Kokua Festival,Jack Johnson,12,2012-05-05,2012-05-19,147,3
+350,Listen Up!,Haley Reinhart,17,2012-06-09,2012-06-23,147,3
+351,Rhythm And Repose,Glen Hansard,21,2012-07-07,2012-07-21,147,3
+352,Sinatra: Best Of The Best,Frank Sinatra,34,2012-01-07,2012-03-03,147,4
+353,Awakened,As I Lay Dying,11,2012-10-13,2012-10-27,146,3
+354,Human Again,Ingrid Michaelson,5,2012-02-11,2012-02-25,145,3
+355,Dark Roots Of Earth,Testament,11,2012-08-18,2012-09-01,145,3
+356,Band Of Brothers,HellYeah,18,2012-08-04,2012-08-18,144,3
+357,NOW That's What I Call Party Anthems,Various Artists,33,2012-08-25,2012-09-22,144,5
+358,Courageous,Soundtrack,37,2012-02-04,2012-07-07,144,4
+359,Jana Kramer,Jana Kramer,19,2012-06-23,2012-07-28,140,4
+360,Love And Theft,Love And Theft,21,2012-08-11,2012-08-25,140,3
+361,Live: Cornerstone,Hillsong Worship,32,2012-07-21,2012-08-11,140,4
+362,Undisputed,DMX,19,2012-09-29,2012-10-13,139,3
+363,Megalithic Symphony,AWOLNATION,78,2012-01-21,2012-10-20,139,15
+364,New Horizons,Flyleaf,16,2012-11-17,2012-12-01,138,3
+365,Love This Giant,David Byrne & St. Vincent,23,2012-09-29,2012-10-13,138,3
+366,Shape Shifter,Santana,16,2012-06-02,2012-06-16,137,3
+367,Speak Now: World Tour Live CD + DVD,Taylor Swift,29,2012-01-07,2012-01-28,137,4
+368,Lana Del Rey (EP),Lana Del Rey,19,2012-01-28,2012-02-04,136,2
+369,Drive,Soundtrack,47,2012-02-18,2012-07-21,135,5
+370,Days Go By,The Offspring,12,2012-07-14,2012-07-28,134,3
+371,#3,The Script,13,2012-10-27,2012-11-10,133,3
+372,Live: Everybody's Talkin',Tedeschi Trucks Band,24,2012-06-09,2012-06-23,133,3
+373,Sunken Condos,Donald Fagen,12,2012-11-03,2012-11-17,132,3
+374,Beautiful Surprise,Tamia,22,2012-09-15,2012-09-22,129,2
+375,Under The Mistletoe,Various Artists,48,2012-12-01,2012-12-22,129,4
+376,Clublife: Volume Two: Miami,Tiesto,16,2012-05-12,2012-05-19,127,2
+377,The Good Life,Trip Lee,17,2012-04-28,2012-05-12,127,3
+378,Hillbilly Jedi,Big & Rich,24,2012-10-06,2012-10-20,127,3
+379,I Missed Us,SWV,25,2012-05-05,2012-05-19,126,3
+380,Mirage Rock,Band Of Horses,13,2012-10-06,2012-10-13,125,2
+381,Southern Air,Yellowcard,10,2012-09-01,2012-09-08,124,2
+382,Just Tell Me That You Want Me: A Tribute To Fleetwood Mac,Various Artists,44,2012-09-01,2012-09-22,124,4
+383,4th Street Feeling,Melissa Etheridge,18,2012-09-22,2012-09-29,123,2
+384,Swing Lo Magellan,Dirty Projectors,21,2012-07-28,2012-08-04,123,2
+385,LIVE From The Kitchen,Yo Gotti,12,2012-01-28,2012-02-04,122,2
+386,Connection,Papa Roach,17,2012-10-20,2012-10-27,122,2
+387,The Man With The Iron Fists,Soundtrack,31,2012-11-10,2012-11-24,122,3
+388,Top Of The World,Slightly Stoopid,13,2012-09-01,2012-09-08,121,2
+389,The End Is Where We Begin,Thousand Foot Krutch,14,2012-05-05,2012-05-12,121,2
+390,NOW That's What I Call Disney,Various Artists,33,2012-11-24,2012-12-22,121,3
+391,Back In The Saddle,Chris Cagle,26,2012-07-14,2012-07-28,120,3
+392,The Best Of Both Worlds,Charles Jenkins & Fellowship Chicago,39,2012-06-30,2012-07-14,120,3
+393,A War You Cannot Win,All That Remains,13,2012-11-24,2012-12-01,119,2
+394,Strangeland,Keane,17,2012-05-26,2012-06-02,119,2
+395,Don Omar Presents MT02: New Generation,Don Omar,37,2012-05-19,2012-06-02,119,3
+396,Beacon,Two Door Cinema Club,17,2012-09-22,2012-09-29,118,2
+397,Kids In The Street,The All-American Rejects,17,2012-04-14,2012-04-28,118,3
+398,Musique Pop De Paris,Various Artists,31,2012-06-16,2012-06-30,117,3
+399,Spark Seeker,Matisyahu,17,2012-08-04,2012-08-11,116,2
+400,Early Takes: Volume 1 (Soundtrack),George Harrison,19,2012-05-19,2012-05-26,116,2
+401,Blow Your Pants Off,Jimmy Fallon,25,2012-06-30,2012-07-07,116,2
+402,Step Up: Revolution,Soundtrack,47,2012-08-11,2012-08-25,115,3
+403,Rolling Papers,Wiz Khalifa,76,2012-01-14,2012-04-14,115,9
+404,From Day 1,Travis Porter,16,2012-06-16,2012-06-23,114,2
+405,Centipede Hz,Animal Collective,16,2012-09-22,2012-09-29,114,2
+406,Up & Away,Kid Ink,20,2012-06-30,2012-07-07,114,2
+407,Glee: The Music Presents Glease,Soundtrack,27,2012-11-24,2012-12-01,114,2
+408,18 Months,Calvin Harris,19,2012-11-17,2012-11-24,113,2
+409,"Glee: The Music, Season 4: Volume 1",Soundtrack,31,2012-12-15,2012-12-29,113,3
+410,Every Mother Counts: 2012,Various Artists,42,2012-05-19,2012-05-26,113,2
+411,Quality Street Music,DJ Drama,15,2012-10-20,2012-10-27,111,2
+412,A Wasteland Companion,M. Ward,21,2012-04-28,2012-05-05,111,2
+413,Dark Adrenaline,Lacuna Coil,15,2012-02-11,2012-02-18,110,2
+414,Small Town Family Dream,Josh Abbott Band,15,2012-05-12,2012-05-19,110,2
+415,Cabin By The Sea,The Dirty Heads,18,2012-07-07,2012-07-14,110,2
+416,Live & Inspired,Godsmack,19,2012-06-02,2012-06-09,110,2
+417,Murdered Love,P.O.D.,17,2012-07-28,2012-08-04,109,2
+418,Driving Towards The Daylight,Joe Bonamassa,23,2012-06-09,2012-06-16,108,2
+419,Loaded: The Best Of Blake Shelton,Blake Shelton,61,2012-01-21,2012-04-14,108,4
+420,Casey James,Casey James,21,2012-04-07,2012-04-14,107,2
+421,Live In London,Barry Manilow With The Royal Philharmonic Concert Orchestra,24,2012-05-12,2012-05-19,107,2
+422,After This,J.J. Hairston & Youthful Praise,33,2012-04-14,2012-04-28,107,3
+423,The One,Eric Benet,31,2012-06-23,2012-06-30,106,2
+424,Punk Goes Pop: Volume 5,Various Artists,16,2012-11-24,2012-12-01,105,2
+425,What Christmas Means,Kem,57,2012-12-15,2012-12-29,105,3
+426,Seasons Of My Soul,Rumer,43,2012-02-11,2012-02-18,104,2
+427,Until Now,Swedish House Mafia,14,2012-11-10,2012-11-17,103,2
+428,Theatre Is Evil,Amanda Palmer & The Grand Theft Orchestra,10,2012-09-29,2012-09-29,101,1
+429,All American (EP),Hoodie Allen,10,2012-04-28,2012-04-28,101,1
+430,Created4This,VaShawn Mitchell,44,2012-09-15,2012-09-22,100,2
+431,Music By Bacharach,Various Artists,53,2012-01-21,2012-02-04,100,3
+432,Hello (EP),Karmin,18,2012-05-26,2012-06-09,99,3
+433,Noctourniquet,The Mars Volta,14,2012-04-14,2012-04-21,98,2
+434,Fanatic,Heart,24,2012-10-20,2012-10-27,98,2
+435,That's Life,"Landau Eugene Murphy, Jr.",59,2012-01-07,2012-01-21,97,3
+436,The Evolution Of Le'Andria Johnson (EP),Le'Andria Johnson,61,2012-03-03,2012-03-17,96,3
+437,"10,000 Reasons",Matt Redman,71,2012-08-04,2012-12-08,96,6
+438,Undun,The Roots,68,2012-01-07,2012-02-11,95,4
+439,This Means War,Attack Attack!,11,2012-02-04,2012-02-11,93,2
+440,Charmer,Aimee Mann,32,2012-10-06,2012-10-13,93,2
+441,Act Of Valor: The Album,Soundtrack,40,2012-03-10,2012-03-17,93,2
+442,Peace Of Mind,Rebelution,13,2012-01-28,2012-02-04,92,2
+443,Yellow And Green,Baroness,28,2012-08-04,2012-08-11,92,2
+444,Heaven,The Walkmen,29,2012-06-16,2012-06-23,92,2
+445,This Ole Boy,Craig Morgan,32,2012-03-17,2012-03-24,92,2
+446,Our Version Of Events,Emeli Sande,27,2012-06-23,2012-06-30,91,2
+447,Hello My Name Is...,Bridgit Mendler,30,2012-11-10,2012-11-17,91,2
+448,American Idol: Season 11: Highlights (EP),Joshua Ledet,57,2012-07-21,2012-08-04,91,3
+449,I'm With You,Red Hot Chili Peppers,64,2012-01-07,2012-02-11,91,4
+450,Klusterfuk (EP),Tech N9ne,12,2012-03-31,2012-03-31,89,1
+451,Tre!,Green Day,12,2012-12-29,2012-12-29,89,1
+452,Imaginaerum,Nightwish,26,2012-01-28,2012-02-04,89,2
+453,Stars And Satellites,Trampled By Turtles,30,2012-04-28,2012-05-12,89,3
+454,V4 ...The Other Side Of Victory,J Moss,32,2012-08-18,2012-08-25,89,2
+455,Gold,Britt Nicole,39,2012-04-14,2012-04-21,89,2
+456,Christmas,Francesca Battistelli,59,2012-12-08,2012-12-29,89,4
+457,Barefoot Blue Jean Night,Jake Owen,86,2012-01-14,2012-07-28,89,12
+458,Nashville: Season 1: Volume 1,Soundtrack,13,2012-12-29,2012-12-29,88,1
+459,PTX: Volume 1,Pentatonix,14,2012-07-14,2012-07-14,87,1
+460,Rebirth,Jimmy Cliff,70,2012-08-04,2012-08-25,87,4
+461,Immortal,For Today,15,2012-06-16,2012-06-16,86,1
+462,Violent Waves,Circa Survive,15,2012-09-15,2012-09-15,86,1
+463,The Absence,Melody Gardot,32,2012-06-16,2012-06-23,86,2
+464,The Complete 2012 Performances Collection (EP),John Mayer,16,2012-08-25,2012-08-25,85,1
+465,Challenger,Memphis May Fire,16,2012-07-14,2012-07-14,85,1
+466,Koloss,Meshuggah,16,2012-04-14,2012-04-14,85,1
+467,Vital,Anberlin,16,2012-11-03,2012-11-03,85,1
+468,Cities 97 Sampler 24: Live From Studio C,Various Artists,16,2012-12-01,2012-12-01,85,1
+469,La Musica No Se Toca,Alejandro Sanz,26,2012-10-13,2012-10-20,85,2
+470,The Road,Aaron Lewis,29,2012-12-01,2012-12-15,85,3
+471,El Primer Ministro,Gerardo Ortiz,31,2012-10-13,2012-10-20,85,2
+472,Life And Favor,John P. Kee And New Life,31,2012-09-15,2012-09-22,85,2
+473,Hell: The Sequel (EP),Bad Meets Evil,66,2012-01-07,2012-02-25,85,6
+474,"If You Were A Movie, This Would Be Your Soundtrack (EP)",Sleeping With Sirens,17,2012-07-14,2012-07-14,84,1
+475,"Anarchy, My Dear",Say Anything,17,2012-03-31,2012-03-31,84,1
+476,Apocryphon,The Sword,17,2012-11-10,2012-11-10,84,1
+477,Hits And More,Martina McBride,44,2012-02-04,2012-02-18,84,3
+478,Abominationz,Twiztid,18,2012-11-10,2012-11-10,83,1
+479,Skelethon,Aesop Rock,20,2012-07-28,2012-08-04,83,2
+480,Greater Than One,Dwele,29,2012-09-15,2012-09-22,83,2
+481,"Glee: The Music, The Christmas Album: Volume 3",Soundtrack,19,2012-12-29,2012-12-29,82,1
+482,Endless Summer (EP),Jake Owen,19,2012-10-13,2012-10-13,82,1
+483,The Only Place,Best Coast,24,2012-06-02,2012-06-09,82,2
+484,Thank You Camellia,Kris Allen,25,2012-06-09,2012-06-16,82,2
+485,Lonerism,Tame Impala,34,2012-10-27,2012-11-03,82,2
+486,Celebration Rock,Japandroids,35,2012-06-23,2012-07-14,82,2
+487,Lideres,Wisin & Yandel,42,2012-07-21,2012-07-28,82,2
+488,Ex Lives,Every Time I Die,20,2012-03-24,2012-03-24,81,1
+489,A Very She & Him Christmas,She & Him,21,2012-01-07,2012-01-07,80,1
+490,American Idol: Season 11: Top 2 Season Finale (EP),Soundtrack,21,2012-06-09,2012-06-09,80,1
+491,Harakiri,Serj Tankian,28,2012-07-28,2012-08-04,80,2
+492,Never Trust A Happy Song,Grouplove,69,2012-07-28,2012-08-11,80,3
+493,The Parallax II: Future Sequence,Between The Buried And Me,22,2012-10-27,2012-10-27,79,1
+494,How Great Is Our God: The Essential Collection,Chris Tomlin,78,2012-01-07,2012-05-05,79,4
+495,Heaven,Rebecca Ferguson,23,2012-06-16,2012-06-16,78,1
+496,Immortal,Michael Jackson,55,2012-01-07,2012-01-28,78,4
+497,Circles Around The Sun,Dispatch,24,2012-09-08,2012-09-08,77,1
+498,Tomorrow Never Knows,The Beatles,24,2012-08-11,2012-08-11,77,1
+499,Dubbed & Freq'd: A Remix Project,tobyMac,50,2012-04-14,2012-04-21,77,2
+500,Dance (RED) Saves Lives: Presented By Tiesto,Tiesto,50,2012-12-15,2012-12-22,77,2
+501,That's My Jam!,Various Artists,25,2012-07-07,2012-07-07,76,1
+502,Which Side Are You On?,Ani DiFranco,25,2012-02-04,2012-02-04,76,1
+503,Minus The Machine,10 Years,25,2012-08-25,2012-08-25,76,1
+504,Nine Lives,Deuce,35,2012-05-12,2012-05-19,76,2
+505,Beautiful Things,Anthony Green,26,2012-02-04,2012-02-04,75,1
+506,"Glee: The Music, The Christmas Album: Volume 2",Soundtrack,26,2012-01-07,2012-01-07,75,1
+507,Sick And Twisted Affair,My Darkest Days,27,2012-04-14,2012-04-14,74,1
+508,All I Was,Tremonti,27,2012-08-04,2012-08-04,74,1
+509,Paradise,Cody Simpson,27,2012-10-20,2012-10-20,74,1
+510,Begin.,David Archuleta,27,2012-08-25,2012-08-25,74,1
+511,Believer,Kutless,27,2012-03-17,2012-03-17,74,1
+512,True Defiance,Demon Hunter,34,2012-04-28,2012-05-05,74,2
+513,Irreversible...2012,La Arrolladora Banda el Limon de Rene Camacho,41,2012-02-11,2012-02-18,74,2
+514,For The Good Times,The Little Willies,42,2012-01-28,2012-02-04,74,2
+515,Moving Up Living Down,Eric Hutchinson,28,2012-05-05,2012-05-05,73,1
+516,One Night (EP),Timeflies,28,2012-12-15,2012-12-15,73,1
+517,The Hobbit: An Unexpected Journey,Soundtrack,29,2012-12-29,2012-12-29,72,1
+518,Out Of The Game,Rufus Wainwright,33,2012-05-19,2012-05-26,72,2
+519,Live In Brooklyn,Jay Z,36,2012-10-27,2012-11-03,72,2
+520,The Girl With The Dragon Tattoo (Soundtrack),Trent Reznor And Atticus Ross,41,2012-01-14,2012-01-21,72,2
+521,"Dave's Picks: Volume 3: Auditorium Theatre, Chicago, IL - 10/22/71",Grateful Dead,30,2012-08-18,2012-08-18,71,1
+522,Infinity Overhead,Minus The Bear,30,2012-09-15,2012-09-15,71,1
+523,Electra Heart,Marina And The Diamonds,30,2012-07-28,2012-07-28,71,1
+524,At Heart,Miss May I,30,2012-06-30,2012-06-30,71,1
+525,Shrines,Purity Ring,30,2012-08-11,2012-08-11,71,1
+526,Boiling Point (K.O.D. Collection) (EP),Tech N9ne,30,2012-11-17,2012-11-17,71,1
+527,E.B.A.H.,Tech N9ne,30,2012-10-06,2012-10-06,71,1
+528,Release Me,Lyle Lovett,47,2012-03-17,2012-03-24,70,2
+529,Icon: George Strait,George Strait,58,2012-01-21,2012-12-08,70,5
+530,This Christmas,John Travolta & Olivia Newton-John,70,2012-12-01,2012-12-29,70,3
+531,Weight & Glory,KB,32,2012-08-04,2012-08-04,69,1
+532,Vava Voom,Bassnectar,32,2012-04-28,2012-04-28,69,1
+533,Atlas,Parkway Drive,32,2012-11-17,2012-11-17,69,1
+534,Torture,Cannibal Corpse,32,2012-03-31,2012-03-31,69,1
+535,American Idol: Season 11: Highlights (EP),Skylar Laine,62,2012-07-21,2012-08-04,69,3
+536,Mr. P,Patrice O'Neal,33,2012-02-25,2012-02-25,68,1
+537,Vicious Lies And Dangerous Rumors,Big Boi,33,2012-12-29,2012-12-29,68,1
+538,There's No Leaving Now,The Tallest Man On Earth,33,2012-06-30,2012-06-30,68,1
+539,Underwater,Joshua Radin,33,2012-08-18,2012-08-18,68,1
+540,Exister,Hot Water Music,33,2012-06-02,2012-06-02,68,1
+541,L'enfant Sauvage,GOJIRA,33,2012-07-14,2012-07-14,68,1
+542,Strength To Survive,SOJA,33,2012-02-18,2012-02-18,67,1
+543,Until The Quiet Comes,Flying Lotus,34,2012-10-20,2012-10-20,67,1
+544,The Purple EP,Down,34,2012-10-06,2012-10-06,67,1
+545,Magic Hour,Scissor Sisters,34,2012-06-16,2012-06-16,67,1
+546,Choice Of Weapon,The Cult,34,2012-06-09,2012-06-09,67,1
+547,Former Lives,Benjamin Gibbard,34,2012-11-03,2012-11-03,67,1
+548,The Flood,Of Mice & Men,34,2012-08-11,2012-08-11,67,1
+549,Four,Bloc Party,35,2012-09-08,2012-09-08,66,1
+550,Tomorrowland,Ryan Bingham,35,2012-10-06,2012-10-06,66,1
+551,Mile High,Kottonmouth Kings,35,2012-09-01,2012-09-01,66,1
+552,Be The Void,Dr. Dog,43,2012-02-25,2012-03-03,66,2
+553,The Industrialist,Fear Factory,36,2012-06-23,2012-06-23,65,1
+554,Walk The Moon,WALK THE MOON,36,2012-07-07,2012-07-07,65,1
+555,Newsies: The Musical,Original Broadway Cast Recording,68,2012-04-28,2012-06-02,65,2
+556,Fire From The Sky,Shadows Fall,37,2012-06-02,2012-06-02,64,1
+557,Happy To You,Miike Snow,37,2012-03-31,2012-03-31,64,1
+558,La Misma Gran Senora,Jenni Rivera,37,2012-12-29,2012-12-29,64,1
+559,Voyageur,Kathleen Edwards,37,2012-02-04,2012-02-04,64,1
+560,Heavenly Christmas,Jackie Evancho,37,2012-01-07,2012-01-07,64,1
+561,One Lovely Day,Citizen Cope,37,2012-08-04,2012-08-04,64,1
+562,Big Time Movie Soundtrack (EP),Big Time Rush,38,2012-03-24,2012-03-24,63,1
+563,Clarity,Zedd,38,2012-10-20,2012-10-20,63,1
+564,Women & Work,Lucero,38,2012-03-31,2012-03-31,63,1
+565,Prestige,Daddy Yankee,38,2012-09-29,2012-09-29,63,1
+566,Speak In Code,Eve 6,38,2012-05-12,2012-05-12,63,1
+567,The Hunger Games: Original Motion Picture Score,Soundtrack,38,2012-04-14,2012-04-14,63,1
+568,The Whippoorwill,Blackberry Smoke,39,2012-09-01,2012-09-08,63,2
+569,The Piano Guys,The Piano Guys,44,2012-10-20,2012-12-29,63,3
+570,A Thing Called Divine Fits,Divine Fits,51,2012-09-15,2012-09-22,63,2
+571,Digital Renegade,I See Stars,39,2012-03-31,2012-03-31,62,1
+572,Roses,The Cranberries,39,2012-03-17,2012-03-17,62,1
+573,Mystic Pinball,John Hiatt,39,2012-10-13,2012-10-13,62,1
+574,Evolution,Blood On The Dance Floor,41,2012-07-07,2012-08-11,62,2
+575,Kidz Bop 20,Kidz Bop Kids,80,2012-01-07,2012-01-28,62,4
+576,An Omen (EP),How To Destroy Angels,41,2012-12-01,2012-12-01,60,1
+577,Self/Entitled,NOFX,41,2012-09-29,2012-09-29,60,1
+578,rEVOLVEr,T-Pain,79,2012-01-07,2012-01-28,60,4
+579,Mondo Sex Head,Rob Zombie,42,2012-08-25,2012-08-25,59,1
+580,Kickin' & Screamin',Krizz Kaliko,42,2012-06-02,2012-06-02,59,1
+581,"The Block Brochure: Welcome To The Soil 1, 2 & 3",E-40,42,2012-04-14,2012-04-14,59,1
+582,Bright Black Heaven,Blaqk Audio,42,2012-09-29,2012-09-29,59,1
+583,In Currents,The Early November,42,2012-07-28,2012-07-28,59,1
+584,Half Naked & Almost Famous (EP),MGK,42,2012-04-07,2012-04-07,59,1
+585,Glee: Season Four: Britney 2.0 (EP),Soundtrack,42,2012-10-06,2012-10-06,59,1
+586,So Proud,Brian Courtney Wilson,42,2012-02-25,2012-02-25,59,1
+587,Hot Cakes,The Darkness,42,2012-09-08,2012-09-08,59,1
+588,The Lion's Roar,First Aid Kit,62,2012-02-04,2012-02-11,59,2
+589,The Loft Sessions,Bethel Music,42,2012-02-11,2012-02-11,58,1
+590,Elysium,Pet Shop Boys,43,2012-09-29,2012-09-29,58,1
+591,Fragrant World,Yeasayer,43,2012-09-08,2012-09-08,58,1
+592,The Given,Wade Bowen,43,2012-06-16,2012-06-16,58,1
+593,Mourning In America And Dreaming In Color,Brother Ali,43,2012-10-06,2012-10-06,58,1
+594,Periphery II,Periphery,43,2012-07-21,2012-07-21,58,1
+595,Go,Motion City Soundtrack,44,2012-06-30,2012-06-30,57,1
+596,Songs For The End Of The World,Rick Springfield,44,2012-10-27,2012-10-27,57,1
+597,Storm & Grace,Lisa Marie Presley,44,2012-06-02,2012-06-02,57,1
+598,Live Is A Four Letter Word (EP),Jason Mraz,44,2012-03-17,2012-03-17,57,1
+599,PTXmas (EP),Pentatonix,44,2012-12-01,2012-12-01,57,1
+600,Storm Corrosion,Storm Corrosion,44,2012-05-26,2012-05-26,57,1
+601,Whitechapel,Whitechapel,45,2012-07-07,2012-07-07,56,1
+602,Bad: 25,Michael Jackson,45,2012-10-06,2012-10-06,56,1
+603,Anastasis,Dead Can Dance,45,2012-09-01,2012-09-01,56,1
+604,Now,Fireflight,45,2012-03-24,2012-03-24,56,1
+605,Allelujah! Don't Bend! Ascend!,Godspeed You! Black Emperor,45,2012-11-03,2012-11-03,56,1
+606,Ten Stories,mewithoutYou,46,2012-06-02,2012-06-02,55,1
+607,LIVE: Barefoot At The Symphony,Idina Menzel,46,2012-03-24,2012-03-24,55,1
+608,Forever Yours,Gateway Worship,46,2012-10-27,2012-10-27,55,1
+609,R&B Divas (Soundtrack),Faith Evans,46,2012-10-20,2012-10-20,55,1
+610,The North,Stars,46,2012-09-22,2012-09-22,55,1
+611,Halo 4,Soundtrack,50,2012-11-10,2012-11-24,55,2
+612,4X4=12,deadmau5,64,2012-03-03,2012-03-10,55,2
+613,Family Man,Shooter Jennings,47,2012-03-31,2012-03-31,54,1
+614,The Origin Of Love,MIKA,47,2012-11-03,2012-11-03,54,1
+615,Cedar + Gold,Tristan Prettyman,47,2012-10-20,2012-10-20,54,1
+616,We Don't Even Live Here,P.O.S.,47,2012-11-10,2012-11-10,54,1
+617,Afterglow,Black Country Communion,48,2012-11-17,2012-11-17,53,1
+618,Glad All Over,The Wallflowers,48,2012-10-27,2012-10-27,53,1
+619,Shooting Star (EP),Owl City,48,2012-06-02,2012-06-02,53,1
+620,Live At River Plate,AC/DC,61,2012-12-08,2012-12-15,53,2
+621,Almeria,Lifehouse,49,2012-12-29,2012-12-29,52,1
+622,Autotheism,The Faceless,49,2012-09-01,2012-09-01,52,1
+623,MTV Unplugged,Florence + The Machine,49,2012-04-28,2012-04-28,52,1
+624,I Bet On Sky,Dinosaur Jr.,49,2012-10-06,2012-10-06,52,1
+625,Psycho White (EP),Travis Barker & YelaWolf,49,2012-12-01,2012-12-01,52,1
+626,Life Cycles,The Word Alive,49,2012-07-21,2012-07-21,52,1
+627,ONXRT: Live From The Archives: Vol. 14,Various Artists,50,2012-12-22,2012-12-22,51,1
+628,Silver Age,Bob Mould,50,2012-09-22,2012-09-22,51,1
+629,Mr. Universe,Jim Gaffigan,50,2012-09-15,2012-09-15,51,1
+630,Lightning,Matt And Kim,50,2012-10-20,2012-10-20,51,1
+631,The Greatest Video Game Music 2,London Philharmonic Orchestra,51,2012-11-24,2012-11-24,50,1
+632,Death Is The Only Mortal,The Acacia Strain,51,2012-10-27,2012-10-27,50,1
+633,Country & Cold Cans (EP),Dierks Bentley,51,2012-09-08,2012-09-08,50,1
+634,Traveler,Trey Anastasio,51,2012-11-03,2012-11-03,50,1
+635,tr3s Presents: Juanes MTV Unplugged,Juanes,51,2012-06-16,2012-06-16,50,1
+636,Into The Light,Matthew West,51,2012-10-13,2012-10-13,50,1
+637,Bethel Live: For The Sake Of The World,Bethel Music,51,2012-10-20,2012-10-20,50,1
+638,Exiliados Es La Bahia: Lo Mejor de Mana,Mana,73,2012-09-15,2012-09-22,50,2
+639,Welcome To The Freakshow,Hinder,52,2012-12-22,2012-12-22,49,1
+640,Hands Of Glory,Andrew Bird,52,2012-11-17,2012-11-17,49,1
+641,New To This Town,Kix Brooks,52,2012-09-29,2012-09-29,49,1
+642,Infamous,Motionless In White,52,2012-12-01,2012-12-01,49,1
+643,The Legendary Demos,Carole King,52,2012-05-12,2012-05-12,49,1
+644,Close The Distance,Go Radio,52,2012-10-06,2012-10-06,49,1
+645,"Hurry Up, We're Dreaming.",M83.,72,2012-01-14,2012-06-16,49,4
+646,51 Songs Kids Really Love To Sing,Kids Choir,73,2012-11-17,2012-12-22,49,5
+647,iTunes Sessions (EP),Wilco,52,2012-02-11,2012-02-11,48,1
+648,Confess,Twin Shadow,53,2012-07-28,2012-07-28,48,1
+649,Christmas Symphony,Mannheim Steamroller With Members Of The Czech Philharmonic Orchestra,53,2012-01-07,2012-01-07,48,1
+650,TAAB2: Thick As A Brick 2,Jethro Tull's Ian Anderson,53,2012-04-21,2012-04-21,48,1
+651,Banga,Patti Smith,53,2012-06-23,2012-06-23,48,1
+652,Stories To Tell,Dave Barnes,53,2012-03-31,2012-03-31,48,1
+653,Il Volo ...Takes Flight: Live From The Detroit Opera House,Il Volo,75,2012-03-24,2012-04-07,48,3
+654,Numbers,MellowHype,54,2012-10-27,2012-10-27,47,1
+655,Goodbye Normal Street,The Turnpike Troubadours,54,2012-05-26,2012-05-26,47,1
+656,Life Will Write The Words,The Rocket Summer,54,2012-06-23,2012-06-23,47,1
+657,Wonderland,Steve Aoki,54,2012-01-28,2012-01-28,47,1
+658,Le Voyage Dans La Lune (Soundtrack),Air,54,2012-02-25,2012-02-25,47,1
+659,Here For A Good Time,George Strait,72,2012-01-07,2012-02-04,47,2
+660,Wildflower,Lauren Alaina,76,2012-01-07,2012-02-04,47,2
+661,Beacon Theatre: Live From New York,Joe Bonamassa,55,2012-10-13,2012-10-13,46,1
+662,I'm Right Here (EP),Chris Rene,55,2012-10-20,2012-10-20,46,1
+663,Rags,Soundtrack,55,2012-06-16,2012-06-16,46,1
+664,The Gospel Side Of Dailey & Vincent,Dailey & Vincent,56,2012-01-28,2012-02-04,46,2
+665,Sweet Heart Sweet Light,Spiritualized,56,2012-05-05,2012-05-05,45,1
+666,Songs We Wished We'd Written II,Pat Green,56,2012-05-26,2012-05-26,45,1
+667,The Block Brochure: Welcome To The Soil 2,E-40,56,2012-04-14,2012-04-14,45,1
+668,Place Of Freedom,Highlands Worship,56,2012-10-06,2012-10-06,45,1
+669,The Block Brochure: Welcome To The Soil 1,E-40,57,2012-04-14,2012-04-14,44,1
+670,The 6th,Flame,57,2012-03-24,2012-03-24,44,1
+671,Birdy,Birdy,57,2012-04-07,2012-04-07,44,1
+672,Ronnie Dunn,Ronnie Dunn,67,2012-06-09,2012-06-16,44,2
+673,The Generous Mr. Lovewell,MercyMe,73,2012-03-10,2012-03-17,44,2
+674,In Our Heads,Hot Chip,58,2012-06-30,2012-06-30,43,1
+675,Joyas Prestadas: Pop,Jenni Rivera,58,2012-12-29,2012-12-29,43,1
+676,Mic Tyson,Sean Price,58,2012-11-17,2012-11-17,43,1
+677,Dream With Me,Jackie Evancho,59,2012-01-07,2012-01-07,42,1
+678,A Flash Flood Of Colour,Enter Shikari,59,2012-02-04,2012-02-04,42,1
+679,The Night The Sun Came Up,Dev,59,2012-04-14,2012-04-14,42,1
+680,Big Moon Ritual,Chris Robinson Brotherhood,59,2012-06-23,2012-06-23,42,1
+681,Evolve (EP),Chelsea Grin,59,2012-07-07,2012-07-07,42,1
+682,Music @ The Speed Of Life,Mint Condition,59,2012-09-29,2012-09-29,42,1
+683,AM/FM,Rita Wilson,59,2012-05-26,2012-05-26,42,1
+684,Slave To The Game,Emmure,59,2012-04-28,2012-04-28,42,1
+685,History: Function Music,E-40 And Too $hort,59,2012-11-24,2012-11-24,42,1
+686,The Awakening Of Le'Andria Johnson (EP),Le'Andria Johnson,70,2012-02-04,2012-03-03,42,3
+687,Young The Giant,Young The Giant,71,2012-03-10,2012-04-07,42,3
+688,We Are Love,Il Volo,79,2012-12-15,2012-12-22,42,2
+689,Penny Black,Further Seems Forever,60,2012-11-10,2012-11-10,41,1
+690,Nothing's Gonna Change The Way You Feel About Me Now,Justin Townes Earle,60,2012-04-14,2012-04-14,41,1
+691,Area 52,Rodrigo y Gabriela And C.U.B.A.,60,2012-02-11,2012-02-11,40,1
+692,As The Crow Flies (EP),Amos Lee,61,2012-03-03,2012-03-03,40,1
+693,De Vermis Mysteriis,High On Fire,61,2012-04-21,2012-04-21,40,1
+694,Pines,A Fine Frenzy,61,2012-10-27,2012-10-27,40,1
+695,F.A.M.E.,Chris Brown,71,2012-02-25,2012-03-03,40,2
+696,The Lost Children,Disturbed,75,2012-01-07,2012-01-21,40,3
+697,Omerta,Adrenaline Mob,62,2012-03-31,2012-03-31,39,1
+698,The Haunted Man,Bat For Lashes,62,2012-11-10,2012-11-10,39,1
+699,Free The Music,Jerrod Niemann,62,2012-10-20,2012-10-20,39,1
+700,Nonpoint,Nonpoint,62,2012-10-27,2012-10-27,39,1
+701,Eclipse,Veil Of Maya,62,2012-03-17,2012-03-17,39,1
+702,The King Stays King: Sold Out At Madison Square Garden,Romeo Santos,62,2012-11-24,2012-11-24,39,1
+703,Goin' Down Rockin': The Last Recordings,Waylon Jennings,66,2012-10-13,2012-10-20,39,2
+704,Gold Dust,Tori Amos,63,2012-10-20,2012-10-20,38,1
+705,Joyas Prestadas: Banda,Jenni Rivera,63,2012-12-29,2012-12-29,38,1
+706,Cancer4Cure,EL-P,63,2012-06-09,2012-06-09,38,1
+707,Desnuda,Ednita Nazario,63,2012-04-14,2012-04-14,38,1
+708,Laugh At My Pain,Kevin Hart,63,2012-02-04,2012-02-04,38,1
+709,Opus Collection,Billy Joel,74,2012-04-07,2012-04-14,38,2
+710,Home Again,Michael Kiwanuka,77,2012-08-11,2012-08-25,38,3
+711,Silver & Gold,Sufjan Stevens,64,2012-12-01,2012-12-01,37,1
+712,Shake It Up: Break It Down,Soundtrack,78,2012-01-07,2012-04-21,37,2
+713,Radioactive,YelaWolf,82,2012-01-14,2012-01-28,37,3
+714,Letters From Birmingham,Ruben Studdard,65,2012-03-31,2012-03-31,36,1
+715,Fight Or Flight,Hoobastank,65,2012-09-29,2012-09-29,36,1
+716,Into The Glorious,Christy Nockels,65,2012-04-21,2012-04-21,36,1
+717,The Introduction,Zacardi Cortez,65,2012-06-09,2012-06-09,36,1
+718,Live In Miami,Hillsong UNITED,65,2012-03-03,2012-03-03,36,1
+719,Loud,Rihanna,83,2012-01-14,2012-03-03,36,4
+720,Crux,Hurt,66,2012-05-19,2012-05-19,35,1
+721,A Holiday Carole,Carole King,66,2012-01-07,2012-01-07,35,1
+722,III,Shiny Toy Guns,66,2012-11-10,2012-11-10,35,1
+723,190 Proof,The Lacs,66,2012-04-21,2012-04-21,35,1
+724,History: Mob Music,E-40 And Too $hort,66,2012-11-24,2012-11-24,35,1
+725,Moving Forward (EP),Andrea Helms,66,2012-03-24,2012-03-24,35,1
+726,iTunes Session (EP),Ryan Adams,66,2012-05-12,2012-05-12,35,1
+727,The Block Brochure: Welcome To The Soil 3,E-40,67,2012-04-14,2012-04-14,34,1
+728,Floral Green,Title Fight,67,2012-10-06,2012-10-06,34,1
+729,Cold Hard Want,House Of Heroes,67,2012-07-28,2012-07-28,34,1
+730,Chicken Boxer,Gaelic Storm,67,2012-08-18,2012-08-18,34,1
+731,So: (25th Anniversary Deluxe Edition),Peter Gabriel,67,2012-11-10,2012-11-10,34,1
+732,Memories Of A Beautiful Disaster,James Durbin,67,2012-04-28,2012-04-28,34,1
+733,NOW That's What I Call The 80's Hits,Various Artists,67,2012-08-25,2012-08-25,34,1
+734,Bringing Down The Giant,Saving Abel,68,2012-08-04,2012-08-04,33,1
+735,Ashes And Roses,Mary Chapin Carpenter,68,2012-06-30,2012-06-30,33,1
+736,Hatfields & McCoys: Famous For Killing Each Other (Soundtrack),Kevin Costner & Modern West,68,2012-06-16,2012-06-16,33,1
+737,The Power Within,DragonForce,68,2012-05-05,2012-05-05,33,1
+738,Live: At The Moody Theater,Warren Haynes Band,68,2012-05-12,2012-05-12,33,1
+739,Playlist: The Very Best Of Destiny's Child,Destiny's Child,69,2012-12-08,2012-12-08,32,1
+740,We All Raise Our Voices to the Air: Live Songs 04.11.08,The Decemberists,69,2012-03-31,2012-03-31,32,1
+741,Tramp,Sharon Van Etten,69,2012-02-25,2012-02-25,32,1
+742,All We Love We Leave Behind,Converge,69,2012-10-27,2012-10-27,32,1
+743,Searching For Sugar Man (Soundtrack),Rodriguez,74,2012-10-27,2012-11-03,32,2
+744,Life At Best,Eli Young Band,85,2012-02-04,2012-07-28,32,4
+745,Information Retrieved,Pinback,70,2012-11-03,2012-11-03,31,1
+746,All Or Nothing,Pennywise,70,2012-05-19,2012-05-19,31,1
+747,Who's Feeling Young Now?,Punch Brothers,70,2012-03-03,2012-03-03,31,1
+748,The Story Of Light,Steve Vai,70,2012-09-01,2012-09-01,31,1
+749,Chipmunks Christmas,Alvin And The Chipmunks,84,2012-12-15,2012-12-22,31,2
+750,Rage Valley (EP),Knife Party,71,2012-06-23,2012-06-23,30,1
+751,Til The Casket Drops,ZZ Ward,71,2012-11-03,2012-11-03,30,1
+752,Shifting The Atmosphere,Jason Nelson,71,2012-06-09,2012-06-09,30,1
+753,Les Is More,Ryan Leslie,71,2012-11-10,2012-11-10,30,1
+754,Crystal Castles (III),Crystal Castles,71,2012-12-01,2012-12-01,30,1
+755,12 Historias,Tommy Torres,71,2012-10-20,2012-10-20,30,1
+756,Algiers,Calexico,71,2012-09-29,2012-09-29,30,1
+757,This Is Country Music,Brad Paisley,71,2012-01-07,2012-01-07,30,1
+758,Arrow,Heartless Bastards,72,2012-03-03,2012-03-03,29,1
+759,Keep Your Eyes Open EP (Songs From The Reckoning Sessions),NEEDTOBREATHE,72,2012-10-06,2012-10-06,29,1
+760,All Is Calm: Peaceful Christmas Hymns,Jim Brickman,73,2012-01-14,2012-01-14,28,1
+761,Thompson Square,Thompson Square,73,2012-07-28,2012-07-28,28,1
+762,American Idol: Season 11: Highlights (EP),Jessica Sanchez,73,2012-07-21,2012-07-21,28,1
+763,Enslaved,Soulfly,73,2012-03-31,2012-03-31,28,1
+764,The Electric Age,Overkill,73,2012-04-14,2012-04-14,28,1
+765,Rollin' Stone,Tech N9ne Presents Stevie Stone,73,2012-06-30,2012-06-30,28,1
+766,Wu-Block,Wu-Block,73,2012-12-15,2012-12-15,28,1
+767,Ringo 2012,Ringo Starr,73,2012-02-18,2012-02-18,27,1
+768,Beatrix Runs,Elizaveta,73,2012-02-11,2012-02-11,27,1
+769,iTunes Session (EP),Kelly Clarkson,74,2012-01-14,2012-01-14,27,1
+770,The Twilight Saga: Breaking Dawn: Part 2: The Score,Soundtrack,74,2012-12-15,2012-12-15,27,1
+771,And If Our God Is For Us...,Chris Tomlin,74,2012-05-26,2012-05-26,27,1
+772,"Bitter Drink, Bitter Moon",Murder By Death,75,2012-10-13,2012-10-13,26,1
+773,The Fresh Beat Band: More Music from the Hit TV Show : Vol. 2.0,Soundtrack,75,2012-10-27,2012-10-27,26,1
+774,"En Vivo!: Live At Estadio Nacional, Santiago",Iron Maiden,75,2012-04-14,2012-04-14,26,1
+775,Keith Harkin,Keith Harkin,75,2012-10-06,2012-10-06,26,1
+776,This Is Christmas,Katherine Jenkins,82,2012-12-15,2012-12-22,26,2
+777,Back In New Orleans,Various Artists,85,2012-04-28,2012-05-05,26,2
+778,Awake,Skillet,87,2012-01-28,2012-03-10,26,4
+779,The Spirit Indestructible,Nelly Furtado,76,2012-10-06,2012-10-06,25,1
+780,Day After Tomorrow,Maino,76,2012-03-17,2012-03-17,25,1
+781,Flying Colors,Flying Colors,76,2012-04-14,2012-04-14,25,1
+782,Stalingrad,Accept,76,2012-04-28,2012-04-28,25,1
+783,Best In Show,Jackyl,76,2012-08-18,2012-08-18,25,1
+784,Freestyle (EP),Bassnectar,76,2012-11-03,2012-11-03,25,1
+785,Sounds From Nowheresville,The Ting Tings,77,2012-03-31,2012-03-31,24,1
+786,Silverthorn,Kamelot,77,2012-11-17,2012-11-17,24,1
+787,The Temper Trap,The Temper Trap,77,2012-06-23,2012-06-23,24,1
+788,The Bright Side,Aer,77,2012-08-18,2012-08-18,24,1
+789,Lindsey Stirling,Lindsey Stirling,77,2012-10-06,2012-10-06,24,1
+790,One Wing,The Chariot,77,2012-09-15,2012-09-15,24,1
+791,Love At The Bottom Of The Sea,The Magnetic Fields,77,2012-03-24,2012-03-24,24,1
+792,R.A.P. Music,Killer Mike,77,2012-06-02,2012-06-02,24,1
+793,The Ol' Razzle Dazzle,Missy Higgins,77,2012-08-04,2012-08-04,24,1
+794,Lex Hives,The Hives,78,2012-06-23,2012-06-23,23,1
+795,Breathe In,"Phillips, Craig & Dean",78,2012-03-31,2012-03-31,23,1
+796,Live Like That,Sidewalk Prophets,78,2012-04-14,2012-04-14,23,1
+797,Love Stories & Other Musings,Candlebox,78,2012-04-21,2012-04-21,23,1
+798,iTunes Session (EP),Bon Iver,78,2012-07-07,2012-07-07,23,1
+799,Camp,Childish Gambino,89,2012-01-14,2012-01-21,23,2
+800,Under Fire,Green River Ordinance,79,2012-03-17,2012-03-17,22,1
+801,Real Good Time,Aaron Watson,79,2012-10-27,2012-10-27,22,1
+802,Get What You Give,The Ghost Inside,79,2012-07-07,2012-07-07,22,1
+803,Heart,Audrey Assad,79,2012-03-03,2012-03-03,22,1
+804,Colours,Graffiti6,79,2012-02-11,2012-02-11,21,1
+805,Hymns,Guy Penrod,80,2012-04-14,2012-04-14,21,1
+806,The Experience,Le'Andria Johnson,80,2012-10-06,2012-10-06,21,1
+807,Demonocracy,Job For A Cowboy,80,2012-04-28,2012-04-28,21,1
+808,Pure And Simple,Gaither Vocal Band,80,2012-09-29,2012-09-29,21,1
+809,Candy Coated Fury,Reel Big Fish,80,2012-08-18,2012-08-18,21,1
+810,Sweeter,Gavin DeGraw,82,2012-04-21,2012-05-19,21,2
+811,The Stars Are Indifferent To Astronomy,Nada Surf,80,2012-02-11,2012-02-11,20,1
+812,Agnostic Hymns & Stoner Fables,Todd Snider,81,2012-03-24,2012-03-24,20,1
+813,Limited Edition: 50th Anniversary Retrospective,The Beach Boys,81,2012-05-26,2012-05-26,20,1
+814,Suzie Cracks The Whip,Blues Traveler,81,2012-07-14,2012-07-14,20,1
+815,The Greatest Hits,3 Doors Down,81,2012-12-08,2012-12-08,20,1
+816,Never Say Never: The Remixes (EP),Justin Bieber,81,2012-01-07,2012-01-07,20,1
+817,This Machine,The Dandy Warhols,82,2012-05-12,2012-05-12,19,1
+818,Wicked Game,Il Divo,82,2012-01-07,2012-01-07,19,1
+819,2Cellos,2Cellos,82,2012-02-18,2012-02-18,18,1
+820,De Miles A Uno,Christian Pagan,83,2012-01-14,2012-01-14,18,1
+821,Long Gone Daddy,Hank Williams III,83,2012-05-05,2012-05-05,18,1
+822,What The Hell Is Goin' On?,Paul Thorn,83,2012-05-26,2012-05-26,18,1
+823,The Duke,Joe Jackson,83,2012-07-14,2012-07-14,18,1
+824,The Goat Rodeo Sessions,Yo-Yo Ma/Stuart Duncan/Edgar Meyer/Chris Thile,87,2012-01-07,2012-01-14,18,2
+825,Clear Heart Full Eyes,Craig Finn,83,2012-02-11,2012-02-11,17,1
+826,Rock & Roll Hall Of Fame Covers (EP),Red Hot Chili Peppers,84,2012-05-19,2012-05-19,17,1
+827,Paranormal,Prozak,84,2012-05-12,2012-05-12,17,1
+828,Christmas With Earnest Pugh,Earnest Pugh,84,2012-11-03,2012-11-03,17,1
+829,What If We Were Real,Mandisa,84,2012-05-26,2012-05-26,17,1
+830,lovestrong.,Christina Perri,84,2012-01-14,2012-01-14,17,1
+831,The Bach Guide: Haydn Symphonies: A Big Bach Guide Set,Various Artists,84,2012-04-14,2012-04-14,17,1
+832,Outspoken,For All Those Sleeping,84,2012-07-07,2012-07-07,17,1
+833,Because Of You (EP),Ryan Beatty,84,2012-08-11,2012-08-11,17,1
+834,HQ Live,Incubus,84,2012-09-01,2012-09-01,17,1
+835,Visions,Grimes,84,2012-03-10,2012-03-10,17,1
+836,Comeblack,Scorpions,84,2012-02-11,2012-02-11,16,1
+837,Transcendental Youth,The Mountain Goats,85,2012-10-20,2012-10-20,16,1
+838,Black Diamonds (EP),Issues,85,2012-12-01,2012-12-01,16,1
+839,The Upside Of Down,Chris August,86,2012-09-08,2012-09-08,15,1
+840,Once: A New Musical,Original Broadway Cast Recording,86,2012-06-30,2012-06-30,15,1
+841,Control System,AB-Soul,86,2012-05-26,2012-05-26,15,1
+842,Take Me To Your Leader,!MAYDAY!,86,2012-04-14,2012-04-14,15,1
+843,Casey Abrams,Casey Abrams,87,2012-07-14,2012-07-14,14,1
+844,Thick As Thieves,Cavo,87,2012-04-28,2012-04-28,14,1
+845,O God Save Us All,Disciple,87,2012-12-01,2012-12-01,14,1
+846,Dusk Till Dawn,Bobby V,87,2012-11-03,2012-11-03,14,1
+847,Whatever,Hot Chelle Rae,90,2012-01-14,2012-01-21,14,2
+848,Let It Snow,Various Artists,88,2012-01-07,2012-01-07,13,1
+849,Mud Digger: Volume 3,Various Artists,88,2012-06-30,2012-06-30,13,1
+850,Sugaring Season,Beth Orton,88,2012-10-20,2012-10-20,13,1
+851,And So It Goes,Don Williams,88,2012-07-07,2012-07-07,13,1
+852,History: Mob Music And Function Music,E-40 And Too $hort,88,2012-11-24,2012-11-24,13,1
+853,Playlist: The Very Best Of Britney Spears,Britney Spears,88,2012-12-08,2012-12-08,13,1
+854,A.N.T. Farm,Soundtrack,94,2012-01-07,2012-01-14,13,2
+855,Blues Funeral,Mark Lanegan Band,89,2012-02-25,2012-02-25,12,1
+856,Hell In A Handbasket,Meat Loaf,89,2012-03-31,2012-03-31,12,1
+857,OFF!,OFF!,89,2012-05-26,2012-05-26,12,1
+858,Live In New York City,Paul Simon,89,2012-10-06,2012-10-06,12,1
+859,Clear As Day/Christmas With Scotty McCreery,Scotty McCreery,89,2012-11-17,2012-11-17,12,1
+860,iTunes Sessions (EP),Mat Kearney,89,2012-08-18,2012-08-18,12,1
+861,A Joyful Noise,Gossip,89,2012-06-09,2012-06-09,12,1
+862,Playlist: The Very Best Of Meat Loaf,Meat Loaf,90,2012-12-08,2012-12-08,11,1
+863,Dr. Kokastien Hosted By DJ King Assassin,Dr. Kokastien,90,2012-08-11,2012-08-11,11,1
+864,Landline,Greg Laswell,90,2012-05-12,2012-05-12,11,1
+865,47th Academy Of Country Music Awards: 2012  Nominee Spotlight,Various Artists,91,2012-04-14,2012-04-14,10,1
+866,Skyfall,Soundtrack,91,2012-11-24,2012-11-24,10,1
+867,The Manticore And Other Horrors,Cradle Of Filth,92,2012-11-17,2012-11-17,9,1
+868,Sunset Strip To Haight-Ashbury: The California Scene In The '60s,Various Artists,92,2012-08-11,2012-08-11,9,1
+869,Decades Of Worship,Michael W. Smith,92,2012-05-26,2012-05-26,9,1
+870,Wind Down,Various Artists,92,2012-01-28,2012-01-28,9,1
+871,Red. White. Green.,Upon A Burning Body,92,2012-04-28,2012-04-28,9,1
+872,Christmas: God With Us,Jeremy Camp,92,2012-12-08,2012-12-08,9,1
+873,Delta Spirit,Delta Spirit,92,2012-03-31,2012-03-31,9,1
+874,Eleven,Martina McBride,92,2012-01-07,2012-01-07,9,1
+875,A Very Merry Perri Christmas (EP),Christina Perri,93,2012-11-03,2012-11-03,8,1
+876,Blue Mountain,Brandon Heath,93,2012-10-27,2012-10-27,8,1
+877,New Multitudes,Jay Farrar/Will Johnson/Anders Parker/Yim Yames,93,2012-03-17,2012-03-17,8,1
+878,Into The Woods (EP),Of Monsters And Men,94,2012-01-21,2012-01-21,7,1
+879,Life Music,Jonathan McReynolds,94,2012-10-13,2012-10-13,7,1
+880,The Magic Door,Chris Robinson Brotherhood,94,2012-09-29,2012-09-29,7,1
+881,Requiem For The Indifferent,Epica,94,2012-03-31,2012-03-31,7,1
+882,God Of The Serengeti,Vinnie Paz,94,2012-11-10,2012-11-10,7,1
+883,Book Burner,Pig Destroyer,95,2012-11-10,2012-11-10,6,1
+884,A Foot In The Door: The Best Of Pink Floyd,Pink Floyd,95,2012-03-17,2012-03-17,6,1
+885,Live From New York,Jesus Culture With Martin Smith,95,2012-12-08,2012-12-08,6,1
+886,How About I Be Me (And You Be You)?,Sinead O'Connor,95,2012-03-10,2012-03-10,6,1
+887,JT Hodges,JT Hodges,95,2012-09-08,2012-09-08,6,1
+888,Failed States,Propagandhi,95,2012-09-22,2012-09-22,6,1
+889,Wreck-It Ralph,Soundtrack,96,2012-11-24,2012-11-24,5,1
+890,Pina Records Presenta: La Formula: The Company,Various Artists,96,2012-09-08,2012-09-08,5,1
+891,His And Hers,Joey + Rory,96,2012-08-18,2012-08-18,5,1
+892,Marvin L Winans Presents: The Praise + Worship Experience,Marvin L Winans,96,2012-07-14,2012-07-14,5,1
+893,NOW That's What I Call Classic Rock Hits,Various Artists,96,2012-05-19,2012-05-19,5,1
+894,"Live At El Morro, Puerto Rico",Yanni,96,2012-05-05,2012-05-05,5,1
+895,Baptized In Filth,Impending Doom,96,2012-03-31,2012-03-31,5,1
+896,Come Back As Rain,Good Old War,96,2012-03-24,2012-03-24,5,1
+897,Flashback With The Monkees,The Monkees,96,2012-03-17,2012-03-17,5,1
+898,The Classic Christmas Album,Kenny G,96,2012-12-22,2012-12-22,5,1
+899,Victorious: Music From The Hit TV Show,Soundtrack,96,2012-01-07,2012-01-07,5,1
+900,Going Out In Style,Dropkick Murphys,97,2012-03-31,2012-03-31,4,1
+901,Finally Famous,Big Sean,97,2012-01-14,2012-01-14,4,1
+902,Local Business,Titus Andronicus,97,2012-11-10,2012-11-10,4,1
+903,Heat Lightning Rumbles In The Distance,Patterson Hood,97,2012-09-29,2012-09-29,4,1
+904,Carnivale Electricos,Galactic,97,2012-03-10,2012-03-10,4,1
+905,Dreams,Brian Culbertson,97,2012-06-30,2012-06-30,4,1
+906,Texicali (EP),ZZ Top,97,2012-06-23,2012-06-23,4,1
+907,The Head And The Heart,The Head And The Heart,97,2012-01-28,2012-02-11,4,2
+908,Habits & Contradictions,ScHoolboy Q,98,2012-01-28,2012-01-28,3,1
+909,Tron: Legacy (Soundtrack),Daft Punk,98,2012-03-10,2012-03-10,3,1
+910,Crave,for KING & COUNTRY,98,2012-03-17,2012-03-17,3,1
+911,Outlaws Like Me,Justin Moore,98,2012-01-14,2012-01-14,3,1
+912,Comet,The Bouncing Souls,98,2012-06-30,2012-06-30,3,1
+913,Epicloud,The Devin Townsend Project,98,2012-10-06,2012-10-06,3,1
+914,Extended Versions,Foreigner,99,2012-05-05,2012-05-05,2,1
+915,No Trespassing,Too $hort,99,2012-03-17,2012-03-17,2,1
+916,The Longing (EP No. 3),All Sons & Daughters,99,2012-10-13,2012-10-13,2,1
+917,Nocturne,Wild Nothing,99,2012-09-15,2012-09-15,2,1
+918,It'z Just What We Do (EP),Florida Georgia Line,99,2012-11-03,2012-11-03,2,1
+919,Anthology,Thrice,99,2012-11-17,2012-11-17,2,1
+920,"Hello, It's Mz. Hyde (EP)",Halestorm,99,2012-02-11,2012-02-11,1,1
+921,Recovery,Bishop Rudolph McKissick Jr. And The Word & Worship Mass Choir,100,2012-11-10,2012-11-10,1,1
+922,Journey,Soundtrack,100,2012-04-28,2012-04-28,1,1
+923,The Seer,Swans,100,2012-09-15,2012-09-15,1,1
+924,Promising Promises,Jon McLaughlin,100,2012-06-09,2012-06-09,1,1
+925,Leaving Eden,Carolina Chocolate Drops,100,2012-03-17,2012-03-17,1,1
+926,Bringing In The Darlings (EP),Josh Ritter,100,2012-03-10,2012-03-10,1,1
+927,Invisible Stars,Everclear,100,2012-07-14,2012-07-14,1,1
+928,WOW Christmas: 32 Christian Artists And Holiday Songs,Various Artists,100,2012-01-07,2012-01-07,1,1
+929,One Song At A Time,Jamie Grace,100,2012-08-11,2012-08-11,1,1

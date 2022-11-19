@@ -1,0 +1,442 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,We Belong Together,Mariah Carey,1,2005-04-16,2005-12-31,5464,38
+2,Since U Been Gone,Kelly Clarkson,2,2005-01-01,2005-10-29,4847,44
+3,Hollaback Girl,Gwen Stefani,1,2005-04-02,2005-10-29,4088,31
+4,Don't Cha,The Pussycat Dolls Featuring Busta Rhymes,2,2005-05-07,2005-12-31,3802,35
+5,You And Me,Lifehouse,5,2005-02-12,2005-12-31,3788,46
+6,Boulevard Of Broken Dreams,Green Day,2,2005-01-01,2005-07-30,3706,31
+7,Let Me Love You,Mario,1,2005-01-01,2005-06-25,3614,26
+8,"1, 2 Step",Ciara Featuring Missy Elliott,2,2005-01-01,2005-07-23,3503,30
+9,Behind These Hazel Eyes,Kelly Clarkson,6,2005-04-23,2005-12-10,3448,34
+10,Gold Digger,Kanye West Featuring Jamie Foxx,1,2005-07-30,2005-12-31,3399,23
+11,Beverly Hills,Weezer,10,2005-04-16,2005-12-31,3220,38
+12,Candy Shop,50 Cent Featuring Olivia,1,2005-02-05,2005-07-09,3183,23
+13,Disco Inferno,50 Cent,3,2005-01-01,2005-06-25,3103,26
+14,Mr. Brightside,The Killers,10,2005-02-12,2005-10-29,3097,38
+15,Pon de Replay,Rihanna,2,2005-06-11,2005-12-10,2898,27
+16,Shake It Off,Mariah Carey,2,2005-07-30,2005-12-31,2874,23
+17,Don't Phunk With My Heart,The Black Eyed Peas,3,2005-04-23,2005-10-15,2870,26
+18,Lonely No More,Rob Thomas,6,2005-02-19,2005-10-08,2868,34
+19,Lose Control,Missy Elliott Featuring Ciara & Fat Man Scoop,3,2005-05-21,2005-11-26,2826,28
+20,Just A Lil Bit,50 Cent,3,2005-03-26,2005-09-24,2773,27
+21,Hate It Or Love It,The Game Featuring 50 Cent,2,2005-02-12,2005-07-16,2660,23
+22,My Humps,The Black Eyed Peas,3,2005-08-20,2005-12-31,2648,20
+23,Oh,Ciara Featuring Ludacris,2,2005-03-26,2005-08-27,2617,23
+24,How We Do,The Game Featuring 50 Cent,4,2005-01-01,2005-06-04,2555,23
+25,Run It!,Chris Brown,1,2005-08-27,2005-12-31,2453,19
+26,Scars,Papa Roach,15,2005-02-12,2005-10-29,2425,38
+27,Feel Good Inc,Gorillaz,14,2005-05-28,2005-12-31,2387,32
+28,Like You,Bow Wow Featuring Ciara,3,2005-08-06,2005-12-24,2363,21
+29,Switch,Will Smith,7,2005-03-05,2005-09-10,2330,28
+30,Photograph,Nickelback,2,2005-09-10,2005-12-31,2315,17
+31,Let Me Hold You,Bow Wow Featuring Omarion,4,2005-05-28,2005-11-05,2255,24
+32,Breakaway,Kelly Clarkson,10,2005-01-01,2005-07-09,2225,28
+33,Holiday,Green Day,19,2005-04-09,2005-11-12,2207,32
+34,Let Me Go,3 Doors Down,14,2005-02-05,2005-09-03,2178,31
+35,Obsession (No Es Amor),Frankie J Featuring Baby Bash,3,2005-01-29,2005-06-18,2158,21
+36,"Sugar, We're Goin' Down",Fall Out Boy,8,2005-07-02,2005-12-31,2150,27
+37,Rich Girl,Gwen Stefani Featuring Eve,7,2005-01-01,2005-06-25,2138,26
+38,Lovers And Friends,Lil Jon & The East Side Boyz Featuring Usher & Ludacris,3,2005-01-01,2005-04-23,2111,17
+39,Listen To Your Heart,D.H.T.,8,2005-06-04,2005-12-03,2096,27
+40,Soul Survivor,Young Jeezy Featuring Akon,4,2005-09-03,2005-12-31,2052,18
+41,Collide,Howie Day,20,2005-02-12,2005-09-17,1997,32
+42,Soldier,Destiny's Child Featuring T.I. & Lil Wayne,3,2005-01-01,2005-04-16,1964,16
+43,Caught Up,Usher,8,2005-01-01,2005-06-11,1949,24
+44,Drop It Like It's Hot,Snoop Dogg Featuring Pharrell,2,2005-01-01,2005-04-23,1934,17
+45,Wake Me Up When September Ends,Green Day,6,2005-08-06,2005-12-31,1864,22
+46,Lonely,Akon,4,2005-02-26,2005-07-09,1835,20
+47,Grind With Me,Pretty Ricky,7,2005-04-16,2005-09-10,1754,22
+48,La Tortura,Shakira Feat. Alejandro Sanz,23,2005-05-07,2005-12-03,1705,31
+49,Some Cut,Trillville Featuring Cutty,14,2005-01-01,2005-06-11,1683,24
+50,Sugar (Gimme Some),"Trick Daddy Featuring Ludacris, Lil' Kim & Cee-Lo",20,2005-01-22,2005-07-16,1667,26
+51,Karma,Alicia Keys,20,2005-01-01,2005-06-11,1666,24
+52,Because Of You,Kelly Clarkson,7,2005-09-03,2005-12-31,1654,18
+53,Slow Down,Bobby Valentino,8,2005-03-05,2005-07-30,1631,22
+54,Speed Of Sound,Coldplay,8,2005-05-07,2005-09-17,1564,20
+55,Play,David Banner,7,2005-07-23,2005-12-03,1542,20
+56,Get It Poppin',Fat Joe Featuring Nelly,9,2005-06-04,2005-10-15,1514,20
+57,Baby I'm Back,Baby Bash Featuring Akon,19,2005-02-26,2005-08-13,1469,25
+58,Pimpin' All Over The World,Ludacris Featuring Bobby Valentino,9,2005-06-11,2005-10-22,1467,20
+59,We Be Burnin',Sean Paul,6,2005-09-17,2005-12-31,1451,16
+60,Wait (The Whisper Song),Ying Yang Twins,15,2005-02-26,2005-07-23,1415,22
+61,Best Of You,Foo Fighters,18,2005-05-14,2005-10-01,1394,21
+62,Mockingbird,Eminem,11,2005-01-01,2005-05-14,1384,20
+63,It's Like That,Mariah Carey,16,2005-01-29,2005-06-11,1356,20
+64,I Don't Want To Be,Gavin DeGraw,10,2005-01-01,2005-04-30,1351,18
+65,Laffy Taffy,D4L,2,2005-10-01,2005-12-31,1350,14
+66,I'm Sprung,T-Pain,8,2005-08-27,2005-12-31,1345,19
+67,Truth Is,Fantasia,21,2005-01-22,2005-06-04,1339,20
+68,Incomplete,Backstreet Boys,13,2005-04-23,2005-09-03,1332,20
+69,She Will Be Loved,Maroon 5,17,2005-01-01,2005-04-30,1329,18
+70,Bring Em Out,T.I.,9,2005-01-01,2005-04-16,1312,16
+71,Your Body,Pretty Ricky,12,2005-08-06,2005-12-17,1312,20
+72,1 Thing,Amerie,8,2005-02-12,2005-06-25,1297,20
+73,Cater 2 U,Destiny's Child,14,2005-04-30,2005-10-08,1290,24
+74,Cool,Gwen Stefani,13,2005-07-16,2005-11-26,1274,20
+75,Over And Over,Nelly Featuring Tim McGraw,7,2005-01-01,2005-03-26,1270,13
+76,Goin' Crazy,Natalie,13,2005-02-12,2005-06-25,1261,20
+77,Beautiful Soul,Jesse McCartney,16,2005-01-01,2005-04-23,1247,17
+78,Don't Lie,The Black Eyed Peas,14,2005-08-13,2005-12-24,1194,20
+79,U Don't Know Me,T.I.,23,2005-01-22,2005-06-04,1185,20
+80,Ordinary People,John Legend,24,2005-01-08,2005-05-21,1173,20
+81,As Good As I Once Was,Toby Keith,28,2005-06-04,2005-10-15,1149,20
+82,Outta Control (Remix),50 Cent Feat. Mobb Deep,6,2005-07-23,2005-11-26,1146,19
+83,These Words,Natasha Bedingfield,17,2005-07-02,2005-11-12,1142,20
+84,Just The Girl,The Click Five,11,2005-07-30,2005-12-10,1131,20
+85,True,Ryan Cabrera,18,2005-01-01,2005-04-23,1120,17
+86,Get Back,Ludacris,13,2005-01-01,2005-04-02,1110,14
+87,Girl Tonite,Twista Featuring Trey Songz,14,2005-09-10,2005-12-31,1104,17
+88,Daughters,John Mayer,19,2005-01-01,2005-04-09,1100,15
+89,Girlfight,Brooke Valentine Featuring Lil Jon & Big Boi,23,2005-03-05,2005-07-16,1082,20
+90,O,Omarion,27,2005-01-22,2005-06-04,1080,20
+91,Don't Forget About Us,Mariah Carey,1,2005-10-22,2005-12-31,1072,11
+92,Numb/Encore,Jay-Z/Linkin Park,20,2005-01-01,2005-04-09,1060,15
+93,My Boo,Usher And Alicia Keys,6,2005-01-01,2005-03-05,1055,10
+94,Stay Fly,Three 6 Mafia Featuring Young Buck & Eightball & MJG,13,2005-09-24,2005-12-31,1053,15
+95,Bless The Broken Road,Rascal Flatts,29,2005-01-01,2005-04-30,1051,18
+96,Get Right,Jennifer Lopez,12,2005-01-22,2005-05-14,1032,17
+97,Back Then,Mike Jones,22,2005-06-04,2005-10-15,1016,20
+98,Stickwitu,The Pussycat Dolls,5,2005-10-22,2005-12-31,1008,11
+99,I Think They Like Me,"Dem Franchize Boyz Featuring Jermaine Dupri, Da Brat & Bow Wow",15,2005-09-24,2005-12-31,990,15
+100,Inside Your Heaven,Carrie Underwood,1,2005-07-02,2005-09-17,987,12
+101,Chariot,Gavin DeGraw,30,2005-04-16,2005-08-27,966,20
+102,Sunday Morning,Maroon 5,31,2005-01-08,2005-05-21,966,20
+103,Mississippi Girl,Faith Hill,29,2005-06-11,2005-10-22,963,20
+104,Look What You've Done,Jet,37,2005-01-29,2005-06-11,956,20
+105,U Already Know,112 Featuring Foxy Brown,32,2005-03-05,2005-07-16,947,20
+106,Belly Dancer (Bananza),Akon,30,2005-08-13,2005-12-24,946,20
+107,Dirty Little Secret,The All-American Rejects,27,2005-08-06,2005-12-31,934,21
+108,Making Memories Of Us,Keith Urban,34,2005-04-23,2005-09-03,924,20
+109,Badd,Ying Yang Twins Featuring Mike Jones & Mr. ColliPark,29,2005-07-16,2005-11-19,918,19
+110,Fast Cars And Freedom,Rascal Flatts,38,2005-05-07,2005-09-17,918,20
+111,Give Me That,Webbie Featuring Bun B,29,2005-05-07,2005-09-17,917,20
+112,One Wish,Ray J,12,2005-10-08,2005-12-31,904,13
+113,Here We Go,Trina Featuring Kelly Rowland,17,2005-10-08,2005-12-31,898,13
+114,Something More,Sugarland,35,2005-05-21,2005-10-01,894,20
+115,Must Be Nice,Lyfe Jennings,40,2005-05-28,2005-10-22,890,20
+116,Karma,Lloyd Banks Featuring Avant,17,2005-01-01,2005-04-02,874,14
+117,Number One Spot,Ludacris,19,2005-03-05,2005-06-18,874,16
+118,Only U,Ashanti,13,2005-01-01,2005-03-26,868,13
+119,A Real Fine Place To Start,Sara Evans,38,2005-07-09,2005-11-19,849,20
+120,Hung Up,Madonna,7,2005-11-05,2005-12-31,839,9
+121,Breathe (2 AM),Anna Nalick,53,2005-04-30,2005-09-10,833,20
+122,Free Yourself,Fantasia,41,2005-04-30,2005-09-10,832,20
+123,Boyfriend,Ashlee Simpson,19,2005-09-24,2005-12-31,831,15
+124,Okay,Nivea Featuring Lil Jon & YoungBloodZ,40,2005-01-01,2005-05-14,829,20
+125,There It Go! (The Whistle Song),Juelz Santana,10,2005-10-15,2005-12-31,826,12
+126,Girl,Destiny's Child,23,2005-04-02,2005-08-13,826,19
+127,B.Y.O.B.,System Of A Down,27,2005-04-16,2005-08-27,820,20
+128,Nothin' To Lose,Josh Gracin,39,2005-01-22,2005-06-04,815,20
+129,Unbreakable,Alicia Keys,34,2005-10-01,2005-12-31,814,14
+130,Lady,Lenny Kravitz,27,2005-01-01,2005-04-23,807,17
+131,More Than Words,Frankie J,25,2005-09-17,2005-12-31,805,16
+132,Give A Little Bit,Goo Goo Dolls,37,2005-01-01,2005-04-09,802,15
+133,How To Deal,Frankie J,39,2005-05-28,2005-10-01,795,19
+134,Mud On The Tires,Brad Paisley,30,2005-01-01,2005-04-16,792,16
+135,I Should Have Cheated,Keyshia Cole,30,2005-10-08,2005-12-31,761,13
+136,I'm A Hustla,Cassidy,34,2005-03-19,2005-07-23,756,19
+137,Lose My Breath,Destiny's Child,9,2005-01-01,2005-02-26,733,9
+138,Goodies,Ciara Featuring Petey Pablo,19,2005-01-01,2005-03-12,733,11
+139,Wonderful,Ja Rule Featuring R. Kelly & Ashanti,8,2005-01-01,2005-02-26,731,9
+140,You're My Better Half,Keith Urban,33,2005-01-01,2005-04-16,716,16
+141,That's What I Love About Sunday,Craig Morgan,51,2005-02-05,2005-06-18,712,20
+142,Almost,Bowling For Soup,46,2005-02-19,2005-07-02,702,20
+143,Something To Be Proud Of,Montgomery Gentry,41,2005-08-06,2005-12-17,701,20
+144,Better Life,Keith Urban,44,2005-09-10,2005-12-31,698,17
+145,The Hand That Feeds,Nine Inch Nails,31,2005-04-09,2005-08-20,695,20
+146,Come A Little Closer,Dierks Bentley,31,2005-09-24,2005-12-31,694,15
+147,Baby Girl,Sugarland,38,2005-01-01,2005-04-23,693,17
+148,Shake,Ying Yang Twins Featuring Pitbull,41,2005-09-03,2005-12-31,692,18
+149,Make Her Feel Good,Teairra Mari,35,2005-06-04,2005-10-01,687,18
+150,Who You'd Be Today,Kenny Chesney,37,2005-10-08,2005-12-31,677,13
+151,Anything But Mine,Kenny Chesney,48,2005-02-12,2005-06-25,657,20
+152,Trapped In The Closet,R. Kelly,22,2005-05-07,2005-08-20,646,16
+153,Gone,Montgomery Gentry,53,2005-02-05,2005-06-18,643,20
+154,Redneck Yacht Club,Craig Morgan,45,2005-08-06,2005-12-10,640,19
+155,"Dance, Dance",Fall Out Boy,22,2005-11-05,2005-12-31,633,9
+156,Gasolina,Daddy Yankee,32,2005-01-01,2005-03-26,629,13
+157,Best I Ever Had,Gary Allan,51,2005-09-03,2005-12-24,626,17
+158,Lighters Up,Lil' Kim,31,2005-09-24,2005-12-17,623,13
+159,Dreams,The Game,32,2005-06-04,2005-08-27,620,13
+160,How Could You,Mario,52,2005-03-19,2005-07-09,616,17
+161,Grillz,"Nelly Featuring Paul Wall, Ali & Gipp",3,2005-11-19,2005-12-31,615,7
+162,Untitled (How Can This Happen To Me?),Simple Plan,49,2005-05-21,2005-09-03,612,16
+163,Alcohol,Brad Paisley,28,2005-07-02,2005-10-29,610,18
+164,This Is How A Heart Breaks,Rob Thomas,52,2005-07-16,2005-11-26,601,20
+165,Nobody's Home,Avril Lavigne,41,2005-01-01,2005-04-02,600,14
+166,Inside Your Heaven,Bo Bice,2,2005-07-09,2005-08-20,599,7
+167,Luxurious,Gwen Stefani,21,2005-11-05,2005-12-31,591,9
+168,Tequila Makes Her Clothes Fall Off,Joe Nichols,32,2005-10-15,2005-12-31,581,12
+169,These Boots Are Made For Walkin',Jessica Simpson,14,2005-07-16,2005-09-24,570,11
+170,Diamonds From Sierra Leone,Kanye West,43,2005-05-21,2005-09-24,565,19
+171,What U Gon' Do,Lil Jon & The East Side Boyz Featuring Lil Scrappy,22,2005-01-01,2005-03-12,560,11
+172,Lot Of Leavin' Left To Do,Dierks Bentley,47,2005-04-02,2005-08-06,555,19
+173,Some Beach,Blake Shelton,31,2005-01-01,2005-03-12,548,11
+174,Heard 'Em Say,Kanye West Featuring Adam Levine,26,2005-10-29,2005-12-31,544,10
+175,So Seductive,Tony Yayo Featuring 50 Cent,48,2005-06-25,2005-10-01,540,15
+176,Summer Nights,Lil Rob,36,2005-06-25,2005-09-24,535,14
+177,Be Yourself,Audioslave,32,2005-03-26,2005-07-23,534,18
+178,Signs,Snoop Dogg Featuring Charlie Wilson & Justin Timberlake,46,2005-02-19,2005-05-21,527,14
+179,Naked,Marques Houston,47,2005-08-27,2005-11-26,525,14
+180,You'll Be There,George Strait,54,2005-04-23,2005-08-13,524,17
+181,Play Something Country,Brooks & Dunn,37,2005-07-02,2005-10-22,523,17
+182,Skin (Sarabeth),Rascal Flatts,42,2005-09-24,2005-12-24,523,14
+183,Like Toy Soldiers,Eminem,34,2005-01-29,2005-04-09,512,11
+184,Let's Go,Trick Daddy Featuring Lil Jon & Twista,15,2005-01-01,2005-02-12,511,7
+185,Stay With Me (Brass Bed),Josh Gracin,47,2005-08-13,2005-11-26,511,16
+186,"Awful, Beautiful Life",Darryl Worley,30,2005-01-01,2005-03-26,508,13
+187,It's Getting Better All The Time,Brooks & Dunn,56,2005-02-12,2005-05-28,508,16
+188,Check On It,Beyonce Featuring Slim Thug,8,2005-11-19,2005-12-31,502,7
+189,Dare You To Move,Switchfoot,21,2005-01-01,2005-02-12,497,7
+190,Like We Never Loved At All,Faith Hill,45,2005-10-08,2005-12-31,497,13
+191,Window Shopper,50 Cent,20,2005-11-12,2005-12-31,493,8
+192,My Give A Damn's Busted,Jo Dee Messina,63,2005-02-19,2005-07-02,476,20
+193,Somebody's Hero,Jamie O'Neal,51,2005-07-30,2005-11-19,465,17
+194,Better Days,Goo Goo Dolls,36,2005-10-08,2005-12-31,461,13
+195,Helena (So Long & Goodnight),My Chemical Romance,33,2005-07-09,2005-10-22,458,16
+196,Right Here,Staind,55,2005-06-25,2005-11-05,458,20
+197,When I'm Gone,Eminem,8,2005-11-26,2005-12-31,453,6
+198,Vertigo,U2,37,2005-01-01,2005-02-19,452,8
+199,If It's Lovin' That You Want,Rihanna,36,2005-10-22,2005-12-31,447,11
+200,New York,Ja Rule Featuring Fat Joe & Jadakiss,27,2005-01-01,2005-02-19,446,8
+201,Tell Me,Bobby Valentino,51,2005-07-16,2005-10-15,444,14
+202,Nothin 'Bout Love Makes Sense,LeAnn Rimes,52,2005-01-01,2005-03-19,444,12
+203,Monday Morning Church,Alan Jackson,54,2005-01-01,2005-03-19,443,12
+204,Must Be Doin' Somethin' Right,Billy Currington,39,2005-10-22,2005-12-31,439,11
+205,American Baby,Dave Matthews Band,16,2005-05-14,2005-07-23,432,11
+206,Encore,"Eminem, Dr. Dre & 50 Cent",25,2005-01-01,2005-02-26,423,9
+207,Probably Wouldn't Be This Way,LeAnn Rimes,54,2005-09-03,2005-12-03,415,14
+208,"Jesus, Take The Wheel",Carrie Underwood,31,2005-11-19,2005-12-31,414,7
+209,U Make Me Wanna,Jadakiss Featuring Mariah Carey,23,2005-01-01,2005-02-12,408,7
+210,Let's Get Blown,Snoop Dogg,54,2005-01-08,2005-03-19,405,11
+211,Honky Tonk Badonkadonk,Trace Adkins,38,2005-11-05,2005-12-31,403,9
+212,When I Think About Cheatin',Gretchen Wilson,39,2005-01-01,2005-02-19,398,8
+213,Again,Faith Evans,47,2005-03-26,2005-06-25,394,14
+214,Homewrecker,Gretchen Wilson,56,2005-03-26,2005-06-18,379,13
+215,One Thing,Finger Eleven,29,2005-01-01,2005-02-05,375,6
+216,Somewhere Only We Know,Keane,50,2005-02-12,2005-04-30,374,12
+217,If Heaven,Andy Griggs,65,2005-02-12,2005-05-28,374,16
+218,Seasons Of Love,Cast Of Rent,33,2005-08-20,2005-12-31,370,9
+219,Songs About Me,Trace Adkins,59,2005-03-26,2005-07-02,370,15
+220,I May Hate Myself In The Morning,Lee Ann Womack,66,2005-01-29,2005-04-23,370,13
+221,Big Blue Note,Toby Keith,55,2005-10-15,2005-12-31,367,12
+222,Welcome To Jamrock,"Damian ""Jr. Gong"" Marley",55,2005-07-30,2005-10-15,365,12
+223,"Sitting, Waiting, Wishing",Jack Johnson,66,2005-03-05,2005-07-09,362,19
+224,You're Beautiful,James Blunt,22,2005-11-12,2005-12-31,358,8
+225,Back When,Tim McGraw,35,2005-01-01,2005-02-26,355,9
+226,Still Tippin',Mike Jones Featuring Slim Thug & Paul Wall,60,2005-03-19,2005-06-11,352,13
+227,Charlene,Anthony Hamilton,27,2005-01-01,2005-01-29,345,5
+228,Dem Boyz,Boyz N Da Hood,56,2005-06-25,2005-09-10,339,12
+229,Good Ride Cowboy,Garth Brooks,59,2005-10-22,2005-12-31,338,11
+230,Errtime,Nelly Featuring Jung Tru & King Jacob,24,2005-05-28,2005-07-02,333,6
+231,Be Without You,Mary J. Blige,20,2005-11-26,2005-12-31,326,6
+232,Do You Want Fries With That,Tim McGraw,59,2005-07-16,2005-09-24,323,11
+233,All Jacked Up,Gretchen Wilson,42,2005-08-20,2005-10-29,322,11
+234,Boondocks,Little Big Town,56,2005-10-29,2005-12-31,318,10
+235,Charlie Last Name: Wilson,Charlie Wilson,67,2005-08-06,2005-11-05,317,14
+236,Welcome To My Life,Simple Plan,46,2005-01-01,2005-03-12,315,11
+237,He Gets That From Me,Reba McEntire,59,2005-01-01,2005-03-05,313,10
+238,Hope,Twista Featuring Faith Evans,31,2005-02-05,2005-03-19,312,7
+239,Turn It Up,Chamillionaire Featuring Lil' Flip,43,2005-11-05,2005-12-31,303,9
+240,Go D.J.,Lil Wayne,34,2005-01-01,2005-02-12,302,7
+241,What's A Guy Gotta Do,Joe Nichols,64,2005-02-26,2005-06-11,301,15
+242,Don't Worry 'Bout A Thing,SHeDAISY,59,2005-07-02,2005-09-03,298,10
+243,On The Way Down,Ryan Cabrera,37,2005-01-01,2005-01-29,291,5
+244,Oye Mi Canto,"N.O.R.E. Featuring Daddy Yankee, Nina Sky, Gem Star & Big Mato",26,2005-01-01,2005-01-22,288,4
+245,You're Like Comin' Home,Lonestar,63,2005-09-24,2005-12-03,287,11
+246,Gotta Getcha,Jermaine Dupri,60,2005-07-16,2005-09-24,279,11
+247,Home,Michael Buble,72,2005-05-21,2005-12-03,278,20
+248,Honkytonk U,Toby Keith,61,2005-02-26,2005-05-14,277,12
+249,Shorty Wanna Ride,Young Buck,45,2005-01-01,2005-02-19,274,8
+250,She Let Herself Go,George Strait,54,2005-11-05,2005-12-31,274,9
+251,Baby Mama,Fantasia,60,2005-02-12,2005-04-30,271,12
+252,Pickin' Wildflowers,Keith Anderson,64,2005-06-04,2005-08-20,268,12
+253,And Then What,Young Jeezy Featuring Mannie Fresh,67,2005-07-23,2005-10-01,267,11
+254,Let Them Be Little,Billy Dean,68,2005-01-29,2005-04-09,267,11
+255,Keg In The Closet,Kenny Chesney,64,2005-06-04,2005-08-06,266,10
+256,Fireman,Lil Wayne,32,2005-11-19,2005-12-31,263,7
+257,Baby It's You,JoJo Featuring Bow Wow,42,2005-01-01,2005-02-05,258,6
+258,Don't Bother,Shakira,42,2005-11-05,2005-12-31,256,7
+259,Kryptonite (I'm On It),Purple Ribbon All-Stars,35,2005-11-26,2005-12-31,254,6
+260,Broken,Seether Featuring Amy Lee,33,2005-01-01,2005-01-22,251,4
+261,Wake Up,Hilary Duff,29,2005-09-03,2005-10-08,247,6
+262,Breathe,Fabolous,33,2005-01-01,2005-01-29,243,5
+263,Lean Back,Terror Squad,31,2005-01-01,2005-01-22,239,4
+264,Hicktown,Jason Aldean,68,2005-08-13,2005-11-05,239,13
+265,Help Somebody,Van Zant,66,2005-07-16,2005-09-24,237,11
+266,Doesn't Remind Me,Audioslave,68,2005-09-17,2005-11-26,233,11
+267,Hold You Down,Jennifer Lopez Featuring Fat Joe,64,2005-03-19,2005-05-07,230,8
+268,Can I Have It Like That,Pharrell Featuring Gwen Stefani,49,2005-11-05,2005-12-24,226,8
+269,Soul Meets Body,Death Cab For Cutie,60,2005-10-08,2005-12-31,225,13
+270,I Just Wanna Live,Good Charlotte,51,2005-02-12,2005-04-02,224,8
+271,So Sick,Ne-Yo,26,2005-12-10,2005-12-31,210,4
+272,Energy,Natalie Featuring Baby Bash,66,2005-06-18,2005-08-06,208,8
+273,How Am I Doin',Dierks Bentley,54,2005-01-01,2005-02-05,202,6
+274,E-Pro,Beck,65,2005-03-26,2005-05-28,201,10
+275,When You Tell Me That You Love Me,American Idol Finalists Season 4,39,2005-05-07,2005-05-28,200,4
+276,Live Like You Were Dying,Tim McGraw,29,2005-06-25,2005-07-09,199,3
+277,Axel F,Crazy Frog,50,2005-08-20,2005-10-01,198,7
+278,Baby,Fabolous Featuring Mike Shorey,71,2005-01-22,2005-03-19,198,9
+279,I'm A King,P$C Featuring T.I. & Lil Scrappy,67,2005-08-06,2005-11-12,194,11
+280,DOA,Foo Fighters,68,2005-11-12,2005-12-31,193,8
+281,N Dey Say,Nelly,64,2005-02-05,2005-03-19,190,7
+282,Nothing On But The Radio,Gary Allan,57,2005-01-01,2005-01-29,189,5
+283,Tempted To Touch,Rupee,68,2005-01-01,2005-02-19,185,8
+284,Hypnotize,System Of A Down,61,2005-11-05,2005-12-31,181,8
+285,Just Lose It,Eminem,51,2005-01-01,2005-02-12,179,7
+286,Miss Me Baby,Chris Cagle,67,2005-10-29,2005-12-31,179,9
+287,Pretty Vegas,INXS,37,2005-10-22,2005-12-24,177,5
+288,Ass Like That,Eminem,60,2005-06-18,2005-07-30,177,7
+289,I'm Feeling You,Santana Featuring Michelle Branch & The Wreckers,55,2005-10-01,2005-12-17,176,8
+290,All Because Of You,Marques Houston Featuring Young Rome,69,2005-05-07,2005-07-09,176,10
+291,Balla Baby,Chingy,56,2005-01-01,2005-02-05,173,6
+292,Goodbye Time,Blake Shelton,73,2005-06-11,2005-08-06,173,9
+293,The Woman With You,Kenny Chesney,58,2005-01-01,2005-02-05,171,6
+294,Good Is Good,Sheryl Crow,64,2005-10-01,2005-12-10,171,10
+295,Jerk It Out,Caesars,70,2005-02-26,2005-05-07,165,10
+296,My Happy Ending,Avril Lavigne,44,2005-01-01,2005-01-15,163,3
+297,Mr. Mom,Lonestar,63,2005-01-01,2005-01-29,163,5
+298,MJB Da MVP,Mary J. Blige Featuring The Game & 50 Cent,75,2005-04-30,2005-06-18,160,8
+299,Have A Nice Day,Bon Jovi,53,2005-10-08,2005-12-31,159,10
+300,Party For Two,Shania Twain With Billy Currington Or Mark McGrath,64,2005-01-01,2005-02-05,158,6
+301,Playa's Only,R. Kelly Featuring The Game,65,2005-07-09,2005-08-27,156,7
+302,Bat Country,Avenged Sevenfold,76,2005-11-12,2005-12-31,156,8
+303,Unwritten,Natasha Bedingfield,51,2005-12-10,2005-12-31,151,4
+304,Confessions Of A Broken Heart (Daughter To Father),Lindsay Lohan,57,2005-11-26,2005-12-31,150,6
+305,Unpredictable,Jamie Foxx Featuring Ludacris,47,2005-12-03,2005-12-31,148,5
+306,ASAP,T.I.,75,2005-06-18,2005-08-06,143,8
+307,If Something Should Happen,Darryl Worley,75,2005-05-28,2005-07-23,143,9
+308,Blue Orchid,The White Stripes,43,2005-05-07,2005-07-09,141,7
+309,When I Get Where I'm Going,Brad Paisley Featuring Dolly Parton,62,2005-12-03,2005-12-31,138,5
+310,All These Things That I've Done,The Killers,74,2005-08-27,2005-11-26,138,14
+311,Holy Water,Big & Rich,75,2005-01-01,2005-02-12,137,7
+312,Billy's Got His Beer Goggles On,Neal McCoy,75,2005-10-08,2005-12-03,137,9
+313,1985,Bowling For Soup,66,2005-01-01,2005-01-22,128,4
+314,Fix You,Coldplay,59,2005-10-01,2005-11-12,127,6
+315,Save Me,Shinedown,72,2005-11-19,2005-12-31,127,7
+316,Rompe,Daddy Yankee,66,2005-12-03,2005-12-31,126,5
+317,Cry Baby/Piece Of My Heart,Melissa Etheridge & Joss Stone,32,2005-04-02,2005-04-09,124,2
+318,Under Pressure,The Used And My Chemical Romance,41,2005-04-30,2005-05-14,122,3
+319,Hustler's Ambition,50 Cent,65,2005-11-05,2005-12-03,121,5
+320,If You Were Mine,Marcos Hernandez,78,2005-09-24,2005-11-12,119,8
+321,Presidential,YoungBloodZ,81,2005-10-15,2005-12-31,116,10
+322,I Changed My Mind,Keyshia Cole Featuring Shyne,71,2005-01-01,2005-02-05,115,6
+323,Fall To Pieces,Velvet Revolver,78,2005-01-01,2005-02-05,113,6
+324,Twisted Transistor,Korn,64,2005-10-15,2005-12-31,112,6
+325,I Can't Stop Loving You,Kem,84,2005-05-21,2005-08-27,112,14
+326,Vitamin R (Leading Us Along),Chevelle,76,2005-01-01,2005-02-05,108,6
+327,Somebody Told Me,The Killers,62,2005-01-01,2005-01-15,106,3
+328,God's Will,Martina McBride,85,2005-03-12,2005-04-30,103,8
+329,Everytime We Touch,Cascada,55,2005-12-17,2005-12-31,100,3
+330,Go!,Common,79,2005-07-09,2005-08-13,100,6
+331,Gotta Go,Trey Songz,67,2005-12-03,2005-12-31,98,5
+332,Georgia Rain,Trisha Yearwood,78,2005-08-06,2005-10-08,98,9
+333,Just Might (Make Me Believe),Sugarland,75,2005-12-03,2005-12-31,97,5
+334,Getting Away With Murder,Papa Roach,84,2005-01-01,2005-02-05,96,6
+335,La Camisa Negra,Juanes,89,2005-04-09,2005-07-02,94,13
+336,Stars,Switchfoot,68,2005-10-01,2005-11-19,92,5
+337,I Don't Care,Ricky Martin Featuring Fat Joe & Amerie,65,2005-10-15,2005-11-12,90,5
+338,So Cold,Breaking Benjamin,77,2005-01-01,2005-01-22,86,4
+339,You're The One,Guerilla Black Featuring Mario Winans,77,2005-01-01,2005-02-05,86,6
+340,Just Want You To Know,Backstreet Boys,70,2005-09-03,2005-09-24,84,4
+341,Across The Universe,Various Artists,22,2005-03-05,2005-03-05,79,1
+342,Looking For You,Kirk Franklin,74,2005-12-10,2005-12-31,78,4
+343,Comin' To Your City,Big & Rich,72,2005-12-03,2005-12-31,77,5
+344,Drugs Or Jesus,Tim McGraw,87,2005-03-26,2005-05-21,77,9
+345,Rodeo,Juvenile,72,2005-12-10,2005-12-31,75,4
+346,Shake That,Eminem Featuring Nate Dogg,52,2005-12-24,2005-12-31,74,2
+347,Little Sister,Queens Of The Stone Age,88,2005-02-12,2005-04-23,74,9
+348,Hush,LL Cool J Featuring 7 Aurelius,78,2005-01-01,2005-01-22,71,4
+349,What You Waiting For?,Gwen Stefani,88,2005-01-01,2005-03-05,69,9
+350,Pump It,The Black Eyed Peas,70,2005-06-25,2005-12-31,66,4
+351,I'm Not Okay (I Promise),My Chemical Romance,86,2005-02-12,2005-03-19,65,6
+352,Nasty Girl,"The Notorious B.I.G. Featuring Diddy, Nelly, Jagged Edge & Avery Storm",64,2005-12-17,2005-12-31,64,3
+353,How Do You Get That Lonely,Blaine Larsen,91,2005-03-19,2005-04-30,64,7
+354,Do You Want To,Franz Ferdinand,76,2005-09-10,2005-10-29,63,4
+355,Like You,Daddy Yankee,78,2005-06-18,2005-07-30,63,7
+356,Be My Escape,Relient K,82,2005-07-30,2005-08-20,59,4
+357,So Much More,Fat Joe,81,2005-04-16,2005-05-14,58,5
+358,Come Home Soon,SHeDAISY,80,2005-01-01,2005-01-22,57,4
+359,Only,Nine Inch Nails,90,2005-10-29,2005-12-24,56,8
+360,My Old Friend,Tim McGraw,87,2005-12-03,2005-12-31,55,5
+361,Gotta Make It,Trey Songz Featuring Twista,87,2005-08-13,2005-09-24,54,7
+362,Georgia,Ludacris & Field Mob Featuring Jamie Foxx,48,2005-12-31,2005-12-31,53,1
+363,Sgt. Pepper's Lonely Hearts Club Band,Paul McCartney With U2,48,2005-07-23,2005-07-23,53,1
+364,Precious,Depeche Mode,71,2005-10-29,2005-11-12,53,3
+365,Don't Ask Me How I Know,Bobby Pinson,88,2005-06-11,2005-07-23,53,7
+366,Take Me Home,Terror Squad,83,2005-01-01,2005-02-05,49,6
+367,L.O.V.E.,Ashlee Simpson,76,2005-11-05,2005-12-31,48,2
+368,"I Smoke, I Drank",Body Head Bangerz Featuring YoungBloodz,89,2005-01-01,2005-02-05,48,6
+369,Touch It,Busta Rhymes,67,2005-12-24,2005-12-31,47,2
+370,Gotta Go Solo,Patti LaBelle Featuring Ron Isley,90,2005-01-01,2005-02-05,47,6
+371,Fresh Azimiz,Bow Wow Featuring J-Kwon & Jermaine Dupri,73,2005-12-24,2005-12-31,45,2
+372,In A Real Love,Phil Vassar,84,2005-01-01,2005-01-15,45,3
+373,Dangerously In Love,Beyonce,89,2005-01-01,2005-01-29,42,5
+374,Cold,Crossfade,81,2005-01-01,2005-01-08,40,2
+375,Perdidos,Monchy & Alexandra,92,2005-01-01,2005-02-05,38,6
+376,Trying To Find Atlantis,Jamie O'Neal,86,2005-02-19,2005-03-26,37,4
+377,Wordplay,Jason Mraz,81,2005-07-16,2005-08-20,36,4
+378,Shine On,Ryan Cabrera,86,2005-10-08,2005-11-12,36,5
+379,La La,Ashlee Simpson,86,2005-02-12,2005-03-12,36,5
+380,I'll Take That As A Yes (The Hot Tub Song),Phil Vassar,89,2005-04-30,2005-05-28,35,5
+381,Rakata,Wisin & Yandel,85,2005-12-10,2005-12-31,34,4
+382,Footprints,T.O.K.,93,2005-09-10,2005-10-15,33,6
+383,In The Kitchen,R. Kelly,91,2005-03-05,2005-04-23,32,5
+384,Home,Three Days Grace,90,2005-02-12,2005-03-12,31,4
+385,Bitches Ain't S**t,Ben Folds,71,2005-04-02,2005-04-02,30,1
+386,Devils & Dust,Bruce Springsteen,72,2005-04-16,2005-04-16,29,1
+387,Perfect Situation,Weezer,81,2005-12-24,2005-12-31,29,2
+388,Ghetto,Akon,92,2005-01-08,2005-02-05,29,5
+389,Landed,Ben Folds,77,2005-02-19,2005-02-26,28,2
+390,Nolia Clap,"Juvenile, Wacko & Skip",87,2005-01-01,2005-01-08,26,2
+391,She's No You,Jesse McCartney,91,2005-05-21,2005-06-04,25,3
+392,Notice Me,NB Ridaz Featuring Angelina,84,2005-07-23,2005-07-30,24,2
+393,My Sister,Reba McEntire,93,2005-07-09,2005-07-30,24,4
+394,Amor Eterno,Cristian Castro,78,2005-12-24,2005-12-24,23,1
+395,Happy?,Mudvayne,89,2005-04-30,2005-05-21,23,4
+396,We Will Become Silhouettes,The Postal Service,82,2005-02-26,2005-02-26,19,1
+397,Hello Tomorrow,Squeak E. Clean Featuring Karen O,85,2005-04-30,2005-04-30,16,1
+398,Sittin' Sidewayz,Paul Wall Featuring Big Pokey,93,2005-08-27,2005-10-01,16,5
+399,Tonight I Wanna Cry,Keith Urban,86,2005-12-31,2005-12-31,15,1
+400,Hold You Down,"The Alchemist Featuring Prodigy, Illa Ghee & Nina Sky",95,2005-01-08,2005-01-29,15,4
+401,I'm N Luv (Wit A Stripper),T-Pain Featuring Mike Jones,87,2005-12-31,2005-12-31,14,1
+402,Knuck If You Buck,Crime Mob Featuring Lil Scrappy,87,2005-01-01,2005-01-01,14,1
+403,Piggy Bank,50 Cent,88,2005-03-26,2005-03-26,13,1
+404,Kerosene,Miranda Lambert,90,2005-12-17,2005-12-31,13,2
+405,Your Man,Josh Turner,93,2005-12-24,2005-12-31,13,2
+406,Pain,Jimmy Eat World,93,2005-02-12,2005-02-19,13,2
+407,Yo (Excuse Me Miss),Chris Brown,89,2005-12-31,2005-12-31,12,1
+408,Touch,Omarion,94,2005-06-25,2005-07-30,12,3
+409,Hit The Floor,Twista Featuring Pitbull,95,2005-12-17,2005-12-31,12,3
+410,Nada Es Para Siempre,Luis Fonsi,90,2005-08-27,2005-08-27,11,1
+411,American Idiot,Green Day,90,2005-01-01,2005-01-01,11,1
+412,That's What It's All About,Brooks & Dunn,93,2005-01-01,2005-01-08,11,2
+413,Remedy,Seether,94,2005-07-30,2005-12-31,10,3
+414,Believe,Brooks & Dunn,95,2005-12-24,2005-12-31,10,2
+415,The Widow,The Mars Volta,95,2005-03-19,2005-03-26,10,2
+416,Who Did You Think I Was,John Mayer Trio,92,2005-10-01,2005-10-01,9,1
+417,Outta Control,50 Cent,92,2005-09-17,2005-09-17,9,1
+418,Class Reunion (That Used To Be Us),Lonestar,97,2005-04-30,2005-05-14,9,3
+419,A Rose By Any Other Name,Teena Marie Featuring Gerald Levert,97,2005-01-01,2005-01-15,8,2
+420,Sometimes You Can't Make It On Your Own,U2,97,2005-04-16,2005-04-30,8,3
+421,I'll Be Around,Daryl Hall John Oates,97,2005-01-15,2005-02-05,8,3
+422,Thugs Get Lonely Too,2Pac Featuring Nate Dogg,98,2005-01-01,2005-02-05,8,4
+423,Why Do You Love Me,Garbage,94,2005-03-26,2005-03-26,7,1
+424,Down And Out,Cam'Ron Featuring Kanye West & Syleena Johnson,94,2005-02-19,2005-02-19,7,1
+425,Stricken,Disturbed,96,2005-10-08,2005-12-10,7,2
+426,Good Times,Tommy Lee,95,2005-10-01,2005-10-01,6,1
+427,So What The Fuss,Stevie Wonder,96,2005-04-09,2005-04-09,5,1
+428,And I,Ciara,96,2005-10-29,2005-10-29,5,1
+429,Ella Y Yo,Aventura Featuring Don Omar,97,2005-12-17,2005-12-17,4,1
+430,An Honest Mistake,The Bravery,97,2005-07-09,2005-07-09,4,1
+431,(I Never Promised You A) Rose Garden,Martina McBride,98,2005-12-03,2005-12-10,4,2
+432,She Don't Tell Me To,Montgomery Gentry,98,2005-12-31,2005-12-31,3,1
+433,Juicebox,The Strokes,98,2005-10-22,2005-10-22,3,1
+434,Shut Up,Simple Plan,99,2005-03-05,2005-03-12,3,2
+435,Sooner Or Later,Breaking Benjamin,99,2005-04-02,2005-04-09,3,2
+436,The Talkin' Song Repair Blues,Alan Jackson,99,2005-07-09,2005-07-16,3,2
+437,You're My Everything,Anita Baker,99,2005-01-01,2005-01-01,2,1
+438,Real Big,Mannie Fresh,100,2005-01-01,2005-01-15,2,2
+439,Do Somethin',Britney Spears,100,2005-04-16,2005-04-16,1,1
+440,Welcome 2 Detroit,Trick-Trick Featuring Eminem,100,2005-12-17,2005-12-17,1,1
+441,Girl,Beck,100,2005-08-20,2005-08-20,1,1

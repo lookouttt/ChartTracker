@@ -1,0 +1,305 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,I'd Rather,Luther Vandross,2,2002-03-30,2002-09-07,349,22
+2,Everyday,Dave Matthews Band,1,2002-01-05,2002-04-06,274,14
+3,I Need You,Marc Anthony,2,2002-03-30,2002-08-03,254,18
+4,Ol' Red,Blake Shelton,1,2002-06-22,2002-09-21,239,14
+5,I Stand Alone,Godsmack,2,2002-03-16,2002-07-27,220,19
+6,Strong Enough To Be Your Man,Travis Tritt,2,2002-10-12,2002-12-28,219,12
+7,Warning,Incubus,4,2002-06-08,2002-10-05,197,17
+8,Seein' Red,Unwritten Law,5,2002-03-23,2002-07-06,197,16
+9,Just What I Do,Trick Pony,3,2002-04-06,2002-06-29,196,13
+10,Squeeze Me In,Garth Brooks Duet With Trisha Yearwood,2,2002-02-23,2002-04-27,182,10
+11,I Don't Want You To Go,Carolyn Dawn Johnson,2,2002-03-02,2002-05-04,169,10
+12,First Date,Blink-182,6,2002-02-23,2002-05-04,159,11
+13,Peaceful World,John Mellencamp Featuring India.Arie,4,2002-01-05,2002-03-23,156,12
+14,Here To Stay,Korn,1,2002-03-30,2002-05-18,155,8
+15,Too Bad,Nickelback,1,2002-01-05,2002-03-09,154,10
+16,Y Tu Te Vas,Chayanne,8,2002-05-04,2002-08-03,153,14
+17,Nice To Know You,Incubus,5,2002-01-12,2002-04-20,145,13
+18,Quitame Ese Hombre,Pilar Montenegro,2,2002-03-23,2002-05-18,144,9
+19,Downfall,TRUSTcompany,5,2002-08-10,2002-10-12,144,10
+20,Somewhere Out There,Our Lady Peace,1,2002-06-08,2002-08-17,143,11
+21,Amber,311,3,2002-08-03,2002-10-05,137,10
+22,Forgive,Rebecca Lynn Howard,1,2002-09-14,2002-11-02,136,8
+23,Song For The Lonely,Cher,3,2002-02-02,2002-03-23,131,8
+24,Every River,Brooks & Dunn,2,2002-10-19,2002-11-30,130,7
+25,She Loves Me Not,Papa Roach,3,2002-05-25,2002-07-13,130,8
+26,No Such Thing,John Mayer,1,2002-03-23,2002-05-25,122,10
+27,In A Little While,Uncle Kracker,2,2002-09-14,2002-10-26,122,7
+28,Saints & Angels,Sara Evans,3,2002-01-05,2002-02-16,121,7
+29,El Dolor De Tu Presencia,Jennifer Pena,7,2002-08-24,2002-10-19,119,9
+30,Why I Love You,B2K,1,2002-09-21,2002-10-26,117,6
+31,Cochise,Audioslave,2,2002-10-12,2002-11-16,117,6
+32,I Wish You'd Stay,Brad Paisley,3,2002-11-09,2002-12-28,117,8
+33,Toxicity,System Of A Down,3,2002-03-09,2002-04-27,117,8
+34,Help Me Understand,Trace Adkins,5,2002-05-18,2002-07-13,117,9
+35,"I'm Not A Girl, Not Yet A Woman",Britney Spears,2,2002-01-26,2002-03-09,115,7
+36,Someone To Love You,Ruff Endz,1,2002-03-16,2002-05-04,114,8
+37,Flake,Jack Johnson,1,2002-05-25,2002-07-27,113,10
+38,All My Life,Foo Fighters,3,2002-09-21,2002-10-26,113,6
+39,Crawling In The Dark,Hoobastank,4,2002-01-05,2002-02-23,113,8
+40,Can't Stop Loving You,Phil Collins,6,2002-10-19,2002-12-07,113,8
+41,Black Suits Comin' (Nod Ya Head),Will Smith Featuring Tra-Knox,1,2002-05-25,2002-06-22,112,5
+42,I Keep Looking,Sara Evans,1,2002-06-01,2002-07-13,112,7
+43,I Cry,Tammy Cochran,7,2002-03-16,2002-05-25,112,11
+44,Prayer,Disturbed,2,2002-08-17,2002-09-21,108,6
+45,Last Nite,The Strokes,8,2002-01-12,2002-03-23,108,10
+46,I Got It 2,Jagged Edge Featuring Nas,3,2002-03-02,2002-04-13,107,7
+47,Heaven I Need A Hug,R. Kelly,4,2002-07-13,2002-08-24,106,7
+48,Aerials,System Of A Down,1,2002-06-29,2002-08-10,105,7
+49,She Hates Me,Puddle Of Mudd,2,2002-08-31,2002-10-05,105,6
+50,Don't Know Why,Norah Jones,2,2002-08-24,2002-09-21,104,5
+51,Tonight I Wanna Be Your Man,Andy Griggs,2,2002-05-11,2002-06-22,103,7
+52,Your Body Is A Wonderland,John Mayer,1,2002-09-21,2002-10-26,102,6
+53,When You Lie Next To Me,Kellie Coffey,3,2002-04-06,2002-05-25,101,7
+54,I'm  Alive,Celine Dion,11,2002-07-13,2002-09-21,100,11
+55,What If A Woman,Joe,4,2002-03-30,2002-05-04,98,6
+56,Not A Day Goes By,Lonestar,2,2002-03-30,2002-05-04,96,6
+57,When I'm Gone,3 Doors Down,1,2002-10-19,2002-11-16,95,5
+58,What's Your Flava?,Craig David,4,2002-11-02,2002-12-07,95,6
+59,Mentiroso,Enrique Iglesias,5,2002-08-31,2002-10-19,95,8
+60,Fine Again,Seether,4,2002-11-16,2002-12-21,94,6
+61,Always,Saliva,2,2002-11-02,2002-12-07,93,6
+62,Modern Day Bonnie And Clyde,Travis Tritt,1,2002-02-23,2002-03-23,92,5
+63,She Was,Mark Chesnutt,4,2002-06-08,2002-08-03,92,9
+64,No One Knows,Queens Of The Stone Age,7,2002-11-09,2002-12-21,92,7
+65,Papa Don't Preach,Kelly Osbourne,1,2002-06-01,2002-07-06,91,6
+66,You Can't Hide Beautiful,Aaron Lines,1,2002-11-09,2002-12-21,90,7
+67,The Middle,Jimmy Eat World,1,2002-02-02,2002-03-09,86,6
+68,Mendocino County Line,Willie Nelson Duet With Lee Ann Womack,13,2002-04-06,2002-05-25,86,8
+69,Lifestyles Of The Rich And Famous,Good Charlotte,1,2002-11-09,2002-12-07,85,5
+70,For You,Staind,3,2002-01-12,2002-02-23,85,7
+71,I'm Still Here (Jim's Theme),John Rzeznik,5,2002-11-23,2002-12-28,83,6
+72,Sweetness,Jimmy Eat World,1,2002-06-22,2002-07-27,82,6
+73,Soak Up The Sun,Sheryl Crow,1,2002-03-16,2002-04-06,81,4
+74,My Town,Montgomery Gentry,1,2002-08-24,2002-09-21,81,5
+75,Take Ya Home,Lil Bow Wow,5,2002-02-23,2002-04-06,81,7
+76,These Days,Rascal Flatts,1,2002-08-31,2002-09-28,79,5
+77,No Letting Go,Wayne Wonder,4,2002-11-30,2002-12-28,79,5
+78,Thoughtless,Korn,8,2002-08-10,2002-10-05,79,9
+79,Before I Knew Better,Brad Martin,8,2002-07-06,2002-08-31,78,9
+80,All Over Me,Blake Shelton,10,2002-01-19,2002-03-09,76,8
+81,I Don't Have To Be Me ('til Monday),Steve Azar,1,2002-03-02,2002-03-30,75,5
+82,One Man,Tank,7,2002-09-07,2002-10-19,74,7
+83,The Zephyr Song,Red Hot Chili Peppers,2,2002-10-05,2002-11-02,73,5
+84,Youth Of The Nation,P.O.D.,3,2002-01-05,2002-02-02,73,5
+85,Bad Intentions,Dr. Dre Featuring Knoc-Turn'Al,6,2002-01-05,2002-02-02,73,5
+86,The Red,Chevelle,1,2002-10-26,2002-11-23,72,5
+87,Man To Man,Gary Allan,2,2002-11-30,2002-12-28,72,5
+88,I Miss My Friend,Darryl Worley,3,2002-05-11,2002-06-08,72,5
+89,Say I Yi Yi,Ying Yang Twins,7,2002-03-30,2002-04-27,72,5
+90,Family Portrait,P!nk,1,2002-10-19,2002-11-09,70,4
+91,Hey Luv (Anything),Mobb Deep Featuring 112,2,2002-01-05,2002-01-19,68,3
+92,Life Goes On,LeAnn Rimes,10,2002-09-14,2002-11-02,68,7
+93,More Than A Woman,Aaliyah,2,2002-01-05,2002-01-26,67,4
+94,Running Away,Hoobastank,7,2002-05-25,2002-06-29,67,6
+95,Wanksta,50 Cent,8,2002-10-26,2002-11-23,67,5
+96,Thicker Than Blood,Garth Brooks,14,2002-08-10,2002-10-12,67,10
+97,Starry Eyed Surprise,Oakenfold Featuring Shifty Shellshock,1,2002-09-28,2002-10-12,66,3
+98,Ten Rounds With Jose Cuervo,Tracy Byrd,2,2002-06-01,2002-06-29,65,5
+99,A Lot Of Things Different,Kenny Chesney,3,2002-10-26,2002-11-23,65,5
+100,American Child,Phil Vassar,3,2002-07-20,2002-08-17,64,5
+101,Unusually Unusual,Lonestar,7,2002-11-30,2002-12-28,64,5
+102,Wrong Impression,Natalie Imbruglia,1,2002-02-09,2002-02-23,62,3
+103,This Woman's Work,Maxwell,2,2002-02-16,2002-03-09,62,4
+104,Bother,Stone Sour,5,2002-09-28,2002-10-26,61,5
+105,Down With The Sickness,Disturbed,8,2002-01-05,2002-03-23,61,8
+106,Objection (Tango),Shakira,1,2002-08-17,2002-08-31,60,3
+107,One Mic,Nas,1,2002-03-30,2002-04-13,60,3
+108,"I Breathe In, I Breathe Out",Chris Cagle,7,2002-01-12,2002-02-02,60,4
+109,Walking Away,Craig David,1,2002-05-04,2002-05-18,59,3
+110,The Distance,Evan And Jaron,8,2002-01-05,2002-02-09,59,6
+111,Talkin' To Me,Amerie,9,2002-11-02,2002-11-30,59,5
+112,'Til Nothing Comes Between Us,John Michael Montgomery,13,2002-11-09,2002-12-28,59,8
+113,Call Me,Tweet,2,2002-05-11,2002-05-25,58,3
+114,Through The Rain,Mariah Carey,11,2002-11-02,2002-12-21,58,8
+115,Multiply,Xzibit,14,2002-10-12,2002-12-14,58,8
+116,The Rising,Bruce Springsteen,5,2002-07-13,2002-07-27,57,3
+117,Beautiful Mess,Diamond Rio,5,2002-07-06,2002-08-03,56,5
+118,That's When I Love You,Phil Vassar,6,2002-01-19,2002-02-16,56,5
+119,I Care 4 U,Aaliyah,4,2002-08-03,2002-08-17,55,3
+120,Don't Turn Off The Lights,Enrique Iglesias,10,2002-07-20,2002-08-17,55,5
+121,I'm Movin' On,Rascal Flatts,5,2002-01-12,2002-01-26,54,3
+122,All You Wanted,Michelle Branch,1,2002-02-02,2002-02-16,53,3
+123,Tell Me (What's Goin' On),Smilez & Southstar,1,2002-12-14,2002-12-28,53,3
+124,Made You Look,Nas,1,2002-11-30,2002-12-14,53,3
+125,Fall Into Me,Emerson Drive,3,2002-10-26,2002-11-09,53,3
+126,Big Machine,Goo Goo Dolls,2,2002-08-17,2002-08-31,52,3
+127,Why Don't We Fall In Love,Amerie,3,2002-05-18,2002-06-01,52,3
+128,Do It For Love,Daryl Hall John Oates,14,2002-08-10,2002-09-14,52,6
+129,Fabulous,Jaheim Featuring Tha Rayne,2,2002-10-26,2002-11-09,51,3
+130,Where Would You Be,Martina McBride,6,2002-08-10,2002-08-31,51,4
+131,Angel,Amanda Perez,8,2002-11-30,2002-12-28,50,5
+132,All Eyez On Me,Monica,1,2002-07-20,2002-08-03,48,3
+133,Jigga,JAY-Z,9,2002-01-05,2002-01-19,48,3
+134,These Are The Days,O-Town,1,2002-11-16,2002-11-30,47,3
+135,I'm Gonna Miss Her (The Fishin' Song),Brad Paisley,1,2002-04-13,2002-04-27,47,3
+136,Out Of My Heart (Into Your Head),BBMak,4,2002-07-27,2002-08-10,47,3
+137,"New York, New York",Ryan Adams,12,2002-01-05,2002-02-02,47,5
+138,Makin' Good Love,Avant,1,2002-03-02,2002-03-16,45,3
+139,Anything,Jaheim Featuring Next,2,2002-01-19,2002-02-16,44,3
+140,Electrical Storm,U2,3,2002-09-14,2002-09-21,44,2
+141,Red Rag Top,Tim McGraw,3,2002-09-21,2002-10-05,43,3
+142,The One,Gary Allan,4,2002-04-27,2002-05-11,43,3
+143,Baby,Ashanti,8,2002-07-06,2002-07-20,43,3
+144,Some Days You Gotta Dance,Dixie Chicks,1,2002-01-05,2002-01-12,42,2
+145,Thug Lovin',Ja Rule Featuring Bobby Brown,12,2002-10-26,2002-11-16,42,4
+146,Something Worth Leaving Behind,Lee Ann Womack,14,2002-08-31,2002-09-28,42,5
+147,Get This Money,R. Kelly & Jay-Z,15,2002-04-27,2002-06-15,41,8
+148,Long Time Gone,Dixie Chicks,2,2002-06-08,2002-06-15,40,2
+149,Poem,Taproot,11,2002-12-07,2002-12-28,40,4
+150,Walk With Me,Seven And The Sun,13,2002-07-20,2002-08-17,40,5
+151,Still,Brian McKnight,15,2002-01-19,2002-02-23,40,6
+152,To Where You Are,Josh Groban,16,2002-06-29,2002-09-14,40,9
+153,In Another World,Joe Diffie,3,2002-01-05,2002-01-12,39,2
+154,Burnin' Up,"Faith Evans Featuring Missy ""Misdemeanor"" Elliott",7,2002-07-27,2002-08-10,39,3
+155,What If She's An Angel,Tommy Shane Steiner,7,2002-02-02,2002-02-16,39,3
+156,El Problema,Ricardo Arjona,14,2002-12-07,2002-12-28,39,4
+157,Girlfriend,'N Sync Featuring Nelly,1,2002-01-26,2002-02-02,38,2
+158,Ordinary Day,Vanessa Carlton,2,2002-08-03,2002-08-17,38,3
+159,Girl Talk,TLC,5,2002-10-12,2002-10-19,37,2
+160,Unbroken,Tim McGraw,1,2002-06-22,2002-06-29,36,2
+161,19 Somethin',Mark Wills,4,2002-11-09,2002-11-16,35,2
+162,Tu Y Yo,Thalia,7,2002-07-06,2002-07-20,35,2
+163,You've Got To Hide Your Love Away,Eddie Vedder,17,2002-02-23,2002-03-30,35,6
+164,Gots Ta Be,B2K,1,2002-04-13,2002-04-20,34,2
+165,Rainy Dayz,Mary J. Blige Featuring Ja Rule,2,2002-03-16,2002-03-23,34,2
+166,Who's Your Daddy?,Toby Keith,3,2002-09-21,2002-09-28,34,2
+167,Living And Living Well,George Strait,6,2002-03-16,2002-03-30,34,3
+168,8 Mile,Eminem,10,2002-12-07,2002-12-28,34,4
+169,I've Got You,Marc Anthony,12,2002-06-01,2002-06-29,34,4
+170,Life Happened,Tammy Cochran,17,2002-10-19,2002-11-16,34,5
+171,Underneath It All,No Doubt Featuring Lady Saw,2,2002-08-17,2002-08-24,33,2
+172,Full Moon,Brandy,2,2002-04-20,2002-04-27,33,2
+173,Breathing,Lifehouse,15,2002-01-05,2002-01-26,33,4
+174,Can't Get You Out Of My Head,Kylie Minogue,3,2002-01-05,2002-01-19,32,3
+175,Roc The Mic,Beanie Sigel & Freeway,4,2002-02-09,2002-02-16,32,2
+176,halfcrazy,Musiq,8,2002-03-02,2002-03-16,32,3
+177,Drive (For Daddy Gene),Alan Jackson,5,2002-03-02,2002-03-09,31,2
+178,My Heart Is Lost To You,Brooks & Dunn,5,2002-05-11,2002-05-18,31,2
+179,No Me Ensenaste,Thalia,14,2002-10-19,2002-11-02,31,3
+180,Adrienne,The Calling,16,2002-05-25,2002-06-22,31,5
+181,Somebody Like You,Keith Urban,3,2002-08-03,2002-08-10,30,2
+182,Where Are You Going,Dave Matthews Band,8,2002-06-01,2002-06-08,30,2
+183,I Should Be Sleeping,Emerson Drive,13,2002-02-23,2002-03-09,30,3
+184,Drift & Die,Puddle Of Mudd,9,2002-05-04,2002-05-18,29,3
+185,I Just Wanna Be Mad,Terri Clark,10,2002-10-19,2002-11-02,29,3
+186,Work In Progress,Alan Jackson,6,2002-08-10,2002-08-17,28,2
+187,One Last Breath,Creed,8,2002-05-18,2002-06-01,28,3
+188,Honestly,Zwan,9,2002-12-21,2002-12-28,28,2
+189,Goodbye To You,Michelle Branch,9,2002-08-17,2002-08-24,28,2
+190,My List,Toby Keith,5,2002-02-02,2002-02-09,27,2
+191,How You Gonna Act Like That,Tyrese,6,2002-12-14,2002-12-28,27,3
+192,React,Erick Sermon Featuring Redman,8,2002-10-05,2002-10-12,27,2
+193,"Ching, Ching",Ms. Jade Featuring Timbaland & Nelly Furtado,14,2002-09-21,2002-10-12,27,4
+194,Hey Ma,"Cam'Ron Featuring Juelz Santana, Freekey Zekey & Toya",1,2002-08-17,2002-08-24,26,2
+195,Oops (Oh My),Tweet,2,2002-01-26,2002-02-02,26,2
+196,Satisfaction,Eve,5,2002-11-16,2002-11-23,26,2
+197,Innervision,System Of A Down,15,2002-12-07,2002-12-28,26,4
+198,Landslide,Dixie Chicks,9,2002-09-07,2002-09-14,25,2
+199,Oh Boy,Cam'Ron Featuring Juelz Santana,9,2002-04-06,2002-04-13,25,2
+200,8 Days Of Christmas,Destiny's Child,2,2002-01-05,2002-01-05,24,1
+201,Disease,matchbox twenty,2,2002-10-12,2002-10-12,24,1
+202,Stingy,Ginuwine,3,2002-07-20,2002-07-27,24,2
+203,I Am Mine,Pearl Jam,4,2002-09-28,2002-10-05,24,2
+204,Insatiable,Darren Hayes,8,2002-02-16,2002-02-23,24,2
+205,I Should Be...,Dru Hill,10,2002-11-23,2002-11-30,24,2
+206,Hailie's Song,Eminem,13,2002-12-14,2002-12-28,24,3
+207,All I Have,Jennifer Lopez Featuring LL Cool J,3,2002-12-21,2002-12-21,23,1
+208,Cry Me A River,Justin Timberlake,3,2002-12-14,2002-12-14,23,1
+209,Young,Kenny Chesney,6,2002-01-26,2002-02-02,23,2
+210,Two Wrongs,Wyclef Jean Featuring Claudette Ortiz,7,2002-06-22,2002-07-06,23,3
+211,Braid My Hair,Mario,10,2002-09-28,2002-10-05,23,2
+212,Stillness Of Heart,Lenny Kravitz,18,2002-04-20,2002-05-18,23,5
+213,Dirrty,Christina Aguilera Featuring Redman,4,2002-09-14,2002-09-14,22,1
+214,Blessed,Martina McBride,4,2002-01-05,2002-01-05,22,1
+215,Cry,Faith Hill,4,2002-08-24,2002-08-24,22,1
+216,Underneath Your Clothes,Shakira,4,2002-03-09,2002-03-09,22,1
+217,Trade It All,Fabolous Featuring P. Diddy & Jagged Edge,12,2002-08-03,2002-08-10,22,2
+218,In My Place,Coldplay,17,2002-09-07,2002-10-19,22,5
+219,What About Us?,Brandy,5,2002-01-19,2002-01-19,21,1
+220,U Don't Have To Call,Usher,5,2002-02-02,2002-02-02,21,1
+221,The Cowboy In Me,Tim McGraw,5,2002-01-05,2002-01-05,21,1
+222,How Come You Don't Call Me,Alicia Keys,5,2002-03-30,2002-03-30,21,1
+223,Air Force Ones,"Nelly Featuring Kyjuan, Ali & Murphy Lee",5,2002-11-02,2002-11-02,21,1
+224,Miss You,Aaliyah,7,2002-11-16,2002-11-23,21,2
+225,What's Luv?,Fat Joe Featuring Ashanti,6,2002-02-09,2002-02-09,20,1
+226,Just Like A Pill,P!nk,6,2002-06-29,2002-06-29,20,1
+227,I Need A Girl (Part Two),"P. Diddy & Ginuwine Featuring Loon, Mario Winans & Tammy Ruggeri",6,2002-06-01,2002-06-01,20,1
+228,Trouble,Coldplay,15,2002-01-05,2002-01-19,20,3
+229,Just Let Me Be In Love,Tracy Byrd,7,2002-01-05,2002-01-05,19,1
+230,Thugz Mansion,2Pac,7,2002-11-30,2002-11-30,19,1
+231,Don't Let Me Get Me,P!nk,7,2002-03-02,2002-03-02,19,1
+232,Hands Clean,Alanis Morissette,7,2002-01-26,2002-01-26,19,1
+233,Cleanin' Out My Closet,Eminem,7,2002-07-27,2002-07-27,19,1
+234,You Know You're Right,Nirvana,7,2002-10-12,2002-10-12,19,1
+235,Hella Good,No Doubt,8,2002-04-13,2002-04-13,18,1
+236,dontchange,Musiq,8,2002-08-31,2002-08-31,18,1
+237,Floetic,Floetry,13,2002-10-12,2002-10-26,18,3
+238,She'll Leave You With A Smile,George Strait,9,2002-09-28,2002-09-28,17,1
+239,Hero,Chad Kroeger Featuring Josey Scott,15,2002-05-04,2002-05-11,17,2
+240,"My Neck, My Back",Khia Featuring DSD,17,2002-05-11,2002-05-18,17,2
+241,The Good Stuff,Kenny Chesney,10,2002-06-01,2002-06-01,16,1
+242,The Baby,Blake Shelton,13,2002-11-23,2002-11-30,16,2
+243,Die Another Day,Madonna,11,2002-10-12,2002-10-12,15,1
+244,One Day In Your Life,Anastacia,18,2002-07-06,2002-07-27,15,4
+245,I Always Liked That Best,Cyndi Thomson,19,2002-02-09,2002-03-02,15,4
+246,I Feel So,Box Car Racer,20,2002-06-15,2002-07-13,15,4
+247,Mesmerize,Ja Rule Featuring Ashanti,12,2002-12-21,2002-12-21,14,1
+248,Gotta Get Thru This,Daniel Bedingfield,12,2002-07-20,2002-07-20,14,1
+249,Addictive,Truth Hurts Featuring Rakim,12,2002-04-13,2002-04-13,14,1
+250,I Love You,Faith Evans,13,2002-01-19,2002-01-19,13,1
+251,Best Of Both Worlds (Intro),R. Kelly & Jay-Z,15,2002-02-23,2002-03-02,13,2
+252,A Sorta Fairytale,Tori Amos,18,2002-12-14,2002-12-28,13,3
+253,Tantita Pena,Alejandro Fernandez,14,2002-01-05,2002-01-05,12,1
+254,A New Day Has Come,Celine Dion,14,2002-02-23,2002-02-23,12,1
+255,Luna Nueva,Carlos Vives,14,2002-03-23,2002-03-23,12,1
+256,Clocks,Coldplay,16,2002-12-21,2002-12-28,11,2
+257,They-Say Vision,Res,19,2002-04-27,2002-05-11,11,3
+258,The Ketchup Song (Hey Hah),Las Ketchup,16,2002-10-05,2002-10-05,10,1
+259,Down 4 U,"Irv Gotti Presents The Inc. Featuring Ja Rule, Ashanti, Charli Baltimore & Vita",16,2002-06-15,2002-06-15,10,1
+260,Complicated,Avril Lavigne,16,2002-05-25,2002-05-25,10,1
+261,"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,16,2002-06-01,2002-06-01,10,1
+262,Strength Of A Woman,Shaggy,19,2002-12-07,2002-12-14,10,2
+263,The One,Foo Fighters,21,2002-01-05,2002-01-12,10,2
+264,Feel It Boy,Beenie Man Featuring Janet,17,2002-07-27,2002-07-27,9,1
+265,Dilemma,Nelly Featuring Kelly Rowland,17,2002-07-06,2002-07-06,9,1
+266,Emotional Rollercoaster,Vivian Green,19,2002-12-21,2002-12-28,9,2
+267,Here I Am,Bryan Adams,23,2002-08-03,2002-09-07,9,3
+268,Happy,Ashanti,18,2002-05-25,2002-05-25,8,1
+269,Escape,Enrique Iglesias,18,2002-02-16,2002-02-16,8,1
+270,Everyday,Bon Jovi,18,2002-10-19,2002-10-19,8,1
+271,"Bump, Bump, Bump",B2K & P. Diddy,19,2002-11-23,2002-11-23,7,1
+272,Foolish,Ashanti,19,2002-02-09,2002-02-09,7,1
+273,A Dios Le Pido,Juanes,19,2002-08-24,2002-08-24,7,1
+274,"U, Me & She",Eve,20,2002-01-26,2002-02-16,7,2
+275,Fell In Love With A Girl,The White Stripes,21,2002-05-04,2002-05-18,7,3
+276,Boom,P.O.D.,23,2002-05-25,2002-06-22,7,4
+277,All The Things She Said,t.A.T.u.,20,2002-12-28,2002-12-28,6,1
+278,I'm With You,Avril Lavigne,20,2002-11-30,2002-11-30,6,1
+279,Thug Holiday,Trick Daddy Featuring LaTocha Scott,21,2002-12-14,2002-12-14,5,1
+280,Still Waiting,Sum 41,21,2002-12-28,2002-12-28,5,1
+281,Spin,Lifehouse,21,2002-11-09,2002-11-09,5,1
+282,Sk8er Boi,Avril Lavigne,21,2002-09-07,2002-09-07,5,1
+283,Get Free,The Vines,22,2002-09-07,2002-09-07,4,1
+284,Boys,Britney Spears Featuring Pharrell Williams,22,2002-08-24,2002-08-24,4,1
+285,At The End Of The Day,Kellie Coffey,22,2002-12-28,2002-12-28,4,1
+286,Funny,Gerald Levert,23,2002-11-23,2002-12-07,4,2
+287,On A Mission,Trick Pony,23,2002-12-28,2002-12-28,3,1
+288,Hate To Say I Told You So,The Hives,23,2002-07-13,2002-07-13,3,1
+289,Friends & Family,Trik Turner,23,2002-03-16,2002-03-16,3,1
+290,Only A Woman Like You,Michael Bolton,23,2002-06-08,2002-06-08,3,1
+291,'03 Bonnie & Clyde,Jay-Z Featuring Beyonce Knowles,23,2002-10-19,2002-10-19,3,1
+292,Never Again,Nickelback,24,2002-09-07,2002-09-14,3,2
+293,I'm Gonna Be Alright,Jennifer Lopez Featuring Nas,24,2002-04-20,2002-04-20,2,1
+294,Brokenheartsville,Joe Nichols,24,2002-12-28,2002-12-28,2,1
+295,You Must Have Been,Montell Jordan,24,2002-02-16,2002-02-16,2,1
+296,Yo Puedo Hacer,Ricardo Montaner,24,2002-07-13,2002-07-13,2,1
+297,Dejame Entrar,Carlos Vives,24,2002-01-05,2002-01-05,2,1
+298,Vuela Muy Alto,Jerry Rivera,24,2002-08-31,2002-08-31,2,1
+299,BareNaked,Jennifer Love Hewitt,24,2002-10-26,2002-10-26,2,1
+300,Let Me Down Easy,Chris Isaak,24,2002-03-16,2002-03-16,2,1
+301,By Myself,Ying Yang Twins Featuring Mr. Ball,24,2002-11-02,2002-11-02,2,1
+302,Blowin' Me Up (With Her Love),JC Chasez,25,2002-12-28,2002-12-28,1,1
+303,He Loves Me (Lyzel In E Flat),Jill Scott,25,2002-01-12,2002-01-12,1,1
+304,Sick Of Being Lonely,Field Mob,25,2002-12-07,2002-12-07,1,1

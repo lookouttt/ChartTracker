@@ -1,0 +1,326 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,I Wanna Know,Joe,2,2000-01-01,2000-10-28,4226,44
+2,Breathe,Faith Hill,2,2000-01-01,2000-11-04,4200,45
+3,Kryptonite,3 Doors Down,1,2000-04-08,2000-12-30,3854,39
+4,Everything You Want,Vertical Horizon,2,2000-01-22,2000-10-28,3619,41
+5,Try Again,Aaliyah,1,2000-03-18,2000-10-21,3537,32
+6,Bent,matchbox twenty,2,2000-04-29,2000-12-30,3355,36
+7,Smooth,Santana Featuring Rob Thomas,2,2000-01-01,2000-09-02,3255,36
+8,"Jumpin', Jumpin'",Destiny's Child,1,2000-05-13,2000-12-16,3157,32
+9,Thong Song,Sisqo,1,2000-01-29,2000-08-05,2891,28
+10,Higher,Creed,6,2000-01-01,2000-12-02,2874,41
+11,Say My Name,Destiny's Child,1,2000-01-01,2000-07-29,2791,31
+12,With Arms Wide Open,Creed,2,2000-05-13,2000-12-30,2705,33
+13,Bye Bye Bye,'N Sync,1,2000-01-29,2000-07-01,2631,23
+14,I Knew I Loved You,Savage Garden,1,2000-01-01,2000-06-03,2612,23
+15,Amazed,Lonestar,5,2000-01-01,2000-08-19,2561,34
+16,Maria Maria,Santana Featuring The Product G&B,1,2000-02-12,2000-08-05,2456,26
+17,He Wasn't Man Enough,Toni Braxton,9,2000-03-18,2000-11-25,2358,37
+18,(Hot S**t) Country Grammar,Nelly,3,2000-06-17,2000-12-16,2142,27
+19,That's The Way It Is,Celine Dion,2,2000-01-01,2000-05-20,2106,21
+20,Doesn't Really Matter,Janet,2,2000-06-17,2000-11-25,2106,24
+21,I Try,Macy Gray,4,2000-02-19,2000-08-19,2098,27
+22,Show Me The Meaning Of Being Lonely,Backstreet Boys,2,2000-01-01,2000-06-10,2010,24
+23,Absolutely (Story Of A Girl),Nine Days,5,2000-05-06,2000-11-04,1984,27
+24,Back At One,Brian McKnight,1,2000-01-01,2000-05-06,1953,19
+25,Music,Madonna,3,2000-08-12,2000-12-30,1926,21
+26,What A Girl Wants,Christina Aguilera,2,2000-01-01,2000-05-06,1863,19
+27,There You Go,P!nk,6,2000-03-04,2000-10-07,1859,32
+28,It's Gonna Be Me,'N Sync,3,2000-05-06,2000-10-21,1810,25
+29,Bring It All To Me,Blaque,4,2000-01-01,2000-05-06,1801,19
+30,Most Girls,P!nk,3,2000-08-12,2000-12-30,1797,21
+31,You Sang To Me,Marc Anthony,12,2000-02-26,2000-09-30,1774,32
+32,Independent Women Part I,Destiny's Child,1,2000-09-23,2000-12-30,1765,15
+33,Case Of The Ex (Whatcha Gonna Do),Mya,5,2000-08-19,2000-12-30,1673,20
+34,I Need To Know,Marc Anthony,5,2000-01-01,2000-06-10,1664,24
+35,The Way You Love Me,Faith Hill,12,2000-03-11,2000-12-30,1603,35
+36,Be With You,Enrique Iglesias,3,2000-04-01,2000-08-12,1498,20
+37,The Real Slim Shady,Eminem,2,2000-05-06,2000-08-19,1438,16
+38,This I Promise You,'N Sync,4,2000-09-30,2000-12-30,1422,14
+39,No More,Ruff Endz,12,2000-07-01,2000-12-23,1347,26
+40,Come On Over Baby (All I Want Is You),Christina Aguilera,4,2000-08-05,2000-12-23,1264,21
+41,Back Here,BBMak,11,2000-06-03,2000-11-25,1253,26
+42,It Feels So Good,Sonique,9,2000-02-05,2000-07-01,1217,22
+43,Get It On Tonite,Montell Jordan,12,2000-01-01,2000-05-27,1215,22
+44,Never Let You Go,Third Eye Blind,11,2000-01-22,2000-06-17,1213,22
+45,Blue (Da Ba Dee),Eiffel 65,6,2000-01-01,2000-04-15,1196,16
+46,Shake Ya Ass,Mystikal,6,2000-08-26,2000-12-23,1149,18
+47,Let's Get Married,Jagged Edge,15,2000-05-06,2000-10-14,1130,24
+48,Then The Morning Comes,Smash Mouth,8,2000-01-01,2000-04-22,1110,17
+49,Incomplete,Sisqo,15,2000-06-24,2000-12-16,1091,26
+50,Wifey,Next,13,2000-05-27,2000-10-14,1011,21
+51,Big Pimpin',Jay-Z Featuring UGK,13,2000-04-22,2000-09-02,1009,20
+52,Between Me And You,Ja Rule,7,2000-09-23,2000-12-30,964,15
+53,I Turn To You,Christina Aguilera,14,2000-04-15,2000-09-09,954,22
+54,I Need You,LeAnn Rimes,23,2000-05-27,2000-11-11,948,25
+55,Oops!...I Did It Again,Britney Spears,8,2000-04-22,2000-08-05,929,16
+56,It Wasn't Me,"Shaggy Feat. Ricardo ""RikRok"" Ducent",2,2000-11-04,2000-12-30,920,9
+57,I Wish,Carl Thomas,16,2000-03-25,2000-08-05,913,20
+58,Otherside,Red Hot Chili Peppers,21,2000-02-12,2000-07-08,901,22
+59,Desert Rose,Sting Feat. Cheb Mami,17,2000-06-03,2000-11-04,891,23
+60,Shape Of My Heart,Backstreet Boys,7,2000-10-14,2000-12-30,884,12
+61,All The Small Things,Blink-182,18,2000-01-01,2000-05-06,878,19
+62,Wonderful,Everclear,17,2000-07-08,2000-11-25,860,21
+63,Party Up (Up In Here),DMX,22,2000-03-04,2000-07-15,842,20
+64,You're A God,Vertical Horizon,17,2000-08-26,2000-12-30,828,19
+65,She Bangs,Ricky Martin,8,2000-10-07,2000-12-30,801,13
+66,The Best Day,George Strait,24,2000-01-29,2000-06-10,794,20
+67,Only God Knows Why,Kid Rock,18,2000-02-19,2000-07-01,786,20
+68,How Do You Like Me Now?!,Toby Keith,24,2000-01-29,2000-06-10,780,20
+69,Where I Wanna Be,Donell Jones,23,2000-04-22,2000-09-02,778,20
+70,Take A Picture,Filter,14,2000-01-01,2000-04-08,776,15
+71,Forgot About Dre,Dr. Dre Featuring Eminem,20,2000-01-22,2000-05-27,775,19
+72,I Wish,R. Kelly,10,2000-09-30,2000-12-30,772,14
+73,The Next Episode,Dr. Dre Featuring Snoop Dogg,16,2000-05-27,2000-10-07,769,20
+74,Don't Think I'm Not,Kandi,25,2000-08-05,2000-12-30,753,22
+75,Pinch Me,Barenaked Ladies,17,2000-09-09,2000-12-30,722,17
+76,Meet Virginia,Train,17,2000-01-01,2000-04-08,720,15
+77,I Hope You Dance,Lee Ann Womack,23,2000-05-13,2000-09-23,716,20
+78,E.I.,Nelly,10,2000-10-07,2000-12-30,714,13
+79,My Best Friend,Tim McGraw,23,2000-01-01,2000-04-15,711,16
+80,Separated,Avant,22,2000-05-13,2000-09-09,703,18
+81,Ms. Jackson,OutKast,4,2000-11-11,2000-12-30,699,8
+82,What'Chu Like,Da Brat Feat. Tyrese,19,2000-06-03,2000-10-14,694,20
+83,Hot Boyz,"Missy ""Misdemeanor"" Elliott Featuring NAS, EVE & Q-Tip",24,2000-01-01,2000-04-15,687,16
+84,What About Now,Lonestar,23,2000-06-10,2000-10-21,678,20
+85,My Love Is Your Love,Whitney Houston,9,2000-01-01,2000-03-11,664,11
+86,If You're Gone,matchbox twenty,6,2000-10-21,2000-12-30,656,11
+87,I Just Wanna Love U (Give It 2 Me),JAY-Z,8,2000-10-28,2000-12-30,655,10
+88,Bag Lady,Erykah Badu,21,2000-08-19,2000-12-16,651,18
+89,Crash And Burn,Savage Garden,26,2000-04-08,2000-08-12,648,19
+90,Untitled (How Does It Feel),D'Angelo,17,2000-01-22,2000-05-06,647,16
+91,I Don't Wanna,Aaliyah,26,2000-01-29,2000-06-03,647,19
+92,Cowboy Take Me Away,Dixie Chicks,22,2000-01-01,2000-04-08,641,15
+93,Give Me Just One Night (Una Noche),98 Degrees,14,2000-08-19,2000-11-18,634,14
+94,Yes!,Chad Brock,24,2000-04-15,2000-08-19,633,19
+95,Thank God I Found You,Mariah Carey Featuring Joe & 98 Degrees,15,2000-01-01,2000-04-01,620,14
+96,Gotta Tell You,Samantha Mumba,16,2000-10-07,2000-12-30,610,13
+97,That's The Way,Jo Dee Messina,25,2000-06-24,2000-11-04,610,20
+98,Purest Of Pain (A Puro Dolor),Son By Four,35,2000-04-08,2000-09-30,599,26
+99,Better Off Alone,Alice Deejay,28,2000-04-08,2000-08-12,579,19
+100,The Little Girl,John Michael Montgomery,22,2000-09-09,2000-12-30,577,17
+101,Best Of Intentions,Travis Tritt,24,2000-09-16,2000-12-30,572,16
+102,Broadway,Goo Goo Dolls,24,2000-04-22,2000-08-12,571,17
+103,What's Your Fantasy,Ludacris,17,2000-10-14,2000-12-30,559,12
+104,I Think I'm In Love With You,Jessica Simpson,17,2000-07-01,2000-09-23,538,13
+105,Just Be A Man About It,Toni Braxton,19,2000-07-29,2000-11-11,535,16
+106,Smile,Lonestar,32,2000-01-01,2000-04-22,532,17
+107,Learn To Fly,Foo Fighters,13,2000-01-01,2000-03-04,527,10
+108,It Must Be Love,Alan Jackson,28,2000-06-24,2000-10-14,525,17
+109,It's My Life,Bon Jovi,27,2000-08-12,2000-12-02,521,17
+110,U Know What's Up,Donell Jones,12,2000-01-01,2000-03-04,520,10
+111,Faded,SoulDecision Feat. Thrust,32,2000-08-19,2000-12-16,505,18
+112,She's More,Andy Griggs,33,2000-03-11,2000-07-15,504,19
+113,Falls Apart,Sugar Ray,26,2000-01-15,2000-04-29,486,16
+114,Back At One,Mark Wills,27,2000-01-15,2000-04-22,486,15
+115,Go On,George Strait,33,2000-08-26,2000-12-09,477,16
+116,Hanginaround,Counting Crows,19,2000-01-01,2000-03-18,475,12
+117,Love's The Only House,Martina McBride,34,2000-02-05,2000-05-20,470,16
+118,Lessons Learned,Tracy Lawrence,32,2000-01-29,2000-05-06,459,15
+119,Dance Tonight,Lucy Pearl,30,2000-05-20,2000-08-26,458,15
+120,The Chain Of Love,Clay Walker,34,2000-04-15,2000-07-22,456,15
+121,We Danced,Brad Paisley,25,2000-10-14,2000-12-30,447,12
+122,Without You,Dixie Chicks,27,2000-10-07,2000-12-30,434,13
+123,Been There,Clint Black With Steve Wariner,36,2000-02-19,2000-05-27,427,15
+124,My Next Thirty Years,Tim McGraw,21,2000-10-21,2000-12-30,424,11
+125,I Wanna Be With You,Mandy Moore,23,2000-06-17,2000-09-23,420,15
+126,What Do You Say,Reba,25,2000-01-01,2000-03-11,414,11
+127,Just Another Day In Paradise,Phil Vassar,26,2000-09-30,2000-12-30,414,13
+128,I Will...But,SHeDAISY,33,2000-07-15,2000-10-21,412,15
+129,Waiting For Tonight,Jennifer Lopez,10,2000-01-01,2000-02-26,411,9
+130,Bounce With Me,Lil Bow Wow Feat. Xscape,29,2000-08-26,2000-12-02,408,15
+131,Love Is Blind,Eve Featuring Faith Evans,26,2000-01-08,2000-04-08,405,14
+132,Dance With Me,Debelah Morgan,20,2000-09-30,2000-12-30,404,13
+133,Buy Me A Rose,Kenny Rogers With Alison Krauss & Billy Dean,34,2000-03-11,2000-06-17,404,15
+134,Prayin' For Daylight,Rascal Flatts,33,2000-05-20,2000-09-16,402,18
+135,Black Balloon,Goo Goo Dolls,26,2000-01-01,2000-02-26,382,9
+136,Rhythm Divine,Enrique Iglesias,25,2000-01-01,2000-03-11,373,11
+137,911,Wyclef Jean Feat. Mary J. Blige,30,2000-10-07,2000-12-30,372,13
+138,Carlene,Phil Vassar,37,2000-03-04,2000-06-03,372,14
+139,Couldn't Last A Moment,Collin Raye,37,2000-04-15,2000-07-22,368,15
+140,Got To Get It,Sisqo Featuring Make It Hot,33,2000-01-01,2000-03-18,364,12
+141,Kiss This,Aaron Tippin,34,2000-08-26,2000-12-02,362,15
+142,He Loves U Not,Dream,16,2000-11-11,2000-12-30,356,8
+143,My First Love,Avant Feat. Ketara Wyatt,21,2000-11-04,2000-12-30,354,9
+144,Lucky,Britney Spears,18,2000-08-12,2000-10-07,353,9
+145,Where My Girls At?,702,15,2000-01-01,2000-02-12,351,7
+146,Crazy For This Girl,Evan And Jaron,21,2000-11-04,2000-12-30,350,9
+147,Whoa!,Black Rob,38,2000-03-04,2000-05-27,350,13
+148,He Didn't Have To Be,Brad Paisley,20,2000-01-01,2000-03-04,343,10
+149,Beautiful Day,U2,24,2000-10-07,2000-12-30,339,13
+150,Just Friends (Sunny),Musiq,27,2000-10-28,2000-12-30,336,10
+151,American Pie,Madonna,23,2000-02-19,2000-04-08,333,8
+152,Whatever,Ideal Featuring Lil' Mo,39,2000-06-10,2000-09-23,324,16
+153,I Wanna Love You Forever,Jessica Simpson,20,2000-01-01,2000-02-19,323,8
+154,The Light,Common,40,2000-08-05,2000-10-28,320,13
+155,Born To Fly,Sara Evans,30,2000-10-21,2000-12-30,313,11
+156,Got Your Money,Ol' Dirty Bastard Featuring Kelis,20,2000-01-01,2000-03-04,311,10
+157,I Lost It,Kenny Chesney,30,2000-10-21,2000-12-30,310,11
+158,What I Need To Do,Kenny Chesney,48,2000-04-01,2000-07-08,307,15
+159,Unconditional,Clay Davidson,44,2000-04-29,2000-07-29,301,14
+160,The One,Backstreet Boys,30,2000-05-27,2000-07-29,299,10
+161,I'll Be,Reba McEntire,42,2000-05-13,2000-08-19,298,15
+162,Graduation (Friends Forever),Vitamin C,39,2000-04-15,2000-06-24,297,11
+163,Last Resort,Papa Roach,56,2000-07-29,2000-12-09,290,20
+164,Feels Like Love,Vince Gill,46,2000-09-02,2000-12-16,288,16
+165,Liar,Profyle,37,2000-10-07,2000-12-23,285,12
+166,Back That Thang Up,Juvenile Featuring Mannie Fresh & Lil' Wayne,16,2000-01-01,2000-01-29,275,5
+167,Open My Heart,Yolanda Adams,53,2000-08-26,2000-12-30,272,19
+168,He Can't Love U,Jagged Edge,43,2000-01-29,2000-04-22,269,13
+169,Again,Lenny Kravitz,13,2000-11-18,2000-12-30,268,7
+170,Someday,Sugar Ray,21,2000-01-01,2000-02-05,266,6
+171,Who Let The Dogs Out,Baha Men,35,2000-09-09,2000-11-18,266,11
+172,Steal My Sunshine,Len,15,2000-01-01,2000-01-29,263,5
+173,Some Things Never Change,Tim McGraw,50,2000-05-13,2000-08-05,263,13
+174,None Of Ur Friends Business,Ginuwine,43,2000-01-01,2000-03-04,256,10
+175,No More Rain (In This Cloud),Angie Stone,49,2000-01-01,2000-03-25,252,13
+176,Because You Love Me,Jo Dee Messina,47,2000-01-29,2000-04-15,250,12
+177,Best Of Me,Mya Featuring Jadakiss,44,2000-04-15,2000-06-24,248,11
+178,I Will Love Again,Lara Fabian,35,2000-07-01,2000-09-02,245,10
+179,www.memory,Alan Jackson,39,2000-11-04,2000-12-30,245,9
+180,What You Want,DMX Featuring Sisqo,42,2000-08-05,2000-10-14,236,11
+181,Country Comes To Town,Toby Keith,47,2000-08-05,2000-10-21,236,12
+182,Unpretty,TLC,23,2000-01-01,2000-01-29,233,5
+183,Big Deal,LeAnn Rimes,39,2000-01-01,2000-02-19,233,8
+184,Your Everything,Keith Urban,43,2000-07-15,2000-09-30,221,12
+185,That's What I'm Looking For,Da Brat,49,2000-03-04,2000-05-13,220,11
+186,Could I Have This Kiss Forever,Whitney Houston & Enrique Iglesias,48,2000-06-17,2000-09-16,215,14
+187,Pop A Top,Alan Jackson,36,2000-01-01,2000-02-12,213,7
+188,Hemorrhage (In My Hands),Fuel,33,2000-10-28,2000-12-30,212,10
+189,When I Said I Do,Clint Black,35,2000-01-01,2000-02-26,206,9
+190,You Owe Me,NAS Featuring Ginuwine,49,2000-03-25,2000-06-03,199,11
+191,Love Don't Cost A Thing,Jennifer Lopez,15,2000-12-09,2000-12-30,198,4
+192,Flowers On The Wall,Eric Heatherly,45,2000-06-10,2000-08-26,198,12
+193,Mambo No. 5 (A Little Bit Of...),Lou Bega,22,2000-01-01,2000-01-22,194,4
+194,Let's Make Love,Faith Hill With Tim McGraw,50,2000-08-12,2000-10-28,190,12
+195,Stan,Eminem Feat. Dido,48,2000-11-04,2000-12-30,174,9
+196,You'll Always Be Loved By Me,Brooks & Dunn,47,2000-07-29,2000-09-23,172,9
+197,Sexual (Li Da Di),Amber,46,2000-01-01,2000-02-26,171,9
+198,Taking You Home,Don Henley,53,2000-06-24,2000-09-16,169,13
+199,Satisfy You,Puff Daddy Featuring R. Kelly,36,2000-01-01,2000-02-05,166,6
+200,Feelin' So Good,Jennifer Lopez,48,2000-02-19,2000-04-22,162,10
+201,This Woman Needs,SHeDAISY,49,2000-02-05,2000-04-01,159,9
+202,Loser,3 Doors Down,52,2000-10-21,2000-12-30,159,11
+203,The Great Beyond,R.E.M.,50,2000-01-01,2000-02-19,158,8
+204,Tell Her,Lonestar,42,2000-11-18,2000-12-30,154,7
+205,The Bad Touch,Bloodhound Gang,50,2000-03-18,2000-05-06,149,8
+206,Girls Dem Sugar,Beenie Man Feat. Mya,54,2000-10-21,2000-12-30,146,11
+207,Shake Your Bon-Bon,Ricky Martin,31,2000-01-01,2000-01-22,143,4
+208,It's Always Somethin',Joe Diffie,48,2000-08-12,2000-10-07,142,9
+209,There You Are,Martina McBride,55,2000-09-09,2000-11-18,141,11
+210,Wobble Wobble,504 Boyz,56,2000-05-06,2000-07-22,139,12
+211,Angels,Robbie Williams,45,2000-01-01,2000-02-12,137,7
+212,Deep Inside,Mary J. Blige,47,2000-01-01,2000-02-12,136,7
+213,Treat Her Like A Lady,Joe,56,2000-08-05,2000-09-30,135,9
+214,No More (Baby I'ma Do Right),3LW,46,2000-11-25,2000-12-30,127,6
+215,The Way I Am,Eminem,52,2000-09-02,2000-10-14,127,7
+216,Emotional,Carl Thomas,38,2000-11-25,2000-12-30,126,6
+217,Anything,JAY-Z,48,2000-02-26,2000-04-01,123,6
+218,I Need A Hot Girl,Hot Boys,55,2000-02-19,2000-04-15,123,9
+219,Don't Tell Me,Madonna,29,2000-12-09,2000-12-30,117,4
+220,It Was,Chely Wright,52,2000-03-04,2000-04-29,112,9
+221,Auld Lang Syne,Kenny G,31,2000-01-01,2000-01-15,111,3
+222,More,Trace Adkins,57,2000-04-29,2000-06-24,111,9
+223,Dear Lie,TLC,48,2000-02-12,2000-03-11,109,5
+224,24/7,Kevon Edmonds,48,2000-01-01,2000-02-12,108,7
+225,Crazy,K-Ci & JoJo,36,2000-12-09,2000-12-30,106,4
+226,Bow Wow (That's My Name),Lil Bow Wow,35,2000-12-09,2000-12-30,100,4
+227,Californication,Red Hot Chili Peppers,64,2000-07-29,2000-11-11,91,14
+228,You Should've Told Me,Kelly Price,62,2000-11-04,2000-12-30,88,9
+229,Burn,Jo Dee Messina,51,2000-12-02,2000-12-30,86,5
+230,Cold Day In July,Dixie Chicks,57,2000-06-24,2000-08-12,86,8
+231,Bling Bling,"B.G. Featuring Baby, Turk, Mannie Fresh, Juvenile & Lil' Wayne",48,2000-01-01,2000-01-22,85,4
+232,Stronger,Britney Spears,53,2000-12-02,2000-12-30,85,5
+233,Shackles (Praise You),Mary Mary,58,2000-04-29,2000-06-17,84,8
+234,What's My Name,DMX,59,2000-01-22,2000-02-26,83,6
+235,Rollin',Limp Bizkit,60,2000-11-11,2000-12-30,83,8
+236,My Everything,98 Degrees,44,2000-12-09,2000-12-30,80,4
+237,Will 2K,Will Smith Featuring K-Ci,47,2000-01-01,2000-01-15,76,3
+238,Danger (Been So Long),Mystikal Feat. Nivea,32,2000-12-16,2000-12-30,72,3
+239,Ashes By Now,Lee Ann Womack,51,2000-12-09,2000-12-30,72,4
+240,This Gift,98 Degrees,39,2000-01-01,2000-01-08,71,2
+241,Do It Again (Put Ya Hands Up),Jay-Z Featuring Beanie Sigel & Amil,55,2000-01-22,2000-02-12,69,4
+242,All Things Considered,Yankee Grey,53,2000-01-01,2000-01-22,68,4
+243,As We Lay,Kelly Price,55,2000-07-15,2000-08-26,68,7
+244,From The Bottom Of My Broken Heart,Britney Spears,53,2000-01-29,2000-02-26,67,5
+245,Pop Ya Collar,Usher,59,2000-11-04,2000-12-02,67,5
+246,Do What You Gotta Do,Garth Brooks,60,2000-02-19,2000-03-25,67,6
+247,I Think God Can Explain,Splender,62,2000-06-10,2000-07-29,63,8
+248,Get Gone,Ideal,54,2000-01-01,2000-01-15,62,3
+249,Goodbye Earl,Dixie Chicks,60,2000-04-01,2000-05-06,58,6
+250,No Matter What They Say,Lil' Kim,59,2000-07-22,2000-08-19,55,5
+251,One Woman Man,Dave Hollister,49,2000-12-09,2000-12-30,54,4
+252,"Live, Laugh, Love",Clay Walker,58,2000-01-01,2000-01-29,52,5
+253,That Other Woman,Changing Faces,61,2000-09-30,2000-11-04,51,6
+254,The Chemicals Between Us,Bush,60,2000-01-01,2000-01-29,49,5
+255,I Love You,Martina McBride,49,2000-01-01,2000-01-08,48,2
+256,Bad Boyz,Shyne Feat. Barrington Levy,54,2000-10-14,2000-11-18,48,5
+257,Where You Are,Jessica Simpson Featuring Nick Lachey,62,2000-04-01,2000-04-29,48,5
+258,Breathe And Stop,Q-Tip,57,2000-01-22,2000-02-12,47,4
+259,Home To You,John Michael Montgomery,60,2000-01-01,2000-01-22,47,4
+260,Tha Block Is Hot,Lil' Wayne Featuring Juvenile & B.G.,57,2000-01-01,2000-01-22,46,4
+261,No Leaf Clover,Metallica,64,2000-02-12,2000-03-18,46,6
+262,"Same Script, Different Cast",Whitney Houston & Deborah Cox,64,2000-06-17,2000-07-29,46,7
+263,My Baby You,Marc Anthony,68,2000-09-16,2000-12-09,46,10
+264,Give Me You,Mary J. Blige,58,2000-04-29,2000-05-20,45,4
+265,Put Your Hand In Mine,Tracy Byrd,65,2000-01-29,2000-03-04,45,6
+266,The Best Man I Can Be,"Ginuwine, R.L., Tyrese, Case",67,2000-01-08,2000-03-18,45,8
+267,Project Chick,Cash Money Millionaires,54,2000-12-16,2000-12-30,44,3
+268,It's Over Now,112,59,2000-12-09,2000-12-30,44,4
+269,Change Your Mind,Sister Hazel,66,2000-07-15,2000-09-16,44,9
+270,Smoke Rings In The Dark,Gary Allan,64,2000-01-22,2000-02-12,42,4
+271,Another Nine Minutes,Yankee Grey,66,2000-04-29,2000-06-03,42,6
+272,Babylon,David Gray,62,2000-12-02,2000-12-30,41,5
+273,I Belong To You,Lenny Kravitz,65,2000-03-25,2000-04-29,39,6
+274,There She Goes,Sixpence None The Richer,59,2000-01-01,2000-01-22,34,4
+275,Bug A Boo,Destiny's Child,57,2000-01-01,2000-01-15,33,3
+276,It's So Hard,Big Punisher Featuring Donell Jones,63,2000-05-06,2000-06-17,33,7
+277,Heartbreaker,Mariah Carey Featuring Jay-Z,62,2000-01-01,2000-01-15,32,3
+278,Original Prankster,The Offspring,66,2000-11-25,2000-12-30,32,6
+279,Real Live Woman,Trisha Yearwood,66,2000-04-01,2000-04-29,30,5
+280,Notorious B.I.G.,The Notorious B.I.G. Featuring Puff Daddy & Lil' Kim,61,2000-01-01,2000-01-15,29,3
+281,Baby Don't Cry (Keep Ya Head Up II),2Pac + Outlawz,65,2000-02-26,2000-03-18,29,4
+282,Promise,Jagged Edge,58,2000-12-23,2000-12-30,28,2
+283,There Is No Arizona,Jamie O'Neal,60,2000-12-23,2000-12-30,27,2
+284,She Thinks My Tractor's Sexy,Kenny Chesney,67,2000-01-01,2000-01-22,24,4
+285,Daddy Won't Sell The Farm,Montgomery Gentry,68,2000-03-04,2000-04-01,24,5
+286,"Ryde Or Die, Chick",The Lox Featuring Timbaland And EVE,65,2000-03-18,2000-04-08,23,4
+287,Deep Inside Of You,Third Eye Blind,66,2000-09-02,2000-09-30,23,5
+288,Mr. Too Damn Good,Gerald Levert,66,2000-03-18,2000-04-22,22,6
+289,N 2 Gether Now,Limp Bizkit Featuring Method Man,64,2000-01-01,2000-01-15,21,3
+290,That's The Kind Of Mood I'm In,Patty Loveless,67,2000-11-11,2000-12-02,21,4
+291,Wild Horses,Garth Brooks,63,2000-12-23,2000-12-30,20,2
+292,(You Drive Me) Crazy,Britney Spears,64,2000-01-01,2000-01-15,19,2
+293,Private Emotion,Ricky Martin Featuring Meja,68,2000-03-11,2000-03-25,17,3
+294,But For The Grace Of God,Keith Urban,64,2000-12-23,2000-12-30,16,2
+295,This Everyday Love,Rascal Flatts,68,2000-12-23,2000-12-30,16,2
+296,Stay Or Let It Go,Brian McKnight,69,2000-03-11,2000-03-25,16,3
+297,The Christmas Shoes,NewSong,61,2000-12-30,2000-12-30,15,1
+298,If You Love Me,Mint Condition,68,2000-01-08,2000-01-22,15,3
+299,I Disappear,Metallica,72,2000-05-13,2000-07-08,15,6
+300,All I Want For Christmas Is You,Mariah Carey,62,2000-01-08,2000-01-08,14,1
+301,The Rockafeller Skank,Fatboy Slim,67,2000-01-01,2000-01-15,13,2
+302,Is That Your Chick,Memphis Bleek,67,2000-12-23,2000-12-30,10,2
+303,Hey Papi,Jay-Z Featuring Memphis Bleek & Amil,70,2000-09-23,2000-10-07,10,3
+304,How Many Licks?,Lil' Kim Feat. Sisqo,69,2000-11-25,2000-12-02,8,2
+305,"Tricky, Tricky",Lou Bega,70,2000-01-29,2000-02-05,8,2
+306,You Shouldn't Kiss Me Like This,Toby Keith,69,2000-12-30,2000-12-30,7,1
+307,I Learned From The Best,Whitney Houston,71,2000-02-19,2000-02-26,7,2
+308,No Me Dejes De Querer,Gloria Estefan,70,2000-06-10,2000-06-10,6,1
+309,Someday Out Of The Blue,Elton John,71,2000-04-22,2000-04-29,6,2
+310,U Understand,Juvenile,71,2000-02-05,2000-02-12,6,2
+311,A Little Gasoline,Terri Clark,73,2000-12-16,2000-12-23,6,2
+312,X,Xzibit,71,2000-12-30,2000-12-30,5,1
+313,Still On Your Side,BBMak,72,2000-12-30,2000-12-30,4,1
+314,Summer Rain,Carl Thomas,72,2000-09-23,2000-09-23,4,1
+315,Simple Kind Of Life,No Doubt,73,2000-07-22,2000-07-29,4,2
+316,Angel,Shaggy Feat. Rayvon,73,2000-12-30,2000-12-30,3,1
+317,Sour Girl,Stone Temple Pilots,73,2000-07-08,2000-07-08,3,1
+318,Re-arranged,Limp Bizkit,74,2000-01-01,2000-01-01,2,1
+319,Me Neither,Brad Paisley,74,2000-05-13,2000-05-13,2,1
+320,If I Am,Nine Days,74,2000-12-02,2000-12-02,2,1
+321,Sleepwalker,The Wallflowers,74,2000-10-28,2000-10-28,2,1
+322,One Night Stand,J-Shin Featuring LaTocha Scott,75,2000-03-11,2000-03-11,1,1
+323,We Can't Be Friends,Deborah Cox With R.L.,75,2000-01-01,2000-01-01,1,1
+324,Can't Stay,Dave Hollister,75,2000-03-25,2000-03-25,1,1
+325,When You Need My Love,Darryl Worley,75,2000-08-26,2000-08-26,1,1

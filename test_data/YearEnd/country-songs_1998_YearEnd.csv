@@ -1,0 +1,355 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,I'm Alright,Jo Dee Messina,1,1998-05-23,1998-12-12,2294,30
+2,This Kiss,Faith Hill,1,1998-02-28,1998-08-15,2281,25
+3,Bye Bye,Jo Dee Messina,1,1998-01-17,1998-08-08,2213,30
+4,Just To See You Smile,Tim McGraw,1,1998-01-03,1998-05-23,2211,21
+5,Where The Green Grass Grows,Tim McGraw,1,1998-07-11,1998-12-26,2125,25
+6,There's Your Trouble,Dixie Chicks,1,1998-04-11,1998-10-24,2079,29
+7,I'm From The Country,Tracy Byrd,3,1998-02-07,1998-08-15,2023,28
+8,I Just Want To Dance With You,George Strait,1,1998-04-18,1998-09-05,1976,21
+9,I Can Still Feel You,Collin Raye,1,1998-04-25,1998-10-17,1929,26
+10,True,George Strait,2,1998-05-02,1998-11-14,1887,25
+11,Don't Laugh At Me,Mark Wills,2,1998-07-18,1998-12-26,1855,24
+12,How Long Gone,Brooks & Dunn,1,1998-07-04,1998-11-21,1847,21
+13,There Goes My Baby,Trisha Yearwood,2,1998-05-09,1998-10-10,1823,23
+14,Wide Open Spaces,Dixie Chicks,1,1998-08-22,1998-12-26,1777,19
+15,Perfect Love,Trisha Yearwood,1,1998-01-17,1998-05-30,1776,20
+16,I Do [Cherish You],Mark Wills,2,1998-02-28,1998-08-15,1761,25
+17,Then What?,Clay Walker,2,1998-01-03,1998-06-20,1747,25
+18,Now That I Found You,Terri Clark,2,1998-04-04,1998-09-26,1745,26
+19,Nothin' But The Taillights,Clint Black,1,1998-01-17,1998-05-30,1740,20
+20,That's Why I'm Here,Kenny Chesney,2,1998-03-07,1998-08-22,1726,25
+21,"Honey, I'm Home",Shania Twain,1,1998-08-08,1998-12-26,1691,21
+22,If You See Him/If You See Her,Reba/Brooks & Dunn,1,1998-05-02,1998-09-12,1669,20
+23,Everything's Changed,Lonestar,2,1998-07-04,1998-12-26,1662,26
+24,You're Still The One,Shania Twain,1,1998-01-24,1998-07-04,1657,24
+25,A Little Past Little Rock,Lee Ann Womack,2,1998-08-08,1998-12-26,1635,21
+26,If I Never Stop Loving You,David Kersh,3,1998-01-03,1998-05-23,1606,21
+27,Holes In The Floor Of Heaven,Steve Wariner,2,1998-03-07,1998-07-25,1603,21
+28,26 Cents,The Wilkinsons,3,1998-06-13,1998-11-07,1574,22
+29,Just To Hear You Say That You Love Me,Faith Hill With Tim McGraw,3,1998-05-30,1998-10-10,1566,20
+30,Little Red Rodeo,Collin Raye,3,1998-01-03,1998-05-09,1561,19
+31,Out Of My Bones,Randy Travis,2,1998-03-07,1998-07-18,1547,20
+32,I'll Go On Loving You,Alan Jackson,3,1998-08-01,1998-12-12,1542,20
+33,To Make You Feel My Love,Garth Brooks,1,1998-05-16,1998-09-26,1538,20
+34,It Must Be Love,Ty Herndon,1,1998-08-15,1998-12-26,1535,20
+35,The Shoes You're Wearing,Clint Black,1,1998-04-11,1998-08-22,1532,20
+36,Love Of My Life,Sammy Kershaw,2,1998-01-03,1998-04-18,1517,16
+37,Happy Girl,Martina McBride,2,1998-04-25,1998-09-19,1516,22
+38,Round About Way,George Strait,1,1998-01-03,1998-05-09,1506,19
+39,Two Pina Coladas,Garth Brooks,1,1998-01-17,1998-06-27,1469,24
+40,Texas Size Heartache,Joe Diffie,4,1998-04-04,1998-09-19,1463,25
+41,Forever Love,Reba,4,1998-07-25,1998-12-05,1444,20
+42,Commitment,LeAnn Rimes,4,1998-03-28,1998-08-08,1441,20
+43,You're Gone,Diamond Rio,4,1998-05-30,1998-10-31,1438,23
+44,How Do You Fall In Love,Alabama,2,1998-08-01,1998-12-19,1426,21
+45,Cover You In Kisses,John Michael Montgomery,3,1998-05-30,1998-10-17,1414,21
+46,One Of These Days,Tim McGraw,2,1998-03-14,1998-07-25,1391,20
+47,Someone You Used To Know,Collin Raye,3,1998-08-22,1998-12-26,1390,19
+48,What If I Said,Anita Cochran (Duet With Steve Wariner),1,1998-01-03,1998-04-11,1381,15
+49,A Man Holdin' On (To A Woman Lettin' Go),Ty Herndon,5,1998-03-28,1998-08-29,1369,23
+50,You're Easy On The Eyes,Terri Clark,1,1998-08-29,1998-12-26,1336,18
+51,Let Me Let Go,Faith Hill,1,1998-09-12,1998-12-26,1318,16
+52,She's Gonna Make It,Garth Brooks,2,1998-01-17,1998-05-23,1317,19
+53,If You Ever Have Forever In Mind,Vince Gill,5,1998-05-30,1998-10-10,1317,20
+54,Dream Walkin',Toby Keith,5,1998-01-31,1998-06-13,1301,20
+55,I Wanna Fall In Love,Lila McCann,3,1998-01-03,1998-04-11,1286,15
+56,Husbands And Wives,Brooks & Dunn,1,1998-09-26,1998-12-26,1238,14
+57,It Would Be You,Gary Allan,7,1998-02-14,1998-07-18,1235,23
+58,From This Moment On,Shania Twain,6,1998-01-17,1998-08-22,1233,28
+59,He's Got You,Brooks & Dunn,2,1998-01-03,1998-03-28,1227,13
+60,We Really Shouldn't Be Doing This,George Strait,4,1998-05-02,1998-12-26,1210,20
+61,You Move Me,Garth Brooks,3,1998-08-29,1998-12-26,1191,18
+62,You've Got To Talk To Me,Lee Ann Womack,2,1998-01-03,1998-03-28,1180,13
+63,The Day That She Left Tulsa (In A Chevy),Wade Hayes,5,1998-01-03,1998-04-18,1146,16
+64,Too Good To Be True,Michael Peterson,8,1998-01-31,1998-06-13,1082,20
+65,I Wanna Feel That Way Again,Tracy Byrd,9,1998-06-20,1998-11-21,1061,23
+66,Imagine That,Diamond Rio,4,1998-01-03,1998-03-21,1052,12
+67,How Do You Sleep At Night,Wade Hayes,13,1998-07-04,1998-12-12,1042,24
+68,The Hole,Randy Travis,9,1998-06-13,1998-10-24,1013,20
+69,You're Beginning To Get To Me,Clay Walker,5,1998-08-22,1998-12-26,1010,19
+70,I Can Love You Better,Dixie Chicks,7,1998-01-03,1998-04-18,1010,16
+71,Nothin' New Under The Moon,LeAnn Rimes,10,1998-08-01,1998-12-12,971,20
+72,I Said A Prayer,Pam Tillis,12,1998-05-16,1998-09-26,969,20
+73,Just Between You And Me,The Kinleys,12,1998-01-03,1998-05-02,944,18
+74,For You I Will,Aaron Tippin,8,1998-08-08,1998-12-26,940,21
+75,To Have You Back Again,Patty Loveless,12,1998-01-31,1998-06-13,936,20
+76,Say When,Lonestar,13,1998-01-31,1998-06-20,928,21
+77,Don't Be Stupid (You Know I Love You),Shania Twain,6,1998-01-03,1998-03-28,922,13
+78,Longneck Bottle,Garth Brooks,1,1998-01-03,1998-04-04,921,14
+79,Lonely Won't Leave Me Alone,Trace Adkins,11,1998-01-17,1998-05-30,914,20
+80,Stepping Stone,Lari White,16,1998-05-16,1998-09-26,907,20
+81,Come Some Rainy Day,Wynonna,14,1998-01-03,1998-04-25,872,17
+82,A Broken Wing,Martina McBride,1,1998-01-03,1998-02-28,860,9
+83,Valentine,Martina McBride With Jim Brickman,9,1998-01-31,1998-05-16,840,16
+84,Things Change,Dwight Yoakam,17,1998-05-02,1998-09-12,822,20
+85,There You Have It,BlackHawk,9,1998-08-29,1998-12-26,817,18
+86,You'll Never Know,Mindy McCready,19,1998-01-17,1998-05-30,814,20
+87,Between The Devil And Me,Alan Jackson,2,1998-01-03,1998-02-21,811,8
+88,I Might Even Quit Lovin' You,Mark Chesnutt,18,1998-03-14,1998-07-25,807,20
+89,On The Side Of Angels,LeAnn Rimes,4,1998-01-03,1998-02-28,798,9
+90,Love Working On You,John Michael Montgomery,14,1998-03-14,1998-07-25,797,20
+91,I'm So Happy I Can't Stop Crying,Toby Keith With Sting,2,1998-01-03,1998-02-21,786,8
+92,Wrong Again,Martina McBride,7,1998-09-19,1998-12-26,760,15
+93,Right On The Money,Alan Jackson,6,1998-10-17,1998-12-26,759,11
+94,High On Love,Patty Loveless,20,1998-06-06,1998-10-17,755,20
+95,Papa Bear,Keith Harling,24,1998-03-07,1998-07-18,751,20
+96,Angel In My Eyes,John Michael Montgomery,4,1998-01-03,1998-02-21,738,8
+97,I Wanna Remember This,Linda Davis,20,1998-05-16,1998-10-03,726,21
+98,Getcha Some,Toby Keith,18,1998-09-12,1998-12-26,694,16
+99,One Small Miracle,Bryan White,16,1998-01-03,1998-04-11,682,15
+100,I Will Stand,Kenny Chesney,27,1998-08-15,1998-12-26,677,20
+101,Loosen Up My Strings,Clint Black,12,1998-08-15,1998-12-19,670,19
+102,She's Got That Look In Her Eyes,Alabama,21,1998-02-14,1998-06-20,668,19
+103,If I Lost You,Travis Tritt,29,1998-08-29,1998-12-26,654,18
+104,Absence Of The Heart,Deana Carter,16,1998-09-26,1998-12-26,651,14
+105,Love Happens Like That,Neal McCoy,29,1998-06-27,1998-11-07,648,20
+106,Matches,Sammy Kershaw,22,1998-03-14,1998-07-25,636,20
+107,One Of Those Nights Tonight,Lorrie Morgan,14,1998-01-03,1998-03-21,627,12
+108,A Chance,Kenny Chesney,11,1998-01-03,1998-03-07,599,10
+109,Somebody To Love,Suzy Bogguss,33,1998-04-11,1998-08-15,592,19
+110,Where Your Road Leads,Trisha Yearwood With Garth Brooks,18,1998-09-19,1998-12-26,580,15
+111,A House With No Curtains,Alan Jackson,18,1998-01-24,1998-05-02,573,15
+112,Closer To Heaven,Mila Mason,31,1998-01-03,1998-04-18,573,16
+113,Guilty,The Warren Brothers,34,1998-08-29,1998-12-26,571,18
+114,"Spirit Of A Boy, Wisdom Of A Man",Randy Travis,13,1998-10-10,1998-12-26,570,12
+115,Wonderful Tonight,David Kersh,29,1998-03-14,1998-08-22,564,23
+116,Ordinary People,Clay Walker,35,1998-05-02,1998-09-12,561,20
+117,Big Time,Trace Adkins,27,1998-05-09,1998-09-19,560,20
+118,Honky Tonk America,Sammy Kershaw,31,1998-06-27,1998-11-07,559,20
+119,Buckaroo,Lee Ann Womack,27,1998-04-04,1998-09-05,557,20
+120,I Saw The Light,Hal Ketchum,36,1998-02-28,1998-07-11,555,20
+121,The Note,Daryle Singletary,28,1998-01-03,1998-03-21,533,12
+122,Hold On To Me,John Michael Montgomery,18,1998-10-10,1998-12-26,523,12
+123,Leaving October,Sons Of The Desert,31,1998-01-17,1998-06-06,521,19
+124,Burnin' The Roadhouse Down,Steve Wariner With Garth Brooks,26,1998-05-09,1998-11-28,515,20
+125,Still In Love With You,Travis Tritt,23,1998-01-03,1998-04-04,500,14
+126,No End To This Road,Restless Heart,33,1998-05-16,1998-09-05,499,17
+127,Stand Beside Me,Jo Dee Messina,14,1998-10-10,1998-12-26,492,12
+128,Real Man,Billy Dean,33,1998-07-04,1998-10-31,479,18
+129,I Already Do,Chely Wright,36,1998-03-28,1998-08-22,469,20
+130,It's Your Song,Garth Brooks,9,1998-11-14,1998-12-26,462,7
+131,A Bitter End,Deryl Dodd,33,1998-09-12,1998-12-26,462,16
+132,Put Your Heart Into It,Sherrie Austin,34,1998-01-31,1998-05-16,460,16
+133,By The Book,Michael Peterson,30,1998-09-26,1998-12-26,449,14
+134,If You Can't Be Good (Be Good At It),Neal McCoy,22,1998-01-03,1998-02-28,437,9
+135,No Place That Far,Sara Evans,22,1998-10-03,1998-12-26,436,13
+136,When The Bartender Cries,Michael Peterson,37,1998-05-30,1998-08-29,413,14
+137,Coming Back For You,Keith Harling,39,1998-08-01,1998-11-21,404,17
+138,What If,Reba McEntire,23,1998-01-03,1998-04-11,403,13
+139,Unbelievable,Diamond Rio,16,1998-10-31,1998-12-26,401,9
+140,Just Don't Wait Around Til She's Leavin',David Lee Murphy,37,1998-01-03,1998-03-28,400,13
+141,From Here To Eternity,Michael Peterson,8,1998-01-03,1998-02-07,381,6
+142,Kindly Keep It Country,Vince Gill,33,1998-10-10,1998-12-26,377,12
+143,For A Little While,Tim McGraw,11,1998-11-07,1998-12-26,373,8
+144,Bad Day To Let You Go,Bryan White,30,1998-04-11,1998-06-20,370,11
+145,Love Gets Me Every Time,Shania Twain,18,1998-01-03,1998-02-14,369,7
+146,Take Me,Lari White,35,1998-10-03,1998-12-26,354,13
+147,It's Not Over,Mark Chesnutt (Featuring Vince Gill And Alison Krauss),34,1998-01-03,1998-03-07,353,10
+148,Fly (The Angel Song),The Wilkinsons,25,1998-10-24,1998-12-26,340,10
+149,Broken Road,Melodie Crittenden,42,1998-01-17,1998-04-25,340,15
+150,Straight Tequila,Trini Triggs,47,1998-09-05,1998-12-19,331,16
+151,Every Time,Pam Tillis,38,1998-09-12,1998-11-28,319,12
+152,Wrong Night,Reba,15,1998-11-14,1998-12-26,318,7
+153,Why'd You Start Lookin' So Good,Monty Holmes,43,1998-05-16,1998-09-05,314,16
+154,One Day Left To Live,Sammy Kershaw,41,1998-10-10,1998-12-26,305,12
+155,Almost Over You,Lila McCann,42,1998-03-07,1998-05-23,297,12
+156,Wine Into Water,T. Graham Brown,45,1998-09-19,1998-12-26,297,15
+157,Busy Man,Billy Ray Cyrus,24,1998-10-31,1998-12-26,296,9
+158,Takin' The Country Back,John Anderson,41,1998-01-17,1998-04-04,294,12
+159,Used To The Pain,Mark Nesler,47,1998-06-06,1998-09-12,294,15
+160,Something To Think About,David Kersh,46,1998-09-26,1998-12-26,293,14
+161,Just Another Heartache,Chely Wright,39,1998-01-03,1998-03-07,288,10
+162,The Other Side Of This Kiss,Mindy McCready,41,1998-06-06,1998-08-22,288,12
+163,The Rest Of Mine,Trace Adkins,11,1998-01-03,1998-01-31,287,5
+164,Woman To Woman,The Lynns,43,1998-02-28,1998-05-02,275,10
+165,You Make It Seem So Easy,The Kinleys,48,1998-07-11,1998-10-03,274,13
+166,A Fool's Progress,Clint Daniels,44,1998-06-13,1998-08-29,272,12
+167,A Woman's Tears,Matt King,46,1998-02-21,1998-06-06,271,15
+168,Somebody's Out There Watching,The Kinleys,34,1998-10-24,1998-12-26,267,10
+169,Every Little Whisper,Steve Wariner,43,1998-10-17,1998-12-26,267,11
+170,I Have To Surrender,Ty Herndon,18,1998-01-03,1998-01-31,256,5
+171,Slow Down,Mark Nesler,47,1998-10-03,1998-12-26,249,13
+172,Always Will,Wynonna,45,1998-04-25,1998-06-27,245,10
+173,Poor Me,Joe Diffie,43,1998-09-12,1998-11-14,244,10
+174,Tree Of Hearts,Bryan White,45,1998-08-01,1998-10-17,243,12
+175,No Man In His Wrong Heart,Gary Allan,43,1998-08-01,1998-10-10,242,11
+176,Double Wide Paradise,Toby Keith,40,1998-05-23,1998-07-25,236,10
+177,You Walked In,Lonestar,12,1998-01-03,1998-01-24,234,4
+178,Land Of The Living,Pam Tillis,13,1998-01-03,1998-01-24,230,4
+179,You Don't Seem To Miss Me,Patty Loveless,21,1998-01-03,1998-01-31,226,5
+180,Connected At The Heart,Ricochet,44,1998-02-07,1998-04-11,225,10
+181,My Baby's Lovin',Daryle Singletary,44,1998-07-11,1998-10-03,219,12
+182,I'm Yours,Linda Davis,42,1998-10-31,1998-12-26,216,9
+183,I Don't Want To Miss A Thing,Mark Chesnutt,19,1998-11-21,1998-12-26,215,6
+184,Shine On,Jeff Carson,49,1998-07-18,1998-10-10,214,13
+185,That's Where You're Wrong,Daryle Singletary,49,1998-04-04,1998-06-06,210,10
+186,Better Than It Used To Be,Rhett Akins,47,1998-01-24,1998-04-04,196,11
+187,Wherever You Are,Mark Chesnutt,45,1998-09-26,1998-11-21,194,9
+188,What A Woman Knows,Kris Tyler,45,1998-01-03,1998-02-21,191,8
+189,To Be With You,The Mavericks,51,1998-02-07,1998-04-25,191,12
+190,When The Wrong One Loves You Right,Wade Hayes,50,1998-04-11,1998-06-13,190,10
+191,Of Course I'm Alright,Alabama,30,1998-01-03,1998-02-28,185,8
+192,Evangeline,Chad Brock,51,1998-08-01,1998-10-31,185,13
+193,I Fell,Brady Seals,55,1998-06-13,1998-09-05,183,12
+194,There's Only You,Kevin Sharp,43,1998-01-03,1998-02-21,175,7
+195,Party On,Neal McCoy,50,1998-03-28,1998-05-16,172,8
+196,Ordinary Life,Chad Brock,47,1998-11-07,1998-12-26,171,8
+197,What If I'm Right,Shane Stockton,54,1998-03-28,1998-05-30,171,10
+198,That Does It,Jason Sellers,46,1998-01-03,1998-02-28,170,8
+199,When I Grow Up,Clint Daniels,53,1998-10-17,1998-12-12,170,9
+200,Dance In The Boat,The Kinleys,49,1998-05-02,1998-07-04,168,10
+201,Back In The Saddle,Matraca Berg,51,1998-02-14,1998-04-25,166,11
+202,Gone Out Of My Mind,Doug Stone,48,1998-06-20,1998-08-08,164,8
+203,Cheatin' On Her Heart,Jeff Carson,52,1998-01-24,1998-03-28,158,10
+204,Alone,Monty Holmes,53,1998-08-29,1998-11-14,158,12
+205,More Than Everything,Rhett Akins,42,1998-01-03,1998-02-14,152,7
+206,While You Sleep,Tracy Lawrence,46,1998-07-25,1998-09-12,150,8
+207,If The Jukebox Took Teardrops,Danni Leigh,57,1998-09-12,1998-11-14,149,10
+208,Something That We Do,Clint Black,25,1998-01-03,1998-01-17,148,3
+209,Only Lonely Me,Rick Trevino,52,1998-08-15,1998-10-17,146,9
+210,Powerful Thing,Trisha Yearwood,31,1998-11-28,1998-12-26,145,5
+211,I'm Not That Easy To Forget,Lorrie Morgan,49,1998-04-04,1998-05-16,143,7
+212,Shame About That,Sara Evans,48,1998-01-17,1998-02-28,142,7
+213,Somebody Will,River Road,51,1998-01-17,1998-02-28,142,7
+214,Cryin' Game,Sara Evans,56,1998-06-13,1998-08-22,142,10
+215,Gonna Have To Fall,Shane Stockton,51,1998-06-27,1998-08-08,141,7
+216,Today My World Slipped Away,George Strait,24,1998-01-03,1998-01-17,139,3
+217,When Love Starts Talkin',Wynonna,49,1998-01-03,1998-02-14,138,7
+218,Love Is All That Really Matters,Kevin Sharp,51,1998-03-21,1998-05-09,135,8
+219,Drivin' My Life Away,Rhett Akins,56,1998-04-18,1998-06-13,129,9
+220,Bang Bang Bang,Nitty Gritty Dirt Band,52,1998-02-28,1998-04-25,127,9
+221,All That Matters Anymore,Lee Roy Parnell,50,1998-02-14,1998-04-04,123,8
+222,Back On The Farm,The Thompson Brothers Band,58,1998-02-28,1998-05-09,123,11
+223,These Arms Of Mine,LeAnn Rimes,45,1998-11-28,1998-12-26,121,5
+224,"Let It Snow, Let It Snow, Let It Snow",Ricochet,44,1998-01-03,1998-12-26,120,5
+225,I'll Take Today,Gary Allan,51,1998-11-07,1998-12-26,115,7
+226,Ticket Out Of Kansas,Jenny Simpson,54,1998-10-24,1998-12-05,113,7
+227,The Kind Of Heart That Breaks,Chris Cummings,50,1998-01-17,1998-02-14,110,5
+228,I Won't Lie,Shannon Brown,58,1998-11-07,1998-12-26,110,8
+229,Drive Me Wild,Sawyer Brown,49,1998-11-14,1998-12-26,104,7
+230,Keepin' Up,Alabama,38,1998-12-05,1998-12-26,102,4
+231,Did I Shave My Legs For This?,Deana Carter,43,1998-01-03,1998-02-28,101,8
+232,Another Side,Sawyer Brown,55,1998-02-14,1998-04-18,100,7
+233,Shortenin' Bread,The Tractors,57,1998-11-21,1998-12-26,99,6
+234,This Small Divide,Jason Sellers Featuring Martina McBride,55,1998-05-09,1998-06-20,97,7
+235,That Don't Impress Me Much,Shania Twain,32,1998-12-12,1998-12-26,96,3
+236,I'm A Cowboy,Bill Engvall,60,1998-10-17,1998-12-05,95,8
+237,The Strong One,Mila Mason,57,1998-05-23,1998-06-27,94,6
+238,Pour Me A Vacation,The Great Divide,59,1998-08-15,1998-10-03,93,8
+239,Christmas In Dixie,Alabama,47,1998-01-03,1998-12-26,92,4
+240,Belleau Wood,Garth Brooks,41,1998-01-03,1998-01-24,88,4
+241,The Devil Went Down To Georgia,The Charlie Daniels Band,60,1998-06-20,1998-08-01,86,7
+242,Woman To Woman,Wynonna,62,1998-09-12,1998-10-31,85,8
+243,Can't Stop Thinkin' 'Bout That,Ricochet,56,1998-11-21,1998-12-26,84,6
+244,Wake Up And Smell The Whiskey,Dean Miller,57,1998-02-21,1998-03-28,83,6
+245,Step Right Up,Cactus Choir,62,1998-01-24,1998-03-14,82,8
+246,Til' Santa's Gone (I Just Can't Wait),Clint Black,40,1998-01-03,1998-12-26,79,3
+247,These Arms,Dwight Yoakam,57,1998-09-19,1998-10-24,79,6
+248,Like Water Into Wine,Patty Loveless,57,1998-10-17,1998-11-14,75,5
+249,How Do I Let Go,Lisa Brokop,59,1998-05-23,1998-07-04,75,7
+250,You Were Mine,Dixie Chicks,36,1998-12-12,1998-12-26,74,3
+251,Honky Tonk Truth,Brooks & Dunn,37,1998-01-03,1998-01-10,73,2
+252,Redneck 12 Days Of Christmas,Jeff Foxworthy,39,1998-01-03,1998-01-10,73,2
+253,Over My Shoulder,John Berry,62,1998-04-25,1998-06-13,70,7
+254,What If It's You,Reba McEntire,48,1998-01-03,1998-01-24,69,3
+255,Postmarked Birmingham,BlackHawk,49,1998-01-03,1998-02-14,69,6
+256,The Next Step,Jim Collins,55,1998-01-17,1998-02-07,69,4
+257,Road Trippin',Steve Wariner,55,1998-06-27,1998-07-18,66,4
+258,All I Want For Christmas Is You,Vince Vance & The Valiants,43,1998-01-03,1998-01-10,65,2
+259,How Forever Feels,Kenny Chesney,44,1998-12-12,1998-12-26,65,3
+260,Small Talk,Sawyer Brown,60,1998-04-11,1998-05-16,64,6
+261,One Night,JC Jones,61,1998-01-17,1998-02-21,64,6
+262,Runaway Love,Chris LeDoux,62,1998-06-20,1998-08-22,62,9
+263,If She Only Knew,Kevin Sharp,61,1998-06-27,1998-09-05,61,9
+264,Here's Your Sign Christmas,Bill Engvall,50,1998-12-12,1998-12-26,60,3
+265,Sending Me Angels,Delbert McClinton,65,1998-01-17,1998-03-07,60,8
+266,Time On My Hands,Deryl Dodd,62,1998-04-18,1998-05-23,59,6
+267,Honky Tonk Baby,Ricochet,58,1998-08-01,1998-08-22,57,4
+268,Dance The Night Away,The Mavericks,63,1998-06-06,1998-07-25,57,7
+269,Just Some Love,The Ranch,61,1998-03-14,1998-04-11,55,5
+270,I Walk The Line Revisited,Rodney Crowell With Johnny Cash,61,1998-11-07,1998-12-19,55,6
+271,Heaven Bound,Shana Petrone,60,1998-06-27,1998-07-25,51,5
+272,Yippy Ky Yay,Lila McCann,63,1998-07-04,1998-08-01,50,5
+273,I Don't Want No Part Of It,Smokin' Armadillos,64,1998-01-24,1998-03-21,50,6
+274,I Only Want You For Christmas,Alan Jackson,48,1998-01-03,1998-01-10,49,2
+275,A Holly Jolly Christmas,Alan Jackson,51,1998-01-03,1998-01-10,48,2
+276,Same Old Train,Various Artists,59,1998-09-19,1998-10-17,48,5
+277,Behind Closed Doors,Joe Diffie,64,1998-11-28,1998-12-26,46,5
+278,Faith,Big House,63,1998-05-23,1998-06-27,43,6
+279,In Another's Eyes,Trisha Yearwood And Garth Brooks,36,1998-01-03,1998-01-03,40,1
+280,Leroy The Redneck Reindeer,Joe Diffie,54,1998-01-03,1998-01-10,40,2
+281,Leave My Mama Out Of This,Monty Holmes,59,1998-11-14,1998-12-12,40,5
+282,The Man Song,Sean Morey,70,1998-07-04,1998-11-21,40,11
+283,Holding Her And Loving You,Clay Walker,68,1998-04-18,1998-06-27,39,9
+284,The Big One,Confederate Railroad,66,1998-11-21,1998-12-26,38,6
+285,Christmas Time's A Comin',Sammy Kershaw,53,1998-01-03,1998-01-10,36,2
+286,When Mama Ain't Happy,Tracy Byrd,55,1998-12-19,1998-12-26,35,2
+287,We Lose,Brad Hawkins,68,1998-02-28,1998-04-04,35,6
+288,Touchdown Tennessee,Kenny Chesney,64,1998-11-28,1998-12-19,34,4
+289,When You Get To Be You,Lisa Brokop,64,1998-11-14,1998-11-28,33,3
+290,You Haven't Left Me Yet,George Strait,64,1998-05-02,1998-12-26,32,6
+291,A Random Act Of Senseless Kindness,South Sixty Five,59,1998-12-12,1998-12-26,31,3
+292,Don't Try To Find Me,Springer!,64,1998-10-24,1998-11-14,31,4
+293,Bang A Drum,Chris LeDoux (Duet With Jon Bon Jovi),68,1998-10-03,1998-11-07,28,5
+294,Santa Looked A Lot Like Daddy,Garth Brooks,56,1998-01-03,1998-01-10,27,2
+295,Blue Christmas,Elvis Presley,55,1998-01-03,1998-01-10,26,2
+296,The Old Man's Back In Town,Garth Brooks,59,1998-01-03,1998-01-10,26,2
+297,The Wish,Blake & Brian,62,1998-01-17,1998-01-24,25,2
+298,Rockin' Around The Christmas Tree,Brenda Lee,62,1998-01-03,1998-01-10,24,2
+299,Uptown Down-Home Good Ol' Boy,Garth Brooks,65,1998-05-23,1998-07-04,23,4
+300,Christmas Carol,Skip Ewing,60,1998-01-03,1998-01-10,22,2
+301,Grandma Got Run Over By A Reindeer,Elmo & Patsy,64,1998-01-03,1998-01-10,22,2
+302,Santa Claus Is Comin' (In A Boogie Woogie Choo Choo Train),The Tractors,65,1998-01-03,1998-01-10,22,2
+303,Totally Committed,Jeff Foxworthy,70,1998-05-02,1998-06-06,22,6
+304,You Won't Ever Be Lonely,Andy Griggs,60,1998-12-12,1998-12-26,21,3
+305,For Lack Of Better Words,Restless Heart,64,1998-09-12,1998-09-19,21,2
+306,One Heart At A Time,Various Artists,69,1998-05-30,1998-08-29,21,5
+307,Stand By Your Man,Tammy Wynette,56,1998-04-25,1998-04-25,20,1
+308,"Nobody Love, Nobody Gets Hurt",Suzy Bogguss,63,1998-09-19,1998-10-10,20,4
+309,Have Yourself A Merry Little Christmas,Vince Gill,64,1998-01-03,1998-01-10,20,2
+310,Merry Christmas Strait To You,George Strait,58,1998-01-03,1998-01-10,19,2
+311,Santa Claus Is Back In Town,Dwight Yoakam,60,1998-01-03,1998-01-10,19,2
+312,What If I Do,Mindy McCready,68,1998-01-17,1998-01-31,19,3
+313,Will You Be Here,Anita Cochran,69,1998-04-04,1998-05-02,19,4
+314,Innocent Bystander,Billy Dean,68,1998-11-21,1998-12-19,18,3
+315,Time For Letting Go,Billy Ray Cyrus,70,1998-08-01,1998-09-05,18,5
+316,You'd Think He'd Know Me Better,Lorrie Morgan,66,1998-08-08,1998-08-22,16,3
+317,Write It In Stone,Keith Harling,66,1998-12-19,1998-12-26,15,2
+318,It's Only Love,Randy Scruggs With Mary Chapin Carpenter,67,1998-12-19,1998-12-26,15,2
+319,What's Come Over You,Paul Brandt,68,1998-01-24,1998-02-07,15,3
+320,I'll Think Of A Reason Later,Lee Ann Womack,62,1998-12-26,1998-12-26,14,1
+321,O Holy Night,John Berry,63,1998-01-10,1998-01-10,13,1
+322,Tearin' It Up (And Burnin' It Down),Garth Brooks,63,1998-12-05,1998-12-05,13,1
+323,Whole Lotta Hurt,Brady Seals,66,1998-10-24,1998-10-31,13,2
+324,Santa Claus Is Coming To Town,George Strait,69,1998-01-03,1998-01-10,13,2
+325,Wild As The Wind,Garth Brooks Duet With Trisha Yearwood,65,1998-12-05,1998-12-05,11,1
+326,O Holy Night,Martina McBride,67,1998-01-10,1998-01-10,9,1
+327,Amnesia,Blake & Brian,68,1998-04-25,1998-04-25,8,1
+328,Silver Bells,The Judds,68,1998-01-10,1998-01-10,8,1
+329,From Where I Stand,Suzy Bogguss,68,1998-11-28,1998-11-28,8,1
+330,Something With A Ring To It,Garth Brooks,68,1998-05-23,1998-05-23,8,1
+331,Let's Talk About Love,Mindy McCready,68,1998-10-24,1998-10-24,8,1
+332,Freedom,Wynonna,68,1998-12-05,1998-12-05,8,1
+333,"My First, Last, One And Only",Jim Collins,73,1998-03-07,1998-04-11,8,4
+334,Drive Me Crazy,The Thompson Brothers Band,69,1998-01-17,1998-01-17,7,1
+335,Hands Of A Working Man,Ty Herndon,70,1998-12-26,1998-12-26,6,1
+336,Nickajack,River Road,71,1998-01-17,1998-02-07,6,2
+337,I Should've Known,Melodie Crittenden,72,1998-05-09,1998-06-06,6,3
+338,Famous First Words,Gil Grand,73,1998-05-16,1998-05-30,6,3
+339,The Gift,Collin Raye Featuring Jim Brickman,71,1998-01-17,1998-01-17,5,1
+340,Put A Little Holiday In Your Heart,LeAnn Rimes,71,1998-01-10,1998-01-10,5,1
+341,Set You Free,Allison Moorer,72,1998-09-05,1998-09-12,5,2
+342,Hard Candy Christmas,Dolly Parton,73,1998-01-03,1998-01-10,5,2
+343,It's Hard To Be A Parent,Bill Engvall,72,1998-02-14,1998-02-14,4,1
+344,Rudolph The Red-Nosed Reindeer,Gene Autry,72,1998-12-26,1998-12-26,4,1
+345,Honky Tonk Songs,Dolly Parton,74,1998-09-05,1998-09-12,4,2
+346,A Soft Place To Fall,Allison Moorer,73,1998-06-20,1998-06-20,3,1
+347,Never Could,The Great Divide,74,1998-04-18,1998-04-18,2,1
+348,Innocent Man,Sherrie Austin,74,1998-07-11,1998-07-11,2,1
+349,Little Blue Dot,James Bonamy,74,1998-01-17,1998-01-17,2,1
+350,Winter Wonderland/Sleigh Ride (Medley),Dolly Parton,74,1998-12-26,1998-12-26,2,1
+351,You Turn Me On,Tim McGraw,75,1998-03-07,1998-03-21,2,2
+352,The Christmas Song,Trace Adkins,75,1998-12-26,1998-12-26,1,1
+353,We Three Kings (Star Of Wonder),BlackHawk,75,1998-01-10,1998-01-10,1,1
+354,Better Than A Biscuit,John Berry,75,1998-08-08,1998-08-08,1,1

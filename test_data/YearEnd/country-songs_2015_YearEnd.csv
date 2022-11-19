@@ -1,0 +1,243 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Take Your Time,Sam Hunt,1,2015-01-03,2015-08-29,4397,35
+2,Girl Crush,Little Big Town,1,2015-01-03,2015-08-22,3261,34
+3,House Party,Sam Hunt,1,2015-01-03,2015-10-24,2343,29
+4,Kick The Dust Up,Luke Bryan,1,2015-05-30,2015-10-03,2105,19
+5,Homegrown,Zac Brown Band,2,2015-01-24,2015-07-18,2013,26
+6,Strip It Down,Luke Bryan,1,2015-08-08,2015-12-26,1909,21
+7,I'm Comin' Over,Chris Young,2,2015-05-30,2015-12-26,1907,31
+8,Crash And Burn,Thomas Rhett,2,2015-04-25,2015-10-17,1850,26
+9,Sangria,Blake Shelton,3,2015-04-11,2015-09-26,1828,25
+10,Burning House,Cam,3,2015-06-27,2015-12-26,1769,27
+11,"John Cougar, John Deere, John 3:16",Keith Urban,2,2015-06-20,2015-12-12,1720,26
+12,Break Up With Him,Old Dominion,3,2015-01-31,2015-12-05,1697,37
+13,Buy Me A Boat,Chris Janson,2,2015-04-04,2015-10-31,1632,26
+14,I See You,Luke Bryan,1,2015-01-03,2015-05-09,1533,19
+15,Drinking Class,Lee Brice,3,2015-01-03,2015-05-09,1474,19
+16,Die A Happy Man,Thomas Rhett,1,2015-10-10,2015-12-26,1415,12
+17,Lose My Mind,Brett Eldredge,2,2015-05-09,2015-10-31,1399,26
+18,Like A Wrecking Ball,Eric Church,6,2015-03-07,2015-09-19,1384,29
+19,Sippin' On Fire,Florida Georgia Line,3,2015-03-07,2015-07-18,1360,20
+20,Lonely Tonight,Blake Shelton Featuring Ashley Monroe,2,2015-01-03,2015-04-18,1356,16
+21,Nothin' Like You,Dan + Shay,5,2015-04-18,2015-12-26,1349,37
+22,I Got The Boy,Jana Kramer,10,2015-02-28,2015-12-26,1291,43
+23,Ain't Worth The Whiskey,Cole Swindell,3,2015-01-03,2015-05-02,1287,18
+24,Sun Daze,Florida Georgia Line,3,2015-01-03,2015-03-28,1258,13
+25,Don't It,Billy Currington,4,2015-01-03,2015-06-20,1198,25
+26,Love You Like That,Canaan Smith,6,2015-01-03,2015-08-01,1192,31
+27,Smoke Break,Carrie Underwood,4,2015-09-05,2015-12-26,1184,17
+28,Save It For A Rainy Day,Kenny Chesney,4,2015-07-11,2015-12-26,1178,25
+29,Break Up In A Small Town,Sam Hunt,2,2015-01-03,2015-12-26,1176,17
+30,Talladega,Eric Church,2,2015-01-03,2015-03-28,1163,13
+31,Love Me Like You Mean It,Kelsea Ballerini,5,2015-01-03,2015-07-18,1163,29
+32,Smoke,A Thousand Horses,5,2015-01-24,2015-07-11,1143,25
+33,Loving You Easy,Zac Brown Band,4,2015-05-09,2015-10-24,1129,25
+34,Stay A Little Longer,Brothers Osborne,6,2015-04-25,2015-12-26,1113,36
+35,Something In The Water,Carrie Underwood,1,2015-01-03,2015-03-21,1112,12
+36,Say You Do,Dierks Bentley,5,2015-01-03,2015-05-23,1073,21
+37,Little Toy Guns,Carrie Underwood,6,2015-02-14,2015-08-01,1069,25
+38,A Guy Walks Into A Bar,Tyler Farr,7,2015-01-03,2015-05-30,1056,22
+39,Make Me Wanna,Thomas Rhett,2,2015-01-03,2015-03-21,1012,12
+40,Just Gettin' Started,Jason Aldean,5,2015-01-03,2015-04-18,1000,16
+41,One Hell Of An Amen,Brantley Gilbert,5,2015-01-17,2015-08-15,998,31
+42,Tonight Looks Good On You,Jason Aldean,6,2015-04-11,2015-09-05,993,22
+43,Lonely Eyes,Chris Young,4,2015-01-03,2015-04-25,986,17
+44,Hell Of A Night,Dustin Lynch,7,2015-01-17,2015-09-19,984,35
+45,Let Me See Ya Girl,Cole Swindell,9,2015-05-09,2015-11-28,943,30
+46,Shotgun Rider,Tim McGraw,2,2015-01-03,2015-03-28,913,13
+47,Gonna Wanna Tonight,Chase Rice,10,2015-01-10,2015-10-31,903,38
+48,Mean To Me,Brett Eldredge,4,2015-01-03,2015-04-04,887,14
+49,Gonna,Blake Shelton,4,2015-08-15,2015-12-26,869,20
+50,Anything Goes,Florida Georgia Line,6,2015-01-10,2015-11-14,865,22
+51,Fly,Maddie & Tae,9,2015-02-07,2015-10-24,865,32
+52,Baby Be My Love Song,Easton Corbin,11,2015-01-03,2015-07-18,819,29
+53,Already Callin' You Mine,Parmalee,16,2015-04-25,2015-12-26,819,36
+54,Kiss You In The Morning,Michael Ray,10,2015-03-28,2015-09-19,815,26
+55,Young & Crazy,Frankie Ballard,8,2015-03-14,2015-09-05,766,26
+56,Raise 'Em Up,Keith Urban Featuring Eric Church,8,2015-02-07,2015-06-20,746,20
+57,Homegrown Honey,Darius Rucker,6,2015-01-03,2015-04-18,740,16
+58,Diamond Rings And Old Barstools,Tim McGraw With Catherine Dunn,11,2015-02-14,2015-07-25,735,24
+59,Wild Child,Kenny Chesney With Grace Potter,9,2015-02-21,2015-07-04,716,20
+60,Crushin' It,Brad Paisley,15,2015-02-28,2015-08-15,697,25
+61,Little Red Wagon,Miranda Lambert,5,2015-01-31,2015-06-06,659,19
+62,I Love This Life,LOCASH,12,2015-06-06,2015-12-26,657,30
+63,She Don't Love You,Eric Paslay,15,2015-01-03,2015-05-30,630,22
+64,Gonna Know We Were Here,Jason Aldean,7,2015-09-05,2015-12-26,616,17
+65,I'm To Blame,Kip Moore,24,2015-02-21,2015-09-12,601,30
+66,Top Of The World,Tim McGraw,11,2015-08-22,2015-12-26,567,19
+67,21,Hunter Hayes,26,2015-06-06,2015-11-28,562,26
+68,Real Life,Jake Owen,17,2015-06-13,2015-10-24,559,20
+69,We Went,Randy Houser,19,2015-06-06,2015-12-26,524,28
+70,Perfect Storm,Brad Paisley,6,2015-01-03,2015-02-28,514,9
+71,Dibs,Kelsea Ballerini,15,2015-08-29,2015-12-26,513,18
+72,Games,Luke Bryan,21,2015-03-14,2015-07-25,487,20
+73,Tennessee Whiskey,Chris Stapleton,1,2015-05-23,2015-12-26,470,7
+74,Like A Cowboy,Randy Houser,9,2015-01-03,2015-03-14,467,11
+75,Run Away With You,Big & Rich,17,2015-08-29,2015-12-26,445,18
+76,Til It's Gone,Kenny Chesney,8,2015-01-03,2015-02-28,392,9
+77,Riot,Rascal Flatts,27,2015-01-24,2015-07-04,383,24
+78,Going Out Like That,Reba,23,2015-01-24,2015-07-04,371,24
+79,That Don't Sound Like You,Lee Brice,25,2015-07-25,2015-12-26,357,23
+80,What We Ain't Got,Jake Owen,19,2015-01-03,2015-04-04,352,12
+81,Long Stretch Of Love,Lady Antebellum,23,2015-07-11,2015-11-07,344,18
+82,Country Nation,Brad Paisley,23,2015-09-26,2015-12-26,305,14
+83,Lay Low,Josh Turner,28,2015-01-03,2015-04-25,302,17
+84,Take It On Back,Chase Bryant,16,2015-01-03,2015-03-07,301,10
+85,Beautiful Drug,Zac Brown Band,18,2015-05-16,2015-12-26,276,13
+86,Riser,Dierks Bentley,26,2015-07-25,2015-11-28,267,19
+87,Backroad Song,Granger Smith,17,2015-04-11,2015-12-26,262,12
+88,God Made Girls,RaeLynn,7,2015-01-03,2015-01-31,246,5
+89,Biscuits,Kacey Musgraves,28,2015-04-04,2015-08-01,243,18
+90,Little Bit Of You,Chase Bryant,30,2015-09-12,2015-12-26,242,16
+91,Trailer Hitch,Kristian Bush,25,2015-01-03,2015-03-21,238,12
+92,Freestyle,Lady Antebellum,24,2015-01-03,2015-03-07,226,10
+93,(This Ain't No) Drunk Dial,A Thousand Horses,31,2015-09-12,2015-12-26,225,16
+94,Hard To Be Cool,Joe Nichols,32,2015-01-10,2015-05-09,214,18
+95,Home Alone Tonight,Luke Bryan Featuring Karen Fairchild,8,2015-08-29,2015-12-26,205,8
+96,Live Forever,The Band Perry,29,2015-09-05,2015-11-21,195,12
+97,Smokin' And Drinkin',Miranda Lambert Featuring Little Big Town,32,2015-07-18,2015-10-17,186,14
+98,I Like The Sound Of That,Rascal Flatts,29,2015-10-10,2015-12-26,182,12
+99,Trouble,Gloriana,36,2015-01-17,2015-06-06,178,21
+100,Break On Me.,Keith Urban,22,2015-11-14,2015-12-26,164,7
+101,Burnin' It Down,Jason Aldean,9,2015-01-03,2015-01-24,159,4
+102,Mr. Misunderstood,Eric Church,21,2015-11-21,2015-12-26,158,6
+103,Ride,Chase Rice,38,2015-03-07,2015-08-01,157,20
+104,My Baby's Got A Smile On Her Face,Craig Wayne Boyd,1,2015-01-03,2015-01-03,150,1
+105,Drunk Americans,Toby Keith,33,2015-01-03,2015-03-07,148,10
+106,Girl In A Country Song,Maddie & Tae,16,2015-01-03,2015-01-24,134,4
+107,Used To Love You Sober,Kane Brown,15,2015-11-07,2015-12-26,118,8
+108,Love Is Your Name,Steven Tyler,19,2015-05-30,2015-09-26,117,10
+109,Heartbeat,Carrie Underwood,26,2015-10-31,2015-12-26,117,7
+110,Make You Miss Me,Sam Hunt,35,2015-01-03,2015-03-28,117,13
+111,Traveller,Chris Stapleton,17,2015-11-21,2015-12-26,112,6
+112,Neon Light,Blake Shelton,21,2015-01-03,2015-01-24,112,4
+113,Close Your Eyes,Parmalee,11,2015-01-03,2015-01-17,107,3
+114,Nobody To Blame,Chris Stapleton,26,2015-11-21,2015-12-26,105,6
+115,Leave The Night On,Sam Hunt,10,2015-01-03,2015-01-10,102,2
+116,Somewhere In My Car,Keith Urban,16,2015-01-03,2015-01-17,102,3
+117,Cold Beer Conversation,George Strait,36,2015-10-17,2015-12-26,102,11
+118,Confession,Florida Georgia Line,29,2015-11-21,2015-12-26,101,6
+119,Blue Bandana,Jerrod Niemann,37,2015-09-12,2015-11-21,100,11
+120,White Lightning,The Cadillac Three,39,2015-07-25,2015-11-14,100,16
+121,Kiss You Tonight,David Nail,26,2015-01-03,2015-01-24,91,4
+122,Southern Style,Darius Rucker,38,2015-09-05,2015-11-07,89,10
+123,Head Over Boots,Jon Pardi,37,2015-10-31,2015-12-26,86,9
+124,I Loved Her First,Heartland,7,2015-02-21,2015-02-21,84,1
+125,It Feels Good,Drake White,38,2015-07-11,2015-09-12,81,10
+126,Night's On Fire,David Nail,38,2015-08-08,2015-12-26,75,12
+127,Dirt,Florida Georgia Line,11,2015-01-03,2015-01-10,69,2
+128,Ex To See,Sam Hunt,38,2015-01-03,2015-02-28,66,9
+129,When I'm Gone,Joey + Rory,21,2015-11-28,2015-12-12,64,3
+130,When I've Been Drinkin',Jon Pardi,36,2015-01-10,2015-02-21,64,7
+131,"Honey, I'm Good.",Andy Grammer Duet With Eli Young Band,37,2015-08-08,2015-10-03,63,8
+132,Drinkin' Town With A Football Problem,Billy Currington,41,2015-09-19,2015-11-28,63,10
+133,Gentle On My Mind,The Band Perry,36,2015-01-03,2015-02-07,59,6
+134,Sounds Of Summer,Dierks Bentley,38,2015-08-15,2015-10-03,55,7
+135,Drunk On Your Love,Brett Eldredge,35,2015-12-05,2015-12-26,54,4
+136,Spring Breakdown,Luke Bryan,33,2015-03-14,2015-04-18,53,6
+137,For A Boy,RaeLynn,32,2015-03-28,2015-08-01,49,8
+138,Speakers,Sam Hunt,46,2015-01-10,2015-11-07,48,18
+139,Crazy Over Me,Dylan Scott,36,2015-09-26,2015-12-26,47,6
+140,Country,Mo Pitney,40,2015-06-20,2015-08-22,47,10
+141,Better In Boots,Tyler Farr,37,2015-12-05,2015-12-26,46,4
+142,Turn It On,Eli Young Band,42,2015-04-25,2015-06-20,46,8
+143,Real Men Love Jesus,Michael Ray,39,2015-10-31,2015-12-26,44,7
+144,Let It Go,George Strait,29,2015-05-02,2015-10-10,43,5
+145,T-Shirt,Thomas Rhett,39,2015-09-26,2015-11-07,40,7
+146,Last Minute Late Night,Kane Brown,31,2015-11-21,2015-11-28,38,2
+147,Stone Cold Sober,Brantley Gilbert,41,2015-05-30,2015-12-26,37,5
+148,I'd Just Love To Lay You Down,Barrett Baber,16,2015-12-19,2015-12-19,35,1
+149,I'm Not Gonna Miss You,Glen Campbell,32,2015-03-07,2015-03-14,33,2
+150,What I Never Knew I Always Wanted,Carrie Underwood,32,2015-11-07,2015-11-14,32,2
+151,She's Got You,Emily Ann Roberts,21,2015-12-19,2015-12-19,30,1
+152,Girl Crush,Meghan Linsey,22,2015-05-02,2015-05-09,30,2
+153,When I Was Your Man,Thomas Rhett,27,2015-02-21,2015-02-28,30,2
+154,I'm A Man Of Constant Sorrow,Sawyer Fredericks,33,2015-03-14,2015-06-06,29,4
+155,Wanna Be That Song,Brett Eldredge,34,2015-09-26,2015-10-03,29,2
+156,Renegade Runaway,Carrie Underwood,34,2015-11-07,2015-11-14,27,2
+157,Whiskey And You,Chris Stapleton,35,2015-11-21,2015-11-28,27,2
+158,9 To 5,Emily Ann Roberts,25,2015-12-26,2015-12-26,26,1
+159,Roots And Wings,Miranda Lambert,32,2015-06-13,2015-06-20,26,2
+160,Kill The Lights,Luke Bryan,35,2015-08-22,2015-09-05,25,3
+161,Yup,Easton Corbin,45,2015-10-03,2015-12-12,25,7
+162,Should've Ran After You,Cole Swindell,27,2015-11-21,2015-11-21,24,1
+163,Shotgun,Christina Aguilera,28,2015-05-09,2015-05-09,23,1
+164,Tennessee Whiskey,Meghan Linsey,28,2015-05-30,2015-05-30,23,1
+165,In Pictures,Craig Wayne Boyd,28,2015-01-03,2015-01-03,23,1
+166,All Country On You,Austin Webb,42,2015-07-04,2015-08-08,22,6
+167,Mind Reader,Dustin Lynch,45,2015-12-05,2015-12-26,22,4
+168,Hearts I Leave Behind,Pete Scobell Band Featuring Wynonna Judd,30,2015-03-14,2015-03-14,21,1
+169,The Climb,Zach Seabaugh,30,2015-12-26,2015-12-26,21,1
+170,The Old Rugged Cross,Craig Wayne Boyd,30,2015-01-03,2015-01-03,21,1
+171,I Love That I Hate You,Kane Brown,35,2015-12-19,2015-12-26,21,2
+172,Ghost,Barrett Baber,32,2015-12-26,2015-12-26,19,1
+173,Why Not Me,Emily Ann Roberts,33,2015-12-12,2015-12-19,19,2
+174,Boots On,Craig Wayne Boyd & Blake Shelton,33,2015-01-03,2015-01-03,18,1
+175,Go Rest High On That Mountain,Shelby Brown,33,2015-12-19,2015-12-19,18,1
+176,The Driver,Charles Kelley Featuring Dierks Bentley & Eric Paslay,41,2015-10-31,2015-11-07,18,2
+177,In The Garden,Emily Ann Roberts,34,2015-11-28,2015-11-28,17,1
+178,You Look Like I Need A Drink,Justin Moore,34,2015-11-21,2015-11-21,17,1
+179,Tomorrow Never Comes,Zac Brown Band,37,2015-05-16,2015-05-23,17,2
+180,Fire Away,Chris Stapleton,41,2015-11-21,2015-12-05,17,3
+181,"Huntin', Fishin' & Lovin' Every Day",Luke Bryan,38,2015-08-22,2015-08-29,16,2
+182,Jim And Jack And Hank,Alan Jackson,41,2015-08-01,2015-08-15,16,3
+183,Right Here Waiting,Barrett Baber,36,2015-12-05,2015-12-05,15,1
+184,Snapback,Old Dominion,41,2015-12-05,2015-12-26,15,4
+185,Shut Up And Fish,Maddie & Tae,37,2015-12-26,2015-12-26,14,1
+186,Wild Ones,Kip Moore,37,2015-09-12,2015-09-12,14,1
+187,Think Of You,Chris Young Duet With Cassadee Pope,37,2015-11-14,2015-11-14,14,1
+188,To The Moon And Back,Luke Bryan,37,2015-08-29,2015-08-29,14,1
+189,Lights Down Low,Jessie James Decker,38,2015-09-05,2015-09-05,13,1
+190,When I See You Smile,Corey Kent White,38,2015-05-16,2015-05-16,13,1
+191,The Girl You Think I Am,Carrie Underwood,38,2015-11-14,2015-11-14,13,1
+192,Like I'll Never Love You Again,Carrie Underwood,39,2015-11-14,2015-11-14,12,1
+193,I Will Never Let You Know,Clare Bowen & Sam Palladio,39,2015-05-30,2015-05-30,12,1
+194,Next Boyfriend,Lauren Alaina,39,2015-10-10,2015-10-10,12,1
+195,You And The Beach,Luke Bryan,39,2015-03-28,2015-03-28,12,1
+196,Playing With Fire,Thomas Rhett Featuring Jordin Sparks,40,2015-10-17,2015-10-17,11,1
+197,Friend Zone,Danielle Bradbery,41,2015-09-19,2015-09-26,11,2
+198,Amnesia,Josh Abbott Band,45,2015-09-12,2015-10-24,10,2
+199,Broke My Heart,David Nail,46,2015-08-22,2015-10-03,10,3
+200,Way Way Back,Luke Bryan,42,2015-08-29,2015-08-29,9,1
+201,Come Over,Sam Hunt,42,2015-11-21,2015-11-21,9,1
+202,Move,Luke Bryan,43,2015-08-29,2015-08-29,8,1
+203,Blame It On Your Heart,Emily Ann Roberts,43,2015-12-05,2015-12-05,8,1
+204,Where It All Begins,Hunter Hayes Featuring Lady Antebellum,45,2015-06-27,2015-08-01,8,3
+205,Dime Store Cowgirl,Kacey Musgraves,44,2015-07-11,2015-07-11,7,1
+206,Might As Well Get Stoned,Chris Stapleton,44,2015-11-28,2015-11-28,7,1
+207,Just A Taste,Brett Eldredge,44,2015-08-15,2015-08-15,7,1
+208,My Ol' Bronco,Luke Bryan,44,2015-03-28,2015-03-28,7,1
+209,To Make You Feel My Love,Corey Kent White,44,2015-04-25,2015-04-25,7,1
+210,Outlaw State Of Mind,Chris Stapleton,45,2015-11-28,2015-11-28,6,1
+211,Rum Is The Reason,Toby Keith,45,2015-10-03,2015-10-03,6,1
+212,Steal My Kiss,Taylor Ray Holbrook,45,2015-06-27,2015-06-27,6,1
+213,Read Me My Rights,Brantley Gilbert,46,2015-06-06,2015-06-06,5,1
+214,Hurricane,Luke Combs,46,2015-07-04,2015-07-04,5,1
+215,Are You Gonna Kiss Me Or Not,Zach Seabaugh,46,2015-12-12,2015-12-12,5,1
+216,Damn Good Friends,Tyler Farr Duet With Jason Aldean,46,2015-05-16,2015-05-16,5,1
+217,Delta Dawn,Barrett Baber,47,2015-12-12,2015-12-12,4,1
+218,The Day You Stop Lookin' Back,Thomas Rhett,47,2015-10-17,2015-10-17,4,1
+219,Dirty Laundry,Carrie Underwood,47,2015-11-14,2015-11-14,4,1
+220,Withdrawals,Tyler Farr,47,2015-08-08,2015-08-08,4,1
+221,City Boy Stuck,Granger Smith,47,2015-05-23,2015-05-23,4,1
+222,I Walk The Line,Craig Wayne Boyd,47,2015-01-03,2015-01-03,4,1
+223,Crazy Little Thing Called Love,Zach Seabaugh,47,2015-12-19,2015-12-19,4,1
+224,Even God Must Get The Blues,Shelby Brown,47,2015-12-26,2015-12-26,4,1
+225,Mom,Garth Brooks,49,2015-01-17,2015-01-31,4,2
+226,Like It's The Last Time,Thomas Rhett,48,2015-10-17,2015-10-17,3,1
+227,Move On,Clare Dunn,48,2015-10-31,2015-10-31,3,1
+228,Relapse,Carrie Underwood,48,2015-11-14,2015-11-14,3,1
+229,It's All Going To Pot,Willie Nelson / Merle Haggard,48,2015-05-09,2015-05-09,3,1
+230,Hangover Tonight,Gary Allan,49,2015-03-21,2015-04-04,3,2
+231,Church Bells,Carrie Underwood,49,2015-11-14,2015-11-14,2,1
+232,Fast,Luke Bryan,49,2015-08-29,2015-08-29,2,1
+233,Why,Corey Kent White,49,2015-05-02,2015-05-02,2,1
+234,Freaks Like Me,Joe Nichols,49,2015-10-10,2015-10-10,2,1
+235,Angels And Alcohol,Alan Jackson,49,2015-08-08,2015-08-08,2,1
+236,Wake Up When It's Over,Clare Bowen & Sam Palladio,49,2015-10-17,2015-10-17,2,1
+237,Brand New Girlfriend,Zach Seabaugh,49,2015-11-28,2015-11-28,2,1
+238,Parachute,Chris Stapleton,50,2015-11-28,2015-11-28,1,1
+239,I'll Be Your Man (Song For A Daughter),Zac Brown Band,50,2015-05-16,2015-05-16,1,1
+240,Another Girl,Michael Ray,50,2015-08-22,2015-08-22,1,1
+241,This Kind Of Town,Justin Moore,50,2015-02-07,2015-02-07,1,1
+242,Let's Ride,Easton Corbin,50,2015-08-08,2015-08-08,1,1

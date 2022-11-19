@@ -1,0 +1,343 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,My Maria,Brooks & Dunn,1,1996-04-06,1996-08-17,1961,20
+2,Blue Clear Sky,George Strait,1,1996-04-06,1996-08-17,1885,20
+3,Time Marches On,Tracy Lawrence,1,1996-03-23,1996-08-03,1737,20
+4,Daddy's Money,Ricochet,1,1996-04-27,1996-09-07,1652,20
+5,You Win My Love,Shania Twain,1,1996-02-24,1996-07-06,1613,20
+6,Like The Rain,Clint Black,1,1996-09-07,1996-12-28,1594,17
+7,She Never Lets It Go To Her Heart,Tim McGraw,1,1996-06-22,1996-11-02,1589,20
+8,Carried Away,George Strait,1,1996-05-18,1996-09-28,1569,20
+9,No News,Lonestar,1,1996-01-13,1996-05-25,1568,20
+10,You Can Feel Bad,Patty Loveless,1,1996-01-06,1996-05-11,1560,19
+11,No One Needs To Know,Shania Twain,1,1996-05-11,1996-09-21,1551,20
+12,Hypnotize The Moon,Clay Walker,2,1996-01-13,1996-05-25,1538,20
+13,Strawberry Wine,Deana Carter,1,1996-08-17,1996-12-28,1535,20
+14,Living In A Moment,Ty Herndon,1,1996-06-29,1996-11-09,1523,20
+15,Guys Do It All The Time,Mindy McCready,1,1996-06-08,1996-10-19,1491,20
+16,So Much For Pretending,Bryan White,1,1996-06-29,1996-11-09,1491,20
+17,I Think About You,Collin Raye,3,1996-03-09,1996-07-20,1491,20
+18,Lonely Too Long,Patty Loveless,1,1996-08-24,1996-12-28,1480,19
+19,Believe Me Baby (I Lied),Trisha Yearwood,1,1996-07-13,1996-11-23,1466,20
+20,I'll Try,Alan Jackson,1,1996-01-06,1996-05-11,1461,19
+21,(If You're Not In It For Love) I'm Outta Here!,Shania Twain,1,1996-01-06,1996-03-30,1454,13
+22,To Be Loved By You,Wynonna,1,1996-01-06,1996-05-18,1454,20
+23,On A Good Night,Wade Hayes,2,1996-05-11,1996-09-21,1451,20
+24,Walkin' Away,Diamond Rio,2,1996-01-06,1996-04-27,1434,17
+25,Does That Blue Moon Ever Shine On You,Toby Keith,2,1996-03-09,1996-07-20,1418,20
+26,I Don't Think I Will,James Bonamy,2,1996-05-11,1996-09-28,1418,21
+27,Don't Get Me Started,Rhett Akins,1,1996-03-30,1996-08-17,1412,21
+28,Every Time I Get Around You,David Lee Murphy,2,1996-03-23,1996-08-03,1412,20
+29,The Fear Of Being Alone,Reba McEntire,2,1996-10-05,1996-12-28,1402,13
+30,I'm Not Supposed To Love You Anymore,Bryan White,4,1996-03-02,1996-07-13,1398,20
+31,Learning As You Go,Rick Trevino,2,1996-06-01,1996-10-12,1397,20
+32,Home,Alan Jackson,3,1996-04-20,1996-08-31,1396,20
+33,You Gotta Love That,Neal McCoy,3,1996-01-06,1996-05-18,1361,20
+34,Bigger Than The Beatles,Joe Diffie,1,1996-01-06,1996-04-13,1359,15
+35,Wild Angels,Martina McBride,1,1996-01-06,1996-04-13,1352,15
+36,Heart's Desire,Lee Roy Parnell,3,1996-01-20,1996-06-01,1348,20
+37,Me And You,Kenny Chesney,2,1996-07-20,1996-11-30,1346,20
+38,The Beaches Of Cheyenne,Garth Brooks,1,1996-01-06,1996-04-20,1345,16
+39,Someone Else's Dream,Faith Hill,3,1996-02-24,1996-07-06,1340,20
+40,"Heads Carolina, Tails California",Jo Dee Messina,2,1996-01-27,1996-06-08,1321,20
+41,Every Light In The House,Trace Adkins,3,1996-08-24,1996-12-28,1315,19
+42,I Am That Man,Brooks & Dunn,2,1996-04-27,1996-10-05,1308,20
+43,I Can Still Make Cheyenne,George Strait,4,1996-08-24,1996-12-28,1300,19
+44,More Than You'll Ever Know,Travis Tritt,3,1996-07-27,1996-12-07,1285,20
+45,I Do,Paul Brandt,2,1996-06-08,1996-11-09,1278,23
+46,It Matters To Me,Faith Hill,1,1996-01-06,1996-03-23,1277,12
+47,That's What I Get For Lovin' You,Diamond Rio,4,1996-05-04,1996-09-14,1275,20
+48,Treat Her Right,Sawyer Brown,3,1996-03-23,1996-08-10,1268,21
+49,Little Bitty,Alan Jackson,1,1996-10-26,1996-12-28,1267,10
+50,Stars Over Texas,Tracy Lawrence,2,1996-07-27,1996-12-07,1263,20
+51,Then You Can Tell Me Goodbye,Neal McCoy,4,1996-05-18,1996-09-28,1241,20
+52,If You Loved Me,Tracy Lawrence,4,1996-01-06,1996-04-27,1228,17
+53,The Road You Leave Behind,David Lee Murphy,5,1996-08-03,1996-12-14,1225,20
+54,I Know She Still Loves Me,George Strait,5,1996-01-06,1996-05-04,1212,18
+55,It's What I Do,Billy Dean,5,1996-02-03,1996-06-15,1209,20
+56,Long As I Live,John Michael Montgomery,4,1996-03-02,1996-07-13,1203,20
+57,"Only On Days That End In ""Y""",Clay Walker,5,1996-05-25,1996-10-05,1190,20
+58,Ten Thousand Angels,Mindy McCready,6,1996-02-03,1996-07-06,1187,23
+59,It's Midnight Cinderella,Garth Brooks,5,1996-01-27,1996-09-21,1152,31
+60,If I Were You,Terri Clark,8,1996-03-09,1996-07-20,1146,20
+61,Meant To Be,Sammy Kershaw,5,1996-03-23,1996-08-03,1141,20
+62,Worlds Apart,Vince Gill,5,1996-07-20,1996-11-30,1131,20
+63,My Heart Has A History,Paul Brandt,5,1996-03-09,1996-08-03,1122,22
+64,All I Want Is A Life,Tim McGraw,5,1996-01-20,1996-06-01,1109,20
+65,Too Much Fun,Daryle Singletary,4,1996-01-06,1996-04-20,1101,16
+66,Not That Different,Collin Raye,3,1996-01-06,1996-03-30,1100,13
+67,That Girl's Been Spyin' On Me,Billy Dean,4,1996-06-15,1996-10-26,1081,20
+68,It Wouldn't Hurt To Have Wings,Mark Chesnutt,7,1996-01-06,1996-05-11,1075,19
+69,You Can't Lose Me,Faith Hill,6,1996-07-13,1996-11-23,1074,20
+70,The Maker Said Take Her,Alabama,4,1996-07-20,1996-11-30,1069,20
+71,Goodnight Sweetheart,David Kersh,6,1996-08-03,1996-12-28,1056,22
+72,Jacob's Ladder,Mark Wills,6,1996-06-08,1996-10-19,1044,20
+73,Cowboy Love,John Michael Montgomery,4,1996-01-06,1996-03-30,1034,13
+74,You're Not In Kansas Anymore,Jo Dee Messina,7,1996-07-06,1996-11-16,1033,20
+75,Love Is Stronger Than Pride,Ricochet,9,1996-08-17,1996-12-28,1010,20
+76,That Ol' Wind,Garth Brooks,4,1996-10-05,1996-12-28,1008,13
+77,A Woman's Touch,Toby Keith,6,1996-07-13,1996-11-23,999,20
+78,The River And The Highway,Pam Tillis,8,1996-01-27,1996-06-08,989,20
+79,What Do I Know,Ricochet,5,1996-01-06,1996-04-27,984,17
+80,Runnin' Away With My Heart,Lonestar,8,1996-05-25,1996-10-05,979,20
+81,Holdin' On To Something,Jeff Carson,6,1996-03-02,1996-07-13,957,20
+82,Love Remains,Collin Raye,12,1996-07-13,1996-11-23,951,20
+83,Change My Mind,John Berry,10,1996-07-27,1996-12-07,942,20
+84,Not Enough Hours In The Night,Doug Supernaw,3,1996-01-06,1996-03-02,941,9
+85,One Way Ticket (Because I Can),LeAnn Rimes,1,1996-09-28,1996-12-28,935,14
+86,Heaven Help My Heart,Wynonna,14,1996-04-27,1996-09-07,927,20
+87,When Boy Meets Girl,Terri Clark,3,1996-01-06,1996-03-09,925,10
+88,All You Ever Do Is Bring Me Down,The Mavericks (Featuring Flaco Jimenez),13,1996-01-20,1996-06-01,911,20
+89,Almost A Memory Now,BlackHawk,11,1996-02-24,1996-07-06,904,20
+90,Like There Ain't No Yesterday,BlackHawk,3,1996-01-06,1996-03-23,900,12
+91,Vidalia,Sammy Kershaw,10,1996-07-27,1996-12-07,898,20
+92,A Thousand Times A Day,Patty Loveless,13,1996-04-13,1996-08-24,891,20
+93,Givin' Water To A Drowning Man,Lee Roy Parnell,12,1996-05-18,1996-09-28,864,20
+94,Blue,LeAnn Rimes,10,1996-05-25,1996-10-05,854,20
+95,Big Love,Tracy Byrd,5,1996-09-21,1996-12-28,852,15
+96,High Lonesome Sound,Vince Gill,12,1996-04-13,1996-08-24,847,20
+97,It's Lonely Out There,Pam Tillis,14,1996-06-08,1996-10-19,846,20
+98,"Poor, Poor Pitiful Me",Terri Clark,5,1996-10-12,1996-12-28,818,12
+99,That's Enough Of That,Mila Mason,18,1996-08-17,1996-12-28,814,20
+100,What I Meant To Say,Wade Hayes,5,1996-01-06,1996-03-09,806,10
+101,Starting Over Again,Reba McEntire,19,1996-03-30,1996-08-10,784,20
+102,Her Man,Gary Allan,10,1996-08-24,1996-12-28,779,19
+103,Some Things Are Meant To Be,Linda Davis,13,1996-01-06,1996-04-13,779,15
+104,Can't Be Really Gone,Tim McGraw,2,1996-01-06,1996-02-24,771,8
+105,It Works,Alabama,19,1996-01-13,1996-05-25,769,20
+106,Heaven In My Woman's Eyes,Tracy Byrd,14,1996-02-03,1996-06-15,768,20
+107,There's A Girl In Texas,Trace Adkins,20,1996-04-13,1996-08-24,766,20
+108,4 To 1 In Atlanta,Tracy Byrd,21,1996-05-25,1996-10-05,753,20
+109,By My Side,Lorrie Morgan & Jon Randall,18,1996-04-06,1996-08-17,748,20
+110,Irresistible You,Ty England,22,1996-08-10,1996-12-21,743,20
+111,It's All In Your Head,Diamond Rio,15,1996-08-24,1996-12-28,727,19
+112,Out With A Bang,David Lee Murphy,13,1996-01-06,1996-04-06,721,14
+113,Big Guitar,BlackHawk,17,1996-06-15,1996-10-26,721,20
+114,Honky Tonkin's What I Do Best,Marty Stuart & Travis Tritt,23,1996-04-20,1996-08-31,712,20
+115,"Ready, Willing And Able",Lari White,20,1996-01-06,1996-04-27,703,17
+116,Rebecca Lynn,Bryan White,1,1996-01-06,1996-02-17,700,7
+117,Mama Don't Get Dressed Up For Nothing,Brooks & Dunn,13,1996-09-14,1996-12-28,699,16
+118,Whole Lotta Gone,Joe Diffie,23,1996-06-22,1996-11-02,686,20
+119,"Ring On Her Finger, Time On Her Hands",Reba McEntire,9,1996-01-06,1996-03-23,674,12
+120,Nobody Knows,Kevin Sharp,6,1996-09-28,1996-12-28,668,14
+121,Maybe We Should Just Sleep On It,Tim McGraw,9,1996-10-12,1996-12-28,634,12
+122,Phones Are Ringin' All Over Town,Martina McBride,28,1996-04-06,1996-08-10,613,19
+123,The Change,Garth Brooks,19,1996-02-17,1996-07-27,610,19
+124,C-O-U-N-T-R-Y,Joe Diffie,23,1996-03-02,1996-07-13,609,20
+125,Let Me Into Your Heart,Mary Chapin Carpenter,12,1996-10-05,1996-12-28,602,13
+126,She's Got A Mind Of Her Own,James Bonamy,26,1996-01-06,1996-04-27,578,17
+127,Life Gets Away,Clint Black,4,1996-01-06,1996-02-24,566,8
+128,Bury The Shovel,Clay Walker,18,1996-09-28,1996-12-28,557,14
+129,What Will You Do With M-e,Western Flyer,32,1996-08-03,1996-12-14,545,20
+130,Without Your Love,Aaron Tippin,22,1996-02-03,1996-05-18,544,16
+131,The Car,Jeff Carson,5,1996-01-06,1996-02-17,540,7
+132,Who's That Girl,Stephanie Bentley,32,1996-02-03,1996-06-15,539,20
+133,Ain't Got Nothin' On Us,John Michael Montgomery,15,1996-09-14,1996-12-14,532,14
+134,She Said Yes,Rhett Akins,17,1996-01-06,1996-03-16,526,11
+135,'Round Here,Sawyer Brown,19,1996-01-06,1996-04-06,525,14
+136,Are We In Trouble Now,Randy Travis,24,1996-06-15,1996-10-05,520,17
+137,Friends,John Michael Montgomery,8,1996-10-19,1996-12-28,511,11
+138,Would I,Randy Travis,25,1996-10-05,1996-12-28,491,13
+139,Paradise,John Anderson,26,1996-01-06,1996-04-27,491,16
+140,"Wrong Place, Wrong Time",Mark Chesnutt,37,1996-05-04,1996-09-28,489,20
+141,A Love Story In The Making,Linda Davis,33,1996-04-13,1996-08-24,487,19
+142,Grandpa Told Me So,Kenny Chesney,23,1996-01-06,1996-03-23,481,12
+143,It's A Little Too Late,Mark Chesnutt,14,1996-10-05,1996-12-28,463,13
+144,I Can't Do That Anymore,Faith Hill,17,1996-10-19,1996-12-28,461,11
+145,That's Another Song,Bryan White,19,1996-10-19,1996-12-28,460,11
+146,Is That A Tear,Tracy Lawrence,11,1996-11-02,1996-12-28,453,9
+147,"Another You, Another Me",Brady Seals,36,1996-09-07,1996-12-28,446,17
+148,"Tall, Tall Trees",Alan Jackson,15,1996-01-06,1996-03-02,427,9
+149,Home Ain't Where His Heart Is (Anymore),Shania Twain,28,1996-08-10,1996-11-09,425,14
+150,Standing Tall,Lorrie Morgan,32,1996-01-06,1996-04-13,411,15
+151,Deep Down,Pam Tillis,6,1996-01-06,1996-02-17,389,7
+152,Heart Half Empty,Ty Herndon Featuring Stephanie Bentley,21,1996-01-06,1996-02-24,378,8
+153,Suddenly Single,Terri Clark,34,1996-07-13,1996-09-28,373,12
+154,Swingin' Doors,Martina McBride,38,1996-08-31,1996-12-07,373,15
+155,Maybe He'll Notice Her Now,Mindy McCready (Featuring Lonestar's Richie McDonald),24,1996-10-12,1996-12-28,371,12
+156,Everybody Knows,Trisha Yearwood,13,1996-11-09,1996-12-28,366,8
+157,Pretty Little Adriana,Vince Gill,15,1996-11-09,1996-12-28,363,8
+158,The Love That We Lost,Chely Wright,41,1996-02-10,1996-05-18,355,15
+159,Running Out Of Reasons To Run,Rick Trevino,22,1996-10-26,1996-12-28,352,10
+160,Amen Kind Of Love,Daryle Singletary,23,1996-10-12,1996-12-28,346,12
+161,Every Time My Heart Calls Your Name,John Berry,34,1996-02-17,1996-04-27,343,11
+162,Love You Back,Rhett Akins,38,1996-09-07,1996-11-30,341,13
+163,"Going, Going, Gone",Neal McCoy,35,1996-09-28,1996-12-07,324,11
+164,Back In My Arms Again,Kenny Chesney,41,1996-04-06,1996-07-27,317,16
+165,Redneck Games,Jeff Foxworthy With Alan Jackson,42,1996-06-08,1996-08-24,317,12
+166,What If Jesus Comes Back Like That,Collin Raye,26,1996-01-06,1996-12-28,312,13
+167,Even If I Tried,Emilio,41,1996-01-20,1996-05-11,300,15
+168,Now That's All Right With Me,Mandy Barnett,43,1996-01-13,1996-05-04,295,16
+169,Years From Here,Baker & Myers,48,1996-02-10,1996-06-01,295,17
+170,1969,Keith Stegall,43,1996-01-27,1996-04-20,289,13
+171,High Low And In Between,Mark Wills,33,1996-10-12,1996-12-28,286,11
+172,Cherokee Boogie,BR549,44,1996-09-21,1996-12-21,280,14
+173,Why Can't You,Larry Stewart,46,1996-07-06,1996-10-12,273,15
+174,All I Do Is Love Her,James Bonamy,35,1996-10-26,1996-12-28,270,10
+175,Born In The Dark,Doug Stone,12,1996-01-06,1996-02-03,269,5
+176,Check Yes Or No,George Strait,19,1996-01-06,1996-02-03,269,5
+177,Country Crazy,Little Texas,44,1996-01-06,1996-03-23,254,12
+178,"Always Have, Always Will",Shenandoah,40,1996-01-06,1996-03-16,252,11
+179,When Cowboys Didn't Dance,Lonestar,45,1996-09-28,1996-12-14,247,12
+180,All Over But The Shoutin',Shenandoah,43,1996-02-24,1996-05-11,246,12
+181,We All Get Lucky Sometimes,Lee Roy Parnell,46,1996-09-21,1996-12-21,240,14
+182,Love Lessons,Tracy Byrd,9,1996-01-06,1996-01-20,239,3
+183,She Wants To Be Wanted Again,Ty Herndon,34,1996-11-02,1996-12-28,239,9
+184,In Pictures,Alabama,29,1996-01-06,1996-02-10,237,6
+185,If I Had Any Pride Left At All,John Berry,28,1996-01-06,1996-04-13,235,9
+186,Cat's In The Cradle,Ricky Skaggs,45,1996-04-20,1996-06-29,234,11
+187,Where Do I Go To Start All Over,Wade Hayes,42,1996-10-05,1996-11-30,231,9
+188,Half Way Up,Clint Black,18,1996-11-30,1996-12-28,229,5
+189,You Can't Stop Love,Marty Stuart,39,1996-10-26,1996-12-28,229,10
+190,I Just Might Be,Lorrie Morgan,45,1996-08-10,1996-10-26,224,12
+191,That's As Close As I'll Get To Loving You,Aaron Tippin,8,1996-01-06,1996-01-20,220,3
+192,Circle Of Friends,David Ball,49,1996-05-04,1996-06-29,216,9
+193,My Angel Is Here,Wynonna,44,1996-08-31,1996-11-02,215,10
+194,Say I,Alabama,38,1996-05-18,1996-06-29,206,7
+195,Hurt Me,LeAnn Rimes,43,1996-07-27,1996-09-28,202,10
+196,She's Gettin' There,Sawyer Brown,46,1996-08-17,1996-10-19,201,10
+197,Everything I Own,Aaron Tippin,51,1996-06-01,1996-08-10,199,11
+198,Workin' It Out,Daryle Singletary,50,1996-05-11,1996-07-13,195,10
+199,Me Too,Toby Keith,29,1996-11-23,1996-12-28,194,6
+200,That Was Him (This Is Now),4 Runner,54,1996-07-06,1996-09-21,189,12
+201,Where Corn Don't Grow,Travis Tritt,28,1996-11-23,1996-12-28,188,6
+202,I Never Stopped Lovin' You,Steve Azar,50,1996-07-06,1996-10-12,188,15
+203,"Politics, Religion And Her",Sammy Kershaw,40,1996-11-09,1996-12-28,184,8
+204,King Of The World,BlackHawk,49,1996-10-26,1996-12-21,180,9
+205,I Wouldn't Be A Man,Billy Dean,45,1996-11-02,1996-12-28,178,9
+206,Someday,Steve Azar,51,1996-03-16,1996-05-18,177,10
+207,Nothing,Dwight Yoakam,25,1996-01-06,1996-02-24,173,8
+208,Long Hard Lesson Learned,John Anderson,51,1996-03-09,1996-05-11,173,10
+209,Let Your Heart Lead Your Mind,Smokin' Armadillos,53,1996-01-13,1996-03-16,173,10
+210,When A Woman Loves A Man,Lee Roy Parnell,12,1996-01-06,1996-01-20,172,3
+211,I Meant To Do That,Paul Brandt,41,1996-11-16,1996-12-28,171,7
+212,Nobody's Girl,Michelle Wright,50,1996-07-13,1996-09-14,171,10
+213,She Never Looks Back,Doug Supernaw,51,1996-03-09,1996-05-11,168,10
+214,A Man This Lonely,Brooks & Dunn,21,1996-12-07,1996-12-28,166,4
+215,Who Needs You Baby,Clay Walker,32,1996-01-06,1996-01-27,164,4
+216,Gone (That'll Be Me),Dwight Yoakam,51,1996-02-03,1996-03-23,163,8
+217,See Ya,Confederate Railroad,51,1996-05-25,1996-07-20,155,9
+218,Love Worth Fighting For,Burnin' Daylight,49,1996-10-19,1996-12-28,154,11
+219,Thanks To You,Marty Stuart,50,1996-08-17,1996-10-19,154,10
+220,Check Please,Paul Jefferson,50,1996-05-18,1996-07-27,154,10
+221,Redneck 12 Days Of Christmas,Jeff Foxworthy,18,1996-01-06,1996-12-28,151,5
+222,That's How I Got To Memphis,Deryl Dodd,44,1996-11-09,1996-12-28,151,8
+223,Every Time She Passes By,George Ducas,57,1996-06-08,1996-12-21,146,12
+224,No Way Out,Suzy Bogguss,53,1996-09-14,1996-11-09,145,9
+225,Only You (And You Alone),Travis Tritt,51,1996-01-20,1996-03-09,144,8
+226,Little Drops Of My Heart,Keith Gattis,53,1996-03-30,1996-05-25,142,9
+227,Hangin' On,Rich McCready,58,1996-01-27,1996-03-30,140,10
+228,Smoke In Her Eyes,Ty England,44,1996-01-06,1996-02-10,139,6
+229,You Still Got Me,Doug Supernaw,53,1996-06-08,1996-08-10,136,9
+230,Missing You,The Mavericks,54,1996-06-22,1996-08-24,136,10
+231,Whiskey Under The Bridge,Brooks & Dunn,48,1996-01-06,1996-02-03,135,5
+232,Wild At Heart,Lari White,52,1996-05-18,1996-06-29,133,7
+233,Remember The Ride,Perfect Stranger,56,1996-02-17,1996-04-20,128,10
+234,She Got What She Deserves,Frazier River,57,1996-02-10,1996-04-06,118,9
+235,Heartbroke Every Day,Lonestar,43,1996-12-07,1996-12-28,115,4
+236,Picture Perfect,The Sky Kings,52,1996-04-20,1996-06-01,114,7
+237,Ripples,4 Runner,57,1996-01-20,1996-03-16,111,9
+238,Once I Was The Light Of Your Life,Stephanie Bentley,60,1996-07-27,1996-12-28,111,15
+239,She's Taken A Shine,John Berry,40,1996-12-07,1996-12-28,110,4
+240,Do You Wanna Make Something Of It,Jo Dee Messina,53,1996-11-16,1996-12-28,110,7
+241,I Think We're On To Something,Emilio,56,1996-05-11,1996-06-22,110,7
+242,Stranger In Your Eyes,Ken Mellons,55,1996-04-27,1996-06-15,107,8
+243,Dancin' With The Wind,Great Plains,58,1996-05-25,1996-07-20,104,9
+244,Redneck Son,Ty England,55,1996-02-24,1996-04-06,102,7
+245,She's Every Woman,Garth Brooks,42,1996-01-06,1996-01-20,99,3
+246,Thinkin' Strait,Rich McCready,53,1996-04-27,1996-06-01,98,6
+247,Remember When,Ray Vega,56,1996-11-16,1996-12-28,98,7
+248,Just When I Needed You Most,Dolly Parton,62,1996-10-05,1996-12-07,96,10
+249,You'd Think He'd Know Me Better,Bobbie Cryner,56,1996-03-02,1996-04-13,93,7
+250,Have We Forgotten What Love Is,Crystal Bernard,57,1996-11-02,1996-12-28,90,9
+251,She Can't Save Him,Lisa Brokop,55,1996-01-06,1996-02-10,84,6
+252,Leroy The Redneck Reindeer,Joe Diffie,33,1996-01-06,1996-12-28,83,4
+253,God Bless The Child,Shania Twain,50,1996-11-30,1996-12-28,83,5
+254,You Just Get One,Jeff Wood,58,1996-11-02,1996-12-28,82,9
+255,Life Goes On,Little Texas,35,1996-01-06,1996-01-13,81,2
+256,I Will Always Love You,Dolly Parton & Vince Gill,53,1996-01-06,1996-01-27,80,4
+257,Give Me Some Wheels,Suzy Bogguss,60,1996-06-01,1996-07-06,79,6
+258,We Danced Anyway,Deana Carter,42,1996-12-14,1996-12-28,78,3
+259,Tell Me Again,Tammy Graham,63,1996-05-11,1996-07-13,77,8
+260,Back In Your Arms Again,Lorrie Morgan,38,1996-01-06,1996-01-13,76,2
+261,Kiss The Girl,Little Texas,60,1996-10-19,1996-12-28,76,10
+262,Go Rest High On That Mountain,Vince Gill,35,1996-01-06,1996-01-13,73,2
+263,Somebody To Love You,Wynonna,55,1996-11-16,1996-12-21,73,6
+264,Solid Ground,Ricky Skaggs,57,1996-01-06,1996-03-02,68,8
+265,King Of The Mountain,George Strait,38,1996-12-21,1996-12-28,66,2
+266,Sorry You Asked?,Dwight Yoakam,59,1996-04-20,1996-05-18,63,5
+267,The Fever,Garth Brooks,61,1996-01-06,1996-03-30,63,8
+268,That Woman Of Mine,Neal McCoy,49,1996-12-14,1996-12-28,59,3
+269,Rub-A-Dubbin',Ken Mellons,63,1996-01-13,1996-02-17,58,6
+270,Before He Kissed Me,Lisa Brokop,63,1996-03-23,1996-05-04,57,7
+271,Goin' Goin' Gone,Thrasher Shiver,65,1996-08-10,1996-09-14,57,6
+272,Lady's Man,Rob Crosby,64,1996-01-20,1996-02-24,55,6
+273,That Last Mile,Jeff Carson,62,1996-08-10,1996-09-14,53,6
+274,Trouble,Mark Chesnutt,63,1996-01-13,1996-02-10,53,5
+275,Hope,Various Artists,57,1996-05-04,1996-05-25,50,4
+276,All I Want For Christmas Is You,Vince Vance & The Valiants,52,1996-01-06,1996-12-28,46,2
+277,"Let It Snow, Let It Snow, Let It Snow",Ricochet,51,1996-12-14,1996-12-28,44,3
+278,On A Bus To St. Cloud,Trisha Yearwood,59,1996-01-13,1996-01-27,44,3
+279,Tangled Up In Texas,Frazier River,67,1996-06-22,1996-08-10,44,8
+280,Holdin',Diamond Rio,52,1996-12-14,1996-12-28,43,3
+281,Betty's Got A Bass Boat,Pam Tillis,62,1996-10-12,1996-11-02,43,4
+282,Maybe,Mandy Barnett,65,1996-05-18,1996-06-22,42,6
+283,It's Over My Head,Wade Hayes,55,1996-12-21,1996-12-28,41,2
+284,Honky Tonk Song,George Jones,66,1996-09-14,1996-10-19,41,6
+285,Silver Tongue And Goldplated Lies,K.T. Oslin,64,1996-08-31,1996-09-28,39,5
+286,Every Cowboy's Dream,Rhett Akins,62,1996-12-07,1996-12-28,37,4
+287,Breaking Hearts And Taking Names,David Kersh,65,1996-05-04,1996-06-01,37,5
+288,Santa Claus Is Comin' (In A Boogie Woogie Choo Choo Train),The Tractors,43,1996-01-06,1996-01-13,36,2
+289,I Only Want You For Christmas,Alan Jackson,48,1996-01-06,1996-01-13,36,2
+290,Unchained Melody,LeAnn Rimes,59,1996-12-21,1996-12-28,33,2
+291,She Drew A Broken Heart,Patty Loveless,53,1996-12-21,1996-12-28,31,2
+292,Santa I'm Right Here,Toby Keith,50,1996-01-06,1996-01-13,30,2
+293,My Kind Of Crazy,John Anderson,67,1996-06-22,1996-07-13,29,4
+294,I Don't Care If You Love Me Anymore,The Mavericks,65,1996-11-16,1996-12-28,28,5
+295,O Holy Night,John Berry,55,1996-01-06,1996-01-13,27,2
+296,Gravitational Pull,Chris LeDoux,71,1996-04-20,1996-06-15,27,9
+297,Trail Of Tears,Billy Ray Cyrus,69,1996-08-31,1996-09-28,25,5
+298,From Where I Stand,Kim Richey,66,1996-04-20,1996-05-04,24,3
+299,Til' Santa's Gone (I Just Can't Wait),Clint Black,58,1996-01-06,1996-01-13,23,2
+300,Circus Leaving Town,Philip Claypool,70,1996-06-15,1996-08-03,23,7
+301,No Man's Land,John Michael Montgomery,54,1996-01-06,1996-01-06,22,1
+302,Better Love Next Time,Caryl Mack Parker,67,1996-10-26,1996-12-14,21,5
+303,Bettin' Forever On You,Tony Toliver,71,1996-08-10,1996-10-05,21,6
+304,In Your Face,Ty Herndon,63,1996-03-30,1996-04-06,19,2
+305,The Star Spangled Banner,Ricochet,58,1996-07-20,1996-07-20,18,1
+306,Friends Don't Drive Friends...,Deryl Dodd,68,1996-10-05,1996-10-19,17,3
+307,Thump Factor,Smokin' Armadillos,68,1996-05-11,1996-06-01,17,4
+308,My Wife Thinks You're Dead,Junior Brown,68,1996-02-17,1996-03-16,17,4
+309,"God's Country, USA",Marcus Hummon,73,1996-03-16,1996-04-20,16,6
+310,Hangin' In And Hangin' On,David Ball,67,1996-08-10,1996-08-31,15,3
+311,Have I Told You Lately,Emilio,62,1996-10-12,1996-10-12,14,1
+312,Fall Reaching,Chris Ward,68,1996-08-17,1996-08-31,14,2
+313,When You Are Old,Gretchen Peters,68,1996-04-20,1996-05-04,14,3
+314,The Santa Claus Boogie,The Tractors,63,1996-01-06,1996-01-06,13,1
+315,When I Close My Eyes,Kenny Chesney,64,1996-12-21,1996-12-28,13,2
+316,Macarena (Country Version),The GrooveGrass Boyz,70,1996-11-23,1996-12-14,13,4
+317,How's The Radio Know,Aaron Tippin,69,1996-10-19,1996-10-26,12,2
+318,Sleigh Ride,Lorrie Morgan,67,1996-01-06,1996-12-28,10,2
+319,Don't Touch My Hat,Lyle Lovett,68,1996-09-28,1996-10-05,10,2
+320,Hillbilly Rap,Neal McCoy,71,1996-07-20,1996-08-03,9,3
+321,A Simple I Love You,Mandy Barnett,72,1996-08-31,1996-09-21,9,4
+322,All Of The Above,Ty England,68,1996-12-28,1996-12-28,8,1
+323,Christmas Carol,Skip Ewing,68,1996-01-06,1996-01-06,8,1
+324,Long Tall Texan,The Beach Boys Featuring Doug Supernaw,69,1996-10-12,1996-10-12,7,1
+325,Rudolph The Red-Nosed Reindeer,Alan Jackson,69,1996-12-28,1996-12-28,7,1
+326,Little Deuce Coupe,The Beach Boys Featuring James House,69,1996-08-24,1996-08-24,7,1
+327,Freedom,Ray Hood,73,1996-05-04,1996-06-15,7,3
+328,Santa Got Lost In Texas,Jeff Carson,70,1996-01-06,1996-01-06,6,1
+329,Love To Burn,Mark Collie,72,1996-02-24,1996-03-02,6,2
+330,The Strength Of A Woman,Philip Claypool,73,1996-02-03,1996-02-10,6,2
+331,A Little Bit Of Honey,Baker & Myers,71,1996-08-24,1996-08-24,5,1
+332,How Was I To Know,Reba McEntire,71,1996-12-28,1996-12-28,5,1
+333,The Kid,Clint Black,71,1996-01-06,1996-01-06,5,1
+334,Heaven Bound (I'm Ready),Shenandoah,71,1996-01-20,1996-01-20,5,1
+335,We've Got To Keep On Meeting Like This,Paul Overstreet,73,1996-01-20,1996-01-27,5,2
+336,Put A Little Holiday In Your Heart,LeAnn Rimes,72,1996-12-28,1996-12-28,4,1
+337,Worth The Fall,Brett James,73,1996-01-20,1996-01-27,4,2
+338,I Might Just Make It,Paul Jefferson,73,1996-10-19,1996-10-19,3,1
+339,Fear Of A Broken Heart,Paul Jefferson,73,1996-08-17,1996-08-17,3,1
+340,Santa Claus Is Coming To Town,George Strait,73,1996-01-06,1996-01-06,3,1
+341,Don't Worry Baby,The Beach Boys Featuring Lorrie Morgan,73,1996-09-07,1996-09-07,3,1
+342,Fifty-Fifty,Keith Stegall,75,1996-05-18,1996-05-18,1,1

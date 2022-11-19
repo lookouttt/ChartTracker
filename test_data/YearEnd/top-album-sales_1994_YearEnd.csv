@@ -1,0 +1,426 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,The Sign,Ace Of Base,1,1994-01-01,1994-12-31,7158,53
+2,August And Everything After,Counting Crows,4,1994-01-22,1994-12-31,5748,50
+3,Music Box,Mariah Carey,1,1994-01-01,1994-12-31,5026,53
+4,Not A Moment Too Soon,Tim McGraw,1,1994-04-09,1994-12-31,4433,39
+5,The Lion King,Soundtrack,1,1994-06-18,1994-12-31,4402,29
+6,Toni Braxton,Toni Braxton,1,1994-01-01,1994-12-31,4248,53
+7,12 Play,R. Kelly,2,1994-01-01,1994-10-22,4071,43
+8,Doggy Style,Snoop Doggy Dogg,1,1994-01-01,1994-10-01,3758,40
+9,Dookie,Green Day,4,1994-04-02,1994-12-31,3685,40
+10,Candlebox,Candlebox,7,1994-01-29,1994-12-31,3624,49
+11,Superunknown,Soundgarden,1,1994-03-26,1994-12-31,3618,41
+12,Purple,Stone Temple Pilots,1,1994-06-25,1994-12-31,3605,28
+13,Very Necessary,Salt-N-Pepa,4,1994-01-01,1994-12-31,3513,53
+14,The Colour Of My Love,Celine Dion,4,1994-01-01,1994-12-31,3406,47
+15,Kickin' It Up,John Michael Montgomery,1,1994-02-12,1994-12-31,3384,47
+16,Siamese Dream,The Smashing Pumpkins,15,1994-01-01,1994-12-10,3322,50
+17,Chant,The Benedictine Monks Of Santo Domingo De Silos,3,1994-04-02,1994-12-31,3253,40
+18,Smash,The Offspring,4,1994-06-25,1994-12-31,3126,28
+19,Get A Grip,Aerosmith,10,1994-01-01,1994-11-19,3101,47
+20,Live At The Acropolis,Yanni,5,1994-03-19,1994-12-31,3085,42
+21,II,Boyz II Men,1,1994-09-17,1994-12-31,2958,16
+22,janet.,Janet Jackson,4,1994-01-01,1994-12-31,2938,44
+23,Regulate...G Funk Era,Warren G,2,1994-06-25,1994-12-31,2889,28
+24,Forrest Gump,Soundtrack,2,1994-07-23,1994-12-31,2790,24
+25,The Division Bell,Pink Floyd,1,1994-04-23,1994-12-03,2787,32
+26,Above The Rim,Soundtrack,2,1994-04-09,1994-09-17,2702,24
+27,Greatest Hits,Tom Petty And The Heartbreakers,5,1994-01-01,1994-12-31,2701,45
+28,All-4-One,All-4-One,7,1994-04-30,1994-12-31,2685,36
+29,Vs.,Pearl Jam,2,1994-01-01,1994-09-10,2648,37
+30,Reality Bites,Soundtrack,13,1994-03-05,1994-11-12,2642,37
+31,Bat Out Of Hell II: Back Into Hell,Meat Loaf,5,1994-01-01,1994-08-06,2405,32
+32,The Downward Spiral,Nine Inch Nails,2,1994-03-26,1994-12-31,2397,41
+33,The Crow,Soundtrack,1,1994-04-16,1994-12-03,2394,34
+34,Read My Mind,Reba McEntire,2,1994-05-14,1994-12-31,2282,34
+35,The Bodyguard,Whitney Houston,6,1994-01-01,1994-12-31,2271,43
+36,The Cross Of Changes,Enigma,9,1994-02-26,1994-10-01,2204,32
+37,In Utero,Nirvana,11,1994-01-01,1994-10-08,2203,41
+38,The One Thing,Michael Bolton,3,1994-01-01,1994-07-09,2195,28
+39,I'm Ready,Tevin Campbell,26,1994-01-01,1994-09-03,2111,36
+40,Jar Of Flies (EP),Alice In Chains,1,1994-02-12,1994-09-24,2093,33
+41,Diary Of A Mad Band,Jodeci,3,1994-01-08,1994-07-16,2082,28
+42,Longing In Their Hearts,Bonnie Raitt,1,1994-04-09,1994-10-08,2031,27
+43,So Far So Good,Bryan Adams,6,1994-01-01,1994-08-06,2030,32
+44,God Shuffled His Feet,Crash Test Dummies,9,1994-02-05,1994-09-10,1995,32
+45,Voodoo Lounge,The Rolling Stones,2,1994-07-30,1994-12-31,1979,23
+46,New Miserable Experience,Gin Blossoms,30,1994-01-01,1994-10-22,1971,43
+47,Who I Am,Alan Jackson,5,1994-07-16,1994-12-31,1902,25
+48,Yes I Am,Melissa Etheridge,19,1994-01-01,1994-12-31,1893,47
+49,Breathless,Kenny G,26,1994-01-01,1994-12-31,1862,45
+50,In Pieces,Garth Brooks,12,1994-01-01,1994-12-24,1844,44
+51,From The Cradle,Eric Clapton,1,1994-10-01,1994-12-31,1790,14
+52,When Love Finds You,Vince Gill,6,1994-06-25,1994-12-31,1769,28
+53,"Hints, Allegations & Things Left Unsaid",Collective Soul,15,1994-05-07,1994-10-29,1730,26
+54,Ill Communication,Beastie Boys,1,1994-06-18,1994-11-26,1724,24
+55,Tuesday Night Music Club,Sheryl Crow,8,1994-04-09,1994-12-31,1722,24
+56,Age Ain't Nothing But A Number,Aaliyah,18,1994-06-11,1994-11-26,1688,25
+57,"Everybody Else Is Doing It, So Why Can't We?",The Cranberries,20,1994-01-01,1994-07-09,1549,28
+58,Core,Stone Temple Pilots,23,1994-01-01,1994-09-10,1535,37
+59,Monster,R.E.M.,1,1994-10-15,1994-12-31,1529,12
+60,Ten,Pearl Jam,29,1994-01-01,1994-12-31,1512,42
+61,Common Thread: The Songs Of The Eagles,Various Artists,8,1994-01-01,1994-10-29,1506,24
+62,Greatest Hits Volume Two,Reba McEntire,9,1994-01-01,1994-12-31,1503,27
+63,River Of Dreams,Billy Joel,9,1994-01-01,1994-06-11,1497,24
+64,Rhythm Of Love,Anita Baker,3,1994-10-01,1994-12-31,1446,14
+65,Lethal Injection,Ice Cube,14,1994-01-01,1994-06-11,1442,24
+66,Philadelphia,Soundtrack,12,1994-01-22,1994-06-11,1386,21
+67,Seal,Seal,20,1994-06-18,1994-12-03,1320,25
+68,A Lot About Livin' (And A Little 'Bout Love),Alan Jackson,21,1994-01-01,1994-08-27,1309,34
+69,Creepin On Ah Come Up (EP),Bone Thugs-N-Harmony,12,1994-08-20,1994-12-31,1284,20
+70,The 3 Tenors In Concert 1994,"Carreras, Domingo, Pavarotti (Mehta)",4,1994-09-17,1994-12-31,1243,16
+71,Throwing Copper,Live,38,1994-05-14,1994-12-31,1240,34
+72,MTV Unplugged,"10,000 Maniacs",13,1994-01-01,1994-05-21,1214,21
+73,Duets,Frank Sinatra,4,1994-01-01,1994-05-21,1186,19
+74,Rhythm Country & Blues,Various Artists,18,1994-03-19,1994-07-23,1185,19
+75,Funkdafied,Da Brat,11,1994-07-16,1994-11-26,1157,20
+76,Hard Workin' Man,Brooks & Dunn,49,1994-01-01,1994-08-20,1138,34
+77,Murder Was The Case,Soundtrack,1,1994-11-05,1994-12-31,1133,9
+78,Songs,Luther Vandross,5,1994-10-08,1994-12-31,1111,13
+79,Southernplayalisticadillacmuzik,OutKast,20,1994-05-14,1994-09-17,1105,19
+80,Sleepless In Seattle,Soundtrack,26,1994-01-01,1994-07-30,1105,25
+81,MTV Unplugged In New York,Nirvana,1,1994-11-19,1994-12-31,1103,7
+82,Metallica,Metallica,48,1994-01-01,1994-11-12,1099,44
+83,The Funky Headhunter,M.C. Hammer,12,1994-03-19,1994-07-23,1092,19
+84,Miracles: The Holiday Album,Kenny G,1,1994-11-19,1994-12-31,1080,7
+85,She,"Harry Connick, Jr.",16,1994-07-30,1994-12-31,1076,23
+86,Hell Freezes Over,Eagles,1,1994-11-26,1994-12-31,1057,6
+87,Unplugged...And Seated,Rod Stewart,29,1994-01-01,1994-05-21,1042,21
+88,Hand On The Torch,US3,31,1994-01-22,1994-06-11,1025,21
+89,It Takes A Thief,Coolio,8,1994-08-06,1994-11-26,1013,17
+90,House Of Love,Amy Grant,13,1994-09-10,1994-12-31,998,17
+91,No Need To Argue,The Cranberries,9,1994-10-22,1994-12-31,984,11
+92,For The Cool In You,Babyface,48,1994-01-01,1994-10-15,973,33
+93,Get Up On It,Keith Sweat,8,1994-07-16,1994-10-29,969,16
+94,Merry Christmas,Mariah Carey,3,1994-11-19,1994-12-31,961,7
+95,Mellow Gold,Beck,13,1994-03-19,1994-07-02,954,16
+96,Nuttin' But Love,Heavy D & The Boyz,11,1994-06-11,1994-10-08,952,18
+97,Fruitcakes,Jimmy Buffett,5,1994-06-11,1994-09-10,943,14
+98,Swamp Ophelia,Indigo Girls,9,1994-05-28,1994-09-24,936,18
+99,Under The Pink,Tori Amos,12,1994-02-19,1994-07-30,932,21
+100,Domino,Domino,39,1994-01-15,1994-06-25,925,24
+101,Dance Naked,John Mellencamp,13,1994-07-09,1994-11-12,922,17
+102,Far Beyond Driven: 20th Anniversary Edition,Pantera,1,1994-04-09,1994-07-30,919,16
+103,Antenna,ZZ Top,14,1994-02-05,1994-05-21,890,16
+104,Fumbling Towards Ecstasy,Sarah McLachlan,50,1994-03-12,1994-11-26,879,38
+105,Hummin' Comin' At 'Cha,Xscape,31,1994-01-01,1994-04-30,878,18
+106,"Heart, Soul & A Voice",Jon Secada,21,1994-06-11,1994-10-01,876,17
+107,The Jerky Boys 2,The Jerky Boys,12,1994-09-03,1994-12-03,870,14
+108,Nevermind,Nirvana,28,1994-04-23,1994-09-10,845,21
+109,The Beavis & Butt-Head Experience,Beavis & Butt-Head,8,1994-01-01,1994-04-02,833,14
+110,The Concert,Barbra Streisand,10,1994-10-15,1994-12-31,833,12
+111,Jason's Lyric,Soundtrack,17,1994-10-15,1994-12-31,817,12
+112,Stones In The Road,Mary Chapin Carpenter,10,1994-10-22,1994-12-31,799,11
+113,The Icon Is Love,Barry White,20,1994-10-22,1994-12-31,788,11
+114,Pisces Iscariot,The Smashing Pumpkins,4,1994-10-22,1994-12-31,787,11
+115,Bedtime Stories,Madonna,3,1994-11-12,1994-12-31,785,8
+116,Cross Road,Bon Jovi,8,1994-11-05,1994-12-31,785,9
+117,The Tractors,The Tractors,30,1994-10-08,1994-12-31,778,13
+118,So Tonight That I Might See,Mazzy Star,36,1994-08-13,1994-12-03,778,17
+119,Third Rock From The Sun,Joe Diffie,53,1994-08-20,1994-12-31,776,20
+120,Waitin' On Sundown,Brooks & Dunn,15,1994-10-15,1994-12-31,775,12
+121,We Come Strapped,MC Eiht Featuring CMW,5,1994-08-06,1994-10-08,755,10
+122,I Still Believe In You,Vince Gill,49,1994-01-01,1994-05-28,755,22
+123,The Diary,Scarface,2,1994-11-05,1994-12-31,749,9
+124,Big Ones,Aerosmith,6,1994-11-19,1994-12-31,745,7
+125,Ten Feet Tall & Bulletproof,Travis Tritt,20,1994-05-28,1994-09-17,742,17
+126,Shaq Diesel,Shaquille O'Neal,42,1994-01-01,1994-04-23,739,17
+127,Enter The Wu-Tang (36 Chambers),Wu-Tang Clan,46,1994-01-29,1994-06-18,721,21
+128,Wildflowers,Tom Petty,8,1994-11-19,1994-12-31,717,7
+129,"Hold Me, Thrill Me, Kiss Me",Gloria Estefan,9,1994-11-05,1994-12-31,710,9
+130,Big Time,Little Texas,55,1994-01-01,1994-06-04,706,23
+131,Same As It Ever Was,House Of Pain,12,1994-07-16,1994-09-24,698,11
+132,Greatest Hits,Bob Seger & The Silver Bullet Band,8,1994-11-12,1994-12-31,691,8
+133,Groove On,Gerald Levert,18,1994-09-24,1994-12-17,688,13
+134,Blackstreet,BLACKstreet,52,1994-07-09,1994-12-31,684,26
+135,Last Splash,The Breeders,33,1994-01-01,1994-03-26,653,13
+136,Blind Melon,Blind Melon,30,1994-01-01,1994-03-26,648,13
+137,The Spaghetti Incident?,Guns N' Roses,17,1994-01-01,1994-03-26,644,13
+138,Natural Born Killers,Soundtrack,19,1994-09-10,1994-11-19,644,11
+139,Cracked Rear View,Hootie & The Blowfish,41,1994-09-24,1994-12-31,642,15
+140,Dulcinea,Toad The Wet Sprocket,34,1994-06-11,1994-09-24,640,16
+141,Pulp Fiction,Soundtrack,21,1994-11-05,1994-12-31,638,9
+142,Walk On,Boston,7,1994-06-25,1994-09-03,637,11
+143,It's On (Dr. Dre 187um) Killa (EP),Eazy-E,34,1994-01-01,1994-04-23,632,17
+144,Ready To Die,The Notorious B.I.G.,15,1994-10-01,1994-12-03,611,10
+145,Come On Come On,Mary Chapin Carpenter,56,1994-01-22,1994-07-30,611,27
+146,"Easy Come, Easy Go",George Strait,36,1994-01-01,1994-05-14,592,19
+147,Turn It Upside Down,Spin Doctors,28,1994-07-02,1994-09-17,590,12
+148,Changing Faces,Changing Faces,25,1994-09-10,1994-11-19,587,11
+149,Somethin' Serious,Big Mike,40,1994-07-16,1994-10-22,577,15
+150,Kerosene Hat,Cracker,59,1994-02-05,1994-06-18,569,20
+151,Paid Vacation,Richard Marx,37,1994-02-26,1994-05-21,558,13
+152,Both Sides,Phil Collins,32,1994-01-01,1994-03-19,557,12
+153,Rage Against The Machine,Rage Against The Machine,45,1994-01-15,1994-05-07,556,17
+154,MTV Party To Go Volume 5,Various Artists,36,1994-06-18,1994-09-10,549,13
+155,I See It Now,Tracy Lawrence,28,1994-10-08,1994-12-31,537,13
+156,Weezer,Weezer,40,1994-09-24,1994-12-31,531,15
+157,No Quarter,Jimmy Page & Robert Plant,4,1994-11-26,1994-12-31,524,6
+158,Fields Of Gold - Best Of Sting 1984-1994,Sting,7,1994-11-26,1994-12-31,524,6
+159,The Best Of Sade,Sade,9,1994-11-26,1994-12-31,522,6
+160,This Time,Dwight Yoakam,47,1994-01-01,1994-05-28,520,21
+161,MCMXC A.D.,Enigma,63,1994-01-29,1994-08-27,518,23
+162,Undertow,Tool,64,1994-01-15,1994-05-28,518,20
+163,Black Sunday,Cypress Hill,38,1994-01-01,1994-04-02,514,14
+164,Sleeps With Angels,Neil Young With Crazy Horse,9,1994-09-03,1994-10-22,510,8
+165,8 Seconds,Soundtrack,33,1994-03-05,1994-05-14,509,11
+166,Thinkin' Problem,David Ball,53,1994-07-09,1994-11-12,506,18
+167,For The Love Of Strange Medicine,Steve Perry,15,1994-08-06,1994-10-01,500,9
+168,Pronounced Jah-Nay,Zhane,37,1994-02-26,1994-06-18,498,15
+169,The Truth,Aaron Hall,56,1994-06-04,1994-10-01,496,18
+170,Duets,Elton John,34,1994-01-01,1994-03-05,491,10
+171,Brandy,Brandy,42,1994-10-15,1994-12-31,491,12
+172,Barney's Favorites Vol. 1,Barney,40,1994-01-01,1994-04-02,489,14
+173,Promised Land,Queensryche,3,1994-11-05,1994-12-24,488,8
+174,The Piano,Soundtrack,41,1994-02-05,1994-05-14,480,15
+175,Midnight Marauders,A Tribe Called Quest,49,1994-01-01,1994-04-09,478,15
+176,Duets II,Frank Sinatra,9,1994-12-03,1994-12-31,470,5
+177,Youthanasia,Megadeth,4,1994-11-19,1994-12-31,466,7
+178,Weight,Rollins Band,33,1994-04-30,1994-07-02,449,10
+179,Maverick,Soundtrack,35,1994-06-11,1994-08-13,449,10
+180,The Lion King Sing-Along (EP),Soundtrack Cast,40,1994-07-09,1994-12-31,440,16
+181,Vitalogy,Pearl Jam,1,1994-12-10,1994-12-31,435,3
+182,Ten Summoner's Tales,Sting,34,1994-01-01,1994-04-16,434,16
+183,You Might Be A Redneck If...,Jeff Foxworthy,60,1994-10-01,1994-12-31,434,14
+184,Get In Where You Fit In,Too $hort,52,1994-01-01,1994-04-02,420,14
+185,CrazySexyCool,TLC,15,1994-12-03,1994-12-31,418,5
+186,La Sexorcisto: Devil Music Vol. 1,White Zombie,45,1994-01-01,1994-03-26,409,13
+187,"I Say, I Say, I Say",Erasure,18,1994-06-04,1994-08-13,407,11
+188,Clay Walker,Clay Walker,52,1994-01-01,1994-05-28,399,18
+189,Crazy,Julio Iglesias,30,1994-06-04,1994-08-13,393,11
+190,Gems,Patti LaBelle,48,1994-06-25,1994-09-03,391,11
+191,Stone Free: A Tribute To Jimi Hendrix,Various Artists,46,1994-01-01,1994-02-26,388,9
+192,Nineteen Ninety Quad,69 Boyz,63,1994-08-13,1994-12-31,385,21
+193,Take Me As I Am,Faith Hill,59,1994-03-12,1994-11-12,366,15
+194,Motley Crue,Motley Crue,7,1994-04-02,1994-05-07,364,6
+195,Lead On,George Strait,26,1994-11-26,1994-12-31,364,6
+196,Dazed And Confused,Soundtrack,70,1994-05-14,1994-09-24,359,18
+197,Kiss My Ass: Classic Kiss Regrooved,Various Artists,19,1994-07-09,1994-08-27,358,8
+198,What A Crying Shame,The Mavericks,54,1994-07-16,1994-10-15,353,14
+199,Come,Prince,15,1994-09-03,1994-10-08,350,6
+200,Tical,Method Man,4,1994-12-03,1994-12-31,349,5
+201,Divine Intervention,Slayer,8,1994-10-15,1994-11-19,343,6
+202,Illmatic,Nas,12,1994-05-07,1994-06-25,342,8
+203,Too High To Die,Meat Puppets,62,1994-04-30,1994-07-30,327,14
+204,'N Gatz We Truss,South Central Cartel,32,1994-05-28,1994-07-23,324,9
+205,It's About Time,SWV,47,1994-01-01,1994-03-12,316,11
+206,Vauxhall & I,Morrissey,18,1994-04-09,1994-05-21,315,7
+207,Live At The BBC,The Beatles,3,1994-12-24,1994-12-31,312,2
+208,Project: Funk Da World,Craig Mack,21,1994-10-08,1994-11-12,310,6
+209,The Chronic,Dr. Dre,50,1994-01-01,1994-04-09,310,15
+210,One Emotion,Clint Black,37,1994-10-22,1994-12-31,301,11
+211,The Sweetest Illusion,Basia,27,1994-05-21,1994-07-02,299,7
+212,Sons Of Soul,Tony Toni Tone,57,1994-01-01,1994-03-19,299,12
+213,I Love Everybody,Lyle Lovett,26,1994-10-15,1994-11-19,297,6
+214,Black Reign,Queen Latifah,60,1994-01-29,1994-04-23,291,13
+215,Grand Tour,Aaron Neville,60,1994-01-01,1994-04-02,289,14
+216,Pure Country (Soundtrack),George Strait,69,1994-01-01,1994-05-14,287,17
+217,Secret World Live,Peter Gabriel,23,1994-10-01,1994-11-05,284,6
+218,Notorious,Confederate Railroad,52,1994-04-09,1994-06-04,284,9
+219,Muse Sick-N-Hour Mess Age,Public Enemy,14,1994-09-10,1994-10-08,274,5
+220,Hard To Earn,Gang Starr,25,1994-03-26,1994-04-30,274,6
+221,My Life,Mary J. Blige,9,1994-12-17,1994-12-31,271,3
+222,Retro Active,Def Leppard,53,1994-01-01,1994-02-19,271,8
+223,Four Chords & Several Years Ago,Huey Lewis & The News,55,1994-05-28,1994-08-20,268,9
+224,Zooropa,U2,54,1994-01-01,1994-02-19,264,8
+225,Bust A Nut,Tesla,20,1994-09-10,1994-10-08,261,5
+226,Segundo Romance,Luis Miguel,29,1994-09-17,1994-10-22,261,6
+227,Last Of The Independents,Pretenders,41,1994-05-28,1994-07-02,257,6
+228,Woodstock 94,Various Artists,50,1994-11-26,1994-12-31,254,6
+229,Singin' With The Big Bands,Barry Manilow,59,1994-10-29,1994-12-31,253,9
+230,Just For You,Gladys Knight,53,1994-10-01,1994-11-26,250,9
+231,Promises And Lies,UB40,61,1994-01-01,1994-03-12,250,11
+232,Forest,George Winston,62,1994-10-29,1994-12-31,244,10
+233,War Paint,Lorrie Morgan,48,1994-05-28,1994-07-09,242,7
+234,Thrall-Demonsweatlive,Danzig,54,1994-02-12,1994-04-02,242,8
+235,The Song Remembers When,Trisha Yearwood,45,1994-01-01,1994-02-05,238,6
+236,Tell Me Why,Wynonna,53,1994-01-01,1994-02-26,236,8
+237,Woodstock,Jimi Hendrix,37,1994-08-20,1994-09-17,235,5
+238,Painted Desert Serenade,Joshua Kadison,69,1994-05-14,1994-07-30,235,12
+239,Amorica,The Black Crowes,11,1994-11-19,1994-12-24,233,6
+240,Bootlegs & B-Sides,Ice Cube,19,1994-12-10,1994-12-31,230,4
+241,Deep Forest,Deep Forest,59,1994-02-12,1994-05-07,230,13
+242,Sweetheart's Dance,Pam Tillis,51,1994-05-14,1994-07-09,225,9
+243,Live Through This,Hole,55,1994-04-30,1994-12-31,217,14
+244,Holly & Ivy,Natalie Cole,36,1994-12-10,1994-12-31,216,4
+245,Unplugged,Eric Clapton,61,1994-01-01,1994-03-12,212,11
+246,Only What I Feel,Patty Loveless,63,1994-05-07,1994-06-25,211,8
+247,Whip-Smart,Liz Phair,27,1994-10-08,1994-11-12,198,6
+248,Boomtown,Toby Keith,46,1994-10-15,1994-11-12,197,5
+249,No Time To Kill,Clint Black,69,1994-01-01,1994-02-26,196,9
+250,When Fallen Angels Fly,Patty Loveless,60,1994-09-10,1994-11-05,195,9
+251,Christmas Interpretations,Boyz II Men,19,1994-01-01,1994-01-15,188,3
+252,Far From Home,Traffic,33,1994-05-21,1994-06-18,186,5
+253,Amerikkka's Nightmare,Spice 1,22,1994-12-10,1994-12-31,184,4
+254,Where It All Begins,The Allman Brothers Band,45,1994-05-21,1994-07-02,179,7
+255,Threesome,Soundtrack,49,1994-04-23,1994-05-28,179,6
+256,The Hits,Garth Brooks,3,1994-12-31,1994-12-31,178,1
+257,When My Heart Finds Christmas,"Harry Connick, Jr.",13,1994-01-01,1994-01-15,175,3
+258,Concrete Roots,Dr. Dre,43,1994-10-08,1994-11-05,173,5
+259,Back To Broadway,Barbra Streisand,41,1994-01-01,1994-02-05,172,6
+260,Unboxed,Sammy Hagar,51,1994-04-02,1994-05-14,171,7
+261,6 Feet Deep,Gravediggaz,36,1994-08-27,1994-09-24,169,5
+262,Back At Your Ass For The Nine-4,The New 2 Live Crew,52,1994-02-26,1994-04-02,169,6
+263,Blowout Comb,Digable Planets,32,1994-11-05,1994-11-26,168,4
+264,Whoomp! (There It Is),Tag Team,56,1994-01-01,1994-02-12,168,7
+265,Brutal Youth,Elvis Costello,34,1994-03-26,1994-04-23,165,5
+266,Blues,Jimi Hendrix,45,1994-05-14,1994-06-18,165,6
+267,The Sun Rises In The East,Jeru The Damaja,36,1994-06-11,1994-07-02,164,4
+268,Kick A Little,Little Texas,51,1994-10-15,1994-11-12,164,5
+269,Honky Tonk Attitude,Joe Diffie,67,1994-01-15,1994-03-12,164,9
+270,Dare Iz A Darkside,Redman,13,1994-12-10,1994-12-24,162,3
+271,Betty,Helmet,45,1994-07-09,1994-08-06,161,5
+272,Return To Pooh Corner,Kenny Loggins,65,1994-08-06,1994-11-19,160,8
+273,Grave Dancers Union,Soul Asylum,62,1994-01-01,1994-02-05,157,6
+274,Strategem,Big Head Todd And The Monsters,30,1994-10-15,1994-11-05,152,4
+275,Push Comes To Shove,Jackyl,46,1994-08-20,1994-09-17,150,5
+276,Volume I,Thug Life,42,1994-10-29,1994-11-19,146,4
+277,Talk,Yes,33,1994-04-09,1994-04-30,144,4
+278,Let There Be Peace On Earth,Vince Gill,23,1994-01-01,1994-01-08,143,2
+279,A Tribute To Curtis Mayfield,Various Artists,56,1994-03-12,1994-04-16,139,6
+280,"Experimental Jet Set, Trash And No Star",Sonic Youth,34,1994-05-28,1994-06-18,137,4
+281,Skynyrd Frynds,Various Artists,56,1994-11-12,1994-12-03,136,4
+282,Universal Mother,Sinead O'Connor,36,1994-10-01,1994-10-15,135,3
+283,The Christmas Album Volume II,Neil Diamond,51,1994-12-10,1994-12-31,133,4
+284,Without A Sound,Dinosaur Jr.,44,1994-09-17,1994-10-08,131,4
+285,MTV Unplugged,Tony Bennett,69,1994-07-16,1994-08-27,128,7
+286,Confederate Railroad,Confederate Railroad,66,1994-01-15,1994-03-19,127,10
+287,The Most Beautifullest Thing In This World,Keith Murray,34,1994-11-26,1994-12-10,125,3
+288,Extremes,Collin Raye,73,1994-02-12,1994-07-09,124,9
+289,Danzig 4,Danzig,29,1994-10-22,1994-10-29,122,2
+290,Awake,Dream Theater,32,1994-10-22,1994-11-05,122,3
+291,Storm In The Heartland,Billy Ray Cyrus,73,1994-11-26,1994-12-31,121,6
+292,Aladdin: Special Edition,Soundtrack,53,1994-01-01,1994-01-29,120,4
+293,Laid,James,72,1994-02-12,1994-04-09,120,9
+294,If I Could Make A Living,Clay Walker,50,1994-10-15,1994-11-05,119,4
+295,The Phantom Of The Opera: Highlights,Original London Cast Recording,71,1994-01-01,1994-05-21,119,9
+296,Flyer,Nanci Griffith,48,1994-10-01,1994-10-22,117,4
+297,Crooklyn,Soundtrack,59,1994-06-04,1994-06-25,116,4
+298,Picture Perfect Morning,Edie Brickell,68,1994-09-03,1994-09-24,116,4
+299,Cover Girl,Shawn Colvin,48,1994-09-10,1994-10-01,115,4
+300,Marvin The Album,FRENTE!,75,1994-06-18,1994-08-27,114,10
+301,Some Old Bullshit,Beastie Boys,46,1994-02-26,1994-03-12,113,3
+302,Aaron Neville's Soulful Christmas,Aaron Neville,37,1994-01-01,1994-01-08,111,2
+303,Street Angel,Stevie Nicks,45,1994-06-25,1994-07-09,110,3
+304,Love Deluxe,Sade,71,1994-01-22,1994-03-26,109,10
+305,Almost Goodbye,Mark Chesnutt,67,1994-01-01,1994-02-12,106,7
+306,Barney's Favorites Vol. 2,Barney,66,1994-09-17,1994-10-15,105,5
+307,Hoist,Phish,34,1994-04-16,1994-04-30,103,3
+308,Nativity In Black: A Tribute To Black Sabbath,Various Artists,50,1994-10-22,1994-11-05,99,3
+309,Turbulent Indigo,Joni Mitchell,47,1994-11-12,1994-11-26,98,3
+310,This Is Me,Randy Travis,59,1994-05-14,1994-05-28,98,3
+311,A Low Down Dirty Shame,Soundtrack,70,1994-11-26,1994-12-24,97,5
+312,Christmas Through Your Eyes,Gloria Estefan,48,1994-01-01,1994-01-08,94,2
+313,Feelin' Good Train,Sammy Kershaw,73,1994-07-16,1994-10-29,92,10
+314,Here It Is,Freddie Jackson,66,1994-02-05,1994-02-19,91,3
+315,Alapalooza,"""Weird Al"" Yankovic",71,1994-01-01,1994-01-22,91,4
+316,Face The Music,NKOTB,37,1994-02-12,1994-02-19,90,2
+317,Schindler's List (Soundtrack),Williams/Perlman,45,1994-04-09,1994-04-23,90,3
+318,If I Were A Carpenter,Various Artists,70,1994-10-01,1994-10-29,90,5
+319,File Under: Easy Listening,Sugar,50,1994-09-24,1994-10-08,89,3
+320,Zingalamaduni,Arrested Development,55,1994-07-02,1994-07-16,89,3
+321,Prince (The Black Album),Prince,47,1994-12-10,1994-12-17,87,2
+322,four,Blues Traveler,54,1994-10-01,1994-10-15,87,3
+323,Time And Chance,Color Me Badd,81,1994-01-15,1994-02-19,80,6
+324,Under The Table And Dreaming,Dave Matthews Band,34,1994-10-15,1994-10-22,78,2
+325,No Doubt About It,Neal McCoy,84,1994-04-02,1994-08-06,78,12
+326,The Christmas Album,David Foster,50,1994-01-01,1994-01-08,77,2
+327,The Sweetest Days,Vanessa Williams,61,1994-12-24,1994-12-31,77,2
+328,"Bigger, Better, Faster, More!",4 Non Blondes,77,1994-01-01,1994-01-29,75,5
+329,Live Shit: Binge & Purge,Metallica,63,1994-01-01,1994-01-08,74,2
+330,Human Wheels,John Mellencamp,75,1994-01-01,1994-01-22,74,4
+331,Chant Noel,The Benedictine Monks Of Santo Domingo De Silos,78,1994-12-10,1994-12-31,74,4
+332,MTV Party To Go Volume 6,Various Artists,76,1994-12-10,1994-12-31,73,4
+333,Join The Band,Take 6,86,1994-07-16,1994-09-03,73,7
+334,State Of The World Address,Biohazard,48,1994-06-11,1994-06-18,71,2
+335,It Won't Be The Last,Billy Ray Cyrus,63,1994-01-01,1994-01-29,71,4
+336,Jock Rock Volume 1,Various Artists,82,1994-12-03,1994-12-31,71,5
+337,Behind Bars,Slick Rick,51,1994-12-10,1994-12-17,69,2
+338,Sister Act 2: Back In The Habit,Soundtrack,74,1994-01-15,1994-02-05,68,4
+339,Honky Tonk Christmas,Alan Jackson,52,1994-01-01,1994-01-08,65,2
+340,Life's A Dance,John Michael Montgomery,81,1994-01-08,1994-03-05,63,8
+341,Chief Boot Knocka,Sir Mix-A-Lot,69,1994-08-06,1994-08-20,61,3
+342,Things In Tha Hood,DFC,71,1994-04-09,1994-05-07,60,5
+343,The Main Ingredient,Pete Rock & C.L. Smooth,51,1994-11-26,1994-12-03,59,2
+344,A Touch Of Music In The Night,Michael Crawford,62,1994-01-01,1994-01-08,57,2
+345,Counterparts,Rush,81,1994-01-01,1994-02-12,56,6
+346,The Flintstones,Soundtrack,73,1994-06-11,1994-06-25,55,3
+347,Are You Gonna Go My Way?,Lenny Kravitz,73,1994-01-01,1994-01-22,54,4
+348,The Mask,Soundtrack,80,1994-08-20,1994-09-03,53,3
+349,Everything Is Everything,Brand Nubian,54,1994-11-19,1994-11-26,50,2
+350,Keepers Of The Funk,Lords Of The Underground,57,1994-11-19,1994-11-26,50,2
+351,AKA The Rugged Child,Shyheim,52,1994-05-07,1994-05-07,49,1
+352,Shaq-Fu: Da Return,Shaquille O'Neal,67,1994-11-26,1994-12-03,49,2
+353,Peep This,Jamie Foxx,78,1994-08-06,1994-08-20,47,3
+354,Wayne's World 2,Soundtrack,78,1994-01-15,1994-01-29,46,3
+355,No Toys For O.J.,Kevin And Bean,57,1994-12-24,1994-12-24,44,1
+356,Up On The Roof - Songs From The Brill Building,Neil Diamond,76,1994-01-01,1994-01-08,42,2
+357,Free Willy,Soundtrack,84,1994-01-01,1994-01-22,42,4
+358,Jewel Of The Nile,Nice & Smooth,66,1994-07-16,1994-07-23,41,2
+359,John Henry,They Might Be Giants,61,1994-10-01,1994-10-01,40,1
+360,Heartsongs,Dolly Parton,87,1994-10-22,1994-11-12,38,4
+361,A Love Supreme,Chante Moore,64,1994-12-03,1994-12-03,37,1
+362,Shade Business,PMD,65,1994-10-15,1994-10-15,36,1
+363,Strictly 4 My N.I.G.G.A.Z.....,2Pac,68,1994-01-08,1994-01-15,36,2
+364,"Mind, Body & Song",Jade,80,1994-10-15,1994-10-22,36,2
+365,John Berry,John Berry,85,1994-05-21,1994-06-04,36,3
+366,Greatest Hits (1980-1994),Aretha Franklin,85,1994-03-19,1994-04-02,35,3
+367,A Winter's Solstice IV,Various Artists,67,1994-01-01,1994-01-01,34,1
+368,The Last Temptation Of Alice Cooper,Alice Cooper,68,1994-07-30,1994-07-30,33,1
+369,The Cult,The Cult,69,1994-10-29,1994-10-29,32,1
+370,Boingo,Boingo,71,1994-06-04,1994-06-04,30,1
+371,Incesticide,Nirvana,73,1994-04-30,1994-05-07,30,2
+372,The Big Badass,Ant Banks,80,1994-07-02,1994-07-09,29,2
+373,Together Alone,Crowded House,73,1994-01-29,1994-01-29,28,1
+374,Shepherd Moons,Enya,88,1994-01-01,1994-02-26,28,4
+375,No Fences,Garth Brooks,89,1994-01-01,1994-01-22,28,4
+376,Born Dead,Body Count,74,1994-09-24,1994-09-24,27,1
+377,Some Change,Boz Scaggs,91,1994-05-07,1994-05-21,27,3
+378,Disco 2,Pet Shop Boys,75,1994-10-08,1994-10-08,26,1
+379,Gangsta Lean,DRS,77,1994-01-15,1994-01-15,24,1
+380,Live,James Taylor,88,1994-01-01,1994-01-08,24,2
+381,Your Filthy Little Mouth,David Lee Roth,78,1994-03-26,1994-03-26,23,1
+382,Nervous Breakdown,Fu-Schnickens,81,1994-11-12,1994-11-19,23,2
+383,Honky Tonk Angels,"Dolly Parton, Loretta Lynn, Tammy Wynette",82,1994-01-01,1994-01-22,23,3
+384,No Ordinary Man,Tracy Byrd,93,1994-09-17,1994-11-12,22,6
+385,Planet Of Da Apes,Da Lench Mob,81,1994-11-19,1994-11-19,20,1
+386,Suicidal For Life,Suicidal Tendencies,82,1994-07-02,1994-07-02,19,1
+387,Out In L.A.,Red Hot Chili Peppers,82,1994-11-19,1994-11-19,19,1
+388,Pocket Full Of Kryptonite,Spin Doctors,92,1994-01-01,1994-01-22,19,4
+389,One Life To Live,Soundtrack,83,1994-03-05,1994-03-05,18,1
+390,The Remixes (EP),SWV,92,1994-05-28,1994-06-04,17,2
+391,Ain't Life Grand,Widespread Panic,85,1994-09-24,1994-09-24,16,1
+392,Greatest Hits III,Alabama,90,1994-10-29,1994-11-05,16,2
+393,Meowy Christmas,Jingle Cats,86,1994-01-01,1994-01-01,15,1
+394,Stranger Than Fiction,Bad Religion,87,1994-09-24,1994-09-24,14,1
+395,Walking Away A Winner,Kathy Mattea,87,1994-06-11,1994-06-11,14,1
+396,More Love,Doug Stone,88,1994-01-22,1994-01-29,14,2
+397,Dogman,King's X,88,1994-02-05,1994-02-05,13,1
+398,Playtyme Is Over,Immature,95,1994-11-05,1994-12-31,12,5
+399,New Times,Violent Femmes,90,1994-06-04,1994-06-04,11,1
+400,The Beautiful Experience (EP),Prince,92,1994-06-18,1994-06-25,10,2
+401,Haunted Heart,Sammy Kershaw,92,1994-01-22,1994-01-22,9,1
+402,Mi Tierra,Gloria Estefan,92,1994-03-19,1994-03-19,9,1
+403,Supertight,UGK,95,1994-09-17,1994-09-24,9,2
+404,Live In America,Neil Diamond,93,1994-07-23,1994-07-23,8,1
+405,American Thighs,Veruca Salt,97,1994-12-03,1994-12-17,8,2
+406,If Every Day Was Like Christmas,Elvis Presley,94,1994-12-24,1994-12-24,7,1
+407,Mamouna,Bryan Ferry,94,1994-10-08,1994-10-08,7,1
+408,Thought 'Ya Knew,CeCe Peniston,96,1994-02-19,1994-03-12,7,2
+409,Brother Sister,The Brand New Heavies,95,1994-04-09,1994-04-09,6,1
+410,Swing Batta Swing,K7,96,1994-04-16,1994-04-23,6,2
+411,Angela Winbush,Angela Winbush,96,1994-04-02,1994-05-07,6,2
+412,In My Time,Yanni,96,1994-04-09,1994-04-09,5,1
+413,All The Greatest Hits,Zapp & Roger,96,1994-02-05,1994-02-05,5,1
+414,Dirt,Alice In Chains,96,1994-01-15,1994-01-15,5,1
+415,The Unplugged Collection Volume One,Various Artists,97,1994-12-31,1994-12-31,4,1
+416,The Three Tenors In Concert,"Carreras, Domingo, Pavarotti (Mehta)",97,1994-08-06,1994-08-06,4,1
+417,After The Storm,"Crosby, Stills & Nash",98,1994-09-03,1994-09-03,3,1
+418,Blackhawk,BlackHawk,98,1994-03-12,1994-03-12,3,1
+419,Straight Up Sewaside,Das EFX,98,1994-01-15,1994-01-15,3,1
+420,Stoned & Dethroned,The Jesus And Mary Chain,98,1994-09-10,1994-09-10,3,1
+421,What A Way To Live,Mark Chesnutt,98,1994-10-08,1994-10-08,3,1
+422,Make Him Do Right,Karyn White,99,1994-10-15,1994-10-15,2,1
+423,Come On Feel The Lemonheads,The Lemonheads,99,1994-01-15,1994-01-15,2,1
+424,The Ultimate Experience,Jimi Hendrix,100,1994-08-27,1994-09-03,2,2
+425,Love A Little Stronger,Diamond Rio,100,1994-08-13,1994-08-13,1,1

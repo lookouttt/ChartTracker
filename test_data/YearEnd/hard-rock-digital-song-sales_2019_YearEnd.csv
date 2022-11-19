@@ -1,0 +1,148 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Bohemian Rhapsody,Queen,1,2019-01-05,2019-12-28,1237,52
+2,We Will Rock You,Queen,2,2019-01-05,2019-12-28,1100,52
+3,Don't Stop Me Now,Queen,2,2019-01-05,2019-12-28,1047,52
+4,Another One Bites The Dust,Queen,3,2019-01-05,2019-12-28,922,52
+5,Thunderstruck,AC/DC,1,2019-01-05,2019-12-28,866,51
+6,The Sound Of Silence,Disturbed,2,2019-01-05,2019-12-28,820,51
+7,We Are The Champions,Queen,4,2019-01-05,2019-12-28,812,51
+8,Under Pressure,Queen & David Bowie,6,2019-01-05,2019-12-28,750,51
+9,Somebody To Love,Queen,2,2019-01-05,2019-11-30,705,46
+10,Blue On Black,"Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",1,2019-01-05,2019-12-28,615,40
+11,Zombie,Bad Wolves,5,2019-01-05,2019-12-28,566,49
+12,Radio Ga Ga,Queen,5,2019-01-05,2019-10-12,472,37
+13,Enter Sandman,Metallica,3,2019-01-05,2019-12-28,389,44
+14,Fat Bottomed Girls,Queen,4,2019-01-05,2019-09-14,309,31
+15,Under Your Scars,Godsmack,4,2019-05-25,2019-11-23,299,26
+16,Back In Black,AC/DC,7,2019-01-05,2019-12-28,284,39
+17,Killer Queen,Queen,9,2019-01-05,2019-08-10,279,24
+18,Monsters,Shinedown,3,2019-04-27,2019-11-16,242,24
+19,Sober,Tool,1,2019-08-17,2019-12-07,240,17
+20,Livin' On A Prayer,Bon Jovi,10,2019-01-05,2019-12-21,205,36
+21,Pour Some Sugar On Me,Def Leppard,9,2019-01-12,2019-12-28,203,32
+22,Here I Go Again,Whitesnake,8,2019-02-16,2019-11-16,202,25
+23,Sweet Child O' Mine,Guns N' Roses,16,2019-01-12,2019-12-21,184,32
+24,Crazy Little Thing Called Love,Queen,12,2019-01-05,2019-08-03,174,17
+25,Unsainted,Slipknot,1,2019-05-25,2019-08-10,166,12
+26,Love Of My Life,Queen,11,2019-01-05,2019-07-20,156,15
+27,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,1,2019-01-05,2019-12-28,138,7
+28,SCHISM,Tool,3,2019-08-17,2019-10-12,138,9
+29,You're My Best Friend,Queen,13,2019-01-05,2019-08-03,119,17
+30,Forty Six & 2,Tool,4,2019-08-17,2019-10-05,117,8
+31,Outlaws & Outsiders,"Cory Marks Featuring Travis Tritt, Ivan Moody & Mick Mars",1,2019-11-30,2019-12-28,115,5
+32,Under The Graveyard,Ozzy Osbourne,1,2019-11-23,2019-12-28,115,6
+33,Popular Monster,Falling In Reverse,3,2019-11-30,2019-12-28,111,5
+34,Kickstart My Heart,Motley Crue,3,2019-04-06,2019-12-21,110,10
+35,You Shook Me All Night Long,AC/DC,15,2019-01-26,2019-12-21,110,25
+36,Home Sweet Home,Motley Crue,1,2019-04-06,2019-05-04,90,5
+37,Stinkfist,Tool,5,2019-08-17,2019-09-21,90,6
+38,I Want To Break Free,Queen,14,2019-01-05,2019-03-30,90,12
+39,Killing Me Slowly,Bad Wolves,8,2019-09-07,2019-12-28,89,9
+40,AEnema,Tool,6,2019-08-17,2019-09-21,73,5
+41,Inside Out,Five Finger Death Punch,1,2019-12-14,2019-12-28,72,3
+42,Fear Inoculum,Tool,1,2019-08-17,2019-09-07,68,4
+43,Wolf Totem,The Hu Featuring Jacoby Shaddix,1,2019-04-20,2019-12-28,66,4
+44,You're The One,Greta Van Fleet,5,2019-02-02,2019-03-30,63,8
+45,Immigrant Song,Led Zeppelin,15,2019-01-05,2019-12-28,58,10
+46,The Pot,Tool,7,2019-08-17,2019-09-21,52,5
+47,Get Up,Shinedown,13,2019-01-05,2019-05-18,52,8
+48,She Talks To Angels,The Black Crowes,7,2019-11-09,2019-11-30,49,3
+49,"Girls, Girls, Girls",Motley Crue,7,2019-04-06,2019-04-20,47,3
+50,Solway Firth,Slipknot,2,2019-08-03,2019-08-10,44,2
+51,Dr. Feelgood,Motley Crue,6,2019-04-06,2019-04-20,44,3
+52,Deutschland,Rammstein,2,2019-04-13,2019-04-27,39,3
+53,Last Day Under The Sun,Volbeat,12,2019-06-29,2019-09-07,38,6
+54,Yuve Yuve Yu,The Hu Featuring From Ashes To New,7,2019-04-20,2019-12-28,37,5
+55,Live Wire,Motley Crue,11,2019-04-06,2019-04-20,35,3
+56,You'll Never Find Me,Korn,2,2019-07-06,2019-07-13,34,2
+57,Resentment,A Day To Remember,2,2019-12-07,2019-12-14,34,2
+58,Legendary,Skillet,3,2019-05-25,2019-06-01,34,2
+59,Wizards In Winter,Trans-Siberian Orchestra,10,2019-12-14,2019-12-28,34,3
+60,Dream On,Aerosmith,14,2019-10-12,2019-11-23,32,5
+61,Godzilla,Bear McCreary Featuring Serj Tankian,3,2019-06-15,2019-06-22,31,2
+62,Ludens,Bring Me The Horizon,2,2019-11-23,2019-11-30,30,2
+63,Blood Wolf,Dance Gavin Dance,6,2019-10-19,2019-11-02,30,3
+64,Same Ol' Situation (S.O.S.),Motley Crue,13,2019-04-06,2019-04-20,28,3
+65,Straight To Hell,Ozzy Osbourne,1,2019-12-07,2019-12-14,27,2
+66,"WWE: The Fiend ""Let Me In""",Code Orange,8,2019-08-24,2019-08-31,27,2
+67,Unleashed,Killswitch Engage,10,2019-07-06,2019-07-13,27,2
+68,School's Out,Alice Cooper,14,2019-06-01,2019-06-15,27,3
+69,The Signal Fire,Killswitch Engage Featuring Howard Jones,9,2019-08-31,2019-09-07,26,2
+70,All Out Life,Slipknot,12,2019-06-01,2019-08-24,26,2
+71,Crazy Train,Ozzy Osbourne,19,2019-02-16,2019-12-07,26,8
+72,Kiss The Go-Goat,Ghost,1,2019-09-28,2019-09-28,25,1
+73,Shadowbringers,"Masayoshi Soken, Nobuo Uematsu, Amanda Achen-Keenan & Jason Charles Miller",2,2019-08-10,2019-08-10,24,1
+74,Mary On A Cross,Ghost,2,2019-09-28,2019-09-28,24,1
+75,Always There,Greta Van Fleet,3,2019-09-21,2019-09-21,23,1
+76,Cross Off,Mark Morton Featuring Chester Bennington,11,2019-01-19,2019-01-26,23,2
+77,"You're A Mean One, Mr. Grinch",Small Town Titans,12,2019-01-05,2019-12-28,23,2
+78,Shout At The Devil,Motley Crue,14,2019-04-06,2019-04-13,23,2
+79,Redefined,As I Lay Dying,4,2019-04-27,2019-04-27,22,1
+80,Vicarious,Tool,8,2019-08-17,2019-08-24,22,2
+81,The Dirt (Est. 1981),Motley Crue Featuring Machine Gun Kelly,14,2019-03-09,2019-04-06,22,2
+82,Bismarck,Sabaton,5,2019-06-01,2019-06-01,21,1
+83,Saints Of The Blood,Black Veil Brides,5,2019-12-14,2019-12-14,21,1
+84,Already Dead,Hollywood Undead,6,2019-11-09,2019-11-09,20,1
+85,Crying Game,Bad Wolves,6,2019-10-26,2019-10-26,20,1
+86,Lateralus,Tool,9,2019-08-17,2019-08-24,20,2
+87,Stairway To Heaven,Mastodon,7,2019-06-01,2019-06-01,19,1
+88,Fortunate Son,Clutch,7,2019-12-14,2019-12-14,19,1
+89,Hammer To Fall,Queen,19,2019-03-02,2019-03-16,19,3
+90,Sweet Victory,David Eisley & Bob Kulick,8,2019-02-16,2019-02-16,18,1
+91,The Vengeance,Black Veil Brides,8,2019-12-14,2019-12-14,18,1
+92,Who Wants To Live Forever,Queen,16,2019-03-02,2019-05-11,18,3
+93,Radio,Rammstein,9,2019-05-11,2019-05-11,17,1
+94,For Whom The Bell Tolls,Metallica,9,2019-03-30,2019-03-30,17,1
+95,The End,Marilyn Manson,9,2019-12-07,2019-12-07,17,1
+96,Prison Sex,Tool,10,2019-08-17,2019-08-17,16,1
+97,Eulogy,Tool,11,2019-08-17,2019-08-17,15,1
+98,Time Bomb,Hollywood Undead,11,2019-11-30,2019-11-30,15,1
+99,So Cold,Breaking Benjamin,12,2019-11-16,2019-11-16,14,1
+100,Parabola,Tool,12,2019-08-17,2019-08-17,14,1
+101,Looks That Kill,Motley Crue,17,2019-04-06,2019-04-13,14,2
+102,Wild Side,Motley Crue,18,2019-04-06,2019-04-13,14,2
+103,The Show Must Go On,Queen,20,2019-03-02,2019-05-11,14,4
+104,Jambi,Tool,13,2019-08-17,2019-08-17,13,1
+105,The Chain,Evanescence,13,2019-12-14,2019-12-14,13,1
+106,I Want It All,Queen,21,2019-03-02,2019-03-16,13,3
+107,Disguise,Motionless In White,14,2019-05-04,2019-05-04,12,1
+108,Black Smoke Rising,Greta Van Fleet,14,2019-02-02,2019-02-02,12,1
+109,H.,Tool,14,2019-08-17,2019-08-17,12,1
+110,Can You Hear Me,Korn,14,2019-09-21,2019-09-21,12,1
+111,Bow Down,I Prevail,19,2019-03-09,2019-03-16,12,2
+112,The Evening Hate,Red,15,2019-06-22,2019-06-22,11,1
+113,This Is Halloween,Marilyn Manson,15,2019-11-09,2019-11-09,11,1
+114,Is This Love,Whitesnake,20,2019-04-27,2019-05-04,11,2
+115,Cold,Korn,16,2019-08-17,2019-08-17,10,1
+116,Highway Tune,Greta Van Fleet,16,2019-02-02,2019-02-02,10,1
+117,Highway To Hell,AC/DC,18,2019-11-02,2019-11-09,10,2
+118,Welcome Home,HellYeah,18,2019-06-01,2019-06-01,8,1
+119,Bad Company,Five Finger Death Punch,18,2019-04-27,2019-04-27,8,1
+120,Opiate,Tool,18,2019-08-17,2019-08-17,8,1
+121,Sweet Emotion,Aerosmith,20,2019-10-05,2019-10-12,8,2
+122,Nero Forte,Slipknot,19,2019-08-24,2019-08-24,7,1
+123,Birth Of The Cruel,Slipknot,19,2019-08-17,2019-08-17,7,1
+124,Dragula,Rob Zombie,19,2019-11-09,2019-11-09,7,1
+125,333,HellYeah,19,2019-03-30,2019-03-30,7,1
+126,Leviathan,Volbeat,19,2019-06-01,2019-06-01,7,1
+127,Stairway To Heaven,Led Zeppelin,22,2019-10-05,2019-11-23,7,2
+128,Photograph,Def Leppard,20,2019-05-11,2019-05-11,6,1
+129,You Ain't Ready,Skillet,20,2019-08-10,2019-08-10,6,1
+130,Drugs,Falling In Reverse,21,2019-04-20,2019-04-20,5,1
+131,Degenerates,A Day To Remember,21,2019-08-31,2019-08-31,5,1
+132,Wouldn't You Rather,Alter Bridge,21,2019-07-13,2019-07-13,5,1
+133,Mad Russian's Christmas,Trans-Siberian Orchestra,22,2019-12-28,2019-12-28,4,1
+134,Take Me To The Top,Motley Crue,22,2019-04-13,2019-04-13,4,1
+135,Right In Two,Tool,22,2019-08-17,2019-08-17,4,1
+136,Breaking Down,I Prevail,22,2019-03-16,2019-03-16,4,1
+137,Rising,Jeff Williams Featuring Casey Lee Williams,22,2019-07-13,2019-07-13,4,1
+138,Welcome To The Jungle,Guns N' Roses,23,2019-11-16,2019-11-16,3,1
+139,Everlong,Foo Fighters,23,2019-10-19,2019-10-19,3,1
+140,Shoot To Thrill,AC/DC,23,2019-06-29,2019-06-29,3,1
+141,One Thing,Jeff Williams Featuring Casey Lee Williams,24,2019-07-13,2019-07-13,2,1
+142,Crash And Burn,Motley Crue,24,2019-04-06,2019-04-06,2,1
+143,The Grudge,Tool,24,2019-08-17,2019-08-17,2,1
+144,Baba O'riley,The Who,24,2019-03-30,2019-03-30,2,1
+145,Carry The Weight,We Came As Romans,25,2019-10-12,2019-10-12,1,1
+146,Tapping Out,Issues,25,2019-05-18,2019-05-18,1,1
+147,Blinded,As I Lay Dying,25,2019-09-28,2019-09-28,1,1

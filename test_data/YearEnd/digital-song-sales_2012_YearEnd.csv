@@ -1,0 +1,526 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Call Me Maybe,Carly Rae Jepsen,1,2012-03-10,2012-12-29,4786,43
+2,Somebody That I Used To Know,Gotye Featuring Kimbra,1,2012-01-28,2012-11-03,4314,41
+3,We Are Young,fun. Featuring Janelle Monae,1,2012-01-28,2012-12-29,3626,40
+4,Some Nights,fun.,3,2012-03-10,2012-12-29,3075,35
+5,Payphone,Maroon 5 Featuring Wiz Khalifa,1,2012-05-05,2012-12-22,3028,32
+6,Starships,Nicki Minaj,3,2012-03-03,2012-10-06,2833,32
+7,I Won't Give Up,Jason Mraz,1,2012-01-21,2012-12-29,2784,50
+8,Whistle,Flo Rida,1,2012-05-12,2012-12-29,2659,31
+9,What Makes You Beautiful,One Direction,3,2012-03-03,2012-12-01,2648,37
+10,One More Night,Maroon 5,2,2012-07-07,2012-12-29,2619,24
+11,Stronger (What Doesn't Kill You),Kelly Clarkson,1,2012-01-21,2012-08-25,2563,32
+12,Lights,Ellie Goulding,5,2012-02-04,2012-11-24,2394,40
+13,Gangnam Style,PSY,1,2012-09-08,2012-12-29,2277,17
+14,Too Close,Alex Clare,5,2012-03-31,2012-12-29,2277,39
+15,Wild Ones,Flo Rida Featuring Sia,6,2012-01-07,2012-09-15,2265,33
+16,Glad You Came,The Wanted,2,2012-02-04,2012-09-08,2229,31
+17,Home,Phillip Phillips,1,2012-06-09,2012-12-29,2199,26
+18,Set Fire To The Rain,Adele,1,2012-01-07,2012-06-30,2198,26
+19,Sexy And I Know It,LMFAO,1,2012-01-07,2012-08-11,2147,32
+20,Wide Awake,Katy Perry,1,2012-06-09,2012-11-10,2077,23
+21,Everybody Talks,Neon Trees,8,2012-03-31,2012-12-15,2052,38
+22,We Are Never Ever Getting Back Together,Taylor Swift,1,2012-09-01,2012-12-29,1865,17
+23,Drive By,Train,8,2012-01-28,2012-10-06,1838,36
+24,Titanium,David Guetta Featuring Sia,6,2012-05-12,2012-12-01,1782,30
+25,Boyfriend,Justin Bieber,1,2012-04-14,2012-09-08,1773,22
+26,Ho Hey,The Lumineers,3,2012-06-23,2012-12-29,1757,28
+27,Wanted,Hunter Hayes,13,2012-05-12,2012-12-29,1714,34
+28,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz",9,2012-04-21,2012-11-24,1690,32
+29,Good Time,Owl City & Carly Rae Jepsen,5,2012-07-14,2012-12-15,1687,23
+30,As Long As You Love Me,Justin Bieber Featuring Big Sean,5,2012-06-30,2012-12-29,1684,24
+31,Diamonds,Rihanna,1,2012-10-13,2012-12-29,1550,12
+32,Die Young,Ke$ha,3,2012-10-13,2012-12-29,1539,12
+33,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,5,2012-01-07,2012-06-09,1539,23
+34,Part Of Me,Katy Perry,1,2012-03-03,2012-08-18,1535,25
+35,Rack City,Tyga,3,2012-01-07,2012-06-16,1507,24
+36,The Motto,Drake Featuring Lil Wayne,12,2012-01-07,2012-07-21,1502,29
+37,Locked Out Of Heaven,Bruno Mars,1,2012-10-20,2012-12-29,1463,11
+38,Good Feeling,Flo Rida,2,2012-01-07,2012-06-09,1450,22
+39,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,4,2012-01-07,2012-08-04,1431,31
+40,Blow Me (One Last Kiss),P!nk,4,2012-07-21,2012-12-15,1377,22
+41,Turn Me On,David Guetta Featuring Nicki Minaj,1,2012-01-07,2012-05-26,1348,21
+42,Where Have You Been,Rihanna,6,2012-05-19,2012-09-29,1314,20
+43,Drunk On You,Luke Bryan,11,2012-03-24,2012-10-06,1306,28
+44,Feel So Close,Calvin Harris,11,2012-03-10,2012-08-25,1298,25
+45,We Found Love,Rihanna Featuring Calvin Harris,2,2012-01-07,2012-05-05,1284,18
+46,Want U Back,Cher Lloyd,5,2012-06-30,2012-11-17,1277,21
+47,Springsteen,Eric Church,13,2012-03-24,2012-11-17,1251,28
+48,Pontoon,Little Big Town,12,2012-06-09,2012-12-01,1183,25
+49,Give Your Heart A Break,Demi Lovato,21,2012-04-21,2012-11-24,1177,30
+50,Blown Away,Carrie Underwood,15,2012-05-19,2012-12-29,1136,25
+51,Scream,Usher,7,2012-05-12,2012-09-22,1106,20
+52,Back In Time,Pitbull,5,2012-04-14,2012-08-25,1078,18
+53,Take Care,Drake Featuring Rihanna,15,2012-01-07,2012-06-16,1073,24
+54,Brokenhearted,Karmin,15,2012-03-31,2012-09-08,1056,24
+55,Paradise,Coldplay,11,2012-01-07,2012-08-18,1055,30
+56,Girl On Fire,Alicia Keys Featuring Nicki Minaj,3,2012-09-22,2012-12-29,1031,15
+57,A Thousand Years,Christina Perri,21,2012-01-07,2012-12-29,1019,27
+58,Clique,"Kanye West, Jay-Z, Big Sean",2,2012-09-22,2012-12-29,999,15
+59,"Work Hard, Play Hard",Wiz Khalifa,6,2012-05-12,2012-10-06,993,22
+60,Ni**as In Paris,Jay Z Kanye West,5,2012-01-07,2012-04-28,975,17
+61,50 Ways To Say Goodbye,Train,16,2012-08-04,2012-12-29,974,22
+62,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,14,2012-01-07,2012-10-27,963,33
+63,Cruise,Florida Georgia Line Featuring Nelly,11,2012-08-25,2012-12-29,936,19
+64,Don't Wake Me Up,Chris Brown,18,2012-06-09,2012-12-29,924,24
+65,I Knew You Were Trouble.,Taylor Swift,1,2012-10-27,2012-12-29,919,9
+66,Domino,Jessie J,9,2012-01-07,2012-05-05,913,18
+67,Good Girl,Carrie Underwood,9,2012-03-10,2012-07-21,910,20
+68,International Love,Pitbull Featuring Chris Brown,10,2012-01-07,2012-05-05,905,18
+69,Skyfall,Adele,3,2012-10-20,2012-12-29,888,11
+70,Rolling In The Deep,Adele,3,2012-01-07,2012-06-23,879,23
+71,Someone Like You,Adele,8,2012-01-07,2012-05-05,876,18
+72,I Cry,Flo Rida,7,2012-10-20,2012-12-29,853,11
+73,It Will Rain,Bruno Mars,4,2012-01-07,2012-04-14,839,15
+74,So Good,B.o.B,6,2012-03-10,2012-06-16,837,15
+75,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,8,2012-01-21,2012-05-19,823,18
+76,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,12,2012-08-18,2012-12-29,808,17
+77,I Will Wait,Mumford & Sons,4,2012-08-25,2012-12-29,804,19
+78,Rumour Has It,Adele,22,2012-03-03,2012-07-07,746,19
+79,No Lie,2 Chainz Featuring Drake,11,2012-05-26,2012-10-27,741,23
+80,It's Time,Imagine Dragons,22,2012-08-04,2012-12-29,741,20
+81,Come Over,Kenny Chesney,21,2012-06-02,2012-09-22,731,17
+82,Somethin' 'Bout A Truck,Kip Moore,28,2012-03-10,2012-07-28,723,21
+83,The One That Got Away,Katy Perry,2,2012-01-07,2012-03-17,713,11
+84,Take A Little Ride,Jason Aldean,2,2012-08-04,2012-11-17,712,14
+85,One Thing,One Direction,33,2012-03-31,2012-09-29,694,24
+86,Dance (A$$),Big Sean Featuring Nicki Minaj,9,2012-01-07,2012-04-14,685,15
+87,Red Solo Cup,Toby Keith,12,2012-01-07,2012-07-21,667,18
+88,We Run The Night,Havana Brown Featuring Pitbull,23,2012-05-19,2012-09-15,664,18
+89,Not Over You,Gavin DeGraw,19,2012-01-07,2012-04-28,653,17
+90,Eyes Open,Taylor Swift,4,2012-04-07,2012-06-23,645,12
+91,Pound The Alarm,Nicki Minaj,11,2012-08-18,2012-11-10,633,13
+92,Hard To Love,Lee Brice,30,2012-05-05,2012-12-01,628,24
+93,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,7,2012-07-07,2012-12-29,606,10
+94,Little Talks,Of Monsters And Men,27,2012-07-14,2012-12-29,592,25
+95,Dance Again,Jennifer Lopez Featuring Pitbull,9,2012-04-21,2012-07-14,591,12
+96,The A Team,Ed Sheeran,28,2012-09-01,2012-12-29,584,18
+97,Safe & Sound,Taylor Swift Featuring The Civil Wars,13,2012-01-07,2012-05-12,583,16
+98,Let's Go,Calvin Harris Featuring Ne-Yo,25,2012-05-12,2012-09-29,576,17
+99,Faded,Tyga Featuring Lil Wayne,30,2012-02-04,2012-07-14,576,22
+100,The Fighter,Gym Class Heroes Featuring Ryan Tedder,17,2012-06-09,2012-09-01,567,13
+101,A Woman Like You,Lee Brice,29,2012-01-28,2012-06-02,564,19
+102,I Don't Want This Night To End,Luke Bryan,24,2012-01-07,2012-04-28,552,17
+103,Birthday Cake,Rihanna,30,2012-03-10,2012-06-30,552,17
+104,Turn Up The Music,Chris Brown,9,2012-03-03,2012-06-09,535,14
+105,Feel Again,OneRepublic,22,2012-09-15,2012-12-29,519,16
+106,Over You,Miranda Lambert,32,2012-02-18,2012-12-08,509,17
+107,I Like It Like That,Hot Chelle Rae Featuring New Boyz,21,2012-01-07,2012-03-24,498,12
+108,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,8,2012-09-15,2012-12-29,489,11
+109,Hall Of Fame,The Script Featuring will.i.am,22,2012-09-08,2012-12-29,486,11
+110,Both Of Us,B.o.B Featuring Taylor Swift,8,2012-05-19,2012-09-01,484,15
+111,Live While We're Young,One Direction,1,2012-10-20,2012-12-29,477,10
+112,Scream & Shout,will.i.am & Britney Spears,1,2012-12-08,2012-12-29,469,4
+113,Work Out,J. Cole,18,2012-01-07,2012-03-24,467,12
+114,Love You Like A Love Song,Selena Gomez & The Scene,21,2012-01-07,2012-03-31,465,13
+115,Pumped Up Kicks,Foster The People,17,2012-01-07,2012-04-14,451,15
+116,Tonight Is The Night,Outasight,32,2012-01-07,2012-04-21,451,16
+117,Fly Over States,Jason Aldean,35,2012-03-17,2012-06-30,449,16
+118,I Will Always Love You,Whitney Houston,2,2012-02-25,2012-03-24,436,5
+119,Don't You Worry Child,Swedish House Mafia Featuring John Martin,12,2012-10-06,2012-12-29,433,12
+120,Stereo Hearts,Gym Class Heroes Featuring Adam Levine,11,2012-01-07,2012-03-17,430,11
+121,Climax,Usher,30,2012-03-17,2012-06-16,429,14
+122,Burn It Down,Linkin Park,11,2012-05-05,2012-09-29,427,22
+123,Bandz A Make Her Dance,Juicy J Featuring Lil Wayne & 2 Chainz,35,2012-09-29,2012-12-29,425,14
+124,Swimming Pools (Drank),Kendrick Lamar,31,2012-08-18,2012-12-29,416,15
+125,Ours,Taylor Swift,37,2012-01-07,2012-04-14,399,15
+126,Cashin' Out,Ca$h Out,42,2012-05-19,2012-09-22,398,19
+127,Begin Again,Taylor Swift,1,2012-10-13,2012-12-01,396,7
+128,(Kissed You) Good Night,Gloriana,25,2012-06-09,2012-09-08,388,14
+129,Try,P!nk,10,2012-10-06,2012-12-29,378,7
+130,You Da One,Rihanna,23,2012-01-07,2012-02-25,373,8
+131,Better Dig Two,The Band Perry,11,2012-11-17,2012-12-29,367,7
+132,Even If It Breaks Your Heart,Eli Young Band,42,2012-04-14,2012-08-18,359,18
+133,Red,Taylor Swift,2,2012-10-20,2012-11-24,358,5
+134,She's So Mean,matchbox twenty,28,2012-06-30,2012-10-20,353,13
+135,Dark Side,Kelly Clarkson,32,2012-07-28,2012-10-06,349,11
+136,Without You,David Guetta Featuring Usher,16,2012-01-07,2012-02-25,339,8
+137,Va Va Voom,Nicki Minaj,18,2012-04-21,2012-12-29,338,7
+138,5-1-5-0,Dierks Bentley,38,2012-06-02,2012-08-25,333,13
+139,Angel Eyes,Love And Theft,40,2012-06-23,2012-09-15,333,13
+140,Pop That,"French Montana Featuring Rick Ross, Drake, Lil Wayne",30,2012-07-28,2012-11-24,325,15
+141,Chasing The Sun,The Wanted,33,2012-05-05,2012-09-15,322,13
+142,Truck Yeah,Tim McGraw,30,2012-07-21,2012-10-13,319,13
+143,F**kin' Problems,"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",21,2012-11-10,2012-12-29,316,8
+144,Every Storm (Runs Out Of Rain),Gary Allan,33,2012-10-20,2012-12-29,316,11
+145,Beez In The Trap,Nicki Minaj Featuring 2 Chainz,48,2012-04-21,2012-08-04,308,16
+146,Finally Found You,Enrique Iglesias Featuring Sammy Adams,9,2012-10-13,2012-12-01,305,8
+147,Tongue Tied,Grouplove,41,2012-06-02,2012-09-15,303,15
+148,Blackout,Breathe Carolina,28,2012-01-07,2012-03-10,302,10
+149,Give Me All Your Luvin',Madonna Featuring Nicki Minaj & M.I.A.,6,2012-02-18,2012-03-17,300,5
+150,Kiss Tomorrow Goodbye,Luke Bryan,31,2012-09-15,2012-12-29,297,15
+151,Super Bass,Nicki Minaj,24,2012-01-07,2012-03-10,294,10
+152,Ronan,Taylor Swift,2,2012-09-22,2012-10-13,293,4
+153,Headlines,Drake,17,2012-01-07,2012-02-18,285,7
+154,Don't Stop The Party,Pitbull Featuring TJR,19,2012-10-13,2012-12-29,279,6
+155,5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,13,2012-01-07,2012-02-18,278,7
+156,Your Body,Christina Aguilera,10,2012-10-06,2012-11-24,275,8
+157,Anything Could Happen,Ellie Goulding,25,2012-10-27,2012-12-29,247,10
+158,Make Me Proud,Drake Featuring Nicki Minaj,31,2012-01-07,2012-02-25,243,8
+159,No Worries,Lil Wayne Featuring Detail,24,2012-09-22,2012-12-29,241,13
+160,Strange Clouds,B.o.B Featuring Lil Wayne,34,2012-01-07,2012-02-18,235,7
+161,Alone With You,Jake Owen,43,2012-01-21,2012-04-14,232,12
+162,Cowboys And Angels,Dustin Lynch,44,2012-06-30,2012-10-27,224,16
+163,Mr. Know It All,Kelly Clarkson,29,2012-01-07,2012-02-18,219,7
+164,Adorn,Miguel,49,2012-08-18,2012-12-22,212,16
+165,Birthday Song,2 Chainz Featuring Kanye West,38,2012-08-11,2012-12-29,204,13
+166,It Girl,Jason Derulo,26,2012-01-07,2012-02-11,195,6
+167,Madness,Muse,45,2012-09-08,2012-12-29,194,14
+168,Over You,Cassadee Pope,3,2012-12-08,2012-12-15,193,2
+169,Ayy Ladies,Travis Porter Featuring Tyga,32,2012-03-24,2012-06-16,192,11
+170,Thinkin Bout You,Frank Ocean,29,2012-09-22,2012-12-29,191,11
+171,Catch My Breath,Kelly Clarkson,11,2012-11-03,2012-12-29,190,6
+172,My Life,50 Cent Featuring Eminem & Adam Levine,4,2012-12-15,2012-12-29,185,3
+173,Drank In My Cup,Kirko Bangz,51,2012-03-31,2012-07-07,183,15
+174,Die In Your Arms,Justin Bieber,4,2012-06-16,2012-06-23,180,2
+175,You Make Me Feel...,Cobra Starship Featuring Sabi,33,2012-01-07,2012-02-11,177,6
+176,Feel Like A Rock Star,Kenny Chesney & Tim McGraw,19,2012-04-21,2012-07-07,175,8
+177,All I Want For Christmas Is You,Mariah Carey,19,2012-01-07,2012-12-29,174,4
+178,Talk That Talk,Rihanna Featuring Jay-Z,45,2012-03-10,2012-05-05,172,9
+179,Snap Backs & Tattoos,Driicky Graham,47,2012-06-16,2012-09-22,172,13
+180,All Around The World,Justin Bieber Featuring Ludacris,5,2012-06-23,2012-06-30,171,2
+181,State Of Grace,Taylor Swift,2,2012-11-03,2012-11-03,164,1
+182,Sweet Nothing,Calvin Harris Featuring Florence Welch,29,2012-10-27,2012-12-29,162,5
+183,Drink On It,Blake Shelton,48,2012-03-10,2012-05-05,162,9
+184,Just A Kiss,Lady Antebellum,45,2012-01-07,2012-02-18,158,7
+185,Little Things,One Direction,10,2012-12-01,2012-12-29,157,5
+186,Levels,Avicii,51,2012-01-07,2012-04-14,157,12
+187,Strip,Chris Brown Featuring Kevin K-MAC McCall,46,2012-01-28,2012-04-07,155,11
+188,Sorry For Party Rocking,LMFAO,37,2012-02-25,2012-04-14,154,8
+189,A Thousand Years (Part 2),Christina Perri Featuring Steve Kazee,13,2012-12-01,2012-12-15,152,3
+190,God Gave Me You,Blake Shelton,42,2012-01-07,2012-05-26,152,8
+191,22,Taylor Swift,7,2012-11-10,2012-11-24,150,3
+192,Sail,AWOLNATION,47,2012-07-14,2012-10-13,150,11
+193,Mirror,Lil Wayne Featuring Bruno Mars,33,2012-02-18,2012-03-31,147,7
+194,Bangarang,Skrillex Featuring Sirah,50,2012-03-10,2012-05-05,139,9
+195,If I Die Young,The Band Perry,40,2012-01-07,2012-03-03,138,8
+196,Promises,NERO,38,2012-07-14,2012-09-22,136,6
+197,Ball,T.I. Featuring Lil Wayne,10,2012-11-03,2012-11-17,131,3
+198,How We Do (Party),Rita Ora,41,2012-06-30,2012-08-04,130,6
+199,Good Life,OneRepublic,45,2012-01-14,2012-02-18,130,6
+200,Somebody That I Used To Know,Glee Cast,10,2012-04-28,2012-05-12,128,3
+201,Marry The Night,Lady Gaga,40,2012-01-07,2012-02-04,125,5
+202,Come Wake Me Up,Rascal Flatts,47,2012-09-01,2012-10-27,121,9
+203,Stupid Boy,Cassadee Pope,6,2012-12-29,2012-12-29,120,1
+204,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",43,2012-01-07,2012-02-11,119,6
+205,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,13,2012-02-25,2012-03-03,114,2
+206,My Homies Still,Lil Wayne Featuring Big Sean,13,2012-06-23,2012-08-11,106,3
+207,Brighter Than The Sun,Colbie Caillat,42,2012-01-28,2012-02-18,102,4
+208,Dirt Road Anthem,Jason Aldean,42,2012-01-07,2012-05-12,102,6
+209,I'm Different,2 Chainz,28,2012-12-15,2012-12-29,101,3
+210,T.H.E (The Hardest Ever),will.i.am Featuring Mick Jagger & Jennifer Lopez,45,2012-01-21,2012-02-18,101,5
+211,Greatest Love Of All,Whitney Houston,20,2012-02-25,2012-03-03,100,2
+212,How To Love,Lil Wayne,33,2012-01-07,2012-01-28,100,4
+213,Settle Down,No Doubt,13,2012-08-04,2012-09-15,99,6
+214,Loud,Mac Miller,17,2012-05-05,2012-05-19,99,3
+215,Princess Of China,Coldplay Featuring Rihanna,45,2012-02-25,2012-04-07,99,7
+216,Live My Life,Far*East Movement Featuring Justin Bieber,8,2012-03-17,2012-03-17,98,1
+217,Fly,Nicki Minaj Featuring Rihanna,40,2012-01-07,2012-01-28,95,4
+218,The Only Way I Know,Jason Aldean With Luke Bryan & Eric Church,52,2012-11-03,2012-12-29,94,5
+219,Love And War,Tamar Braxton,12,2012-12-22,2012-12-29,93,2
+220,Just A Fool,Christina Aguilera With Blake Shelton,25,2012-12-01,2012-12-08,93,2
+221,Thunderstruck,AC/DC,16,2012-12-08,2012-12-15,92,2
+222,If I Didn't Know Better,Sam Palladio & Clare Bowen,41,2012-10-27,2012-11-10,91,3
+223,Hello,Karmin,50,2012-09-29,2012-10-27,90,5
+224,Mistletoe,Justin Bieber,16,2012-01-07,2012-01-14,89,2
+225,Don't Rush,Kelly Clarkson Featuring Vince Gill,30,2012-11-17,2012-11-24,87,2
+226,Drink In My Hand,Eric Church,60,2012-01-07,2012-02-18,84,7
+227,Radioactive,Imagine Dragons,51,2012-08-18,2012-12-29,80,6
+228,Back In Black,AC/DC,20,2012-12-08,2012-12-15,77,2
+229,Smooth Criminal,Glee Cast Featuring 2Cellos,10,2012-02-18,2012-02-18,76,1
+230,I Almost Do,Taylor Swift,10,2012-11-10,2012-11-10,76,1
+231,Right By My Side,Nicki Minaj Featuring Chris Brown,28,2012-04-21,2012-06-09,76,4
+232,Heart Attack,Trey Songz,28,2012-04-14,2012-09-01,76,5
+233,Kyoto,Skrillex Featuring Sirah,49,2012-01-21,2012-02-18,76,5
+234,Dancin' Away With My Heart,Lady Antebellum,56,2012-03-17,2012-04-28,76,7
+235,Stupid Hoe,Nicki Minaj,39,2012-02-11,2012-02-25,74,3
+236,You,Chris Young,53,2012-01-28,2012-02-18,71,4
+237,How Will I Know,Whitney Houston,36,2012-02-25,2012-03-03,70,2
+238,Tornado,Little Big Town,46,2012-12-01,2012-12-29,70,4
+239,Fade Into You,Sam Palladio & Clare Bowen,30,2012-11-10,2012-11-17,69,2
+240,Stay Schemin,Rick Ross Featuring Drake & French Montana,26,2012-05-05,2012-05-12,68,2
+241,You And I,Lady Gaga,50,2012-01-07,2012-01-21,68,3
+242,Heartbeat,The Fray,39,2012-02-11,2012-02-25,67,3
+243,Tonight (Best You Ever Had),John Legend Featuring Ludacris,47,2012-05-12,2012-09-22,67,4
+244,TTYLXOX,Bella Thorne,51,2012-03-31,2012-04-28,67,5
+245,Ready Or Not,Bridgit Mendler,46,2012-09-01,2012-12-29,66,4
+246,Shadow Days,John Mayer,12,2012-03-24,2012-03-24,64,1
+247,Without You,Glee Cast,12,2012-02-04,2012-02-04,64,1
+248,You Shook Me All Night Long,AC/DC,23,2012-12-08,2012-12-15,64,2
+249,Turn On The Lights,Future,55,2012-09-15,2012-11-03,64,7
+250,Everything Has Changed,Taylor Swift Featuring Ed Sheeran,13,2012-11-10,2012-11-10,63,1
+251,'Till I Collapse,Eminem Featuring Nate Dogg,46,2012-06-30,2012-07-21,63,4
+252,Tattoos On This Town,Jason Aldean,51,2012-01-07,2012-01-21,62,3
+253,I Have Nothing,Whitney Houston,38,2012-02-25,2012-03-03,61,2
+254,99 Problems,Tony Lucca,16,2012-05-26,2012-05-26,60,1
+255,When I Was Your Man,Bruno Mars,16,2012-12-22,2012-12-22,60,1
+256,Battle Scars,Lupe Fiasco & Guy Sebastian,23,2012-09-15,2012-09-22,60,2
+257,Turn To You (Mother's Day Dedication),Justin Bieber,17,2012-05-26,2012-05-26,59,1
+258,She Will,Lil Wayne Featuring Drake,44,2012-01-07,2012-01-21,59,3
+259,When I'm Gone,Wiz Khalifa,47,2012-03-03,2012-03-24,59,4
+260,Let It Be,Terry McDermott,18,2012-12-29,2012-12-29,58,1
+261,Runaways,The Killers,34,2012-08-04,2012-08-11,58,2
+262,Young Girls,Bruno Mars,36,2012-11-24,2012-12-22,57,2
+263,Southern Comfort Zone,Brad Paisley,41,2012-10-20,2012-11-24,57,3
+264,"It's A Man's, Man's, Man's World",Juliet Simms,20,2012-05-19,2012-05-19,56,1
+265,Just What I Am,Kid Cudi Featuring King Chip,21,2012-10-20,2012-10-27,56,2
+266,I Don't Like,Chief Keef Featuring Lil Reese,38,2012-10-06,2012-10-13,55,2
+267,How Will I Know,Glee Cast,22,2012-05-12,2012-05-12,54,1
+268,Yesterday,Adam Levine & Tony Lucca,22,2012-05-26,2012-05-26,54,1
+269,All Too Well,Taylor Swift,22,2012-11-10,2012-11-10,54,1
+270,To The World,"Kanye West, R. Kelly",30,2012-10-06,2012-10-13,54,2
+271,The Trouble With Girls,Scotty McCreery,52,2012-01-07,2012-01-21,54,3
+272,Changed,Rascal Flatts,23,2012-03-31,2012-03-31,53,1
+273,Shake It Out,Glee Cast,23,2012-05-19,2012-05-19,53,1
+274,Tonight Tonight,Hot Chelle Rae,51,2012-01-07,2012-01-21,53,3
+275,At Last,Etta James,29,2012-02-04,2012-02-11,52,2
+276,Goodbye In Her Eyes,Zac Brown Band,47,2012-11-17,2012-12-29,52,5
+277,I Want To Know What Love Is,Terry McDermott,25,2012-12-22,2012-12-22,51,1
+278,Rest Of My Life,Ludacris Featuring Usher & David Guetta,25,2012-11-24,2012-11-24,51,1
+279,Get Low,"Waka Flocka Flame Featuring Nicki Minaj, Tyga & Flo Rida",26,2012-06-23,2012-06-23,50,1
+280,I Wish You Would,DJ Khaled Featuring Kanye West & Rick Ross,35,2012-07-21,2012-07-28,50,2
+281,Windows Down,BTR,45,2012-07-14,2012-07-28,50,3
+282,Shake It Out,Florence + The Machine,56,2012-01-21,2012-05-19,50,7
+283,I Don't Really Care,Waka Flocka Flame Featuring Trey Songz,27,2012-04-14,2012-04-14,49,1
+284,Around My Way (Freedom Ain't Free),Lupe Fiasco,27,2012-06-09,2012-06-09,49,1
+285,Too Close,Melanie Martinez,27,2012-12-15,2012-12-15,49,1
+286,Ima Boss,"Meek Mill Featuring T.I., Birdman, Lil Wayne, DJ Khaled, Rick Ross & Swizz Beatz",30,2012-02-25,2012-03-03,49,2
+287,I Found You,The Wanted,43,2012-11-24,2012-12-08,49,2
+288,I Can Only Imagine,David Guetta Featuring Chris Brown & Lil Wayne,64,2012-09-22,2012-11-03,49,7
+289,Are You Happy Now?,Cassadee Pope,28,2012-12-15,2012-12-15,48,1
+290,New Day,50 Cent Featuring Dr. Dre & Alicia Keys,28,2012-08-18,2012-08-18,48,1
+291,Stay Stay Stay,Taylor Swift,28,2012-11-10,2012-11-10,48,1
+292,Go Get It,T.I.,29,2012-08-04,2012-08-04,47,1
+293,Take It To The Head,DJ Khaled,36,2012-04-21,2012-06-16,47,3
+294,Somewhere Over The Rainbow,Nicholas David,30,2012-12-22,2012-12-22,46,1
+295,Between The Raindrops,Lifehouse Featuring Natasha Bedingfield,30,2012-09-29,2012-09-29,46,1
+296,Seven Nation Army,Melanie Martinez,30,2012-12-08,2012-12-08,46,1
+297,2 Reasons,Trey Songz Featuring T.I.,56,2012-09-01,2012-09-15,46,3
+298,I'm All Yours,Jay Sean Featuring Pitbull,31,2012-06-16,2012-06-16,45,1
+299,Human Nature,Glee Cast,31,2012-02-18,2012-02-18,45,1
+300,Highway To Hell,AC/DC,31,2012-12-08,2012-12-08,45,1
+301,The Champ,Nelly,48,2012-01-14,2012-01-28,45,3
+302,I Believe I Can Fly,Jermaine Paul,32,2012-05-26,2012-05-26,44,1
+303,Yuck!,2 Chainz Featuring Lil Wayne,32,2012-09-01,2012-09-01,44,1
+304,All Your Life,The Band Perry,63,2012-01-07,2012-02-25,44,6
+305,Fly / I Believe I Can Fly,Glee Cast,33,2012-03-10,2012-03-10,43,1
+306,Runaway Baby,Bruno Mars,33,2012-03-03,2012-03-03,43,1
+307,Firework,Katy Perry,49,2012-01-07,2012-07-21,43,3
+308,Get It Started,Pitbull Featuring Shakira,51,2012-07-21,2012-07-28,43,2
+309,The Prayer,Christina Aguilera & Chris Mann,34,2012-05-26,2012-05-26,42,1
+310,Undefeated,Jason Derulo,34,2012-06-09,2012-06-09,42,1
+311,We Found Love,Glee Cast,35,2012-02-04,2012-02-04,41,1
+312,Night Train,Jason Aldean,35,2012-11-03,2012-11-03,41,1
+313,The Scientist,Glee Cast,35,2012-10-20,2012-10-20,41,1
+314,Treacherous,Taylor Swift,36,2012-11-10,2012-11-10,40,1
+315,Why Ya Wanna,Jana Kramer,49,2012-06-16,2012-09-01,40,4
+316,Last Friday Night (T.G.I.F.),Katy Perry,55,2012-01-07,2012-01-21,40,3
+317,Beautiful,Carly Rae Jepsen Featuring Justin Bieber,37,2012-10-06,2012-10-06,39,1
+318,The Last Time,Taylor Swift,37,2012-11-10,2012-11-10,39,1
+319,Mean,Taylor Swift,37,2012-03-03,2012-03-03,39,1
+320,It's All Coming Back To Me Now,Glee Cast,37,2012-06-02,2012-06-02,39,1
+321,Stand,Cassadee Pope,37,2012-12-22,2012-12-22,39,1
+322,Cough Syrup,Glee Cast,38,2012-03-10,2012-03-10,38,1
+323,Stars,Amanda Brown,38,2012-12-08,2012-12-08,38,1
+324,You Are So Beautiful,Nicholas David,38,2012-12-29,2012-12-29,38,1
+325,Wipe Your Eyes,Maroon 5,38,2012-07-14,2012-07-14,38,1
+326,Lamborghini Angels,Lupe Fiasco,38,2012-09-01,2012-09-01,38,1
+327,Like A Prayer,Madonna,38,2012-02-25,2012-02-25,38,1
+328,This Kiss,Carly Rae Jepsen,40,2012-09-29,2012-10-06,38,2
+329,Saving All My Love For You,Whitney Houston,49,2012-02-25,2012-03-03,38,2
+330,Dynamite,Taio Cruz,54,2012-01-07,2012-01-21,38,3
+331,Starlight,Taylor Swift,39,2012-11-10,2012-11-10,37,1
+332,New God Flow,Pusha T Kanye West,39,2012-08-11,2012-08-11,37,1
+333,Babel,Mumford & Sons,39,2012-10-13,2012-10-13,37,1
+334,It's Not Right But It's Okay,Glee Cast,39,2012-05-12,2012-05-12,37,1
+335,Give It All We Got Tonight,George Strait,56,2012-12-08,2012-12-15,37,2
+336,What Doesn't Kill You (Stronger),Glee Cast,40,2012-03-10,2012-03-10,36,1
+337,Celebration,"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",40,2012-10-06,2012-10-06,36,1
+338,Give Your Heart A Break,Glee Cast,40,2012-10-20,2012-10-20,36,1
+339,Let It Go,Wiz Khalifa Featuring Akon,41,2012-12-22,2012-12-22,35,1
+340,We've Got Tonight,Phillip Phillips,41,2012-06-09,2012-06-09,35,1
+341,Come Away To The Water,Maroon 5 Featuring Rozzi Crane,41,2012-04-07,2012-04-07,35,1
+342,It's Time,Glee Cast,41,2012-09-29,2012-09-29,35,1
+343,If I Didn't Have You,Thompson Square,41,2012-11-17,2012-11-17,35,1
+344,No Church In The Wild,Jay Z Kanye West Featuring Frank Ocean,56,2012-02-11,2012-02-25,35,2
+345,UP!,LoveRance Featuring IamSu & Skipper or 50 Cent,63,2012-04-07,2012-05-05,35,4
+346,Black Or White,Glee Cast,42,2012-02-18,2012-02-18,34,1
+347,Moves Like Jagger / Jumpin' Jack Flash,Glee Cast,42,2012-02-04,2012-02-04,34,1
+348,Lemme See,Usher Featuring Rick Ross,69,2012-05-26,2012-08-04,34,7
+349,Throw That,Slaughterhouse Featuring Eminem,43,2012-09-08,2012-09-08,33,1
+350,I Wanna Dance With Somebody (Who Loves Me),Glee Cast,43,2012-05-12,2012-05-12,33,1
+351,Over,Blake Shelton,65,2012-07-07,2012-08-11,33,6
+352,Poetic Justice,Kendrick Lamar Featuring Drake,44,2012-11-10,2012-11-10,32,1
+353,Skinny Love,Lindsey Pavao,44,2012-05-19,2012-05-19,32,1
+354,Summer Jam,Jake Owen Featuring Florida Georgia Line,44,2012-10-13,2012-10-13,32,1
+355,I'm With You,Cassadee Pope,44,2012-12-22,2012-12-22,32,1
+356,Free Bird,Juliet Simms,44,2012-05-26,2012-05-26,32,1
+357,Freedom,Nicki Minaj,44,2012-11-24,2012-11-24,32,1
+358,Stars,Grace Potter & The Nocturnals,45,2012-12-08,2012-12-08,31,1
+359,Last Dance,Donna Summer,45,2012-06-02,2012-06-02,31,1
+360,The First Time Ever I Saw Your Face,Glee Cast,45,2012-02-04,2012-02-04,31,1
+361,Look At Me Now,Chris Brown Featuring Lil Wayne & Busta Rhymes,60,2012-01-07,2012-01-14,31,2
+362,Scary Monsters And Nice Sprites,Skrillex,61,2012-01-07,2012-03-03,31,6
+363,Beers Ago,Toby Keith,63,2012-06-16,2012-07-07,31,4
+364,You Raise Me Up,Chris Mann,46,2012-05-26,2012-05-26,30,1
+365,Wanna Be Startin' Somethin',Glee Cast,46,2012-02-18,2012-02-18,30,1
+366,The Star Spangled Banner,Whitney Houston,48,2012-02-25,2012-03-03,29,2
+367,Here's To Us,Glee Cast,48,2012-03-10,2012-03-10,28,1
+368,And I Am Telling You I'm Not Going,Trevin Hunte,48,2012-12-22,2012-12-22,28,1
+369,Daylight,Maroon 5,48,2012-12-29,2012-12-29,28,1
+370,Roxanne,Juliet Simms,48,2012-04-28,2012-04-28,28,1
+371,Burn,Meek Mill Featuring Big Sean,48,2012-09-29,2012-09-29,28,1
+372,Bad,Glee Cast,48,2012-02-18,2012-02-18,28,1
+373,Easy,Rascal Flatts Featuring Natasha Bedingfield,64,2012-01-07,2012-01-21,28,3
+374,Diced Pineapples,Rick Ross Featuring Wale & Drake,49,2012-08-18,2012-08-18,27,1
+375,Mercy,Dave Matthews Band,49,2012-08-04,2012-08-04,27,1
+376,One Of Those Nights,Tim McGraw,49,2012-11-17,2012-11-17,27,1
+377,Daydream Believer,The Monkees,49,2012-03-17,2012-03-17,27,1
+378,Country Girl (Shake It For Me),Luke Bryan,60,2012-01-07,2012-01-21,27,3
+379,She's Not Afraid,One Direction,50,2012-12-01,2012-12-01,26,1
+380,Let's Ride,Kid Rock,50,2012-11-17,2012-11-17,26,1
+381,Mutha***** Up,Tyga Featuring Nicki Minaj,50,2012-03-10,2012-03-10,26,1
+382,Holy Ground,Taylor Swift,50,2012-11-10,2012-11-10,26,1
+383,T.N.T.,AC/DC,50,2012-12-08,2012-12-08,26,1
+384,So Sophisticated,Rick Ross Featuring Meek Mill,50,2012-06-23,2012-06-23,26,1
+385,Cry,Glee Cast,50,2012-05-19,2012-05-19,26,1
+386,Banjo,Rascal Flatts,61,2012-04-21,2012-04-28,26,2
+387,Way Too Cold,Kanye West Featuring DJ Khaled,51,2012-05-05,2012-05-05,25,1
+388,Hell's Bells,AC/DC,51,2012-12-08,2012-12-08,25,1
+389,Roman Reloaded,Nicki Minaj Featuring Lil Wayne,51,2012-03-17,2012-03-17,25,1
+390,Hands In The Air,Timbaland Featuring Ne-Yo,57,2012-08-04,2012-08-11,25,2
+391,What's Going On,Nicholas David,52,2012-12-15,2012-12-15,24,1
+392,The Lucky One,Taylor Swift,52,2012-11-10,2012-11-10,24,1
+393,Make It Bun Dem,"Skrillex & Damian '""Jr. Gong"" Marley",52,2012-05-19,2012-05-19,24,1
+394,So Hard To Breathe,B.o.B,52,2012-05-05,2012-05-05,24,1
+395,Dream On,Amanda Brown,53,2012-11-24,2012-11-24,23,1
+396,Misty Mountains,Richard Armitage With The Dwarf Cast,53,2012-12-29,2012-12-29,23,1
+397,Amen,Meek Mill Featuring Drake,54,2012-07-07,2012-07-07,22,1
+398,Mean,Glee Cast,54,2012-06-02,2012-06-02,22,1
+399,Volcano,Phillip Phillips,54,2012-06-09,2012-06-09,22,1
+400,Walk,Foo Fighters,54,2012-03-03,2012-03-03,22,1
+401,Where Are You (B.o.B vs Bobby Ray),B.o.B,54,2012-04-07,2012-04-07,22,1
+402,One Moment In Time,Whitney Houston,56,2012-02-25,2012-03-03,22,2
+403,Don't Run Away,Tyler James Williams Featuring IM5,55,2012-07-07,2012-07-07,21,1
+404,No One Will Ever Love You,Connie Britton & Charles Esten,55,2012-11-10,2012-11-10,21,1
+405,Free,Haley Reinhart,55,2012-04-07,2012-04-07,21,1
+406,Love This Life,T.I.,55,2012-04-21,2012-04-21,21,1
+407,Hungry Like The Wolf / Rio,Glee Cast,55,2012-04-28,2012-04-28,21,1
+408,Loveeeeeee Song,Rihanna Featuring Future,55,2012-12-08,2012-12-08,21,1
+409,Crazy,Melanie Martinez,55,2012-12-22,2012-12-22,21,1
+410,Remember You,Wiz Khalifa Featuring The Weeknd,59,2012-10-13,2012-12-29,21,2
+411,Boyfriend,RaeLynn,56,2012-12-29,2012-12-29,20,1
+412,Soul Man,Blake Shelton & Jermaine Paul,56,2012-05-26,2012-05-26,20,1
+413,Ice,Kelly Rowland Featuring Lil Wayne,56,2012-09-15,2012-09-15,20,1
+414,Sad Beautiful Tragic,Taylor Swift,56,2012-11-10,2012-11-10,20,1
+415,Nobody Compares,One Direction,56,2012-12-01,2012-12-01,20,1
+416,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,56,2012-12-15,2012-12-15,20,1
+417,The Lazy Song,Bruno Mars,63,2012-01-07,2012-01-14,20,2
+418,The Wind,Zac Brown Band,57,2012-07-21,2012-07-21,19,1
+419,My Life,Slaughterhouse Featuring Cee Lo Green,57,2012-06-02,2012-06-02,19,1
+420,Kiss You,One Direction,57,2012-12-01,2012-12-01,19,1
+421,Tattoo,Van Halen,57,2012-01-28,2012-01-28,19,1
+422,Sweet Love,Chris Brown,57,2012-05-05,2012-05-05,19,1
+423,Day That I Die,Zac Brown Band Featuring Amos Lee,57,2012-07-28,2012-07-28,19,1
+424,Make It Nasty,Tyga,66,2012-03-10,2012-03-24,19,3
+425,Representin',Ludacris Featuring Kelly Rowland,58,2012-10-27,2012-10-27,18,1
+426,Didn't We Almost Have It All,Whitney Houston,58,2012-03-03,2012-03-03,18,1
+427,Miss America,J. Cole,58,2012-12-01,2012-12-01,18,1
+428,Undermine,Charles Esten & Hayden Panettiere,58,2012-11-10,2012-11-10,18,1
+429,Dirty Deeds Done Dirt Cheap,AC/DC,58,2012-12-08,2012-12-08,18,1
+430,Fighter,Glee Cast,58,2012-04-28,2012-04-28,18,1
+431,Time Is Love,Josh Turner,61,2012-06-30,2012-07-07,18,2
+432,Fine By Me,Andy Grammer,62,2012-06-02,2012-06-16,18,3
+433,Mine,Glee Cast,59,2012-10-20,2012-10-20,17,1
+434,My Love Is Your Love,Glee Cast,59,2012-05-12,2012-05-12,17,1
+435,Lean On Me,Nicholas David,59,2012-12-08,2012-12-08,17,1
+436,Keep Your Head Up,Andy Grammer,59,2012-01-21,2012-01-21,17,1
+437,She Doesn't Mind,Sean Paul,60,2012-04-14,2012-04-14,16,1
+438,Love Sosa,Chief Keef,60,2012-12-29,2012-12-29,16,1
+439,Right Here,Justin Bieber Featuring Drake,60,2012-07-07,2012-07-07,16,1
+440,It's Nothin,Wiz Khalifa Featuring 2 Chainz,60,2012-12-22,2012-12-22,16,1
+441,Marry You,Bruno Mars,60,2012-06-16,2012-06-16,16,1
+442,Take A Hint,Victorious Cast Featuring Victoria Justice & Elizabeth Gillies,60,2012-03-24,2012-03-24,16,1
+443,Drivin' Around Song,Colt Ford Featuring Jason Aldean,60,2012-08-25,2012-08-25,16,1
+444,Sorry,T.I. Featuring Andre 3000,60,2012-12-15,2012-12-15,16,1
+445,When Can I See You Again?,Owl City,60,2012-11-24,2012-11-24,16,1
+446,When We Stand Together,Nickelback,66,2012-01-07,2012-01-14,16,2
+447,Americano / Dance Again,Glee Cast Featuring Kate Hudson,61,2012-09-29,2012-09-29,15,1
+448,Where Do Broken Hearts Go,Whitney Houston,61,2012-03-03,2012-03-03,15,1
+449,Hail Mary,Trey Songz Featuring Young Jeezy & Lil Wayne,61,2012-09-08,2012-09-08,15,1
+450,Glad You Came,Glee Cast,61,2012-03-10,2012-03-10,15,1
+451,Home,Dierks Bentley,61,2012-02-25,2012-02-25,15,1
+452,Teenage Dream,Glee Cast,61,2012-10-20,2012-10-20,15,1
+453,Cockiness (Love It),Rihanna Featuring A$AP Rocky,61,2012-09-22,2012-09-22,15,1
+454,Crazy Girl,Eli Young Band,68,2012-01-07,2012-01-14,15,2
+455,Say Aah,Lindsey Pavao,62,2012-02-25,2012-02-25,14,1
+456,Beautiful People,Chris Brown Featuring Benny Benassi,62,2012-03-03,2012-03-03,14,1
+457,Blunt Blowin,Lil Wayne,62,2012-01-07,2012-01-07,14,1
+458,Summer Nights,Glee Cast,63,2012-02-04,2012-02-04,13,1
+459,The Boys,Nicki Minaj & Cassie,63,2012-09-29,2012-09-29,13,1
+460,Somebody's Heartbreak,Hunter Hayes,63,2012-12-29,2012-12-29,13,1
+461,Like That,T.I.,63,2012-06-09,2012-06-09,13,1
+462,Thriller,Michael Jackson,66,2012-11-10,2012-11-17,13,2
+463,Grenade,Bruno Mars,67,2012-01-14,2012-03-03,13,2
+464,Still The One,One Direction,64,2012-12-01,2012-12-01,12,1
+465,Called Out In The Dark,Snow Patrol,64,2012-01-28,2012-01-28,12,1
+466,Fuego,Lecrae Featuring KB & Suzy Rock,64,2012-09-22,2012-09-22,12,1
+467,Lonely Boy,The Black Keys,70,2012-01-28,2012-02-11,12,3
+468,Young Homie,Chris Rene,65,2012-03-31,2012-03-31,11,1
+469,Lost In The Echo,Linkin Park,65,2012-07-14,2012-07-14,11,1
+470,Lose Yourself,Eminem,68,2012-01-07,2012-01-14,11,2
+471,Paradise By The Dashboard Light,Glee Cast,66,2012-06-02,2012-06-02,10,1
+472,Sexy And I Know It,Glee Cast Featuring Ricky Martin,66,2012-02-25,2012-02-25,10,1
+473,Set You Free,3OH!3,67,2012-01-21,2012-01-21,9,1
+474,Don't Speak,Glee Cast,67,2012-10-20,2012-10-20,9,1
+475,I Can't Stop,Flux Pavilion,67,2012-03-24,2012-03-24,9,1
+476,The Show,Melanie Martinez,67,2012-12-22,2012-12-22,9,1
+477,I Believe In A Thing Called Love,The Darkness,67,2012-02-25,2012-02-25,9,1
+478,I Look To You,Whitney Houston,68,2012-03-03,2012-03-03,8,1
+479,Better Than I Used To Be,Tim McGraw,68,2012-02-11,2012-02-11,8,1
+480,Video Games,Lana Del Rey,68,2012-01-28,2012-01-28,8,1
+481,Till I Die,Chris Brown Featuring Big Sean & Wiz Khalifa,68,2012-05-12,2012-05-12,8,1
+482,For Those About To Rock (We Salute You),AC/DC,68,2012-12-08,2012-12-08,8,1
+483,What Makes You Beautiful,Glee Cast,68,2012-05-26,2012-05-26,8,1
+484,New York State Of Mind,Glee Cast,69,2012-09-29,2012-09-29,7,1
+485,Numb,Usher,69,2012-11-03,2012-11-03,7,1
+486,Never Close Our Eyes,Adam Lambert,69,2012-05-05,2012-05-05,7,1
+487,"Gone, Gone, Gone",Phillip Phillips,69,2012-12-08,2012-12-08,7,1
+488,Rock Me,One Direction,69,2012-12-01,2012-12-01,7,1
+489,Sorry,Ciara,69,2012-10-13,2012-10-13,7,1
+490,Back 2 Life (Live It Up),Sean Kingston Featuring T.I.,69,2012-06-23,2012-06-23,7,1
+491,Hurt,Johnny Cash,69,2012-05-12,2012-05-12,7,1
+492,Thinking Of You,Ke$ha,69,2012-12-22,2012-12-22,7,1
+493,Yeah Yeah,Willy Moon,70,2012-11-03,2012-11-03,6,1
+494,Fastest Girl In Town,Miranda Lambert,70,2012-11-17,2012-11-17,6,1
+495,Carry On,Avenged Sevenfold,70,2012-10-13,2012-10-13,6,1
+496,I'm Every Woman,Whitney Houston,70,2012-03-03,2012-03-03,6,1
+497,Volcano,Damien Rice,70,2012-05-26,2012-05-26,6,1
+498,Bitches & Bottles (Let's Get It Started),"DJ Khaled Featuring Lil Wayne, T.I. & Future",70,2012-09-08,2012-09-08,6,1
+499,C'mon,Ke$ha,70,2012-12-08,2012-12-08,6,1
+500,6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,70,2012-01-07,2012-01-07,6,1
+501,Somebody That I Used To Know,Lindsey Pavao,71,2012-04-21,2012-04-21,5,1
+502,Good In Goodbye,Carrie Underwood,71,2012-05-19,2012-05-19,5,1
+503,I Just Can't Stop Loving You,Glee Cast,71,2012-02-18,2012-02-18,5,1
+504,Call Me Maybe,Here's My Number So,72,2012-06-23,2012-06-23,4,1
+505,Party On Fifth Ave.,Mac Miller,72,2012-01-21,2012-01-21,4,1
+506,Trap Back Jumpin,T.I.,72,2012-12-01,2012-12-01,4,1
+507,The Recipe,Kendrick Lamar Featuring Dr. Dre,72,2012-04-21,2012-04-21,4,1
+508,Someone Like You,Amanda Brown,72,2012-12-15,2012-12-15,4,1
+509,B*tch Bad,Lupe Fiasco,73,2012-07-14,2012-07-14,3,1
+510,Creepin',Eric Church,73,2012-10-13,2012-10-13,3,1
+511,Bag Of Money,"Wale Featuring Rick Ross, Meek Mill & T-Pain",73,2012-04-21,2012-04-21,3,1
+512,Postcard From Paris,The Band Perry,73,2012-06-23,2012-06-23,3,1
+513,Not Afraid,Eminem,73,2012-02-25,2012-02-25,3,1
+514,Skyscraper,Demi Lovato,73,2012-01-14,2012-01-14,3,1
+515,Here's To The Good Times,Florida Georgia Line,74,2012-12-22,2012-12-22,2,1
+516,Wicked Games,The Weeknd,74,2012-12-29,2012-12-29,2,1
+517,E.T.,Katy Perry Featuring Kanye West,74,2012-01-14,2012-01-14,2,1
+518,I Want You Back,Glee Cast,74,2012-02-18,2012-02-18,2,1
+519,...Baby One More Time,Tony Lucca,75,2012-05-12,2012-05-12,1,1
+520,I Will Always Love You,Glee Cast,75,2012-03-03,2012-03-03,1,1
+521,Shoot To Thrill,AC/DC,75,2012-12-08,2012-12-08,1,1
+522,Believe It,Meek Mill Featuring Rick Ross,75,2012-11-17,2012-11-17,1,1
+523,How Country Feels,Randy Houser,75,2012-12-29,2012-12-29,1,1
+524,Scream,Glee Cast,75,2012-02-18,2012-02-18,1,1
+525,Barely Breathing,Glee Cast,75,2012-10-20,2012-10-20,1,1

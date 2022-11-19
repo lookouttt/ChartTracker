@@ -1,0 +1,943 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Chamber Music Society,Esperanza Spalding,1,2010-09-04,2012-02-25,1713,78
+2,Backatown,Trombone Shorty,1,2010-05-08,2011-10-29,1666,78
+3,Radio Music Society,Esperanza Spalding,1,2012-03-31,2013-09-28,1586,79
+4,Contact,Boney James,1,2011-04-16,2012-10-06,1511,78
+5,For True,Trombone Shorty,1,2011-10-01,2013-03-23,1454,78
+6,The Beat,Boney James,1,2013-04-27,2014-10-18,1425,78
+7,Heart And Soul,Kenny G,1,2010-07-17,2011-12-31,1416,77
+8,Hello Tomorrow,Dave Koz,1,2010-10-30,2012-04-21,1332,78
+9,Dreams,Brian Culbertson,1,2012-06-30,2013-12-21,1199,73
+10,Dave Koz And Friends: Summer Horns,Dave Koz/Gerald Albright/Mindi Abair/Richard Elliot,1,2013-06-29,2014-11-08,1192,71
+11,Black Radio 2,Robert Glasper Experiment,1,2013-11-16,2015-05-02,1058,70
+12,Caution,Andre Ward,1,2013-03-30,2014-06-21,1051,64
+13,Way Down Low,Kat Edmonson,1,2012-04-28,2014-10-11,1041,80
+14,XII,Brian Culbertson,1,2010-08-07,2012-01-28,1024,71
+15,Let's Touch The Sky,Fourplay,1,2010-11-13,2012-05-05,1010,73
+16,The Imagine Project,Herbie Hancock,1,2010-07-10,2011-09-24,935,58
+17,Say That To Say This,Trombone Shorty,1,2013-09-28,2015-03-07,917,65
+18,The Epic,Kamasi Washington,1,2015-05-23,2016-11-12,917,78
+19,Take Me To The Alley,Gregory Porter,1,2016-05-28,2017-11-18,915,76
+20,24/7,Gerald Albright / Norman Brown,1,2012-07-07,2013-11-23,827,60
+21,House Of Groove,Euge Groove,1,2012-10-13,2014-03-08,817,58
+22,Paul Hardcastle: VII,Paul Hardcastle,1,2013-03-09,2014-07-19,811,63
+23,Here We Go,Peter White,1,2012-03-31,2013-08-17,810,68
+24,Futuresoul,Boney James,1,2015-05-23,2016-11-12,805,74
+25,Chris Botti: In Boston,Chris Botti,1,2010-01-02,2010-10-09,790,41
+26,The Pursuit,Jamie Cullum,1,2010-03-20,2011-08-13,778,60
+27,Rock-et > Scie-nce,Bela Fleck & The Flecktones,1,2011-06-04,2012-06-30,772,53
+28,Blue Velvet Soul,Maysa,3,2013-07-06,2014-09-20,772,57
+29,DreamWeaver,George Duke,1,2013-08-03,2014-05-17,697,42
+30,Jazzmasters VI,Jazzmasters,3,2010-08-07,2011-11-05,693,59
+31,Honestly,Boney James,1,2017-09-23,2019-02-23,678,63
+32,Lee Ritenour's 6 String Theory,Various Artists,3,2010-07-17,2011-11-26,675,58
+33,The Gospel According To Jazz Chapter III,Kirk Whalum,2,2010-04-03,2011-06-04,674,57
+34,Super Hits,Kenny G,4,2010-01-02,2010-10-09,670,41
+35,Grace And Mercy,Jonathan Butler,1,2012-10-13,2014-03-15,647,53
+36,Unity Band,Pet Metheny,1,2012-06-30,2013-04-27,637,43
+37,Cote D'Azur,The Rippingtons Featuring Russ Freeman,1,2011-02-19,2012-06-16,635,56
+38,Soul Quest,Keiko Matsui,2,2013-08-17,2014-12-06,632,47
+39,The Chill Lounge: Volume 1,Paul Hardcastle,3,2012-07-07,2013-08-03,632,53
+40,Esprit de Four,Fourplay,1,2012-10-06,2013-11-09,623,43
+41,Another Long Night Out,Brian Culbertson,1,2014-03-15,2015-03-28,611,37
+42,Renaissance,Marcus Miller,1,2012-08-25,2013-08-17,606,44
+43,Hardcastle VI,Paul Hardcastle,2,2011-07-09,2012-05-19,578,46
+44,Just Kickin' It,Rob White,4,2012-07-14,2013-12-28,569,52
+45,I'm New Here,Gil Scott-Heron,1,2010-02-27,2011-08-13,566,46
+46,Guitar Man,George Benson,1,2011-10-22,2012-09-15,563,36
+47,HandPicked,Earl Klugh,1,2013-08-17,2014-10-18,557,41
+48,Brian Wilson Reimagines Gershwin,Brian Wilson,1,2010-09-04,2011-11-12,555,38
+49,Send One Your Love,Boney James,2,2010-01-02,2010-08-14,554,33
+50,Breakin' The Rules,Rahni Song,3,2012-05-26,2013-03-30,554,43
+51,S7ven Large,Euge Groove,3,2011-06-04,2012-10-13,548,55
+52,Time Together,Michael Franks,1,2011-07-02,2012-12-08,546,49
+53,Harmony Of Difference,Kamasi Washington,1,2017-10-14,2019-02-16,538,59
+54,Beautiful Life,Dianne Reeves,1,2014-03-01,2015-04-25,518,39
+55,Motions Of Love,Maysa,1,2011-11-26,2012-08-18,512,37
+56,Parking Lot Symphony,Trombone Shorty,1,2017-05-20,2018-09-22,483,53
+57,Nathan East,Nathan East,1,2014-04-05,2015-03-14,480,35
+58,Kin (<-->),Pat Metheny Unity Group,1,2014-02-22,2015-01-10,468,32
+59,Everything Is Everything: The Music Of Donny Hathaway,Kirk Whalum,3,2010-09-18,2011-09-24,466,37
+60,Heaven And Earth,Kamasi Washington,1,2018-07-07,2019-08-31,465,50
+61,Human Nature,bwb,2,2013-07-06,2014-04-26,465,42
+62,Ya-Ka-May,Galactic,1,2010-02-27,2011-06-04,456,37
+63,The Road ...,Keiko Matsui,2,2011-02-12,2012-05-26,456,42
+64,The Morning After,Najee,1,2013-11-09,2014-07-26,446,30
+65,A Time For Love,Jeffrey Osborne,1,2013-02-16,2014-03-22,441,33
+66,In The Zone,Richard Elliot,3,2011-10-29,2013-03-09,441,35
+67,Mind Over Matter,Najee,2,2010-01-02,2010-07-24,438,29
+68,Emily's D+Evolution,Esperanza Spalding,1,2016-03-26,2017-07-29,437,52
+69,My Old Friend: Celebrating George Duke,Al Jarreau,1,2014-08-23,2015-11-07,431,30
+70,Fellowship,Lizz Wright,1,2010-10-16,2011-09-24,429,34
+71,Good Day,Peter White,2,2010-01-02,2011-02-12,422,38
+72,Groovin',Peter White,1,2016-11-19,2018-04-28,418,52
+73,Slam Dunk,Gerald Albright,2,2014-08-23,2016-02-13,413,38
+74,In The Moment,Pieces Of A Dream,3,2013-09-14,2014-04-19,405,32
+75,All We Are Saying...,Bill Frisell,1,2011-10-15,2013-02-02,400,28
+76,Songs And Stories,George Benson,2,2010-01-02,2010-07-24,398,28
+77,The Smooth Side Of Soul,Najee,1,2012-02-18,2013-01-26,390,27
+78,No Beginning No End,Jose James,1,2013-02-09,2014-07-12,386,28
+79,The Jazzmasters VII,Paul Hardcastle,1,2014-06-28,2015-03-28,385,28
+80,IV,BADBADNOTGOOD,1,2016-07-30,2018-01-13,382,50
+81,Spirityouall,Bobby McFerrin,1,2013-06-01,2014-05-10,376,31
+82,A Woman In Love,Maysa,1,2010-02-13,2010-08-14,374,26
+83,VOCAbuLarieS,Bobby McFerrin,1,2010-04-24,2011-07-16,373,33
+84,Euphoria,Will Downing,2,2014-03-29,2014-11-01,373,25
+85,Black Radio Recovered: The Remix (EP),Robert Glasper Experiment,1,2012-10-27,2014-01-25,368,29
+86,In The Blue Light,Paul Simon,1,2018-09-22,2019-09-07,367,33
+87,Sending My Love,Norman Brown,2,2010-07-10,2011-07-16,366,37
+88,Desire: The Ultimate Seductive Album,Paul Hardcastle,2,2011-02-19,2012-02-18,360,29
+89,Carnivale Electricos,Galactic,1,2012-03-10,2013-04-27,345,28
+90,Rhythm Sessions,Lee Ritenour,3,2012-10-13,2013-06-22,344,25
+91,Jazz Funk Soul,Jazz Funk Soul,2,2014-07-05,2015-10-24,339,23
+92,Can You Feel It,Rick Braun,1,2014-07-26,2015-10-10,338,29
+93,Wild Heart,Mindi Abair,1,2014-06-14,2015-09-19,335,27
+94,Brazilian Nights,Kenny G,1,2015-02-14,2016-06-04,334,37
+95,Got 2 Be Groovin,Euge Groove,2,2014-09-06,2016-02-27,329,26
+96,Vagabond,Spencer Day,7,2010-01-02,2010-11-13,329,31
+97,Built To Last,The Rippingtons Featuring Russ Freeman,1,2012-09-15,2014-03-08,324,28
+98,Lip Service,Richard Elliot,1,2014-08-02,2015-10-10,319,24
+99,Pushing The Envelope,Gerald Albright,2,2010-07-03,2011-11-12,317,39
+100,Ranky Tanky,Ranky Tanky,1,2017-11-25,2019-04-13,313,35
+101,So Strong,Jonathan Butler,2,2010-05-29,2011-06-11,308,30
+102,The Highest Act Of Love,Norman Brown,1,2019-03-09,2019-12-28,307,33
+103,The Fonk Record,Wayman Tisdale Featuring Tiz & The Fonkie Planetarians,4,2010-11-13,2011-09-24,306,29
+104,Sunday Morning,Euge Groove,6,2010-01-02,2011-05-07,305,27
+105,Smile,Peter White,1,2014-10-25,2016-01-30,297,29
+106,Fountain Of Youth,The Rippingtons Featuring Russ Freeman,2,2014-06-28,2015-07-25,296,26
+107,Colors Of Love,Brian Culbertson,1,2018-02-24,2019-05-11,295,30
+108,Namaste,Kenny G & Rahul Sharma,5,2012-07-14,2013-03-02,294,32
+109,I Feel You,Herb Alpert & Lani Hall,2,2011-02-26,2011-12-10,289,23
+110,Guitar In The Space Age!,Bill Frisell,1,2014-10-25,2016-03-12,287,23
+111,Whisper,Marion Meadows,3,2013-03-16,2014-03-15,286,22
+112,Echo,Keiko Matsui,1,2019-03-09,2019-11-23,285,29
+113,Hacienda,Jeff Lorber Fusion,3,2013-09-14,2014-09-27,285,26
+114,Say Yes,Phil Perry,2,2013-03-30,2013-09-14,279,21
+115,The Wayman Tisdale Story,Wayman Tisdale,1,2011-12-10,2012-05-05,276,20
+116,Gabriel Bello,Gabriel Bello,1,2011-07-09,2011-09-17,275,11
+117,The Mosaic Project,Terri Lyne Carrington,2,2011-08-06,2012-06-02,274,30
+118,Soul Side Of Town,Tower Of Power,1,2018-06-16,2019-06-22,273,34
+119,Ske-Dat-De-Dat: The Spirit Of Satch,Dr. John,1,2014-09-06,2015-01-31,272,20
+120,Dave Koz And Friends: Summer Horns II From A To Z,Dave Koz/Gerald Albright/Rick Braun/Richard Elliot/Aubrey Logan,1,2018-07-07,2019-09-28,272,24
+121,The Classic Christmas Album,Kenny G,1,2012-11-03,2013-01-19,270,12
+122,G,Gerald Albright,2,2016-10-22,2018-02-03,267,30
+123,Summer Madness,Richard Elliot,1,2016-10-01,2018-02-17,264,29
+124,Dave Koz & Friends: The 25th Of December,Dave Koz,1,2014-10-18,2015-01-17,263,14
+125,Journey To The Heart,Keiko Matsui,1,2016-08-27,2018-01-03,259,31
+126,The Duke,Joe Jackson,1,2012-07-14,2012-12-29,257,18
+127,Romance Language,Kirk Whalum,1,2012-03-03,2013-01-26,255,20
+128,The Big Picture,Kat Edmonson,1,2014-10-18,2015-03-21,255,22
+129,Sylva,Snarky Puppy & Metropole Orkest,1,2015-06-13,2016-07-09,253,40
+130,A Foreign Affair,Spyro Gyra,2,2011-10-01,2012-03-03,253,23
+131,Hidden Beach Recordings Presents: Unwrapped Vol. 6,Various Artists,7,2010-01-02,2010-07-03,250,24
+132,The Rhinebeck Sessions,Spyro Gyra,2,2013-10-12,2014-02-15,246,19
+133,Surreal,Incognito,2,2012-04-14,2012-09-01,244,15
+134,Hudson,DeJohnette/Grenadier/Medeski/Scofield,1,2017-06-24,2018-05-05,243,26
+135,Ultimate Christmas,Dave Koz,1,2011-11-05,2012-01-14,242,11
+136,In Hi-Fi Stereo,Mindi Abair,2,2010-06-05,2011-09-24,241,27
+137,Culcha Vulcha,Snarky Puppy,1,2016-05-21,2017-08-12,240,33
+138,Love Stories,Kim Waters,3,2010-02-13,2010-06-26,240,19
+139,Hardcastle 8,Paul Hardcastle,2,2018-10-13,2019-07-06,239,31
+140,Just What You Need,Brian Simpson,2,2013-05-11,2014-01-25,238,18
+141,40th Anniversary,Tower Of Power,2,2011-03-12,2012-03-17,238,27
+142,This Heart Of Mine,Kim Waters,3,2011-11-12,2012-04-28,238,24
+143,Amplified Soul,Incognito,1,2014-05-31,2014-08-30,236,14
+144,Roseland,Acoustic Alchemy,3,2011-10-15,2012-07-28,236,20
+145,Galaxy,Jeff Lorber Fusion,3,2012-02-18,2013-05-04,235,22
+146,Loopified,Dirty Loops,2,2014-09-06,2015-02-14,231,17
+147,Music Book Volume III: Magnificent,Mel Holder,1,2019-02-16,2019-11-16,229,18
+148,Let It Go,Norman Brown,1,2017-05-06,2018-03-03,229,27
+149,Eclectic,Eric Johnson / Mike Stern,1,2014-11-15,2015-03-07,226,17
+150,Funk!,Brian Culbertson,1,2016-10-15,2017-09-23,226,30
+151,Tenacity,Paul Taylor,3,2014-04-05,2014-10-04,220,19
+152,Twenty,Bob Baldwin,2,2013-09-07,2014-09-13,217,23
+153,Juice,Medeski Scofield Martin & Wood,1,2014-10-04,2015-01-31,213,16
+154,Feelin' Sexy,Streetwize,3,2012-11-17,2013-04-20,211,20
+155,Immigrance,Snarky Puppy,1,2019-03-30,2019-12-28,209,26
+156,Big Sur,Bill Frisell,4,2013-07-06,2014-01-18,207,20
+157,All Your Life: A Tribute to the Beatles,Al Di Meola,7,2013-09-28,2014-04-05,205,23
+158,Love Is A Battlefield,Maysa,1,2017-06-17,2018-02-03,204,24
+159,Still Euge,Euge Groove,1,2016-08-13,2017-09-16,202,26
+160,III,BADBADNOTGOOD,1,2014-05-24,2015-10-03,202,26
+161,Living My Dream,Jonathan Butler,1,2014-07-12,2015-04-04,200,15
+162,Uberjam Deux,John Scofield,1,2013-07-20,2014-02-08,194,19
+163,Open Road,The Rippingtons Featuring Russ Freeman,1,2019-04-06,2019-10-19,194,20
+164,The Christmas Wish,Herb Alpert,1,2017-10-21,2018-01-20,193,15
+165,The Chill Lounge: Volume 2,Paul Hardcastle,3,2013-10-19,2014-03-22,192,23
+166,Trust In The Lifeforce Of The Deep Mystery,Comet Is Coming,2,2019-03-30,2019-12-28,190,21
+167,Moovin & Groovin,Paul Hardcastle,5,2014-09-06,2014-11-29,190,13
+168,Prime Time,Paul Taylor,3,2011-07-02,2012-02-11,189,20
+169,The Mothership Returns,Return To Forever,3,2012-07-07,2013-02-23,189,21
+170,Collaborations: 25th Anniversary Collection,Dave Koz,1,2015-08-22,2016-09-10,188,22
+171,Silver,Fourplay,2,2015-12-12,2016-04-30,188,18
+172,Transatlantic R.P.M.,Incognito,5,2010-08-14,2011-01-22,188,19
+173,One World,Jesse Cook,1,2015-05-16,2016-05-14,187,27
+174,Hot Sauce,Jessy J,1,2011-09-24,2012-09-29,185,19
+175,Everything's Beautiful,Miles Davis & Robert Glasper,1,2016-06-18,2017-04-01,184,24
+176,The Rite Of Spring,The Bad Plus,3,2014-04-12,2014-08-09,183,14
+177,Moon Hooch,Moon Hooch,4,2013-07-13,2014-10-04,180,16
+178,Afrodeezia,Marcus Miller,1,2015-04-04,2016-03-12,179,22
+179,Greatest Hits,Dave Koz,5,2010-01-02,2010-03-27,179,13
+180,St Germain,St Germain,1,2015-10-31,2016-05-14,178,23
+181,Keep Riding,Rob White,8,2010-03-20,2010-07-31,177,18
+182,The Most Wonderful Time Of The Year,Take 6,3,2010-11-27,2011-04-30,176,14
+183,On A Mission,Eric Darius,3,2010-07-17,2011-06-25,176,18
+184,The Collection,Paul Hardcastle,8,2010-01-02,2010-06-12,176,22
+185,In Search Of Better Days,Incognito,3,2016-07-16,2017-09-09,173,25
+186,Backatcha!,Walter Beasley,9,2010-11-13,2011-05-07,173,19
+187,Sco-Mule,Gov't Mule Featuring John Scofield,2,2015-02-14,2016-01-16,172,18
+188,My Loves,Kim Waters,6,2013-07-13,2014-02-01,172,13
+189,The Funky Joint,Paul Brown,2,2012-03-24,2012-08-18,171,17
+190,ArtScience,Robert Glasper Experiment,1,2016-10-08,2017-07-22,170,22
+191,A Smooth Jazz Holiday,Various Artists,3,2011-11-12,2012-01-07,167,9
+192,Music Volume 3: Herb Alpert Reimagines The Tijuana Brass,Herb Alpert,2,2018-11-03,2019-08-17,166,20
+193,Soul Eyes,Kandace Springs,2,2016-07-16,2017-07-15,166,22
+194,Christmas With Friends,india.arie & Joe Sample,1,2015-11-07,2016-01-23,165,12
+195,It's Never Too Late,Tommy Emmanuel CGP,3,2015-10-10,2017-01-07,165,25
+196,Around The Horn,Rick Braun,1,2017-03-18,2018-08-11,164,23
+197,The Mystery Of You,Spencer Day,6,2013-03-30,2013-10-26,164,16
+198,Universal Beings,Makaya McCraven,1,2018-11-10,2019-05-04,162,22
+199,Evolution Of A Winner,Syreeta Thompson Trumpetlady,1,2017-10-07,2017-12-23,161,12
+200,Smooth And Sexy: Smooth Jazz For Lovers,Various Artists,5,2012-04-28,2013-10-19,161,17
+201,Conversation,David Benoit,2,2012-06-16,2013-01-19,160,18
+202,Family Dinner: Volume 2,Snarky Puppy,1,2016-03-05,2017-01-14,159,18
+203,Laid Black,Marcus Miller,1,2018-06-16,2019-03-02,159,26
+204,Back 2 Love,Maysa,2,2015-06-13,2015-10-03,159,17
+205,Come Fly With Me,Herb Alpert,2,2015-10-17,2016-04-23,159,22
+206,MSMW Live: In Case The World Changes Its Mind,Medeski Scofield Martin & Wood,3,2011-11-26,2012-02-25,159,14
+207,Merry Christmas To You,Jonathan Butler,2,2013-11-30,2014-01-18,158,8
+208,The Stanley Clarke Band,The Stanley Clarke Band,3,2010-07-03,2011-04-16,157,19
+209,"Back To Basics: Music Book, Vol. II",Mel Holder,2,2015-04-18,2015-11-14,156,21
+210,30,Gerald Albright,3,2018-06-02,2019-09-21,156,25
+211,Fun,Don Diego,7,2012-10-27,2013-05-25,152,15
+212,Tap: John Zorn's Book Of Angel's: Vol. 20,Pat Metheny,1,2013-06-08,2014-01-18,150,10
+213,Freedom & Surrender,Lizz Wright,1,2015-09-26,2016-09-03,150,23
+214,Bob Baldwin Presents: Betcha By Golly Wow: The Songs Of Thom Bell,Bob Baldwin,5,2012-04-28,2012-07-07,150,11
+215,All Time Greatest Hits,Bobby Caldwell,4,2013-11-09,2014-03-29,146,12
+216,Playlist: The Very Best Of Kenny G,Kenny G,9,2010-01-02,2010-03-13,146,11
+217,Groove On,Euge Groove,2,2017-12-09,2018-05-26,145,18
+218,Country For Old Men,John Scofield,2,2016-10-15,2017-04-08,145,21
+219,12 Little Spells,Esperanza Spalding,1,2019-05-25,2019-09-14,144,16
+220,A Quiet Christmas: Beautiful Sax Instrumentals For A Peaceful Holiday Seaso,WordHarmonic,2,2014-11-08,2015-01-10,142,10
+221,Rubberband,Miles Davis,1,2019-09-21,2019-12-28,141,14
+222,Chameleon,Harvey Mason,2,2014-05-17,2014-08-16,141,11
+223,Deja Vu,George Duke,7,2010-08-28,2011-01-22,141,17
+224,Jazz Part Two,Smith & Hay X King Tech,1,2019-07-13,2019-10-12,140,14
+225,Chocolate Drops,Will Downing,2,2015-04-18,2015-08-01,138,16
+226,Ramsey Taking Another Look,Ramsey Lewis And His Electric Band,5,2011-10-08,2012-06-09,138,16
+227,Full Tank,Ben Tankard,6,2012-06-23,2012-09-29,138,13
+228,Follow The Leader,"Jonathan Hay, Benny Reid & Mike Smith",1,2019-08-10,2019-10-19,136,11
+229,Pursuit Of Radical Rhapsody,Al Di Meola,2,2011-03-26,2011-08-27,136,12
+230,Rock Steady,Richard Elliot,12,2010-01-02,2010-06-05,136,21
+231,Second Chances,Jessy J,2,2013-09-28,2014-08-02,134,13
+232,Smooth Jazz Number 1 Hits,Various Artists,7,2011-05-21,2011-08-06,134,12
+233,Fly,Lettuce,2,2012-06-23,2013-02-16,133,15
+234,Hidden Beach Recordings Presents: Unwrapped Vol. 7: Back To Basics,Various Artists,3,2010-07-31,2010-12-11,133,14
+235,True Stories,The Rippingtons Featuring Russ Freeman,1,2016-07-16,2017-03-11,130,19
+236,You Me And Forever,Najee,2,2015-07-11,2015-11-07,130,15
+237,Grace,Lizz Wright,2,2017-10-07,2018-03-17,130,20
+238,The Other Side Of Midnight: Live In New Orleans,Galactic,3,2011-05-21,2012-03-10,130,10
+239,Now Is The Time,Jeff Lorber Fusion,4,2010-06-19,2010-10-09,130,12
+240,Verve Remixed: The First Ladies,Various Artists,1,2013-07-27,2013-09-21,129,9
+241,"Music, Volume 1",Herb Alpert,1,2017-08-19,2018-01-03,128,15
+242,Live From The Inside,Brian Culbertson,7,2010-01-02,2011-04-30,127,14
+243,20th Anniversary Christmas,Dave Koz And Friends,1,2017-10-21,2018-01-13,126,12
+244,Chris Thile & Brad Mehldau,Chris Thile & Brad Mehldau,1,2017-02-18,2018-01-06,126,15
+245,Up,The Stanley Clarke Band,3,2014-09-20,2015-03-21,126,9
+246,Mehliana: Taming The Dragon,Brad Mehldau / Mark Guiliana,2,2014-03-15,2014-05-10,124,9
+247,Earthglow,David Benoit,4,2010-05-08,2011-05-28,121,14
+248,Can't Stop Now,Vincent Ingala,14,2012-07-28,2013-11-16,121,16
+249,Personal Touch,Vincent Ingala,1,2018-05-19,2019-09-07,120,19
+250,Spectrum Road,Spectrum Road,3,2012-06-23,2012-08-25,120,9
+251,Bone Appetit (Double Issue),Jeff Bradshaw,6,2012-05-12,2012-07-28,118,9
+252,Body Party: Smooth Urban Jazz Vibes On Today's #1 R&B Hits!,Streetwize,3,2013-12-07,2014-03-29,117,12
+253,M.P.3,Mike Phillips,4,2010-08-14,2011-01-15,117,12
+254,Good Time,Ranky Tanky,1,2019-07-27,2019-11-16,116,11
+255,Elaenia,Floating Points,1,2015-11-28,2016-03-19,116,15
+256,Jackiem Joyner,Jackiem Joyner,11,2010-08-21,2011-11-05,116,14
+257,Winter Stories,Brian Culbertson,1,2019-10-19,2019-12-28,115,11
+258,Crush,Lettuce,1,2015-11-28,2016-04-23,115,14
+259,Love Will Find A Way,Philip Bailey,1,2019-07-06,2019-10-05,114,11
+260,Reverence,Nathan East,1,2017-02-11,2017-06-24,114,14
+261,Geography,Tom Misch,1,2018-04-21,2019-02-23,113,21
+262,Close To You,Jonathan Butler,2,2018-09-08,2019-04-27,111,13
+263,Into The Deep,Galactic,1,2015-08-08,2015-10-17,110,11
+264,Between The Lobes,"North ""2unes"" Woodall",2,2017-04-29,2017-06-24,110,9
+265,Lagrimas Mexicanas,Vinicius Cantuaria & Bill Frisell,3,2011-02-12,2011-04-16,110,10
+266,"Don't Talk, Dance!",Chris Standring,4,2014-03-22,2014-07-26,110,11
+267,New Ammo,Karl Denson's Tiny Universe,3,2014-02-22,2014-04-12,108,8
+268,Pulse,Steve Cole,6,2013-10-05,2014-05-31,107,12
+269,When You Wish Upon A Star,Bill Frisell,1,2016-02-20,2016-11-26,106,10
+270,Over The Rainbow,Herb Alpert,1,2019-10-05,2019-12-28,106,11
+271,A Night In Monte Carlo,Marcus Miller With L'Orchestre Philharmonique De Monte-Carlo Feat. R. Hardgroove/R. Midon,10,2011-02-19,2011-09-17,106,13
+272,Poetry In Motion,Najee,1,2017-09-16,2018-03-17,105,17
+273,Let It Snow,New York Voices,3,2013-12-07,2014-01-25,105,7
+274,Back To Your Heart,Lindsey Webster,1,2016-11-26,2018-03-31,104,20
+275,newurbanjazz.com 2 / Re-Vibe,Bob Baldwin,4,2011-07-23,2012-01-28,104,13
+276,Time And The River,David Sanborn,1,2015-04-25,2015-08-22,103,15
+277,It's Love,Eric Marienthal,6,2012-02-18,2012-04-28,103,9
+278,Modern Art,The Rippingtons Featuring Russ Freeman,14,2010-01-02,2010-05-15,103,15
+279,love.life.soul.,Jeff Sparks,3,2010-04-10,2010-10-02,102,7
+280,Bliss,Cindy Bradley,4,2014-06-14,2014-08-16,102,10
+281,Crazy,Candy Dulfer,2,2012-02-18,2012-03-24,100,6
+282,A Better Man,Phil Perry,1,2015-02-07,2015-04-18,99,11
+283,bwb,bwb,1,2016-05-14,2016-12-03,99,16
+284,Trypnotyx,"Victor Wooten, Dennis Chambers & Bob Franceschini",3,2017-09-30,2018-09-01,99,13
+285,On Another Note,Pieces Of A Dream,1,2019-06-08,2019-07-27,98,8
+286,"Hipper Than Hip: Yesterday, Today, & Tomorrow: Live, On The Air & In The St",Tower Of Power,4,2013-12-14,2014-04-26,98,16
+287,Money Jungle: Provocative In Blue,Terri Lyne Carrington,6,2013-02-23,2014-02-22,98,8
+288,Pure,Michael Lington,8,2012-03-03,2012-10-27,98,9
+289,Grover Live,"Grover Washington, Jr.",8,2010-06-05,2010-07-31,98,9
+290,Crossroads,Rick Braun,1,2019-08-31,2019-11-09,97,9
+291,Live In Seattle,Mindi Abair And The Boneshakers,2,2015-10-17,2017-03-18,96,12
+292,More Serious Business,Jazz Funk Soul,2,2016-02-13,2016-08-13,96,13
+293,So Nice!,David Benoit And Marc Antoine,2,2017-08-12,2018-09-08,96,13
+294,"My Friends, My Fam",Grandad Turner Featuring Fred Hammond,3,2011-08-13,2011-12-03,96,8
+295,A Twist Of Rit,Lee Ritenour,1,2015-09-12,2016-09-17,95,14
+296,Life And Times,Jazz Funk Soul,2,2019-02-09,2019-06-01,95,12
+297,Underdogs On Top,Ski Johnson,3,2012-06-30,2012-08-04,95,5
+298,The Lagos Music Salon,Somi,3,2014-08-23,2015-04-04,95,9
+299,Live: 20th Anniversary Tour,Brian Culbertson,1,2015-01-24,2016-05-28,94,13
+300,Live In San Francisco,John McLaughlin & The 4th Dimension / Jimmy Herring & The Invisible Whip,2,2018-09-15,2019-01-26,94,14
+301,Train Keeps A Rolling,Jeff Golub With Brian Auger,6,2013-08-31,2014-01-25,93,8
+302,Heart Songs,"Tommy Emmanuel, CGP & John Knowles, CGP",1,2019-01-26,2019-07-27,92,10
+303,After Bach,Brad Mehldau,1,2018-03-24,2018-06-16,92,11
+304,Arclight,Julian Lage,2,2016-04-02,2016-07-02,92,11
+305,Silver Soul,Kim Waters,4,2014-09-20,2014-11-08,92,7
+306,Down The Wire,Spyro Gyra,16,2010-01-02,2010-08-07,92,16
+307,Music IS,Bill Frisell,1,2018-03-31,2018-06-23,91,12
+308,Smooth Jazz Hits: For Lovers,Various Artists,9,2012-02-25,2013-02-23,91,9
+309,"Luther, Teddy & Marvin: Smooth Jazz Pays Tribute To The Kings Of Love",Various Artists,3,2012-08-18,2013-01-05,90,5
+310,Out Of A Dream,Brian Simpson,3,2015-03-07,2015-05-23,90,11
+311,Free Magic,Medeski Martin & Wood,5,2012-10-13,2013-05-18,90,7
+312,Joyland,Andy McKee,6,2010-03-20,2011-02-12,90,11
+313,Trippin',Robert Miller's Project Grand Slam,1,2018-08-04,2018-09-22,89,8
+314,Chinese Butterfly,The Chick Corea + Steve Gadd Band,1,2018-02-03,2019-06-08,89,10
+315,Tap: Book Of Angel's: Volume 20: Pat Metheny Plays Masada Book Two,Pat Metheny,3,2013-06-08,2013-07-20,89,7
+316,The Legendary Live Tapes: 1978-1981,Weather Report,3,2015-12-12,2016-02-27,89,11
+317,The Messenger,Kevin Eubanks,4,2013-03-09,2013-05-04,89,8
+318,Into The Blue,Tim Bowman,2,2017-09-30,2018-01-13,88,10
+319,Altair & Vega,Bob James / Keiko Matsui,7,2011-10-15,2011-12-17,88,9
+320,Gifts of the Season,Dave Koz,1,2019-10-26,2019-12-28,87,8
+321,Opus,Al Di Meola,1,2018-03-10,2019-06-29,87,13
+322,The Music In My Head,Michael Franks,2,2018-06-23,2019-01-19,87,13
+323,Bom Tempo,Sergio Mendes,3,2010-06-19,2010-07-31,87,7
+324,Just Funkin' Around,Pieces Of A Dream,2,2017-06-17,2017-09-16,86,14
+325,All In,Pieces Of A Dream,3,2015-11-28,2016-07-02,85,16
+326,Soul Traveler,Marion Meadows,2,2015-02-07,2015-04-11,84,10
+327,Main Ingredients,Down To The Bone,7,2011-07-30,2011-09-17,84,8
+328,Rubber Soulive,Soulive,7,2010-10-02,2011-01-29,81,10
+329,Collagically Speaking,R+R=NOW,1,2018-06-30,2018-08-25,80,9
+330,Now,Merlon Devine,6,2018-01-13,2019-05-18,80,17
+331,"The Gospel According To Jazz, Chapter IV",Kirk Whalum,1,2015-04-11,2015-07-25,79,13
+332,Vinyl Tap,Spyro Gyra,2,2019-10-26,2019-12-28,79,9
+333,Tudo,Bebel Gilberto,8,2014-09-13,2014-11-29,79,9
+334,The Unity Sessions,Pat Metheny,2,2016-05-28,2017-07-01,78,11
+335,Believe,Take 6,2,2016-04-16,2017-02-25,78,11
+336,This Is Cave Music,Moon Hooch,2,2014-10-04,2015-01-24,77,8
+337,Full Tank: 2.0,Ben Tankard,3,2015-02-28,2015-04-18,77,8
+338,Open Your Heart,Geoff Alpert,3,2017-12-09,2018-02-24,77,9
+339,In My Room,Jacob Collier,1,2016-07-23,2017-07-22,76,13
+340,Inland Emperor,The Greyboy Allstars,4,2013-05-04,2013-06-22,76,8
+341,Dig It,Down To The Bone,4,2014-05-17,2014-07-05,76,8
+342,Bone Appetit (Vol. 1- Main Course),Jeff Bradshaw,5,2012-05-12,2012-06-16,76,6
+343,Evolve,Jackiem Joyner,10,2014-05-17,2014-08-16,76,8
+344,All I Want For Christmas,Tommy Emmanuel CGP,10,2011-11-12,2012-12-29,76,9
+345,Nashville Sessions,Jake Shimabukuro / Nolan Verner / Evan Hutchings,3,2016-10-15,2017-06-17,75,10
+346,A Very Maysa Christmas,Maysa,7,2014-11-15,2015-01-10,74,9
+347,Loving 2,2unes Featuring Tom Browne,9,2011-07-23,2011-09-03,74,6
+348,Prototype,Jeff Lorber Fusion,2,2017-04-15,2018-02-17,73,10
+349,Let It Ride,Jeff Kashiwa,8,2012-09-08,2012-10-27,73,7
+350,Energy,Fourplay,16,2010-01-02,2010-04-03,73,14
+351,Silhouette,Chuck Loeb,7,2013-08-31,2013-10-05,72,6
+352,You Know What...?,The Aristocrats,1,2019-07-13,2019-09-14,71,8
+353,Elevate,Lettuce,1,2019-06-29,2019-12-07,71,9
+354,Anything Goes: Live,Herb Alpert & Lani Hall,9,2010-01-02,2010-02-20,70,7
+355,South Beach,Brian Simpson,10,2010-09-18,2010-11-13,70,8
+356,This Is How I Rock,Marcus Johnson,11,2010-08-14,2010-10-23,70,8
+357,Live,Al Jarreau And The Metropole Orkest (Mendoza),12,2012-07-07,2013-11-30,70,11
+358,Drews Famous: Smooth Jazz Christmas,Various Artists,2,2018-11-24,2019-01-05,69,7
+359,State Of Mind (EP),Ken Ford,3,2011-09-03,2011-11-19,69,4
+360,It Is What It Is,Impromp2,10,2010-01-02,2010-04-17,69,11
+361,Church Boy,Jackiem Joyner,6,2012-11-10,2013-10-19,68,8
+362,Dreamers Christmas,John Zorn,5,2011-12-17,2012-01-14,67,5
+363,Sweet And Sexy: The Ultimate Collection Of Kim Waters' Romantic Classics,Kim Waters,6,2014-02-08,2014-03-29,67,7
+364,HARMONY,Bill Frisell,1,2019-10-19,2019-12-28,66,9
+365,Lean On Me,Jose James,2,2018-10-13,2019-01-19,66,8
+366,My One And Only One,Jessy J,5,2015-06-13,2016-06-18,66,9
+367,Your Queen Is A Reptile,Sons Of Kemet,1,2018-04-14,2019-04-13,65,12
+368,Truth B Told,Paul Brown,2,2014-08-16,2014-09-20,65,6
+369,Soul City,Marion Meadows,2,2018-03-03,2018-05-19,65,10
+370,Breathless,Phil Perry,3,2017-03-18,2017-04-22,65,6
+371,All It Takes,Rick Braun,8,2010-01-02,2010-11-13,65,9
+372,August Greene: Amazon Original,August Greene,1,2018-03-24,2018-06-09,63,7
+373,The New Cool,Bob James / Nathan East,2,2015-10-10,2015-12-26,63,11
+374,Live At Ronnie Scott's,John McLaughlin & The 4th Dimension,4,2017-09-30,2018-02-17,63,14
+375,Influences,Nick Colionne,10,2014-04-19,2014-05-31,63,7
+376,Smooth Jazz Tribute To The Best Of Kem,Smooth Jazz All Stars,14,2014-02-22,2014-07-12,63,10
+377,Butterflies,Basia,1,2018-06-02,2018-11-03,62,9
+378,Lingua Franca,T R A M,2,2012-03-17,2012-04-14,62,5
+379,Unscripted,Cindy Bradley,11,2011-07-09,2011-08-27,62,7
+380,Bad Ass And Blind,Raul Midon,1,2017-04-15,2017-09-30,61,10
+381,Christmas Together,Jonathan Butler,2,2019-11-16,2019-12-28,61,5
+382,Second Nature,Michael Lington,3,2016-05-14,2016-11-19,61,9
+383,Macroscope,The Nels Cline Singers,4,2014-05-17,2014-06-28,61,5
+384,Humanite,Kirk Whalum,4,2019-10-26,2019-12-07,61,7
+385,Already Ready Already,Galactic,1,2019-02-23,2019-07-13,60,9
+386,Smooth Jazz Hits: Ultimate Grooves,Various Artists,6,2012-08-11,2013-01-05,60,7
+387,Black Light,John McLaughlin,6,2015-10-10,2016-02-06,60,12
+388,The Little Things,Cindy Bradley,2,2019-06-15,2019-08-03,59,7
+389,Cuong Vu Trio Meets Pat Metheny,Cuong Vu Trio Meets Pat Metheny,4,2016-05-28,2016-07-23,59,8
+390,Listen To This,Cheryl Barnes,5,2015-05-16,2015-06-27,59,7
+391,Free,Jonathan Butler,1,2015-11-21,2017-03-04,58,12
+392,Eleven,Mike Stern - Jeff Lorber Fusion,2,2019-10-12,2019-12-28,58,7
+393,Step It Up,Jeff Lorber Fusion,4,2015-10-17,2016-03-05,58,8
+394,Jacaranda,Trevor Rabin,6,2012-06-02,2012-07-07,58,6
+395,Culture Clash,The Aristocrats,8,2013-08-03,2013-09-14,58,7
+396,Moving Forward,Bernie Williams,11,2010-01-02,2010-07-10,58,10
+397,David Benoit And Friends,David Benoit,2,2019-09-07,2019-12-21,57,7
+398,The Random Roads Collection,Project Trio,3,2012-05-26,2013-02-16,57,4
+399,Electric Wonderland,Chris Standring,4,2012-04-07,2012-04-28,57,4
+400,When Will Then Be Now,Project Trio,7,2012-10-20,2013-02-09,57,4
+401,Persuasion,Brian Simpson,1,2016-12-10,2017-02-18,56,8
+402,#LOVECOVERS,Kirk Whalum,1,2017-04-29,2017-08-19,56,9
+403,33 1/3,Acoustic Alchemy,1,2018-12-01,2019-02-09,56,9
+404,Little Secret,Nikki Yanofsky,6,2014-10-25,2014-11-29,56,6
+405,Modern Lore,Julian Lage,1,2018-02-17,2018-10-06,55,7
+406,Silent Movies,Marc Ribot,8,2010-10-16,2011-02-12,55,5
+407,The Absolute Greatest Hits,Wayman Tisdale,11,2013-08-24,2013-09-21,55,5
+408,Love You Found Me,Paul Brown,11,2010-10-16,2010-11-27,55,7
+409,Soul Secrets,Gregg Karukas,8,2014-10-18,2014-11-29,54,4
+410,Burnin',Paul Taylor,18,2010-01-02,2010-05-29,54,13
+411,Amsterdaam,GroovExpress,1,2018-08-11,2018-09-29,53,7
+412,Live Today,Derrick Hodge,3,2013-08-24,2013-09-14,53,4
+413,The Message,The Stanley Clarke Band,3,2018-07-14,2019-10-26,53,8
+414,Conviction,Kendrick Scott Oracle,5,2013-04-13,2013-05-11,53,5
+415,Center Of The Heart,Najee,1,2019-11-30,2019-12-28,51,5
+416,Countdown,Paul Taylor,2,2016-10-01,2017-07-08,51,7
+417,Love Inside,Lindsey Webster,2,2018-03-31,2019-09-07,50,10
+418,Woodstock Sessions 2,Medeski Martin & Wood + Nels Cline,3,2014-05-03,2014-06-07,50,6
+419,Christmas Memories,Tommy Emmanuel CGP,5,2016-11-19,2017-01-07,50,6
+420,X,Tribal Tech,6,2012-04-14,2012-05-05,50,4
+421,Studio Rio Presents: The Brazilian Connection,Studio Rio,10,2014-07-05,2014-08-30,50,7
+422,Where The Sunshine Is Expensive,Aubrey Logan,1,2019-04-06,2019-09-21,49,7
+423,Pickin',"Tommy ""CGP"" Emmanuel & David ""Dawg"" Grisman",5,2017-11-25,2018-02-24,49,9
+424,With You In Mind: The Songs Of Allen Toussaint,Stanton Moore,1,2017-08-12,2017-09-09,48,5
+425,Silver Lining,Michael Lington,4,2018-06-23,2018-08-25,48,5
+426,Legacy,Hiroshima,10,2010-01-23,2010-12-04,48,6
+427,The ArtScience Remixes (EP),Robert Glasper X KAYTRANADA,1,2018-04-28,2018-05-26,47,5
+428,Indigo,Kandace Springs,2,2018-09-22,2018-10-20,47,5
+429,Magical,Jonathan Fritzen,6,2012-09-08,2012-09-29,47,4
+430,Great American Soulbook,Tower Of Power,6,2010-02-13,2010-05-15,47,5
+431,Never Can Say Goodbye,Bob Baldwin,6,2010-07-10,2011-09-24,47,6
+432,Feel The Heat,Nick Colionne,13,2011-07-23,2011-11-19,47,7
+433,Number Ones,Richard Elliot,12,2013-10-05,2013-11-30,46,5
+434,Leap Of Faith,Bluey,16,2013-04-13,2013-06-01,46,6
+435,Tomorrow's New Dream,Incognito,1,2019-11-23,2019-12-14,45,4
+436,Finding Gabriel,Brad Mehldau,1,2019-06-01,2019-06-29,45,5
+437,Rhythm And Romance,Kim Waters,4,2016-06-25,2016-07-30,45,6
+438,Love Hurts,Julian Lage,3,2019-03-09,2019-10-19,44,7
+439,Live At KEXP!,Delvon Lamarr Organ Trio,6,2018-05-05,2019-05-04,44,7
+440,"The Chill Lounge, Volume 3",Paul Hardcastle,5,2015-08-01,2015-09-05,43,6
+441,From Newport To London: Greatest Hits Live And More,Basia,6,2011-10-01,2011-10-22,43,4
+442,Summer Rain,Jeanette Harris,15,2013-05-04,2013-07-06,43,9
+443,Nothing New,Gil Scott-Heron,1,2014-05-03,2014-05-10,42,2
+444,Something About You,Brian Simpson,2,2018-08-11,2018-09-08,42,5
+445,Eidolon: The Allan Holdsworth Collection,Allan Holdsworth,5,2017-04-29,2017-06-17,42,6
+446,"Hidden Beach Valentines Vol. 1: Love, Passion & Other Emotions",Various Artists,6,2011-02-19,2011-03-12,42,4
+447,Speechless,Darren Rahn,13,2012-04-28,2012-05-26,42,4
+448,Star Stuff,Chaz Bundick Meets The Mattson 2,1,2017-04-22,2017-05-20,41,5
+449,Subject To Change Without Notice,Jimmy Herring,7,2012-09-15,2013-01-19,41,6
+450,Main Street Beat,Jackiem Joyner,1,2017-07-22,2017-09-30,40,6
+451,Close But No Cigar,Delvon Lamarr Organ Trio,1,2018-03-17,2019-05-04,40,7
+452,What I Like,Kim Waters,3,2018-09-22,2018-11-03,40,6
+453,Tres Caballeros,The Aristocrats,4,2015-07-11,2015-08-08,40,5
+454,The Mosaic Project: Love And Soul,Terri Lyne Carrington,4,2015-08-29,2016-01-30,40,7
+455,"Currents, Constellations",The Nels Cline 4,1,2018-04-28,2019-03-02,39,7
+456,Tweet Tweet,Abraham Inc.,2,2010-06-12,2010-06-26,39,3
+457,Songs Of Resistance: 1942-2018,Marc Ribot,2,2018-09-29,2018-11-17,39,6
+458,Initiate,Nels Cline,4,2010-05-01,2010-05-29,39,5
+459,QSF Plays Brubeck,Quartet San Francisco,6,2010-02-13,2010-03-06,39,3
+460,In The Flow,Althea Rene,13,2013-06-15,2013-07-06,39,4
+461,Breakthrough,Julian Vaughn,13,2012-09-01,2012-10-06,39,5
+462,Velvet Portraits,Terrace Martin,1,2016-04-23,2016-06-11,38,6
+463,Bona Fide,Julian Vaughn,2,2017-07-22,2017-08-19,38,5
+464,Supreme,Julian Vaughn,3,2019-07-13,2019-08-24,38,5
+465,Mellowonder: Songs In The Key Of Stevie,Bob Baldwin,6,2015-07-04,2015-08-08,38,6
+466,Breakin' Thru,Eric Darius,7,2018-09-08,2019-11-09,38,11
+467,"Djesse, Vol. 1",Jacob Collier With Metropole Orkest / Jules Buckley,1,2018-12-22,2019-01-26,37,6
+468,Chris Dave And The Drumhedz,Chris Dave And The Drumhedz,2,2018-02-10,2018-03-17,37,5
+469,Straight Up With A Twist,Kristine W,13,2010-10-02,2010-11-06,37,6
+470,The Return,Kamaal Williams,1,2018-06-09,2018-06-30,36,4
+471,Human Nature,Herb Alpert,5,2016-10-22,2017-02-11,36,6
+472,Cover Story: Smooth Jazz Plays The Classic Hits!,Various Artists,7,2013-02-16,2013-03-23,36,4
+473,The Real Thing,Vanessa Williams,15,2010-01-02,2010-06-26,36,5
+474,Poetry In Motion,The Soul Rebels,1,2019-11-09,2019-12-07,35,4
+475,Twin Danger,Twin Danger,2,2015-07-18,2015-08-08,35,4
+476,Dave Koz Presents: Live From The Dave Koz Cruise,Dave Koz,3,2019-07-13,2019-09-28,35,5
+477,Gratitude,Steve Cole,4,2019-08-10,2019-08-31,35,4
+478,Ten,Chris Standring,5,2016-03-26,2016-04-16,35,4
+479,Going Home,Walter Beasley,7,2019-05-04,2019-09-28,35,7
+480,Guitar Destiny,Marc Antoine,10,2012-10-20,2012-12-08,35,5
+481,The Pack Is Back,The Sax Pack,16,2010-01-16,2010-02-20,35,5
+482,Caipi,Kurt Rosenwinkel,2,2017-04-01,2017-04-15,34,3
+483,The Vault,Jeff Golub,3,2015-04-18,2015-05-30,34,6
+484,You Gotta Love The Life,Melissa Manchester,5,2015-02-28,2015-04-18,34,5
+485,Sound Advice,Patti Austin,8,2011-06-04,2011-06-25,34,4
+486,Thought Gang,Thought Gang,1,2018-11-17,2018-12-01,33,3
+487,Where Future Unfolds,Damon Locks Black Monument Ensemble,1,2019-06-15,2019-08-10,33,4
+488,Just Being Me,Nick Colionne,3,2018-05-12,2018-06-09,33,4
+489,Mount Royal,Julian Lage And Chris Eldridge,4,2017-03-18,2017-11-04,33,5
+490,Not So Silent Night,Gerald Albright,4,2019-10-26,2019-12-28,33,5
+491,Aziza,Aziza,5,2016-10-22,2017-01-28,33,6
+492,Retro Forward,Eric Darius,6,2014-11-29,2015-07-18,33,4
+493,Endless Possibilties,Nicholas Cole,10,2012-09-29,2012-11-17,33,5
+494,Fuck Yo Feelings,Robert Glasper,3,2019-10-12,2019-11-09,32,5
+495,All For One,Jamison Ross,5,2018-02-10,2019-06-01,32,4
+496,Double Vision,Adam Hawley,8,2018-04-07,2019-09-21,32,7
+497,Compared To That,Brian Bromberg,9,2012-06-23,2012-07-14,32,4
+498,Sexual Healing: Smooth Urban Jazz Style!,Various Artists,10,2013-04-13,2013-04-20,32,2
+499,To Believe,The Cinematic Orchestra,2,2019-03-30,2019-04-13,31,3
+500,Jazzy Christmas With Jeff Sparks,Jeff Sparks,12,2012-12-08,2013-01-12,31,5
+501,"Sounds Of Crenshaw, Vol. 1",Terrace Martin Presents The Polyseeds,1,2017-08-05,2017-08-26,30,4
+502,A Humdrum Star,GoGo Penguin,2,2018-02-24,2018-03-17,30,4
+503,Soul Searching,Mitchell Coleman Jr.,5,2015-06-20,2015-07-04,30,3
+504,You (EP),Larry Lovestein & The Velvet Revival,7,2013-03-16,2013-04-20,30,3
+505,True Love,Jessy J,9,2010-02-27,2010-12-04,30,5
+506,The Very Best Of: An Excellent Adventure,Al Jarreau,15,2010-01-02,2010-03-13,30,7
+507,The Musician,Chick Corea,1,2017-05-13,2017-09-30,29,5
+508,"Singles: The Definitive 45s Collection, Vol. 1: 1952-1961",Sun Ra,2,2016-12-31,2017-02-04,29,3
+509,Live In Japan 1984,"Allan Holdsworth, I.O.U.",3,2018-12-22,2019-02-16,29,5
+510,Groove Alchemy,Stanton Moore,14,2010-05-01,2010-05-29,29,3
+511,Rise Again,Lira,17,2014-05-17,2014-07-19,29,4
+512,The Lillywhite Sessions,Ryley Walker,2,2018-12-01,2019-01-26,28,4
+513,A Day In The Life: Impressions of Pepper,Various Artists,4,2018-12-08,2019-02-16,28,4
+514,Mt. Crushmore (EP),Lettuce,5,2016-12-03,2017-01-28,28,4
+515,Piano Nights,Bohren & Der Club Of Gore,11,2014-02-15,2014-02-22,28,2
+516,City Groove,Nils,14,2012-10-06,2012-11-03,28,3
+517,Warsaw Summer Jazz Days '98,Allan Holdsworth,2,2019-06-29,2019-07-20,27,4
+518,The Groove Cubed,Rock Candy Funk Party,4,2017-11-11,2017-12-02,27,3
+519,All My Relations,Cochemea,4,2019-03-09,2019-04-06,27,4
+520,Sonic Boom,Darren Rahn,5,2016-03-26,2016-04-09,27,3
+521,Blackstreams (EP),Walter Beasley,6,2017-05-27,2017-07-01,27,4
+522,Power Of 3,The Sax Pack,6,2015-05-02,2015-08-01,27,6
+523,Meta-Musica,The Funky Knuckles,7,2014-02-08,2014-02-15,27,2
+524,HBC,Scott Henderson/Jeff Berlin/Dennis Chambers,12,2012-11-03,2012-12-01,27,5
+525,Iconic,Take 6,1,2018-05-12,2018-05-26,26,3
+526,The Journey,Nick Colionne,5,2016-04-23,2016-05-28,26,5
+527,Duets,Kevin Eubanks & Stanley Jordan,5,2015-04-11,2015-11-28,26,5
+528,Razor Sharp Brit,Oli Silk,12,2013-10-05,2013-11-16,26,4
+529,Dreams (EP),Brian Culbertson,16,2012-05-26,2012-06-09,26,3
+530,Jeff Bradshaw & Friends: Home: One Special Night At The Kimmel Center,Jeff Bradshaw,2,2015-04-18,2015-05-09,25,3
+531,Cheating The Polygraph,Gavin Harrison,2,2015-04-25,2015-05-09,25,3
+532,Impact,Jeff Lorber Fusion,4,2018-09-01,2018-10-06,25,3
+533,Limitless,Julian Vaughn,6,2015-05-09,2015-05-30,25,4
+534,Bom Tempo Brasil: Remixed,Sergio Mendes,9,2010-06-19,2010-06-26,25,2
+535,Natural,Cindy Bradley,2,2017-04-22,2017-07-08,24,5
+536,Music For STARLUX Airlines,Peter White,3,2019-12-14,2019-12-21,24,2
+537,Elegant Gypsy & More: Live,Al Di Meola,4,2018-08-04,2018-08-25,24,4
+538,A Foreign Affair Christmas,Michael Lington,4,2019-11-23,2019-12-28,24,4
+539,Seven Secrets,Larry Coryell's 11th House,4,2017-06-24,2017-07-15,24,4
+540,The Capitalist Blues,Leyla McCalla,5,2019-02-09,2019-03-30,24,3
+541,Spark!,Soulive & Karl Denson,7,2012-07-07,2012-07-14,24,2
+542,To Those Who Believe,Kenneth Whalum III,11,2011-01-08,2011-01-15,24,2
+543,Unplugged,Larry Carlton & Robben Ford,13,2013-04-06,2013-04-13,24,2
+544,Room,Nels Cline & Julian Lage,4,2014-12-13,2014-12-20,23,2
+545,Here We Go,James Lloyd,4,2015-04-04,2015-04-18,23,3
+546,Soul Classics,Maceo Parker,6,2012-10-06,2012-10-20,23,2
+547,Madlib Medicine Show No. 7: High Jazz,Madlib,12,2010-08-14,2010-08-28,23,3
+548,Madlib Medicine Show: No. 8: Advanced Jazz,Madlib,16,2010-09-18,2010-10-09,23,4
+549,Sunlight,Chris Standring,1,2018-04-07,2018-04-14,22,2
+550,Paradise,The Mattson 2,1,2019-06-22,2019-06-29,22,2
+551,Anti-Hero,Kneebody,2,2017-03-25,2017-04-29,22,5
+552,Coast To Coast,Vincent Ingala,3,2015-05-23,2015-08-15,22,5
+553,Shimmy,Billy Martin/Wil Blades,9,2012-06-09,2012-06-16,22,2
+554,"Always Be Happy, But Stay Evil",Garage a Trois,9,2011-04-30,2011-05-07,22,2
+555,Bromberg Plays Hendrix,Brian Bromberg,9,2012-08-04,2012-08-11,22,2
+556,Off Duty,Four80East,11,2012-09-22,2012-12-15,22,3
+557,Different Levels,Reggie Foster Jr.,18,2010-01-23,2010-04-24,22,5
+558,Directstep,Herbie Hancock,1,2019-12-14,2019-12-21,21,2
+559,The Langley Park Project,Daniel Weatherspoon,1,2016-11-12,2017-06-17,21,2
+560,Origami Harvest,Ambrose Akinmusire,2,2018-10-27,2018-12-22,21,3
+561,California Christmas,Jessy J,3,2016-11-19,2016-12-24,21,2
+562,Mythmaker (EP),Andy McKee,5,2014-04-26,2014-04-26,21,1
+563,SuperHeroes,Randy Waldman,5,2018-10-06,2018-10-13,21,2
+564,Cool Uncle,Cool Uncle,7,2015-12-05,2016-04-23,21,4
+565,We're in This Love Together: Celebrating Al Jarreau,Chris Walker,7,2019-07-27,2019-12-28,21,5
+566,Only Sky,David Torn,4,2015-05-23,2015-06-06,20,3
+567,Resavoir,Resavoir,6,2019-07-13,2019-09-07,20,2
+568,Touch,Jackiem Joyner,6,2019-10-26,2019-11-09,20,3
+569,Jazz For Japan,Various Artists,7,2011-04-23,2011-05-07,20,2
+570,iTunes Live From SoHo (EP),Dave Koz,8,2011-07-02,2011-07-09,20,2
+571,Smooth Jazz...,Smooth Jazz Collective,9,2017-02-18,2017-03-11,20,4
+572,D - Stringz,Stanley Clarke / Bireli Lagrene / Jean-Luc Ponty,9,2015-11-28,2016-02-20,20,4
+573,Rise!,Ben Tankard,9,2018-10-13,2018-11-10,20,4
+574,"Acting, Thinking, Feeling: The Complete Works 1968-1978",Stark Reality,15,2013-02-23,2013-03-23,20,3
+575,The Rhythm,Andy Snitzer,16,2013-05-04,2013-05-25,20,3
+576,Manhattan Nights,Jaared,16,2010-04-17,2010-05-01,20,3
+577,The Box Set Series,Kenny G,16,2014-02-01,2014-03-01,20,4
+578,Jazz Dispensary: Soul Diesel II,Various Artists,2,2018-05-05,2018-05-12,19,2
+579,The Man Who Changed Guitar Forever!: The Allan Holdsworth Album Collection,Allan Holdsworth,6,2017-04-29,2017-06-17,19,3
+580,F Note (EP),Too Many Zooz,6,2016-01-02,2016-04-16,19,4
+581,Metropolis,Peter Cincotti,7,2012-06-09,2012-06-09,19,1
+582,Live & Direct,Marcus Johnson Featuring The Urban Jam Band,7,2015-08-08,2015-09-05,19,3
+583,Bob Baldwin Presents Abbey Road And The Beatles,Bob Baldwin,9,2018-10-06,2018-12-15,19,3
+584,Gladwell,Julian Lage Group,11,2011-05-14,2012-01-21,19,3
+585,HAN,Berhana,3,2019-11-02,2019-11-16,18,2
+586,Kinfolk: Postcards From Everywhere,Nate Smith,5,2017-02-25,2017-03-25,18,2
+587,Who Gives A Funk,Oz Noy,5,2016-05-07,2016-05-21,18,3
+588,The Brazilian-American Soundtrack,Bob Baldwin,8,2016-07-16,2016-08-27,18,5
+589,Silent Comedy,Bill Frisell,10,2013-03-16,2013-03-23,18,2
+590,Build Bridges,The Sure Fire Soul Ensemble,1,2019-10-12,2019-10-19,17,2
+591,Soul Of A Nation: Afro-Centric Visions In The Age Of Black Power,Various Artists,4,2017-09-16,2017-09-23,17,2
+592,The Oracle,Angel Bat Dawid,5,2019-02-23,2019-09-28,17,2
+593,Greatest Licks: I Feel Like Singin',Dan Hicks And The Hot Licks,5,2017-03-18,2017-04-15,17,3
+594,The Sun Room,Robben Ford & Bill Evans With Keith Carlock & James Genus,7,2019-08-10,2019-08-24,17,2
+595,Genesis,Chieli Minucci & Special EFX,9,2013-06-08,2013-06-08,17,1
+596,Somewhere In Between,Bob Reynolds,9,2013-08-24,2013-08-24,17,1
+597,Breaks From The Border,The New Mastersounds,13,2011-08-27,2012-02-04,17,3
+598,The Best Is Yet To Come: The Songs Of Cy Coleman,Various Artists,15,2010-02-13,2010-02-20,17,2
+599,The Standard,Take 6,17,2010-02-20,2010-03-06,17,2
+600,Crystal Spears,Sun Ra,2,2018-12-08,2018-12-15,16,2
+601,Put A Spell On You,Casey Abrams,3,2018-03-31,2018-04-07,16,2
+602,The Afterlife (EP),Comet Is Coming,4,2019-10-12,2019-12-14,16,2
+603,Red Sky,Moon Hooch,4,2016-07-02,2016-07-09,16,2
+604,The Cymbals/Symbols Sessions: New York City 1973,Sun Ra,4,2018-05-05,2018-05-12,16,2
+605,Fly Or Die II: Bird Dogs Of Paradise,Jaimie Branch,4,2019-10-26,2019-11-09,16,3
+606,Fly Or Die,Jaimie Branch,5,2017-05-27,2018-01-13,16,2
+607,Unspoken,Chuck Loeb,6,2016-10-22,2016-10-29,16,2
+608,Bridges,Eric Marienthal & Chuck Loeb,6,2015-09-12,2015-10-03,16,2
+609,The New Breed,Jeff Parker,8,2016-07-16,2017-01-21,16,2
+610,Future Love,U-Nam,8,2019-03-02,2019-12-14,16,2
+611,Ocean In A Drop (Music For Film),GoGo Penguin,8,2019-10-19,2019-11-09,16,2
+612,Starebaby,Dan Weiss,8,2018-04-21,2018-06-09,16,3
+613,All In,Scott Wilkie,10,2014-07-26,2014-07-26,16,1
+614,If You Knew Her,Zara McFarline,10,2014-03-29,2014-03-29,16,1
+615,Sword And Stone,Victor Wooten,15,2012-10-13,2012-10-20,16,2
+616,First Love,Everette Harp,20,2010-01-16,2010-02-06,16,3
+617,Ism,Junius Paul,1,2019-12-07,2019-12-07,15,1
+618,Jazz (Deluxe),Smith And Hay,1,2018-01-20,2018-01-20,15,1
+619,Jazz Dispensary: Purple Funk 2,Various Artists,1,2018-12-08,2018-12-08,15,1
+620,Living Out Loud (EP),Joyce Cooling,3,2019-10-05,2019-10-12,15,2
+621,Elysium,Al Di Meola,3,2015-06-27,2015-07-04,15,2
+622,East West Time Line,Kevin Eubanks,4,2017-04-29,2017-05-06,15,2
+623,Stronger Still,Lin Rountree,6,2018-02-24,2018-03-03,15,2
+624,Flight,James Francies,8,2018-11-03,2019-01-26,15,2
+625,The Collection,Maxine Hardcastle,8,2019-05-25,2019-06-08,15,3
+626,Daybreak,Spencer Day,11,2014-06-21,2014-06-21,15,1
+627,90 Degrees At Midnight,Randy Scott,17,2011-10-15,2011-10-22,15,2
+628,Nosferatu,John Zorn,18,2012-05-12,2012-05-19,15,2
+629,Words And Tones,Victor Wooten,19,2012-10-13,2012-10-27,15,3
+630,Prescription For Sleep: Undertale,GENTLE LOVE,2,2016-12-24,2016-12-24,14,1
+631,Swagism,Ghost-Note,2,2019-12-14,2019-12-14,14,1
+632,To The Sun And All The Cities In Between,City Of The Sun,4,2016-03-26,2016-04-02,14,2
+633,Thicker Than Water,Brian Bromberg,6,2018-07-28,2018-08-04,14,2
+634,You Can't Steal My Joy,Ezra Collective,8,2019-05-11,2019-06-01,14,3
+635,Where I Left Off,Oli Silk,11,2016-08-06,2016-11-19,14,5
+636,Heat,Michael Lington,16,2010-01-02,2010-03-06,14,3
+637,Slave Riot,Young Jazz Rebels,18,2010-04-24,2010-05-01,14,2
+638,Tears Of Love,UniverBand,18,2012-05-26,2012-06-02,14,2
+639,KOKOROKO (EP),KOKOROKO,3,2019-03-23,2019-03-23,13,1
+640,Jazz Dispensary: Cosmic Stash,Various Artists,3,2016-05-07,2016-05-07,13,1
+641,Discipline 27-II,Sun Ra,3,2017-05-13,2017-05-13,13,1
+642,Smoothin & Groovin (EP),Jace Nicholas,3,2016-10-01,2016-10-01,13,1
+643,Quartet,Bob Reynolds,3,2018-05-26,2018-05-26,13,1
+644,Uprising,Miles Mosley,4,2017-02-18,2017-06-10,13,2
+645,Superbloom,Kiefer,4,2019-10-05,2019-10-26,13,2
+646,The Weekend,Nicholas Cole,5,2019-09-28,2019-10-05,13,2
+647,Coevolve,Kayla Waters,5,2018-11-10,2018-11-17,13,2
+648,7 Summers,Shaun Martin,6,2015-07-25,2015-08-01,13,2
+649,Full Tank 3: CanTANKerous,Ben Tankard,8,2017-06-03,2017-06-10,13,2
+650,Jamison,Jamison Ross,8,2015-07-11,2016-06-18,13,2
+651,Where We Come From: Chicago x London Mixtape,Makaya McCraven,9,2018-12-01,2019-03-16,13,2
+652,Live In Tokyo,Keiko Matsui,11,2015-10-31,2016-04-30,13,3
+653,Hurricane Season In Brooklyn,Analog Players Society,13,2012-10-13,2012-10-13,13,1
+654,Conflict Of A Man,ERiMAJ,13,2012-09-08,2012-09-08,13,1
+655,Dawn,Magos & Limon,19,2014-08-30,2014-09-06,13,2
+656,Smooth Jazz Tribute To The Whispers,Smooth Jazz All Stars,19,2013-03-30,2013-06-15,13,3
+657,Live At Yoshi's: 10 Year Anniversary Special,Jessy J,4,2018-05-12,2018-05-12,12,1
+658,Live At Montreux 2011: Invitation To Illumination,Santana & McLaughlin,4,2015-10-03,2015-10-03,12,1
+659,Limited Edition,Marcus Anderson,4,2017-04-08,2017-04-08,12,1
+660,Brothers United Presents Axe:14: An Inspirational BASS Collaboration,Various Artists,4,2018-03-03,2018-03-03,12,1
+661,"Cinematics, Vol. 1 (EP)",Soulive,4,2018-03-10,2018-03-10,12,1
+662,Downtown Castles Can Never Block The Sun,Ben Lamar Gay,4,2018-05-19,2018-05-19,12,1
+663,Reminiscence,Tyler Reese,5,2016-11-26,2016-12-10,12,2
+664,Gnomes And Badgers,Karl Denson's Tiny Universe,7,2019-03-23,2019-07-20,12,2
+665,This Is Frankie Moreno,Frankie Moreno,7,2019-04-13,2019-04-20,12,2
+666,Aligned,Justin C. Gilbert,9,2015-10-31,2015-11-14,12,2
+667,FORQ,FORQ,14,2014-09-27,2014-09-27,12,1
+668,The Ultimate Smooth Jazz #1s,Various Artists,16,2013-02-09,2013-03-09,12,2
+669,All We Need,Oli Silk,18,2010-09-18,2010-09-25,12,2
+670,Bridges (EP),Kiefer,5,2019-04-20,2019-04-20,11,1
+671,Omnisphere,Medeski Martin & Wood With Alarm Will Sound,5,2018-09-29,2018-09-29,11,1
+672,"MOON ROCKS: Extraplanetary Funk, Space Disco And Galactic Boogie",Various Artists,5,2017-12-16,2017-12-16,11,1
+673,Petite Afrique,Somi,5,2017-04-22,2017-04-22,11,1
+674,Vinyl Daze,Rhonda Thomas,5,2015-03-28,2015-03-28,11,1
+675,Shapeshifter I: Construct (EP),TAUK,5,2018-04-21,2018-04-21,11,1
+676,Finding Myself Again,Doobie Powell,5,2019-03-23,2019-03-23,11,1
+677,Dreamland,News From Planet Kniffen,5,2018-05-12,2018-05-12,11,1
+678,Prescription For Sleep: Celeste,GENTLE LOVE & maiko,5,2018-11-17,2018-11-17,11,1
+679,YAM YAM,YAM YAM,5,2018-12-08,2018-12-08,11,1
+680,Rosa Dos Ventos,Anat Cohen & Trio Brasileiro,5,2017-06-03,2017-06-03,11,1
+681,Happysad,Kiefer,5,2018-06-23,2018-06-23,11,1
+682,Ceremonial Healing,"Marshall Allen, Danny Ray Thompson, Jamie Saft, Trevor Dunn, Balazs Pandi With Roswell Rudd",5,2019-04-27,2019-04-27,11,1
+683,The Second,Derrick Hodge,6,2016-09-17,2016-09-24,11,2
+684,Intimate Conversations,Angella Christie,6,2018-02-03,2018-02-10,11,2
+685,New Era,Lebron,9,2015-08-15,2015-08-22,11,2
+686,Play,Nils,9,2018-03-31,2018-04-07,11,2
+687,Diamonds & Dynamite,Donna Grantis,11,2019-04-20,2019-05-11,11,3
+688,Soul Appeal,Michael Lington,15,2014-04-26,2014-04-26,11,1
+689,Mount Analogue,John Zorn,15,2012-02-18,2012-02-18,11,1
+690,Live,New York Voices With The WDR Big Band Cologne,15,2013-03-23,2013-03-23,11,1
+691,Smooth Jazz Tribute To Barry White,Smooth Jazz All Stars,15,2013-05-25,2013-05-25,11,1
+692,Moonlight,Steve Cole,15,2011-02-19,2011-02-19,11,1
+693,Rva All Day,NO BS! Brass,15,2013-07-27,2013-07-27,11,1
+694,All Your Life,Al Di Meola,18,2013-05-18,2013-06-01,11,2
+695,Smooth Jazz Tribute To The Best Of Marvin Sapp,Smooth Jazz All Stars,18,2014-01-04,2014-02-01,11,3
+696,Winter With Love,Lisa Matana,19,2012-05-26,2012-06-02,11,2
+697,Good Day At Work,"Phillip ""Doc"" Martin",19,2013-06-15,2013-06-22,11,2
+698,iTunes Festival: London 2012 (EP),Robert Glasper,20,2012-12-01,2012-12-08,11,2
+699,Spark And Echo,Mark Lettieri,6,2016-06-11,2016-06-11,10,1
+700,Saturnian Queen Of The Sun Ra Arkestra,June Tyson,6,2019-12-14,2019-12-14,10,1
+701,Code Girl,Mary Halvorson,6,2018-04-14,2018-04-14,10,1
+702,Waiting Game,Terri Lyne Carrington + Social Science,6,2019-11-23,2019-11-23,10,1
+703,Almost Persuaded,Swing Out Sister,6,2018-07-07,2018-07-07,10,1
+704,Things Of That Nature,Mark Lettieri,6,2019-11-02,2019-11-02,10,1
+705,Like A Baby,Jerry Paper,6,2018-10-27,2018-10-27,10,1
+706,Lines In The Sand,Antonio Sanchez & Migration,6,2019-02-09,2019-02-09,10,1
+707,Vespers For The Feast Of The Transfiguration,J.J. Wright,6,2017-08-26,2017-08-26,10,1
+708,People Of The Sun,Marcus Strickland's Twi-Life,6,2018-11-24,2018-11-24,10,1
+709,My Favorite Monster,Rotem,6,2018-09-15,2018-09-15,10,1
+710,Live! At The Ryman,Tommy Emmanuel CGP,7,2017-06-24,2018-01-27,10,2
+711,Live In London: 35th Anniversary Show,Incognito,9,2015-09-26,2015-10-03,10,2
+712,Trying To Figure It Out,Grace Kelly,10,2016-03-12,2016-06-25,10,3
+713,Tell U What,Brittni Paiva,16,2012-08-04,2012-08-04,10,1
+714,The Bespoke Man's Narrative,Aaron Diehl,16,2013-04-06,2013-04-06,10,1
+715,Tigerface,Marco Benevento,16,2012-09-29,2012-09-29,10,1
+716,Verve Records & Rockstar Games Present L.A. Noir//Remixed (EP),Various Artists,16,2011-06-04,2011-06-04,10,1
+717,The Veil,bb&c,16,2011-06-25,2011-06-25,10,1
+718,Flint,Bill Laurance,16,2014-05-24,2014-05-24,10,1
+719,Smooth Jazz Tribute To Sade,Smooth Jazz All Stars,16,2010-02-27,2010-02-27,10,1
+720,Smooth Jazz Hits,Various Artists,21,2011-02-26,2011-03-19,10,3
+721,Interventions,Horse Lords,7,2016-05-21,2016-05-21,9,1
+722,Deep As The Night,Special EFX,7,2017-05-06,2017-05-06,9,1
+723,"Pine Street Theatre, October 28th, 1988",Sun Ra And His Cosmo Love Adventue Arkestra,7,2018-05-05,2018-05-05,9,1
+724,Live Book,Andy McKee,7,2016-05-14,2016-05-14,9,1
+725,Aftersun,Bill Laurance,7,2016-03-26,2016-03-26,9,1
+726,Star People Nation,Theo Croker,7,2019-06-01,2019-06-01,9,1
+727,Night Sessions,Nicholas Cole,7,2015-09-12,2015-09-12,9,1
+728,Versions (EP),Shigeto,7,2019-10-05,2019-10-05,9,1
+729,Toby Arrives,Koch Marshall Trio,7,2018-03-10,2018-03-10,9,1
+730,Lucky Chops (Instrumental),Lucky Chops,7,2019-10-12,2019-10-12,9,1
+731,Laguna Beach,Marc Antoine,7,2016-10-15,2016-10-15,9,1
+732,Motivational Music For The Syncopated Soul,Cory Wong,7,2019-08-17,2019-08-17,9,1
+733,Guitar Band (EP),Bob Reynolds,7,2017-04-08,2017-04-08,9,1
+734,Breaking English,Rafiq Bhatia,7,2018-04-21,2018-04-21,9,1
+735,Rush,Nate Harasim,17,2011-02-19,2011-02-19,9,1
+736,DreamZzz,Philip Lassiter,17,2014-06-28,2014-06-28,9,1
+737,John Zorn: In Lambeth: Visions From The Walled Garden Of William Blake,Bill Frisell/Carol Emanuel/Kenny Wollesen/Ikue Mori,17,2013-12-21,2013-12-21,9,1
+738,Soul Jazz Cafe,Smooth Jazz All Stars,17,2012-09-22,2012-09-22,9,1
+739,Templars: In Sacred Blood,John Zorn,20,2012-06-09,2012-06-16,9,2
+740,"Smooth Jazz Tribute To Earth, Wind & Fire",Smooth Jazz All Stars,22,2013-06-29,2013-11-02,9,3
+741,Colors Of My Heart,Pauline Frechette,8,2018-04-28,2018-04-28,8,1
+742,Fanimals (EP),Too Many Zooz,8,2016-01-09,2016-01-09,8,1
+743,Power,Cameron Ross,8,2018-10-13,2018-10-13,8,1
+744,Grebfruit 2,Benny Greb,8,2017-08-12,2017-08-12,8,1
+745,Deep: The Baritone Sessions,Mark Lettieri,8,2019-03-16,2019-03-16,8,1
+746,Live In Los Angeles,Julian Lage,8,2016-12-03,2016-12-03,8,1
+747,The Mugician,Keyon Harrold,8,2017-10-21,2017-10-21,8,1
+748,Songs From The Swinghouse,The Lao Tizer Band,8,2018-03-31,2018-03-31,8,1
+749,Uptown Blues,Paul Brown,8,2018-09-15,2018-09-15,8,1
+750,The Transparency Project,PJ Morgan,8,2018-06-16,2018-06-16,8,1
+751,Sunkissed,Ashleigh Smith,8,2016-09-17,2016-09-17,8,1
+752,Alley Cat,Nils,8,2015-09-12,2015-09-12,8,1
+753,The Rough Guide To Ethiopian Jazz,Various Artists,8,2018-05-05,2018-05-05,8,1
+754,Cannots,Charles Rumback & Ryley Walker,8,2016-05-07,2016-05-07,8,1
+755,New Birth,The Funky Knuckles,8,2016-07-02,2016-07-02,8,1
+756,Undeniable,Lebron,8,2019-04-06,2019-04-06,8,1
+757,Beat Music! Beat Music! Beat Music!,Mark Guiliana,8,2019-04-27,2019-04-27,8,1
+758,Lala Belu,Hailu Mergia,9,2018-03-10,2018-03-24,8,2
+759,Moments Of Change,The JT Project,9,2016-04-16,2016-04-23,8,2
+760,The Best Of Walter Beasley: The Affable Years (Vol. I),Walter Beasley,11,2018-02-03,2018-02-17,8,2
+761,Subway Gawdz,Too Many Zooz,12,2017-10-28,2017-11-04,8,2
+762,Lightbox,Chris Letchford,18,2014-08-02,2014-08-02,8,1
+763,Plays The Sound Of Philadelphia: A Tribute To Kenny Gamble And Leon Huff,Larry Carlton,18,2011-06-25,2011-06-25,8,1
+764,Psychomagia,John Zorn,18,2014-03-08,2014-03-08,8,1
+765,Mochilla Presents Timeless: Suite For Ma Dukes,Miguel Atwood-Ferguson W/60 Piece Orchestra,21,2010-11-27,2011-02-05,8,2
+766,Plain'n'simple,Chuck Loeb,21,2011-08-13,2011-08-20,8,2
+767,Volume VIII,Kool&Klean,9,2019-02-09,2019-02-09,7,1
+768,Invisible Man: An Orchestral Tribute To Dr. Dre,Sly5thAve,9,2017-12-09,2017-12-09,7,1
+769,Spiritual Eternal: The Complete Warner Bros. Studio Recordings,Alice Coltrane,9,2018-09-22,2018-09-22,7,1
+770,For My Sanity,14KT Presents IAMABEENIE,9,2019-05-25,2019-05-25,7,1
+771,Nove Cantici Per Francesco D'Assisi,John Zorn,9,2019-07-13,2019-07-13,7,1
+772,Cave Art Two,DjM Trio,9,2019-06-08,2019-06-08,7,1
+773,Pathways To Unknown Worlds,Sun Ra And His Astro Infinity Arkestra,9,2019-03-09,2019-03-09,7,1
+774,Flawsome,Althea Rene,9,2019-07-06,2019-07-06,7,1
+775,DICE,Adam Rogers DICE,9,2017-07-08,2017-07-08,7,1
+776,Fly Away,Jeff Kashiwa,9,2017-08-26,2017-08-26,7,1
+777,Keep Movin',James Martin,9,2019-10-19,2019-10-19,7,1
+778,Colors Of Love Tour: Live In Las Vegas,Brian Culbertson,9,2019-03-02,2019-03-02,7,1
+779,"""Cool Down""",Bernard Purdie & Friends,9,2018-05-05,2018-05-05,7,1
+780,One Way Back,Paul Brown,9,2016-10-22,2016-10-22,7,1
+781,Witches Stew: A Tribute To Miles Davis,Lettuce,9,2017-11-04,2017-11-04,7,1
+782,Voyager,Jamal Moore,9,2019-04-13,2019-04-13,7,1
+783,Coin Coin Chapter Three: River Run Thee,Matana Roberts,9,2015-02-21,2015-02-21,7,1
+784,Wynton Marsalis's Swing Symphony,Jazz At Lincoln Center Orchestra & St. Louis Symphony Orchestra Conducted By David Robertson,9,2019-07-20,2019-07-20,7,1
+785,Fritzenized,Jonathan Fritzen,9,2015-02-28,2015-02-28,7,1
+786,World's Fair,Julian Lage,10,2015-02-21,2016-04-30,7,2
+787,The Choice (EP),Kamasi Washington,11,2018-07-14,2018-07-21,7,2
+788,Lucky Girl,Jacqui Naylor,19,2011-10-29,2011-10-29,7,1
+789,Swift,Marco Benevento,19,2014-10-04,2014-10-04,7,1
+790,Millions: Live In Denver,Jacob Fred Jazz Odyssey,19,2014-05-03,2014-05-03,7,1
+791,Live At The Blue Note Tokyo,Dave Koz,20,2013-03-09,2013-03-30,7,2
+792,Then Again: The Anthology,David Sanborn,20,2012-08-18,2012-08-25,7,2
+793,Secrets,Marion Meadows,21,2010-02-27,2010-03-20,7,2
+794,Swift,Bill Laurance,10,2015-04-18,2015-04-18,6,1
+795,Black Focus,Yussef Kamaal,10,2017-02-18,2017-02-18,6,1
+796,Booga Looga Loo,Oz Noy,10,2019-03-30,2019-03-30,6,1
+797,Morocco Fantasia: World Sinfonia Live With Special Guests,Al Di Meola,10,2018-07-14,2018-07-14,6,1
+798,Never Can Say Goodbye: A Tribute To Michael Jackson Remixed And Re-mastered,Bob Baldwin,10,2017-12-09,2017-12-09,6,1
+799,People Mover,Scott Henderson,10,2019-07-13,2019-07-13,6,1
+800,Retrospect,Skinny Hightower,10,2018-09-29,2018-09-29,6,1
+801,Beyond The Sea Of Trees,Freddie Joachim,10,2019-06-08,2019-06-08,6,1
+802,Threq (EP),FORQ,10,2017-08-26,2017-08-26,6,1
+803,Oddara,Jane Bunnett And Maqueque,10,2017-08-05,2017-08-05,6,1
+804,Kneedelus,Kneebody + Daedelus,10,2015-12-19,2015-12-19,6,1
+805,Rimur,Trio Mediaeval & Arve Henriksen,10,2017-05-06,2017-05-06,6,1
+806,A Wall Becomes A Bridge,Kendrick Scott Oracle,10,2019-04-20,2019-04-20,6,1
+807,Does The Divas!: Smooth Urban Jazz Vibes On Today's #1 R&B Divas!,Streetwize,10,2015-02-07,2015-02-07,6,1
+808,Soulfunky,Lin Rountree,11,2015-06-06,2015-06-13,6,2
+809,N.O.I.S.E.,Carlton 'C-Dub' Whitfield,20,2014-04-12,2014-04-12,6,1
+810,Love And Sax,Elan Trotman,20,2011-06-11,2011-06-11,6,1
+811,Serendipitous,Lin Rountree,20,2013-09-21,2013-09-21,6,1
+812,Journey Of A Woman,Rajdulari,20,2014-05-03,2014-05-03,6,1
+813,Blues For You,Jeff Golub,20,2010-02-13,2010-02-13,6,1
+814,Jazz Collection,Angela Shella,22,2011-11-26,2012-02-04,6,2
+815,Toon Time Raw!,Jerry Paper & Easy Feelings Unlimited,11,2016-07-09,2016-07-09,5,1
+816,Heritage,Mark deClive Lowe,11,2019-02-23,2019-02-23,5,1
+817,Schizophrenia: The Yang Project,Bobby Sparks II,11,2019-04-06,2019-04-06,5,1
+818,Made For Pleasure,The New Mastersounds,11,2015-10-24,2015-10-24,5,1
+819,Conundrum,Alex Skolnick Trio,11,2018-09-22,2018-09-22,5,1
+820,Underwater,Elephant Gym,11,2019-01-19,2019-01-19,5,1
+821,"At Inter-Media Arts, April 1991",Sun Ra And His Arkestra,11,2016-12-17,2016-12-17,5,1
+822,Friday,Monkey House,11,2019-08-10,2019-08-10,5,1
+823,We Are The Drum,Kendrick Scott Oracle,11,2015-10-17,2015-10-17,5,1
+824,Best Of Chris Standring Remixed,Chris Standring,11,2019-07-06,2019-07-06,5,1
+825,Four On The Floor EP,Four80East,11,2019-03-02,2019-03-02,5,1
+826,StudioLIVE,Scott Wilkie,11,2017-04-15,2017-04-15,5,1
+827,Left,Monkey House,11,2016-06-25,2016-06-25,5,1
+828,Dirty Baby,Nels Cline,21,2010-10-30,2010-10-30,5,1
+829,Interzone,John Zorn,21,2010-12-11,2010-12-11,5,1
+830,Lenny White Live,Lenny White,21,2013-04-06,2013-04-06,5,1
+831,Isla,Portico Quartet,21,2010-10-16,2010-10-16,5,1
+832,Lifeboats And Follies,Tommy Guerrero,21,2011-02-19,2011-02-19,5,1
+833,Bonjour,Bonjour,12,2016-09-17,2016-09-17,4,1
+834,Renewable Energy,The New Mastersounds,12,2018-04-28,2018-04-28,4,1
+835,Live At South,Gerald Veasley,12,2018-02-10,2018-02-10,4,1
+836,The Pool,Jazzanova,12,2018-07-14,2018-07-14,4,1
+837,Shapeshifter II: Outbreak,TAUK,12,2018-10-13,2018-10-13,4,1
+838,Shapeshifter I & II,TAUK,12,2018-10-20,2018-10-20,4,1
+839,Midsummer Moons,John Zorn,12,2017-07-22,2017-07-22,4,1
+840,Something's Gotta Give,James Martin,12,2017-05-20,2017-05-20,4,1
+841,Transparent Water,Omar Sosa & Seckou Keita,12,2017-03-18,2017-03-18,4,1
+842,Purge,DRKWAV,12,2015-03-14,2015-03-14,4,1
+843,Stinger,Hard Proof,12,2017-02-04,2017-02-04,4,1
+844,Christmas,Vincent Ingala,12,2016-12-31,2016-12-31,4,1
+845,Hidden Beach Recordings Presents Unwrapped By Popular Demand,Unwrapped,12,2019-06-08,2019-06-08,4,1
+846,Down By The River,Dennis Coffey,12,2019-06-22,2019-06-22,4,1
+847,Astral Progressions,Josef Leimberg,12,2016-10-29,2016-10-29,4,1
+848,"The Complete Concert, June 8, 1986: Coney Island, NY",John Cage Meets Sun Ra,12,2016-07-16,2016-07-16,4,1
+849,David Grisman Sextet,David Grisman Sextet,12,2016-06-25,2016-06-25,4,1
+850,New Frontier,The Steve Howe Trio,12,2019-10-19,2019-10-19,4,1
+851,Song Of Lahore,The Sachal Ensemble,12,2016-06-11,2016-06-11,4,1
+852,Brass Knuckles,NO BS! Brass,12,2015-12-12,2015-12-12,4,1
+853,Dark Territory,Dave Douglas,12,2016-05-07,2016-05-07,4,1
+854,Tree Of Life,Kory Caudill,13,2015-11-21,2016-12-17,4,2
+855,Ylang Ylang (EP),FKJ,13,2019-11-30,2019-12-07,4,2
+856,All Grown Up,Shilts,22,2012-06-30,2012-06-30,4,1
+857,"Masada Book 2: The Book of Angels, Volume14: Ipos",The Dreamers,22,2010-04-10,2010-04-10,4,1
+858,Live: I Am The Instrument,Harold Rayford,22,2010-08-28,2010-08-28,4,1
+859,The Green Room,Chelsey Green And The Green Project,22,2014-10-11,2014-10-11,4,1
+860,50 Smooth Jazz Essentials: The Best Jazz Collection,Various Artists,24,2010-09-11,2010-10-09,4,2
+861,Smooth Jazz Tribute To The Isley Brothers,Smooth Jazz All Stars,24,2012-12-22,2014-04-19,4,3
+862,Time All Mine,Christie Dashiell,13,2016-11-05,2016-11-05,3,1
+863,Diatom Ribbons,Kris Davis,13,2019-10-19,2019-10-19,3,1
+864,The Steinway Sessions,David Benoit,13,2017-06-10,2017-06-10,3,1
+865,Turn It Up,Steve Cole,13,2016-08-06,2016-08-06,3,1
+866,"Northside Of Linden, Westside Of Slauson",Salaam Remi & Terrace Martin,13,2019-06-29,2019-06-29,3,1
+867,Apogee,Kayla Waters,13,2017-03-18,2017-03-18,3,1
+868,"Cuts Up, Cuts Out (EP)","Merzbow, Pandi Balazs, Mats Gustafsson, Thurston Moore",13,2018-05-05,2018-05-05,3,1
+869,Delicious,The Funky Knuckles,13,2019-11-16,2019-11-16,3,1
+870,Free To Be,Kim Scott,13,2019-08-03,2019-08-03,3,1
+871,Serenity,Randy Scott,13,2015-07-04,2015-07-04,3,1
+872,Another Chance,The JT Project,13,2017-09-23,2017-09-23,3,1
+873,The Mockingbird,John Zorn,13,2016-06-11,2016-06-11,3,1
+874,Yes Today,Freelance,13,2018-05-26,2018-05-26,3,1
+875,Vertigo,The Necks,13,2015-11-21,2015-11-21,3,1
+876,Intuition: Songs From The Minds Of Women,Alicia Olatuja,13,2019-03-09,2019-03-09,3,1
+877,Mad Skillet,John Medeski's Mad Skillet,14,2018-11-24,2019-02-09,3,2
+878,La Gigantona,Alfonso Lovo,23,2012-11-10,2012-11-10,3,1
+879,The Brecker Brothers Band Reunion,Randy Brecker,23,2013-10-26,2013-10-26,3,1
+880,Tropicality,Elan Trotman,23,2013-04-06,2013-04-06,3,1
+881,X2: Breathelss/At Last...The Duets Album,Kenny G,23,2012-04-28,2012-04-28,3,1
+882,Decisive Steps,Tia Fuller,23,2010-05-22,2010-05-22,3,1
+883,Between The Needles And The Nightfall,Marco Benevento,23,2010-06-05,2010-06-05,3,1
+884,Fusion Syndicate,The Fusion Syndicate,23,2012-11-03,2012-11-03,3,1
+885,Blue Bolero,Chris Standring,24,2010-04-17,2010-04-24,3,2
+886,Constance And The Waiting (EP),Troot,14,2018-06-30,2018-06-30,2,1
+887,Thelonious Sphere Monk,Mast,14,2018-02-10,2018-02-10,2,1
+888,Mixtape IV,Julius Eastman / Horse Lords / Abdu Ali / Bonnie Jones / Will Schorre,14,2017-05-27,2017-05-27,2,1
+889,Vibe Station,Scott Henderson,14,2015-05-16,2015-05-16,2,1
+890,BEATBoX SAX,Derek Brown,14,2016-11-05,2016-11-05,2,1
+891,Clockwise,Anna Webber,14,2019-03-09,2019-03-09,2,1
+892,Zigzagger,Takuya Kuroda,14,2016-10-29,2016-10-29,2,1
+893,Tranceportation (Volume 1),Sonar With David Torn,14,2019-12-14,2019-12-14,2,1
+894,Bad Hombre,Antonio Sanchez,14,2017-10-21,2017-10-21,2,1
+895,You Change,Lindsey Webster,14,2017-11-04,2017-11-04,2,1
+896,Introducing Collective Peace,Collective Peace,14,2016-03-19,2016-03-19,2,1
+897,By Fire (EP),Kneebody,14,2019-05-18,2019-05-18,2,1
+898,Now Hear This,Matthew Whitaker,14,2019-08-24,2019-08-24,2,1
+899,Carousel,Ray Obiedo,14,2019-08-31,2019-08-31,2,1
+900,Seasons Change,The Daryl Beebe Project,14,2018-03-24,2018-03-24,2,1
+901,Falling In Love With Christmas,Grady Nichols,14,2017-01-14,2017-01-14,2,1
+902,The Optimist,Cory Wong,14,2018-09-01,2018-09-01,2,1
+903,Andreas Varady,Andreas Varady,24,2014-08-23,2014-08-23,2,1
+904,Seasons,Art Sherrod Jr.,24,2010-11-06,2010-11-06,2,1
+905,Bone Appetit  (Vol. 2 - Deuxieme Cours) (EP),Jeff Bradshaw,24,2012-05-12,2012-05-12,2,1
+906,Shades,Lebron,24,2013-09-07,2013-09-07,2,1
+907,Carry On,Maniacal 4,24,2013-08-31,2013-08-31,2,1
+908,Jazz In The Garden,The Stanley Clarke Trio With Hiromi & Lenny White,24,2010-01-23,2010-01-23,2,1
+909,Nova Express,John Zorn,24,2011-04-23,2011-04-23,2,1
+910,John Zorn: The True Discoveries Of Witches & Demons,Simulacrum Ensemble,15,2015-09-12,2015-09-12,1,1
+911,Swing!,Pat Travers,15,2019-08-17,2019-08-17,1,1
+912,Brass And Boujee,Marcus Lewis Big Band,15,2018-09-08,2018-09-08,1,1
+913,Bonfire,Ken Navarro,15,2016-10-08,2016-10-08,1,1
+914,Body,The Necks,15,2018-10-06,2018-10-06,1,1
+915,"Remember Me, My Dear",Jan Garbarek/The Hilliard Ensemble,15,2019-11-02,2019-11-02,1,1
+916,Do It 1992 (EP),Scott Kinsey / Kurt Rosenwinkel,15,2019-05-18,2019-05-18,1,1
+917,Soulful,Cal Harris Jr,15,2019-07-06,2019-07-06,1,1
+918,Beautifully Awkward,FKAjazz,15,2019-11-16,2019-11-16,1,1
+919,Frogtown,Anthony Wilson,15,2016-05-07,2016-05-07,1,1
+920,Fantasies,Chris Stapleton,15,2017-06-03,2017-06-03,1,1
+921,Live At Union Chapel,Bill Laurance,15,2016-12-03,2016-12-03,1,1
+922,Little Common Twist,Charles Rumback & Ryley Walker,15,2019-11-23,2019-11-23,1,1
+923,Obsidian,Kit Downes,15,2018-02-03,2018-02-03,1,1
+924,Volume VI,Kool&Klean,15,2016-02-20,2016-02-20,1,1
+925,Shake It,The New Mastersounds Featuring Lamar Williams,15,2019-09-28,2019-09-28,1,1
+926,The Painted Bird,John Zorn,15,2016-04-09,2016-04-09,1,1
+927,Selebeyone,Steve Lehman,15,2016-09-10,2016-09-10,1,1
+928,Prescription For Sleep: Shovel Knight,GENTLE LOVE,15,2019-12-21,2019-12-21,1,1
+929,Reminiscing In Tempo,New York Voices,15,2019-08-31,2019-08-31,1,1
+930,Smooth Jazz Number Ones,Various Artists,25,2010-03-20,2010-03-20,1,1
+931,Boca Negra,Chicago Underground Duo,25,2010-02-13,2010-02-13,1,1
+932,What The Funk?,Nils,25,2010-09-04,2010-09-04,1,1
+933,Marcus Johnson Presents: Flo...: {For The Love Of} Chill Volume 2,Marcus Johnson,25,2011-07-30,2011-07-30,1,1
+934,The Mysteries,John Zorn,25,2013-04-27,2013-04-27,1,1
+935,Anomaly,Lenny White,25,2010-06-05,2010-06-05,1,1
+936,Veritas,Alex Skolnick Trio,25,2011-04-16,2011-04-16,1,1
+937,More Meat,Bombastic Meatbats Featuring Chad Smith,25,2010-11-06,2010-11-06,1,1
+938,Here & Gone,David Sanborn,25,2010-01-09,2010-01-09,1,1
+939,Thunder,S.M.V.,25,2010-02-06,2010-02-06,1,1
+940,Valentine's Day,John Zorn's Enigmata Trios,25,2014-10-18,2014-10-18,1,1
+941,Smooth Jazz Tribute To The Best Of Fred Hammond,Smooth Jazz All Stars,25,2014-01-11,2014-01-11,1,1
+942,Blackmagic,Jose James,25,2010-05-15,2010-05-15,1,1

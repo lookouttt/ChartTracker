@@ -1,0 +1,231 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Metallica,Metallica,2,2017-02-11,2017-12-30,964,47
+2,Hardwired...To Self-Destruct,Metallica,1,2017-01-07,2017-12-30,943,42
+3,Greatest Hits,Guns N' Roses,3,2017-02-11,2017-12-30,821,47
+4,[Hybrid Theory],Linkin Park,1,2017-02-11,2017-12-30,800,47
+5,Greatest Hits I II & III: The Platinum Collection,Queen,1,2017-02-11,2017-12-30,724,32
+6,Back In Black,AC/DC,4,2017-02-11,2017-12-30,689,47
+7,Mothership,Led Zeppelin,2,2017-02-18,2017-12-30,653,45
+8,Immortalized,Disturbed,3,2017-01-07,2017-12-30,634,52
+9,Journey's Greatest Hits,Journey,1,2017-02-11,2017-08-05,570,26
+10,Greatest Hits,Foo Fighters,8,2017-02-11,2017-12-30,548,47
+11,The Wrong Side Of Heaven And The Righteous Side Of Hell: Volume 1,Five Finger Death Punch,10,2017-02-11,2017-12-09,414,41
+12,Greatest Hits: The Ultimate Collection,Bon Jovi,3,2017-02-11,2017-12-30,409,27
+13,Master Of Puppets,Metallica,2,2017-02-11,2017-12-30,396,41
+14,Meteora,Linkin Park,2,2017-04-08,2017-12-30,355,28
+15,Greatest Hits,Queen,2,2017-04-01,2017-12-16,316,15
+16,All The Right Reasons,Nickelback,12,2017-04-01,2017-12-30,269,32
+17,Unleashed,Skillet,3,2017-01-07,2017-12-30,268,24
+18,Concrete And Gold,Foo Fighters,1,2017-10-07,2017-12-30,264,13
+19,...And Justice For All,Metallica,6,2017-02-11,2017-12-02,258,38
+20,Aerosmith's Greatest Hits,Aerosmith,11,2017-02-11,2017-12-30,248,40
+21,Lifelines,I Prevail,5,2017-01-07,2017-09-23,244,24
+22,Feed The Machine,Nickelback,1,2017-07-08,2017-09-23,200,12
+23,The Best Of Nickelback: Volume 1,Nickelback,5,2017-02-11,2017-09-30,188,16
+24,The Ghosts Of Christmas Eve,Trans-Siberian Orchestra,1,2017-01-07,2017-12-30,177,10
+25,Got Your Six,Five Finger Death Punch,7,2017-01-07,2017-05-20,175,20
+26,Villains,Queens Of The Stone Age,1,2017-09-16,2017-12-16,152,10
+27,The Stage,Avenged Sevenfold,2,2017-01-07,2017-07-01,125,7
+28,Minutes To Midnight,Linkin Park,4,2017-08-05,2017-11-11,123,9
+29,Appetite For Destruction,Guns N' Roses,5,2017-05-13,2017-12-30,123,7
+30,The Greatest Hits,3 Doors Down,7,2017-02-11,2017-09-23,119,20
+31,From The Fires,Greta Van Fleet,1,2017-12-02,2017-12-30,115,5
+32,Slippery When Wet,Bon Jovi,15,2017-03-18,2017-12-23,102,18
+33,The Boy Who Died Wolf,Highly Suspect,9,2017-01-07,2017-03-04,98,8
+34,Audioslave,Audioslave,4,2017-06-03,2017-09-16,94,9
+35,Crooked Teeth,Papa Roach,1,2017-06-10,2017-09-09,91,9
+36,Superunknown,Soundgarden,2,2017-06-03,2017-07-22,90,8
+37,The Serenity Of Suffering,Korn,6,2017-01-07,2017-02-04,88,5
+38,Emperor Of Sand,Mastodon,1,2017-04-22,2017-05-20,87,5
+39,Hydrograd,Stone Sour,1,2017-07-22,2017-08-26,79,6
+40,Heaven Upside Down,Marilyn Manson,1,2017-10-28,2017-12-16,74,5
+41,Threat To Survival,Shinedown,10,2017-01-07,2017-02-04,72,5
+42,Seal The Deal & Let's Boogie,Volbeat,11,2017-01-07,2017-02-04,66,5
+43,Led Zeppelin IV,Led Zeppelin,14,2017-03-04,2017-12-30,61,12
+44,The Lost Christmas Eve,Trans-Siberian Orchestra,6,2017-12-16,2017-12-30,54,3
+45,Bad Vibrations,A Day To Remember,11,2017-01-07,2017-02-04,53,5
+46,Poison The Parish,Seether,1,2017-06-03,2017-06-24,52,4
+47,ReAniMate 3.0: The CoVeRs eP,Halestorm,1,2017-01-28,2017-02-11,51,3
+48,Five,Hollywood Undead,1,2017-11-18,2017-12-09,50,4
+49,A Decade Of Destruction,Five Finger Death Punch,1,2017-12-23,2017-12-30,49,2
+50,Who You Selling For,The Pretty Reckless,10,2017-01-07,2017-02-04,49,5
+51,Wolves,Rise Against,1,2017-07-01,2017-07-15,48,3
+52,How Did We Get So Dark?,Royal Blood,2,2017-07-08,2017-07-22,48,3
+53,One - X,Three Days Grace,21,2017-02-18,2017-12-02,48,19
+54,Ride The Lightning,Metallica,8,2017-03-11,2017-12-23,47,7
+55,Badmotorfinger,Soundgarden,6,2017-06-03,2017-06-17,46,3
+56,Prophets Of Rage,Prophets Of Rage,3,2017-10-07,2017-10-21,44,3
+57,The Stories We Tell Ourselves,Nothing More,2,2017-10-07,2017-10-21,43,3
+58,Experience Hendrix: The Best Of Jimi Hendrix,Jimi Hendrix,18,2017-05-20,2017-12-30,43,12
+59,Coming Home,Falling In Reverse,2,2017-04-29,2017-05-06,41,2
+60,Ritual,In This Moment,3,2017-08-12,2017-08-26,41,3
+61,Toxicity,System Of A Down,16,2017-02-11,2017-12-02,41,12
+62,Core,Stone Temple Pilots,4,2017-10-21,2017-10-28,40,2
+63,Vessels,Starset,2,2017-02-11,2017-02-18,39,2
+64,AFI (The Blood Album),AFI,1,2017-02-11,2017-02-18,38,2
+65,The Sin And The Sentence,Trivium,1,2017-11-11,2017-11-18,37,2
+66,Hysteria,Def Leppard,5,2017-08-26,2017-09-02,37,2
+67,"Prayers For The Blessed, Vol. 2",Sixx: A.M.,12,2017-01-07,2017-01-21,37,3
+68,Paranormal,Alice Cooper,2,2017-08-19,2017-08-26,36,2
+69,Temple Of The Dog,Temple Of The Dog,7,2017-06-03,2017-06-10,36,2
+70,Ten,Pearl Jam,10,2017-05-20,2017-12-02,36,5
+71,Graveyard Shift,Motionless In White,1,2017-05-27,2017-06-03,35,2
+72,Let's Play Two: Live At Wrigley Field (Soundtrack),Pearl Jam,1,2017-10-21,2017-10-28,34,2
+73,Phantom Anthem,August Burns Red,2,2017-10-28,2017-11-04,31,2
+74,Singles,Soundtrack,3,2017-06-10,2017-06-24,31,3
+75,Best Of Volume 1,Van Halen,12,2017-07-08,2017-12-30,31,3
+76,The Best Of 2005-2013,Avenged Sevenfold,14,2017-01-07,2017-01-21,31,3
+77,Black Smoke Rising (EP),Greta Van Fleet,10,2017-11-11,2017-11-25,30,3
+78,Disturbed: Live At Red Rocks,Disturbed,13,2017-01-07,2017-01-21,30,3
+79,That's The Spirit,Bring Me The Horizon,17,2017-01-14,2017-02-04,30,4
+80,The Book Of Souls: The Live Chapter,Iron Maiden,1,2017-12-09,2017-12-16,27,2
+81,Brotherhood Of The Snake,Testament,14,2017-01-07,2017-01-21,27,3
+82,Dystopia,Megadeth,17,2017-01-07,2017-01-28,26,4
+83,True View,Stick To Your Guns,1,2017-11-04,2017-11-04,25,1
+84,Madness,All That Remains,1,2017-05-20,2017-05-20,25,1
+85,The Dusk In Us,Converge,1,2017-11-25,2017-11-25,25,1
+86,Cold Dark Place (EP),Mastodon,2,2017-10-14,2017-10-21,25,2
+87,Look At Yourself,Emmure,2,2017-03-25,2017-03-25,24,1
+88,Outlive,Demon Hunter,2,2017-04-22,2017-04-22,24,1
+89,Gone,Red,2,2017-11-18,2017-11-18,24,1
+90,Deadweight,Wage War,2,2017-08-26,2017-08-26,24,1
+91,Ambitions,ONE OK ROCK,2,2017-02-04,2017-02-04,24,1
+92,Cold Like War,We Came As Romans,2,2017-11-11,2017-11-11,24,1
+93,The Grinding Wheel,Overkill,2,2017-03-04,2017-03-04,24,1
+94,Scatterbrain,KXM,2,2017-04-08,2017-04-08,24,1
+95,Lower The Bar,Steel Panther,2,2017-04-15,2017-04-15,24,1
+96,Red Before Black,Cannibal Corpse,3,2017-11-25,2017-11-25,23,1
+97,Safe Is Just A Shadow (Re-Shadowed And Re-Recorded),Ice Nine Kills,3,2017-01-28,2017-01-28,23,1
+98,The Canyon,The Used,3,2017-11-18,2017-11-18,23,1
+99,False Idol,Veil Of Maya,3,2017-11-11,2017-11-11,23,1
+100,Nightbringers,The Black Dahlia Murder,3,2017-10-28,2017-10-28,23,1
+101,Victory Lap,Propagandhi,3,2017-10-21,2017-10-21,23,1
+102,Will To Power,Arch Enemy,3,2017-09-30,2017-09-30,23,1
+103,Dear Desolation,Thy Art Is Murder,3,2017-09-09,2017-09-09,23,1
+104,Dead Reflection,Silverstein,3,2017-08-05,2017-08-05,23,1
+105,Black Laden Crown,Danzig,3,2017-06-17,2017-06-17,23,1
+106,Machine Gun: The Fillmore East: First Show 12/31/1969,Jimi Hendrix,18,2017-01-07,2017-02-04,23,4
+107,Forever,Code Orange,4,2017-02-04,2017-02-04,22,1
+108,BCC IV,Black Country Communion,4,2017-10-14,2017-10-14,22,1
+109,The Brotherhood,Lynch Mob,4,2017-09-30,2017-09-30,22,1
+110,Ultu Ulla,Rings Of Saturn,5,2017-08-19,2017-08-19,21,1
+111,(How To Live) As Ghosts,10 Years,5,2017-11-18,2017-11-18,21,1
+112,You're Not You Anymore,Counterparts,5,2017-10-14,2017-10-14,21,1
+113,Gods Of Violence,Kreator,6,2017-02-18,2017-02-18,20,1
+114,Shadows Inside,Miss May I,6,2017-06-24,2017-06-24,20,1
+115,A Farewell To Kings,Rush,6,2017-12-23,2017-12-23,20,1
+116,"Punk Goes Pop, Vol. 7",Various Artists,6,2017-08-05,2017-08-05,20,1
+117,"RWBY, Volume 4",Soundtrack,6,2017-07-08,2017-07-08,20,1
+118,Master Of Puppets (Super Deluxe),Metallica,6,2017-12-02,2017-12-02,20,1
+119,Living Things,Linkin Park,6,2017-08-12,2017-08-12,20,1
+120,Infinite,Deep Purple,6,2017-04-29,2017-04-29,20,1
+121,Judas,Fozzy,7,2017-11-04,2017-11-04,19,1
+122,Machine Messiah,Sepultura,7,2017-02-04,2017-02-04,19,1
+123,Clairvoyant,The Contortionist,7,2017-10-07,2017-10-07,19,1
+124,Suicide Silence,Suicide Silence,7,2017-03-18,2017-03-18,19,1
+125,Few,He Is Legend,8,2017-05-20,2017-05-20,18,1
+126,Ty Segall,Ty Segall,8,2017-02-18,2017-02-18,18,1
+127,Heartless,Pallbearer,8,2017-04-15,2017-04-15,18,1
+128,Bloodlust,Body Count,8,2017-04-22,2017-04-22,18,1
+129,"Vehicle Of Spirit: Live At Wembley Arena, London/Ratina Stadion, Tampere +",Nightwish,8,2017-01-28,2017-01-28,18,1
+130,Wrong One To Fuck With,Dying Fetus,8,2017-07-15,2017-07-15,18,1
+131,Gravebloom,The Acacia Strain,8,2017-07-22,2017-07-22,18,1
+132,Psychotic Symphony,Sons Of Apollo,8,2017-11-11,2017-11-11,18,1
+133,Nirvana,Nirvana,15,2017-05-20,2017-06-17,18,2
+134,Misadventures,Pierce The Veil,15,2017-01-07,2017-01-21,18,3
+135,Hiss Spun,Chelsea Wolfe,9,2017-10-14,2017-10-14,17,1
+136,Galaktikon II: Become The Storm,Brendon Small,9,2017-09-16,2017-09-16,17,1
+137,Galactic Empire,Galactic Empire,9,2017-02-25,2017-02-25,17,1
+138,Halfway Human,Within The Ruins,9,2017-03-25,2017-03-25,17,1
+139,Live At The O2 Arena + Rarities,Alter Bridge,9,2017-09-30,2017-09-30,17,1
+140,MTV Ultimate Mash-Ups Presents: Collision Course,Jay-Z/Linkin Park,9,2017-08-12,2017-08-12,17,1
+141,The Rise Of Chaos,Accept,9,2017-08-26,2017-08-26,17,1
+142,Different Animals,Volumes,9,2017-07-01,2017-07-01,17,1
+143,Pinewood Smile,The Darkness,10,2017-10-28,2017-10-28,16,1
+144,Incorruptible,Iced Earth,10,2017-07-08,2017-07-08,16,1
+145,Best + Live,Chickenfoot,10,2017-04-01,2017-04-01,16,1
+146,Restless And Live,Accept,10,2017-02-04,2017-02-04,16,1
+147,A Thousand Suns,Linkin Park,10,2017-08-12,2017-08-12,16,1
+148,Down On The Upside,Soundgarden,14,2017-06-03,2017-06-10,16,2
+149,The Complete BBC Sessions,Led Zeppelin,15,2017-01-07,2017-01-14,16,2
+150,Playlist: The Very Best Of Bad Company,Bad Company,16,2017-01-21,2017-02-04,16,3
+151,Greatest Hits,Motley Crue,20,2017-07-22,2017-09-09,16,4
+152,Slime And Punishment,Municipal Waste,11,2017-07-15,2017-07-15,15,1
+153,Godless Prophets & The Migrant Flora,Darkest Hour,11,2017-04-01,2017-04-01,15,1
+154,Live & Inspired,Godsmack,11,2017-03-18,2017-03-18,15,1
+155,Meliora,Ghost,17,2017-01-21,2017-02-04,15,3
+156,Magma,GOJIRA,17,2017-01-14,2017-01-28,15,3
+157,...Of The Dark Light,Suffocation,12,2017-07-01,2017-07-01,14,1
+158,Don't Let Up,Night Ranger,12,2017-04-15,2017-04-15,14,1
+159,Material Control,Glassjaw,12,2017-12-23,2017-12-23,14,1
+160,The Eternal Reign,Born Of Osiris,12,2017-03-18,2017-03-18,14,1
+161,Echolocation,Gone Is Gone,12,2017-01-28,2017-01-28,14,1
+162,Shade,Living Colour,12,2017-09-30,2017-09-30,14,1
+163,Dead Cross,Dead Cross,12,2017-08-26,2017-08-26,14,1
+164,"Girls, Girls, Girls",Motley Crue,12,2017-09-16,2017-09-16,14,1
+165,Obituary,Obituary,12,2017-04-08,2017-04-08,14,1
+166,Ignite My Insanity,Projected,13,2017-08-12,2017-08-12,13,1
+167,"The End: Birmingham, 4 February 2017",Black Sabbath,13,2017-12-09,2017-12-09,13,1
+168,The Great Collapse,Fit For An Autopsy,13,2017-04-08,2017-04-08,13,1
+169,The Ultimate Collection,Black Sabbath,13,2017-02-25,2017-02-25,13,1
+170,The Blood Of Gods,Gwar,13,2017-11-11,2017-11-11,13,1
+171,XVIII,Eighteen Visions,14,2017-06-24,2017-06-24,12,1
+172,No Grave But The Sea,Alestorm,14,2017-06-17,2017-06-17,12,1
+173,The Hunting Party,Linkin Park,14,2017-08-12,2017-08-12,12,1
+174,Lilith,Butcher Babies,15,2017-11-18,2017-11-18,11,1
+175,Turbo 30,Judas Priest,15,2017-02-25,2017-02-25,11,1
+176,Cryptoriana: The Seductivenes Of Decay,Cradle Of Filth,15,2017-10-14,2017-10-14,11,1
+177,Wizard Bloody Wizard,Electric Wizard,15,2017-12-09,2017-12-09,11,1
+178,Unified,Sweet & Lynch,15,2017-12-02,2017-12-02,11,1
+179,Live,AC/DC,20,2017-04-01,2017-04-29,11,3
+180,Fallen,Evanescence,20,2017-02-18,2017-12-02,11,3
+181,The Sound Of Madness,Shinedown,21,2017-03-04,2017-03-25,11,4
+182,Vengeful Ascension,Goatwhore,16,2017-07-15,2017-07-15,10,1
+183,Light It Up,Hot Water Music,16,2017-10-07,2017-10-07,10,1
+184,In Becoming A Ghost,The Faceless,16,2017-12-23,2017-12-23,10,1
+185,The Missing Peace,L.A. Guns,16,2017-11-04,2017-11-04,10,1
+186,Exhale,Thousand Foot Krutch,17,2017-01-28,2017-02-04,10,2
+187,The Who Hits 50!,The Who,21,2017-08-05,2017-09-02,10,3
+188,Thank You,Stone Temple Pilots,17,2017-10-07,2017-10-07,9,1
+189,American Fall,Anti-Flag,17,2017-11-25,2017-11-25,9,1
+190,The Last Hero,Alter Bridge,22,2017-01-07,2017-01-21,9,3
+191,Where The Mind Wants To Go / Where You Let It Go,I The Mighty,18,2017-11-11,2017-11-11,8,1
+192,Palisades,Palisades,18,2017-02-11,2017-02-11,8,1
+193,In The Passing Light Of Day,Pain Of Salvation,18,2017-02-04,2017-02-04,8,1
+194,(V),The Bronx,18,2017-10-14,2017-10-14,8,1
+195,Dreams Of Fireflies (On A Christmas Night) (EP),Trans-Siberian Orchestra,19,2017-12-16,2017-12-16,7,1
+196,Psychosis,Cavalera Conspiracy,19,2017-12-09,2017-12-09,7,1
+197,Vans Warped Tour '17,Various Artists,19,2017-07-29,2017-07-29,7,1
+198,The Sickness,Disturbed,19,2017-04-08,2017-04-08,7,1
+199,The North Corridor,Chevelle,21,2017-01-14,2017-02-04,7,3
+200,Popestar (EP),Ghost,22,2017-01-07,2017-02-04,7,2
+201,The Madness,Art Of Anarchy,20,2017-04-15,2017-04-15,6,1
+202,Black To Blues (EP),Black Stone Cherry,20,2017-10-21,2017-10-21,6,1
+203,The Heroin Diaries Soundtrack,Sixx: A.M.,20,2017-11-18,2017-11-18,6,1
+204,The Deep Longing For Annihilation,Alluvial,20,2017-01-28,2017-01-28,6,1
+205,rearviewmirror: Greatest Hits 1991-2003,Pearl Jam,20,2017-05-20,2017-05-20,6,1
+206,The Solace System,Epica,20,2017-09-23,2017-09-23,6,1
+207,You Are We,While She Sleeps,20,2017-05-13,2017-05-13,6,1
+208,Veracity,Backwordz,20,2017-04-22,2017-04-22,6,1
+209,Flesh Coffin,Lorna Shore,20,2017-03-11,2017-03-11,6,1
+210,Dark Flag,Phinehas,20,2017-12-09,2017-12-09,6,1
+211,Red Hands Black Deeds,Shaman's Harvest,20,2017-08-19,2017-08-19,6,1
+212,Good Apollo I'm Burning Star IV...,Coheed And Cambria,21,2017-05-27,2017-05-27,5,1
+213,Revelation,Oceano,21,2017-06-10,2017-06-10,5,1
+214,Anticult,Decapitated,21,2017-07-29,2017-07-29,5,1
+215,Hikari,Oceans Ate Alaska,22,2017-08-19,2017-08-19,4,1
+216,Nightmare Logic,Power Trip,22,2017-03-18,2017-03-18,4,1
+217,Conformicide,Havok,22,2017-04-01,2017-04-01,4,1
+218,The Baddest,ZZ Top,24,2017-03-25,2017-07-29,4,2
+219,Greatest Hits 1970-1978,Black Sabbath,23,2017-11-18,2017-11-18,3,1
+220,Alpha,War Of Ages,23,2017-12-30,2017-12-30,3,1
+221,Notorious,Adelitas Way,23,2017-11-11,2017-11-11,3,1
+222,Rage Against The Machine,Rage Against The Machine,23,2017-11-04,2017-11-04,3,1
+223,Blood Of My Enemy,Winds Of Plague,24,2017-11-18,2017-11-18,2,1
+224,A Place Where There's No More Pain,Life Of Agony,24,2017-05-20,2017-05-20,2,1
+225,The Best Of Sweet,Sweet,24,2017-05-27,2017-05-27,2,1
+226,The Duke (EP),Lamb Of God,24,2017-01-07,2017-01-07,2,1
+227,Made From Fire,Davey Suicide,24,2017-04-15,2017-04-15,2,1
+228,Letters From The Labyrinth,Trans-Siberian Orchestra,25,2017-01-07,2017-01-07,1,1
+229,"Past, Present & Future",Rob Zombie,25,2017-11-18,2017-11-18,1,1
+230,Greatest Hits,ZZ Top,25,2017-07-08,2017-07-08,1,1

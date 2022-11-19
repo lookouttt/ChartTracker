@@ -1,0 +1,367 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Amazed,Lonestar,1,1999-04-10,1999-12-25,4044,38
+2,Write This Down,George Strait,1,1999-03-13,1999-11-20,3404,37
+3,Lesson In Leavin',Jo Dee Messina,2,1999-05-01,1999-12-18,3355,34
+4,How Forever Feels,Kenny Chesney,1,1999-01-02,1999-08-21,3143,34
+5,Something Like That,Tim McGraw,1,1999-05-15,1999-12-25,2728,27
+6,Please Remember Me,Tim McGraw,1,1999-03-20,1999-08-28,2688,24
+7,You Had Me From Hello,Kenny Chesney,1,1999-04-17,1999-11-20,2598,32
+8,I Love You,Martina McBride,1,1999-07-31,1999-12-25,2559,22
+9,You Won't Ever Be Lonely,Andy Griggs,2,1999-01-02,1999-08-14,2385,33
+10,Single White Female,Chely Wright,1,1999-03-13,1999-10-09,2253,31
+11,Wish You Were Here,Mark Wills,1,1999-01-23,1999-07-17,2192,26
+12,Little Good-byes,SHeDAISY,3,1999-02-27,1999-10-02,2182,32
+13,Whatever You Say,Martina McBride,2,1999-03-06,1999-09-04,2164,27
+14,You Were Mine,Dixie Chicks,1,1999-01-02,1999-05-29,2117,22
+15,God Must Have Spent A Little More Time On You,Alabama Featuring 'N Sync,3,1999-05-01,1999-10-02,2089,23
+16,I Don't Want To Miss A Thing,Mark Chesnutt,1,1999-01-02,1999-05-08,1966,19
+17,I'll Think Of A Reason Later,Lee Ann Womack,2,1999-01-02,1999-06-12,1964,24
+18,A Night To Remember,Joe Diffie,6,1999-03-13,1999-09-25,1942,29
+19,Two Teardrops,Steve Wariner,2,1999-02-20,1999-07-31,1938,24
+20,Home To You,John Michael Montgomery,2,1999-07-17,1999-12-25,1894,24
+21,I'm Already Taken,Steve Wariner,3,1999-07-03,1999-12-18,1880,25
+22,Stand Beside Me,Jo Dee Messina,1,1999-01-02,1999-05-15,1876,20
+23,What Do You Say To That,George Strait,4,1999-03-13,1999-12-25,1872,24
+24,Ready To Run,Dixie Chicks,2,1999-07-10,1999-11-20,1871,20
+25,The Secret Of Life,Faith Hill,4,1999-05-08,1999-10-16,1784,24
+26,Little Man,Alan Jackson,3,1999-05-29,1999-10-30,1749,23
+27,Unbelievable,Diamond Rio,2,1999-01-02,1999-05-15,1746,20
+28,When I Said I Do,Clint Black,1,1999-09-04,1999-12-25,1717,17
+29,Lonely And Gone,Montgomery Gentry,5,1999-06-05,1999-11-27,1659,26
+30,Anyone Else,Collin Raye,4,1999-01-30,1999-07-10,1632,24
+31,Ordinary Life,Chad Brock,3,1999-01-02,1999-05-22,1590,21
+32,Busy Man,Billy Ray Cyrus,3,1999-01-02,1999-05-01,1512,18
+33,Gone Crazy,Alan Jackson,4,1999-02-06,1999-06-19,1493,20
+34,Hands Of A Working Man,Ty Herndon,5,1999-01-02,1999-06-19,1481,25
+35,He Didn't Have To Be,Brad Paisley,1,1999-09-04,1999-12-25,1446,17
+36,Man! I Feel Like A Woman!,Shania Twain,4,1999-03-13,1999-07-17,1446,19
+37,No Place That Far,Sara Evans,1,1999-01-02,1999-04-24,1437,17
+38,With You,Lila McCann,9,1999-01-30,1999-07-24,1419,26
+39,Who Needs Pictures,Brad Paisley,12,1999-02-06,1999-09-11,1397,31
+40,All Things Considered,Yankee Grey,8,1999-06-26,1999-12-25,1394,27
+41,I'll Still Love You More,Trisha Yearwood,10,1999-05-08,1999-10-23,1352,25
+42,Tonight The Heartache's On Me,Dixie Chicks,6,1999-04-03,1999-08-14,1349,20
+43,For A Little While,Tim McGraw,2,1999-01-02,1999-03-20,1328,12
+44,Drive Me Wild,Sawyer Brown,6,1999-01-02,1999-05-22,1328,21
+45,Meanwhile,George Strait,4,1999-01-09,1999-05-22,1312,20
+46,I Can't Get Over You,Brooks & Dunn,5,1999-01-16,1999-05-29,1302,20
+47,She's In Love,Mark Wills,7,1999-06-19,1999-11-13,1250,22
+48,I'll Go Crazy,Andy Griggs,10,1999-07-17,1999-12-11,1193,22
+49,Wrong Again,Martina McBride,1,1999-01-02,1999-03-13,1192,11
+50,Hold On To Me,John Michael Montgomery,4,1999-01-02,1999-03-27,1178,13
+51,Lightning Does The Work,Chad Brock,19,1999-05-22,1999-11-13,1137,26
+52,One Honest Heart,Reba,7,1999-03-20,1999-07-31,1136,20
+53,Breathe,Faith Hill,1,1999-10-09,1999-12-25,1118,12
+54,Come On Over,Shania Twain,6,1999-09-11,1999-12-25,1099,16
+55,Make Up In Love,Doug Stone,19,1999-04-24,1999-10-16,1097,26
+56,Powerful Thing,Trisha Yearwood,6,1999-01-02,1999-04-10,1069,15
+57,Right On The Money,Alan Jackson,1,1999-01-02,1999-02-27,1021,9
+58,"Spirit Of A Boy, Wisdom Of A Man",Randy Travis,2,1999-01-02,1999-02-27,1014,9
+59,(Now You See Me) Now You Don't,Lee Ann Womack,12,1999-06-05,1999-10-16,999,20
+60,What Do You Say,Reba,4,1999-09-18,1999-12-25,993,15
+61,That Don't Impress Me Much,Shania Twain,8,1999-01-02,1999-04-24,992,17
+62,She's Always Right,Clay Walker,16,1999-02-20,1999-07-17,987,22
+63,Everytime I Cry,Terri Clark,12,1999-02-06,1999-06-19,984,20
+64,Hillbilly Shoes,Montgomery Gentry,13,1999-02-13,1999-06-26,958,20
+65,Crazy Little Thing Called Love,Dwight Yoakam,12,1999-05-01,1999-09-11,954,20
+66,You've Got A Way,Shania Twain,13,1999-06-19,1999-10-30,950,20
+67,This Heartache Never Sleeps,Mark Chesnutt,17,1999-04-24,1999-09-11,943,21
+68,Love Ain't Like That,Faith Hill,12,1999-01-16,1999-05-29,939,20
+69,There You Have It,BlackHawk,4,1999-01-02,1999-03-06,930,10
+70,A Man Ain't Made Of Stone,Randy Travis,16,1999-08-14,1999-12-25,909,20
+71,I'm Leaving,Aaron Tippin,17,1999-01-30,1999-06-12,906,20
+72,"Live, Laugh, Love",Clay Walker,16,1999-08-07,1999-12-25,905,21
+73,Wrong Night,Reba,6,1999-01-02,1999-03-27,903,13
+74,Maybe Not Tonight,Sammy Kershaw & Lorrie Morgan,17,1999-02-27,1999-07-10,888,20
+75,Can't Get Enough,Patty Loveless,21,1999-01-16,1999-05-29,888,20
+76,Big Deal,LeAnn Rimes,9,1999-09-04,1999-12-25,887,17
+77,Missing You,Brooks & Dunn,15,1999-08-07,1999-12-18,884,20
+78,Hello L.O.V.E.,John Michael Montgomery,15,1999-03-27,1999-08-07,881,20
+79,Stranger In My Mirror,Randy Travis,16,1999-03-06,1999-07-17,876,20
+80,Keepin' Up,Alabama,14,1999-01-02,1999-04-17,831,16
+81,Steam,Ty Herndon,18,1999-08-21,1999-12-25,818,19
+82,Ordinary Love,Shane Minor,24,1999-07-24,1999-12-04,816,20
+83,The Greatest,Kenny Rogers,26,1999-04-17,1999-08-28,804,20
+84,Smoke Rings In The Dark,Gary Allan,18,1999-08-14,1999-12-25,800,20
+85,You're Beginning To Get To Me,Clay Walker,2,1999-01-02,1999-02-20,799,8
+86,Almost Home,Mary Chapin Carpenter,22,1999-04-10,1999-08-28,791,21
+87,Slave To The Habit,Shane Minor,20,1999-03-06,1999-07-24,788,20
+88,Pop A Top,Alan Jackson,6,1999-10-09,1999-12-25,779,12
+89,You're Easy On The Eyes,Terri Clark,1,1999-01-02,1999-02-20,772,8
+90,You Go First (Do You Wanna Kiss),Jessica Andrews,25,1999-07-10,1999-11-20,730,20
+91,Never Been Kissed,Sherrie Austin,29,1999-05-22,1999-10-02,727,20
+92,Your Own Little Corner Of My Heart,BlackHawk,27,1999-02-06,1999-06-19,726,20
+93,I Will Be There For You,Jessica Andrews,28,1999-02-06,1999-06-19,707,20
+94,Choices,George Jones,30,1999-05-08,1999-09-18,705,20
+95,Are Your Eyes Still Blue,Shane McAnally,31,1999-07-17,1999-11-27,693,20
+96,She Thinks My Tractor's Sexy,Kenny Chesney,13,1999-06-26,1999-12-25,655,17
+97,It's A Love Thing,Keith Urban,26,1999-08-28,1999-12-25,655,18
+98,For You I Will,Aaron Tippin,6,1999-01-02,1999-02-20,654,8
+99,The Quittin' Kind,Joe Diffie,23,1999-09-04,1999-12-25,634,17
+100,Put Your Hand In Mine,Tracy Byrd,17,1999-09-25,1999-12-25,627,14
+101,Fly (The Angel Song),The Wilkinsons,15,1999-01-02,1999-03-13,626,11
+102,My Kind Of Woman/My Kind Of Man,Vince Gill With Patty Loveless,27,1999-05-29,1999-10-09,624,20
+103,Cowboy Take Me Away,Dixie Chicks,5,1999-09-11,1999-12-25,619,16
+104,A Matter Of Time,Jason Sellers,33,1999-07-10,1999-11-20,614,20
+105,Somebody's Out There Watching,The Kinleys,19,1999-01-02,1999-03-20,604,12
+106,Don't Come Crying To Me,Vince Gill,27,1999-01-23,1999-05-29,604,19
+107,"Fool, I'm A Woman",Sara Evans,32,1999-04-03,1999-08-21,596,20
+108,I Know How The River Feels,Diamond Rio,33,1999-03-27,1999-08-07,594,20
+109,Love Trip,Jerry Kilgore,36,1999-08-07,1999-12-18,589,20
+110,Better Man,The Warren Brothers,32,1999-01-16,1999-05-29,584,20
+111,It Don't Matter To The Sun,Garth Brooks as Chris Gaines,24,1999-08-28,1999-12-04,558,14
+112,Don't Lie,Trace Adkins,28,1999-09-18,1999-12-25,558,15
+113,My Best Friend,Tim McGraw,7,1999-05-15,1999-12-25,557,14
+114,Smile,Lonestar,14,1999-09-18,1999-12-25,555,15
+115,You're Lucky I Love You,Susan Ashton,37,1999-05-29,1999-10-09,534,20
+116,This Woman Needs,SHeDAISY,27,1999-09-04,1999-12-25,530,17
+117,Sure Feels Real Good,Michael Peterson,39,1999-06-26,1999-11-06,530,20
+118,When Mama Ain't Happy,Tracy Byrd,31,1999-01-02,1999-05-01,525,18
+119,Crush,Lila McCann,41,1999-07-31,1999-12-11,490,20
+120,Her,Aaron Tippin,33,1999-06-05,1999-10-02,486,18
+121,You Don't Need Me Now,Clint Black,29,1999-01-30,1999-05-08,483,15
+122,You're Still Beautiful To Me,Bryan White,39,1999-06-19,1999-10-30,480,20
+123,I Was,Neal McCoy,37,1999-02-13,1999-06-12,471,17
+124,What's The Matter With You Baby,Claudia Church,41,1999-01-16,1999-05-29,470,20
+125,Angels Working Overtime,Deana Carter,35,1999-04-03,1999-07-24,448,16
+126,When You Love Someone,Sammy Kershaw,37,1999-08-14,1999-11-20,442,15
+127,Wide Open Spaces,Dixie Chicks,17,1999-01-02,1999-02-20,432,8
+128,She Wants To Rock,The Warren Brothers,37,1999-05-29,1999-09-25,421,16
+129,By The Book,Michael Peterson,19,1999-01-02,1999-02-20,420,8
+130,No More Looking Over My Shoulder,Travis Tritt,38,1999-01-02,1999-04-24,412,17
+131,Someone You Used To Know,Collin Raye,5,1999-01-02,1999-02-06,409,6
+132,Say Anything,Shane McAnally,41,1999-01-23,1999-06-05,403,20
+133,Trouble Is A Woman,Julie Reeves,39,1999-06-12,1999-10-02,401,17
+134,It's Your Song,Garth Brooks,27,1999-01-02,1999-03-27,398,13
+135,It Was,Chely Wright,32,1999-10-09,1999-12-25,396,12
+136,Because You Love Me,Jo Dee Messina,25,1999-10-23,1999-12-25,395,10
+137,Beer Thirty,Brooks & Dunn,21,1999-10-09,1999-12-25,385,11
+138,Small Stuff,Alabama,31,1999-10-16,1999-12-25,385,11
+139,Let Me Let Go,Faith Hill,8,1999-01-02,1999-01-30,375,5
+140,Power Windows,John Berry,43,1999-09-04,1999-12-18,369,16
+141,Husbands And Wives,Brooks & Dunn,7,1999-01-02,1999-02-06,365,6
+142,Start Over Georgia,Collin Raye,39,1999-07-17,1999-11-06,364,17
+143,It's A Beautiful Thing,Paul Brandt,39,1999-09-18,1999-12-25,361,14
+144,Where The Green Grass Grows,Tim McGraw,21,1999-01-02,1999-02-13,355,7
+145,Somethin' 'Bout A Sunday,Michael Peterson,45,1999-03-13,1999-07-03,351,17
+146,Don't Make Me Beg,Steve Holy,35,1999-10-16,1999-12-25,350,11
+147,That's The Truth,Paul Brandt,47,1999-04-17,1999-08-28,345,20
+148,You Still Shake Me,Deana Carter,36,1999-01-23,1999-04-10,344,12
+149,A Bitter End,Deryl Dodd,26,1999-01-02,1999-02-13,334,7
+150,Someone Else's Turn To Cry,Chalee Tennison,46,1999-04-17,1999-07-31,329,16
+151,Every Little Whisper,Steve Wariner,36,1999-01-02,1999-02-27,327,9
+152,I'm Yours,Linda Davis,38,1999-01-02,1999-03-06,321,10
+153,Back At One,Mark Wills,20,1999-11-06,1999-12-25,319,8
+154,Give My Heart To You,Billy Ray Cyrus,41,1999-04-10,1999-07-10,316,14
+155,It Must Be Love,Ty Herndon,17,1999-01-02,1999-02-06,314,6
+156,The Girls Of Summer,Neal McCoy,42,1999-06-12,1999-09-04,309,13
+157,The Yodelin' Blues,The Wilkinsons,45,1999-07-10,1999-11-27,309,15
+158,Take Me,Lari White,32,1999-01-02,1999-02-13,300,7
+159,Here Comes My Baby,The Mavericks,42,1999-10-16,1999-12-25,287,11
+160,One Day Left To Live,Sammy Kershaw,35,1999-01-02,1999-02-20,285,8
+161,What About You,Sons Of The Desert,45,1999-02-20,1999-05-01,265,11
+162,This Time,Shana Petrone,45,1999-06-12,1999-09-04,265,13
+163,South Of Santa Fe,Brooks & Dunn,41,1999-05-01,1999-07-03,255,10
+164,These Arms Of Mine,LeAnn Rimes,41,1999-01-02,1999-02-27,254,9
+165,Lessons Learned,Tracy Lawrence,29,1999-11-06,1999-12-25,253,8
+166,I'm In Love With Her,Sawyer Brown,47,1999-05-29,1999-08-28,251,13
+167,When Love Fades,Toby Keith,44,1999-10-02,1999-12-04,245,10
+168,Seven Bridges Road,Ricochet,48,1999-04-24,1999-07-31,245,15
+169,Horse To Mexico,Trini Triggs,53,1999-01-30,1999-06-05,245,19
+170,God Gave Me You,Bryan White,42,1999-10-23,1999-12-25,244,10
+171,Goodbye Earl,Dixie Chicks,50,1999-09-11,1999-12-11,240,14
+172,Carlene,Phil Vassar,36,1999-10-30,1999-12-25,236,9
+173,Buy Me A Rose,Kenny Rogers With Alison Krauss & Billy Dean,40,1999-10-30,1999-12-25,229,9
+174,I'm Diggin' It,Alecia Elliott,54,1999-10-02,1999-12-25,225,13
+175,How Do You Like Me Now?!,Toby Keith,30,1999-11-20,1999-12-25,220,6
+176,I'll Take Today,Gary Allan,47,1999-01-02,1999-03-06,220,10
+177,Boy Oh Boy,The Wilkinsons,50,1999-03-27,1999-07-03,218,15
+178,What This Country Needs,Aaron Tippin,47,1999-10-23,1999-12-18,207,9
+179,Can't Nobody Love You (Like I Do),Wynonna,41,1999-11-13,1999-12-25,196,7
+180,A Country Boy Can Survive (Y2K Version),Chad Brock With Hank Williams Jr. & George Jones,34,1999-11-20,1999-12-25,194,6
+181,If A Man Answers,Toby Keith,44,1999-02-20,1999-04-17,193,9
+182,After A Kiss,Pam Tillis,50,1999-08-28,1999-10-23,193,9
+183,Don't Laugh At Me,Mark Wills,26,1999-01-02,1999-01-23,192,4
+184,Watching My Baby Not Coming Back,David Ball,47,1999-05-01,1999-07-03,192,10
+185,From Your Knees,Matt King,54,1999-05-22,1999-08-07,190,12
+186,Unsung Hero,Terri Clark,47,1999-05-29,1999-07-31,188,10
+187,Barlight,Charlie Robison,60,1999-01-16,1999-05-29,187,20
+188,Love's The Only House,Martina McBride,33,1999-11-20,1999-12-25,185,6
+189,Love Is Forever,John Berry,53,1999-06-26,1999-08-28,179,10
+190,Little Bird,Sherrie Austin,49,1999-11-06,1999-12-25,167,8
+191,Getcha Some,Toby Keith,29,1999-01-02,1999-01-23,160,4
+192,It's About Time,Julie Reeves,51,1999-03-06,1999-05-01,158,9
+193,Saturday Night,Lonestar,47,1999-02-06,1999-04-24,156,12
+194,The Cold Hard Truth,George Jones,48,1999-11-06,1999-12-25,156,8
+195,Daddy Won't Sell The Farm,Montgomery Gentry,37,1999-11-20,1999-12-25,155,6
+196,We Really Shouldn't Be Doing This,George Strait,21,1999-01-02,1999-01-16,153,3
+197,Wine Into Water,T. Graham Brown,44,1999-01-02,1999-01-30,152,5
+198,Start The Car,Travis Tritt,52,1999-04-10,1999-06-19,152,10
+199,Sundown,Deryl Dodd,59,1999-02-27,1999-08-14,152,20
+200,Faith Of The Heart,Susan Ashton,51,1999-01-30,1999-03-27,150,9
+201,Slow Down,Mark Nesler,46,1999-01-02,1999-02-06,149,6
+202,Til' Santa's Gone (I Just Can't Wait),Clint Black,38,1999-01-02,1999-12-25,147,5
+203,"Honey, I'm Home",Shania Twain,27,1999-01-02,1999-01-16,142,3
+204,On My Way To You,Sonya Isaacs,54,1999-08-21,1999-10-23,135,10
+205,Can't Stop Thinkin' 'Bout That,Ricochet,52,1999-01-02,1999-03-06,133,9
+206,Christmas In Dixie,Alabama,40,1999-01-02,1999-12-25,132,5
+207,Let's Start Livin',Gil Grand,55,1999-02-13,1999-04-03,132,8
+208,Rub It In,Matt King,54,1999-07-17,1999-09-11,129,9
+209,Albuquerque,Sons Of The Desert,58,1999-06-26,1999-08-28,128,10
+210,She Won't Be Lonely Long,Lee Roy Parnell,57,1999-07-24,1999-09-11,117,8
+211,Thinking About Leaving,Dwight Yoakam,54,1999-09-04,1999-10-23,112,8
+212,All I Want Is Everything,Mindy McCready,57,1999-08-21,1999-10-16,112,9
+213,Don't Tell Me,Lee Ann Womack,56,1999-10-23,1999-12-11,111,8
+214,Wherever You Are,Mary Chapin Carpenter,55,1999-10-09,1999-11-20,109,7
+215,That's The Way Love Goes,Merle Haggard With Jewel,56,1999-09-18,1999-10-30,109,7
+216,You Can't Hurry Love,Dixie Chicks,60,1999-08-14,1999-11-13,107,11
+217,Me And Maxine,Sammy Kershaw,44,1999-11-27,1999-12-25,105,5
+218,You Haven't Left Me Yet,George Strait,59,1999-01-02,1999-03-06,105,9
+219,Tore Up From The Floor Up,Wade Hayes,57,1999-01-16,1999-03-06,104,8
+220,Bring It On,Keith Harling,57,1999-11-06,1999-12-25,104,8
+221,Take A Letter Maria,Doug Stone,53,1999-10-30,1999-12-25,102,6
+222,Baby's Got My Number,South Sixty Five,60,1999-08-14,1999-10-30,102,12
+223,Here's Your Sign Christmas,Bill Engvall,39,1999-01-02,1999-12-25,99,5
+224,Redneck 12 Days Of Christmas,Jeff Foxworthy,37,1999-01-02,1999-12-25,93,3
+225,"Let It Snow, Let It Snow, Let It Snow",Ricochet,41,1999-01-02,1999-12-25,93,3
+226,Where Your Road Leads,Trisha Yearwood With Garth Brooks,56,1999-01-02,1999-02-06,91,5
+227,Life Goes On,James Prosser,59,1999-02-27,1999-04-03,90,6
+228,Let 'Er Rip,Dixie Chicks,64,1999-06-05,1999-09-04,90,13
+229,What I Need,Julie Reeves,56,1999-11-27,1999-12-25,88,5
+230,One In A Million,Mindy McCready,57,1999-06-12,1999-07-17,88,6
+231,A Random Act Of Senseless Kindness,South Sixty Five,55,1999-01-02,1999-02-20,87,7
+232,All I Want For Christmas Is You,Vince Vance & The Valiants,43,1999-12-11,1999-12-25,86,3
+233,Absence Of The Heart,Deana Carter,55,1999-01-02,1999-02-06,81,6
+234,I Will Be,Lila McCann,53,1999-11-27,1999-12-25,80,5
+235,Let's Make Love,Faith Hill With Tim McGraw,52,1999-11-20,1999-12-25,76,6
+236,For Crying Out Loud,Anita Cochran,58,1999-07-31,1999-09-25,75,9
+237,When My Dreams Come True,Rebecca Lynn Howard,65,1999-07-17,1999-09-04,68,8
+238,Life Is A Highway,Chris LeDoux,64,1999-05-08,1999-07-10,63,9
+239,If You Ever Leave Me,Barbra Streisand/Vince Gill,62,1999-10-23,1999-12-04,61,7
+240,Deck The Halls,SHeDAISY,45,1999-12-11,1999-12-25,59,3
+241,From The Inside Out,Linda Davis,60,1999-04-03,1999-05-15,58,7
+242,Baby Ain't Rocking Me Right,Mark Nesler,62,1999-03-13,1999-04-10,58,5
+243,There Goes The Neighborhood,Keith Harling,58,1999-02-20,1999-03-13,54,4
+244,No Easy Goodbye,South Sixty Five,56,1999-03-06,1999-04-03,51,5
+245,Something Real,Shana Petrone,66,1999-10-30,1999-12-04,51,6
+246,A Little Bit More Of Your Love,Perfect Stranger,66,1999-01-16,1999-02-27,51,7
+247,Unbreakable Heart,Jessica Andrews,57,1999-12-11,1999-12-25,48,3
+248,The Fun Of Your Love,Jennifer Day,54,1999-12-04,1999-12-25,47,4
+249,Sleigh Ride,Lorrie Morgan,60,1999-12-11,1999-12-25,46,3
+250,O Holy Night,Martina McBride,49,1999-01-02,1999-01-09,44,2
+251,Shortenin' Bread,The Tractors,60,1999-01-02,1999-01-30,44,4
+252,If I Lost You,Travis Tritt,50,1999-01-02,1999-01-09,42,2
+253,Lost In You,Garth Brooks as Chris Gaines,62,1999-08-07,1999-08-28,41,4
+254,Handful Of Water,Chalee Tennison,64,1999-08-21,1999-10-02,40,6
+255,You Move Me,Garth Brooks,37,1999-01-02,1999-01-02,39,1
+256,Bang Bang Bang,Nitty Gritty Dirt Band,63,1999-06-19,1999-07-17,39,5
+257,Secret Of Giving,Reba,59,1999-12-04,1999-12-25,38,3
+258,It's Only Love,Randy Scruggs With Mary Chapin Carpenter,67,1999-01-16,1999-02-27,38,7
+259,Happy Ever After,T. Graham Brown,68,1999-02-27,1999-04-03,38,6
+260,Rudolph The Red-Nosed Reindeer,Gene Autry,55,1999-01-02,1999-12-18,36,3
+261,Goodnight,Suzy Bogguss,66,1999-08-28,1999-10-16,36,5
+262,Guilty,The Warren Brothers,58,1999-01-02,1999-01-16,35,2
+263,Write It In Stone,Keith Harling,61,1999-01-02,1999-01-30,35,4
+264,Free Me,Wayne Toups,66,1999-03-06,1999-04-03,33,5
+265,Slow Dance More,Kenny Rogers,67,1999-09-11,1999-10-09,33,5
+266,Against The Wind,Brooks & Dunn,65,1999-11-27,1999-12-25,32,5
+267,John Wayne Walking Away,Lari White,64,1999-04-10,1999-05-08,31,5
+268,Ain't Enough Roses,Lisa Brokop,65,1999-02-20,1999-03-06,30,3
+269,Behind Closed Doors,Joe Diffie,64,1999-01-16,1999-04-10,29,5
+270,Move It On Over,Travis Tritt With George Thorogood,66,1999-10-09,1999-10-30,28,4
+271,John Roland Wood,Deryl Dodd,64,1999-05-29,1999-06-12,27,3
+272,Have Yourself A Merry Little Christmas,Martina McBride,54,1999-01-02,1999-01-09,26,2
+273,Christmas Carol,Skip Ewing,52,1999-12-25,1999-12-25,24,1
+274,Stampede,Chris LeDoux,66,1999-10-16,1999-11-13,23,4
+275,I'll Be Home For Christmas,Lonestar,59,1999-01-02,1999-01-09,22,2
+276,Home In My Heart (North Carolina),Claudia Church,63,1999-06-26,1999-07-10,22,3
+277,I Won't Lie,Shannon Brown,63,1999-01-02,1999-01-23,22,3
+278,The Christmas Song,Trace Adkins,64,1999-01-02,1999-01-09,22,2
+279,"Let It Snow, Let It Snow, Let It Snow",Martina McBride,64,1999-01-02,1999-01-09,21,2
+280,Loosen Up My Strings,Clint Black,56,1999-01-16,1999-01-16,20,1
+281,Forget About It,Alison Krauss,67,1999-07-17,1999-08-07,20,4
+282,Good Idea Tomorrow,Deryl Dodd,65,1999-03-27,1999-04-10,19,3
+283,Little Drummer Boy,Restless Heart,58,1999-01-09,1999-01-09,18,1
+284,Never In A Million Tears,T. Graham Brown,63,1999-06-05,1999-06-19,18,3
+285,Margaritaville,Alan Jackson With Jimmy Buffett,63,1999-11-06,1999-11-13,17,2
+286,My Heart Is Still Beating,The Kinleys,63,1999-08-07,1999-08-14,17,2
+287,Sleigh Ride,Garth Brooks,65,1999-12-18,1999-12-25,17,2
+288,I Want A Man,Lace,65,1999-08-28,1999-09-25,17,3
+289,Angels Don't Fly,James Prosser,66,1999-06-26,1999-07-24,16,4
+290,All My Love For Christmas,Lonestar,61,1999-01-09,1999-01-09,15,1
+291,Grandma Got Run Over By A Reindeer,Elmo & Patsy,61,1999-12-25,1999-12-25,15,1
+292,Touchdown Tennessee,Kenny Chesney,65,1999-01-16,1999-01-23,15,2
+293,From Where I Stand,Suzy Bogguss,67,1999-01-16,1999-01-23,15,2
+294,Holiday Inn,Bryan White,62,1999-12-11,1999-12-11,14,1
+295,Baby Jesus Is Born,Garth Brooks,62,1999-12-18,1999-12-18,14,1
+296,If I Had A Nickel (One Thin Dime),Redmon & Vale,65,1999-05-29,1999-06-12,14,3
+297,She's More,Andy Griggs,63,1999-12-25,1999-12-25,13,1
+298,Reindeer Boogie,Trisha Yearwood,63,1999-01-09,1999-01-09,13,1
+299,Sin Wagon,Dixie Chicks,65,1999-09-11,1999-09-18,13,2
+300,How Many Days,Jack Ingram,64,1999-10-23,1999-10-23,12,1
+301,Belleau Wood,Garth Brooks,65,1999-01-02,1999-01-09,12,2
+302,The Chain Of Love,Clay Walker,68,1999-11-06,1999-12-04,12,4
+303,Just Because She Lives There,Chalee Tennison,65,1999-12-18,1999-12-18,11,1
+304,The Way You Love Me,Faith Hill,65,1999-11-27,1999-11-27,11,1
+305,White Christmas,Garth Brooks,67,1999-12-11,1999-12-25,11,2
+306,Always Never The Same,George Strait,69,1999-03-13,1999-03-20,11,2
+307,Santa's Got A Semi,Keith Harling,66,1999-12-25,1999-12-25,10,1
+308,The Trouble With Never,Tim McGraw,66,1999-05-15,1999-05-15,10,1
+309,I'll Be Home For Christmas,Reba McEntire,68,1999-01-02,1999-01-09,10,2
+310,On Earth As It Is In Texas,Deryl Dodd,71,1999-10-16,1999-10-30,10,3
+311,Evangeline,Chad Brock,72,1999-02-20,1999-03-06,10,3
+312,The Kid,Clint Black,67,1999-01-09,1999-01-09,9,1
+313,Stuff That Matters,Tara Lyn Hart,67,1999-10-16,1999-10-16,9,1
+314,Without You,Dixie Chicks,67,1999-09-11,1999-09-11,9,1
+315,I Want To With You,David Ball,67,1999-08-07,1999-08-07,9,1
+316,Cowboy Cadillac,Confederate Railroad,70,1999-04-03,1999-04-17,9,2
+317,Cold Coffee Morning,Jon Randall,71,1999-03-20,1999-04-10,9,3
+318,Memphis Women & Chicken,T. Graham Brown,73,1999-10-23,1999-12-04,9,5
+319,There's No Place Like Home For The Holidays,Garth Brooks,68,1999-12-25,1999-12-25,8,1
+320,It Will Be Me,Faith Hill,68,1999-11-27,1999-11-27,8,1
+321,"Red, Red Wine And Cheatin' Songs",Marty Stuart,69,1999-06-05,1999-06-12,8,2
+322,Here I Go Again,Lorrie Morgan,72,1999-07-31,1999-08-14,8,3
+323,It's The Most Wonderful Time Of The Year,Garth Brooks,69,1999-12-25,1999-12-25,7,1
+324,My Favorite Things,Lorrie Morgan,69,1999-12-11,1999-12-11,7,1
+325,I Got My Baby,Faith Hill,69,1999-11-27,1999-11-27,7,1
+326,The Big One,Confederate Railroad,73,1999-01-16,1999-02-13,7,3
+327,Once In A Lifetime Love,Clay Walker,73,1999-07-24,1999-08-21,7,3
+328,Winter Wonderland/Sleigh Ride (Medley),Dolly Parton,70,1999-01-02,1999-01-02,6,1
+329,I Already Fell,Gil Grand,70,1999-05-22,1999-05-22,6,1
+330,There He Goes,Patsy Cline With John Berry,70,1999-10-02,1999-10-02,6,1
+331,'Til I Said It To You,Reba,70,1999-12-04,1999-12-04,6,1
+332,Seventeen,Tim McGraw,71,1999-05-15,1999-05-22,6,2
+333,"Let It Snow, Let It Snow, Let It Snow",George Strait,72,1999-12-18,1999-12-25,6,2
+334,She's Got That Look In Her Eyes,Alabama,71,1999-01-16,1999-01-16,5,1
+335,Ain't No Short Way Home,The Oak Ridge Boys,71,1999-10-16,1999-10-16,5,1
+336,The Right Place,The Derailers,71,1999-12-04,1999-12-04,5,1
+337,My Own Kind Of Hat,Alan Jackson,71,1999-11-13,1999-11-13,5,1
+338,Santa Claus (I Still Believe In You),Alabama,71,1999-01-09,1999-01-09,5,1
+339,Something To Think About,David Kersh,73,1999-01-23,1999-02-13,5,2
+340,Team Of Destiny,Kenny Chesney,72,1999-02-13,1999-02-13,4,1
+341,Go Tell It On The Mountain,Garth Brooks,72,1999-01-09,1999-01-09,4,1
+342,My Hometown,Charlie Robison,72,1999-11-20,1999-11-20,4,1
+343,Santa On The Rooftop,Trisha Yearwood & Rosie O'Donnell,72,1999-12-25,1999-12-25,4,1
+344,She Just Started Liking Cheatin' Songs,Alan Jackson,72,1999-11-13,1999-11-13,4,1
+345,Hollywood Indian Guides,Bill Engvall,72,1999-04-24,1999-04-24,4,1
+346,I Wouldn't Tell You No Lie,The Tractors,72,1999-04-17,1999-04-17,4,1
+347,Peace Of Mind,George Strait,74,1999-03-13,1999-03-20,4,2
+348,Among The Missing,Michael McDonald & Kathy Mattea,73,1999-03-27,1999-03-27,3,1
+349,I Know What I Want For Christmas,George Strait,73,1999-12-18,1999-12-18,3,1
+350,One Of You,George Strait,73,1999-03-13,1999-03-13,3,1
+351,Away In A Manger,Reba McEntire,73,1999-01-09,1999-01-09,3,1
+352,The Best Is Yet To Come,Brady Seals,74,1999-07-10,1999-07-24,3,2
+353,Freedom,Wynonna,75,1999-02-13,1999-03-06,3,3
+354,If I'm Not In Love,Faith Hill,74,1999-11-27,1999-11-27,2,1
+355,Godspeed (Sweet Dreams),Radney Foster,74,1999-07-03,1999-07-03,2,1
+356,Senorita Margarita,Tim McGraw,74,1999-05-22,1999-05-22,2,1
+357,I Saw Mama Kissing Santa Claus,Reba,74,1999-12-18,1999-12-18,2,1
+358,Squeezin' The Love Outta You,Redmon & Vale,74,1999-09-11,1999-09-11,2,1
+359,Blue Christmas,Vince Gill,74,1999-01-09,1999-01-09,2,1
+360,If I Fall You're Going Down With Me,Dixie Chicks,75,1999-09-18,1999-09-18,1,1
+361,Kiss This,Lisa Angelle,75,1999-10-30,1999-10-30,1,1
+362,Rockin' Around The Christmas Tree,Alabama,75,1999-12-25,1999-12-25,1,1
+363,I Look At You,George Strait,75,1999-03-13,1999-03-13,1,1
+364,Love Me A Little Bit Longer,Heather Myles,75,1999-01-30,1999-01-30,1,1
+365,Six Tons Of Toys,Paul Brandt,75,1999-12-18,1999-12-18,1,1
+366,I'm Not Your Girl,Reba,75,1999-12-04,1999-12-04,1,1

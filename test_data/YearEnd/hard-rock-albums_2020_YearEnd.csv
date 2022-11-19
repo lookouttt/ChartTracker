@@ -1,0 +1,142 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Greatest Hits,Queen,1,2020-01-04,2020-12-26,1283,52
+2,Back In Black,AC/DC,2,2020-01-04,2020-12-26,1180,52
+3,Metallica,Metallica,4,2020-01-04,2020-12-26,976,52
+4,A Decade Of Destruction,Five Finger Death Punch,4,2020-01-04,2020-12-26,975,52
+5,Greatest Hits: The Ultimate Collection,Bon Jovi,4,2020-01-11,2020-12-26,900,48
+6,[Hybrid Theory],Linkin Park,1,2020-01-04,2020-12-26,849,52
+7,Greatest Hits,Foo Fighters,5,2020-01-04,2020-12-26,801,52
+8,Aerosmith's Greatest Hits,Aerosmith,6,2020-01-04,2020-12-26,742,52
+9,Appetite For Destruction,Guns N' Roses,2,2020-01-04,2020-12-26,638,30
+10,Greatest Hits,Motley Crue,10,2020-01-11,2020-12-26,587,51
+11,Greatest Hits,Guns N' Roses,2,2020-01-25,2020-12-26,513,24
+12,The Greatest Hits,3 Doors Down,12,2020-01-11,2020-12-19,488,50
+13,Ordinary Man,Ozzy Osbourne,1,2020-03-07,2020-10-10,486,32
+14,Led Zeppelin IV,Led Zeppelin,7,2020-01-04,2020-12-26,483,52
+15,Bohemian Rhapsody (Soundtrack),Queen,4,2020-01-04,2020-12-26,415,42
+16,All The Right Reasons,Nickelback,10,2020-01-04,2020-12-19,411,50
+17,Rage Against The Machine,Rage Against The Machine,4,2020-01-11,2020-12-19,372,47
+18,Experience Hendrix: The Best Of Jimi Hendrix,Jimi Hendrix,9,2020-01-04,2020-12-26,296,33
+19,Mothership,Led Zeppelin,5,2020-01-18,2020-10-17,280,38
+20,Meteora,Linkin Park,12,2020-01-11,2020-12-19,250,44
+21,F8,Five Finger Death Punch,1,2020-03-14,2020-10-31,243,27
+22,Antennas To Hell,Slipknot,14,2020-01-11,2020-10-24,235,35
+23,The Story So Far.The Best Of Def Leppard,Def Leppard,8,2020-01-04,2020-11-28,220,17
+24,Ten,Pearl Jam,4,2020-01-04,2020-12-26,201,42
+25,Hysteria,Def Leppard,7,2020-04-04,2020-12-26,173,16
+26,Fear Inoculum,Tool,2,2020-01-04,2020-02-29,126,9
+27,1984,Van Halen,4,2020-06-06,2020-12-26,124,11
+28,Power Up,AC/DC,1,2020-11-28,2020-12-26,123,5
+29,S&M2,Metallica And San Francisco Symphony,1,2020-09-12,2020-10-10,101,5
+30,Toxicity,System Of A Down,10,2020-01-11,2020-12-26,100,31
+31,Christmas Eve And Other Stories,Trans-Siberian Orchestra,5,2020-01-04,2020-12-26,88,5
+32,Van Halen,Van Halen,1,2020-10-17,2020-11-14,77,5
+33,Gigaton,Pearl Jam,1,2020-04-11,2020-05-02,75,4
+34,Ohms,Deftones,1,2020-10-10,2020-10-31,64,4
+35,We Are Chaos,Marilyn Manson,1,2020-09-26,2020-10-10,61,3
+36,Post Human: Survival Horror,Bring Me The Horizon,3,2020-11-14,2020-12-05,52,4
+37,"A Decade Of Destruction, Volume 2",Five Finger Death Punch,8,2020-10-24,2020-11-21,51,5
+38,Afterburner,Dance Gavin Dance,1,2020-05-09,2020-07-25,49,2
+39,Greatest Hits I II & III: The Platinum Collection,Queen,13,2020-01-04,2020-10-10,48,5
+40,The Best Of Both Worlds,Van Halen,8,2020-10-17,2020-10-31,47,3
+41,The Spirit Of Radio: Greatest Hits 1974 - 1987,Rush,2,2020-01-25,2020-02-01,44,2
+42,Aurora,Breaking Benjamin,1,2020-02-08,2020-02-15,43,2
+43,One - X,Three Days Grace,21,2020-01-11,2020-11-21,42,20
+44,Best Of Volume 1,Van Halen,6,2020-10-17,2020-10-24,39,2
+45,Lamb Of God,Lamb Of God,1,2020-07-04,2020-07-11,38,2
+46,Cross Road,Bon Jovi,7,2020-01-04,2020-11-28,37,3
+47,"Si Vis Pacem, Para Bellum",Seether,3,2020-09-12,2020-09-19,36,2
+48,Fallen,Evanescence,8,2020-05-23,2020-07-11,36,3
+49,The Christmas Attic,Trans-Siberian Orchestra,8,2020-01-04,2020-12-26,30,3
+50,Greatest Hits,ZZ Top,15,2020-03-21,2020-04-11,29,4
+51,Seether: 2002-2013,Seether,20,2020-05-16,2020-09-26,26,9
+52,The Raging Wrath Of The Easter Bunny Demo,Mr. Bungle,1,2020-11-14,2020-11-14,25,1
+53,Mother,In This Moment,2,2020-04-11,2020-04-18,25,2
+54,HUMAN. :II: NATURE.,Nightwish,2,2020-04-25,2020-04-25,24,1
+55,Guardians,August Burns Red,2,2020-04-18,2020-04-18,24,1
+56,Verminous,The Black Dahlia Murder,2,2020-05-02,2020-05-02,24,1
+57,Blood & Stone,Sevendust,2,2020-11-07,2020-11-07,24,1
+58,Amends,Grey Daze,2,2020-07-11,2020-07-11,24,1
+59,Like A House On Fire,Asking Alexandria,2,2020-05-30,2020-05-30,24,1
+60,The Path,Fit For A King,2,2020-10-03,2020-10-03,24,1
+61,"Origins, Vol.2",Ace Frehley,3,2020-10-03,2020-10-03,23,1
+62,"Nights Of The Dead, Legacy Of The Beast: Live In Mexico City",Iron Maiden,3,2020-12-05,2020-12-05,23,1
+63,What The Dead Men Say,Trivium,3,2020-05-09,2020-05-09,23,1
+64,Declaration,Red,3,2020-04-18,2020-04-18,23,1
+65,Slow Decay,The Acacia Strain,3,2020-08-08,2020-08-08,23,1
+66,"New Empire, One",Hollywood Undead,3,2020-02-29,2020-02-29,23,1
+67,"Project: Regeneration, Vol. 1",Static-X,3,2020-07-25,2020-07-25,23,1
+68,Nirvana,Nirvana,3,2020-11-28,2020-11-28,23,1
+69,Everyone Loves You... Once You Leave Them,The Amity Affliction,3,2020-03-07,2020-03-07,23,1
+70,CMFT,Corey Taylor,3,2020-10-17,2020-10-17,23,1
+71,Whoosh!,Deep Purple,4,2020-08-22,2020-08-22,22,1
+72,Diamonds In The Rough,Avenged Sevenfold,4,2020-02-22,2020-02-22,22,1
+73,Heartwork,The Used,4,2020-05-09,2020-05-09,22,1
+74,Permanent Waves,Rush,4,2020-06-13,2020-06-13,22,1
+75,The Ghost Inside,The Ghost Inside,4,2020-06-20,2020-06-20,22,1
+76,Even The Devil Believes,Stryper,4,2020-09-19,2020-09-19,22,1
+77,Sap (EP),Alice In Chains,4,2020-12-12,2020-12-12,22,1
+78,Live: Around The World,Queen + Adam Lambert,5,2020-10-17,2020-10-24,22,2
+79,shaLLow bay: The Best Of Breaking Benjamin,Breaking Benjamin,18,2020-02-08,2020-08-08,22,5
+80,I Disagree,Poppy,5,2020-01-25,2020-01-25,21,1
+81,A Beautiful Place To Drown,Silverstein,5,2020-03-21,2020-03-21,21,1
+82,Titans Of Creation,Testament,5,2020-04-18,2020-04-18,21,1
+83,The Lost Christmas Eve,Trans-Siberian Orchestra,14,2020-01-04,2020-12-26,21,3
+84,A Quick Live One: Live At The Monterey International Pop Festival (EP),The Who,6,2020-11-07,2020-11-07,20,1
+85,Love Gun,KISS,6,2020-11-28,2020-11-28,20,1
+86,Underneath,Code Orange,6,2020-03-28,2020-03-28,20,1
+87,Inlet,Hum,7,2020-11-28,2020-11-28,19,1
+88,Some Old Bullshit,Beastie Boys,7,2020-12-12,2020-12-12,19,1
+89,Odds & Sods,The Who,7,2020-09-12,2020-09-12,19,1
+90,Live In Maui,Jimi Hendrix Experience,7,2020-12-05,2020-12-05,19,1
+91,Abyss,Unleash The Archers,8,2020-09-05,2020-09-05,18,1
+92,Smash Hits,The Jimi Hendrix Experience,8,2020-11-28,2020-11-28,18,1
+93,Re-Stitch These Wounds,Black Veil Brides,8,2020-08-15,2020-08-15,18,1
+94,Suck On This,Primus,9,2020-10-10,2020-10-10,17,1
+95,Brain Pain,Four Year Strong,9,2020-03-14,2020-03-14,17,1
+96,Shapeshifting,Joe Satriani,9,2020-04-25,2020-04-25,17,1
+97,Facelift,Alice In Chains,9,2020-11-28,2020-11-28,17,1
+98,The Kingdom,Bush,10,2020-08-01,2020-08-01,16,1
+99,The Symbol Remains,Blue Oyster Cult,10,2020-10-24,2020-10-24,16,1
+100,White Pony,Deftones,10,2020-12-26,2020-12-26,16,1
+101,Hunter Gatherer,Avatar,11,2020-08-22,2020-08-22,15,1
+102,System Of A Down,System Of A Down,11,2020-11-21,2020-11-21,15,1
+103,Terminal Velocity,John Petrucci,11,2020-11-14,2020-11-14,15,1
+104,Medium Rarities,Mastodon,11,2020-09-26,2020-09-26,15,1
+105,Forgotten Days,Pallbearer,12,2020-11-07,2020-11-07,14,1
+106,Weight Of The False Self,Hatebreed,12,2020-12-12,2020-12-12,14,1
+107,The Great Dismal,Nothing,12,2020-11-14,2020-11-14,14,1
+108,The Dirt (Soundtrack),Motley Crue,13,2020-01-04,2020-01-04,13,1
+109,We Are Not Your Kind,Slipknot,17,2020-01-04,2020-01-11,13,2
+110,Lament,Touche Amore,15,2020-10-24,2020-10-24,11,1
+111,Ride The Lightning,Metallica,19,2020-01-04,2020-12-26,11,3
+112,British Steel,Judas Priest,16,2020-09-12,2020-09-12,10,1
+113,Reluctant Hero,Killer Be Killed,16,2020-12-05,2020-12-05,10,1
+114,Long Day Good Night,Fates Warning,16,2020-11-21,2020-11-21,10,1
+115,Core,Stone Temple Pilots,17,2020-11-28,2020-11-28,9,1
+116,A Wonderful Life,Mushroomhead,17,2020-07-04,2020-07-04,9,1
+117,Violent Allies,10 Years,18,2020-10-03,2020-10-03,8,1
+118,2112,Rush,18,2020-01-25,2020-01-25,8,1
+119,Slippery When Wet,Bon Jovi,20,2020-04-11,2020-04-11,6,1
+120,Moving Pictures,Rush,20,2020-01-25,2020-01-25,6,1
+121,The Best Of Nickelback: Volume 1,Nickelback,23,2020-02-01,2020-10-03,6,2
+122,Become The Hunter,Suicide Silence,21,2020-02-29,2020-02-29,5,1
+123,MMXX,Sons Of Apollo,21,2020-02-01,2020-02-01,5,1
+124,Punching The Sky,Armored Saint,21,2020-11-07,2020-11-07,5,1
+125,Greatest Hits,Creed,23,2020-07-04,2020-07-11,4,2
+126,Led Zeppelin,Led Zeppelin,24,2020-01-04,2020-12-26,4,2
+127,...And Justice For All,Metallica,23,2020-01-04,2020-01-04,3,1
+128,Minutes To Midnight,Linkin Park,23,2020-08-08,2020-08-08,3,1
+129,Panic,From Ashes To New,23,2020-09-12,2020-09-12,3,1
+130,Winterland,The Jimi Hendrix Experience,24,2020-12-05,2020-12-05,2,1
+131,"New Empire, Two",Hollywood Undead,24,2020-12-19,2020-12-19,2,1
+132,Carnivore,Body Count,24,2020-03-21,2020-03-21,2,1
+133,Greatest Hits,Alice In Chains,24,2020-08-29,2020-08-29,2,1
+134,The Essential Ozzy Osbourne,Ozzy Osbourne,25,2020-01-18,2020-02-08,2,2
+135,Curse Of The Crystal Coconut,Alestorm,25,2020-06-13,2020-06-13,1,1
+136,"Live At The Apollo Theatre, Glasgow, 19.02.82",Alice Cooper,25,2020-11-07,2020-11-07,1,1
+137,The Way It Ends,Currents,25,2020-06-20,2020-06-20,1,1
+138,Led Zeppelin II,Led Zeppelin,25,2020-06-06,2020-06-06,1,1
+139,Nothing As The Ideal,All Them Witches,25,2020-09-19,2020-09-19,1,1
+140,III,Demons & Wizards,25,2020-03-07,2020-03-07,1,1
+141,Despicable (EP),Carcass,25,2020-11-14,2020-11-14,1,1

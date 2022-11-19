@@ -1,0 +1,216 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,That's What I Like,Bruno Mars,1,2017-02-18,2017-11-25,753,41
+2,24K Magic,Bruno Mars,1,2017-01-07,2017-11-11,671,45
+3,Congratulations,Post Malone Featuring Quavo,3,2017-02-11,2017-12-23,669,46
+4,Humble.,Kendrick Lamar,1,2017-04-22,2017-12-30,599,35
+5,Unforgettable,French Montana Featuring Swae Lee,1,2017-04-29,2017-12-23,549,35
+6,iSpy,KYLE Featuring Lil Yachty,3,2017-01-21,2017-08-12,505,30
+7,Bodak Yellow (Money Moves),Cardi B,1,2017-08-05,2017-12-30,480,22
+8,Redbone,Childish Gambino,5,2017-03-25,2017-10-28,446,32
+9,I'm The One,"DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",1,2017-05-20,2017-10-21,444,23
+10,1-800-273-8255,Logic Featuring Alessia Cara & Khalid,1,2017-05-20,2017-12-30,435,24
+11,I Feel It Coming,The Weeknd Featuring Daft Punk,2,2017-01-07,2017-07-08,428,27
+12,Mask Off,Future,3,2017-03-11,2017-09-02,413,26
+13,Location,Khalid,4,2017-02-25,2017-11-11,401,35
+14,Love On The Brain,Rihanna,4,2017-01-07,2017-08-12,375,26
+15,Wild Thoughts,DJ Khaled Featuring Rihanna & Bryson Tiller,1,2017-07-08,2017-11-04,354,18
+16,Bad And Boujee,Migos Featuring Lil Uzi Vert,1,2017-01-07,2017-06-17,352,22
+17,XO TOUR Llif3,Lil Uzi Vert,7,2017-04-15,2017-10-14,334,27
+18,Rake It Up,Yo Gotti Featuring Nicki Minaj,4,2017-08-05,2017-12-16,324,20
+19,Rockstar,Post Malone Featuring 21 Savage,1,2017-10-07,2017-12-30,322,13
+20,Feels,"Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",3,2017-07-08,2017-10-28,321,17
+21,Young Dumb & Broke,Khalid,4,2017-08-19,2017-12-30,321,20
+22,Bad Things,Machine Gun Kelly x Camila Cabello,1,2017-01-07,2017-06-10,285,17
+23,Bounce Back,Big Sean,8,2017-01-07,2017-05-20,269,20
+24,Do Re Mi,blackbear,4,2017-08-19,2017-12-30,268,20
+25,Bank Account,21 Savage,8,2017-07-29,2017-12-23,256,22
+26,No Limit,G-Eazy Featuring A$AP Rocky & Cardi B,2,2017-09-30,2017-12-30,246,14
+27,Slide,Calvin Harris Featuring Frank Ocean & Migos,3,2017-03-18,2017-07-29,246,20
+28,I Fall Apart,Post Malone,4,2017-10-14,2017-12-30,225,12
+29,Fake Love,Drake,4,2017-01-07,2017-04-01,225,13
+30,Starboy,The Weeknd Featuring Daft Punk,1,2017-01-07,2017-04-22,218,16
+31,Passionfruit,Drake,7,2017-04-08,2017-07-22,209,16
+32,Rolex,Ayo & Teo,9,2017-03-11,2017-07-22,205,20
+33,Black Beatles,Rae Sremmurd Featuring Gucci Mane,1,2017-01-07,2017-03-25,203,12
+34,DNA.,Kendrick Lamar,3,2017-05-06,2017-09-30,197,18
+35,Caroline,Amine,7,2017-01-07,2017-03-18,175,11
+36,Gucci Gang,Lil Pump,3,2017-10-21,2017-12-30,174,11
+37,Versace On The Floor,Bruno Mars,7,2017-01-07,2017-11-04,166,17
+38,Tunnel Vision,Kodak Black,9,2017-03-11,2017-06-17,154,14
+39,Love.,Kendrick Lamar Featuring Zacari,11,2017-05-06,2017-12-30,149,19
+40,Broccoli,D.R.A.M. Featuring Lil Yachty,3,2017-01-07,2017-03-04,133,9
+41,Let You Down,NF,2,2017-10-07,2017-12-30,126,7
+42,I Get The Bag,Gucci Mane Featuring Migos,7,2017-09-09,2017-12-30,124,14
+43,MotorSport,"Migos, Nicki Minaj & Cardi B",2,2017-11-18,2017-12-30,123,7
+44,Drowning,A Boogie Wit da Hoodie Featuring Kodak Black,16,2017-05-13,2017-10-07,110,20
+45,Love Me Now,John Legend,11,2017-01-07,2017-03-11,107,10
+46,Lemon,N*E*R*D & Rihanna,4,2017-11-18,2017-12-30,94,7
+47,Swang,Rae Sremmurd,10,2017-01-28,2017-06-24,84,14
+48,Goosebumps,Travis Scott,11,2017-02-04,2017-07-08,75,17
+49,Good Life,G-Eazy & Kehlani,6,2017-04-08,2017-06-03,74,6
+50,Walk On Water,Eminem Featuring Beyonce,1,2017-12-02,2017-12-30,68,5
+51,Juju On That Beat (TZ Anthem),Zay Hilfigerrr & Zayion McCall,9,2017-01-07,2017-02-18,68,7
+52,Both,Gucci Mane Featuring Drake,4,2017-01-07,2017-05-06,67,8
+53,T-Shirt,Migos,15,2017-02-04,2017-04-29,66,13
+54,Loyalty.,Kendrick Lamar Featuring Rihanna,15,2017-05-06,2017-09-30,65,10
+55,Chill Bill,Rob $tone Featuring J. Davi$ & Spooks,12,2017-01-07,2017-02-11,62,6
+56,Slippery,Migos Featuring Gucci Mane,17,2017-02-18,2017-09-02,58,13
+57,Rise Up,Andra Day,9,2017-06-24,2017-11-11,50,6
+58,Him & I,G-Eazy & Halsey,2,2017-12-23,2017-12-30,47,2
+59,Party,Chris Brown Featuring Usher & Gucci Mane,11,2017-01-07,2017-03-11,46,8
+60,Lose Yourself,Eminem,11,2017-07-29,2017-12-09,45,6
+61,Portland,Drake Featuring Quavo & Travis Scott,5,2017-04-08,2017-04-22,41,3
+62,Shining,DJ Khaled Featuring Beyonce & JAY Z,13,2017-03-04,2017-04-01,39,5
+63,Sky Walker,Miguel Featuring Travis Scott,14,2017-11-18,2017-12-30,38,6
+64,OOOUUU,Young M.A,16,2017-01-07,2017-02-04,38,5
+65,Sucker For Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",15,2017-01-07,2017-02-04,36,5
+66,Thriller,Michael Jackson,4,2017-11-11,2017-11-18,33,2
+67,Signs,Drake,6,2017-07-15,2017-07-22,30,2
+68,No Favors,Big Sean Featuring Eminem,1,2017-02-25,2017-03-04,29,2
+69,To The Max,DJ Khaled Featuring Drake,8,2017-06-24,2017-07-01,28,2
+70,Careless Whisper,Wham! Featuring George Michael,10,2017-01-14,2017-01-28,27,3
+71,Candy Paint,Post Malone,20,2017-11-11,2017-12-30,27,6
+72,Selfish,Future Featuring Rihanna,2,2017-03-18,2017-03-25,26,2
+73,No Frauds,"Nicki Minaj, Drake & Lil Wayne",1,2017-04-01,2017-04-01,25,1
+74,The Heart Part 4,Kendrick Lamar,2,2017-04-15,2017-04-15,24,1
+75,Reminder,The Weeknd,13,2017-08-19,2017-08-26,24,2
+76,X,21 Savage & Metro Boomin Featuring Future,15,2017-01-07,2017-01-28,24,4
+77,You Da Baddest,Future Featuring Nicki Minaj,3,2017-08-19,2017-08-19,23,1
+78,Codeine Dreaming,Kodak Black Featuring Lil Wayne,3,2017-12-16,2017-12-16,23,1
+79,Money On You,Chris Blue,3,2017-06-10,2017-06-10,23,1
+80,Untouchable,Eminem,4,2017-12-30,2017-12-30,22,1
+81,Regret In Your Tears,Nicki Minaj,4,2017-04-01,2017-04-01,22,1
+82,The Way Life Goes,Lil Uzi Vert Featuring Nicki Minaj,5,2017-11-25,2017-11-25,21,1
+83,Danger,Migos & Marshmello,5,2017-12-30,2017-12-30,21,1
+84,Changed It,Nicki Minaj & Lil Wayne,5,2017-04-01,2017-04-01,21,1
+85,Prblms,6LACK,17,2017-05-13,2017-06-03,21,3
+86,Everyday We Lit,YFN Lucci Featuring PnB Rock,19,2017-08-05,2017-09-09,21,5
+87,Deserve,Kris Wu Featuring Travis Scott,12,2017-10-28,2017-11-04,20,2
+88,Rollin,Calvin Harris Featuring Future & Khalid,7,2017-06-03,2017-06-03,19,1
+89,Darkside,Ty Dolla $ign & Future Featuring Kiiara,7,2017-12-02,2017-12-02,19,1
+90,4:44,JAY-Z,10,2017-07-29,2017-08-05,19,2
+91,The Story Of O.J.,JAY-Z,12,2017-07-29,2017-08-05,19,2
+92,Die With You (4-4-17),Beyonce,8,2017-04-29,2017-04-29,18,1
+93,Love Galore,SZA Featuring Travis Scott,18,2017-10-07,2017-10-28,18,4
+94,Plain Jane,A$AP Ferg Featuring Nicki Minaj,21,2017-12-02,2017-12-23,18,4
+95,Comin Out Strong,Future Featuring The Weeknd,9,2017-03-18,2017-03-18,17,1
+96,Curve,Gucci Mane Featuring The Weeknd,9,2017-10-07,2017-10-07,17,1
+97,Sober,G-Eazy Featuring Charlie Puth,10,2017-12-30,2017-12-30,16,1
+98,Light My Body Up,David Guetta Featuring Nicki Minaj & Lil Wayne,10,2017-04-15,2017-04-15,16,1
+99,Broken People,Logic & Rag'n'Bone Man,10,2017-12-23,2017-12-23,16,1
+100,A Lie,French Montana Featuring The Weeknd & Max B,10,2017-08-05,2017-08-05,16,1
+101,Faking It,Calvin Harris Featuring Kehlani & Lil Yachty,13,2017-11-11,2017-11-25,16,3
+102,Father Figure,George Michael,14,2017-01-14,2017-01-21,16,2
+103,Feel Me,Tyga Featuring Kanye West,16,2017-01-21,2017-01-28,16,2
+104,Shether,Remy Ma,16,2017-03-18,2017-03-25,16,2
+105,Ego,Just Chase,19,2017-12-16,2017-12-30,16,3
+106,Party Monster,The Weeknd,20,2017-01-07,2017-02-11,16,4
+107,The Plan,G-Eazy,11,2017-12-02,2017-12-02,15,1
+108,Ghostbusters,Ray Parker Jr.,11,2017-11-18,2017-11-18,15,1
+109,I'll Find You,Lecrae Featuring Tori Kelly,11,2017-07-01,2017-07-01,15,1
+110,If I Ain't Got You,Chris Blue & Vanessa Ferguson,12,2017-06-03,2017-06-03,14,1
+111,Go Off,"Lil Uzi Vert, Quavo & Travis Scott",12,2017-03-25,2017-03-25,14,1
+112,I'm Better,Missy Elliott Featuring Lamb,12,2017-02-18,2017-02-18,14,1
+113,Formation,Beyonce,17,2017-02-25,2017-03-04,14,2
+114,High End,Chris Brown Featuring Future & Young Thug,13,2017-11-04,2017-11-04,13,1
+115,Pull Up N Wreck,Big Sean & Metro Boomin Featuring 21 Savage,13,2017-11-25,2017-11-25,13,1
+116,Free Smoke,Drake,13,2017-04-08,2017-04-08,13,1
+117,Rhythm Nation,Chris Blue,13,2017-06-10,2017-06-10,13,1
+118,Run Up,Major Lazer Featuring PARTYNEXTDOOR & Nicki Minaj,13,2017-02-18,2017-02-18,13,1
+119,No Complaints,Metro Boomin Featuring Offset & Drake,13,2017-07-15,2017-07-15,13,1
+120,Marmalade,Macklemore Featuring Lil Yachty,13,2017-08-19,2017-08-19,13,1
+121,Wake Me Up,Remy Ma Featuring Lil' Kim,14,2017-12-02,2017-12-09,13,2
+122,I Don't,Mariah Carey Featuring YG,14,2017-02-25,2017-02-25,12,1
+123,Patek Water,Future & Young Thug Featuring Offset,14,2017-11-11,2017-11-11,12,1
+124,All These Kisses,Tammy Rivera,14,2017-07-01,2017-07-01,12,1
+125,Make Love,Gucci Mane & Nicki Minaj,14,2017-03-18,2017-03-18,12,1
+126,Everybody,Logic,14,2017-04-22,2017-04-22,12,1
+127,Jump,Lupe Fiasco Featuring Gizzle,14,2017-02-04,2017-02-04,12,1
+128,Something New,Wiz Khalifa Featuring Ty Dolla $ign,14,2017-09-02,2017-09-02,12,1
+129,Ghostface Killers,"21 Savage, Offset & Metro Boomin Featuring Travis Scott",19,2017-11-18,2017-11-25,12,2
+130,It's A Vibe,"2 Chainz Featuring Ty Dolla $ign, Trey Songz & Jhene Aiko",20,2017-09-02,2017-09-23,12,3
+131,The Beautiful & Damned,G-Eazy Featuring Zoe Nash,15,2017-12-09,2017-12-09,11,1
+132,B.M.,Kris Wu,15,2017-12-16,2017-12-16,11,1
+133,I'm Not Racist,Joyner Lucas,15,2017-12-23,2017-12-23,11,1
+134,Who Dat Boy,"Tyler, The Creator",15,2017-07-22,2017-07-22,11,1
+135,Gravity,Davon Fleming,15,2017-12-30,2017-12-30,11,1
+136,Running Back,Wale Featuring Lil Wayne,15,2017-02-11,2017-02-11,11,1
+137,The Scientist,Corinne Bailey Rae,15,2017-03-04,2017-03-04,11,1
+138,Magnolia,Playboi Carti,21,2017-07-08,2017-07-29,11,3
+139,Chanel,Frank Ocean,16,2017-04-01,2017-04-01,10,1
+140,Draco,Future,16,2017-03-11,2017-03-11,10,1
+141,Don't Quit,DJ Khaled & Calvin Harris Featuring Travis Scott & Jeremih,16,2017-07-15,2017-07-15,10,1
+142,Home,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",16,2017-12-30,2017-12-30,10,1
+143,I Know You,Craig David Featuring Bastille,16,2017-12-16,2017-12-16,10,1
+144,Selfish,PnB Rock,18,2017-01-14,2017-01-21,10,2
+145,Now And Later,Sage The Gemini,17,2017-02-25,2017-02-25,9,1
+146,River,Leon Bridges,17,2017-03-18,2017-03-18,9,1
+147,Wanted You,NAV Featuring Lil Uzi Vert,17,2017-12-02,2017-12-02,9,1
+148,Bam,"JAY-Z Featuring Damian ""Jr. Gong"" Marely",17,2017-07-29,2017-07-29,9,1
+149,Can You Stand The Rain,New Edition,17,2017-02-18,2017-02-18,9,1
+150,Halfway Off The Balcony,Big Sean,17,2017-02-11,2017-02-11,9,1
+151,One More Try,George Michael,17,2017-01-14,2017-01-14,9,1
+152,Nobody Else But You,Trey Songz,17,2017-03-11,2017-03-11,9,1
+153,Return Of The Mack,Mark Morrison,20,2017-06-10,2017-06-17,9,2
+154,B.E.D.,Jacquees,21,2017-09-23,2017-09-30,9,2
+155,Pills And Automobiles,"Chris Brown Featuring Yo Gotti, A Boogie Wit da Hoodie & Kodak Black",23,2017-10-28,2017-11-11,9,3
+156,Numb/Encore,Jay-Z/Linkin Park,18,2017-08-12,2017-08-12,8,1
+157,Go Legend,Big Sean & Metro Boomin Featuring Travis Scott,18,2017-12-30,2017-12-30,8,1
+158,Mo Bounce,Iggy Azalea,18,2017-04-15,2017-04-15,8,1
+159,Teenage Fever,Drake,18,2017-04-08,2017-04-08,8,1
+160,PIE,Future Featuring Chris Brown,18,2017-07-22,2017-07-22,8,1
+161,Diamonds And Pearls,Chris Blue & Alicia Keys,19,2017-06-10,2017-06-10,7,1
+162,Cold Little Heart,Michael Kiwanuka,19,2017-04-22,2017-04-22,7,1
+163,4 AM,2 Chainz Featuring Travis Scott,19,2017-06-24,2017-06-24,7,1
+164,One Dance,Drake Featuring WizKid & Kyla,19,2017-01-21,2017-01-21,7,1
+165,Extra Luv,Future Featuring YG,19,2017-07-22,2017-07-22,7,1
+166,Rent Money,Future,19,2017-03-11,2017-03-11,7,1
+167,Me & U,Cassie,19,2017-07-15,2017-07-15,7,1
+168,Whatever You Need,Meek Mill Featuring Chris Brown & Ty Dolla $ign,20,2017-06-24,2017-06-24,6,1
+169,Castro,"Yo Gotti Featuring Kanye West, Big Sean, Quavo & 2 Chainz",20,2017-01-07,2017-01-07,6,1
+170,Jocelyn Flores,XXXTENTACION,20,2017-09-16,2017-09-16,6,1
+171,Ain't Nothing,Juicy J Featuring Ty Dolla $ign & Wiz Khalifa,20,2017-03-04,2017-03-04,6,1
+172,Up In This,Blackbear & Tinashe,20,2017-11-18,2017-11-18,6,1
+173,F With U,Kid Ink Featuring Ty Dolla $ign,20,2017-04-29,2017-04-29,6,1
+174,Gyalchester,Drake,21,2017-04-08,2017-04-08,5,1
+175,One I Want,Majid Jordan Featuring PARTYNEXTDOOR,21,2017-07-08,2017-07-08,5,1
+176,Only 4 Me,Chris Brown Featuring Ty Dolla $ign & Verse Simmonds,21,2017-11-11,2017-11-11,5,1
+177,UnFazed,Lil Uzi Vert Featuring The Weeknd,21,2017-09-16,2017-09-16,5,1
+178,Deja Vu,J. Cole,21,2017-01-07,2017-01-07,5,1
+179,Gucci On My,"Mike WiLL Made-It Featuring 21 Savage, YG & Migos",22,2017-03-25,2017-03-25,4,1
+180,Sauce It Up,Lil Uzi Vert,22,2017-09-16,2017-09-16,4,1
+181,We Can Always Come Back To This,Brian Tyree Henry,22,2017-03-11,2017-03-11,4,1
+182,Let Me Love You,DJ Snake & R. Kelly,22,2017-01-14,2017-01-14,4,1
+183,You Was Right,Lil Uzi Vert,24,2017-01-14,2017-01-28,4,2
+184,Privacy,Chris Brown,23,2017-04-15,2017-04-15,3,1
+185,Love A Loser,Cassie Featuring G-Eazy,23,2017-08-26,2017-08-26,3,1
+186,Sacrifices,Big Sean Featuring Migos,23,2017-02-25,2017-02-25,3,1
+187,No Heart,21 Savage & Metro Boomin,23,2017-01-14,2017-01-14,3,1
+188,Some Way,NAV Featuring The Weeknd,23,2017-03-04,2017-03-04,3,1
+189,When We,Tank,23,2017-09-23,2017-09-23,3,1
+190,In Your Phone,Ty Dolla $ign & Lauren Jauregui,23,2017-11-18,2017-11-18,3,1
+191,Questions,Chris Brown,23,2017-09-09,2017-09-09,3,1
+192,Johnny B. Goode,Chuck Berry,23,2017-04-08,2017-04-08,3,1
+193,Good Drank,2 Chainz x Gucci Mane x Quavo,23,2017-02-11,2017-02-11,3,1
+194,I Don't F**k With You,Big Sean Featuring E-40,24,2017-07-15,2017-09-16,3,2
+195,Roll In Peace,Kodak Black Featuring XXXTENTACION,24,2017-09-09,2017-09-09,2,1
+196,Biking,"Frank Ocean Featuring JAY Z & Tyler, The Creator",24,2017-04-29,2017-04-29,2,1
+197,California Love,2Pac Featuring Dr. Dre And Roger Troutman,24,2017-09-30,2017-09-30,2,1
+198,When A Man Loves A Woman,Chris Blue,24,2017-05-20,2017-05-20,2,1
+199,Asian Jake Paul,Idubbbz Featuring Boyinaband,24,2017-10-21,2017-10-21,2,1
+200,Do You Mind,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",24,2017-01-07,2017-01-07,2,1
+201,F**k Love,XXXTENTACION Featuring Trippie Redd,24,2017-09-16,2017-09-16,2,1
+202,If It Isn''t Love,New Edition,25,2017-02-18,2017-02-18,1,1
+203,Perm,Bruno Mars,25,2017-01-07,2017-01-07,1,1
+204,Green Lights,NF,25,2017-09-09,2017-09-09,1,1
+205,Come Through And Chill,Miguel Featuring J. Cole & Salaam Remi,25,2017-12-23,2017-12-23,1,1
+206,Jungle Love,Jesse Larson,25,2017-05-27,2017-05-27,1,1
+207,Gang Up,"Young Thug, 2 Chainz, Wiz Khalifah & PnB Rock",25,2017-04-15,2017-04-15,1,1
+208,I Want Your Sex,George Michael,25,2017-01-14,2017-01-14,1,1
+209,What If,Kevin Gates,25,2017-04-29,2017-04-29,1,1
+210,Panda,Desiigner,25,2017-01-21,2017-01-21,1,1
+211,Wait,August Alsina,25,2017-02-04,2017-02-04,1,1
+212,Win,Tee Grizzley,25,2017-10-28,2017-10-28,1,1
+213,Butterfly Effect,Travis Scott,25,2017-10-14,2017-10-14,1,1
+214,What The Price,Migos,25,2017-02-11,2017-02-11,1,1
+215,Had To,Kevin Gates,25,2017-09-30,2017-09-30,1,1

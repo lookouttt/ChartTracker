@@ -1,0 +1,569 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,I Hope,Gabby Barrett,1,2020-01-04,2021-07-24,1503,77
+2,Fancy Like,Walker Hayes,1,2021-06-26,2022-09-17,1345,65
+3,Tennessee Whiskey,Chris Stapleton,2,2020-01-04,2022-11-05,1343,136
+4,Drunk (And I Don't Wanna Go Home),Elle King & Miranda Lambert,1,2021-03-13,2022-07-02,1074,64
+5,Buy Dirt,Jordan Davis Featuring Luke Bryan,2,2021-06-05,2022-08-06,949,57
+6,Lil Bit,Nelly & Florida Georgia Line,1,2020-11-07,2021-10-30,888,48
+7,Forever After All,Luke Combs,1,2020-11-07,2022-01-08,830,54
+8,'Til You Can't,Cody Johnson,1,2021-06-26,2022-10-29,828,50
+9,AA,Walker Hayes,1,2021-12-04,2022-08-27,821,39
+10,Wasted On You,Morgan Wallen,1,2021-01-23,2022-11-05,786,44
+11,The Good Ones,Gabby Barrett,1,2020-10-17,2022-03-26,767,49
+12,"Wine, Beer, Whiskey",Little Big Town,2,2020-03-14,2021-08-14,741,54
+13,Starting Over,Chris Stapleton,1,2020-09-12,2022-04-16,728,42
+14,Nobody But You,Blake Shelton Duet With Gwen Stefani,1,2020-01-04,2020-11-14,693,41
+15,Sand In My Boots,Morgan Wallen,3,2021-01-23,2022-07-30,670,48
+16,The Bones,Maren Morris,4,2020-01-04,2021-03-27,620,39
+17,If I Didn't Love You,Jason Aldean & Carrie Underwood,1,2021-08-07,2022-04-30,612,38
+18,Better Together,Luke Combs,3,2020-02-15,2021-07-03,603,48
+19,You Should Probably Leave,Chris Stapleton,6,2020-11-28,2022-05-14,572,45
+20,She Had Me At Heads Carolina,Cole Swindell,1,2022-04-23,2022-11-05,534,27
+21,More Than My Hometown,Morgan Wallen,1,2020-05-02,2021-02-27,534,34
+22,You Proof,Morgan Wallen,1,2022-05-28,2022-11-05,523,24
+23,One Margarita,Luke Bryan,1,2020-03-28,2020-10-24,521,27
+24,Chasing After You,Ryan Hurd With Maren Morris,2,2021-02-27,2022-04-16,500,38
+25,Got What I Got,Jason Aldean,2,2020-05-16,2021-01-16,490,32
+26,One Of Them Girls,Lee Brice,1,2020-04-25,2021-01-16,468,32
+27,Chasin' You,Morgan Wallen,5,2020-02-15,2021-02-20,458,35
+28,Hard To Forget,Sam Hunt,2,2020-02-22,2020-09-19,440,26
+29,Fall In Love,Bailey Zimmerman,6,2022-02-26,2022-11-05,432,29
+30,"10,000 Hours",Dan + Shay & Justin Bieber,1,2020-01-04,2021-05-01,410,24
+31,The Kind Of Love We Make,Luke Combs,1,2022-07-02,2022-11-05,400,19
+32,Doin' This,Luke Combs,2,2021-11-20,2022-07-02,396,30
+33,Bluebird,Miranda Lambert,5,2020-03-21,2021-03-27,382,28
+34,Good Time,Niko Moon,2,2020-09-19,2021-07-03,373,35
+35,One Too Many,Keith Urban Duet With P!nk,1,2020-09-26,2021-07-10,371,35
+36,Son Of A Sinner,Jelly Roll,2,2022-06-18,2022-11-05,366,21
+37,Be A Light,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",1,2020-04-11,2020-09-19,360,24
+38,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,1,2020-08-08,2021-01-23,358,25
+39,Am I The Only One,Aaron Lewis,1,2021-07-17,2021-11-13,352,18
+40,Rock And A Hard Place,Bailey Zimmerman,1,2022-06-25,2022-11-05,352,20
+41,I Hope You're Happy Now,Carly Pearce & Lee Brice,7,2020-01-18,2021-05-01,347,28
+42,U Gurl,Walker Hayes,2,2021-10-30,2022-04-09,339,21
+43,Famous Friends,Chris Young + Kane Brown,4,2021-03-13,2021-09-04,336,25
+44,I Was On A Boat That Day,Old Dominion,4,2021-06-05,2021-11-27,331,25
+45,What's Your Country Song,Thomas Rhett,5,2020-11-21,2021-06-19,331,28
+46,Does To Me,Luke Combs Featuring Eric Church,5,2020-02-22,2020-07-25,322,23
+47,Like I Love Country Music,Kane Brown,4,2022-05-21,2022-09-17,317,18
+48,7 Summers,Morgan Wallen,1,2020-08-29,2021-02-20,313,25
+49,One Man Band,Old Dominion,3,2020-01-04,2020-09-26,299,20
+50,Rockin' Around The Christmas Tree,Brenda Lee,1,2020-01-04,2022-01-08,297,14
+51,Something In The Orange,Zach Bryan,5,2022-05-07,2022-11-05,284,26
+52,Never Say Never,Cole Swindell / Lainey Wilson,5,2021-12-04,2022-05-28,276,21
+53,I Should Probably Go To Bed,Dan + Shay,1,2020-08-15,2021-01-30,258,21
+54,Memory,Kane Brown X blackbear,4,2021-07-24,2021-11-13,250,16
+55,More Hearts Than Mine,Ingrid Andress,9,2020-01-04,2020-11-21,240,21
+56,Hell Of A View,Eric Church,1,2020-10-17,2021-06-19,230,23
+57,I Wish Grandpas Never Died,Riley Green,6,2020-01-04,2020-03-28,228,13
+58,God's Country,Blake Shelton,6,2020-01-04,2022-01-15,224,27
+59,5 Foot 9,Tyler Hubbard,12,2022-06-04,2022-11-05,221,22
+60,Even Though I'm Leaving,Luke Combs,4,2020-01-04,2020-03-28,220,13
+61,Wait In The Truck,HARDY Featuring Lainey Wilson,1,2022-09-10,2022-11-05,212,9
+62,Jingle Bell Rock,Bobby Helms,3,2020-12-05,2022-01-01,199,10
+63,Flower Shops,ERNEST Featuring Morgan Wallen,2,2022-01-15,2022-06-18,198,20
+64,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,10,2020-02-29,2020-07-11,184,20
+65,Thank God,Kane Brown With Katelyn Brown,1,2022-09-24,2022-11-05,175,7
+66,Homesick,Kane Brown,9,2020-01-04,2020-04-18,174,15
+67,Don't Come Lookin',Jackson Dean,13,2022-06-25,2022-11-05,166,19
+68,Die From A Broken Heart,Maddie & Tae,8,2020-06-27,2020-12-05,165,16
+69,Glad You Exist,Dan + Shay,2,2021-02-20,2021-09-04,164,19
+70,Thinking 'Bout You,Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter,11,2021-09-11,2022-03-05,158,18
+71,Stick That In Your Country Song,Eric Church,1,2020-07-04,2020-10-17,156,12
+72,Never Wanted To Be That Girl,Carly Pearce & Ashley McBryde,5,2021-09-25,2022-04-16,155,21
+73,Come Back As A Country Boy,Blake Shelton,5,2021-10-16,2022-03-05,154,16
+74,God We Need You Now,Struggle Jennings & Caitlynne Curtis,2,2021-06-05,2021-10-02,153,7
+75,One Mississippi,Kane Brown,3,2021-09-04,2022-04-23,152,21
+76,Ride The Lightning (717 Tapes),Warren Zeiders,3,2021-07-10,2022-02-05,150,21
+77,Take My Name,Parmalee,9,2022-04-30,2022-08-06,145,14
+78,Soul,Lee Brice,11,2021-03-13,2022-11-05,142,21
+79,Hallelujah,Carrie Underwood & John Legend,4,2020-12-05,2022-01-01,139,8
+80,Y'all Life,Walker Hayes,1,2022-07-30,2022-10-29,137,10
+81,Neon Moon,Brooks & Dunn,4,2021-09-25,2021-11-13,136,8
+82,Lovin' On You,Luke Combs,12,2020-08-01,2020-10-31,136,14
+83,A Holly Jolly Christmas,Burl Ives,7,2020-11-28,2022-01-01,128,10
+84,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,7,2020-02-22,2020-11-14,128,15
+85,Cold,Chris Stapleton,1,2020-10-10,2022-05-07,127,7
+86,Champagne Night,Lady A,1,2020-04-25,2020-06-20,125,9
+87,Down To One,Luke Bryan,7,2020-08-22,2021-04-10,125,12
+88,Damn Strait,Scotty McCreery,14,2022-02-26,2022-08-13,125,19
+89,Cold As You,Luke Combs,4,2020-11-07,2021-11-13,124,13
+90,My Boy,Elvie Shane,9,2020-09-26,2021-11-13,122,21
+91,Things A Man Oughta Know,Lainey Wilson,13,2021-05-15,2021-10-09,122,16
+92,Single Saturday Night,Cole Swindell,2,2020-06-06,2021-08-14,121,11
+93,My Wish,Rascal Flatts,14,2020-05-16,2022-06-11,120,15
+94,One Thing Right,Marshmello & Kane Brown,1,2020-01-04,2020-02-22,119,8
+95,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,9,2020-01-04,2021-02-20,119,19
+96,Six Feet Apart,Luke Combs,1,2020-05-16,2020-07-04,117,8
+97,If I Was A Cowboy,Miranda Lambert,5,2021-10-30,2022-06-18,117,17
+98,Beers And Sunshine,Darius Rucker,1,2020-08-22,2021-03-20,115,9
+99,Lady,Brett Young,2,2020-05-16,2021-05-22,113,12
+100,Minimum Wage,Blake Shelton,6,2021-01-30,2021-07-10,113,13
+101,Kinfolks,Sam Hunt,12,2020-01-04,2020-03-21,112,12
+102,Dutton Ranch Freestyle,David Morris,2,2022-08-27,2022-10-01,111,6
+103,The Git Up,Blanco Brown,5,2020-01-04,2020-03-07,108,10
+104,Thought You Should Know,Morgan Wallen,1,2022-05-21,2022-11-05,106,8
+105,God Bless The USA,Lee Greenwood,1,2020-07-11,2022-07-16,104,8
+106,Country Again,Thomas Rhett,9,2021-05-15,2021-09-18,102,12
+107,Don't Think Jesus,Morgan Wallen,1,2022-04-30,2022-05-28,101,5
+108,Beer Never Broke My Heart,Luke Combs,11,2020-01-04,2021-05-08,98,13
+109,Take Me Home For Christmas,Dan + Shay,4,2020-11-28,2021-01-02,96,6
+110,Dicked Down In Dallas,Trey Lewis,1,2020-12-12,2021-01-16,92,6
+111,Villain,Lily Rose,2,2020-12-26,2021-02-06,92,6
+112,To Be Loved By You,Parker McCollum,14,2022-01-22,2022-04-23,92,12
+113,I Love My Country,Florida Georgia Line,3,2020-04-11,2020-07-18,91,10
+114,Next Thing You Know,Jordan Davis,12,2022-09-10,2022-11-05,91,9
+115,Mr Red White And Blue,Coffey Anderson,3,2021-07-17,2021-10-02,90,5
+116,Give Heaven Some Hell,HARDY,4,2020-08-08,2022-05-14,90,12
+117,Waves,Luke Bryan,9,2021-04-24,2021-09-18,90,14
+118,My Truck,Breland,9,2020-03-21,2020-08-15,88,10
+119,Whiskey On You,Nate Smith,2,2022-05-21,2022-08-06,87,7
+120,Memory I Don't Mess With,Lee Brice,11,2020-10-31,2021-11-13,86,12
+121,I Hope You Dance,Lee Ann Womack,5,2021-04-24,2022-07-16,84,5
+122,Santa's Gotta Dirty Job,Rich & Rowe,1,2021-12-11,2022-01-01,83,4
+123,Tennessee Orange,Megan Moroney,9,2022-09-17,2022-11-05,83,8
+124,Knowing You,Kenny Chesney,8,2020-04-25,2021-12-18,81,12
+125,God Whispered Your Name,Keith Urban,5,2020-03-14,2020-08-01,80,14
+126,Sounds Like Something I'd Do,Drake Milligan,6,2022-06-18,2022-09-24,78,5
+127,Made For You,Jake Owen,11,2021-03-27,2021-06-05,78,9
+128,Undivided,Tim McGraw & Tyler Hubbard,1,2021-01-23,2021-02-13,77,4
+129,Speechless,Dan + Shay,7,2020-01-11,2021-07-24,77,9
+130,Why We Drink,Justin Moore,17,2020-06-06,2020-09-12,75,15
+131,The Gambler,Kenny Rogers,1,2020-04-04,2022-03-26,74,6
+132,Freedom Was A Highway,Jimmie Allen & Brad Paisley,8,2021-04-17,2022-01-15,73,7
+133,Pretty Heart,Parker McCollum,16,2020-08-29,2021-01-16,73,12
+134,23,Chayce Beckham,1,2021-05-29,2021-06-12,70,3
+135,Cool Again,Kane Brown,2,2020-05-09,2020-08-29,70,4
+136,Gaslighter,The Chicks,1,2020-03-14,2020-03-28,69,3
+137,"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,5,2020-07-18,2022-07-16,69,4
+138,All Too Well (Taylor's Version),Taylor Swift,1,2021-11-27,2021-12-18,68,4
+139,Growing Old With You,Restless Road,1,2022-02-05,2022-05-07,67,4
+140,Where Are You Christmas?,Faith Hill,11,2020-01-04,2022-01-01,67,9
+141,Dear Alcohol,Dax,6,2022-04-02,2022-05-07,66,5
+142,What My World Spins Around,Jordan Davis,11,2022-06-11,2022-11-05,65,10
+143,One Day Tonight,Noah Thompson,1,2022-05-28,2022-06-11,64,3
+144,2020,Mitch Rossell,1,2021-01-09,2021-01-30,63,4
+145,Heaven,Jason Aldean,4,2021-11-27,2021-12-18,63,4
+146,Where It Ends,Bailey Zimmerman,1,2022-09-03,2022-10-01,62,5
+147,I Quit Drinking,Kelsea Ballerini & LANY,8,2021-06-19,2021-10-30,61,4
+148,South On Ya,Luke Combs,6,2021-09-04,2021-09-25,60,4
+149,Somebody's Problem,Morgan Wallen,1,2020-12-05,2021-02-20,57,7
+150,Rainbow,Kacey Musgraves,5,2020-05-02,2022-01-01,57,5
+151,Country On,Luke Bryan,7,2022-07-16,2022-10-08,57,9
+152,Red Bird,HunterGirl,2,2022-05-28,2022-06-11,56,3
+153,Last Time I Say Sorry,Kane Brown & John Legend,2,2020-04-18,2020-05-02,56,3
+154,Cover Me Up,Morgan Wallen,15,2020-08-01,2022-01-08,56,11
+155,Ghost Story,Carrie Underwood,1,2022-04-02,2022-04-30,55,5
+156,She Likes It,Russell Dickerson & Jake Scott,11,2022-06-04,2022-09-10,55,9
+157,Trouble With A Heartbreak,Jason Aldean,1,2022-01-29,2022-02-19,53,4
+158,Hole In The Bottle,Kelsea Ballerini,10,2020-03-14,2021-03-13,53,10
+159,Joy Of My Life,Chris Stapleton,20,2020-11-28,2022-11-05,53,16
+160,Progress,John Rich,1,2022-08-06,2022-08-20,52,3
+161,Still Goin Down,Morgan Wallen,2,2020-12-05,2021-01-09,51,4
+162,You Can Have Him Jolene,Chapel Hart,4,2022-07-30,2022-08-27,51,3
+163,Whiskey Glasses,Morgan Wallen,5,2020-01-04,2021-02-20,51,5
+164,Dear Rodeo,Cody Johnson & Reba McEntire,2,2020-10-17,2022-01-15,50,3
+165,Second Guessing,Florida Georgia Line,2,2020-05-30,2020-06-13,50,3
+166,What If I Never Get Over You,Lady Antebellum,13,2020-01-04,2020-02-15,50,7
+167,Gone Too Soon,Andrew Jannakos,1,2020-09-26,2020-10-10,49,3
+168,Project,Chase McDaniel,1,2022-06-11,2022-07-30,48,4
+169,Worldwide Beautiful,Kane Brown,3,2020-06-13,2020-09-26,48,4
+170,Meant To Be,Bebe Rexha & Florida Georgia Line,12,2021-05-22,2022-01-15,48,4
+171,Breaking Up Was Easy In The 90's,Sam Hunt,15,2020-04-18,2021-05-29,48,8
+172,Life Is A Highway,Rascal Flatts,10,2021-05-08,2022-10-22,47,5
+173,"Salt, Lime & Tequila",Ryan Griffin,3,2021-04-17,2021-05-15,46,3
+174,Made,Spencer Crandall,4,2021-10-02,2021-11-13,45,5
+175,Beautiful Crazy,Luke Combs,16,2020-01-04,2020-10-17,45,13
+176,The Man Who Loves You The Most,Zac Brown Band,1,2020-06-27,2020-07-04,44,2
+177,I Would've Loved You,Jake Hoot Featuring Kelly Clarkson,5,2021-02-13,2021-06-05,44,3
+178,Strawberry Wine,Deana Carter,4,2021-04-24,2021-05-01,43,2
+179,Half Of My Hometown,Kelsea Ballerini Featuring Kenny Chesney,10,2021-05-01,2021-06-12,43,3
+180,Heartache Medication,Jon Pardi,17,2020-01-04,2020-02-22,43,8
+181,The Devil Went Down To Georgia,The Charlie Daniels Band,2,2020-07-18,2020-07-25,42,2
+182,Tough Ones,Cooper Alan,4,2021-02-20,2021-02-27,42,2
+183,Just About Over You,Priscilla Block,4,2020-08-15,2020-08-22,42,2
+184,Kiss Goodbye All Night,Drake Milligan,2,2022-08-20,2022-08-27,41,2
+185,What He Didn't Do,Carly Pearce,5,2021-10-02,2021-10-09,41,2
+186,"Forever And Ever, Amen",Randy Travis,8,2021-04-24,2021-07-24,41,4
+187,Your Man,Josh Turner,11,2021-04-24,2022-03-26,41,4
+188,Without You,Luke Combs Featuring Amanda Shires,2,2020-10-03,2020-11-07,40,2
+189,Good Times Roll,Jimmie Allen & Nelly,2,2020-07-25,2020-08-01,40,2
+190,Narcissist,Avery Anna,4,2022-03-19,2022-03-26,39,2
+191,Fishin' In The Dark,Nitty Gritty Dirt Band,6,2021-07-17,2021-07-24,39,2
+192,Never Leave,Bailey Zimmerman,10,2022-10-01,2022-11-05,39,6
+193,Worship You,Kane Brown,2,2020-08-29,2021-02-06,38,3
+194,Never Til Now,Ashley Cooke + Brett Young,5,2022-04-16,2022-07-30,38,2
+195,Hopelessly Devoted To You,Olivia Newton-John,1,2022-08-20,2022-08-27,37,2
+196,Same Boat,Zac Brown Band,7,2021-06-26,2021-11-20,37,5
+197,Whiskey And Rain,Michael Ray,11,2022-01-08,2022-03-19,37,5
+198,Love You Like I Used To,Russell Dickerson,5,2020-02-22,2020-02-29,36,2
+199,Margaritaville,Jimmy Buffett,16,2021-05-22,2022-04-02,36,4
+200,Love Can Build A Bridge,The Judds,1,2022-05-14,2022-05-28,35,3
+201,Where We Started,Thomas Rhett + Katy Perry,7,2022-04-16,2022-06-04,35,2
+202,23,Sam Hunt,18,2021-09-25,2022-04-16,35,9
+203,Outskirts Of Heaven,Warren Zeiders Featuring Craig Campbell,8,2021-12-25,2022-01-22,34,4
+204,Tomorrow Me,Luke Combs,1,2022-05-07,2022-05-14,33,2
+205,In Spite Of Ourselves,John Prine With Iris DeMent,4,2020-04-18,2020-04-25,33,2
+206,Hell Yeah,Little Big Town,8,2022-04-23,2022-04-30,33,2
+207,All I See Is You,Shane Smith & The Saints,8,2021-11-27,2021-12-11,33,3
+208,Hell Right,Blake Shelton Featuring Trace Adkins,10,2020-01-04,2020-01-18,33,3
+209,Humble And Kind,Tim McGraw,13,2020-04-18,2020-12-05,33,3
+210,Copperhead Road,Steve Earle,9,2021-04-24,2021-05-01,32,2
+211,Where I Find God,Larry Fleet,10,2020-10-31,2022-10-15,32,6
+212,My Person,Spencer Crandall,14,2021-05-08,2021-11-06,32,3
+213,Settlin' Down,Miranda Lambert,17,2021-04-17,2021-07-03,32,7
+214,Thinking 'Bout You,Dustin Lynch Featuring Lauren Alaina,2,2020-02-01,2020-02-08,31,2
+215,Islands In The Stream,Kenny Rogers Duet With Dolly Parton,2,2020-04-04,2020-04-25,31,3
+216,Step By Step,Brandon Davis,4,2021-02-06,2021-11-20,31,2
+217,Thank You Lord,Chris Tomlin Featuring Thomas Rhett & Florida Georgia Line,10,2020-07-11,2020-09-05,31,2
+218,Memorize You,Laine Hardy,13,2021-05-29,2021-08-21,31,4
+219,What She Wants Tonight,Luke Bryan,17,2020-01-25,2020-03-28,31,7
+220,You All Over Me (Taylor's Version) (From The Vault),Taylor Swift Featuring Maren Morris,1,2021-04-10,2021-04-17,30,2
+221,Beer With My Friends,Kenny Chesney & Old Dominion,2,2022-09-10,2022-09-17,30,2
+222,Can't Have Mine,Dylan Scott,5,2022-03-05,2022-03-19,30,2
+223,Somebody's Got To,The Band McMillan,11,2021-11-20,2021-12-04,30,3
+224,Enchanted,Taylor Swift,13,2021-11-27,2021-12-11,30,3
+225,Cold Beer Calling My Name,Jameson Rodgers Featuring Luke Combs,13,2020-05-02,2021-10-23,30,4
+226,Grandpa (Tell Me 'Bout The Good Old Days),The Judds,2,2022-05-14,2022-05-28,29,3
+227,Somehow You Do,Reba,10,2021-05-08,2022-04-09,29,2
+228,Bless The Broken Road,Rascal Flatts,13,2021-04-24,2022-07-16,29,5
+229,Some Girls,Jameson Rodgers,18,2020-09-12,2020-10-31,29,5
+230,Everybody Talks To God,Aaron Lewis,7,2022-01-29,2022-02-19,27,3
+231,Bucket List,Mitchell Tenpenny,7,2021-01-16,2021-01-23,26,2
+232,Magic City Cowboy,Jamie Ray,12,2021-08-21,2021-09-04,26,3
+233,Done,Chris Janson,18,2020-07-25,2020-08-22,26,5
+234,Rolex® On A Redneck,Brantley Gilbert Featuring Jason Aldean,1,2022-04-09,2022-04-09,25,1
+235,I Called Mama,Tim McGraw,1,2020-05-23,2020-05-23,25,1
+236,The Story.,Jana Kramer,1,2022-03-12,2022-03-12,25,1
+237,Leave You Alone,Kane Brown,1,2022-03-19,2022-03-19,25,1
+238,Love Story (Taylor’s Version),Taylor Swift,1,2021-02-27,2021-02-27,25,1
+239,Mr. Perfectly Fine (Taylor's Version) (From The Vault),Taylor Swift,1,2021-04-17,2021-04-17,25,1
+240,Earth To God,John Rich,1,2020-10-10,2020-10-10,25,1
+241,Take Me Home,Restless Road & Kane Brown,7,2020-03-07,2020-03-14,25,2
+242,This Bar,Morgan Wallen,8,2020-01-18,2021-02-20,25,2
+243,Betty,Taylor Swift,12,2020-08-08,2020-10-03,25,2
+244,Christmas Isn't Christmas,Dan + Shay,13,2020-12-12,2020-12-19,25,2
+245,Hard Days,Brantley Gilbert,2,2020-06-20,2020-06-20,24,1
+246,March March,The Chicks,2,2020-07-11,2020-07-11,24,1
+247,Me On You,Muscadine Bloodline,2,2022-07-23,2022-07-23,24,1
+248,Sweet Florida,Van Zant,2,2022-04-16,2022-04-16,24,1
+249,John Deere Green,Joe Diffie,2,2020-04-11,2020-04-11,24,1
+250,Voices,Jana Kramer,2,2021-10-09,2021-10-09,24,1
+251,Your Daughter,Chase McDaniel,2,2022-10-15,2022-10-15,24,1
+252,Somebody Does,Tigirlily,2,2021-03-06,2021-03-06,24,1
+253,Through My Ray-Bans,Eric Church,2,2020-11-14,2020-11-14,24,1
+254,Sinning With You,Sam Hunt,2,2020-01-18,2020-01-18,24,1
+255,Long Live,Florida Georgia Line,4,2020-09-26,2021-02-27,24,2
+256,Dirt Road Anthem,Jason Aldean,9,2022-07-09,2022-07-16,24,2
+257,Maggie's Song,Chris Stapleton,10,2021-05-01,2021-05-08,24,2
+258,Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,15,2021-07-31,2021-08-28,24,5
+259,Grow Up,Ian Flanigan Featuring Blake Shelton,3,2021-05-29,2021-05-29,23,1
+260,Build Me A Daddy,Luke Bryan,3,2020-06-27,2020-06-27,23,1
+261,Long Way Home,Todd Tilghman,3,2020-05-30,2020-05-30,23,1
+262,Ain't Met Us Yet,Matt Cooper,3,2021-05-08,2021-05-08,23,1
+263,Happy Birthday America,Toby Keith,3,2021-07-17,2021-07-17,23,1
+264,The Other Girl,Kelsea Ballerini x Halsey,3,2020-04-04,2020-04-04,23,1
+265,Down Home,Jimmie Allen,3,2022-04-23,2022-04-23,23,1
+266,Mama's Boy,Ryan Griffin,3,2021-05-22,2021-05-22,23,1
+267,That's What Love Is,Alexandra Kay,3,2022-05-14,2022-05-14,23,1
+268,Sound Of The South,Kaleb Austin,3,2021-01-30,2021-01-30,23,1
+269,The Other Guy,Luke Combs,3,2020-11-07,2020-11-07,23,1
+270,Here And Now,Kenny Chesney,3,2020-03-07,2020-03-07,23,1
+271,Wild Horse (717 Tapes),Warren Zeiders,4,2022-04-30,2022-05-07,23,2
+272,Raised Up,Rvshvd,4,2021-03-06,2021-03-06,22,1
+273,Drinkin Drinks,Urban Outlaws Featuring Kurt Stevens,4,2022-05-07,2022-05-07,22,1
+274,Heartfirst,Kelsea Ballerini,4,2022-04-23,2022-04-23,22,1
+275,How They Remember You,Rascal Flatts,4,2020-07-04,2020-07-04,22,1
+276,Long Way,Sarahbeth Taite,4,2020-10-10,2020-10-10,22,1
+277,Colt 45 (Country Remix),Cooper Alan & Rvshvd,4,2021-07-10,2021-07-10,22,1
+278,Mr. Red White And Blue,Coffey Anderson & Drew Jacobs,4,2022-07-16,2022-07-16,22,1
+279,Lady,Kenny Rogers,4,2020-04-04,2020-04-04,22,1
+280,Son Of The Dirty South,Brantley Gilbert Featuring Jelly Roll,4,2022-07-09,2022-07-09,22,1
+281,Let It Burn,Austin Burke,4,2022-02-12,2022-02-12,22,1
+282,Black Like Me,Mickey Guyton,4,2021-03-27,2021-03-27,22,1
+283,Single Again,Trey Lewis,4,2022-01-29,2022-01-29,22,1
+284,What Do You Think Of?,Lauren Alaina & Lukas Graham,4,2020-09-19,2020-09-19,22,1
+285,Crazyland,Eric Church,4,2020-09-12,2020-09-12,22,1
+286,Mr. Red White And Blue,Coffey Anderson,12,2020-10-10,2020-11-14,22,2
+287,Beers On Me,"Dierks Bentley, BRELAND & HARDY",17,2021-08-14,2022-04-16,22,6
+288,Good Ol' Man,Drew Green,5,2022-03-12,2022-03-12,21,1
+289,My Kinda Folk,Luke Combs,5,2020-11-07,2020-11-07,21,1
+290,The Worst Country Song Of All Time,Brantley Gilbert Featuring Toby Keith & HARDY,5,2021-07-03,2021-07-03,21,1
+291,Why Not Me,The Judds,5,2022-05-14,2022-05-14,21,1
+292,Sun Goes Down,Kaleb Austin,5,2021-06-12,2021-06-12,21,1
+293,Whiskey Sour,Kane Brown,5,2022-01-29,2022-01-29,21,1
+294,Pickup Man,Joe Diffie,5,2020-04-11,2020-04-11,21,1
+295,Through The Years,Kenny Rogers,5,2020-04-04,2020-04-04,21,1
+296,You And Islands,Zac Brown Band,5,2020-08-15,2020-08-15,21,1
+297,Never Been In Love,Haley Mae Campbell,5,2021-05-15,2021-05-15,21,1
+298,Dangerous,Morgan Wallen,13,2021-01-23,2021-02-20,21,3
+299,Superman,Keith Urban,6,2020-08-01,2020-08-01,20,1
+300,Should Have Known Better,Jessie James Decker,6,2021-09-04,2021-09-04,20,1
+301,Bring My Flowers Now,Tanya Tucker,6,2020-02-08,2020-02-08,20,1
+302,Girls Like Me,Martina McBride,6,2020-05-16,2020-05-16,20,1
+303,New Normal,Cooper Alan,6,2020-09-05,2020-09-05,20,1
+304,Circles Around This Town,Maren Morris,6,2022-01-22,2022-01-22,20,1
+305,Where Were You (When The World Stopped Turning),Alan Jackson,6,2021-09-25,2021-09-25,20,1
+306,9 To 5,Dolly Parton & Kelly Clarkson,6,2022-09-24,2022-09-24,20,1
+307,Country Girl (Shake It For Me),Luke Bryan,11,2021-07-24,2022-07-16,20,2
+308,Under The Mistletoe,Kelly Clarkson & Brett Eldredge,13,2020-12-19,2020-12-26,20,2
+309,homecoming queen?,Kelsea Ballerini,18,2020-01-04,2020-02-01,20,5
+310,Just The Way,Parmalee x Blanco Brown,19,2021-03-13,2021-04-03,20,4
+311,The Cowboy In Me (Yellowstone Edition),Tim McGraw,7,2021-12-25,2021-12-25,19,1
+312,We've Got Tonight,Kenny Rogers And Sheena Easton,7,2020-04-04,2020-04-04,19,1
+313,Brown Eyes Baby,Keith Urban,7,2022-07-23,2022-07-23,19,1
+314,Growing Up,Thomas Rhett,7,2021-03-20,2021-03-20,19,1
+315,I Bet You Think About Me (Taylor's Version) (From The Vault),Taylor Swift Featuring Chris Stapleton,7,2021-11-27,2021-11-27,19,1
+316,Prop Me Up Beside The Jukebox (If I Die),Joe Diffie,7,2020-04-11,2020-04-11,19,1
+317,I Would For You,Lauren Duski,7,2021-02-20,2021-02-20,19,1
+318,Next To You,Little Big Town,7,2020-02-01,2020-02-01,19,1
+319,Heart Like A Truck,Lainey Wilson,12,2022-10-29,2022-11-05,19,2
+320,Half Of Me,Thomas Rhett Featuring Riley Green,12,2022-04-23,2022-11-05,19,4
+321,Hometown,Diplo Presents Thomas Wesley Featuring Zac Brown & Danielle Bradbery,15,2020-06-13,2020-06-20,19,2
+322,Bad Mother Trucker,Eric Church,8,2020-08-15,2020-08-15,18,1
+323,Sleep At Night,The Chicks,8,2020-08-01,2020-08-01,18,1
+324,Songs You Never Heard,Luke Bryan,8,2021-08-21,2021-08-21,18,1
+325,Livin' The Dream,Morgan Wallen,8,2020-12-05,2020-12-05,18,1
+326,Better Than We Found It,Maren Morris,8,2020-10-17,2020-10-17,18,1
+327,Truth About You,Mitchell Tenpenny,9,2021-07-24,2022-09-03,18,2
+328,Lonely If You Are,Chase Rice,12,2020-02-08,2020-02-15,18,2
+329,I Don't Wanna Go To Heaven,Nate Smith,12,2021-12-04,2022-02-05,18,2
+330,Ridin' Roads,Dustin Lynch,16,2020-01-04,2020-01-25,18,3
+331,Wet Dream,Austin Burke,17,2021-08-21,2021-08-28,18,2
+332,Justified,Kacey Musgraves,9,2021-10-16,2021-10-16,17,1
+333,Mama He's Crazy,The Judds,9,2022-05-14,2022-05-14,17,1
+334,Stay,Noah Thompson,9,2022-08-13,2022-08-13,17,1
+335,Lose You,Jordan Davis,9,2020-10-31,2020-10-31,17,1
+336,Best Worst Ex,Julia Cole & Alexandra Kay,9,2022-03-26,2022-03-26,17,1
+337,Hallelujah,Ryan Bingham & The Dead Horses,9,2022-01-22,2022-01-22,17,1
+338,Peace In The Pines,Kolton Moore & The Clever Few,9,2022-01-15,2022-01-15,17,1
+339,If That Ain't God,Chris Young,9,2020-07-18,2020-07-18,17,1
+340,Baby Now That I've Found You,Girl Named Tom,9,2021-12-25,2021-12-25,17,1
+341,Only Us,Carrie Underwood & Dan + Shay,9,2021-09-18,2021-09-18,17,1
+342,Kiss An Angel Good Mornin',Charley Pride,9,2020-12-26,2020-12-26,17,1
+343,Coward Of The County,Kenny Rogers,9,2020-04-04,2020-04-04,17,1
+344,All Night,Brothers Osborne,10,2020-05-30,2020-05-30,16,1
+345,She Believes In Me,Kenny Rogers,10,2020-04-04,2020-04-04,16,1
+346,Hope It's Hot Out,Kyle Clark,10,2022-06-11,2022-06-11,16,1
+347,Wild World,Kip Moore,10,2020-04-11,2020-04-11,16,1
+348,Beat You There,Will Dempsey,10,2022-03-12,2022-03-12,16,1
+349,Dancin' In The Country,Tyler Hubbard,10,2022-09-03,2022-09-03,16,1
+350,Somebody Like That,Tenille Arts,10,2020-01-18,2020-01-18,16,1
+351,Sleeping On The Blacktop,Colter Wall,10,2021-11-27,2021-11-27,16,1
+352,Waking Up Dreaming,Shania Twain,10,2022-10-08,2022-10-08,16,1
+353,County Line,Chase Matthew,10,2021-07-17,2021-07-17,16,1
+354,We Can Reach The Stars,Blake Shelton,10,2021-11-20,2021-11-20,16,1
+355,Want It Again,Thomas Rhett,10,2021-03-20,2021-03-20,16,1
+356,I Remember Everything,John Prine,14,2020-06-27,2021-03-27,16,2
+357,Never Look Back,Warren Zeiders,14,2021-11-06,2021-11-13,16,2
+358,Everything She Ain't,Hailey Whitters,17,2022-09-24,2022-10-01,16,2
+359,"Take Me Home, Country Roads",John Denver,20,2020-01-25,2022-01-08,16,5
+360,One Night Standards,Ashley McBryde,21,2020-08-22,2020-11-21,16,4
+361,2016,Sam Hunt,11,2020-04-18,2020-04-18,15,1
+362,We Didn't Have Much,Justin Moore,11,2020-10-24,2020-10-24,15,1
+363,Better Than You’re Used To,Tyler Rich,11,2021-02-27,2021-02-27,15,1
+364,Love Story (Taylor's Version),Taylor Swift,11,2021-04-10,2021-04-10,15,1
+365,American Soldier,Toby Keith,11,2021-07-17,2021-07-17,15,1
+366,When Life Is Good Again,Dolly Parton,11,2020-06-13,2020-06-13,15,1
+367,Drinking Songs,Walker Hayes,11,2022-01-22,2022-01-22,15,1
+368,Lucille,Kenny Rogers,11,2020-04-04,2020-04-04,15,1
+369,I Want Crazy,Hunter Hayes,11,2020-02-29,2020-02-29,15,1
+370,Outrunnin' Your Memory,Luke Combs & Miranda Lambert,11,2022-07-09,2022-07-09,15,1
+371,Have You Never Been Mellow,Olivia Newton-John,11,2022-08-20,2022-08-20,15,1
+372,No Body,Blake Shelton,11,2022-09-03,2022-09-03,15,1
+373,Creeps,Koe Wetzel,11,2022-09-10,2022-09-10,15,1
+374,Blank Stares,Jay Allen,11,2022-10-01,2022-10-01,15,1
+375,I Found You,Nate Smith,11,2022-10-08,2022-10-08,15,1
+376,All Your'n,Tyler Childers,13,2022-10-29,2022-11-05,15,2
+377,Up Down,Morgan Wallen Featuring Florida Georgia Line,18,2021-02-13,2021-02-20,15,2
+378,I Still Love You,Jessie James Decker & Billy Currington,12,2022-11-05,2022-11-05,14,1
+379,Arkansas,Chris Stapleton,12,2020-11-07,2020-11-07,14,1
+380,Independent With You,Kylie Morgan,12,2022-03-12,2022-03-12,14,1
+381,What I’m Leaving For,Lady Antebellum,12,2020-04-18,2020-04-18,14,1
+382,Don't Close Your Eyes,Keith Whitley,12,2021-03-13,2021-03-13,14,1
+383,You Can't Make Old Friends,Kenny Rogers Duet With Dolly Parton,12,2020-04-04,2020-04-04,14,1
+384,All The Cowboys,Alexandra Kay,12,2020-11-28,2020-11-28,14,1
+385,Here,Mitchell Tenpenny,12,2020-04-25,2020-04-25,14,1
+386,High Heels,Flo Rida & Walker Hayes,12,2022-10-22,2022-10-22,14,1
+387,Coal Miner's Daughter,Loretta Lynn,12,2022-10-15,2022-10-15,14,1
+388,Blessed And Free,Kane Brown & H.E.R.,12,2021-10-16,2021-10-16,14,1
+389,Whiskey Me Away,Jason Aldean,12,2021-12-18,2021-12-18,14,1
+390,I Kinda Don't,Alexandra Kay,13,2020-09-05,2020-09-05,13,1
+391,Does He Love You,Reba McEntire Duet With Dolly Parton,13,2021-10-23,2021-10-23,13,1
+392,Have You Forgotten?,Darryl Worley,13,2021-09-25,2021-09-25,13,1
+393,"You, Me, & Whiskey",Justin Moore & Priscilla Block,13,2022-10-22,2022-10-22,13,1
+394,Hard Candy Christmas,Kenny Rogers & Dolly Parton,13,2021-01-02,2021-01-02,13,1
+395,Good As You,Kane Brown,13,2020-11-21,2020-11-21,13,1
+396,Before You,David J,13,2022-08-13,2022-08-13,13,1
+397,Lady May,Tyler Childers,13,2020-07-11,2020-07-11,13,1
+398,Dixieland Delight,Alabama,13,2022-10-29,2022-10-29,13,1
+399,Pick Me Up,Gabby Barrett,13,2022-06-04,2022-06-04,13,1
+400,Burn It Down (717 Tapes),Warren Zeiders,13,2022-02-05,2022-02-05,13,1
+401,Worth A Shot,Elle King Featuring Dierks Bentley,13,2022-05-28,2022-05-28,13,1
+402,We Had It Good,Chase Matthew,13,2022-02-26,2022-02-26,13,1
+403,Turn The Night On,Kaleb Austin,19,2021-10-02,2021-10-09,13,2
+404,No I In Beer,Brad Paisley,14,2020-05-02,2020-05-02,12,1
+405,Way Of The Triune God,Tyler Childers,14,2022-10-22,2022-10-22,12,1
+406,Right Girl Wrong Time,Tyra Madison,14,2021-01-30,2021-01-30,12,1
+407,Getting Over Him,Lauren Alaina Featuring Jon Pardi,14,2020-09-05,2020-09-05,12,1
+408,Authority Song,Todd Tilghman & Blake Shelton,14,2020-05-30,2020-05-30,12,1
+409,Better Man (Taylor's Version) (From The Vault),Taylor Swift,14,2021-11-27,2021-11-27,12,1
+410,Z71,Sean Stemaly,14,2021-08-14,2021-08-14,12,1
+411,Goodbye,Kenny Rogers,14,2020-04-11,2020-04-11,12,1
+412,Bible Verses,Blake Shelton,14,2021-05-08,2021-05-08,12,1
+413,Warning,Morgan Wallen,14,2021-01-23,2021-01-23,12,1
+414,Crazy Angels,Carrie Underwood,14,2022-05-07,2022-05-07,12,1
+415,Pontoon,Little Big Town,14,2022-07-16,2022-07-16,12,1
+416,"Ruby, Don't Take Your Love To Town",Kenny Rogers & The First Edition,14,2020-04-04,2020-04-04,12,1
+417,Someone,Aaron Lewis,15,2022-02-12,2022-02-12,11,1
+418,Angel Wings,Logan Michael,15,2021-07-10,2021-07-10,11,1
+419,I Honestly Love You,Olivia Newton-John,15,2022-08-20,2022-08-20,11,1
+420,Julianna Calm Down,Dixie Chicks,15,2020-05-16,2020-05-16,11,1
+421,Doing Life With Me,Eric Church,15,2020-12-26,2020-12-26,11,1
+422,Dark Night (717 Tapes),Warren Zeiders,15,2022-03-19,2022-03-19,11,1
+423,High Horse,"Nelly, BRELAND & Blanco Brown",15,2021-08-21,2021-08-21,11,1
+424,Seaside,Billy Currington,15,2020-07-18,2020-07-18,11,1
+425,Neon You,Don Louis,15,2022-10-22,2022-10-22,11,1
+426,When I Get To Heaven,John Prine,15,2020-04-18,2020-04-18,11,1
+427,Best Parts Of Me,Will Dempsey,15,2021-02-27,2021-02-27,11,1
+428,Dancin' In The Moonlight,Chris Lane Featuring Lauren Alaina,15,2022-06-25,2022-06-25,11,1
+429,You Decorated My Life,Kenny Rogers,15,2020-04-04,2020-04-04,11,1
+430,Last Night Lonely,Jon Pardi,16,2022-03-05,2022-09-17,11,2
+431,Tequila,Dan + Shay,17,2021-04-24,2021-05-01,11,2
+432,Ain't Always The Cowboy,Jon Pardi,20,2020-10-17,2020-10-24,11,2
+433,This Is Us,Jimmie Allen & Noah Cyrus,22,2020-03-07,2020-11-07,11,3
+434,Blueneck,Chris Housman,16,2021-04-17,2021-04-17,10,1
+435,Hey Mama,Britnee Kellogg,16,2021-10-02,2021-10-02,10,1
+436,Ain't Friends Anymore,Cooper Alan,16,2022-03-12,2022-03-12,10,1
+437,Forever Country,"Artists Of Then, Now & Forever",16,2020-03-07,2020-03-07,10,1
+438,Broken Neon Hearts,Ronnie Dunn,16,2022-02-26,2022-02-26,10,1
+439,A Country Boy Can Survive,Hank Williams Jr.,16,2022-07-09,2022-07-09,10,1
+440,How Great Thou Art (Live From The Grand Ole Opry),Carrie Underwood,16,2021-04-10,2021-04-10,10,1
+441,The Dance,Country Music Ensemble,16,2021-06-19,2021-06-19,10,1
+442,Tequila Little Time,Jon Pardi,16,2021-08-07,2021-08-07,10,1
+443,Only Thing That's Gone,Morgan Wallen Featuring Chris Stapleton,16,2021-01-23,2021-01-23,10,1
+444,Where The Stars And Stripes And The Eagle Fly,Aaron Tippin,16,2021-07-17,2021-07-17,10,1
+445,Red (Taylor's Version),Taylor Swift,16,2021-11-27,2021-11-27,10,1
+446,Good Things,Dan + Shay,16,2021-07-31,2021-07-31,10,1
+447,Gold,Dierks Bentley,16,2022-08-13,2022-08-13,10,1
+448,Skeletons,Brothers Osborne,16,2020-09-05,2020-09-05,10,1
+449,Can't Let Go,Robert Plant / Alison Krauss,16,2021-12-04,2021-12-04,10,1
+450,You're Still The One,Shania Twain,21,2022-03-19,2022-08-13,10,3
+451,Raindrops Keep Fallin' On My Head,B.J. Thomas,17,2021-06-12,2021-06-12,9,1
+452,Half The Man,Jennifer Smestad,17,2020-07-04,2020-07-04,9,1
+453,The Cowboy In Me,Tim McGraw,17,2021-12-25,2021-12-25,9,1
+454,Young Man's Blues,Parker McCollum,17,2020-08-29,2020-08-29,9,1
+455,Third Rock From The Sun,Joe Diffie,17,2020-04-11,2020-04-11,9,1
+456,Next Girl,Carly Pearce,17,2020-09-19,2020-09-19,9,1
+457,Please Mr. Please,Olivia Newton-John,17,2022-08-20,2022-08-20,9,1
+458,Gone,Dierks Bentley,17,2020-11-07,2020-11-07,9,1
+459,Chicken Fried,Zac Brown Band,19,2021-03-20,2021-04-03,9,2
+460,Don't Fall In Love With A Dreamer,Kenny Rogers With Kim Carnes,18,2020-04-04,2020-04-04,8,1
+461,On Me,Thomas Rhett & Kane Brown Featuring Ava Max,18,2020-05-30,2020-05-30,8,1
+462,What Are You Gonna Tell Her?,Mickey Guyton,18,2020-09-26,2020-09-26,8,1
+463,Man! I Feel Like A Woman!,Shania Twain,18,2022-08-13,2022-08-13,8,1
+464,Springsteen,Eric Church,18,2022-07-16,2022-07-16,8,1
+465,Doin' It Right,Chayce Beckham,18,2022-04-30,2022-04-30,8,1
+466,Make You Rich,Noah Thompson,18,2022-11-05,2022-11-05,8,1
+467,Keeping Me Up All Night,Chayce Beckham,18,2022-09-03,2022-09-03,8,1
+468,We Wouldn't Be Us,Alexandra Kay,18,2021-02-27,2021-02-27,8,1
+469,West Texas In My Eye,The Panhandlers,18,2021-12-18,2021-12-18,8,1
+470,You,Dan + Shay,18,2021-08-28,2021-08-28,8,1
+471,"No Body, No Crime",Taylor Swift Featuring HAIM,18,2020-12-26,2020-12-26,8,1
+472,Angel Band,Tyler Childers,18,2022-09-24,2022-09-24,8,1
+473,Soon You'll Get Better,Taylor Swift Featuring Dixie Chicks,18,2020-05-02,2020-05-02,8,1
+474,You Time,Scotty McCreery,20,2020-10-10,2021-10-09,8,2
+475,Just Drive,Erin Kinsey,19,2021-08-21,2021-08-21,7,1
+476,Things Dads Do,Thomas Rhett,19,2021-07-03,2021-07-03,7,1
+477,Denim & Rhinestones,Carrie Underwood,19,2022-04-23,2022-04-23,7,1
+478,Almost Maybes,Jordan Davis,19,2020-05-23,2020-05-23,7,1
+479,Run,Lauren Alaina,19,2020-08-15,2020-08-15,7,1
+480,Can't Fight The Moonlight,LeAnn Rimes,19,2022-10-15,2022-10-15,7,1
+481,Fucked By A Country Boy,Wheeler Walker Jr.,19,2022-04-02,2022-04-02,7,1
+482,Never Break Heart,Eric Church,19,2021-03-13,2021-03-13,7,1
+483,Baby Don't Get Hooked On Me,Mac Davis,19,2020-10-10,2020-10-10,7,1
+484,Blame It On You,Jason Aldean,19,2021-07-31,2021-07-31,7,1
+485,Good For Somebody,Kaitlyn Bristowe,19,2020-11-07,2020-11-07,7,1
+486,Born Here Live Here Die Here,Luke Bryan,19,2020-02-29,2020-02-29,7,1
+487,Broken Up,Mitchell Tenpenny,19,2020-07-18,2020-07-18,7,1
+488,Ground I Grew Up On,Laine Hardy,19,2020-04-25,2020-04-25,7,1
+489,More Hearts Than Mine,Girl Named Tom,19,2021-12-04,2021-12-04,7,1
+490,Hell Of A Year,Parker McCollum,19,2022-01-15,2022-01-15,7,1
+491,Play It Again,Luke Bryan,20,2021-04-24,2022-07-16,7,2
+492,No Hard Feelings,Old Dominion,22,2022-08-13,2022-08-20,7,2
+493,Should've Known Better,Carly Pearce,20,2021-03-06,2021-03-06,6,1
+494,Church In A Chevy,Jordan Davis,20,2020-06-06,2020-06-06,6,1
+495,Middle Of Somewhere,Luke Combs,20,2022-07-09,2022-07-09,6,1
+496,Giving You Up,Kameron Marlowe,20,2022-03-12,2022-03-12,6,1
+497,Slow Down Summer,Thomas Rhett,20,2021-11-20,2021-11-20,6,1
+498,New Truck,Dylan Scott,20,2022-03-19,2022-03-19,6,1
+499,Cabo,Koe Wetzel,20,2022-10-01,2022-10-01,6,1
+500,Waiting,Bailey Zimmerman,20,2022-10-29,2022-10-29,6,1
+501,Nobody,Dylan Scott,22,2021-06-19,2021-06-26,6,2
+502,Wild As Her,Corey Kent,22,2022-03-26,2022-04-02,6,2
+503,After A Few,Travis Denning,22,2020-05-16,2020-05-30,6,2
+504,"You're A Mean One, Mr. Grinch",Thurl Ravenscroft,23,2021-12-25,2022-01-01,6,2
+505,Wild Hearts,Keith Urban,21,2021-11-20,2021-11-20,5,1
+506,She's Country,Jason Aldean,21,2021-04-24,2021-04-24,5,1
+507,Good Hands,Kylie Morgan,21,2022-10-29,2022-10-29,5,1
+508,The Girls Are Back In Town,Chapel Hart,21,2022-08-27,2022-08-27,5,1
+509,If You Love Me (Let Me Know),Olivia Newton-John,21,2022-08-20,2022-08-20,5,1
+510,John Wayne,Whiskey Myers,21,2022-03-05,2022-03-05,5,1
+511,I Choose You,Amanda Jordan,21,2022-01-22,2022-01-22,5,1
+512,Don't Go Changing,Kip Moore,21,2020-11-14,2020-11-14,5,1
+513,865,Morgan Wallen,21,2021-01-23,2021-01-23,5,1
+514,I Hate Alabama,Conner Smith,21,2021-10-23,2021-10-23,5,1
+515,Never Have I Ever,Danielle Bradbery,21,2020-05-23,2020-05-23,5,1
+516,Blue Christmas,Elvis Presley,22,2021-01-02,2022-01-01,5,2
+517,Like A Man,Thomas Mac,22,2020-10-03,2020-10-03,4,1
+518,Crazy,Patsy Cline,22,2022-03-19,2022-03-19,4,1
+519,Save A Horse (Ride A Cowboy),Big & Rich,22,2021-05-22,2021-05-22,4,1
+520,Rockin' With The Rhythm Of The Rain,The Judds,22,2022-05-14,2022-05-14,4,1
+521,In His Arms,"Jack Ingram, Miranda Lambert & Jon Randall",22,2021-03-20,2021-03-20,4,1
+522,"Going, Going, Gone",Luke Combs,22,2022-07-09,2022-07-09,4,1
+523,People Are Crazy,Billy Currington,22,2022-07-16,2022-07-16,4,1
+524,la,Kelsea Ballerini,22,2020-02-08,2020-02-08,4,1
+525,Like A Cowboy,Parker McCollum,22,2020-04-25,2020-04-25,4,1
+526,Remember You Young,Thomas Rhett,22,2020-01-11,2020-01-11,4,1
+527,I Still Believe (Performed Live On A Holly Dolly Christmas TV Special),Dolly Parton,22,2020-12-19,2020-12-19,4,1
+528,Beauty In The Struggle,Bryan Martin,23,2021-05-29,2021-05-29,3,1
+529,That's When (Taylor's Version) (From The Vault),Taylor Swift Featuring Keith Urban,23,2021-04-24,2021-04-24,3,1
+530,Watch The World Die,Cody Jinks,23,2020-06-06,2020-06-06,3,1
+531,Make It A Good One,Brothers Osborne,23,2020-10-24,2020-10-24,3,1
+532,Steady Heart,Kameron Marlowe,23,2022-02-12,2022-02-12,3,1
+533,Turtles All The Way Down,Sturgill Simpson,23,2020-08-15,2020-08-15,3,1
+534,Rock And Roll Cowboy,Jason Aldean,23,2022-02-19,2022-02-19,3,1
+535,Love Will Turn You Around,Kenny Rogers,23,2020-04-04,2020-04-04,3,1
+536,Hooked On A Feeling (Re-recorded Version),B.J. Thomas,23,2021-06-12,2021-06-12,3,1
+537,Can I Take My Hounds To Heaven,Tyler Childers,23,2022-10-15,2022-10-15,3,1
+538,Girl Crush,Little Big Town,23,2022-07-16,2022-07-16,3,1
+539,Ride,Chase Rice,23,2021-02-06,2021-02-06,3,1
+540,Where The Country Girls At,"Trace Adkins, Luke Bryan & Pitbull",23,2021-10-16,2021-10-16,3,1
+541,Town Home,Austin Burke,23,2021-01-09,2021-01-09,3,1
+542,Nothin' On You,Cody Johnson,23,2020-02-08,2020-02-08,3,1
+543,You'll Always Be My Baby (Written For Daughters' Weddings),Alan Jackson,23,2021-05-01,2021-05-01,3,1
+544,Wagon Wheel,Darius Rucker,23,2022-03-26,2022-03-26,3,1
+545,Young Once,Sam Hunt,23,2020-04-18,2020-04-18,3,1
+546,Ships That Don't Come In,Joe Diffie,23,2020-04-11,2020-04-11,3,1
+547,Steal My Love,Dan + Shay,24,2021-08-28,2021-08-28,2,1
+548,Stretchy Pants,Carrie Underwood,24,2021-12-04,2021-12-04,2,1
+549,Paradise,John Prine,24,2020-04-18,2020-04-18,2,1
+550,Ready Set Roll,Chase Rice,24,2022-07-09,2022-07-09,2,1
+551,Can't Go To Church,Mitchell Tenpenny,24,2020-02-08,2020-02-08,2,1
+552,Little Drummer Boy,Carrie Underwood Featuring Isaiah Fisher,24,2021-01-02,2021-01-02,2,1
+553,Want That Back,Brett Eldredge,24,2022-01-29,2022-01-29,2,1
+554,Til It Wasn't,Chris Ruediger,24,2021-03-06,2021-03-06,2,1
+555,The Mockingbird & The Crow,HARDY,24,2022-10-22,2022-10-22,2,1
+556,Amazing Grace,Carrie Underwood,24,2021-04-10,2021-04-10,2,1
+557,At The End Of A Bar,Chris Young With Mitchell Tenpenny,24,2021-08-21,2021-08-21,2,1
+558,You Belong With Me (Taylor's Version),Taylor Swift,24,2021-04-24,2021-04-24,2,1
+559,How Do We Go,Alexandra Kay,25,2021-07-10,2021-07-10,1,1
+560,April Showers,Koe Wetzel,25,2022-04-23,2022-04-23,1,1
+561,Footprints On The Moon,Gabby Barrett,25,2020-06-27,2020-06-27,1,1
+562,I Bet You Wanna Know,Priscilla Block,25,2021-01-16,2021-01-16,1,1
+563,Amazed,Lonestar,25,2021-12-11,2021-12-11,1,1
+564,Angels,Thomas Rhett,25,2022-01-29,2022-01-29,1,1
+565,It Ain't My Fault,Brothers Osborne,25,2021-05-01,2021-05-01,1,1
+566,Detours,Jordan Davis,25,2020-04-11,2020-04-11,1,1
+567,To The Guys That Date My Girls,Thomas Rhett,25,2021-05-15,2021-05-15,1,1
+568,Long Live Cowgirls,Ian Munsick & Cody Johnson,25,2022-02-12,2022-02-12,1,1

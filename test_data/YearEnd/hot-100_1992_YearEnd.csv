@@ -1,0 +1,453 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,"End Of The Road (From ""Boomerang"")",Boyz II Men,1,1992-07-18,1992-12-26,3885,24
+2,Baby Got Back,Sir Mix-A-Lot,1,1992-04-11,1992-10-17,3615,28
+3,Baby-Baby-Baby,TLC,2,1992-06-06,1992-12-26,3561,30
+4,Just Another Day,Jon Secada,5,1992-04-18,1992-12-26,3338,37
+5,Save The Best For Last,Vanessa Williams,1,1992-02-01,1992-08-01,3242,27
+6,My Lovin' (You're Never Gonna Get It),En Vogue,2,1992-03-21,1992-10-10,3192,30
+7,Tears In Heaven,Eric Clapton,2,1992-02-08,1992-08-01,3058,26
+8,Under The Bridge,Red Hot Chili Peppers,2,1992-04-04,1992-09-26,2981,26
+9,Jump,Kris Kross,1,1992-04-04,1992-08-22,2979,21
+10,Jump Around,House Of Pain,3,1992-06-27,1992-12-26,2636,27
+11,Sometimes Love Just Ain't Enough,Patty Smyth,2,1992-08-15,1992-12-26,2547,20
+12,Achy Breaky Heart,Billy Ray Cyrus,4,1992-05-09,1992-10-24,2491,25
+13,I'm Too Sexy,Right Said Fred,1,1992-01-04,1992-05-09,2462,19
+14,To Be With You,Mr. Big,1,1992-01-04,1992-05-30,2459,22
+15,I Love Your Smile,Shanice,2,1992-01-04,1992-05-16,2414,20
+16,November Rain,Guns N' Roses,3,1992-06-27,1992-11-07,2361,20
+17,Remember The Time,Michael Jackson,3,1992-01-25,1992-06-06,2265,20
+18,Life Is A Highway,Tom Cochrane,6,1992-05-16,1992-11-07,2226,26
+19,Humpin' Around,Bobby Brown,3,1992-08-08,1992-12-19,2220,20
+20,All 4 Love,Color Me Badd,1,1992-01-04,1992-05-16,2199,20
+21,I'll Be There,Mariah Carey,1,1992-05-30,1992-10-10,2143,20
+22,"I'd Die Without You (From ""Boomerang"")",P.M. Dawn,3,1992-09-12,1992-12-26,2128,16
+23,Masterpiece,Atlantic Starr,3,1992-02-01,1992-06-13,2118,20
+24,This Used To Be My Playground,Madonna,1,1992-07-04,1992-11-14,2091,20
+25,Live And Learn,Joe Public,4,1992-03-14,1992-08-01,2077,21
+26,If You Asked Me To,Celine Dion,4,1992-04-25,1992-09-19,2023,22
+27,Come & Talk To Me,Jodeci,11,1992-04-04,1992-10-10,2008,28
+28,Giving Him Something He Can Feel,En Vogue,6,1992-06-06,1992-11-14,1982,24
+29,Damn I Wish I Was Your Lover,Sophie B. Hawkins,5,1992-04-18,1992-09-05,1970,21
+30,Diamonds And Pearls,Prince And The N.P.G.,3,1992-01-04,1992-04-25,1948,17
+31,Ain't 2 Proud 2 Beg,TLC,6,1992-02-22,1992-07-18,1934,22
+32,How Do You Talk To An Angel,The Heights,1,1992-10-03,1992-12-26,1883,13
+33,Please Don't Go,K.W.S.,6,1992-06-20,1992-12-12,1860,26
+34,Don't Let The Sun Go Down On Me,George Michael/Elton John,1,1992-01-04,1992-04-18,1852,16
+35,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,6,1992-01-04,1992-06-13,1828,24
+36,Rhythm Is A Dancer,Snap!,6,1992-08-15,1992-12-26,1822,20
+37,She's Playing Hard To Get,Hi-Five,5,1992-08-01,1992-12-12,1817,20
+38,Bohemian Rhapsody,Queen,2,1992-03-21,1992-07-11,1801,17
+39,Make It Happen,Mariah Carey,5,1992-02-22,1992-07-04,1775,20
+40,Tennessee,Arrested Development,6,1992-04-11,1992-09-05,1753,22
+41,Move This,Technotronic Featuring Ya Kid K,6,1992-06-13,1992-11-14,1743,23
+42,Finally,CeCe Peniston,5,1992-01-04,1992-05-09,1731,19
+43,Stay,Shakespear's Sister,4,1992-07-04,1992-11-14,1729,20
+44,All I Want,Toad The Wet Sprocket,15,1992-06-27,1992-12-12,1726,25
+45,Back To The Hotel,N2Deep,23,1992-07-11,1992-12-26,1715,25
+46,The One,Elton John,9,1992-06-27,1992-11-21,1670,22
+47,The Best Things In Life Are Free,Luther Vandross And Janet Jackson With BBD And Ralph Tresvant,10,1992-05-30,1992-10-10,1633,20
+48,Tell Me What You Want Me To Do,Tevin Campbell,6,1992-01-04,1992-04-25,1628,17
+49,Smells Like Teen Spirit,Nirvana,6,1992-01-04,1992-04-18,1597,16
+50,People Everyday,Arrested Development,8,1992-08-15,1992-12-26,1594,20
+51,I Can't Dance,Genesis,7,1992-02-01,1992-06-13,1588,20
+52,Good For Me,Amy Grant,8,1992-01-18,1992-05-30,1577,20
+53,If I Ever Fall In Love,Shai,2,1992-10-17,1992-12-26,1559,11
+54,Rump Shaker,Wreckx-N-Effect,2,1992-10-03,1992-12-26,1541,13
+55,Wishing On A Star,The Cover Girls,9,1992-05-30,1992-10-10,1521,20
+56,Can't Let Go,Mariah Carey,2,1992-01-04,1992-03-28,1514,13
+57,Real Love,Mary J. Blige,7,1992-08-29,1992-12-26,1513,18
+58,Hazard,Richard Marx,9,1992-02-15,1992-06-27,1488,20
+59,One,U2,10,1992-03-14,1992-07-25,1464,20
+60,Keep On Walkin',CeCe Peniston,15,1992-05-23,1992-10-10,1428,21
+61,What About Your Friends,TLC,7,1992-09-05,1992-12-26,1405,17
+62,Do I Have To Say The Words?,Bryan Adams,11,1992-08-01,1992-12-12,1402,20
+63,When I Look Into Your Eyes,Firehouse,8,1992-08-15,1992-12-26,1400,20
+64,Hold On My Heart,Genesis,12,1992-05-02,1992-09-12,1396,20
+65,Beauty And The Beast,Celine Dion And Peabo Bryson,9,1992-01-18,1992-05-30,1370,20
+66,Thought I'd Died And Gone To Heaven,Bryan Adams,13,1992-03-14,1992-07-25,1351,20
+67,Have You Ever Needed Someone So Bad,Def Leppard,12,1992-08-22,1992-12-26,1349,19
+68,Would I Lie To You?,Charles & Eddie,13,1992-08-22,1992-12-26,1348,19
+69,Black Or White,Michael Jackson,1,1992-01-04,1992-04-04,1347,14
+70,Everything Changes,Kathy Troccoli,14,1992-02-22,1992-07-04,1332,20
+71,In The Closet,Michael Jackson,6,1992-04-25,1992-09-05,1330,20
+72,"I Wanna Love You (From ""Class Act"")",Jade,16,1992-07-11,1992-11-28,1313,21
+73,Everything About You,Ugly Kid Joe,9,1992-04-04,1992-08-15,1296,20
+74,Take This Heart,Richard Marx,20,1992-06-13,1992-10-24,1295,20
+75,Too Funky,George Michael,10,1992-06-13,1992-10-24,1293,20
+76,Friday I'm In Love,The Cure,18,1992-06-13,1992-10-24,1287,20
+77,Warm It Up,Kris Kross,13,1992-06-06,1992-10-17,1252,20
+78,Free Your Mind,En Vogue,8,1992-09-12,1992-12-26,1233,16
+79,Missing You Now,Michael Bolton,12,1992-01-25,1992-06-06,1229,20
+80,Uhh Ahh,Boyz II Men,16,1992-01-04,1992-04-25,1208,17
+81,I Will Remember You,Amy Grant,20,1992-04-25,1992-09-05,1205,20
+82,Just Take My Heart,Mr. Big,16,1992-04-11,1992-08-22,1196,20
+83,Slow Motion,Color Me Badd,18,1992-05-09,1992-09-19,1180,20
+84,Thinkin' Back,Color Me Badd,16,1992-02-01,1992-06-13,1171,20
+85,Walking On Broken Glass,Annie Lennox,14,1992-09-05,1992-12-26,1160,17
+86,I Will Always Love You,Whitney Houston,1,1992-11-14,1992-12-26,1150,7
+87,Nu Nu,Lidell Townsell,26,1992-02-29,1992-07-11,1150,20
+88,We Got A Love Thang,CeCe Peniston,20,1992-02-01,1992-06-13,1144,20
+89,They Want EFX,Das EFX,25,1992-05-09,1992-09-19,1137,20
+90,Mysterious Ways,U2,9,1992-01-04,1992-04-04,1126,14
+91,Justified And Ancient,The KLF Featuring Tammy Wynette,11,1992-02-01,1992-05-30,1124,18
+92,The Way I Feel About You,Karyn White,12,1992-01-04,1992-04-11,1096,15
+93,Erotica,Madonna,3,1992-10-17,1992-12-26,1095,11
+94,Love Is On The Way,Saigon Kick,12,1992-09-05,1992-12-26,1083,17
+95,2 Legit 2 Quit,M.C. Hammer,5,1992-01-04,1992-03-21,1074,12
+96,Good Enough,Bobby Brown,7,1992-10-17,1992-12-26,1059,11
+97,Jesus He Knows Me,Genesis,23,1992-08-01,1992-12-12,1058,20
+98,I'll Get By,Eddie Money,21,1992-01-04,1992-05-02,1029,18
+99,Let's Get Rocked,Def Leppard,15,1992-04-11,1992-08-08,1028,18
+100,I'm The One You Need,Jody Watley,19,1992-03-07,1992-06-27,1024,17
+101,Do It To Me,Lionel Richie,21,1992-05-02,1992-09-12,1024,20
+102,Restless Heart,Peter Cetera,35,1992-07-11,1992-11-21,1014,20
+103,"You Remind Me (From ""Strictly Business"")",Mary J. Blige,29,1992-06-20,1992-10-31,1007,20
+104,"Forever Love (From ""Mo' Money"")",Color Me Badd,15,1992-09-26,1992-12-26,971,14
+105,Layla,Eric Clapton,12,1992-10-03,1992-12-26,968,13
+106,Just For Tonight,Vanessa Williams,26,1992-05-23,1992-09-26,968,19
+107,Oochie Coochie,M.C. Brains,21,1992-01-18,1992-05-16,962,18
+108,I Can't Make You Love Me,Bonnie Raitt,18,1992-01-04,1992-04-04,948,14
+109,Do You Believe In Us,Jon Secada,13,1992-09-26,1992-12-26,946,14
+110,Keep It Comin',Keith Sweat,17,1992-01-04,1992-04-11,942,15
+111,Addams Groove,M.C. Hammer,7,1992-01-04,1992-04-18,935,16
+112,Human Touch/Better Days,Bruce Springsteen,16,1992-03-21,1992-07-04,903,16
+113,Crossover,EPMD,42,1992-07-25,1992-12-05,882,20
+114,Someone To Hold,Trey Lorenz,19,1992-10-03,1992-12-26,867,13
+115,Everybody's Free (To Feel Good),Rozalla,37,1992-06-27,1992-11-07,866,20
+116,You Won't See Me Cry,Wilson Phillips,20,1992-05-09,1992-08-22,859,16
+117,Nothing Broken But My Heart,Celine Dion,29,1992-08-01,1992-12-12,848,20
+118,Is It Good To You,Heavy D & The Boyz,32,1992-01-04,1992-04-04,843,14
+119,Until Your Love Comes Back Around,RTZ,26,1992-01-18,1992-05-16,835,18
+120,Vibeology,Paula Abdul,16,1992-01-18,1992-04-18,812,14
+121,I Will Be Here For You,Michael W. Smith,27,1992-09-19,1992-12-26,809,15
+122,Take Time,Chris Walker,29,1992-03-14,1992-07-11,807,18
+123,Slow Dance (Hey Mr. DJ),R. Kelly & Public Announcement,43,1992-08-22,1992-12-26,807,19
+124,It's So Hard To Say Goodbye To Yesterday,Boyz II Men,2,1992-01-04,1992-02-15,797,7
+125,Always The Last To Know,Del Amitri,30,1992-08-15,1992-12-05,797,17
+126,No Son Of Mine,Genesis,12,1992-01-04,1992-03-14,795,11
+127,Will You Marry Me?,Paula Abdul,19,1992-04-04,1992-06-27,778,13
+128,"Mama, I'm Coming Home",Ozzy Osbourne,28,1992-02-15,1992-06-06,775,17
+129,Stay,Jodeci,41,1992-01-04,1992-05-02,774,18
+130,What Becomes Of The Brokenhearted,Paul Young,22,1992-02-01,1992-05-02,770,14
+131,Jam,Michael Jackson,26,1992-07-11,1992-10-10,768,14
+132,Not Enough Time,INXS,28,1992-08-22,1992-11-28,765,15
+133,To Love Somebody,Michael Bolton,11,1992-10-17,1992-12-26,761,11
+134,Set Adrift On Memory Bliss,P.M. Dawn,5,1992-01-04,1992-02-29,759,9
+135,Come As You Are,Nirvana,32,1992-03-21,1992-07-18,755,18
+136,On A Sunday Afternoon,Lighter Shade Of Brown,39,1992-01-04,1992-04-11,740,15
+137,"Mr. Loverman (From ""Deep Cover"")",Shabba Ranks,40,1992-06-13,1992-10-17,739,19
+138,"Saving Forever For You (From ""Beverly Hills, 90210"")",Shanice,8,1992-10-24,1992-12-26,735,10
+139,What Goes Around Comes Around,Giggles,47,1992-01-25,1992-06-06,734,20
+140,You Showed Me,Salt-N-Pepa,47,1992-02-01,1992-06-13,732,20
+141,Please Don't Go,Boyz II Men,49,1992-04-04,1992-08-15,730,20
+142,"Give U My Heart (From ""Boomerang"")",Babyface (Featuring Toni Braxton),29,1992-07-25,1992-11-07,727,16
+143,Right Now,Al B. Sure!,47,1992-08-29,1992-12-26,727,18
+144,Even Better Than The Real Thing,U2,32,1992-07-11,1992-10-17,726,15
+145,If You Go Away,NKOTB,16,1992-02-22,1992-05-16,723,13
+146,Why,Annie Lennox,34,1992-05-16,1992-09-26,720,20
+147,Twilight Zone,2 Unlimited,49,1992-06-13,1992-10-24,713,20
+148,Money Don't Matter 2 Night,Prince And The N.P.G.,23,1992-03-28,1992-06-20,712,13
+149,Wildside,Marky Mark & The Funky Bunch,10,1992-01-04,1992-03-21,710,12
+150,Silent Prayer,Shanice,31,1992-04-25,1992-08-15,709,17
+151,Good Stuff,The B-52s,28,1992-06-20,1992-09-12,707,13
+152,Honey Love,R. Kelly & Public Announcement,39,1992-05-23,1992-09-26,704,19
+153,Where You Goin' Now,Damn Yankees,20,1992-10-10,1992-12-26,699,12
+154,Everything's Gonna Be Alright,Naughty By Nature,53,1992-02-08,1992-06-20,698,20
+155,Jump!,The Movement,53,1992-08-08,1992-12-19,685,20
+156,Lift Me Up,Howard Jones,32,1992-04-11,1992-07-18,681,15
+157,Constant Craving,k.d. lang,38,1992-08-01,1992-12-19,681,19
+158,Baby Hold On To Me,Gerald Levert (Duet With Eddie Levert),37,1992-02-15,1992-06-27,680,20
+159,"In The Still Of The Nite (From ""The Jacksons"")",Boyz II Men,4,1992-11-28,1992-12-26,677,5
+160,Romeo & Juliet,Stacy Earl (Featuring The Wild Pair),27,1992-02-22,1992-05-09,673,12
+161,Too Blind To See It,Kym Sims,38,1992-01-04,1992-03-28,673,13
+162,Flex,Mad Cobra,22,1992-10-17,1992-12-26,667,11
+163,Little Miss Can't Be Wrong,Spin Doctors,17,1992-10-17,1992-12-26,659,11
+164,Live And Let Die,Guns N' Roses,33,1992-01-04,1992-04-04,657,14
+165,Divine Thing,The Soup Dragons,35,1992-08-08,1992-11-21,653,16
+166,Sometimes I Rhyme Slow,Nice & Smooth,44,1992-05-09,1992-09-05,642,18
+167,Too Much Passion,The Smithereens,37,1992-02-08,1992-05-09,640,14
+168,Keep The Faith,Bon Jovi,29,1992-10-24,1992-12-26,639,10
+169,T.L.C.,Linear,30,1992-05-09,1992-08-01,635,13
+170,Kiss You Back,Digital Underground,40,1992-01-04,1992-03-28,635,13
+171,Not The Only One,Bonnie Raitt,34,1992-04-18,1992-08-08,632,17
+172,You Think You Know Her,Cause And Effect,38,1992-02-29,1992-07-11,630,20
+173,Why Me Baby?,Keith Sweat,44,1992-04-11,1992-08-01,628,17
+174,Broken Arrow,Rod Stewart,20,1992-01-04,1992-02-29,625,9
+175,A Deeper Love/Pride In The Name Of Love,Clivilles & Cole,44,1992-01-11,1992-05-02,620,17
+176,The Hitman,AB Logic,60,1992-08-01,1992-12-12,614,20
+177,Paper Doll,P.M. Dawn,28,1992-01-18,1992-04-04,607,12
+178,I've Got A Lot To Learn About Love,The Storm,26,1992-01-04,1992-03-07,603,10
+179,Love Me All Up,Stacy Earl,26,1992-01-04,1992-03-21,593,12
+180,Move Any Mountain,The Shamen,38,1992-01-04,1992-04-04,591,14
+181,When A Man Loves A Woman,Michael Bolton,7,1992-01-04,1992-02-22,585,8
+182,High,The Cure,42,1992-04-04,1992-06-20,585,12
+183,The Choice Is Yours,Black Sheep,57,1992-02-29,1992-07-04,585,19
+184,You Lied To Me,Cathy Dennis,32,1992-09-05,1992-11-28,581,13
+185,There Will Never Be Another Tonight,Bryan Adams,31,1992-01-04,1992-03-28,580,13
+186,Keep Coming Back,Richard Marx,15,1992-01-04,1992-03-14,565,11
+187,Nothing Else Matters,Metallica,34,1992-03-28,1992-07-04,562,15
+188,Can't Cry Hard Enough,The Williams Brothers,42,1992-02-08,1992-06-06,559,18
+189,Love Me,Tracie Spencer,48,1992-03-28,1992-07-04,559,15
+190,Blowing Kisses In The Wind,Paula Abdul,9,1992-01-04,1992-02-29,552,9
+191,Again Tonight,John Mellencamp,36,1992-02-01,1992-04-25,552,13
+192,Helluva,Brotherhood Creed,53,1992-04-18,1992-08-15,546,18
+193,I Wish The Phone Would Ring,Expose,28,1992-10-31,1992-12-26,545,9
+194,All Woman,Lisa Stansfield,56,1992-03-07,1992-06-27,545,17
+195,Hearts Don't Think (They Feel),Natural Selection,28,1992-01-04,1992-03-07,540,10
+196,The Unforgiven,Metallica,35,1992-01-04,1992-03-28,535,13
+197,Live For Loving You,Gloria Estefan,22,1992-01-04,1992-02-22,534,8
+198,Forever My Lady,Jodeci,26,1992-01-04,1992-03-07,530,10
+199,Boot Scootin' Boogie,Brooks & Dunn,50,1992-07-25,1992-10-31,526,15
+200,Drive,R.E.M.,28,1992-10-31,1992-12-26,524,9
+201,The Last Song,Elton John,23,1992-10-31,1992-12-26,522,9
+202,Church Of Your Heart,Roxette,36,1992-02-29,1992-05-09,519,11
+203,How About That,Bad Company,38,1992-09-12,1992-12-05,516,13
+204,Slow And Sexy,Shabba Ranks (Featuring Johnny Gill),41,1992-10-24,1992-12-26,512,10
+205,Don't Be Afraid,Aaron Hall,44,1992-03-14,1992-06-27,509,16
+206,Where Does That Leave Love,George LaMond,59,1992-08-08,1992-12-19,507,20
+207,I Wanna Be Your Girl,Icy Blu,46,1992-01-04,1992-03-14,499,11
+208,3-2-1 Pump,Redhead Kingpin & The F.B.I.,52,1992-03-28,1992-07-04,497,15
+209,Change,Lisa Stansfield,27,1992-01-04,1992-03-14,495,11
+210,Kickin' It,After 7,45,1992-08-15,1992-11-07,483,13
+211,Boom! I Got Your Boyfriend,MC Luscious,61,1992-02-08,1992-06-20,483,20
+212,Faithful,Go West,19,1992-11-07,1992-12-26,475,8
+213,Stars,Simply Red,44,1992-01-25,1992-04-25,474,14
+214,Give It Up,Wilson Phillips,30,1992-08-08,1992-10-17,472,11
+215,Maria,TKA,44,1992-04-04,1992-08-01,466,18
+216,That's What Love Is For,Amy Grant,16,1992-01-04,1992-02-08,464,6
+217,Make Love Like A Man,Def Leppard,36,1992-06-27,1992-08-29,464,10
+218,Am I The Same Girl,Swing Out Sister,45,1992-09-12,1992-11-28,456,12
+219,Chains Around My Heart,Richard Marx,44,1992-10-24,1992-12-26,453,10
+220,Tequila,A.L.T. And The Lost Civilization,48,1992-07-11,1992-10-10,453,14
+221,Smells Like Nirvana,"""Weird Al"" Yankovic",35,1992-04-25,1992-07-04,452,11
+222,They Reminisce Over You (T.R.O.Y.),Pete Rock & C.L. Smooth,58,1992-06-27,1992-10-03,448,15
+223,Closer To Me,The Outfield,43,1992-05-16,1992-07-25,438,11
+224,In My Dreams,The Party,34,1992-01-04,1992-03-14,432,11
+225,James Brown Is Dead,L.A. Style,59,1992-04-11,1992-08-29,431,20
+226,Who's Gonna Ride Your Wild Horses,U2,35,1992-11-07,1992-12-26,429,8
+227,Never A Time,Genesis,25,1992-11-07,1992-12-26,424,8
+228,Angel Baby,Angelica,29,1992-01-04,1992-02-29,422,9
+229,Spending My Time,Roxette,32,1992-01-04,1992-03-07,416,10
+230,When She Cries,Restless Heart,18,1992-11-14,1992-12-26,409,7
+231,My Name Is Prince,Prince And The New Power Generation,36,1992-10-10,1992-12-19,408,11
+232,Gangsta,Bell Biv DeVoe,30,1992-11-14,1992-12-26,403,7
+233,We Are The Champions,Queen,52,1992-07-11,1992-10-10,402,14
+234,Scenario,A Tribe Called Quest,57,1992-06-06,1992-09-12,392,15
+235,I Miss You,Joe Public,55,1992-07-04,1992-09-26,384,13
+236,Never Satisfied,Good 2 Go,64,1992-05-09,1992-08-08,381,14
+237,Ain't Gonna Hurt Nobody,Kid 'N Play,51,1992-01-04,1992-03-21,379,12
+238,Sweet November,Troop,58,1992-09-26,1992-12-19,376,13
+239,Mind Playing Tricks On Me,Geto Boys,23,1992-01-04,1992-02-15,373,7
+240,Send Me An Angel,Scorpions,44,1992-01-04,1992-03-07,371,10
+241,You Gotta Believe,Marky Mark & The Funky Bunch,49,1992-09-26,1992-11-28,367,10
+242,Right Now,Van Halen,55,1992-02-08,1992-05-02,363,13
+243,Save Up All Your Tears,Cher,37,1992-01-04,1992-02-29,361,9
+244,Work To Do,Vanessa Williams,52,1992-09-26,1992-12-05,358,11
+245,Don't Cry,Guns N' Roses,19,1992-01-04,1992-02-01,356,5
+246,In Paradise,Laissez Faire,64,1992-01-04,1992-03-28,356,13
+247,Bang Bang,David Sanborn,53,1992-08-29,1992-11-07,355,11
+248,Take Me In Your Arms,Lil Suzy,67,1992-07-04,1992-11-07,354,19
+249,Home Sweet Home,Motley Crue,37,1992-01-04,1992-02-29,351,9
+250,Remedy,The Black Crowes,48,1992-06-13,1992-08-08,351,9
+251,"Money Can't Buy You Love (From ""Mo' Money"")",Ralph Tresvant,54,1992-07-18,1992-10-03,346,12
+252,Cream,Prince And The N.P.G.,26,1992-01-04,1992-02-08,338,6
+253,Tender Kisses,Tracie Spencer,42,1992-01-04,1992-02-29,333,9
+254,Sesame's Treet,Smart E's,60,1992-10-10,1992-12-26,333,12
+255,Digging In The Dirt,Peter Gabriel,52,1992-10-03,1992-12-12,328,11
+256,This Is The Last Time,Laura Enea,70,1992-03-28,1992-06-27,327,14
+257,She's Got That Vibe,R. Kelly & Public Announcement,59,1992-03-14,1992-05-30,324,12
+258,Walk On The Ocean,Toad The Wet Sprocket,34,1992-11-14,1992-12-26,320,7
+259,Deeper And Deeper,Madonna,13,1992-12-05,1992-12-26,313,4
+260,If You Want It,2nd II None,64,1992-04-04,1992-07-18,313,16
+261,Fall In Love Again,Eddie Money,54,1992-05-16,1992-07-25,311,11
+262,Strawberry Letter 23,Tevin Campbell,53,1992-06-06,1992-08-01,308,9
+263,"Love Shoulda Brought You Home (From ""Boomerang"")",Toni Braxton,46,1992-11-14,1992-12-26,305,7
+264,O.P.P.,Naughty By Nature,18,1992-01-04,1992-01-25,303,4
+265,Set The Night To Music,Roberta Flack With Maxi Priest,31,1992-01-04,1992-02-01,303,5
+266,I Got A Thang 4 Ya!,Lo-Key?,39,1992-11-14,1992-12-26,303,7
+267,You Are The One,Chris Cuevas,58,1992-02-01,1992-04-11,303,11
+268,Here We Go Again!,Portrait,31,1992-11-14,1992-12-26,294,7
+269,Baby I'm For Real/Natural High,After 7,55,1992-11-07,1992-12-26,290,8
+270,Can't Stop This Thing We Started,Bryan Adams,24,1992-01-04,1992-01-25,289,4
+271,Anything At All,Mitch Malloy,49,1992-05-02,1992-06-27,286,9
+272,I Want You,Jody Watley,61,1992-01-04,1992-03-07,286,10
+273,Innocent Child,Colourhaus,50,1992-05-02,1992-07-04,281,10
+274,Your Song,Rod Stewart,48,1992-04-25,1992-06-20,270,9
+275,Slowly,Stacy Earl,52,1992-06-20,1992-08-15,261,9
+276,I Missed The Bus,Kris Kross,63,1992-10-03,1992-12-26,261,13
+277,No Ordinary Love,Sade,49,1992-11-07,1992-12-26,259,8
+278,It's Over Now,L.A. Guns,62,1992-03-14,1992-05-23,259,11
+279,Street Of Dreams,Nia Peeples,43,1992-01-04,1992-02-22,257,8
+280,Jus Lyke Compton,DJ Quik,62,1992-07-25,1992-10-03,244,11
+281,I Wanna Rock,Luke,73,1992-03-21,1992-06-20,243,14
+282,Victim Of The Ghetto,The College Boyz,68,1992-05-23,1992-08-29,241,15
+283,7,Prince And The New Power Generation,29,1992-11-28,1992-12-26,239,5
+284,It's Gonna Be A Lovely Day,The S.O.U.L. S.Y.S.T.E.M.,43,1992-11-28,1992-12-26,235,5
+285,Johnny Have You Seen Her?,The Rembrandts,54,1992-10-31,1992-12-19,233,8
+286,Love Can Move Mountains,Celine Dion,50,1992-11-21,1992-12-26,225,6
+287,How Do You Do!,Roxette,58,1992-10-17,1992-12-05,218,8
+288,All You've Got,RTZ,56,1992-06-06,1992-07-25,215,8
+289,Ring My Bell,D.J. Jazzy Jeff & The Fresh Prince,49,1992-01-04,1992-02-15,213,7
+290,All She Wrote,Firehouse,58,1992-01-04,1992-02-15,213,7
+291,Here It Comes,MC Serch,71,1992-10-17,1992-12-19,204,10
+292,"Give It Up, Turn It Loose",En Vogue,38,1992-12-05,1992-12-26,200,4
+293,Alone With You,Tevin Campbell,72,1992-10-17,1992-12-26,198,11
+294,Nobody Wins In This War,Mitch Malloy,66,1992-08-08,1992-09-26,193,8
+295,The Way I Feel,Tag,63,1992-07-04,1992-08-22,187,8
+296,Give It Away,Red Hot Chili Peppers,73,1992-01-04,1992-10-10,185,13
+297,360 Degrees (What Goes Around),Grand Puba,68,1992-10-17,1992-12-26,184,11
+298,Groovin' In The Midnight,Maxi Priest,63,1992-10-31,1992-12-19,182,8
+299,Do Not Pass Me By,M.C. Hammer,62,1992-03-14,1992-05-02,181,8
+300,Symphony Of Destruction,Megadeth,71,1992-10-17,1992-12-26,179,11
+301,The Comfort Zone,Vanessa Williams,62,1992-01-04,1992-02-22,178,8
+302,The Globe,Big Audio,72,1992-02-15,1992-04-18,177,10
+303,Top Of The World,Van Halen,56,1992-01-04,1992-02-15,175,7
+304,Lithium,Nirvana,64,1992-08-08,1992-10-03,174,9
+305,"It's Alright (From ""South Central"")",Classic Example,68,1992-11-14,1992-12-26,174,7
+306,I Need Money,Marky Mark & The Funky Bunch,61,1992-02-15,1992-03-28,173,7
+307,Love You All My Lifetime,Chaka Khan,68,1992-04-25,1992-06-20,172,9
+308,Real Love,Slaughter,69,1992-08-22,1992-10-10,170,8
+309,Brainstorming,M.C. Brains,69,1992-07-04,1992-08-29,167,9
+310,Wicked,Ice Cube,55,1992-11-21,1992-12-26,166,6
+311,Housecall,Shabba Ranks (Featuring Maxi Priest),51,1992-01-04,1992-02-01,165,5
+312,I Don't Care,Shakespear's Sister,58,1992-11-28,1992-12-26,162,5
+313,Whispers,Corina,68,1992-01-04,1992-02-08,157,6
+314,Hold On (Tighter To Love),Clubland,79,1992-01-04,1992-03-21,157,12
+315,Don't Lose The Magic,Shawn Christopher,71,1992-02-29,1992-04-18,153,8
+316,Caribbean Blue,Enya,79,1992-02-29,1992-04-18,153,8
+317,57 Channels (And Nothin' On),Bruce Springsteen,68,1992-06-20,1992-07-25,149,6
+318,Drowning In Your Eyes,Ephraim Lewis,72,1992-09-12,1992-11-07,149,9
+319,"Yeah, Yeah, Yeah!",Voices,72,1992-09-05,1992-10-24,146,8
+320,It's Not A Love Thing,Geoffrey Williams,70,1992-03-21,1992-05-16,144,9
+321,Can't Truss It,Public Enemy,52,1992-01-04,1992-01-25,141,4
+322,I Love You Period,Dan Baird,52,1992-12-05,1992-12-26,140,4
+323,Could've Been Me,Billy Ray Cyrus,72,1992-10-10,1992-12-26,140,8
+324,Goodbye,Tevin Campbell,85,1992-04-11,1992-06-27,139,12
+325,Games,Chuckii Booker,68,1992-11-21,1992-12-26,138,6
+326,"I Wanna Make Love To You (From ""Innocent Blood"")",Rhythm Syndicate,73,1992-09-12,1992-10-31,137,8
+327,I Wonder Why,Curtis Stigers,50,1992-01-04,1992-01-18,136,3
+328,Whatever It Takes (To Make You Stay),Troop,63,1992-06-20,1992-07-18,135,5
+329,Don't Talk Just Kiss,Right Said Fred,76,1992-04-18,1992-05-30,135,7
+330,Shot Of Poison,Lita Ford,61,1992-01-04,1992-02-01,133,5
+331,The Rush,Luther Vandross,73,1992-01-04,1992-02-15,133,7
+332,Everything's Gonna Be Alright,Father M.C.,61,1992-12-05,1992-12-26,131,4
+333,Quality Time,Hi-Five,56,1992-12-05,1992-12-26,130,4
+334,Thank You,The Cover Girls,75,1992-08-29,1992-10-17,128,8
+335,Start The Car,Jude Cole,71,1992-09-12,1992-10-24,127,7
+336,Emotions,Mariah Carey,38,1992-01-04,1992-01-11,125,2
+337,Yesterdays,Guns N' Roses,72,1992-11-21,1992-12-26,125,6
+338,Ain't No Future In Yo' Fronting,M.C. Breed & D.F.C.,66,1992-01-04,1992-01-25,120,4
+339,The Message,Sofia Shinas,75,1992-10-03,1992-11-14,118,7
+340,Within My Heart,Voyce,80,1992-01-04,1992-02-22,118,8
+341,These Are Days,"10,000 Maniacs",66,1992-11-28,1992-12-26,117,5
+342,"Baby, I Believe In You",George LaMond,66,1992-12-05,1992-12-26,116,4
+343,Get With U,Lidell Townsell & M.T.F.,78,1992-08-15,1992-10-03,115,8
+344,Heal The World,Michael Jackson,54,1992-12-12,1992-12-26,113,3
+345,Blinded By Love,Rhythm Syndicate,76,1992-01-18,1992-02-22,113,6
+346,No One Else On Earth,Wynonna,83,1992-10-24,1992-12-26,113,10
+347,Everlasting Love,Tony Terry,81,1992-01-25,1992-03-28,107,10
+348,A Whole New World (Aladdin's Theme),Peabo Bryson & Regina Belle,42,1992-12-19,1992-12-26,106,2
+349,A Day In My Life (Without You),Lisette Melendez,73,1992-01-04,1992-02-08,102,6
+350,Just A Touch Of Love,C+C Music Factory Presents Zelma Davis,65,1992-01-04,1992-02-08,99,6
+351,Get Ready For This,2 Unlimited,76,1992-09-19,1992-10-31,99,7
+352,Mr. Wendal,Arrested Development,53,1992-12-19,1992-12-26,96,2
+353,Stand Up (Kick Love Into Motion),Def Leppard,60,1992-12-12,1992-12-26,92,3
+354,Forever In Your Eyes,Mint Condition,81,1992-06-20,1992-08-08,91,8
+355,Sexy MF,Prince And The N.P.G.,66,1992-07-25,1992-08-15,89,4
+356,Pop That Coochie,The 2 Live Crew,70,1992-01-04,1992-01-25,83,4
+357,Strobelite Honey,Black Sheep,80,1992-07-04,1992-08-29,83,8
+358,Reminisce,Mary J. Blige,57,1992-12-19,1992-12-26,82,2
+359,How I Could Just Kill A Man/The Phuncky Feel One,Cypress Hill,77,1992-02-15,1992-04-11,82,8
+360,No More Tears,Ozzy Osbourne,71,1992-01-04,1992-01-25,81,4
+361,Another Minute,Cause And Effect,75,1992-07-18,1992-08-22,80,6
+362,Every Road Leads Back To You,Bette Midler,78,1992-01-04,1992-01-25,80,4
+363,Kissing The Wind,Nia Peeples,76,1992-02-22,1992-03-21,79,5
+364,Homies,Lighter Shade Of Brown,68,1992-12-12,1992-12-26,78,3
+365,Wherever I May Roam,Metallica,82,1992-07-18,1992-08-29,77,7
+366,Let's Talk About Sex,Salt-N-Pepa,25,1992-01-04,1992-01-04,76,1
+367,Pleasure,The Soup Dragons,69,1992-12-12,1992-12-26,76,3
+368,Insatiable,Prince And The N.P.G.,77,1992-01-04,1992-01-25,73,4
+369,Poor Georgie,MC Lyte,83,1992-03-07,1992-04-04,73,5
+370,There's No Other Way,Blur,82,1992-01-11,1992-02-15,71,6
+371,Shamrocks And Shenanigans (Boom Shalock Lock Boom),House Of Pain,67,1992-12-12,1992-12-26,70,3
+372,Always Tomorrow,Gloria Estefan,81,1992-10-31,1992-12-05,69,6
+373,Thorn In My Pride,The Black Crowes,80,1992-09-05,1992-10-10,67,6
+374,Reach For The Sky,Firehouse,83,1992-07-04,1992-08-01,66,5
+375,I'm Overjoyed,Nona Gaye,86,1992-10-10,1992-11-14,64,6
+376,Ditty,Paperboy,62,1992-12-19,1992-12-26,63,2
+377,1-4-All-4-1,East Coast Family,81,1992-08-22,1992-09-26,63,6
+378,What You Give,Tesla,86,1992-04-18,1992-05-23,60,6
+379,Sexual,Goddess,74,1992-12-12,1992-12-26,59,3
+380,Keep It Comin' (Dance Till You Can't Dance No More!),C+C Music Factory,83,1992-08-15,1992-09-19,58,6
+381,Enter Sandman,Metallica,44,1992-01-04,1992-01-04,57,1
+382,Steam,Peter Gabriel,65,1992-12-19,1992-12-26,57,2
+383,I Got A Man,Positive K,72,1992-12-19,1992-12-26,55,2
+384,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",Jeremy Jordan,79,1992-12-12,1992-12-26,53,3
+385,I'm Still Waiting,Jodeci,85,1992-10-31,1992-12-12,53,7
+386,All Through The Night,Tone-Loc,84,1992-01-04,1992-01-25,52,4
+387,Take My Advice,Kym Sims,86,1992-05-09,1992-06-06,52,5
+388,We Will Rock You,Warrant,83,1992-03-21,1992-04-18,49,5
+389,Conviction Of The Heart,Kenny Loggins,83,1992-01-04,1992-01-18,43,3
+390,Don't Walk Away,Jade,76,1992-12-19,1992-12-26,40,2
+391,Faces Of Love,Nia Peeples,88,1992-06-27,1992-07-18,40,4
+392,Groovy Train,The Farm,77,1992-01-04,1992-01-11,38,2
+393,Doo Doo Brown,2 Hyped Brothers & A Dog,90,1992-03-21,1992-04-18,38,5
+394,Ain't Nobody Like You,Miki Howard,84,1992-11-21,1992-12-12,37,4
+395,Cold Shower,Erin Cruise,90,1992-01-25,1992-03-07,37,7
+396,She Ain't Pretty,The Northern Pikes,86,1992-01-04,1992-02-01,36,5
+397,This Is The Way We Roll,M.C. Hammer,86,1992-05-23,1992-06-06,34,3
+398,Sad New Day,Me Phi Me,83,1992-08-29,1992-09-19,32,4
+399,Washed Away,Tom Cochrane,88,1992-11-14,1992-12-05,32,4
+400,White Men Can't Jump,Riff,90,1992-05-02,1992-05-23,31,4
+401,Be True To Yourself,2nd II None,78,1992-01-11,1992-01-18,29,2
+402,Set Me Free,Clubland Featuring Zemya Hamilton,90,1992-05-23,1992-06-13,29,4
+403,Forever In Love,Kenny G,80,1992-12-19,1992-12-26,27,2
+404,Rush,Big Audio,86,1992-01-04,1992-01-11,27,2
+405,I'll Take You There,BeBe & CeCe Winans Featuring Mavis Staples,90,1992-01-04,1992-02-08,26,6
+406,Love Crazy,Atlantic Starr,85,1992-01-04,1992-01-11,24,2
+407,The Fly,U2,91,1992-01-04,1992-01-18,24,3
+408,So What'cha Want,Beastie Boys,93,1992-07-04,1992-08-01,24,5
+409,This Could Be The One,Bad Company,87,1992-12-19,1992-12-26,21,2
+410,"All Shook Up (From ""Honeymoon In Vegas"")",Billy Joel,92,1992-08-22,1992-09-05,21,3
+411,Wasted Time,Skid Row,88,1992-01-04,1992-01-18,20,3
+412,It Doesn't Matter,Tyler Collins,88,1992-09-19,1992-10-03,20,3
+413,Butt Naked,Charm,91,1992-01-18,1992-02-01,20,3
+414,Right Down To It,Damian Dame,92,1992-01-04,1992-01-18,19,3
+415,IOU,Arthur Baker Featuring Nikeeta,93,1992-03-21,1992-04-11,19,4
+416,Who's Got Your Love,Nyasia,95,1992-07-11,1992-08-15,19,6
+417,Really Into You,Around The Way,89,1992-11-07,1992-12-05,18,5
+418,I've Got Mine,Glenn Frey,91,1992-07-25,1992-08-08,18,3
+419,Get A Leg Up,John Mellencamp,88,1992-01-04,1992-01-11,14,2
+420,Understand This Groove,Sound Factory,88,1992-12-26,1992-12-26,13,1
+421,Galileo,Indigo Girls,89,1992-08-08,1992-08-15,13,2
+422,Inside That I Cried,CeCe Peniston,94,1992-10-10,1992-10-24,13,3
+423,No Sunshine,Kid Frost,95,1992-04-18,1992-05-02,13,3
+424,"Revolution (From ""Malcolm X"")",Arrested Development,95,1992-12-12,1992-12-26,13,3
+425,Real Real Real,Jesus Jones,89,1992-01-04,1992-01-04,12,1
+426,Peace Of Mind (Love Goes On),One 2 One,95,1992-03-07,1992-03-14,12,2
+427,Pick It Up,Home Team,90,1992-12-26,1992-12-26,11,1
+428,Martika's Kitchen,Martika,93,1992-01-04,1992-01-11,11,2
+429,Do You Want It Right Now,Degrees Of Motion,94,1992-03-07,1992-03-14,11,2
+430,Rest In Peace,Extreme,96,1992-10-24,1992-11-07,11,3
+431,Irresistible,Cathy Dennis,91,1992-12-26,1992-12-26,10,1
+432,Love's Taken Over,Chante Moore,92,1992-12-26,1992-12-26,9,1
+433,Just Another Girlfriend,Hi-Five,95,1992-01-04,1992-01-11,9,2
+434,Juice (Know The Ledge),Eric B. & Rakim,96,1992-02-22,1992-03-14,9,4
+435,No Mistakes,Patty Smyth,93,1992-12-26,1992-12-26,8,1
+436,Do You Everynite,Joe Public,98,1992-10-17,1992-10-31,8,3
+437,Sleeping With You,Firehouse,94,1992-12-26,1992-12-26,7,1
+438,Only Love Can Break Your Heart,St. Etienne,97,1992-03-07,1992-03-14,7,2
+439,Bad Bad Boys,Midi Maxi & Efti,98,1992-05-30,1992-06-13,7,3
+440,It's My Cadillac (Got That Bass),MC Nas-D & DJ Fred,96,1992-09-19,1992-09-26,6,2
+441,What Time Is Love?,The KLF,96,1992-01-04,1992-01-11,6,2
+442,I Need Love,Olivia Newton-John,96,1992-07-11,1992-07-18,6,2
+443,The Life Of Riley,Lightning Seeds,98,1992-04-25,1992-05-02,6,2
+444,Sleeping With The Lights On,Curtis Stigers,96,1992-06-20,1992-06-20,5,1
+445,"Full Term Love (From ""Class Act"")",Monie Love,96,1992-08-08,1992-08-08,5,1
+446,Crazy Love,CeCe Peniston,97,1992-12-26,1992-12-26,4,1
+447,Get Up (Move Boy Move),AB Logic,98,1992-12-26,1992-12-26,3,1
+448,Something Good,Utah Saints,98,1992-11-21,1992-11-21,3,1
+449,You're All That Matters To Me,Curtis Stigers,98,1992-03-07,1992-03-07,3,1
+450,Sad But True,Metallica,98,1992-10-31,1992-10-31,3,1
+451,Losing You,Mocca Soul,99,1992-05-16,1992-05-23,3,2
+452,Killer,Seal,100,1992-03-28,1992-04-04,2,2

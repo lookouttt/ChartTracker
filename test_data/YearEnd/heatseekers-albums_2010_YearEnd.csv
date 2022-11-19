@@ -1,0 +1,793 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Conditions,The Temper Trap,4,2010-01-02,2010-12-25,2056,52
+2,Habits,Neon Trees,1,2010-04-03,2010-12-25,1743,39
+3,Up From Below,Edward Sharpe & The Magnetic Zeros,1,2010-01-02,2010-09-04,1593,36
+4,Halfway To Heaven,Brantley Gilbert,1,2010-04-03,2010-12-25,1414,39
+5,Lungs,Florence + The Machine,1,2010-01-02,2010-08-21,1296,34
+6,These Simple Truths,Sidewalk Prophets,5,2010-01-02,2010-12-11,1111,46
+7,Gorilla Manor,Local Natives,3,2010-03-06,2010-12-25,1045,43
+8,Stand Up And Scream,Asking Alexandria,12,2010-01-02,2010-12-25,901,50
+9,The Best Of The Laurie Berkner Band,The Laurie Berkner Band,2,2010-07-17,2010-12-25,888,24
+10,Backatown,Trombone Shorty,6,2010-05-08,2010-12-25,879,31
+11,La Roux,La Roux,2,2010-01-02,2010-05-29,741,22
+12,One eskimO,One eskimO,6,2010-01-09,2010-11-27,643,33
+13,Ride Through The Country,Colt Ford,3,2010-01-02,2010-04-03,619,14
+14,Sigh No More,Mumford & Sons,2,2010-03-06,2010-05-22,558,12
+15,The Band Perry (EP),The Band Perry,4,2010-04-24,2010-10-09,530,14
+16,All The Right Wrongs (EP),Emily Osment,3,2010-01-02,2010-06-12,519,16
+17,Crystal Castles (II),Crystal Castles,3,2010-05-15,2010-09-25,512,19
+18,Anything Goes,Randy Houser,5,2010-01-02,2010-04-17,486,15
+19,Women Of Faith Worship Team,Women Of Faith Worship Team,3,2010-03-27,2010-12-04,462,13
+20,Miike Snow,Miike Snow,15,2010-01-16,2010-11-20,449,31
+21,Paper Tongues,Paper Tongues,1,2010-04-17,2010-09-25,446,20
+22,Genuine Negro Jig,Carolina Chocolate Drops,2,2010-03-06,2010-12-25,445,15
+23,For Lack Of A Better Name,deadmau5,15,2010-02-06,2010-12-25,435,19
+24,No Far Away,Chris August,9,2010-09-11,2010-12-25,431,16
+25,Astro Coast,Surfer Blood,2,2010-02-06,2010-05-15,425,14
+26,Dailey & Vincent Sing The Statler Brothers,Dailey & Vincent,1,2010-02-20,2010-06-05,404,16
+27,Chamber Music Society,Esperanza Spalding,1,2010-09-04,2010-12-25,379,15
+28,BlakRoc,BlakRoc,2,2010-01-02,2010-03-13,358,11
+29,The Secret Sisters,The Secret Sisters,3,2010-10-30,2010-12-25,356,9
+30,Kerrie Roberts,Kerrie Roberts,13,2010-09-11,2010-12-25,338,16
+31,Nikki,Nikki Yanofsky,1,2010-05-22,2010-08-28,325,13
+32,Big Echo,The Morning Benders,8,2010-03-27,2010-09-04,319,11
+33,Before Today,Ariel Pink's Haunted Graffiti,5,2010-06-26,2010-09-18,318,11
+34,Deal Or No Deal,Wiz Khalifa,15,2010-08-28,2010-12-25,300,16
+35,"I'm Alive, I'm Dreaming",The Ready Set,3,2010-07-03,2010-12-25,298,16
+36,Travelling Like The Light,V V Brown,3,2010-02-20,2010-12-04,298,18
+37,Believe,Orianthi,1,2010-01-02,2010-02-06,291,6
+38,A Friend Of A Friend,Dave Rawlings Machine,11,2010-01-02,2010-03-13,288,11
+39,The House You're Building,Audrey Assad,6,2010-07-31,2010-12-25,273,13
+40,The House That Dirt Built,The Heavy,6,2010-02-06,2010-07-10,272,13
+41,Bo Burnham,Bo Burnham,10,2010-01-02,2010-03-20,270,12
+42,Good Things,Aloe Blacc,10,2010-10-16,2010-12-25,269,11
+43,Street Songs Of Love,Alejandro Escovedo,1,2010-07-17,2010-09-04,262,8
+44,Adelitas Way,Adelitas Way,15,2010-01-02,2010-05-01,261,12
+45,Antifogmatic,Punch Brothers,1,2010-07-03,2010-12-18,258,9
+46,To Plant A Seed,We Came As Romans,15,2010-01-09,2010-10-09,256,17
+47,Grand,Matt And Kim,10,2010-01-02,2010-03-06,255,8
+48,Selfish Machines,Pierce The Veil,1,2010-07-10,2010-09-04,251,9
+49,At Home With Friends,Joshua Bell,4,2010-01-02,2010-02-27,241,9
+50,The Wild Hunt,The Tallest Man On Earth,4,2010-05-01,2010-12-25,240,10
+51,Prince Royce,Prince Royce,13,2010-03-20,2010-08-28,238,13
+52,The Fool,Warpaint,4,2010-11-13,2010-12-25,227,7
+53,Album,Girls,10,2010-01-02,2010-02-20,225,8
+54,The Monitor,Titus Andronicus,7,2010-03-27,2010-05-15,222,7
+55,AfroCubism,AfroCubism,3,2010-11-20,2010-12-25,218,6
+56,Christmas,The Isaacs,5,2010-11-13,2010-12-25,211,7
+57,One Life Stand,Hot Chip,1,2010-02-27,2010-05-15,210,10
+58,Matt Kennon,Matt Kennon,1,2010-05-29,2010-07-03,209,6
+59,David Garrett,David Garrett,9,2010-01-02,2010-04-17,207,8
+60,School Gyrls,School Gyrls,1,2010-04-10,2010-05-22,206,7
+61,The Airborne Toxic Event,The Airborne Toxic Event,17,2010-01-02,2010-02-13,205,7
+62,Sometimes The Blues Is Just A Passing Bird (EP),The Tallest Man On Earth,5,2010-09-25,2010-12-25,194,7
+63,Fixed At Zero,VersaEmerge,3,2010-07-10,2010-11-13,193,8
+64,$O$,Die Antwoord,1,2010-10-30,2010-12-04,190,6
+65,"Gente Comun, Suenos Extraordinarios",Tercer Cielo,13,2010-01-02,2010-05-22,190,9
+66,King Of The Beach,Wavves,3,2010-07-17,2010-09-18,186,7
+67,Just Across The River,Jimmy Webb,5,2010-07-17,2010-09-25,186,7
+68,When I'm With You,JJ Heller,19,2010-11-06,2010-12-25,186,8
+69,Leave Your Hat On,Michael Grimm,1,2010-09-25,2010-12-18,184,7
+70,Black Dub,Black Dub,2,2010-11-20,2010-12-18,177,5
+71,Orla Fallon's Celtic Christmas,Orla Fallon,4,2010-12-04,2010-12-25,177,4
+72,There Is Love In You,Four Tet,1,2010-02-13,2010-03-13,175,5
+73,Fidelity!,"JP, Chrissie & The Fairground Boys",2,2010-09-11,2010-10-23,174,7
+74,Preservation,Preservation Hall Jazz Band,1,2010-03-06,2010-04-10,173,6
+75,Crash Kings,Crash Kings,25,2010-04-17,2010-08-21,170,13
+76,Under An Open Heaven,Wess Morgan Featuring The Celebration Of Life Choir,9,2010-11-06,2010-12-25,169,7
+77,Favorite Fix,Artist Vs Poet,17,2010-03-20,2010-09-04,169,7
+78,July Flame,Laura Veirs,1,2010-01-30,2010-03-06,167,6
+79,The Brutalist Bricks,Ted Leo And The Pharmacists,2,2010-03-27,2010-05-01,164,6
+80,newworldson,newworldson,8,2010-03-13,2010-05-01,164,8
+81,Ocean Way Sessions (EP),Christina Perri,1,2010-11-27,2010-12-25,163,5
+82,Hold You,Gyptian,6,2010-08-07,2010-09-11,159,6
+83,Mirage,Armin van Buuren,5,2010-09-25,2010-10-23,157,5
+84,Disconnect From Desire,School Of Seven Bells,5,2010-07-31,2010-09-04,157,6
+85,Fields,Junip,14,2010-10-02,2010-12-18,157,8
+86,Dark Hope,Renee Fleming,2,2010-06-26,2010-09-04,153,4
+87,Of Mice & Men,Of Mice & Men,3,2010-03-27,2010-04-24,151,5
+88,xx,The xx,1,2010-01-02,2010-01-16,150,3
+89,Off The Hillbilly Hook (EP),Trailer Choir,18,2010-01-02,2010-07-10,150,12
+90,The Way Out,The Books,5,2010-08-07,2010-09-04,149,5
+91,Pickin' Up The Pieces,Fitz And The Tantrums,20,2010-09-11,2010-12-25,147,6
+92,Ironbound,Overkill,4,2010-02-27,2010-04-17,146,7
+93,Swindoe,Swindoe,2,2010-03-27,2010-04-10,144,3
+94,Swanlights,Antony And The Johnsons,2,2010-10-30,2010-11-20,143,4
+95,Ya-Ka-May,Galactic,3,2010-02-27,2010-03-20,143,4
+96,Slumberland,Lee DeWyze,7,2010-05-29,2010-06-26,142,5
+97,Dynasty,Kaskade,1,2010-05-15,2010-06-12,141,5
+98,Normal As Blueberry Pie: A Tribute To Doris Day,Nellie McKay,5,2010-01-02,2010-01-30,140,5
+99,You Love You,Semi Precious Weapons,10,2010-07-17,2010-10-09,140,8
+100,At The Edge Of Time,Blind Guardian,1,2010-09-11,2010-10-02,138,4
+101,The Hearts Of Lonely People,Isles & Glaciers,1,2010-03-27,2010-04-24,138,5
+102,California Kicks,Fight Fair,12,2010-07-17,2010-09-04,138,5
+103,Sinners & Saints,Raul Malo,7,2010-10-23,2010-11-20,137,5
+104,Until One,Swedish House Mafia,2,2010-11-13,2010-12-11,136,5
+105,Love And Its Opposite,Tracey Thorn,2,2010-06-05,2010-08-28,136,5
+106,The Black Dirt Sessions,Deer Tick,4,2010-06-26,2010-08-28,135,4
+107,Sounds Like This,Eric Hutchinson,19,2010-01-02,2010-01-30,135,5
+108,Everything In Between,No Age,1,2010-10-16,2010-11-13,134,5
+109,The Ghost Who Walks,Karen Elson,16,2010-06-12,2010-07-31,132,6
+110,Pipe Dreams,Mark Salling,5,2010-11-13,2010-12-11,131,5
+111,Almost Everything I Wish I'd Said The Last Time I Saw You,Wakey!Wakey!,1,2010-05-22,2010-06-19,129,4
+112,Halford IV: Made Of Metal,Halford,5,2010-10-16,2010-11-20,129,5
+113,Trunk Muzik 0-60,YelaWolf,1,2010-12-11,2010-12-25,128,3
+114,Bigger And Blackerer,David Cross,1,2010-06-12,2010-07-03,128,4
+115,Stories,Addison Road,4,2010-07-10,2010-08-07,128,5
+116,A Coral Reefer Christmas,Robert Greenidge,9,2010-12-04,2010-12-25,128,4
+117,Somewhere In Time,Reckless Kelly,2,2010-02-27,2010-04-03,127,6
+118,Authenticity,The Foreign Exchange,3,2010-10-30,2010-11-20,127,4
+119,Permalight,Rogue Wave,1,2010-03-20,2010-06-12,126,5
+120,Taken,Rhonda Vincent,3,2010-10-09,2010-10-30,125,4
+121,Christmas With The Puppini Sisters,The Puppini Sisters,9,2010-12-04,2010-12-25,124,4
+122,The Italian Tenor,Vittorio Grigolo,22,2010-10-23,2010-12-11,123,7
+123,Forever Vienna,Andre Rieu And His Johann Strauss Orchestra,2,2010-07-17,2010-12-18,122,5
+124,Prove It,The Expendables,4,2010-05-29,2010-06-19,122,4
+125,History From Below,Delta Spirit,8,2010-06-26,2010-07-31,122,6
+126,Behind The Blackest Tears,Kingdom Of Sorrow,3,2010-06-26,2010-07-24,119,5
+127,"Good Morning, Magpie",Murder By Death,5,2010-04-24,2010-05-22,119,5
+128,"Seriously, Who Farted?",Nick Swardson,23,2010-01-02,2010-10-30,118,8
+129,Scott Pilgrim vs. The World  (Original Videogame Soundtrack),Anamanaguchi,3,2010-09-11,2010-11-20,116,4
+130,Stuck On Repeat,Stereo Skyline!,4,2010-08-07,2010-09-04,115,5
+131,Concrete Jungle,Nneka,18,2010-02-13,2010-08-21,115,5
+132,Tall. Dark & Chicano,George Lopez,8,2010-01-02,2010-02-13,113,5
+133,Winter Wonderland,Mandy Barnett,10,2010-12-11,2010-12-25,113,3
+134,California Girls (EP),Litchfield,7,2010-08-21,2010-09-04,112,3
+135,Fight Or Flight,Emily Osment,2,2010-10-23,2010-12-25,110,6
+136,Creatures,Motionless In White,6,2010-10-30,2010-11-20,109,4
+137,Broken Frames,Eyes Set To Kill,9,2010-06-26,2010-08-28,109,5
+138,Tango 3.0,Gotan Project,14,2010-05-08,2010-06-12,108,5
+139,Colossus,RJD2,4,2010-02-06,2010-02-27,107,4
+140,You I Wind Land And Sea,Justin Nozuka,1,2010-05-01,2010-06-19,106,4
+141,The Budos Band III,The Budos Band,3,2010-08-28,2010-09-25,106,4
+142,In This Light And On This Evening,Editors,8,2010-02-06,2010-02-27,106,4
+143,Picture Perfect,Every Avenue,23,2010-01-09,2010-02-06,106,5
+144,20 Exitos Bailables,Banda La Pirinola,27,2010-09-25,2010-11-06,106,6
+145,Black Thorn,Flatfoot 56,2,2010-04-17,2010-05-01,105,3
+146,Someday Came Suddenly,Attack Attack!,18,2010-01-09,2010-02-06,105,5
+147,The Best Of The Hoppers: From The Homecoming Series,The Hoppers,4,2010-08-14,2010-09-18,104,4
+148,These Hopeful Machines,BT,2,2010-02-20,2010-03-06,103,3
+149,Transit Transit,Autolux,4,2010-08-21,2010-09-11,103,4
+150,Pardon Me,Jonathan Tyler & The Northern Lights,8,2010-05-15,2010-05-29,102,3
+151,Sending My Love,Norman Brown,10,2010-07-10,2010-08-07,102,5
+152,Undisguised,Anthony Evans,14,2010-02-13,2010-03-20,102,5
+153,Live From The Suwannee River Jam,Colt Ford,22,2010-01-02,2010-03-06,102,6
+154,Awaken The Dawn,Keith & Kristyn Getty,11,2010-01-02,2010-12-25,101,6
+155,Codename: Rondo,Ghostland Observatory,3,2010-11-13,2010-12-04,100,4
+156,All I Want Is You,Miguel,1,2010-12-18,2010-12-25,99,2
+157,Broken Dreams Club,Girls,5,2010-12-11,2010-12-25,99,3
+158,Catching A Tiger,Lissie,5,2010-09-04,2010-10-30,99,6
+159,Romance Is Boring,Los Campesinos!,3,2010-02-13,2010-02-27,98,3
+160,Reservoir,Fanfarlo,29,2010-01-02,2010-03-13,98,7
+161,Wildstyle (EP),Bassnectar,1,2010-11-06,2010-11-20,96,3
+162,I Liked It Better When You Had No Heart,Butch Walker And The Black Widows,1,2010-03-13,2010-05-01,95,3
+163,Christian Kane (EP),Christian Kane,5,2010-03-27,2010-08-07,95,3
+164,Hospice,The Antlers,12,2010-01-09,2010-03-20,95,5
+165,Spiral Shadow,Kylesa,11,2010-11-13,2010-12-04,94,4
+166,Take A Bow,Greg Laswell,3,2010-05-22,2010-10-09,93,3
+167,Fever Ray,Fever Ray,10,2010-01-02,2010-02-13,93,6
+168,Civil Twilight,Civil Twilight,21,2010-04-24,2010-08-28,93,7
+169,Prelude To A Dream,Jackie Evancho,1,2010-08-28,2010-09-04,92,2
+170,Hilary Hahn Plays Higdon & Tchaikovsky: Violin Concertos,Hilary Hahn With Royal Liverpool Philharmonic Orchestra (Petrenko),9,2010-10-09,2010-10-30,92,4
+171,Due Voci,Due Voci,11,2010-06-26,2010-07-10,92,3
+172,Dancing With A Ghost,Valencia,11,2010-10-30,2010-11-20,92,4
+173,The Obsidian Conspiracy,Nevermore,1,2010-06-26,2010-07-10,91,3
+174,Contagion,Oceano,3,2010-11-27,2010-12-11,91,3
+175,Hell Chose Me,Carnifex,4,2010-03-06,2010-04-03,91,5
+176,Soy Tu Maestro: '45 Anos Gracias A Ti...,La Original Banda El Limon de Salvador Lizarraga,16,2010-02-27,2010-03-20,91,4
+177,Tourist History,Two Door Cinema Club,10,2010-05-01,2010-06-05,90,4
+178,Beautiful Things,Gungor,13,2010-03-06,2010-11-06,90,4
+179,Black Sands,Bonobo,13,2010-04-10,2010-12-18,90,4
+180,See You On The Moon,Tift Merritt,6,2010-06-19,2010-07-03,89,3
+181,Love Travels,Angel Taylor,14,2010-01-30,2010-08-28,89,4
+182,Blink,Revive,7,2010-07-10,2010-09-04,88,7
+183,[Id],Veil Of Maya,1,2010-04-24,2010-05-01,87,2
+184,In The Dark,The Whigs,12,2010-04-03,2010-06-12,86,4
+185,99 Songs Of Revolution,Streetlight Manifesto,4,2010-04-03,2010-04-17,85,3
+186,Pins And Needles,The Birthday Massacre,6,2010-10-02,2010-10-16,85,3
+187,Alive,Ed Kowalczyk,4,2010-07-24,2010-07-31,84,2
+188,Down There,Avey Tare,6,2010-11-13,2010-11-20,84,2
+189,The Unholy Terror,Jedi Mind Tricks Presents Army Of The Pharaohs,6,2010-04-17,2010-05-01,84,3
+190,The Gospel According To Jazz Chapter III,Kirk Whalum,28,2010-04-03,2010-05-01,84,5
+191,The Family Jewels,Marina And The Diamonds,2,2010-06-12,2010-06-19,83,2
+192,Maximum Balloon,Maximum Balloon,5,2010-10-09,2010-10-23,83,3
+193,iTunes Session - EP,Blind Pilot,7,2010-01-16,2010-01-23,83,2
+194,The Moment,Atomic Tom,7,2010-10-30,2010-11-06,83,2
+195,Hawk,Isobel Campbell And Mark Lanegan,11,2010-09-11,2010-09-25,83,3
+196,The Drums,The Drums,17,2010-10-02,2010-10-23,83,4
+197,How To Destroy Angels (EP),How To Destroy Angels,2,2010-07-24,2010-07-31,82,2
+198,American Idol Season 9 Favorite Performances,Crystal Bowersox,6,2010-06-12,2010-06-19,82,2
+199,Album Of The Year,Black Milk,3,2010-10-02,2010-10-09,81,2
+200,In Dreams,After The Burial,3,2010-12-11,2010-12-25,81,3
+201,Turn Off The Lights (EP),Lights Over Paris,6,2010-08-21,2010-08-28,81,2
+202,American Idol Season 9 Favorite Performances,Lee DeWyze,9,2010-06-12,2010-06-19,80,2
+203,A Little More Country Than That (EP),Easton Corbin,27,2010-01-23,2010-02-20,80,5
+204,High In The Rockies: A Live Album,Jason Boland And The Stragglers,3,2010-05-08,2010-05-22,79,3
+205,M.P.3,Mike Phillips,9,2010-08-14,2010-08-21,79,2
+206,La Fiesta,Grupo Exterminador,14,2010-09-25,2010-10-30,78,6
+207,NOTA,NOTA,8,2010-11-20,2010-12-25,77,2
+208,Everything Is Everything: The Music Of Donny Hathaway,Kirk Whalum,13,2010-09-18,2010-10-02,77,3
+209,Song Up In Her Head,Sarah Jarosz,3,2010-02-06,2010-11-27,76,2
+210,Chasing The Grail,Fozzy,6,2010-02-13,2010-02-27,76,3
+211,Place We Ran From,Tired Pony,8,2010-10-16,2010-10-23,75,2
+212,Imperial,In Fear And Faith,4,2010-07-03,2010-07-31,74,3
+213,The Road & The Rodeo,Aaron Watson,4,2010-10-30,2010-11-13,74,3
+214,Safe Upon The Shore,Great Big Sea,4,2010-07-31,2010-09-11,74,5
+215,Dance.Love,Kaskade,7,2010-10-16,2010-10-30,74,3
+216,Periphery,Periphery,2,2010-05-08,2010-05-15,73,2
+217,American Bang,American Bang,2,2010-09-18,2010-11-06,73,3
+218,Work,Shout Out Louds,5,2010-03-13,2010-03-20,73,2
+219,Love & War,Daniel Merriweather,7,2010-03-13,2010-03-20,73,2
+220,Pushing The Envelope,Gerald Albright,26,2010-07-03,2010-07-17,73,3
+221,Personal Life,The Thermals,1,2010-09-25,2010-10-02,72,2
+222,Wreckorder,Fran Healy,8,2010-10-23,2010-11-20,72,2
+223,DJ Clay Presents: Book Of The Wicked: The Mixxtape Chapter One,DJ Clay,12,2010-06-26,2010-07-10,72,3
+224,The Daylights,The Daylights,14,2010-12-04,2010-12-18,72,3
+225,Highway Rider,Brad Mehldau,15,2010-04-03,2010-04-17,72,3
+226,Imagination Movers: In A Big Warehouse (Soundtrack),Imagination Movers,2,2010-10-09,2010-12-18,71,3
+227,New Morning,Alpha Rev,4,2010-05-15,2010-05-22,71,2
+228,Raw And Un-Kutt,Kutt Calhoun,6,2010-06-26,2010-07-03,71,2
+229,Eyelid Movies,Phantogram,7,2010-02-27,2010-06-05,71,2
+230,Familial,Philip Selway,7,2010-09-18,2010-09-25,71,2
+231,Steel Train,Steel Train,8,2010-07-17,2010-09-11,71,2
+232,Obligame,Hector Acosta: El Torito,24,2010-11-06,2010-11-27,71,4
+233,Acoustic (EP),LIGHTS,2,2010-08-07,2010-08-14,70,2
+234,Live From The Tape Deck,Skyzoo & Illmind,3,2010-10-23,2010-10-30,70,2
+235,Good Times & Bad Advice,Big B,13,2010-10-02,2010-10-09,70,2
+236,Metal & Wood,Tyrone Wells,14,2010-03-20,2010-03-27,70,2
+237,The Wonder Show Of The World,Bonnie 'Prince' Billy & The Cairo Gange,16,2010-04-10,2010-04-24,70,3
+238,Reckless,The SteelDrivers,17,2010-09-25,2010-10-23,70,4
+239,A. Enlightenment B. Endarkenment (Hint: There Is No C),Ray Wylie Hubbard,8,2010-01-30,2010-02-20,69,3
+240,"Jimmie Vaughan Plays Blues, Ballads & Favorites",Jimmie Vaughan,14,2010-07-24,2010-08-21,69,4
+241,Through Yourself & Back Again,Thriving Ivory,2,2010-10-02,2010-10-09,68,2
+242,Collisions And Castaways,36 Crazyfists,3,2010-08-14,2010-08-21,68,2
+243,The Bride Screamed Murder,The Melvins,4,2010-06-19,2010-06-26,68,2
+244,Take A Vacation!,The Young Veins,10,2010-06-26,2010-07-24,68,2
+245,Welder,Elizabeth Cook,23,2010-05-29,2010-06-19,68,3
+246,Hold On Tight,Hey Monday,24,2010-01-02,2010-01-23,68,4
+247,Not That Far Away (EP),Jennette McCurdy,3,2010-09-04,2010-09-11,67,2
+248,Charred Walls Of The Damned,Charred Walls Of The Damned,6,2010-02-20,2010-02-27,67,2
+249,Weathervanes,Freelance Whales,18,2010-05-01,2010-06-12,67,4
+250,As Long As It Takes,Meredith Andrews,5,2010-03-20,2010-04-03,66,3
+251,Recover,Confide,6,2010-06-05,2010-09-25,66,2
+252,Mondo Cane,MIke Patton,7,2010-05-22,2010-05-29,66,2
+253,Here Waits Thy Doom,3 Inches Of Blood,22,2010-08-14,2010-08-28,66,3
+254,A Woman In Love,Maysa,22,2010-02-13,2010-03-06,66,4
+255,The Hope Division,Stick To Your Guns,5,2010-06-19,2010-06-26,65,2
+256,She's Like Texas,Josh Abbott Band,5,2010-03-06,2010-06-12,65,4
+257,7 Sinners,Helloween,7,2010-11-27,2010-12-04,65,2
+258,Rocks Into Rivers,Seabird,13,2010-01-02,2010-02-27,65,4
+259,Come And Get It,"Eli ""Paperboy"" Reed",8,2010-08-28,2010-09-04,64,2
+260,DIE!,Necro,19,2010-06-05,2010-06-19,64,3
+261,Baby Darling Doll Face Honey,Band Of Skulls,20,2010-01-16,2010-07-03,64,4
+262,One Fast Move Or I'm Gone: Music From Kerouac's Big Sur (Soundtrack),Jay Farrar & Benjamin Gibbard,32,2010-01-02,2010-02-13,64,5
+263,Electric Daisy Carnival: Volume 1,Kaskade,18,2010-07-10,2010-07-17,63,2
+264,My Father Will Guide Me Up A Rope To The Sky,Swans,23,2010-10-09,2010-10-23,63,3
+265,EvelynEvelyn,EvelynEvelyn,13,2010-04-17,2010-04-24,62,2
+266,A Chanticleer Christmas,Chanticleer,17,2010-12-11,2010-12-25,62,3
+267,Glorious,Paul Baloche,20,2010-02-06,2010-02-13,62,2
+268,Ni Lo Intentes,Julion Alvarez y Su Norteno Banda,31,2010-06-19,2010-07-31,62,6
+269,Land Of Make Believe,Kidz In The Hall,9,2010-03-27,2010-04-03,61,2
+270,"1,000 Years",The Corin Tucker Band,9,2010-10-23,2010-11-06,61,3
+271,The Head And The Heart,The Head And The Heart,17,2010-12-18,2010-12-25,61,2
+272,Suicide Season.,Bring Me The Horizon,20,2010-01-09,2010-01-16,61,2
+273,Till The Light Comes,Jackie Greene,7,2010-07-17,2010-07-24,60,2
+274,Street Dogs,Street Dogs,8,2010-09-18,2010-09-25,60,2
+275,Shadows,Teenage Fanclub,13,2010-06-26,2010-09-18,60,2
+276,Love To Live,The Living Sisters,17,2010-05-08,2010-05-15,60,2
+277,The Ladder,Andrew Belle,21,2010-03-13,2010-06-05,60,3
+278,Relentless Retribution,Death Angel,10,2010-10-02,2010-10-09,59,2
+279,Strange Weather Isn't It?,!!! (Chk Chk Chk),15,2010-09-11,2010-09-25,59,3
+280,The Soft Pack,The Soft Pack,27,2010-02-20,2010-03-06,59,3
+281,Foxy Shazam,Foxy Shazam,2,2010-05-01,2010-05-08,58,2
+282,Sugarcoating,Martin Sexton,6,2010-04-24,2010-05-01,58,2
+283,The Way Of The World,Mose Allison,10,2010-04-10,2010-04-17,58,2
+284,Fart And Wiener Jokes,Brian Posehn,5,2010-05-15,2010-05-22,57,2
+285,Bach: Cello Suites,Zuill Bailey,25,2010-02-20,2010-07-03,57,4
+286,The Besnard Lakes Are The Roaring Night,The Besnard Lakes,27,2010-03-27,2010-04-17,57,4
+287,Heaven's Venom,Kataklysm,8,2010-09-11,2010-09-25,56,3
+288,Fling Wide: Live,Misty Edwards,10,2010-01-16,2010-01-23,56,2
+289,Libraries,The Love Language,14,2010-07-31,2010-09-11,56,2
+290,"No Rain, No Rainbow",Greeley Estates,5,2010-02-13,2010-02-27,55,3
+291,Hands,Little Boots,7,2010-03-20,2010-03-27,55,2
+292,Epic,Blood On The Dance Floor,12,2010-10-23,2010-10-30,55,2
+293,Human (EP),Darren Criss,17,2010-08-07,2010-11-27,55,2
+294,Admiral Fell Promises,Sun Kil Moon,1,2010-07-31,2010-08-07,54,2
+295,Let Love Win,The Museum,7,2010-08-14,2010-09-04,54,2
+296,Wake Up The Nation,Paul Weller,8,2010-06-19,2010-06-26,54,2
+297,The Golden Archipelago,Shearwater,12,2010-03-13,2010-03-20,54,2
+298,I Will Be,Dum Dum Girls,15,2010-04-17,2010-04-24,54,2
+299,Clinging To A Scheme,The Radio Dept.,20,2010-05-15,2010-05-22,54,2
+300,Then Sings My Soul,Jenny Oaks Baker,22,2010-05-01,2010-05-22,54,2
+301,Do Overs And Second Chances (EP),Go Radio,8,2010-05-08,2010-05-15,53,2
+302,Geeving,Abandon All Ships,16,2010-10-23,2010-12-11,53,3
+303,Slime Flu,Vado,9,2010-10-30,2010-11-06,52,2
+304,Khan! The Me Generation,Andre Nickatina,14,2010-05-08,2010-05-15,52,2
+305,Be,Unhindered,19,2010-02-20,2010-05-08,52,3
+306,A Chorus Of Storytellers,The Album Leaf,15,2010-02-20,2010-02-27,51,2
+307,Faces & Four Letter Words,One Less Reason,1,2010-09-18,2010-09-18,50,1
+308,The House Rules,Christian Kane,1,2010-12-25,2010-12-25,50,1
+309,Get Him To The Greek (Soundtrack),Infant Sorrow,1,2010-06-19,2010-06-19,50,1
+310,Trans-Continental Hustle,Gogol Bordello,1,2010-05-08,2010-05-08,50,1
+311,What Did You Think Was Going To Happen?,2AM Club,4,2010-10-02,2010-10-09,50,2
+312,Coffey Anderson,Coffey Anderson,4,2010-10-16,2010-12-11,50,2
+313,Planet Anthem,The Disco Biscuits,5,2010-04-03,2010-04-10,50,2
+314,Rocketship Run,The Laurie Berkner Band,16,2010-01-02,2010-02-06,50,3
+315,Silver Pony,Cassandra Wilson,21,2010-11-27,2010-12-04,50,2
+316,Stairwells,Kina Grannis,2,2010-03-13,2010-03-13,49,1
+317,Good Old War,Good Old War,2,2010-06-19,2010-06-19,49,1
+318,Stages,Vedera,2,2010-01-23,2010-01-23,49,1
+319,Race You To The Bottom,New Medicine,2,2010-10-16,2010-10-16,49,1
+320,Eternal,War Of Ages,5,2010-05-01,2010-05-08,49,2
+321,The Gracious Few,The Gracious Few,7,2010-10-02,2010-10-09,49,2
+322,Here's To Taking It Easy,Phosphorescent,8,2010-05-29,2010-06-05,49,2
+323,F O R T R E S S,Miniature Tigers,10,2010-08-14,2010-08-21,49,2
+324,Blue Record,Baroness,28,2010-01-09,2010-01-30,49,4
+325,The Morning Passengers EP - Acoustic Sessions,Green River Ordinance,3,2010-09-25,2010-09-25,48,1
+326,The Upsides,The Wonder Years,9,2010-02-13,2010-10-09,48,2
+327,Palomino,Trampled By Turtles,11,2010-05-01,2010-09-18,48,2
+328,Se Alboroto El Hormiguero,El Compa Sacra: El Ultimo Razo,24,2010-05-15,2010-05-22,48,2
+329,"The Cherry Tree: Songs, Carols & Ballads For Christmas",Anonymous 4,26,2010-12-18,2010-12-25,48,2
+330,The Infinite Order,Living Sacrifice,4,2010-02-13,2010-02-13,47,1
+331,10.17.09,Have Heart,4,2010-12-11,2010-12-11,47,1
+332,The Best Of...So Far,Kevin Fowler,4,2010-12-25,2010-12-25,47,1
+333,Welcome To The Wasteland,Bad City,4,2010-09-11,2010-09-11,47,1
+334,My Forever,He Is We,6,2010-12-11,2010-12-18,47,2
+335,Sisterworld,Liars,11,2010-03-27,2010-04-03,47,2
+336,Soul Seekers II,The Soul Seekers,12,2010-12-04,2010-12-11,47,2
+337,A Strange Arrangement,Mayer Hawthorne,14,2010-01-09,2010-11-20,47,2
+338,De Andy Montanez Al Combo,Andy Montanez,20,2010-12-11,2010-12-25,47,2
+339,If The Rains Come First,Somi,21,2010-01-23,2010-02-06,47,2
+340,Root For Ruin,Les Savy Fav,27,2010-10-02,2010-10-30,47,2
+341,Relayted,Gayngs,27,2010-05-29,2010-10-23,47,3
+342,Book Of The Wicked: The Mixtape Chapter  2,DJ Clay,5,2010-12-25,2010-12-25,46,1
+343,Kingdom Come,Elevation Worship,5,2010-09-25,2010-09-25,46,1
+344,Stories Of Survival,Authority Zero,5,2010-07-10,2010-07-10,46,1
+345,Railroad Earth,Railroad Earth,5,2010-10-30,2010-10-30,46,1
+346,Lowcountry,Envy On The Coast,5,2010-04-17,2010-04-17,46,1
+347,Crushes: The Covers Mixtape,Mates Of State,5,2010-07-03,2010-07-03,46,1
+348,Static Impulse,James Labrie,14,2010-10-16,2010-10-23,46,2
+349,Buzzard,Margot & The Nuclear So And So's,6,2010-10-09,2010-10-09,45,1
+350,Hypocritical Oaf,Doug Benson,6,2010-09-18,2010-09-18,45,1
+351,Man Of The World,ALO,6,2010-02-27,2010-02-27,45,1
+352,Page One,Steven Page,6,2010-11-06,2010-11-06,45,1
+353,Birds & Cages,Deas Vail,6,2010-03-27,2010-03-27,45,1
+354,Where Did The Night Fall,UNKLE,14,2010-05-29,2010-06-05,45,2
+355,Volvio La Navidad,Johnny Ventura,23,2010-01-02,2010-01-09,45,2
+356,24 Hour Karate School,Ski Beatz,7,2010-10-09,2010-10-09,44,1
+357,All We Have Left,Boyce Avenue,7,2010-07-03,2010-07-03,44,1
+358,With Ears To See And Eyes To Hear,Sleeping With Sirens,7,2010-04-10,2010-04-10,44,1
+359,A Woman Needs,Jessica Harp,7,2010-04-03,2010-04-03,44,1
+360,The Marriage Of Heaven And Hell,A Plea For Purging,7,2010-07-24,2010-07-24,44,1
+361,The Boxer,Kele,8,2010-07-10,2010-07-17,44,2
+362,Blow: Blocks And Boat Docks,Messy Marv And Berner,16,2010-09-04,2010-09-11,44,2
+363,Made The Harbor,Mountain Man,25,2010-08-07,2010-08-14,44,2
+364,Assailants,Lydia,8,2010-08-07,2010-08-07,43,1
+365,Murder Mix Volume 2,Mike E. Clark,10,2010-11-27,2010-12-04,43,2
+366,Black Light,Groove Armada,13,2010-03-20,2010-03-27,43,2
+367,A Badly Broken Code,Dessa,13,2010-02-06,2010-02-27,43,2
+368,More Beautiful You,Jonny Diaz,24,2010-01-30,2010-06-05,43,3
+369,New Politics,New Politics,9,2010-07-31,2010-07-31,42,1
+370,The Flood,Mason Jennings,9,2010-12-04,2010-12-04,42,1
+371,Moss,Mike Gordon,9,2010-11-06,2010-11-06,42,1
+372,Weakness Makes You Beautiful,Petree,9,2010-06-05,2010-06-05,42,1
+373,While We're Becoming (EP),Matt Wertz,9,2010-03-20,2010-03-20,42,1
+374,Light Chasers,Cloud Cult,9,2010-10-02,2010-10-02,42,1
+375,Invade,Within The Ruins,9,2010-09-18,2010-09-18,42,1
+376,Nasty As I Wanna Be,Dirt Nasty,9,2010-08-28,2010-08-28,42,1
+377,Brand New Me,Cory Morrow,20,2010-09-18,2010-10-16,42,2
+378,Love Is Gone,Dommin,21,2010-02-20,2010-03-13,42,2
+379,Mt. Desolation,Mt. Desolation,10,2010-11-06,2010-11-06,41,1
+380,Judgement,Hydrogyn,10,2010-11-13,2010-11-13,41,1
+381,At Night We Live,Far,10,2010-06-12,2010-06-12,41,1
+382,Ashlyne Huff (EP),Ashlyne Huff,10,2010-05-29,2010-05-29,41,1
+383,The Way I Fell In,The Morning Of,10,2010-05-22,2010-05-22,41,1
+384,The House,Katie Melua,10,2010-08-21,2010-08-21,41,1
+385,Under Control,Cary Brothers,10,2010-04-24,2010-04-24,41,1
+386,All By Myself,Brian Regan,10,2010-12-25,2010-12-25,41,1
+387,Skepsis,Through The Eyes Of The Dead,16,2010-02-20,2010-02-27,41,2
+388,Forget,Twin Shadow,24,2010-10-23,2010-11-20,41,3
+389,Teenage Fantasy,Secret & Whisper,11,2010-04-24,2010-04-24,40,1
+390,The Game Of Monogamy,Tim Kasher,11,2010-10-23,2010-10-23,40,1
+391,Into The Morning,Ben Rector,11,2010-03-06,2010-03-06,40,1
+392,4TROOPS,4TROOPS,11,2010-05-22,2010-05-22,40,1
+393,Keepers Of The Faith,Terror,11,2010-10-02,2010-10-02,40,1
+394,Real Ghosts Caught On Tape,Fake Problems,11,2010-10-09,2010-10-09,40,1
+395,Imagination Movers: For Those About To Hop (Soundtrack),Imagination Movers,17,2010-01-02,2010-01-09,40,2
+396,UN,Dan Black,26,2010-01-16,2010-03-06,40,2
+397,Season Of The Assassin,Vinnie Paz,12,2010-07-10,2010-07-10,39,1
+398,Connect The Dots,Stacy Clark,12,2010-09-04,2010-09-04,39,1
+399,Look Your Best,Ingram Hill,12,2010-10-16,2010-10-16,39,1
+400,BK3,Bruce Kulick,12,2010-02-20,2010-02-20,39,1
+401,Anjunabeats Volume 8,Above & Beyond,12,2010-08-07,2010-08-07,39,1
+402,Easy 2 Hate,Haystak,12,2010-12-18,2010-12-18,39,1
+403,Ladies And Gentlemen (EP),Tyler Hilton,12,2010-05-08,2010-05-08,39,1
+404,Blood Like Lemonade,Morcheeba,12,2010-07-03,2010-07-03,39,1
+405,Leave Right Now,Will Young,13,2010-06-12,2010-06-19,39,2
+406,Live At Billy Bob's Texas,Wade Bowen,16,2010-05-15,2010-05-29,39,3
+407,Truth Or Dare,Automatic Loveletter,23,2010-07-10,2010-07-17,39,2
+408,Real Estate,Real Estate,25,2010-01-23,2010-02-06,39,3
+409,In Search Of Stoney Jackson,Strong Arm Steady,29,2010-02-13,2010-02-20,39,2
+410,Starve For The Devil,Arsis,13,2010-02-27,2010-02-27,38,1
+411,Vessels,Ivoryline,13,2010-08-14,2010-08-14,38,1
+412,Str8 Killa (EP),Freddie Gibbs,13,2010-08-21,2010-08-21,38,1
+413,Compass,Jamie Lidell,13,2010-06-05,2010-06-05,38,1
+414,Blood In The Gears,The Showdown,13,2010-09-11,2010-09-11,38,1
+415,Grey Oceans,CocoRosie,13,2010-05-29,2010-05-29,38,1
+416,We Will All Evolve,Our Last Night,17,2010-05-22,2010-05-29,38,2
+417,Halford III: Winter Songs,Halford,25,2010-01-02,2010-01-09,38,2
+418,American Patchwork,Anders Osborne,29,2010-05-15,2010-05-22,38,2
+419,Lang Lang Live In Vienna,Lang Lang,30,2010-09-11,2010-09-25,38,3
+420,Ragamuffin Soul,Carlos Whittaker,14,2010-05-15,2010-05-15,37,1
+421,Returners,The Ghost Inside,14,2010-06-26,2010-06-26,37,1
+422,Neujahrskonzert: New Year's Concert 2010,Wiener Philharmoniker (Pretre),14,2010-01-23,2010-01-23,37,1
+423,Caravan Palace,Caravan Palace,19,2010-09-11,2010-09-18,37,2
+424,Expecting Good Things,Jeff & Sheri Easter,22,2010-02-20,2010-02-27,37,2
+425,Total Life Forever,Foals,30,2010-05-29,2010-07-03,37,2
+426,Let Loose The Horses,The Rescues,15,2010-07-10,2010-07-10,36,1
+427,Rage,Attila,15,2010-05-29,2010-05-29,36,1
+428,We Are The Void,Dark Tranquillity,15,2010-03-27,2010-03-27,36,1
+429,Empire,Madball,15,2010-10-30,2010-10-30,36,1
+430,Never Stop,The Bad Plus,15,2010-10-02,2010-10-02,36,1
+431,So Big (EP),Iyaz,15,2010-07-17,2010-07-17,36,1
+432,Young The Giant,Young The Giant,15,2010-11-13,2010-11-13,36,1
+433,Constellation Me,Joe Brooks,15,2010-09-25,2010-09-25,36,1
+434,Back To Love,Beth Nielsen Chapman,15,2010-06-12,2010-06-12,36,1
+435,Lost Souls Like Us,Benjy Davis Project,15,2010-03-20,2010-03-20,36,1
+436,Cross Your Fingers,For All Those Sleeping,25,2010-08-07,2010-10-30,36,3
+437,Black City,Matthew Dear,29,2010-09-04,2010-09-11,36,2
+438,Junior,Kaki King,16,2010-05-01,2010-05-01,35,1
+439,El Turista,Josh Rouse,16,2010-03-27,2010-03-27,35,1
+440,Light & Gold,Eric Whitacre,16,2010-11-06,2010-11-06,35,1
+441,Number[s],"Woe, Is Me",16,2010-09-18,2010-09-18,35,1
+442,Axioma Ethica Odini,Enslaved,16,2010-10-16,2010-10-16,35,1
+443,Opposite Of Adults (EP),Chiddy Bang,16,2010-06-05,2010-06-05,35,1
+444,The Words You Don't Swallow,Anarbor,16,2010-05-08,2010-05-08,35,1
+445,As We Worship: Live,William McDowell,32,2010-01-30,2010-04-03,35,5
+446,I Speak Because I Can,Laura Marling,17,2010-04-24,2010-04-24,34,1
+447,Kill Devil Hills,DJ Muggs Vs Ill Bill,17,2010-09-18,2010-09-18,34,1
+448,Great Danger,The Audition,17,2010-04-03,2010-04-03,34,1
+449,Attention,Kristian Stanfill,17,2010-01-23,2010-01-23,34,1
+450,To The Secrets & Knowledge,Number One Gun,17,2010-02-13,2010-02-13,34,1
+451,Home Sweet Mobile Home,Nellie McKay,17,2010-10-16,2010-10-16,34,1
+452,The Masquerade,Melee,17,2010-10-23,2010-10-23,34,1
+453,La Raza,Armored Saint,18,2010-04-03,2010-04-10,34,2
+454,Losing All,Day Of Fire,26,2010-02-13,2010-02-20,34,2
+455,Why You Runnin' (EP),Lissie,29,2010-01-30,2010-05-01,34,2
+456,Crows,Allison Moorer,18,2010-02-27,2010-02-27,33,1
+457,Polarity,Decrepit Birth,18,2010-08-14,2010-08-14,33,1
+458,Cast The First Stone (EP),The Virginmarys,18,2010-08-28,2010-08-28,33,1
+459,Prenuptial Agreement,J.Stalin,18,2010-01-30,2010-01-30,33,1
+460,The Honest Hearts (EP),Vanna,18,2010-10-30,2010-10-30,33,1
+461,The Future Ain't What It Used To Be,Bleu Edmondson,18,2010-11-13,2010-11-13,33,1
+462,Beyond Hell/Above Heaven,Volbeat,18,2010-11-27,2010-11-27,33,1
+463,The Brotherhood Album,Michael Wasoell's Bone Collector Featuring Rhett Akins & Dallas Davidson,20,2010-10-16,2010-10-23,33,2
+464,Los Creadores Del HYPHY (Jai-Fi),Los Amos,25,2010-05-22,2010-05-29,33,2
+465,A Brief History Of Love,The Big Pink,33,2010-01-16,2010-02-06,33,4
+466,Bach: Motets,Bach Collegium Japan / Masaaki Suzuki,19,2010-05-29,2010-05-29,32,1
+467,Bach: Violin And Voice,Hilary Hahn/Matthias Goerne/Christine Schafer,19,2010-01-30,2010-01-30,32,1
+468,Southern Gothic,The Constellations,19,2010-07-10,2010-07-10,32,1
+469,Say Goodnight To The World,Dax Riggs,19,2010-08-21,2010-08-21,32,1
+470,Down The Way,Angus And Julia Stone,19,2010-04-17,2010-04-17,32,1
+471,Blood/Candy,The Posies,19,2010-10-16,2010-10-16,32,1
+472,Let It Sway,Someone Still Loves You Boris Yeltsin,19,2010-09-04,2010-09-04,32,1
+473,Avi Buffalo,Avi Buffalo,19,2010-05-15,2010-05-15,32,1
+474,Saint Bartlett,Damien Jurado,21,2010-06-12,2010-06-19,32,2
+475,More Than Noise,Pocket Full Of Rocks,25,2010-04-03,2010-09-04,32,2
+476,My Christmas Wish,Alex Boye,27,2010-12-18,2010-12-25,32,2
+477,Not Music,Stereolab,20,2010-12-04,2010-12-04,31,1
+478,Danza III: The Series Of Unfortunate Events,The Tony Danza Tapdance Extravaganza,20,2010-07-24,2010-07-24,31,1
+479,Head Above Water,Brandon Rhyder,20,2010-03-06,2010-03-06,31,1
+480,The Heart,Jimmy Gnecco,20,2010-08-07,2010-08-07,31,1
+481,All We Grow,S. Carey,20,2010-09-11,2010-09-11,31,1
+482,Valley Of Smoke,Intronaut,20,2010-10-30,2010-10-30,31,1
+483,Luna Nueva,Debi Nova,22,2010-06-05,2010-06-12,31,2
+484,In Hi-Fi Stereo,Mindi Abair,31,2010-06-05,2010-08-07,31,2
+485,Tchaikovsky: The Nutcracker,Simon Rattle/Berliner Philharmoniker,33,2010-12-18,2010-12-25,31,2
+486,Barbara,We Are Scientists,21,2010-07-03,2010-07-03,30,1
+487,2 Different Tears (EP),Wonder Girls,21,2010-07-10,2010-07-10,30,1
+488,Devil's Brigade,Devil's Brigade,21,2010-09-18,2010-09-18,30,1
+489,Desolation Of Eden,Chelsea Grin,21,2010-03-06,2010-03-06,30,1
+490,Right Road Now,Whitney Duncan,21,2010-05-08,2010-05-08,30,1
+491,Yet,My Epic,21,2010-07-24,2010-07-24,30,1
+492,NOTA's A Cappella Christmas (EP),NOTA,21,2010-12-25,2010-12-25,30,1
+493,Carpe Diem,Belinda,21,2010-04-10,2010-04-10,30,1
+494,Seu Jorge And Almaz,Seu Jorge And Almaz,21,2010-08-14,2010-08-14,30,1
+495,Ghost Stories,Silent Civilian,21,2010-06-05,2010-06-05,30,1
+496,Two Suns,Bat For Lashes,34,2010-01-16,2010-01-23,30,2
+497,Best Friends?,Brad,22,2010-09-04,2010-09-04,29,1
+498,King Night,Salem,22,2010-10-16,2010-10-16,29,1
+499,Symptoms + Cures,Comeback Kid,22,2010-09-18,2010-09-18,29,1
+500,Untouchable,Before Their Eyes,22,2010-03-27,2010-03-27,29,1
+501,2nd Avenue,No Justice,22,2010-07-24,2010-07-24,29,1
+502,Rohnert Park,Ceremony,22,2010-06-26,2010-06-26,29,1
+503,Walk Alone,PJ Morton,22,2010-04-24,2010-04-24,29,1
+504,Love Filling Station,Jesse Winchester,22,2010-01-30,2010-01-30,29,1
+505,Picturesque,Chase Coy,22,2010-06-19,2010-06-19,29,1
+506,Marrow Of The Spirit,Agalloch,25,2010-12-11,2010-12-18,29,2
+507,Time Bomb,Iration,30,2010-03-27,2010-04-03,29,2
+508,Any Port In A Storm,The Dirty Heads,34,2010-03-13,2010-05-08,29,3
+509,I Was Trying To Describe You To Someone,Crime In Stereo,23,2010-03-13,2010-03-13,28,1
+510,Pressing On,Mary Alessi,23,2010-10-09,2010-10-09,28,1
+511,Lazers Never Die (EP),Major Lazer,23,2010-08-07,2010-08-07,28,1
+512,North Hills,Dawes,23,2010-10-02,2010-10-02,28,1
+513,Rain's A Comin',Children 18:3,23,2010-07-17,2010-07-17,28,1
+514,Everything Remains As It Never Was,Eluveitie,23,2010-03-27,2010-03-27,28,1
+515,In Desolation,Off With Their Heads,23,2010-06-26,2010-06-26,28,1
+516,Atomic Clock,Zion I,24,2010-11-27,2010-11-27,27,1
+517,Time To Burn,Taking Dawn,24,2010-02-13,2010-02-13,27,1
+518,Anybody Out There,Rufio,24,2010-08-14,2010-08-14,27,1
+519,Taddy Porter,Taddy Porter,24,2010-07-17,2010-07-17,27,1
+520,Misled By Certainty,Cephalic Carnage,24,2010-09-18,2010-09-18,27,1
+521,It's Hackin' Christmas! With Fred (EP),Fred Figglehorn,24,2010-01-09,2010-01-09,27,1
+522,What Lies Beneath,Tarja,24,2010-10-02,2010-10-02,27,1
+523,Sugar,Dead Confederate,24,2010-09-11,2010-09-11,27,1
+524,5  (EP),Die Antwoord,24,2010-07-31,2010-07-31,27,1
+525,Oh Little Fire,Sarah Harmer,24,2010-07-10,2010-07-10,27,1
+526,The Other Side Of Zero,Elizabeth & The Catapult,24,2010-11-13,2010-11-13,27,1
+527,Koonyum Sun,Xavier Rudd & Izintaba,24,2010-05-08,2010-05-08,27,1
+528,Music For Men,Gossip,37,2010-01-02,2010-01-23,27,3
+529,Terrible Things,Terrible Things,25,2010-09-18,2010-09-18,26,1
+530,Cherryholmes IV: Common Threads,Cherryholmes,25,2010-06-19,2010-06-19,26,1
+531,That Was Then This Is Now,Chasen,25,2010-03-27,2010-03-27,26,1
+532,Travellers In Space And Time,Apples In Stereo,25,2010-05-08,2010-05-08,26,1
+533,Happy Talk,Kermit Ruffins,25,2010-11-27,2010-11-27,26,1
+534,Drawing Down The Moon,Azure Ray,25,2010-10-02,2010-10-02,26,1
+535,Perch Patchwork,Maps & Atlases,25,2010-07-17,2010-07-17,26,1
+536,1982,Statik Selektah & Termanology,26,2010-11-13,2010-11-13,25,1
+537,Be Human (EP),Brighten,26,2010-04-10,2010-04-10,25,1
+538,Curse Your Branches,David Bazan,26,2010-03-27,2010-03-27,25,1
+539,Once Upon A Lie,The Sunstreak,26,2010-07-24,2010-07-24,25,1
+540,Invidious Dominion,Malevolent Creation,26,2010-09-11,2010-09-11,25,1
+541,Before The Dawn,Buju Banton,26,2010-10-16,2010-10-16,25,1
+542,Carla's Christmas Carols,Carla Bley/Steve Swallow/The Partyka Brass Quintet,26,2010-01-02,2010-01-02,25,1
+543,Absolute Dissent,Killing Joke,26,2010-12-11,2010-12-11,25,1
+544,Renovar O Morir,Calibre 50,26,2010-12-25,2010-12-25,25,1
+545,The World Is Ours,Upon A Burning Body,28,2010-04-24,2010-05-01,25,2
+546,I Hear Angels,Sheila Walsh,31,2010-10-09,2010-11-27,25,2
+547,"Tomorrow, In A Year",The Knife In Collaboration With Mt. Sims And PlanningToRock,32,2010-02-20,2010-03-27,25,2
+548,Subiza,Delorean,33,2010-05-08,2010-05-22,25,3
+549,House Of Pleasure,Plan B,36,2010-08-07,2010-08-28,25,4
+550,Eparistera Daimones,Triptykon,27,2010-04-10,2010-04-10,24,1
+551,Fang Island,Fang Island,27,2010-04-03,2010-04-03,24,1
+552,Voices: Chant From Avignon,The Benedictine Nuns Of Notre-Dame de l'Annonciation,27,2010-12-11,2010-12-11,24,1
+553,"The Fear Is Excruciating, But Therein Lies The Answer",Red Sparowes,27,2010-04-24,2010-04-24,24,1
+554,Life/Scars/Apologies,Since October,27,2010-06-26,2010-06-26,24,1
+555,Point Of Life,Misty Edwards,27,2010-01-16,2010-01-16,24,1
+556,Travel III (EP),Future Of Forestry,27,2010-07-17,2010-07-17,24,1
+557,The Art Of Malice,John 5,27,2010-05-29,2010-05-29,24,1
+558,Omega Wave,Forbidden,27,2010-11-13,2010-11-13,24,1
+559,Blow,Messy Marv And Berner,31,2010-01-02,2010-01-16,24,2
+560,Seriously Funny,Kevin Hart,28,2010-08-07,2010-08-07,23,1
+561,Blue Giant,Blue Giant,28,2010-07-31,2010-07-31,23,1
+562,Sex With An X,The Vaselines,28,2010-10-02,2010-10-02,23,1
+563,Fall 2010 (EP),Kyle Park,28,2010-10-09,2010-10-09,23,1
+564,Everything Collide,Sing It Loud,28,2010-05-29,2010-05-29,23,1
+565,Only Every Time,The Graduate,28,2010-09-18,2010-09-18,23,1
+566,We Don't Stand A Chance,AM Taxi,28,2010-06-05,2010-06-05,23,1
+567,Formalities,The Spill Canvas,28,2010-08-14,2010-08-14,23,1
+568,Thief,Keller & The Keels,28,2010-06-12,2010-06-12,23,1
+569,Couple Tracks,Fucked Up,28,2010-02-13,2010-02-13,23,1
+570,Majesty And Decay,Immolation,29,2010-03-27,2010-03-27,22,1
+571,The Cricket's Orchestra,Meaghan Smith,29,2010-04-03,2010-04-03,22,1
+572,Proprioception,And Hell Followed With,29,2010-07-17,2010-07-17,22,1
+573,Who's Ready To Party?,Fred Figglehorn,29,2010-10-09,2010-10-09,22,1
+574,My World,Dyland & Lenny,29,2010-03-20,2010-03-20,22,1
+575,Ali And Toumani,Ali Farka Toure & Toumani Diabate,29,2010-03-13,2010-03-13,22,1
+576,Rollin',Texas Hippie Coalition,29,2010-07-24,2010-07-24,22,1
+577,Rain On The City,Freedy Johnston,29,2010-01-30,2010-01-30,22,1
+578,Message To Garcia,Visqueen,29,2010-01-02,2010-01-02,22,1
+579,Re:Creations (EP),There For Tomorrow,29,2010-11-06,2010-11-06,22,1
+580,Stuck On Nothing,Free Energy,38,2010-04-03,2010-05-22,22,2
+581,Love Tattoo,Imelda May,30,2010-02-20,2010-02-20,21,1
+582,The Heart Of Man,In The Midst Of Lions,30,2010-08-21,2010-08-21,21,1
+583,This Is Me,Charlie McDonell,30,2010-12-18,2010-12-18,21,1
+584,True Devotion,Rocky Votolato,30,2010-03-13,2010-03-13,21,1
+585,Sigh No More (EP),Mumford & Sons,30,2010-02-27,2010-02-27,21,1
+586,Based On A True Story,Sick Of It All,30,2010-05-08,2010-05-08,21,1
+587,Field Music (Measure),Field Music,30,2010-03-06,2010-03-06,21,1
+588,Truth & Salvage Co.,Truth & Salvage Co.,30,2010-06-12,2010-06-12,21,1
+589,Chopin: Complete Waltzes,Alice Sara Ott,30,2010-02-06,2010-02-06,21,1
+590,A State Of Trance 2010,Armin van Buuren,36,2010-04-24,2010-05-01,21,2
+591,"Your Future, Our Clutter",The Fall,31,2010-05-22,2010-05-22,20,1
+592,Live At The Burton Cummings Theatre,The Weakerthans,31,2010-04-10,2010-04-10,20,1
+593,Black Swan,Athlete,31,2010-03-20,2010-03-20,20,1
+594,Memphis,Magic Kids,31,2010-09-11,2010-09-11,20,1
+595,Nonstoperotik,Black Francis,31,2010-04-17,2010-04-17,20,1
+596,Nineteen Ninety Now,Celph Titled & Buckwild,31,2010-11-13,2010-11-13,20,1
+597,Hunting My Dress,Jesca Hoop,31,2010-08-14,2010-08-14,20,1
+598,As I Call You Down,Fistful Of Mercy,31,2010-10-16,2010-10-16,20,1
+599,Some Things Don't Wash Out,"You, Me & Everyone We Know",31,2010-10-30,2010-10-30,20,1
+600,Esto Tiene Boom Boom,Zone D'Tambora,31,2010-01-09,2010-01-09,20,1
+601,On A Mission,Eric Darius,31,2010-07-17,2010-07-17,20,1
+602,Graveyard Classics III,Six Feet Under,31,2010-02-06,2010-02-06,20,1
+603,After,Ihsahn,31,2010-02-13,2010-02-13,20,1
+604,Death Before Dishonor,Mr. Criminal,31,2010-07-31,2010-07-31,20,1
+605,In Loving Memory,Beneath The Sky,31,2010-05-29,2010-05-29,20,1
+606,Jack And Coke,Artie Lange,34,2010-01-02,2010-01-09,20,2
+607,Simplemente... El Torito,"Hector Acosta ""El Torito""",40,2010-01-02,2010-01-23,20,3
+608,Hands,Dave Holland/Pepe Habichuela,32,2010-12-04,2010-12-04,19,1
+609,Beautiful Dreamers,Bill Frisell,32,2010-09-18,2010-09-18,19,1
+610,Mi Negocio Al Millon,Los de Sonora,32,2010-09-25,2010-09-25,19,1
+611,Sex Dreams And Denim Jeans,Uffie,32,2010-07-03,2010-07-03,19,1
+612,A Crooked Road,Darrell Scott,32,2010-06-12,2010-06-12,19,1
+613,Huey Dunbar IV,Huey Dunbar,32,2010-03-20,2010-03-20,19,1
+614,Line 'Em Up (EP),States,32,2010-10-30,2010-10-30,19,1
+615,love.life.soul.,Jeff Sparks,32,2010-04-10,2010-04-10,19,1
+616,Entre Familia,Tito Nieves,38,2010-06-05,2010-06-12,19,2
+617,The Listening,LIGHTS,42,2010-01-09,2010-02-13,19,3
+618,It's Frightening,White Rabbits,44,2010-01-16,2010-01-30,19,3
+619,Talking Monkeys In Space,Joe Rogan,33,2010-04-17,2010-04-17,18,1
+620,Steel Magnolia (EP),Steel Magnolia,33,2010-03-13,2010-03-13,18,1
+621,Wildwood,Chatham County Line,33,2010-07-31,2010-07-31,18,1
+622,Alma Mater: Music From The Vatican,Pope Benedict XVI,33,2010-01-02,2010-01-02,18,1
+623,Hadestown,Anais Mitchell,33,2010-03-27,2010-03-27,18,1
+624,Out Of My Hands,Green River Ordinance,33,2010-01-30,2010-01-30,18,1
+625,No Singles,Japandroids,33,2010-05-29,2010-05-29,18,1
+626,The Dark Leaves,Matt Pond PA,33,2010-05-01,2010-05-01,18,1
+627,Addicts: Black Meddle Part II,Nachtmystium,33,2010-06-26,2010-06-26,18,1
+628,28th & Stonewall,Tim Barry,33,2010-02-13,2010-02-13,18,1
+629,Shine,Shaman's Harvest,41,2010-06-12,2010-06-19,18,2
+630,Devil's Made A New Friend,Jarrod Gorbel,34,2010-09-18,2010-09-18,17,1
+631,The Stronger The Love (EP),Action Item,34,2010-09-04,2010-09-04,17,1
+632,Wolfpack Party,The Pack,34,2010-09-11,2010-09-11,17,1
+633,Love It To Life,Jesse Malin & The St. Marks Social,34,2010-05-15,2010-05-15,17,1
+634,Undercard,The Extra Lens,34,2010-11-06,2010-11-06,17,1
+635,The Wicked Symphony,Avantasia,34,2010-05-22,2010-05-22,17,1
+636,The Reign Of Darkness,Annotations Of An Autopsy,34,2010-02-27,2010-02-27,17,1
+637,Nothing Hurts,Male Bonding,34,2010-05-29,2010-05-29,17,1
+638,The Big Deep,The Sleeping,34,2010-10-16,2010-10-16,17,1
+639,Guaranteed To Disagree (EP),We Are The In Crowd,39,2010-06-26,2010-08-28,17,2
+640,It's All Happening,iwrestledabearonce,42,2010-08-14,2010-08-21,17,2
+641,Hippies,Harlem,35,2010-04-24,2010-04-24,16,1
+642,I Kill People,Jon Lajoie,35,2010-12-04,2010-12-04,16,1
+643,Release Me,The Like,35,2010-07-03,2010-07-03,16,1
+644,Our Graceful Words,Sent By Ravens,35,2010-05-08,2010-05-08,16,1
+645,Messenger,Joe Pug,35,2010-03-06,2010-03-06,16,1
+646,Pieces,Erik Hassle,35,2010-06-05,2010-06-05,16,1
+647,Acoustic Sessions,The Ghost Of A Saber Tooth Tiger,35,2010-11-13,2010-11-13,16,1
+648,Spacebound  (EP),Group 1 Crew,35,2010-06-26,2010-06-26,16,1
+649,Let It Go,Bill Burr,35,2010-10-23,2010-10-23,16,1
+650,Saturday Morning Apocalypse,Powerglove,35,2010-10-16,2010-10-16,16,1
+651,Puro Cartel,Los Cuates de Sinaloa,36,2010-03-13,2010-03-20,16,2
+652,Love Is In The Missile,Atom Smash,36,2010-09-18,2010-09-18,15,1
+653,Hello World (EP),Amely,36,2010-10-02,2010-10-02,15,1
+654,Eyes & Nines,Trash Talk,36,2010-07-10,2010-07-10,15,1
+655,In The Abscene Of Light,Abigail Williams,36,2010-10-16,2010-10-16,15,1
+656,Confessions Of A Nice Girl,Katie Armiger,36,2010-10-23,2010-10-23,15,1
+657,What We Lose In The Fire We Gain In The Flood,The Mynabirds,36,2010-06-05,2010-06-05,15,1
+658,Talk About,Mishka,36,2010-04-10,2010-04-10,15,1
+659,Days Of Defiance,Firewind,36,2010-11-13,2010-11-13,15,1
+660,Automatic,Cognito,36,2010-05-08,2010-05-08,15,1
+661,Mi Razon De Vivir,Los Player's,39,2010-05-08,2010-05-15,15,2
+662,I Am Michael Grimm,Michael Grimm,37,2010-10-02,2010-10-02,14,1
+663,OJ Simpson,Guilty Simpson,37,2010-06-05,2010-06-05,14,1
+664,Ordinary Dreamers,Group 1 Crew,37,2010-01-02,2010-01-02,14,1
+665,Fixin To Thrill,Dragonette,37,2010-07-17,2010-07-17,14,1
+666,Say It,Born Ruffians,37,2010-06-19,2010-06-19,14,1
+667,Resident Evil: Afterlife 3D (Soundtrack),Tomandandy,37,2010-09-25,2010-09-25,14,1
+668,The Wages,Reverend Peyton's Big Damn Band,37,2010-06-12,2010-06-12,14,1
+669,Once Upon A Night,Ferry Corsten,37,2010-04-17,2010-04-17,14,1
+670,100 Proof (The Hangover),Statik Selektah,37,2010-02-20,2010-02-20,14,1
+671,Heart Of My Own,Basia Bulat,37,2010-02-13,2010-02-13,14,1
+672,Night & Day,The Secret Handshake,37,2010-09-04,2010-09-04,14,1
+673,Jungle Gym,Justin Roberts,37,2010-06-26,2010-06-26,14,1
+674,It's What I'm Thinking: (Part One) Photographing Snowflakes,Badly Drawn Boy,38,2010-10-30,2010-10-30,13,1
+675,The Black Pacific,The Black Pacific,38,2010-10-02,2010-10-02,13,1
+676,Patchwork River,Jim Lauderdale,38,2010-05-29,2010-05-29,13,1
+677,Non-Stop,Andy Bell,38,2010-06-26,2010-06-26,13,1
+678,Songs For Singles,Torche,38,2010-10-09,2010-10-09,13,1
+679,Red Horse,"Red Horse Featuring Gilkyson, Gorka, Kaplansky",38,2010-08-21,2010-08-21,13,1
+680,Stardust Galaxies,The Parlotones,39,2010-10-16,2010-10-23,13,2
+681,Empire (EP),The Word Alive,39,2010-04-10,2010-04-10,12,1
+682,Blind Threshold,Beats Antique,39,2010-10-02,2010-10-02,12,1
+683,In Time,Ryan Kelly,39,2010-11-13,2010-11-13,12,1
+684,Drink The Sea,The Glitch Mob,39,2010-06-12,2010-06-12,12,1
+685,The Foundling,Mary Gauthier,39,2010-06-05,2010-06-05,12,1
+686,Between The Lies (EP),Memphis May Fire,39,2010-11-20,2010-11-20,12,1
+687,Day After Day: KS (EP),Kristian Stanfill,39,2010-10-16,2010-10-16,12,1
+688,These Are My Sins,I The Breather,39,2010-12-25,2010-12-25,12,1
+689,Believe,Katherine Jenkins,42,2010-07-03,2010-07-24,12,2
+690,Country Is As Country Does,Colt Ford,42,2010-01-02,2010-03-06,12,2
+691,Songs That Jesus Said,Keith & Kristyn Getty,44,2010-10-16,2010-11-06,12,2
+692,Heartbeats (EP),Versant,40,2010-10-09,2010-10-09,11,1
+693,Red Light Fever,Taylor Hawkins & The Coattail Riders,40,2010-05-08,2010-05-08,11,1
+694,Turn Ons,The HotRats,40,2010-02-06,2010-02-06,11,1
+695,Eternity Invades,Vicky Beeching,40,2010-04-24,2010-04-24,11,1
+696,Dear Companion,Ben Sollee & Daniel Martin Moore,40,2010-03-06,2010-03-06,11,1
+697,Latin,Holy Fuck,40,2010-05-29,2010-05-29,11,1
+698,The Magician's Private Library,Holly Miranda,40,2010-03-13,2010-03-13,11,1
+699,Pink Friday,Nicki Minaj,40,2010-12-04,2010-12-04,11,1
+700,Tweet Tweet,Abraham Inc.,40,2010-06-12,2010-06-12,11,1
+701,Brother Clyde,Brother Clyde,40,2010-08-28,2010-08-28,11,1
+702,God,Eddie James,40,2010-11-20,2010-11-20,11,1
+703,Caricias Compradas,Cuisillos,40,2010-04-17,2010-04-17,11,1
+704,Psychic Chasms,Neon Indian,45,2010-01-16,2010-01-23,11,2
+705,Heartland,Owen Pallett,45,2010-01-30,2010-02-20,11,3
+706,The Green,The Green,41,2010-02-20,2010-02-20,10,1
+707,Logos,Atlas Sound,41,2010-01-23,2010-01-23,10,1
+708,Welcome To The Blacklist Club,Evan Taubenfeld,41,2010-06-05,2010-06-05,10,1
+709,How I Learned To See In The Dark,Chris Pureka,41,2010-05-01,2010-05-01,10,1
+710,Delightfully Pleased,Punchline,41,2010-08-28,2010-08-28,10,1
+711,Con Sabor A Sinaloa Dedicado A Mi Madre,Banda Sinaloense MM,41,2010-05-22,2010-05-22,10,1
+712,Superficial,Heidi Montag,41,2010-01-30,2010-01-30,10,1
+713,At Echo Lake,Woods,41,2010-05-29,2010-05-29,10,1
+714,Senior,Royksopp,46,2010-11-13,2010-12-11,10,2
+715,O.M.G.!,Rusko,42,2010-05-22,2010-05-22,9,1
+716,We Fit: The Workout Plan,K-Drama,42,2010-08-28,2010-08-28,9,1
+717,Fluorescent Youth,Conditions,42,2010-10-02,2010-10-02,9,1
+718,The Exxecution,Marco Polo & Ruste Juxx,42,2010-04-10,2010-04-10,9,1
+719,My Room In The Trees,The Innocence Mission,42,2010-07-31,2010-07-31,9,1
+720,We've All Been There,Alex Band,42,2010-07-17,2010-07-17,9,1
+721,SONOSSings,SONOS,43,2010-02-06,2010-02-13,9,2
+722,Yesterday You Said Tomorrow,Christian Scott,43,2010-04-17,2010-04-17,8,1
+723,Through Tomorrow,Seasons After,43,2010-04-10,2010-04-10,8,1
+724,Heirs To Thievery,Misery Index,43,2010-05-29,2010-05-29,8,1
+725,Mutiny Within,Mutiny Within,43,2010-03-13,2010-03-13,8,1
+726,Tu Piel,Estrellas de Tuzantla,43,2010-03-06,2010-03-06,8,1
+727,Walker Hayes (EP),Walker Hayes,43,2010-10-09,2010-10-09,8,1
+728,Babez For Breakfast,Lordi,43,2010-10-02,2010-10-02,8,1
+729,Sister Kinderhook,Rasputina,43,2010-07-03,2010-07-03,8,1
+730,jj n degree 3,jj,43,2010-03-27,2010-03-27,8,1
+731,Lawless Darkness,Watain,43,2010-06-26,2010-06-26,8,1
+732,Obidiah,Frazey Ford,43,2010-08-07,2010-08-07,8,1
+733,InnerSpeaker,Tame Impala,46,2010-07-17,2010-07-24,8,2
+734,While I'm Waiting,John Waller,44,2010-03-06,2010-03-06,7,1
+735,Back For The 1st Time,BMC Boyz,44,2010-02-06,2010-02-06,7,1
+736,Quiet (EP),Gavin Creel,44,2010-07-10,2010-07-10,7,1
+737,Maniac Meat,TOBACCO,44,2010-06-12,2010-06-12,7,1
+738,Eyes To The Sun,Sparks The Rescue,44,2010-07-24,2010-07-24,7,1
+739,Sleep Forever,Crocodiles,44,2010-10-02,2010-10-02,7,1
+740,Heart As Wide As The World,Krishna Das,44,2010-03-20,2010-03-20,7,1
+741,The Kinks Choral Collection,Ray Davies/The Crouch End Festival Chorus,44,2010-01-09,2010-01-09,7,1
+742,Minotaur,The Clientele,44,2010-11-06,2010-11-06,7,1
+743,Shasm Hits: Volume One,moe.,44,2010-06-19,2010-06-19,7,1
+744,Amante Bachata,Joseph Fonseca,45,2010-01-02,2010-01-09,7,2
+745,Sitra Ahra,Therion,45,2010-11-13,2010-11-13,6,1
+746,Llegaste A Mi,La Apuesta,45,2010-11-27,2010-11-27,6,1
+747,Voices From The Heights,The Maccabeats,45,2010-12-18,2010-12-18,6,1
+748,25,Patty Larkin,45,2010-03-27,2010-03-27,6,1
+749,Michael Sarver,Michael Sarver,45,2010-08-14,2010-08-14,6,1
+750,Love Like This,The Summer Set,46,2010-07-24,2010-07-31,6,2
+751,Love Like Crazy (EP),Lee Brice,46,2010-02-20,2010-02-20,5,1
+752,The Bear,Stephen Kellogg And The Sixers,46,2010-05-22,2010-05-22,5,1
+753,(Oversteps),Autechre,46,2010-04-10,2010-04-10,5,1
+754,Mi Vida Sin Tu Amor,Jimmy Gonzalez y El Grupo Mazz,46,2010-07-03,2010-07-03,5,1
+755,xALBUMx,EATMEWHILEIMHOT!,46,2010-08-14,2010-08-14,5,1
+756,Diminuito,Rolf Lislevand,46,2010-01-09,2010-01-09,5,1
+757,The Isaacs ... Naturally: An Almost A Cappella Collection,The Isaacs,46,2010-01-02,2010-01-02,5,1
+758,Won't It Be Wonderful,James Hall Presents Voices Of Citadel,46,2010-04-24,2010-04-24,5,1
+759,Overly Dedicated,Kendrick Lamar,46,2010-10-02,2010-10-02,5,1
+760,Rapture Ruckus (EP),Rapture Ruckus,47,2010-06-26,2010-06-26,4,1
+761,Telekinesis!,Telekinesis,47,2010-06-12,2010-06-12,4,1
+762,Legacy,Peter Rowan Bluegrass Band,47,2010-12-18,2010-12-18,4,1
+763,Beyond The Gate,Wretched,47,2010-08-21,2010-08-21,4,1
+764,Grey Crow,Eligh,47,2010-11-27,2010-11-27,4,1
+765,Making Monsters,Combichrist,47,2010-10-16,2010-10-16,4,1
+766,The Bright Mississippi,Allen Toussaint,47,2010-01-30,2010-01-30,4,1
+767,Damn Rough Night (EP),Artist Vs Poet,47,2010-01-02,2010-01-02,4,1
+768,Man From Another Time,Seasick Steve,47,2010-05-15,2010-05-15,4,1
+769,If You Don't First (EP),Ten After Two,48,2010-11-27,2010-11-27,3,1
+770,Whitey Morgan And The 78's,Whitey Morgan And The 78's,48,2010-10-30,2010-10-30,3,1
+771,The Narrow Road,Rick Pino,48,2010-06-19,2010-06-19,3,1
+772,Shine,The Bowling Family,48,2010-03-20,2010-03-20,3,1
+773,Removed,Billy Burke,48,2010-07-10,2010-07-10,3,1
+774,The Well,Charlie Musselwhite,48,2010-09-11,2010-09-11,3,1
+775,Stereoside,Stereoside,48,2010-09-18,2010-09-18,3,1
+776,Farewell Good Night's Sleep,Lay Low,48,2010-04-10,2010-04-10,3,1
+777,Invictus,Heaven Shall Burn,48,2010-06-26,2010-06-26,3,1
+778,Ride To California (EP),Paper Tongues,48,2010-01-30,2010-01-30,3,1
+779,Surfing The Void,Klaxons,49,2010-10-09,2010-10-09,2,1
+780,The Learner,Griffin House,49,2010-07-10,2010-07-10,2,1
+781,Cloak And Cipher,Land Of Talk,49,2010-09-11,2010-09-11,2,1
+782,A Feast For Crows,Corpus Christi,49,2010-07-24,2010-07-24,2,1
+783,Black Noise,Pantha du Prince,49,2010-04-24,2010-04-24,2,1
+784,Sports,Weekend,49,2010-11-27,2010-11-27,2,1
+785,Booker's Guitar,Eric Bibb,49,2010-03-13,2010-03-13,2,1
+786,Painted Red,JJ Heller,50,2010-04-17,2010-04-17,1,1
+787,Absence,Paper Route,50,2010-05-01,2010-05-01,1,1
+788,A Modern Day Prodigal Son,Brantley Gilbert,50,2010-11-20,2010-11-20,1,1
+789,Love Remains,How To Dress Well,50,2010-10-09,2010-10-09,1,1
+790,Covenant Worship: Never Going Back,David & Nicole Binion,50,2010-11-13,2010-11-13,1,1
+791,What If Mozart Wrote White Christmas,The Northern Lights Orchestra,50,2010-01-02,2010-01-02,1,1
+792,Declaration Of Dependence,Kings Of Convenience,50,2010-01-16,2010-01-16,1,1

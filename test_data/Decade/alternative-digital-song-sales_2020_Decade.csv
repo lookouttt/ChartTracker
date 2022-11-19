@@ -1,0 +1,648 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Dance Monkey,Tones And I,1,2020-01-04,2022-10-01,2202,130
+2,Heat Waves,Glass Animals,1,2020-07-18,2022-10-22,1839,92
+3,Bang!,AJR,1,2020-02-22,2022-08-06,1640,99
+4,Believer,Imagine Dragons,1,2020-01-04,2022-11-05,1257,130
+5,Bad Guy,Billie Eilish,1,2020-01-04,2022-10-08,1249,91
+6,The Sound Of Silence,Disturbed,3,2020-01-04,2022-10-22,1216,114
+7,Everything I Wanted,Billie Eilish,2,2020-01-04,2021-04-03,999,59
+8,My Ex's Best Friend,Machine Gun Kelly X blackbear,1,2020-08-22,2021-10-23,984,58
+9,Mood,24kGoldn Featuring iann dior,1,2020-08-29,2021-10-02,964,52
+10,Enemy,Imagine Dragons X JID,1,2021-11-13,2022-10-22,847,45
+11,abcdefu,GAYLE,1,2021-11-27,2022-10-15,813,41
+12,Monsters,All Time Low Featuring blackbear,1,2020-04-18,2021-09-04,703,45
+13,Meet Me At Our Spot,THE ANXIETY: WILLOW & Tyler Cole,1,2021-09-18,2022-05-07,684,34
+14,Without You,The Kid LAROI & Miley Cyrus,1,2021-03-27,2021-12-25,662,38
+15,Beggin',Maneskin,1,2021-09-11,2022-07-02,651,36
+16,Therefore I Am,Billie Eilish,1,2020-11-21,2021-07-24,600,30
+17,Popular Monster,Falling In Reverse,6,2020-01-04,2021-05-01,592,52
+18,Bones,Imagine Dragons,1,2022-03-26,2022-11-05,581,32
+19,Sunroof,Nicky Youre & dazy,1,2022-04-16,2022-11-05,571,28
+20,My Universe,Coldplay x BTS,1,2021-10-09,2022-07-23,559,37
+21,Thunder,Imagine Dragons,7,2020-01-04,2022-07-16,546,75
+22,Come & Go,Juice WRLD x Marshmello,1,2020-07-25,2021-02-06,523,28
+23,High Hopes,Panic! At The Disco,6,2020-01-04,2022-08-13,511,41
+24,Ocean Eyes,Billie Eilish,4,2020-01-04,2021-08-28,508,44
+25,Running Up That Hill (A Deal With God),Kate Bush,1,2022-06-11,2022-11-05,504,22
+26,Supalonely,BENEE Featuring Gus Dapperton,4,2020-03-21,2020-09-19,490,27
+27,Everybody Wants To Rule The World,Tears For Fears,1,2020-03-07,2022-10-22,483,37
+28,Happier Than Ever,Billie Eilish,1,2021-08-14,2022-05-07,466,29
+29,Bloody Valentine,Machine Gun Kelly,1,2020-05-16,2021-02-27,442,38
+30,Death Bed,Powfu Featuring beabadoobee,2,2020-06-13,2021-01-23,433,25
+31,A-O-K,Tai Verdes,2,2021-06-26,2022-01-01,433,26
+32,Take What You Want,Post Malone Featuring Ozzy Osbourne & Travis Scott,4,2020-01-04,2020-08-01,432,30
+33,Willow,Taylor Swift,1,2020-12-26,2021-07-17,378,25
+34,Way Less Sad,AJR,3,2021-03-06,2021-09-04,378,26
+35,When The Party's Over,Billie Eilish,3,2020-01-04,2022-10-08,374,28
+36,Follow You,Imagine Dragons,1,2021-03-27,2022-01-15,358,26
+37,Zombie,The Cranberries,1,2020-10-31,2022-10-22,356,26
+38,Exile,Taylor Swift Featuring Bon Iver,2,2020-08-08,2021-11-27,350,33
+39,Level Of Concern,twenty one pilots,1,2020-04-18,2020-08-15,329,18
+40,Smells Like Teen Spirit,Nirvana,3,2021-01-09,2022-11-05,298,34
+41,Cardigan,Taylor Swift,1,2020-08-08,2020-12-12,280,19
+42,Infinity,Jaymes Young,2,2021-12-11,2022-05-07,275,20
+43,Mr. Brightside,The Killers,4,2020-10-03,2022-10-15,267,23
+44,Time Of Your Life (Good Riddance),Green Day,7,2020-05-02,2022-07-02,267,24
+45,Wrecked,Imagine Dragons,3,2021-07-17,2021-11-27,256,18
+46,No Time To Die,Billie Eilish,1,2020-02-22,2022-04-16,251,17
+47,Trampoline,SHAED,5,2020-01-04,2021-03-13,248,19
+48,Rockstar,Nickelback,2,2021-04-10,2022-09-24,225,13
+49,Bring Me To Life,Evanescence Featuring Paul McCoy,1,2020-05-23,2022-09-24,224,14
+50,Paralyzed,Sueco,2,2021-08-28,2022-02-05,212,13
+51,Way Down We Go,KALEO,1,2020-06-27,2022-05-28,206,20
+52,Moral Of The Story,Ashe,5,2020-02-29,2020-10-31,206,20
+53,Bad Habit,Steve Lacy,2,2022-08-20,2022-11-05,204,12
+54,Caution,The Killers,3,2020-03-21,2020-08-29,196,21
+55,Don't You (Forget About Me),Simple Minds,1,2020-06-06,2022-11-05,193,13
+56,Something In The Way,Nirvana,3,2020-09-05,2022-05-21,189,11
+57,My Future,Billie Eilish,1,2020-08-08,2021-05-15,179,12
+58,Kryptonite,3 Doors Down,1,2021-06-19,2022-05-21,178,9
+59,Island In The Sun,Weezer,3,2021-04-10,2022-09-24,171,10
+60,Ophelia,The Lumineers,5,2020-01-04,2022-08-13,162,14
+61,Somebody That I Used To Know,Gotye Featuring Kimbra,2,2021-04-24,2022-11-05,160,12
+62,Love Shack,The B-52s,7,2021-05-22,2022-07-30,156,13
+63,A Sky Full Of Stars,Coldplay,2,2020-11-21,2022-08-20,150,11
+64,Bite Me,Avril Lavigne,3,2021-11-20,2022-03-12,150,11
+65,All The Small Things,Blink-182,4,2021-07-03,2022-10-22,150,14
+66,Radioactive,Imagine Dragons,1,2020-01-04,2022-11-05,145,12
+67,Edamame,bbno$ Featuring Rich Brian,8,2021-11-06,2022-02-19,144,13
+68,Christmas Wrapping,The Waitresses,5,2020-01-04,2022-01-08,140,11
+69,Iris,Goo Goo Dolls,2,2021-01-16,2022-08-27,138,12
+70,Bitter Sweet Symphony,The Verve,4,2020-08-01,2022-09-24,136,12
+71,Higher Power,Coldplay,2,2021-05-15,2021-10-09,131,12
+72,Paparazzi,kim dracula,9,2021-01-09,2021-03-13,131,10
+73,Here Without You,3 Doors Down,2,2021-10-02,2022-09-24,128,9
+74,Forget Me Too,Machine Gun Kelly & Halsey,3,2020-10-10,2021-02-20,128,11
+75,Chasing Cars,Snow Patrol,4,2020-05-30,2022-11-05,128,9
+76,Best Day Of My Life,American Authors,11,2020-05-23,2022-07-02,128,13
+77,All The Good Girls Go To Hell,Billie Eilish,7,2020-01-04,2020-02-29,119,9
+78,River,Bishop Briggs,10,2020-04-25,2022-10-08,116,15
+79,Daylight,Shinedown,8,2022-06-11,2022-10-22,112,10
+80,Without You,The Kid LAROI,6,2021-02-13,2021-03-20,109,6
+81,Voices In My Head,Falling In Reverse,2,2022-06-11,2022-08-27,105,9
+82,Yellow,Coldplay,6,2020-05-02,2022-08-13,105,8
+83,Zombified,Falling In Reverse,7,2022-01-15,2022-06-18,101,11
+84,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,10,2021-06-05,2022-11-05,100,8
+85,The Reason,Hoobastank,5,2020-04-11,2022-09-24,98,9
+86,World's Smallest Violin,AJR,5,2022-08-27,2022-10-29,97,8
+87,Running Up That Hill,Meg Myers,9,2020-01-18,2022-07-02,97,10
+88,Vacation,Dirty Heads,11,2021-04-24,2021-08-28,97,11
+89,One Headlight,The Wallflowers,8,2020-05-23,2022-09-24,96,9
+90,My Hero,Foo Fighters,3,2020-04-11,2022-10-01,88,6
+91,Demons,Imagine Dragons,3,2021-10-16,2022-11-05,88,9
+92,Under The Bridge,Red Hot Chili Peppers,7,2021-11-06,2022-11-05,88,9
+93,Emo Girl,Machine Gun Kelly & WILLOW,4,2022-02-19,2022-04-02,87,5
+94,Fix You,Coldplay,9,2020-05-16,2022-02-19,87,8
+95,In The End,Linkin Park,5,2020-07-18,2021-07-10,83,8
+96,Fireflies,Owl City,4,2021-09-11,2022-08-27,82,4
+97,Stressed Out,twenty one pilots,7,2021-06-05,2022-11-05,82,6
+98,Photograph,Nickelback,9,2021-02-13,2022-09-03,80,8
+99,Brainwashed,Tom MacDonald,1,2021-08-28,2021-09-25,79,5
+100,Damn!,Jeris Johnson,5,2020-10-03,2020-12-19,78,7
+101,Shine,Collective Soul,12,2020-05-30,2022-09-24,78,8
+102,Fade Into You,Mazzy Star,12,2021-06-05,2022-10-22,78,11
+103,Cradles,Sub Urban,16,2020-01-04,2020-04-25,77,16
+104,Your Power,Billie Eilish,2,2021-05-08,2021-06-19,76,5
+105,Times Like These,Foo Fighters,5,2020-05-09,2022-09-17,76,6
+106,Electric Love,BORNS,8,2020-08-15,2020-10-03,76,8
+107,If You Leave,Orchestral Manoeuvres In The Dark,4,2021-05-08,2022-10-15,75,5
+108,San Quentin,Nickelback,7,2022-09-17,2022-10-22,73,6
+109,Let Somebody Go,Coldplay X Selena Gomez,4,2021-10-30,2022-03-12,71,4
+110,Crazy,Gnarls Barkley,4,2021-06-05,2022-11-05,71,6
+111,Runaway,AURORA,7,2021-04-24,2021-05-29,71,6
+112,Don't Dream It's Over,Crowded House,5,2022-09-03,2022-09-24,70,4
+113,"I Am Not A Woman, I'm A God",Halsey,6,2021-09-11,2021-10-23,70,5
+114,3 AM,matchbox 20,8,2021-10-23,2022-07-30,70,7
+115,Whatever It Takes,Imagine Dragons,15,2020-01-04,2022-05-28,70,16
+116,More,j-hope,2,2022-07-16,2022-09-10,69,4
+117,You Get What You Give,New Radicals,4,2021-01-30,2022-07-30,65,4
+118,Life Goes On,Oliver Tree,8,2021-10-23,2022-01-15,65,8
+119,Viva La Vida,Coldplay,10,2020-04-11,2022-08-13,65,6
+120,Smells Like Teen Spirit,Malia J,1,2021-07-24,2021-10-23,64,4
+121,God Rest Ye Merry Gentlemen / We Three Kings,Barenaked Ladies & Sarah McLachlan,11,2020-12-19,2022-01-01,64,6
+122,You Should See Me In A Crown,Billie Eilish,14,2020-01-04,2020-03-14,64,10
+123,Brutal,Olivia Rodrigo,15,2021-06-19,2021-10-02,64,10
+124,Shame Shame,Foo Fighters,6,2020-11-21,2020-12-19,63,5
+125,It's The End Of The World As We Know It (And I Feel Fine),R.E.M.,4,2020-03-21,2020-04-18,62,5
+126,Mr. Jones,Counting Crows,10,2021-07-03,2022-05-21,62,6
+127,Fire For You,Cannons,18,2020-10-31,2022-04-02,62,14
+128,NDA,Billie Eilish,2,2021-07-24,2021-08-21,61,4
+129,Fly Away,Tones And I,12,2020-11-28,2022-03-05,61,9
+130,Dreams,The Cranberries,8,2022-01-08,2022-09-24,60,8
+131,Natural,Imagine Dragons,12,2020-01-04,2020-03-21,60,7
+132,I Really Want To Stay At Your House,Rosa Walton,5,2022-10-08,2022-10-22,59,3
+133,She Keeps Me Up,Nickelback,6,2022-09-24,2022-10-22,59,4
+134,Record Player,Daisy The Great X AJR,11,2021-11-06,2022-03-12,59,6
+135,Blurry,Puddle Of Mudd,3,2021-06-05,2022-08-13,58,4
+136,(You Gotta) Fight For Your Right (To Party!),Beastie Boys,5,2021-06-19,2022-06-18,58,4
+137,It's Time To Go,Taylor Swift,1,2021-01-16,2021-01-30,57,3
+138,Walking On A Dream,Empire Of The Sun,6,2021-09-11,2022-08-27,57,4
+139,Numb,Linkin Park,4,2021-06-05,2021-07-10,56,4
+140,Dance Of The Clairvoyants,Pearl Jam,6,2020-02-01,2020-02-22,56,4
+141,Wait A Minute!,Willow Smith,6,2022-04-23,2022-05-14,55,4
+142,Make Up Sex,Machine Gun Kelly X blackbear,7,2022-04-09,2022-04-23,55,3
+143,Wild Child,The Black Keys,8,2022-03-26,2022-08-13,55,6
+144,"Hey Look Ma, I Made It",Panic! At The Disco,12,2020-01-04,2020-02-22,55,8
+145,Hey There Delilah,Plain White T's,4,2022-06-04,2022-11-05,54,3
+146,Sharks,Imagine Dragons,5,2022-07-09,2022-08-27,54,6
+147,Right Where You Left Me,Taylor Swift,2,2021-01-16,2021-01-30,53,3
+148,"Sugar, We're Goin Down",Fall Out Boy,9,2022-02-12,2022-11-05,53,4
+149,Parasite Eve,Bring Me The Horizon,2,2020-07-04,2020-08-01,52,5
+150,Some Nights,fun.,9,2022-05-28,2022-11-05,52,4
+151,Home,Edward Sharpe & The Magnetic Zeros,8,2022-06-04,2022-06-25,50,4
+152,Everlong,Foo Fighters,8,2021-02-20,2022-04-16,50,5
+153,It's Been Awhile,Staind,10,2021-07-03,2021-11-20,50,6
+154,Someone To You,Banners,12,2021-10-09,2022-02-12,50,5
+155,Black Summer,Red Hot Chili Peppers,2,2022-02-19,2022-04-23,49,4
+156,Far Behind,Candlebox,7,2022-02-12,2022-05-07,49,4
+157,I Still Haven't Found What I'm Looking For,Scarlett Johansson & Bono,12,2022-01-01,2022-07-16,49,6
+158,Seven Nation Army,The White Stripes,16,2020-10-24,2022-10-08,49,10
+159,Losing My Religion,R.E.M.,9,2022-01-22,2022-08-13,48,5
+160,Clocks,Coldplay,13,2021-10-09,2022-11-05,48,5
+161,Royals,Lorde,7,2022-06-04,2022-11-05,47,3
+162,Hallucinogenics,Matt Maeson,7,2020-09-12,2020-11-14,47,7
+163,We Are Young,fun. Featuring Janelle Monae,5,2021-05-22,2022-06-04,46,5
+164,Papercuts,Machine Gun Kelly,6,2021-08-21,2021-09-25,46,3
+165,Ho Hey,The Lumineers,13,2021-10-09,2022-02-12,46,4
+166,The Game Is Over,Evanescence,1,2020-07-11,2020-07-18,44,2
+167,Atlas Falls,Shinedown,1,2020-06-06,2020-08-29,44,4
+168,Human,Rag'n'Bone Man,6,2021-07-24,2021-08-07,44,3
+169,The Middle,Jimmy Eat World,8,2021-06-05,2022-02-12,44,4
+170,Don't Speak,No Doubt,11,2021-03-13,2022-10-01,44,5
+171,Feel Good Inc,Gorillaz,12,2021-06-05,2022-06-04,44,4
+172,HandClap,Fitz And The Tantrums,17,2021-05-22,2021-09-04,44,7
+173,I'm Shipping Up To Boston,Dropkick Murphys,6,2020-03-28,2022-03-26,43,3
+174,I Still Haven't Found What I'm Looking For,U2,11,2022-01-08,2022-07-16,43,5
+175,Last Resort,Papa Roach,5,2021-04-10,2021-04-17,42,2
+176,Angels & Demons,jxdn,5,2020-05-30,2020-06-06,42,2
+177,Shy Away,twenty one pilots,5,2021-04-17,2021-05-01,42,3
+178,Gives You Hell,The All-American Rejects,7,2022-06-04,2022-11-05,42,3
+179,Could Have Been Me,Halsey,10,2022-01-22,2022-07-23,42,5
+180,Hell N Back,Bakar,11,2020-12-12,2021-01-30,42,5
+181,Hanging By A Moment,Lifehouse,13,2022-09-03,2022-09-24,42,4
+182,TV,Billie Eilish,2,2022-07-30,2022-08-06,41,2
+183,Lips Of An Angel,Hinder,11,2021-07-03,2022-02-19,41,3
+184,Come As You Are,Nirvana,15,2021-06-05,2022-08-13,40,9
+185,The Foundations Of Decay,My Chemical Romance,1,2022-05-21,2022-05-28,39,2
+186,Last Resort (Reloaded),Papa Roach x Jeris Johnson,8,2021-02-06,2021-02-20,38,3
+187,All Star,Smash Mouth,11,2021-10-16,2022-03-12,38,4
+188,The 30th,Billie Eilish,3,2022-07-30,2022-08-06,37,2
+189,Maybe,Machine Gun Kelly & Bring Me The Horizon,6,2022-04-02,2022-07-09,37,3
+190,Boulevard Of Broken Dreams,"John Gallagher Jr, Rebecca Naomi Jones, Stark Sands & Company Of American Idiot",7,2022-10-15,2022-10-22,37,2
+191,Teenage Dirtbag,Wheatus,8,2022-08-20,2022-09-10,37,4
+192,Hello Hello Hello,Remi Wolf,12,2020-11-28,2020-12-19,37,4
+193,Obey,Bring Me The Horizon With YUNGBLUD,5,2020-09-12,2020-09-19,36,2
+194,Learn To Fly,Foo Fighters,6,2021-02-20,2022-04-16,36,3
+195,Solar Power,Lorde,4,2021-06-19,2021-06-26,35,2
+196,Colorado,Milky Chance,11,2021-10-09,2022-02-05,35,3
+197,When You Were Young,The Killers,12,2022-01-29,2022-05-21,35,3
+198,Creep,Radiohead,12,2020-11-07,2022-04-30,35,4
+199,Renegade,Big Red Machine Featuring Taylor Swift,1,2021-07-17,2021-07-24,34,2
+200,Protect The Land,System Of A Down,3,2020-11-21,2020-11-28,34,2
+201,Lost Cause,Billie Eilish,3,2021-06-19,2021-06-26,34,2
+202,Ay!,Machine Gun Kelly & Lil Wayne,5,2022-03-19,2022-03-26,34,2
+203,Old Man,Beck,6,2022-10-08,2022-10-15,34,2
+204,Loser,Sueco,10,2022-02-12,2022-03-05,33,3
+205,My Own Soul's Warning,The Killers,4,2020-06-27,2020-07-04,32,2
+206,Daywalker!,Machine Gun Kelly & CORPSE,5,2021-03-27,2021-04-03,32,2
+207,Decode,Paramore,9,2022-10-15,2022-10-22,32,2
+208,This Is Why,Paramore,9,2022-10-08,2022-10-15,32,2
+209,In The End,Tommee Profitt Featuring Fleurie & Jung Youth,12,2021-02-20,2021-03-13,32,4
+210,Uninvited,Alanis Morissette,14,2021-04-10,2022-10-15,32,4
+211,Lo Vas A Olvidar,Billie Eilish & ROSALIA,4,2021-01-30,2021-02-06,31,2
+212,Santeria,Sublime,6,2021-10-16,2022-08-13,31,3
+213,Simmer,Hayley Williams,10,2020-02-01,2020-02-08,31,2
+214,Don't Let The Light Go Out,Panic! At The Disco,10,2022-09-03,2022-10-22,31,3
+215,Running Up That Hill (A Deal With God),Loveless,7,2022-07-23,2022-07-30,30,2
+216,Flames,MOD SUN Featuring Avril Lavigne,10,2021-01-23,2021-02-13,30,3
+217,Hang On,NEEDTOBREATHE,11,2020-05-09,2020-05-16,30,2
+218,Surface Pressure,No Resolve,1,2022-04-16,2022-04-23,29,2
+219,Boy,The Killers,4,2022-08-20,2022-10-01,29,3
+220,Why Are You Here,Machine Gun Kelly,6,2020-01-04,2020-01-11,29,2
+221,Easy On Me,No Resolve,7,2021-11-27,2022-02-19,29,3
+222,On My Knees,RUFUS DU SOL,10,2022-08-20,2022-08-27,29,2
+223,Breakfast At Tiffany's,Deep Blue Something,15,2021-04-03,2022-07-30,29,3
+224,Only Ever Wanted,Timcast,1,2022-09-10,2022-09-17,28,2
+225,Zombie,Miley Cyrus,3,2020-11-07,2020-11-14,28,2
+226,Oh Yeah!,Green Day,9,2020-02-01,2020-02-22,28,2
+227,Heathens,twenty one pilots,10,2021-05-08,2021-05-15,28,2
+228,So Called Life,Three Days Grace,11,2021-12-11,2021-12-18,28,2
+229,Play Date,Melanie Martinez,13,2020-05-09,2020-05-23,28,3
+230,America's Sweetheart,Elle King,13,2021-03-13,2022-07-16,28,3
+231,Astronaut In The Ocean,Our Last Night,13,2021-04-24,2021-05-08,28,3
+232,Evermore,Taylor Swift Featuring Bon Iver,5,2020-12-26,2021-01-02,27,2
+233,Baby Outlaw,Elle King,5,2020-07-25,2020-08-01,27,2
+234,Champagne Problems,Taylor Swift,6,2020-12-26,2021-01-02,27,2
+235,Heart Of Glass,Blondie,8,2020-11-28,2021-08-21,27,4
+236,Love Race,Machine Gun Kelly Featuring Kellin Quinn,9,2021-05-08,2021-05-15,27,2
+237,Surviving The Game,Skillet,9,2021-09-25,2021-10-02,27,2
+238,Strangers,Bring Me The Horizon,10,2022-07-16,2022-07-23,27,2
+239,How You Remind Me,Nickelback,11,2021-04-10,2022-01-29,27,3
+240,Love It When You Hate Me,Avril Lavigne Featuring blackbear,13,2022-01-29,2022-03-19,27,3
+241,With Arms Wide Open,Creed,14,2020-07-04,2021-07-10,27,3
+242,Edging,Blink-182,1,2022-10-29,2022-11-05,26,2
+243,Break Stuff,Limp Bizkit,8,2022-08-20,2022-08-27,26,2
+244,Brass Monkey,Beastie Boys,10,2021-02-13,2021-02-20,26,2
+245,Who Am I,NEEDTOBREATHE,13,2020-07-11,2020-10-24,26,3
+246,Paralyzer,Finger Eleven,13,2021-04-10,2022-05-14,26,5
+247,No Good Bastards,"Tom MacDonald, Nova Rockafeller & Brandon Hart",1,2021-04-03,2021-04-03,25,1
+248,Iris,Phoebe & Maggie,1,2020-11-28,2020-11-28,25,1
+249,Numb,Noise Machine Featuring Blue_Eyed_Darkness,1,2021-08-07,2021-08-07,25,1
+250,Sabotage,Beastie Boys,10,2020-05-09,2021-06-26,25,3
+251,She Talks To Angels,The Black Crowes,13,2020-03-14,2021-05-01,25,3
+252,Sheeple,Tom MacDonald,2,2022-10-29,2022-10-29,24,1
+253,What If...,j-hope,2,2022-07-30,2022-07-30,24,1
+254,That Funny Feeling,Phoebe Bridgers,2,2021-10-16,2021-10-16,24,1
+255,Till Forever Falls Apart,Ashe & Finneas,2,2021-05-29,2021-05-29,24,1
+256,Wasted On You,Evanescence,2,2020-05-09,2020-05-09,24,1
+257,All My Favorite Songs,Weezer,5,2021-02-06,2021-02-13,24,2
+258,Genocidal Humanoidz,System Of A Down,5,2020-11-21,2020-11-28,24,2
+259,Survivin',Bastille,6,2020-10-03,2020-10-10,24,2
+260,So What!,jxdn,7,2020-07-25,2020-08-01,24,2
+261,More Than Life,Machine Gun Kelly & glaive,7,2022-06-25,2022-07-09,24,2
+262,Best Of You,Foo Fighters,9,2022-04-09,2022-04-16,24,2
+263,Hey Jealousy,Gin Blossoms,11,2022-08-06,2022-08-13,24,2
+264,Pope Is A Rockstar,SALES,12,2021-12-25,2022-01-01,24,2
+265,Concert For Aliens,Machine Gun Kelly,13,2020-08-15,2020-08-22,24,2
+266,Middle Of The Night,Loveless,3,2022-06-04,2022-06-04,23,1
+267,Light Of Love,Florence + The Machine,3,2020-05-02,2020-05-02,23,1
+268,Church,"Tom MacDonald, Brandon Hart & Nova Rockafeller",3,2021-04-10,2021-04-10,23,1
+269,Let Me Love You Like A Woman,Lana Del Rey,3,2020-10-31,2020-10-31,23,1
+270,Quietly Yours,Birdy,5,2022-07-30,2022-08-06,23,2
+271,Ablaze,Alanis Morissette,5,2020-08-15,2020-08-22,23,2
+272,Major Tom (Coming Home),Peter Schilling,11,2020-08-15,2020-08-22,23,2
+273,You'll Never Walk Alone,Brittany Howard,12,2020-11-21,2021-03-27,23,2
+274,29,Demi Lovato,12,2022-08-27,2022-09-03,23,2
+275,Christmas (Baby Please Come Home),U2,15,2021-01-02,2022-01-01,23,3
+276,Send Me On My Way,Rusted Root,19,2021-05-22,2022-07-30,23,6
+277,If You're Too Shy (Let Me Know),The 1975,4,2020-05-09,2020-05-09,22,1
+278,Carry On Wayward Son,Neoni,4,2020-12-05,2020-12-05,22,1
+279,All I Want,Kodaline,9,2020-03-28,2021-03-20,22,2
+280,Forever Young,Alphaville,14,2021-03-13,2021-03-20,22,2
+281,Christmas Saves The Year,twenty one pilots,5,2020-12-19,2020-12-19,21,1
+282,Nightlight,ILLENIUM,5,2020-09-12,2020-09-12,21,1
+283,Dustland,The Killers Featuring Bruce Springsteen,5,2021-06-26,2021-06-26,21,1
+284,If I Ever Lose My Faith In You,Disturbed,5,2020-09-26,2020-09-26,21,1
+285,Teardrops,Bring Me The Horizon,5,2020-11-07,2020-11-07,21,1
+286,Poltergeist!,CORPSE & OmenXIII,5,2022-04-23,2022-04-23,21,1
+287,Skin Of My Teeth,Demi Lovato,5,2022-06-25,2022-06-25,21,1
+288,The Drug In Me Is Reimagined,Falling In Reverse,8,2020-02-29,2020-03-07,21,2
+289,Ordinary World,Duran Duran,14,2021-03-13,2021-03-20,21,2
+290,Missing Piece,Vance Joy,16,2021-08-07,2022-04-02,21,3
+291,Down With The Sickness,Disturbed,17,2020-03-28,2021-07-10,21,4
+292,Iris,Diamante & Breaking Benjamin,6,2020-07-25,2020-07-25,20,1
+293,Paper Thin,"ILLENIUM, Tom DeLonge & Angels & Airwaves",6,2020-11-07,2020-11-07,20,1
+294,Puff Puff,SMITH,6,2022-04-23,2022-04-23,20,1
+295,Woke Up This Morning,A3,6,2022-02-26,2022-02-26,20,1
+296,Sidelines,Phoebe Bridgers,6,2022-04-30,2022-04-30,20,1
+297,Waiting On The Sky To Change,STARSET Featuring Breaking Benjamin,6,2022-09-03,2022-09-03,20,1
+298,Viva Las Vengeance,Panic! At The Disco,11,2022-06-11,2022-06-18,20,2
+299,Dead Man's Party,Oingo Boingo,16,2020-11-14,2021-11-13,20,2
+300,Feel It Still,Portugal. The Man,19,2020-01-11,2022-02-12,20,5
+301,Black Sheep,Metric Featuring Brie Larson,7,2021-06-19,2021-06-19,19,1
+302,Elliot's Song,Dominic Fike & Zendaya,7,2022-03-19,2022-03-19,19,1
+303,Hemorrhage (In My Hands),Fuel,7,2020-10-31,2020-10-31,19,1
+304,All The Things She Said,Poppy,7,2020-06-20,2020-06-20,19,1
+305,Hero,Weezer,7,2020-05-23,2020-05-23,19,1
+306,Heartache,From Ashes To New,7,2022-07-02,2022-07-02,19,1
+307,9 Lives,Machine Gun Kelly,7,2022-07-09,2022-07-09,19,1
+308,Sick And Tired,iann dior Featuring Machine Gun Kelly & Travis Barker,7,2020-05-02,2020-05-02,19,1
+309,Aries,Gorillaz Featuring Peter Hook & Georgia,7,2020-04-25,2020-04-25,19,1
+310,DiE4u,Bring Me The Horizon,7,2021-10-02,2021-10-02,19,1
+311,Bad Child,Tones And I,7,2020-03-28,2020-03-28,19,1
+312,i hope ur miserable until ur dead,Nessa Barrett,7,2021-08-21,2021-08-21,19,1
+313,Great Unknown,X Ambassadors,7,2020-03-07,2020-03-07,19,1
+314,Drunk Face,Machine Gun Kelly,10,2020-10-10,2022-03-26,19,2
+315,"Dear Maria, Count Me In",All Time Low,11,2021-01-30,2021-02-06,19,2
+316,What They'll Say About Us,FINNEAS,11,2020-09-12,2020-09-19,19,2
+317,Dog Days Are Over,Florence + The Machine,15,2022-10-29,2022-11-05,19,2
+318,Someone To You,BANNERS,17,2021-01-09,2021-01-23,19,3
+319,Heart Emojis,"Tom MacDonald, Nova Rockafeller & Brandon Hart",8,2021-04-17,2021-04-17,18,1
+320,Last November,Machine Gun Kelly,8,2022-07-09,2022-07-09,18,1
+321,Body Bag,I Prevail,8,2022-07-02,2022-07-02,18,1
+322,Sleepwalking,All Time Low,8,2022-10-22,2022-10-22,18,1
+323,Don't Care Darlin',Nathaniel Rateliff & The Night Sweats,8,2020-04-18,2020-04-18,18,1
+324,Don't Stop...(Demo),Oasis,8,2020-05-16,2020-05-16,18,1
+325,Apocalyptical,Puscifer,8,2020-05-23,2020-05-23,18,1
+326,Boulevard Of Broken Dreams,Green Day,8,2020-04-11,2020-04-11,18,1
+327,Wake Me Up When September Ends,Green Day,8,2020-05-02,2020-05-02,18,1
+328,Darling,Halsey,8,2021-10-23,2021-10-23,18,1
+329,Happiness,Taylor Swift,8,2020-12-26,2020-12-26,18,1
+330,Miracle Of Life,Bright Eyes Featuring Phoebe Bridgers,8,2020-11-07,2020-11-07,18,1
+331,August,Taylor Swift,8,2020-08-08,2020-08-08,18,1
+332,The Night We Met,Lord Huron,9,2020-03-21,2022-10-01,18,2
+333,Push,matchbox 20,12,2021-10-30,2022-04-02,18,3
+334,I Love You,Billie Eilish,15,2020-01-04,2020-02-15,18,4
+335,Run Boy Run,Woodkid,16,2022-10-01,2022-10-08,18,2
+336,Cult Of Personality,Living Colour,9,2021-09-04,2021-09-04,17,1
+337,Quarantine,Blink-182,9,2020-08-22,2020-08-22,17,1
+338,Life's Been Good,Dirty Heads,9,2022-07-09,2022-07-09,17,1
+339,Oh My My,Blue October,9,2020-03-14,2020-03-14,17,1
+340,Ohms,Deftones,9,2020-09-05,2020-09-05,17,1
+341,Gasoline,HAIM Featuring Taylor Swift,9,2021-03-06,2021-03-06,17,1
+342,Are You Even Real?,James Blake,9,2020-07-25,2020-07-25,17,1
+343,Wonderwall,Oasis,9,2022-05-07,2022-05-07,17,1
+344,Day After Tomorrow,Phoebe Bridgers,9,2021-12-11,2021-12-11,17,1
+345,gfy,blackbear & Machine Gun Kelly,9,2022-06-11,2022-06-11,17,1
+346,Mad Woman,Taylor Swift,9,2020-08-08,2020-08-08,17,1
+347,Cutthroat,Imagine Dragons,9,2021-03-27,2021-03-27,17,1
+348,Bruised And Bloodied,Seether,9,2020-08-01,2020-08-01,17,1
+349,Behind Blue Eyes,Blue_Eyed_Darkness,9,2021-11-27,2021-11-27,17,1
+350,Use My Voice,Evanescence,10,2020-08-29,2020-09-12,17,2
+351,Some Kind Of Disaster,All Time Low,12,2020-02-01,2020-02-08,17,2
+352,Killing In The Name,Rage Against The Machine,12,2020-06-13,2020-06-27,17,3
+353,Linger,The Cranberries,16,2022-07-23,2022-07-30,17,2
+354,My Tears Ricochet,Taylor Swift,10,2020-08-08,2020-08-08,16,1
+355,Beautiful Strangers,Kevin Morby,10,2022-02-05,2022-02-05,16,1
+356,I Used To Care,Louyah,10,2021-07-24,2021-07-24,16,1
+357,Dangerous,Seether,10,2020-07-11,2020-07-11,16,1
+358,Ur So cOoL,Tones And I,10,2020-06-20,2020-06-20,16,1
+359,Eddie,Red Hot Chili Peppers,10,2022-10-08,2022-10-08,16,1
+360,Body Bag,"Machine Gun Kelly, YUNGBLUD & The Used Featuring Bert McCracken",10,2020-10-10,2020-10-10,16,1
+361,Somewhere Only We Know,Keane,10,2021-09-25,2021-09-25,16,1
+362,Always Alright,Alabama Shakes,10,2022-07-02,2022-07-02,16,1
+363,Agoraphobic,CORPSE,10,2021-02-13,2021-02-13,16,1
+364,Gasoline,HAIM,10,2021-02-27,2021-02-27,16,1
+365,Inferno,Sub Urban & Bella Poarch,12,2021-08-28,2021-09-04,16,2
+366,Miracle,A Day To Remember,14,2022-07-30,2022-08-06,16,2
+367,Those Days,Nickelback,14,2022-10-15,2022-10-22,16,2
+368,Psycho Killer,Talking Heads,18,2020-03-14,2020-09-19,16,3
+369,Closing Time,Semisonic,19,2022-09-03,2022-09-24,16,4
+370,Ashes,Stellar,20,2020-08-29,2020-11-21,16,5
+371,I Think We're Alone Now,Billie Joe Armstrong,11,2020-05-02,2020-05-02,15,1
+372,Let Me Down,Oliver Tree,11,2020-04-25,2020-04-25,15,1
+373,Break My Baby,KALEO,11,2020-02-01,2020-02-01,15,1
+374,Drop Dead,Holly Humberstone,11,2020-08-29,2020-08-29,15,1
+375,I'm Not A Vampire (Revamped),Falling In Reverse,11,2021-02-27,2021-02-27,15,1
+376,Struttin',Thumpasaurus,11,2022-10-08,2022-10-08,15,1
+377,Genesis,Deftones,11,2020-10-03,2020-10-03,15,1
+378,Heart-Shaped Box,Nirvana,11,2022-02-05,2022-02-05,15,1
+379,Visitor,Of Monsters And Men,11,2020-09-26,2020-09-26,15,1
+380,Before You Go,No Resolve & Katey x Krista,11,2021-11-27,2021-11-27,15,1
+381,Experiment On Me,Halsey,11,2020-02-22,2020-02-22,15,1
+382,My Love,Florence + The Machine,11,2022-03-26,2022-03-26,15,1
+383,Self Destructor,Chevelle,11,2021-01-23,2021-01-23,15,1
+384,The Dripping Tap,King Gizzard And The Lizard Wizard,11,2022-03-19,2022-03-19,15,1
+385,Blood // Water,grandson,13,2020-11-07,2020-11-14,15,2
+386,Head Over Heels,Tears For Fears,16,2022-01-15,2022-03-05,15,2
+387,The Best,AWOLNATION,18,2020-03-14,2020-03-21,15,2
+388,Chew On My Heart,James Bay,12,2020-07-25,2020-07-25,14,1
+389,Once In A Lifetime,Talking Heads,12,2020-03-14,2020-03-14,14,1
+390,Survival,NEEDTOBREATHE Featuring Drew & Ellie Holcomb,12,2020-06-27,2020-06-27,14,1
+391,We Are Chaos,Marilyn Manson,12,2020-08-15,2020-08-15,14,1
+392,Daylight,Joji x Diplo,12,2020-08-22,2020-08-22,14,1
+393,Ain't Gonna Drown,Elle King,12,2020-09-05,2020-09-05,14,1
+394,Hangover Cure,Machine Gun Kelly,12,2020-10-10,2020-10-10,14,1
+395,Higher,Bishop Briggs,12,2020-10-17,2020-10-17,14,1
+396,Gold Rush,Taylor Swift,12,2020-12-26,2020-12-26,14,1
+397,Chemtrails Over The Country Club,Lana Del Rey,12,2021-01-23,2021-01-23,14,1
+398,Twisted Tongues,AFI,12,2021-01-30,2021-01-30,14,1
+399,How Far I'll Go,No Resolve,12,2022-02-12,2022-02-12,14,1
+400,Poster Child,Red Hot Chili Peppers,12,2022-03-19,2022-03-19,14,1
+401,Trigger,Mississippi Twilight,12,2022-07-23,2022-07-23,14,1
+402,Running Up That Hill,No Resolve,12,2022-10-01,2022-10-01,14,1
+403,The Loneliest,Maneskin,12,2022-10-22,2022-10-22,14,1
+404,Isn't Everyone,HEALTH + Nine Inch Nails,14,2021-05-15,2021-05-22,14,2
+405,Dirty Little Secret,The All-American Rejects,18,2022-10-29,2022-11-05,14,2
+406,Mad World,Michael Andrews Featuring Gary Jules,19,2020-01-18,2020-01-25,14,2
+407,Cracker Island,Gorillaz Featuring Thundercat,19,2022-07-02,2022-08-20,14,3
+408,Dissolve,Absofacto,20,2020-01-18,2022-02-05,14,3
+409,This Is Me Trying,Taylor Swift,13,2020-08-08,2020-08-08,13,1
+410,Tolerate It,Taylor Swift,13,2020-12-26,2020-12-26,13,1
+411,Far Away,Breaking Benjamin Featuring Scooter Ward,13,2020-02-08,2020-02-08,13,1
+412,Momentary Bliss,Gorillaz Featuring slowthai And Slaves,13,2020-02-15,2020-02-15,13,1
+413,Baby It's You,London Grammar,13,2020-09-05,2020-09-05,13,1
+414,Wake Up,Cheese People,13,2021-08-28,2021-08-28,13,1
+415,fuK u lol,CORPSE,13,2022-05-07,2022-05-07,13,1
+416,Joey,Concrete Blonde,13,2021-04-03,2021-04-03,13,1
+417,Stacy's Mom,Fountains Of Wayne,13,2020-04-11,2020-04-11,13,1
+418,Where The Shadow Ends,BANNERS & Young Bombs,13,2020-12-05,2020-12-05,13,1
+419,Standing In The Storm,Skillet,13,2021-11-27,2021-11-27,13,1
+420,Acting Like That,YUNGBLUD Featuring Machine Gun Kelly,13,2020-12-12,2020-12-12,13,1
+421,Smells Like Teen Spirit,Geek Music,14,2021-07-31,2021-08-07,13,2
+422,Take Me To Church,Hozier,16,2020-03-28,2021-12-18,13,2
+423,Seasons,NEEDTOBREATHE,17,2020-05-09,2020-05-16,13,2
+424,Cowboys Don't Cry,Oliver Tree,19,2022-02-05,2022-03-05,13,2
+425,Manic Monday,Billie Joe Armstrong,14,2020-06-13,2020-06-13,12,1
+426,Flags,Coldplay,14,2021-01-02,2021-01-02,12,1
+427,Can't Sleep,k.flay,14,2021-08-21,2021-08-21,12,1
+428,Desole,Gorillaz Featuring Fatoumata Diawa,14,2020-03-14,2020-03-14,12,1
+429,Kingslayer,Bring Me The Horizon Featuring BABYMETAL,14,2020-11-14,2020-11-14,12,1
+430,Don't Wanna,HAIM,14,2020-06-06,2020-06-06,12,1
+431,How,Marcus Mumford & Brandi Carlile,14,2022-10-01,2022-10-01,12,1
+432,Bummerland,AJR,14,2020-09-12,2020-09-12,12,1
+433,Watercolor Eyes,Lana Del Rey,14,2022-02-05,2022-02-05,12,1
+434,Our Love,Incubus,14,2020-02-15,2020-02-15,12,1
+435,Club Zero,Go-Go's,14,2020-08-15,2020-08-15,12,1
+436,Your Love (Deja Vu),Glass Animals,14,2020-03-07,2020-03-07,12,1
+437,Unconditional I (Lookout Kid),Arcade Fire,14,2022-05-21,2022-05-21,12,1
+438,'Tis The Damn Season,Taylor Swift,14,2020-12-26,2020-12-26,12,1
+439,Kyoto,Phoebe Bridgers,14,2021-02-20,2021-02-20,12,1
+440,Still Into You,Paramore,14,2022-05-28,2022-05-28,12,1
+441,Mindreader,A Day To Remember,15,2020-04-25,2020-05-02,12,2
+442,Fairytale Of New York,The Pogues Featuring Kirsty MacColl,16,2021-01-02,2022-01-01,12,2
+443,With Or Without You,U2,16,2021-04-10,2021-04-17,12,2
+444,Chinatown,Bleachers Featuring Bruce Springsteen,17,2020-11-28,2020-12-05,12,2
+445,Running Up That Hill,Placebo,18,2022-06-11,2022-06-18,12,2
+446,Paradise,Coldplay,21,2020-07-11,2022-11-05,12,3
+447,Starman,David Bowie,21,2020-06-20,2022-01-01,12,3
+448,Kill The Noise,Papa Roach,15,2021-09-25,2021-09-25,11,1
+449,Dying Breed,The Killers,15,2020-08-29,2020-08-29,11,1
+450,Shout,Tears For Fears,15,2022-03-05,2022-03-05,11,1
+451,Don't Chase The Dead,Marilyn Manson,15,2020-09-26,2020-09-26,11,1
+452,Oh No!!!,"grandson, Vic Mensa & Masked Wolf",15,2021-08-21,2021-08-21,11,1
+453,Hypotheticals,Lake Street Dive,15,2021-03-27,2021-03-27,11,1
+454,Choker,twenty one pilots,15,2021-05-15,2021-05-15,11,1
+455,No Son Of Mine,Foo Fighters,15,2021-01-16,2021-01-16,11,1
+456,Sweater Weather,The Neighbourhood,15,2021-01-09,2021-01-09,11,1
+457,Present Tense,Pearl Jam,15,2020-05-30,2020-05-30,11,1
+458,Nothing Compares 2 U,Chris Cornell,15,2020-12-26,2020-12-26,11,1
+459,Look What You Made Me Do,Jack Leopards & The Dolphin Club,15,2020-06-06,2020-06-06,11,1
+460,You Oughta Know,Alanis Morissette,15,2021-12-04,2021-12-04,11,1
+461,Me & You Together Song,The 1975,15,2020-02-01,2020-02-01,11,1
+462,Lost In The Wild,WALK THE MOON,15,2020-08-08,2020-08-08,11,1
+463,Last Stand,Kwabs,15,2020-11-07,2020-11-07,11,1
+464,La Di Die,Nessa Barrett Featuring jxdn,16,2021-03-06,2021-04-24,11,2
+465,Carry On,Falling In Reverse,17,2020-07-25,2020-08-01,11,2
+466,Vacation,The Dirty Heads,18,2021-03-06,2021-03-20,11,2
+467,My Immortal,Evanescence,20,2020-05-23,2021-10-02,11,3
+468,Bury A Friend,Billie Eilish,21,2020-01-04,2020-02-15,11,4
+469,Ivy,Taylor Swift,16,2020-12-26,2020-12-26,10,1
+470,Symphony,Imagine Dragons,16,2022-07-16,2022-07-16,10,1
+471,The Daily Mail,Radiohead,16,2020-04-11,2020-04-11,10,1
+472,Is Everybody Going Crazy?,Nothing But Thieves,16,2020-04-04,2020-04-04,10,1
+473,Idol,Hollywood Undead Featuring Tech N9ne,16,2020-08-15,2020-08-15,10,1
+474,Pac-Man,Gorillaz Featuring ScHoolboy Q,16,2020-08-01,2020-08-01,10,1
+475,Synchronize,Milky Chance,16,2022-08-06,2022-08-06,10,1
+476,Hallelujah,HAIM,16,2022-04-16,2022-04-16,10,1
+477,DOA,I Prevail x Joyner Lucas,16,2020-06-13,2020-06-13,10,1
+478,idontwannabeyouanymore,Billie Eilish,18,2020-01-04,2020-03-07,10,2
+479,Black Hole Sun,Soundgarden,19,2021-07-03,2021-07-10,10,2
+480,Misery Business,Paramore,20,2021-01-16,2021-06-19,10,2
+481,I Think I Like You,The Band CAMINO,17,2022-08-06,2022-08-06,9,1
+482,Long Story Short,Taylor Swift,17,2020-12-26,2020-12-26,9,1
+483,Birch,Big Red Machine Featuring Taylor Swift,17,2021-09-11,2021-09-11,9,1
+484,The Tipping Point,Tears For Fears,17,2021-10-23,2021-10-23,9,1
+485,Free,Florence + The Machine,17,2022-05-07,2022-05-07,9,1
+486,Will Of The People,Timcast,17,2022-09-10,2022-09-10,9,1
+487,Hearts Align,Fritz Hager,17,2022-05-28,2022-05-28,9,1
+488,Pompeii,Bastille,17,2022-06-04,2022-06-04,9,1
+489,Second Nature,Bon Iver,17,2022-01-08,2022-01-08,9,1
+490,Happiness,The 1975,17,2022-08-20,2022-08-20,9,1
+491,Heaven Is Here,Florence + The Machine,17,2022-03-19,2022-03-19,9,1
+492,Banks,NEEDTOBREATHE,17,2020-08-15,2020-08-15,9,1
+493,Holy Toledo!,Green Day,17,2021-11-20,2021-11-20,9,1
+494,She Couldn't,Linkin Park,17,2020-08-29,2020-08-29,9,1
+495,This Woman's Work,Kate Bush,19,2021-02-20,2021-02-27,9,2
+496,16,Highly Suspect,20,2020-01-18,2020-01-25,9,2
+497,Tongue Tied,Grouplove,20,2020-04-04,2020-04-18,9,2
+498,King,Florence + The Machine,21,2022-03-05,2022-03-12,9,2
+499,The Tradition,Halsey,18,2021-09-11,2021-09-11,8,1
+500,Down,Marian Hill,18,2021-07-17,2021-07-17,8,1
+501,My Life,Imagine Dragons,18,2021-09-18,2021-09-18,8,1
+502,Peach,Chevelle,18,2021-02-13,2021-02-13,8,1
+503,The Bandit,Kings Of Leon,18,2021-01-23,2021-01-23,8,1
+504,Marjorie,Taylor Swift,18,2020-12-26,2020-12-26,8,1
+505,Taking Me Back,Jack White,18,2021-11-06,2021-11-06,8,1
+506,Male Fantasy,Billie Eilish,18,2021-12-25,2021-12-25,8,1
+507,The Pink Phantom,Gorillaz Featuring Elton John And 6LACK,18,2020-10-17,2020-10-17,8,1
+508,Can't Look Back,Machine Gun Kelly,18,2020-10-10,2020-10-10,8,1
+509,ABCDEFU,Our Last Night,18,2022-02-26,2022-02-26,8,1
+510,Peace,Taylor Swift,18,2020-08-08,2020-08-08,8,1
+511,Lifetime,Three Days Grace,18,2022-04-30,2022-04-30,8,1
+512,I Just Wanna Shine,Fitz And The Tantrums,18,2020-05-30,2020-05-30,8,1
+513,Fire In Bone,The Killers,18,2020-05-09,2020-05-09,8,1
+514,PDLIF (Please Don't Live In Fear),Bon Iver,18,2020-05-02,2020-05-02,8,1
+515,Let It Go,James Bay,18,2020-04-18,2020-04-18,8,1
+516,Substance,Demi Lovato,18,2022-07-30,2022-07-30,8,1
+517,Hurricane,I Prevail,18,2020-03-28,2020-03-28,8,1
+518,My Arms,LEDGER,18,2020-02-29,2020-02-29,8,1
+519,I Want More,KALEO,18,2020-02-01,2020-02-01,8,1
+520,Planet Zero,Shinedown,19,2022-02-19,2022-02-26,8,2
+521,We Only Come Out At Night,The Smashing Pumpkins,19,2020-02-29,2020-03-07,8,2
+522,Escape From Los Angeles,AFI,19,2021-01-30,2021-01-30,7,1
+523,Gang Gang,Nova Rockafeller Featuring Tom MacDonald,19,2021-02-27,2021-02-27,7,1
+524,Swan Upon Leda,Hozier,19,2022-10-22,2022-10-22,7,1
+525,Panic,From Ashes To New,19,2020-05-02,2020-05-02,7,1
+526,Once In A Lifetime,All Time Low,19,2021-04-03,2021-04-03,7,1
+527,Invisible,Duran Duran,19,2021-05-29,2021-05-29,7,1
+528,Split A Pill,Machine Gun Kelly,19,2020-10-10,2020-10-10,7,1
+529,Little Talks,Of Monsters And Men,19,2022-06-04,2022-06-04,7,1
+530,Heart Of A Champion,Hollywood Undead Featuring Papa Roach & Ice Nine Kills,19,2020-10-31,2020-10-31,7,1
+531,How Did You Love,Shinedown,19,2020-02-01,2020-02-01,7,1
+532,The World We Made,Ruelle,19,2020-07-25,2020-07-25,7,1
+533,Not Dead Yet,Lord Huron,19,2021-03-06,2021-03-06,7,1
+534,Turning Page,Sleeping At Last,19,2020-12-05,2020-12-05,7,1
+535,Seven,Taylor Swift,19,2020-08-08,2020-08-08,7,1
+536,Ironic,Alanis Morissette,19,2021-12-04,2021-12-04,7,1
+537,All You Ever Wanted,Rag'n'Bone Man,19,2021-04-24,2021-04-24,7,1
+538,"My Neck, My Back",Elle King,20,2020-05-30,2020-06-06,7,2
+539,You're Somebody Else,flora cash,21,2020-02-22,2020-02-29,7,2
+540,One Of Us,Joan Osborne,22,2022-08-06,2022-08-13,7,2
+541,Long Way,Eddie Vedder,20,2021-09-18,2021-09-18,6,1
+542,Here Ever After,Red Hot Chili Peppers,20,2022-04-16,2022-04-16,6,1
+543,Mirrorball,Taylor Swift,20,2020-08-08,2020-08-08,6,1
+544,Hit Me With Your Best Shot,ADONA,20,2020-02-22,2020-02-22,6,1
+545,Superblood Wolfmoon,Pearl Jam,20,2020-02-29,2020-02-29,6,1
+546,I Melt With You,Modern English,20,2022-10-15,2022-10-15,6,1
+547,Beguiled,The Smashing Pumpkins,20,2022-10-08,2022-10-08,6,1
+548,Movement,Hozier,20,2020-12-12,2020-12-12,6,1
+549,Self-Sabotage,Waterparks,20,2022-08-20,2022-08-20,6,1
+550,Comatose,jxdn,20,2020-03-07,2020-03-07,6,1
+551,Trouble's Coming,Royal Blood,20,2020-10-10,2020-10-10,6,1
+552,Wouldn't Change A Thing,ILLENIUM & Thirty Seconds To Mars,20,2021-10-30,2021-10-30,6,1
+553,My Stick,Bad Lip Reading,20,2020-01-11,2020-01-11,6,1
+554,Lonely,Machine Gun Kelly,20,2021-02-13,2021-02-13,6,1
+555,Won't Stand Down,Muse,20,2022-01-29,2022-01-29,6,1
+556,Saturday,twenty one pilots,20,2021-10-16,2021-10-16,6,1
+557,Nerve Flip,Red Hot Chili Peppers,20,2022-06-18,2022-06-18,6,1
+558,loneliness for love,lovelytheband,20,2020-02-15,2020-02-15,6,1
+559,Be A Rebel,New Order,20,2020-09-26,2020-09-26,6,1
+560,Oxytocin,Billie Eilish,20,2021-08-14,2021-08-14,6,1
+561,Everlong (Acoustic Version 2009),Foo Fighters,20,2022-04-09,2022-04-09,6,1
+562,Overwhelmed,Royal & The Serpent,20,2020-10-03,2020-10-03,6,1
+563,transparentsoul,Willow Featuring Travis Barker,23,2021-06-19,2021-06-26,6,2
+564,Drive,Incubus,21,2021-04-17,2021-04-17,5,1
+565,Jessie's Girl 2,Coheed And Cambria Featuring Rick Springfield,21,2020-09-05,2020-09-05,5,1
+566,Bad Things,I Prevail,21,2022-07-30,2022-07-30,5,1
+567,SOS,Sueco Featuring Travis Barker,21,2021-08-21,2021-08-21,5,1
+568,The Pretender,Foo Fighters,21,2022-04-09,2022-04-09,5,1
+569,Somebody Told Me,Motionless In White,21,2020-09-26,2020-09-26,5,1
+570,Celebrity Skin,Doja Cat,21,2022-02-26,2022-02-26,5,1
+571,A Girl Like You,Silent Stranger,21,2020-05-30,2020-05-30,5,1
+572,I Won't,AJR,21,2022-08-13,2022-08-13,5,1
+573,You'll Never Walk Alone,Marcus Mumford,21,2020-04-04,2020-04-04,5,1
+574,Wait A Minute!,WILLOW,21,2020-07-18,2020-07-18,5,1
+575,Slide,Goo Goo Dolls,22,2021-04-10,2021-04-17,5,2
+576,What's My Age Again?,Blink-182,22,2022-05-14,2022-05-21,5,2
+577,The Steps,HAIM,23,2020-03-21,2021-03-27,5,2
+578,Broken Boy,Cage The Elephant,22,2020-02-08,2020-02-08,4,1
+579,Bois Lie,Avril Lavigne Featuring Machine Gun Kelly,22,2022-03-12,2022-03-12,4,1
+580,The Chain,Evanescence,22,2020-01-25,2020-01-25,4,1
+581,Awaken Love,Lacey Sturm,22,2021-12-25,2021-12-25,4,1
+582,MAMMAMIA,Maneskin,22,2021-12-11,2021-12-11,4,1
+583,Hand In My Pocket,Alanis Morissette,22,2021-12-04,2021-12-04,4,1
+584,Yeah Right,Evanescence,22,2020-12-19,2020-12-19,4,1
+585,Come Undone,Duran Duran,22,2021-10-23,2021-10-23,4,1
+586,All That's Left Is Love,Angels & Airwaves,22,2020-05-02,2020-05-02,4,1
+587,Engravings,Ethan Bortnick,22,2022-07-09,2022-07-09,4,1
+588,Waves,Imagine Dragons,22,2022-07-16,2022-07-16,4,1
+589,Remember When,Chevelle,22,2021-03-06,2021-03-06,4,1
+590,Bartender Song (AKA Sittin' At A Bar),Rehab,22,2021-07-17,2021-07-17,4,1
+591,PMA,All Time Low Featuring Pale Waves,22,2021-08-14,2021-08-14,4,1
+592,Everything's Electric,Liam Gallagher,22,2022-02-19,2022-02-19,4,1
+593,Need You Tonight,INXS,23,2021-04-10,2021-04-17,4,2
+594,Bad Girlfriend,Theory Of A Deadman,23,2022-01-29,2022-05-21,4,2
+595,CYR,Smashing Pumpkins,23,2020-09-12,2020-09-12,3,1
+596,The World I Know,Collective Soul,23,2022-05-14,2022-05-14,3,1
+597,Use Somebody,Kings Of Leon,23,2021-05-01,2021-05-01,3,1
+598,Snakes,PVRIS & MIYAVI,23,2021-12-04,2021-12-04,3,1
+599,Highway To Hell,Tom Morello Featuring Bruce Springsteen & Eddie Vedder,23,2021-08-14,2021-08-14,3,1
+600,Psycho,Taylor Acorn,23,2022-08-27,2022-08-27,3,1
+601,High,Miley Cyrus,23,2020-12-12,2020-12-12,3,1
+602,To Build A Home,The Cinematic Orchestra Featuring Patrick Watson,23,2020-02-29,2020-02-29,3,1
+603,Epiphany,Taylor Swift,23,2020-08-08,2020-08-08,3,1
+604,This Is Halloween,Marilyn Manson,23,2020-11-14,2020-11-14,3,1
+605,The Funeral,YUNGBLUD,23,2022-03-26,2022-03-26,3,1
+606,What They'll Say About Us,Finneas,23,2021-05-29,2021-05-29,3,1
+607,Coney Island,Taylor Swift Featuring The National,23,2020-12-26,2020-12-26,3,1
+608,Sober/Hungover,Sueco Featuring Arizona Zervas,23,2021-11-13,2021-11-13,3,1
+609,Enter Sandman,Weezer,23,2021-09-25,2021-09-25,3,1
+610,Pierre,Ryn Weaver,23,2021-02-27,2021-02-27,3,1
+611,Pray,jxdn,23,2020-09-05,2020-09-05,3,1
+612,The Antidote,Simple Plan,23,2021-11-20,2021-11-20,3,1
+613,Immortals,Fall Out Boy,24,2021-05-08,2022-10-15,3,2
+614,On Top Of The World,Imagine Dragons,24,2020-06-06,2020-06-13,3,2
+615,OK,Wallows,24,2020-04-04,2020-04-04,2,1
+616,Left Hand Free,alt-J,24,2020-05-16,2020-05-16,2,1
+617,Crawling Kingsnake,The Black Keys,24,2021-05-01,2021-05-01,2,1
+618,Billie Bossa Nova,Billie Eilish,24,2022-01-29,2022-01-29,2,1
+619,Spitting Off The Edge Of The World,Yeah Yeah Yeahs Featuring Perfume Genius,24,2022-06-18,2022-06-18,2,1
+620,Cowboy Like Me,Taylor Swift,24,2020-12-26,2020-12-26,2,1
+621,I Don't Live Here Anymore,The War On Drugs,24,2021-11-13,2021-11-13,2,1
+622,Uprising,Muse,24,2022-06-04,2022-06-04,2,1
+623,The Kids Aren't Alright,The Offspring,24,2021-04-10,2021-04-10,2,1
+624,Had Enough,G-Eazy,24,2020-07-11,2020-07-11,2,1
+625,Blowback,The Killers,24,2020-09-05,2020-09-05,2,1
+626,History Of Violence,Theory Of A Deadman,24,2020-02-15,2020-02-15,2,1
+627,Destroyer,Of Monsters And Men,24,2021-04-24,2021-04-24,2,1
+628,Invincible,Eddie Vedder,24,2022-02-26,2022-02-26,2,1
+629,Here In Spirit,Jim James,24,2022-02-05,2022-02-05,2,1
+630,Miseria Cantare - The Beginning,AFI,24,2022-03-19,2022-03-19,2,1
+631,Everybody Hurts,R.E.M.,24,2022-01-22,2022-01-22,2,1
+632,The Scientist,Coldplay,24,2020-04-25,2020-04-25,2,1
+633,CMFT Must Be Stopped,Corey Taylor Featuring Tech N9ne & Kid Bookie,24,2020-08-15,2020-08-15,2,1
+634,I Think I'm OKAY,Machine Gun Kelly X YUNGBLUD X Travis Barker,25,2020-04-25,2020-05-16,2,2
+635,Follow The Fool,Primus,25,2022-05-07,2022-05-07,1,1
+636,Scar Tissue,Red Hot Chili Peppers,25,2022-08-13,2022-08-13,1,1
+637,No Sleep Till Brooklyn,Beastie Boys,25,2022-06-11,2022-06-11,1,1
+638,Get It Back,Pearl Jam,25,2020-10-24,2020-10-24,1,1
+639,Over Yet,Hayley Williams,25,2020-04-18,2020-04-18,1,1
+640,When I'm Gone,3 Doors Down,25,2022-09-24,2022-09-24,1,1
+641,The Things We Do,Foster The People,25,2020-07-25,2020-07-25,1,1
+642,Personal Jesus,Depeche Mode,25,2021-05-08,2021-05-08,1,1
+643,Renegades,ONE OK ROCK,25,2021-05-01,2021-05-01,1,1
+644,It's My Life,No Doubt,25,2021-04-03,2021-04-03,1,1
+645,Cloudy Day,Tones And I,25,2021-07-31,2021-07-31,1,1
+646,Maniac,Macklemore Featuring Windser,25,2022-09-03,2022-09-03,1,1
+647,My Heart Will Go On,Future Sunsets,25,2021-12-25,2021-12-25,1,1

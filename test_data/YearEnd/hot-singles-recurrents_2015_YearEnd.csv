@@ -1,0 +1,166 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,All Of Me,John Legend,1,2015-01-03,2015-12-12,919,50
+2,Happy,Pharrell Williams,1,2015-01-03,2015-11-07,743,45
+3,Dark Horse,Katy Perry Featuring Juicy J,2,2015-01-03,2015-10-24,534,40
+4,Often,The Weeknd,1,2015-03-21,2015-12-12,437,37
+5,Centuries,Fall Out Boy,1,2015-05-23,2015-11-07,387,25
+6,Energy,Drake,5,2015-07-18,2015-12-12,334,21
+7,Chandelier,Sia,2,2015-04-11,2015-10-17,332,25
+8,Blank Space,Taylor Swift,1,2015-07-25,2015-12-12,326,21
+9,All About That Bass,Meghan Trainor,1,2015-06-20,2015-11-07,304,21
+10,Hot Boy,Bobby Shmurda,3,2015-02-07,2015-07-11,304,19
+11,Let It Go,Idina Menzel,1,2015-01-03,2015-05-02,302,18
+12,Riptide,Vance Joy,3,2015-05-16,2015-10-17,302,23
+13,Take Me To Church,Hozier,1,2015-06-13,2015-11-14,301,23
+14,Shake It Off,Taylor Swift,2,2015-08-22,2015-12-19,294,18
+15,Roar,Katy Perry,2,2015-02-14,2015-09-05,283,29
+16,Rude,MAGIC!,3,2015-02-21,2015-07-11,260,20
+17,Stay With Me,Sam Smith,1,2015-05-09,2015-10-31,257,20
+18,I Don't F**k With You,Big Sean Featuring E-40,1,2015-05-02,2015-10-10,239,20
+19,Love Me Like You Do,Ellie Goulding,2,2015-09-19,2015-12-26,235,15
+20,Style,Taylor Swift,2,2015-08-08,2015-11-14,228,15
+21,Fancy,Iggy Azalea Featuring Charli XCX,1,2015-01-03,2015-04-18,221,14
+22,Bang Bang,"Jessie J, Ariana Grande & Nicki Minaj",3,2015-03-21,2015-08-15,215,19
+23,Lips Are Movin,Meghan Trainor,2,2015-05-30,2015-08-15,202,12
+24,Blessings,Big Sean Featuring Drake,1,2015-07-11,2015-10-03,200,13
+25,Maps,Maroon 5,7,2015-01-03,2015-04-18,190,16
+26,Counting Stars,OneRepublic,11,2015-01-03,2015-11-07,186,25
+27,Am I Wrong,Nico & Vinz,8,2015-01-03,2015-04-25,179,17
+28,Animals,Maroon 5,1,2015-04-25,2015-08-01,177,14
+29,Rather Be,Clean Bandit Featuring Jess Glynne,2,2015-01-31,2015-05-30,176,16
+30,Post To Be,Omarion Featuring Chris Brown & Jhene Aiko,1,2015-10-10,2015-12-12,167,10
+31,Earned It (Fifty Shades Of Grey),The Weeknd,1,2015-11-07,2015-12-26,164,8
+32,Problem,Ariana Grande Featuring Iggy Azalea,5,2015-01-03,2015-03-21,153,12
+33,B**** Better Have My Money,Rihanna,1,2015-09-19,2015-11-14,150,9
+34,Drinking Class,Lee Brice,3,2015-03-21,2015-05-23,148,8
+35,Turn Down For What,DJ Snake & Lil Jon,3,2015-01-03,2015-06-06,147,19
+36,Worth It,Fifth Harmony Featuring Kid Ink,2,2015-11-14,2015-12-26,142,7
+37,Hey Mama,"David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack",1,2015-09-26,2015-11-14,141,8
+38,Take Your Time,Sam Hunt,1,2015-08-29,2015-11-28,140,11
+39,I'm Not The Only One,Sam Smith,3,2015-06-06,2015-08-22,140,12
+40,You Know You Like It,DJ Snake & AlunaGeorge,1,2015-09-05,2015-10-31,137,9
+41,Don't Tell 'Em,Jeremih Featuring YG,5,2015-02-14,2015-04-25,136,11
+42,Talking Body,Tove Lo,1,2015-09-12,2015-10-31,130,8
+43,Gangnam Style,PSY,10,2015-01-03,2015-08-01,130,20
+44,Habits (Stay High),Tove Lo,6,2015-03-14,2015-05-23,125,11
+45,Don't,Ed Sheeran,6,2015-03-07,2015-05-30,125,12
+46,Jealous,Nick Jonas,1,2015-05-09,2015-07-04,121,9
+47,Time Of Our Lives,Pitbull & Ne-Yo,2,2015-07-04,2015-08-15,118,7
+48,Break Free,Ariana Grande Featuring Zedd,4,2015-01-03,2015-02-28,118,9
+49,Sugar,Maroon 5,1,2015-11-21,2015-12-26,117,6
+50,"Honey, I'm Good.",Andy Grammer,1,2015-10-17,2015-12-05,116,8
+51,Slow Motion,Trey Songz,2,2015-08-29,2015-10-24,115,9
+52,Throw Sum Mo,Rae Sremmurd Featuring Nicki Minaj & Young Thug,1,2015-06-06,2015-07-18,114,7
+53,Dear Future Husband,Meghan Trainor,2,2015-07-18,2015-08-29,114,7
+54,7/11,Beyonce,2,2015-05-02,2015-08-01,114,11
+55,Budapest,George Ezra,1,2015-07-25,2015-09-05,113,7
+56,Only,"Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown",3,2015-05-09,2015-06-27,111,8
+57,No Type,Rae Sremmurd,7,2015-04-11,2015-06-20,111,10
+58,Bailando,Enrique Iglesias Featuring Descemer Bueno & Gente de Zona,13,2015-01-03,2015-05-30,111,13
+59,G.D.F.R.,Flo Rida Featuring Sage The Gemini & Lookas,2,2015-08-01,2015-09-12,110,7
+60,Flex (Ooh Ooh Ooh),Rich Homie Quan,1,2015-11-14,2015-12-26,109,7
+61,Girl Crush,Little Big Town,1,2015-08-22,2015-11-28,107,6
+62,Classic Man,Jidenna Featuring Roman GianArthur,2,2015-10-17,2015-12-05,105,8
+63,Bad Blood,Taylor Swift Featuring Kendrick Lamar,3,2015-11-07,2015-12-19,105,7
+64,Somebody,Natalie La Rose Featuring Jeremih,3,2015-08-08,2015-09-12,102,6
+65,Love Me Harder,Ariana Grande & The Weeknd,6,2015-03-28,2015-05-09,101,7
+66,Shut Up And Dance,WALK THE MOON,1,2015-12-05,2015-12-26,97,4
+67,El Perdon,Nicky Jam & Enrique Iglesias,2,2015-11-07,2015-12-19,97,7
+68,Latch,Disclosure Featuring Sam Smith,11,2015-01-03,2015-04-04,93,12
+69,Uma Thurman,Fall Out Boy,1,2015-10-31,2015-12-12,92,7
+70,Nasty Freestyle,T-Wayne,8,2015-09-19,2015-10-31,92,7
+71,Planez,Jeremih Featuring J. Cole,2,2015-10-31,2015-12-05,91,6
+72,Thinking Out Loud,Ed Sheeran,2,2015-12-05,2015-12-26,90,4
+73,Elastic Heart,Sia,4,2015-08-22,2015-10-10,89,8
+74,Fight Song,Rachel Platten,3,2015-12-05,2015-12-26,88,4
+75,Want To Want Me,Jason Derulo,2,2015-11-28,2015-12-26,85,5
+76,Someone Like You,Adele,4,2015-11-14,2015-12-19,83,6
+77,All Eyes On You,Meek Mill Featuring Chris Brown & Nicki Minaj,4,2015-11-28,2015-12-26,82,5
+78,New Flame,Chris Brown Featuring Usher & Rick Ross,8,2015-01-03,2015-02-28,78,9
+79,Radioactive,Imagine Dragons,16,2015-01-10,2015-08-15,76,19
+80,I Don't Mind,Usher Featuring Juicy J,2,2015-05-16,2015-06-13,71,5
+81,Like A Wrecking Ball,Eric Church,3,2015-09-12,2015-10-03,71,4
+82,Waves,Mr. Probz,7,2015-02-28,2015-04-04,65,6
+83,About The Money,T.I. Featuring Young Thug,12,2015-01-10,2015-02-14,63,6
+84,Cool Kids,Echosmith,4,2015-01-03,2015-02-07,60,6
+85,Black Widow,Iggy Azalea Featuring Rita Ora,6,2015-02-14,2015-03-14,58,5
+86,Boom Clap,Charli XCX,12,2015-01-03,2015-02-07,58,6
+87,Ayo,Chris Brown & Tyga,10,2015-06-13,2015-07-25,56,6
+88,Crash And Burn,Thomas Rhett,7,2015-10-17,2015-11-07,55,4
+89,Stolen Dance,Milky Chance,5,2015-01-31,2015-02-28,53,5
+90,Ghost,Ella Henderson,1,2015-04-04,2015-04-18,52,3
+91,I Bet My Life,Imagine Dragons,8,2015-04-25,2015-05-16,51,4
+92,Uptown Funk!,Mark Ronson Featuring Bruno Mars,1,2015-12-19,2015-12-26,50,2
+93,Drink You Away,Justin Timberlake,1,2015-11-21,2015-11-28,46,2
+94,Rockin' Around The Christmas Tree,Brenda Lee,4,2015-01-03,2015-12-19,44,3
+95,Homegrown,Zac Brown Band,14,2015-06-20,2015-07-25,44,6
+96,The Christmas Song (Merry Christmas To You),Nat King Cole,8,2015-01-03,2015-12-26,41,3
+97,Tuesday,I LOVE MAKONNEN Featuring Drake,9,2015-03-14,2015-04-04,41,4
+98,Marry You,Bruno Mars,3,2015-03-21,2015-03-28,40,2
+99,Night Changes,One Direction,5,2015-04-25,2015-05-09,40,3
+100,Marvin Gaye,Charlie Puth Featuring Meghan Trainor,8,2015-11-21,2015-12-12,38,3
+101,No Flex Zone,Rae Sremmurd,9,2015-01-03,2015-01-31,37,5
+102,House Party,Sam Hunt,11,2015-11-07,2015-12-05,37,5
+103,Chains,Nick Jonas,5,2015-07-04,2015-07-11,33,2
+104,"Mary, Did You Know?",Pentatonix,6,2015-12-19,2015-12-26,33,2
+105,Blame,Calvin Harris Featuring John Newman,9,2015-02-14,2015-02-28,33,3
+106,Trumpets,Jason Derulo,6,2015-01-24,2015-01-31,29,2
+107,Lifestyle,Rich Gang Featuring Young Thug & Rich Homie Quan,11,2015-01-24,2015-03-07,29,4
+108,Jingle Bell Rock,Bobby Helms,13,2015-01-03,2015-12-26,29,3
+109,Outside,Calvin Harris Featuring Ellie Goulding,15,2015-05-16,2015-05-30,29,3
+110,Break Up With Him,Old Dominion,10,2015-12-12,2015-12-19,28,2
+111,Feeling Myself,Nicki Minaj Featuring Beyonce,11,2015-06-13,2015-06-27,28,3
+112,Geronimo,Sheppard,11,2015-06-06,2015-06-20,28,3
+113,She Knows,Ne-Yo Featuring Juicy J,9,2015-04-25,2015-05-02,26,2
+114,A Holly Jolly Christmas,Burl Ives,12,2015-12-19,2015-12-26,26,2
+115,My Way,Fetty Wap Featuring Monty,2,2015-12-26,2015-12-26,24,1
+116,Rolling In The Deep,Adele,10,2015-11-14,2015-12-12,24,2
+117,Be Real,Kid Ink Featuring DeJ Loaf,15,2015-09-19,2015-10-03,24,3
+118,0 To 100 / The Catch Up,Drake,16,2015-01-03,2015-08-22,24,4
+119,All I Want For Christmas Is You,Mariah Carey,3,2015-12-12,2015-12-12,23,1
+120,Truffle Butter,Nicki Minaj Featuring Drake & Lil Wayne,12,2015-06-27,2015-07-25,23,4
+121,I'm Comin' Over,Chris Young,5,2015-12-26,2015-12-26,21,1
+122,Pompeii,Bastille,10,2015-01-17,2015-01-24,20,2
+123,Buy Me A Boat,Chris Janson,14,2015-10-31,2015-11-07,20,2
+124,Bohemian Rhapsody,Queen,7,2015-03-28,2015-03-28,19,1
+125,Lose Control,Missy Elliott Featuring Ciara & Fat Man Scoop,8,2015-02-21,2015-02-21,18,1
+126,One Last Time,Ariana Grande,13,2015-07-18,2015-07-25,18,2
+127,Anaconda,Nicki Minaj,19,2015-01-24,2015-02-14,18,4
+128,Photograph,Ed Sheeran,9,2015-12-26,2015-12-26,17,1
+129,I Loved Her First,Heartland,10,2015-02-21,2015-02-21,16,1
+130,Feliz Navidad,Jose Feliciano,18,2015-01-03,2015-12-26,16,3
+131,How Deep Is Your Love,Calvin Harris & Disciples,12,2015-12-26,2015-12-26,14,1
+132,F**k Tha Police,N.W.A,12,2015-09-05,2015-09-05,14,1
+133,Thriller,Michael Jackson,14,2015-11-14,2015-11-14,12,1
+134,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,16,2015-01-03,2015-12-26,12,3
+135,Commas,Future,19,2015-10-10,2015-10-24,12,3
+136,Heartbeat Song,Kelly Clarkson,15,2015-06-20,2015-06-20,11,1
+137,Leave The Night On,Sam Hunt,22,2015-01-03,2015-01-24,11,3
+138,A Guy Walks Into A Bar,Tyler Farr,16,2015-06-06,2015-06-06,10,1
+139,White Christmas,Bing Crosby,16,2015-12-26,2015-12-26,10,1
+140,"Touchin, Lovin",Trey Songz Featuring Nicki Minaj,16,2015-02-07,2015-02-07,10,1
+141,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,20,2015-12-19,2015-12-26,10,2
+142,Heroes (We Could Be),Alesso Featuring Tove Lo,20,2015-03-07,2015-03-14,10,2
+143,Fireball,Pitbull Featuring John Ryan,21,2015-01-10,2015-01-17,10,2
+144,Straight Outta Compton,N.W.A,19,2015-08-29,2015-09-26,9,3
+145,Lose Yourself,Eminem,18,2015-06-13,2015-06-13,8,1
+146,Hold You Down,"DJ Khaled Featuring Chris Brown, August Alsina, Future & Jeremih",21,2015-02-07,2015-02-14,8,2
+147,Rudolph The Red-Nosed Reindeer,Gene Autry,22,2015-12-19,2015-12-26,7,2
+148,Lose My Mind,Brett Eldredge,20,2015-11-14,2015-11-14,6,1
+149,Timber,Pitbull Featuring Ke$ha,20,2015-01-17,2015-01-17,6,1
+150,Hypnotize,The Notorious B.I.G.,20,2015-03-28,2015-03-28,6,1
+151,Burnin' It Down,Jason Aldean,20,2015-01-10,2015-01-10,6,1
+152,Last Christmas,Wham!,21,2015-12-26,2015-12-26,5,1
+153,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,21,2015-03-28,2015-03-28,5,1
+154,Count On Me,Bruno Mars,21,2015-05-16,2015-05-16,5,1
+155,Cool For The Summer,Demi Lovato,22,2015-12-05,2015-12-05,4,1
+156,Kick The Dust Up,Luke Bryan,22,2015-10-24,2015-10-24,4,1
+157,Wiggle,Jason Derulo Featuring Snoop Dogg,24,2015-01-10,2015-01-17,4,2
+158,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",23,2015-11-21,2015-11-21,3,1
+159,Sangria,Blake Shelton,23,2015-09-19,2015-09-19,3,1
+160,Or Nah,Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard,23,2015-10-10,2015-10-10,3,1
+161,Demons,Imagine Dragons,24,2015-03-07,2015-03-07,2,1
+162,Boyz-N-The Hood,Eazy-E,24,2015-09-19,2015-09-19,2,1
+163,Try,Colbie Caillat,25,2015-01-24,2015-01-31,2,2
+164,Ghostbusters,Ray Parker Jr.,25,2015-11-21,2015-11-21,1,1
+165,Mean To Me,Brett Eldredge,25,2015-04-11,2015-04-11,1,1

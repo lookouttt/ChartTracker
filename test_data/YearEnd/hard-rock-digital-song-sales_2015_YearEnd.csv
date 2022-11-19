@@ -1,0 +1,158 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Thunderstruck,AC/DC,1,2015-01-03,2015-12-26,1203,52
+2,Bohemian Rhapsody,Queen,1,2015-01-03,2015-12-26,1076,52
+3,Back In Black,AC/DC,1,2015-01-03,2015-12-26,1006,52
+4,You Shook Me All Night Long,AC/DC,2,2015-01-03,2015-12-19,871,51
+5,Sweet Child O' Mine,Guns N' Roses,4,2015-01-03,2015-12-26,720,52
+6,We Will Rock You,Queen,2,2015-01-03,2015-12-26,684,52
+7,Blank Space,I Prevail,1,2015-01-17,2015-10-10,639,37
+8,Enter Sandman,Metallica,6,2015-01-03,2015-12-26,625,52
+9,Livin' On A Prayer,Bon Jovi,1,2015-01-03,2015-12-19,574,50
+10,Carry On Wayward Son,Kansas,2,2015-01-17,2015-12-19,551,46
+11,Jekyll And Hyde,Five Finger Death Punch,1,2015-07-04,2015-12-26,513,25
+12,Wrong Side Of Heaven,Five Finger Death Punch,1,2015-01-03,2015-11-28,501,45
+13,Cut The Cord,Shinedown,1,2015-07-18,2015-12-26,489,22
+14,Highway To Hell,AC/DC,7,2015-01-03,2015-11-28,421,41
+15,Failure,Breaking Benjamin,1,2015-04-11,2015-08-15,338,18
+16,Footsteps,Pop Evil,5,2015-06-20,2015-11-28,328,24
+17,Heavy Is The Head,Zac Brown Band Featuring Chris Cornell,1,2015-03-21,2015-07-04,300,16
+18,The Final Countdown,Europe,1,2015-10-03,2015-12-26,271,13
+19,Stairway To Heaven,Led Zeppelin,5,2015-01-03,2015-11-28,244,40
+20,Angels Fall,Breaking Benjamin,1,2015-05-02,2015-11-28,229,19
+21,Bring Me To Life,Evanescence Featuring Paul McCoy,3,2015-01-03,2015-11-28,216,29
+22,Gravity,Papa Roach,5,2015-08-01,2015-11-28,206,18
+23,I Am Machine,Three Days Grace,7,2015-01-03,2015-04-25,203,16
+24,Dream On,Aerosmith,3,2015-01-24,2015-10-03,184,12
+25,Wanted Dead Or Alive,Bon Jovi,14,2015-01-03,2015-11-28,181,31
+26,The Vengeful One,Disturbed,1,2015-07-11,2015-09-19,178,10
+27,Lydia,Highly Suspect,7,2015-06-27,2015-11-07,175,19
+28,Throne,Bring Me The Horizon,2,2015-08-15,2015-12-19,172,16
+29,Angel,Theory Of A Deadman,10,2015-03-28,2015-08-08,120,15
+30,Drown,Bring Me The Horizon,2,2015-01-03,2015-09-26,115,8
+31,Nearly Forgot My Broken Heart,Chris Cornell,8,2015-10-10,2015-12-19,115,11
+32,Knockin' On Heaven's Door,Guns N' Roses,10,2015-01-03,2015-12-19,114,11
+33,Beast (Southpaw Remix),"Rob Bailey & The Hustle Standard Featuring Busta Rhymes, KXNG Crooked & Tech N9ne",1,2015-08-15,2015-11-28,107,7
+34,Nobody Praying For Me,Seether,10,2015-06-20,2015-08-15,106,9
+35,Closer,Nine Inch Nails,6,2015-07-18,2015-12-19,93,8
+36,Everlong,Foo Fighters,1,2015-06-06,2015-11-07,91,13
+37,Welcome To The Jungle,Guns N' Roses,14,2015-01-31,2015-11-28,84,19
+38,Here I Go Again,Whitesnake,5,2015-02-21,2015-10-24,83,5
+39,She Talks To Angels,The Black Crowes,5,2015-06-06,2015-12-19,79,4
+40,Second Chance,Shinedown,7,2015-09-19,2015-12-19,77,6
+41,Chop Suey,System Of A Down,10,2015-02-21,2015-05-09,77,6
+42,Happy Song,Bring Me The Horizon,1,2015-08-01,2015-09-12,71,6
+43,Wash It All Away,Five Finger Death Punch,10,2015-09-26,2015-12-26,71,7
+44,Eminence Front,The Who,4,2015-03-21,2015-04-11,70,4
+45,Crazy Bitch,Buckcherry,4,2015-04-25,2015-12-19,68,6
+46,Defeated,Breaking Benjamin,1,2015-05-30,2015-06-20,66,4
+47,November Rain,Guns N' Roses,12,2015-02-21,2015-12-19,65,6
+48,Face Everything And Rise,Papa Roach,3,2015-01-31,2015-03-07,62,5
+49,You Give Love A Bad Name,Bon Jovi,7,2015-01-03,2015-05-16,62,5
+50,I'm On Fire,AWOLNATION,1,2015-02-28,2015-03-14,57,3
+51,(I Hate) Everything About You,Three Days Grace,6,2015-01-03,2015-01-17,54,3
+52,The Sound Of Silence,Disturbed,4,2015-09-12,2015-12-26,53,3
+53,Hell To Pay,Five Finger Death Punch,6,2015-08-15,2015-09-05,53,4
+54,Sweet Emotion,Aerosmith,8,2015-04-18,2015-05-09,52,4
+55,Headstrong,Trapt,9,2015-04-18,2015-10-03,52,6
+56,T.N.T.,AC/DC,17,2015-01-17,2015-05-09,49,11
+57,The Divine Zero,Pierce The Veil,1,2015-07-04,2015-07-11,46,2
+58,I Won't Give In,Asking Alexandria,1,2015-06-13,2015-07-11,46,3
+59,In The End,Linkin Park,16,2015-01-10,2015-11-07,40,7
+60,True Friends,Bring Me The Horizon,6,2015-09-12,2015-09-19,39,2
+61,You Want A Battle? (Here's A War),Bullet For My Valentine,6,2015-07-18,2015-07-25,39,2
+62,Black Betty,Ram Jam,18,2015-01-17,2015-12-19,39,8
+63,Glycerine,Bush,12,2015-02-21,2015-03-07,37,3
+64,The Light,Disturbed,13,2015-12-05,2015-12-26,37,4
+65,Crazy Train,Ozzy Osbourne,9,2015-02-14,2015-11-07,34,5
+66,Animal I Have Become,Three Days Grace,8,2015-01-03,2015-01-17,31,3
+67,No Way Out,Bullet For My Valentine,2,2015-06-06,2015-06-13,30,2
+68,State Of My Head,Shinedown,4,2015-09-19,2015-12-26,30,3
+69,Inside Yourself,Godsmack,1,2015-12-12,2015-12-19,29,2
+70,How You Remind Me,Nickelback,11,2015-04-18,2015-05-02,29,3
+71,Bawitdaba,Kid Rock,4,2015-03-14,2015-04-18,28,3
+72,Pour Some Sugar On Me (2012),Def Leppard,20,2015-04-04,2015-07-18,28,10
+73,Apocalyptic,Halestorm,6,2015-01-31,2015-02-14,27,2
+74,Hell's Bells,AC/DC,13,2015-01-17,2015-10-10,26,5
+75,Plush,Stone Temple Pilots,1,2015-12-26,2015-12-26,25,1
+76,Deep Six,Marilyn Manson,2,2015-01-03,2015-02-07,25,2
+77,Killing Strangers,Marilyn Manson,10,2015-02-07,2015-02-21,25,2
+78,Learn To Fly,Foo Fighters,2,2015-08-22,2015-08-22,24,1
+79,Interstate Love Song,Stone Temple Pilots,2,2015-12-26,2015-12-26,24,1
+80,What Are You Waiting For,Disturbed,3,2015-08-29,2015-08-29,23,1
+81,All Bad Things,Motley Crue,3,2015-02-07,2015-02-07,23,1
+82,Creep,Stone Temple Pilots,3,2015-12-26,2015-12-26,23,1
+83,Black Cadillac,Shinedown,4,2015-09-05,2015-09-05,22,1
+84,Got Your Six,Five Finger Death Punch,4,2015-09-26,2015-09-26,22,1
+85,"God, If You Are Above...",Falling In Reverse,4,2015-01-03,2015-01-03,22,1
+86,Fall To Pieces,Velvet Revolver,4,2015-12-26,2015-12-26,22,1
+87,Immortalized,Disturbed,5,2015-08-15,2015-08-15,21,1
+88,Absolution Calling,Incubus,5,2015-02-21,2015-02-21,21,1
+89,This Is Halloween,Marilyn Manson,10,2015-11-14,2015-11-21,21,2
+90,Vasoline,Stone Temple Pilots,6,2015-12-26,2015-12-26,20,1
+91,We Are The Champions,Queen,20,2015-04-04,2015-07-04,20,6
+92,Big Empty,Stone Temple Pilots,7,2015-12-26,2015-12-26,19,1
+93,Undivided,Asking Alexandria,7,2015-10-17,2015-10-17,19,1
+94,Blow,Theory Of A Deadman,7,2015-08-08,2015-08-08,19,1
+95,The Devil In I,Slipknot,11,2015-01-03,2015-01-10,19,2
+96,Sex Type Thing,Stone Temple Pilots,8,2015-12-26,2015-12-26,18,1
+97,Disease,Hollywood Undead,8,2015-04-11,2015-04-11,18,1
+98,Amen,Halestorm,8,2015-03-21,2015-03-21,18,1
+99,Slither,Velvet Revolver,9,2015-12-26,2015-12-26,17,1
+100,Heaven Knows,The Pretty Reckless,15,2015-04-18,2015-05-02,17,2
+101,All Along The Watchtower,Jimi Hendrix,17,2015-03-28,2015-10-10,17,2
+102,Monster,Skillet,19,2015-01-10,2015-02-14,17,3
+103,Another One Bites The Dust,Queen,21,2015-05-23,2015-10-24,17,7
+104,Usual Suspects,Hollywood Undead,10,2015-03-07,2015-03-07,16,1
+105,Somebody To Love,Queen,10,2015-12-26,2015-12-26,16,1
+106,What I've Done,Linkin Park,16,2015-01-03,2015-01-24,16,3
+107,Through It All,From Ashes To New,11,2015-12-05,2015-12-05,15,1
+108,Fire It Up,Disturbed,12,2015-08-22,2015-08-22,14,1
+109,Kashmir,Led Zeppelin,12,2015-03-14,2015-03-14,14,1
+110,Last Resort,Papa Roach,13,2015-02-14,2015-02-14,13,1
+111,Something From Nothing,Foo Fighters,13,2015-01-03,2015-01-03,13,1
+112,Fly,Sleeping With Sirens,13,2015-03-28,2015-03-28,13,1
+113,Outcast,Shinedown,13,2015-10-03,2015-10-03,13,1
+114,Dead And Bloated,Stone Temple Pilots,13,2015-12-26,2015-12-26,13,1
+115,Down With The Sickness,Disturbed,21,2015-02-21,2015-03-07,13,3
+116,Still Echoes,Lamb Of God,14,2015-06-06,2015-06-06,12,1
+117,Wicked Garden,Stone Temple Pilots,14,2015-12-26,2015-12-26,12,1
+118,School's Out,Alice Cooper,14,2015-06-20,2015-06-20,12,1
+119,Same Damn Life,Seether,19,2015-01-03,2015-02-14,12,4
+120,I Will Not Bow,Breaking Benjamin,19,2015-04-18,2015-05-02,11,3
+121,Numb,Linkin Park,20,2015-01-10,2015-11-21,11,3
+122,Trippin' On A Hole In A Paper,Stone Temple Pilots,16,2015-12-26,2015-12-26,10,1
+123,Baba O'riley,The Who,16,2015-10-31,2015-10-31,10,1
+124,Blurry,Puddle Of Mudd,18,2015-02-28,2015-03-07,10,2
+125,Ashes Of Eden,Breaking Benjamin,17,2015-07-11,2015-07-11,9,1
+126,Kick Me,Sleeping With Sirens,17,2015-01-10,2015-01-10,9,1
+127,Cherry Pie,Warrant,17,2015-04-18,2015-04-18,9,1
+128,Rockstar,Nickelback,21,2015-01-10,2015-03-21,9,3
+129,Speed Of Light,Iron Maiden,18,2015-09-05,2015-09-05,8,1
+130,Dragula,Rob Zombie,22,2015-11-14,2015-11-21,8,2
+131,Magic Carpet Ride,Steppenwolf,19,2015-02-28,2015-02-28,7,1
+132,Shine On,The Amity Affliction,19,2015-12-05,2015-12-05,7,1
+133,Nothing Else Matters,Metallica,19,2015-08-08,2015-08-08,7,1
+134,Never Giving Up,Of Mice & Men,20,2015-03-14,2015-03-14,6,1
+135,Better Man,Pearl Jam,20,2015-06-06,2015-06-06,6,1
+136,Human Race,Three Days Grace,20,2015-04-11,2015-04-11,6,1
+137,Jenny,Nothing More,22,2015-08-29,2015-09-05,6,2
+138,Du Hast,Rammstein,21,2015-10-24,2015-10-24,5,1
+139,How We Roll,Hollywood Undead,21,2015-03-28,2015-03-28,5,1
+140,512,Lamb Of God,21,2015-06-27,2015-06-27,5,1
+141,Kryptonite,3 Doors Down,22,2015-03-21,2015-04-04,5,2
+142,Blank Space,Our Last Night,22,2015-02-07,2015-02-07,4,1
+143,Simple Man,Shinedown,22,2015-05-16,2015-05-16,4,1
+144,Black Dog,Led Zeppelin,22,2015-10-03,2015-10-03,4,1
+145,Drive,Incubus,23,2015-02-21,2015-02-28,4,2
+146,Paradise City,Guns N' Roses,24,2015-03-28,2015-05-23,4,3
+147,Gravity,Hollywood Undead,23,2015-03-14,2015-03-14,3,1
+148,Feels Like Forever,Of Mice & Men,24,2015-03-14,2015-03-14,2,1
+149,Black Hole Sun,Soundgarden,24,2015-12-05,2015-12-05,2,1
+150,Iron Man,Black Sabbath,24,2015-04-18,2015-04-18,2,1
+151,Rock You Like A Hurricane,Scorpions,24,2015-02-28,2015-02-28,2,1
+152,Are You Gonna Be My Girl,Jet,25,2015-02-28,2015-02-28,1,1
+153,Follow Me Down,The Pretty Reckless,25,2015-05-02,2015-05-02,1,1
+154,With Arms Wide Open,Creed,25,2015-12-12,2015-12-12,1,1
+155,Another Heart,Tremonti,25,2015-04-11,2015-04-11,1,1
+156,Burn It Down,Linkin Park,25,2015-01-10,2015-01-10,1,1
+157,Breaking The Silence,Breaking Benjamin,25,2015-07-11,2015-07-11,1,1

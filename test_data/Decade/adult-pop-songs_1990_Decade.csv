@@ -1,0 +1,491 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,All For You,Sister Hazel,1,1997-05-03,1998-08-22,2159,69
+2,Slide,Goo Goo Dolls,1,1998-10-03,1999-12-25,2014,65
+3,Barely Breathing,Duncan Sheik,2,1996-11-02,1997-12-27,1800,61
+4,Torn,Natalie Imbruglia,1,1998-02-14,1999-03-06,1777,56
+5,Iris,Goo Goo Dolls,1,1998-05-02,1999-05-01,1749,53
+6,I'll Be,Edwin McCain,6,1998-01-31,1999-04-03,1707,62
+7,One Headlight,The Wallflowers,1,1997-02-22,1998-03-07,1655,55
+8,Save Tonight,Eagle-Eye Cherry,3,1998-08-01,1999-08-07,1617,54
+9,3 AM,matchbox 20,1,1997-11-08,1998-10-03,1579,48
+10,Kiss Me,Sixpence None The Richer,2,1998-10-17,1999-11-27,1528,56
+11,I Don't Want To Wait,Paula Cole,1,1997-07-26,1998-06-06,1498,46
+12,Back 2 Good,matchbox 20,4,1998-10-17,1999-10-16,1498,53
+13,Walkin' On The Sun,Smash Mouth,1,1997-09-13,1998-08-01,1489,47
+14,Name,Goo Goo Dolls,2,1995-10-14,1996-10-05,1486,52
+15,Roll To Me,Del Amitri,1,1995-10-07,1996-08-24,1485,47
+16,Run-Around,Blues Traveler,2,1995-10-07,1996-09-07,1476,49
+17,Give Me One Reason,Tracy Chapman,1,1996-04-06,1997-02-22,1457,47
+18,Real World,matchbox 20,3,1998-04-11,1999-03-20,1457,50
+19,If You Could Only See,Tonic,7,1997-07-05,1998-06-20,1408,51
+20,Don't Speak,No Doubt,1,1996-11-02,1997-08-16,1398,42
+21,You Were Meant For Me,Jewel,1,1996-11-23,1997-10-04,1384,46
+22,I Go Blind,Hootie & The Blowfish,2,1996-05-04,1997-07-12,1383,52
+23,Sunny Came Home,Shawn Colvin,1,1997-03-01,1997-12-20,1377,43
+24,Semi-Charmed Life,Third Eye Blind,3,1997-05-10,1998-03-21,1374,46
+25,Wonder,Natalie Merchant,2,1995-12-16,1996-11-02,1341,47
+26,Change The World,Eric Clapton,1,1996-06-22,1997-03-08,1331,38
+27,I Love You Always Forever,Donna Lewis,1,1996-06-29,1997-04-12,1327,42
+28,Time Of Your Life (Good Riddance),Green Day,11,1997-12-27,1999-01-30,1316,58
+29,Counting Blue Cars,Dishwalla,5,1996-07-13,1997-05-31,1309,47
+30,Lullaby,Shawn Mullins,1,1998-09-19,1999-06-26,1273,41
+31,The Way,Fastball,2,1998-03-14,1998-12-19,1265,41
+32,Truly Madly Deeply,Savage Garden,2,1997-11-29,1998-08-29,1233,40
+33,Every Morning,Sugar Ray,1,1998-12-26,1999-09-11,1208,38
+34,Jumper,Third Eye Blind,5,1998-09-05,1999-06-19,1159,42
+35,Angel,Sarah McLachlan,1,1998-10-24,1999-06-26,1131,36
+36,She's So High,Tal Bachman,1,1999-05-08,1999-12-25,1112,34
+37,My Favorite Mistake,Sheryl Crow,2,1998-09-05,1999-05-01,1112,35
+38,All Star,Smash Mouth,1,1999-05-22,1999-12-25,1101,32
+39,Insensitive,Jann Arden,6,1995-12-23,1996-11-09,1095,46
+40,Fly,Sugar Ray,2,1997-08-23,1998-04-25,1084,36
+41,Because You Loved Me,Celine Dion,1,1996-03-02,1996-10-05,1073,32
+42,Head Over Feet,Alanis Morissette,1,1996-09-21,1997-05-17,1068,35
+43,Til I Hear It From You,Gin Blossoms,3,1995-10-07,1996-05-25,1066,34
+44,Out Of My Head,Fastball,3,1999-04-17,1999-12-25,1063,37
+45,Lovefool,The Cardigans,2,1996-11-30,1997-08-02,1059,36
+46,As I Lay Me Down,Sophie B. Hawkins,1,1995-10-07,1996-04-06,994,27
+47,One Week,Barenaked Ladies,2,1998-06-27,1999-02-20,987,35
+48,Back For Good,Take That,3,1995-10-07,1996-04-27,977,30
+49,Missing,Everything But The Girl,2,1995-12-02,1996-07-13,964,33
+50,You Learn,Alanis Morissette,3,1996-05-25,1997-01-04,964,33
+51,I Will Remember You (Live),Sarah McLachlan,2,1995-10-28,1999-11-13,954,50
+52,I Want You,Savage Garden,4,1997-02-08,1997-09-20,950,33
+53,Follow You Down,Gin Blossoms,3,1996-03-02,1996-10-12,947,33
+54,How's It Going To Be,Third Eye Blind,5,1997-11-15,1998-08-01,944,38
+55,Foolish Games,Jewel,1,1997-07-19,1998-01-24,942,28
+56,Time,Hootie & The Blowfish,1,1995-11-04,1996-06-22,937,34
+57,It's All Coming Back To Me Now,Celine Dion,2,1996-08-17,1997-03-01,931,29
+58,Only Wanna Be With You,Hootie & The Blowfish,2,1995-10-07,1996-04-20,929,29
+59,Where Have All The Cowboys Gone?,Paula Cole,4,1997-02-01,1997-09-06,924,32
+60,Breakfast At Tiffany's,Deep Blue Something,3,1995-10-21,1996-06-15,914,35
+61,Nobody Knows,The Tony Rich Project,7,1996-02-03,1996-10-05,908,36
+62,Push,matchbox 20,6,1997-07-12,1998-02-21,905,33
+63,Crash Into Me,Dave Matthews Band,9,1997-03-01,1997-11-08,885,37
+64,Hands,Jewel,2,1998-10-24,1999-04-17,877,26
+65,One Sweet Day,Mariah Carey & Boyz II Men,1,1995-11-18,1996-05-11,868,26
+66,If It Makes You Happy,Sheryl Crow,5,1996-09-21,1997-05-10,867,34
+67,Kiss From A Rose,Seal,1,1995-10-07,1996-03-30,854,26
+68,When You Love A Woman,Journey,3,1996-10-05,1997-04-05,847,27
+69,Someday,Sugar Ray,3,1999-06-26,1999-12-25,843,27
+70,Don't Cry,Seal,3,1995-12-09,1996-07-13,840,32
+71,Uninvited,Alanis Morissette,3,1998-04-04,1998-10-03,824,27
+72,The Freshmen,The Verve Pipe,7,1997-05-03,1997-11-22,824,30
+73,Ironic,Alanis Morissette,5,1996-03-09,1996-09-28,823,30
+74,Closing Time,Semisonic,4,1998-05-16,1998-12-12,816,31
+75,Kind & Generous,Natalie Merchant,3,1998-05-16,1998-11-07,815,26
+76,Tubthumping,Chumbawamba,1,1997-10-11,1998-04-04,814,26
+77,Everyday Is A Winding Road,Sheryl Crow,4,1997-01-25,1997-07-26,804,27
+78,How Bizarre,OMC,5,1997-05-17,1997-12-06,804,30
+79,Building A Mystery,Sarah McLachlan,4,1997-07-12,1998-01-17,796,28
+80,Black Balloon,Goo Goo Dolls,3,1999-06-26,1999-12-25,792,27
+81,Smooth,Santana Featuring Rob Thomas,1,1999-07-10,1999-12-25,788,25
+82,Un-Break My Heart,Toni Braxton,4,1996-11-16,1997-05-24,787,28
+83,Key West Intermezzo (I Saw You First),John Mellencamp,4,1996-08-17,1997-02-22,785,28
+84,Jealousy,Natalie Merchant,5,1996-06-01,1996-12-14,774,29
+85,Blessed,Elton John,4,1995-10-21,1996-04-13,772,26
+86,Adia,Sarah McLachlan,6,1998-03-28,1998-10-10,772,29
+87,Better Days (And The Bottom Drops Out),Citizen King,10,1999-05-08,1999-12-11,762,32
+88,Who Will Save Your Soul,Jewel,5,1996-06-01,1996-12-21,759,30
+89,Closer To Free,BoDeans,3,1996-02-17,1996-08-24,758,28
+90,I Do,Lisa Loeb,3,1997-11-08,1998-05-02,756,26
+91,Always Be My Baby,Mariah Carey,2,1996-03-16,1996-09-07,747,26
+92,Thank U,Alanis Morissette,1,1998-10-10,1999-04-03,732,26
+93,I Don't Want To Miss A Thing,Aerosmith,2,1998-06-13,1998-12-12,730,27
+94,A Long December,Counting Crows,6,1996-12-14,1997-06-21,720,28
+95,Sex And Candy,Marcy Playground,4,1998-02-14,1998-08-15,716,27
+96,A Change Would Do You Good,Sheryl Crow,5,1997-05-24,1997-11-15,712,26
+97,Fly Away,Lenny Kravitz,8,1998-12-05,1999-07-10,709,32
+98,Livin' La Vida Loca,Ricky Martin,1,1999-04-24,1999-10-16,708,26
+99,The Mummers' Dance,Loreena McKennitt,3,1997-12-20,1998-06-13,704,26
+100,I Could Not Ask For More,Edwin McCain,6,1999-06-12,1999-12-04,689,26
+101,Believe,Cher,5,1999-01-30,1999-07-24,686,26
+102,Mouth,Merril Bainbridge,8,1996-08-31,1997-02-22,682,26
+103,You're Still The One,Shania Twain,6,1998-04-18,1998-10-17,681,27
+104,Kiss The Rain,Billie Myers,6,1997-11-15,1998-05-16,668,27
+105,I Want To Come Over,Melissa Etheridge,9,1995-12-30,1996-06-29,660,27
+106,What It's Like,Everlast,9,1999-02-20,1999-08-21,657,27
+107,Old Man & Me (When I Get To Heaven),Hootie & The Blowfish,4,1996-04-20,1996-10-12,648,26
+108,You Get What You Give,New Radicals,11,1998-11-14,1999-05-22,646,28
+109,Carnival,Natalie Merchant,8,1995-10-07,1996-03-09,634,23
+110,That Don't Impress Me Much,Shania Twain,6,1999-04-03,1999-09-25,632,26
+111,Runaway,Janet Jackson,7,1995-10-07,1996-03-09,627,23
+112,My Heart Will Go On,Celine Dion,3,1998-01-17,1998-07-11,625,26
+113,MMMBop,Hanson,5,1997-04-12,1997-10-04,622,26
+114,Last Kiss,Pearl Jam,5,1999-06-19,1999-12-11,613,26
+115,My Father's Eyes,Eric Clapton,7,1998-02-28,1998-08-22,612,26
+116,Nowhere To Go,Melissa Etheridge,9,1996-08-03,1997-01-25,605,26
+117,You'll See,Madonna,10,1995-11-11,1996-05-04,600,26
+118,Anything But Down,Sheryl Crow,7,1999-02-27,1999-08-21,597,26
+119,I Will Wait,Hootie & The Blowfish,3,1998-08-29,1999-02-20,591,26
+120,Sweetest Thing,U2,12,1998-10-17,1999-04-10,588,26
+121,Mambo No. 5 (A Little Bit Of...),Lou Bega,2,1999-08-28,1999-12-25,584,18
+122,I Want It That Way,Backstreet Boys,11,1999-05-22,1999-11-13,581,26
+123,How Do I Live,LeAnn Rimes,10,1997-09-06,1998-02-28,575,26
+124,Hooch,Everything,12,1998-07-25,1999-01-23,568,27
+125,Steal My Sunshine,Len,7,1999-07-31,1999-12-25,566,22
+126,There She Goes,Sixpence None The Richer,7,1999-08-14,1999-12-25,563,20
+127,Let's Make A Night To Remember,Bryan Adams,14,1996-08-31,1997-02-22,559,26
+128,Run,Collective Soul,12,1999-02-06,1999-07-31,546,26
+129,Scar Tissue,Red Hot Chili Peppers,11,1999-07-03,1999-12-25,536,26
+130,"Exhale (Shoop Shoop) (From ""Waiting To Exhale"")",Whitney Houston,14,1995-11-04,1996-04-27,533,26
+131,Bitter Sweet Symphony,The Verve,8,1997-12-27,1998-06-20,527,26
+132,Fly Like An Eagle,Seal,7,1996-11-02,1997-03-29,522,22
+133,December,Collective Soul,11,1995-10-07,1996-03-09,519,23
+134,Bitch,Meredith Brooks,14,1997-04-26,1997-10-18,517,26
+135,Inside Out,Eve 6,16,1998-09-12,1999-03-27,512,29
+136,Fantasy,Mariah Carey,8,1995-10-07,1996-03-09,511,23
+137,Takes A Little Time,Amy Grant,15,1997-08-30,1998-02-21,511,26
+138,Between You And Me,dc Talk,11,1996-10-12,1997-04-05,510,26
+139,Something About The Way You Look Tonight,Elton John,12,1997-09-27,1998-03-21,505,26
+140,This Kiss,Faith Hill,14,1998-08-22,1999-02-13,494,26
+141,Tucker's Town,Hootie & The Blowfish,12,1996-07-20,1997-01-11,488,26
+142,Sweet Surrender,Sarah McLachlan,10,1997-11-22,1998-04-25,486,23
+143,It's All Been Done,Barenaked Ladies,9,1998-12-12,1999-05-29,482,25
+144,The World I Know,Collective Soul,18,1996-01-27,1996-08-10,482,29
+145,Criminal,Fiona Apple,17,1997-08-30,1998-02-21,473,26
+146,Where Do You Go,No Mercy,16,1996-09-07,1997-03-01,464,26
+147,Meet Virginia,Train,2,1999-08-07,1999-12-25,462,21
+148,Hey Leonardo (She Likes Me For Me),Blessid Union Of Souls,16,1999-05-29,1999-11-20,460,26
+149,Just Another Day,John Mellencamp,13,1996-12-28,1997-06-21,459,26
+150,Beautiful Stranger,Madonna,9,1999-06-12,1999-10-30,456,21
+151,Quit Playing Games (With My Heart),Backstreet Boys,18,1997-07-26,1998-01-17,452,26
+152,Don't Let Go (Love),En Vogue,16,1996-12-14,1997-06-07,449,26
+153,Jump Jive An' Wail,The Brian Setzer Orchestra,14,1998-07-25,1999-01-16,447,26
+154,Good Intentions,Toad The Wet Sprocket,17,1995-10-14,1996-04-06,442,26
+155,Brick,Ben Folds Five,11,1998-01-03,1998-06-20,438,25
+156,Shame On You,Indigo Girls,15,1997-05-31,1997-11-22,437,26
+157,One Of Us,Joan Osborne,16,1995-12-09,1996-06-01,434,26
+158,Searchin' My Soul,Vonda Shepard,10,1998-04-25,1998-10-03,431,24
+159,The Difference,The Wallflowers,14,1997-07-19,1998-02-28,426,24
+160,As Long As You Love Me,Backstreet Boys,15,1998-01-24,1998-07-18,426,26
+161,Everything Falls Apart,dog's eye view,17,1996-03-23,1996-09-14,417,26
+162,I'll Be There For You,The Rembrandts,7,1995-10-07,1996-01-20,411,16
+163,Wishing I Was There,Natalie Imbruglia,13,1998-07-11,1998-12-05,410,22
+164,Possession,Sarah McLachlan,19,1997-01-18,1997-07-12,410,26
+165,Angels Would Fall,Melissa Etheridge,9,1999-09-18,1999-12-25,408,15
+166,Frozen,Madonna,9,1998-03-07,1998-07-18,403,20
+167,Summertime,The Sundays,13,1997-10-18,1998-04-04,396,25
+168,To The Moon And Back,Savage Garden,17,1997-07-19,1998-09-26,394,26
+169,Call And Answer,Barenaked Ladies,17,1999-05-15,1999-11-06,393,26
+170,Me,Paula Cole,17,1998-02-14,1998-08-08,393,26
+171,Crush,Jennifer Paige,19,1998-08-08,1999-01-30,393,26
+172,Can't Get Enough Of You Baby,Smash Mouth,14,1998-07-04,1998-12-19,383,22
+173,Hook,Blues Traveler,22,1996-01-20,1996-08-03,380,29
+174,I Will Buy You A New Life,Everclear,20,1998-05-16,1998-11-07,375,26
+175,From This Moment On,Shania Twain,22,1998-10-03,1999-03-27,374,26
+176,Birmingham,Amanda Marshall,14,1996-09-07,1997-02-08,373,23
+177,The Impression That I Get,The Mighty Mighty Bosstones,17,1997-08-02,1998-02-07,373,26
+178,Maria,Blondie,14,1999-01-30,1999-06-19,372,21
+179,Crush,Dave Matthews Band,20,1998-11-21,1999-05-15,370,26
+180,I Can Love You Like That,All-4-One,5,1995-10-07,1995-12-23,369,12
+181,Life Is Sweet,Natalie Merchant,12,1999-04-10,1999-08-21,364,20
+182,I Believe I Can Fly,R. Kelly,21,1997-03-08,1997-09-13,359,26
+183,You'll Be In My Heart,Phil Collins,21,1999-05-22,1999-11-13,359,26
+184,Down So Long,Jewel,10,1999-03-27,1999-07-24,357,18
+185,Secret Garden,Bruce Springsteen,12,1997-03-15,1997-08-02,357,21
+186,More Than This,"10,000 Maniacs",10,1997-07-05,1997-11-01,355,18
+187,Praise You,Fatboy Slim,19,1999-04-03,1999-09-11,347,24
+188,I'm Not Running Anymore,John Mellencamp,22,1999-04-10,1999-10-02,345,26
+189,Father Of Mine,Everclear,23,1998-11-14,1999-05-08,345,26
+190,Staring At The Sun,U2,13,1997-03-15,1997-07-05,342,17
+191,Stay (Wasting Time),Dave Matthews Band,20,1998-06-27,1998-11-14,326,21
+192,Forever,Mariah Carey,16,1996-07-06,1996-11-23,324,21
+193,Fire Escape,Fastball,19,1998-10-10,1999-02-27,319,21
+194,Zoot Suit Riot,Cherry Poppin' Daddies,16,1998-05-02,1998-10-24,317,25
+195,You Still Touch Me,Sting,19,1996-05-11,1996-11-09,317,26
+196,Macarena (Bayside Boys Mix),Los Del Rio,19,1996-06-08,1996-11-02,311,22
+197,Your Woman,White Town,16,1997-04-05,1997-08-09,310,19
+198,Surrounded,Chantal Kreviazuk,19,1997-11-01,1998-04-11,308,24
+199,Killing Me Softly,Fugees Featuring Bounty Killer,20,1996-06-08,1996-11-23,308,25
+200,All By Myself,Celine Dion,12,1997-02-15,1997-06-07,303,17
+201,Special,Garbage,16,1999-03-06,1999-07-31,303,22
+202,When You're Gone,The Cranberries,17,1997-01-04,1997-06-14,299,22
+203,To Love You More,Celine Dion,21,1998-06-13,1998-11-14,295,23
+204,Man! I Feel Like A Woman!,Shania Twain,12,1999-09-18,1999-12-25,294,15
+205,Standing Outside A Broken Phone Booth...,Primitive Radio Gods,19,1996-07-20,1997-01-18,292,22
+206,Butterfly Kisses,Bob Carlisle,13,1997-05-17,1997-08-16,277,14
+207,Know What You Mean,Sister 7,21,1998-03-28,1998-08-22,272,22
+208,Happy,Sister Hazel,27,1997-12-13,1998-06-06,267,26
+209,Landslide,Fleetwood Mac,26,1998-03-07,1998-08-29,260,26
+210,Elegantly Wasted,INXS,13,1997-03-29,1997-06-28,259,14
+211,32 Flavors,Alana Davis,17,1997-11-29,1998-03-28,259,18
+212,I Finally Found Someone,Barbra Streisand & Bryan Adams,19,1996-11-30,1997-03-22,256,17
+213,I Could Fall In Love,Selena,17,1995-10-07,1996-02-10,253,19
+214,Silver Springs,Fleetwood Mac,22,1997-09-13,1998-01-31,250,20
+215,Ice Cream (Live),Sarah McLachlan,12,1999-10-16,1999-12-25,248,11
+216,Fastlove,George Michael,14,1996-05-04,1996-07-27,243,13
+217,What Would Happen,Meredith Brooks,21,1997-12-20,1998-05-02,241,20
+218,Waterfalls,TLC,24,1995-10-07,1996-02-03,241,18
+219,6th Avenue Heartache,The Wallflowers,26,1996-10-05,1997-03-29,241,26
+220,Only Love (The Ballad Of Sleeping Beauty),Sophie B. Hawkins,19,1996-02-17,1996-05-25,239,15
+221,I Know,Dionne Farris,13,1995-10-07,1995-12-02,234,9
+222,I'd Lie For You (And That's The Truth),Meat Loaf,17,1995-10-14,1996-01-20,232,14
+223,Free To Decide,The Cranberries,23,1996-07-27,1996-11-23,230,18
+224,...Baby One More Time,Britney Spears,25,1999-03-13,1999-09-04,230,24
+225,Unsent,Alanis Morissette,14,1999-01-09,1999-04-10,226,14
+226,Fall From Grace,Amanda Marshall,23,1997-02-22,1997-09-20,225,22
+227,Then The Morning Comes,Smash Mouth,6,1999-10-30,1999-12-25,224,9
+228,So Far Away,Rod Stewart,26,1996-02-03,1996-07-06,222,23
+229,Snow On The Sahara,Anggun,22,1998-07-11,1998-11-07,218,18
+230,In The House Of Stone And Light,Martin Page,15,1995-10-07,1995-12-02,216,9
+231,Brand New Day,Sting,15,1999-10-09,1999-12-25,215,12
+232,She's All I Ever Had,Ricky Martin,20,1999-08-28,1999-12-25,215,18
+233,Don't Cry For Me Argentina,Madonna,14,1997-01-25,1997-04-12,213,12
+234,Everybody's Free (To Wear Sunscreen),Baz Luhrmann,10,1999-03-20,1999-05-29,212,11
+235,Hand In My Pocket,Alanis Morissette,25,1995-11-25,1996-05-25,212,27
+236,Children,Robert Miles,23,1996-05-25,1996-10-19,210,21
+237,I Knew I Loved You,Savage Garden,10,1999-10-23,1999-12-25,208,10
+238,Show Me Love,Robyn,26,1997-11-29,1998-05-23,206,26
+239,You Make Me Feel,Jeremy Toback,24,1999-08-07,1999-12-04,205,18
+240,Ants Marching,Dave Matthews Band,22,1995-10-14,1996-02-24,203,20
+241,You Are Not Alone,Michael Jackson,8,1995-10-07,1996-01-20,202,10
+242,Dance Into The Light,Phil Collins,19,1996-09-28,1997-01-18,200,15
+243,Legend Of A Cowgirl,Imani Coppola,24,1997-09-27,1998-02-07,200,20
+244,I'm Your Angel,R. Kelly & Celine Dion,28,1998-11-14,1999-04-10,192,22
+245,L.A. Song,Beth Hart,13,1999-10-16,1999-12-25,191,11
+246,Runaway,The Corrs,18,1995-10-14,1995-12-30,186,12
+247,At The Stars,Better Than Ezra,23,1999-01-30,1999-05-01,186,14
+248,American Woman,Lenny Kravitz,23,1999-09-11,1999-12-25,185,15
+249,Angels,Robbie Williams,21,1999-10-02,1999-12-25,182,13
+250,Big Me,Foo Fighters,23,1996-04-13,1996-08-03,182,17
+251,Daylight Fading,Counting Crows,20,1997-06-07,1997-08-30,181,13
+252,My Own Worst Enemy,Lit,30,1999-06-19,1999-12-11,181,26
+253,Let Her Cry,Hootie & The Blowfish,16,1995-10-07,1995-12-09,180,9
+254,That Thing You Do!,The Wonders,18,1996-10-12,1996-12-14,179,10
+255,The Animal Song,Savage Garden,20,1999-03-06,1999-05-15,178,11
+256,Break Your Heart,Natalie Merchant,24,1998-10-31,1999-02-13,178,16
+257,I'll Never Break Your Heart,Backstreet Boys,28,1998-08-15,1999-02-06,177,23
+258,Colors Of The Wind,Vanessa Williams,10,1995-10-07,1995-12-09,174,10
+259,Chains,Tina Arena,20,1996-03-30,1996-06-15,172,12
+260,Hanginaround,Counting Crows,12,1999-10-30,1999-12-25,171,9
+261,Count On Me,Whitney Houston & CeCe Winans,25,1996-03-16,1996-06-29,169,16
+262,Heroes,The Wallflowers,20,1998-05-09,1998-07-18,167,11
+263,Together Again,Janet,29,1998-02-14,1998-08-08,167,25
+264,Never There,Cake,29,1998-12-26,1999-05-29,164,23
+265,If We Fall In Love Tonight,Rod Stewart,25,1996-11-16,1997-03-22,163,19
+266,Say You'll Be There,Spice Girls,24,1997-05-24,1997-09-06,162,16
+267,I Wanna Be There,Blessid Union Of Souls,25,1997-05-17,1997-12-13,160,19
+268,Millennium,Robbie Williams,22,1999-05-01,1999-07-17,159,12
+269,Say What You Want,Texas,23,1997-10-11,1998-01-24,159,15
+270,Let Me Be The One,Blessid Union Of Souls,24,1995-10-14,1996-01-27,156,15
+271,"I Believe In You And Me (From ""The Preacher's Wife"")",Whitney Houston,23,1996-12-28,1997-03-15,155,12
+272,1979,The Smashing Pumpkins,30,1996-02-03,1996-08-24,153,28
+273,Light In Your Eyes,Blessid Union Of Souls,29,1997-12-06,1998-05-30,152,25
+274,Four Leaf Clover,Abra Moore,23,1997-07-12,1997-10-04,149,13
+275,The Grease Mega-Mix,John Travolta & Olivia Newton-John,23,1996-11-16,1997-02-15,149,14
+276,Ooh Aah... Just A Little Bit,Gina G,25,1997-01-11,1997-05-10,147,18
+277,Jesus To A Child,George Michael,20,1996-01-20,1996-03-16,145,9
+278,Silent All These Years,Tori Amos,26,1997-04-05,1997-08-23,144,18
+279,Through Your Hands,Don Henley,26,1996-12-21,1997-03-15,142,13
+280,I Believe In Love,Paula Cole Band,22,1999-09-18,1999-11-20,138,10
+281,"The Earth, The Sun, The Rain",Color Me Badd,27,1996-06-08,1996-09-28,138,17
+282,I'll Stand By You,Pretenders,23,1995-10-07,1995-12-09,137,10
+283,You're Makin' Me High,Toni Braxton,28,1996-08-31,1996-12-21,129,17
+284,GET TOGETHER,Big Mountain,24,1995-12-16,1996-03-02,127,11
+285,Only Lonely,Hootie & The Blowfish,29,1998-11-28,1999-02-27,125,14
+286,Your Life Is Now,John Mellencamp,23,1998-09-19,1998-11-21,123,10
+287,Tell Me,Billie Myers,25,1998-06-20,1998-08-29,121,11
+288,Back To You,Bryan Adams,27,1997-12-20,1998-03-14,120,13
+289,You Must Love Me,Madonna,23,1996-11-02,1997-01-04,119,10
+290,Theme From Mission: Impossible,Adam Clayton & Larry Mullen,23,1996-05-18,1996-07-13,117,9
+291,Nothin' On Me,Shawn Colvin,24,1998-04-04,1998-06-06,114,10
+292,"For You I Will (From ""Space Jam"")",Monica,31,1997-05-03,1997-09-13,114,20
+293,Are You Jimmy Ray?,Jimmy Ray,25,1998-01-31,1998-04-11,112,11
+294,The Only Thing That Looks Good On Me Is You,Bryan Adams,26,1996-06-01,1996-07-27,111,9
+295,Every Time I Close My Eyes,Babyface,29,1997-02-15,1997-05-17,111,13
+296,Wonderwall,Oasis,30,1996-02-10,1996-05-25,111,16
+297,Do You Sleep?,Lisa Loeb & Nine Stories,26,1995-10-14,1996-01-13,110,13
+298,Three Marlenas,The Wallflowers,27,1997-10-25,1998-01-31,110,15
+299,(God Must Have Spent) A Little More Time On You,'N Sync,30,1999-02-13,1999-05-15,110,14
+300,She Runs Away,Duncan Sheik,24,1997-08-09,1997-10-18,109,11
+301,2 Become 1,Spice Girls,27,1997-08-16,1997-11-22,108,15
+302,Don't Go Away,Oasis,27,1997-10-11,1997-12-20,107,11
+303,Sad Caper,Hootie & The Blowfish,26,1996-10-26,1997-01-04,106,11
+304,Walk In The Sun,Bruce Hornsby,15,1995-10-07,1995-11-18,104,7
+305,Learn To Fly,Foo Fighters,19,1999-11-13,1999-12-25,104,7
+306,Walls,Tom Petty And The Heartbreakers,25,1996-08-10,1996-10-05,104,9
+307,Can I Touch You...There?,Michael Bolton,14,1995-10-07,1995-11-11,103,6
+308,Wake Me Up (When The World's Worth Waking Up For),Kyle Vincent,26,1997-05-24,1997-08-02,103,11
+309,Give,Dishwalla,26,1997-04-12,1997-06-07,101,9
+310,Shimmer,Shawn Mullins,27,1999-03-27,1999-06-05,101,11
+311,You Wanted More,Tonic,28,1999-10-16,1999-12-25,100,11
+312,Reach,Gloria Estefan,29,1996-04-27,1996-08-03,99,14
+313,Angeline Is Coming Home,The Badlees,28,1996-07-13,1996-09-21,94,11
+314,"Baby, Don't You Break My Heart Slow",Vonda Shepard With Emily Saliers,30,1999-06-05,1999-09-04,92,14
+315,"Yeah, Whatever",Splender,26,1999-10-09,1999-12-25,90,11
+316,I'm So Happy I Can't Stop Crying,Sting,28,1996-10-05,1996-12-07,90,10
+317,Turn My Head,Live,28,1997-08-30,1997-11-29,90,13
+318,Candle In The Wind 1997,Elton John,22,1997-09-27,1997-11-08,89,7
+319,So Pure,Alanis Morissette,25,1999-07-31,1999-09-18,88,8
+320,The Great Beyond,R.E.M.,17,1999-11-27,1999-12-25,87,5
+321,Flood,Jars Of Clay,29,1996-05-11,1996-08-17,87,14
+322,That's The Way It Is,Celine Dion,22,1999-11-20,1999-12-25,85,6
+323,Where's The Love,Hanson,27,1997-08-09,1997-10-11,84,10
+324,Oh Virginia,Blessid Union Of Souls,27,1996-02-24,1996-04-20,82,9
+325,"Step By Step (From ""The Preacher's Wife"")",Whitney Houston,26,1997-03-08,1997-04-26,81,8
+326,On My Own,Peach Union,26,1997-09-13,1997-11-08,81,9
+327,Genie In A Bottle,Christina Aguilera,31,1999-09-11,1999-12-25,80,16
+328,No Mercy,Khaleel,31,1998-12-19,1999-02-27,79,11
+329,Precious Little,Eleanor McEvoy,32,1996-12-21,1997-03-22,79,14
+330,Free As A Bird,The Beatles,22,1995-12-09,1996-01-27,78,8
+331,Beautiful Life,Ace Of Base,30,1995-11-18,1996-02-10,78,13
+332,I Need To Know,Marc Anthony,20,1999-11-20,1999-12-25,77,6
+333,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,25,1996-01-06,1998-01-10,77,7
+334,Wannabe,Spice Girls,27,1997-03-01,1997-05-03,75,10
+335,One By One,Cher,29,1996-06-22,1996-08-17,75,9
+336,Naked Eye,Luscious Jackson,33,1997-03-29,1997-08-30,74,16
+337,Crazy,Alana Davis,29,1998-06-27,1998-08-22,73,9
+338,Someday We'll Know,New Radicals,28,1999-06-19,1999-08-28,72,11
+339,Shadowboxer,Fiona Apple,32,1996-10-26,1998-05-09,72,15
+340,Flagpole Sitta,Harvey Danger,31,1998-08-29,1998-11-07,71,11
+341,Perfect,The Smashing Pumpkins,31,1998-08-22,1998-10-24,70,10
+342,Ooh La La,Rod Stewart,32,1998-06-20,1998-09-12,70,13
+343,The Hardest Thing,98 Degrees,32,1999-05-15,1999-08-07,70,13
+344,ROCK STEADY (BONNIE RAITT W/BRYAN ADAMS),Bonnie Raitt With Bryan Adams,25,1995-11-11,1995-12-23,68,7
+345,Sorry,Stretch Princess,27,1999-07-17,1999-09-11,66,9
+346,Water Runs Dry,Boyz II Men,19,1995-10-07,1995-10-21,64,3
+347,PROMISES BROKEN,Soul Asylum,27,1996-01-27,1996-03-09,64,7
+348,Spiderwebs,No Doubt,29,1996-09-28,1997-04-19,62,10
+349,Charmed,My Friend Steve,30,1999-04-17,1999-06-19,61,10
+350,Sometimes,Britney Spears,29,1999-07-24,1999-10-02,60,11
+351,6 Underground,Sneaker Pimps,31,1997-08-09,1997-10-25,59,10
+352,As Long As It Matters,Gin Blossoms,30,1996-08-24,1996-10-19,58,9
+353,Blue Eyes Blue,Eric Clapton,29,1999-08-28,1999-10-09,56,7
+354,Human,Pretenders,30,1999-08-21,1999-10-09,55,8
+355,Forever Tonight,Peter Cetera & Crystal Bernard,33,1995-10-14,1996-01-13,55,11
+356,Midnight In Chelsea,Jon Bon Jovi,29,1997-06-14,1997-07-26,54,7
+357,Baby Did A Bad Bad Thing,Chris Isaak,29,1999-08-07,1999-09-18,54,7
+358,Rick James,Jude,29,1999-04-17,1999-06-05,54,8
+359,Hurt By Love,BoDeans,33,1996-12-07,1997-02-01,54,9
+360,"Too Late, Too Soon",Jon Secada,30,1997-03-29,1997-05-10,53,7
+361,It's No Good,Depeche Mode,31,1997-06-14,1997-08-02,53,8
+362,Lucky Love,Ace Of Base,33,1996-03-09,1996-05-04,52,9
+363,Get In Line,Barenaked Ladies,31,1999-11-13,1999-12-25,51,7
+364,London Rain (Nothing Heals Me Like You Do),Heather Nova,31,1998-08-01,1998-09-19,50,8
+365,Most Precarious,Blues Traveler,33,1997-09-27,1997-12-06,50,11
+366,Human Beings,Seal,32,1998-11-21,1999-01-16,48,9
+367,If You Had My Love,Jennifer Lopez,32,1999-08-21,1999-10-23,48,10
+368,I Want You,Mexico 70,34,1997-06-28,1997-08-16,47,8
+369,Sweet Child O' Mine,Sheryl Crow,29,1999-06-26,1999-07-24,46,5
+370,You And The Mona Lisa,Shawn Colvin,31,1997-10-11,1997-11-22,46,7
+371,All I Have To Give,Backstreet Boys,30,1999-03-13,1999-05-08,45,9
+372,The Holy River,Prince,31,1997-02-08,1997-03-22,45,7
+373,Don't Wanna Lose You,Lionel Richie,30,1996-04-13,1996-06-01,44,8
+374,The Chanukah Song,Adam Sandler,28,1995-12-30,1999-01-09,39,6
+375,Daysleeper,R.E.M.,33,1998-10-31,1998-12-26,39,9
+376,Open Up Your Eyes,Tonic,33,1998-03-21,1998-05-16,39,9
+377,All I Want,Susanna Hoffs,35,1996-11-30,1997-01-18,39,8
+378,Take A Picture,Filter,24,1999-12-11,1999-12-25,38,3
+379,You Can Make History (Young Again),Elton John,33,1996-10-05,1996-11-16,38,7
+380,All My Life,K-Ci & JoJo,35,1998-06-06,1998-09-05,38,12
+381,Champagne Supernova,Oasis,33,1996-07-06,1996-08-31,37,9
+382,Everything You Want,Vertical Horizon,28,1999-12-11,1999-12-25,35,3
+383,Great Divide,Bruce Hornsby,33,1998-10-17,1998-11-28,35,7
+384,Butterfly,Mariah Carey,35,1997-11-01,1997-12-13,33,7
+385,Spark,Tori Amos,32,1998-05-30,1998-07-04,32,6
+386,"It's Alright, It's Ok",Leah Andreone,33,1997-03-22,1997-04-26,32,6
+387,Sin So Well,Rebekah,35,1998-05-02,1998-06-27,32,9
+388,Sweet Dreams,La Bouche,31,1996-06-29,1996-10-19,31,8
+389,Cruel Summer,Ace Of Base,33,1998-08-22,1998-09-26,30,6
+390,Walking After You,Foo Fighters,35,1998-09-05,1998-10-10,30,6
+391,Dreaming Of You,Selena,33,1996-01-27,1996-02-24,28,5
+392,Desperately Wanting,Better Than Ezra,37,1997-06-21,1998-02-07,28,14
+393,I'm Sorry Now,Jude,33,1999-11-06,1999-12-04,27,5
+394,When You Believe,Whitney Houston & Mariah Carey,37,1998-11-28,1999-02-06,27,10
+395,I See The Sun,Tommy Henriksen,34,1999-04-03,1999-06-12,26,10
+396,Auld Lang Syne,Kenny G,26,1999-12-18,1999-12-25,23,2
+397,Keeper Of The Flame,Martin Page,29,1995-10-07,1995-10-14,23,2
+398,Can't Cry Anymore,Sheryl Crow,29,1995-10-14,1995-10-28,23,3
+399,Big Yellow Taxi,Amy Grant,28,1995-10-07,1995-11-04,22,5
+400,Secret Smile,Semisonic,35,1999-02-13,1999-03-20,22,5
+401,Bailamos,Enrique Iglesias,35,1999-09-25,1999-10-23,22,5
+402,Written In The Stars,Elton John & LeAnn Rimes,36,1999-02-06,1999-03-27,22,8
+403,That I Would Be Good (Live),Alanis Morissette,30,1999-12-11,1999-12-25,21,3
+404,Believe In You,Jude Cole,33,1995-10-21,1995-11-25,21,6
+405,Larger Than Life,Backstreet Boys,35,1999-12-04,1999-12-25,21,4
+406,My Guardian Angel,The Pistoleros,35,1998-02-28,1998-03-28,21,5
+407,Have You Ever Really Loved A Woman?,Bryan Adams,21,1995-10-07,1995-10-07,20,1
+408,Fast As You Can,Fiona Apple,33,1999-12-11,1999-12-25,20,3
+409,Come Down,Toad The Wet Sprocket,35,1997-05-31,1997-07-05,20,6
+410,Can't Get You Off My Mind,Lenny Kravitz,36,1996-04-27,1996-06-01,20,6
+411,I Do (Cherish You),98 Degrees,36,1999-10-16,1999-12-18,20,7
+412,I'll Always Be Right There,Bryan Adams,33,1997-04-12,1997-05-03,19,4
+413,Another Day Goes By,Dakota Moon,36,1998-08-29,1998-10-03,19,6
+414,You Gotta Be,Des'ree,23,1995-10-07,1995-10-07,18,1
+415,What's My Age Again?,Blink-182,36,1999-11-20,1999-12-25,18,6
+416,I Believe,Blessid Union Of Souls,24,1995-10-07,1995-10-07,17,1
+417,All I Want For Christmas Is You,Mariah Carey,27,1996-01-06,1997-01-11,17,2
+418,Brian Wilson,Barenaked Ladies,37,1998-01-31,1998-04-18,17,8
+419,Hold My Hand,Hootie & The Blowfish,25,1995-10-07,1995-10-07,16,1
+420,Anything,3T,36,1996-04-27,1996-05-18,16,4
+421,WE'VE GOT IT GOIN' ON,Backstreet Boys,26,1996-02-17,1996-02-17,15,1
+422,Got You (Where I Want You),The Flys,36,1999-03-06,1999-06-12,15,7
+423,Come To My Window,Melissa Etheridge,27,1995-10-07,1995-10-07,14,1
+424,Mexico,Jimmy Buffett,32,1995-10-14,1995-10-21,14,2
+425,Do You Know (What It Takes),Robyn,35,1997-08-09,1997-08-23,14,3
+426,I'm The Only One,Melissa Etheridge,28,1995-10-07,1995-10-07,13,1
+427,Believe,Elton John,31,1995-10-14,1995-10-21,13,2
+428,Without Love,Donna Lewis,36,1997-01-25,1997-02-08,13,3
+429,What I Got,Sublime,39,1997-01-11,1997-04-05,13,7
+430,Waiting For Wednesday,Lisa Loeb & Nine Stories,36,1996-08-10,1996-08-24,12,3
+431,Be My Lover,La Bouche,38,1996-05-18,1996-10-26,12,6
+432,Wild Night,John Mellencamp With Me'Shell Ndegeocello,30,1995-10-07,1995-10-07,11,1
+433,Strong Enough,Sheryl Crow,34,1995-10-28,1995-11-11,11,3
+434,Stupid Girl,Garbage,36,1996-10-05,1996-11-09,11,4
+435,Shimmer,Fuel,37,1999-04-17,1999-05-08,11,4
+436,Malibu,Hole,37,1999-02-20,1999-03-13,11,4
+437,Ugly Girl,Fleming & John,37,1999-09-18,1999-10-09,11,4
+438,Please Come Home For Christmas,Eagles,31,1996-01-06,1996-01-06,10,1
+439,House Of Love,Amy Grant With Vince Gill,31,1995-10-07,1995-10-07,10,1
+440,Faith Of The Heart,Rod Stewart,38,1999-02-20,1999-03-13,10,4
+441,Wonderful Christmastime,Paul McCartney,32,1996-01-06,1996-01-06,9,1
+442,All I Wanna Do,Sheryl Crow,32,1995-10-07,1995-10-07,9,1
+443,What Would You Say,Dave Matthews Band,35,1995-10-28,1995-11-04,9,2
+444,1999,Prince,33,1999-01-16,1999-01-16,8,1
+445,The Right Time,The Corrs,37,1996-03-16,1996-03-30,8,3
+446,Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,34,1996-01-06,1996-01-06,7,1
+447,Total Eclipse Of The Heart,Nicki French,36,1995-10-14,1996-01-20,7,2
+448,Solitude,Edwin McCain,37,1996-01-13,1996-01-27,7,2
+449,Someone To Love,Jon B. Featuring Babyface,37,1995-10-14,1995-10-28,7,3
+450,Virtual Insanity,Jamiroquai,37,1997-06-28,1997-07-19,7,4
+451,Time Ago,Black Lab,38,1998-06-13,1998-07-04,7,4
+452,WHEN LOVE & HATE COLLIDE,Def Leppard,39,1995-12-16,1996-01-13,7,4
+453,Do They Know It's Christmas?,Band-Aid,35,1998-01-10,1998-01-10,6,1
+454,Take A Bow,Madonna,35,1995-10-07,1995-10-07,6,1
+455,Falls Apart,Sugar Ray,35,1999-12-25,1999-12-25,6,1
+456,Amnesia,Chumbawamba,38,1998-04-11,1998-04-25,6,3
+457,Let's Forget About It,Lisa Loeb,38,1998-05-09,1998-05-30,6,3
+458,That Girl,Maxi Priest Featuring Shaggy,39,1996-08-03,1996-09-14,6,4
+459,If You Go,Jon Secada,36,1995-10-07,1995-10-07,5,1
+460,"A Little Bit Me, A Little Bit You",The Specials,39,1996-08-24,1996-09-07,5,3
+461,Love Will Keep Us Alive,Eagles,37,1995-10-07,1995-10-07,4,1
+462,So Much To Say,Dave Matthews Band,38,1996-10-19,1996-10-26,4,2
+463,Wishlist,Pearl Jam,39,1998-06-06,1998-06-27,4,3
+464,Found Out About You,Gin Blossoms,38,1995-10-07,1995-10-07,3,1
+465,Sittin' Up In My Room,Brandy,38,1996-05-11,1996-05-11,3,1
+466,Somebody's Crying,Chris Isaak,38,1995-10-14,1995-10-14,3,1
+467,Betcha By Golly Wow!,Prince,38,1996-12-21,1996-12-21,3,1
+468,Santeria,Sublime,38,1997-07-05,1997-07-05,3,1
+469,No Scrubs,TLC,39,1999-06-05,1999-06-12,3,2
+470,In My Arms,Erasure,39,1997-05-10,1997-05-17,3,2
+471,Out Of My Mind,Duran Duran,39,1997-04-19,1997-04-26,3,2
+472,Why Does It Hurt So Bad,Whitney Houston,39,1996-09-14,1996-09-21,3,2
+473,Jupiter (Swallow The Moon),Jewel,39,1999-07-31,1999-07-31,2,1
+474,What I Didn't Know,Athenaeum,39,1998-08-15,1998-08-15,2,1
+475,Big Big World,Emilia,39,1999-01-23,1999-01-23,2,1
+476,Ray Of Light,Madonna,39,1998-07-25,1998-07-25,2,1
+477,Joy To The World,Mannheim Steamroller,39,1996-01-06,1996-01-06,2,1
+478,Tearin' Up My Heart,'N Sync,39,1998-10-10,1998-10-10,2,1
+479,Nowhere And Everywhere,Michelle Lewis,40,1998-10-10,1998-10-10,1,1
+480,The Thanksgiving Song,Adam Sandler,40,1998-12-12,1998-12-12,1,1
+481,Strong Enough,Cher,40,1999-07-03,1999-07-03,1,1
+482,The Power Of Good-Bye,Madonna,40,1999-01-23,1999-01-23,1,1
+483,Last Christmas,Wham!,40,1998-01-10,1998-01-10,1,1
+484,Your Little Secret,Melissa Etheridge,40,1995-11-18,1995-11-18,1,1
+485,Magazine,Lauren Christy,40,1998-02-07,1998-02-07,1,1
+486,The Sign,Ace Of Base,40,1995-10-07,1995-10-07,1,1
+487,Peace Tonight,Indigo Girls,40,1999-12-18,1999-12-18,1,1
+488,Back At One,Brian McKnight,40,1999-12-25,1999-12-25,1,1
+489,"The Cup Of Life (The Official Song Of The World Cup, France '98)",Ricky Martin,40,1999-08-14,1999-08-14,1,1
+490,This Is Your Night,Amber,40,1996-11-30,1996-11-30,1,1

@@ -1,0 +1,405 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,God's Plan,Drake,1,2018-02-03,2018-12-22,3705,44
+2,Lucid Dreams,Juice WRLD,1,2018-06-02,2018-12-29,3382,31
+3,Rockstar,Post Malone Featuring 21 Savage,1,2018-01-03,2018-12-08,2954,50
+4,Perfect,Ed Sheeran Duet With Beyonce,1,2018-01-03,2018-12-01,2555,49
+5,Psycho,Post Malone Featuring Ty Dolla $ign,2,2018-03-10,2018-11-10,2541,35
+6,Sad!,XXXTENTACION,1,2018-03-17,2018-12-29,2536,41
+7,I Like It,"Cardi B, Bad Bunny & J Balvin",2,2018-04-21,2018-12-29,2437,36
+8,In My Feelings,Drake,1,2018-07-14,2018-12-29,2358,25
+9,Sicko Mode,Travis Scott,2,2018-08-18,2018-12-29,2334,20
+10,Nice For What,Drake,1,2018-04-21,2018-10-06,2079,25
+11,Look Alive,BlocBoy JB Featuring Drake,2,2018-02-24,2018-09-08,1878,27
+12,FEFE,6ix9ine Featuring Nicki Minaj & Murda Beatz,2,2018-08-04,2018-12-22,1870,21
+13,Girls Like You,Maroon 5 Featuring Cardi B,5,2018-06-16,2018-12-29,1799,29
+14,Havana,Camila Cabello Featuring Young Thug,1,2018-01-03,2018-09-08,1743,32
+15,Drip Too Hard,Lil Baby & Gunna,1,2018-09-29,2018-12-29,1559,14
+16,Meant To Be,Bebe Rexha & Florida Georgia Line,11,2018-01-03,2018-12-01,1552,47
+17,Yes Indeed,Lil Baby & Drake,1,2018-05-26,2018-12-08,1550,29
+18,Better Now,Post Malone,4,2018-05-12,2018-12-29,1385,34
+19,Taste,Tyga Featuring Offset,6,2018-06-16,2018-12-22,1276,28
+20,Boo'd Up,Ella Mai,5,2018-05-12,2018-11-10,1256,27
+21,I Fall Apart,Post Malone,9,2018-01-03,2018-10-06,1255,38
+22,Mo Bamba,Sheck Wes,2,2018-09-15,2018-12-29,1214,16
+23,ZEZE,Kodak Black Featuring Travis Scott & Offset,1,2018-10-27,2018-12-29,1148,10
+24,Finesse,Bruno Mars & Cardi B,1,2018-01-20,2018-04-28,1140,15
+25,Walk It Talk It,Migos Featuring Drake,6,2018-02-10,2018-08-11,1127,27
+26,Plug Walk,Rich The Kid,6,2018-02-24,2018-12-01,1075,29
+27,Gummo,6ix9ine,4,2018-01-03,2018-04-14,1063,16
+28,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,15,2018-01-03,2018-12-01,1058,42
+29,"Thank U, Next",Ariana Grande,1,2018-11-17,2018-12-29,1050,7
+30,Nonstop,Drake,1,2018-07-14,2018-12-29,1046,24
+31,Stir Fry,Migos,4,2018-02-03,2018-06-02,1023,18
+32,Ric Flair Drip,Offset & Metro Boomin,5,2018-01-03,2018-07-07,1008,28
+33,Believer,Imagine Dragons,26,2018-01-03,2018-12-01,1003,46
+34,Freaky Friday,Lil Dicky Featuring Chris Brown,4,2018-03-31,2018-07-07,997,15
+35,Moonlight,XXXTENTACION,4,2018-03-31,2018-12-22,936,27
+36,Gucci Gang,Lil Pump,3,2018-01-03,2018-04-07,864,15
+37,This Is America,Childish Gambino,1,2018-05-19,2018-08-04,847,12
+38,MotorSport,"Migos, Nicki Minaj & Cardi B",5,2018-01-03,2018-04-14,833,16
+39,Without Me,Halsey,3,2018-10-20,2018-12-29,802,11
+40,No Limit,G-Eazy Featuring A$AP Rocky & Cardi B,3,2018-01-03,2018-04-07,799,15
+41,Mine,Bazzi,9,2018-02-03,2018-08-11,771,26
+42,No Tears Left To Cry,Ariana Grande,5,2018-05-05,2018-10-06,698,23
+43,Bodak Yellow (Money Moves),Cardi B,9,2018-01-03,2018-06-09,637,19
+44,I Love It,Kanye West & Lil Pump,1,2018-09-22,2018-11-17,636,9
+45,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",5,2018-10-13,2018-12-29,627,12
+46,All The Stars,Kendrick Lamar & SZA,5,2018-01-20,2018-04-28,622,13
+47,I'm Upset,Drake,3,2018-06-09,2018-09-08,611,14
+48,The Middle,"Zedd, Maren Morris & Grey",17,2018-02-10,2018-08-11,591,25
+49,Bartier Cardi,Cardi B Featuring 21 Savage,8,2018-01-06,2018-05-05,574,18
+50,Happier,Marshmello & Bastille,10,2018-09-22,2018-12-29,555,15
+51,All I Want For Christmas Is You,Mariah Carey,3,2018-01-03,2018-12-29,536,7
+52,MIA,Bad Bunny Featuring Drake,3,2018-10-27,2018-12-29,508,10
+53,Friends,Marshmello & Anne-Marie,10,2018-03-03,2018-08-11,506,21
+54,Eastside,"benny blanco, Halsey & Khalid",16,2018-08-04,2018-12-29,498,22
+55,Let You Down,NF,14,2018-01-03,2018-04-28,467,18
+56,Trip,Ella Mai,12,2018-09-08,2018-12-22,466,16
+57,Call Out My Name,The Weeknd,2,2018-04-14,2018-06-23,447,11
+58,Big Bank,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",14,2018-07-07,2018-11-10,445,18
+59,Be Careful,Cardi B,6,2018-04-14,2018-07-07,440,13
+60,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,4,2018-11-03,2018-12-29,438,9
+61,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,8,2018-09-29,2018-12-29,421,14
+62,Love Lies,Khalid & Normani,28,2018-03-03,2018-10-06,417,28
+63,Lucky You,Eminem Featuring Joyner Lucas,1,2018-09-15,2018-10-27,412,7
+64,Outside Today,YoungBoy Never Broke Again,13,2018-02-03,2018-05-05,407,14
+65,God Is A Woman,Ariana Grande,8,2018-07-28,2018-11-24,405,13
+66,Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",20,2018-05-19,2018-09-29,372,20
+67,Thunder,Imagine Dragons,19,2018-01-03,2018-08-11,367,21
+68,All Girls Are The Same,Juice WRLD,19,2018-06-02,2018-10-06,359,19
+69,Changes,XXXTENTACION,9,2018-03-17,2018-10-06,355,18
+70,It's The Most Wonderful Time Of The Year,Andy Williams,7,2018-01-03,2018-12-29,351,6
+71,Love.,Kendrick Lamar Featuring Zacari,12,2018-01-06,2018-03-17,348,11
+72,King's Dead,"Jay Rock, Kendrick Lamar, Future & James Blake",8,2018-02-24,2018-05-05,347,11
+73,Young Dumb & Broke,Khalid,12,2018-01-03,2018-04-07,335,15
+74,Him & I,G-Eazy & Halsey,11,2018-01-03,2018-03-17,334,12
+75,No Brainer,"DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",5,2018-08-11,2018-10-06,331,9
+76,Money,Cardi B,8,2018-11-10,2018-12-29,325,8
+77,Youngblood,5 Seconds Of Summer,27,2018-06-30,2018-12-08,308,21
+78,Plain Jane,A$AP Ferg Featuring Nicki Minaj,16,2018-01-03,2018-03-24,307,13
+79,New Rules,Dua Lipa,22,2018-01-03,2018-04-14,298,16
+80,Mona Lisa,Lil Wayne Featuring Kendrick Lamar,1,2018-10-13,2018-11-10,293,5
+81,I Get The Bag,Gucci Mane Featuring Migos,13,2018-01-03,2018-03-17,292,12
+82,Stargazing,Travis Scott,4,2018-08-18,2018-09-29,289,7
+83,Roll In Peace,Kodak Black Featuring XXXTENTACION,14,2018-01-03,2018-03-31,282,14
+84,Killshot,Eminem,2,2018-09-29,2018-10-27,280,5
+85,Pray For Me,The Weeknd & Kendrick Lamar,13,2018-02-17,2018-04-21,279,10
+86,Going Bad,Meek Mill Featuring Drake,3,2018-12-15,2018-12-29,272,3
+87,Close Friends,Lil Baby,8,2018-10-20,2018-12-08,263,8
+88,Powerglide,Rae Sremmurd & Juicy J,20,2018-03-31,2018-06-09,252,11
+89,Too Good At Goodbyes,Sam Smith,12,2018-01-03,2018-02-24,247,9
+90,All Mine,Kanye West,1,2018-06-16,2018-07-07,245,4
+91,Never Recover,Lil Baby & Gunna Featuring Drake,3,2018-10-20,2018-11-24,240,6
+92,Bank Account,21 Savage,11,2018-01-03,2018-03-03,237,10
+93,Japan,Famous Dex,12,2018-04-07,2018-07-07,231,13
+94,Bad At Love,Halsey,20,2018-01-03,2018-03-10,226,11
+95,Falling Down,Lil Peep & XXXTENTACION,5,2018-09-29,2018-11-24,225,7
+96,The Way Life Goes,Lil Uzi Vert Featuring Nicki Minaj,13,2018-01-03,2018-03-03,220,9
+97,Mob Ties,Drake,5,2018-07-14,2018-08-11,219,5
+98,A Holly Jolly Christmas,Burl Ives,9,2018-01-03,2018-12-29,219,6
+99,BAD!,XXXTENTACION,6,2018-11-24,2018-12-29,212,5
+100,Rockin' Around The Christmas Tree,Brenda Lee,12,2018-01-03,2018-12-29,210,6
+101,Shape Of You,Ed Sheeran,23,2018-01-03,2018-04-07,209,15
+102,Never Be The Same,Camila Cabello,23,2018-01-27,2018-05-12,194,13
+103,Apes**t,The Carters,12,2018-06-30,2018-08-11,189,7
+104,Uproar,Lil Wayne,4,2018-10-13,2018-11-10,185,5
+105,ATM,J. Cole,2,2018-05-05,2018-05-26,181,4
+106,Don't Matter To Me,Drake Featuring Michael Jackson,8,2018-07-14,2018-08-11,181,5
+107,Leave Me Alone,Flipp Dinero,17,2018-11-10,2018-12-29,177,8
+108,Kevin's Heart,J. Cole,3,2018-05-05,2018-05-26,172,4
+109,Emotionless,Drake,4,2018-07-14,2018-07-28,169,3
+110,Chun-Li,Nicki Minaj,13,2018-04-28,2018-08-25,166,9
+111,Paranoid,Post Malone,5,2018-05-12,2018-06-02,165,4
+112,The Christmas Song (Merry Christmas To You),Nat King Cole,14,2018-01-03,2018-12-29,162,6
+113,The Weekend,SZA,19,2018-01-03,2018-02-24,161,9
+114,Heaven,Kane Brown,30,2018-03-31,2018-09-08,159,20
+115,Don't Cry,Lil Wayne Featuring XXXTENTACION,2,2018-10-13,2018-10-20,158,2
+116,New Patek,Lil Uzi Vert,8,2018-09-29,2018-10-27,158,5
+117,Better,Khalid,21,2018-09-29,2018-12-22,158,11
+118,River,Eminem Featuring Ed Sheeran,15,2018-01-03,2018-03-10,155,9
+119,The Ringer,Eminem,5,2018-09-15,2018-09-29,153,3
+120,Yosemite,Travis Scott,9,2018-08-18,2018-10-06,153,6
+121,Yikes,Kanye West,3,2018-06-16,2018-06-23,152,2
+122,Fall,Eminem,7,2018-09-15,2018-10-06,146,4
+123,KOD,J. Cole,6,2018-05-05,2018-06-02,145,5
+124,Let It Fly,Lil Wayne Featuring Travis Scott,3,2018-10-13,2018-10-20,142,2
+125,Silence,Marshmello Featuring Khalid,17,2018-01-03,2018-02-17,142,8
+126,Jocelyn Flores,XXXTENTACION,10,2018-06-30,2018-08-11,139,7
+127,Jingle Bell Rock,Bobby Helms,10,2018-01-06,2018-12-29,135,5
+128,Rich & Sad,Post Malone,7,2018-05-12,2018-06-02,134,4
+129,Elevate,Drake,6,2018-07-14,2018-07-28,133,3
+130,Rudolph The Red-Nosed Reindeer,Gene Autry,15,2018-01-03,2018-12-29,132,6
+131,New Freezer,Rich The Kid Featuring Kendrick Lamar,29,2018-02-24,2018-04-28,130,10
+132,Esskeetit,Lil Pump,13,2018-04-28,2018-06-09,128,7
+133,STOOPID,6ix9ine Featuring Bobby Shmurda,11,2018-10-20,2018-12-08,125,5
+134,Watch,Travis Scott Featuring Lil Uzi Vert & Kanye West,7,2018-05-19,2018-06-02,122,3
+135,Billy,6ix9ine,22,2018-03-10,2018-04-21,121,7
+136,1-800-273-8255,Logic Featuring Alessia Cara & Khalid,33,2018-01-03,2018-04-07,117,11
+137,Dame Tu Cosita,Pitbull x El Chombo x Karol G Featuring Cutty Ranks,18,2018-05-12,2018-06-16,114,6
+138,Breathin,Ariana Grande,14,2018-09-01,2018-12-01,113,7
+139,Dedicate,Lil Wayne,5,2018-10-13,2018-10-20,112,2
+140,Fine China,Future & Juice WRLD,9,2018-11-03,2018-11-24,112,4
+141,El Farsante,Ozuna & Romeo Santos,27,2018-02-17,2018-04-07,112,8
+142,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,14,2018-11-10,2018-12-08,111,5
+143,Overdose,YoungBoy Never Broke Again,21,2018-05-19,2018-06-23,111,6
+144,Ball For Me,Post Malone Featuring Nicki Minaj,10,2018-05-12,2018-06-09,110,5
+145,Diplomatic Immunity,Drake,6,2018-02-03,2018-02-10,108,2
+146,Fake Love,BTS,7,2018-06-02,2018-06-30,108,3
+147,Spoil My Night,Post Malone Featuring Swae Lee,8,2018-05-12,2018-05-26,107,3
+148,XO TOUR Llif3,Lil Uzi Vert,32,2018-01-03,2018-02-17,105,8
+149,When The Party's Over,Billie Eilish,26,2018-11-03,2018-12-08,104,6
+150,Rap Devil,Machine Gun Kelly,13,2018-09-22,2018-10-06,102,3
+151,Baby Shark,Pinkfong,24,2018-11-03,2018-12-29,102,8
+152,Sky Walker,Miguel Featuring Travis Scott,34,2018-01-03,2018-03-17,102,11
+153,Congratulations,Post Malone Featuring Quavo,34,2018-01-03,2018-03-17,95,10
+154,Armed And Dangerous,Juice WRLD,17,2018-11-24,2018-12-08,93,3
+155,Back To You,Selena Gomez,24,2018-06-02,2018-08-04,93,8
+156,Drip,Cardi B Featuring Migos,12,2018-04-21,2018-05-12,91,4
+157,Beautiful,Bazzi Featuring Camila Cabello,37,2018-08-25,2018-11-10,89,9
+158,Humble.,Kendrick Lamar,35,2018-01-03,2018-03-03,88,10
+159,Ghost Town,Kanye West Featuring PARTYNEXTDOOR,8,2018-06-16,2018-06-23,87,2
+160,Natural,Imagine Dragons,33,2018-09-08,2018-12-01,86,10
+161,Can't Take A Joke,Drake,12,2018-07-14,2018-07-28,85,3
+162,Photograph,J. Cole,7,2018-05-05,2018-05-05,84,1
+163,Can't Be Broken,Lil Wayne,7,2018-10-13,2018-10-13,84,1
+164,Stay,Post Malone,9,2018-05-12,2018-05-26,84,3
+165,Narcos,Migos,14,2018-02-10,2018-03-03,84,4
+166,Carousel,Travis Scott,8,2018-08-18,2018-08-25,80,2
+167,Nowadays,Lil Skies Featuring Landon Cube,27,2018-01-27,2018-03-24,80,5
+168,F**k Love,XXXTENTACION Featuring Trippie Redd,14,2018-06-30,2018-09-08,79,5
+169,TATI,6ix9ine Featuring DJ SPINKING,25,2018-06-09,2018-07-07,79,5
+170,Mi Gente,J Balvin & Willy William Featuring Beyonce,26,2018-01-03,2018-01-27,78,5
+171,Rubbin Off The Paint,YBN Nahmir,30,2018-01-03,2018-02-03,77,6
+172,44 More,Logic,18,2018-03-10,2018-03-31,75,4
+173,Last Christmas,Wham!,20,2018-01-03,2018-12-29,75,6
+174,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,21,2018-12-08,2018-12-29,75,4
+175,Kamikaze,Eminem,8,2018-09-15,2018-09-15,73,1
+176,Shallow,Lady Gaga & Bradley Cooper,28,2018-10-20,2018-11-17,72,5
+177,Wasted Times,The Weeknd,10,2018-04-14,2018-04-28,70,3
+178,10 Freaky Girls,Metro Boomin Featuring 21 Savage,18,2018-11-17,2018-12-08,70,4
+179,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,17,2018-12-15,2018-12-29,67,3
+180,Ring,Cardi B Featuring Kehlani,14,2018-04-21,2018-05-05,66,3
+181,Candy Paint,Post Malone,22,2018-01-03,2018-05-26,65,7
+182,R.I.P Screw,Travis Scott,10,2018-08-18,2018-08-25,63,2
+183,Motiv8,J. Cole,9,2018-05-05,2018-05-05,62,1
+184,Try Me,The Weeknd,9,2018-04-14,2018-04-14,62,1
+185,Sorry Not Sorry,Demi Lovato,30,2018-01-03,2018-01-27,62,5
+186,BEBE,6ix9ine Featuring Anuel AA,14,2018-09-15,2018-09-22,61,2
+187,I Do,Cardi B Featuring SZA,15,2018-04-21,2018-05-05,60,3
+188,Barbie Dreams,Nicki Minaj,13,2018-08-25,2018-09-22,58,3
+189,8 Out Of 10,Drake,14,2018-07-14,2018-07-21,58,2
+190,Stop Trying To Be God,Travis Scott,12,2018-08-18,2018-08-25,57,2
+191,Blue Tint,Drake,19,2018-07-14,2018-07-21,56,2
+192,X,Nicky Jam x J Balvin,36,2018-04-07,2018-08-04,54,6
+193,Don't Come Out The House,Metro Boomin Featuring 21 Savage,15,2018-11-17,2018-11-24,53,2
+194,What's Free,Meek Mill Featuring Rick Ross & JAY-Z,10,2018-12-15,2018-12-15,51,1
+195,Not Alike,Eminem Featuring Royce Da 5'9,12,2018-09-15,2018-09-22,51,2
+196,Wake Up,Travis Scott,14,2018-08-18,2018-08-25,51,2
+197,Talk Up,Drake Featuring JAY-Z,15,2018-07-14,2018-07-21,51,2
+198,Everybody Dies In Their Nightmares,XXXTENTACION,24,2018-06-30,2018-07-07,51,2
+199,Self Care,Mac Miller,15,2018-09-22,2018-09-29,50,2
+200,Sleigh Ride,The Ronettes,23,2018-12-15,2018-12-29,50,3
+201,KIKA,6ix9ine Featuring Tory Lanez,16,2018-12-08,2018-12-15,49,2
+202,Venom,Eminem,28,2018-09-15,2018-10-27,49,3
+203,Topanga,Trippie Redd,22,2018-11-24,2018-12-08,48,3
+204,Kooda,6ix9ine,25,2018-01-03,2018-01-27,48,5
+205,Survival,Drake,11,2018-07-14,2018-07-21,47,2
+206,Zack And Codeine,Post Malone,12,2018-05-12,2018-05-19,47,2
+207,No Bystanders,Travis Scott,13,2018-08-18,2018-08-25,47,2
+208,KEKE,"6ix9ine, Fetty Wap & A Boogie Wit da Hoodie",17,2018-01-27,2018-03-10,47,4
+209,Can't Say,Travis Scott,20,2018-08-18,2018-08-25,47,2
+210,Calling My Spirit,Kodak Black,27,2018-12-15,2018-12-29,47,3
+211,Look At Me!,XXXTENTACION,26,2018-06-30,2018-07-07,46,2
+212,After Dark,Drake Featuring Static Major & Ty Dolla $ign,28,2018-07-14,2018-07-21,46,2
+213,Space Cadet,Metro Boomin Featuring Gunna,20,2018-11-17,2018-11-24,45,2
+214,(There's No Place Like) Home For The Holidays,Perry Como,24,2018-12-22,2018-12-29,45,2
+215,X,"ScHoolboy Q, 2 Chainz & Saudi",28,2018-02-24,2018-03-03,45,2
+216,W O R K I N  M E,Quavo,32,2018-09-08,2018-11-03,45,4
+217,The Remedy For A Broken Heart (Why Am I So In Love),XXXTENTACION,33,2018-03-31,2018-07-07,45,3
+218,Sandra's Rose,Drake,17,2018-07-14,2018-07-21,44,2
+219,Wolves,Selena Gomez X Marshmello,35,2018-01-03,2018-02-03,44,5
+220,Last Memory,TakeOff,26,2018-11-10,2018-11-17,43,2
+221,Over Now,Post Malone,15,2018-05-12,2018-05-19,42,2
+222,Pure Cocaine,Lil Baby,17,2018-12-15,2018-12-22,42,2
+223,Everyday,Logic & Marshmello,20,2018-03-17,2018-03-31,42,3
+224,Codeine Dreaming,Kodak Black Featuring Lil Wayne,41,2018-01-03,2018-02-03,41,5
+225,1985 (Intro To The Fall Off),J. Cole,11,2018-05-05,2018-05-05,40,1
+226,Greatest,Eminem,11,2018-09-15,2018-09-15,40,1
+227,IDOL,BTS Featuring Nicki Minaj,11,2018-09-08,2018-09-08,40,1
+228,Wouldn't Leave,Kanye West Featuring PARTYNEXTDOOR,11,2018-06-16,2018-06-16,40,1
+229,Taking A Walk,Trippie Redd,20,2018-08-25,2018-09-01,40,2
+230,What About Me,Lil Wayne Featuring Sosamann,12,2018-10-13,2018-10-13,39,1
+231,Summer Games,Drake,18,2018-07-14,2018-07-21,39,2
+232,Takin' Shots,Post Malone,16,2018-05-12,2018-05-19,38,2
+233,Best Life,Cardi B Featuring Chance The Rapper,23,2018-04-21,2018-04-28,38,2
+234,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,26,2018-12-22,2018-12-29,38,2
+235,Bohemian Rhapsody,Queen,35,2018-11-17,2018-12-01,38,3
+236,On Me,Meek Mill Featuring Cardi B,14,2018-12-15,2018-12-15,37,1
+237,Dark Side Of The Moon,Lil Wayne Featuring Nicki Minaj,14,2018-10-13,2018-10-13,37,1
+238,Violent Crimes,Kanye West,14,2018-06-16,2018-06-16,37,1
+239,In My Blood,Shawn Mendes,33,2018-04-07,2018-06-09,37,3
+240,I Was Never There,The Weeknd Featuring Gesaffelstein,15,2018-04-14,2018-04-14,36,1
+241,The Cut Off,J. Cole Featuring kiLL edward,15,2018-05-05,2018-05-05,36,1
+242,I Thought About Killing You,Kanye West,15,2018-06-16,2018-06-16,36,1
+243,Praise The Lord (Da Shine),A$AP Rocky Featuring Skepta,24,2018-06-09,2018-06-23,36,3
+244,Lemon,N*E*R*D & Rihanna,27,2018-04-07,2018-04-14,36,2
+245,Bickenhead,Cardi B,24,2018-04-21,2018-04-28,35,2
+246,No Stylist,French Montana Featuring Drake,26,2018-10-06,2018-11-03,35,3
+247,Diamond Teeth Samurai,YoungBoy Never Broke Again,33,2018-04-21,2018-04-28,35,2
+248,Same Bitches,Post Malone Featuring G-Eazy & YG,17,2018-05-12,2018-05-12,34,1
+249,No Mistakes,Kanye West,17,2018-06-16,2018-06-16,34,1
+250,Brackets,J. Cole,17,2018-05-05,2018-05-05,34,1
+251,Jaded,Drake,20,2018-07-14,2018-07-21,34,2
+252,Reborn,KIDS SEE GHOSTS,18,2018-06-23,2018-06-23,33,1
+253,Uptown Vibes,Meek Mill Featuring Fabolous & Anuel AA,18,2018-12-15,2018-12-15,33,1
+254,Famous,Lil Wayne Featuring Reginae Carter,18,2018-10-13,2018-10-13,33,1
+255,5% Tint,Travis Scott,18,2018-08-18,2018-08-18,33,1
+256,Get Up 10,Cardi B,21,2018-04-21,2018-04-28,33,2
+257,1400 / 999 Freestyle,Trippie Redd Featuring Juice WRLD,25,2018-11-24,2018-12-01,33,2
+258,Say Something,Justin Timberlake Featuring Chris Stapleton,29,2018-02-10,2018-02-17,33,2
+259,Bed,Nicki Minaj Featuring Ariana Grande,31,2018-06-30,2018-08-25,33,3
+260,Lean Wit Me,Juice WRLD,36,2018-08-25,2018-09-22,33,4
+261,BBO (Bad Bitches Only),Migos Featuring 21 Savage,19,2018-02-10,2018-02-10,32,1
+262,Normal,Eminem,19,2018-09-15,2018-09-15,32,1
+263,Barbie Tingz,Nicki Minaj,19,2018-04-28,2018-04-28,32,1
+264,TIC TOC,6ix9ine Featuring Lil Baby,24,2018-12-08,2018-12-15,32,2
+265,Shoota,Playboi Carti Featuring Lil Uzi Vert,24,2018-05-26,2018-06-02,32,2
+266,whoa (mind in awe),XXXTENTACION,20,2018-12-22,2018-12-22,31,1
+267,MAMA,6ix9ine Featuring Nicki Minaj & Kanye West,20,2018-12-15,2018-12-15,31,1
+268,Imagine,Ariana Grande,21,2018-12-29,2018-12-29,30,1
+269,That's How You Feel,Drake,26,2018-07-14,2018-07-21,30,2
+270,4th Dimension,KIDS SEE GHOSTS Featuring Louis Prima,22,2018-06-23,2018-06-23,29,1
+271,Hurt You,The Weeknd Featuring Gesaffelstein,22,2018-04-14,2018-04-14,29,1
+272,Guardian Angel,XXXTENTACION,22,2018-12-22,2018-12-22,29,1
+273,Open Letter,Lil Wayne,22,2018-10-13,2018-10-13,29,1
+274,Window Pain (Outro),J. Cole,23,2018-05-05,2018-05-05,28,1
+275,Flip The Switch,Quavo Featuring Drake,23,2018-10-27,2018-10-27,28,1
+276,NC-17,Travis Scott,23,2018-08-18,2018-08-18,28,1
+277,Is There More,Drake,23,2018-07-14,2018-07-14,28,1
+278,WAKA,6ix9ine Featuring A Boogie Wit da Hoodie,23,2018-12-15,2018-12-15,28,1
+279,Dope N****z,Lil Wayne Featuring Snoop Dogg,24,2018-10-13,2018-10-13,27,1
+280,92 Explorer,Post Malone,25,2018-05-12,2018-05-12,26,1
+281,Who? What!,Travis Scott,25,2018-08-18,2018-08-18,26,1
+282,Medicine,Queen Naija,25,2018-04-14,2018-04-14,26,1
+283,Friends,J. Cole Featuring kiLL edward,25,2018-05-05,2018-05-05,26,1
+284,Peak,Drake,25,2018-07-14,2018-07-14,26,1
+285,Stepping Stone,Eminem,25,2018-09-15,2018-09-15,26,1
+286,Top Off,"DJ Khaled Featuring JAY Z, Future & B",26,2018-03-17,2018-03-17,25,1
+287,Skeletons,Travis Scott,26,2018-08-18,2018-08-18,25,1
+288,Filthy,Justin Timberlake,26,2018-01-20,2018-01-20,25,1
+289,Once An Addict (Interlude),J. Cole,26,2018-05-05,2018-05-05,25,1
+290,Wifi Lit,Future,26,2018-07-21,2018-07-21,25,1
+291,Off White VLONE,Lil Baby & Gunna Featuring Lil Durk & NAV,26,2018-10-20,2018-10-20,25,1
+292,Butterfly Effect,Travis Scott,30,2018-08-18,2018-08-25,25,2
+293,"If I'm Lyin, I'm Flyin",Kodak Black,35,2018-10-13,2018-10-20,25,2
+294,Finesse,Drake,27,2018-07-14,2018-07-14,24,1
+295,Astrothunder,Travis Scott,27,2018-08-18,2018-08-18,24,1
+296,Dura,Daddy Yankee,40,2018-03-24,2018-06-02,24,5
+297,Tequila,Dan + Shay,42,2018-07-07,2018-08-11,24,4
+298,Otherside,Post Malone,28,2018-05-12,2018-05-12,23,1
+299,Feel The Love,KIDS SEE GHOSTS,28,2018-06-23,2018-06-23,23,1
+300,Feliz Navidad,Jose Feliciano,39,2018-01-06,2018-12-29,23,2
+301,La Modelo,Ozuna x Cardi B,41,2018-01-06,2018-01-20,23,3
+302,Pass Out,Quavo Featuring 21 Savage,29,2018-10-27,2018-10-27,22,1
+303,Intro,Meek Mill,29,2018-12-15,2018-12-15,22,1
+304,Ratchet Happy Birthday,Drake,29,2018-07-14,2018-07-14,22,1
+305,Blame It On Me,Post Malone,30,2018-05-12,2018-05-12,21,1
+306,Overdue,Metro Boomin Featuring Travis Scott,30,2018-11-17,2018-11-17,21,1
+307,Privilege,The Weeknd,30,2018-04-14,2018-04-14,21,1
+308,I Might Need Security,Chance The Rapper,30,2018-08-04,2018-08-04,21,1
+309,Thriller,Michael Jackson,30,2018-11-10,2018-11-10,21,1
+310,End Game,Taylor Swift Featuring Ed Sheeran & Future,30,2018-01-27,2018-01-27,21,1
+311,Business Is Business,Lil Baby & Gunna,30,2018-10-20,2018-10-20,21,1
+312,Thru Your Phone,Cardi B,32,2018-04-21,2018-04-28,21,2
+313,24/7,Meek Mill Featuring Ella Mai,31,2018-12-15,2018-12-15,20,1
+314,Houstonfornication,Travis Scott,31,2018-08-18,2018-08-18,20,1
+315,Pick It Up,Famous Dex Featuring A$AP Rocky,44,2018-01-27,2018-03-17,20,6
+316,Summertime Magic,Childish Gambino,32,2018-07-28,2018-07-28,19,1
+317,Respect The Game,Meek Mill,32,2018-12-15,2018-12-15,19,1
+318,I Don't Let Go,XXXTENTACION,32,2018-12-22,2018-12-22,19,1
+319,Supastars,Migos,32,2018-02-10,2018-02-10,19,1
+320,Problems,Lil Wayne,32,2018-10-13,2018-10-13,19,1
+321,Sweetener,Ariana Grande,33,2018-09-01,2018-09-01,18,1
+322,Final Fantasy,Drake,33,2018-07-14,2018-07-14,18,1
+323,Christmas (Baby Please Come Home),Darlene Love,33,2018-12-29,2018-12-29,18,1
+324,Wake Me Up!,Avicii,34,2018-05-05,2018-05-05,17,1
+325,Nice Guy,Eminem & Jessie Reyez,34,2018-09-15,2018-09-15,17,1
+326,March 14,Drake,34,2018-07-14,2018-07-14,17,1
+327,NBAYoungboat,Lil Yachty Featuring NBA YoungBoy,34,2018-03-24,2018-03-24,17,1
+328,Bigger > You,"2 Chainz, Drake & Quavo",38,2018-06-30,2018-07-07,17,2
+329,Wasted,Juice WRLD Featuring Lil Uzi Vert,42,2018-07-28,2018-08-11,17,3
+330,I'm A Mess,Bebe Rexha,44,2018-09-01,2018-10-06,17,4
+331,Intro,J. Cole,35,2018-05-05,2018-05-05,16,1
+332,I Am Who They Say I Am,YoungBoy Never Broke Again Featuring Kevin Gates & Quando Rondo,35,2018-09-08,2018-09-08,16,1
+333,Notice Me,Migos Featuring Post Malone,35,2018-02-10,2018-02-10,16,1
+334,"Freeee (Ghost Town, Pt. 2)",KIDS SEE GHOSTS,35,2018-06-23,2018-06-23,16,1
+335,Jet Lag,Future & Juice WRLD Featuring Young Scooter,35,2018-11-03,2018-11-03,16,1
+336,Contra,Logic,35,2018-03-24,2018-03-24,16,1
+337,Trauma,Meek Mill,35,2018-12-15,2018-12-15,16,1
+338,Have Yourself A Merry Little Christmas,Michael Buble,35,2018-12-29,2018-12-29,16,1
+339,Hittas,Lil Wayne,36,2018-10-13,2018-10-13,15,1
+340,Hurt Feelings,Mac Miller,36,2018-09-22,2018-09-22,15,1
+341,Time,Lil Baby Featuring Meek Mill,36,2018-12-15,2018-12-15,15,1
+342,Good Guy,Eminem Featuring Jessie Reyez,36,2018-09-15,2018-09-15,15,1
+343,Money Bag,Cardi B,37,2018-04-21,2018-04-21,14,1
+344,No Smoke,YoungBoy Never Broke Again,37,2018-02-03,2018-02-03,14,1
+345,Underneath The Tree,Kelly Clarkson,37,2018-12-29,2018-12-29,14,1
+346,That's What I Like,Bruno Mars,42,2018-01-13,2018-01-20,14,2
+347,High Hopes,Panic! At The Disco,44,2018-12-01,2018-12-29,14,3
+348,Open Safe,Lil Wayne,38,2018-10-13,2018-10-13,13,1
+349,Chanel (Go Get It),Young Thug Featuring Gunna & Lil Baby,43,2018-09-01,2018-09-08,13,2
+350,The Race,Tay-K,46,2018-01-03,2018-01-13,13,3
+351,Everytime,Ariana Grande,39,2018-09-01,2018-09-01,12,1
+352,Took His Time,Lil Wayne,39,2018-10-13,2018-10-13,12,1
+353,DDU-DU DDU-DU,BLACKPINK,39,2018-06-30,2018-06-30,12,1
+354,Nuketown,Ski Mask The Slump God Featuring Juice WRLD,39,2018-12-15,2018-12-15,12,1
+355,Feels Like Summer,Childish Gambino,40,2018-09-15,2018-09-15,11,1
+356,She Bad,Cardi B & YG,40,2018-04-21,2018-04-21,11,1
+357,31 Days,Future,40,2018-07-21,2018-07-21,11,1
+358,Location,Khalid,43,2018-01-13,2018-01-20,11,2
+359,Fire,KIDS SEE GHOSTS,41,2018-06-23,2018-06-23,10,1
+360,Level Up,Ciara,44,2018-08-18,2018-09-01,10,2
+361,Sugar Wraith,Post Malone,42,2018-05-12,2018-05-12,9,1
+362,Ready,Lil Baby Featuring Gunna,42,2018-12-15,2018-12-15,9,1
+363,Coffee Bean,Travis Scott,42,2018-08-18,2018-08-18,9,1
+364,Baby It's Cold Outside,Dean Martin,42,2018-12-29,2018-12-29,9,1
+365,A$AP Forever,A$AP Rocky Featuring Moby,43,2018-04-21,2018-06-09,9,2
+366,Unforgettable,French Montana Featuring Swae Lee,46,2018-01-13,2018-01-20,9,2
+367,Belly,Lil Baby & Gunna,43,2018-10-20,2018-10-20,8,1
+368,Overnight,Logic,43,2018-03-24,2018-03-24,8,1
+369,Pretty Little Fears,6LACK Featuring J. Cole,43,2018-09-29,2018-09-29,8,1
+370,Run Rudolph Run,Chuck Berry,43,2018-12-29,2018-12-29,8,1
+371,Cuddle My Wrist,Future,43,2018-07-21,2018-07-21,8,1
+372,Cudi Montage,KIDS SEE GHOSTS,44,2018-06-23,2018-06-23,7,1
+373,Dreamcatcher,Metro Boomin Featuring Swae Lee & Travis Scott,44,2018-11-17,2018-11-17,7,1
+374,Noticed,Lil Mosey,45,2018-10-06,2018-11-03,7,2
+375,That's On Me,Yella Beezy,47,2018-11-17,2018-12-01,7,2
+376,Mess,Lil Wayne,45,2018-10-13,2018-10-13,6,1
+377,Infrared,Pusha T,45,2018-06-09,2018-06-09,6,1
+378,Modern Slavery,Huncho Jack,45,2018-01-06,2018-01-06,6,1
+379,Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,45,2018-12-29,2018-12-29,6,1
+380,66,Lil Yachty Featuring Trippie Redd,46,2018-03-24,2018-03-24,5,1
+381,Ganja Burns,Nicki Minaj,46,2018-08-25,2018-08-25,5,1
+382,MoshPit,Kodak Black Featuring Juice WRLD,46,2018-12-29,2018-12-29,5,1
+383,OTW,"Khalid, Ty Dolla $ign & 6LACK",48,2018-05-26,2018-06-02,5,2
+384,Red Roses,Lil Skies Featuring Landon Cube,48,2018-01-27,2018-04-07,5,2
+385,Love Scars 3,Trippie Redd,47,2018-11-24,2018-11-24,4,1
+386,Life Goes On,Lil Baby Featuring Gunna & Lil Uzi Vert,47,2018-06-09,2018-06-09,4,1
+387,What Lovers Do,Maroon 5 Featuring SZA,47,2018-01-13,2018-01-13,4,1
+388,It's Beginning To Look A Lot Like Christmas,Michael Buble,47,2018-01-03,2018-01-03,4,1
+389,One Kiss,Calvin Harris & Dua Lipa,49,2018-06-16,2018-06-23,4,2
+390,Let It All Work Out,Lil Wayne,48,2018-10-13,2018-10-13,3,1
+391,KIDS SEE GHOSTS,KIDS SEE GHOSTS,48,2018-06-23,2018-06-23,3,1
+392,Solo,Clean Bandit Featuring Demi Lovato,48,2018-08-11,2018-08-11,3,1
+393,Blue Christmas,Elvis Presley,48,2018-12-29,2018-12-29,3,1
+394,Hope,XXXTENTACION,48,2018-07-07,2018-07-07,3,1
+395,Sober,Demi Lovato,49,2018-08-11,2018-08-11,2,1
+396,Demon,Lil Wayne,49,2018-10-13,2018-10-13,2,1
+397,Rich Sex,Nicki Minaj Featuring Lil Wayne,49,2018-08-25,2018-08-25,2,1
+398,Karma,Queen Naija,49,2018-07-14,2018-07-14,2,1
+399,Train Food,XXXTENTACION,50,2018-12-22,2018-12-22,1,1
+400,Feel It Still,Portugal. The Man,50,2018-01-13,2018-01-13,1,1
+401,R.E.M,Ariana Grande,50,2018-09-01,2018-09-01,1,1
+402,Betrayed,Lil Xan,50,2018-02-10,2018-02-10,1,1
+403,Wonderful Christmastime,Paul McCartney,50,2018-12-29,2018-12-29,1,1
+404,Used 2,Lil Wayne,50,2018-10-13,2018-10-13,1,1

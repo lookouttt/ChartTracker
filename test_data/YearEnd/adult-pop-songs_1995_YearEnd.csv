@@ -1,0 +1,79 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,As I Lay Me Down,Sophie B. Hawkins,1,1995-10-07,1995-12-30,509,13
+2,Kiss From A Rose,Seal,1,1995-10-07,1995-12-30,497,13
+3,Only Wanna Be With You,Hootie & The Blowfish,2,1995-10-07,1995-12-30,484,13
+4,Roll To Me,Del Amitri,1,1995-10-07,1995-12-30,480,13
+5,Run-Around,Blues Traveler,2,1995-10-07,1995-12-30,480,13
+6,Back For Good,Take That,3,1995-10-07,1995-12-30,457,13
+7,Til I Hear It From You,Gin Blossoms,6,1995-10-07,1995-12-30,423,13
+8,Runaway,Janet Jackson,7,1995-10-07,1995-12-30,413,13
+9,Carnival,Natalie Merchant,8,1995-10-07,1995-12-30,394,13
+10,I Can Love You Like That,All-4-One,5,1995-10-07,1995-12-23,369,12
+11,Fantasy,Mariah Carey,8,1995-10-07,1995-12-30,356,13
+12,I'll Be There For You,The Rembrandts,7,1995-10-07,1995-12-30,346,13
+13,December,Collective Soul,11,1995-10-07,1995-12-30,322,13
+14,Blessed,Elton John,10,1995-10-21,1995-12-30,279,11
+15,Name,Goo Goo Dolls,9,1995-10-14,1995-12-30,238,12
+16,I Know,Dionne Farris,13,1995-10-07,1995-12-02,234,9
+17,Good Intentions,Toad The Wet Sprocket,17,1995-10-14,1995-12-30,223,12
+18,I'd Lie For You (And That's The Truth),Meat Loaf,17,1995-10-14,1995-12-30,220,12
+19,In The House Of Stone And Light,Martin Page,15,1995-10-07,1995-12-02,216,9
+20,I Could Fall In Love,Selena,17,1995-10-07,1995-12-30,215,13
+21,You'll See,Madonna,10,1995-11-11,1995-12-30,208,8
+22,You Are Not Alone,Michael Jackson,8,1995-10-07,1995-12-02,198,9
+23,One Sweet Day,Mariah Carey & Boyz II Men,2,1995-11-18,1995-12-30,188,7
+24,"Exhale (Shoop Shoop) (From ""Waiting To Exhale"")",Whitney Houston,14,1995-11-04,1995-12-30,186,9
+25,Runaway,The Corrs,18,1995-10-14,1995-12-30,186,12
+26,Breakfast At Tiffany's,Deep Blue Something,13,1995-10-21,1995-12-30,180,11
+27,Let Her Cry,Hootie & The Blowfish,16,1995-10-07,1995-12-09,180,9
+28,Waterfalls,TLC,24,1995-10-07,1995-12-30,178,13
+29,Colors Of The Wind,Vanessa Williams,10,1995-10-07,1995-12-09,174,10
+30,Ants Marching,Dave Matthews Band,22,1995-10-14,1995-12-30,153,12
+31,Time,Hootie & The Blowfish,15,1995-11-04,1995-12-30,146,9
+32,Let Me Be The One,Blessid Union Of Souls,24,1995-10-14,1995-12-30,139,12
+33,I'll Stand By You,Pretenders,23,1995-10-07,1995-12-09,137,10
+34,Do You Sleep?,Lisa Loeb & Nine Stories,26,1995-10-14,1995-12-30,109,12
+35,Walk In The Sun,Bruce Hornsby,15,1995-10-07,1995-11-18,104,7
+36,Can I Touch You...There?,Michael Bolton,14,1995-10-07,1995-11-11,103,6
+37,Missing,Everything But The Girl,18,1995-12-02,1995-12-30,76,5
+38,I Will Remember You (Live),Sarah McLachlan,28,1995-10-28,1995-12-30,71,10
+39,Free As A Bird,The Beatles,22,1995-12-09,1995-12-30,69,4
+40,ROCK STEADY (BONNIE RAITT W/BRYAN ADAMS),Bonnie Raitt With Bryan Adams,25,1995-11-11,1995-12-23,68,7
+41,Water Runs Dry,Boyz II Men,19,1995-10-07,1995-10-21,64,3
+42,Don't Cry,Seal,22,1995-12-09,1995-12-30,55,4
+43,Forever Tonight,Peter Cetera & Crystal Bernard,33,1995-10-14,1995-12-16,51,10
+44,Hand In My Pocket,Alanis Morissette,25,1995-11-25,1995-12-30,46,6
+45,One Of Us,Joan Osborne,29,1995-12-09,1995-12-30,34,4
+46,Beautiful Life,Ace Of Base,33,1995-11-18,1995-12-30,30,7
+47,Wonder,Natalie Merchant,23,1995-12-16,1995-12-30,29,3
+48,GET TOGETHER,Big Mountain,27,1995-12-16,1995-12-30,25,3
+49,Keeper Of The Flame,Martin Page,29,1995-10-07,1995-10-14,23,2
+50,Can't Cry Anymore,Sheryl Crow,29,1995-10-14,1995-10-28,23,3
+51,Big Yellow Taxi,Amy Grant,28,1995-10-07,1995-11-04,22,5
+52,Believe In You,Jude Cole,33,1995-10-21,1995-11-25,21,6
+53,Have You Ever Really Loved A Woman?,Bryan Adams,21,1995-10-07,1995-10-07,20,1
+54,You Gotta Be,Des'ree,23,1995-10-07,1995-10-07,18,1
+55,I Believe,Blessid Union Of Souls,24,1995-10-07,1995-10-07,17,1
+56,Hold My Hand,Hootie & The Blowfish,25,1995-10-07,1995-10-07,16,1
+57,Come To My Window,Melissa Etheridge,27,1995-10-07,1995-10-07,14,1
+58,Mexico,Jimmy Buffett,32,1995-10-14,1995-10-21,14,2
+59,I'm The Only One,Melissa Etheridge,28,1995-10-07,1995-10-07,13,1
+60,Believe,Elton John,31,1995-10-14,1995-10-21,13,2
+61,Wild Night,John Mellencamp With Me'Shell Ndegeocello,30,1995-10-07,1995-10-07,11,1
+62,Strong Enough,Sheryl Crow,34,1995-10-28,1995-11-11,11,3
+63,House Of Love,Amy Grant With Vince Gill,31,1995-10-07,1995-10-07,10,1
+64,All I Wanna Do,Sheryl Crow,32,1995-10-07,1995-10-07,9,1
+65,What Would You Say,Dave Matthews Band,35,1995-10-28,1995-11-04,9,2
+66,I Want To Come Over,Melissa Etheridge,34,1995-12-30,1995-12-30,7,1
+67,Someone To Love,Jon B. Featuring Babyface,37,1995-10-14,1995-10-28,7,3
+68,Take A Bow,Madonna,35,1995-10-07,1995-10-07,6,1
+69,Insensitive,Jann Arden,37,1995-12-23,1995-12-30,6,2
+70,Total Eclipse Of The Heart,Nicki French,36,1995-10-14,1995-10-14,5,1
+71,If You Go,Jon Secada,36,1995-10-07,1995-10-07,5,1
+72,WHEN LOVE & HATE COLLIDE,Def Leppard,39,1995-12-16,1995-12-30,5,3
+73,Love Will Keep Us Alive,Eagles,37,1995-10-07,1995-10-07,4,1
+74,Found Out About You,Gin Blossoms,38,1995-10-07,1995-10-07,3,1
+75,Somebody's Crying,Chris Isaak,38,1995-10-14,1995-10-14,3,1
+76,The Sign,Ace Of Base,40,1995-10-07,1995-10-07,1,1
+77,Your Little Secret,Melissa Etheridge,40,1995-11-18,1995-11-18,1,1
+78,The Chanukah Song,Adam Sandler,40,1995-12-30,1995-12-30,1,1

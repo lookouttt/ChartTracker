@@ -1,0 +1,371 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Fine Line,Harry Styles,1,2020-01-04,2020-12-26,1090,52
+2,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,1,2020-01-04,2020-12-26,1037,47
+3,Greatest Hits,Queen,1,2020-01-04,2020-12-26,878,48
+4,Abbey Road,The Beatles,3,2020-01-04,2020-12-26,873,49
+5,Guardians Of The Galaxy: Awesome Mix Vol. 1,Soundtrack,2,2020-01-04,2020-12-26,850,48
+6,Legend: The Best Of...,Bob Marley And The Wailers,1,2020-01-04,2020-12-26,768,47
+7,Rumours,Fleetwood Mac,3,2020-01-04,2020-12-26,609,44
+8,Dont Smile At Me,Billie Eilish,6,2020-01-04,2020-12-26,579,46
+9,Thriller,Michael Jackson,7,2020-01-04,2020-12-26,572,47
+10,The Dark Side Of The Moon,Pink Floyd,7,2020-01-04,2020-12-19,559,45
+11,Back To Black,Amy Winehouse,5,2020-01-04,2020-12-26,475,48
+12,"good kid, m.A.A.d city",Kendrick Lamar,5,2020-01-11,2020-12-26,401,37
+13,MTV Unplugged In New York,Nirvana,11,2020-01-04,2020-12-26,301,36
+14,Born To Die,Lana Del Rey,5,2020-01-04,2020-12-26,291,38
+15,Chronicle The 20 Greatest Hits,Creedence Clearwater Revival,6,2020-01-04,2020-11-28,228,28
+16,Purple Rain (Soundtrack),Prince And The Revolution,10,2020-01-04,2020-12-26,224,37
+17,Nevermind,Nirvana,14,2020-01-04,2020-12-26,218,33
+18,IGOR,"Tyler, The Creator",7,2020-01-11,2020-12-26,214,28
+19,A Charlie Brown Christmas (Soundtrack),Vince Guaraldi Trio,2,2020-01-04,2020-12-26,171,10
+20,Circles,Mac Miller,1,2020-06-13,2020-09-26,128,12
+21,Ultimate Sinatra,Frank Sinatra,12,2020-01-04,2020-12-26,126,16
+22,The Slow Rush,Tame Impala,1,2020-02-29,2020-03-28,120,5
+23,Greatest Hits,Fleetwood Mac,7,2020-01-11,2020-12-26,114,17
+24,Swimming,Mac Miller,8,2020-01-25,2020-05-23,97,8
+25,Folklore,Taylor Swift,1,2020-11-21,2020-12-26,96,4
+26,Ones,Selena,1,2020-07-18,2020-12-12,87,7
+27,Letter To You,Bruce Springsteen,1,2020-11-07,2020-11-21,65,3
+28,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,16,2020-01-04,2020-12-26,63,12
+29,American Teen,Khalid,14,2020-04-25,2020-08-15,62,13
+30,Chromatica,Lady Gaga,2,2020-06-13,2020-06-27,61,3
+31,"Song Machine, Season One: Strange Timez",Gorillaz,2,2020-11-07,2020-11-21,60,3
+32,Hollywood's Bleeding,Post Malone,3,2020-07-11,2020-08-08,60,4
+33,Fetch The Bolt Cutters,Fiona Apple,1,2020-08-01,2020-09-05,58,4
+34,Wildflowers,Tom Petty,1,2020-10-31,2020-11-14,51,3
+35,Reunions,Jason Isbell And The 400 Unit,1,2020-05-23,2020-05-30,50,2
+36,Mordechai,Khruangbin,1,2020-07-11,2020-07-18,48,2
+37,Punisher,Phoebe Bridgers,2,2020-07-04,2020-07-11,48,2
+38,Underneath,Code Orange,2,2020-03-28,2020-04-04,48,2
+39,The Divine Feminine,Mac Miller,8,2020-05-16,2020-07-25,48,3
+40,Ordinary Man,Ozzy Osbourne,1,2020-03-07,2020-03-21,47,3
+41,Dreamland,Glass Animals,2,2020-08-22,2020-08-29,46,2
+42,Gigaton,Pearl Jam,1,2020-04-11,2020-04-18,45,2
+43,Ohms,Deftones,1,2020-10-10,2020-10-17,43,2
+44,And It’s Still Alright,Nathaniel Rateliff,3,2020-02-29,2020-03-21,43,2
+45,C A L M,5 Seconds Of Summer,2,2020-04-11,2020-04-18,41,2
+46,We Are Chaos,Marilyn Manson,1,2020-09-26,2020-10-03,40,2
+47,Texas Sun (EP),Khruangbin & Leon Bridges,2,2020-02-22,2020-02-29,40,2
+48,Power Up,AC/DC,2,2020-11-28,2020-12-05,39,2
+49,Homegrown,Neil Young,1,2020-07-04,2020-07-11,38,2
+50,Manic,Halsey,3,2020-02-01,2020-02-08,37,2
+51,Starting Over,Chris Stapleton,8,2020-11-28,2020-12-19,37,3
+52,It Is What It Is,Thundercat,4,2020-04-18,2020-04-25,36,2
+53,Future Nostalgia,Dua Lipa,8,2020-04-11,2020-04-18,36,2
+54,The New Abnormal,The Strokes,1,2020-04-25,2020-05-02,34,2
+55,Miss Anthropocene,Grimes,3,2020-03-07,2020-03-14,34,2
+56,Merry Christmas,Mariah Carey,8,2020-11-14,2020-11-21,34,2
+57,Greatest Hits,Guns N' Roses,7,2020-10-17,2020-11-28,33,2
+58,Flower Boy,"Tyler, The Creator",14,2020-05-30,2020-10-31,33,6
+59,Bohemian Rhapsody (Soundtrack),Queen,14,2020-01-04,2020-12-19,33,8
+60,Gaslighter,The Chicks,2,2020-08-01,2020-08-08,32,2
+61,Black Pumas,Black Pumas,2,2020-01-25,2020-10-24,31,3
+62,Sign 'O' The Times,Prince,4,2020-10-10,2020-11-07,30,2
+63,Suddenly,Caribou,8,2020-03-14,2020-03-21,30,2
+64,RTJ4,Run The Jewels,2,2020-10-03,2020-10-10,28,2
+65,2014 Forest Hills Drive,J. Cole,21,2020-01-11,2020-09-19,28,8
+66,Father Of All...,Green Day,1,2020-02-22,2020-03-07,27,3
+67,The White Stripes Greatest Hits,The White Stripes,2,2020-12-19,2020-12-26,27,2
+68,Lover,Taylor Swift,16,2020-01-04,2020-12-12,27,6
+69,GO:OD AM,Mac Miller,2,2020-05-02,2020-05-09,26,2
+70,Three Cheers For Sweet Revenge,My Chemical Romance,11,2020-11-14,2020-11-21,26,2
+71,Guardians,August Burns Red,1,2020-04-18,2020-04-18,25,1
+72,Goats Head Soup,The Rolling Stones,1,2020-09-19,2020-09-19,25,1
+73,Chunky Shrapnel (Soundtrack),King Gizzard And The Lizard Wizard,1,2020-06-06,2020-06-06,25,1
+74,The Ascension,Sufjan Stevens,1,2020-10-17,2020-10-17,25,1
+75,American Beauty,Grateful Dead,1,2020-11-14,2020-11-14,25,1
+76,Afterburner,Dance Gavin Dance,1,2020-07-25,2020-07-25,25,1
+77,As Long As You Are,Future Islands,1,2020-10-24,2020-10-24,25,1
+78,"Down In The Weeds, Where The World Once Was",Bright Eyes,1,2020-09-05,2020-09-05,25,1
+79,Live At Third Man Records,Billie Eilish,1,2020-09-12,2020-09-12,25,1
+80,The Gleam III,The Avett Brothers,1,2020-10-03,2020-10-03,25,1
+81,Rearrange Us,Mt. Joy,1,2020-06-20,2020-06-20,25,1
+82,Wonder,Shawn Mendes,1,2020-12-19,2020-12-19,25,1
+83,K.I.D.S. (Kickin Incredibly Dope Shit),Mac Miller,1,2020-08-29,2020-08-29,25,1
+84,Marigold,Pinegrove,2,2020-02-01,2020-02-01,24,1
+85,No Dream,Jeff Rosenstock,2,2020-08-08,2020-08-08,24,1
+86,The Raging Wrath Of The Easter Bunny Demo,Mr. Bungle,2,2020-11-14,2020-11-14,24,1
+87,The Unraveling,Drive-By Truckers,2,2020-02-15,2020-02-15,24,1
+88,Mama's Boy,LANY,2,2020-10-17,2020-10-17,24,1
+89,The Wall: Live In Berlin,Roger Waters,2,2020-10-10,2020-10-10,24,1
+90,Sings Elvis,Danzig,2,2020-05-09,2020-05-09,24,1
+91,Making A Door Less Open,Car Seat Headrest,2,2020-05-16,2020-05-16,24,1
+92,D-Sides,Gorillaz,2,2020-09-12,2020-09-12,24,1
+93,Oops!...I Did It Again,Britney Spears,2,2020-08-29,2020-08-29,24,1
+94,Workingman's Dead,Grateful Dead,2,2020-07-25,2020-07-25,24,1
+95,The Places You Have Come To Fear The Most,Dashboard Confessional,2,2020-08-15,2020-08-15,24,1
+96,Legacy,Garth Brooks,15,2020-01-04,2020-04-18,24,3
+97,Final Fantasy VII Remake And Final Fantasy VII,Soundtrack,3,2020-04-11,2020-04-11,23,1
+98,Brain Pain,Four Year Strong,3,2020-03-14,2020-03-14,23,1
+99,Bcos U Will Never B Free,Rex Orange County,3,2020-09-19,2020-09-19,23,1
+100,A Hero's Death,FONTAINES D.C.,3,2020-08-15,2020-08-15,23,1
+101,That's How Rumors Get Started,Margo Price,3,2020-07-25,2020-07-25,23,1
+102,A Quick Live One: Live At The Monterey International Pop Festival (EP),The Who,3,2020-11-07,2020-11-07,23,1
+103,High Violet,The National,3,2020-07-04,2020-07-04,23,1
+104,Rid Of Me,PJ Harvey,3,2020-09-05,2020-09-05,23,1
+105,G Sides,Gorillaz,3,2020-09-12,2020-09-12,23,1
+106,Fuck The World,Brent Faiyaz,3,2020-09-26,2020-09-26,23,1
+107,Ultra Mono,IDLES,3,2020-10-10,2020-10-10,23,1
+108,"Cuttin' Grass, Vol. 1: The Butcher Shoppe Sessions",Sturgill Simpson,3,2020-12-26,2020-12-26,23,1
+109,The Fame,Lady Gaga,3,2020-08-22,2020-08-22,23,1
+110,Violet Bent Backwards Over The Grass,Lana Del Rey,3,2020-10-17,2020-10-17,23,1
+111,All Distortions Are Intentional,Neck Deep,3,2020-08-08,2020-08-08,23,1
+112,Britney Jean,Britney Spears,3,2020-05-02,2020-05-02,23,1
+113,Rough And Rowdy Ways,Bob Dylan,3,2020-08-01,2020-08-01,23,1
+114,"Wake Up, Sunshine",All Time Low,3,2020-04-18,2020-04-18,23,1
+115,"Kitchen Covers With Drew Holcomb, Volume One",Drew Holcomb Featuring Ellie Holcomb,3,2020-10-03,2020-10-03,23,1
+116,Ten,Pearl Jam,3,2020-12-05,2020-12-05,23,1
+117,To Bring You My Love,PJ Harvey,4,2020-09-26,2020-09-26,22,1
+118,Double Image: Rare Miles From The Complete Bitches Brew Sessions,Miles Davis,4,2020-11-07,2020-11-07,22,1
+119,The Ghost Inside,The Ghost Inside,4,2020-06-20,2020-06-20,22,1
+120,Cherry Bomb,"Tyler, The Creator",4,2020-09-12,2020-09-12,22,1
+121,The Black Parade,My Chemical Romance,4,2020-11-14,2020-11-14,22,1
+122,Permanent Waves,Rush,4,2020-06-13,2020-06-13,22,1
+123,Have We Met,Destroyer,4,2020-02-15,2020-02-15,22,1
+124,color theory,Soccer Mommy,4,2020-03-14,2020-03-14,22,1
+125,Amends,Grey Daze,4,2020-07-11,2020-07-11,22,1
+126,Verminous,The Black Dahlia Murder,4,2020-05-02,2020-05-02,22,1
+127,Tickets To My Downfall,Machine Gun Kelly,4,2020-11-21,2020-11-21,22,1
+128,Serpentine Prison,Matt Berninger,4,2020-10-31,2020-10-31,22,1
+129,Half Moon Light,The Lone Bellow,4,2020-02-22,2020-02-22,22,1
+130,UNLOCKED,Denzel Curry X Kenny Beats,5,2020-04-11,2020-04-11,21,1
+131,Lament,Touche Amore,5,2020-10-24,2020-10-24,21,1
+132,McCartney,Paul McCartney,5,2020-10-10,2020-10-10,21,1
+133,WOMB,Purity Ring,5,2020-04-18,2020-04-18,21,1
+134,American Standard,James Taylor,5,2020-03-14,2020-03-14,21,1
+135,Man Alive!,King Krule,5,2020-03-07,2020-03-07,21,1
+136,No Good Left To Give,Movements,5,2020-10-03,2020-10-03,21,1
+137,Metamorphosis,The Rolling Stones,5,2020-11-07,2020-11-07,21,1
+138,Flaming Pie,Paul McCartney,5,2020-08-15,2020-08-15,21,1
+139,Bloodflowers,The Cure,5,2020-09-12,2020-09-12,21,1
+140,Disco,Kylie Minogue,5,2020-11-21,2020-11-21,21,1
+141,Nirvana,Nirvana,5,2020-11-28,2020-11-28,21,1
+142,Slow Decay,The Acacia Strain,5,2020-08-08,2020-08-08,21,1
+143,It's Only Us,Monophonics,5,2020-03-28,2020-03-28,21,1
+144,"Buffalo, New York, Memorial Auditorium, May 9, 1977",Grateful Dead,6,2020-11-07,2020-11-07,20,1
+145,Lamentations,American Aquarium,6,2020-05-16,2020-05-16,20,1
+146,The Path,Fit For A King,6,2020-10-03,2020-10-03,20,1
+147,The Alternate Rumours,Fleetwood Mac,6,2020-10-10,2020-10-10,20,1
+148,[Hybrid Theory],Linkin Park,6,2020-10-24,2020-10-24,20,1
+149,Sigma Oasis,Phish,6,2020-12-12,2020-12-12,20,1
+150,Blue Sky Noise,Circa Survive,6,2020-04-11,2020-04-11,20,1
+151,CMFT,Corey Taylor,6,2020-10-17,2020-10-17,20,1
+152,Changesnowbowie,David Bowie,6,2020-09-12,2020-09-12,20,1
+153,Saint Cloud,Waxahatchee,7,2020-04-11,2020-04-18,20,2
+154,Seventeen Seconds,The Cure,7,2020-09-12,2020-09-12,19,1
+155,Rare,Selena Gomez,7,2020-03-07,2020-03-07,19,1
+156,"Classic Cash, Early Mixes: Hall Of Fame Series",Johnny Cash,7,2020-11-07,2020-11-07,19,1
+157,A Love Supreme,John Coltrane,7,2020-10-24,2020-10-24,19,1
+158,Aurora,Breaking Benjamin,7,2020-02-08,2020-02-08,19,1
+159,Oops! I Did It Again [Remixes & B-Sides],Britney Spears,7,2020-10-10,2020-10-10,19,1
+160,Traditional Techniques,Stephen J. Malkmus,7,2020-03-21,2020-03-21,19,1
+161,How I'm Feeling Now,Charli XCX,7,2020-10-03,2020-10-03,19,1
+162,Sap (EP),Alice In Chains,8,2020-12-12,2020-12-12,18,1
+163,Skeleton Coast,The Lawrence Arms,8,2020-08-01,2020-08-01,18,1
+164,Total Freedom,Kathleen Edwards,8,2020-08-29,2020-08-29,18,1
+165,Feet Of Clay,Earl Sweatshirt,8,2020-07-25,2020-07-25,18,1
+166,The Great Dismal,Nothing,8,2020-11-14,2020-11-14,18,1
+167,Elton John,Elton John,8,2020-09-12,2020-09-12,18,1
+168,The Rainbow Children,Prince,8,2020-06-13,2020-06-13,18,1
+169,This Place Sucks Ass (EP),PUP,8,2020-11-07,2020-11-07,18,1
+170,Everyone Loves You... Once You Leave Them,The Amity Affliction,8,2020-03-07,2020-03-07,18,1
+171,The Complete Inconcerated: Live,The Replacements,8,2020-10-10,2020-10-10,18,1
+172,Quake (Soundtrack),Nine Inch Nails,8,2020-10-03,2020-10-03,18,1
+173,...Baby One More Time,Britney Spears,12,2020-07-11,2020-07-18,18,2
+174,In A Dream (EP),Troye Sivan,9,2020-11-14,2020-11-14,17,1
+175,The Drug In Me Is You,Falling In Reverse,9,2020-02-01,2020-02-01,17,1
+176,Local Honey,Brian Fallon,9,2020-04-11,2020-04-11,17,1
+177,Earth,EOB,9,2020-05-02,2020-05-02,17,1
+178,Alien Lanes,Guided By Voices,9,2020-09-05,2020-09-05,17,1
+179,The Waterfall II,My Morning Jacket,9,2020-09-12,2020-09-12,17,1
+180,Tea For The Tillerman²,Yusuf,9,2020-10-03,2020-10-03,17,1
+181,Fillmore West  1-31-71,The Allman Brothers Band,9,2020-10-10,2020-10-10,17,1
+182,Out To Get You!: Live 1977,Cheap Trick,9,2020-11-07,2020-11-07,17,1
+183,Love Gun,KISS,9,2020-11-28,2020-11-28,17,1
+184,Boy,U2,9,2020-12-12,2020-12-12,17,1
+185,HOMECOMING: THE LIVE ALBUM,Beyonce,9,2020-12-19,2020-12-19,17,1
+186,MTV Unplugged EP,Mariah Carey,10,2020-11-21,2020-11-21,16,1
+187,The Soft Parade/Stripped,The Doors,10,2020-10-10,2020-10-10,16,1
+188,Purple Noon,Washed Out,10,2020-08-22,2020-08-22,16,1
+189,Remote (EP),Wallows,10,2020-11-07,2020-11-07,16,1
+190,I'm Only Dancing (The Soul Tour 74),David Bowie,10,2020-09-12,2020-09-12,16,1
+191,Star Wars: The Mandalorian: Music From The Original Series,Soundtrack,10,2020-11-28,2020-11-28,16,1
+192,No Future,EDEN,10,2020-03-28,2020-03-28,16,1
+193,Good Luck With Whatever,Dawes,10,2020-10-17,2020-10-17,16,1
+194,Walls,Louis Tomlinson,10,2020-02-15,2020-02-15,16,1
+195,Gold: Greatest Hits,ABBA,10,2020-10-31,2020-10-31,16,1
+196,"Nights Of The Dead, Legacy Of The Beast: Live In Mexico City",Iron Maiden,10,2020-12-05,2020-12-05,16,1
+197,The Main Thing,Real Estate,10,2020-03-14,2020-03-14,16,1
+198,Life On The Murder Scene,My Chemical Romance,10,2020-12-12,2020-12-12,16,1
+199,Sundowner,Kevin Morby,11,2020-10-31,2020-10-31,15,1
+200,Bossanova,Pixies,11,2020-08-22,2020-08-22,15,1
+201,'Let's Rock',The Black Keys,11,2020-09-12,2020-09-12,15,1
+202,Danger Days: The True Lives Of The Fabulous Killjoys,My Chemical Romance,11,2020-11-14,2020-11-14,15,1
+203,Suck On This,Primus,11,2020-10-10,2020-10-10,15,1
+204,Folkesange,Myrkur,11,2020-04-04,2020-04-04,15,1
+205,Boston,Boston,11,2020-11-28,2020-11-28,15,1
+206,Mingus Ah Um,Charles Mingus,11,2020-11-07,2020-11-07,15,1
+207,Rumor Has It: 30th Anniversary Edition,Reba McEntire,11,2020-09-26,2020-09-26,15,1
+208,Star Wars: The Rise Of Skywalker,Soundtrack,11,2020-04-11,2020-04-11,15,1
+209,Free Love,Sylvan Esso,12,2020-10-10,2020-10-10,14,1
+210,S&M2,Metallica And San Francisco Symphony,12,2020-09-12,2020-09-12,14,1
+211,"Women In Music, Pt. III",HAIM,12,2020-07-11,2020-07-11,14,1
+212,Brightest Blue,Ellie Goulding,12,2020-08-01,2020-08-01,14,1
+213,Is It Any Wonder? (EP),David Bowie,12,2020-04-04,2020-04-04,14,1
+214,"GarciaLive, Volume 14: January 27th 1986",Jerry Garcia & John Kahn,12,2020-08-29,2020-08-29,14,1
+215,Dry,PJ Harvey,12,2020-08-08,2020-08-08,14,1
+216,Appetite For Destruction,Guns N' Roses,13,2020-01-18,2020-07-04,14,2
+217,Cherry Bomb (The Instrumentals),"Tyler, The Creator",13,2020-09-12,2020-09-12,13,1
+218,Doo-Wops & Hooligans,Bruno Mars,13,2020-11-28,2020-11-28,13,1
+219,Monsters,The Midnight,13,2020-07-25,2020-07-25,13,1
+220,With Teeth,Nine Inch Nails,13,2020-02-01,2020-02-01,13,1
+221,E*MO*TION,Carly Rae Jepsen,13,2020-11-14,2020-11-14,13,1
+222,Heartwork,The Used,13,2020-05-09,2020-05-09,13,1
+223,Fake It Flowers,beabadoobee,13,2020-10-31,2020-10-31,13,1
+224,To Bring You My Love - Demos,PJ Harvey,14,2020-09-26,2020-09-26,12,1
+225,Alphabetland,X,14,2020-08-29,2020-08-29,12,1
+226,MTV Unplugged,Pearl Jam,14,2020-11-07,2020-11-07,12,1
+227,Winter Is For Lovers,Ben Harper,14,2020-09-19,2020-09-19,12,1
+228,The Story Of The Ghost,Phish,14,2020-05-09,2020-05-09,12,1
+229,Ronin,Rotting Out,14,2020-04-25,2020-04-25,12,1
+230,Revolution Spring,The Suicide Machines,14,2020-04-11,2020-04-11,12,1
+231,Swimming In Circles,Mac Miller,14,2020-12-26,2020-12-26,12,1
+232,Inlet,Hum,14,2020-11-28,2020-11-28,12,1
+233,The Very Best Of Jerry Garcia,Jerry Garcia,14,2020-10-10,2020-10-10,12,1
+234,Royal Albert Hall,Arctic Monkeys,14,2020-12-19,2020-12-19,12,1
+235,Nine,Blink-182,14,2020-05-16,2020-05-16,12,1
+236,Hotspot,Pet Shop Boys,14,2020-02-08,2020-02-08,12,1
+237,El Dorado,Marcus King,14,2020-02-01,2020-02-01,12,1
+238,"Live At Goose Lake: August 8th, 1970",The Stooges,14,2020-08-22,2020-08-22,12,1
+239,Chicago 2017,Daniel Johnson,14,2020-02-15,2020-02-15,12,1
+240,Sugaregg,Bully,14,2020-09-05,2020-09-05,12,1
+241,Cuz I Love You,Lizzo,18,2020-01-11,2020-02-15,12,3
+242,MTV Unplugged V 2.0,Dashboard Confessional,15,2020-10-10,2020-10-10,11,1
+243,"- Ugh, those feels again",Snoh Aalegra,15,2020-02-22,2020-02-22,11,1
+244,Ultraviolet,Misery Signals,15,2020-08-22,2020-08-22,11,1
+245,Forever And Ever X Infinity,New Found Glory,15,2020-07-04,2020-07-04,11,1
+246,Twelfth,Old 97's,15,2020-09-05,2020-09-05,11,1
+247,Whole New Mess,Angel Olsen,15,2020-09-12,2020-09-12,11,1
+248,Nothing As The Ideal,All Them Witches,15,2020-09-19,2020-09-19,11,1
+249,The Rising,Bruce Springsteen,15,2020-03-07,2020-03-07,11,1
+250,Stonebone,"J&K With George Benson, Herbie Hancock, Bob James, Ron Carter, Grady Tate & Ross Tompkins",15,2020-11-07,2020-11-07,11,1
+251,Tonight In The Dark,Tegan And Sara,16,2020-10-10,2020-10-10,10,1
+252,Facelift,Alice In Chains,16,2020-11-28,2020-11-28,10,1
+253,Unplugged (EP),State Champs,16,2020-08-29,2020-08-29,10,1
+254,You Can't Do That On Stage Anymore: Sampler,Frank Zappa,16,2020-11-07,2020-11-07,10,1
+255,Some Old Bullshit,Beastie Boys,16,2020-12-12,2020-12-12,10,1
+256,Gimme Some Truth. (2020),John Lennon,16,2020-10-24,2020-10-24,10,1
+257,Palo Alto,Thelonious Monk,16,2020-10-03,2020-10-03,10,1
+258,Rock & Roll Hall Of Fame: 29 March 2019 (EP),Def Leppard,16,2020-09-12,2020-09-12,10,1
+259,Christmas Classics,Bing Crosby,16,2020-11-21,2020-11-21,10,1
+260,No Pressure,Logic,17,2020-12-26,2020-12-26,9,1
+261,Good Souls Better Angels,Lucinda Williams,17,2020-05-09,2020-05-09,9,1
+262,Smash Hits,The Jimi Hendrix Experience,17,2020-11-28,2020-11-28,9,1
+263,I Am Not A Dog On A Chain,Morrissey,17,2020-04-04,2020-04-04,9,1
+264,It's Alive II,The Ramones,17,2020-10-10,2020-10-10,9,1
+265,Jazz At Midnite,Charlie Parker,17,2020-09-12,2020-09-12,9,1
+266,Ghosts Of West Virginia,Steve Earle & The Dukes,17,2020-06-06,2020-06-06,9,1
+267,The Crow,Soundtrack,17,2020-11-14,2020-11-14,9,1
+268,A Beautiful Place To Drown,Silverstein,17,2020-03-21,2020-03-21,9,1
+269,Long In The Tooth,The Budos Band,17,2020-10-24,2020-10-24,9,1
+270,"Live At The Apollo Theatre, Glasgow, 19.02.82",Alice Cooper,17,2020-11-07,2020-11-07,9,1
+271,Live Drugs,The War On Drugs,17,2020-12-05,2020-12-05,9,1
+272,The Best Ones Of The Best Ones,Dashboard Confessional,17,2020-02-15,2020-02-15,9,1
+273,Swimmer,Tennis,17,2020-02-29,2020-02-29,9,1
+274,Built To Spill Plays The Songs Of Daniel Johnston,Built To Spill,18,2020-06-27,2020-06-27,8,1
+275,Such Pretty Forks In The Road,Alanis Morissette,18,2020-08-15,2020-08-15,8,1
+276,The Neon Skyline,Andy Shauf,18,2020-02-08,2020-02-08,8,1
+277,Rocket League X Monstercat: Greatest Hits,Various Artists,18,2020-03-28,2020-03-28,8,1
+278,The Swiss Army Romance,Dashboard Confessional,18,2020-09-12,2020-09-12,8,1
+279,Kind Of Blue,Miles Davis,18,2020-06-13,2020-06-13,8,1
+280,21,Adele,18,2020-07-25,2020-07-25,8,1
+281,Hot Wet & Sassy,TOBACCO,18,2020-11-14,2020-11-14,8,1
+282,Spirit World Field Guide,Aesop Rock,18,2020-11-28,2020-11-28,8,1
+283,Some Other Time: The Lost From The Black Forest,Bill Evans With Eddie Gomez And Jack DeJohnette,18,2020-10-10,2020-10-10,8,1
+284,Live Frogs: Set 1 & 2,Colonel Les Claypool's Fearless Flying Frog Brigade,18,2020-04-04,2020-04-04,8,1
+285,Greatest Hits: My Prerogative,Britney Spears,18,2020-11-21,2020-11-21,8,1
+286,Getting Into Knives,The Mountain Goats,19,2020-11-07,2020-11-07,7,1
+287,(What's The Story) Morning Glory?,Oasis,19,2020-10-17,2020-10-17,7,1
+288,One Nite Alone...Live!,Prince,19,2020-06-13,2020-06-13,7,1
+289,20/20 Vision,Anti-Flag,19,2020-02-01,2020-02-01,7,1
+290,Me Against The World,2Pac,19,2020-03-21,2020-03-21,7,1
+291,Titans Of Creation,Testament,19,2020-04-18,2020-04-18,7,1
+292,20/20,Knuckle Puck,19,2020-10-03,2020-10-03,7,1
+293,Group Sex,Circle Jerks,19,2020-11-14,2020-11-14,7,1
+294,Bleach,Nirvana,19,2020-09-26,2020-09-26,7,1
+295,"#1's,  Volume 1",Luke Bryan,19,2020-11-28,2020-11-28,7,1
+296,Roxy Music,Roxy Music,19,2020-09-12,2020-09-12,7,1
+297,"Live At Nick's Fat City, 1995",Hootie & The Blowfish,19,2020-10-10,2020-10-10,7,1
+298,Golden Hour,Kacey Musgraves,21,2020-04-18,2020-05-09,7,2
+299,Journey's Greatest Hits,Journey,21,2020-01-04,2020-05-23,7,2
+300,Weezer,Weezer,23,2020-10-17,2020-10-31,7,3
+301,Kid Krow,Conan Gray,20,2020-04-04,2020-04-04,6,1
+302,Notes On A Conditional Form,The 1975,20,2020-06-27,2020-06-27,6,1
+303,Smile,Katy Perry,20,2020-09-12,2020-09-12,6,1
+304,What The Dead Men Say,Trivium,20,2020-05-09,2020-05-09,6,1
+305,"X-Files: The Truth And The Light, Music From",Soundtrack,20,2020-10-10,2020-10-10,6,1
+306,Burst & Decay (Volume II),The Wonder Years,20,2020-02-29,2020-02-29,6,1
+307,The Virgin Suicides,Soundtrack,20,2020-11-07,2020-11-07,6,1
+308,Closer,Joy Division,20,2020-08-01,2020-08-01,6,1
+309,Back In Black,AC/DC,21,2020-01-04,2020-08-01,6,2
+310,American Head,The Flaming Lips,21,2020-09-26,2020-10-03,6,2
+311,Mariah Carey,Mariah Carey,21,2020-10-17,2020-10-24,6,2
+312,Sounds Of Summer: The Very Best Of The Beach Boys,The Beach Boys,22,2020-06-06,2020-06-27,6,2
+313,Currents,Tame Impala,22,2020-01-18,2020-03-28,6,2
+314,Diamonds,Elton John,22,2020-01-18,2020-08-01,6,2
+315,Beastie Boys Music,Beastie Boys,22,2020-11-07,2020-11-14,6,2
+316,Technicolor,Covet,21,2020-06-20,2020-06-20,5,1
+317,British Steel,Judas Priest,21,2020-09-12,2020-09-12,5,1
+318,Parachutes,Coldplay,21,2020-12-05,2020-12-05,5,1
+319,The Social Network (Soundtrack),Trent Reznor And Atticus Ross,21,2020-10-03,2020-10-03,5,1
+320,Blue Hearts,Bob Mould,21,2020-10-10,2020-10-10,5,1
+321,Set My Heart On Fire Immediately,Perfume Genius,21,2020-05-30,2020-05-30,5,1
+322,Fully Loaded: God's Country,Blake Shelton,21,2020-11-28,2020-11-28,5,1
+323,Brave Faces Everyone,Spanish Love Songs,21,2020-02-22,2020-02-22,5,1
+324,Thin Mind,Wolf Parade,21,2020-02-08,2020-02-08,5,1
+325,Opiate (EP),Tool,21,2020-02-15,2020-02-15,5,1
+326,Traveller,Chris Stapleton,23,2020-01-18,2020-04-25,5,2
+327,Led Zeppelin IV,Led Zeppelin,23,2020-01-11,2020-02-15,5,2
+328,LP5,John Moreland,22,2020-02-22,2020-02-22,4,1
+329,Superstar,Caroline Rose,22,2020-03-21,2020-03-21,4,1
+330,Future Past Life,STRFKR,22,2020-08-08,2020-08-08,4,1
+331,One Nite Alone...: Solo Piano And Voice By,Prince,22,2020-06-13,2020-06-13,4,1
+332,Kush & OJ,Wiz Khalifa,22,2020-05-02,2020-05-02,4,1
+333,Only For Dolphins,Action Bronson,22,2020-11-14,2020-11-14,4,1
+334,"Live! At The Paradise Theater, Boston, 1980",Pretenders,22,2020-09-12,2020-09-12,4,1
+335,Razzmatazz,I Dont Know How But They Found Me,23,2020-11-07,2020-11-07,3,1
+336,Honeymoon,Beach Bunny,23,2020-02-29,2020-02-29,3,1
+337,Sign,Autechre,23,2020-10-31,2020-10-31,3,1
+338,Healer,Grouplove,23,2020-03-28,2020-03-28,3,1
+339,Let's Get A Groove On,Lee Fields,23,2020-10-10,2020-10-10,3,1
+340,Pegasus,Trippie Redd,23,2020-11-14,2020-11-14,3,1
+341,Show Me The Blueprints,Days N Daze,23,2020-05-16,2020-05-16,3,1
+342,Grae,Moses Sumney,23,2020-05-30,2020-05-30,3,1
+343,Western Swing & Waltzes And Other Punchy Songs,Colter Wall,23,2020-09-12,2020-09-12,3,1
+344,"Lou Reed Live At Alice Tully Hall: January 27, 1973 - 2nd Show",Lou Reed,23,2020-12-12,2020-12-12,3,1
+345,Nightmares Of The West,Strike Anywhere,23,2020-08-01,2020-08-01,3,1
+346,Harry Styles,Harry Styles,23,2020-08-29,2020-08-29,3,1
+347,Wish You Were Here,Pink Floyd,24,2020-01-25,2020-01-25,2,1
+348,Greatest,Go-Go's,24,2020-07-25,2020-07-25,2,1
+349,Invisible People,Chicano Batman,24,2020-05-16,2020-05-16,2,1
+350,"Kitchen Covers With Drew Holcomb, Volume Two",Drew Holcomb Featuring Ellie Holcomb,24,2020-12-05,2020-12-05,2,1
+351,Nigeria,Grant Green,24,2020-03-14,2020-03-14,2,1
+352,"Thank U, Next",Ariana Grande,24,2020-12-12,2020-12-12,2,1
+353,First Rose Of Spring,Willie Nelson,24,2020-07-18,2020-07-18,2,1
+354,Songs / Instrumentals,Adrianne Lenker,24,2020-11-07,2020-11-07,2,1
+355,"Sunrise On the Blues: Sun Records Curated By Record Store Day, Vol. 7",Various Artists,24,2020-09-12,2020-09-12,2,1
+356,Even The Devil Believes,Stryper,24,2020-09-19,2020-09-19,2,1
+357,KIDS SEE GHOSTS,KIDS SEE GHOSTS,25,2020-02-15,2020-09-19,2,2
+358,The 4-Track Demos (EP),PJ Harvey,25,2020-09-05,2020-09-05,1,1
+359,Look Long,Indigo Girls,25,2020-07-11,2020-07-11,1,1
+360,Dry - Demos,PJ Harvey,25,2020-08-08,2020-08-08,1,1
+361,Pick Me Up Off The Floor,Norah Jones,25,2020-06-27,2020-06-27,1,1
+362,Petals For Armor,Hayley Williams,25,2020-05-23,2020-05-23,1,1
+363,Warren Zevon's Greatest Hits (According To Judd Apatow),Warren Zevon,25,2020-11-07,2020-11-07,1,1
+364,My Gift,Carrie Underwood,25,2020-11-21,2020-11-21,1,1
+365,White Line Fever,Emery,25,2020-06-20,2020-06-20,1,1
+366,Stranger Things: Music From The Netflix Original Series,Soundtrack,25,2020-01-04,2020-01-04,1,1
+367,A Holly Dolly Christmas,Dolly Parton,25,2020-12-05,2020-12-05,1,1
+368,God's Son,Nas,25,2020-10-10,2020-10-10,1,1
+369,Frozen II,Soundtrack,25,2020-04-04,2020-04-04,1,1
+370,Live At Sound Emporium (EP),Brittany Howard,25,2020-09-12,2020-09-12,1,1

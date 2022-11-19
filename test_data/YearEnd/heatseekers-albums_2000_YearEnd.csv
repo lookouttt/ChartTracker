@@ -1,0 +1,375 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Who Needs Pictures,Brad Paisley,1,2000-01-01,2000-12-30,1905,53
+2,Wisconsin Death Trip,Static-X,1,2000-01-01,2000-10-14,1683,42
+3,System Of A Down,System Of A Down,1,2000-01-01,2000-07-08,1244,28
+4,S Club 7,S Club 7,1,2000-04-29,2000-11-25,1076,29
+5,The State,Nickelback,3,2000-06-03,2000-12-30,993,31
+6,Spiritual Love,Trin-i-tee 5:7,5,2000-01-15,2000-08-19,991,32
+7,Tattoos & Scars,Montgomery Gentry,11,2000-01-01,2000-12-30,990,36
+8,Rascal Flatts,Rascal Flatts,3,2000-06-24,2000-12-30,982,28
+9,Westlife,Westlife,2,2000-04-22,2000-10-07,941,25
+10,Sonicflood,Sonicflood,17,2000-01-01,2000-12-30,908,50
+11,Mountain High...Valley Low,Yolanda Adams,1,2000-01-01,2000-07-01,907,27
+12,Swimming In Champagne,Eric Heatherly,6,2000-05-06,2000-10-21,854,24
+13,...An Education In Rebellion,The Union Underground,2,2000-08-05,2000-12-30,849,22
+14,Keith Urban,Keith Urban,10,2000-05-06,2000-12-30,827,33
+15,No One Does It Better,SoulDecision,1,2000-09-09,2000-12-30,825,17
+16,You Won't Ever Be Lonely,Andy Griggs,8,2000-02-05,2000-09-02,807,30
+17,Skin Deep,Sole,8,2000-01-01,2000-06-24,800,26
+18,Live In London And More...,Donnie McClurkin,1,2000-09-09,2000-12-30,764,17
+19,The Man Who,Travis,2,2000-04-22,2000-09-16,752,22
+20,Tonight And The Rest Of My Life,Nina Gordon,1,2000-07-15,2000-12-09,746,22
+21,My Life,Methrone,3,2000-04-29,2000-11-11,738,29
+22,No Angel,Dido,1,2000-01-01,2000-08-12,679,30
+23,Hoku,Hoku,8,2000-05-20,2000-12-30,676,27
+24,Kaleidoscope,Kelis,4,2000-01-01,2000-07-08,672,24
+25,Screamin' For My Supper,Beth Hart,5,2000-01-01,2000-05-06,667,19
+26,Single White Female,Chely Wright,17,2000-01-01,2000-06-17,640,25
+27,Amber,Amber,10,2000-01-01,2000-05-20,633,21
+28,MTV Unplugged,Shakira,1,2000-03-18,2000-10-21,608,19
+29,Genuine,Stacie Orrico,1,2000-09-16,2000-12-30,606,16
+30,Fenix TX,Fenix TX,3,2000-04-29,2000-08-26,605,18
+31,Nobody's Angel,Nobody's Angel,9,2000-03-11,2000-08-12,576,22
+32,The Dance,Dave Koz,12,2000-01-01,2000-07-29,560,30
+33,Family Affair,Hezekiah Walker & The Love Fellowship Crusade Choir,17,2000-01-01,2000-06-17,532,25
+34,White Ladder,David Gray,1,2000-07-15,2000-11-04,529,15
+35,Halfway Down The Sky,Splender,11,2000-04-22,2000-09-09,529,21
+36,Phil Vassar,Phil Vassar,12,2000-03-11,2000-12-30,523,24
+37,I'm Diggin' It,Alecia Elliott,6,2000-02-12,2000-05-20,504,15
+38,"Amor, Familia Y Respeto...",A.B. Quintanilla III y Los Kumbia Kings,20,2000-01-01,2000-07-22,503,29
+39,El Amor De Mi Tierra,Carlos Vives,11,2000-01-01,2000-10-07,489,21
+40,Movement In Still Life,BT,8,2000-06-24,2000-10-28,487,18
+41,Gift,Taproot,6,2000-07-15,2000-11-25,480,19
+42,Yes!,Chad Brock,3,2000-05-20,2000-09-23,479,19
+43,Buena Vista Social Club Presents Ibrahim Ferrer,Ibrahim Ferrer,10,2000-01-01,2000-05-13,475,20
+44,Zoegirl,ZOEgirl,9,2000-09-02,2000-12-30,464,18
+45,The Sickness,Disturbed,3,2000-03-25,2000-07-01,456,13
+46,Heart Shaped World,Jessica Andrews,15,2000-01-15,2000-06-17,420,21
+47,I Am Shelby Lynne,Shelby Lynne,18,2000-02-12,2000-08-26,417,25
+48,Donde Estan Los Ladrones?,Shakira,11,2000-01-01,2000-09-30,391,21
+49,Live For You,Rachael Lampa,2,2000-08-19,2000-12-30,389,17
+50,Morning Wood,Rodney Carrington,6,2000-09-02,2000-12-30,382,18
+51,The Door,Keb' Mo',2,2000-10-28,2000-12-30,377,10
+52,Thug Walkin',Ying Yang Twins,15,2000-05-20,2000-08-26,372,15
+53,Fantastic Vol. 2,Slum Village,13,2000-07-01,2000-09-30,370,14
+54,Entre Tus Brazos,Alejandro Fernandez,4,2000-05-13,2000-08-19,357,14
+55,The Fundamental Elements Of Southtown,P.O.D.,1,2000-01-01,2000-03-04,355,10
+56,Lara Fabian,Lara Fabian,1,2000-06-17,2000-07-29,344,7
+57,Perfecto Presents Another World,Paul Oakenfold,2,2000-10-21,2000-12-30,344,11
+58,Slipknot,Slipknot,1,2000-01-01,2000-02-12,338,7
+59,Gotta Tell You,Samantha Mumba,1,2000-11-18,2000-12-30,334,7
+60,Morir De Amor,Conjunto Primavera,4,2000-02-12,2000-04-29,333,12
+61,Spit,Kittie,1,2000-01-29,2000-03-11,332,7
+62,Son By Four,Son By Four,1,2000-03-25,2000-05-20,319,9
+63,Let's Roll,Youngstown,7,2000-01-01,2000-03-04,319,10
+64,No Pleasantries,U.P.O.,19,2000-06-17,2000-09-23,317,15
+65,The 3rd Wish To Rock The World,SPM,15,2000-01-01,2000-04-08,313,15
+66,Essential Dance 2000,DJ Skribble,8,2000-09-30,2000-12-02,312,10
+67,Transform,Rebecca St. James,7,2000-11-11,2000-12-30,311,8
+68,Not Guilty... The Experience,The New Life Community Choir Featuring John P. Kee,1,2000-11-11,2000-12-30,305,8
+69,Fragments Of Freedom,Morcheeba,1,2000-08-19,2000-10-07,292,8
+70,The Gift Of Game,Crazy Town,1,2000-07-22,2000-12-30,285,9
+71,Oscar De La Hoya,Oscar De La Hoya,1,2000-10-28,2000-12-30,284,10
+72,Play,Moby,1,2000-01-01,2000-02-05,283,6
+73,Shiver,Jamie O'Neal,6,2000-11-18,2000-12-30,274,7
+74,Tamar,Tamar Braxton,2,2000-04-08,2000-05-20,273,7
+75,Double Wide,Uncle Kracker,11,2000-07-01,2000-08-26,273,9
+76,Figgas 4 Life,Major Figgas,3,2000-09-09,2000-11-11,271,10
+77,Buena Vista Social Club Presents Omara Portuondo,Omara Portuondo,20,2000-05-27,2000-09-02,266,14
+78,Evan And Jaron,Evan And Jaron,16,2000-09-30,2000-12-30,265,14
+79,It's No Secret Anymore,Linda Eder,4,2000-02-19,2000-05-06,263,11
+80,Industry Shakedown,Bumpy Knuckles,8,2000-07-15,2000-09-09,260,9
+81,Nicole C. Mullen,Nicole C. Mullen,21,2000-07-22,2000-10-28,258,15
+82,Relationship Of Command,At The Drive-In,8,2000-09-30,2000-12-30,249,10
+83,Felons & Revolutionaries,Dope,26,2000-01-15,2000-09-16,247,20
+84,Sooner Or Later,BBMak,1,2000-06-03,2000-07-01,246,5
+85,How Big'A Boy Are Ya? Volume Seven/Hangin' It Up,Roy D. Mercer,22,2000-10-21,2000-12-30,244,11
+86,No Question,No Question,10,2000-09-23,2000-12-16,241,9
+87,Shades Of Purple,M2M,1,2000-03-25,2000-04-29,239,6
+88,The Irish Tenors,John McDermott/Anthony Kearns/Ronan Tynan,6,2000-01-01,2000-04-08,239,10
+89,13 Ways To Bleed On Stage,Cold,13,2000-09-30,2000-11-18,238,8
+90,February Son,Oleander,11,2000-01-01,2000-03-04,237,10
+91,Ventilation : Da LP,Phife Dawg,8,2000-10-14,2000-12-02,234,8
+92,Parachutes,Coldplay,7,2000-11-25,2000-12-30,233,6
+93,Awesome Wonder,Kurt Carr & The Kurt Carr Singers,18,2000-10-07,2000-12-16,229,10
+94,Now You See Inside,SR-71,2,2000-07-08,2000-08-05,227,5
+95,The Irish Tenors: Live In Belfast,Anthony Kearns/Ronan Tynan/Finbar Wright,1,2000-03-25,2000-05-27,223,8
+96,Passion: The Road To One Day,Passion Worship Band,2,2000-04-01,2000-06-10,216,9
+97,Everything You Want,Vertical Horizon,3,2000-01-01,2000-01-29,212,5
+98,Communicate,Sasha And John Digweed,5,2000-07-08,2000-09-02,210,9
+99,And Then Nothing Turned Itself Inside-Out,Yo La Tengo,4,2000-03-11,2000-04-22,206,7
+100,How Big'A Boy Are Ya? Volume 6,Roy D. Mercer,8,2000-01-01,2000-03-04,204,10
+101,Here And Now,The Wilkinsons,2,2000-04-22,2000-06-03,202,7
+102,Kina,Kina,14,2000-08-05,2000-09-23,199,8
+103,Book I,The Congregation,1,2000-08-12,2000-09-09,196,5
+104,Born For You,Kathie Lee Gifford,1,2000-05-20,2000-07-01,195,7
+105,No Name Face,Lifehouse,2,2000-11-18,2000-12-09,194,4
+106,Ballaholic,Beelow,3,2000-03-18,2000-04-22,194,6
+107,N.Y.C. Underground Party 2,Louie DeVito,25,2000-07-22,2000-09-23,194,10
+108,"Whoa, Nelly!",Nelly Furtado,18,2000-11-11,2000-12-30,193,8
+109,N.Y.C. Underground Party Volume 3,Louie DeVito,1,2000-12-09,2000-12-30,191,4
+110,Smell The Color 9,Chris Rice,14,2000-11-18,2000-12-30,191,7
+111,For All That's Endured,F.A.T.E.,14,2000-06-17,2000-08-19,191,9
+112,Nasty Little Thoughts,Stroke9,3,2000-01-01,2000-01-22,190,4
+113,Passion: Oneday Live,Passion Worship Band,5,2000-11-11,2000-12-30,189,8
+114,Simplemente,Chayanne,22,2000-10-28,2000-12-30,189,10
+115,Christmas Stays The Same,Linda Eder Featuring The Broadway Gospel Choir,2,2000-12-02,2000-12-30,188,5
+116,Just Another Day In Parodies,Cledus T. Judd,7,2000-12-02,2000-12-30,187,5
+117,Wake Up & Ball,The Comrads,8,2000-07-15,2000-08-19,187,6
+118,Out There And Back,Paul Van Dyk,12,2000-07-08,2000-09-09,186,10
+119,Who Is Jill Scott? Words And Sounds Vol. 1,Jill Scott,2,2000-08-05,2000-08-26,185,4
+120,Vitamin C,Vitamin C,3,2000-01-01,2000-04-22,180,7
+121,Ricardo Arjona Vivo,Ricardo Arjona,20,2000-01-01,2000-03-04,180,10
+122,Music For People,VAST,5,2000-09-30,2000-11-04,179,6
+123,Pieces In A Modern Style,William Orbit,9,2000-03-11,2000-04-22,179,7
+124,L.D. 50,Mudvayne,3,2000-09-16,2000-10-28,177,7
+125,City Of Syrup,Big Moe,9,2000-08-05,2000-10-07,177,9
+126,Ludacris Presents: Incognegro,Ludacris,11,2000-09-23,2000-10-28,174,6
+127,II,The Kinleys,10,2000-08-05,2000-09-09,171,6
+128,The Virgin Suicides (Original Score),Air,4,2000-03-18,2000-05-13,167,7
+129,D.I.T.C.,D.I.T.C.,5,2000-03-11,2000-04-15,164,6
+130,Loud And Clear,The O.C. Supertones,9,2000-10-28,2000-12-30,164,10
+131,Vertigo,Groove Armada,31,2000-03-11,2000-07-01,163,16
+132,Supergrass,Supergrass,13,2000-04-22,2000-06-10,161,8
+133,I Will Sing,Don Moen,1,2000-11-04,2000-12-16,160,4
+134,Alone With Everybody,Richard Ashcroft,2,2000-07-15,2000-08-12,155,5
+135,Night Life (EP),Outsidaz,19,2000-02-05,2000-04-01,155,9
+136,Proud Like A God,Guano Apes,27,2000-01-15,2000-03-18,154,10
+137,Menace To Sobriety,OPM,22,2000-09-02,2000-10-14,153,7
+138,Marvelous Things,Mark Condon,1,2000-09-09,2000-10-21,152,4
+139,Iommi,Tony Iommi,3,2000-11-04,2000-12-02,149,5
+140,The Better Life,3 Doors Down,1,2000-02-26,2000-03-11,147,3
+141,How Glory Goes,Audra McDonald,8,2000-03-18,2000-05-27,146,6
+142,The Green World,Dar Williams,9,2000-09-09,2000-10-14,146,6
+143,El Alma Al Aire,Alejandro Sanz,5,2000-10-14,2000-11-11,145,5
+144,"Mi Gloria, Eres Tu",Los Tri-o,21,2000-01-01,2000-02-19,144,8
+145,Secreto de Amor,Joan Sebastian,28,2000-05-20,2000-07-29,144,11
+146,The Moon & Antarctica,Modest Mouse,5,2000-07-01,2000-07-29,143,5
+147,Good Charlotte,Good Charlotte,13,2000-10-14,2000-12-30,142,10
+148,En Que Trabaja El Muchacho,Los Huracanes del Norte,11,2000-08-19,2000-09-23,141,6
+149,"The Melody At Night, With You",Keith Jarrett,22,2000-01-01,2000-03-11,141,8
+150,Unchained Spirit,Buju Banton,5,2000-09-09,2000-10-07,140,5
+151,tri-city4.com,Donald Lawrence Presents The Tri-City Singers,13,2000-03-18,2000-04-29,140,7
+152,Blue (Da Ba Dee) Dance Party,The Countdown Mix Masters,19,2000-03-18,2000-05-20,137,10
+153,Brent Jones And T.P. Mobb,Brent Jones & The T.P. Mobb,20,2000-01-22,2000-04-01,133,7
+154,Dance With Me,Debelah Morgan,35,2000-09-02,2000-12-30,133,13
+155,Playmate Of The Year,Zebrahead,4,2000-09-09,2000-10-07,132,5
+156,Galeria Caribe,Ricardo Arjona,7,2000-09-16,2000-10-14,131,5
+157,Both Sides Of The Brain,Del The Funky Homosapien,2,2000-04-29,2000-05-20,129,4
+158,Masters Of The Stage: 2000 Veces Mania,Grupo Mania,15,2000-01-01,2000-01-22,129,4
+159,Throwed Young Playa,Yungstar,13,2000-02-19,2000-03-18,123,5
+160,Home,Fernando Ortega,17,2000-03-18,2000-05-27,120,7
+161,Thirteen Tales From Urban Bohemia,The Dandy Warhols,12,2000-08-19,2000-09-16,119,5
+162,Tracie,Tracie Spencer,26,2000-01-08,2000-02-19,115,7
+163,Expresion,Gilberto Santa Rosa,11,2000-01-08,2000-02-19,113,7
+164,Sheltering Tree,NewSong,4,2000-12-16,2000-12-30,110,3
+165,Greatest Hits -- Volume One,Bob & Tom,11,2000-01-01,2000-02-26,110,5
+166,Arrasando,Thalia,26,2000-05-13,2000-09-16,108,10
+167,Body Of The Life Force,Afu-Ra,11,2000-11-11,2000-12-02,107,4
+168,White Pepper,Ween,2,2000-05-20,2000-06-10,105,4
+169,Resurrection,Halford,5,2000-08-26,2000-09-16,104,4
+170,Muggs Presents The Soul Assassins II,Soul Assassins,9,2000-10-21,2000-11-11,104,4
+171,Chocolate Mood,Marc Nelson,25,2000-01-01,2000-02-19,101,7
+172,Who Needs Guitars Anyway?,Alice Deejay,1,2000-04-15,2000-04-22,100,2
+173,The Irish Tenors: Home For Christmas,John McDermott/Anthony Kearns/Ronan Tynan,1,2000-01-01,2000-01-08,99,2
+174,Hear My Cry,Sonique,2,2000-03-04,2000-03-11,98,2
+175,All Hands On The Bad One,Sleater-Kinney,12,2000-05-20,2000-06-10,98,4
+176,Glo,delirious?,12,2000-10-28,2000-12-09,96,4
+177,"Olga Viva, Viva Olga",Olga Tanon,16,2000-01-01,2000-01-29,95,5
+178,Brick Livin,Mr. Marcelo (From The Ghetto),9,2000-08-12,2000-08-26,94,3
+179,Historia De Un Idolo Vol. 1,Vicente Fernandez,20,2000-12-09,2000-12-30,94,4
+180,Poem,Delerium,15,2000-12-09,2000-12-30,93,4
+181,Bring Your Own Stereo,Jimmie's Chicken Shack,16,2000-01-01,2000-01-29,91,5
+182,Eyes Never Lie,Dwayne Wiggins,18,2000-05-20,2000-06-24,91,6
+183,Por Encima De Todo,Limite,23,2000-06-10,2000-08-26,90,6
+184,Fearless,Crystal Lewis,27,2000-05-20,2000-07-01,90,7
+185,Trozos de Mi Alma,Marco Antonio Solis,25,2000-01-08,2000-06-17,88,9
+186,Unconditional,Kirk Whalum,28,2000-11-04,2000-12-16,87,7
+187,In The Mode,Roni Size/Reprazent,10,2000-11-11,2000-12-02,84,4
+188,Es Para Ti,Intocable,21,2000-12-09,2000-12-30,83,4
+189,Rap Life,Tash,23,2000-01-01,2000-02-12,83,6
+190,The Height Of Callousness,Spineshank,13,2000-10-28,2000-11-25,82,5
+191,Y2K The Album,Screwball,10,2000-02-26,2000-03-11,81,3
+192,The Suicide Machines,The Suicide Machines,11,2000-03-04,2000-03-18,81,3
+193,Ciego De Amor,Charlie Zaa,14,2000-02-19,2000-03-11,81,4
+194,Who Let The Dogs Out,Baha Men,1,2000-08-19,2000-08-26,80,2
+195,Mark Schultz,Mark Schultz,34,2000-08-12,2000-10-28,79,9
+196,My Life Your Entertainment,P.A. (Parental Advisory),13,2000-08-19,2000-09-02,77,3
+197,New Found Glory,New Found Glory,8,2000-10-14,2000-11-04,76,4
+198,Cha-Cha Slide,Mr. C The Slide Man,22,2000-12-09,2000-12-30,75,4
+199,Heart Of A Woman,Kathie Lee Gifford,8,2000-11-11,2000-11-18,74,2
+200,Step One,Steps,9,2000-02-26,2000-03-04,73,2
+201,All The Hype That Money Can Buy,Five Iron Frenzy,5,2000-05-13,2000-05-20,72,2
+202,Martha Stewart Living: Spooky Scary Sounds For Halloween,Martha Stewart,16,2000-10-28,2000-11-18,72,4
+203,Outbound,Bela Fleck & The Flecktones,25,2000-08-12,2000-09-09,72,5
+204,Ride With Bob,Asleep At The Wheel,28,2000-01-01,2000-03-18,72,7
+205,Pleezbaleevit!,Doggys Angels,8,2000-12-23,2000-12-30,70,2
+206,All Things New,Watermark,34,2000-07-08,2000-08-05,69,5
+207,Deltron 3030,Deltron 3030,13,2000-11-04,2000-11-25,68,4
+208,The Plan,Raze,25,2000-11-25,2000-12-30,68,6
+209,Music @ Work,The Tragically Hip,8,2000-07-01,2000-07-08,63,2
+210,The Dropper,Medeski Martin & Wood,15,2000-11-11,2000-11-25,62,3
+211,Building Nothing Out Of Something,Modest Mouse,17,2000-02-05,2000-02-19,62,3
+212,Royal Highness,Kottonmouth Kings,17,2000-01-15,2000-02-12,60,5
+213,Full Devil Jacket,Full Devil Jacket,30,2000-03-25,2000-10-21,58,5
+214,Designs For Automotion,Snapcase,13,2000-02-12,2000-02-19,56,2
+215,Greyest Of Blue Skies,Finger Eleven,19,2000-08-12,2000-09-09,56,5
+216,The Art Of Drowning,AFI,9,2000-10-14,2000-10-21,53,2
+217,Daisies Of The Galaxy,eels,17,2000-04-01,2000-04-08,49,2
+218,In The Meantime -- The Music That Tells The Story,Iyanla Vanzant,25,2000-01-01,2000-01-15,48,3
+219,En Vivo,Marco Antonio Solis,40,2000-11-18,2000-12-23,46,6
+220,This Mystery,Nichole Nordeman,17,2000-06-10,2000-06-24,45,3
+221,Dancing,Mike Keneally & Beer For Dolphins,7,2000-10-14,2000-10-14,44,1
+222,Rated R,Queens Of The Stone Age,16,2000-06-24,2000-07-01,43,2
+223,Four Cornered Night,Jets To Brazil,19,2000-09-16,2000-09-23,43,2
+224,613: Ashy To Classy,Field Mob,9,2000-12-30,2000-12-30,42,1
+225,Celebracion Epic Duets,Eddie Santiago,26,2000-02-12,2000-02-26,42,2
+226,You Can Make It,Shirley Caesar,37,2000-09-23,2000-10-14,42,4
+227,Shine,Pat McGee Band,10,2000-04-29,2000-04-29,41,1
+228,Life Before Insanity,Gov't Mule,16,2000-03-04,2000-03-11,41,2
+229,Vestal & Friends,Vestal Goodman,11,2000-05-27,2000-05-27,40,1
+230,Time & Seasons,Commissioned,28,2000-03-11,2000-03-18,40,2
+231,Just Won't Burn,Susan Tedeschi,40,2000-01-01,2000-02-19,40,5
+232,Too Much Stereo,The Urge,12,2000-08-05,2000-08-05,39,1
+233,Trickle,Olive,28,2000-06-17,2000-07-08,38,3
+234,Live,Built To Spill,22,2000-05-06,2000-05-13,37,2
+235,ReadySexGo,Marvelous 3,16,2000-09-30,2000-10-07,36,2
+236,The McClurkin Project,The McClurkin Project,35,2000-01-29,2000-02-26,36,4
+237,Reactionary,Face To Face,16,2000-07-08,2000-07-08,35,1
+238,Untamed,Yankee Grey,31,2000-01-01,2000-01-08,35,2
+239,Through The Eyes Of A Don,Cap One,32,2000-07-15,2000-08-05,35,4
+240,El Recado,Conjunto Primavera,41,2000-10-07,2000-11-11,35,5
+241,America's Volume Dealer,COC,18,2000-10-28,2000-11-04,34,2
+242,Tranceport. 3,Sandra Collins,25,2000-06-24,2000-07-08,34,3
+243,A Charlie Brown Christmas,Cyrus Chestnut & Friends,29,2000-12-23,2000-12-30,34,2
+244,City Under Siege,ESG,30,2000-04-29,2000-05-06,34,2
+245,Por El Pasado,Grupo Bryndis,32,2000-02-19,2000-03-04,34,3
+246,Juddmental,Cledus T. Judd,33,2000-01-01,2000-01-08,34,2
+247,No Authority,No Authority,18,2000-08-05,2000-08-05,33,1
+248,Tonic,Medeski Martin & Wood,20,2000-05-13,2000-05-20,33,2
+249,Under H.A.W.K.'s Wings,DJ Screw And The Screwed Up Click Presents H.A.W.K.,33,2000-07-15,2000-07-22,33,2
+250,djmixed.com,Keoki,36,2000-06-03,2000-06-17,33,3
+251,De Paisano A Paisano,Los Tigres del Norte,19,2000-10-07,2000-10-07,32,1
+252,The Hardest Part,Allison Moorer,26,2000-10-14,2000-10-21,31,2
+253,Un Sueno,Los Angeles de Charly,28,2000-11-18,2000-12-09,31,3
+254,Midian,Cradle Of Filth,21,2000-11-18,2000-11-18,30,1
+255,Let It Go,The Clarks,21,2000-07-08,2000-07-08,30,1
+256,How Long,LV,33,2000-09-16,2000-09-23,30,2
+257,Center Of My Universe,Michelle Tumes,36,2000-03-04,2000-03-18,30,3
+258,Invincible,Skillet,22,2000-02-19,2000-02-19,29,1
+259,The Magnificent Tree,Hooverphonic,22,2000-10-14,2000-10-14,29,1
+260,Violence,Nothingface,24,2000-10-28,2000-11-04,29,2
+261,Christmas,Rockapella,36,2000-12-23,2000-12-30,29,2
+262,Spend A Night In The Box,Reverend Horton Heat,23,2000-04-08,2000-04-08,28,1
+263,The Beautiful Game,Acoustic Alchemy,38,2000-07-01,2000-07-15,28,3
+264,The First Of The Microbe Hunters,Stereolab,24,2000-06-03,2000-06-03,27,1
+265,Oui,The Sea And Cake,24,2000-10-21,2000-10-21,27,1
+266,Hu$$lin 4 A Kau$e,Soldierz At War,25,2000-11-04,2000-11-04,26,1
+267,Wishville,The Catherine Wheel,25,2000-06-10,2000-06-10,26,1
+268,Corridos De Primera Plana,Los Tucanes de Tijuana,37,2000-12-02,2000-12-09,26,2
+269,Secret Language Of Birds,Ian Anderson,26,2000-03-25,2000-03-25,25,1
+270,Against All Odds,Take 5,26,2000-09-16,2000-09-16,25,1
+271,Respect Is Burning Presents: A Night At The Playboy Mansion,Dimitri From Paris,31,2000-05-13,2000-05-20,25,2
+272,Live In Detroit II,Vickie Winans,38,2000-02-05,2000-04-15,25,3
+273,Hard Rain Don't Last,Darryl Worley,39,2000-08-05,2000-09-02,25,3
+274,Never Gonna Stop,Tommy Walker,27,2000-12-30,2000-12-30,24,1
+275,Fozzy,Fozzy,27,2000-11-11,2000-11-11,24,1
+276,Tanto Tempo,Bebel Gilberto,42,2000-07-22,2000-12-30,24,8
+277,Carnival '99,The String Cheese Incident,28,2000-02-19,2000-02-19,23,1
+278,Island Feeling,Ten Feet,28,2000-06-03,2000-06-03,23,1
+279,We Got Next,Winans Phase2,35,2000-01-01,2000-02-05,23,3
+280,Kid's Silly Songs Sing-A-Longs: 22 Favorite Funtime Songs,Wonder Kids,38,2000-12-23,2000-12-30,23,2
+281,"Loud Guitars, Big Suspicions",Shannon Curfman,39,2000-02-26,2000-05-06,23,3
+282,L,moe.,29,2000-04-29,2000-04-29,22,1
+283,One Endless Night,Jimmie Dale Gilmore,29,2000-03-18,2000-03-18,22,1
+284,BB Queen,Bahamadia,35,2000-08-12,2000-09-16,22,2
+285,Heaven To Earth,Michael English,35,2000-04-15,2000-04-22,22,2
+286,Mi Vida Sin Tu Amor,Cristian,30,2000-05-27,2000-05-27,21,1
+287,The Mirror Conspiracy,Thievery Corporation,38,2000-09-09,2000-09-30,21,3
+288,In Moderation,8Stops7,34,2000-09-23,2000-09-30,20,2
+289,No Turning Back,Out Of Eden,37,2000-01-01,2000-01-08,20,2
+290,Voy A Enamorarte,Gisselle,39,2000-06-24,2000-07-01,20,2
+291,Con Su Loquera,Mala Fe,41,2000-02-12,2000-02-19,20,2
+292,Mambo #5,The Countdown Singers,41,2000-02-26,2000-03-11,20,3
+293,Lost And Gone Forever,Guster,41,2000-01-15,2000-07-29,20,4
+294,High As Hell,Nashville Pussy,32,2000-06-17,2000-06-17,19,1
+295,Stronger,Kristine W,32,2000-10-14,2000-10-14,19,1
+296,Walking 1/2 Dead,Kabaal,33,2000-01-22,2000-02-19,19,2
+297,My Book Of Love,Phil Perry,33,2000-03-25,2000-04-01,19,2
+298,Circle,Indigenous,41,2000-05-27,2000-06-03,19,2
+299,Pru,Pru,40,2000-12-16,2000-12-23,18,2
+300,From The Heart Of God,"Dr. Creflo A. Dollar Jr. And ""Changing Your World"" Mass Choir",34,2000-12-23,2000-12-23,17,1
+301,Pennybridge Pioneers,Millencolin,34,2000-03-11,2000-03-11,17,1
+302,Learning To Breathe,Switchfoot,34,2000-10-14,2000-10-14,17,1
+303,Love In The Real World,Sherrie Austin,43,2000-01-01,2000-01-15,17,3
+304,Live At Webster Hall NYC,DJ Taucher,43,2000-10-14,2000-10-28,16,3
+305,Universal Concussion,B.B. Jay,36,2000-09-30,2000-09-30,15,1
+306,The Leprechann,Lil' Flip,36,2000-11-11,2000-11-11,15,1
+307,Sonic Jihad,Snake River Conspiracy,36,2000-07-29,2000-07-29,15,1
+308,"Make It Phat, Baby!",The Phat Cat Players,40,2000-05-06,2000-06-17,15,3
+309,Love Has A Name,Kathy Troccoli,43,2000-11-11,2000-11-25,15,3
+310,Inches From The Mainline,Slaves On Dope,37,2000-10-21,2000-10-21,14,1
+311,Drawing Black Lines,Project 86,37,2000-03-04,2000-03-04,14,1
+312,Melelana,Keali'i Reichel,42,2000-01-15,2000-01-29,14,3
+313,D-Game 2000,Big Pokey,38,2000-11-18,2000-11-18,13,1
+314,Another Late Night,DJ Dan,39,2000-04-15,2000-04-22,13,2
+315,Chad Brock,Chad Brock,42,2000-01-01,2000-01-08,13,2
+316,Half Hour Of Power,Sum 41,39,2000-10-21,2000-10-21,12,1
+317,Deviant,Pitchshifter,39,2000-06-10,2000-06-10,12,1
+318,Unconditional,Clay Davidson,39,2000-04-29,2000-04-29,12,1
+319,[Girl Director],Natalie Wilson & The S.O.P. Chorale,39,2000-12-16,2000-12-16,12,1
+320,Remedy,Basement Jaxx,44,2000-01-15,2000-01-29,12,2
+321,Til We Die,Project Playaz,40,2000-02-12,2000-02-12,11,1
+322,King Of Nothing,The Warren Brothers,43,2000-09-30,2000-10-07,11,2
+323,No Skits Vol. 1,Hangmen 3,41,2000-08-05,2000-08-05,10,1
+324,Lo Mejor De,Gisselle,41,2000-01-22,2000-01-22,10,1
+325,Me Gusta Vivir De Noche,Los Tucanes de Tijuana,46,2000-12-02,2000-12-09,10,2
+326,Heartbreaker,Ryan Adams,42,2000-09-23,2000-09-23,9,1
+327,Chanchullo,Ruben Gonzalez,42,2000-10-21,2000-10-21,9,1
+328,Met.A.Mor.Phic,Dalvin Degrate,42,2000-05-06,2000-05-06,9,1
+329,Windows,The Martins,43,2000-01-29,2000-01-29,8,1
+330,Urban Knights III,Urban Knights,43,2000-04-15,2000-04-15,8,1
+331,"50 Years: Celebrating 50 Years Of Marriage, Ministry And Music",The Happy Goodmans,43,2000-09-16,2000-09-16,8,1
+332,Cafe Atlantico,Cesaria Evora,44,2000-01-08,2000-01-08,7,1
+333,The Covers Record,Cat Power,44,2000-04-08,2000-04-08,7,1
+334,Abandoned Shopping Trolley Hotline,Gomez,44,2000-10-28,2000-10-28,7,1
+335,Check Your People,Downset.,44,2000-11-04,2000-11-04,7,1
+336,Good Time,Lee Williams And The Spiritual QC's,44,2000-11-18,2000-11-18,7,1
+337,Water's Edge,Tim Janis,44,2000-11-25,2000-11-25,7,1
+338,Eterno,Luis Fonsi,44,2000-07-15,2000-07-15,7,1
+339,Gettin' High On Your Own Supply,Apollo Four Forty,46,2000-03-04,2000-03-11,7,2
+340,I Represent,Camoflauge,45,2000-07-29,2000-07-29,6,1
+341,The Fun Of Your Love,Jennifer Day,45,2000-03-25,2000-03-25,6,1
+342,Undercover,Paul Taylor,45,2000-03-18,2000-03-18,6,1
+343,Distinto Diferente,Afro-Cuban All Stars,46,2000-01-08,2000-01-08,5,1
+344,Sound Of Water,Saint Etienne,46,2000-06-24,2000-06-24,5,1
+345,Lo Grande De Los Grandes,Pepe Aguilar,48,2000-09-23,2000-09-30,5,2
+346,Stronger Than Death,Black Label Society,47,2000-05-06,2000-05-06,4,1
+347,Lo Mejor De Mi Vida,Banda El Recodo de Cruz Lizarraga,47,2000-02-05,2000-02-05,4,1
+348,Matthew,Kool Keith,47,2000-08-12,2000-08-12,4,1
+349,Power,Raze,47,2000-01-01,2000-01-01,4,1
+350,I've Got A Right To Cry,Mandy Barnett,47,2000-02-26,2000-02-26,4,1
+351,Get Em Psyched! -- The Album,Black Indian,47,2000-01-22,2000-01-22,4,1
+352,Beyond,Joshua Redman,47,2000-05-13,2000-05-13,4,1
+353,Lobo Herido,Vicente Fernandez,48,2000-04-15,2000-04-15,3,1
+354,Never Never Land,Jane Monheit,48,2000-09-09,2000-09-09,3,1
+355,Wake Up Screaming,Slick Shoes,48,2000-06-10,2000-06-10,3,1
+356,Todo Lo Que Soy,Carlos Ponce,48,2000-01-22,2000-01-22,3,1
+357,Where We Belong,Boyzone,48,2000-01-01,2000-01-01,3,1
+358,The Ghetto Made Me Crazy,Young Kyoz,48,2000-07-15,2000-07-15,3,1
+359,Renee Fleming,Renee Fleming,48,2000-10-14,2000-10-14,3,1
+360,Won't You Let Me Love You,Walter Beasley,48,2000-09-02,2000-09-02,3,1
+361,So... How's Your Girl?,Handsome Boy Modeling School,49,2000-01-29,2000-02-05,3,2
+362,Vengeance Is Mine,X-Raided,49,2000-12-09,2000-12-09,2,1
+363,How Big'A Boy Are Ya? Volume 5,Roy D. Mercer,49,2000-01-08,2000-01-08,2,1
+364,1000 Hurts,Shellac,49,2000-08-26,2000-08-26,2,1
+365,Philadelphonic,G. Love & Special Sauce,49,2000-01-15,2000-01-15,2,1
+366,Supreme Beings Of Leisure,Supreme Beings Of Leisure,49,2000-06-03,2000-06-03,2,1
+367,Rompiendo El Milenio,Los Sabrosos del Merengue,50,2000-01-22,2000-01-22,1,1
+368,Contigo,Intocable,50,2000-02-12,2000-02-12,1,1
+369,Mommy And Me: Old MacDonald Had A Farm,The Countdown Kids,50,2000-12-23,2000-12-23,1,1
+370,Slither,Earth Crisis,50,2000-07-08,2000-07-08,1,1
+371,Caricias,Rocio Durcal,50,2000-08-26,2000-08-26,1,1
+372,Nia,Blackalicious,50,2000-03-18,2000-03-18,1,1
+373,Audio,Blue Man Group,50,2000-12-16,2000-12-16,1,1
+374,V.I.P.,Jungle Brothers,50,2000-03-25,2000-03-25,1,1

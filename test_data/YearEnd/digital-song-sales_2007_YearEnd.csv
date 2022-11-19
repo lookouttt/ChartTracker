@@ -1,0 +1,431 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Big Girls Don't Cry,Fergie,2,2007-05-05,2007-12-29,3405,35
+2,Girlfriend,Avril Lavigne,1,2007-03-17,2007-10-13,3169,31
+3,Hey There Delilah,Plain White T's,1,2007-04-21,2007-12-29,3117,37
+4,Crank That (Soulja Boy),Soulja Boy Tell'em,1,2007-07-28,2007-12-29,3054,23
+5,The Sweet Escape,Gwen Stefani Featuring Akon,1,2007-01-20,2007-09-22,2957,36
+6,The Way I Are,Timbaland Featuring Keri Hilson,3,2007-06-23,2007-12-29,2720,28
+7,Umbrella,Rihanna Featuring Jay-Z,1,2007-06-09,2007-12-29,2622,30
+8,Stronger,Kanye West,1,2007-08-11,2007-12-29,2580,21
+9,Glamorous,Fergie Featuring Ludacris,1,2007-02-10,2007-09-22,2519,32
+10,Rockstar,Nickelback,3,2007-01-06,2007-12-29,2377,41
+11,Buy U A Drank (Shawty Snappin'),T-Pain Featuring Yung Joc,2,2007-03-17,2007-10-06,2341,30
+12,Apologize,Timbaland Featuring OneRepublic,1,2007-08-18,2007-12-29,2210,20
+13,Before He Cheats,Carrie Underwood,10,2007-01-06,2007-11-24,2172,42
+14,Don't Matter,Akon,2,2007-02-10,2007-08-04,2140,25
+15,Say It Right,Nelly Furtado,2,2007-01-06,2007-07-28,2068,30
+16,Makes Me Wonder,Maroon 5,1,2007-05-12,2007-10-20,2023,24
+17,Party Like A Rockstar,Shop Boyz,2,2007-06-09,2007-11-10,2005,23
+18,Cupid's Chokehold/Breakfast In America,Gym Class Heroes Featuring Patrick Stump,2,2007-02-03,2007-07-28,1970,26
+19,Bubbly,Colbie Caillat,4,2007-06-02,2007-12-29,1951,22
+20,It's Not Over,Daughtry,2,2007-01-06,2007-07-21,1861,28
+21,What I've Done,Linkin Park,4,2007-04-21,2007-12-08,1813,34
+22,This Is Why I'm Hot,Mims,1,2007-03-10,2007-07-28,1737,21
+23,Irreplaceable,Beyonce,1,2007-01-06,2007-12-08,1732,25
+24,No One,Alicia Keys,1,2007-09-29,2007-12-29,1718,14
+25,Fergalicious,Fergie,1,2007-01-06,2007-07-21,1715,29
+26,Thnks Fr Th Mmrs,Fall Out Boy,5,2007-04-28,2007-12-01,1710,32
+27,"This Ain't A Scene, It's An Arms Race",Fall Out Boy,1,2007-02-03,2007-06-09,1689,19
+28,Give It To Me,Timbaland Featuring Nelly Furtado & Justin Timberlake,1,2007-04-21,2007-11-10,1597,27
+29,What Goes Around...Comes Around,Justin Timberlake,1,2007-01-06,2007-10-06,1537,25
+30,Cyclone,Baby Bash Featuring T-Pain,6,2007-08-11,2007-12-29,1525,21
+31,Beautiful Girls,Sean Kingston,1,2007-08-11,2007-12-08,1423,18
+32,Kiss Kiss,Chris Brown Featuring T-Pain,1,2007-11-03,2007-12-29,1388,9
+33,Home,Daughtry,4,2007-03-17,2007-12-08,1372,25
+34,How Far We've Come,matchbox twenty,3,2007-09-22,2007-12-29,1371,15
+35,Walk It Out,Unk,9,2007-01-06,2007-07-28,1355,30
+36,A Bay Bay,Hurricane Chris,6,2007-07-07,2007-11-17,1330,20
+37,Smack That,Akon Feat. Eminem,3,2007-01-06,2007-05-26,1303,21
+38,I Wanna Love You,Akon Featuring Snoop Dogg,3,2007-01-06,2007-05-12,1302,19
+39,Face Down,The Red Jumpsuit Apparatus,18,2007-01-06,2007-08-18,1292,33
+40,The Great Escape,Boys Like Girls,17,2007-06-09,2007-12-08,1268,27
+41,Ayo Technology,50 Cent Featuring Justin Timberlake & Timbaland,3,2007-08-25,2007-12-29,1263,19
+42,If Everyone Cared,Nickelback,12,2007-02-03,2007-08-25,1255,30
+43,Bartender,T-Pain Featuring Akon,10,2007-06-23,2007-11-24,1237,23
+44,U + Ur Hand,P!nk,9,2007-03-10,2007-08-25,1231,25
+45,Paralyzer,Finger Eleven,7,2007-07-28,2007-12-29,1228,23
+46,"Pop, Lock & Drop It",Huey,9,2007-03-24,2007-08-25,1200,23
+47,Shut Up And Drive,Rihanna,9,2007-06-23,2007-11-24,1199,23
+48,We Fly High,Jim Jones,6,2007-01-06,2007-05-05,1137,18
+49,The Way I Live,Baby Boy Da Prince Featuring Lil Boosie,11,2007-02-10,2007-07-14,1088,23
+50,Never Again,Kelly Clarkson,4,2007-05-12,2007-08-18,1086,15
+51,Teardrops On My Guitar,Taylor Swift,27,2007-03-31,2007-12-29,1078,34
+52,Gimme More,Britney Spears,1,2007-10-13,2007-12-29,1047,12
+53,Rehab,Amy Winehouse,7,2007-04-14,2007-10-13,1046,21
+54,How To Save A Life,The Fray,5,2007-01-06,2007-07-21,1041,22
+55,First Time,Lifehouse,23,2007-05-26,2007-12-08,1029,25
+56,Low,Flo Rida Featuring T-Pain,1,2007-11-24,2007-12-29,1006,6
+57,Wait For You,Elliott Yamin,20,2007-04-07,2007-10-27,985,23
+58,Make It Rain,Fat Joe Featuring Lil Wayne,13,2007-01-06,2007-06-02,981,22
+59,I Tried,Bone Thugs-N-Harmony Feat. Akon,4,2007-04-28,2007-08-04,978,15
+60,Here (In Your Arms),Hellogoodbye,6,2007-01-06,2007-05-05,971,18
+61,"Sorry, Blame It On Me",Akon,4,2007-08-04,2007-11-24,956,17
+62,Me Love,Sean Kingston,6,2007-08-18,2007-11-17,938,14
+63,Good Life,Kanye West Featuring T-Pain,4,2007-09-29,2007-12-29,933,14
+64,Beautiful Liar,Beyonce & Shakira,1,2007-04-07,2007-06-30,914,13
+65,Summer Love,Justin Timberlake,10,2007-05-05,2007-08-25,911,17
+66,Welcome To The Black Parade,My Chemical Romance,7,2007-01-06,2007-04-28,901,17
+67,Clumsy,Fergie,5,2007-11-03,2007-12-29,898,9
+68,Last Night,Diddy Featuring Keyshia Cole,17,2007-03-10,2007-07-21,878,20
+69,SexyBack,Justin Timberlake,11,2007-01-06,2007-10-13,859,23
+70,Tattoo,Jordin Sparks,7,2007-10-13,2007-12-29,850,12
+71,Who Knew,P!nk,18,2007-08-04,2007-12-15,847,20
+72,Misery Business,Paramore,11,2007-07-28,2007-12-29,845,23
+73,Keep Holding On,Avril Lavigne,11,2007-01-06,2007-05-12,843,19
+74,Wake Up Call,Maroon 5,10,2007-09-01,2007-12-29,826,18
+75,S.O.S.,Jonas Brothers,4,2007-08-25,2007-12-29,821,19
+76,Hate That I Love You,Rihanna Featuring Ne-Yo,9,2007-09-29,2007-12-29,808,14
+77,Potential Breakup Song,Aly & AJ,8,2007-07-14,2007-11-03,807,17
+78,2 Step,Unk,19,2007-03-24,2007-08-18,800,22
+79,Runaway Love,Ludacris Featuring Mary J. Blige,9,2007-01-06,2007-04-14,782,15
+80,Because Of You,Ne-Yo,2,2007-05-12,2007-08-04,778,13
+81,I'm A Flirt,R. Kelly Or Bow Wow (Featuring T.I. & T-Pain),17,2007-03-24,2007-07-07,768,16
+82,Boston,Augustana,24,2007-01-06,2007-06-02,764,22
+83,Big Things Poppin' (Do It),T.I.,8,2007-06-09,2007-09-15,737,15
+84,I Don't Wanna Be In Love (Dance Floor Anthem),Good Charlotte,13,2007-09-15,2007-12-29,729,16
+85,Snow ((Hey Oh)),Red Hot Chili Peppers,13,2007-01-06,2007-05-05,723,18
+86,It Ends Tonight,The All-American Rejects,6,2007-01-06,2007-03-31,722,13
+87,1234,Feist,4,2007-09-29,2007-12-29,719,12
+88,Lean Like A Cholo,Down A.K.A. Kilo,32,2007-05-26,2007-10-27,718,23
+89,Bed,J. Holiday,16,2007-08-18,2007-12-08,716,17
+90,My Love,Justin Timberlake Feat. T.I.,7,2007-01-06,2007-04-21,714,16
+91,Over You,Daughtry,21,2007-09-08,2007-12-29,708,17
+92,Ice Box,Omarion,19,2007-01-13,2007-05-12,691,18
+93,Waiting On The World To Change,John Mayer,11,2007-01-06,2007-06-02,684,17
+94,Get It Shawty,Lloyd,22,2007-04-21,2007-08-18,680,18
+95,Go Getta,Young Jeezy Featuring R. Kelly,13,2007-03-03,2007-06-23,675,17
+96,When You're Gone,Avril Lavigne,18,2007-07-21,2007-11-03,665,16
+97,Lips Of An Angel,Hinder,8,2007-01-06,2007-04-14,655,14
+98,Make Me Better,Fabolous Featuring Ne-Yo,13,2007-06-30,2007-10-20,651,17
+99,Like A Boy,Ciara,29,2007-03-31,2007-07-28,607,18
+100,Teenagers,My Chemical Romance,39,2007-06-30,2007-11-24,607,22
+101,Better Than Me,Hinder,26,2007-04-07,2007-08-04,591,18
+102,We Takin' Over,"DJ Khaled Featuring T.I., Akon, Rick Ross, Fat Joe, Lil' Wayne & Baby",24,2007-04-21,2007-08-04,588,16
+103,Chasing Cars,Snow Patrol,17,2007-01-06,2007-06-02,586,22
+104,Lip Gloss,Lil Mama,9,2007-06-23,2007-08-25,580,10
+105,Suddenly I See,KT Tunstall,9,2007-01-06,2007-04-14,579,15
+106,Throw Some D's,Rich Boy Featuring Polow Da Don,6,2007-03-17,2007-05-26,576,11
+107,LoveStoned,Justin Timberlake,17,2007-07-28,2007-11-17,576,17
+108,Candyman,Christina Aguilera,11,2007-03-10,2007-06-16,575,15
+109,Over It,Katharine McPhee,18,2007-02-17,2007-06-02,575,16
+110,Shawty,Plies Featuring T-Pain,13,2007-07-28,2007-11-03,571,15
+111,Sweetest Girl (Dollar Bill),"Wyclef Jean Featuring Akon, Lil Wayne & Niia",12,2007-09-01,2007-12-29,560,17
+112,Into The Night,Santana Featuring Chad Kroeger,17,2007-10-20,2007-12-29,541,11
+113,So Small,Carrie Underwood,6,2007-09-15,2007-12-15,539,14
+114,Whine Up,Kat DeLuna Featuring Elephant Man,24,2007-06-30,2007-10-27,536,18
+115,I'm So Hood,"DJ Khaled Featuring T-Pain, Trick Daddy, Rick Ross & Plies",14,2007-10-20,2007-12-29,535,11
+116,Our Song,Taylor Swift,15,2007-10-13,2007-12-29,512,12
+117,Bleed It Out,Linkin Park,29,2007-08-25,2007-12-29,512,18
+118,I'll Stand By You,Carrie Underwood,2,2007-05-12,2007-06-02,469,4
+119,Duffel Bag Boy,Playaz Circle Featuring Lil Wayne,26,2007-10-13,2007-12-29,458,12
+120,Nobody's Perfect,Hannah Montana,14,2007-06-23,2007-09-08,454,12
+121,Do You Know? (The Ping Pong Song),Enrique Iglesias,16,2007-06-02,2007-08-18,440,12
+122,The Pretender,Foo Fighters,18,2007-08-25,2007-12-29,439,16
+123,Love Like This,Natasha Bedingfield Featuring Sean Kingston,12,2007-11-03,2007-12-29,438,9
+124,Crazy,Gnarls Barkley,15,2007-01-06,2007-03-31,438,13
+125,Do It Well,Jennifer Lopez,12,2007-10-06,2007-12-15,436,11
+126,Not Ready To Make Nice,Dixie Chicks,2,2007-02-24,2007-04-14,429,8
+127,Wind It Up,Gwen Stefani,13,2007-01-06,2007-03-10,426,10
+128,Icky Thump,The White Stripes,14,2007-05-12,2007-08-18,419,13
+129,Walk Away (Remember Me),Paula DeAnda Featuring The DEY,23,2007-01-06,2007-03-24,417,12
+130,Break It Off,Rihanna & Sean Paul,8,2007-03-10,2007-04-28,411,8
+131,You,Lloyd Featuring Lil Wayne,18,2007-01-27,2007-04-21,411,13
+132,Lost Without U,Robin Thicke,40,2007-02-17,2007-06-02,407,16
+133,Shortie Like Mine,Bow Wow Featuring Chris Brown & Johnta Austin,12,2007-01-06,2007-03-10,402,10
+134,Hypnotized,Plies Featuring Akon,22,2007-11-03,2007-12-29,402,9
+135,Let It Go,Keyshia Cole Featuring Missy Elliott & Lil Kim,32,2007-08-11,2007-11-17,396,15
+136,With Love,Hilary Duff,10,2007-03-31,2007-05-26,393,9
+137,Lost In This Moment,Big & Rich,35,2007-04-07,2007-08-25,392,16
+138,Into The Ocean,Blue October,42,2007-01-06,2007-05-05,382,17
+139,On The Hotline,Pretty Ricky,12,2007-02-10,2007-04-14,369,10
+140,Rock Yo Hips,Crime Mob Featuring Lil Scrappy,42,2007-04-07,2007-07-07,364,14
+141,All I Want For Christmas Is You,Mariah Carey,8,2007-01-06,2007-12-29,356,5
+142,Take You There,Sean Kingston,14,2007-11-17,2007-12-29,346,7
+143,Wait A Minute,The Pussycat Dolls Featuring Timbaland,20,2007-01-06,2007-02-24,346,8
+144,White & Nerdy,"""Weird Al"" Yankovic",15,2007-01-06,2007-03-10,343,10
+145,Top Back,T.I.,27,2007-01-27,2007-04-28,343,14
+146,Ticks,Brad Paisley,34,2007-04-14,2007-08-04,342,17
+147,I Got It From My Mama,will.i.am,22,2007-09-01,2007-10-27,335,9
+148,Stolen,Dashboard Confessional,33,2007-04-21,2007-07-07,335,12
+149,Stay,Sugarland,16,2007-10-27,2007-12-29,333,10
+150,Hold On,Jonas Brothers,17,2007-08-11,2007-09-29,331,8
+151,Shawty Is Da Sh*! (10),The-Dream,30,2007-10-20,2007-12-29,331,11
+152,Piece Of Me,Britney Spears,20,2007-11-17,2007-12-29,330,7
+153,Everything,Michael Buble,26,2007-04-07,2007-11-03,315,16
+154,Year 3000,Jonas Brothers,15,2007-02-17,2007-09-08,308,11
+155,Like This,Mims,28,2007-06-23,2007-09-15,307,13
+156,Life Is A Highway,Rascal Flatts,30,2007-01-06,2007-03-24,307,12
+157,Outta My System,Bow Wow Featuring T-Pain & Johnta Austin,39,2007-03-24,2007-06-23,304,14
+158,Don't Blink,Kenny Chesney,26,2007-09-29,2007-12-08,291,11
+159,Money Maker,Ludacris Feat. Pharrell,18,2007-01-06,2007-03-03,290,8
+160,Soulja Girl,Soulja Boy Tell'em Featuring I-15,34,2007-10-20,2007-12-22,285,10
+161,Get Buck In Here,"DJ Felli Fel Featuring Diddy, Akon, Ludacris & Lil Jon",18,2007-11-24,2007-12-29,283,6
+162,Hips Don't Lie,Shakira Feat. Wyclef Jean,36,2007-01-06,2007-04-14,278,15
+163,(You Want To) Make A Memory,Bon Jovi,15,2007-05-19,2007-07-28,274,11
+164,Never Wanted Nothing More,Kenny Chesney,18,2007-07-14,2007-09-29,269,10
+165,Last Dollar (Fly Away),Tim McGraw,9,2007-04-14,2007-05-26,267,7
+166,Hurt,Christina Aguilera,27,2007-01-06,2007-03-10,267,10
+167,You Are The Music In Me,Zac Efron & Vanessa Anne Hudgens,8,2007-09-01,2007-09-22,265,4
+168,Fidelity,Regina Spektor,30,2007-02-03,2007-03-31,264,9
+169,Push It To The Limit,Corbin Bleu,5,2007-02-03,2007-02-24,259,4
+170,Clothes Off!!,Gym Class Heroes,18,2007-09-01,2007-10-13,258,7
+171,Wasted,Carrie Underwood,45,2007-03-24,2007-06-16,258,13
+172,Take Me There,Rascal Flatts,11,2007-10-13,2007-12-08,254,8
+173,Don't Stop Believin',Journey,21,2007-06-30,2007-11-24,252,15
+174,Far Away,Nickelback,22,2007-01-06,2007-02-17,251,7
+175,Tambourine,Eve,30,2007-06-30,2007-08-25,246,9
+176,Maneater,Nelly Furtado,41,2007-01-06,2007-03-17,244,11
+177,Sexy Lady,Yung Berg Featuring Junior,23,2007-07-14,2007-09-15,243,9
+178,4 In The Morning,Gwen Stefani,51,2007-06-09,2007-08-25,239,12
+179,Same Girl,R. Kelly Duet With Usher,38,2007-06-16,2007-09-15,234,12
+180,What Time Is It,High School Musical 2 Cast,24,2007-08-04,2007-09-22,233,8
+181,Promiscuous,Nelly Furtado Feat. Timbaland,39,2007-01-06,2007-03-17,225,11
+182,You Know What It Is,T.I. Featuring Wyclef Jean,48,2007-07-21,2007-10-27,224,14
+183,Through Glass,Stone Sour,38,2007-01-06,2007-02-17,223,7
+184,London Bridge,Fergie,20,2007-01-06,2007-03-03,216,9
+185,Wall To Wall,Chris Brown,15,2007-11-24,2007-12-22,211,5
+186,The Way I Am,Ingrid Michaelson,11,2007-10-13,2007-12-29,209,6
+187,Life's What You Make It,Hannah Montana,14,2007-07-14,2007-08-18,209,6
+188,If You're Reading This,Tim McGraw,24,2007-08-25,2007-11-03,204,9
+189,Put Your Records On,Corinne Bailey Rae,30,2007-02-03,2007-05-05,204,8
+190,You Give Love A Bad Name,Blake Lewis,9,2007-06-09,2007-06-30,202,4
+191,I Luv It,Young Jeezy,26,2007-01-06,2007-02-17,202,7
+192,Dani California,Red Hot Chili Peppers,32,2007-01-06,2007-03-17,202,10
+193,Move Along,The All-American Rejects,25,2007-01-06,2007-02-10,199,6
+194,Gotta Go My Own Way,Zac Efron & Vanessa Anne Hudgens,11,2007-09-01,2007-09-29,197,5
+195,Nothing Left To Lose,Mat Kearney,31,2007-02-10,2007-05-05,197,12
+196,Love Song,Sara Bareilles,5,2007-11-17,2007-12-29,196,6
+197,Shadow Of The Day,Linkin Park,21,2007-12-01,2007-12-29,194,5
+198,Over My Head (Cable Car),The Fray,29,2007-01-06,2007-02-10,194,6
+199,I Get Money,50 Cent,14,2007-09-29,2007-11-10,192,7
+200,"Ready, Set, Don't Go",Billy Ray Cyrus With Miley Cyrus,41,2007-08-04,2007-12-29,185,12
+201,Just Fine,Mary J. Blige,26,2007-12-01,2007-12-29,184,5
+202,She's Like The Wind,Lumidee Featuring Tony Sunshine,46,2007-03-03,2007-05-05,184,10
+203,Working Class Hero,Green Day,39,2007-05-19,2007-07-07,180,6
+204,Tell Me,Diddy Featuring Christina Aguilera,55,2007-01-06,2007-03-31,180,13
+205,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,21,2007-01-06,2007-12-29,178,5
+206,Doe Boy Fresh,Three 6 Mafia Featuring Chamillionaire,38,2007-04-07,2007-05-26,178,8
+207,This Is My Now,Jordin Sparks,9,2007-06-09,2007-06-23,176,3
+208,Too Little Too Late,JoJo,24,2007-01-06,2007-02-10,176,6
+209,Baby Don't Go,Fabolous Featuring Jermaine Dupri,43,2007-10-13,2007-12-01,175,8
+210,Pain,Three Days Grace,35,2007-01-20,2007-04-28,172,15
+211,Smile,Lily Allen,29,2007-02-17,2007-03-31,171,7
+212,Tim Mcgraw,Taylor Swift,37,2007-01-06,2007-06-02,171,9
+213,Bet On It,Zac Efron,13,2007-09-01,2007-09-22,168,4
+214,Grace Kelly,MIKA,40,2007-02-17,2007-05-12,168,11
+215,Stupid Boy,Keith Urban,51,2007-01-27,2007-03-31,162,10
+216,Music Is My Hot Hot Sex,CSS,25,2007-11-24,2007-12-15,161,4
+217,My Drink N' My 2 Step,Cassidy Featuring Swizz Beatz,36,2007-11-03,2007-12-22,160,8
+218,Money In The Bank,Lil Scrappy Featuring Young Buck,38,2007-01-06,2007-02-10,157,6
+219,With You,Chris Brown,16,2007-12-15,2007-12-29,156,3
+220,Here It Goes Again,OK Go,31,2007-01-06,2007-02-03,152,5
+221,Taking Chances,Celine Dion,26,2007-12-01,2007-12-22,148,4
+222,What Hurts The Most,Rascal Flatts,42,2007-01-06,2007-03-03,148,8
+223,I Need You,Tim McGraw With Faith Hill,50,2007-06-30,2007-08-25,146,9
+224,My Wish,Rascal Flatts,47,2007-01-06,2007-06-23,145,12
+225,Mistletoe,Colbie Caillat,25,2007-12-08,2007-12-29,141,4
+226,Everyday,Zac Efron & Vanessa Anne Hudgens,21,2007-09-01,2007-09-22,137,4
+227,King Kong,Jibbs,46,2007-02-17,2007-03-24,137,6
+228,Fabulous,Ashley Tisdale & Lucas Grabeel,28,2007-09-01,2007-09-29,136,5
+229,Like You'll Never See Me Again,Alicia Keys,37,2007-12-01,2007-12-29,136,5
+230,Wipe Me Down,Lil Boosie Featuring Foxx & Webbie,55,2007-06-09,2007-08-04,128,9
+231,Call Me When You're Sober,Evanescence,34,2007-01-06,2007-01-27,125,4
+232,Chain Hang Low,Jibbs,27,2007-01-06,2007-01-27,124,4
+233,Forever,Papa Roach,53,2007-05-05,2007-08-04,124,12
+234,I Don't Dance,Corbin Bleu & Lucas Grabeel,27,2007-09-01,2007-09-15,115,3
+235,Like This,Kelly Rowland Featuring Eve,34,2007-06-16,2007-08-04,114,8
+236,Can't Tell Me Nothing,Kanye West,31,2007-06-16,2007-10-13,113,5
+237,That's That,Snoop Dogg,45,2007-01-06,2007-02-10,113,6
+238,Rockin' Around The Christmas Tree,Brenda Lee,36,2007-01-06,2007-12-29,110,4
+239,Anonymous,Bobby Valentino Featuring Timbaland,47,2007-05-26,2007-06-30,110,6
+240,Christmas Canon,Trans-Siberian Orchestra,39,2007-01-06,2007-12-29,106,4
+241,I'm Like A Lawyer...(Me & You),Fall Out Boy,46,2007-11-17,2007-12-08,106,4
+242,Wadsyaname,Nelly,27,2007-09-15,2007-09-29,105,3
+243,Do It Just Like A Rockstar,Freak Nasty Featuring Crazy Mike,27,2007-05-19,2007-06-02,104,3
+244,Say OK,Vanessa Hudgens,37,2007-02-17,2007-03-10,103,4
+245,Hood Figga,Gorilla Zoe,50,2007-10-13,2007-11-24,103,7
+246,Blue Magic,JAY-Z,27,2007-10-20,2007-11-17,101,4
+247,The River,Good Charlotte Featuring M. Shadows And Synyster Gates,26,2007-04-07,2007-04-21,99,3
+248,1973,James Blunt,34,2007-08-25,2007-10-20,99,4
+249,Watching You,Rodney Atkins,47,2007-01-06,2007-02-24,99,8
+250,Straight To The Bank,50 Cent,25,2007-05-26,2007-06-09,97,3
+251,She's Everything,Brad Paisley,55,2007-01-06,2007-02-24,97,8
+252,Never Too Late,Three Days Grace,60,2007-09-22,2007-11-24,97,10
+253,From Where You Are,Lifehouse,19,2007-11-24,2007-12-01,94,2
+254,I'm Shipping Up To Boston,Dropkick Murphys,45,2007-03-10,2007-11-17,94,6
+255,Anyway,Martina McBride,24,2007-03-03,2007-05-12,93,4
+256,Jump To The Rhythm,Jordan Pruitt,33,2007-01-27,2007-02-10,93,3
+257,Say,John Mayer,29,2007-12-08,2007-12-29,91,4
+258,Say Goodbye,Chris Brown,36,2007-01-06,2007-01-27,90,4
+259,You Can't Stop The Beat,Cast Of Hairspray,40,2007-08-04,2007-08-25,84,4
+260,Little Wonders,Rob Thomas,57,2007-04-28,2007-06-02,81,6
+261,Thriller,Michael Jackson,35,2007-11-10,2007-11-17,79,2
+262,Buttons,The Pussycat Dolls Feat. Snoop Dogg,50,2007-01-06,2007-03-24,79,6
+263,Until The End Of Time,Justin Timberlake Duet With Beyonce,27,2007-12-15,2007-12-22,78,2
+264,How Do I Breathe,Mario,48,2007-07-14,2007-08-11,78,5
+265,Wanted Dead Or Alive,Bon Jovi,25,2007-05-19,2007-05-26,77,2
+266,Fake It,Seether,55,2007-11-03,2007-12-29,76,9
+267,All For One,High School Musical 2 Cast,35,2007-09-01,2007-09-08,75,2
+268,Jingle Bell Rock,Bobby Helms,45,2007-12-15,2007-12-29,75,3
+269,This Love,Maroon 5,41,2007-06-02,2007-06-16,74,3
+270,Because Of You,Reba McEntire Duet With Kelly Clarkson,43,2007-07-14,2007-10-06,74,4
+271,Stairway To Heaven,Led Zeppelin,30,2007-12-01,2007-12-08,72,2
+272,This Christmas,Chris Brown,41,2007-12-08,2007-12-29,71,3
+273,Work That,Mary J. Blige,34,2007-12-15,2007-12-22,70,2
+274,Up To The Mountain,Kelly Clarkson Featuring Jeff Beck,35,2007-05-12,2007-05-19,69,2
+275,Read My Mind,The Killers,54,2007-04-14,2007-05-12,69,5
+276,She Will Be Loved,Maroon 5,45,2007-06-09,2007-06-23,64,3
+277,Look After You,The Fray,58,2007-03-31,2007-04-28,64,5
+278,Promise,Ciara,48,2007-01-06,2007-02-24,62,5
+279,You Don't Know,"Eminem, 50 Cent, Lloyd Banks & Ca$his",33,2007-01-06,2007-01-13,61,2
+280,Go Girl,Pitbull Featuring Trina & Young Bo$$,46,2007-12-15,2007-12-29,60,3
+281,Dirty Little Secret,The All-American Rejects,49,2007-01-13,2007-01-27,60,3
+282,Shadowplay,The Killers,17,2007-11-03,2007-11-03,59,1
+283,You Give Love A Bad Name,Bon Jovi,29,2007-05-19,2007-05-26,59,2
+284,Pop Bottles,Birdman Featuring Lil Wayne,40,2007-09-22,2007-12-29,58,4
+285,Livin' On A Prayer,Bon Jovi,30,2007-05-19,2007-05-26,57,2
+286,crushcrushcrush,Paramore,52,2007-12-08,2007-12-29,57,4
+287,Somewhere Only We Know,Keane,26,2007-03-10,2007-03-17,56,2
+288,Don't Stop The Music,Rihanna,32,2007-12-22,2007-12-29,55,2
+289,Dance Tonight,Paul McCartney,46,2007-07-07,2007-07-14,55,2
+290,Show Stopper,Danity Kane,42,2007-01-06,2007-01-27,54,4
+291,Hip Hop Is Dead,Nas Featuring will.i.am,25,2007-01-06,2007-01-13,53,2
+292,If I Had Eyes,Jack Johnson,25,2007-12-29,2007-12-29,51,1
+293,Be Without You,Mary J. Blige,25,2007-03-03,2007-03-03,51,1
+294,Dashboard,Modest Mouse,45,2007-02-17,2007-04-07,50,2
+295,Good Directions,Billy Currington,64,2007-05-26,2007-06-30,50,6
+296,Listen,Beyonce,49,2007-01-20,2007-03-17,49,4
+297,Santa Claus Is Comin' To Town,Bruce Springsteen,48,2007-12-22,2007-12-29,47,2
+298,I Write Sins Not Tragedies,Panic! At The Disco,54,2007-01-13,2007-01-27,47,3
+299,A Broken Wing,Jordin Sparks,46,2007-06-09,2007-06-16,46,2
+300,Crazy Bitch,Buckcherry,62,2007-10-06,2007-11-10,46,6
+301,Hip Hop Police,Chamillionaire Featuring Slick Rick,62,2007-09-01,2007-09-22,45,4
+302,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",49,2007-11-10,2007-11-17,44,2
+303,Hero/Heroine,Boys Like Girls,51,2007-12-22,2007-12-29,44,2
+304,Feliz Navidad,Jose Feliciano,58,2007-01-06,2007-12-29,44,4
+305,You Know I'm No Good,Amy Winehouse Featuring Ghostface Killah,53,2007-05-12,2007-06-30,43,4
+306,Beautiful Flower,India.Arie,34,2007-06-16,2007-06-16,42,1
+307,That's How You Know,Amy Adams,53,2007-12-08,2007-12-15,40,2
+308,Stuntin' Like My Daddy,Birdman & Lil Wayne,59,2007-01-06,2007-01-20,40,3
+309,Movin' On,Elliott Yamin,37,2007-03-17,2007-03-17,39,1
+310,Girlfriend,Bow Wow & Omarion,38,2007-12-29,2007-12-29,38,1
+311,Say (All I Need),OneRepublic,57,2007-12-08,2007-12-22,38,3
+312,When The Stars Go Blue,Tim McGraw,39,2007-05-05,2007-05-05,37,1
+313,Superstar,Lupe Fiasco Featuring Matthew Santos,39,2007-12-29,2007-12-29,37,1
+314,You're Beautiful,James Blunt,43,2007-02-24,2007-03-03,37,2
+315,Lost,Faith Hill,40,2007-07-07,2007-07-07,36,1
+316,Kashmir,Led Zeppelin,42,2007-12-01,2007-12-01,34,1
+317,Makes Me Happy,Drake Bell,45,2007-08-18,2007-08-25,34,2
+318,Coffee Shop,Yung Joc Featuring Gorilla Zoe,48,2007-09-15,2007-09-22,33,2
+319,Tarantula,The Smashing Pumpkins,44,2007-06-09,2007-06-09,32,1
+320,Like A Star,Corinne Bailey Rae,44,2007-03-03,2007-03-03,32,1
+321,Flathead,The Fratellis,59,2007-03-24,2007-03-31,32,2
+322,Easy,Paula DeAnda Featuring Bow Wow,61,2007-09-01,2007-09-15,32,3
+323,Geek In The Pink,Jason Mraz,45,2007-03-17,2007-03-17,31,1
+324,Blaze Of Glory,Jon Bon Jovi,45,2007-05-19,2007-05-19,31,1
+325,Sorry,Buckcherry,45,2007-12-29,2007-12-29,31,1
+326,Invisible,Taylor Swift,54,2007-11-24,2007-12-01,31,2
+327,You Raise Me Up,Josh Groban & The African Children's Choir,57,2007-05-12,2007-05-19,31,2
+328,The Chanukah Song,Adam Sandler,57,2007-01-06,2007-12-22,31,2
+329,"Let It Snow, Let It Snow, Let It Snow",Michael Buble,59,2007-12-15,2007-12-22,31,2
+330,Pictures Of You,The Last Goodnight,66,2007-10-27,2007-12-01,31,5
+331,Have A Nice Day,Bon Jovi,46,2007-05-19,2007-05-19,30,1
+332,I Don't Wanna Stop,Ozzy Osbourne,52,2007-06-09,2007-06-16,30,2
+333,Do It,Nelly Furtado,55,2007-09-29,2007-10-06,29,2
+334,Signal Fire,Snow Patrol,48,2007-05-12,2007-05-12,28,1
+335,Work This Out,Zac Efron & Vanessa Anne Hudgens,57,2007-09-01,2007-09-08,27,2
+336,If We Were A Movie,Hannah Montana,57,2007-01-13,2007-01-27,27,3
+337,Santa Baby,Eartha Kitt With Henri Rene And His Orchestra,59,2007-12-22,2007-12-29,27,2
+338,Neighbor,Dixie Chicks,50,2007-03-17,2007-03-17,26,1
+339,Impacto,Daddy Yankee Featuring Fergie,50,2007-06-23,2007-06-23,26,1
+340,When You Were Young,The Killers,60,2007-01-06,2007-01-13,26,2
+341,As If,Sara Evans,56,2007-11-03,2007-11-10,25,2
+342,Radar,Britney Spears,52,2007-11-17,2007-11-17,24,1
+343,Timebomb,Beck,52,2007-09-08,2007-09-08,24,1
+344,See You Again,Miley Cyrus,53,2007-12-22,2007-12-29,24,2
+345,Int'l Players Anthem (I Choose You),UGK Featuring OutKast,54,2007-08-25,2007-09-01,24,2
+346,Bad Day,Daniel Powter,61,2007-01-13,2007-02-03,24,3
+347,Imagine,John Lennon,53,2007-09-01,2007-09-01,23,1
+348,The Simpsons Theme,Green Day,54,2007-08-11,2007-08-11,22,1
+349,Only Promise That Remains,Reba McEntire Duet With Justin Timberlake,55,2007-10-06,2007-10-06,21,1
+350,Purple Rain,Prince And The Revolution,55,2007-02-24,2007-02-24,21,1
+351,All Good Things (Come To An End),Nelly Furtado,63,2007-06-16,2007-06-23,21,2
+352,Vulnerable,Secondhand Serenade,56,2007-05-26,2007-05-26,20,1
+353,White Christmas,Bing Crosby,66,2007-12-15,2007-12-22,20,2
+354,Eh Hee,Dave Matthews & Tim Reynolds,57,2007-09-22,2007-09-22,19,1
+355,It's My Life,Bon Jovi,58,2007-05-19,2007-05-19,18,1
+356,I Who Have Nothing,Jordin Sparks,58,2007-06-09,2007-06-09,18,1
+357,The Story (I Was Made For You),Brandi Carlile,58,2007-04-28,2007-04-28,18,1
+358,Kiss From A Rose,Seal,58,2007-02-17,2007-02-17,18,1
+359,Radio Nowhere,Bruce Springsteen,58,2007-10-20,2007-10-20,18,1
+360,Don't Shoot Me Santa,The Killers,58,2007-12-15,2007-12-15,18,1
+361,Lesson Learned,Alicia Keys Featuring John Mayer,59,2007-12-01,2007-12-01,17,1
+362,My Sweet Lord,George Harrison,59,2007-10-27,2007-10-27,17,1
+363,This Ain't A Love Song,Bon Jovi,59,2007-05-19,2007-05-19,17,1
+364,"Jesus, Take The Wheel",Carrie Underwood,63,2007-03-03,2007-05-05,17,2
+365,Show Me What You Got,JAY-Z,65,2007-01-06,2007-01-13,15,2
+366,Outside Looking In,Jordan Pruitt,62,2007-02-24,2007-02-24,14,1
+367,Somewhere Over The Rainbow,"Israel ""IZ"" Kamakawiwo'Ole",62,2007-03-10,2007-03-10,14,1
+368,Pressure,Paramore,62,2007-09-01,2007-09-01,14,1
+369,Almost Lover,A Fine Frenzy,62,2007-12-15,2007-12-15,14,1
+370,I'll Still Kill,50 Cent,62,2007-09-29,2007-09-29,14,1
+371,Over The Hills And Far Away,Led Zeppelin,63,2007-12-01,2007-12-01,13,1
+372,Gravity,John Mayer,63,2007-03-03,2007-03-03,13,1
+373,Not Fade Away,Sheryl Crow,63,2007-02-24,2007-02-24,13,1
+374,My Little Girl,Tim McGraw,65,2007-01-06,2007-01-13,13,2
+375,He Said She Said,Ashley Tisdale,65,2007-01-27,2007-12-01,13,2
+376,In The Ghetto,Elvis & Lisa Marie Presley,69,2007-09-01,2007-09-29,13,2
+377,I'm Only Me When I'm With You,Taylor Swift,64,2007-11-24,2007-11-24,12,1
+378,A Different World,Bucky Covington,64,2007-05-05,2007-05-05,12,1
+379,You And Me,Lifehouse,64,2007-07-07,2007-07-07,12,1
+380,Earth Intruders,Bjork,65,2007-04-28,2007-04-28,11,1
+381,When Did Your Heart Go Missing?,Rooney,66,2007-09-22,2007-10-13,11,2
+382,Ain't No Other Man,Christina Aguilera,68,2007-01-13,2007-01-20,11,2
+383,Peep Show,50 Cent,66,2007-09-29,2007-09-29,10,1
+384,The Hand Clap,Hurricane Chris Featuring Big Poppa,66,2007-11-10,2007-11-10,10,1
+385,Survivalism,Nine Inch Nails,66,2007-03-31,2007-03-31,10,1
+386,Black Dog,Led Zeppelin,66,2007-12-01,2007-12-01,10,1
+387,Realize,Colbie Caillat,68,2007-10-27,2007-11-03,10,2
+388,Break 'Em Off,Paul Wall Featuring Lil' KeKe,67,2007-03-10,2007-03-10,9,1
+389,Freak On A Leash (Unplugged),Korn Featuring Amy Lee,67,2007-03-03,2007-03-03,9,1
+390,You Raise Me Up,Josh Groban,67,2007-05-12,2007-05-12,9,1
+391,End Of The Line,Traveling Wilburys,67,2007-06-30,2007-06-30,9,1
+392,Time Of The Season,The Zombies,67,2007-04-07,2007-04-07,9,1
+393,Be Good To Me,Ashley Tisdale,68,2007-02-24,2007-02-24,8,1
+394,Tell Me 'Bout It,Joss Stone,68,2007-04-07,2007-04-07,8,1
+395,Nessun Dorma,Luciano Pavarotti,68,2007-09-22,2007-09-22,8,1
+396,Kiss The Girl,Ashley Tisdale,68,2007-04-21,2007-04-21,8,1
+397,Where Are You Christmas?,Faith Hill,68,2007-12-22,2007-12-22,8,1
+398,Unwritten,Natasha Bedingfield,69,2007-02-17,2007-02-24,8,2
+399,In The End,Linkin Park,71,2007-03-24,2007-04-21,8,2
+400,Red High Heels,Kellie Pickler,72,2007-02-03,2007-02-10,8,2
+401,Imagine,Jack Johnson,69,2007-07-07,2007-07-07,7,1
+402,Everything's Magic,Angels & Airwaves,69,2007-11-24,2007-11-24,7,1
+403,Won't Go Home Without You,Maroon 5,69,2007-12-29,2007-12-29,7,1
+404,Don't Cha,The Pussycat Dolls,69,2007-03-24,2007-03-24,7,1
+405,Black Horse & The Cherry Tree,KT Tunstall,71,2007-01-20,2007-02-10,7,2
+406,Time Of The Season,Blake Lewis,70,2007-06-09,2007-06-09,6,1
+407,Crazy Car,The Naked Brothers Band,71,2007-02-17,2007-02-17,5,1
+408,Immigrant Song,Led Zeppelin,71,2007-12-01,2007-12-01,5,1
+409,Ridin',Chamillionaire Feat. Krayzie Bone,71,2007-01-13,2007-01-13,5,1
+410,Bless The Broken Road,Rascal Flatts,71,2007-02-03,2007-02-03,5,1
+411,Handle With Care,Traveling Wilburys,71,2007-06-30,2007-06-30,5,1
+412,Falling In Love At A Coffee Shop,Landon Pigg,71,2007-12-29,2007-12-29,5,1
+413,Before It's Too Late (Sam And Mikaela's Theme),Goo Goo Dolls,73,2007-07-21,2007-07-28,5,2
+414,Umbrella,Marie Digby,72,2007-09-01,2007-09-01,4,1
+415,The Chipmunk Song (Christmas Don't Be Late),David Seville & The Chipmunks,72,2007-12-22,2007-12-22,4,1
+416,G.N.O. (Girl's Night Out),Miley Cyrus,72,2007-07-14,2007-07-14,4,1
+417,Time After Time,Quietdrive,73,2007-09-08,2007-09-08,3,1
+418,Circle,Marques Houston,73,2007-03-17,2007-03-17,3,1
+419,Whatever U Like,Nicole Scherzinger Featuring T.I.,73,2007-09-29,2007-09-29,3,1
+420,Underclass Hero,Sum 41,73,2007-08-11,2007-08-11,3,1
+421,Make Some Noise,Hannah Montana,73,2007-07-14,2007-07-14,3,1
+422,Hey Jude,Joe Anderson,73,2007-10-06,2007-10-06,3,1
+423,Hot,Avril Lavigne,73,2007-12-08,2007-12-08,3,1
+424,Sensual Seduction,Snoop Dogg,74,2007-12-29,2007-12-29,2,1
+425,SOS,Rihanna,74,2007-01-20,2007-01-20,2,1
+426,Without Love,"Zac Efron, Nikki Blonsky, Elijah Kelley & Amanda Bynes",74,2007-08-11,2007-08-11,2,1
+427,Keep Your Mind Wide Open,AnnaSophia Robb,74,2007-03-10,2007-03-10,2,1
+428,Inconsolable,Backstreet Boys,75,2007-09-29,2007-09-29,1,1
+429,Break The Ice,Britney Spears,75,2007-11-17,2007-11-17,1,1
+430,I Run This,Birdman Featuring Lil Wayne,75,2007-12-29,2007-12-29,1,1

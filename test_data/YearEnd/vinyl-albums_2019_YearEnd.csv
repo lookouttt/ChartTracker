@@ -1,0 +1,439 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Greatest Hits,Queen,1,2019-01-05,2019-12-28,985,51
+2,Abbey Road,The Beatles,1,2019-01-05,2019-12-28,944,51
+3,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,1,2019-04-13,2019-12-28,848,38
+4,Guardians Of The Galaxy: Awesome Mix Vol. 1,Soundtrack,2,2019-01-05,2019-12-28,843,51
+5,The Dark Side Of The Moon,Pink Floyd,2,2019-01-05,2019-12-28,743,51
+6,Bohemian Rhapsody (Soundtrack),Queen,1,2019-02-23,2019-12-28,622,39
+7,Legend: The Best Of...,Bob Marley And The Wailers,6,2019-01-05,2019-12-28,589,50
+8,Thriller,Michael Jackson,1,2019-01-05,2019-12-28,572,49
+9,Rumours,Fleetwood Mac,2,2019-01-05,2019-12-28,410,34
+10,Back To Black,Amy Winehouse,4,2019-01-05,2019-12-28,333,44
+11,Purple Rain (Soundtrack),Prince And The Revolution,5,2019-01-05,2019-12-28,323,37
+12,Dont Smile At Me,Billie Eilish,1,2019-01-12,2019-12-28,314,30
+13,Chronicle The 20 Greatest Hits,Creedence Clearwater Revival,12,2019-01-05,2019-12-28,290,33
+14,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,9,2019-01-05,2019-12-28,182,25
+15,American Teen,Khalid,9,2019-01-05,2019-12-21,179,23
+16,Ultimate Sinatra,Frank Sinatra,5,2019-05-25,2019-12-28,147,16
+17,MTV Unplugged In New York,Nirvana,1,2019-08-24,2019-12-28,143,11
+18,Golden Hour,Kacey Musgraves,3,2019-02-23,2019-12-28,143,16
+19,A Star Is Born (Soundtrack),Lady Gaga & Bradley Cooper,3,2019-01-05,2019-05-25,136,12
+20,A Charlie Brown Christmas (Soundtrack),Vince Guaraldi Trio,4,2019-11-16,2019-12-28,132,7
+21,Legacy,Garth Brooks,2,2019-11-16,2019-12-28,115,6
+22,Stranger Things 3: Music From The Netflix Original Series,Soundtrack,1,2019-08-10,2019-12-14,113,9
+23,Help Us Stranger,The Raconteurs,1,2019-07-06,2019-08-17,110,6
+24,Born To Die,Lana Del Rey,3,2019-01-05,2019-12-28,109,18
+25,"good kid, m.A.A.d city",Kendrick Lamar,14,2019-01-05,2019-09-14,109,20
+26,Lover,Taylor Swift,1,2019-11-30,2019-12-28,100,5
+27,Norman Fucking Rockwell!,Lana Del Rey,2,2019-09-14,2019-10-12,96,5
+28,IGOR,"Tyler, The Creator",2,2019-10-19,2019-11-23,94,6
+29,SOUND & FURY,Sturgill Simpson,1,2019-10-12,2019-11-16,79,5
+30,Cuz I Love You,Lizzo,3,2019-10-12,2019-11-09,77,5
+31,Father Of The Bride,Vampire Weekend,1,2019-05-18,2019-06-15,73,4
+32,Greatest Hits,Fleetwood Mac,7,2019-01-05,2019-03-23,73,10
+33,'Let's Rock',The Black Keys,1,2019-07-13,2019-08-03,72,4
+34,"Wasteland, Baby!",Hozier,1,2019-03-16,2019-04-06,70,4
+35,Kind Of Blue,Miles Davis,10,2019-01-05,2019-05-18,65,8
+36,The Greatest Showman,Soundtrack,6,2019-01-19,2019-12-21,64,8
+37,Western Stars,Bruce Springsteen,1,2019-06-29,2019-07-13,63,3
+38,Trench,twenty one pilots,3,2019-01-05,2019-02-16,62,6
+39,Heard It In A Past Life,Maggie Rogers,1,2019-02-02,2019-02-16,60,3
+40,Swimming,Mac Miller,8,2019-02-16,2019-04-20,57,7
+41,Anima,Thom Yorke,1,2019-08-03,2019-08-17,53,3
+42,I Am Easy To Find,The National,1,2019-06-01,2019-06-15,53,3
+43,The Beatles [White Album],The Beatles,8,2019-01-05,2019-02-23,53,5
+44,"Thank U, Next",Ariana Grande,3,2019-05-18,2019-12-14,52,5
+45,"i,i",Bon Iver,1,2019-09-14,2019-09-28,50,3
+46,Ode To Joy,Wilco,1,2019-10-19,2019-11-02,49,3
+47,Unknown Pleasures,Joy Division,6,2019-06-29,2019-07-20,49,4
+48,On The Line,Jenny Lewis,1,2019-04-06,2019-04-20,48,3
+49,Jaime,Brittany Howard,2,2019-10-05,2019-10-19,47,3
+50,Stranger Things: Music From The Netflix Original Series,Soundtrack,10,2019-07-20,2019-08-10,47,4
+51,Free Spirit,Khalid,3,2019-06-15,2019-12-07,45,5
+52,Anthem Of The Peaceful Army,Greta Van Fleet,8,2019-01-12,2019-03-02,44,5
+53,K-12 (Soundtrack),Melanie Martinez,1,2019-09-21,2019-10-05,43,3
+54,Infest The Rats' Nest,King Gizzard And The Lizard Wizard,1,2019-08-31,2019-09-07,42,2
+55,Age Of Unreason,Bad Religion,3,2019-05-18,2019-06-29,42,2
+56,III,The Lumineers,1,2019-09-28,2019-10-05,41,2
+57,The Highwomen,The Highwomen,2,2019-11-02,2019-11-09,40,2
+58,South Of Reality,Claypool Lennon Delirium,2,2019-03-09,2019-03-23,40,3
+59,Weezer (Teal Album),Weezer,3,2019-04-27,2019-06-01,40,2
+60,All Mirrors,Angel Olsen,4,2019-10-19,2019-10-26,38,2
+61,Here Comes The Cowboy,Mac DeMarco,3,2019-05-25,2019-06-01,37,2
+62,Greatest Hits,Red Hot Chili Peppers,6,2019-02-02,2019-02-09,37,2
+63,Desert Sessions 11 & 12,Desert Sessions,1,2019-11-09,2019-11-16,35,2
+64,Weezer (Black Album),Weezer,3,2019-03-16,2019-03-23,35,2
+65,Nine,Blink-182,1,2019-10-05,2019-10-12,34,2
+66,Bandana,Freddie Gibbs & Madlib,3,2019-08-10,2019-08-17,34,2
+67,Forever Turned Around,Whitney,7,2019-09-14,2019-09-21,33,2
+68,U.F.O.F.,Big Thief,2,2019-05-18,2019-05-25,31,2
+69,This Land,Gary Clark Jr.,4,2019-03-09,2019-03-16,31,2
+70,Better Oblivion Community Center,Better Oblivion Community Center,3,2019-03-09,2019-04-06,29,2
+71,Nothing Happens,Wallows,3,2019-04-06,2019-04-13,29,2
+72,Diamonds,Elton John,18,2019-07-13,2019-12-28,29,7
+73,Two Hands,Big Thief,1,2019-10-26,2019-11-02,28,2
+74,Signs,Tedeschi Trucks Band,4,2019-03-02,2019-03-09,28,2
+75,Pray For The Wicked,Panic! At The Disco,17,2019-01-05,2019-05-04,28,5
+76,Live And Loud,Nirvana,3,2019-09-14,2019-09-21,27,2
+77,Remind Me Tomorrow,Sharon Van Etten,3,2019-02-02,2019-02-09,27,2
+78,Flamagra,Flying Lotus,1,2019-06-08,2019-06-15,26,2
+79,From The Fires,Greta Van Fleet,3,2019-04-27,2019-05-04,26,2
+80,Coming Home,Leon Bridges,10,2019-01-12,2019-01-26,26,2
+81,Honk,The Rolling Stones,1,2019-05-04,2019-05-04,25,1
+82,Ghosteen,Nick Cave And The Bad Seeds,1,2019-11-23,2019-11-23,25,1
+83,Country Squire,Tyler Childers,1,2019-08-17,2019-08-17,25,1
+84,In League With Dragons,The Mountain Goats,1,2019-05-11,2019-05-11,25,1
+85,Super Show! Television Soundtrack: Volume One,The Aquabats!,1,2019-06-22,2019-06-22,25,1
+86,Fine Line,Harry Styles,1,2019-12-28,2019-12-28,25,1
+87,A Different Shade Of Blue,Knocked Loose,1,2019-09-07,2019-09-07,25,1
+88,Blood On The Tracks: Test Pressing,Bob Dylan,1,2019-04-27,2019-04-27,25,1
+89,Weezer,Weezer,9,2019-07-27,2019-08-03,25,2
+90,Mother Earth's Plantasia,Mort Garson,2,2019-07-06,2019-07-06,24,1
+91,You Are OK,The Maine,2,2019-04-13,2019-04-13,24,1
+92,Tuscaloosa,Neil Young & Stray Gators,2,2019-06-22,2019-06-22,24,1
+93,Gold & Grey,Baroness,2,2019-06-29,2019-06-29,24,1
+94,Fishing For Fishies,King Gizzard And The Lizard Wizard,2,2019-05-11,2019-05-11,24,1
+95,Morbid Stuff,PUP,2,2019-04-20,2019-04-20,24,1
+96,Springsteen On Broadway,Bruce Springsteen,2,2019-02-09,2019-02-09,24,1
+97,The Center Won't Hold,Sleater-Kinney,2,2019-08-31,2019-08-31,24,1
+98,Birth Of Violence,Chelsea Wolfe,2,2019-09-28,2019-09-28,24,1
+99,Hangin' Tough,New Kids On The Block,2,2019-03-23,2019-03-23,24,1
+100,We Are Not Your Kind,Slipknot,2,2019-08-24,2019-08-24,24,1
+101,Hello Exile,The Menzingers,2,2019-10-19,2019-10-19,24,1
+102,FEVER DREAM,Of Monsters And Men,2,2019-08-10,2019-08-10,24,1
+103,Originals,Prince,2,2019-08-03,2019-08-03,24,1
+104,Green Day Live!: Woodstock 1994,Green Day,2,2019-04-27,2019-04-27,24,1
+105,American Football (LP3),American Football,2,2019-04-06,2019-04-06,24,1
+106,Oh My God,Kevin Morby,9,2019-05-11,2019-05-18,24,2
+107,Halloween (2018) (Expanded Edition),Soundtrack,3,2019-11-02,2019-11-02,23,1
+108,California Son,Morrissey,3,2019-06-08,2019-06-08,23,1
+109,None More Negative,Type O Negative,3,2019-10-05,2019-10-05,23,1
+110,MTV Unplugged,Pearl Jam,3,2019-12-14,2019-12-14,23,1
+111,Colorado,Neil Young / Crazy Horse,3,2019-11-09,2019-11-09,23,1
+112,Gallipoli,Beirut,3,2019-02-16,2019-02-16,23,1
+113,Purple Mountains,Purple Mountains,3,2019-07-27,2019-07-27,23,1
+114,The Act,The Devil Wears Prada,3,2019-10-26,2019-10-26,23,1
+115,amo,Bring Me The Horizon,3,2019-02-09,2019-02-09,23,1
+116,Guy,Steve Earle & The Dukes,3,2019-04-13,2019-04-13,23,1
+117,Social Cues,Cage The Elephant,3,2019-05-04,2019-05-04,23,1
+118,Ride Waves,GRiZ,3,2019-04-20,2019-04-20,23,1
+119,House Of Sugar,(Sandy) Alex G,3,2019-09-28,2019-09-28,23,1
+120,The Devil You Know,The Coathangers,3,2019-03-23,2019-03-23,23,1
+121,Monster,R.E.M.,3,2019-11-16,2019-11-16,23,1
+122,Musicology,Prince,3,2019-02-23,2019-02-23,23,1
+123,Dragons,Drew Holcomb And The Neighbors,3,2019-08-31,2019-08-31,23,1
+124,?,XXXTENTACION,3,2019-09-21,2019-09-21,23,1
+125,Leaving Meaning.,Swans,4,2019-11-09,2019-11-09,22,1
+126,Peach Club,Emarosa,4,2019-02-23,2019-02-23,22,1
+127,Blue World,John Coltrane,4,2019-10-12,2019-10-12,22,1
+128,Some Rap Songs,Earl Sweatshirt,4,2019-02-09,2019-02-09,22,1
+129,The Best Of Everything: The Definitive Career Spanning Hits Collection,Tom Petty And The Heartbreakers,4,2019-03-16,2019-03-16,22,1
+130,In The Zone,Britney Spears,4,2019-08-31,2019-08-31,22,1
+131,ZUU,Denzel Curry,4,2019-08-24,2019-08-24,22,1
+132,Finch,Penny & Sparrow,4,2019-08-17,2019-08-17,22,1
+133,Phoenix,Pedro The Lion,4,2019-02-02,2019-02-02,22,1
+134,Our Endless Numbered Days,Iron & Wine,4,2019-04-06,2019-04-06,22,1
+135,Hurts 2B Human,P!nk,4,2019-07-06,2019-07-06,22,1
+136,Nothing Left To Love,Counterparts,4,2019-11-16,2019-11-16,22,1
+137,Madame X,Madonna,4,2019-06-29,2019-06-29,22,1
+138,A Saucerful Of Secrets,Pink Floyd,4,2019-04-27,2019-04-27,22,1
+139,Ghosts Of The Forest,Trey Anastasio,4,2019-06-08,2019-06-08,22,1
+140,Living Mirage,The Head And The Heart,4,2019-06-01,2019-06-01,22,1
+141,Fever Breaks,Josh Ritter,4,2019-05-11,2019-05-11,22,1
+142,Pep Talks,Judah & The Lion,4,2019-05-18,2019-05-18,22,1
+143,Cry,Cigarettes After Sex,5,2019-11-09,2019-11-09,21,1
+144,"Warfield: San Francisco, California, October 9th, 1980 / October 10th, 1980",Grateful Dead,5,2019-04-27,2019-04-27,21,1
+145,Panorama,La Dispute,5,2019-04-06,2019-04-06,21,1
+146,Weather,Tycho,5,2019-07-27,2019-07-27,21,1
+147,Be Good,Off With Their Heads,5,2019-09-07,2019-09-07,21,1
+148,Outer Peace,Toro y Moi,5,2019-02-02,2019-02-02,21,1
+149,Fandom,Waterparks,5,2019-10-26,2019-10-26,21,1
+150,You're Welcome,Cokie The Clown,5,2019-05-11,2019-05-11,21,1
+151,Deceiver,DIIV,5,2019-10-19,2019-10-19,21,1
+152,Blood Year,Russian Circles,5,2019-08-17,2019-08-17,21,1
+153,Sunshine Rock,Bob Mould,5,2019-02-23,2019-02-23,21,1
+154,RAMMSTEIN,Rammstein,5,2019-06-01,2019-06-01,21,1
+155,beerbongs & bentleys,Post Malone,5,2019-02-09,2019-02-09,21,1
+156,Tides Of A Teardrop,Mandolin Orange,5,2019-02-16,2019-02-16,21,1
+157,By & By,CAAMP,5,2019-08-10,2019-08-10,21,1
+158,The Ocean And The Sun,The Sound Of Animals Fighting,5,2019-06-29,2019-06-29,21,1
+159,The Nothing,Korn,5,2019-09-28,2019-09-28,21,1
+160,Time 'N' Place,Kero Kero Bonito,5,2019-01-26,2019-01-26,21,1
+161,The Division Bell,Pink Floyd,5,2019-06-22,2019-06-22,21,1
+162,Black Pumas,Black Pumas,5,2019-07-06,2019-07-06,21,1
+163,Jason Isbell And The 400 Unit,Jason Isbell And The 400 Unit,6,2019-11-02,2019-11-02,20,1
+164,17,XXXTENTACION,6,2019-01-19,2019-01-19,20,1
+165,III,Masked Intruder,6,2019-03-16,2019-03-16,20,1
+166,Hell Freezes Over,Eagles,6,2019-03-23,2019-03-23,20,1
+167,You're The Man,Marvin Gaye,6,2019-04-13,2019-04-13,20,1
+168,Periphery IV: Hail Stan,Periphery,6,2019-04-20,2019-04-20,20,1
+169,The Alternate Fleetwood Mac,Fleetwood Mac,6,2019-04-27,2019-04-27,20,1
+170,Oops!...I Did It Again,Britney Spears,6,2019-05-11,2019-05-11,20,1
+171,Rhino's Choice,Dave Matthews Band,6,2019-06-29,2019-06-29,20,1
+172,"Elvis: International Hotel, Las Vegas, Nevada August 26, 1969",Elvis Presley,6,2019-08-24,2019-08-24,20,1
+173,Cuphead: Selected Tunes From,Soundtrack,6,2019-09-14,2019-09-14,20,1
+174,Keep It Together,Guster,6,2019-09-21,2019-09-21,20,1
+175,The Versace Experience: Prelude 2 Gold,Prince,6,2019-09-28,2019-09-28,20,1
+176,In The Morse Code Of Brake Lights,The New Pornographers,6,2019-10-12,2019-10-12,20,1
+177,Quentin Tarantino's Once Upon A Time In Hollywood,Soundtrack,6,2019-11-09,2019-11-09,20,1
+178,"Travelin' Thru: The Bootleg Series, Vol. 15: 1967 - 1969",Bob Dylan Featuring Johnny Cash,6,2019-11-16,2019-11-16,20,1
+179,Destroyer,KISS,10,2019-12-07,2019-12-14,20,2
+180,Watchmen: Vol. 01 (Soundtrack),Trent Reznor And Atticus Ross,15,2019-11-16,2019-11-23,20,2
+181,Malibu Ken,Aesop Rock And TABACCO Are Malibu Ken,7,2019-02-02,2019-02-02,19,1
+182,3121,Prince,7,2019-02-23,2019-02-23,19,1
+183,His Majesty's Pop Life / The Purple Mix Club,Prince,7,2019-04-27,2019-04-27,19,1
+184,KISSWORLD: The Best,KISS,7,2019-04-13,2019-04-13,19,1
+185,Dots And Loops,Stereolab,7,2019-09-28,2019-09-28,19,1
+186,The Blue EP,Death Cab For Cutie,7,2019-09-21,2019-09-21,19,1
+187,No.6 Collaborations Project,Ed Sheeran,7,2019-07-27,2019-07-27,19,1
+188,Greatest Hits,Spice Girls,7,2019-07-13,2019-07-13,19,1
+189,Magdalene,FKA twigs,7,2019-11-23,2019-11-23,19,1
+190,Whiskey Myers,Whiskey Myers,7,2019-10-12,2019-10-12,19,1
+191,Titanic Rising,Weyes Blood,7,2019-04-20,2019-04-20,19,1
+192,XX / 20,Taking Back Sunday,7,2019-01-26,2019-01-26,19,1
+193,Order In Decline,Sum 41,7,2019-08-03,2019-08-03,19,1
+194,Surviving,Jimmy Eat World,7,2019-11-02,2019-11-02,19,1
+195,Thrashing Thru The Passion,The Hold Steady,8,2019-08-31,2019-08-31,18,1
+196,Live At Easy Street (EP),Pearl Jam,8,2019-04-27,2019-04-27,18,1
+197,Persuasion System,Com Truise,8,2019-06-01,2019-06-01,18,1
+198,Trauma,I Prevail,8,2019-04-13,2019-04-13,18,1
+199,GIRL,Maren Morris,8,2019-04-20,2019-04-20,18,1
+200,Defeater,Defeater,8,2019-05-25,2019-05-25,18,1
+201,Blood On The Tracks,Bob Dylan,8,2019-08-24,2019-08-24,18,1
+202,Hi This Is Flume: Mixtape,Flume,8,2019-09-14,2019-09-14,18,1
+203,Building Balance,Allen Stone,8,2019-11-23,2019-11-23,18,1
+204,Why Hasn't Everything Already Disappeared?,Deerhunter,8,2019-02-02,2019-02-02,18,1
+205,My Finest Work Yet,Andrew Bird,8,2019-04-06,2019-04-06,18,1
+206,Buoys,Panda Bear,8,2019-02-23,2019-02-23,18,1
+207,Interrobang,Bayside,9,2019-10-19,2019-10-19,17,1
+208,Icon: Frank Sinatra,Frank Sinatra,9,2019-12-07,2019-12-07,17,1
+209,Routine Maintenance,Aaron West And The Roaring Twenties,9,2019-05-25,2019-05-25,17,1
+210,Blackout,Britney Spears,9,2019-11-09,2019-11-09,17,1
+211,40,Stray Cats,9,2019-06-08,2019-06-08,17,1
+212,Walk The Sky,Alter Bridge,9,2019-11-02,2019-11-02,17,1
+213,Southernplayalisticadillacmuzik,OutKast,9,2019-08-17,2019-08-17,17,1
+214,Antics,Interpol,9,2019-10-12,2019-10-12,17,1
+215,Hospice,The Antlers,9,2019-04-20,2019-04-20,17,1
+216,Turn Around: B-Sides & More (1978-1984),Devo,9,2019-03-30,2019-03-30,17,1
+217,Back In Black,AC/DC,18,2019-11-30,2019-12-28,17,3
+218,Stranger Things 3: Original Score From The Netflix Original Series,Soundtrack,10,2019-10-19,2019-10-19,16,1
+219,Omoiyari,Kishi Bashi,10,2019-06-15,2019-06-15,16,1
+220,Problems,The Get Up Kids,10,2019-05-25,2019-05-25,16,1
+221,How Strange Innocence,Explosions In The Sky,10,2019-08-31,2019-08-31,16,1
+222,Supermarket,Logic,10,2019-08-17,2019-08-17,16,1
+223,Admission,Torche,10,2019-07-27,2019-07-27,16,1
+224,Weeping Choir,Full Of Hell,10,2019-06-01,2019-06-01,16,1
+225,Human,dodie,10,2019-02-02,2019-02-02,16,1
+226,From Out Of Nowhere,Jeff Lynne's ELO,10,2019-11-16,2019-11-16,16,1
+227,American Love Song,Ryan Bingham,10,2019-03-02,2019-03-02,16,1
+228,Breathe,Tiny Moving Parts,10,2019-09-28,2019-09-28,16,1
+229,Chon,Chon,10,2019-06-22,2019-06-22,16,1
+230,The Story Of The Ghost,Phish,10,2019-12-14,2019-12-14,16,1
+231,Sky Blue,Townes Van Zandt,10,2019-03-23,2019-03-23,16,1
+232,"London Fog: May, 1966",The Doors,10,2019-04-27,2019-04-27,16,1
+233,Here We Rest,Jason Isbell And The 400 Unit,10,2019-11-02,2019-11-02,16,1
+234,A Night At The Opera,Queen,12,2019-03-02,2019-03-09,16,2
+235,Frozen II,Soundtrack,16,2019-11-30,2019-12-28,16,3
+236,In Cauda Venenum,Opeth,11,2019-10-12,2019-10-12,15,1
+237,Violet Street,Local Natives,11,2019-05-11,2019-05-11,15,1
+238,Greatest Hits 1974-78,The Steve Miller Band,11,2019-12-07,2019-12-07,15,1
+239,Vol. 1,Radio Company,11,2019-11-30,2019-11-30,15,1
+240,The Needle Drop,Various Artists,11,2019-11-23,2019-11-23,15,1
+241,Altogether,Turnover,11,2019-11-16,2019-11-16,15,1
+242,Imagine: The Raw Studio Mixes,John Lennon,11,2019-04-27,2019-04-27,15,1
+243,Full Upon Her Burning Lips,Earth,11,2019-06-08,2019-06-08,15,1
+244,Railer,Lagwagon,11,2019-10-19,2019-10-19,15,1
+245,LP2,Secret Band,11,2019-05-04,2019-05-04,15,1
+246,Widow's Weeds,Silversun Pickups,11,2019-06-22,2019-06-22,15,1
+247,Planet Earth,Prince,11,2019-02-23,2019-02-23,15,1
+248,Emperor Tomato Ketchup,Stereolab,11,2019-09-28,2019-09-28,15,1
+249,Helium,Homeshake,11,2019-03-02,2019-03-02,15,1
+250,Distance Over Time,Dream Theater,11,2019-03-09,2019-03-09,15,1
+251,While I'm Livin',Tanya Tucker,11,2019-09-07,2019-09-07,15,1
+252,Doolittle,Pixies,11,2019-07-27,2019-07-27,15,1
+253,It's Real,Ex Hex,11,2019-04-06,2019-04-06,15,1
+254,American Love Call,Durand Jones & The Indications,11,2019-03-16,2019-03-16,15,1
+255,Atonement,Killswitch Engage,11,2019-08-31,2019-08-31,15,1
+256,"Everything Not Saved Will Be Lost, Part 1",Foals,11,2019-03-23,2019-03-23,15,1
+257,Appetite For Destruction,Guns N' Roses,15,2019-01-05,2019-02-16,15,3
+258,Rave Un2 The Joy Fantastic,Prince,12,2019-05-11,2019-05-11,14,1
+259,Helping Hands... Live & Acoustic At The Masonic,Metallica,12,2019-02-16,2019-02-16,14,1
+260,Ashes Of The Wake,Lamb Of God,12,2019-05-18,2019-05-18,14,1
+261,Retrofuture,Tiger Army,12,2019-09-28,2019-09-28,14,1
+262,Sunset Season (EP),Conan Gray,12,2019-03-16,2019-03-16,14,1
+263,The Velvet Rope,Janet,12,2019-08-10,2019-08-10,14,1
+264,Amidst The Chaos,Sara Bareilles,12,2019-04-20,2019-04-20,14,1
+265,Terms Of Surrender,Hiss Golden Messenger,12,2019-10-05,2019-10-05,14,1
+266,Spider-Man: Into The Spider-Verse,Soundtrack,12,2019-05-04,2019-05-04,14,1
+267,Merry Christmas,Bing Crosby,18,2019-11-23,2019-11-30,14,2
+268,The Tales People Tell,Kelly Finnigan,13,2019-05-11,2019-05-11,13,1
+269,Egypt Station,Paul McCartney,13,2019-05-25,2019-05-25,13,1
+270,The Fall,Gorillaz,13,2019-04-27,2019-04-27,13,1
+271,Tiny Changes: A Celebration Of Frightened Rabbit's The Midnight Organ Fight,Various Artists,13,2019-08-10,2019-08-10,13,1
+272,Everything Hits At Once: The Best Of Spoon,Spoon,13,2019-08-31,2019-08-31,13,1
+273,North Hills,Dawes,13,2019-09-21,2019-09-21,13,1
+274,A Pill For Loneliness,City And Colour,13,2019-10-19,2019-10-19,13,1
+275,Crossing Lines,Vida Blue,13,2019-11-02,2019-11-02,13,1
+276,Pony,Rex Orange County,13,2019-11-09,2019-11-09,13,1
+277,Let It Bleed,The Rolling Stones,13,2019-11-30,2019-11-30,13,1
+278,Live From The Artists Den,Soundgarden,14,2019-08-10,2019-08-10,12,1
+279,Shepherd In A Sheepskin Vest,Bill Callahan,14,2019-06-29,2019-06-29,12,1
+280,Home,Billy Strings,14,2019-10-12,2019-10-12,12,1
+281,DNA,Backstreet Boys,14,2019-02-16,2019-02-16,12,1
+282,Immunity,Clairo,14,2019-10-19,2019-10-19,12,1
+283,Rave In2 The Joy Fantastic,Prince,14,2019-05-11,2019-05-11,12,1
+284,Big Hits [High Tide And Green Grass] (UK),The Rolling Stones,14,2019-04-27,2019-04-27,12,1
+285,The Rescue,Explosions In The Sky,14,2019-08-31,2019-08-31,12,1
+286,Electric Messiah,High On Fire,14,2019-01-19,2019-01-19,12,1
+287,A Bath Full Of Ecstasy,Hot Chip,14,2019-07-06,2019-07-06,12,1
+288,The Lighthouse,Soundtrack,14,2019-11-02,2019-11-02,12,1
+289,Discovery,Daft Punk,14,2019-05-18,2019-05-18,12,1
+290,The Biggest Hits Of Tim McGraw,Tim McGraw,14,2019-12-07,2019-12-07,12,1
+291,Look Alive,Guster,14,2019-02-02,2019-02-02,12,1
+292,÷ (Divide),Ed Sheeran,20,2019-01-05,2019-01-19,12,3
+293,Red Dead Redemption II: The Music Of,Soundtrack,15,2019-10-05,2019-10-05,11,1
+294,The Europa EP,U2,15,2019-04-27,2019-04-27,11,1
+295,Groove Denied,Stephen Malkmus,15,2019-03-30,2019-03-30,11,1
+296,Moving Pictures,Rush,15,2019-04-13,2019-04-13,11,1
+297,The Saint Of Lost Causes,Justin Townes Earle,15,2019-06-08,2019-06-08,11,1
+298,Hasta El Cielo,Khruangbin,15,2019-07-27,2019-07-27,11,1
+299,Aoxomoxoa,Grateful Dead,15,2019-06-22,2019-06-22,11,1
+300,janet.,Janet Jackson,15,2019-08-10,2019-08-10,11,1
+301,The Legacy Collection,Garth Brooks,15,2019-11-16,2019-11-16,11,1
+302,The Balance,Catfish And The Bottlemen,15,2019-05-11,2019-05-11,11,1
+303,Sonic Temple,The Cult,15,2019-09-28,2019-09-28,11,1
+304,Bonito Generation,Kero Kero Bonito,15,2019-01-26,2019-01-26,11,1
+305,Live The Love Beautiful,drivin n cryin,16,2019-07-06,2019-07-06,10,1
+306,Deserted,Gatecreeper,16,2019-10-19,2019-10-19,10,1
+307,Portrait In Jazz,Bill Evans Trio,16,2019-05-25,2019-05-25,10,1
+308,Tell All Your Friends,Taking Back Sunday,16,2019-10-26,2019-10-26,10,1
+309,Ventura,Anderson .Paak,16,2019-07-20,2019-07-20,10,1
+310,Lookout Low,Twin Peaks,16,2019-09-28,2019-09-28,10,1
+311,Pinups,David Bowie,16,2019-04-27,2019-04-27,10,1
+312,Kill Or Be Kind,Samantha Fish,16,2019-10-05,2019-10-05,10,1
+313,Union,Son Volt,16,2019-04-13,2019-04-13,10,1
+314,The Dirt (Soundtrack),Motley Crue,16,2019-04-06,2019-04-06,10,1
+315,Mars Audiac Quintet,Stereolab,16,2019-05-18,2019-05-18,10,1
+316,Prequelle,Ghost,20,2019-09-28,2019-10-12,10,2
+317,The Breadcrumbs EP,Alice Cooper,17,2019-09-28,2019-09-28,9,1
+318,Modern Mirror,Drab Majesty,17,2019-08-03,2019-08-03,9,1
+319,There Existed An Addiction To Blood,clipping.,17,2019-11-02,2019-11-02,9,1
+320,Anak Ko,Jay Som,17,2019-09-07,2019-09-07,9,1
+321,Born To Be Blue,Grant Green / Ike Quebec / Sonny Clark / Sam Jones / Louis Hayes,17,2019-11-09,2019-11-09,9,1
+322,Transient Random-Noise Bursts With Announcements,Stereolab,17,2019-05-18,2019-05-18,9,1
+323,Songs Of Armor And Devotion,Strung Out,17,2019-08-24,2019-08-24,9,1
+324,[USA],Anamanaguchi,17,2019-11-30,2019-11-30,9,1
+325,KIDS SEE GHOSTS,KIDS SEE GHOSTS,17,2019-03-30,2019-03-30,9,1
+326,4 Way Street,"Crosby, Stills, Nash & Young",17,2019-04-27,2019-04-27,9,1
+327,III,Bad Books,17,2019-07-06,2019-07-06,9,1
+328,"The Bootleg Series Vol. 5: Bob Dylan Live 1975, The Rolling Thunder Revue",Bob Dylan,18,2019-06-22,2019-06-22,8,1
+329,Chaos And Disorder,Prince,18,2019-09-28,2019-09-28,8,1
+330,Rehab Doll,Green River,18,2019-02-09,2019-02-09,8,1
+331,Honky Tonk Time Machine,George Strait,18,2019-04-13,2019-04-13,8,1
+332,Live In London,Flight Of The Conchords,18,2019-03-23,2019-03-23,8,1
+333,In Time 1988-2003: The Best Of R.E.M.,R.E.M.,18,2019-06-29,2019-06-29,8,1
+334,Mettavolution,Rodrigo y Gabriela,18,2019-05-11,2019-05-11,8,1
+335,Nugs: The Best Of The Box,Sublime,18,2019-04-27,2019-04-27,8,1
+336,Janet Jackson's Rhythm Nation 1814,Janet Jackson,18,2019-08-10,2019-08-10,8,1
+337,Lahs,Allah-Las,18,2019-10-26,2019-10-26,8,1
+338,Paul's Boutique,Beastie Boys,18,2019-10-19,2019-10-19,8,1
+339,Nella Vita,Grayscale,18,2019-09-21,2019-09-21,8,1
+340,No Man's Land,Frank Turner,18,2019-08-31,2019-08-31,8,1
+341,The Rolling Stones Rock & Roll Circus,Various Artists,19,2019-06-22,2019-06-29,8,2
+342,Led Zeppelin IV,Led Zeppelin,23,2019-01-12,2019-02-16,8,3
+343,AOKOHIO,WHY?,19,2019-09-14,2019-09-14,7,1
+344,Shrek,Soundtrack,19,2019-08-17,2019-08-17,7,1
+345,Amoeba Gig,Paul McCartney,19,2019-07-27,2019-07-27,7,1
+346,This Is Not A Safe Place,Ride,19,2019-08-31,2019-08-31,7,1
+347,SOS,Millencolin,19,2019-03-02,2019-03-02,7,1
+348,Emancipation,Prince,19,2019-09-28,2019-09-28,7,1
+349,Songs For The Deaf,Queens Of The Stone Age,19,2019-12-07,2019-12-07,7,1
+350,bi/MENTAL,Le Butcherettes,19,2019-02-16,2019-02-16,7,1
+351,Final Transmission,Cave In,19,2019-06-22,2019-06-22,7,1
+352,Dry As A Bone,Green River,19,2019-02-09,2019-02-09,7,1
+353,Black Anima,Lacuna Coil,19,2019-10-26,2019-10-26,7,1
+354,A Fine Mess (EP),Interpol,19,2019-06-01,2019-06-01,7,1
+355,Bigger Than Life,Black Marble,19,2019-11-09,2019-11-09,7,1
+356,Berserker,Amon Amarth,19,2019-05-18,2019-05-18,7,1
+357,Merry Christmas,Mariah Carey,21,2019-11-23,2019-11-30,7,2
+358,Christmas,Michael Buble,22,2019-11-23,2019-11-30,7,2
+359,Free,Iggy Pop,20,2019-09-21,2019-09-21,6,1
+360,Millennium,Backstreet Boys,20,2019-08-31,2019-08-31,6,1
+361,Love + Fear,MARINA,20,2019-05-11,2019-05-11,6,1
+362,How Much Longer Must I Wait?: Singles & Rarities 1965-1972,Lee Moses,20,2019-06-08,2019-06-08,6,1
+363,Can't Stop Won't Stop,The Maine,20,2019-02-02,2019-02-02,6,1
+364,"Through The Past, Darkly (Big Hits, Vol. 2) (UK)",The Rolling Stones,20,2019-04-27,2019-04-27,6,1
+365,Apollo: Atmospheres & Soundtracks,Brian Eno With Daniel Lanois & Roger Eno,20,2019-08-03,2019-08-03,6,1
+366,War,Demon Hunter,20,2019-03-16,2019-03-16,6,1
+367,Live At The Isle Of Wight Festival 1970,The Doors,20,2019-12-14,2019-12-14,6,1
+368,Totep (EP),Kero Kero Bonito,20,2019-01-26,2019-01-26,6,1
+369,Arthur (Or The Decline And Fall Of The British Empire),The Kinks,20,2019-11-09,2019-11-09,6,1
+370,Sonic Brew: 20th Anniversary Blend 5.99 - 5.19,Black Label Society,20,2019-06-01,2019-06-01,6,1
+371,Beyond The Door,Redd Kross,20,2019-09-07,2019-09-07,6,1
+372,Live From Moscow 1979,Elton John With Ray Cooper,21,2019-04-27,2019-04-27,5,1
+373,Spying Through A Keyhole (Demos And Unreleased Songs),David Bowie,21,2019-04-20,2019-04-20,5,1
+374,Peace,Demon Hunter,21,2019-03-16,2019-03-16,5,1
+375,Dedicated,Carly Rae Jepsen,21,2019-07-27,2019-07-27,5,1
+376,"Cash Cabin Sessions, Vol. 3",Todd Snider,21,2019-03-30,2019-03-30,5,1
+377,There Will Be Blood,Soundtrack,21,2019-02-02,2019-02-02,5,1
+378,The Traveler,Kenny Wayne Shepherd Band,21,2019-06-15,2019-06-15,5,1
+379,From The Depths Of Dreams (EP) (2019),Senses Fail,21,2019-09-21,2019-09-21,5,1
+380,"Henryk Gorecki: Symphony No. 3 ""Symphony Of Sorrowful Songs"" Op. 36",Beth Gibbons And The Polish National Radio Symphony Orchestra/Krzysztof Penderecki,21,2019-04-13,2019-04-13,5,1
+381,The Root Of All Evil,Spite,21,2019-10-26,2019-10-26,5,1
+382,Chief,Eric Church,21,2019-03-02,2019-03-02,5,1
+383,Cobra And Phases Group Play Voltage In The Milky Night,Stereolab,21,2019-09-28,2019-09-28,5,1
+384,Goes West,William Tyler,21,2019-02-09,2019-02-09,5,1
+385,Braindrops,Tropical Fuck Storm,21,2019-09-07,2019-09-07,5,1
+386,Native Tongue,Switchfoot,22,2019-02-02,2019-02-02,4,1
+387,Dusty Gems & Raw Nuggets,Weezer,22,2019-04-27,2019-04-27,4,1
+388,No Comfort,Monolord,22,2019-10-05,2019-10-05,4,1
+389,Minor Move,Tina Brooks / Lee Morgan / Sonny Clark / Dough Watkins / Art Blakey,22,2019-11-09,2019-11-09,4,1
+390,From The Screen To Your Stereo 3,New Found Glory,22,2019-05-18,2019-05-18,4,1
+391,Talk Is Cheap,Keith Richards,22,2019-04-13,2019-04-13,4,1
+392,Victory Lap,Nipsey Hussle,22,2019-07-20,2019-07-20,4,1
+393,Led Zeppelin II,Led Zeppelin,22,2019-10-19,2019-10-19,4,1
+394,Years To Burn,Calexico / Iron And Wine,22,2019-06-29,2019-06-29,4,1
+395,Texas Flood,Stevie Ray Vaughan And Double Trouble,22,2019-04-06,2019-04-06,4,1
+396,Para Mi,Cuco,22,2019-08-10,2019-08-10,4,1
+397,Origins,Imagine Dragons,22,2019-01-05,2019-01-05,4,1
+398,In The End,The Cranberries,22,2019-05-11,2019-05-11,4,1
+399,No Home Record,Kim Gordon,22,2019-10-26,2019-10-26,4,1
+400,Rocketman: Music From The Motion Picture,Soundtrack,22,2019-09-07,2019-09-07,4,1
+401,Cornbread,Lee Morgan,22,2019-07-06,2019-07-06,4,1
+402,Destroyer,Black Mountain,22,2019-06-08,2019-06-08,4,1
+403,Good At Falling,The Japanese House,23,2019-03-16,2019-03-16,3,1
+404,The Chronic,Dr. Dre,23,2019-01-05,2019-01-05,3,1
+405,Electric Lady Sessions,LCD Soundsystem,23,2019-02-23,2019-02-23,3,1
+406,Feral Roots,Rival Sons,23,2019-02-09,2019-02-09,3,1
+407,Chant,Donald Byrd/Pepper Adams/Herbie Hancock/Doug Watkins/Teddy Robinson,23,2019-09-21,2019-09-21,3,1
+408,METAL GALAXY,BABYMETAL,23,2019-10-26,2019-10-26,3,1
+409,Amyl And The Sniffers,Amyl And The Sniffers,23,2019-06-08,2019-06-08,3,1
+410,No Line On The Horizon,U2,23,2019-03-09,2019-03-09,3,1
+411,Only Things We Love,Blaqk Audio,23,2019-03-30,2019-03-30,3,1
+412,Hannah Montana: The Best Of Hannah Montana,Soundtrack,23,2019-05-11,2019-05-11,3,1
+413,Wildcard,Miranda Lambert,23,2019-11-16,2019-11-16,3,1
+414,Let Me Know When You Give Up,Joey Cape,23,2019-07-20,2019-07-20,3,1
+415,Astral Weeks: Alternative (EP),Van Morrison,23,2019-04-27,2019-04-27,3,1
+416,Why Me? Why Not.,Liam Gallagher,23,2019-10-05,2019-10-05,3,1
+417,What's Going On,Marvin Gaye,24,2019-02-02,2019-02-02,2,1
+418,Agaetis Byrjun,Sigur Ros,24,2019-08-10,2019-08-10,2,1
+419,Britney,Britney Spears,24,2019-06-15,2019-06-15,2,1
+420,Sounds Of Summer: The Very Best Of The Beach Boys,The Beach Boys,24,2019-06-22,2019-06-22,2,1
+421,Sage & Spirit,Grateful Dead,24,2019-04-27,2019-04-27,2,1
+422,Enema Of The State,Blink-182,24,2019-09-28,2019-09-28,2,1
+423,Lux Prima,Karen O & Danger Mouse,24,2019-03-30,2019-03-30,2,1
+424,Bear's Sonic Journals: Fillmore East 1970,The Allman Brothers Band,24,2019-10-05,2019-10-05,2,1
+425,Traveller,Chris Stapleton,24,2019-02-23,2019-02-23,2,1
+426,Axis: Bold As Love,The Jimi Hendrix Experience,24,2019-06-01,2019-06-01,2,1
+427,Flower Boy,"Tyler, The Creator",24,2019-01-19,2019-01-19,2,1
+428,In The Spirit World Now,Ceremony,24,2019-09-07,2019-09-07,2,1
+429,Doom Days,Bastille,25,2019-06-29,2019-06-29,1,1
+430,Three Cheers For Sweet Revenge,My Chemical Romance,25,2019-03-23,2019-03-23,1,1
+431,Sound the Bells: Recorded Live At Orchestra Hall,Dessa And The Minnesota Orchestra,25,2019-11-23,2019-11-23,1,1
+432,Eraserland,Strand Of Oaks,25,2019-04-06,2019-04-06,1,1
+433,Lost In Translation,Soundtrack,25,2019-04-27,2019-04-27,1,1
+434,Everyday Life,Coldplay,25,2019-12-07,2019-12-07,1,1
+435,"Everything Not Saved Will Be Lost, Part 2",Foals,25,2019-11-02,2019-11-02,1,1
+436,Greatest Hits,Tom Petty And The Heartbreakers,25,2019-01-05,2019-01-05,1,1
+437,Sinners Like Me,Eric Church,25,2019-02-09,2019-02-09,1,1
+438,Crucial Moments (EP),The Bouncing Souls,25,2019-03-30,2019-03-30,1,1

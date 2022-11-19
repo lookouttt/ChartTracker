@@ -1,0 +1,261 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Thriller,Michael Jackson,1,1983-01-01,1983-12-31,3898,53
+2,1999,Prince,4,1983-01-01,1983-12-31,3197,53
+3,Lionel Richie,Lionel Richie,2,1983-01-01,1983-12-31,2919,53
+4,All This Love,Debarge,3,1983-01-01,1983-12-31,2595,53
+5,Love For Love,The Whispers,2,1983-04-02,1983-12-31,2186,40
+6,Visions,Gladys Knight And The Pips,3,1983-05-21,1983-12-31,2170,33
+7,The Rhythm And The Blues,Z.Z. Hill,16,1983-01-01,1983-12-03,2113,49
+8,Computer Games,George Clinton,3,1983-01-01,1983-09-24,2103,39
+9,Mary Jane Girls,Mary Jane Girls,6,1983-05-14,1983-12-31,2075,34
+10,Too Tough,Angela Bofill,6,1983-02-05,1983-12-03,2055,44
+11,Kashif,Kashif,10,1983-04-09,1983-12-31,1981,39
+12,Jarreau,Jarreau,4,1983-04-16,1983-12-31,1870,38
+13,We Are One,Maze,5,1983-05-28,1983-12-31,1799,32
+14,Between The Sheets,The Isley Brothers,1,1983-06-04,1983-12-31,1763,31
+15,Flashdance,Soundtrack,6,1983-05-07,1983-12-31,1759,35
+16,To The Max,ConFunkShun,9,1983-01-01,1983-10-15,1739,42
+17,No Parking On The Dance Floor,Midnight Star,2,1983-07-09,1983-12-31,1721,26
+18,"Forever, For Always, For Love",Luther Vandross,2,1983-01-01,1983-08-06,1683,32
+19,Midnight Love,Marvin Gaye,1,1983-01-01,1983-08-06,1664,32
+20,Janet Jackson,Janet Jackson,6,1983-01-01,1983-09-10,1644,37
+21,Propositions,Barkays,9,1983-01-01,1983-07-23,1638,30
+22,Untouchables,Lakeside,10,1983-05-14,1983-12-31,1554,34
+23,Juicy Fruit,Mtume,3,1983-05-21,1983-12-10,1545,30
+24,You And I,O'Bryan,13,1983-03-12,1983-10-29,1505,34
+25,Stay With Me Tonight,Jeffrey Osborne,3,1983-08-13,1983-12-31,1474,21
+26,In Your Eyes,George Benson,6,1983-06-25,1983-12-31,1444,28
+27,On The Rise,The S.O.S. Band,7,1983-08-06,1983-12-31,1418,22
+28,The Best Is Yet To Come,"Grover Washington, Jr.",8,1983-01-01,1983-07-30,1396,31
+29,She Works Hard For The Money,Donna Summer,5,1983-07-16,1983-12-31,1392,25
+30,Kissing To Be Clever,Culture Club,24,1983-03-12,1983-11-19,1365,37
+31,Cold Blooded,Rick James,1,1983-09-03,1983-12-31,1314,18
+32,Gap Band Iv,The Gap Band,10,1983-01-01,1983-07-02,1302,27
+33,Modern Heart,Champaign,9,1983-04-02,1983-10-15,1259,29
+34,Don't Play With Fire,Peabo Bryson,8,1983-01-01,1983-06-18,1258,25
+35,Killer On The Rampage,Eddy Grant,13,1983-04-16,1983-10-29,1255,29
+36,Born To Love,Peabo Bryson & Roberta Flack,8,1983-08-20,1983-12-31,1241,20
+37,Powerlight,"Earth, Wind & Fire",4,1983-03-12,1983-08-27,1226,25
+38,Steve Arrington's Hall Of Fame: I,Steve Arrington,12,1983-03-05,1983-10-01,1223,31
+39,H2O,Daryl Hall John Oates,8,1983-02-26,1983-09-10,1222,29
+40,Chaka Khan,Chaka Khan,5,1983-01-01,1983-06-04,1198,23
+41,The Songstress,Anita Baker,12,1983-07-09,1983-12-31,1195,26
+42,I'm So Proud,Deniece Williams,10,1983-06-04,1983-11-19,1194,25
+43,Get It Right,Aretha Franklin,4,1983-08-06,1983-12-31,1160,22
+44,Gap Band V-jammin',The Gap Band,2,1983-09-17,1983-12-31,1113,16
+45,The Look,Shalamar,13,1983-08-13,1983-12-31,1072,21
+46,Every Home Should Have One,Patti Austin,16,1983-01-01,1983-06-11,1070,24
+47,Get Loose,"Evelyn ""Champagne"" King",7,1983-01-01,1983-05-28,1059,22
+48,Candy Girl,New Edition,14,1983-08-13,1983-12-31,1059,21
+49,Live-stompin' At The Savoy,Rufus And Chaka Khan,4,1983-09-17,1983-12-31,1053,16
+50,Down Home,Z.Z. Hill,37,1983-01-01,1983-11-19,1022,47
+51,Zapp Iii,Zapp,9,1983-09-03,1983-12-31,1020,18
+52,Touch The Sky,Smokey Robinson,8,1983-02-05,1983-07-02,1008,22
+53,Lost In Space,The Jonzun Crew,17,1983-05-14,1983-10-15,996,23
+54,On The One,Dazz Band,12,1983-02-12,1983-07-23,995,24
+55,What Time Is It?,The Time,10,1983-01-01,1983-06-04,994,23
+56,Greatest Hits,Ray Parker Jr.,17,1983-01-01,1983-06-04,994,23
+57,Sweat,The System,14,1983-02-26,1983-08-27,984,27
+58,A Lady In The Street,Denise LaSalle,23,1983-04-30,1983-11-26,976,31
+59,Future Shock,Herbie Hancock,10,1983-09-10,1983-12-31,960,17
+60,Merciless,Stephanie Mills,12,1983-09-10,1983-12-31,960,17
+61,The Youth Of Today,Musical Youth,11,1983-01-08,1983-06-25,958,25
+62,Nona,Nona Hendryx,25,1983-04-09,1983-11-05,958,31
+63,The Other Side Of The Rainbow,Melba Moore,22,1983-01-01,1983-06-25,944,26
+64,Vanity 6,Vanity 6,6,1983-01-01,1983-06-04,911,23
+65,All The Greatest Hits,Commodores,12,1983-01-01,1983-06-25,900,26
+66,Tyrone Davis,Tyrone Davis,10,1983-01-01,1983-06-25,898,26
+67,Sergio Mendes,Sergio Mendes,22,1983-05-21,1983-10-22,876,23
+68,Bottoms Up,The Chi-lites,15,1983-05-14,1983-09-10,866,18
+69,Living My Life,Grace Jones,19,1983-01-01,1983-06-11,833,24
+70,Continuation,Philip Bailey,19,1983-09-10,1983-12-31,789,17
+71,When Will I See You Again,The O'Jays,19,1983-07-02,1983-11-12,779,20
+72,Business As Usual,Men At Work,29,1983-01-29,1983-07-09,770,24
+73,Style,Cameo,14,1983-05-07,1983-10-01,758,22
+74,Try It Out,Klique,11,1983-10-01,1983-12-31,741,14
+75,Highrise,Ashford & Simpson,14,1983-09-17,1983-12-31,735,16
+76,Is This The Future,The Fatback Band,27,1983-04-16,1983-09-03,728,21
+77,The Message,Grandmaster Flash & The Furious Five,11,1983-01-01,1983-05-07,722,19
+78,Forever By Your Side,The Manhattans,17,1983-08-06,1983-12-10,721,19
+79,Let's Dance,David Bowie,21,1983-06-18,1983-11-12,717,22
+80,Feel My Soul,Jennifer Holliday,6,1983-10-22,1983-12-31,698,11
+81,Just Ain't Good Enough,Johnnie Taylor,19,1983-01-01,1983-05-28,697,22
+82,Shine On Me,One Way,27,1983-07-30,1983-12-10,689,20
+83,Surface Thrills,The Temptations,19,1983-03-26,1983-07-23,661,18
+84,Jeffrey Osborne,Jeffrey Osborne,30,1983-01-01,1983-05-14,656,20
+85,In A Special Way,Debarge,5,1983-10-29,1983-12-31,651,10
+86,Rise,Rene & Angela,33,1983-08-13,1983-12-31,651,21
+87,Ross (II),Diana Ross,14,1983-07-30,1983-11-05,650,15
+88,Heartbreaker,Dionne Warwick,13,1983-01-01,1983-05-21,629,21
+89,Silk Electric,Diana Ross,5,1983-01-01,1983-04-30,610,18
+90,As One,Kool & The Gang,12,1983-01-01,1983-04-16,608,16
+91,Two Of A Kind,Earl Klugh,23,1983-01-01,1983-05-14,597,20
+92,Goddess Of Love,Phyllis Hyman,20,1983-06-25,1983-10-08,592,16
+93,S.o.s. Iii,The S.O.S. Band,27,1983-01-01,1983-05-14,588,20
+94,Can't Slow Down,Lionel Richie,1,1983-11-12,1983-12-31,582,8
+95,Let Me Be Yours,Lillo,23,1983-09-17,1983-12-31,576,16
+96,Wild Night,One Way,16,1983-01-01,1983-05-21,565,21
+97,Low Ride,Earl Klugh,27,1983-05-14,1983-10-15,533,23
+98,Mr. Nice Guy,Ronnie Laws,24,1983-08-06,1983-11-19,530,16
+99,Sticky Situation,"Tyrone ""Tystick"" Brunson",25,1983-03-26,1983-07-23,520,18
+100,Sixteen,Stacy Lattisaw,26,1983-08-06,1983-11-19,507,16
+101,Blast! (The Latest And The Greatest),The Brothers Johnson,23,1983-01-08,1983-04-09,504,14
+102,Instant Funk V,Instant Funk,38,1983-02-19,1983-07-02,499,20
+103,Yours Forever,Atlantic Starr,10,1983-11-12,1983-12-31,497,8
+104,Heartbeats,Yarbrough & Peoples,25,1983-03-12,1983-05-28,490,12
+105,Confrontation,Bob Marley And The Wailers,31,1983-06-18,1983-10-01,470,16
+106,How Many Times Can We Say Goodbye,Dionne Warwick,19,1983-11-05,1983-12-31,462,9
+107,Commodores 13,Commodores,26,1983-10-01,1983-12-31,461,14
+108,Bet Cha Say That To All The Girls,Sister Sledge,35,1983-05-21,1983-09-10,459,17
+109,Skyyjammer,Skyy,22,1983-01-01,1983-04-02,455,14
+110,Jump To It,Aretha Franklin,26,1983-01-01,1983-04-30,452,18
+111,The Sun Still Shines,Sonny Charles,14,1983-01-01,1983-03-19,450,12
+112,All I Need,Sylvester,35,1983-01-29,1983-05-21,435,17
+113,"Bill Cosby ""Himself""",Bill Cosby,33,1983-01-01,1983-04-02,433,14
+114,Music,James 'D-Train' Williams,31,1983-06-04,1983-09-10,422,15
+115,It's Your Night,James Ingram,14,1983-11-19,1983-12-31,412,7
+116,Blame It On Love And All The Great Hits,Smokey Robinson,28,1983-09-03,1983-11-26,410,13
+117,Zapp Ii,Zapp,34,1983-01-01,1983-04-09,401,15
+118,Robbery,Teena Marie,22,1983-11-12,1983-12-31,400,8
+119,Conversations,Brass Construction,29,1983-05-28,1983-08-20,398,13
+120,Distant Lover,Alphonse Mouzon,24,1983-01-01,1983-03-05,392,10
+121,Kiddo,Kiddo,29,1983-04-02,1983-06-18,382,12
+122,Blues 'n Jazz,B.B. King,38,1983-07-02,1983-11-12,379,20
+123,Richard Pryor: Here And Now,Richard Pryor,22,1983-11-12,1983-12-31,378,8
+124,Second To Nunn,Bobby Nunn,38,1983-01-01,1983-04-02,377,14
+125,Heaven Only Knows,Teddy Pendergrass,9,1983-11-26,1983-12-31,372,6
+126,Madonna,Madonna,42,1983-10-08,1983-12-31,351,13
+127,25 #1 Hits From 25 Years,Various Artists,32,1983-06-11,1983-09-03,338,13
+128,Learning To Love,Rodney Franklin,45,1983-01-01,1983-05-07,338,19
+129,E.S.P. (Extra Sexual Persuasion),Millie Jackson,40,1983-10-22,1983-12-31,336,11
+130,Fever,ConFunkShun,15,1983-11-26,1983-12-31,324,6
+131,Casino Lights,Various Artists,39,1983-01-01,1983-05-07,322,19
+132,Eddie Murphy: Comedian,Eddie Murphy,16,1983-11-26,1983-12-31,316,6
+133,Tantalizingly Hot,Stephanie Mills,35,1983-01-01,1983-03-26,315,13
+134,This Is Your Time,Change,34,1983-04-02,1983-06-04,311,10
+135,The Hunter,Joe Sample,44,1983-04-16,1983-07-30,310,16
+136,Sweet Dreams (Are Made Of This),Eurythmics,36,1983-09-03,1983-11-05,306,10
+137,Knockout,Margie Joseph,34,1983-03-12,1983-05-21,299,11
+138,Party Time,Kurtis Blow,36,1983-08-20,1983-10-15,299,9
+139,Electric Universe,"Earth, Wind & Fire",8,1983-12-03,1983-12-31,298,5
+140,Finis,Finis Henderson,42,1983-07-09,1983-10-08,298,14
+141,Rockin' Radio,Tom Browne,24,1983-11-19,1983-12-31,296,7
+142,Bad Enuff,Slave,30,1983-10-08,1983-11-26,288,8
+143,Backstreet,David Sanborn,25,1983-11-26,1983-12-31,274,6
+144,Bodies And Souls,The Manhattan Transfer,38,1983-10-15,1983-12-31,269,12
+145,Private Party,Bobby Nunn,41,1983-10-08,1983-12-31,269,13
+146,Never Too Much,Luther Vandross,57,1983-01-01,1983-05-07,267,19
+147,It's A Beautiful Thing,Maxine Nightingale,35,1983-01-01,1983-02-26,266,9
+148,Woman Out Of Control,Ray Parker Jr.,18,1983-12-03,1983-12-31,259,5
+149,Break Out,The Pointer Sisters,29,1983-11-26,1983-12-31,251,6
+150,It's So Delicious,Starpoint,32,1983-07-02,1983-08-20,247,8
+151,Donna Summer,Donna Summer,56,1983-01-01,1983-04-30,245,18
+152,Give Everybody Some!,"Richard ""Dimples"" Fields",40,1983-01-01,1983-03-26,244,13
+153,Hard Times,Millie Jackson,29,1983-01-01,1983-03-05,241,10
+154,Life Is So Strange,War,36,1983-07-23,1983-09-24,240,10
+155,Last Night A D.j. Saved My Life,Indeep,43,1983-07-02,1983-09-03,239,10
+156,Man Parrish,Man Parrish,43,1983-02-12,1983-05-07,238,13
+157,Tell Mr. Bland,Bobby Bland,50,1983-07-23,1983-11-05,233,16
+158,Livin' In The New Wave,Andre Cymone,49,1983-01-01,1983-04-02,230,14
+159,In The Heart,Kool & The Gang,13,1983-12-10,1983-12-31,224,4
+160,Teaser,Angela Bofill,28,1983-12-03,1983-12-31,222,5
+161,Survivin' In The 80's,Andre Cymone,31,1983-10-15,1983-11-26,221,7
+162,New Directions,Tavares,44,1983-01-01,1983-04-09,215,15
+163,Live And Let Live,Aurra,36,1983-02-26,1983-04-30,213,10
+164,Visions Of The Lite,Slave,46,1983-01-01,1983-03-05,212,10
+165,Wolf,Bill Wolfer,50,1983-01-15,1983-03-26,212,11
+166,Lanier & Co.,Lanier & Co.,47,1983-03-05,1983-05-07,211,10
+167,Skyylight,Skyy,44,1983-08-06,1983-12-17,208,13
+168,"Rock 'N Soul, Part 1",Daryl Hall John Oates,30,1983-12-03,1983-12-31,207,5
+169,Fickle,Michael Henderson,41,1983-06-11,1983-07-30,204,8
+170,Words And Music,Tavares,48,1983-10-01,1983-12-10,197,11
+171,Wright Back At You,Betty Wright,41,1983-04-23,1983-06-11,193,8
+172,Too Hot,Ebonee Webb,45,1983-03-19,1983-05-14,187,9
+173,The Big Chill,Soundtrack,40,1983-11-26,1983-12-31,185,6
+174,Foxie,Bob James,45,1983-10-22,1983-12-10,180,8
+175,Back Where I Belong,Four Tops,47,1983-11-12,1983-12-31,180,8
+176,The Clarke/Duke Project II,Stanley Clarke/George Duke,44,1983-11-26,1983-12-31,178,6
+177,Here We Go Again,Bobby Bland,52,1983-01-01,1983-03-12,173,11
+178,Friction,Chocolate Milk,50,1983-01-01,1983-03-26,171,13
+179,Diana Ross Anthology,Diana Ross,44,1983-06-11,1983-08-13,170,10
+180,Something Good,Tyrone Davis,46,1983-11-12,1983-12-31,169,8
+181,Nightline,Randy Crawford,41,1983-11-05,1983-12-31,166,9
+182,The Nightfly,Donald Fagen,36,1983-01-01,1983-03-05,162,10
+183,Alfonzo,Alfonzo,50,1983-02-19,1983-04-09,162,8
+184,If That's What It Takes,Michael McDonald,40,1983-01-01,1983-02-19,161,8
+185,25 Years Of Grammy Greats,Various Artists,45,1983-06-11,1983-07-30,160,8
+186,All The Way Strong,Third World,50,1983-10-08,1983-12-17,159,11
+187,Blow Your Own Horn,Herb Alpert,49,1983-09-24,1983-11-19,154,9
+188,Speaking In Tongues,Talking Heads,55,1983-09-10,1983-11-26,153,12
+189,Glasses,Ozone,50,1983-05-07,1983-07-16,152,11
+190,Guardian Of The Light,George Duke,46,1983-05-07,1983-06-18,150,7
+191,Mama Africa,Peter Tosh,49,1983-06-25,1983-08-27,149,10
+192,"Looking At You, Looking At Me",Narada,51,1983-05-21,1983-07-16,148,9
+193,"The Genie (Themes & Variations From The TV Series ""Taxi"")",Bob James,43,1983-06-25,1983-07-30,146,6
+194,I'm A Blues Man,Z.Z. Hill,32,1983-12-10,1983-12-31,145,4
+195,Instant Love,Cheryl Lynn,41,1983-01-01,1983-03-26,143,13
+196,Back To Basics,The Temptations,51,1983-11-05,1983-12-31,140,9
+197,Procession,Weather Report,46,1983-04-09,1983-05-14,136,6
+198,Asphalt Gardens,George Howard,58,1983-04-16,1983-07-02,133,12
+199,Blow,Bobby Militello,53,1983-01-22,1983-03-19,132,9
+200,Something New,New Horizons,51,1983-07-30,1983-09-17,129,8
+201,Dreams Of Tomorrow,Lonnie Liston Smith,46,1983-05-21,1983-06-25,126,6
+202,Third Generation,Hiroshima,50,1983-09-10,1983-11-05,126,9
+203,The Leader,Fonzi Thornton,50,1983-05-28,1983-07-23,125,9
+204,The Golden Age Of Wireless,Thomas Dolby,45,1983-07-09,1983-08-06,123,5
+205,Throwin' Down,Rick James,57,1983-01-01,1983-02-26,122,9
+206,Close To The Bone,Tom Tom Club,49,1983-08-27,1983-10-01,116,6
+207,Seal In Red,Rufus,49,1983-03-12,1983-04-23,111,7
+208,It's Me Again,Leon Haywood,48,1983-07-02,1983-07-30,110,5
+209,Back To Basics,The Reddings,50,1983-08-27,1983-10-08,110,7
+210,Commodores Anthology,Commodores,50,1983-06-11,1983-07-23,110,7
+211,Age Ain't Nothin' But A Number,Little Milton,53,1983-06-11,1983-07-30,106,8
+212,Magic #,Blue Magic,52,1983-04-23,1983-06-04,105,7
+213,Joystick,Dazz Band,38,1983-12-17,1983-12-31,100,3
+214,Imagine This,Pieces Of A Dream,39,1983-12-17,1983-12-31,100,3
+215,I'm Ready,Natalie Cole,54,1983-09-17,1983-10-29,99,7
+216,Rit/2,Lee Ritenour,53,1983-01-01,1983-02-19,98,8
+217,Out From The Shadow,Stone City Band,56,1983-08-27,1983-11-05,96,11
+218,Street Beat,The Deele,42,1983-12-17,1983-12-31,91,3
+219,Bossa Nova Hotel,Michael Sembello,53,1983-10-15,1983-11-19,90,6
+220,I Fooled You This Time,Alicia Myers,49,1983-01-01,1983-02-05,89,6
+221,Saturday Night,Oliver Cheatham,52,1983-07-09,1983-08-20,89,7
+222,Another Page,Christopher Cross,52,1983-02-26,1983-04-09,87,7
+223,Never Say Never,Melba Moore,34,1983-12-24,1983-12-31,84,2
+224,Dave Grusin and the NY/LA Dream Band,Dave Grusin,54,1983-04-09,1983-05-14,83,6
+225,On The Line,Michael Wycoff,54,1983-10-22,1983-11-26,82,6
+226,Gentle Fire,Wilton Felder,55,1983-05-14,1983-06-18,80,6
+227,Havana Moon,Carlos Santana,55,1983-05-28,1983-07-02,80,6
+228,What A Feelin',Irene Cara,49,1983-12-17,1983-12-31,76,3
+229,Victory,Larry Graham,52,1983-08-06,1983-09-03,76,5
+230,Inside Lookin' Out,Junior,54,1983-07-30,1983-08-27,76,5
+231,Tongue In Chic,Chic,47,1983-01-01,1983-01-29,75,5
+232,L-o-v-e-,Robert Winters And Fall,54,1983-01-15,1983-02-12,75,5
+233,Right Back At Cha',Dynasty,54,1983-01-01,1983-01-22,71,4
+234,Incognito,Spyro Gyra,63,1983-01-01,1983-03-05,71,10
+235,It's Good To Be Home,Harry Ray,55,1983-01-29,1983-03-05,69,6
+236,This One's For You,Teddy Pendergrass,64,1983-01-01,1983-02-19,66,8
+237,Brand New Day,Ronnie Dyson,53,1983-10-22,1983-11-12,63,4
+238,Sneakin' Out,Stacy Lattisaw,56,1983-01-01,1983-01-29,55,5
+239,Funky Beat,Bernard Wright,58,1983-12-03,1983-12-31,54,5
+240,On Target,The Jones Girls,59,1983-11-19,1983-12-10,53,4
+241,In The Heat Of The Night,Imagination,45,1983-01-01,1983-01-22,48,4
+242,Busy Body,Luther Vandross,52,1983-12-24,1983-12-31,48,2
+243,Planet Patrol,Planet Patrol,64,1983-12-03,1983-12-31,47,5
+244,We Are One,Pieces Of A Dream,67,1983-01-01,1983-02-19,44,8
+245,For You,LTD,66,1983-07-30,1983-09-03,39,6
+246,Juicy,Juicy,57,1983-04-02,1983-04-16,38,3
+247,Dreamboy,Dreamboy,63,1983-12-17,1983-12-31,36,3
+248,Groove Patrol,High Inergy,62,1983-06-18,1983-07-02,30,3
+249,I'll Do Anything For You,Latimore,66,1983-12-17,1983-12-31,28,3
+250,Stevie Wonder's Original Musiquarium I,Stevie Wonder,71,1983-01-01,1983-02-12,28,7
+251,Johnny Gill,Johnny Gill,64,1983-07-30,1983-08-13,27,3
+252,In My Life,Patti Austin,65,1983-07-09,1983-07-23,25,3
+253,Baby Sister,June Pointer,65,1983-07-30,1983-08-06,22,2
+254,Let Me Tickle Your Fancy,Jermaine Jackson,65,1983-01-01,1983-01-08,17,2
+255,I'm The One,Roberta Flack,70,1983-01-01,1983-01-22,16,4
+256,Breakin' Away,Jarreau,73,1983-01-01,1983-02-05,16,6
+257,Seventeen,Bill Summers & Summers Heat,67,1983-01-01,1983-01-15,11,3
+258,We Go A Long Way Back,Bloodstone,69,1983-01-01,1983-01-01,7,1
+259,Used To Be,Charlene,74,1983-01-01,1983-01-08,4,2
+260,Gwen Guthrie,Gwen Guthrie,75,1983-01-01,1983-01-01,1,1

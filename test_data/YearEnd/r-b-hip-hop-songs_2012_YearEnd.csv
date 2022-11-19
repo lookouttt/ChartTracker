@@ -1,0 +1,406 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Love On Top,Beyonce,1,2012-01-07,2012-10-13,5084,41
+2,Climax,Usher,1,2012-03-03,2012-10-13,5083,33
+3,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz",1,2012-04-21,2012-12-29,4751,37
+4,The Motto,Drake Featuring Lil Wayne,1,2012-01-07,2012-08-18,4223,33
+5,No Lie,2 Chainz Featuring Drake,1,2012-05-19,2012-12-29,3853,33
+6,Cashin' Out,Ca$h Out,2,2012-02-04,2012-11-03,3833,40
+7,Heart Attack,Trey Songz,3,2012-04-07,2012-12-08,3832,36
+8,Nobody's Perfect,J. Cole Featuring Missy Elliott,3,2012-02-11,2012-10-13,3726,36
+9,Birthday Cake,Rihanna Featuring Chris Brown,2,2012-03-03,2012-09-29,3704,31
+10,Lotus Flower Bomb,Wale Featuring Miguel,1,2012-01-07,2012-07-07,3609,27
+11,Another Round,Fat Joe Featuring Chris Brown,5,2012-01-07,2012-10-13,3576,41
+12,Strip,Chris Brown Featuring Kevin K-MAC McCall,3,2012-01-07,2012-08-18,3562,33
+13,UP!,LoveRance Featuring IamSu & Skipper or 50 Cent,3,2012-02-04,2012-10-06,3561,36
+14,Drank In My Cup,Kirko Bangz,5,2012-01-07,2012-09-15,3548,37
+15,Adorn,Miguel,1,2012-05-19,2012-12-29,3423,33
+16,Lemme See,Usher Featuring Rick Ross,2,2012-05-12,2012-11-03,3223,26
+17,Thank You,Estelle,15,2012-01-07,2012-10-13,3177,41
+18,Leave You Alone,Young Jeezy Featuring Ne-Yo,3,2012-03-03,2012-10-13,3102,33
+19,Crew Love,Drake Featuring The Weeknd,9,2012-01-07,2012-10-06,3019,40
+20,Make Me Proud,Drake Featuring Nicki Minaj,1,2012-01-07,2012-06-02,2830,22
+21,Bag Of Money,"Wale Featuring Rick Ross, Meek Mill & T-Pain",2,2012-04-07,2012-10-13,2759,28
+22,Tonight (Best You Ever Had),John Legend Featuring Ludacris,12,2012-02-18,2012-10-13,2574,35
+23,Stay,Tyrese,11,2012-01-07,2012-08-18,2554,33
+24,Take It To The Head,"DJ Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Lil Wayne",6,2012-04-07,2012-10-13,2521,28
+25,Mr. Wrong,Mary J. Blige Featuring Drake,10,2012-01-07,2012-08-04,2509,31
+26,Ni**as in Paris,Jay Z Kanye West,2,2012-01-07,2012-06-23,2407,25
+27,Thinkin Bout You,Frank Ocean,7,2012-03-31,2012-12-29,2384,40
+28,Pop That,"French Montana Featuring Rick Ross, Drake, Lil Wayne",2,2012-06-30,2012-12-29,2331,27
+29,I Do,Young Jeezy Featuring Jay-Z & Andre 3000,4,2012-01-07,2012-06-02,2180,22
+30,Rack City,Tyga,5,2012-01-07,2012-06-02,2159,22
+31,Party,Beyonce Featuring Andre 3000,3,2012-01-07,2012-05-26,2135,21
+32,4 AM,Melanie Fiona,8,2012-01-07,2012-06-23,2098,25
+33,Ayy Ladies,Travis Porter Featuring Tyga,9,2012-01-07,2012-07-21,2092,29
+34,Dance For You,Beyonce,7,2012-04-07,2012-12-08,2091,36
+35,Beez In The Trap,Nicki Minaj Featuring 2 Chainz,7,2012-04-07,2012-09-22,2001,25
+36,Pray For Me,Anthony Hamilton,21,2012-03-24,2012-10-13,2001,30
+37,Dance (A$$),Big Sean Featuring Nicki Minaj,3,2012-01-07,2012-05-19,1995,20
+38,Sex Ain't Better Than Love,Trey Songz,6,2012-01-07,2012-06-09,1984,23
+39,2 Reasons,Trey Songz Featuring T.I.,7,2012-06-23,2012-12-15,1959,26
+40,Can't Get Enough,J. Cole Featuring Trey Songz,7,2012-01-07,2012-06-02,1953,22
+41,Turn On The Lights,Future,2,2012-07-14,2012-12-29,1906,25
+42,Refill,Elle Varner,10,2012-03-10,2012-09-01,1886,26
+43,Amen,Meek Mill Featuring Drake,5,2012-06-09,2012-10-27,1866,21
+44,"Work Hard, Play Hard",Wiz Khalifa,13,2012-05-05,2012-11-17,1854,29
+45,Clique,"Kanye West, Jay-Z, Big Sean",2,2012-09-22,2012-12-29,1786,15
+46,Take Care,Drake Featuring Rihanna,26,2012-01-07,2012-06-23,1732,25
+47,Go Get It,Mary Mary,27,2012-03-24,2012-10-13,1714,30
+48,Diamonds,Rihanna,1,2012-10-13,2012-12-29,1685,12
+49,Blessed,Jill Scott,21,2012-03-17,2012-09-08,1674,26
+50,You're On My Mind,Kem,25,2012-01-21,2012-07-21,1654,27
+51,Beautiful Surprise,Tamia,24,2012-04-07,2012-10-13,1635,28
+52,Put It Down,Brandy Featuring Chris Brown,3,2012-06-16,2012-12-01,1603,25
+53,Bandz A Make Her Dance,Juicy J Featuring Lil Wayne & 2 Chainz,6,2012-07-21,2012-12-29,1602,24
+54,Magic,Future Featuring T.I.,10,2012-01-07,2012-06-09,1570,23
+55,HYFR (Hell Ya F*****g Right),Drake Featuring Lil Wayne,20,2012-01-07,2012-08-18,1545,30
+56,Share My Love,R. Kelly,13,2012-02-18,2012-07-14,1541,22
+57,Girl On Fire,Alicia Keys Featuring Nicki Minaj,2,2012-09-15,2012-12-29,1517,16
+58,All Tied Up,Robin Thicke,23,2012-04-28,2012-10-13,1472,25
+59,Same Damn Time,Future,12,2012-02-25,2012-07-28,1465,23
+60,Love After War,Robin Thicke,14,2012-01-07,2012-05-12,1457,19
+61,Touch'N You,Rick Ross Featuring Usher,15,2012-05-26,2012-10-06,1429,20
+62,Swimming Pools (Drank),Kendrick Lamar,3,2012-08-25,2012-12-29,1405,19
+63,Sweet Love,Chris Brown,25,2012-04-14,2012-09-08,1399,22
+64,Feelin' Single,R. Kelly,15,2012-06-09,2012-10-20,1382,20
+65,You The Boss,Rick Ross Featuring Nicki Minaj,5,2012-01-07,2012-03-31,1376,13
+66,Fool For You,Cee Lo Green Featuring Melanie Fiona or Phillip Bailey,14,2012-01-07,2012-05-12,1344,19
+67,Enough Of No Love,Keyshia Cole Featuring Lil Wayne,7,2012-07-21,2012-12-01,1324,20
+68,Right By My Side,Nicki Minaj Featuring Chris Brown,21,2012-04-07,2012-08-18,1307,20
+69,Next Breath,Tank,27,2012-02-11,2012-07-14,1288,23
+70,Do It Like You,Diggy Featuring Jeremih,11,2012-01-07,2012-04-21,1282,16
+71,Till I Die,Chris Brown Featuring Big Sean & Wiz Khalifa,12,2012-04-28,2012-09-15,1275,21
+72,Real Love,Eric Benet,32,2012-01-07,2012-05-19,1243,20
+73,Sabotage,Wale Featuring Lloyd,16,2012-02-11,2012-06-23,1207,20
+74,That Way,Wale Featuring Jeremih & Rick Ross,7,2012-01-07,2012-04-14,1202,15
+75,I Don't Like,Chief Keef Featuring Lil Reese,20,2012-06-02,2012-10-13,1199,20
+76,Gotta Have It,Jay Z Kanye West,14,2012-01-07,2012-04-21,1193,16
+77,Faded,Tyga Featuring Lil Wayne,19,2012-03-03,2012-07-14,1186,20
+78,Dive In,Trey Songz,5,2012-07-28,2012-12-08,1176,20
+79,Birthday Song,2 Chainz Featuring Kanye West,10,2012-08-11,2012-12-29,1149,21
+80,Woo,Anthony Hamilton,24,2012-01-07,2012-04-21,1134,16
+81,Talk That Talk,Rihanna Featuring Jay-Z,12,2012-01-07,2012-04-21,1088,16
+82,My Homies Still,Lil Wayne Featuring Big Sean,20,2012-06-16,2012-10-27,1086,20
+83,Snap Backs & Tattoos,Driicky Graham,23,2012-04-21,2012-09-01,1055,20
+84,Round Of Applause,Waka Flocka Flame Featuring Drake,16,2012-01-07,2012-04-07,1047,14
+85,Lazy Love,Ne-Yo,25,2012-06-16,2012-10-27,1038,20
+86,Countdown,Beyonce,12,2012-01-07,2012-03-31,1014,13
+87,I Dont Really Care,Waka Flocka Flame Featuring Trey Songz,25,2012-03-31,2012-08-04,1006,19
+88,Let's Talk,Omarion Featuring Rick Ross,30,2012-06-16,2012-10-27,982,20
+89,Why,Mary J. Blige Featuring Rick Ross,30,2012-04-14,2012-08-25,980,20
+90,Think Like A Man,Jennifer Hudson & Ne-Yo Featuring Rick Ross,33,2012-02-11,2012-06-23,944,20
+91,Stay Together,Ledisi Featuring Jaheim,23,2012-01-07,2012-04-07,931,14
+92,Stay Schemin,Rick Ross Featuring Drake & French Montana,40,2012-01-28,2012-06-09,889,20
+93,She Will,Lil Wayne Featuring Drake,6,2012-01-07,2012-03-10,875,10
+94,SupaFreak,Young Jeezy Featuring 2 Chainz,39,2012-01-07,2012-05-12,875,19
+95,No Church In The Wild,Jay Z Kanye West Featuring Frank Ocean,31,2012-02-18,2012-06-30,872,20
+96,Work Out,J. Cole,14,2012-01-07,2012-03-24,870,12
+97,Co-Sign,SWV,48,2012-02-04,2012-06-16,840,20
+98,What Profit,Dwele,38,2012-06-16,2012-10-13,810,18
+99,Headlines,Drake,8,2012-01-07,2012-03-10,769,10
+100,Lately,Anita Baker,15,2012-08-18,2012-12-15,767,18
+101,The Recipe,Kendrick Lamar Featuring Dr. Dre,38,2012-04-28,2012-08-25,753,18
+102,Sure Thing,Miguel,27,2012-01-07,2012-03-24,752,12
+103,Do It,Mykko Montana Featuring K-Camp,48,2012-05-19,2012-10-06,744,20
+104,Until It's Gone,Monica,25,2012-01-07,2012-03-17,738,11
+105,Harriett Jones,Eric Benet,46,2012-06-02,2012-10-13,736,20
+106,It All Belongs To Me,Monica & Brandy,23,2012-02-25,2012-05-19,733,13
+107,Ice,Kelly Rowland Featuring Lil Wayne,24,2012-08-11,2012-12-22,729,20
+108,Diced Pineapples,Rick Ross Featuring Wale & Drake,16,2012-08-25,2012-12-29,725,19
+109,I Got That Sack,Yo Gotti,46,2012-04-14,2012-08-25,720,20
+110,Love This Life,T.I.,39,2012-04-21,2012-08-04,707,16
+111,Celebrate,Whitney Houston & Jordin Sparks,39,2012-06-16,2012-10-13,705,18
+112,Bravo,Ledisi,55,2012-02-18,2012-06-30,700,20
+113,I Wish You Would,DJ Khaled Featuring Kanye West & Rick Ross,37,2012-07-14,2012-10-20,684,15
+114,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,2,2012-10-20,2012-12-29,683,11
+115,No Worries,Lil Wayne Featuring Detail,9,2012-09-22,2012-12-29,683,15
+116,Pretty Lil' Heart,Robin Thicke Featuring Lil Wayne,51,2012-01-07,2012-04-21,682,16
+117,Name On It,Urban Mystic,45,2012-05-19,2012-09-29,673,20
+118,Dope Chick,The-Dream Featuring Pusha T,33,2012-07-21,2012-10-13,660,13
+119,Born Stunna,Birdman Featuring Rick Ross,45,2012-06-09,2012-09-29,659,17
+120,Nothing On You,Tyrese,61,2012-02-25,2012-07-07,659,20
+121,Wild Boy,MGK Featuring Waka Flocka Flame,49,2012-01-07,2012-04-28,637,17
+122,Don't Mind,Mary J. Blige,35,2012-07-07,2012-11-17,634,20
+123,So Gone (What My Mind Says),Jill Scott Featuring Paul Wall,32,2012-01-07,2012-03-10,628,10
+124,My Moment,"DJ Drama Featuring 2 Chainz, Meek Mill & Jeremih",23,2012-07-28,2012-12-08,621,20
+125,Girls Like You,Miguel,43,2012-01-07,2012-04-07,619,14
+126,Riot,2 Chainz,54,2012-02-25,2012-07-07,615,20
+127,Shot Caller,French Montana Featuring Charlie Rock,39,2012-01-07,2012-03-24,596,12
+128,Where Have You Been,Rihanna,56,2012-06-09,2012-10-13,596,17
+129,Mirror,Bobby V Featuring Lil Wayne,49,2012-06-30,2012-10-13,585,16
+130,Roc,The-Dream,55,2012-02-11,2012-05-26,579,16
+131,Do What You Gotta Do,Angie Stone,52,2012-06-16,2012-10-06,570,17
+132,Wet The Bed,Chris Brown Featuring Ludacris,18,2012-01-07,2012-02-25,553,8
+133,Don't Judge Me,Chris Brown,19,2012-09-01,2012-12-29,547,18
+134,Function,"E-40 With YG, iAMSU! & Problem",62,2012-03-24,2012-08-04,540,20
+135,Go Get It,T.I.,40,2012-07-28,2012-11-03,536,15
+136,We Found Love,Rihanna Featuring Calvin Harris,54,2012-01-07,2012-03-31,533,13
+137,Motivation,Kelly Rowland Featuring Lil Wayne,33,2012-01-07,2012-03-03,518,9
+138,Boyfriend,Justin Bieber,52,2012-04-14,2012-07-21,512,15
+139,5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,12,2012-01-07,2012-02-18,510,7
+140,New Day,50 Cent Featuring Dr. Dre & Alicia Keys,43,2012-07-14,2012-10-13,509,14
+141,So In Love,Jill Scott Featuring Anthony Hamilton,31,2012-01-07,2012-02-25,505,8
+142,I Got This,Jennifer Hudson,54,2012-01-07,2012-04-14,505,15
+143,Squares Out Your Circle,Rocko Featuring Future,66,2012-02-25,2012-07-07,504,20
+144,It Would Be You,Johnny Gill,60,2012-04-07,2012-08-18,501,20
+145,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,56,2012-01-07,2012-03-31,499,13
+146,If It's Love,Kem Featuring Chrisette Michele,29,2012-01-07,2012-02-25,497,8
+147,Life Of The Party,Charlie Wilson,26,2012-01-07,2012-02-18,490,7
+148,Yes,Musiq Soulchild,33,2012-01-07,2012-02-25,488,8
+149,Lights Down Low,Bei Maejor Featuring Waka Flocka Flame,68,2012-03-24,2012-08-04,479,20
+150,Slow Down,Clyde Carson Featuring The Team,45,2012-05-05,2012-10-20,473,22
+151,Body 2 Body,Ace Hood Featuring Chris Brown,15,2012-01-07,2012-02-11,440,6
+152,Girls Talkin Bout,Mindless Behavior,50,2012-01-07,2012-03-17,421,11
+153,Still Here,Brian Culbertson Featuring Vivian Green,61,2012-06-02,2012-09-15,410,16
+154,That Could Be Us,Maino,57,2012-01-07,2012-03-31,403,13
+155,Gucci This (Gucci That),OMG Girlz,59,2012-03-10,2012-06-30,402,13
+156,Marvin & Chardonnay,Big Sean Featuring Kanye West & Roscoe Dash,22,2012-01-07,2012-02-11,394,6
+157,Don't Kiss Me,Carl Thomas,54,2012-01-07,2012-03-03,391,9
+158,Tell Her Again,Sterling Simms Featuring Meek Mill,62,2012-05-19,2012-09-29,375,16
+159,I Don't Care,Elle Varner,53,2012-08-11,2012-10-13,371,10
+160,June 28th (I'm Single),Ruben Studdard,61,2012-02-04,2012-06-02,369,18
+161,The Woman You Love,Ashanti Featuring Busta Rhymes,59,2012-01-07,2012-04-21,365,14
+162,House Party,Meek Mill Featuring Young Chris,45,2012-01-07,2012-02-18,363,7
+163,Don't Change,Conya Doss,72,2012-02-11,2012-05-26,340,16
+164,Slight Work,Wale Featuring Big Sean,63,2012-03-10,2012-06-23,333,16
+165,F**kin Problems,"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",7,2012-11-10,2012-12-29,330,8
+166,Young & Gettin' It,Meek Mill Featuring Kirko Bangz,25,2012-10-06,2012-12-29,320,13
+167,Stupid Hoe,Nicki Minaj,53,2012-01-28,2012-03-24,315,9
+168,I Just Wanna,50 Cent Featuring Tony Yayo,60,2012-01-21,2012-04-28,306,15
+169,Strange Clouds,B.o.B Featuring Lil Wayne,47,2012-01-07,2012-02-25,304,8
+170,I'm On One,"DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",32,2012-01-07,2012-02-04,303,5
+171,I'm Different,2 Chainz,11,2012-09-15,2012-12-29,299,15
+172,Twerk It,V.I.C.,70,2012-05-12,2012-08-11,299,14
+173,Ball,T.I. Featuring Lil Wayne,11,2012-11-03,2012-12-29,298,9
+174,Enough Said,Aaliyah Featuring Drake,55,2012-08-25,2012-10-13,296,8
+175,4 Letter Word,Diggy,61,2012-06-16,2012-08-25,295,11
+176,Dive,Usher,34,2012-09-15,2012-12-01,293,12
+177,25/8,Mary J. Blige,36,2012-01-07,2012-02-04,293,5
+178,Triumphant (Get 'Em),Mariah Carey Featuring Rick Ross & Meek Mill,53,2012-08-18,2012-10-13,293,8
+179,Wicked Games,The Weeknd,13,2012-10-13,2012-12-29,291,10
+180,Alone Together,Daley Featuring Marsha Ambrosius,66,2012-06-23,2012-10-13,289,17
+181,We In This!!!,"DJ Drama Featuring Young Jeezy, T.I., Ludacris, Future",68,2012-03-17,2012-06-09,283,13
+182,You Da One,Rihanna,60,2012-01-14,2012-04-14,278,13
+183,Way Too Cold,Kanye West Featuring DJ Khaled,69,2012-04-21,2012-07-28,276,15
+184,Find A Way,Kenny Lattimore,55,2012-07-07,2012-10-13,274,15
+185,Celebration,"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",24,2012-10-06,2012-12-29,271,13
+186,Jingalin,Ludacris,63,2012-06-09,2012-08-11,270,10
+187,Hold On,James Fortune & FIYA Featuring Monica & Fred Hammond,57,2012-07-28,2012-10-13,269,12
+188,It's Over,Tami LaTrell,68,2012-07-07,2012-09-01,260,9
+189,Remember You,Wiz Khalifa Featuring The Weeknd,15,2012-10-13,2012-12-29,245,12
+190,I Love Girls,Pleasure P Featuring Tyga,63,2012-08-04,2012-10-13,245,11
+191,Cold Summer,CJ Hilton,58,2012-01-07,2012-02-18,239,7
+192,Only Wanna Give It To You,Elle Varner Featuring J. Cole,43,2012-01-07,2012-01-28,230,4
+193,Won't Make A Fool Out Of You,Marcus Canty,69,2012-03-31,2012-06-16,228,12
+194,My Testimony,Marvin Sapp,23,2012-02-18,2012-09-01,227,8
+195,Marvins Room,Drake,41,2012-01-07,2012-01-28,226,4
+196,Poetic Justice,Kendrick Lamar Featuring Drake,18,2012-11-10,2012-12-29,224,8
+197,Big Booty,Ca$h Out,65,2012-08-11,2012-10-06,223,9
+198,Representin',Ludacris Featuring Kelly Rowland,28,2012-10-13,2012-12-29,217,11
+199,Just The Way You Are,Johnny Gill,78,2012-06-02,2012-10-13,216,15
+200,Make You Say Ooh,Keith Sweat,56,2012-01-07,2012-02-04,214,5
+201,Goldie,A$AP Rocky,65,2012-06-02,2012-07-28,214,9
+202,How To Love,Lil Wayne,45,2012-01-07,2012-01-28,212,4
+203,Get Low,"Waka Flocka Flame Featuring Nicki Minaj, Tyga & Flo Rida",67,2012-07-21,2012-09-08,208,8
+204,Good Good Night,Roscoe Dash,53,2012-01-07,2012-02-04,207,5
+205,In And Out,Marcus Canty Featuring Wale,56,2012-09-08,2012-10-13,202,6
+206,I'm Flexin',T.I. Featuring Big K.R.I.T.,55,2012-01-07,2012-02-18,201,7
+207,Roman Reloaded,Nicki Minaj Featuring Lil Wayne,57,2012-03-10,2012-04-28,200,8
+208,Believe In Us,Mint Condition,64,2012-08-25,2012-10-13,200,7
+209,Fly Together,Red Cafe Featuring Ryan Leslie & Rick Ross,44,2012-01-07,2012-01-28,195,4
+210,Ride Like That,Travis Porter Featuring Jeremih,63,2012-05-26,2012-06-30,189,6
+211,Can't Forget,Antoine Dunn,78,2012-01-07,2012-03-24,181,11
+212,Peso,A$AP Rocky,75,2012-01-28,2012-03-24,177,9
+213,Val Venis,King L,68,2012-08-11,2012-10-06,174,9
+214,Aww Yea,Travis Porter,69,2012-06-30,2012-09-01,168,9
+215,Otis,Jay Z Kanye West Featuring Otis Redding,44,2012-01-07,2012-01-21,159,3
+216,You & I,Avant Featuring KeKe Wyatt,46,2012-09-22,2012-12-29,155,7
+217,3 Kings,Rick Ross Featuring Dr. Dre & Jay-Z,60,2012-08-04,2012-09-08,155,6
+218,Why Stop Now,Busta Rhymes Featuring Chris Brown,79,2012-01-07,2012-03-17,155,11
+219,Picture Perfect,Eric Roberson Featuring Phonte,69,2012-01-07,2012-03-10,154,7
+220,Make It Nasty,Tyga,77,2012-08-04,2012-09-22,147,8
+221,Everyday Woman,Chris Walker,76,2012-01-07,2012-02-25,146,8
+222,Miss My Love,Antoine Dunn,79,2012-06-23,2012-10-13,144,12
+223,My Life,50 Cent Featuring Eminem & Adam Levine,6,2012-12-15,2012-12-29,143,3
+224,Go Harder,Future,65,2012-01-07,2012-02-11,143,6
+225,I Wish I Knew,Alex Boyd,68,2012-08-18,2012-10-13,143,7
+226,Good Feeling,Flo Rida,80,2012-01-07,2012-03-10,143,10
+227,"Bitch, Don't Kill My Vibe",Kendrick Lamar,31,2012-11-10,2012-12-29,141,8
+228,Daughters,Nas,78,2012-05-19,2012-07-14,141,9
+229,Who I Am,Carmen Liana,67,2012-03-03,2012-03-31,138,5
+230,Guap,Big Sean,25,2012-11-17,2012-12-29,137,7
+231,More Than You'll Ever Know,Boyz II Men Featuring Charlie Wilson,59,2012-01-07,2012-01-28,137,4
+232,Will You Be There,K'Jon,80,2012-02-25,2012-06-02,133,10
+233,How Do You Want It,Dizzy D Featuring Erin Rogers,58,2012-08-18,2012-09-22,130,6
+234,You Come First,Jacob Latimore,72,2012-08-25,2012-10-13,129,8
+235,Nothing's Real But Love,Rebecca Ferguson,68,2012-03-03,2012-04-28,126,7
+236,Wobble,V.I.C.,77,2012-01-14,2012-07-28,123,14
+237,I'll Wait (To Fall In Love),Anthony Hamilton,75,2012-01-21,2012-03-31,120,7
+238,Show You How,Q Parker,83,2012-04-14,2012-07-21,120,14
+239,Glory,Jay-Z Featuring B.I.C.,63,2012-01-21,2012-02-11,119,4
+240,I Am Your Leader,Nicki Minaj Featuring Cam'ron & Rick Ross,71,2012-09-08,2012-10-13,118,6
+241,This Time Of Night,T.I. Featuring Nelly,68,2012-03-10,2012-04-21,116,7
+242,Bandz Bandz (Get Your Money Up),BandzUp,62,2012-08-11,2012-09-08,115,5
+243,Do My Dance,Tyga Featuring 2 Chainz,32,2012-10-06,2012-12-15,113,11
+244,Mirror,Lil Wayne Featuring Bruno Mars,69,2012-01-07,2012-01-28,113,4
+245,Who Booty,Jonn Hart Featuring IamSU!,28,2012-11-17,2012-12-29,112,7
+246,Like 'Em All,Jacob Latimore Featuring Issa or Diggy Simmons,58,2012-01-07,2012-01-28,111,4
+247,Made Love Lately,DAY26,75,2012-04-07,2012-05-19,107,7
+248,Backseat Freestyle,Kendrick Lamar,29,2012-11-10,2012-12-29,106,8
+249,The Stars,PURE,78,2012-05-26,2012-06-30,105,6
+250,Original,Mystikal Featuring Birdman & Lil Wayne,80,2012-02-25,2012-03-31,105,6
+251,Let It Go (Dope Boy),Red Cafe Featuring Diddy,76,2012-02-04,2012-03-31,104,9
+252,Grown Folks,The Bar-Kays Featuring The Unknowns,77,2012-08-18,2012-10-13,104,9
+253,6 AM,Melanie Fiona & T-Pain,73,2012-03-24,2012-04-21,99,5
+254,I Luv Dem Strippers,2 Chainz Featuring Nicki Minaj,43,2012-09-15,2012-11-24,98,11
+255,Da Wop,Lil Chuckee,79,2012-07-07,2012-08-25,98,8
+256,Y.U. Mad,Birdman Featuring Nicki Minaj & Lil Wayne,65,2012-01-07,2012-01-28,94,4
+257,Turn Up The Music,Chris Brown,81,2012-03-17,2012-05-12,93,9
+258,Compliments,Tank Featuring T.I. & Kris Stephens,75,2012-09-01,2012-10-13,92,7
+259,Popped Off,T.I. Featuring Dr. Dre,75,2012-02-04,2012-03-10,91,6
+260,Backup Plan,Angie Stone,69,2012-09-22,2012-10-13,86,4
+261,Just What I Am,Kid Cudi Featuring King Chip,17,2012-10-20,2012-11-24,85,5
+262,Summertime,Z-Ro/Slim Thug: Tha King And Tha Boss,72,2012-09-29,2012-10-13,84,3
+263,Slide,Baby Bash Featuring Miguel,77,2012-01-07,2012-02-11,83,6
+264,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,36,2012-10-20,2012-12-29,82,10
+265,Fly,Nicki Minaj Featuring Rihanna,71,2012-01-07,2012-01-21,81,3
+266,Starships,Nicki Minaj,85,2012-05-05,2012-06-16,81,7
+267,Pride 'n' Joy,"Fat Joe Feat. Kanye West, Miguel, Jadakiss, Mos Def, DJ Khaled, Roscoe Dash, Busta Rhymes",81,2012-07-28,2012-08-25,80,5
+268,B*tch Bad,Lupe Fiasco,65,2012-09-29,2012-10-13,79,3
+269,Knew It All Along,Keith Sweat Featuring Johnny Gill & Gerald Levert,85,2012-04-28,2012-06-09,79,7
+270,Love Sosa,Chief Keef,22,2012-12-08,2012-12-29,78,4
+271,Money Trees,Kendrick Lamar Featuring Jay Rock,35,2012-11-10,2012-12-29,77,8
+272,Trust And Believe,Keyshia Cole,34,2012-12-01,2012-12-29,76,5
+273,What Happened To U,Usher,70,2012-09-29,2012-10-13,74,3
+274,I Love You,Phyllisia Featuring Jah Cure & Yung Joc or Urban Mystic,73,2012-01-07,2012-01-21,74,3
+275,Neva End,Future,26,2012-12-08,2012-12-29,71,4
+276,Hold Up,Ca$h Out Featuring Wale,41,2012-09-22,2012-11-24,71,5
+277,Last Love,Problem,72,2012-01-07,2012-02-04,71,5
+278,It Will Rain,Bruno Mars,83,2012-03-10,2012-04-14,69,6
+279,Awesome,Charles Jenkins & Fellowship Chicago,81,2012-08-25,2012-10-13,68,8
+280,Head Snappin,Mr. C The Slide Man,67,2012-04-14,2012-04-28,65,3
+281,Jet Life,Curren$Y Featuring Big K.R.I.T. & Wiz Khalifa,76,2012-09-29,2012-10-13,65,3
+282,At The Same Time,Eric Roberson,79,2012-06-30,2012-09-15,65,6
+283,Ah Yeah,Robert Glasper Experiment Featuring Musiq Soulchild & Chrisette Michele,86,2012-02-11,2012-05-05,65,10
+284,Sorry,Ciara,42,2012-10-06,2012-12-22,64,10
+285,m.A.A.d City,Kendrick Lamar Featuring MC Eiht,24,2012-11-10,2012-12-01,63,4
+286,Naked,Kevin McCall Featuring Big Sean,77,2012-06-30,2012-07-21,61,4
+287,Green Light,R. Kelly,77,2012-08-18,2012-09-08,61,4
+288,Where The Boys At?,OMG Girlz,77,2012-07-07,2012-08-04,61,5
+289,In The Middle,Isaac Carree,88,2012-01-14,2012-03-24,60,9
+290,Love And War,Tamar Braxton,13,2012-12-22,2012-12-29,59,2
+291,Battle Scars,Lupe Fiasco & Guy Sebastian,37,2012-11-24,2012-12-29,58,6
+292,B.L.A.B. (Ballin Like A B*tch),Ace Hood,85,2012-07-21,2012-08-25,58,6
+293,Rome Is Burning,Chachillie,67,2012-08-04,2012-10-06,57,3
+294,I Want You,Luke James,85,2012-03-17,2012-05-26,57,7
+295,Smart Girl (Dumb Booty),Tex James Featuring Stuey Rock,85,2012-06-30,2012-08-04,56,6
+296,I Need Your Glory,Earnest Pugh,90,2012-01-21,2012-05-05,54,8
+297,Let The Church Say Amen,Andrae Crouch Featuring Marvin Winans,90,2012-03-24,2012-09-29,49,10
+298,So Sophisticated,Rick Ross Featuring Meek Mill,82,2012-06-09,2012-09-22,47,7
+299,Ring Ring,Rick Ross Featuring Future,88,2012-05-05,2012-06-09,45,6
+300,Wrong Side Of A Love Song,Melanie Fiona,87,2012-09-08,2012-10-13,44,6
+301,Blame,K'LA Featuring Nas,90,2012-08-11,2012-09-08,44,5
+302,Sexify,Leah LaBelle,89,2012-05-26,2012-09-22,43,10
+303,Let It Go,Wiz Khalifa Featuring Akon,25,2012-12-22,2012-12-29,42,2
+304,All Gold Everything,Trinidad James,29,2012-12-15,2012-12-29,42,3
+305,Wildest Dreams,Brandy,68,2012-09-29,2012-10-13,42,3
+306,If You Want To,Lalah Hathaway,79,2012-01-07,2012-01-28,42,3
+307,Sweat,Ciara Featring 2 Chainz,86,2012-06-30,2012-07-21,42,4
+308,Freedom,Nicki Minaj,31,2012-11-24,2012-12-15,41,3
+309,When Christmas Comes,Mariah Carey & John Legend,60,2012-01-07,2012-01-07,41,1
+310,Someday Soon,Atmosphere,62,2012-05-05,2012-05-05,39,1
+311,I'm Ready,Psycho Sid Featuring J Dawg,80,2012-03-24,2012-04-07,38,3
+312,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,39,2012-10-27,2012-12-29,37,4
+313,Wild Ones,Flo Rida Featuring Sia,82,2012-05-19,2012-05-26,37,2
+314,You Were Meant For Me,Lalah Hathaway,85,2012-01-21,2012-02-18,37,4
+315,Way Too Gone,Young Jeezy Featuring Future,87,2012-07-21,2012-09-15,37,6
+316,Turn't Up,Lil Twist Featuring Busta Rhymes,88,2012-02-25,2012-03-17,37,4
+317,What I Be On,Trey Songz Featuring Fabolous,85,2012-01-07,2012-01-21,36,3
+318,This Time,Melanie Fiona Featuring J. Cole,89,2012-05-12,2012-06-16,35,6
+319,Mama Proud,Tito Lopez,91,2012-06-09,2012-06-30,35,4
+320,Loveeeeeee Song,Rihanna Featuring Future,31,2012-12-08,2012-12-22,34,3
+321,Only Man She Want,Popcaan,82,2012-03-31,2012-04-14,33,3
+322,Swagged Up I Be Killin,Rai P & MC Beezy,88,2012-01-07,2012-01-28,32,4
+323,Hail Mary,Trey Songz Featuring Young Jeezy & Lil Wayne,77,2012-09-01,2012-09-08,31,2
+324,Tears Of Joy,Faith Evans,79,2012-10-06,2012-10-13,31,2
+325,U Aint Bout That Life,BeatKing,94,2012-09-01,2012-10-13,31,5
+326,It's Nothing,Wiz Khalifa Featuring 2 Chainz,34,2012-12-22,2012-12-29,30,2
+327,No More,LL Cool J Featuring Ne-Yo,87,2012-02-18,2012-03-03,30,3
+328,Yes,Q Parker,88,2012-09-29,2012-10-13,30,3
+329,Love A Woman,Mary J. Blige Featuring Beyonce,89,2012-06-16,2012-06-30,30,3
+330,Turn Me On,David Guetta Featuring Nicki Minaj,92,2012-02-25,2012-05-12,30,5
+331,One Step Closer,Will Downing,84,2012-08-11,2012-09-08,29,2
+332,Trouble,Tha Native,89,2012-04-07,2012-04-28,27,3
+333,Do You...,Miguel,39,2012-11-03,2012-12-29,26,4
+334,New God Flow,Pusha T Kanye West,43,2012-08-25,2012-10-27,25,7
+335,Without You,Monica,91,2012-06-02,2012-07-14,25,5
+336,Actin' Up,Wale & Meek Mill Featuring French Montana,87,2012-09-01,2012-09-15,24,3
+337,Brand New Me,Alicia Keys,37,2012-12-15,2012-12-29,23,3
+338,Paperbond,Wiz Khalifa,39,2012-12-22,2012-12-29,23,2
+339,Wop,J. Dash,89,2012-01-07,2012-01-21,23,3
+340,So Good,B.o.B,92,2012-04-21,2012-05-12,23,4
+341,Hold On (Shut Up),MGK Featuring Young Jeezy,86,2012-09-29,2012-10-13,22,3
+342,Marvins Room Remix,"Chris Brown Featuring J. Valentine, Dawn Richard, Se7en, & Kevin Cossom",80,2012-01-21,2012-01-21,21,1
+343,Next,Dizzy D,80,2012-10-13,2012-10-13,21,1
+344,Say It's So,Mateo,90,2012-01-07,2012-01-14,21,2
+345,To The World,"Kanye West, R. Kelly",35,2012-10-20,2012-10-27,20,2
+346,Hold Me Back,Rick Ross,81,2012-09-15,2012-09-15,20,1
+347,The Walls,Mario Featuring Fabolous,83,2012-01-07,2012-01-07,18,1
+348,How Long I've Been Waiting,Aretha Franklin,91,2012-01-28,2012-02-11,18,2
+349,Miss America,J. Cole,34,2012-12-01,2012-12-01,17,1
+350,Who's Gonna Love You More,Michael Lynche,84,2012-09-22,2012-09-22,17,1
+351,Ugly Part Of Me,Avery*Sunshine,84,2012-10-13,2012-10-13,17,1
+352,What's Going On,Nicholas David,35,2012-12-15,2012-12-15,16,1
+353,M.I.A.,Omarion & Wale,85,2012-09-22,2012-09-22,16,1
+354,Itchin',DJ Infamous Featuring Future,85,2012-09-15,2012-09-15,16,1
+355,Sorry,T.I. Featuring Andre 3000,36,2012-12-15,2012-12-15,15,1
+356,Ten Thousand Hours,Macklemore & Ryan Lewis,41,2012-10-27,2012-11-03,15,2
+357,Burn,Meek Mill Featuring Big Sean,86,2012-08-04,2012-08-04,15,1
+358,I Feel Good,Fred Hammond,92,2012-02-04,2012-05-19,15,5
+359,And I Am Telling You I'm Not Going,Trevin Hunte,37,2012-12-22,2012-12-22,14,1
+360,The Art Of Peer Pressure,Kendrick Lamar,39,2012-11-10,2012-11-17,14,2
+361,Still Able,James Fortune & FIYA,87,2012-02-04,2012-02-04,14,1
+362,Believe It,Meek Mill Featuring Rick Ross,38,2012-11-17,2012-11-17,13,1
+363,Trap Back Jumpin,T.I.,38,2012-12-01,2012-12-01,13,1
+364,Medicated,Wiz Khalifa Featuring Chevy Woods & Juicy J,44,2012-12-22,2012-12-29,13,2
+365,Temptation,Brian McKnight Featuring Brian McKnight Jr.,88,2012-01-07,2012-01-07,13,1
+366,Ray Bands,B.o.B,93,2012-06-23,2012-06-30,13,2
+367,Sexy And I Know It,LMFAO,94,2012-01-07,2012-02-25,13,3
+368,Celebrate,Common,95,2012-02-04,2012-03-03,13,4
+369,Nobodys Business,Rihanna Featuring Chris Brown,39,2012-12-08,2012-12-08,12,1
+370,The Boys,Nicki Minaj & Cassie,41,2012-11-03,2012-12-08,12,3
+371,Swaggin,iAMSU! Featuring C.F.O.P.A.,94,2012-01-07,2012-01-28,12,3
+372,I'm Legit,Nicki Minaj Featuring Ciara,40,2012-12-08,2012-12-08,11,1
+373,I Look To You,Whitney Houston & R. Kelly,90,2012-10-13,2012-10-13,11,1
+374,I Got A Sack,Dirty Dave Da Fly Guy,93,2012-04-14,2012-05-05,11,2
+375,Old Thing Back,Rantz Davis,96,2012-04-21,2012-05-05,11,3
+376,Sherane a.k.a. Master Splinter's Daughter,Kendrick Lamar,42,2012-11-10,2012-11-17,10,2
+377,Shot Caller Remix,12 Rounz,93,2012-02-11,2012-02-18,10,2
+378,Be Still,Yolanda Adams,95,2012-01-21,2012-02-11,10,3
+379,Numb,Rihanna Featuring Eminem,42,2012-12-08,2012-12-08,9,1
+380,Can't Live,Holliday,92,2012-05-12,2012-05-12,9,1
+381,Hood Rich Anthem,"DJ Scream Featuring 2 Chainz, Future, Waka Flocka Flame, Yo Gotti & Gucci Mane",96,2012-09-15,2012-10-06,8,2
+382,High School,Nicki Minaj Featuring Lil Wayne,44,2012-12-08,2012-12-08,7,1
+383,She Don't Put It Down,Joe Budden Featuring Lil Wayne & Tank,44,2012-11-03,2012-11-03,7,1
+384,good kid,Kendrick Lamar,44,2012-11-10,2012-11-10,7,1
+385,Everyday Birthday,Swizz Beatz Featuring Chris Brown & Ludacris,44,2012-12-01,2012-12-01,7,1
+386,"Mary, Did You Know?",CeeLo Green,44,2012-12-29,2012-12-29,7,1
+387,Yuck!,2 Chainz Featuring Lil Wayne,48,2012-10-27,2012-11-03,6,2
+388,I Love My Bitches,Rick Ross,95,2012-01-14,2012-01-14,6,1
+389,Everything's A Go,French Montana,96,2012-03-03,2012-03-03,5,1
+390,Still Got It,Tyga Featuring Drake,96,2012-01-14,2012-01-14,5,1
+391,Christmas With My Girl,Mindless Behavior,96,2012-01-07,2012-01-07,5,1
+392,Crazy [Baby],Rahsaan Patterson Featuring Faith Evans & Shanice,97,2012-02-04,2012-03-31,5,2
+393,Don't Make Em Like You,Ne-Yo Featuring Wiz Khalifa,47,2012-11-24,2012-11-24,4,1
+394,Bluffin,Wiz Khalifa Featuring Berner,47,2012-12-29,2012-12-29,4,1
+395,My Love Is All I Have,Charlie Wilson,49,2012-12-15,2012-12-29,4,2
+396,All That (Lady),"The Game Featuring Lil Wayne, Big Sean, Fabolous & Jeremih",48,2012-12-29,2012-12-29,3,1
+397,Pledge Of Allegiance,"DJ Drama Featuring Wiz Khalifa, Planet VI & B.o.B",48,2012-10-20,2012-10-20,3,1
+398,First Date,50 Cent Featuring Too $hort,48,2012-11-10,2012-11-10,3,1
+399,Spiritual,Donald Lawrence & Co.,98,2012-02-11,2012-02-11,3,1
+400,Just Like That,R. Kelly,98,2012-01-14,2012-01-14,3,1
+401,Ain't No Way Around It,DJ Drama Featuring Future,98,2012-05-26,2012-05-26,3,1
+402,Another One,Slice 9 Featuring Future & Levi Leer,98,2012-09-29,2012-09-29,3,1
+403,The Morning,"Raekwon, Pusha T, Common, 2 Chainz, Cyhi The Prynce, Kid Cudi, D'Banj",49,2012-10-20,2012-10-20,2,1
+404,Keep It Trill,Kirko Bangz,49,2012-12-22,2012-12-22,2,1
+405,I Won't Go Back,William McDowell,100,2012-05-12,2012-05-12,1,1

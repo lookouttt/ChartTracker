@@ -1,0 +1,2477 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Sail,AWOLNATION,2,2011-04-23,2018-03-10,18113,268
+2,Radioactive,Imagine Dragons,1,2012-08-11,2019-01-26,16583,263
+3,Don't Stop Believin',Journey,7,2010-01-23,2019-11-30,15996,418
+4,"Hey, Soul Sister",Train,1,2010-01-23,2015-02-28,11601,143
+5,Rolling In The Deep,Adele,1,2011-05-07,2016-07-23,11410,144
+6,Shut Up And Dance,WALK THE MOON,1,2014-09-27,2018-01-13,10738,115
+7,Eye Of The Tiger,Survivor,9,2010-01-23,2019-11-30,10661,304
+8,Demons,Imagine Dragons,2,2012-08-18,2019-01-12,10298,179
+9,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,1,2013-02-23,2017-09-23,10031,156
+10,I Won't Give Up,Jason Mraz,1,2012-01-21,2016-11-12,9864,162
+11,Bohemian Rhapsody,Queen,1,2010-05-15,2019-12-21,9217,313
+12,Pumped Up Kicks,Foster The People,1,2011-02-05,2016-11-05,9095,113
+13,Thunderstruck,AC/DC,2,2012-12-08,2019-12-21,9089,315
+14,Dog Days Are Over,Florence + The Machine,1,2010-07-31,2017-07-29,8972,123
+15,Stressed Out,twenty one pilots,1,2015-05-16,2018-01-13,8590,104
+16,Centuries,Fall Out Boy,1,2014-09-27,2017-09-16,8530,97
+17,Take Me To Church,Hozier,1,2014-05-31,2019-11-30,8463,94
+18,Home,Phillip Phillips,1,2012-06-09,2014-09-06,8402,111
+19,Secrets,OneRepublic,1,2010-04-03,2014-10-25,8393,105
+20,Pompeii,Bastille,1,2013-07-20,2016-07-16,8292,102
+21,Somebody That I Used To Know,Gotye Featuring Kimbra,1,2011-12-24,2017-09-16,8203,104
+22,Little Lion Man,Mumford & Sons,2,2010-08-07,2014-03-01,8186,127
+23,Ho Hey,The Lumineers,1,2012-05-26,2016-04-30,8172,97
+24,Let Her Go,Passenger,1,2013-06-22,2016-03-12,8151,103
+25,Ex's & Oh's,Elle King,1,2015-03-07,2016-11-26,8031,88
+26,Riptide,Vance Joy,3,2014-06-07,2016-06-18,7838,89
+27,Some Nights,fun.,1,2012-03-10,2017-01-14,7813,91
+28,Royals,Lorde,1,2013-06-29,2017-09-16,7621,89
+29,We Are Young,fun. Featuring Janelle Monae,1,2011-10-08,2017-01-28,7574,97
+30,It's Time,Imagine Dragons,3,2012-05-05,2015-03-07,7288,112
+31,Paradise,Coldplay,3,2011-10-01,2018-03-03,7183,104
+32,The Sound Of Silence,Disturbed,1,2015-09-12,2019-12-28,7169,191
+33,Someone Like You,Adele,1,2011-09-10,2013-06-15,6921,92
+34,Best Day Of My Life,American Authors,2,2013-10-26,2016-06-25,6906,98
+35,I'm Yours,Jason Mraz,8,2010-01-23,2019-04-20,6875,174
+36,Renegades,X Ambassadors,2,2015-04-11,2016-09-24,6410,72
+37,Viva La Vida,Coldplay,3,2010-01-23,2016-10-01,6299,159
+38,Little Talks,Of Monsters And Men,4,2012-02-18,2014-04-12,6206,101
+39,Animal,Neon Trees,1,2010-05-08,2014-05-10,6165,71
+40,Breakeven,The Script,2,2010-01-23,2014-11-01,6087,91
+41,Uma Thurman,Fall Out Boy,1,2015-01-31,2016-04-09,5982,63
+42,Let It Go,James Bay,1,2015-03-07,2017-01-21,5930,73
+43,Set Fire To The Rain,Adele,1,2011-12-03,2013-06-08,5635,79
+44,Safe And Sound,Capital Cities,2,2013-03-16,2014-11-08,5562,82
+45,Rumour Has It,Adele,4,2011-05-21,2013-05-11,5558,91
+46,Everybody Talks,Neon Trees,2,2012-01-07,2013-05-18,5318,64
+47,Young And Beautiful,Lana Del Rey,2,2013-05-11,2016-09-03,5275,104
+48,I Will Wait,Mumford & Sons,2,2012-08-25,2015-03-28,5260,74
+49,Unsteady,X Ambassadors,2,2015-11-14,2017-08-12,5228,77
+50,The Cave,Mumford & Sons,1,2010-11-20,2013-03-30,5206,90
+51,"Gone, Gone, Gone",Phillip Phillips,3,2012-12-08,2014-09-20,5135,77
+52,Come With Me Now,KONGOS,1,2014-03-08,2015-05-02,5104,60
+53,Stolen Dance,Milky Chance,2,2014-06-28,2015-09-12,4893,63
+54,The A Team,Ed Sheeran,4,2012-06-02,2016-01-16,4886,95
+55,Ride,twenty one pilots,1,2015-05-30,2017-04-15,4856,69
+56,Marry Me,Train,1,2010-11-06,2013-07-13,4765,67
+57,On Top Of The World,Imagine Dragons,7,2013-03-09,2016-11-26,4764,103
+58,A Sky Full Of Stars,Coldplay,1,2014-05-17,2016-09-24,4754,58
+59,Team,Lorde,1,2013-09-28,2015-01-24,4553,61
+60,Sweater Weather,The Neighbourhood,4,2013-03-16,2016-04-23,4537,78
+61,Drive By,Train,3,2012-01-28,2013-03-23,4511,61
+62,Rhythm Of Love,Plain White T's,2,2010-08-28,2013-04-27,4425,59
+63,Smile,Uncle Kracker,3,2010-01-23,2011-12-03,4334,57
+64,Budapest,George Ezra,2,2014-10-04,2015-11-28,4331,58
+65,For The First Time,The Script,1,2010-11-27,2012-01-14,4244,50
+66,Drops Of Jupiter (Tell Me),Train,8,2010-01-30,2016-10-08,4241,112
+67,She Will Be Loved,Maroon 5,8,2010-04-17,2016-09-03,3976,113
+68,Hotel California,Eagles,6,2010-07-10,2019-10-19,3943,133
+69,Fireflies,Owl City,1,2010-01-23,2017-07-22,3934,66
+70,Heathens,twenty one pilots,1,2016-07-09,2018-01-20,3826,70
+71,Uprising,Muse,2,2010-01-23,2012-10-20,3658,70
+72,Too Close,Alex Clare,2,2012-08-04,2013-10-12,3599,45
+73,Ain't It Fun,Paramore,1,2014-01-04,2015-04-18,3593,41
+74,Adventure Of A Lifetime,Coldplay,2,2015-11-28,2016-10-29,3493,48
+75,The Only Exception,Paramore,1,2010-05-22,2011-08-27,3303,42
+76,HandClap,Fitz And The Tantrums,1,2016-04-16,2018-02-17,3225,93
+77,Immortals,Fall Out Boy,5,2014-11-01,2016-02-13,3220,61
+78,All The Right Moves,OneRepublic,3,2010-01-23,2011-07-16,3207,41
+79,I Bet My Life,Imagine Dragons,2,2014-11-15,2015-08-22,3153,41
+80,S.O.B.,Nathaniel Rateliff & The Night Sweats,4,2015-08-22,2016-08-20,3150,49
+81,Back In Black,AC/DC,5,2012-12-08,2019-10-19,3150,111
+82,Shake It Out,Florence + The Machine,8,2011-10-29,2013-06-01,3111,71
+83,Carry On,fun.,2,2012-09-15,2013-12-28,3089,47
+84,Still Into You,Paramore,4,2013-04-27,2015-02-28,3069,55
+85,Do I Wanna Know?,Arctic Monkeys,13,2013-07-06,2015-02-28,3066,74
+86,Hymn For The Weekend,Coldplay,2,2015-12-26,2017-02-11,2994,44
+87,Madness,Muse,4,2012-09-08,2013-09-14,2952,54
+88,Home,Edward Sharpe & The Magnetic Zeros,17,2010-06-26,2015-02-07,2754,85
+89,Thunder,Imagine Dragons,1,2017-05-13,2019-12-21,2746,137
+90,Sucker For Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",1,2016-07-16,2017-05-06,2645,36
+91,Believer,Imagine Dragons,1,2017-02-18,2019-12-21,2613,147
+92,Waiting For The End,Linkin Park,3,2010-10-02,2011-08-06,2451,39
+93,Use Somebody,Kings Of Leon,3,2010-01-23,2016-11-05,2376,59
+94,Every Teardrop Is A Waterfall,Coldplay,2,2011-06-18,2012-05-19,2334,30
+95,Ophelia,The Lumineers,5,2016-02-27,2019-12-14,2328,48
+96,First,Cold War Kids,5,2015-06-13,2016-08-27,2195,52
+97,This Afternoon,Nickelback,2,2010-04-10,2010-09-25,2182,25
+98,I Never Told You,Colbie Caillat,4,2010-03-27,2011-02-26,2133,37
+99,Bring Me To Life,Evanescence Featuring Paul McCoy,7,2010-01-23,2018-04-14,2122,68
+100,Heartbreak Warfare,John Mayer,4,2010-01-23,2010-09-25,2116,35
+101,Fix You,Coldplay,5,2010-07-31,2016-05-14,2101,59
+102,Habits (Stay High),Tove Lo,1,2014-06-21,2014-10-04,2048,16
+103,All Summer Long,Kid Rock,7,2013-02-02,2018-07-14,2030,71
+104,Livin' On A Prayer,Bon Jovi,7,2010-01-23,2017-09-09,1993,69
+105,If It's Love,Train,4,2010-06-12,2013-07-13,1953,34
+106,Say Hey (I Love You),Michael Franti & Spearhead,8,2010-01-23,2011-05-21,1951,48
+107,Tear In My Heart,twenty one pilots,4,2015-04-18,2016-09-10,1922,48
+108,Irresistible,Fall Out Boy,3,2015-01-24,2016-05-07,1912,28
+109,Victorious,Panic! At The Disco,3,2015-10-17,2017-01-21,1910,43
+110,Tongue Tied,Grouplove,7,2011-12-17,2012-10-20,1890,45
+111,Way Down We Go,KALEO,1,2015-12-12,2019-05-18,1850,62
+112,Whatever It Takes,Imagine Dragons,1,2017-05-27,2019-11-23,1842,118
+113,Lego House,Ed Sheeran,3,2012-06-30,2015-04-18,1827,39
+114,High Hopes,Panic! At The Disco,1,2018-06-02,2019-12-28,1816,82
+115,Tennis Court,Lorde,7,2013-07-20,2014-09-13,1806,47
+116,Burn It Down,Linkin Park,4,2012-05-05,2013-02-02,1805,40
+117,Nothing,The Script,4,2011-02-05,2012-02-11,1740,27
+118,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,3,2010-12-11,2019-12-28,1659,52
+119,In The Air Tonight,Phil Collins,8,2010-01-23,2019-11-02,1654,63
+120,Porn Star Dancing,My Darkest Days Featuring Zakk Wylde,5,2010-08-21,2011-05-21,1644,40
+121,Feel It Still,Portugal. The Man,1,2017-04-22,2019-12-07,1582,88
+122,Lonely Boy,The Black Keys,9,2011-11-12,2013-04-06,1579,43
+123,Dangerous,Big Data Featuring Joywave,12,2014-06-14,2015-04-11,1571,44
+124,Brother,NEEDTOBREATHE Featuring Gavin DeGraw,5,2015-02-21,2015-11-21,1564,34
+125,Country Song,Seether,5,2011-03-26,2011-09-24,1542,26
+126,Blackout,Breathe Carolina,4,2011-07-02,2012-04-21,1540,29
+127,Sex On Fire,Kings Of Leon,10,2010-01-23,2013-10-12,1519,48
+128,The Walker,Fitz And The Tantrums,9,2014-02-08,2014-11-08,1401,40
+129,When We Stand Together,Nickelback,4,2011-10-15,2012-02-18,1386,19
+130,Sleeping With A Friend,Neon Trees,5,2014-02-01,2014-08-09,1379,26
+131,21 Guns,Green Day,2,2010-01-23,2016-01-16,1348,37
+132,Stubborn Love,The Lumineers,12,2012-12-01,2013-09-07,1330,40
+133,Sweet Home Alabama,Lynyrd Skynyrd,5,2010-06-05,2018-09-15,1306,56
+134,Half Of My Heart,John Mayer,5,2010-06-19,2010-11-20,1295,23
+135,We Will Rock You,Queen,3,2010-02-06,2019-11-30,1280,92
+136,Spirits,The Strumbellas,10,2016-03-12,2016-11-12,1253,35
+137,The Adventures Of Rain Dance Maggie,Red Hot Chili Peppers,3,2011-08-06,2012-01-14,1178,21
+138,Yellow Flicker Beat,Lorde,2,2014-10-18,2015-04-04,1172,20
+139,River,Bishop Briggs,8,2016-02-20,2018-10-20,1169,36
+140,Magic,Coldplay,2,2014-03-22,2014-08-16,1158,21
+141,Princess Of China,Coldplay Featuring Rihanna,3,2011-11-12,2012-06-23,1156,28
+142,Work Song,Hozier,12,2014-08-16,2015-08-22,1135,45
+143,Girls Chase Boys,Ingrid Michaelson,3,2014-02-22,2014-07-26,1134,18
+144,50 Ways To Say Goodbye,Train,4,2012-07-07,2012-10-20,1131,16
+145,Natural,Imagine Dragons,1,2018-07-28,2019-11-16,1106,61
+146,You Shook Me All Night Long,AC/DC,6,2012-12-08,2017-12-09,1105,53
+147,Country Boy,Aaron Lewis Featuring George Jones & Charlie Daniels,8,2010-12-25,2015-08-01,1105,32
+148,Dream On,Aerosmith,8,2010-06-05,2016-11-12,1102,42
+149,Take A Walk,Passion Pit,19,2012-05-26,2013-04-06,1082,37
+150,Believe,Mumford & Sons,1,2015-03-28,2015-10-17,1077,26
+151,I See Fire,Ed Sheeran,7,2013-11-23,2015-03-07,1068,39
+152,Ain't No Rest For The Wicked,Cage The Elephant,15,2010-01-23,2016-11-05,1068,47
+153,Car Radio,twenty one pilots,5,2014-05-03,2017-01-14,1020,40
+154,The Catalyst,Linkin Park,1,2010-08-21,2010-11-27,1015,15
+155,Halfway Gone,Lifehouse,7,2010-01-23,2010-07-03,1011,24
+156,Sing,My Chemical Romance,5,2010-11-20,2011-07-09,1004,28
+157,Christmas Canon,Trans-Siberian Orchestra,4,2010-12-11,2017-01-07,1001,32
+158,Walking On A Dream,Empire Of The Sun,2,2011-12-31,2016-06-11,986,22
+159,Hallelujah,Panic! At The Disco,2,2015-05-02,2016-01-23,977,33
+160,Creep,Radiohead,10,2010-09-25,2016-11-05,964,40
+161,Electric Love,BORNS,8,2015-02-07,2016-08-27,954,38
+162,Gold On The Ceiling,The Black Keys,17,2011-12-24,2013-03-23,952,36
+163,Purple Rain,Prince And The Revolution,1,2016-05-07,2018-02-17,951,17
+164,Out Of My League,Fitz And The Tantrums,23,2013-05-25,2014-11-01,951,41
+165,Cecilia And The Satellite,Andrew McMahon In The Wilderness,7,2015-03-21,2015-12-12,950,27
+166,Sweet Child O' Mine,Guns N' Roses,10,2010-07-17,2018-07-14,934,49
+167,Sweet Disposition,The Temper Trap,11,2010-01-23,2014-09-20,931,38
+168,Jungle,Jamie N Commons & X Ambassadors,3,2014-04-26,2014-12-13,930,26
+169,Kids,MGMT,17,2010-02-13,2012-08-18,930,45
+170,Just Breathe,Pearl Jam,7,2010-01-23,2014-05-31,929,26
+171,September,Daughtry,7,2010-05-29,2011-01-15,915,21
+172,Zombie,Bad Wolves,1,2018-02-03,2019-11-23,912,58
+173,She's So Mean,matchbox twenty,8,2012-06-30,2012-12-01,908,23
+174,Someone New,Hozier,5,2015-07-04,2016-01-02,901,25
+175,Mountain Sound,Of Monsters And Men,20,2012-04-21,2013-09-07,894,39
+176,Roots,Imagine Dragons,1,2015-09-12,2016-02-20,883,20
+177,Miss Jackson,Panic! At The Disco Featuring Lolo,5,2013-08-03,2014-03-08,869,31
+178,Heartbeat,The Fray,4,2011-10-29,2012-03-17,850,21
+179,Warriors,Imagine Dragons,6,2014-10-04,2017-06-24,834,28
+180,New Divide,Linkin Park,13,2010-01-23,2011-02-19,828,40
+181,America's Sweetheart,Elle King,6,2016-03-05,2016-08-13,822,23
+182,Iris,Goo Goo Dolls,14,2010-09-18,2019-12-07,822,40
+183,Love Don't Die,The Fray,8,2013-11-09,2014-04-19,806,22
+184,Cut The Cord,Shinedown,4,2015-07-18,2015-11-28,801,18
+185,2 Heads,Coleman Hell,12,2015-07-11,2016-02-20,782,28
+186,Carry On Wayward Son,Kansas,22,2011-08-06,2017-04-22,782,40
+187,Dark Necessities,Red Hot Chili Peppers,5,2016-05-21,2016-10-29,764,24
+188,Tighten Up,The Black Keys,11,2010-08-07,2011-03-26,760,31
+189,Bad Company,Five Finger Death Punch,15,2010-07-03,2013-01-19,749,28
+190,Broken,lovelytheband,3,2018-02-17,2019-05-04,747,56
+191,"Hey Look Ma, I Made It",Panic! At The Disco,1,2018-07-07,2019-12-07,740,37
+192,Jekyll And Hyde,Five Finger Death Punch,8,2015-07-04,2015-11-21,735,20
+193,Seven Nation Army,The White Stripes,4,2010-04-03,2019-07-13,734,43
+194,I Write Sins Not Tragedies,Panic! At The Disco,7,2011-04-16,2018-04-14,731,31
+195,Don't Stop Me Now,Queen,4,2018-11-17,2019-12-07,712,53
+196,How To Save A Life,The Fray,16,2011-04-16,2016-02-27,711,36
+197,Nightmare,Avenged Sevenfold,2,2010-06-05,2011-01-08,710,25
+198,Nothing Without Love,Nate Ruess,4,2015-03-14,2015-06-20,710,14
+199,You And Your Heart,Jack Johnson,2,2010-04-24,2010-08-14,695,17
+200,Faster,Matt Nathanson,6,2011-07-09,2012-02-04,695,17
+201,Under Pressure,Queen & David Bowie,4,2011-06-25,2019-10-12,690,53
+202,Shots,Imagine Dragons,3,2015-02-14,2015-10-10,687,23
+203,Let It Be,The Beatles,2,2010-12-04,2019-10-12,684,18
+204,Human,Rag'n'Bone Man,2,2017-02-04,2018-09-29,684,46
+205,I Love Rock 'N Roll,Joan Jett & the Blackhearts,10,2010-03-27,2017-02-04,679,28
+206,Sit Next To Me,Foster The People,3,2018-01-20,2019-01-12,676,41
+207,"Save Me, San Francisco",Train,8,2011-06-25,2011-10-22,670,18
+208,Death Of A Bachelor,Panic! At The Disco,7,2016-02-06,2018-01-06,666,34
+209,One Day,Matisyahu,7,2010-01-30,2016-08-27,659,21
+210,Another One Bites The Dust,Queen,5,2011-04-30,2019-11-02,656,53
+211,Wish I Knew You,The Revivalists,4,2017-03-25,2018-01-13,654,43
+212,I Wanna Get Better,Bleachers,11,2014-04-19,2014-10-11,645,24
+213,Walk,Foo Fighters,11,2011-04-30,2012-03-17,645,26
+214,Landslide,Fleetwood Mac,12,2011-03-26,2017-11-18,645,36
+215,Maybe,Sick Puppies,9,2010-11-20,2011-04-09,643,20
+216,Picture,Kid Rock Featuring Sheryl Crow,6,2013-02-02,2017-09-30,637,25
+217,Kings And Queens,Thirty Seconds To Mars,7,2010-01-23,2010-12-18,629,24
+218,If You Only Knew,Shinedown,8,2010-01-23,2010-05-15,627,17
+219,Clocks,Coldplay,12,2010-09-25,2016-03-05,627,29
+220,Wow,Beck,7,2016-06-25,2016-11-19,626,22
+221,No Roots,Alice Merton,4,2017-11-04,2018-11-03,625,40
+222,Somewhere Only We Know,Keane,3,2011-05-14,2018-12-15,622,18
+223,Don't Stop (Color On The Walls),Foster The People,17,2011-11-19,2012-04-28,622,23
+224,Young Blood,The Naked And Famous,20,2011-02-26,2012-05-12,620,34
+225,Take It All Back,Judah & The Lion,5,2016-10-08,2017-10-14,618,47
+226,Alone Together,Fall Out Boy,12,2013-05-04,2014-02-22,616,20
+227,Hold Back The River,James Bay,13,2015-04-04,2016-10-29,611,24
+228,Lay Me Down,The Dirty Heads Featuring Rome,17,2010-05-01,2010-10-16,597,25
+229,Radioactive,Kings Of Leon,3,2010-10-02,2010-12-18,592,11
+230,When Doves Cry,Prince,2,2016-05-07,2017-07-22,590,10
+231,Emperor's New Clothes,Panic! At The Disco,3,2015-11-07,2016-02-20,590,14
+232,Harlem,New Politics,16,2013-06-08,2014-02-08,580,29
+233,Dreams,Beck,5,2015-07-04,2015-10-31,576,18
+234,Blue Christmas,Elvis Presley,11,2010-12-18,2019-12-28,566,33
+235,Heaven Knows,The Pretty Reckless,19,2013-12-07,2014-09-06,564,27
+236,Peace,O.A.R.,11,2014-03-15,2014-09-27,546,22
+237,Somebody To Love,Queen,4,2015-12-26,2019-10-12,544,42
+238,Wonderwall,Oasis,11,2010-07-03,2016-11-26,541,23
+239,1901,Phoenix,15,2010-01-23,2010-09-04,540,25
+240,Here Comes The Sun,The Beatles,4,2010-12-04,2019-10-12,536,19
+241,Rx (Medicate),Theory Of A Deadman,4,2017-08-19,2018-05-05,531,36
+242,Glory And Gore,Lorde,8,2013-10-19,2014-05-31,527,22
+243,Santa Claus Is Comin' To Town,Bruce Springsteen,11,2010-12-18,2019-12-28,522,31
+244,The Scientist,Coldplay,7,2010-03-20,2016-02-27,519,25
+245,Brand New,Ben Rector,9,2016-05-28,2016-12-10,519,22
+246,Heavy,Linkin Park Featuring Kiiara,1,2017-03-11,2018-01-13,518,26
+247,Africa,Weezer,2,2018-06-09,2019-02-09,512,26
+248,Closer To The Edge,Thirty Seconds To Mars,14,2010-10-30,2011-06-18,510,21
+249,Summertime Sadness,Lana Del Rey & Cedric Gervais,3,2013-06-08,2013-08-10,505,10
+250,(It) Feels So Good,Steven Tyler,2,2011-05-28,2011-07-23,502,9
+251,Hail To The King,Avenged Sevenfold,9,2013-08-03,2014-01-11,501,19
+252,Set The Fire To The Third Bar,Snow Patrol Featuring Martha Wainwright,3,2010-01-30,2010-03-06,496,6
+253,Somebody That I Used To Know,Walk Off The Earth,12,2012-01-28,2012-06-02,493,19
+254,Hurt,Johnny Cash,9,2011-10-22,2019-10-12,492,33
+255,Flawless,MercyMe,22,2015-06-06,2015-11-07,488,23
+256,Yellow,Coldplay,8,2010-10-23,2016-02-27,476,22
+257,We Are The Champions,Queen,6,2011-06-25,2019-11-30,473,46
+258,Bitter Sweet Symphony,The Verve,11,2010-09-25,2019-06-08,471,26
+259,Let's Go Crazy,Prince And The Revolution,4,2016-05-07,2017-07-15,469,10
+260,Hallelujah,Jeff Buckley,5,2010-02-06,2018-03-03,468,26
+261,Reflections,MisterWives,16,2014-10-25,2015-04-11,466,25
+262,Walk On Water,Thirty Seconds To Mars,4,2017-09-09,2018-03-24,461,30
+263,Left Hand Free,alt-J,9,2014-07-26,2016-06-04,460,21
+264,The Man Who Can't Be Moved,The Script,10,2010-07-24,2013-06-01,459,16
+265,First Kiss,Kid Rock,3,2015-01-24,2015-04-04,458,10
+266,Chocolate,The 1975,12,2014-01-18,2014-05-24,457,17
+267,What Kind Of Man,Florence + The Machine,5,2015-02-28,2015-06-27,456,14
+268,I Don't Want To Miss A Thing,Aerosmith,7,2010-04-10,2016-07-02,454,25
+269,Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,4,2010-12-18,2019-12-28,450,22
+270,Blank Space,I Prevail,5,2015-01-24,2015-08-22,450,14
+271,Chasing Cars,Snow Patrol,8,2010-03-13,2016-09-03,450,18
+272,Say Amen (Saturday Night),Panic! At The Disco,3,2018-03-31,2019-01-12,449,32
+273,In The End,Linkin Park,3,2011-01-08,2017-08-26,442,25
+274,Bad Liar,Imagine Dragons,1,2018-11-17,2019-08-03,440,26
+275,Settle Down,No Doubt,3,2012-08-04,2012-10-20,439,12
+276,Cough Syrup,Young The Giant,14,2011-11-05,2013-10-26,436,24
+277,Midnight,Coldplay,1,2014-05-03,2014-05-24,435,4
+278,Bored To Death,Blink-182,8,2016-05-14,2016-09-17,435,15
+279,Gives You Hell,The All-American Rejects,11,2010-01-23,2017-07-29,434,23
+280,Little Red Corvette,Prince,3,2016-05-07,2016-06-18,433,7
+281,Vanilla Twilight,Owl City,14,2010-01-23,2010-05-08,433,16
+282,Black Betty,Ram Jam,9,2011-04-30,2016-03-12,427,22
+283,Falling For You,Colbie Caillat,9,2010-01-23,2011-07-30,426,18
+284,Cancer,twenty one pilots,6,2016-10-01,2017-01-14,425,10
+285,The Sound,The 1975,4,2016-02-06,2016-10-01,422,17
+286,Monster,Paramore,3,2011-06-25,2011-08-27,421,10
+287,Feel Invincible,Skillet,9,2016-06-11,2016-11-26,421,21
+288,Crazy Train,Ozzy Osbourne,16,2010-07-10,2013-07-06,421,23
+289,Christmas Lights,Coldplay,1,2010-12-18,2011-01-08,406,4
+290,Like We Used To,A Rocket To The Moon,6,2010-05-22,2010-11-06,405,15
+291,Enter Sandman,Metallica,9,2010-01-23,2019-11-23,403,36
+292,Ship To Wreck,Florence + The Machine,8,2015-04-25,2015-11-07,401,18
+293,Shake Me Down,Cage The Elephant,8,2011-01-29,2011-05-14,399,16
+294,Iridescent,Linkin Park,5,2011-06-18,2011-10-22,396,9
+295,Kryptonite,3 Doors Down,6,2014-02-22,2017-02-04,396,16
+296,A Light That Never Comes,Linkin Park X Steve Aoki,5,2013-10-05,2013-12-28,391,13
+297,Smells Like Teen Spirit,Nirvana,13,2011-04-02,2017-10-14,390,29
+298,Chain Breaker,Zach Williams,10,2016-10-15,2017-03-18,387,21
+299,Under And Over It,Five Finger Death Punch,4,2011-08-20,2011-11-19,386,13
+300,Mr. Brightside,The Killers,6,2013-11-30,2018-07-28,384,11
+301,Get Up!,Korn Featuring Skrillex,12,2011-05-28,2011-10-15,377,20
+302,Come To Me,Goo Goo Dolls,20,2013-10-26,2014-03-22,377,20
+303,Monster,Skillet,26,2010-01-23,2012-01-14,376,23
+304,"Sugar, We're Goin Down",Fall Out Boy,10,2010-03-13,2017-05-20,375,22
+305,Somebody Else,The 1975,8,2016-03-05,2017-04-29,372,29
+306,Imagine,John Lennon,9,2010-10-23,2015-12-05,369,13
+307,Good Grief,Bastille,10,2016-07-09,2016-11-26,365,15
+308,Bully,Shinedown,18,2012-01-21,2012-05-12,362,15
+309,Awake And Alive,Skillet,19,2011-01-29,2011-07-30,360,21
+310,Failure,Breaking Benjamin,3,2015-04-11,2015-07-04,359,13
+311,Hallelujah,Matthew Schuler,4,2013-11-30,2014-01-04,359,6
+312,Blue On Black,"Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",1,2018-06-02,2019-10-05,354,23
+313,Someday,Rob Thomas,8,2010-01-23,2011-04-16,350,16
+314,Fever,The Black Keys,7,2014-04-12,2014-07-19,348,11
+315,One Foot,WALK THE MOON,4,2017-10-14,2018-05-05,346,24
+316,The Night We Met,Lord Huron,3,2017-04-22,2018-08-04,345,26
+317,Take Me To Church,Matt McAndrew,4,2014-12-06,2015-01-03,340,5
+318,Who You Love,John Mayer Featuring Katy Perry,6,2013-09-07,2014-02-08,340,11
+319,Skinny Love,Birdy,24,2012-04-07,2015-03-21,340,28
+320,Mad World,Michael Andrews Featuring Gary Jules,11,2010-08-14,2015-08-15,338,18
+321,Simple Man,Lynyrd Skynyrd,15,2010-06-05,2018-09-08,331,18
+322,Gone Away,Five Finger Death Punch,4,2017-12-23,2018-06-02,330,24
+323,The Golden Age,The Asteroids Galaxy Tour,10,2011-04-30,2011-09-17,329,11
+324,Cigarette Daydreams,Cage The Elephant,10,2014-09-27,2015-04-04,327,15
+325,Go Big Or Go Home,American Authors,12,2015-06-06,2015-09-12,326,12
+326,Run,Matt Nathanson Featuring Sugarland,4,2011-07-09,2012-06-16,323,14
+327,You Found Me,The Fray,17,2010-01-23,2012-05-26,323,22
+328,Hey Jude,The Beatles,6,2010-12-04,2019-07-13,321,14
+329,Born In The USA,Bruce Springsteen,3,2010-07-17,2019-07-13,320,10
+330,Clouds,Zach Sobiech,1,2013-05-25,2013-12-28,317,5
+331,Lips Of An Angel,Hinder,12,2010-03-20,2019-06-01,309,21
+332,I'm Shipping Up To Boston,Dropkick Murphys,10,2010-03-27,2019-03-30,308,14
+333,Atlas,Coldplay,6,2013-09-21,2013-12-28,307,10
+334,Faithfully,Journey,20,2010-06-26,2016-03-05,303,19
+335,Cryin' Like A Bitch!,Godsmack,9,2010-03-20,2010-05-29,302,11
+336,The Final Countdown,Europe,13,2011-06-11,2015-11-28,302,11
+337,My Body,Young The Giant,4,2011-06-25,2019-12-14,301,9
+338,Helena Beat,Foster The People,20,2011-08-27,2011-12-17,300,16
+339,Numb,Linkin Park,2,2011-10-29,2017-09-02,299,22
+340,Piano Man,Billy Joel,20,2013-12-14,2016-10-08,298,19
+341,Up All Night,Blink-182,4,2011-07-30,2011-08-27,296,5
+342,Give Me A Sign (Forever And Ever),Breaking Benjamin,16,2010-04-10,2010-06-19,296,11
+343,Radio Ga Ga,Queen,8,2018-11-17,2019-09-14,295,26
+344,I Will Not Bow,Breaking Benjamin,21,2010-01-23,2011-04-23,288,16
+345,Beautiful Day,Lee DeWyze,1,2010-06-12,2010-06-26,284,3
+346,Flaws,Bastille,9,2013-08-10,2014-12-13,283,12
+347,Bohemian Rhapsody,Panic! At The Disco,3,2016-08-27,2016-10-08,282,7
+348,Shotgun,George Ezra,10,2018-09-22,2019-05-04,282,25
+349,Could Have Been Me,The Struts,15,2015-08-29,2015-11-21,282,13
+350,Little Black Submarines,The Black Keys,25,2011-12-24,2013-03-09,282,21
+351,Neutron Star Collision (Love Is Forever),Muse,5,2010-06-05,2010-07-31,281,9
+352,Bad Blood,Bastille,12,2014-03-29,2014-08-02,281,15
+353,Closing Time,Semisonic,17,2011-08-13,2012-04-28,280,16
+354,Hollow Moon (Bad Wolf),AWOLNATION,17,2015-02-14,2015-06-13,280,17
+355,Howlin' For You,The Black Keys,27,2011-01-29,2012-05-12,280,24
+356,Hero,Family Of The Year,9,2013-05-18,2015-03-28,279,11
+357,Wrong Side Of Heaven,Five Finger Death Punch,14,2013-08-17,2015-03-14,275,21
+358,Runaways,The Killers,8,2012-08-04,2012-10-13,274,11
+359,Called Out In The Dark,Snow Patrol,11,2011-09-24,2012-04-14,273,13
+360,Hallelujah,Lee DeWyze,3,2010-06-12,2010-07-03,271,4
+361,Rocket Man,Elton John,3,2011-04-16,2019-10-26,271,19
+362,My Sweet Summer,Dirty Heads,21,2014-08-02,2014-11-22,271,16
+363,Paper Planes,M.I.A.,6,2010-05-01,2017-08-26,270,16
+364,Hey There Delilah,Plain White T's,6,2011-01-15,2017-06-24,270,22
+365,Ways To Go,Grouplove,22,2013-07-27,2013-11-23,269,17
+366,Rope,Foo Fighters,8,2011-03-19,2011-05-21,268,8
+367,The One That Got Away,The Civil Wars,10,2013-06-29,2013-11-16,268,12
+368,Monster,Imagine Dragons,6,2013-10-05,2014-04-26,266,9
+369,Immigrant Song,Led Zeppelin,3,2017-04-29,2018-07-21,261,27
+370,The Devil In I,Slipknot,8,2014-09-13,2014-11-01,261,8
+371,Drown,Bring Me The Horizon,6,2014-11-22,2016-01-23,257,9
+372,Heavy Is The Head,Zac Brown Band Featuring Chris Cornell,9,2015-03-21,2015-05-30,255,10
+373,Come Together,The Beatles,4,2010-12-04,2019-12-28,254,11
+374,In My Life,The Beatles,5,2010-12-04,2014-03-01,254,6
+375,Every Rose Has Its Thorn,Poison,13,2010-06-12,2013-02-23,251,15
+376,Sound & Color,Alabama Shakes,6,2015-12-05,2016-03-05,250,5
+377,Video Games,Lana Del Rey,12,2012-01-28,2012-04-14,250,10
+378,Not About Angels,Birdy,8,2014-06-07,2014-09-13,249,9
+379,Lullaby,Nickelback,8,2011-12-10,2012-06-16,246,11
+380,Werewolves Of London,Warren Zevon,5,2010-11-13,2019-11-09,244,12
+381,Zombie,The Cranberries,3,2014-03-22,2018-05-19,243,19
+382,Space Oddity,David Bowie,2,2016-01-30,2016-03-05,240,5
+383,I Am,AWOLNATION,11,2015-05-09,2015-10-24,240,14
+384,Red Hands,Walk Off The Earth,22,2013-06-22,2013-09-21,239,12
+385,Sirens,Pearl Jam,7,2013-10-05,2013-12-28,238,11
+386,Yesterday,The Beatles,8,2010-12-04,2019-10-12,235,8
+387,Losing My Religion,Dia Frampton,2,2011-07-09,2011-07-16,234,2
+388,Simple Man,Sawyer Fredericks,2,2015-05-16,2015-06-06,234,4
+389,One More Light,Linkin Park,7,2017-08-12,2018-01-03,234,18
+390,You And Me,Dave Matthews Band,4,2010-02-13,2010-04-03,233,7
+391,Wait For Me,Kings Of Leon,7,2013-08-24,2013-10-05,233,6
+392,What Are You Waiting For?,Nickelback,4,2014-09-27,2014-12-06,232,6
+393,All Or Nothing,Theory Of A Deadman,17,2010-04-24,2010-07-03,232,11
+394,Chlorine,twenty one pilots,3,2018-10-20,2019-08-10,231,21
+395,How You Like Me Now?,The Heavy,19,2010-02-27,2010-06-05,231,12
+396,The Blower's Daughter,Matt McAndrew,2,2014-12-20,2015-01-03,230,3
+397,Headstrong,Trapt,17,2010-01-23,2012-01-21,230,14
+398,Brown Eyed Girl,Van Morrison,14,2011-06-25,2016-04-30,228,14
+399,Ships In The Night,Mat Kearney,5,2011-08-20,2012-08-18,227,12
+400,This Is Gospel,Panic! At The Disco,9,2013-08-31,2017-01-14,227,15
+401,Never Gonna Be Alone,Nickelback,12,2010-01-23,2010-03-13,227,8
+402,Shadow Days,John Mayer,5,2012-03-24,2012-06-30,225,6
+403,Roses,MacKenzie Bourg,4,2016-04-23,2016-04-30,223,2
+404,Here I Go Again,Whitesnake,8,2012-07-07,2019-11-02,223,10
+405,Darling Nikki,Prince And The Revolution,5,2016-05-07,2016-05-28,220,4
+406,Ordinary Love,U2,9,2013-12-21,2014-04-12,220,8
+407,Wanted Dead Or Alive,Bon Jovi,16,2010-11-27,2017-09-09,220,14
+408,Electric Feel,MGMT,15,2010-05-01,2016-04-02,219,16
+409,My Immortal,Evanescence,20,2011-10-01,2017-02-18,213,15
+410,What You Want,Evanescence,4,2011-08-27,2011-11-05,212,4
+411,Hold On,Alabama Shakes,15,2013-02-23,2013-05-11,212,9
+412,The Ballad Of Mona Lisa,Panic! At The Disco,8,2011-02-19,2016-01-16,210,9
+413,American Pie (Parts I & II),Don McLean,6,2012-07-21,2018-07-14,209,12
+414,Oh Sweet Lorraine,Green Shoe Studio Featuring Jacob Colgan & Fred Stobaugh,2,2013-09-07,2014-04-12,207,5
+415,Falling Slowly,Lee DeWyze & Crystal Bowersox,6,2010-06-12,2010-06-26,207,3
+416,Hardwired,Metallica,6,2016-09-10,2016-10-22,206,6
+417,The Good Life,Three Days Grace,28,2010-05-08,2010-08-07,205,14
+418,Crazy Bitch,Buckcherry,25,2013-09-21,2016-04-30,204,14
+419,Blackbird,The Beatles,9,2010-12-04,2018-07-07,202,8
+420,I'm Gonna Be (500 Miles),The Proclaimers,10,2010-10-23,2015-02-28,200,11
+421,New Light,John Mayer,2,2018-05-19,2018-11-10,199,23
+422,Crossfire,Brandon Flowers,15,2010-07-10,2010-10-16,199,13
+423,Fall In Love,Phantogram,25,2014-03-15,2014-05-24,198,11
+424,Don't Wanna Fight,Alabama Shakes,7,2015-03-14,2016-03-12,197,10
+425,I Got You,Jack Johnson,3,2013-06-29,2013-09-28,196,4
+426,Imagine,Sawyer Fredericks,2,2015-05-02,2015-06-06,191,4
+427,Lean On Me,"Sheryl Crow, Kid Rock & Keith Urban",3,2010-02-06,2010-02-20,190,3
+428,Waste A Moment,Kings Of Leon,8,2016-10-01,2016-11-26,190,9
+429,Chalk Outline,Three Days Grace,20,2012-09-01,2013-01-12,190,15
+430,Highway To Hell,AC/DC,8,2012-12-08,2017-12-09,189,12
+431,Have You Ever Seen The Rain,Creedence Clearwater Revival,13,2011-04-23,2016-10-08,189,8
+432,Closer,Tegan And Sara,16,2013-02-16,2013-09-14,189,11
+433,Rockstar,Nickelback,12,2010-01-23,2017-07-08,188,15
+434,Break,Three Days Grace,27,2010-01-23,2010-04-24,187,14
+435,If Today Was Your Last Day,Nickelback,22,2010-01-23,2010-05-29,186,16
+436,Shine On,Sawyer Fredericks,2,2015-05-23,2015-06-06,185,3
+437,Paper Doll,John Mayer,3,2013-07-06,2013-07-27,183,4
+438,18,My Silent Bravery,8,2018-03-24,2018-06-09,183,12
+439,Fairly Local,twenty one pilots,4,2015-04-04,2015-05-02,181,5
+440,Words As Weapons,Seether,31,2014-06-14,2014-09-13,181,12
+441,Major Tom,Shiny Toy Guns,11,2010-02-13,2010-06-12,180,8
+442,House Of The Rising Sun,The Animals,12,2011-05-21,2016-11-05,180,8
+443,"1, 2, 3, 4",Plain White T's,11,2010-02-20,2011-03-26,179,6
+444,BLOW,Ed Sheeran With Chris Stapleton & Bruno Mars,1,2019-07-20,2019-09-21,178,10
+445,Yeah Yeah,Willy Moon,13,2012-10-27,2013-01-19,178,7
+446,Thnks Fr Th Mmrs,Fall Out Boy,23,2014-01-04,2016-04-16,178,10
+447,Mad World,Taylor John Williams,6,2014-11-15,2014-12-27,177,5
+448,The Vengeful One,Disturbed,8,2015-07-11,2015-08-29,177,8
+449,The Wolf,Mumford & Sons,7,2015-04-25,2015-10-03,176,5
+450,Wildfire,John Mayer,8,2013-08-03,2013-09-14,176,5
+451,Hall Of Fame,The Script Featuring will.i.am,11,2012-09-08,2012-10-20,176,7
+452,Everglow,Coldplay,2,2015-12-19,2015-12-26,175,2
+453,Good To Be Me,Uncle Kracker Featuring Kid Rock,14,2010-06-26,2011-06-04,175,9
+454,Time Of Your Life (Good Riddance),Green Day,19,2010-05-29,2019-06-08,175,21
+455,What It's Like,Everlast,21,2010-11-27,2013-02-16,175,11
+456,Inventing Shadows,Dia Frampton,2,2011-07-16,2011-07-23,174,2
+457,I Just Wanna Run,The Downtown Fiction,21,2011-01-01,2011-02-12,174,7
+458,Not Easy,"Alex Da Kid Featuring X Ambassadors, Elle King & Wiz Khalifa",4,2016-11-12,2017-02-11,172,5
+459,Make Some Noise,Beastie Boys,11,2011-04-30,2011-06-11,172,7
+460,My Name Is Human,Highly Suspect,13,2016-10-01,2017-03-11,172,14
+461,Come A Little Closer,Cage The Elephant,24,2013-08-31,2014-04-19,172,19
+462,How You Remind Me,Nickelback,13,2011-01-15,2013-10-05,171,10
+463,Santeria,Sublime,16,2012-10-27,2017-08-19,171,8
+464,Remember Everything,Five Finger Death Punch,17,2011-10-29,2012-04-28,170,11
+465,Oh Love,Green Day,25,2012-08-04,2012-10-06,170,10
+466,Lisztomania,Phoenix,26,2010-03-13,2010-09-18,170,12
+467,Take Me Home Tonight,Eddie Money,1,2011-02-26,2019-10-05,168,9
+468,The Story (I Was Made For You),Brandi Carlile,2,2010-03-27,2019-10-19,167,8
+469,The Phoenix,Fall Out Boy,9,2013-04-13,2013-05-18,167,5
+470,Stars,Grace Potter & The Nocturnals,14,2012-12-08,2015-10-24,167,10
+471,Cosmic Love,Florence + The Machine,17,2010-07-17,2013-11-16,167,11
+472,Love Me,The 1975,3,2015-10-31,2016-02-27,166,4
+473,The Stage,Avenged Sevenfold,7,2016-10-29,2016-11-12,166,3
+474,The Man,The Killers,12,2017-07-01,2017-11-25,166,18
+475,Like It's Her Birthday,Good Charlotte,13,2010-09-11,2010-12-25,166,10
+476,I'm Gonna Be (500 Miles),Sleeping At Last,8,2013-09-14,2015-02-21,165,3
+477,Come Join The Murder,The White Buffalo & The Forest Rangers,3,2014-12-27,2015-01-03,164,2
+478,Fat Bottomed Girls,Queen,13,2011-02-26,2019-08-10,164,18
+479,For What It's Worth,Sawyer Fredericks,2,2015-05-30,2015-06-06,163,2
+480,Iris,Sawyer Fredericks,3,2015-05-09,2015-06-06,163,3
+481,Dog Days Are Over,Vicci Martinez,3,2011-07-09,2011-07-16,162,2
+482,Jumper,Third Eye Blind,19,2011-03-05,2013-07-13,161,9
+483,Savior,Rise Against,30,2010-01-23,2010-05-22,161,14
+484,Home Sweet Home,Motley Crue,3,2010-07-17,2019-04-20,160,9
+485,Na Na Na (Na Na Na Na Na Na Na Na Na),My Chemical Romance,4,2010-10-16,2010-11-20,158,5
+486,Gods & Monsters,Lana Del Rey,7,2013-12-21,2014-11-22,158,4
+487,Have You Ever Seen The Rain,Noelle Bybee & Sawyer Fredericks,7,2015-04-04,2015-06-06,158,5
+488,Give Me Love,Ed Sheeran,26,2012-05-12,2015-09-19,158,15
+489,Chelsea Dagger,The Fratellis,7,2010-06-12,2015-07-04,156,5
+490,Beast (Southpaw Remix),"Rob Bailey & The Hustle Standard Featuring Busta Rhymes, KXNG Crooked & Tech N9ne",6,2015-08-15,2015-11-21,155,4
+491,Rise Above 1,Reeve Carney Featuring Bono & The Edge,3,2011-06-11,2011-06-18,154,2
+492,Not Ready To Die,Avenged Sevenfold,3,2011-05-21,2011-05-28,154,2
+493,Trouble,Sawyer Fredericks,5,2015-04-25,2015-06-06,154,4
+494,Photograph,Nickelback,18,2011-11-19,2017-07-08,154,12
+495,Bulletproof,Godsmack,3,2018-03-10,2018-08-18,153,21
+496,Reflektor,Arcade Fire,15,2013-09-28,2013-11-09,153,7
+497,"It's A Man's, Man's, Man's World",Juliet Simms,4,2012-05-19,2012-05-26,152,2
+498,Bottoms Up,Nickelback,10,2011-10-15,2011-12-17,152,7
+499,The End,Kings Of Leon,4,2010-11-06,2010-11-13,151,2
+500,Life Can't Get Much Better,Good Charlotte,9,2016-07-09,2016-08-13,151,4
+501,Up To The Mountain,Crystal Bowersox,4,2010-06-12,2010-06-19,150,2
+502,What The Water Gave Me,Florence + The Machine,7,2011-09-10,2011-10-08,150,5
+503,Roxanne,Juliet Simms,8,2012-04-28,2012-05-26,149,5
+504,Hey Mama,Mat Kearney,20,2011-05-28,2011-09-24,149,8
+505,I Apologize,Five Finger Death Punch,24,2016-10-01,2016-11-26,149,8
+506,Please,Sawyer Fredericks,2,2015-06-06,2015-06-13,148,2
+507,A Case Of You,James Wolpert,4,2013-11-23,2013-11-30,147,2
+508,Dreams,Fleetwood Mac,10,2011-05-21,2016-03-26,147,6
+509,The Love Club,Lorde,19,2013-08-31,2013-10-12,147,7
+510,Sober,Tool,1,2019-08-17,2019-10-05,146,7
+511,Let's Dance,David Bowie,5,2016-01-30,2016-02-13,146,3
+512,Pumpin Blood,NONONO,25,2013-11-16,2014-05-10,146,9
+513,Blow Me Away,Breaking Benjamin,8,2010-03-13,2011-09-03,145,4
+514,Lucky,Jason Mraz & Colbie Caillat,9,2010-10-30,2014-08-02,145,9
+515,Bennie And The Jets,Elton John,9,2011-04-16,2019-06-29,144,11
+516,Diamond Eyes (Boom-Lay Boom-Lay Boom),Shinedown,10,2010-07-10,2011-05-21,144,10
+517,XO,John Mayer,4,2014-06-14,2014-06-21,143,2
+518,Boots,The Killers,5,2010-12-18,2010-12-25,143,2
+519,Royals,Taylor John Williams,4,2014-12-20,2014-12-27,142,2
+520,House Of Gold,twenty one pilots,19,2016-01-09,2016-07-23,142,8
+521,Something From Nothing,Foo Fighters,9,2014-11-01,2014-11-29,141,4
+522,Narcissistic Cannibal,Korn Featuring Skrillex & Kill The Noise,16,2011-11-12,2012-01-21,141,7
+523,Morning Light,Laith Al-Saadi,2,2016-06-11,2016-06-11,139,1
+524,The Kids Aren't Alright,Fall Out Boy,8,2015-01-03,2015-01-31,139,5
+525,Second Chance,Shinedown,32,2010-01-23,2012-07-21,138,15
+526,I Was Me,Imagine Dragons,5,2015-10-31,2015-11-07,137,2
+527,Delilah,Florence + The Machine,8,2015-06-06,2015-06-20,136,3
+528,Killer Queen,Queen,12,2018-11-17,2019-07-27,136,17
+529,Addicted,Saving Abel,17,2011-01-08,2011-04-09,136,5
+530,Not Today,Imagine Dragons,6,2016-05-21,2016-09-24,134,4
+531,"Paint It, Black",The Rolling Stones,16,2010-04-03,2015-12-05,134,7
+532,Footsteps,Pop Evil,26,2015-08-29,2015-11-07,134,10
+533,Breathe (2 AM),Anna Nalick,18,2011-03-05,2011-06-25,133,6
+534,Paris,Grace Potter & The Nocturnals,19,2010-12-25,2012-11-17,133,8
+535,Nothing Compares 2 U,Sinead O'Connor,9,2016-05-07,2017-09-30,132,8
+536,Moth Into Flame,Metallica,12,2016-10-15,2016-11-19,132,6
+537,3 AM,matchbox 20,21,2011-01-08,2011-10-08,132,5
+538,UGH!,The 1975,5,2016-01-02,2016-01-09,130,2
+539,Immigrant Song,Karen O/Trent Reznor/Atticus Ross,14,2011-12-17,2012-01-21,130,6
+540,Shake Up Christmas,Train,8,2010-12-25,2011-01-08,129,3
+541,Tear You Apart,She Wants Revenge,8,2015-10-24,2015-11-07,129,3
+542,Girl You Think You Know,My Silent Bravery,12,2017-12-16,2018-02-24,129,12
+543,Free Bird,Lynyrd Skynyrd,18,2014-02-22,2018-09-01,129,9
+544,Genghis Khan,Miike Snow,26,2016-03-19,2016-06-04,129,9
+545,House Of The Rising Sun,Kimberly Nichole,3,2015-05-02,2015-05-02,128,1
+546,Old Man,Sawyer Fredericks,3,2015-06-06,2015-06-06,128,1
+547,Crazy,Gnarls Barkley,15,2011-05-14,2013-09-28,128,8
+548,State Of My Head,Shinedown,20,2015-09-19,2016-04-09,128,9
+549,Thank God For Girls,Weezer,8,2015-11-14,2016-02-06,127,3
+550,Paranoia,A Day To Remember,5,2016-04-02,2016-04-09,126,2
+551,Breath Of Life,Florence + The Machine,15,2012-05-12,2012-09-29,125,6
+552,You Are A Tourist,Death Cab For Cutie,16,2011-04-16,2011-07-09,125,8
+553,Fast Car,Tracy Chapman,20,2011-08-06,2016-12-03,125,7
+554,Let It Be,Terry McDermott,4,2012-12-29,2013-01-05,124,2
+555,Hear Me Now,Hollywood Undead,10,2011-01-08,2011-05-14,124,5
+556,Shot At The Night,The Killers,15,2013-10-05,2014-04-05,124,7
+557,Down With The Sickness,Disturbed,20,2010-09-18,2017-09-09,124,10
+558,One And Only,Laith Al-Saadi,6,2016-06-04,2016-06-11,123,2
+559,Edge Of A Revolution,Nickelback,6,2014-09-06,2014-09-13,123,2
+560,Heavydirtysoul,twenty one pilots,10,2017-02-25,2017-05-06,123,11
+561,We've Got Tonight,Laith Al-Saadi,7,2016-05-28,2016-06-11,122,3
+562,Breezeblocks,alt-J,29,2013-05-04,2013-07-20,122,11
+563,Take It Easy,Eagles,14,2016-02-06,2016-03-05,121,4
+564,Electric Feel,Preston Pohl,10,2013-10-19,2013-11-23,120,5
+565,Battle Cry,Imagine Dragons,13,2014-06-21,2014-10-18,120,6
+566,Sabotage,Beastie Boys,15,2012-05-19,2016-11-26,120,6
+567,I've Got A Rock N' Roll Heart,Eric Clapton,17,2010-02-13,2010-03-06,120,4
+568,Falling Slowly,The Swell Season (Glen Hansard & Marketa Irglova),8,2010-05-29,2014-12-27,119,3
+569,Guilty All The Same,Linkin Park Featuring Rakim,20,2014-03-22,2014-06-28,119,6
+570,She Talks To Angels,The Black Crowes,16,2011-09-03,2019-11-23,118,9
+571,99 Problems,Tony Lucca,4,2012-05-26,2012-05-26,117,1
+572,Plush,Stone Temple Pilots,4,2015-12-26,2015-12-26,117,1
+573,Every Other Freckle,alt-J,7,2014-08-30,2014-10-04,117,2
+574,Harder To Breathe,Maroon 5,16,2011-05-07,2019-02-16,117,7
+575,Afraid,The Neighbourhood,36,2013-11-23,2014-03-15,117,13
+576,Coming Of Age,Foster The People,14,2014-02-01,2014-04-12,116,6
+577,Calling All Angels,Train,24,2011-08-06,2013-07-13,115,5
+578,Too Close,Melanie Martinez,5,2012-12-15,2012-12-22,114,2
+579,Don't Threaten Me With A Good Time,Panic! At The Disco,5,2016-01-23,2016-01-30,114,2
+580,Tiny Dancer,Elton John,5,2011-02-26,2019-11-02,114,9
+581,Take Me To The River,Sawyer Fredericks,6,2015-05-23,2015-06-06,114,3
+582,Changes,David Bowie,7,2016-01-30,2016-02-06,114,2
+583,Welcome To The Black Parade,My Chemical Romance,22,2014-12-20,2016-10-15,114,8
+584,Final Masquerade,Linkin Park,6,2014-06-21,2014-06-28,113,2
+585,After Midnight,Blink-182,7,2011-10-15,2011-10-22,113,2
+586,Come On Get Higher,Matt Nathanson,16,2010-01-30,2011-04-09,113,5
+587,Jumpsuit,twenty one pilots,1,2018-07-21,2018-09-15,112,8
+588,The Negative One,Slipknot,8,2014-08-23,2014-09-13,112,3
+589,The Thrill Is Gone,Laith Al-Saadi,10,2016-05-21,2016-06-11,111,4
+590,Invisible,U2,11,2014-02-22,2014-03-15,110,4
+591,Mercy,Dave Matthews Band,12,2012-08-04,2012-10-06,110,5
+592,Please Come Home For Christmas,Eagles,15,2010-12-25,2019-12-28,109,13
+593,Losing My Religion,R.E.M.,21,2010-10-23,2016-10-22,109,5
+594,Bitch,Meredith Brooks,22,2011-01-08,2011-04-09,109,5
+595,Help Is On The Way,Rise Against,13,2011-02-12,2011-04-16,108,5
+596,Seven Nation Army,Melanie Martinez,7,2012-12-08,2012-12-15,107,2
+597,She's A Rainbow,The Rolling Stones,7,2018-09-22,2018-11-03,107,7
+598,Let Her Go,Cole Vosbury,8,2013-11-16,2013-11-30,107,3
+599,16,Highly Suspect,10,2019-08-31,2019-12-21,107,11
+600,R.I.P. 2 My Youth,The Neighbourhood,5,2015-09-12,2015-09-12,106,1
+601,Interstate Love Song,Stone Temple Pilots,5,2015-12-26,2015-12-26,106,1
+602,Every Time You Go,3 Doors Down,5,2011-06-11,2011-06-11,106,1
+603,Afraid To Sleep,Vicci Martinez,5,2011-07-16,2011-07-16,106,1
+604,Yesterday,Adam Levine & Tony Lucca,5,2012-05-26,2012-05-26,106,1
+605,With A Little Help From My Friends,Joe Cocker,6,2015-01-10,2017-11-18,106,4
+606,Turn Blue,The Black Keys,8,2014-05-03,2014-05-24,106,2
+607,All The Time,Bahamas,11,2014-11-22,2014-12-06,105,3
+608,God Rest Ye Merry Gentlemen / We Three Kings,Barenaked Ladies & Sarah McLachlan,36,2010-12-25,2016-01-09,105,13
+609,Another Way To Die,Disturbed,7,2010-07-03,2010-07-10,104,2
+610,Starman,David Bowie,14,2016-01-30,2016-02-27,104,4
+611,Born Free,Kid Rock,20,2014-08-02,2014-08-30,104,5
+612,The Divine Zero,Pierce The Veil,6,2015-07-04,2015-07-11,103,2
+613,The Kill (Bury Me),30 Seconds To Mars,29,2010-09-25,2011-04-09,103,8
+614,Day Of The Dead,Hollywood Undead,6,2014-11-08,2014-11-15,102,2
+615,I'm On Fire,AWOLNATION,7,2015-02-28,2015-03-07,102,2
+616,Jackie And Wilson,Hozier,8,2014-09-20,2014-10-18,102,2
+617,Let's Ride,Kid Rock,8,2012-11-17,2012-11-24,102,2
+618,I Love The USA,Weezer,9,2016-07-23,2016-07-30,102,2
+619,11 Minutes,YUNGBLUD & Halsey Featuring Travis Barker,4,2019-03-02,2019-04-27,101,9
+620,Between The Raindrops,Lifehouse Featuring Natasha Bedingfield,8,2012-09-29,2012-10-06,101,2
+621,Memories,Weezer,24,2010-10-02,2010-11-20,101,5
+622,Believer,American Authors,28,2014-08-02,2014-10-04,101,9
+623,We've Got Tonight,Phillip Phillips,8,2012-06-09,2012-06-16,100,2
+624,Come Away To The Water,Maroon 5 Featuring Rozzi Crane,9,2012-04-07,2012-04-21,99,3
+625,Feel Good Inc,Gorillaz,9,2010-03-27,2017-05-27,99,9
+626,Wonderful Christmastime,Paul McCartney,11,2016-01-02,2019-12-28,99,9
+627,The Hype,twenty one pilots,3,2019-10-19,2019-11-30,98,7
+628,Warrior,Disturbed,8,2010-09-18,2010-09-25,98,2
+629,Changing,The Airborne Toxic Event,12,2011-05-14,2011-07-30,98,5
+630,Everlong,Foo Fighters,17,2011-04-30,2015-06-06,98,5
+631,Time In A Bottle,Jim Croce,18,2016-04-09,2016-04-23,98,3
+632,SCHISM,Tool,3,2019-08-17,2019-09-21,97,6
+633,Come Together,Taylor John Williams,7,2014-12-13,2014-12-20,97,2
+634,Under Your Scars,Godsmack,7,2019-07-06,2019-10-19,97,13
+635,Arsonist's Lullabye,Hozier,10,2016-03-26,2016-04-09,97,3
+636,Because We Can,Bon Jovi,11,2013-01-26,2013-04-06,97,3
+637,Rain,Creed,20,2010-01-23,2010-03-13,97,5
+638,We're Going To Be Friends,Caroline Pennell,8,2013-11-23,2013-11-30,96,2
+639,The Scientist,Holly Henry,11,2013-10-12,2013-10-26,96,3
+640,Old Time Rock & Roll,Bob Seger & The Silver Bullet Band,18,2011-12-10,2017-07-29,96,4
+641,Love Drunk,Boys Like Girls,20,2010-01-23,2010-02-27,96,6
+642,Dare You To Move,Switchfoot,22,2011-03-05,2011-09-03,96,5
+643,It's Been Awhile,Staind,25,2011-10-29,2012-08-04,96,6
+644,Miracles,Coldplay,6,2015-01-03,2015-01-03,95,1
+645,Welcome,Fort Minor,6,2015-07-11,2015-07-11,95,1
+646,Play Ball,AC/DC,6,2014-10-25,2014-10-25,95,1
+647,LA Devotee,Panic! At The Disco,6,2015-12-19,2015-12-19,95,1
+648,The Workingman's Hymn,Joshua Davis,6,2015-06-06,2015-06-06,95,1
+649,Angel Eyes,The Jeff Healey Band,6,2015-10-10,2015-10-10,95,1
+650,Counting On Love,Matt McAndrew,6,2015-05-16,2015-05-16,95,1
+651,LAST KISS,Pearl Jam,12,2011-06-11,2015-03-21,95,3
+652,Love On The Weekend,John Mayer,2,2016-12-03,2017-02-11,94,6
+653,Until It's Gone,Linkin Park,10,2014-05-24,2014-06-28,94,3
+654,Kiss Me Slowly,Parachute,10,2011-06-04,2012-02-11,94,4
+655,Take It From Me,KONGOS,18,2016-05-07,2016-07-09,94,4
+656,Fix You,Matt McAndrew,8,2014-12-13,2014-12-20,93,2
+657,When You're Young,3 Doors Down,7,2011-02-19,2011-02-26,92,2
+658,Been To Hell,Hollywood Undead,8,2011-04-02,2011-04-09,92,2
+659,Outlaws & Outsiders,"Cory Marks Featuring Travis Tritt, Ivan Moody & Mick Mars",1,2019-11-30,2019-12-28,91,5
+660,Wicked Game,Chris Isaak,1,2010-03-13,2019-11-16,91,7
+661,The Only Hope For Me Is You,My Chemical Romance,7,2010-10-30,2010-11-06,91,2
+662,Happy Song,Bring Me The Horizon,10,2015-08-01,2015-08-15,91,3
+663,Babel,Mumford & Sons,10,2012-10-13,2013-03-02,91,4
+664,Diane Young,Vampire Weekend,18,2013-04-06,2013-06-22,91,5
+665,Moving To Mars,Coldplay,8,2011-07-16,2011-07-23,90,2
+666,Mind Your Manners,Pearl Jam,14,2013-07-27,2013-10-26,90,3
+667,Bang Bang,Green Day,9,2016-08-27,2016-09-10,89,3
+668,All I Want,Kodaline,26,2014-03-22,2015-04-04,89,6
+669,Zero,Imagine Dragons,4,2018-09-29,2019-01-12,88,9
+670,Heroes,David Bowie,9,2016-01-30,2016-02-06,88,2
+671,This Year's Love,David Gray,17,2011-10-08,2012-03-31,88,4
+672,Everybody Wants To Rule The World,Lorde,18,2013-12-07,2014-10-04,88,5
+673,We Are Young,Tonight We Are Young,19,2012-05-05,2012-07-07,88,3
+674,Volcano,Phillip Phillips,9,2012-06-09,2012-06-16,87,2
+675,Face To The Floor,Chevelle,15,2011-11-05,2012-02-18,87,5
+676,Holocene,Bon Iver,19,2011-07-09,2012-03-03,87,3
+677,Semi-Charmed Life,Third Eye Blind,19,2010-11-27,2017-07-01,87,5
+678,Landslide,Chloe Kohanski,5,2017-11-18,2018-01-03,86,7
+679,Scars,I Prevail,14,2016-07-23,2016-08-20,86,5
+680,Simple Song,The Shins,20,2012-01-28,2012-04-07,86,4
+681,Mockingbird,Rob Thomas,34,2010-08-07,2010-09-18,86,7
+682,House Of The Rising Sun,Five Finger Death Punch,35,2013-12-07,2014-05-31,86,7
+683,Hero,Skillet,35,2010-02-13,2012-03-17,86,14
+684,Love,Lana Del Rey,1,2017-03-11,2017-04-22,85,6
+685,Lost In Paradise,Evanescence,7,2011-10-29,2011-11-05,85,2
+686,Angels Fall,Breaking Benjamin,11,2015-05-02,2015-05-30,85,4
+687,White Room,Laith Al-Saadi,7,2016-06-11,2016-06-11,84,1
+688,Let It Be,Tessanne Chin & Adam Levine,7,2014-01-04,2014-01-04,84,1
+689,Hallelujah,Joshua Davis,7,2015-06-06,2015-06-06,84,1
+690,New Morning,Alpha Rev,7,2010-05-15,2010-05-15,84,1
+691,Love,Matt White,10,2010-11-20,2010-11-27,84,2
+692,Let Me Hear You Scream,Ozzy Osbourne,15,2010-05-22,2010-07-17,84,4
+693,We Are Young,Mix It Legends,16,2012-03-24,2012-04-07,84,3
+694,Popular Monster,Falling In Reverse,4,2019-11-30,2019-12-28,83,5
+695,The Sound Of Silence,Simon & Garfunkel,4,2011-09-24,2019-06-29,83,7
+696,Good Girls,Elle King,10,2016-06-25,2016-08-06,83,2
+697,Run Rudolph Run,Chuck Berry,10,2016-01-02,2019-12-28,83,8
+698,Forty Six & 2,Tool,4,2019-08-17,2019-09-21,82,6
+699,Up In The Air,Thirty Seconds To Mars,13,2013-04-06,2013-06-15,82,5
+700,Forever,HAIM,21,2014-03-29,2014-04-12,82,3
+701,Summer Of '69,Bryan Adams,22,2016-07-02,2016-09-03,82,4
+702,The Chain,Fleetwood Mac,6,2011-05-21,2019-10-05,81,9
+703,The Man Who Can't Be Moved,Xenia,8,2011-07-09,2011-07-16,81,2
+704,Baby Blue,Badfinger,8,2013-10-19,2013-10-26,81,2
+705,Got It Going On,My Silent Bravery,9,2017-09-02,2017-10-14,81,7
+706,Psycho,Muse,12,2015-03-28,2015-04-11,81,3
+707,Dead Inside,Muse,17,2015-04-11,2015-07-04,81,3
+708,Lift Me Up,Five Finger Death Punch Featuring Rob Halford,17,2013-06-01,2013-06-22,81,4
+709,Kiss Me,Ed Sheeran,20,2012-12-15,2013-02-02,81,4
+710,Lowlife,Theory Of A Deadman,23,2011-06-04,2011-09-17,81,6
+711,Nico And The Niners,twenty one pilots,2,2018-07-21,2018-08-25,80,6
+712,Gold,Imagine Dragons,9,2015-01-03,2015-02-14,80,3
+713,God Is Dead?,Black Sabbath,20,2013-05-04,2013-06-22,80,3
+714,Love Shack,The B-52s,27,2010-11-27,2013-07-06,80,5
+715,Come Along,Cosmo Sheldrake,3,2019-01-19,2019-02-09,79,4
+716,Fire And The Flood,Vance Joy,16,2015-08-15,2016-04-09,79,8
+717,Dani California,Red Hot Chili Peppers,20,2011-05-28,2011-09-24,79,4
+718,Far From Home,Five Finger Death Punch,23,2010-12-25,2011-03-19,79,4
+719,Dirty Paws,Of Monsters And Men,32,2013-08-17,2014-01-25,79,7
+720,Let Her Cry,Hootie & The Blowfish,10,2010-11-27,2019-06-01,78,5
+721,Tiptoe,Imagine Dragons,12,2012-09-22,2014-06-07,78,3
+722,Wastelands,Linkin Park,14,2014-06-14,2014-06-28,78,3
+723,The Sound Of Sunshine,Michael Franti & Spearhead,21,2010-09-25,2010-10-16,78,4
+724,Tonight,Seether,27,2011-10-08,2012-01-28,78,9
+725,Devil,Shinedown,3,2018-03-17,2018-05-12,77,9
+726,I Won't Back Down,Tom Petty,4,2017-10-21,2017-11-11,77,4
+727,Come Together,Gary Clark Jr.,4,2017-12-02,2017-12-30,77,5
+728,While My Guitar Gently Weeps,The Beatles,13,2010-12-04,2010-12-18,77,3
+729,Love Interruption,Jack White,17,2012-02-18,2013-10-12,77,5
+730,"If You Want To Sing Out, Sing Out",Cat Stevens,21,2016-10-29,2016-11-26,77,4
+731,I Think I'm OKAY,Machine Gun Kelly X YUNGBLUD X Travis Barker,2,2019-06-22,2019-11-02,76,5
+732,Guiding Light,Mumford & Sons,2,2018-10-06,2018-12-22,76,7
+733,Free Fallin',Tom Petty,3,2012-05-19,2017-11-11,76,5
+734,Walls,Kings Of Leon,8,2016-10-15,2016-11-05,76,2
+735,Major Minus,Coldplay,9,2011-07-16,2011-07-23,76,2
+736,Gods And Monsters,American Horror Story Cast Featuring Jessica Lange,10,2014-11-08,2014-11-15,76,2
+737,The Way I Am,Caroline Pennell,11,2013-11-16,2013-11-23,76,2
+738,I Believe In A Thing Called Love,The Darkness,13,2012-02-18,2012-03-03,76,3
+739,Welcome To The Jungle,Guns N' Roses,21,2014-02-22,2017-08-12,76,7
+740,HAPPINESS,NEEDTOBREATHE,8,2016-04-23,2016-09-10,75,2
+741,T.N.T.,AC/DC,16,2012-12-08,2013-01-12,75,4
+742,Under Cover Of Darkness,The Strokes,19,2011-03-05,2011-04-09,75,4
+743,I Want To Know What Love Is,Foreigner,19,2011-05-28,2019-12-21,75,9
+744,High Twilight,Daniel Isaiayh,21,2011-09-10,2011-09-24,75,3
+745,Kickstart My Heart,Motley Crue,5,2012-02-25,2019-05-04,74,5
+746,Fame,David Bowie,10,2016-01-30,2016-02-06,74,2
+747,Rebellion,Linkin Park Featuring Daron Malakian,10,2014-06-21,2014-06-28,74,2
+748,"Atlas, Rise!",Metallica,11,2016-11-19,2016-11-26,74,2
+749,Unsainted,Slipknot,1,2019-05-25,2019-06-15,73,4
+750,Love Left To Lose,Sons Of Sylvia,8,2010-05-15,2010-05-15,73,1
+751,Sadnecessary,Milky Chance,8,2014-10-25,2014-10-25,73,1
+752,Free Bird,Juliet Simms,8,2012-05-26,2012-05-26,73,1
+753,Golden Slumbers / Carry That Weight / The End,Laith Al-Saadi & Adam Levine,8,2016-06-11,2016-06-11,73,1
+754,Skinny Love,Lindsey Pavao,8,2012-05-19,2012-05-19,73,1
+755,I Still Haven't Found What I'm Looking For,Matt McAndrew,8,2014-12-27,2014-12-27,73,1
+756,The Boxer,Lee DeWyze,10,2010-06-12,2010-06-19,73,2
+757,Hell's Bells,AC/DC,17,2012-12-08,2012-12-22,73,3
+758,Chances,Five For Fighting,18,2010-04-10,2010-04-24,73,3
+759,(You Gotta) Fight For Your Right (To Party!),Beastie Boys,20,2012-05-19,2016-07-02,73,3
+760,The Devil's Bleeding Crown,Volbeat,20,2016-04-30,2016-06-18,73,7
+761,Buddy Holly,Weezer,25,2015-08-01,2015-08-22,73,4
+762,Monsters,Shinedown,11,2018-05-19,2019-08-10,72,10
+763,Cat's In The Cradle,Harry Chapin,14,2015-02-14,2015-10-03,72,3
+764,Stacy's Mom,Fountains Of Wayne,24,2011-03-05,2013-01-12,72,4
+765,Orphans,Coldplay,2,2019-11-09,2019-11-30,71,4
+766,Something's Gotta Give,All Time Low,9,2015-01-31,2015-02-07,71,2
+767,What I've Done,Linkin Park,6,2010-01-23,2017-08-12,70,9
+768,Short Skirt / Long Jacket,Cake,13,2010-10-09,2010-10-16,70,2
+769,Peaches,In The Valley Below,18,2015-04-25,2015-06-13,70,5
+770,Christmas (Baby Please Come Home),U2,29,2010-12-18,2011-12-31,70,5
+771,Are You Gonna Be My Girl,Jet,32,2010-10-23,2013-04-20,69,5
+772,Baba O'riley,The Who,11,2010-02-20,2010-02-27,68,2
+773,Snake Eyes,Mumford & Sons,12,2015-05-09,2015-05-16,68,2
+774,Make It Rain,Laith Al-Saadi,12,2016-05-14,2016-06-11,68,3
+775,I Don't Want To Be Here Anymore,Rise Against,19,2014-06-28,2014-07-26,68,3
+776,Drive,Incubus,20,2011-04-30,2011-06-18,68,4
+777,Poison & Wine,The Civil Wars,24,2011-05-28,2012-03-10,68,3
+778,Paperweight,Joshua Radin & Schuyler Fisk,24,2010-02-20,2010-07-03,68,5
+779,Under The Bridge,Red Hot Chili Peppers,25,2011-09-17,2016-07-09,68,4
+780,Sex And Candy,Marcy Playground,28,2011-04-02,2011-05-07,68,4
+781,Twist And Shout,The Beatles,11,2010-12-04,2010-12-25,67,3
+782,Throne,Bring Me The Horizon,11,2015-08-15,2015-09-12,67,4
+783,Supersoaker,Kings Of Leon,12,2013-08-03,2013-08-10,67,2
+784,Love Of My Life,Queen,14,2018-11-17,2019-05-11,67,8
+785,New York,Snow Patrol,15,2012-01-07,2012-01-21,67,2
+786,All You Need Is Love,The Beatles,17,2010-12-04,2010-12-25,67,4
+787,Every Breath You Take,The Police,21,2011-02-19,2011-10-01,67,3
+788,Animal I Have Become,Three Days Grace,23,2011-03-05,2011-03-26,67,4
+789,Holiday,Vampire Weekend,24,2010-12-18,2011-01-15,67,5
+790,Blue Moon,Beck,25,2014-02-08,2015-02-28,67,3
+791,Stand By Me,Florence + The Machine,11,2016-09-03,2016-12-31,66,4
+792,Who We Are,Imagine Dragons,12,2013-12-07,2013-12-14,65,2
+793,Love & Affection,Matt White,16,2013-08-17,2013-08-24,65,2
+794,Carry On,Avenged Sevenfold,16,2012-10-13,2013-01-12,65,3
+795,Waiting On The World To Change,John Mayer,18,2011-06-11,2011-06-18,65,2
+796,I Am A Nightmare,Brand New,18,2016-06-11,2016-07-30,65,2
+797,Trouble,Ray LaMontagne,21,2010-02-06,2010-11-20,65,4
+798,Why'd You Only Call Me When Your High?,Arctic Monkeys,35,2014-05-31,2014-08-30,65,11
+799,Barton Hollow,The Civil Wars,15,2012-02-25,2012-03-10,64,3
+800,It's The End Of The World As We Know It (And I Feel Fine),R.E.M.,18,2011-06-04,2016-11-26,64,3
+801,Lazaretto,Jack White,19,2014-05-10,2014-07-05,64,3
+802,Stop And Stare,OneRepublic,21,2011-07-02,2011-07-23,64,3
+803,The Wire,HAIM,24,2013-12-07,2014-01-04,64,5
+804,Into Dust,Mazzy Star,26,2011-10-08,2011-10-22,64,3
+805,Came Back Haunted,Nine Inch Nails,16,2013-06-22,2013-09-14,63,3
+806,Your Betrayal,Bullet For My Valentine,17,2010-03-20,2010-05-22,63,3
+807,Collide,Howie Day,17,2010-07-24,2011-02-26,63,3
+808,The Moon Song,Karen O & Ezra Koening,18,2014-03-15,2014-03-22,63,2
+809,It's About Time,Young The Giant,23,2013-11-16,2014-02-01,63,3
+810,Sharp Dressed Man,ZZ Top,30,2011-05-28,2013-04-20,63,4
+811,More Than A Feeling,Boston,36,2011-08-06,2016-03-12,63,8
+812,Under The Graveyard,Ozzy Osbourne,1,2019-11-23,2019-12-07,62,3
+813,You're The Best Thing About Me,U2,5,2017-09-23,2017-10-07,62,3
+814,Somebody To Love,James Wolpert,9,2013-12-14,2013-12-14,62,1
+815,Wasted Time,Vance Joy,9,2014-09-20,2014-09-20,62,1
+816,Still Breathing,Green Day,9,2016-10-15,2016-10-15,62,1
+817,Black Rain,Soundgarden,9,2010-09-04,2010-09-04,62,1
+818,Somewhere Only We Know,Michelle Chamuel,9,2013-06-22,2013-06-22,62,1
+819,Stunner,Milky Chance,9,2014-10-18,2014-10-18,62,1
+820,Carry On,Will Champlin,9,2013-12-28,2013-12-28,62,1
+821,Inside Yourself,Godsmack,9,2015-12-12,2015-12-12,62,1
+822,In The Morning,Jack Johnson,9,2011-11-19,2011-11-19,62,1
+823,I Feel Like Dancin',All Time Low,9,2011-04-23,2011-04-23,62,1
+824,Makeshift Love,Good Charlotte,9,2015-11-28,2015-11-28,62,1
+825,Beautiful Dangerous,Slash Featuring Fergie,10,2010-04-24,2010-05-01,62,2
+826,Dust To Dust,The Civil Wars,13,2013-08-24,2013-08-31,62,2
+827,The Crow & The Butterfly,Shinedown,19,2010-08-14,2010-09-04,62,4
+828,Paralyzer,Finger Eleven,22,2013-04-13,2016-11-19,62,3
+829,Stinkfist,Tool,5,2019-08-17,2019-09-21,61,4
+830,Somebody That I Used To Know,Lindsey Pavao,11,2012-04-21,2012-04-28,61,2
+831,Stylo,Gorillaz Featuring Mos Def & Bobby Womack,12,2010-03-20,2010-04-03,61,3
+832,While My Guitar Gently Weeps,"Tom Petty, Jeff Lynne, Steve Winwood, Dhani Harrison & Prince",13,2016-05-14,2016-05-21,61,2
+833,Little House,Amanda Seyfried,18,2010-02-20,2010-03-06,61,3
+834,Wasn't Expecting That,Jamie Lawson,28,2015-10-17,2015-10-31,61,3
+835,One Of Us,Sarah Simmons,13,2013-04-13,2013-04-20,60,2
+836,Show Me What I'm Looking For,Carolina Liar,15,2010-01-30,2011-09-03,60,3
+837,Doom And Gloom,The Rolling Stones,17,2012-10-27,2012-11-03,60,2
+838,Starlight,Muse,22,2011-07-23,2013-05-25,60,3
+839,Fear Inoculum,Tool,1,2019-08-17,2019-08-31,59,3
+840,Live To Rise,Soundgarden,27,2012-05-19,2012-06-02,59,3
+841,That's Not My Name,The Ting Tings,31,2010-01-30,2011-09-03,59,5
+842,Lost In The Echo,Linkin Park,10,2012-07-14,2012-07-21,58,2
+843,Volcano,Damien Rice,13,2012-05-26,2012-06-02,58,2
+844,With A Little Help From My Friends,The Beatles,14,2010-12-04,2010-12-11,58,2
+845,Dirty Deeds Done Dirt Cheap,AC/DC,18,2012-12-08,2012-12-15,58,2
+846,Doses & Mimosas,Cherub,18,2014-06-07,2014-06-14,58,2
+847,Take It All,Sawyer Fredericks,18,2015-11-28,2015-12-05,58,2
+848,(I Hate) Everything About You,Three Days Grace,28,2010-08-28,2015-01-10,58,5
+849,Inside Out,Five Finger Death Punch,1,2019-12-14,2019-12-28,57,3
+850,Linger,The Cranberries,2,2015-07-11,2018-02-03,57,3
+851,Champion,Fall Out Boy Featuring RM,2,2017-07-08,2018-01-03,57,5
+852,Lazarus,David Bowie,15,2016-01-30,2016-02-06,57,2
+853,One Last Night,Vaults,16,2015-02-21,2015-03-07,57,2
+854,(Don't Fear) The Reaper,Blue Oyster Cult,16,2011-09-03,2019-11-09,57,6
+855,Overjoyed,matchbox twenty,18,2012-09-22,2012-12-22,57,2
+856,100 Years,Five For Fighting,23,2010-04-17,2011-09-10,57,3
+857,Sweet Dreams (Are Made Of This),Marilyn Manson,26,2012-03-24,2012-04-21,57,3
+858,To Be With You,Mr. Big,28,2011-04-16,2013-12-07,57,3
+859,The Joker,The Steve Miller Band,33,2010-09-25,2016-07-09,57,8
+860,The Thunder Rolls,All That Remains,8,2017-09-02,2017-09-30,56,5
+861,Collide,Sawyer Fredericks,14,2015-04-11,2015-04-25,56,2
+862,You Got What I Need,Joshua Radin,15,2010-10-30,2010-11-06,56,2
+863,Black Sun,Death Cab For Cutie,15,2015-02-14,2015-04-18,56,2
+864,Anywhere,Passenger,17,2016-09-10,2016-10-15,56,2
+865,Cowboy,Kid Rock,19,2013-02-02,2016-01-23,56,4
+866,Eyes Wide Open,Gotye,21,2012-04-28,2012-05-05,56,2
+867,Crystals,Of Monsters And Men,22,2015-04-04,2015-06-27,56,3
+868,Guardian,Alanis Morissette,14,2012-06-02,2012-09-15,55,2
+869,Queen Of California,John Mayer,17,2012-06-09,2012-06-16,55,2
+870,What's Up,4 Non Blondes,18,2015-04-25,2015-07-04,55,3
+871,From Eden,Hozier,18,2014-08-16,2014-10-18,55,4
+872,Horchata,Vampire Weekend,19,2010-01-30,2010-02-06,55,2
+873,Give It Away,Red Hot Chili Peppers,20,2014-02-15,2014-02-22,55,2
+874,"Flightless Bird, American Mouth",Iron And Wine,23,2011-12-03,2011-12-17,55,3
+875,Kill Your Heroes,AWOLNATION,42,2012-09-22,2012-12-01,55,10
+876,The Way I Am,Ingrid Michaelson,12,2010-03-13,2013-11-16,54,3
+877,We Are Young,Tonight,17,2012-06-23,2012-06-30,54,2
+878,Wherever You Will Go,The Calling,23,2011-04-16,2011-04-23,54,2
+879,I Need You,M83.,24,2014-04-05,2014-04-19,54,3
+880,Ride,Lana Del Rey,30,2012-10-27,2012-11-24,54,4
+881,(If You're Wondering If I Want You To) I Want You To,Weezer,30,2010-01-23,2010-03-13,54,5
+882,Beast,Nico Vega,31,2013-04-13,2013-04-27,54,3
+883,Everyday Life,Coldplay,5,2019-11-16,2019-12-07,53,3
+884,World Gone Mad,Bastille,8,2017-12-02,2018-01-20,53,5
+885,O,Coldplay,9,2014-06-07,2018-03-03,53,3
+886,Head Full Of Doubt,The Avett Brothers,13,2011-02-26,2011-03-05,53,2
+887,I Saw Her Standing There,The Beatles,15,2010-12-04,2010-12-11,53,2
+888,Medicine,The 1975,15,2014-11-15,2014-11-22,53,2
+889,Gale Song,The Lumineers,15,2013-12-07,2013-12-14,53,2
+890,Eleanor Rigby,The Beatles,16,2010-12-04,2010-12-11,53,2
+891,You're Somebody Else,flora cash,16,2018-10-13,2019-02-23,53,13
+892,Loser,Beck,17,2010-06-19,2015-02-28,53,2
+893,Desperado,Eagles,20,2016-02-06,2016-02-13,53,2
+894,My Own Worst Enemy,Lit,22,2011-04-30,2011-05-07,53,2
+895,There Will Be Time,Mumford & Sons X Baaba Maal,22,2016-05-14,2016-06-04,53,3
+896,Lampshades On Fire,Modest Mouse,28,2015-01-03,2015-04-11,53,5
+897,Follow Me,Uncle Kracker,30,2013-01-26,2013-02-16,53,4
+898,The Middle,Jimmy Eat World,12,2014-02-22,2016-05-07,52,4
+899,Ghost,Badflower,16,2018-08-25,2018-11-10,52,9
+900,Wizards In Winter,Trans-Siberian Orchestra,20,2010-12-18,2017-01-07,52,8
+901,Mony Mony,Billy Idol,25,2014-11-22,2014-12-06,52,3
+902,Next To Me,Imagine Dragons,3,2018-03-03,2018-03-24,51,4
+903,Red Cold River,Breaking Benjamin,3,2018-01-20,2018-03-10,51,6
+904,Hard Times,Paramore,5,2017-05-06,2017-05-20,51,3
+905,In My Life,Joshua Davis,10,2015-05-23,2015-05-23,51,1
+906,It Is What It Is,Lifehouse,10,2010-03-20,2010-03-20,51,1
+907,Tattoo,Van Halen,10,2012-01-28,2012-01-28,51,1
+908,To Be With You,Cole Vosbury,10,2013-12-07,2013-12-07,51,1
+909,The Reckoning,NEEDTOBREATHE,10,2011-10-08,2011-10-08,51,1
+910,What Do You Got,Bon Jovi,10,2010-10-09,2010-10-09,51,1
+911,Hunger,Of Monsters And Men,10,2015-06-13,2015-06-13,51,1
+912,"For You, And Your Denial",Yellowcard,10,2011-02-05,2011-02-05,51,1
+913,The Blower's Daughter,Damien Rice,10,2014-12-20,2014-12-20,51,1
+914,Hell,Disturbed,13,2011-10-22,2011-11-26,51,2
+915,"Ob-la-di, Ob-la-da",The Beatles,18,2010-12-04,2018-07-07,51,3
+916,More Than Words,Extreme,25,2013-12-21,2015-05-23,51,2
+917,Bubbly,Colbie Caillat,27,2010-02-13,2011-07-30,51,4
+918,Ziggy Stardust,David Bowie,27,2010-10-23,2016-01-30,51,4
+919,The Whole Of The Moon,The Waterboys,1,2019-11-16,2019-11-30,50,3
+920,Lust For Life,Lana Del Rey Featuring The Weeknd,2,2017-05-06,2017-06-17,50,4
+921,Battle Born,Five Finger Death Punch,20,2013-09-28,2013-11-30,50,2
+922,The Sound Of Winter,Bush,26,2011-08-13,2011-12-24,50,4
+923,Rebel Beat,Goo Goo Dolls,31,2013-03-09,2013-07-06,50,4
+924,Torn To Pieces,Pop Evil,39,2014-05-17,2014-06-21,50,6
+925,Jenny Of Oldstones (Game Of Thrones),Florence + The Machine,1,2019-05-04,2019-05-11,49,2
+926,Black Hole Sun,Soundgarden,4,2017-06-03,2017-06-17,49,3
+927,Defeated,Breaking Benjamin,11,2015-05-30,2015-06-06,49,2
+928,Rotting In Vain,Korn,13,2016-08-13,2016-08-20,49,2
+929,Walk On The Wild Side,Lou Reed,15,2013-11-09,2013-11-16,49,2
+930,Christmas Wrapping,The Waitresses,15,2010-12-25,2019-12-28,49,6
+931,Crazy Little Thing Called Love,Queen,17,2018-11-17,2019-03-16,49,7
+932,We've Got Tonight,Bob Seger & The Silver Bullet Band,20,2012-06-02,2016-08-06,49,2
+933,For Those About To Rock (We Salute You),AC/DC,20,2012-12-08,2012-12-15,49,2
+934,Here's To Us,Halestorm,21,2012-03-10,2013-05-25,49,2
+935,Congregation,Foo Fighters,24,2014-11-15,2014-11-22,49,2
+936,Hardliners,Holcombe Waller,27,2011-09-10,2011-09-24,49,3
+937,Say You'll Haunt Me,Stone Sour,30,2010-08-07,2010-09-25,49,4
+938,Carried Away,Passion Pit,37,2012-08-11,2013-05-18,49,6
+939,Adolescents,Incubus,12,2011-05-07,2011-05-14,48,2
+940,Trying Not To Love You,Nickelback,12,2011-12-10,2011-12-17,48,2
+941,Painkiller,Three Days Grace,16,2014-04-19,2014-04-26,48,2
+942,A Drop In The Ocean,Ron Pope,19,2011-10-01,2011-10-08,48,2
+943,Happy Together,Filter,21,2013-05-04,2013-05-25,48,3
+944,Breathe Me (Live),Sia,24,2010-03-27,2011-12-24,48,2
+945,Not Your Fault,AWOLNATION,33,2012-03-10,2012-04-14,48,6
+946,Mess Is Mine,Vance Joy,39,2015-02-14,2015-08-01,48,6
+947,Wild Horses,Sarah Simmons,18,2013-05-18,2013-05-25,47,2
+948,Fortunate Son,Creedence Clearwater Revival,18,2016-09-17,2017-07-22,47,3
+949,Brass Monkey,Beastie Boys,19,2012-05-19,2012-05-26,47,2
+950,October,Broken Bells,24,2010-03-27,2010-04-03,47,2
+951,Mercy,Muse,26,2015-06-06,2015-06-13,47,2
+952,Abraham's Daughter,Arcade Fire,26,2012-04-07,2012-04-14,47,2
+953,I'll Follow You,Shinedown,31,2012-04-14,2013-08-03,47,7
+954,Here With Me,The Killers,13,2012-10-06,2013-01-05,46,2
+955,Silhouettes,Of Monsters And Men,17,2013-12-07,2013-12-14,46,2
+956,Girls,The 1975,18,2014-09-27,2014-10-11,46,3
+957,Cleopatra,The Lumineers,23,2016-04-16,2016-11-26,46,4
+958,Let It Be,Ricky Duran,1,2019-12-21,2019-12-28,45,2
+959,Thunder/Young Dumb & Broke (Medley),Imagine Dragons + Khalid,2,2018-01-06,2018-01-20,45,3
+960,Send Them Off!,Bastille,11,2016-09-24,2016-10-01,45,2
+961,When The Curtain Falls,Greta Van Fleet,11,2018-07-28,2018-09-15,45,4
+962,Last Resort,Papa Roach,18,2016-07-09,2017-05-13,45,3
+963,Rebel Rebel,David Bowie,19,2016-01-30,2016-02-06,45,2
+964,No Sleep Till Brooklyn,Beastie Boys,22,2012-05-19,2012-05-26,45,2
+965,Hunger Of The Pine,alt-J,23,2014-07-05,2014-10-04,45,2
+966,Sweet Dreams (Are Made Of This),Eurythmics,28,2011-09-03,2011-09-10,45,2
+967,Any Way You Want It,Journey,29,2011-06-11,2012-07-07,45,3
+968,Far From Any Road,The Handsome Family,31,2014-03-15,2014-03-29,45,3
+969,Can't Fight This Feeling,REO Speedwagon,32,2011-02-19,2011-09-10,45,3
+970,Stairway To Heaven,Led Zeppelin,33,2010-05-08,2016-06-25,45,5
+971,Unbroken,Bon Jovi,2,2019-11-16,2019-11-23,44,2
+972,All Out Life,Slipknot,3,2018-11-10,2019-08-24,44,4
+973,AEnema,Tool,6,2019-08-17,2019-09-14,44,3
+974,Just One Drink,Jack White,16,2014-05-31,2014-06-21,44,2
+975,The Finish Line,Train,18,2010-02-27,2010-03-06,44,2
+976,Shoot To Thrill,AC/DC,23,2012-12-08,2012-12-15,44,2
+977,Ghostbusters (I'm Not Afraid),Fall Out Boy Featuring Missy Elliott,25,2016-07-16,2016-08-06,44,2
+978,Mind Over Matter,Young The Giant,26,2014-01-25,2014-02-01,44,2
+979,All American Nightmare,Hinder,28,2010-10-23,2010-12-25,44,2
+980,Trojans,Atlas Genius,28,2013-02-16,2013-04-06,44,5
+981,Burn It To The Ground,Nickelback,29,2010-01-23,2010-06-05,44,5
+982,99 Problems,Hugo,30,2011-02-12,2013-10-12,44,3
+983,Don't Take The Money,Bleachers,6,2017-04-22,2017-09-02,43,3
+984,Mary Jane's Last Dance,Tom Petty And The Heartbreakers,6,2017-10-21,2017-11-04,43,3
+985,Hurricane,The Band Of Heathens,7,2018-03-24,2019-04-27,43,3
+986,My Blood,twenty one pilots,7,2018-09-08,2018-10-13,43,4
+987,I'm So Sorry,Imagine Dragons,15,2015-03-07,2015-03-14,43,2
+988,Cosmic Love,Matthew Schuler,18,2013-11-16,2013-11-23,43,2
+989,Rabbit Hole,Blink-182,23,2016-06-25,2016-07-02,43,2
+990,Float On,Modest Mouse,24,2011-06-25,2011-07-09,43,3
+991,The Feast And The Famine,Foo Fighters,28,2014-11-08,2014-11-15,43,2
+992,Blister In The Sun,Violent Femmes,29,2012-07-21,2012-07-28,43,2
+993,What You Know,Two Door Cinema Club,34,2011-04-02,2011-05-14,43,4
+994,Run,Foo Fighters,3,2017-06-17,2017-07-01,42,3
+995,Learning To Fly,Tom Petty And The Heartbreakers,6,2017-10-21,2017-11-04,42,3
+996,Say Aah,Lindsey Pavao,11,2012-02-25,2012-03-03,42,2
+997,A Message 2010,Coldplay,17,2010-02-06,2010-02-13,42,2
+998,Revolution,The Beatles,22,2010-12-04,2010-12-11,42,2
+999,Come As You Are,Nirvana,22,2014-12-06,2019-03-23,42,3
+1000,Night Moves,Bob Seger & The Silver Bullet Band,24,2011-12-10,2018-05-12,42,3
+1001,400 Lux,Lorde,24,2013-10-19,2013-11-02,42,3
+1002,Smooth,Santana Featuring Rob Thomas,33,2011-06-11,2012-08-04,42,3
+1003,Like A Stone,Audioslave,5,2017-06-03,2017-06-10,41,2
+1004,The Doomed,A Perfect Circle,5,2017-11-04,2017-11-11,41,2
+1005,Rock And Roll Part 2,Gary Glitter,7,2019-10-19,2019-11-02,41,3
+1006,Alone,Heart,12,2011-04-02,2011-04-09,41,2
+1007,Heads Will Roll,Yeah Yeah Yeahs,14,2011-02-26,2012-07-28,41,3
+1008,Wish That You Were Here,Florence + The Machine,19,2016-09-17,2016-10-22,41,2
+1009,Hell To Pay,Five Finger Death Punch,21,2015-08-15,2015-08-22,41,2
+1010,Shine,3 Doors Down,23,2010-02-27,2010-03-06,41,2
+1011,Your Love,The Outfield,27,2013-12-07,2015-01-24,41,4
+1012,Sixteen Saltines,Jack White,28,2012-04-07,2012-05-05,41,2
+1013,The Greatest Show,Panic! At The Disco,4,2018-11-17,2018-12-01,40,3
+1014,Old Church Choir,Zach Williams,9,2017-10-07,2017-12-02,40,5
+1015,Love Is Blindness,Jacquie Lee,11,2013-11-30,2013-11-30,40,1
+1016,Budapest,Joshua Davis,11,2015-04-25,2015-04-25,40,1
+1017,Best Friend,Foster The People,11,2014-03-29,2014-03-29,40,1
+1018,Together Again,Evanescence,11,2010-03-13,2010-03-13,40,1
+1019,The Life,Hinder,11,2010-12-25,2010-12-25,40,1
+1020,Tired Of Giving Up,Ryan Adams,11,2014-09-20,2014-09-20,40,1
+1021,My City Of Ruins (Live From The Kennedy Center Honors),Eddie Vedder,11,2010-02-13,2010-02-13,40,1
+1022,Burn The Witch,Radiohead,11,2016-05-21,2016-05-21,40,1
+1023,Ex's & Oh's,Ellie Lawrence,11,2015-11-28,2015-11-28,40,1
+1024,Notbroken,Goo Goo Dolls,11,2010-09-18,2010-09-18,40,1
+1025,Now,Paramore,11,2013-02-09,2013-02-09,40,1
+1026,Imagine,Eddie Vedder,11,2014-10-18,2014-10-18,40,1
+1027,Charlie Brown,Coldplay,11,2011-11-12,2011-11-12,40,1
+1028,On Hold,The xx,11,2016-12-03,2017-02-04,40,4
+1029,Hard Love,NEEDTOBREATHE,17,2016-07-23,2017-10-07,40,3
+1030,Survival,Muse,20,2012-07-14,2012-07-28,40,2
+1031,1000hp,Godsmack,23,2014-06-28,2014-08-16,40,3
+1032,Like Real People Do,Hozier,29,2014-08-16,2014-09-20,40,2
+1033,Breakeven (Falling To Pieces),Xenia,29,2011-05-14,2011-07-09,40,2
+1034,This Love,Maroon 5,30,2011-06-25,2011-07-16,40,3
+1035,Wicked Game,Taylor John Williams,12,2014-12-27,2014-12-27,39,1
+1036,Something To Remind You,Staind,12,2011-10-01,2011-10-01,39,1
+1037,Dark Horses,Switchfoot,12,2011-08-20,2011-08-20,39,1
+1038,Love Is A Battlefield,Cee Lo Green & Vicci Martinez,12,2011-07-16,2011-07-16,39,1
+1039,Daydreaming,Radiohead,12,2016-05-28,2016-05-28,39,1
+1040,Revolution Radio,Green Day,12,2016-10-01,2016-10-01,39,1
+1041,Steamroller Blues,Meghan Linsey,12,2015-05-23,2015-05-23,39,1
+1042,The Man Who Can't Be Moved,Josiah Hawley,12,2013-06-01,2013-06-01,39,1
+1043,Bad Blood,Ryan Adams,12,2015-10-10,2015-10-10,39,1
+1044,Wasteland,NEEDTOBREATHE,12,2014-04-19,2014-04-19,39,1
+1045,Stars,Amanda Brown,12,2012-12-08,2012-12-08,39,1
+1046,Everybody Hurts,Lee DeWyze,12,2010-06-12,2010-06-12,39,1
+1047,This House Is Not For Sale,Bon Jovi,12,2016-09-03,2016-09-03,39,1
+1048,The Fighter,The Fray,16,2012-01-07,2012-02-18,39,2
+1049,Arrows,Fences Featuring Macklemore,17,2014-08-16,2014-08-30,39,2
+1050,Body Electric,Lana Del Rey,22,2013-12-21,2013-12-28,39,2
+1051,Take Me Out,Atomic Tom,23,2010-11-06,2011-02-05,39,2
+1052,My Valentine,Paul McCartney,23,2012-02-04,2012-03-03,39,3
+1053,The Season's Upon Us,Dropkick Murphys,25,2012-12-29,2013-01-05,39,2
+1054,We Are Done,The Madden Brothers,30,2014-08-23,2014-09-06,39,3
+1055,Solway Firth,Slipknot,4,2019-08-03,2019-08-10,38,2
+1056,Time-Bomb,All Time Low,13,2011-06-25,2011-06-25,38,1
+1057,Low,Sleeping With Sirens,13,2013-05-11,2013-05-11,38,1
+1058,Kick Me,Sleeping With Sirens,13,2014-12-06,2014-12-06,38,1
+1059,Sick Like Me,In This Moment,13,2014-09-27,2014-09-27,38,1
+1060,To The Sky,Owl City,13,2010-09-18,2010-09-18,38,1
+1061,What's Left,3 Doors Down,13,2011-08-06,2011-08-06,38,1
+1062,I've Just Seen A Face,Dawn & Hawkes,13,2014-03-15,2014-03-15,38,1
+1063,Joel The Lump Of Coal,The Killers Featuring Jimmy Kimmel,13,2014-12-20,2014-12-20,38,1
+1064,The Story,Sarah Simmons,13,2013-06-01,2013-06-01,38,1
+1065,Earthquake Driver,Counting Crows,13,2014-09-06,2014-09-06,38,1
+1066,Home,Meghan Linsey,13,2015-05-09,2015-05-09,38,1
+1067,Kids In The Dark,All Time Low,13,2015-03-28,2015-03-28,38,1
+1068,Painting Flowers,All Time Low,13,2010-03-20,2010-03-20,38,1
+1069,Something,Meghan Linsey,13,2015-05-16,2015-05-16,38,1
+1070,With Or Without You,James Wolpert,13,2013-12-28,2013-12-28,38,1
+1071,Californication,Red Hot Chili Peppers,18,2014-02-15,2017-03-25,38,3
+1072,Help!,The Beatles,20,2010-12-04,2010-12-11,38,2
+1073,Bawitdaba,Kid Rock,21,2013-02-02,2015-03-14,38,2
+1074,It's A Long Way To The Top (If You Wanna Rock 'N' Roll),AC/DC,24,2012-12-08,2012-12-15,38,2
+1075,Can't Buy Me Love,The Beatles,25,2010-12-04,2010-12-11,38,2
+1076,Lyin' Eyes,Eagles,27,2016-02-06,2016-02-13,38,2
+1077,Wish You Were Here,Pink Floyd,27,2011-11-26,2012-09-01,38,3
+1078,A Warrior's Call,Volbeat,38,2012-02-11,2012-03-24,38,6
+1079,Gloria,The Lumineers,2,2019-04-20,2019-06-01,37,4
+1080,Never Tear Us Apart,Bishop Briggs,5,2018-02-17,2018-02-24,37,2
+1081,Only If For A Night,Florence + The Machine,14,2011-11-19,2011-11-19,37,1
+1082,Renegade,Daughtry,14,2011-11-05,2011-11-05,37,1
+1083,Maybe I'm Amazed,Luke Wade & Griffin,14,2014-11-01,2014-11-01,37,1
+1084,American Beauty / American Psycho,Fall Out Boy,14,2015-01-03,2015-01-03,37,1
+1085,Hurts Like Heaven,Coldplay,14,2011-11-12,2011-11-12,37,1
+1086,Singing Low,The Fray,14,2016-10-01,2016-10-01,37,1
+1087,Forever Young,Rhiannon Giddens And Iron & Wine,14,2015-02-14,2015-02-14,37,1
+1088,Caravan,Rush,14,2010-06-19,2010-06-19,37,1
+1089,Sick Of It,Skillet,14,2013-04-27,2013-04-27,37,1
+1090,Fire,Ingrid Michaelson,14,2012-02-11,2012-02-11,37,1
+1091,Creep,Stone Temple Pilots,14,2015-12-26,2015-12-26,37,1
+1092,Hero,Owen Danoff,14,2016-04-30,2016-04-30,37,1
+1093,Where Are We Now?,David Bowie,14,2013-01-26,2013-01-26,37,1
+1094,Inside Of You,The Maine,14,2010-05-22,2010-05-22,37,1
+1095,Reverend,Kings Of Leon,14,2016-10-29,2016-10-29,37,1
+1096,The A Team,Caroline Glaser,14,2013-05-25,2013-05-25,37,1
+1097,The Reason,Hoobastank,14,2016-11-05,2016-11-05,37,1
+1098,Learn To Fly,Foo Fighters,14,2015-08-22,2015-08-22,37,1
+1099,What's Up,Kimberly Nichole,14,2015-04-25,2015-04-25,37,1
+1100,Oats In The Water,Ben Howard,15,2013-11-30,2013-12-07,37,2
+1101,My Best Theory,Jimmy Eat World,17,2010-08-28,2010-10-16,37,2
+1102,Kingdom Come,The Civil Wars,20,2012-04-07,2012-04-14,37,2
+1103,Cult Of Personality,Living Colour,21,2011-08-13,2011-08-20,37,2
+1104,Summer Day,Sheryl Crow,25,2010-07-10,2010-08-07,37,2
+1105,I Want To Hold Your Hand,The Beatles,29,2010-12-04,2010-12-11,37,2
+1106,Anna Sun,WALK THE MOON,34,2012-07-07,2012-09-08,37,4
+1107,Call Me,Chloe Kohanski,3,2017-12-23,2018-01-03,36,3
+1108,Wolf Totem,The Hu Featuring Jacoby Shaddix,4,2019-04-20,2019-12-28,36,2
+1109,Dreams,The Cranberries,4,2018-01-27,2018-02-03,36,2
+1110,Tennessee Mountain Top,Kid Rock,4,2017-09-30,2017-11-18,36,3
+1111,Cryin',Alisan Porter,15,2016-05-28,2016-05-28,36,1
+1112,Crash This Train,Joshua James,15,2013-11-09,2013-11-09,36,1
+1113,Dog Days Are Over,Caroline Pennell,15,2013-12-14,2013-12-14,36,1
+1114,Yellow,Ethan Butler & Matt McAndrews,15,2014-11-08,2014-11-08,36,1
+1115,Stand By Me,Phillip Phillips,15,2012-06-09,2012-06-09,36,1
+1116,Turn To Stone,Ingrid Michaelson,15,2011-07-02,2011-07-02,36,1
+1117,Home,Goo Goo Dolls,15,2010-06-26,2010-06-26,36,1
+1118,Lovesick,Beverly McClellan,15,2011-07-16,2011-07-16,36,1
+1119,Congratulations,MGMT,15,2010-05-01,2010-05-01,36,1
+1120,Ain't No Sunshine,Mia Z,15,2015-04-25,2015-04-25,36,1
+1121,A Love Like War,All Time Low Featuring Vic Fuentes,15,2013-09-21,2013-09-21,36,1
+1122,Let Me In Your Heart Again (William Orbit Mix),Queen,15,2014-11-22,2014-11-22,36,1
+1123,Cryin',Juliet Simms,15,2012-05-12,2012-05-12,36,1
+1124,Young Americans,David Bowie,20,2016-01-30,2016-02-06,36,2
+1125,Face Everything And Rise,Papa Roach,20,2014-11-22,2015-02-21,36,3
+1126,Day In The Life,The Beatles,21,2010-12-04,2010-12-11,36,2
+1127,All I Want,A Day To Remember,23,2010-10-30,2011-05-14,36,2
+1128,You Run Away,Barenaked Ladies,27,2010-04-17,2010-06-26,36,2
+1129,She's So High,Tal Bachman,30,2011-04-16,2011-04-23,36,2
+1130,Boom,P.O.D.,37,2012-10-27,2013-03-02,36,4
+1131,Want You Back,HAIM,8,2017-05-27,2017-06-03,35,2
+1132,Boulevard Of Broken Dreams,Green Day,8,2017-03-04,2017-08-26,35,3
+1133,Baker Street,Gerry Rafferty,16,2011-01-22,2011-01-22,35,1
+1134,The Getaway,Red Hot Chili Peppers,16,2016-06-18,2016-06-18,35,1
+1135,We Take Care Of Our Own,Bruce Springsteen,16,2012-02-04,2012-02-04,35,1
+1136,Living In The Moment,Jason Mraz,16,2012-05-05,2012-05-05,35,1
+1137,Too Much Is Never Enough,Florence + The Machine,16,2016-09-03,2016-09-03,35,1
+1138,Bitch I Operate,MBest11x,16,2016-04-30,2016-04-30,35,1
+1139,We Don't Have To Dance,Andy Black,16,2016-04-09,2016-04-09,35,1
+1140,Monster,Starset,16,2016-11-26,2016-11-26,35,1
+1141,Somebody That I Used To Know,Mayday Parade Featuring Vic Fuentes,16,2012-11-24,2012-11-24,35,1
+1142,Pride,American Authors,16,2016-01-02,2016-01-02,35,1
+1143,Fall To Pieces,Velvet Revolver,16,2015-12-26,2015-12-26,35,1
+1144,Trouble,Cage The Elephant,16,2015-12-12,2015-12-12,35,1
+1145,Changed The Locks,Lucinda Williams,16,2015-11-14,2015-11-14,35,1
+1146,Season Of The Witch,Donovan,16,2010-11-13,2010-11-13,35,1
+1147,When I Paint My Masterpiece,Joshua Davis,16,2015-05-30,2015-05-30,35,1
+1148,America,Joshua Davis,16,2015-05-02,2015-05-02,35,1
+1149,Entertainment,Phoenix,22,2013-03-09,2013-05-18,35,3
+1150,Born To Die,Lana Del Rey,31,2012-01-28,2012-02-18,35,2
+1151,Welcome To The Family,Avenged Sevenfold,32,2010-08-14,2011-01-08,35,2
+1152,Better Man,Pearl Jam,33,2011-09-03,2011-09-10,35,2
+1153,Give Me One Reason,Tracy Chapman,36,2011-08-06,2013-07-06,35,4
+1154,Forever Young,Alphaville,36,2010-05-15,2012-07-28,35,4
+1155,I Guess I Just Feel Like,John Mayer,1,2019-03-09,2019-03-16,34,2
+1156,Hallelujah,Leonard Cohen,2,2016-11-26,2016-12-10,34,3
+1157,Young And Menace,Fall Out Boy,4,2017-05-13,2017-05-20,34,2
+1158,Drive,The Cars,4,2019-09-28,2019-10-05,34,2
+1159,The Last Of The Real Ones,Fall Out Boy,4,2017-09-30,2017-10-14,34,3
+1160,Hunger,Florence + The Machine,4,2018-05-19,2018-06-09,34,4
+1161,Fell On Black Days,Soundgarden,6,2017-06-03,2017-06-10,34,2
+1162,You Don't Know How It Feels,Tom Petty,8,2017-10-21,2017-10-28,34,2
+1163,Be Still,The Fray,11,2012-02-25,2018-05-19,34,3
+1164,Alaska,Maggie Rogers,17,2016-07-09,2016-07-09,34,1
+1165,Realize,Colbie Caillat,17,2011-07-23,2011-07-23,34,1
+1166,She Talks To Angels,Austin Jenckes,17,2013-11-23,2013-11-23,34,1
+1167,Sail,Kat Robichaud,17,2013-11-30,2013-11-30,34,1
+1168,Hopeless Wanderer,Mumford & Sons,17,2013-08-24,2013-08-24,34,1
+1169,Leather And Lace,Stevie Nicks With Don Henley,17,2011-05-28,2011-05-28,34,1
+1170,Architects,Rise Against,17,2011-03-05,2011-03-05,34,1
+1171,Back From The Dead,Skillet,17,2016-07-30,2016-07-30,34,1
+1172,Parachute,Ingrid Michaelson,17,2010-10-02,2010-10-02,34,1
+1173,Pictures,Terry McDermott,17,2013-06-29,2013-06-29,34,1
+1174,BU2B,Rush,17,2010-06-19,2010-06-19,34,1
+1175,I Of The Storm,Of Monsters And Men,17,2015-05-16,2015-05-16,34,1
+1176,We Are,Hollywood Undead,17,2012-11-17,2012-11-17,34,1
+1177,Leave A Trace,CHVRCHES,17,2015-08-08,2015-08-08,34,1
+1178,Gimme Shelter,The Rolling Stones,18,2010-11-20,2010-11-27,34,2
+1179,High Ball Stepper,Jack White,21,2014-04-26,2014-06-21,34,2
+1180,Everything,Lifehouse,21,2012-04-14,2012-05-05,34,2
+1181,Everybody Wants To Rule The World,Tears For Fears,21,2014-10-11,2016-09-17,34,2
+1182,Down Under,Men At Work,23,2011-06-11,2011-08-20,34,2
+1183,Coming For You,The Offspring,24,2015-03-07,2015-04-04,34,2
+1184,The Last Goodbye,Billy Boyd,25,2015-01-03,2015-01-17,34,2
+1185,Take Out The Gunman,Chevelle,27,2014-03-01,2014-04-12,34,2
+1186,Love Letter,Clairy Browne & The Bangin' Rackettes,28,2012-09-15,2012-09-22,34,2
+1187,Save Tonight,Eagle-Eye Cherry,30,2011-04-30,2012-09-01,34,3
+1188,True Friends,Bring Me The Horizon,31,2015-09-12,2015-09-19,34,2
+1189,In A Black Out,Hamilton Leithauser + Rostam,32,2016-10-08,2016-11-19,34,3
+1190,Gravity,Papa Roach,39,2015-09-05,2015-11-21,34,3
+1191,The Joke,Brandi Carlile,1,2019-02-23,2019-06-15,33,3
+1192,Sky Full Of Song,Florence + The Machine,3,2018-04-28,2018-05-19,33,2
+1193,Trouble,Five Finger Death Punch,4,2017-11-18,2017-12-23,33,3
+1194,Dear Future Self (Hands Up),Fall Out Boy Featuring Wyclef Jean,7,2019-09-21,2019-09-28,33,2
+1195,Levitate,twenty one pilots,9,2018-08-18,2018-08-25,33,2
+1196,Cough Syrup,Matthew Schuler,18,2013-10-12,2013-10-12,33,1
+1197,93 Million Miles,Jason Mraz,18,2012-04-14,2012-04-14,33,1
+1198,Everything Is Sound,Jason Mraz,18,2012-04-28,2012-04-28,33,1
+1199,Ready To Start,Arcade Fire,18,2011-03-05,2011-03-05,33,1
+1200,Weight,The Band,18,2012-05-05,2012-05-05,33,1
+1201,Make Me Wanna Die,The Pretty Reckless,18,2011-12-17,2011-12-17,33,1
+1202,Lydia,Jessica Bassett,18,2014-02-22,2014-02-22,33,1
+1203,Never Let Me Go,Florence + The Machine,18,2011-11-19,2011-11-19,33,1
+1204,Not Gonna Die,Skillet,18,2013-06-29,2013-06-29,33,1
+1205,Somebody That I Used To Know,Sarah Simmons,18,2013-06-15,2013-06-15,33,1
+1206,Alone,Sleeping With Sirens Featuring MGK,18,2013-06-08,2013-06-08,33,1
+1207,The World As I See It,Jason Mraz,18,2011-10-08,2011-10-08,33,1
+1208,Around The World,Kings Of Leon,18,2016-10-22,2016-10-22,33,1
+1209,Soulshine,Brendan Fletcher,18,2016-11-19,2016-11-19,33,1
+1210,Demons,Will Champlin,18,2013-11-30,2013-11-30,33,1
+1211,Heart Is A Drum,Beck,18,2015-02-28,2015-02-28,33,1
+1212,Joe (Live From Austin City Limits),Alabama Shakes,18,2015-11-21,2015-11-21,33,1
+1213,Fever,Bullet For My Valentine,18,2010-05-15,2010-05-15,33,1
+1214,Almost Everything,Wakey!Wakey!,18,2010-06-05,2010-06-05,33,1
+1215,Boy Division,My Chemical Romance,18,2012-11-17,2012-11-17,33,1
+1216,Songs I Can't Listen To,Neon Trees,18,2015-05-23,2015-05-23,33,1
+1217,Sight Of The Sun,fun.,18,2014-03-29,2014-03-29,33,1
+1218,Seven Wonders,Fleetwood Mac,18,2014-02-15,2014-02-15,33,1
+1219,Fun,Coldplay Featuring Tove Lo,18,2015-12-26,2015-12-26,33,1
+1220,I Am Machine,Three Days Grace,20,2014-10-18,2014-10-25,33,2
+1221,Lucy In The Sky With Diamonds,The Beatles,23,2010-12-04,2010-12-11,33,2
+1222,Waking Light,Beck,30,2014-02-22,2014-03-08,33,2
+1223,Woman I Love,Jason Mraz,30,2012-03-17,2012-05-05,33,2
+1224,When I Come Around,Green Day,31,2011-04-09,2011-04-23,33,3
+1225,Bartholomew,The Silent Comedy,33,2012-06-09,2012-06-16,33,2
+1226,Take It To The Limit,Eagles,33,2016-02-06,2016-02-13,33,2
+1227,Party Hard,Andrew W.K.,33,2014-11-08,2014-11-15,33,2
+1228,Bitch Came Back,Theory Of A Deadman,34,2011-11-05,2011-12-24,33,5
+1229,American Girl,Tom Petty And The Heartbreakers,9,2017-10-21,2017-10-28,32,2
+1230,In The Blood,John Mayer,10,2017-05-06,2017-05-27,32,4
+1231,Hallelujah,Rufus Wainwright,11,2010-06-05,2016-12-03,32,2
+1232,(Fuck A) Silver Lining,Panic! At The Disco,11,2018-03-31,2018-04-14,32,3
+1233,Wave,Beck,19,2014-03-08,2014-03-08,32,1
+1234,Heart Is Full,Miike Snow,19,2015-11-21,2015-11-21,32,1
+1235,A Different World,Korn Featuring Corey Taylor,19,2016-10-22,2016-10-22,32,1
+1236,Home,Ray Boudreaux,19,2013-11-23,2013-11-23,32,1
+1237,My Wrecking Ball,Ryan Adams,19,2014-08-30,2014-08-30,32,1
+1238,Peace Of Mind,The Killers,19,2016-10-29,2016-10-29,32,1
+1239,Paralyzed,Angels & Airwaves,19,2014-10-25,2014-10-25,32,1
+1240,Block After Block,Matt And Kim,19,2010-11-20,2010-11-20,32,1
+1241,Amerika,Young The Giant,19,2016-05-07,2016-05-07,32,1
+1242,The Freedom Song,Jason Mraz,19,2012-03-31,2012-03-31,32,1
+1243,Immortalized,Disturbed,19,2015-08-15,2015-08-15,32,1
+1244,Cough Syrup,Melanie Martinez,19,2012-12-01,2012-12-01,32,1
+1245,Captains Of The Sky,Sky Sailing,19,2010-07-31,2010-07-31,32,1
+1246,Go Your Own Way,Fleetwood Mac,19,2011-05-21,2011-05-21,32,1
+1247,Hook,Blues Traveler,19,2014-05-17,2014-05-17,32,1
+1248,Lane Boy,twenty one pilots,19,2015-05-23,2015-05-23,32,1
+1249,Where Does The Good Go,Tegan And Sara,20,2014-05-31,2014-06-07,32,2
+1250,Bodies,Drowning Pool,24,2016-04-16,2017-06-24,32,3
+1251,Short Change Hero,The Heavy,29,2012-10-06,2012-10-13,32,2
+1252,Name,Goo Goo Dolls,34,2011-09-03,2011-09-10,32,2
+1253,Patience,Tame Impala,10,2019-04-06,2019-04-13,31,2
+1254,Who We Are,Switchfoot,20,2013-10-05,2013-10-05,31,1
+1255,Tracks In The Snow,The Civil Wars,20,2011-12-17,2011-12-17,31,1
+1256,Stairway To Heaven (Live At The Kennedy Center Honors),Heart,20,2013-02-02,2013-02-02,31,1
+1257,Brand New Day,Joshua Radin,20,2010-07-03,2010-07-03,31,1
+1258,Back For More,Five Finger Death Punch,20,2011-10-01,2011-10-01,31,1
+1259,Vasoline,Stone Temple Pilots,20,2015-12-26,2015-12-26,31,1
+1260,"Hey Hey, My My",Battleme,20,2010-12-18,2010-12-18,31,1
+1261,What Are You Waiting For,Disturbed,20,2015-08-29,2015-08-29,31,1
+1262,Hurricane,Theory Of A Deadman,20,2011-07-30,2011-07-30,31,1
+1263,Beggin',Phillip Phillips,20,2012-06-09,2012-06-09,31,1
+1264,Chasing Cars,Sleeping At Last,20,2015-05-09,2015-05-09,31,1
+1265,Don't Forget About Me,Cloves,20,2016-06-25,2016-06-25,31,1
+1266,Maggie May,Cole Vosbury,20,2013-11-23,2013-11-23,31,1
+1267,Never Stop (Wedding Version),SafetySuit,20,2015-02-28,2015-02-28,31,1
+1268,Sick Of You,Cake,20,2011-01-29,2011-01-29,31,1
+1269,Stars,Skillet,22,2016-06-18,2017-02-18,31,2
+1270,Another Brick In The Wall (Part II),Pink Floyd,29,2010-10-23,2012-03-17,31,3
+1271,Let Me In,Grouplove,31,2014-06-21,2014-06-28,31,2
+1272,"Oh, Darling",Plug In Stereo Featuring Cady Groves,36,2011-09-24,2011-12-17,31,5
+1273,Angel,Sarah McLachlan,37,2011-06-18,2011-08-06,31,3
+1274,My Type,Saint Motel,37,2015-06-13,2015-08-29,31,4
+1275,Lo/Hi,The Black Keys,4,2019-03-23,2019-05-25,30,3
+1276,The Pot,Tool,7,2019-08-17,2019-08-24,30,2
+1277,Here Without You,3 Doors Down,19,2014-02-22,2019-05-25,30,5
+1278,Where We Came From,Phillip Phillips,21,2012-11-24,2012-11-24,30,1
+1279,All Bad Things,Motley Crue,21,2015-02-07,2015-02-07,30,1
+1280,Black Velvet,Crystal Bowersox,21,2010-06-12,2010-06-12,30,1
+1281,Stuck In The Middle With You,Taylor John Williams,21,2014-11-29,2014-11-29,30,1
+1282,Landslide,Kat Perkins,21,2014-05-17,2014-05-17,30,1
+1283,You Were Born,Cloud Cult,21,2014-11-08,2014-11-08,30,1
+1284,All The Way,Eddie Vedder,21,2016-11-26,2016-11-26,30,1
+1285,Rose Tattoo,Dropkick Murphys Featuring Bruce Springsteen,21,2013-06-01,2013-06-01,30,1
+1286,Headlong Flight,Rush,21,2012-05-12,2012-05-12,30,1
+1287,Take Me To Church,India Carney,21,2015-05-02,2015-05-02,30,1
+1288,More Than A Feeling,Terry McDermott,21,2012-12-01,2012-12-01,30,1
+1289,I Don't Wanna Dance,Hey Monday,21,2010-08-14,2010-08-14,30,1
+1290,The Lost Boy,Greg Holden,21,2012-10-20,2012-10-20,30,1
+1291,China Girl,David Bowie,21,2016-01-30,2016-01-30,30,1
+1292,Bring Me To Life,Chris Daughtry,21,2016-04-09,2016-04-09,30,1
+1293,Flash Delirium,MGMT,23,2010-04-10,2010-05-01,30,2
+1294,Hanging By A Moment,Lifehouse,27,2011-08-06,2012-04-21,30,2
+1295,Future Days,Pearl Jam,30,2013-11-02,2014-04-12,30,2
+1296,Something,The Beatles,31,2010-12-04,2010-12-11,30,2
+1297,Run,AWOLNATION,35,2015-08-08,2015-08-15,30,2
+1298,Better Love,Hozier,35,2016-07-09,2016-07-23,30,2
+1299,Midnight Rider,The Allman Brothers Band,3,2017-06-17,2017-06-24,29,2
+1300,Feed The Wolf,Breaking Benjamin,4,2018-02-10,2018-02-17,29,2
+1301,Crawling,Linkin Park,7,2017-08-05,2017-08-12,29,2
+1302,Hunger Strike,Temple Of The Dog,8,2017-06-03,2017-06-10,29,2
+1303,Holding On For Life,Broken Bells,22,2014-02-15,2014-02-15,29,1
+1304,I Wan'na Be Like You (The Monkey Song),Fall Out Boy,22,2015-11-21,2015-11-21,29,1
+1305,Dream,Imagine Dragons,22,2015-03-07,2015-03-07,29,1
+1306,Happy Pills,Norah Jones,22,2012-03-24,2012-03-24,29,1
+1307,Lovers' Eyes,Mumford & Sons,22,2012-10-13,2012-10-13,29,1
+1308,Changing Of The Seasons,Two Door Cinema Club,22,2013-09-07,2013-09-07,29,1
+1309,The Cowboys' Christmas Ball,The Killers,22,2011-12-17,2011-12-17,29,1
+1310,Lost,Anouk,22,2010-08-21,2010-08-21,29,1
+1311,Modern Love,David Bowie,22,2016-01-30,2016-01-30,29,1
+1312,Simple Man,Lee DeWyze,22,2010-06-12,2010-06-12,29,1
+1313,Army Of One,Coldplay,22,2015-12-26,2015-12-26,29,1
+1314,Comin In Hot,Hollywood Undead,22,2011-04-23,2011-04-23,29,1
+1315,Stay With Me,Terry McDermott,22,2012-12-22,2012-12-22,29,1
+1316,You Are The Best Thing,Ray Boudreaux,22,2013-12-07,2013-12-07,29,1
+1317,Glycerine (Live),Bush Featuring Gwen Stefani,22,2013-01-05,2013-01-05,29,1
+1318,Pseudologia Fantastica,Foster The People,22,2014-03-15,2014-03-15,29,1
+1319,Shout,Hannah Kirby,22,2015-05-09,2015-05-09,29,1
+1320,Beekeeper's Daughter,The All-American Rejects,22,2012-02-18,2012-02-18,29,1
+1321,Longing To Belong,Eddie Vedder,22,2011-04-09,2011-04-09,29,1
+1322,Airplanes,The Ready Set,22,2010-11-20,2010-11-20,29,1
+1323,Can't Stand It,Never Shout Never,29,2010-04-17,2010-09-11,29,2
+1324,Sympathy For The Devil,The Rolling Stones,32,2016-09-17,2016-09-24,29,2
+1325,Love Alone Is Worth The Fight,Switchfoot,35,2013-10-05,2014-01-25,29,2
+1326,Runnin' Down A Dream,Tom Petty,10,2017-10-21,2017-10-28,28,2
+1327,Wildflowers,Tom Petty,11,2017-10-21,2017-10-28,28,2
+1328,Into The Mystic,Van Morrison,12,2013-08-03,2017-04-08,28,3
+1329,Stop Draggin' My Heart Around,Stevie Nicks With Tom Petty And The Heartbreakers,16,2017-10-21,2017-11-04,28,3
+1330,Addicted To Love,Florence + The Machine,23,2010-07-03,2010-07-03,28,1
+1331,Dancing On Glass,St. Lucia,23,2015-11-14,2015-11-14,28,1
+1332,Palisades Park,Counting Crows,23,2014-07-26,2014-07-26,28,1
+1333,Silver Lining,Lee DeWyze,23,2013-05-11,2013-05-11,28,1
+1334,Ghosts,Mayday Parade,23,2013-09-14,2013-09-14,28,1
+1335,One Last Chance,Daughtry,23,2010-07-24,2010-07-24,28,1
+1336,Dream On,Koryn Hawthorne,23,2015-05-23,2015-05-23,28,1
+1337,Jesus And Bocephus,Kid Rock,23,2015-02-14,2015-02-14,28,1
+1338,Rocky Mountain Way,Godsmack,23,2012-05-12,2012-05-12,28,1
+1339,Say You Like Me,WE the Kings,23,2011-07-23,2011-07-23,28,1
+1340,Dirt Sledding,The Killers Featuring Ryan Pardey & Richard Dreyfuss,23,2015-12-19,2015-12-19,28,1
+1341,Man On Fire,Edward Sharpe & The Magnetic Zeros,23,2012-06-16,2012-06-16,28,1
+1342,With A Little Help From My Friends,Laith Al-Saadi,23,2016-04-30,2016-04-30,28,1
+1343,Tiny Dancer,Nolan Neal,23,2016-10-15,2016-10-15,28,1
+1344,I'd Do Anything For Love (But I Won't Do That),James Wolpert,23,2013-12-21,2013-12-21,28,1
+1345,Best Shot,Birdy & Jaymes Young,23,2014-05-31,2014-05-31,28,1
+1346,In Her Eyes,Joshua Radin,23,2012-10-27,2012-10-27,28,1
+1347,Rise,Skillet,23,2013-06-01,2013-06-01,28,1
+1348,Just Another Girl,The Killers,23,2013-11-30,2013-11-30,28,1
+1349,God Of Ocean Tides,Counting Crows,23,2014-08-23,2014-08-23,28,1
+1350,Rainbow Connection,Weezer & Hayley Williams,23,2011-09-10,2011-09-10,28,1
+1351,In The Dark,3 Doors Down,23,2016-02-06,2016-02-06,28,1
+1352,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,28,2010-11-27,2015-11-28,28,2
+1353,Do Or Die,Thirty Seconds To Mars,36,2014-08-09,2014-08-16,28,2
+1354,Simple Man,Shinedown,38,2011-04-16,2012-09-08,28,3
+1355,Believer (Remix),Imagine Dragons Featuring Lil Wayne,8,2019-01-19,2019-01-26,27,2
+1356,Lake Effect Kid,Fall Out Boy,11,2018-09-01,2018-09-08,27,2
+1357,"Girls, Girls, Girls",Motley Crue,12,2019-04-06,2019-04-13,27,2
+1358,Jack & Diane,John Cougar,12,2016-07-09,2017-07-29,27,3
+1359,Misery Business,Charlotte Sometimes,24,2012-04-21,2012-04-21,27,1
+1360,I Feel It In My Bones,The Killers Featuring Ryan Pardey,24,2012-12-22,2012-12-22,27,1
+1361,Big Empty,Stone Temple Pilots,24,2015-12-26,2015-12-26,27,1
+1362,Sideways,Sheryl Crow,24,2010-08-07,2010-08-07,27,1
+1363,Golden Years,David Bowie,24,2016-01-30,2016-01-30,27,1
+1364,Cola,Lana Del Rey,24,2012-12-01,2012-12-01,27,1
+1365,My Little Girl,Jack Johnson,24,2010-06-19,2010-06-19,27,1
+1366,Lead Me Home,Jamie N Commons,24,2013-03-23,2013-03-23,27,1
+1367,"If Not Now, When?",Incubus,24,2011-07-30,2011-07-30,27,1
+1368,Where Are You Now,Mumford & Sons,24,2012-10-13,2012-10-13,27,1
+1369,Miss You,Mia Z,24,2015-05-02,2015-05-02,27,1
+1370,Stay Vicious,The Gaslight Anthem,24,2014-08-16,2014-08-16,27,1
+1371,Demons,Chris Daughtry & Jencarlos,24,2016-04-09,2016-04-09,27,1
+1372,Turning Page,Sleeping At Last,24,2012-07-28,2012-07-28,27,1
+1373,Lost In You,Three Days Grace,24,2011-04-02,2011-04-02,27,1
+1374,Strawberry Fields Forever,The Beatles,24,2010-12-04,2010-12-04,27,1
+1375,Fake It,Bastille,24,2016-08-20,2016-08-20,27,1
+1376,It's My Life,Jamar Rogers,24,2012-05-12,2012-05-12,27,1
+1377,Dead Air,CHVRCHES,24,2014-11-22,2014-11-22,27,1
+1378,Feels Good At First,Train,24,2012-04-07,2012-04-07,27,1
+1379,Mine Is Yours,Cold War Kids,24,2011-02-12,2011-02-12,27,1
+1380,No Surprise,Daughtry,34,2010-01-23,2010-01-30,27,2
+1381,When The Seasons Change,Five Finger Death Punch,8,2018-05-19,2018-09-29,26,2
+1382,Party Of One,Brandi Carlile Featuring Sam Smith,9,2018-10-27,2018-11-03,26,2
+1383,When Legends Rise,Godsmack,9,2018-04-28,2018-05-12,26,2
+1384,Us,James Bay & Alicia Keys,12,2018-06-02,2018-06-09,26,2
+1385,Movin' Out (Anthony's Song),Phillip Phillips,25,2012-06-09,2012-06-09,26,1
+1386,Ain't No Man,The Avett Brothers,25,2016-05-07,2016-05-07,26,1
+1387,Knockin' On Heaven's Door,Brian Johnson & Joshua Davis,25,2015-03-28,2015-03-28,26,1
+1388,Just Tonight,The Pretty Reckless,25,2011-02-26,2011-02-26,26,1
+1389,Stop For A Minute,Keane & K'Naan,25,2010-05-29,2010-05-29,26,1
+1390,Reapers,Muse,25,2015-06-20,2015-06-20,26,1
+1391,Just A Game,Birdy,25,2012-04-07,2012-04-07,26,1
+1392,Heavy In Your Arms,Florence + The Machine,25,2011-08-20,2011-08-20,26,1
+1393,Sister Christian,Night Ranger,25,2012-09-22,2012-09-22,26,1
+1394,You And I,PVRIS,25,2016-03-12,2016-03-12,26,1
+1395,Ohio!,The Black Keys,25,2011-01-22,2011-01-22,26,1
+1396,Falling In,Lifehouse,25,2010-03-20,2010-03-20,26,1
+1397,Only God Knows Why,Kid Rock,25,2013-02-02,2013-02-02,26,1
+1398,Right Girl,The Maine,25,2010-07-31,2010-07-31,26,1
+1399,Restless,Switchfoot,25,2011-10-15,2011-10-15,26,1
+1400,Snow ((Hey Oh)),Red Hot Chili Peppers,29,2011-05-28,2011-06-04,26,2
+1401,A Woman Like Her,Ricky Duran,1,2019-12-28,2019-12-28,25,1
+1402,Carry Me Away,John Mayer,1,2019-09-21,2019-09-21,25,1
+1403,God's Gonna Cut You Down,Marilyn Manson,1,2019-11-02,2019-11-02,25,1
+1404,The Chain,Evanescence,1,2019-12-07,2019-12-07,25,1
+1405,Reasons I Drink,Alanis Morissette,5,2019-12-14,2019-12-21,25,2
+1406,Spoonman,Soundgarden,11,2017-06-03,2017-06-10,25,2
+1407,Pour Some Sugar On Me,Def Leppard,11,2018-02-03,2018-06-30,25,5
+1408,White Flag,Bishop Briggs,13,2018-03-10,2019-12-28,25,2
+1409,Sing For Me,Yellowcard,26,2011-04-09,2011-04-09,25,1
+1410,Counting The Days,Good Charlotte,26,2010-11-20,2010-11-20,25,1
+1411,Dance So Good,Wakey!Wakey!,26,2010-05-22,2010-05-22,25,1
+1412,Just Stay Here Tonight,Augustana,26,2011-05-14,2011-05-14,25,1
+1413,As Long As You Love Me,Caleb Johnson,26,2014-06-07,2014-06-07,25,1
+1414,You Belong To The City,Glenn Frey,26,2016-02-06,2016-02-06,25,1
+1415,I Won't Give In,Asking Alexandria,26,2015-06-13,2015-06-13,25,1
+1416,Stay,Mayday Parade,26,2011-10-22,2011-10-22,25,1
+1417,Life On Mars?,David Bowie,26,2016-01-30,2016-01-30,25,1
+1418,Somewhere In Neverland,All Time Low,26,2012-10-06,2012-10-06,25,1
+1419,Tightrope,Paul Freeman,26,2010-03-27,2010-03-27,25,1
+1420,Tomorrow's Money,My Chemical Romance,26,2012-11-17,2012-11-17,25,1
+1421,Old Man,Neil Young,26,2015-02-21,2015-02-21,25,1
+1422,All My Loving,The Beatles,26,2010-12-04,2010-12-04,25,1
+1423,We Might Be Dead By Tomorrow,Soko,26,2014-03-29,2014-03-29,25,1
+1424,Who Are You,The Who,27,2010-02-20,2010-02-27,25,2
+1425,Sweet Emotion,Aerosmith,30,2011-02-12,2013-09-21,25,3
+1426,Love Interruption,James Wolpert,33,2013-10-12,2013-11-23,25,3
+1427,Back To The Shack,Weezer,37,2014-08-09,2014-10-18,25,2
+1428,Bleeding Out,Imagine Dragons,38,2012-09-22,2014-01-11,25,2
+1429,Born Under A Bad Sign,Ricky Duran,2,2019-12-14,2019-12-14,24,1
+1430,Po-Dunk,Kid Rock,2,2017-08-05,2017-08-05,24,1
+1431,Tongue Tied,"Marshmello, YUNGBLUD & blackbear",2,2019-11-30,2019-11-30,24,1
+1432,Straight To Hell,Ozzy Osbourne,2,2019-12-07,2019-12-07,24,1
+1433,Two Tickets To Paradise,Eddie Money,2,2019-09-28,2019-09-28,24,1
+1434,Hypnotised,Coldplay,2,2017-03-25,2017-03-25,24,1
+1435,Where You Come From,Britton Buchanan,2,2018-06-02,2018-06-02,24,1
+1436,Walking The Wire,Imagine Dragons,2,2017-07-08,2017-07-08,24,1
+1437,Woman,Jesse Larson,2,2017-06-10,2017-06-10,24,1
+1438,All Better,Katie Kadan,2,2019-12-28,2019-12-28,24,1
+1439,Movement,Hozier,4,2018-12-01,2018-12-08,24,2
+1440,Are You Ready,Disturbed,5,2018-09-01,2018-09-08,24,2
+1441,Saturnz Barz,Gorillaz Featuring Popcaan,6,2017-04-15,2017-04-29,24,2
+1442,Humility,Gorillaz Featuring George Benson,7,2018-06-16,2018-06-23,24,2
+1443,Dear Mr. Fantasy,Traffic,12,2019-05-11,2019-05-18,24,2
+1444,Penny Lane,The Beatles,15,2010-12-04,2018-07-07,24,2
+1445,You're My Best Friend,Queen,20,2018-11-17,2019-03-16,24,6
+1446,Day Is Gone,Noah Gundersen & The Forest Rangers,27,2013-12-28,2013-12-28,24,1
+1447,Cherry Pie,Warrant,27,2011-08-20,2011-08-20,24,1
+1448,Save Rock And Roll,Fall Out Boy Featuring Elton John,27,2013-05-04,2013-05-04,24,1
+1449,Beautiful Day,U2,27,2010-06-12,2010-06-12,24,1
+1450,A Head Full Of Dreams,Coldplay,27,2015-12-26,2015-12-26,24,1
+1451,It's My Life,Bon Jovi,27,2010-11-27,2010-11-27,24,1
+1452,Violet Rays,The Smashing Pumpkins,27,2012-07-07,2012-07-07,24,1
+1453,To The Sea,Jack Johnson,27,2010-06-19,2010-06-19,24,1
+1454,U Got It Bad,Phillip Phillips,27,2012-06-09,2012-06-09,24,1
+1455,The Suburbs,Arcade Fire,27,2010-08-21,2010-08-21,24,1
+1456,I Knew You Were Trouble,We Came As Romans,27,2014-11-01,2014-11-01,24,1
+1457,Insane,Korn,27,2016-09-17,2016-09-17,24,1
+1458,Intergalactic,Beastie Boys,27,2012-05-19,2012-05-19,24,1
+1459,Standing In The Rain,"Action Bronson, Mark Ronson & Dan Auerbach",27,2016-08-27,2016-08-27,24,1
+1460,Ordinary Love,Ben Rector,27,2013-08-10,2013-08-10,24,1
+1461,Scare Away The Dark,Passenger,27,2014-04-19,2014-04-19,24,1
+1462,Nothing More,The Alternate Routes Featuring Lily Costner,27,2014-01-04,2014-01-04,24,1
+1463,Have Yourself A Merry Little Christmas,Ingrid Michaelson,27,2011-12-31,2011-12-31,24,1
+1464,No Future,Blink-182,27,2016-07-16,2016-07-16,24,1
+1465,Burn,Papa Roach,27,2010-09-18,2010-09-18,24,1
+1466,Running Up That Hill,Placebo,27,2011-06-11,2011-06-11,24,1
+1467,Windows Are Rolled Down,Amos Lee,27,2011-02-12,2011-02-12,24,1
+1468,Mene,Brand New,27,2015-05-02,2015-05-02,24,1
+1469,No Surprises,Regina Spektor,27,2010-05-15,2010-05-15,24,1
+1470,Songbird,Eric Clapton Featuring Willie Nelson,27,2014-08-09,2014-08-09,24,1
+1471,The Eco-Terrorist In Me,Rise Against,30,2014-07-12,2014-07-26,24,2
+1472,Bad Moon Rising,Creedence Clearwater Revival,34,2016-10-22,2016-10-29,24,2
+1473,With Arms Wide Open,Creed,34,2010-03-20,2016-10-22,24,3
+1474,White Blank Page,Mumford & Sons,36,2011-03-05,2011-10-01,24,2
+1475,Juke Box Hero,Foreigner,37,2011-05-28,2012-07-07,24,2
+1476,Breakfast At Tiffanys,Deep Blue Something,38,2010-10-23,2010-10-30,24,2
+1477,New Low,Middle Class Rut,40,2011-03-05,2011-04-23,24,4
+1478,Blind Leading The Blind,Mumford & Sons,3,2019-11-09,2019-11-09,23,1
+1479,I Really Wish I Hated You,Blink-182,3,2019-10-05,2019-10-05,23,1
+1480,Resentment,A Day To Remember,3,2019-12-07,2019-12-07,23,1
+1481,The Best,AWOLNATION,3,2019-11-23,2019-11-23,23,1
+1482,River,Noah Mac,3,2017-12-30,2017-12-30,23,1
+1483,I Love Sausage Rolls,LadBaby,3,2019-12-28,2019-12-28,23,1
+1484,Now I'm In It,HAIM,3,2019-11-16,2019-11-16,23,1
+1485,Baby Hold On,Eddie Money,3,2019-09-28,2019-09-28,23,1
+1486,Dangerous Night,Thirty Seconds To Mars,3,2018-02-10,2018-02-10,23,1
+1487,Up All Night,Beck,10,2017-09-30,2017-11-04,23,2
+1488,Dr. Feelgood,Motley Crue,11,2019-04-06,2019-04-13,23,2
+1489,Ooh La La,Faces,19,2018-12-08,2019-01-26,23,5
+1490,Christmas In L.A.,The Killers Featuring Dawes,28,2013-12-21,2013-12-21,23,1
+1491,9 Crimes,Damien Rice,28,2010-07-31,2010-07-31,23,1
+1492,A Hard Day's Night,The Beatles,28,2010-12-04,2010-12-04,23,1
+1493,Lie To Me (Denial),Red,28,2011-02-19,2011-02-19,23,1
+1494,Heaven,O.A.R.,28,2011-06-25,2011-06-25,23,1
+1495,Slumber,NEEDTOBREATHE,28,2011-07-09,2011-07-09,23,1
+1496,Can You Feel It,Sublime With Rome Featuring Wiz Khalifa,28,2011-07-30,2011-07-30,23,1
+1497,I Wish I Was The Moon,Neko Case,28,2011-08-20,2011-08-20,23,1
+1498,Ghost On The Dance Floor,Blink-182,28,2011-10-15,2011-10-15,23,1
+1499,Seven Devils,Florence + The Machine,28,2012-06-09,2012-06-09,23,1
+1500,Who Made Who,AC/DC,28,2012-12-08,2012-12-08,23,1
+1501,The Lightning Strike (What If This Storm Ends?),Snow Patrol,28,2013-06-15,2013-06-15,23,1
+1502,Home,Jack Johnson,28,2013-10-05,2013-10-05,23,1
+1503,Beautiful War,Kings Of Leon,28,2013-10-12,2013-10-12,23,1
+1504,Trouble,American Authors,28,2014-03-08,2014-03-08,23,1
+1505,Running Behind,HOLYCHILD,28,2015-03-28,2015-03-28,23,1
+1506,Can't Deny My Love,Brandon Flowers,28,2015-04-11,2015-04-11,23,1
+1507,Got Your Six,Five Finger Death Punch,28,2015-09-26,2015-09-26,23,1
+1508,Sex Type Thing,Stone Temple Pilots,28,2015-12-26,2015-12-26,23,1
+1509,Suffragette City,David Bowie,28,2016-01-30,2016-01-30,23,1
+1510,Born Under A Bad Sign,Laith Al-Saadi,28,2016-05-07,2016-05-07,23,1
+1511,I Want To Live,Skillet,28,2016-08-20,2016-08-20,23,1
+1512,Just Your Fool,The Rolling Stones,28,2016-10-29,2016-10-29,23,1
+1513,Open Arms,Journey,31,2013-02-23,2014-05-03,23,2
+1514,Stompa,Serena Ryder,31,2013-06-01,2013-09-14,23,2
+1515,Eminence Front,The Who,32,2015-03-21,2015-04-04,23,2
+1516,Turn The Page (Live),Bob Seger & The Silver Bullet Band,35,2011-10-01,2011-12-10,23,2
+1517,Africa,Toto,37,2011-06-11,2011-06-18,23,2
+1518,Wicked Game,James Vincent McMorrow,39,2013-09-07,2016-03-26,23,2
+1519,Yesterday,Himesh Patel,4,2019-07-13,2019-07-13,22,1
+1520,Shadowbringers,"Masayoshi Soken, Nobuo Uematsu, Amanda Achen-Keenan & Jason Charles Miller",4,2019-08-10,2019-08-10,22,1
+1521,Let Me Out,Gorillaz Featuring Mavis Staples & Pusha T,4,2017-04-29,2017-04-29,22,1
+1522,Run Rudolph Run,Ricky Duran & Blake Shelton,4,2019-12-28,2019-12-28,22,1
+1523,Nightshade,The Lumineers,4,2019-04-27,2019-04-27,22,1
+1524,Love Is Madness,Thirty Seconds To Mars Featuring Halsey,4,2018-04-21,2018-04-21,22,1
+1525,Moving On And Getting Over,John Mayer,4,2017-02-11,2017-02-11,22,1
+1526,Moderation,Florence + The Machine,4,2019-02-09,2019-02-09,22,1
+1527,Johnny B. Goode,Chuck Berry,4,2017-04-08,2017-04-08,22,1
+1528,Season Of The Witch,Lana Del Rey,4,2019-08-24,2019-08-24,22,1
+1529,Come On To Me,Paul McCartney,4,2018-07-07,2018-07-07,22,1
+1530,Deutschland,Rammstein,4,2019-04-13,2019-04-13,22,1
+1531,Hold You Down,X Ambassadors,4,2019-06-15,2019-06-15,22,1
+1532,Uneventful Days,Beck,7,2019-11-02,2019-12-07,22,2
+1533,Sham Pain,Five Finger Death Punch,10,2018-05-05,2018-05-12,22,2
+1534,Feels Like Summer,Weezer,15,2017-04-08,2017-09-09,22,4
+1535,Asylum,Disturbed,29,2010-09-18,2010-09-18,22,1
+1536,House Of The Rising Sun,Josh Halverson & Kylie Rothfield,29,2016-11-05,2016-11-05,22,1
+1537,Tainted Love,Soft Cell,29,2011-10-01,2011-10-01,22,1
+1538,Always Summer,Yellowcard,29,2012-06-09,2012-06-09,22,1
+1539,King For A Day,Pierce The Veil Featuring Kellin Quinn,29,2012-06-23,2012-06-23,22,1
+1540,Cherry Wine,Hozier,29,2014-10-18,2014-10-18,22,1
+1541,7,Catfish And The Bottlemen,29,2016-05-14,2016-05-14,22,1
+1542,I Will Be There,Odessa,29,2014-10-11,2014-10-11,22,1
+1543,Say Goodbye,Nicholas David,29,2013-06-29,2013-06-29,22,1
+1544,Fell In Love With A Girl,James Wolpert,29,2013-12-21,2013-12-21,22,1
+1545,I Will Be,Florence + The Machine,29,2016-09-03,2016-09-03,22,1
+1546,State I'm In,NEEDTOBREATHE,29,2014-03-08,2014-03-08,22,1
+1547,How Come You Never Go There,Feist,29,2011-10-22,2011-10-22,22,1
+1548,Black Sheep,Gin Wigmore,29,2012-12-01,2012-12-01,22,1
+1549,Intro,The xx,32,2010-03-06,2010-03-13,22,2
+1550,Edge Of Seventeen (Just Like The White Winged Dove),Stevie Nicks,33,2012-04-14,2012-04-21,22,2
+1551,Sunset In July,311,35,2011-07-30,2011-08-06,22,2
+1552,Closer,Nine Inch Nails,41,2015-07-18,2015-08-01,22,3
+1553,Shakin',Eddie Money,5,2019-09-28,2019-09-28,21,1
+1554,Angel,Brendan Fletcher,5,2016-12-24,2016-12-24,21,1
+1555,Battle Symphony,Linkin Park,5,2017-04-08,2017-04-08,21,1
+1556,Blame It On My Youth,Blink-182,5,2019-05-25,2019-05-25,21,1
+1557,Ben Franklin's Song,The Decemberists,5,2018-01-03,2018-01-03,21,1
+1558,Into The Fire,Asking Alexandria,5,2017-10-14,2017-10-14,21,1
+1559,Cry Little Sister,Marilyn Manson,5,2018-06-30,2018-06-30,21,1
+1560,Always There,Greta Van Fleet,5,2019-09-21,2019-09-21,21,1
+1561,Somewhere I Belong,Linkin Park,10,2017-08-05,2017-08-12,21,2
+1562,Mr. Blue Sky,Electric Light Orchestra,11,2017-05-27,2017-06-03,21,2
+1563,Harvest Moon,Neil Young,12,2017-03-25,2017-04-01,21,2
+1564,Help,Papa Roach,14,2017-03-11,2017-04-15,21,3
+1565,"You're A Mean One, Mr. Grinch",Small Town Titans,15,2018-12-08,2018-12-15,21,2
+1566,The Night We Met,Lord Huron Featuring Phoebe Bridgers,17,2018-06-02,2018-06-16,21,3
+1567,The Death Of Me,Asking Alexandria,30,2013-05-04,2013-05-04,21,1
+1568,Let's Go,Matt And Kim,30,2012-07-14,2012-07-14,21,1
+1569,Paul Revere,Beastie Boys,30,2012-05-19,2012-05-19,21,1
+1570,Spirit In The Sky,Norman Greenbaum,30,2014-08-23,2014-08-23,21,1
+1571,Push And Shove,No Doubt Featuring Busy Signal & Major Lazor,30,2012-10-13,2012-10-13,21,1
+1572,WWE: Glorious Domination: Bobby Roode,CFO$,30,2016-09-10,2016-09-10,21,1
+1573,Don't Need You,Bullet For My Valentine,30,2016-11-26,2016-11-26,21,1
+1574,99 Luftballons,Nena,30,2011-08-20,2011-08-20,21,1
+1575,One,Metallica,30,2014-02-15,2014-02-15,21,1
+1576,Too Late To Say Goodbye,Cage The Elephant,30,2015-12-26,2015-12-26,21,1
+1577,Holding On,David Gray,30,2010-09-04,2010-09-04,21,1
+1578,Photograph,Santana Featuring Chris Daughtry,30,2010-10-09,2010-10-09,21,1
+1579,Gimme Some Lovin',Ray Boudreaux,30,2013-12-14,2013-12-14,21,1
+1580,Head Or Your Heart,Mat Kearney,30,2010-11-06,2010-11-06,21,1
+1581,I Am The Walrus,The Beatles,30,2010-12-04,2010-12-04,21,1
+1582,Blame It On Me,George Ezra,30,2015-12-12,2015-12-12,21,1
+1583,Black Cadillac,Shinedown,30,2015-09-05,2015-09-05,21,1
+1584,I Hope You Suffer,AFI,30,2013-08-10,2013-08-10,21,1
+1585,Never Tear Us Apart,Blaine Mitchell,30,2015-11-28,2015-11-28,21,1
+1586,Hang You Up,Yellowcard,30,2011-03-12,2011-03-12,21,1
+1587,You Want A Battle? (Here's A War),Bullet For My Valentine,37,2015-07-18,2015-07-25,21,2
+1588,Heaven,Los Lonely Boys,38,2011-03-12,2011-03-19,21,2
+1589,Heart Like Yours,Willamette Stone,39,2014-09-06,2014-09-13,21,2
+1590,Sleepyhead,Passion Pit,41,2010-01-23,2010-02-06,21,3
+1591,Borderline,Tame Impala,6,2019-04-27,2019-04-27,20,1
+1592,We Built This City,LadBaby,6,2018-12-29,2018-12-29,20,1
+1593,Almost (Sweet Music),Hozier,6,2019-02-02,2019-02-02,20,1
+1594,You're Gonna Live Forever In Me,John Mayer,6,2017-02-11,2017-02-11,20,1
+1595,Electric Love,Noah Mac,6,2017-12-16,2017-12-16,20,1
+1596,Darkside,Blink-182,6,2019-08-10,2019-08-10,20,1
+1597,Hello Sunshine,Bruce Springsteen,6,2019-05-11,2019-05-11,20,1
+1598,If I Say,Mumford & Sons,6,2018-11-10,2018-11-10,20,1
+1599,California Halo Blue,AWOLNATION,6,2019-12-14,2019-12-14,20,1
+1600,Kiss The Go-Goat,Ghost,6,2019-09-28,2019-09-28,20,1
+1601,Imagination,Foster The People,6,2019-07-06,2019-07-06,20,1
+1602,Blue Monday,New Order,6,2019-12-21,2019-12-21,20,1
+1603,Good Goodbye,Linkin Park Featuring Pusha T & Stormzy,6,2017-05-06,2017-05-06,20,1
+1604,Used To Like,Neon Trees,6,2019-11-30,2019-11-30,20,1
+1605,Get Together,The Youngbloods,6,2017-09-16,2017-09-16,20,1
+1606,Hold Me Tight Or Don't,Fall Out Boy,8,2017-12-02,2017-12-09,20,2
+1607,Don't Do Me Like That,Tom Petty And The Heartbreakers,13,2017-10-21,2017-10-28,20,2
+1608,Dead Man's Party,Oingo Boingo,18,2010-11-13,2019-11-09,20,3
+1609,Angela,The Lumineers,31,2016-04-23,2016-04-23,20,1
+1610,Let Yourself Go,Green Day,31,2012-09-22,2012-09-22,20,1
+1611,Moneytalks,AC/DC,31,2012-12-08,2012-12-08,20,1
+1612,Kick In The Teeth,Papa Roach,31,2010-09-18,2010-09-18,20,1
+1613,The World Is Ugly,My Chemical Romance,31,2013-01-05,2013-01-05,20,1
+1614,Have Yourself A Merry Little Christmas,Cat Power,31,2014-01-04,2014-01-04,20,1
+1615,Gotta Get Me Some,Nickelback,31,2011-12-10,2011-12-10,20,1
+1616,Time Of My Life,3 Doors Down,31,2011-08-06,2011-08-06,20,1
+1617,Ghostbusters,WALK THE MOON,31,2016-08-06,2016-08-06,20,1
+1618,Plundered My Soul,The Rolling Stones,31,2010-05-08,2010-05-08,20,1
+1619,Bel Air,Lana Del Rey,31,2013-12-21,2013-12-21,20,1
+1620,News At Ten,The Vapors,31,2010-10-23,2010-10-23,20,1
+1621,Look What We've Become,Grace Potter,31,2015-07-04,2015-07-04,20,1
+1622,The Last Pale Light In The West,Ben Nichols,31,2013-12-07,2013-12-07,20,1
+1623,Deep Six,Marilyn Manson,31,2015-01-03,2015-01-03,20,1
+1624,Figure Me Out,The Summer Set,31,2016-02-13,2016-02-13,20,1
+1625,Are You Gonna Go My Way,Jamar Rogers,31,2012-04-28,2012-04-28,20,1
+1626,Big Ideas,The Boxer Rebellion,31,2016-05-14,2016-05-14,20,1
+1627,Down,Breathe Carolina,31,2010-11-20,2010-11-20,20,1
+1628,Bohemian Rhapsody,"The Forest Rangers Featuring The White Buffalo, Billy Valentine & Franky Perez",31,2014-09-27,2014-09-27,20,1
+1629,Iron,Woodkid,31,2011-06-25,2011-06-25,20,1
+1630,Can't Find My Way Home,Ryan Quinn,31,2016-03-26,2016-03-26,20,1
+1631,Broken Things,Dave Matthews Band,31,2012-09-29,2012-09-29,20,1
+1632,Barton Hollow,Chance Pena,31,2015-11-28,2015-11-28,20,1
+1633,Candles,Hey Monday,31,2011-04-02,2011-04-02,20,1
+1634,Zombie,Clarissa Serna,31,2014-03-22,2014-03-22,20,1
+1635,Lost It All,Avenged Sevenfold,31,2010-08-14,2010-08-14,20,1
+1636,Alone,Falling In Reverse,31,2013-05-25,2013-05-25,20,1
+1637,Don't Let It Break Your Heart,Coldplay,31,2011-11-12,2011-11-12,20,1
+1638,Weight Of Love,The Black Keys,31,2014-05-31,2014-05-31,20,1
+1639,Knockin' On Heaven's Door,Guns N' Roses,31,2016-10-08,2016-10-08,20,1
+1640,Forgiveness,Sarah McLachlan,31,2010-07-03,2010-07-03,20,1
+1641,"Peaceful, Easy Feeling",Eagles,35,2016-02-06,2016-02-13,20,2
+1642,Can't Help Falling In Love (Live At Daytrotter),Ingrid Michaelson,37,2011-11-26,2011-12-03,20,2
+1643,Odds Are,Barenaked Ladies,38,2013-06-22,2013-10-26,20,2
+1644,Far Behind,Candlebox,41,2011-04-16,2011-04-23,20,2
+1645,Blue Jeans,Lana Del Rey,41,2012-01-28,2012-02-04,20,2
+1646,I Was Wrong,Jesse Larson,7,2017-06-03,2017-06-03,19,1
+1647,Ahimsa,U2 + A.R. Rahman,7,2019-12-07,2019-12-07,19,1
+1648,Ludens,Bring Me The Horizon,7,2019-11-23,2019-11-23,19,1
+1649,Another Place,Bastille & Alessia Cara,7,2019-11-16,2019-11-16,19,1
+1650,Mary On A Cross,Ghost,7,2019-09-28,2019-09-28,19,1
+1651,Hallucinations,PVRIS,7,2019-08-31,2019-08-31,19,1
+1652,My Own Grave,As I Lay Dying,7,2018-06-23,2018-06-23,19,1
+1653,Blood,Breaking Benjamin,7,2018-03-10,2018-03-10,19,1
+1654,I Hope You're Happy,Blue October,7,2018-01-27,2018-01-27,19,1
+1655,In The Air Tonight,Noah Mac,7,2017-12-02,2017-12-02,19,1
+1656,The Night Begins To Shine,B.E.R.,7,2017-08-26,2017-08-26,19,1
+1657,Human,Jesse Larson,7,2017-05-20,2017-05-20,19,1
+1658,Come Together,Godsmack,7,2017-03-18,2017-03-18,19,1
+1659,Goodbye Yellow Brick Road,Elton John,14,2019-06-15,2019-06-22,19,2
+1660,I'd Rather Be With You,Joshua Radin,32,2010-07-03,2010-07-03,19,1
+1661,Surrender The Night,My Chemical Romance,32,2013-02-23,2013-02-23,19,1
+1662,So What'cha Want,Beastie Boys,32,2012-05-19,2012-05-19,19,1
+1663,In Every Direction,Junip,32,2010-11-27,2010-11-27,19,1
+1664,In Your Eyes,Peter Gabriel,32,2012-04-28,2012-04-28,19,1
+1665,Come Pick Me Up,Ryan Adams,32,2011-03-26,2011-03-26,19,1
+1666,Edge Of Seventeen,Hannah Kirby,32,2015-05-02,2015-05-02,19,1
+1667,You And I,Secondhand Serenade,32,2010-08-21,2010-08-21,19,1
+1668,I Shall Be Released,Joshua Davis,32,2015-03-14,2015-03-14,19,1
+1669,Broken,Seether Featuring Amy Lee,32,2016-07-02,2016-07-02,19,1
+1670,Sleep On The Floor,The Lumineers,32,2016-04-30,2016-04-30,19,1
+1671,Have You Ever Seen The Rain,Phillip Phillips,32,2012-06-09,2012-06-09,19,1
+1672,The Funeral,Band Of Horses,32,2012-10-13,2012-10-13,19,1
+1673,Casual Sex,My Darkest Days,32,2012-02-04,2012-02-04,19,1
+1674,Young And Beautiful,Mia Pfirrman,32,2014-11-29,2014-11-29,19,1
+1675,She's American,The 1975,32,2016-03-19,2016-03-19,19,1
+1676,House Of The Rising Sun,The White Buffalo,32,2011-12-24,2011-12-24,19,1
+1677,Nothing To Lose,Bret Michaels Featuring Miley Cyrus,32,2010-07-24,2010-07-24,19,1
+1678,Me And Bobby Mcgee,Janis Joplin,32,2010-04-10,2010-04-10,19,1
+1679,Summer Is Over,Jon McLaughlin Featuring Sara Bareilles,32,2012-01-28,2012-01-28,19,1
+1680,Upside Down,Jack Johnson,40,2010-04-24,2010-06-19,19,2
+1681,My Body,Will Breman,8,2019-12-14,2019-12-14,18,1
+1682,With Or Without You,Hunter Plake,8,2017-06-03,2017-06-03,18,1
+1683,You'll Never Find Me,Korn,8,2019-07-13,2019-07-13,18,1
+1684,Legendary,Skillet,8,2019-05-25,2019-05-25,18,1
+1685,Doom Days,Bastille,8,2019-05-11,2019-05-11,18,1
+1686,Alligator,Of Monsters And Men,8,2019-05-18,2019-05-18,18,1
+1687,Less Than,Nine Inch Nails,8,2017-08-05,2017-08-05,18,1
+1688,Ordinary World,Noah Mac,8,2017-12-23,2017-12-23,18,1
+1689,Arabesque,Coldplay,8,2019-11-09,2019-11-09,18,1
+1690,Vicarious,Tool,8,2019-08-17,2019-08-17,18,1
+1691,Mystery Of Love,Sufjan Stevens,8,2018-03-17,2018-03-17,18,1
+1692,Bridges Burn,NEEDTOBREATHE,8,2018-04-07,2018-04-07,18,1
+1693,The Rising,Britton Buchanan,8,2018-05-26,2018-05-26,18,1
+1694,Just What I Needed,The Cars,8,2019-09-28,2019-09-28,18,1
+1695,All I Can Think About Is You,Coldplay,8,2017-07-08,2017-07-08,18,1
+1696,Dirty Laundry,All Time Low,8,2017-03-11,2017-03-11,18,1
+1697,Clint Eastwood,Gorillaz,13,2017-05-13,2017-05-20,18,2
+1698,Alive,Empire Of The Sun,33,2013-06-15,2013-06-15,18,1
+1699,Sweet Dreams (Are Made Of This),Emily Browning,33,2011-04-16,2011-04-16,18,1
+1700,I’m Alive (Life Sounds Like),Michael Franti & Spearhead,33,2013-05-18,2013-05-18,18,1
+1701,There's A Place,The All-American Rejects,33,2015-11-21,2015-11-21,18,1
+1702,Do You Wanna Touch Me (Oh Yeah),Joan Jett & the Blackhearts,33,2011-03-26,2011-03-26,18,1
+1703,Going Out In Style,Dropkick Murphys,33,2011-03-19,2011-03-19,18,1
+1704,I Don't Wanna Be In Love (Dance Floor Anthem),Good Charlotte,33,2011-02-19,2011-02-19,18,1
+1705,Feeling Alright,Joe Cocker,33,2015-01-10,2015-01-10,18,1
+1706,Walking In Memphis,Marc Cohn,33,2010-11-27,2010-11-27,18,1
+1707,Unbelievable,EMF,33,2010-10-23,2010-10-23,18,1
+1708,In My Remains,Linkin Park,33,2012-07-14,2012-07-14,18,1
+1709,Not Again,Staind,33,2011-08-13,2011-08-13,18,1
+1710,Fake Your Death,My Chemical Romance,33,2014-03-08,2014-03-08,18,1
+1711,All Night Long,Buckcherry,33,2010-08-21,2010-08-21,18,1
+1712,Strength Of The Mind,Killswitch Engage,33,2016-01-02,2016-01-02,18,1
+1713,First Date,Blink-182,33,2011-10-15,2011-10-15,18,1
+1714,Holy Diver,Dio,33,2010-06-05,2010-06-05,18,1
+1715,Sorrow,The National,33,2010-05-29,2010-05-29,18,1
+1716,Get Hurt,The Gaslight Anthem,33,2014-07-26,2014-07-26,18,1
+1717,Ghost,Ingrid Michaelson,33,2011-12-03,2011-12-03,18,1
+1718,The Man Who Sold The World,David Bowie,33,2016-01-30,2016-01-30,18,1
+1719,This Means War,Nickelback,33,2011-12-10,2011-12-10,18,1
+1720,Oxygen,The Dirty Heads,33,2016-07-30,2016-07-30,18,1
+1721,Dodged A Bullet,Greg Laswell,33,2016-06-11,2016-06-11,18,1
+1722,Shut Up And Dance With Me,Fun Guns,33,2015-04-11,2015-04-11,18,1
+1723,The Bliss,Volbeat,33,2016-05-21,2016-05-21,18,1
+1724,Divisionary (Do The Right Thing),Ages And Ages,33,2014-10-11,2014-10-11,18,1
+1725,Johnny Cash,Kid Rock,33,2015-03-14,2015-03-14,18,1
+1726,Drunk,Ed Sheeran,33,2012-06-30,2012-06-30,18,1
+1727,Imagine,Garrett Gardner,33,2013-05-25,2013-05-25,18,1
+1728,Hello Goodbye,The Beatles,34,2010-12-04,2010-12-11,18,2
+1729,Blow,Theory Of A Deadman,35,2014-08-02,2015-08-08,18,2
+1730,Bravado,Lorde,39,2013-10-05,2013-10-12,18,2
+1731,Fitzpleasure,alt-J,41,2013-06-15,2013-06-22,18,2
+1732,Multiplied,NEEDTOBREATHE,43,2014-09-27,2014-10-11,18,3
+1733,Glory,The Score,9,2019-12-28,2019-12-28,17,1
+1734,Body Talks,The Struts,9,2018-09-15,2018-09-15,17,1
+1735,Still Feel Like Your Man,John Mayer,9,2017-03-18,2017-03-18,17,1
+1736,Think I'm In Love,Eddie Money,9,2019-09-28,2019-09-28,17,1
+1737,Run For Cover,The Killers,9,2017-08-19,2017-08-19,17,1
+1738,Feed The Machine,Nickelback,9,2017-02-25,2017-02-25,17,1
+1739,Joy,Bastille,9,2019-05-18,2019-05-18,17,1
+1740,Ill Wind,Radiohead,9,2019-01-26,2019-01-26,17,1
+1741,Changing,John Mayer,9,2017-02-11,2017-02-11,17,1
+1742,Lateralus,Tool,9,2019-08-17,2019-08-17,17,1
+1743,Rosanna,Weezer,15,2018-06-09,2018-06-16,17,2
+1744,Numb/Encore,Jay-Z/Linkin Park,15,2011-11-26,2017-08-12,17,2
+1745,Middle Fingers,MISSIO,15,2017-04-22,2017-05-06,17,3
+1746,Heart Of Fire,Black Veil Brides,34,2014-10-04,2014-10-04,17,1
+1747,Shotgun,Limp Bizkit,34,2011-06-04,2011-06-04,17,1
+1748,Lucky Now,Ryan Adams,34,2011-09-24,2011-09-24,17,1
+1749,Something To Believe In,Parachute,34,2011-02-26,2011-02-26,17,1
+1750,Lotus Flower,Radiohead,34,2011-04-16,2011-04-16,17,1
+1751,Stand Back,Stevie Nicks,34,2016-05-14,2016-05-14,17,1
+1752,Unbelievers,Vampire Weekend,34,2013-06-01,2013-06-01,17,1
+1753,No Way Out,Bullet For My Valentine,34,2015-06-06,2015-06-06,17,1
+1754,While My Guitar Gently Weeps,Santana Featuring India.Arie & Yo-Yo Ma,34,2010-10-09,2010-10-09,17,1
+1755,Name (Live),Goo Goo Dolls,34,2011-05-28,2011-05-28,17,1
+1756,Scarecrow,Counting Crows,34,2014-08-09,2014-08-09,17,1
+1757,Sweet,Dave Matthews Band,34,2012-09-29,2012-09-29,17,1
+1758,Boy,Ra Ra Riot,34,2010-11-13,2010-11-13,17,1
+1759,Somebody To Love,Cody Belew,34,2012-12-15,2012-12-15,17,1
+1760,Of The Night,Bastille,34,2014-02-01,2014-02-01,17,1
+1761,Smuggler's Blues,Glenn Frey,34,2016-02-06,2016-02-06,17,1
+1762,The Freshmen,The Verve Pipe,36,2011-01-08,2011-01-15,17,2
+1763,Nine In The Afternoon,Panic! At The Disco,39,2015-01-10,2016-01-16,17,2
+1764,King Of The Clouds,Panic! At The Disco,10,2018-06-30,2018-06-30,16,1
+1765,Psycho,Breaking Benjamin,10,2018-04-07,2018-04-07,16,1
+1766,Andromeda,Gorillaz Featuring D.R.A.M.,10,2017-04-15,2017-04-15,16,1
+1767,White Room,Cream,10,2019-10-19,2019-10-19,16,1
+1768,Prison Sex,Tool,10,2019-08-17,2019-08-17,16,1
+1769,Sweat,The All-American Rejects,10,2017-07-29,2017-07-29,16,1
+1770,Saints Of The Blood,Black Veil Brides,10,2019-12-14,2019-12-14,16,1
+1771,Melissa,The Allman Brothers Band,10,2017-06-17,2017-06-17,16,1
+1772,Harmony Hall,Vampire Weekend,10,2019-02-09,2019-02-09,16,1
+1773,Everything Now,Arcade Fire,10,2017-06-24,2017-06-24,16,1
+1774,Love It If We Made It,The 1975,10,2018-08-04,2018-08-04,16,1
+1775,Darling,NEEDTOBREATHE,10,2018-05-12,2018-05-12,16,1
+1776,Timebomb,WALK THE MOON,10,2019-01-26,2019-01-26,16,1
+1777,I Wanna Go Back,Eddie Money,10,2019-09-28,2019-09-28,16,1
+1778,Breaking The Habit,Linkin Park,12,2017-08-05,2017-08-12,16,2
+1779,Disillusioned,A Perfect Circle,12,2018-01-13,2018-01-20,16,2
+1780,Don't Come Around Here No More,Tom Petty And The Heartbreakers,14,2017-10-21,2017-10-28,16,2
+1781,You Get What You Give,New Radicals,20,2018-08-11,2018-08-25,16,3
+1782,Dead Walker Texas Ranger,Sleeping With Sirens,35,2012-11-10,2012-11-10,16,1
+1783,God Rest Ye Merry Gentlemen,August Burns Red,35,2011-12-17,2011-12-17,16,1
+1784,Yellow Submarine,The Beatles,35,2010-12-04,2010-12-04,16,1
+1785,Do You Wanna Get High?,Weezer,35,2015-11-28,2015-11-28,16,1
+1786,Bent,matchbox twenty,35,2011-05-28,2011-05-28,16,1
+1787,Without You,Eddie Vedder,35,2011-06-18,2011-06-18,16,1
+1788,Slither,Velvet Revolver,35,2015-12-26,2015-12-26,16,1
+1789,Your Love Is A Song,Switchfoot,35,2010-09-18,2010-09-18,16,1
+1790,Criminal,Fiona Apple,35,2012-12-22,2012-12-22,16,1
+1791,Not Strong Enough,Apocalyptica Featuring Brent Smtih,35,2010-09-11,2010-09-11,16,1
+1792,Never Going Back Again,Fleetwood Mac,35,2011-05-21,2011-05-21,16,1
+1793,Polaroid,Imagine Dragons,35,2015-03-07,2015-03-07,16,1
+1794,Disease,Phillip Phillips,35,2012-06-09,2012-06-09,16,1
+1795,Dead Bite,Hollywood Undead,35,2013-01-26,2013-01-26,16,1
+1796,Supernova,Ray LaMontagne,35,2014-03-15,2014-03-15,16,1
+1797,Absolution Calling,Incubus,35,2015-02-21,2015-02-21,16,1
+1798,Heaven,Depeche Mode,35,2013-04-06,2013-04-06,16,1
+1799,Program Open: America,Simon & Garfunkel,35,2014-12-13,2014-12-13,16,1
+1800,Monarchy Of Roses,Red Hot Chili Peppers,35,2011-09-17,2011-09-17,16,1
+1801,Better,Regina Spektor,35,2016-05-28,2016-05-28,16,1
+1802,Mission Bells,Matt Nathanson,35,2013-05-11,2013-05-11,16,1
+1803,Mr. Brightside,James Wolpert,35,2013-11-30,2013-11-30,16,1
+1804,Rescue Me,Daughtry,35,2012-08-25,2012-08-25,16,1
+1805,Big Balls,AC/DC,35,2012-12-08,2012-12-08,16,1
+1806,Vengeance,"Woe, Is Me",35,2011-10-15,2011-10-15,16,1
+1807,Follow Through,Gavin DeGraw,35,2010-03-27,2010-03-27,16,1
+1808,Summer Paradise,Simple Plan Featuring Sean Paul,35,2012-03-24,2012-03-24,16,1
+1809,Saturday Love,Angels & Airwaves,35,2011-11-19,2011-11-19,16,1
+1810,Don't Stop Believin',Terry McDermott,35,2012-11-24,2012-11-24,16,1
+1811,We Turn Red,Red Hot Chili Peppers,35,2016-07-02,2016-07-02,16,1
+1812,You're The One That I Want,The Lennings,35,2011-12-03,2011-12-03,16,1
+1813,Drown,Theory Of A Deadman,35,2014-05-10,2014-05-10,16,1
+1814,King Without A Crown,Matisyahu,35,2010-12-18,2010-12-18,16,1
+1815,School's Out,Alice Cooper,41,2012-06-16,2012-06-23,16,2
+1816,I Want You To Want Me,Cheap Trick,44,2010-11-27,2011-06-18,16,3
+1817,Thought Contagion,Muse,11,2018-03-03,2018-03-03,15,1
+1818,Vacation,The Dirty Heads,11,2017-07-22,2017-07-22,15,1
+1819,Wicked Heart,Sublime With Rome,11,2018-08-11,2018-08-11,15,1
+1820,Smooth,Josh Gallagher & Adam Levine,11,2016-12-31,2016-12-31,15,1
+1821,Quarter Past Midnight,Bastille,11,2018-05-26,2018-05-26,15,1
+1822,Crying Game,Bad Wolves,11,2019-10-26,2019-10-26,15,1
+1823,Rescue Me,Thirty Seconds To Mars,11,2018-04-14,2018-04-14,15,1
+1824,Godzilla,Bear McCreary Featuring Serj Tankian,11,2019-06-15,2019-06-15,15,1
+1825,Shame,Elle King,11,2018-08-25,2018-08-25,15,1
+1826,Those Nights,Bastille,11,2019-06-22,2019-06-22,15,1
+1827,I Need Help!,Fitz And The Tantrums,11,2019-05-18,2019-05-18,15,1
+1828,Baby You're A Haunted House,Gerard Way,11,2018-11-10,2018-11-10,15,1
+1829,Pick U Up,Foster The People,11,2019-09-21,2019-09-21,15,1
+1830,Love Reign O'er Me,Jackie Foster,11,2018-05-12,2018-05-12,15,1
+1831,Hold My Hand,Hootie & The Blowfish,13,2017-11-25,2019-06-01,15,2
+1832,Outshined,Soundgarden,16,2017-06-03,2017-06-10,15,2
+1833,Fox On The Run,Sweet,17,2016-12-24,2017-05-27,15,2
+1834,Wake Up Call,Maroon 5,36,2012-04-21,2012-04-21,15,1
+1835,Kiss The Ring,My Chemical Romance,36,2013-01-26,2013-01-26,15,1
+1836,Sour Girl,Stone Temple Pilots,36,2015-12-26,2015-12-26,15,1
+1837,Sex,Motley Crue,36,2012-08-04,2012-08-04,15,1
+1838,Gold In The Summertime,Matt Nathanson,36,2015-07-04,2015-07-04,15,1
+1839,Wretches And Kings,Linkin Park,36,2010-10-02,2010-10-02,15,1
+1840,The Daily Mail,Radiohead,36,2012-01-07,2012-01-07,15,1
+1841,Move Along,The All-American Rejects,36,2010-03-06,2010-03-06,15,1
+1842,The Heat Is On,Glenn Frey,36,2016-02-06,2016-02-06,15,1
+1843,Take Me Down,The Pretty Reckless,36,2016-08-06,2016-08-06,15,1
+1844,XIX,Slipknot,36,2014-11-01,2014-11-01,15,1
+1845,Growing Up,The Maine,36,2010-06-05,2010-06-05,15,1
+1846,Slide,Goo Goo Dolls,36,2013-06-29,2013-06-29,15,1
+1847,Square Hammer,Ghost,36,2016-10-08,2016-10-08,15,1
+1848,Summer Of '69,Terry McDermott,36,2012-12-08,2012-12-08,15,1
+1849,Apple Pie,Rafferty,36,2015-10-10,2015-10-10,15,1
+1850,Don't Dream It's Over,Crowded House,36,2016-11-12,2016-11-12,15,1
+1851,Resistance,Muse,46,2010-04-17,2010-05-08,15,4
+1852,Pink Lemonade,James Bay,12,2018-03-24,2018-03-24,14,1
+1853,Little Of Your Love,HAIM,12,2017-07-15,2017-07-15,14,1
+1854,BOOM,X Ambassadors,12,2019-02-09,2019-02-09,14,1
+1855,Give Yourself A Try,The 1975,12,2018-06-16,2018-06-16,14,1
+1856,Redefined,As I Lay Dying,12,2019-04-27,2019-04-27,14,1
+1857,Eulogy,Tool,12,2019-08-17,2019-08-17,14,1
+1858,I Hate Myself For Loving You,Halestorm,12,2017-01-21,2017-01-21,14,1
+1859,Morph,twenty one pilots,12,2018-10-20,2018-10-20,14,1
+1860,Home Tonight,Paul McCartney,12,2019-12-07,2019-12-07,14,1
+1861,Ramblin' Man,The Allman Brothers Band,12,2017-06-17,2017-06-17,14,1
+1862,Hurt Somebody,Noah Kahan & Julia Michaels,12,2018-01-27,2018-01-27,14,1
+1863,Don't Bring Me Down,Tom Petty And The Heartbreakers,12,2017-10-21,2017-10-21,14,1
+1864,I Make The Static,Joy Villa,12,2017-03-04,2017-03-04,14,1
+1865,I Don't Know,Paul McCartney,12,2018-07-07,2018-07-07,14,1
+1866,Nina Cried Power,Hozier Featuring Mavis Staples,12,2018-09-22,2018-09-22,14,1
+1867,Angel From Montgomery,Addison Agen,13,2017-12-02,2017-12-16,14,2
+1868,"WWE: The Fiend ""Let Me In""",Code Orange,14,2019-08-24,2019-08-31,14,2
+1869,I Want To Break Free,Queen,21,2018-11-17,2019-03-09,14,5
+1870,Bad Vibrations,A Day To Remember,37,2016-06-25,2016-06-25,14,1
+1871,You And Me,Parachute,37,2011-05-21,2011-05-21,14,1
+1872,Off To The Races,Lana Del Rey,37,2012-01-28,2012-01-28,14,1
+1873,Arms Of A Woman,Joshua Davis,37,2015-04-18,2015-04-18,14,1
+1874,Sleepwalking,The Chain Gang Of 1974,37,2013-10-12,2013-10-12,14,1
+1875,Impossible,Anberlin,37,2010-08-14,2010-08-14,14,1
+1876,Burning In The Skies,Linkin Park,37,2010-10-02,2010-10-02,14,1
+1877,Going To California,Led Zeppelin,37,2011-10-01,2011-10-01,14,1
+1878,The Light,Disturbed,37,2016-01-02,2016-01-02,14,1
+1879,The Heart,NEEDTOBREATHE,37,2014-02-01,2014-02-01,14,1
+1880,Lords Of Summer (First Pass Version),Metallica,37,2014-07-05,2014-07-05,14,1
+1881,The High Road,Three Days Grace,37,2012-10-20,2012-10-20,14,1
+1882,Please Come Home For Christmas,Grace Potter & The Nocturnals,37,2011-12-17,2011-12-17,14,1
+1883,Apocalyptic,Halestorm,37,2015-01-31,2015-01-31,14,1
+1884,Norwegian Wood,The Beatles,37,2010-12-04,2010-12-04,14,1
+1885,Do You Love Me,Guster,37,2010-08-21,2010-08-21,14,1
+1886,Hunter Eats Hunter,Chevelle,37,2014-04-05,2014-04-05,14,1
+1887,Gemini Feed,Banks,37,2016-08-27,2016-08-27,14,1
+1888,Ready To Go,Limp Bizkit Featuring Lil Wayne,37,2013-05-04,2013-05-04,14,1
+1889,You And Me,Lifehouse,37,2010-03-20,2010-03-20,14,1
+1890,A Pirate Looks At Forty,"Jack Johnson, Dave Matthews & Tim Reynolds",37,2012-05-05,2012-05-05,14,1
+1891,I Hate Myself For Loving You,Joan Jett & the Blackhearts,39,2011-09-03,2011-09-10,14,2
+1892,Don't You (Forget About Me),Simple Minds,41,2010-10-09,2012-11-03,14,2
+1893,Butterfly,Crazy Town,43,2011-01-08,2011-01-15,14,2
+1894,Levitate,Imagine Dragons,13,2016-12-24,2016-12-24,13,1
+1895,Fake,Five Finger Death Punch,13,2018-04-21,2018-04-21,13,1
+1896,Photograph,Def Leppard,13,2018-02-03,2018-02-03,13,1
+1897,Day Of Fate -Spirit Vs Spirit-,TeamFourStar Featuring Paolo Cuevas & Ani Djirdjirian,13,2018-09-15,2018-09-15,13,1
+1898,Rats,Ghost,13,2018-04-28,2018-04-28,13,1
+1899,The One You Know,Alice In Chains,13,2018-05-19,2018-05-19,13,1
+1900,call the police,LCD Soundsystem,13,2017-05-27,2017-05-27,13,1
+1901,Mantra,Bring Me The Horizon,13,2018-09-08,2018-09-08,13,1
+1902,Samurai Cop (Oh Joy Begin),Dave Matthews Band,13,2018-05-26,2018-05-26,13,1
+1903,100 Bad Days,AJR,13,2019-02-16,2019-02-16,13,1
+1904,Good Lovin',Britton Buchanan,13,2018-06-02,2018-06-02,13,1
+1905,Shadow Of The Day,Linkin Park,13,2017-08-12,2017-08-12,13,1
+1906,You're The One,Greta Van Fleet,13,2019-02-02,2019-02-02,13,1
+1907,We Can Always Come Back To This,Hannah Miller,13,2017-03-11,2017-03-11,13,1
+1908,A L I E N S,Coldplay,13,2017-07-29,2017-07-29,13,1
+1909,Visions,The Dirty Heads,13,2018-06-30,2018-06-30,13,1
+1910,Parabola,Tool,13,2019-08-17,2019-08-17,13,1
+1911,The Show Must Go On,Billy Gilman,13,2016-12-03,2016-12-03,13,1
+1912,Hurt,Aaron Gibson,13,2016-12-10,2016-12-10,13,1
+1913,Magic,The Cars,13,2019-09-28,2019-09-28,13,1
+1914,P.S. I Hope You're Happy,The Chainsmokers Featuring blink-182,13,2019-12-21,2019-12-21,13,1
+1915,Live Wire,Motley Crue,17,2019-04-06,2019-04-13,13,2
+1916,Gotta Be Wrong Sometimes,O.A.R.,38,2011-08-20,2011-08-20,13,1
+1917,The Light Behind Your Eyes,My Chemical Romance,38,2013-01-05,2013-01-05,13,1
+1918,Undivided,Asking Alexandria,38,2015-10-17,2015-10-17,13,1
+1919,Come As You Are,Rebecca Loebe,38,2011-05-14,2011-05-14,13,1
+1920,Flesh And Bone,The Killers,38,2012-10-06,2012-10-06,13,1
+1921,Adam's Song,Blink-182,38,2011-10-15,2011-10-15,13,1
+1922,Strike A Match,Dalton Rapattoni,38,2016-04-23,2016-04-23,13,1
+1923,November Rain,Guns N' Roses,38,2016-10-08,2016-10-08,13,1
+1924,Screaming Bloody Murder,Sum 41,38,2011-02-26,2011-02-26,13,1
+1925,First Time,Vance Joy,38,2014-08-23,2014-08-23,13,1
+1926,Glad You Came,We Came As Romans,38,2012-11-24,2012-11-24,13,1
+1927,All The Rowboats,Regina Spektor,38,2012-03-17,2012-03-17,13,1
+1928,Monster You Made,Pop Evil,38,2011-07-23,2011-07-23,13,1
+1929,"Promises, Promises",Incidents,38,2011-06-18,2011-06-18,13,1
+1930,The Night They Drove Old Dixie Down,The Band,38,2012-05-05,2012-05-05,13,1
+1931,Speed Of Sound,Coldplay,38,2011-01-01,2011-01-01,13,1
+1932,We Are The Love We Give,Imaginary Friend,38,2013-05-18,2013-05-18,13,1
+1933,One Step Closer,Linkin Park,14,2017-08-12,2017-08-12,12,1
+1934,Fortunate Son,Clutch,14,2019-12-14,2019-12-14,12,1
+1935,Hold Back The River,Noah Mac,14,2017-11-25,2017-11-25,12,1
+1936,My Best Friend's Girl,The Cars,14,2019-09-28,2019-09-28,12,1
+1937,Machine,Imagine Dragons,14,2018-11-17,2018-11-17,12,1
+1938,Greatest Show On Earth,Kid Rock,14,2017-08-05,2017-08-05,12,1
+1939,Save Yourself,Breaking Benjamin,14,2018-04-21,2018-04-21,12,1
+1940,Let's Go Crazy,Jesse Larson & Adam Levine,14,2017-06-10,2017-06-10,12,1
+1941,The Dark Side,Muse,14,2018-09-15,2018-09-15,12,1
+1942,Peer Pressure,James Bay Featuring Julia Michaels,14,2019-03-09,2019-03-09,12,1
+1943,Coachella - Woodstock In My Mind,Lana Del Rey,14,2017-06-03,2017-06-03,12,1
+1944,Glitter & Gold,Barns Courtney,14,2018-05-26,2018-05-26,12,1
+1945,Over Again,Mike Shinoda,14,2018-02-10,2018-02-10,12,1
+1946,I Am The Highway,Audioslave,15,2017-06-03,2017-06-10,12,2
+1947,Wild Love,James Bay,16,2018-02-24,2018-03-24,12,2
+1948,No Erasin',Steve Perry,17,2018-08-25,2018-09-01,12,2
+1949,Both Sides Now,Joni Mitchell,20,2010-02-27,2017-03-18,12,2
+1950,I Will Follow You Into The Dark,Death Cab For Cutie,39,2013-01-26,2013-01-26,12,1
+1951,Legendary Child,Aerosmith,39,2012-06-09,2012-06-09,12,1
+1952,I Need Never Get Old,Nathaniel Rateliff & The Night Sweats,39,2016-02-27,2016-02-27,12,1
+1953,Below My Feet,Mumford & Sons,39,2012-10-13,2012-10-13,12,1
+1954,The Boys Of Summer,Don Henley,39,2012-08-04,2012-08-04,12,1
+1955,Broken,Coheed And Cambria,39,2010-02-27,2010-02-27,12,1
+1956,F**k With Myself,Banks,39,2016-08-06,2016-08-06,12,1
+1957,Hell Or Hallelujah,KISS,39,2012-07-21,2012-07-21,12,1
+1958,Take Cover,All Time Low,39,2016-09-24,2016-09-24,12,1
+1959,Life On Mars?,American Horror Story Cast Featuring Jessica Lange,39,2014-10-25,2014-10-25,12,1
+1960,Possibility,Lykke Li,39,2010-04-10,2010-04-10,12,1
+1961,Don't You Want Me,The Human League,39,2011-08-20,2011-08-20,12,1
+1962,Sex On Fire,Nakia,39,2011-07-02,2011-07-02,12,1
+1963,Daughters,John Mayer,39,2010-06-05,2010-06-05,12,1
+1964,No One Ever Loved,Lykke Li,39,2014-05-31,2014-05-31,12,1
+1965,Between The Lines,Stone Temple Pilots,39,2010-06-12,2010-06-12,12,1
+1966,You've Got To Hide Your Love A,The Beatles,39,2010-12-04,2010-12-04,12,1
+1967,Another Story,The Head And The Heart,39,2013-11-02,2013-11-02,12,1
+1968,Afterlife,Ingrid Michaelson,39,2014-03-22,2014-03-22,12,1
+1969,Only The Young,Brandon Flowers,39,2010-10-02,2010-10-02,12,1
+1970,Inside Out,Spoon,40,2014-08-09,2014-08-16,12,2
+1971,Rise,Eddie Vedder,42,2010-04-24,2010-05-01,12,2
+1972,Absolutely (Story Of A Girl),Nine Days,43,2011-04-30,2011-05-07,12,2
+1973,Skip The Charades,Cold War Kids,43,2011-09-10,2011-09-17,12,2
+1974,Ohio,Andrew McMahon In The Wilderness,15,2018-05-26,2018-05-26,11,1
+1975,Fisherman's Blues,The Waterboys,15,2019-12-14,2019-12-14,11,1
+1976,Reflecting Light,Sam Phillips,15,2016-12-17,2016-12-17,11,1
+1977,Ascension,Gorillaz Featuring Vince Staples,15,2017-04-15,2017-04-15,11,1
+1978,Edge Of Darkness,Greta Van Fleet,15,2017-12-02,2017-12-02,11,1
+1979,Rescue,James Bay,15,2019-05-25,2019-05-25,11,1
+1980,Bismarck,Sabaton,15,2019-06-01,2019-06-01,11,1
+1981,Kiss & Tell,Angels & Airwaves,15,2019-09-14,2019-09-14,11,1
+1982,Just Like Paradise,O.A.R.,15,2018-03-03,2018-03-03,11,1
+1983,The Signal Fire,Killswitch Engage Featuring Howard Jones,15,2019-08-31,2019-08-31,11,1
+1984,Rosie,John Mayer,15,2017-05-06,2017-05-06,11,1
+1985,Blood Wolf,Dance Gavin Dance,15,2019-11-02,2019-11-02,11,1
+1986,Heroes,Peter Gabriel,15,2019-07-20,2019-07-20,11,1
+1987,Eternally Yours,Motionless In White,15,2017-02-18,2017-02-18,11,1
+1988,Get Out,CHVRCHES,15,2018-02-17,2018-02-17,11,1
+1989,Hear Me Now,Bad Wolves Featuring DIAMANTE,15,2018-05-05,2018-05-05,11,1
+1990,Jambi,Tool,15,2019-08-17,2019-08-17,11,1
+1991,Speed Of Sound,Noah Mac,15,2017-12-09,2017-12-09,11,1
+1992,How Did You Love,Shinedown,15,2017-02-04,2017-02-04,11,1
+1993,Rollin',Hootie & The Blowfish,15,2019-09-21,2019-09-21,11,1
+1994,Hysteria,Def Leppard,15,2018-02-03,2018-02-03,11,1
+1995,Bleed It Out,Linkin Park,17,2011-10-01,2017-08-12,11,2
+1996,To Leave Something Behind,Sean Rowe,20,2017-02-04,2017-07-01,11,2
+1997,Wake Me Up When September Ends,Green Day,40,2016-07-23,2016-07-23,11,1
+1998,Let My Love Open The Door,Roger Daltrey,40,2016-03-19,2016-03-19,11,1
+1999,Whole Lotta Rosie,AC/DC,40,2012-12-08,2012-12-08,11,1
+2000,Born To Be Wild,Cee Lo Green & Juliet Simms,40,2012-05-26,2012-05-26,11,1
+2001,Sunset,The xx,40,2012-09-29,2012-09-29,11,1
+2002,Light Outside,Wakey!Wakey!,40,2010-06-05,2010-06-05,11,1
+2003,Oh Sherrie,Sisaundra Lewis,40,2014-05-17,2014-05-17,11,1
+2004,Hate By Design,Killswitch Engage,40,2016-02-20,2016-02-20,11,1
+2005,Panic,Sublime With Rome,40,2011-05-28,2011-05-28,11,1
+2006,Always In My Head,Coldplay,40,2014-06-07,2014-06-07,11,1
+2007,Hit Me With Your Best Shot,Pat Benatar,40,2011-04-02,2011-04-02,11,1
+2008,Why Should I Cry For You?,Sting,40,2010-07-31,2010-07-31,11,1
+2009,Iris,Bryan Keith,40,2012-11-24,2012-11-24,11,1
+2010,Don't Carry It All,The Decemberists,40,2011-02-05,2011-02-05,11,1
+2011,Like A River Runs,Bleachers,40,2015-06-20,2015-06-20,11,1
+2012,American Noise,Skillet,40,2013-05-04,2013-05-04,11,1
+2013,Hold Back The River,Blaine Mitchell,40,2015-11-14,2015-11-14,11,1
+2014,Beg Steal Or Borrow,Ray Lamontagne And The Pariah Dogs,40,2010-07-24,2010-07-24,11,1
+2015,We Found Love,Boyce Avenue,40,2011-12-17,2011-12-17,11,1
+2016,Ticket To Ride,The Beatles,40,2010-12-04,2010-12-04,11,1
+2017,Little Talks,Caroline Glaser,41,2013-05-18,2013-05-25,11,2
+2018,TOOTIMETOOTIMETOOTIME,The 1975,16,2018-09-01,2018-09-01,10,1
+2019,Not Another Christmas Song,Blink-182,16,2019-12-21,2019-12-21,10,1
+2020,Ode To My Family,The Cranberries,16,2018-01-27,2018-01-27,10,1
+2021,Last Young Renegade,All Time Low,16,2017-04-15,2017-04-15,10,1
+2022,All Around You,Sturgill Simpson,16,2017-03-04,2017-03-04,10,1
+2023,Bury My Bones,Whiskey Myers,16,2019-08-24,2019-08-24,10,1
+2024,Loser,Falling In Reverse,16,2017-02-11,2017-02-11,10,1
+2025,I'm No Angel,The Gregg Allman Band,16,2017-06-17,2017-06-17,10,1
+2026,You Might Think,The Cars,16,2019-09-28,2019-09-28,10,1
+2027,H.,Tool,16,2019-08-17,2019-08-17,10,1
+2028,A Reason To Fight,Disturbed,16,2018-10-06,2018-10-06,10,1
+2029,Small Town,Britton Buchanan,16,2018-05-05,2018-05-05,10,1
+2030,Someone To You,BANNERS,16,2018-04-28,2018-04-28,10,1
+2031,Tiny Dancer,Florence + The Machine,16,2018-04-21,2018-04-21,10,1
+2032,Pond Creek Road,Upchurch,16,2018-04-14,2018-04-14,10,1
+2033,Like Gold,Vance Joy,16,2017-11-25,2017-11-25,10,1
+2034,Back In The USA,Green Day,16,2017-12-09,2017-12-09,10,1
+2035,Scary Love,The Neighbourhood,16,2017-12-30,2017-12-30,10,1
+2036,All These Things That I've Done,The Killers,18,2018-02-24,2018-03-03,10,2
+2037,Wild Horses,Bishop Briggs,22,2017-01-07,2017-02-18,10,3
+2038,I Feel Like I'm Drowning,Two Feet,22,2018-05-12,2018-07-21,10,5
+2039,XXXO,M.I.A.,41,2010-05-29,2010-05-29,10,1
+2040,Stay,Thirty Seconds To Mars,41,2014-09-06,2014-09-06,10,1
+2041,Canyon Moon,Andrew McMahon In The Wilderness,41,2014-10-11,2014-10-11,10,1
+2042,Absolute Zero,Stone Sour,41,2012-09-15,2012-09-15,10,1
+2043,Rainbow In The Dark,Dio,41,2010-06-05,2010-06-05,10,1
+2044,Turn Down For What,Upon A Burning Body Featuring Ice-T,41,2014-12-06,2014-12-06,10,1
+2045,I'll Be Gone,Linkin Park,41,2012-07-14,2012-07-14,10,1
+2046,Texas Is Forever,Pierce The Veil,41,2016-04-16,2016-04-16,10,1
+2047,Forsaken,Seether,41,2011-05-14,2011-05-14,10,1
+2048,Wish I Was Here,Cat Power & Coldplay,41,2014-07-26,2014-07-26,10,1
+2049,Sound Of Change,Dirty Heads,41,2014-06-14,2014-06-14,10,1
+2050,Higher,The Naked And Famous,41,2016-07-30,2016-07-30,10,1
+2051,Bright Lights,Delvin Choice,41,2014-05-17,2014-05-17,10,1
+2052,Houdini,Foster The People,41,2011-10-29,2011-10-29,10,1
+2053,Back In The U.S.S.R.,The Beatles,41,2010-12-04,2010-12-04,10,1
+2054,Dancing In The Street,David Bowie & Mick Jagger,41,2016-01-30,2016-01-30,10,1
+2055,Heart-Shaped Box,Lindsey Pavao,41,2012-03-31,2012-03-31,10,1
+2056,Little Moon,MacKenzie Bourg,41,2016-08-20,2016-08-20,10,1
+2057,Come On Get It,Lenny Kravitz,41,2011-03-12,2011-03-12,10,1
+2058,Thief,Imagine Dragons,41,2015-11-21,2015-11-21,10,1
+2059,Empire,Of Monsters And Men,41,2015-06-06,2015-06-06,10,1
+2060,The Diary Of Jane,Breaking Benjamin,42,2011-04-30,2011-05-07,10,2
+2061,I Miss The Misery,Halestorm,46,2012-11-03,2012-11-24,10,3
+2062,Sweet Home Alabama,Chris Kroeze,17,2018-12-29,2018-12-29,9,1
+2063,Get Out Of Your Own Way,U2,17,2018-02-10,2018-02-10,9,1
+2064,Such A Simple Thing,Ray LaMontagne,17,2018-04-07,2018-04-07,9,1
+2065,Must Be Nice,Nickelback,17,2017-06-24,2017-06-24,9,1
+2066,What Would It Take,Anderson East,17,2017-03-04,2017-03-04,9,1
+2067,Refugee,Tom Petty And The Heartbreakers,17,2017-10-28,2017-10-28,9,1
+2068,Already Dead,Hollywood Undead,17,2019-11-09,2019-11-09,9,1
+2069,Speak To Me,Amy Lee,17,2017-04-08,2017-04-08,9,1
+2070,I'm Only Human After All,"John ""The Ragin Cajun"" Jones",17,2017-11-11,2017-11-11,9,1
+2071,God Save Our Young Blood,BORNS Featuring Lana Del Rey,17,2018-01-20,2018-01-20,9,1
+2072,Saturday Sun,Vance Joy,17,2018-02-17,2018-02-17,9,1
+2073,Happy Days,Blink-182,17,2019-07-20,2019-07-20,9,1
+2074,Sweet Victory,David Eisley & Bob Kulick,17,2019-02-16,2019-02-16,9,1
+2075,Something Human,Muse,17,2018-08-04,2018-08-04,9,1
+2076,The End,Marilyn Manson,17,2019-12-07,2019-12-07,9,1
+2077,Stand By Me,KI:Theory,22,2014-02-22,2017-07-29,9,2
+2078,Alone And Forsaken,Neil Young & Dave Matthews,42,2010-02-13,2010-02-13,9,1
+2079,We Weren't Born To Follow,Bon Jovi,42,2010-02-20,2010-02-20,9,1
+2080,For Baltimore,All Time Low,42,2012-09-15,2012-09-15,9,1
+2081,Superman Tonight,Bon Jovi,42,2010-05-29,2010-05-29,9,1
+2082,Life Changes,Good Charlotte,42,2016-06-04,2016-06-04,9,1
+2083,It Ends Tonight,The All-American Rejects,42,2012-04-21,2012-04-21,9,1
+2084,Too Much,Sufjan Stevens,42,2010-11-13,2010-11-13,9,1
+2085,Take Me Out,Franz Ferdinand,42,2011-04-30,2011-04-30,9,1
+2086,Never Say Never,The Fray,42,2010-01-23,2010-01-23,9,1
+2087,Can't Help Falling In Love,Elvis Presley,42,2016-07-02,2016-07-02,9,1
+2088,"Right Here, Right Now",Jesus Jones,42,2010-10-23,2010-10-23,9,1
+2089,No Shows,Gerard Way,42,2014-09-06,2014-09-06,9,1
+2090,While My Guitar Gently Weeps,Regina Spektor,42,2016-09-10,2016-09-10,9,1
+2091,Save Me,Hinder,42,2012-10-20,2012-10-20,9,1
+2092,Gravity,John Mayer,42,2013-04-27,2013-04-27,9,1
+2093,Maybe I'm Amazed (Live),Paul McCartney,42,2011-03-26,2011-03-26,9,1
+2094,St. James,Avenged Sevenfold,42,2013-09-14,2013-09-14,9,1
+2095,For The Summer,Ray Lamontagne And The Pariah Dogs,42,2010-09-04,2010-09-04,9,1
+2096,Hard To Handle,The Black Crowes,42,2011-06-25,2011-06-25,9,1
+2097,Calgary,Bon Iver,42,2011-06-04,2011-06-04,9,1
+2098,Fade Like A Shadow,KT Tunstall,42,2010-08-28,2010-08-28,9,1
+2099,The Long And Winding Road,The Beatles,42,2010-12-04,2010-12-04,9,1
+2100,Hold On To What You Believe,Mumford & Sons,42,2011-11-12,2011-11-12,9,1
+2101,Ali In The Jungle,The Hours,42,2010-03-06,2010-03-06,9,1
+2102,Giving Up The Gun,Vampire Weekend,42,2010-09-25,2010-09-25,9,1
+2103,Faithless,Black Veil Brides,42,2014-10-04,2014-10-04,9,1
+2104,Burn Bright,My Chemical Romance,42,2013-02-23,2013-02-23,9,1
+2105,Part Of Me,Lindsey Pavao,42,2012-05-05,2012-05-05,9,1
+2106,Don't Ever Let It End,Nickelback,42,2011-12-10,2011-12-10,9,1
+2107,I Can't Tell You Why,Eagles,43,2016-02-06,2016-02-13,9,2
+2108,The Vengeance,Black Veil Brides,18,2019-12-14,2019-12-14,8,1
+2109,Watching As I Fall,Mike Shinoda,18,2018-02-10,2018-02-10,8,1
+2110,Hallelujah,HAIM,18,2019-12-07,2019-12-07,8,1
+2111,It Might Be Time,Tame Impala,18,2019-11-16,2019-11-16,8,1
+2112,Watching Over,Greta Van Fleet,18,2018-09-22,2018-09-22,8,1
+2113,Misery,Blink-182,18,2017-04-22,2017-04-22,8,1
+2114,Fool,Fitz And The Tantrums,18,2017-07-15,2017-07-15,8,1
+2115,Good Times Roll,The Cars,18,2019-09-28,2019-09-28,8,1
+2116,Mad Hatter,Avenged Sevenfold,18,2018-09-29,2018-09-29,8,1
+2117,Father Of All...,Green Day,18,2019-09-21,2019-09-21,8,1
+2118,My Mind Is For Sale,Jack Johnson,18,2017-08-05,2017-08-05,8,1
+2119,Stairway To Heaven,Mastodon,18,2019-06-01,2019-06-01,8,1
+2120,City In A Garden,Fall Out Boy,21,2018-09-01,2018-09-08,8,2
+2121,The Sky Is A Neighborhood,Foo Fighters,22,2017-09-16,2018-01-03,8,3
+2122,Not Alone,Patty Griffin,43,2013-02-02,2013-02-02,8,1
+2123,Love-Hate-Sex-Pain,Godsmack,43,2010-04-24,2010-04-24,8,1
+2124,Mad Russian's Christmas,Trans-Siberian Orchestra,43,2016-01-09,2016-01-09,8,1
+2125,Call Me The Breeze,Eric Clapton,43,2014-08-09,2014-08-09,8,1
+2126,My Racing Thoughts,Jack's Mannequin,43,2011-08-20,2011-08-20,8,1
+2127,Heavenly Father,Bon Iver,43,2014-07-19,2014-07-19,8,1
+2128,Suffer It All,Seether,43,2014-06-28,2014-06-28,8,1
+2129,Who Says,John Mayer,43,2010-01-23,2010-01-23,8,1
+2130,Put Your Records On,Corinne Bailey Rae,43,2010-03-20,2010-03-20,8,1
+2131,Faceless,Red,43,2011-02-05,2011-02-05,8,1
+2132,You Don't Get Me High Anymore,Phantogram,43,2016-08-13,2016-08-13,8,1
+2133,Never Be Here,Hoobastank,43,2010-03-06,2010-03-06,8,1
+2134,Love Me Do,The Beatles,43,2010-12-04,2010-12-04,8,1
+2135,Summertime,The Mowgli's,43,2015-08-08,2015-08-08,8,1
+2136,Just Like Heaven,The Cure,43,2010-11-27,2010-11-27,8,1
+2137,Angels,The xx,43,2012-08-04,2012-08-04,8,1
+2138,Beth,KISS,43,2016-02-13,2016-02-13,8,1
+2139,Miracle,Shinedown,43,2012-04-14,2012-04-14,8,1
+2140,Can't You See,The Marshall Tucker Band,43,2014-03-29,2014-03-29,8,1
+2141,Satellite,Rise Against,43,2012-05-05,2012-05-05,8,1
+2142,What This World Is Coming To,Nate Ruess Featuring Beck,43,2015-06-20,2015-06-20,8,1
+2143,You're Not Alone,Of Mice & Men,45,2013-12-21,2014-02-08,8,2
+2144,Nearly Forgot My Broken Heart,Chris Cornell,45,2015-10-10,2015-11-07,8,2
+2145,Walk This Way,Aerosmith,46,2011-09-24,2012-04-21,8,2
+2146,Ballroom Blitz,Sweet,46,2016-08-06,2016-08-13,8,2
+2147,Let's Go,The Cars,19,2019-09-28,2019-09-28,7,1
+2148,Radio,Rammstein,19,2019-05-11,2019-05-11,7,1
+2149,Faint,Linkin Park,19,2017-08-12,2017-08-12,7,1
+2150,Death Stranding,CHVRCHES,19,2019-10-19,2019-10-19,7,1
+2151,Cold,Korn,19,2019-08-17,2019-08-17,7,1
+2152,Land Of The Free,The Killers,19,2019-02-02,2019-02-02,7,1
+2153,Rock Of Ages,Def Leppard,19,2018-02-03,2018-02-03,7,1
+2154,Yuve Yuve Yu,The Hu Featuring From Ashes To New,19,2019-04-20,2019-04-20,7,1
+2155,Time Waits For No One,Freddie Mercury,19,2019-07-06,2019-07-06,7,1
+2156,Homecoming,Josh Ritter,19,2017-05-27,2017-05-27,7,1
+2157,Breakdown,Tom Petty And The Heartbreakers,19,2017-10-21,2017-10-21,7,1
+2158,The End Of The Game,Weezer,20,2019-09-21,2019-09-28,7,2
+2159,Chapel Song,We Are Augustines,44,2011-09-10,2011-09-10,7,1
+2160,End Of My Rope,Trapt,44,2010-10-30,2010-10-30,7,1
+2161,A Tattered Line Of String,The Postal Service,44,2013-03-02,2013-03-02,7,1
+2162,The Boxer,Simon & Garfunkel,44,2010-05-08,2010-05-08,7,1
+2163,You've Got Time,Regina Spektor,44,2013-07-27,2013-07-27,7,1
+2164,Be Okay,Oh Honey,44,2014-04-12,2014-04-12,7,1
+2165,Til The Casket Drops,ZZ Ward,44,2012-06-23,2012-06-23,7,1
+2166,Lucy In The Sky With Diamonds,The Flaming Lips Featuring Miley Cyrus & Moby,44,2014-06-07,2014-06-07,7,1
+2167,No Better,Lorde,44,2013-12-28,2013-12-28,7,1
+2168,Fake My Own Death,Sum 41,44,2016-07-23,2016-07-23,7,1
+2169,Nobody Knows,The Lumineers,44,2016-09-03,2016-09-03,7,1
+2170,World So Cold,Three Days Grace,44,2011-04-02,2011-04-02,7,1
+2171,If It Wasn't For You,Various Cruelties,44,2012-12-29,2012-12-29,7,1
+2172,Death Blossoms,Rise Against,44,2013-08-17,2013-08-17,7,1
+2173,How It Ends,Devotchka,44,2010-08-21,2010-08-21,7,1
+2174,Get Back,The Beatles,44,2010-12-04,2010-12-04,7,1
+2175,I Can't Make You Love Me,Bonnie Raitt,44,2012-05-26,2012-05-26,7,1
+2176,High And Low,Empire Of The Sun,44,2016-09-17,2016-09-17,7,1
+2177,Born And Raised,John Mayer,44,2012-06-09,2012-06-09,7,1
+2178,You Are My Sunshine,The Civil Wars,44,2014-08-23,2014-08-23,7,1
+2179,Brace For Impact (Live A Little),Sturgill Simpson,44,2016-03-26,2016-03-26,7,1
+2180,Reincarnate,Motionless In White,44,2014-07-26,2014-07-26,7,1
+2181,New Horizons,Flyleaf,44,2012-09-08,2012-09-08,7,1
+2182,Samson,Regina Spektor,44,2015-11-07,2015-11-07,7,1
+2183,Underneath The Sycamore,Death Cab For Cutie,45,2011-09-10,2011-09-17,7,2
+2184,Free,Graffiti6,47,2012-07-21,2012-07-28,7,2
+2185,Celebrity Skin,Hole,20,2019-03-23,2019-03-23,6,1
+2186,Leave Out All The Rest,Linkin Park,20,2017-08-12,2017-08-12,6,1
+2187,Let Him Fly,Patty Griffin,20,2019-10-19,2019-10-19,6,1
+2188,A Song For You,Leon Russell,20,2016-12-03,2016-12-03,6,1
+2189,Rise Up,Imagine Dragons,20,2017-07-15,2017-07-15,6,1
+2190,After The Rain,Nickelback,20,2017-07-08,2017-07-08,6,1
+2191,End Of The Line,Traveling Wilburys,20,2017-10-21,2017-10-21,6,1
+2192,Killing Me Slowly,Bad Wolves,20,2019-09-07,2019-09-07,6,1
+2193,Why Are You Here,Machine Gun Kelly,20,2019-12-28,2019-12-28,6,1
+2194,Nothing Compares 2 U (Live At SiriusXM/2015),Chris Cornell,20,2018-12-01,2018-12-01,6,1
+2195,"Fire, Ready, Aim",Green Day,20,2019-10-26,2019-10-26,6,1
+2196,Bringin' On The Heartbreak,Def Leppard,20,2018-02-03,2018-02-03,6,1
+2197,Scotland,The Lumineers,20,2018-07-28,2018-07-28,6,1
+2198,Forget Me Not,Brian Fallon,20,2017-11-18,2017-11-18,6,1
+2199,Sunsets For Somebody Else,Jack Johnson,20,2017-08-26,2017-08-26,6,1
+2200,Sugar Pie Honey Bunch,Kid Rock,20,2017-11-25,2017-11-25,6,1
+2201,Same Ol' Situation (S.O.S.),Motley Crue,22,2019-04-06,2019-04-13,6,2
+2202,Super Fade,Fall Out Boy,22,2018-09-01,2018-09-08,6,2
+2203,Say Hello 2 Heaven,Temple Of The Dog,23,2017-06-03,2017-06-10,6,2
+2204,Live In The Moment,Portugal. The Man,23,2018-03-03,2018-03-31,6,3
+2205,Far Away,Nickelback,25,2012-02-25,2017-07-08,6,3
+2206,Medicine,Daughter,45,2013-08-31,2013-08-31,6,1
+2207,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,45,2010-12-04,2010-12-04,6,1
+2208,Pour Some Sugar On Me (2012),Def Leppard,45,2012-07-07,2012-07-07,6,1
+2209,American,Lana Del Rey,45,2012-12-01,2012-12-01,6,1
+2210,Jane,Jefferson Starship,45,2015-08-22,2015-08-22,6,1
+2211,Gimme All Your Love,Alabama Shakes,45,2015-03-21,2015-03-21,6,1
+2212,Another Is Waiting,The Avett Brothers,45,2013-09-07,2013-09-07,6,1
+2213,Muddy Waters,LP,45,2016-07-16,2016-07-16,6,1
+2214,Oh! Darling,Juliet Simms,45,2012-02-25,2012-02-25,6,1
+2215,The Chain,Three Days Grace,45,2011-04-02,2011-04-02,6,1
+2216,Crystallized,Young The Giant,45,2013-12-28,2013-12-28,6,1
+2217,House Of Memories,Panic! At The Disco,45,2016-02-06,2016-02-06,6,1
+2218,I Don't Want To Change You,Damien Rice,45,2014-10-11,2014-10-11,6,1
+2219,What If,Godsmack,45,2010-05-01,2010-05-01,6,1
+2220,Kiss This,The Struts,45,2016-06-18,2016-06-18,6,1
+2221,We Didn't Start The Fire,Billy Joel,45,2012-04-21,2012-04-21,6,1
+2222,When You Were Young,The Killers,45,2013-11-30,2013-11-30,6,1
+2223,Closer,Kings Of Leon,45,2010-11-06,2010-11-06,6,1
+2224,She's Out Of Her Mind,Blink-182,45,2016-11-12,2016-11-12,6,1
+2225,Prayers / Triangles,Deftones,45,2016-02-27,2016-02-27,6,1
+2226,Solsbury Hill,Peter Gabriel,45,2010-10-23,2010-10-23,6,1
+2227,Still Your Song,Goo Goo Dolls,45,2010-08-28,2010-08-28,6,1
+2228,Let Your Heart Hold Fast,Fort Atlantic,45,2013-01-05,2013-01-05,6,1
+2229,Killpop,Slipknot,45,2014-11-01,2014-11-01,6,1
+2230,Farmer's Daughter,Crystal Bowersox,45,2011-01-01,2011-01-01,6,1
+2231,Shook Up The World,Puddle Of Mudd,45,2010-03-06,2010-03-06,6,1
+2232,All Summer Long,The Rock Heroes,45,2010-06-26,2010-06-26,6,1
+2233,Dragula,Rob Zombie,46,2013-11-09,2016-11-19,6,2
+2234,Takin' It To The Streets,Jesse Larson,21,2017-06-10,2017-06-10,5,1
+2235,We Got The Power,Gorillaz Featuring Jehnny Beth,21,2017-04-15,2017-04-15,5,1
+2236,Friction,Imagine Dragons,21,2018-05-12,2018-05-12,5,1
+2237,Opiate,Tool,21,2019-08-17,2019-08-17,5,1
+2238,Dear Life,Beck,21,2017-09-16,2017-09-16,5,1
+2239,Miss You All The Time,O.A.R.,21,2018-10-27,2018-10-27,5,1
+2240,Just A Girl,No Doubt,21,2019-03-23,2019-03-23,5,1
+2241,Imperfection,Evanescence,21,2017-10-07,2017-10-07,5,1
+2242,Shake It Up,The Cars,21,2019-09-28,2019-09-28,5,1
+2243,Here Comes My Girl,Tom Petty And The Heartbreakers,21,2017-10-21,2017-10-21,5,1
+2244,The Wolf,The Spencer Lee Band,21,2018-02-24,2018-02-24,5,1
+2245,For Whom The Bell Tolls,Metallica,21,2019-03-30,2019-03-30,5,1
+2246,R.O.C.K. In The U.S.A. (A Salute to 60's Rock),John Mellencamp,21,2019-07-13,2019-07-13,5,1
+2247,It Will Follow the Rain,The Tallest Man On Earth,21,2019-07-06,2019-07-06,5,1
+2248,Dancing In The Moonlight,King Harvest,21,2019-11-09,2019-11-09,5,1
+2249,Kids In America,Kim Wilde,21,2019-05-25,2019-05-25,5,1
+2250,Preacher Man,The Driver Era,21,2018-03-31,2018-03-31,5,1
+2251,Dream,Bishop Briggs,21,2017-11-04,2017-11-04,5,1
+2252,Animal,Def Leppard,21,2018-02-03,2018-02-03,5,1
+2253,American Woman,Lenny Kravitz,21,2017-07-22,2017-07-22,5,1
+2254,Never On The Day You Leave,John Mayer,21,2017-05-06,2017-05-06,5,1
+2255,Can't Deny Me,Pearl Jam,21,2018-03-24,2018-03-24,5,1
+2256,Maybellene,Chuck Berry,21,2017-04-08,2017-04-08,5,1
+2257,Way You Used To Do,Queens Of The Stone Age,21,2017-07-08,2017-07-08,5,1
+2258,California Dreaming,Hollywood Undead,21,2017-08-19,2017-08-19,5,1
+2259,Somebody Told Me,The Killers,21,2017-07-01,2017-07-01,5,1
+2260,Let You Down,Seether,21,2017-03-18,2017-03-18,5,1
+2261,Hurricane,MS MR,46,2013-11-02,2013-11-02,5,1
+2262,Rise,Sixx: A.M.,46,2016-03-26,2016-03-26,5,1
+2263,The Ruler And The Killer,Kid Cudi,46,2012-04-07,2012-04-07,5,1
+2264,Trouble,Tony Lucca,46,2012-02-25,2012-02-25,5,1
+2265,"No Light, No Light",Florence + The Machine,46,2011-12-10,2011-12-10,5,1
+2266,Blinded By The Light,Manfred Mann's Earth Band,46,2011-11-26,2011-11-26,5,1
+2267,Let There Be Rock,AC/DC,46,2012-12-08,2012-12-08,5,1
+2268,Half Of Something Else,The Airborne Toxic Event,46,2011-09-10,2011-09-10,5,1
+2269,What I Like About You,The Romantics,46,2011-08-20,2011-08-20,5,1
+2270,Amor Fati,Washed Out,46,2011-07-30,2011-07-30,5,1
+2271,Timeless,The Airborne Toxic Event,46,2013-02-09,2013-02-09,5,1
+2272,One Of Us,Joan Osborne,46,2013-04-13,2013-04-13,5,1
+2273,This Is Gonna Hurt,Sixx: A.M.,46,2011-05-21,2011-05-21,5,1
+2274,Teenagers,My Chemical Romance,46,2011-05-07,2011-05-07,5,1
+2275,Life Is Better With You,Michael Franti & Spearhead,46,2013-08-17,2013-08-17,5,1
+2276,17 Crimes,AFI,46,2013-08-24,2013-08-24,5,1
+2277,Across The Universe,The Beatles,46,2010-12-04,2010-12-04,5,1
+2278,It's Time,Matthew Schuler,46,2013-12-14,2013-12-14,5,1
+2279,Difference Maker,NEEDTOBREATHE,46,2014-02-01,2014-02-01,5,1
+2280,Desire,Joshua Davis,46,2015-05-23,2015-05-23,5,1
+2281,Free Fallin',The Almost,46,2010-05-15,2010-05-15,5,1
+2282,Snuff,Slipknot,46,2010-03-13,2010-03-13,5,1
+2283,Won't Get Fooled Again,The Who,46,2010-02-27,2010-02-27,5,1
+2284,Viva Voce,The Rocketboys,46,2015-01-31,2015-01-31,5,1
+2285,M**********r,Faith No More,46,2014-12-27,2014-12-27,5,1
+2286,The High Road,Broken Bells,48,2010-08-07,2010-08-14,5,2
+2287,We Come Running,Youngblood Hawke,48,2012-12-15,2013-05-11,5,2
+2288,Today,Willamette Stone,48,2014-09-06,2014-09-13,5,2
+2289,Livin' Thing,Electric Light Orchestra,22,2017-09-23,2017-09-23,4,1
+2290,Do You Still Love Me?,Ryan Adams,22,2016-12-31,2016-12-31,4,1
+2291,You Wreck Me,Tom Petty,22,2017-10-21,2017-10-21,4,1
+2292,Save Me,Skillet,22,2019-06-29,2019-06-29,4,1
+2293,"Hey, Ma",Bon Iver,22,2019-06-22,2019-06-22,4,1
+2294,JEKYLL & HIDE,Bishop Briggs,22,2019-10-26,2019-10-26,4,1
+2295,Solara,Smashing Pumpkins,22,2018-06-23,2018-06-23,4,1
+2296,(Everything I Do) I Do It For You,Tyke James,22,2018-12-01,2018-12-01,4,1
+2297,Dance Macabre,Ghost,22,2018-06-02,2018-06-02,4,1
+2298,Slide,James Bay,22,2018-05-26,2018-05-26,4,1
+2299,Runaway Train,Soul Asylum,22,2019-03-16,2019-03-16,4,1
+2300,My Enemy,CHVRCHES Featuring Matt Berninger,22,2018-03-17,2018-03-17,4,1
+2301,Song On Fire,Nickelback,22,2017-05-20,2017-05-20,4,1
+2302,What She Wants,A R I Z O N A,22,2018-08-18,2018-08-18,4,1
+2303,american dream,LCD Soundsystem,22,2017-05-27,2017-05-27,4,1
+2304,Love Bites,Def Leppard,22,2018-02-03,2018-02-03,4,1
+2305,Show Me How To Live,Audioslave,22,2017-06-10,2017-06-10,4,1
+2306,Renegade,Styx,22,2018-01-27,2018-01-27,4,1
+2307,The River,Brendan Fletcher,22,2016-12-10,2016-12-10,4,1
+2308,Birth Of The Cruel,Slipknot,22,2019-08-17,2019-08-17,4,1
+2309,With Or Without You,U2,22,2017-06-24,2017-06-24,4,1
+2310,In A Hurry,Paul McCartney,22,2019-12-07,2019-12-07,4,1
+2311,Suzanne,Leonard Cohen,22,2016-12-03,2016-12-03,4,1
+2312,Maybe I'm Amazed,Terry McDermott,47,2012-11-17,2012-11-17,4,1
+2313,We Are Young (iTunes Session),fun. Featuring Janelle Monae,47,2013-09-14,2013-09-14,4,1
+2314,Rollercoaster,Bleachers,47,2015-01-31,2015-01-31,4,1
+2315,Holding On To Heaven,Nickelback,47,2011-12-10,2011-12-10,4,1
+2316,"Do It, Try It",M83,47,2016-03-26,2016-03-26,4,1
+2317,In Your Eyes,Tony Lucca,47,2012-04-28,2012-04-28,4,1
+2318,Ex's & Oh's,Mia Love,47,2016-07-30,2016-07-30,4,1
+2319,"The Good, The Bad And The Dirty",Panic! At The Disco,47,2016-02-06,2016-02-06,4,1
+2320,Same Old Same Old,The Civil Wars,47,2013-08-24,2013-08-24,4,1
+2321,Meet Virginia,Train,47,2011-06-18,2011-06-18,4,1
+2322,What About Love?,Heart,47,2011-04-02,2011-04-02,4,1
+2323,Dreaming With A Broken Heart,John Mayer,47,2015-10-17,2015-10-17,4,1
+2324,What I Got,Sublime,47,2014-04-26,2014-04-26,4,1
+2325,When I'm Sixty-Four,The Beatles,47,2010-12-04,2010-12-04,4,1
+2326,End Of The World,Dirty Heads,47,2014-07-05,2014-07-05,4,1
+2327,Too Much Time On My Hands,Styx,47,2016-05-21,2016-05-21,4,1
+2328,Battery Kinzie,Fleet Foxes,47,2011-09-10,2011-09-10,4,1
+2329,Kansas City,The New Basement Tapes,47,2014-12-06,2014-12-06,4,1
+2330,Ambulance,My Chemical Romance,47,2012-12-15,2012-12-15,4,1
+2331,Gimme Something Good,Ryan Adams,47,2014-07-19,2014-07-19,4,1
+2332,So Far Away,Staind,47,2011-10-01,2011-10-01,4,1
+2333,"Teleport 2 Me, Jamie",WZRD Featuring Desire,47,2012-03-17,2012-03-17,4,1
+2334,Evil Woman,Electric Light Orchestra,47,2015-02-21,2015-02-21,4,1
+2335,Fat Bottomed Girls,Phillip Phillips,47,2012-06-09,2012-06-09,4,1
+2336,Mexican Radio,Wall Of Voodoo,47,2010-10-23,2010-10-23,4,1
+2337,50 Ways To Leave Your Lover,Paul Simon,47,2015-03-07,2015-03-07,4,1
+2338,Make Room!!!!,My Chemical Romance,47,2013-01-26,2013-01-26,4,1
+2339,American Bad Ass,Kid Rock,47,2013-02-02,2013-02-02,4,1
+2340,Flicker,Tori Amos,47,2016-10-01,2016-10-01,4,1
+2341,A World Alone,Lorde,47,2013-10-19,2013-10-19,4,1
+2342,The Black,Asking Alexandria,49,2016-02-20,2016-02-27,4,2
+2343,Wash It All Away,Five Finger Death Punch,49,2015-11-28,2016-01-02,4,2
+2344,The Observatory,The White Buffalo,23,2018-01-20,2018-01-20,3,1
+2345,Heaven I Know,Gordi,23,2019-11-09,2019-11-09,3,1
+2346,"Lover, Leaver",Greta Van Fleet,23,2018-10-06,2018-10-06,3,1
+2347,Runnin' Down A Dream,Ricky Duran,23,2019-12-28,2019-12-28,3,1
+2348,The Dirt (Est. 1981),Motley Crue Featuring Machine Gun Kelly,23,2019-03-09,2019-03-09,3,1
+2349,Shout At The Devil,Motley Crue,23,2019-04-06,2019-04-06,3,1
+2350,I Don't Want U Back,BORNS,23,2018-01-03,2018-01-03,3,1
+2351,I Hate Myself For Loving You,Ashland Craft,23,2017-12-23,2017-12-23,3,1
+2352,We Fight,Dashboard Confessional,23,2017-12-09,2017-12-09,3,1
+2353,Worst Nites,Foster The People,23,2018-11-24,2018-11-24,3,1
+2354,Into The Great Wide Open,Tom Petty And The Heartbreakers,23,2017-10-21,2017-10-21,3,1
+2355,Ice Ice Baby,Marty Ray Project,23,2017-09-02,2017-09-02,3,1
+2356,COUNT ON ME,NEEDTOBREATHE,23,2017-08-05,2017-08-05,3,1
+2357,Good News,Ocean Park Standoff,23,2017-07-01,2017-07-01,3,1
+2358,American Idiot,Green Day,23,2018-07-21,2018-07-21,3,1
+2359,I Want To Know What Love Is (F,Foreigner With Shiners Hospitals Kids Choir,23,2019-01-19,2019-01-19,3,1
+2360,Rise,"League Of Legends With The Glitch Mob, Mako & The Word Alive",23,2018-10-13,2018-10-13,3,1
+2361,Don't Swallow The Cap,The National,48,2013-06-08,2013-06-08,3,1
+2362,Us Against The World,Coldplay,48,2011-11-12,2011-11-12,3,1
+2363,Something Like Olivia,John Mayer,48,2012-06-09,2012-06-09,3,1
+2364,Heavy Cross,Gossip,48,2011-12-31,2011-12-31,3,1
+2365,Never Never,Korn,48,2013-08-31,2013-08-31,3,1
+2366,Looking Up,SafetySuit,48,2015-11-14,2015-11-14,3,1
+2367,Drive-in Movies,Ray LaMontagne,48,2014-05-03,2014-05-03,3,1
+2368,Fool For Love,Lord Huron,48,2016-03-12,2016-03-12,3,1
+2369,Rivers And Roads,The Head And The Heart,48,2015-05-23,2015-05-23,3,1
+2370,That's All I Need,The Dirty Heads,48,2016-06-04,2016-06-04,3,1
+2371,"Don't Think Twice, It's All Right",Owen Danoff,48,2016-03-26,2016-03-26,3,1
+2372,MONEY & FAME,NEEDTOBREATHE,48,2016-04-23,2016-04-23,3,1
+2373,Face Down,The Red Jumpsuit Apparatus,48,2011-01-08,2011-01-08,3,1
+2374,Kandi,One eskimO,48,2010-06-05,2010-06-05,3,1
+2375,Bad To The Bone,George Thorogood & The Destroyers,48,2011-03-19,2011-03-19,3,1
+2376,Watch You Bleed,Five Finger Death Punch,48,2013-08-17,2013-08-17,3,1
+2377,Drowning,Banks,48,2014-06-28,2014-06-28,3,1
+2378,Blank Space,Ryan Adams,48,2015-10-10,2015-10-10,3,1
+2379,Lover Come Back,City And Colour,48,2015-09-12,2015-09-12,3,1
+2380,Dust In The Wind,Kansas,48,2011-10-01,2011-10-01,3,1
+2381,January Hymn,The Decemberists,48,2011-02-05,2011-02-05,3,1
+2382,Lover To Lover,Florence + The Machine,48,2012-12-22,2012-12-22,3,1
+2383,Boston,Augustana,48,2010-01-30,2010-01-30,3,1
+2384,Ghosts That We Knew,Mumford & Sons,48,2012-10-13,2012-10-13,3,1
+2385,Eyes,Peter Bjorn And John,48,2011-09-10,2011-09-10,3,1
+2386,One Headlight,The Wallflowers,48,2014-05-10,2014-05-10,3,1
+2387,Blood,In This Moment,49,2012-11-10,2012-11-24,3,2
+2388,December,Collective Soul,49,2011-03-19,2011-03-26,3,2
+2389,Lydia,Highly Suspect,50,2015-09-05,2015-10-03,3,3
+2390,Come A Little Bit Closer,Jay & The Americans,24,2017-05-27,2017-05-27,2,1
+2391,Lay It On Me,Vance Joy,24,2017-11-25,2017-11-25,2,1
+2392,Ventura Highway,America,24,2019-07-20,2019-07-20,2,1
+2393,Eclipse,Pink Floyd,24,2017-09-09,2017-09-09,2,1
+2394,Paradise City,Guns N' Roses,24,2017-08-12,2017-08-12,2,1
+2395,Sleeping Powder,Gorillaz,24,2017-07-08,2017-07-08,2,1
+2396,Eagle Birds,The Black Keys,24,2019-05-11,2019-05-11,2,1
+2397,Danny Don't You Know,Ninja Sex Party,24,2018-07-14,2018-07-14,2,1
+2398,When You're Gone,The Cranberries,24,2018-01-27,2018-01-27,2,1
+2399,Foolin',Def Leppard,24,2018-02-03,2018-02-03,2,1
+2400,Time Bomb,Hollywood Undead,24,2019-11-30,2019-11-30,2,1
+2401,The Mountain,Three Days Grace,24,2018-02-10,2018-02-10,2,1
+2402,Blueberry Hill,Fats Domino,24,2017-11-11,2017-11-11,2,1
+2403,Forever On Your Side,NEEDTOBREATHE Featuring JOHNNYSWIM,24,2018-07-28,2018-07-28,2,1
+2404,Alive,Daughtry,24,2019-12-28,2019-12-28,2,1
+2405,Cross Off,Mark Morton Featuring Chester Bennington,24,2019-01-26,2019-01-26,2,1
+2406,Everybody Wants To Rule The World,Weezer,24,2019-02-09,2019-02-09,2,1
+2407,You Got Lucky,Tom Petty And The Heartbreakers,24,2017-10-21,2017-10-21,2,1
+2408,Ready To Let Go,Cage The Elephant,25,2019-02-16,2019-05-04,2,2
+2409,Spectrum (Say My Name),Florence + The Machine,49,2012-12-01,2012-12-01,2,1
+2410,When They Come For Me,Linkin Park,49,2010-10-02,2010-10-02,2,1
+2411,High Hopes,Bruce Springsteen,49,2013-12-14,2013-12-14,2,1
+2412,West End Kids,New Politics,49,2015-07-11,2015-07-11,2,1
+2413,On Our Way,The Royal Concept,49,2013-11-30,2013-11-30,2,1
+2414,And I Love Her,The Beatles,49,2010-12-04,2010-12-04,2,1
+2415,Hold Back The River,Joshua Davis,49,2015-05-09,2015-05-09,2,1
+2416,A Horse With No Name,America,49,2011-05-28,2011-05-28,2,1
+2417,Gotta Get It Right,Sixx: A.M.,49,2014-08-23,2014-08-23,2,1
+2418,Crash Into Me,Dave Matthews Band,49,2011-06-18,2011-06-18,2,1
+2419,Mis//Understanding,We Came As Romans,49,2011-07-23,2011-07-23,2,1
+2420,Crystalline,Bjork,49,2011-08-06,2011-08-06,2,1
+2421,Dead And Bloated,Stone Temple Pilots,49,2015-12-26,2015-12-26,2,1
+2422,Rock And Roll Ain't Noise Pollution,AC/DC,49,2012-12-08,2012-12-08,2,1
+2423,Country Lane,Telekinesis,49,2011-09-10,2011-09-10,2,1
+2424,Feel Like Makin' Love,Bad Company,49,2016-10-29,2016-10-29,2,1
+2425,Maybe It's Over,Jon McLaughlin,49,2011-09-24,2011-09-24,2,1
+2426,Beast Of Burden,The Rolling Stones,49,2010-04-03,2010-04-03,2,1
+2427,Lost And Found,Katie Herzig,49,2011-10-15,2011-10-15,2,1
+2428,Rhinestone Eyes,Gorillaz,49,2010-03-27,2010-03-27,2,1
+2429,Who Needs You,The Orwells,49,2015-01-31,2015-01-31,2,1
+2430,Coffin,Black Veil Brides,49,2011-12-31,2011-12-31,2,1
+2431,Someday's Gone,The All-American Rejects,49,2012-04-07,2012-04-07,2,1
+2432,Up On Cripple Creek,The Band,49,2012-05-05,2012-05-05,2,1
+2433,Says She Loves Me,Aer,49,2014-01-25,2014-01-25,2,1
+2434,Let Her Go,Jasmine Thompson,49,2013-12-28,2013-12-28,2,1
+2435,No Rain,Blind Melon,49,2010-09-25,2010-09-25,2,1
+2436,I Don't Know Why,Imagine Dragons,25,2017-07-15,2017-07-15,1,1
+2437,You Oughta Know,Alanis Morissette,25,2019-12-14,2019-12-14,1,1
+2438,The Apprentice,"Gorillaz Featuring Rag'n'Bone Man, Zebra Katz & RAY BLK",25,2017-05-20,2017-05-20,1,1
+2439,Time Of The Season,The Zombies,25,2019-05-11,2019-05-11,1,1
+2440,Wilson (Expensive Mistakes),Fall Out Boy,25,2018-01-27,2018-01-27,1,1
+2441,Uncomfortable,Halestorm,25,2018-06-16,2018-06-16,1,1
+2442,Miracles (Someone Special),Coldplay & Big Sean,25,2017-08-05,2017-08-05,1,1
+2443,Room At The Top,Tom Petty And The Heartbreakers,25,2018-03-17,2018-03-17,1,1
+2444,The Human Radio,Shinedown,25,2018-04-21,2018-04-21,1,1
+2445,Burden In My Hand,Soundgarden,25,2017-06-10,2017-06-10,1,1
+2446,Big God,Florence + The Machine,25,2018-07-07,2018-07-07,1,1
+2447,Cover Me Up,Jason Isbell,25,2019-11-09,2019-11-09,1,1
+2448,Blood In The Cut,k.flay,25,2017-03-04,2017-03-04,1,1
+2449,Unstoppable,The Score,25,2018-05-05,2018-05-05,1,1
+2450,Told You So,Paramore,25,2017-05-27,2017-05-27,1,1
+2451,Bubbletoes,Jack Johnson,50,2011-05-07,2011-05-07,1,1
+2452,The Beach,The Neighbourhood,50,2015-10-17,2015-10-17,1,1
+2453,Lies Of The Beautiful People,Sixx: A.M.,50,2011-03-19,2011-03-19,1,1
+2454,Trenches,Pop Evil,50,2013-07-20,2013-07-20,1,1
+2455,Right Down The Line,Gerry Rafferty,50,2011-01-22,2011-01-22,1,1
+2456,Thunder Clatter,Wild Cub,50,2014-05-31,2014-05-31,1,1
+2457,Rest,Parts & Labor,50,2011-09-10,2011-09-10,1,1
+2458,Nervous Breakdown,Hawthorne Heights,50,2010-04-10,2010-04-10,1,1
+2459,Brick By Boring Brick,Paramore,50,2010-04-17,2010-04-17,1,1
+2460,Gotta Be Somebody,Nickelback,50,2011-09-03,2011-09-03,1,1
+2461,Maybe I'm Amazed,Paul McCartney,50,2012-11-17,2012-11-17,1,1
+2462,Powerful Stuff,Sean Hayes,50,2011-11-12,2011-11-12,1,1
+2463,Stupid,Sarah McLachlan,50,2011-07-02,2011-07-02,1,1
+2464,Over My Head (Cable Car),The Fray,50,2011-06-25,2011-06-25,1,1
+2465,One Of These Nights,Eagles,50,2016-02-06,2016-02-06,1,1
+2466,Sacrilege,Yeah Yeah Yeahs,50,2013-03-16,2013-03-16,1,1
+2467,Heron Blue,Sun Kil Moon,50,2010-05-01,2010-05-01,1,1
+2468,All My Days,Alexi Murdoch,50,2013-03-30,2013-03-30,1,1
+2469,This Is Halloween,Marilyn Manson,50,2014-11-15,2014-11-15,1,1
+2470,Shine,Black Gold,50,2010-08-28,2010-08-28,1,1
+2471,Believe,SafetySuit,50,2012-01-21,2012-01-21,1,1
+2472,Yellow Ledbetter,Pearl Jam,50,2012-02-11,2012-02-11,1,1
+2473,Let It Be (Naked Version),The Beatles,50,2013-04-27,2013-04-27,1,1
+2474,Glycerine,Bush,50,2010-10-30,2010-10-30,1,1
+2475,Rules,Jayme Dee,50,2012-04-07,2012-04-07,1,1
+2476,I Put A Spell On You,Jeff Beck,50,2010-05-15,2010-05-15,1,1

@@ -1,0 +1,526 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Greatest Hits: 30 Years Of Rock,George Thorogood & The Destroyers,1,2004-06-05,2006-05-27,1487,104
+2,Riding With The King,B.B. King & Eric Clapton,1,2000-07-01,2002-06-22,1473,104
+3,The Essential Stevie Ray Vaughan And Double Trouble,Stevie Ray Vaughan And Double Trouble,1,2002-10-19,2004-10-09,1262,104
+4,The Ultimate Collection,B.B. King,1,2005-04-02,2007-03-24,1092,104
+5,The Real Deal: Greatest Hits Vol. 1,Stevie Ray Vaughan And Double Trouble,1,2007-01-13,2008-07-05,1085,78
+6,Nothing Personal,Delbert McClinton,1,2001-03-24,2003-03-01,1020,100
+7,Honkin' On Bobo,Aerosmith,1,2004-04-10,2006-03-18,962,95
+8,Gotta Get The Groove Back,Johnnie Taylor,1,2000-01-01,2001-10-27,946,96
+9,Me And Mr Johnson,Eric Clapton,1,2004-04-10,2006-01-28,934,90
+10,Songlines,The Derek Trucks Band,1,2006-03-11,2008-01-12,861,90
+11,Wait For Me,Susan Tedeschi,1,2002-12-07,2004-10-16,815,90
+12,Suitcase,Keb' Mo',1,2006-07-01,2008-01-12,798,78
+13,Live On,The Kenny Wayne Shepherd Band,1,2000-01-01,2001-10-20,792,90
+14,The Definitive Collection,Etta James,1,2006-01-28,2008-01-12,753,94
+15,10 Days Out: Blues From The Backroads,Kenny Wayne Shepherd,1,2007-02-10,2008-08-02,747,77
+16,Cadillac Records,Soundtrack,1,2008-12-20,2009-12-26,746,54
+17,Love Songs,Etta James,2,2001-02-10,2003-02-01,719,97
+18,Black Snake Moan,Soundtrack,1,2007-02-17,2008-08-09,664,74
+19,The Real Deal: Greatest Hits Volume 2,Stevie Ray Vaughan And Double Trouble,2,2000-01-01,2001-03-31,658,66
+20,People Gonna Talk,James Hunter,1,2006-03-25,2007-10-27,652,56
+21,Get The Blues!,Various Artists,1,2001-10-06,2002-10-05,650,53
+22,Sweet Tea,Buddy Guy,1,2001-06-02,2002-09-28,636,66
+23,Hope And Desire,Susan Tedeschi,1,2005-10-29,2007-07-07,627,75
+24,Get The Blues Vol. 2,Various Artists,2,2003-07-26,2004-07-17,580,51
+25,"Solos, Sessions & Encores",Stevie Ray Vaughan & Friends,1,2007-11-24,2009-02-28,578,65
+26,Skin Deep,Buddy Guy,1,2008-08-09,2009-12-26,567,60
+27,Already Free,The Derek Trucks Band,1,2009-01-31,2009-12-26,566,48
+28,Sloe Gin,Joe Bonamassa,1,2007-09-08,2008-10-25,553,55
+29,Back To The River,Susan Tedeschi,1,2008-11-15,2009-12-26,552,58
+30,Martin Scorsese Presents The Best Of The Blues,Soundtrack,1,2003-09-13,2005-04-16,535,54
+31,Keep It Simple,Keb' Mo',1,2004-02-28,2005-12-24,529,65
+32,Live At Montreux 1982 & 1985,Stevie Ray Vaughan And Double Trouble,1,2001-12-08,2003-02-01,519,53
+33,Pure Blues,Various Artists,1,2001-05-05,2003-04-05,519,82
+34,Wander This World,Jonny Lang,2,2000-01-01,2000-10-28,499,44
+35,Live From Austin TX,Susan Tedeschi,2,2004-11-20,2006-11-11,496,66
+36,B.B. King & Friends: 80,B.B. King,1,2005-10-01,2007-01-20,493,54
+37,Room To Breathe,Delbert McClinton,1,2002-10-12,2003-08-16,488,44
+38,Burnin' Down The House,Etta James & The Roots Band,1,2002-05-25,2003-06-14,488,52
+39,One Kind Favor,B.B. King,1,2008-09-13,2009-12-26,482,49
+40,Blues At Sunrise,Stevie Ray Vaughan And Double Trouble,1,2000-04-22,2002-04-13,482,72
+41,Tell 'Em What Your Name Is!,Black Joe Lewis & The Honeybears,2,2009-04-04,2009-12-26,479,39
+42,From The Reach,Sonny Landreth,1,2008-06-07,2009-09-05,446,45
+43,You & Me,Joe Bonamassa,1,2006-06-24,2007-12-08,445,55
+44,Cost Of Living,Delbert McClinton,1,2005-09-10,2006-09-23,439,49
+45,The Best Of B.B. King: 20th Century Masters The Millenium Collection,B.B. King,1,2000-01-01,2001-03-31,439,65
+46,Trouble No More,John Mellencamp,1,2003-06-21,2004-09-04,431,37
+47,Sessions For Robert J,Eric Clapton,1,2004-12-25,2006-01-21,416,49
+48,The Best Of Etta James: 20th Century Masters The Millennium Collection,Etta James,3,2000-01-01,2001-04-14,404,66
+49,Hot & Sassy,Peggy Scott-Adams,1,2001-11-17,2002-10-19,390,40
+50,Bring 'Em In,Buddy Guy,2,2005-10-15,2007-05-05,385,61
+51,Martin Scorsese Presents The Blues: Stevie Ray Vaughan,Stevie Ray Vaughan,4,2003-09-27,2005-09-03,381,64
+52,The Ballad Of John Henry,Joe Bonamassa,1,2009-03-14,2009-12-26,376,40
+53,"Loud Guitars, Big Suspicions",Shannon Curfman,3,2000-01-01,2000-10-14,375,42
+54,The Door,Keb' Mo',2,2000-10-28,2002-08-31,359,44
+55,Grant Street,Sonny Landreth,2,2005-02-12,2006-02-18,344,35
+56,Mess Of Blues,Jeff Healey,1,2008-03-29,2009-01-24,318,38
+57,The Scene Of The Crime,Bettye LaVette,1,2007-10-13,2009-03-28,311,32
+58,Crossing Muddy Waters,John Hiatt,2,2000-10-14,2001-05-26,305,33
+59,Milk Cow Blues,Willie Nelson,2,2000-10-07,2002-02-09,303,43
+60,Roll Away,Back Door Slam,3,2008-02-02,2008-12-20,299,41
+61,Blues To The Bone,Etta James,4,2004-06-26,2005-04-02,289,37
+62,Maestro,Taj Mahal,2,2008-10-18,2009-12-12,282,32
+63,Do You Get The Blues?,Jimmie Vaughan,3,2001-09-29,2002-08-31,281,36
+64,In Session,Albert King With Stevie Ray Vaughan,2,2000-01-01,2000-11-25,278,38
+65,Live: From Nowhere In Particular,Joe Bonamassa,1,2008-09-06,2009-12-26,276,36
+66,Live From Across The Pond,The Robert Cray Band,1,2006-09-30,2007-04-28,273,29
+67,Talking To Strangers,Shemekia Copeland,1,2002-10-05,2003-03-22,268,24
+68,Presumed Innocent,Marcia Ball,4,2001-05-12,2002-10-05,262,41
+69,Shoulda Been Home,Robert Cray,2,2001-06-02,2002-02-02,255,30
+70,The Hard Way,James Hunter,1,2008-06-28,2009-03-14,253,30
+71,Alligator Records 30th Anniversary Collection,Various Artists,3,2001-09-08,2002-04-20,252,29
+72,Acquired Taste,Delbert McClinton & Dick50,1,2009-08-29,2009-12-26,249,18
+73,So It's Like That,Joe Bonamassa,1,2002-08-31,2003-09-06,249,30
+74,Material Things,Mel Waiters,5,2000-01-08,2000-11-18,249,44
+75,Stand Up In It,Theodis Ealey,5,2004-04-17,2005-02-12,244,37
+76,Matriarch Of The Blues,Etta James,2,2000-12-30,2001-06-23,229,26
+77,Twenty,The Robert Cray Band,2,2005-06-11,2006-04-15,228,24
+78,Hernando,North Mississippi Allstars,1,2008-02-09,2009-02-07,224,21
+79,Peace: Back By Popular Demand,Keb' Mo',1,2004-10-09,2005-04-30,222,25
+80,I've Got My Own Hell To Raise,Bettye LaVette,4,2005-10-15,2006-05-06,221,28
+81,Truth,Robben Ford,1,2007-08-25,2008-04-26,220,32
+82,Electric Blue Watermelon,North Mississippi Allstars,1,2005-09-24,2006-04-29,212,30
+83,Wicked Grin,John Hammond,3,2001-03-31,2002-01-26,212,27
+84,Circle,Indigenous,3,2000-05-27,2001-02-03,212,37
+85,Martin Scorsese Presents The Blues: Jimi Hendrix,Jimi Hendrix,4,2003-09-27,2004-05-22,209,30
+86,Painkiller,Tommy Castro,2,2007-02-17,2008-02-23,206,25
+87,On The Jimmy Reed Highway,Omar Kent Dykes & Jimmie Vaughan,4,2007-09-08,2008-03-01,201,26
+88,SRV,Stevie Ray Vaughan And Double Trouble,2,2000-12-09,2002-01-12,198,24
+89,Been A Long Time,Double Trouble,1,2001-02-24,2001-08-11,197,20
+90,Blue Moon,Robben Ford,2,2002-03-30,2002-09-14,195,25
+91,This Time,The Robert Cray Band,2,2009-08-29,2009-12-26,191,18
+92,Hard Believer,Tommy Castro,2,2009-08-29,2009-12-26,185,17
+93,"Breakin' It Up, Breakin' It Down","Muddy Waters, Johnny Winter, & James Cotton",3,2007-06-23,2008-03-01,180,26
+94,Blues,Eric Clapton,4,2000-01-01,2000-10-07,180,31
+95,Into The Blues,Joan Armatrading,1,2007-05-19,2007-09-08,175,16
+96,Can't Look Back,Coco Montoya,2,2002-06-22,2002-11-02,175,19
+97,The Phenomenal Ruthie Foster,Ruthie Foster,4,2007-02-24,2007-08-11,175,24
+98,The Road We're On,Sonny Landreth,3,2003-02-15,2004-05-15,173,22
+99,Love Line,Tyrone Davis,4,2002-11-02,2003-05-17,172,25
+100,New Millennium Blues Party,Various Artists,6,2000-11-04,2001-05-05,171,26
+101,Have A Little Faith,Mavis Staples,5,2004-09-04,2005-02-05,169,23
+102,Heart Of Mine: Maria Muldaur Sings Love Songs Of Bob Dylan,Maria Muldaur,1,2006-09-09,2007-02-10,168,22
+103,Power Of The Pontchartrain,Tab Benoit With Louisiana's Leroux,2,2007-07-14,2008-02-02,167,22
+104,Come To Daddy,Tyrone Davis,4,2003-08-23,2004-06-19,165,29
+105,Playa Haters,Marvin Sease,4,2004-11-13,2005-06-04,162,28
+106,Winning Combinations,John Lee Hooker & Muddy Waters,6,2002-06-08,2003-06-21,162,39
+107,The Word,The Word,1,2001-08-18,2002-02-16,160,21
+108,Hill Country Revue,North Mississippi Allstars,2,2004-10-30,2005-05-14,159,21
+109,The Dirty Dozen,George Thorogood & The Destroyers,1,2009-08-15,2009-12-26,157,20
+110,Makin' Love Is Good For You,B.B. King,2,2000-05-13,2000-09-23,156,20
+111,Martin Scorsese Presents The Blues: A Musical Journey,Soundtrack,2,2003-09-27,2005-01-08,155,18
+112,Leave The Light On,Chris Smither,3,2006-10-07,2007-02-03,154,18
+113,Changing Tha Game,Willie Clayton,5,2004-03-06,2004-09-18,153,25
+114,Let's Roll,Etta James,1,2003-05-24,2003-09-20,151,18
+115,Reflections,B.B. King,2,2003-06-28,2003-09-20,151,13
+116,Bronx In Blue,Dion,2,2006-01-28,2007-07-07,151,25
+117,Best Of Blues: 50 Hits,Various Artists,10,2004-12-11,2006-11-11,150,48
+118,Martin Scorsese Presents The Blues: Keb' Mo',Keb' Mo',5,2003-09-27,2004-05-08,148,29
+119,Soul Shaker,Tommy Castro,2,2005-02-19,2006-04-01,147,22
+120,Blues Singer,Buddy Guy,3,2003-06-21,2004-04-24,145,20
+121,So Many Rivers,Marcia Ball,2,2003-05-10,2004-07-31,140,19
+122,Live! Down The Road,Marcia Ball,3,2005-05-14,2006-03-18,140,20
+123,A Christmas Celebration of Hope,B.B. King,1,2001-11-24,2002-01-26,137,10
+124,Bad For You Baby,Gary Moore,2,2008-10-25,2009-02-21,137,18
+125,"Peace, Love & BBQ",Marcia Ball,1,2008-04-26,2009-05-23,136,17
+126,Full Circle,Walter Trout And Friends,2,2006-07-08,2007-08-25,133,16
+127,Avalon Blues - A Tribute To The Music Of Mississippi John Hurt,Various Artists,4,2001-06-30,2001-10-13,133,16
+128,Coming Up For Air,Davy Knowles & Back Door Slam,2,2009-06-06,2009-12-26,132,17
+129,Red White & Blues,Various Artists,2,2002-03-09,2002-06-08,131,14
+130,Can't Quit The Blues,Buddy Guy,2,2006-11-18,2008-04-26,131,16
+131,Stories,John Mayall And The Bluesbreakers,1,2002-09-14,2002-12-21,130,15
+132,Still Making History,Ana Popovic,3,2007-10-20,2008-09-06,129,19
+133,Simple Truths,The Holmes Brothers,5,2004-01-31,2004-07-03,129,16
+134,Music Legends: Ray's Blues,Ray Charles,5,2004-06-26,2004-12-25,127,19
+135,The Best Blues Album In The World...Ever!,Various Artists,7,2000-03-11,2000-08-12,126,23
+136,The Soul Truth,Shemekia Copeland,3,2005-09-03,2006-01-21,124,16
+137,Gifted,Willie Clayton,5,2006-10-21,2007-04-14,124,22
+138,Slideways,Roy Rogers,3,2002-05-11,2003-01-18,121,14
+139,Sanctuary,Charlie Musselwhite,4,2004-04-24,2004-08-14,121,15
+140,Golden Legends: Ray Charles Live,Ray Charles,8,2006-02-04,2007-01-06,121,28
+141,The Hard Stuff,George Thorogood & The Destroyers,2,2006-06-17,2006-12-23,118,22
+142,Harley Davidson Motor Cycles: Roadhouse Blues,Various Artists,2,2003-08-09,2004-01-10,117,15
+143,The Woodstock Experience,Johnny Winter,1,2009-07-18,2009-11-07,116,16
+144,What Love Will Do,Janiva Magness,3,2008-06-28,2009-06-13,116,17
+145,Town And Country Blues,Various Artists,1,2009-08-22,2009-11-28,115,13
+146,The Last Man Standing,Willie Clayton,5,2002-11-16,2003-07-12,115,20
+147,Blues At Midnight,"Bobby ""Blue"" Bland",4,2003-03-29,2003-07-05,114,15
+148,I'm A Bluesman,Johnny Winter,7,2004-07-03,2004-11-06,113,18
+149,Dirty Deal,Coco Montoya,2,2007-02-03,2007-06-02,112,17
+150,Burnside On Burnside,R.L. Burnside,4,2001-11-10,2002-03-09,112,18
+151,Ride Til I Die,George Thorogood & The Destroyers,2,2003-04-12,2003-06-14,111,10
+152,Downhome Sophisticate,Corey Harris,4,2002-05-18,2002-08-31,105,15
+153,Martin Scorsese Presents The Blues: Eric Clapton,Eric Clapton,5,2003-09-27,2004-05-01,105,20
+154,Chasing The Sun,Indigenous,2,2006-07-01,2007-05-26,104,17
+155,Have Love Will Travel,"Jim Belushi, Dan Aykroyd",1,2003-06-07,2003-08-23,103,12
+156,Face To Face,John Lee Hooker,3,2003-11-15,2004-03-13,103,17
+157,Night Train To Nashville,Tab Benoit With Louisiana's Leroux,2,2008-05-10,2008-08-09,102,12
+158,There's No Good In Goodbye,Johnnie Taylor,3,2003-07-19,2004-02-21,102,12
+159,Along For The Ride,John Mayall & Friends,4,2001-05-26,2001-09-08,101,15
+160,Recapturing The Banjo,Otis Taylor,6,2008-02-23,2009-08-08,101,19
+161,Old School,Koko Taylor,3,2007-04-21,2007-07-14,100,13
+162,Crucial Guitar Blues,Various Artists,5,2003-02-08,2003-06-14,99,18
+163,Ready For Love,John Hammond,3,2003-03-01,2003-05-17,98,10
+164,The Truth According To Ruthie Foster,Ruthie Foster,4,2009-02-21,2009-10-03,96,14
+165,Fever For The Bayou,Tab Benoit,4,2005-04-09,2005-07-30,94,13
+166,Whiskey Store,Tab Benoit & Jimmy Thackery,4,2002-10-12,2003-02-01,94,16
+167,The Blues Rolls On,Elvin Bishop,5,2008-10-11,2009-01-31,94,17
+168,Keep On Running,Robben Ford,6,2003-10-25,2004-04-10,94,21
+169,Buried Alive In The Blues,Chicago Blues Reunion,3,2005-07-30,2006-12-23,93,12
+170,Son Of Skip James,Dion,4,2007-11-24,2008-02-09,93,12
+171,Raisin' A Ruckus,Roomful Of Blues,6,2008-02-02,2008-08-23,93,13
+172,Martin Scorsese Presents The Blues: Muddy Waters,Muddy Waters,4,2003-10-11,2004-01-24,92,16
+173,Soul On Ten,Robben Ford,5,2009-08-29,2009-12-12,91,14
+174,Just Won't Burn,Susan Tedeschi,3,2000-01-01,2000-02-19,89,8
+175,Never Going Back,Shemekia Copeland,4,2009-03-14,2009-08-15,89,15
+176,Blue Again,The Mick Fleetwood Blues Band Featuring Rick Vito,4,2009-03-21,2009-06-27,84,14
+177,Time Will Tell,The Robert Cray Band,3,2003-07-19,2003-09-20,81,10
+178,In The Palace Of The King,John Mayall And The Bluesbreakers,3,2007-05-05,2007-07-28,81,12
+179,Indigenous,Indigenous,3,2003-08-09,2003-09-27,79,8
+180,Moment Of Truth,Tinsley Ellis,5,2007-07-14,2008-11-29,79,14
+181,Outsider,Walter Trout,3,2008-07-12,2008-09-13,77,9
+182,Had To Cry Today,Joe Bonamassa,5,2004-09-11,2005-09-03,76,13
+183,Big Bad Love,Soundtrack,6,2002-03-09,2002-05-18,76,11
+184,The Best Of George Thorogood & The Destroyers,George Thorogood & The Destroyers,7,2006-02-11,2007-09-01,76,18
+185,The Whole Fam Damnily,Reverend Peyton's Big Damn Band,4,2008-08-23,2009-08-08,75,14
+186,That's Right!,Roomful Of Blues,6,2003-03-29,2003-06-28,75,14
+187,Putumayo Presents: A Jazz & Blues Christmas,Various Artists,4,2008-11-29,2009-01-17,74,8
+188,Command Performance,The Legendary Rhythm & Blues Revue,6,2008-04-05,2009-04-18,74,15
+189,The Duke Meets The Earl,Ronnie Earl/Duke Robillard,4,2005-03-26,2005-06-11,73,12
+190,Stevie Ray Vaughan And Dobule Trouble The Collection,Stevie Ray Vaughan And Double Trouble,6,2004-10-23,2005-01-15,72,11
+191,Music Is The Medicine,Anthony Gomes,4,2006-09-02,2007-08-18,71,13
+192,Hanapepe Dream,Taj Mahal & Hula Blues Band,6,2003-06-28,2003-09-13,71,11
+193,"35 X 35: 35 Songs, 35 Years Of Genuine Houserockin' Music",Various Artists,7,2006-04-22,2006-08-12,71,13
+194,A Bothered Mind,R.L. Burnside,6,2004-09-04,2005-01-15,70,12
+195,Push Comes To Shove,John Hammond,6,2007-02-10,2007-05-05,70,13
+196,Slingshot Professionals,Kelly Joe Phelps,6,2003-03-29,2003-05-31,68,9
+197,Pay Me No Mind,The Homemade Jamz Blues Band,3,2008-07-26,2008-11-22,67,8
+198,Wish I Was In Heaven Sitting Down,R.L. Burnside,8,2000-11-11,2001-04-21,67,18
+199,Storms Of Life,Bernard Allison,5,2002-08-31,2002-11-09,66,11
+200,Let Me Show You How To Love,Mel Waiters,8,2001-10-27,2002-04-27,66,15
+201,Heavy Hitter,Jeff Pitchell,7,2002-11-30,2003-02-22,65,11
+202,John Mayall & The Blues Breaker And Friends: 70th Birthday Concert,John Mayall And The Bluesbreakers,8,2004-01-17,2004-05-29,65,18
+203,Road Dogs,John Mayall And The Bluesbreakers,4,2005-07-02,2005-08-20,64,8
+204,State Of Grace,The Holmes Brothers,3,2007-02-03,2007-03-31,62,9
+205,Guilty Of Love,Tommy Castro Band,4,2001-09-15,2002-07-20,62,10
+206,Blind Pig Records 25th Anniversary Collection,Various Artists,7,2001-11-10,2003-01-11,62,16
+207,Live,B.B. King,1,2008-03-08,2009-03-07,61,10
+208,Simply Grand,Irma Thomas,4,2008-08-30,2008-10-04,61,6
+209,Piety Street,John Scofield,5,2009-04-18,2009-06-13,61,9
+210,The Best Of B.B. King: 20th Century Masters The Christmas Collection,B.B. King,3,2003-12-06,2004-01-10,60,6
+211,Jackpot!,Buckwheat Zydeco,5,2005-06-25,2005-08-13,60,7
+212,Havin' The Last Word,Saffire-The Uppity Blues Women,6,2009-02-14,2009-11-21,58,12
+213,Rocket Number 9,Jason Ricci & New Blood,4,2008-06-07,2008-11-15,57,7
+214,Do It Like We Used To Do: Live '96-'08,North Mississippi Allstars,4,2009-02-07,2009-05-09,57,12
+215,Playlist + Plus,B.B. King,8,2008-06-28,2008-09-13,57,11
+216,Greatest Hits,B.B. King,10,2000-01-01,2000-08-26,57,22
+217,Get Onboard,Eric Bibb,3,2008-04-05,2008-08-16,55,8
+218,Live-Highwayman,Tinsley Ellis,5,2005-06-25,2005-09-10,55,10
+219,Let The Good Times Roll,B.B. King,7,2000-01-01,2000-03-04,55,10
+220,Speak No Evil,Tinsley Ellis,3,2009-10-24,2009-12-26,54,7
+221,Delta Hardware,Charlie Musselwhite,4,2006-06-03,2006-11-04,54,7
+222,About Them Shoes,Hubert Sumlin,7,2005-02-12,2005-04-23,54,10
+223,Heavy Picks - The Robert Cray Collection,Robert Cray,9,2000-01-01,2000-04-15,54,16
+224,Make A Move,Hill Country Revue,4,2009-05-30,2009-08-15,53,8
+225,Blood Brothers,Smokin' Joe Kubek & Bnois King,4,2008-03-22,2008-05-24,51,9
+226,Wetlands,Tab Benoit,6,2002-04-13,2002-07-27,51,10
+227,We Got It,Jimmy Thackery And The Drivers,5,2002-06-15,2002-09-21,49,9
+228,Uncovered,Tony Joe White,4,2006-09-23,2006-11-04,48,7
+229,Close As You Get,Gary Moore,7,2007-08-11,2008-01-26,48,10
+230,Naughty Bawdy & Blue,Maria Muldaur,4,2007-06-02,2007-10-06,47,9
+231,Painted On,The Fabulous Thunderbirds,5,2005-07-16,2005-09-24,47,8
+232,Standing Room Only,Roomful Of Blues,5,2005-01-29,2005-03-26,47,9
+233,Feel So Good: Albert Cummings Live,Albert Cummings,5,2008-09-27,2008-12-06,46,6
+234,BB King: Collector's Edition,B.B. King,7,2008-12-06,2009-02-28,46,8
+235,Sky Like A Broken Clock,Kelly Joe Phelps,8,2001-08-04,2001-10-13,46,10
+236,Guitar Man,Little Milton,8,2002-10-12,2003-02-15,46,13
+237,Already Live EP,The Derek Trucks Band,4,2009-05-02,2009-06-20,45,7
+238,Whiskey Store Live!,Jimmy Thackery And Tab Benoit,5,2004-03-20,2004-06-05,44,9
+239,Suspicion,Coco Montoya,10,2000-02-19,2000-04-29,44,11
+240,Iron Man,Michael Burks,4,2008-04-26,2008-06-14,43,8
+241,Who's Got The Power,Marvin Sease,6,2008-08-30,2008-11-22,43,9
+242,Blues: Gold,Various Artists,9,2006-02-04,2006-04-08,43,10
+243,Lackawanna Blues,Various Artists,6,2005-03-05,2005-04-16,42,7
+244,A Stranger Here,Ramblin' Jack Elliott,5,2009-04-25,2009-05-30,41,6
+245,Free Your Mind,Too Slim And The Taildraggers,5,2009-04-25,2009-08-22,41,7
+246,The Best Of Susan Tedeschi,Susan Tedeschi,9,2005-11-26,2006-02-18,41,11
+247,The Definitive Collection,Bo Diddley,2,2008-06-21,2008-07-19,39,5
+248,Lay Your Burden Down,Buckwheat Zydeco,5,2009-05-23,2009-07-11,39,6
+249,Throw Back Days,Mel Waiters,5,2006-04-22,2006-06-17,39,9
+250,Wicked,Shemekia Copeland,8,2000-10-14,2002-09-21,39,11
+251,The Wheel Man,Watermelon Slim And The Workers,7,2007-05-05,2007-09-29,38,6
+252,The Great Debaters,Soundtrack,5,2008-01-12,2008-02-09,37,5
+253,Seven Moons Live,Jack Bruce & Robin Trower,6,2009-10-31,2009-12-12,37,5
+254,Blues Deluxe,Joe Bonamassa,8,2003-09-13,2004-05-01,37,8
+255,Something's Wrong/Lost Forever,Scott H. Biram,5,2009-06-06,2009-07-11,36,5
+256,High Maintenance Woman,Charles Wright,10,2004-09-18,2004-11-06,36,8
+257,Back To The Blues,Gary Moore,6,2001-04-07,2001-05-19,35,7
+258,Love Me Tonight,John Nemeth,7,2009-02-14,2009-11-14,35,6
+259,Solid Ice,Jimmy Thackery And The Drivers,7,2007-06-09,2007-08-04,35,7
+260,Clean Getaway,Curtis Salgado,5,2008-07-26,2008-09-20,34,6
+261,Low Expectations,Ernie And The Automatics,7,2009-03-07,2009-04-18,34,6
+262,Putumayo Presents: Blues Around The World,Various Artists,8,2006-08-19,2006-09-16,33,5
+263,Let Life Flow,Kenny Neal,8,2008-09-06,2009-08-22,33,6
+264,The Fortune Teller,Too Slim And The Taildraggers,9,2007-08-11,2008-04-19,33,8
+265,Heart Of A Woman,Etta James,10,2000-01-22,2000-03-04,33,7
+266,Live,Anthony Gomes,1,2008-03-15,2008-04-19,31,4
+267,My Tyme,Willie Clayton,6,2008-02-16,2008-03-29,31,7
+268,Full Circle,Willie Clayton,7,2005-04-16,2005-07-23,31,7
+269,Lightning In A Bottle,Soundtrack,9,2004-11-20,2005-01-08,31,8
+270,Forever Gold,B.B. King,11,2000-09-23,2007-05-26,31,8
+271,No Doubt,Floyd Taylor,5,2005-05-28,2005-07-16,30,6
+272,Fitchburg Street,Doyle Bramhall,6,2003-03-15,2003-04-05,30,4
+273,Live From Royal Albert Hall,Joe Bonamassa,7,2009-10-24,2009-12-05,30,5
+274,Unspoiled By Progress,Walter Trout,5,2009-08-22,2009-09-19,29,5
+275,That's Big!,Little Charlie And the Nightcats,5,2002-04-06,2002-06-01,29,7
+276,Original Greatest Hits,B.B. King,8,2005-10-01,2006-01-07,29,7
+277,Living In The Light,Ronnie Earl And The Broadcasters,4,2009-06-20,2009-07-04,28,3
+278,Martin Scorsese Presents The Blues: The Allman Brothers Band,The Allman Brothers,10,2003-09-27,2004-01-31,27,7
+279,25 Best: Blues,Various Artists,11,2008-08-16,2009-08-01,27,13
+280,Forever Gold: Ray Charles: Live,Ray Charles,7,2007-04-07,2007-04-28,26,4
+281,Power Of The Blues,Gary Moore,9,2004-07-10,2004-08-21,26,6
+282,I Chose To Sing The Blues,Ray Charles,5,2005-06-11,2005-06-25,24,3
+283,Genuine Houserockin' Christmas,Various Artists,7,2003-12-20,2004-01-03,24,3
+284,In Your Arms Again,John Hammond,8,2005-02-12,2005-03-19,24,6
+285,Sir Charles Jones And Friends: A Southern Soul Party,Various Artists,11,2004-10-30,2005-02-19,24,9
+286,Tunesmith Retrofit,Kelly Joe Phelps,5,2006-08-19,2006-10-14,23,5
+287,"Kitty, Daisy & Lewis","Kitty, Daisy & Lewis",9,2009-08-29,2009-10-10,23,6
+288,Drive,Robert Palmer,10,2003-06-14,2003-10-11,23,7
+289,When The Sun Goes Down - Walk Right In,Various Artists,7,2002-09-07,2002-09-21,22,3
+290,Little Giant Of Soul,Willie Clayton,7,2001-11-03,2002-03-09,22,4
+291,Greatest Hits: Walking To New Orleans,Fats Domino,9,2007-10-13,2008-01-26,22,6
+292,Royal Blue,Koko Taylor,11,2000-06-24,2000-09-16,22,10
+293,Working Man,Albert Cummings,6,2006-08-05,2006-12-30,21,4
+294,Is It News,Doyle Bramhall,7,2007-10-06,2008-03-08,21,7
+295,Now This Is What We Call Blues Vol. 420,Various Artists,10,2003-02-15,2003-03-22,21,6
+296,New York City,The Peter Malick Group Featuring Norah Jones,1,2003-07-19,2003-07-26,20,2
+297,Deliveries After Dark,Popa Chubby,4,2008-02-16,2008-03-01,20,3
+298,Miss Understood,Carolyn Wonderland,9,2008-07-26,2009-08-15,20,4
+299,Change In The Weather,Eric Lindell,9,2006-04-22,2006-06-17,20,5
+300,You Still Got It,Floyd Taylor,6,2007-11-17,2007-12-15,19,4
+301,Superhero,Candye Kane,9,2009-08-01,2009-12-05,19,5
+302,Release The Hound,Houng Dog Taylor,9,2004-05-15,2004-06-12,19,5
+303,A Woman Alone With The Blues ...Remembering Peggy Lee,Maria Muldaur,9,2003-04-12,2003-05-24,19,6
+304,Blue Velocity,Chris Duarte Group,11,2007-08-18,2007-10-13,19,5
+305,Playing For Chnage Presents... Grampa Elliott: Sugar Sweet,Grandpa Elliott,5,2009-11-21,2009-12-05,18,3
+306,Sweet Lovin' Ol' Soul,Maria Muldaur,6,2005-08-20,2005-10-08,18,3
+307,Crucial Harmonica Blues,Various Artists,6,2003-02-08,2003-04-05,18,4
+308,Duke Robillard's World Full Of Blues,Duke Robillard,7,2007-07-14,2007-08-04,18,4
+309,The Definitive Buddy Guy,Buddy Guy,7,2009-05-02,2009-05-16,17,3
+310,Fast Lane Addiction,Shannon Curfman,8,2007-10-27,2007-12-01,17,4
+311,Hydraulic Groove,Rick Holmstrom,9,2002-08-03,2002-10-12,17,4
+312,Blues On The Bayou,B.B. King,9,2000-01-01,2000-03-25,17,5
+313,One Night In America,Charlie Musselwhite,11,2002-03-16,2002-04-13,17,5
+314,Texas Sheiks,Geoff Muldaur And The Texas Sheiks,3,2009-12-19,2009-12-26,16,2
+315,Old New Ballads Blues,Gary Moore,6,2006-05-20,2006-06-03,16,3
+316,Live Bootleg Series Volume 2,Johnny Winter,7,2008-03-22,2008-04-12,16,4
+317,When The Sun Goes Down - First Time I Met The Blues,Various Artists,9,2002-09-07,2002-09-21,16,3
+318,VOW: Voice Of The Wetlands,Tab Benoit,9,2005-10-15,2005-11-05,16,3
+319,Long Time Coming,Jonny Lang,1,2003-11-01,2003-11-01,15,1
+320,Nine Lives,Little Charlie And the Nightcats,6,2005-05-14,2005-05-28,15,3
+321,Etta Baker With Taj Mahal,Etta Baker With Taj Mahal,7,2005-04-02,2005-04-09,15,2
+322,Big Man Big Guitar Popa Chubby Live,Popa Chubby,9,2005-06-18,2005-07-16,15,3
+323,The Best Of Blues: 20th Century Masters The Christmas Collection,Various Artists,10,2003-12-20,2004-01-03,15,3
+324,A Nite Out,Mel Waiters,11,2004-02-14,2004-05-22,15,6
+325,Leap Of Faith,Seth Walker,2,2009-04-11,2009-04-11,14,1
+326,The London Howlin' Wolf Sessions - Deluxe Edition,Howlin' Wolf,6,2003-03-22,2003-03-29,14,2
+327,Pearl River,Mike Zito,6,2009-10-17,2009-12-05,14,3
+328,New Shade Of Blue,Kelley Hunt,9,2004-08-21,2004-12-18,14,3
+329,We Can Get Together,Sean Costello,10,2008-05-03,2008-05-31,14,4
+330,No Paid Holidays,Watermelon Slim And The Workers,10,2008-07-12,2008-08-02,14,4
+331,Gratitude,Tommy Castro,7,2003-05-24,2003-06-28,13,2
+332,Live At The BBC,Robert Cray,7,2008-05-31,2008-06-14,13,3
+333,A Ship Called Love,Eric Bibb,9,2005-11-19,2005-12-03,13,3
+334,Merry Blue Christmas,Various Artists,10,2002-12-21,2003-01-04,13,3
+335,Pentatonic Wars And Love Songs,Otis Taylor,10,2009-07-11,2009-08-15,13,4
+336,From Clarksdale to Heaven - Remembering John Lee Hooker,Various Artists,10,2002-10-12,2002-11-09,13,4
+337,When The Sun Goes Down - The Secret History of Rock & Roll,Various Artists,11,2002-11-23,2003-01-04,13,3
+338,I Feel Like Goin' On,Ronnie Earl,11,2003-04-05,2003-06-07,13,4
+339,Louisiana Gumbo,Various Artists,11,2000-02-26,2000-04-08,13,6
+340,Today,Mike Zito,11,2008-08-30,2009-01-31,13,6
+341,Somebody Told The Truth,Cephas & Wiggins,6,2003-01-18,2003-01-25,12,2
+342,Beyond The Source,Rod Piazza & The Mighty Flyers,7,2001-08-04,2001-08-25,12,2
+343,Crucial Chicago Blues,Various Artists,9,2003-02-08,2003-05-03,12,5
+344,True Stories,Jimmy Thackery And The Drivers,10,2003-06-14,2003-06-21,12,2
+345,Black Pearls,Eric Sardinas,11,2004-07-24,2005-05-14,12,3
+346,American Roots Songbook: Electric Blues,Various Artists,12,2004-01-24,2004-02-14,12,4
+347,Midnight Blues,Magic Slim & The Teardrops,8,2008-09-27,2008-10-04,11,2
+348,"Authorized Bootleg: Live/Fillmore Auditorium - San Francisco, CA: Nov 04-06",Muddy Waters,8,2009-04-18,2009-04-25,11,2
+349,Do I Move You?,Janiva Magness,8,2007-09-01,2007-11-10,11,2
+350,Extended Versions,The Fabulous Thunderbirds,8,2002-09-21,2002-10-05,11,3
+351,Gettin' My Groove Back,Elvin Bishop,9,2005-09-03,2005-09-10,11,2
+352,Now My Soul,Ronnie Earl And The Broadcasters,9,2004-06-19,2004-07-24,11,3
+353,Back To The Well,Lee Roy Parnell,10,2006-03-25,2006-04-01,11,2
+354,Homeland,Henry Butler,11,2004-05-08,2005-05-14,11,3
+355,Diamond Days,Eric Bibb,11,2007-02-17,2007-03-10,11,3
+356,I'm Every Woman,Rory Block,11,2002-02-16,2002-03-02,11,3
+357,Crucial Rockin' Blues,Various Artists,6,2007-06-09,2007-06-09,10,1
+358,Flash Forward,The Siegal-Schwall Band,9,2005-09-03,2005-10-01,10,3
+359,Richland Woman Blues,Maria Muldaur,9,2001-04-28,2001-07-07,10,4
+360,Fool Me Good,Precious Bryant,10,2002-06-01,2002-06-08,10,2
+361,Twisted,Rick Estrin And The Nightcats,10,2009-06-20,2009-08-01,10,3
+362,Inside Tracks,Jimmy Thackery And The Drivers,10,2008-11-01,2008-11-22,10,3
+363,Martin Scorsese Presents The Blues: Son House,Son House,10,2003-10-18,2003-11-08,10,4
+364,The Best Of Johnny Winter,Johnny Winter,11,2002-08-17,2002-08-24,10,2
+365,Putumayo Presents: Blues Lounge,Various Artists,11,2004-10-30,2004-11-27,10,3
+366,The Best Of Robert Cray: 20th Century Masters The Millenium Collection,Robert Cray,11,2003-01-18,2003-05-10,10,4
+367,For Your Love: Best Of Sir Charles Jones,Sir Charles Jones,12,2007-11-17,2008-01-19,10,3
+368,Love Songs For & Against,Guy Forsyth,7,2005-09-10,2005-09-10,9,1
+369,Crucial Acoustic Blues,Various Artists,7,2007-06-09,2007-06-09,9,1
+370,Treat Me Right,Robin Rogers,7,2008-07-12,2008-07-12,9,1
+371,The Last Of The Best,The Paul Delay Band,7,2007-07-28,2007-07-28,9,1
+372,Stomp! The Blues Tonight,Duke Robillard's Jumpin' Blues Review,7,2009-06-20,2009-06-20,9,1
+373,Ain't Just Temporary,Hamilton Loomis,7,2007-09-01,2007-09-01,9,1
+374,Full Tilt,Lil' Ed And The Blues Imperials,8,2008-09-13,2008-11-15,9,2
+375,Split Decision,Roy Rogers,10,2009-05-09,2009-05-30,9,2
+376,Sunday Nights: The Songs Of Junior Kimbrough,Various Artists,11,2005-01-29,2005-02-05,9,2
+377,From Austin With Soul,W.C. Clark,11,2002-05-25,2002-07-27,9,2
+378,When The Sun Goes Down - That's Chicago's South Side,Various Artists,11,2002-09-07,2002-09-14,9,2
+379,Lookin' For Trouble,Kim Wilson,11,2003-07-05,2003-07-12,9,2
+380,B.B. King,B.B. King,12,2007-02-03,2007-02-17,9,3
+381,Shoutin' In Key - Live,Taj Mahal & The Phantom Blues Band,12,2000-07-15,2000-08-05,9,3
+382,Live Bootleg Series Volume 5,Johnny Winter,8,2009-07-18,2009-07-18,8,1
+383,Unity,Anthony Gomes,8,2003-06-07,2003-06-07,8,1
+384,More Crucial Guitar Blues,Various Artists,8,2007-06-09,2007-06-09,8,1
+385,Change Is Gonna Come: Sessions (EP),Bettye LaVette,8,2009-07-04,2009-07-04,8,1
+386,Toolin' Around Woodstock,Arlen Roth Featuring Levon Helm,9,2008-03-08,2008-03-15,8,2
+387,Legendary Hall Of Famer,Tyrone Davis,9,2004-10-23,2004-11-20,8,2
+388,Rattleshake,Lil' Ed And The Blues Imperials,10,2006-07-29,2006-08-19,8,2
+389,Tough,John Mayall,10,2009-10-03,2009-10-10,8,2
+390,Blind Pig Records 30th Anniversary Collection,Various Artists,11,2006-09-30,2006-10-28,8,2
+391,Tap The Red Cane Whirlwind,Kelly Joe Phelps,11,2005-02-19,2005-02-26,8,2
+392,Vantage Point,Chris Duarte Group,11,2008-09-27,2008-10-11,8,2
+393,Watch Your Back,Guitar Shorty,11,2004-05-29,2004-06-12,8,3
+394,The Hard Way,Tinsley Ellis,11,2004-06-12,2004-09-04,8,4
+395,Relentless,Walter Trout & The Radicals,12,2003-08-30,2003-09-06,8,2
+396,Live At The Fillmore,Tommy Castro,13,2000-04-15,2000-05-06,8,4
+397,Neighborhoods,Olu Dara,14,2001-03-10,2001-05-26,8,5
+398,Gold,B.B. King,14,2006-07-29,2007-04-14,8,6
+399,Livin' On Love,Deborah Coleman,9,2002-07-06,2002-07-06,7,1
+400,Undisputed: The Album,T.K. Soul,9,2007-07-14,2007-07-14,7,1
+401,Boulderado: Live At The Fox 2008,North Mississippi Allstars,9,2009-01-31,2009-01-31,7,1
+402,Live Bootleg Series Volume 4,Johnny Winter,9,2009-02-28,2009-02-28,7,1
+403,Big Plans,The Mannish Boys,9,2008-05-10,2008-05-10,7,1
+404,Escape From The Chicken Coop,Watermelon Slim,9,2009-08-22,2009-08-22,7,1
+405,Martin Scorsese Presents The Blues: Piano Blues,Soundtrack,9,2003-10-25,2003-10-25,7,1
+406,"Love, Romance & Respect",Willie Clayton,9,2009-12-12,2009-12-12,7,1
+407,New Day Yesterday,Joe Bonamassa,9,2002-08-17,2002-08-17,7,1
+408,Dirt,Mark Selby,10,2003-02-15,2003-03-08,7,2
+409,Crucial Slide Guitar Blues,Various Artists,10,2004-03-13,2004-04-10,7,2
+410,Busting Loose,Peggy Scott-Adams,12,2003-07-12,2003-07-19,7,2
+411,Fat Possum Records: Not The Same Old Blues Crap 3,Various Artists,12,2004-10-16,2004-10-23,7,2
+412,35th Anniversary Jam,James Cotton Blues Band,12,2002-06-29,2002-07-13,7,3
+413,Lowdown Feelin',The Mannish Boys,10,2008-07-26,2008-07-26,6,1
+414,Welcome To Little Milton,Little Milton,10,2000-02-12,2000-02-12,6,1
+415,Wheels Within Wheels,Rory Gallagher,10,2003-04-05,2003-04-05,6,1
+416,Reincarnated,Kelly Bell Band,10,2007-10-06,2007-10-06,6,1
+417,Live At The Ryman,Jonny Lang,10,2009-12-19,2009-12-19,6,1
+418,The Royal Blues: Celebrating The Queens Of Blues And Jazz,Various Artists,10,2009-03-07,2009-03-07,6,1
+419,PiaNOLA Live,Henry Butler,10,2008-06-21,2008-06-21,6,1
+420,Best Of Blues,Various Artists,11,2005-01-22,2006-01-21,6,2
+421,The Best Of The Blues,Gary Moore,12,2002-04-27,2002-05-04,6,2
+422,We The People,Guitar Shorty,12,2006-09-02,2006-10-07,6,2
+423,Love Is Greater Than Me,Chris Duarte Group,12,2000-10-14,2000-10-28,6,3
+424,Not The Same Old Blues Crap - Vol. 2,Various Artists,13,2001-08-04,2001-08-18,6,3
+425,Call Me Mr. C,Willie Clayton,14,2000-09-23,2000-10-21,6,3
+426,The Best Of Chuck Berry: 20th Century Masters The Millennium Collection,Chuck Berry,14,2000-05-06,2000-05-27,6,4
+427,Pinetop Perkins And Friends,Pinetop Perkins,11,2008-06-21,2008-06-21,5,1
+428,Maria Muldaur & Her Garden Of Joy,Maria Muldaur,11,2009-10-24,2009-10-24,5,1
+429,Dislocation Blues,Chris Whitley & Jeff Lang,11,2007-04-21,2007-04-21,5,1
+430,Show Me The Money,Smokin' Joe Kubek & Bnois King,11,2004-07-17,2004-07-17,5,1
+431,Reaching The Cold 100,Peter Green Splinter Group,11,2003-03-15,2003-03-15,5,1
+432,Martin Scorsese Presents The Blues: J.B. Lenoir,J.B. Lenoir,11,2003-10-18,2003-10-18,5,1
+433,I Got Blues For You,The Homemade Jamz Blues Band,11,2009-06-27,2009-06-27,5,1
+434,The Johnny Winter Anthology,Johnny Winter,11,2009-06-13,2009-06-13,5,1
+435,Bill Wyman's Blues Odyssey,Bill Wyman,11,2002-01-05,2002-01-05,5,1
+436,In The Natural State,Jimmy Thackery With The Cate Brothers,11,2006-07-22,2006-07-22,5,1
+437,Soul & Blues,Willie Clayton,11,2008-11-22,2008-11-22,5,1
+438,Stealing The Devil's Guitar,Popa Chubby,11,2006-06-24,2006-06-24,5,1
+439,Slow Down,Keb' Mo',12,2000-01-01,2000-01-08,5,2
+440,Go The Distance,Walter Trout,12,2001-06-09,2001-10-06,5,2
+441,Gimme Some Lovin' & Other Hits,Blues Brothers,12,2005-11-19,2006-01-14,5,2
+442,The Very Best Of Albert King,Albert King,13,2007-08-25,2007-09-15,5,2
+443,Down In The Alley,Alvin Youngblood Hart,13,2002-10-05,2003-03-08,5,2
+444,Healin' Ground,Jimmy Thackery,13,2005-05-14,2005-05-28,5,3
+445,"Martin Scorsese Presents The Blues: Red, White And Blues",Soundtrack,12,2003-10-25,2003-10-25,4,1
+446,Bahamut,Hazmat Modine,12,2006-11-18,2006-11-18,4,1
+447,Skunkmello,Guy Davis,12,2006-07-01,2006-07-01,4,1
+448,I Smell Smoke,Michael Burks,12,2003-07-05,2003-07-05,4,1
+449,After The Rain,Irma Thomas,12,2006-07-29,2006-07-29,4,1
+450,Down In Da Club,Jackie Neal,12,2005-04-23,2005-04-23,4,1
+451,The Story of Tone-Cool Volume 1,Various Artists,12,2003-03-15,2003-03-15,4,1
+452,Sugar Shack,Damon Fowler,12,2009-02-21,2009-02-21,4,1
+453,Collector's Edition: Best Of The Blues,Various Artists,12,2009-01-10,2009-01-10,4,1
+454,"The Legend of Tommy Johnson, Act 1: Genesis 1900's",Chris Thomas King,13,2001-12-22,2001-12-29,4,2
+455,Sweet Emotion/ Songs Of Aerosmith,Various Artists,13,2001-07-21,2001-07-28,4,2
+456,Mississippi Blues,Various Artists,13,2002-03-30,2002-04-06,4,2
+457,Rough & Tough,John Hammond,13,2009-05-16,2009-05-23,4,2
+458,The Very Best Of Johnnie Taylor,Johnnie Taylor,14,2007-08-11,2007-08-18,4,2
+459,The Sea Saint Sessions,Tab Benoit,14,2003-07-12,2003-08-02,4,2
+460,Brother To The Blues,Tab Benoit With Louisiana's Leroux,14,2006-05-13,2006-05-27,4,2
+461,Live With The Candy Licker,Marvin Sease,14,2005-10-22,2005-10-29,4,2
+462,The Lady And  Mr. Johnson,Rory Block,14,2006-09-02,2006-09-16,4,2
+463,Anthology 1962-1998,B.B. King,14,2000-12-02,2000-12-23,4,3
+464,Deep Trout,Walter Trout,13,2005-06-11,2005-06-11,3,1
+465,Watermelon Slim & The Workers,Watermelon Slim,13,2006-04-15,2006-04-15,3,1
+466,My Story,Sir Charles Jones,13,2008-09-13,2008-09-13,3,1
+467,Chase The Sun,Chase The Sun,13,2008-10-18,2008-10-18,3,1
+468,396,Chris Duarte And Bluestone Co.,13,2009-02-14,2009-02-14,3,1
+469,When The Sun Goes Down - That's All Right,Various Artists,13,2002-09-07,2002-09-07,3,1
+470,Talk Memphis,Toni Price,13,2007-10-20,2007-10-20,3,1
+471,Rise,Chris Thomas King,13,2006-07-22,2006-07-22,3,1
+472,Shout! Live,Mike Farris & The Roseland Rhythm Revue Featuring The McCrary Sisters,13,2009-05-02,2009-05-02,3,1
+473,Watch You When You Go,Roomful Of Blues,13,2001-07-14,2001-07-14,3,1
+474,The Best Of Susan Tedeschi: Episode Two,Susan Tedeschi,13,2007-08-25,2007-08-25,3,1
+475,Honky Tonkin' All Night!,Delbert McClinton,13,2009-08-08,2009-08-08,3,1
+476,Hot Foot Powder,Peter Green With Nigel Watson Splinter Group,13,2000-05-20,2000-05-20,3,1
+477,Grown Ass Man,Stacy Mitchhart Band,13,2009-10-03,2009-10-03,3,1
+478,Living In A New World,Willie King & The Liberators,14,2002-08-10,2002-08-17,3,2
+479,20 Best OF Blues,Various Artists,14,2005-11-12,2005-12-10,3,2
+480,At Least I'm Not With You,The Insomniacs,14,2009-07-25,2009-08-08,3,2
+481,Hell Or High Water,Tinsley Ellis,14,2002-03-23,2002-03-30,3,2
+482,Friends In The Can,Canned Heat,14,2003-06-28,2003-06-28,2,1
+483,Heads Up!,Lil' Ed And The Blues Imperials,14,2002-08-10,2002-08-10,2,1
+484,Think Of Me,Little Milton,14,2005-08-27,2005-08-27,2,1
+485,Yes We Can!,Maria Muldaur,14,2008-11-01,2008-11-01,2,1
+486,The Definitive Collection,Muddy Waters,14,2006-06-10,2006-06-10,2,1
+487,Richmond Blues,Cephas & Wiggins,14,2008-09-06,2008-09-06,2,1
+488,Truth Is Not Fiction,Otis Taylor,14,2003-07-26,2003-07-26,2,1
+489,Romp,Chris Duarte Group,14,2003-09-06,2003-09-06,2,1
+490,Triple Trouble,Tommy Castro/Jimmy Hall/Lloyd Jones/Double Trouble,14,2003-09-20,2003-09-20,2,1
+491,Martin Scorsese Presents The Blues: The Soul Of A Man,Soundtrack,14,2003-10-18,2003-10-18,2,1
+492,The Choice Cuts,JJ Grey & MOFRO,14,2009-11-21,2009-11-21,2,1
+493,Pay Before You Pump,Denise LaSalle,14,2007-06-02,2007-06-02,2,1
+494,#1's,Louis Jordan,14,2005-12-31,2005-12-31,2,1
+495,Crucial Texas Blues,Various Artists,14,2004-03-13,2004-03-13,2,1
+496,Hooker,John Lee Hooker,14,2007-02-03,2007-02-03,2,1
+497,West Side Strut,"Eddy ""The Chief"" Clearwater",14,2008-03-22,2008-03-22,2,1
+498,Roadhouse Research,Smokin' Joe Kubek & Bnois King,14,2003-04-19,2003-04-19,2,1
+499,Bad Man,T-Model Ford,14,2002-09-28,2002-09-28,2,1
+500,Buddy's Baddest: The Best Of Buddy Guy,Buddy Guy,15,2000-01-15,2000-01-29,2,2
+501,Soul Be It,Deborah Coleman,15,2002-11-30,2002-12-07,2,2
+502,Live Bootleg Series Vol. 1,Johnny Winter,15,2007-10-27,2007-10-27,1,1
+503,Key To Love - A Celebration of the Music of John Mayall,Debbie Davies,15,2003-03-15,2003-03-15,1,1
+504,Otis Rush & Friends: Live At Montreux 1986,Otis Rush,15,2006-04-08,2006-04-08,1,1
+505,The Best Of Muddy Waters - Millennium Collection,Muddy Waters,15,2000-11-04,2000-11-04,1,1
+506,Mississippi To Mali,Corey Harris,15,2004-02-07,2004-02-07,1,1
+507,Livin' With The Blues,Vassar Clements,15,2004-09-11,2004-09-11,1,1
+508,Live Trout,Walter Trout & The Radicals,15,2000-09-02,2000-09-02,1,1
+509,Blues On The Rock: Contemporary Blues Interpret Led Zeppelin,Various Artists,15,2008-11-08,2008-11-08,1,1
+510,Live In Alabama & More,Peggy Scott-Adams,15,2000-06-10,2000-06-10,1,1
+511,The Very Best Of Canned Heat,Canned Heat,15,2005-06-11,2005-06-11,1,1
+512,Martin Scorsese Presents The Blues: B.B. King,B.B. King,15,2003-10-18,2003-10-18,1,1
+513,His Hands,Candi Staton,15,2006-04-22,2006-04-22,1,1
+514,Go Go Power: The Complete Chess Singles 1961-1966,Sugar Pie DeSanto,15,2009-05-30,2009-05-30,1,1
+515,Bring On The Blues,Corey Stevens,15,2003-07-19,2003-07-19,1,1
+516,Ain't Gonna Hush,Saffire-The Uppity Blues Women,15,2001-08-25,2001-08-25,1,1
+517,Songs From The Road,Jeff Healey,15,2009-09-26,2009-09-26,1,1
+518,Never Met A Woman I Didn't Like,Jimmy Lewis,15,2000-02-26,2000-02-26,1,1
+519,Hell At The House,Omar Cunningham,15,2003-08-30,2003-08-30,1,1
+520,Modern Master: The Best of Rod Piazza 1968 - 2003,Rod Piazza,15,2003-05-24,2003-05-24,1,1
+521,Private Years - The Best Of Taj Mahal,Taj Mahal,15,2000-05-13,2000-05-13,1,1
+522,Putumayo Presents: American Blues,Various Artists,15,2003-10-04,2003-10-04,1,1
+523,Georgia On My Mind/Rockin' Chair Blues,Ray Charles,15,2004-11-13,2004-11-13,1,1
+524,Marc Ford & The Neptune Blues Club,Marc Ford,15,2008-10-11,2008-10-11,1,1
+525,Shadows And Cracks,Peter Karp,15,2007-11-24,2007-11-24,1,1

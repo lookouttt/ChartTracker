@@ -1,0 +1,226 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,A Fool In Love,Ike & Tina Turner,2,1960-08-01,1960-12-19,477,21
+2,Fannie Mae,Buster Brown,1,1960-01-04,1960-05-23,456,21
+3,Money (That's what I want),Barrett Strong,2,1960-01-25,1960-06-13,455,21
+4,Baby (You've Got What It Takes),Dinah Washington & Brook Benton,1,1960-01-25,1960-05-16,442,17
+5,Doggin' Around,Jackie Wilson,1,1960-04-04,1960-08-29,429,19
+6,Finger Poppin' Time,Hank Ballard And The Midnighters,2,1960-05-30,1960-10-17,399,21
+7,Kiddio,Brook Benton,1,1960-08-22,1960-11-21,393,14
+8,The Twist,Chubby Checker,2,1960-08-08,1960-11-21,365,16
+9,This Bitter Earth,Dinah Washington,1,1960-06-20,1960-10-03,363,16
+10,White Silver Sands,Bill Black's Combo,1,1960-03-28,1960-08-01,361,17
+11,Georgia On My Mind,Ray Charles,3,1960-09-26,1960-12-31,360,15
+12,"Let's Go, Let's Go, Let's Go",Hank Ballard And The Midnighters,1,1960-10-10,1960-12-31,345,13
+13,Just A Little Bit,Rosco Gordon,2,1960-02-01,1960-05-23,337,17
+14,Save The Last Dance For Me,The Drifters,1,1960-10-03,1960-12-31,336,14
+15,All I Could Do Was Cry,Etta James,2,1960-05-02,1960-08-08,328,15
+16,"A Woman, A Lover, A Friend",Jackie Wilson,1,1960-07-11,1960-10-03,311,13
+17,He Will Break Your Heart,Jerry Butler,1,1960-10-24,1960-12-31,308,11
+18,My Dearest Darling,Etta James,5,1960-09-19,1960-12-26,306,14
+19,Stay,Maurice Williams & The Zodiacs,3,1960-09-26,1960-12-31,302,15
+20,A Rockin' Good Way (To Mess Around And Fall In Love),Dinah Washington & Brook Benton,1,1960-05-23,1960-08-15,300,13
+21,"The Theme From ""A Summer Place""",Percy Faith And His Orchestra,2,1960-02-15,1960-05-16,298,14
+22,Chain Gang,Sam Cooke,2,1960-08-29,1960-11-21,294,13
+23,There's Something On Your Mind (Part 2),Bobby Marchan,1,1960-06-13,1960-09-19,275,15
+24,I'll Take Care Of You,Bobby Bland,2,1960-01-04,1960-05-02,269,16
+25,Handy Man,Jimmy Jones,3,1960-02-01,1960-04-18,262,12
+26,You Got What It Takes,Marv Johnson,2,1960-01-04,1960-03-21,258,12
+27,Running Bear,Johnny Preston,3,1960-01-04,1960-03-28,257,13
+28,Sticks And Stones,Ray Charles and his Orchestra,2,1960-06-27,1960-09-19,255,13
+29,Sweet Sixteen,B.B. King,2,1960-01-18,1960-05-02,252,14
+30,I Love The Way You Love,Marv Johnson,2,1960-03-07,1960-05-23,251,12
+31,Talk That Talk,Jackie Wilson,3,1960-01-04,1960-03-28,244,13
+32,The Madison Time - Part I,Ray Bryant Combo,5,1960-04-11,1960-08-22,243,18
+33,Smokie - Part 2,Bill Black's Combo,1,1960-01-04,1960-03-07,234,10
+34,Lady Luck,Lloyd Price and His Orchestra,3,1960-02-15,1960-05-02,233,12
+35,This Magic Moment,The Drifters,4,1960-02-29,1960-05-23,233,12
+36,Wonderful World,Sam Cooke,2,1960-06-06,1960-08-08,230,10
+37,Cathy's Clown,The Everly Brothers,1,1960-05-09,1960-07-11,219,10
+38,Night,Jackie Wilson,3,1960-04-11,1960-07-04,217,13
+39,Question,Lloyd Price and His Orchestra,5,1960-07-11,1960-10-03,215,12
+40,Everybody's Somebody's Fool,Connie Francis,2,1960-05-30,1960-08-08,213,11
+41,Cry Cry Cry,Bobby Bland,9,1960-10-10,1960-12-31,213,13
+42,Alley-Oop,Hollywood Argyles,3,1960-06-13,1960-08-08,205,9
+43,New Orleans,U.S. Bonds,5,1960-10-31,1960-12-31,200,10
+44,I'm Sorry,Brenda Lee,4,1960-06-13,1960-09-05,199,12
+45,Walking To New Orleans,Fats Domino,2,1960-07-11,1960-09-19,198,11
+46,Last Date,Floyd Cramer,3,1960-10-24,1960-12-31,197,11
+47,Ooh Poo Pah Doo - Part II,Jessie Hill,3,1960-05-02,1960-07-18,196,11
+48,The Twist,Hank Ballard And The Midnighters,6,1960-07-25,1960-10-17,196,13
+49,Partin' Time,B.B. King,8,1960-07-11,1960-10-17,178,13
+50,Big Boy Pete,The Olympics,10,1960-06-06,1960-10-10,178,17
+51,Heartbreak (It's Hurtin' Me),Jon Thomas and Orchestra,3,1960-07-04,1960-09-26,176,11
+52,Stuck On You,Elvis Presley,6,1960-05-02,1960-06-27,172,9
+53,I Want To Know,Sugar Pie DeSanto,4,1960-09-05,1960-10-31,169,9
+54,If I Can't Have You,Etta James,6,1960-08-15,1960-10-17,169,10
+55,You Talk Too Much,Joe Jones,9,1960-10-03,1960-12-26,167,12
+56,Wild One,Bobby Rydell,10,1960-02-15,1960-04-25,167,11
+57,(Do The) Mashed Potatoes (Part 1),Nat Kendrick And The Swans,8,1960-02-15,1960-04-25,166,11
+58,The Clouds,The Spacemen,1,1960-01-04,1960-02-29,163,9
+59,A Million To One,Jimmy Charles and The Revelletts,8,1960-09-05,1960-11-14,163,10
+60,Heartbreak (It's Hurtin' Me),Little Willie John,11,1960-06-20,1960-09-26,163,13
+61,My Girl Josephine,Fats Domino,7,1960-11-14,1960-12-31,161,8
+62,Ta Ta,Clyde McPhatter,7,1960-08-15,1960-10-24,161,10
+63,Think,James Brown,7,1960-05-30,1960-08-29,161,14
+64,What In The World's Come Over You,Jack Scott,7,1960-02-15,1960-04-04,160,8
+65,Today I Sing The Blues,Aretha Franklin,10,1960-10-24,1960-12-31,160,11
+66,It's Now Or Never,Elvis Presley,7,1960-08-08,1960-09-19,148,7
+67,Are You Lonesome To-night?,Elvis Presley With The Jordanaires,3,1960-11-28,1960-12-31,146,6
+68,Don't Be Cruel,Bill Black's Combo,9,1960-10-10,1960-12-31,145,10
+69,Come Into My Heart,Lloyd Price and His Orchestra,2,1960-01-04,1960-02-15,139,7
+70,Teen Angel,Mark Dinning,5,1960-01-18,1960-03-07,136,8
+71,Sweet Nothin's,Brenda Lee,12,1960-03-28,1960-05-23,133,9
+72,I'll Go Crazy,James Brown And The Famous Flames,15,1960-02-22,1960-05-02,133,11
+73,Love You So,Ron Holden with The Thunderbirds,11,1960-05-16,1960-07-18,129,9
+74,Why,Frankie Avalon,6,1960-01-11,1960-02-22,111,7
+75,Lonely Winds,The Drifters,9,1960-06-06,1960-07-25,111,8
+76,Don't Go To Strangers,Etta Jones,5,1960-11-21,1960-12-31,108,7
+77,Volare,Bobby Rydell,9,1960-08-15,1960-10-10,106,9
+78,My Heart Has A Mind Of Its Own,Connie Francis,11,1960-10-03,1960-11-14,105,7
+79,Let The Little Girl Dance,Billy Bland,11,1960-03-28,1960-05-23,105,9
+80,Let Them Talk,Little Willie John,11,1960-01-18,1960-03-07,104,8
+81,Mack The Knife,Ella Fitzgerald,6,1960-05-23,1960-07-18,103,6
+82,Gonzo,James Booker,7,1960-11-21,1960-12-31,102,6
+83,Good Timin',Jimmy Jones,8,1960-05-23,1960-07-11,102,8
+84,Mountain Of Love,Harold Dorman,7,1960-04-11,1960-05-30,101,7
+85,"Shimmy, Shimmy, Ko-Ko-Bop",Little Anthony And The Imperials,14,1960-01-18,1960-03-21,101,10
+86,I Want To Be Wanted,Brenda Lee,7,1960-10-17,1960-12-05,100,8
+87,Burning Bridges,Jack Scott,5,1960-05-30,1960-07-04,97,6
+88,Shop Around,"The Miracles (featuring Bill ""Smokey"" Robinson)",2,1960-12-12,1960-12-31,96,4
+89,Sixteen Reasons,Connie Stevens,10,1960-04-11,1960-05-23,96,7
+90,Be My Guest,Fats Domino,2,1960-01-04,1960-02-15,95,7
+91,Sleep,Little Willie John,10,1960-10-10,1960-12-05,95,9
+92,Am I The Man,Jackie Wilson,10,1960-11-21,1960-12-31,94,7
+93,Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini,Brian Hyland,10,1960-07-25,1960-09-19,94,9
+94,Fools Rush In (Where Angels Fear To Tread),Brook Benton,8,1960-11-28,1960-12-31,92,6
+95,A Thousand Stars,Kathy Young With The Innocents,12,1960-10-24,1960-12-31,91,7
+96,Three Nights A Week,Fats Domino,8,1960-10-10,1960-11-07,88,5
+97,Baby What You Want Me To Do,Jimmy Reed,10,1960-03-07,1960-04-11,87,6
+98,The Madison,Al Brown's Tunetoppers Featuring Cookie Brown,14,1960-05-02,1960-07-04,87,8
+99,Only The Lonely (Know How I Feel),Roy Orbison,14,1960-08-08,1960-09-19,84,7
+100,Wont'cha Come Home,Lloyd Price and His Orchestra,6,1960-01-04,1960-02-08,82,6
+101,Walk -- Don't Run,The Ventures,13,1960-08-29,1960-10-10,81,7
+102,If You're Lonely,Annie Laurie,17,1960-07-11,1960-09-26,81,11
+103,Mr. Custer,Larry Verne,9,1960-10-03,1960-10-31,80,5
+104,Tell The Truth,Ray Charles,13,1960-08-08,1960-09-26,80,8
+105,"Wake Me, Shake Me",The Coasters,14,1960-06-27,1960-08-15,80,8
+106,Harbor Lights,The Platters,15,1960-02-29,1960-04-25,79,9
+107,You've Got The Power,James Brown And The Famous Flames,14,1960-05-30,1960-08-01,76,8
+108,Among My Souvenirs,Connie Francis,10,1960-01-11,1960-02-08,75,5
+109,Not One Minute More,Della Reese,13,1960-01-25,1960-02-29,75,6
+110,Tonights The Night,The Shirelles,14,1960-10-10,1960-12-12,74,9
+111,He'll Have To Stay,Jeanne Black,11,1960-05-23,1960-06-27,72,6
+112,The Hucklebuck,Chubby Checker,15,1960-11-21,1960-12-26,69,6
+113,Lead Me On,Bobby Bland,9,1960-04-11,1960-06-20,66,5
+114,North To Alaska,Johnny Horton,14,1960-11-21,1960-12-31,66,6
+115,Let's Try Again,Clyde McPhatter,13,1960-01-04,1960-01-25,63,4
+116,Let's Think About Living,Bob Luman,14,1960-10-24,1960-11-28,62,6
+117,The Big Hurt,Miss Toni Fisher,16,1960-02-01,1960-03-14,62,7
+118,Because They're Young,Duane Eddy And The Rebels,17,1960-06-27,1960-08-01,62,6
+119,It's Time To Cry,Paul Anka,13,1960-01-18,1960-02-22,60,6
+120,Little Susie (Part 4),Ray Bryant,12,1960-03-14,1960-04-25,58,6
+121,Am I That Easy To Forget,Debbie Reynolds,13,1960-04-18,1960-05-09,56,4
+122,So Many Ways,Brook Benton,18,1960-01-04,1960-02-08,55,6
+123,Hush-Hush,Jimmy Reed,18,1960-10-24,1960-12-19,55,8
+124,Whatcha' Gonna Do,Nat King Cole,15,1960-03-07,1960-04-04,54,5
+125,Paper Roses,Anita Bryant,16,1960-06-13,1960-07-18,53,6
+126,Dance With Me,The Drifters,4,1960-01-04,1960-01-18,52,3
+127,Ruby,Ray Charles,11,1960-12-12,1960-12-31,51,4
+128,So Sad (To Watch Good Love Go Bad),The Everly Brothers,16,1960-10-17,1960-11-14,51,5
+129,Always,Sammy Turner,11,1960-01-04,1960-02-08,50,6
+130,Beyond The Sea,Bobby Darin,15,1960-02-15,1960-04-04,50,6
+131,"Go, Jimmy, Go",Jimmy Clanton,19,1960-01-18,1960-03-21,50,9
+132,The Sky Is Crying,Elmo James,15,1960-05-02,1960-05-30,49,5
+133,Don't Let The Sun Catch You Cryin',Ray Charles,17,1960-02-08,1960-03-21,49,7
+134,Got A Right To Love My Baby,B.B. King,8,1960-05-30,1960-06-13,48,3
+135,My Love,Nat King Cole-Stan Kenton,12,1960-08-08,1960-08-29,47,4
+136,Cradle Of Love,Johnny Preston,15,1960-05-02,1960-06-06,46,6
+137,Don't Deceive Me,Ruth Brown,10,1960-04-04,1960-05-02,45,5
+138,The Coffee Grind,Hank Ballard And The Midnighters,21,1960-03-28,1960-05-16,44,7
+139,Happy Days,Marv Johnson,17,1960-12-12,1960-12-31,43,4
+140,What About Us,The Coasters,17,1960-01-18,1960-02-29,43,6
+141,Wonderland By Night,Bert Kaempfert And His Orchestra,5,1960-12-12,1960-12-31,42,4
+142,Easy Lovin',Wade Flemons,10,1960-05-02,1960-05-16,42,3
+143,Way Down Yonder In New Orleans,Freddie Cannon,14,1960-01-11,1960-02-22,42,5
+144,(You've Got To) Move Two Mountains,Marv Johnson,12,1960-09-26,1960-10-17,41,3
+145,The Ties That Bind,Brook Benton,15,1960-04-18,1960-05-16,41,4
+146,Mack The Knife,Bobby Darin,7,1960-01-04,1960-01-11,40,2
+147,Shake A Hand,LaVern Baker,13,1960-03-07,1960-03-28,40,4
+148,How About That,Dee Clark,10,1960-01-18,1960-02-29,39,3
+149,Paradise,Sammy Turner,13,1960-03-21,1960-04-04,38,3
+150,Gee Baby,Joe & Ann,14,1960-12-12,1960-12-26,38,3
+151,Where Or When,Dion & The Belmonts,19,1960-03-07,1960-04-04,38,5
+152,My Hero,The Blue Notes,19,1960-10-31,1960-12-31,38,7
+153,This Time Of The Year,Brook Benton,12,1960-01-04,1960-01-11,36,2
+154,No If's - No And's,Lloyd Price and His Orchestra,16,1960-05-02,1960-05-16,36,3
+155,Love Walked In,Dinah Washington,16,1960-11-07,1960-12-05,36,5
+156,Everything About You,Ty Hunter w/ the Voice Masters,18,1960-07-04,1960-07-25,36,4
+157,He'll Have To Go,Jim Reeves,13,1960-05-16,1960-05-30,34,3
+158,Irresistable You,Bobby Peterson,15,1960-09-26,1960-11-14,34,4
+159,I Idolize You,Ike & Tina Turner,17,1960-12-19,1960-12-31,34,3
+160,Found Love,Jimmy Reed,16,1960-06-13,1960-09-19,33,5
+161,Alone At Last,Jackie Wilson,20,1960-11-28,1960-12-31,33,5
+162,Just For A Thrill,Ray Charles,16,1960-05-23,1960-06-06,32,3
+163,Harlem Nocturne,The Viscounts,17,1960-03-14,1960-04-04,32,4
+164,Uh! Oh! Part 2,The Nutty Squirrels,9,1960-01-18,1960-01-25,31,2
+165,In The Mood,Ernie Fields & Orch.,13,1960-01-04,1960-01-25,31,4
+166,The Teacher,The Falcons,18,1960-07-25,1960-08-22,31,5
+167,I'll Save The Last Dance For You,Damita Jo,16,1960-11-28,1960-12-12,30,3
+168,Mr. Blue,The Fleetwoods,12,1960-01-04,1960-01-11,29,2
+169,"<P6>(If You Cry) <P255>True Love, True Love",The Drifters,19,1960-01-04,1960-01-25,29,3
+170,The Old Lamplighter,The Browns Featuring Jim Edward Brown,17,1960-05-09,1960-05-23,28,3
+171,I Know,The Spaniels,23,1960-08-01,1960-09-26,28,6
+172,"Too Pooped To Pop (""Casey"")",Chuck Berry,18,1960-04-11,1960-04-25,26,3
+173,Devil Or Angel,Bobby Vee,22,1960-10-24,1960-12-05,25,5
+174,Tear Drop,Santo & Johnny,17,1960-01-11,1960-01-18,23,2
+175,Heartaches By The Number,Guy Mitchell,19,1960-01-04,1960-02-08,23,4
+176,Blue Angel,Roy Orbison,23,1960-10-10,1960-10-31,23,4
+177,Stairway To Heaven,Neil Sedaka,16,1960-05-23,1960-05-30,22,2
+178,A Lonely Soldier,Jerry Butler,25,1960-05-30,1960-06-27,22,4
+179,This Old Heart,James Brown And The Famous Flames,20,1960-09-26,1960-10-03,20,2
+180,The Very Thought Of You,Arthur Prysock,19,1960-05-30,1960-06-06,19,2
+181,Don't Mess With My Man,Irma Thomas,22,1960-05-09,1960-05-23,19,3
+182,Over You,Aaron Neville,21,1960-09-26,1960-10-03,18,2
+183,Nobody Knows You When You're Down And Out,Nina Simone,23,1960-08-15,1960-10-03,18,6
+184,No Shoes,John Lee Hooker,21,1960-07-25,1960-08-01,17,2
+185,Nobody Loves Me Like You,The Flamingos,23,1960-05-23,1960-06-20,17,3
+186,Road Runner,Bo Diddley,20,1960-04-18,1960-04-25,16,2
+187,Teenage Sonata,Sam Cooke,22,1960-04-11,1960-04-18,16,2
+188,Secret Of Love,Elton Anderson With Sid Lawrence Combo,22,1960-02-01,1960-02-15,16,3
+189,Sad Mood,Sam Cooke,23,1960-12-19,1960-12-26,15,2
+190,Say Man,Bo Diddley,23,1960-01-04,1960-01-11,15,2
+191,Little By Little,Junior Wells,23,1960-06-06,1960-06-20,15,3
+192,That's All You Gotta Do,Brenda Lee,19,1960-06-27,1960-07-04,14,2
+193,Please Come Home For Christmas,Charles Brown,21,1960-12-26,1960-12-31,14,2
+194,Will You Love Me Tomorrow,The Shirelles,18,1960-12-31,1960-12-31,13,1
+195,Don't You Know,Della Reese,21,1960-01-04,1960-01-11,13,2
+196,You Went Back On Your Word,Clyde McPhatter,24,1960-01-04,1960-01-11,12,2
+197,The Same One,Brook Benton,21,1960-10-10,1960-10-10,11,1
+198,Reveille Rock,Johnny And The Hurricanes,22,1960-01-04,1960-01-11,11,2
+199,Walking Dr. Bill,B.B. King,23,1960-10-03,1960-10-10,11,2
+200,Smooth Operator,Sarah Vaughan,25,1960-01-04,1960-01-11,11,2
+201,Yogi,The Ivy Three,22,1960-10-10,1960-10-10,10,1
+202,The Big Time Spender (Parts I & II),Cornbread & Biscuits,25,1960-10-24,1960-11-07,10,3
+203,Mio Amore,The Flamingos,27,1960-08-29,1960-09-19,10,3
+204,Unforgettable,Dinah Washington,23,1960-01-04,1960-01-11,9,2
+205,Never Let Me Go,Lloyd Price and His Orchestra,26,1960-05-02,1960-05-09,9,2
+206,Spoonful,Etta & Harvey,23,1960-12-26,1960-12-26,8,1
+207,Exodus,Ferrante & Teicher,25,1960-12-26,1960-12-31,7,2
+208,Diamonds And Pearls,The Paradons,27,1960-10-03,1960-10-17,7,3
+209,Bye Bye Baby,Mary Wells,28,1960-12-19,1960-12-31,7,3
+210,Don't Come Knockin',Fats Domino,28,1960-08-01,1960-09-19,7,3
+211,Theme From The Apartment,Ferrante & Teicher,24,1960-10-17,1960-10-17,6,1
+212,Poetry In Motion,Johnny Tillotson,27,1960-11-21,1960-11-28,6,2
+213,Time And The River,Nat King Cole,27,1960-04-04,1960-04-11,6,2
+214,Lonely Blue Boy,Conway Twitty,27,1960-03-14,1960-03-21,5,2
+215,First Name Initial,Annette With The Afterbeats,27,1960-01-11,1960-01-18,5,2
+216,Cherry Pie,Skip And Flip,27,1960-04-25,1960-04-25,4,1
+217,Danny Boy,Conway Twitty,27,1960-01-04,1960-01-04,4,1
+218,Young Emotions,Ricky Nelson,28,1960-06-06,1960-06-13,4,2
+219,The Slide Part I,Googie Rene Combo,28,1960-12-31,1960-12-31,3,1
+220,I Don't Know,Ruth Brown,28,1960-01-04,1960-01-04,3,1
+221,You Don't Know Me,Lenny Welch,28,1960-04-11,1960-04-11,3,1
+222,Tiny Tim,LaVern Baker,29,1960-01-04,1960-01-04,2,1
+223,Summer's Gone,Paul Anka,29,1960-11-14,1960-11-14,2,1
+224,I've Been Around,Fats Domino,30,1960-01-04,1960-01-04,1,1
+225,China Doll,The Ames Brothers,30,1960-05-09,1960-05-09,1,1

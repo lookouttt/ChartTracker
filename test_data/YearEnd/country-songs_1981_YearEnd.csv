@@ -1,0 +1,663 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Fire And Smoke,Earl Thomas Conley,1,1981-04-04,1981-08-08,1783,19
+2,Party Time,T.G. Sheppard,1,1981-07-18,1981-10-31,1776,16
+3,Takin' It Easy,Lacy J. Dalton,2,1981-07-18,1981-11-14,1731,18
+4,Seven Year Ache,Rosanne Cash,1,1981-02-21,1981-06-27,1696,19
+5,Step By Step,Eddie Rabbitt,1,1981-08-01,1981-11-14,1659,16
+6,Miss Emily's Picture,John Conlee,2,1981-08-29,1981-12-26,1631,18
+7,But You Know I Love You,Dolly Parton,1,1981-04-11,1981-08-01,1621,17
+8,Friends/Anywhere There's A Jukebox,Razzy Bailey,1,1981-03-28,1981-07-11,1610,16
+9,Midnight Hauler/Scratch My Back (And Whisper In My Ear),Razzy Bailey,1,1981-07-11,1981-11-07,1574,18
+10,I Still Believe In Waltzes,Conway Twitty & Loretta Lynn,2,1981-05-30,1981-09-26,1565,18
+11,I'll Need Someone To Hold Me When I Cry,Janie Fricke,4,1981-07-25,1981-11-21,1563,18
+12,Tight Fittin Jeans,Conway Twitty,1,1981-07-11,1981-10-24,1556,16
+13,I Don't Need You,Kenny Rogers,1,1981-06-20,1981-09-26,1553,15
+14,Blessed Are The Believers,Anne Murray,1,1981-04-04,1981-07-04,1534,14
+15,Too Many Lovers,Crystal Gayle,1,1981-05-23,1981-09-12,1530,17
+16,(There's) No Gettin' Over Me,Ronnie Milsap,1,1981-07-04,1981-10-10,1528,15
+17,A Headache Tomorrow (or A Heartache Tonight),Mickey Gilley,1,1981-02-14,1981-05-23,1521,15
+18,Hooked On Music,Mac Davis,2,1981-02-21,1981-05-30,1517,15
+19,You Don't Know Me,Mickey Gilley,1,1981-07-04,1981-10-17,1515,16
+20,Older Women,Ronnie McDowell,1,1981-06-27,1981-10-10,1515,16
+21,Lovin' Her Was Easier (Than Anything I'll Ever Do Again),The Glaser Brothers,2,1981-05-02,1981-08-15,1511,16
+22,All My Rowdy Friends (Have Settled Down),Hank Williams Jr.,1,1981-09-05,1981-12-26,1510,17
+23,My Baby Thinks He's A Train,Rosanne Cash,1,1981-08-29,1981-12-12,1504,16
+24,Feels So Right,Alabama,1,1981-05-23,1981-08-15,1478,13
+25,You're The Reason God Made Oklahoma,David Frizzell & Shelly West,1,1981-01-17,1981-05-09,1474,17
+26,I'm Just An Old Chunk Of Coal,John Anderson,4,1981-03-28,1981-07-11,1447,16
+27,I Loved 'em Every One,T.G. Sheppard,1,1981-03-14,1981-06-20,1446,15
+28,All Roads Lead To You,Steve Wariner,1,1981-09-26,1981-12-26,1440,14
+29,Old Flame,Alabama,1,1981-02-14,1981-05-16,1438,14
+30,Today All Over Again,Reba McEntire,5,1981-07-04,1981-11-07,1436,19
+31,Drifter,Sylvia (r&b),1,1981-01-17,1981-04-18,1435,14
+32,What Are We Doin' In Love,Dottie West w/ Kenny Rogers,1,1981-04-04,1981-07-11,1433,15
+33,Pickin' Up Strangers,Johnny Lee,3,1981-02-14,1981-05-16,1416,14
+34,Angel Flying Too Close To The Ground,Willie Nelson,1,1981-01-10,1981-04-11,1414,14
+35,Prisoner Of Hope,Johnny Lee,3,1981-05-30,1981-09-12,1410,16
+36,Elvira,The Oak Ridge Boys,1,1981-04-04,1981-07-04,1400,14
+37,By Now,Steve Wariner,6,1981-04-11,1981-08-08,1390,18
+38,Don't Wait On Me,The Statler Brothers,5,1981-06-13,1981-10-10,1386,18
+39,Never Been So Loved,Charley Pride,1,1981-08-22,1981-11-28,1382,15
+40,Surround Me With Love,Charly McClain,5,1981-04-11,1981-08-08,1371,18
+41,"It's A Lovely, Lovely World",Gail Davies,5,1981-04-04,1981-08-01,1371,18
+42,Rest Your Love On Me/I Am The Dreamer (You Are The Dream),Conway Twitty,1,1981-02-21,1981-05-23,1368,14
+43,Hurricane,Leon Everette,4,1981-07-18,1981-10-31,1345,16
+44,It's Now Or Never,John Schneider,4,1981-06-13,1981-10-03,1345,17
+45,Are You Happy Baby,Dottie West,1,1981-01-03,1981-03-28,1338,13
+46,Bet Your Heart On Me,Johnny Lee,1,1981-10-03,1981-12-26,1336,13
+47,Southern Rains,Mel Tillis,1,1981-01-03,1981-03-28,1329,13
+48,Am I Losing You,Ronnie Milsap,1,1981-03-21,1981-06-20,1313,14
+49,Dixie On My Mind,Hank Williams Jr.,1,1981-05-30,1981-08-29,1308,14
+50,It Don't Hurt Me Half As Bad,Ray Price,6,1981-07-18,1981-11-07,1307,17
+51,Thirty Nine And Holding,Jerry Lee Lewis,4,1981-01-17,1981-04-25,1301,15
+52,Wish You Were Here,Barbara Mandrell,2,1981-09-05,1981-12-19,1287,16
+53,Wandering Eyes,Ronnie McDowell,2,1981-01-03,1981-04-18,1285,16
+54,Sleepin' With The Radio On,Charly McClain,4,1981-08-22,1981-12-05,1275,16
+55,Falling Again,Don Williams,6,1981-02-21,1981-06-06,1274,16
+56,Fancy Free,The Oak Ridge Boys,1,1981-09-05,1981-12-12,1265,15
+57,Who's Cheatin' Who,Charly McClain,1,1981-01-03,1981-03-21,1262,12
+58,Fourteen Karat Mind,Gene Watson,2,1981-10-03,1981-12-26,1261,13
+59,If I Needed You,Emmylou Harris And Don Williams,3,1981-09-19,1981-12-26,1260,15
+60,What Are We Doing Lonesome,Larry Gatlin & The Gatlin Brothers,4,1981-10-03,1981-12-26,1255,13
+61,Guitar Man,Elvis Presley,1,1981-01-17,1981-04-11,1251,13
+62,Do You Love As Good As You Look,The Bellamy Brothers,1,1981-01-17,1981-04-11,1249,13
+63,I Was Country When Country Wasn't Cool,Barbara Mandrell,1,1981-05-09,1981-08-01,1246,13
+64,Miracles,Don Williams,4,1981-07-04,1981-10-10,1241,15
+65,My Favorite Memory,Merle Haggard,1,1981-09-19,1981-12-26,1233,15
+66,Unwound,George Strait,6,1981-05-16,1981-09-12,1225,18
+67,Rainbow Stew,Merle Haggard,4,1981-06-06,1981-09-19,1220,16
+68,Fool By Your Side,Dave Rowland And Sugar,6,1981-05-09,1981-08-15,1187,15
+69,Love In The First Degree/Ride The Train,Alabama,1,1981-10-24,1981-12-26,1184,10
+70,Still Doin' Time,George Jones,1,1981-10-03,1981-12-26,1183,13
+71,Texas Women,Hank Williams Jr.,1,1981-02-07,1981-05-02,1183,13
+72,Dream Of Me,Vern Gosdin,7,1981-05-16,1981-09-05,1157,17
+73,The Woman In Me,Crystal Gayle,3,1981-10-10,1981-12-26,1143,12
+74,I Keep Coming Back/True Life Country Music,Razzy Bailey,1,1981-01-03,1981-03-14,1138,11
+75,Teach Me To Cheat,The Kendalls,7,1981-08-22,1981-12-05,1129,16
+76,The Matador,Sylvia (r&b),7,1981-04-25,1981-08-08,1119,16
+77,You May See Me Walking,Ricky Skaggs,9,1981-09-12,1981-12-26,1110,16
+78,Can I See You Tonight,Tanya Tucker,4,1981-01-03,1981-03-28,1104,13
+79,Share Your Love With Me,Kenny Rogers,5,1981-09-12,1981-12-12,1100,14
+80,You're My Favorite Star,The Bellamy Brothers,7,1981-10-10,1981-12-26,1077,12
+81,If Drinkin' Don't Kill Me (Her Memory Will),George Jones,8,1981-01-17,1981-04-25,1062,15
+82,Lovin' Arms/You Asked Me To,Elvis Presley,8,1981-04-18,1981-07-25,1052,15
+83,Louisiana Saturday Night,Mel McDaniel,7,1981-03-28,1981-06-27,1050,14
+84,Some Days Are Diamonds (Some Days Are Stone),John Denver,10,1981-06-13,1981-10-10,1045,18
+85,Beautiful You,The Oak Ridge Boys,3,1981-01-03,1981-03-07,1042,10
+86,Lovin' What Your Lovin' Does To Me,Conway Twitty & Loretta Lynn,7,1981-01-31,1981-05-09,1030,15
+87,Silent Treatment,Earl Thomas Conley,7,1981-01-03,1981-03-28,1018,13
+88,Roll On Mississippi,Charley Pride,7,1981-03-07,1981-05-30,994,13
+89,One Night Fever,Mel Tillis,10,1981-09-05,1981-12-19,989,16
+90,Crying,Don McLean,6,1981-01-31,1981-05-02,985,14
+91,Chicken Truck/I Love You A Thousand Ways,John Anderson,8,1981-08-15,1981-11-07,976,13
+92,I Don't Think Love Ought To Be That Way,Reba McEntire,13,1981-03-14,1981-06-27,973,16
+93,When You're In Love Everything's A Waltz,Ed Bruce,14,1981-07-25,1981-10-31,972,15
+94,I'm Gonna Love You Back To Loving Me Again,Joe Stampley,9,1981-01-24,1981-05-02,963,15
+95,Hey Joe (hey Moe),Moe Bandy & Joe Stampley,10,1981-03-14,1981-06-20,963,15
+96,Heart On The Mend,Sylvia (r&b),8,1981-09-12,1981-12-19,953,15
+97,Grandma's Song,Gail Davies,9,1981-08-15,1981-11-21,948,15
+98,Leonard,Merle Haggard,9,1981-02-14,1981-05-16,943,14
+99,A Texas State Of Mind,David Frizzell & Shelly West,9,1981-06-20,1981-09-26,943,15
+100,Killin' Time,Fred Knoblock & Susan Anton,10,1981-01-03,1981-03-28,940,13
+101,Right In The Palm Of Your Hand,Mel McDaniel,10,1981-07-18,1981-10-31,939,16
+102,You're The Best,Kieran Kane,14,1981-06-20,1981-10-03,929,16
+103,A Million Old Goodbyes,Mel Tillis,8,1981-04-04,1981-06-27,928,13
+104,9 To 5,Dolly Parton,1,1981-01-03,1981-02-28,926,9
+105,Don't Get Above Your Raising,Ricky Skaggs,16,1981-05-02,1981-08-15,921,16
+106,I Just Want You For Tonight,"Billy ""Crash"" Craddock",11,1981-06-20,1981-10-03,920,16
+107,Good Ol' Girls,Sonny Curtis,15,1981-04-25,1981-08-08,917,16
+108,The Baron,Johnny Cash,10,1981-03-21,1981-06-27,912,15
+109,Down And Out,George Strait,16,1981-09-12,1981-12-26,912,16
+110,What's New With You,Con Hunley,11,1981-01-03,1981-04-04,910,14
+111,Headed For A Heartache,Gary Morris,8,1981-10-17,1981-12-26,904,11
+112,I Should've Called,Eddy Raven,13,1981-05-23,1981-08-29,902,15
+113,Love Dies Hard,Randy Barlow,13,1981-04-18,1981-07-11,891,13
+114,My Woman Loves The Devil Out Of Me,Moe Bandy,15,1981-04-18,1981-07-18,891,14
+115,It's All I Can Do,Anne Murray,9,1981-09-12,1981-12-19,890,15
+116,Memphis,Fred Knoblock,10,1981-08-22,1981-11-21,889,14
+117,Don't Bother To Knock,Jim Ed Brown And Helen Cornelius,13,1981-05-09,1981-08-08,881,14
+118,Queen Of Hearts,Juice Newton,14,1981-06-13,1981-09-26,872,16
+119,I Love A Rainy Night,Eddie Rabbitt,1,1981-01-03,1981-02-28,869,9
+120,What I Had With You,John Conlee,12,1981-01-24,1981-04-25,867,14
+121,Whisper,Lacy J. Dalton,10,1981-04-04,1981-06-27,866,13
+122,Them Good Old Boys Are Bad,John Schneider,13,1981-10-03,1981-12-26,863,13
+123,I Feel Like Loving You Again,T.G. Sheppard,1,1981-01-03,1981-02-28,859,9
+124,Pride,Janie Fricke,12,1981-03-14,1981-06-13,859,14
+125,Wild Side Of Life/It Wasn't God Who Made Honky Tonk Angels,Waylon Jennings And Jessi Colter,10,1981-06-06,1981-08-29,858,13
+126,Just Like Me,Terry Gregory,16,1981-05-02,1981-08-08,852,15
+127,If I Keep On Going Crazy,Leon Everette,11,1981-03-07,1981-05-30,849,13
+128,I'll Be There (If You Ever Want Me),Gail Davies,5,1981-01-03,1981-03-14,842,10
+129,I Have A Dream,Christy Lane,17,1981-01-17,1981-04-18,841,14
+130,1959,John Anderson,7,1981-01-03,1981-03-14,838,11
+131,Hillbilly Girl With The Blues,Lacy J. Dalton,8,1981-01-03,1981-03-21,838,12
+132,I Wouldn't Have Missed It For The World,Ronnie Milsap,4,1981-10-31,1981-12-26,836,9
+133,Down To My Last Broken Heart,Janie Fricke,2,1981-01-03,1981-02-28,825,9
+134,Any Which Way You Can,Glen Campbell,10,1981-01-03,1981-03-14,817,11
+135,Somethin' On The Radio,Jacky Ward,13,1981-01-24,1981-04-25,814,14
+136,Feedin' The Fire,Zella Lehr,16,1981-08-15,1981-11-21,814,15
+137,Honky Tonk Queen,Moe Bandy & Joe Stampley,12,1981-08-01,1981-10-31,810,14
+138,Don't Look Now (But We Just Fell In Love),Eddy Arnold,11,1981-01-03,1981-03-21,807,12
+139,She Belongs To Everyone But Me,The Burrito Brothers,16,1981-08-08,1981-11-07,805,14
+140,Just One Time,The Glaser Brothers,17,1981-09-19,1981-12-19,805,14
+141,Husbands And Wives,David Frizzell & Shelly West,16,1981-10-10,1981-12-26,803,12
+142,They Could Put Me In Jail,The Bellamy Brothers,12,1981-06-06,1981-08-29,796,13
+143,Rodeo Romeo,Moe Bandy,11,1981-10-17,1981-12-26,792,11
+144,Love Ain't Never Hurt Nobody,Bobby Goldsboro,19,1981-07-04,1981-10-03,784,14
+145,Take It Easy,Crystal Gayle,17,1981-02-07,1981-05-09,783,14
+146,The House Of The Rising Sun,Dolly Parton,14,1981-08-29,1981-11-21,781,13
+147,Tell Me Why,Earl Thomas Conley,12,1981-10-17,1981-12-26,779,11
+148,Darlin',Tom Jones,19,1981-04-18,1981-07-18,779,14
+149,Whisky Chasin',Joe Stampley,18,1981-05-23,1981-08-29,778,15
+150,Cheatin's A Two Way Street,Sammi Smith,16,1981-03-07,1981-05-30,777,13
+151,She's Steppin Out,Con Hunley,17,1981-08-29,1981-12-05,771,15
+152,It Turns Me Inside Out,Lee Greenwood,20,1981-09-19,1981-12-26,763,15
+153,I'm Into Lovin You,Billy Swan,18,1981-07-25,1981-10-17,762,13
+154,I'm Gonna Put You Back On The Rack,Dottie West,16,1981-07-11,1981-10-10,761,14
+155,The Sweetest Thing (I've Ever Known),Juice Newton,6,1981-10-24,1981-12-26,756,10
+156,Your Good Girl's Gonna Go Bad,Billie Jo Spears,13,1981-01-10,1981-04-04,756,13
+157,Mister Sandman,Emmylou Harris,10,1981-03-07,1981-05-23,755,12
+158,Cup Of Tea,Rex Allen Jr. And Margo Smith,12,1981-01-03,1981-03-21,753,12
+159,Red Neckin Love Makin Night,Conway Twitty,5,1981-10-31,1981-12-26,749,9
+160,Crying In The Rain,Tammy Wynette,18,1981-09-05,1981-12-05,749,14
+161,Mona Lisa,Willie Nelson,11,1981-04-18,1981-07-04,743,12
+162,We Don't Have To Hold Out,Anne Murray,16,1981-07-04,1981-09-26,742,13
+163,I Love My Truck,Glen Campbell,15,1981-08-08,1981-10-24,727,12
+164,Who Do You Know In California,Eddy Raven,14,1981-10-17,1981-12-26,726,11
+165,You're My Bestest Friend,Mac Davis,9,1981-10-24,1981-12-26,718,10
+166,Between This Time And The Next,Gene Watson,17,1981-02-28,1981-05-23,717,13
+167,Years Ago,The Statler Brothers,13,1981-10-24,1981-12-26,716,10
+168,Love To Love You,Christy Lane,21,1981-05-02,1981-07-25,706,13
+169,I Want You Tonight,Johnny Rodriguez,22,1981-04-11,1981-07-04,702,13
+170,Your Memory,Steve Wariner,7,1981-01-03,1981-03-07,699,10
+171,Do I Have To Draw A Picture,Billy Swan,18,1981-04-04,1981-06-27,694,13
+172,Don't You Ever Get Tired Of Hurting Me,Willie Nelson & Ray Price,11,1981-01-03,1981-03-07,685,10
+173,Storms Never Last,Waylon Jennings And Jessi Colter,17,1981-02-21,1981-05-09,681,12
+174,Evil Angel,Ed Bruce,24,1981-03-28,1981-06-27,680,14
+175,Peace Of Mind,Eddy Raven,23,1981-01-24,1981-04-11,677,12
+176,Alice Doesn't Love Here Anymore,Bobby Goldsboro,20,1981-03-07,1981-05-23,671,12
+177,Cowboys Don't Shoot Straight,Tammy Wynette,21,1981-03-21,1981-06-06,669,12
+178,I Think I'll Stay Here And Drink,Merle Haggard,1,1981-01-03,1981-02-14,666,7
+179,Learning To Live Again,Bobby Bare,28,1981-04-25,1981-07-18,666,13
+180,Does She Wish She Was Single Again,The Burrito Brothers,20,1981-04-18,1981-07-11,663,13
+181,Maybe I Should've Been Listening,Gene Watson,23,1981-06-20,1981-09-12,662,13
+182,Longing For The High,Billy Larkin,24,1981-05-30,1981-08-22,660,13
+183,Rich Man,Terri Gibbs,19,1981-06-06,1981-08-22,651,12
+184,While The Feeling's Good,Rex Allen Jr. And Margo Smith,26,1981-06-13,1981-08-29,647,12
+185,Mountain Dew,Willie Nelson,23,1981-10-03,1981-12-19,638,12
+186,Somebody Led Me Away,Loretta Lynn,20,1981-02-28,1981-05-16,635,12
+187,Following The Feeling,Moe Bandy And Judy Bailey,10,1981-01-03,1981-02-28,630,9
+188,I Recall A Gypsy Woman,B.J. Thomas,22,1981-08-08,1981-10-24,629,12
+189,Giving Up Easy,Leon Everette,5,1981-01-03,1981-02-21,628,8
+190,Wind Is Bound To Change,Larry Gatlin & The Gatlin Brothers,20,1981-06-06,1981-08-22,617,12
+191,Perfect Fool,Debby Boone,23,1981-02-07,1981-04-25,617,12
+192,Getting Over You Again,Ray Price,28,1981-03-28,1981-06-20,617,13
+193,Texas Cowboy Night,Mel Tillis And Nancy Sinatra,23,1981-07-11,1981-09-26,616,12
+194,Somebodys Knockin',Terri Gibbs,8,1981-01-03,1981-02-21,598,8
+195,You Make Me Wonder Why,Deborah Allen,20,1981-08-15,1981-10-24,595,11
+196,What In The World's Come Over You,Tom Jones,25,1981-08-08,1981-10-17,588,11
+197,Could You Love Me One More Time,John Conlee,26,1981-05-30,1981-08-15,586,12
+198,Lonely Nights,Mickey Gilley,10,1981-11-07,1981-12-26,583,8
+199,Good Times,Willie Nelson,25,1981-06-27,1981-09-12,578,12
+200,It Don't Get Better Than This,Larry Gatlin & The Gatlin Brothers,25,1981-02-21,1981-05-02,577,11
+201,Willie Jones,Bobby Bare,19,1981-01-03,1981-03-07,569,10
+202,Anything But Yes Is Still No,Stephanie Winslow,25,1981-01-03,1981-03-07,565,10
+203,Too Long Gone,Vern Gosdin,28,1981-01-24,1981-04-04,565,11
+204,He's The Fire,Diana,29,1981-08-01,1981-10-17,561,12
+205,It's High Time,Dottie West,17,1981-11-07,1981-12-26,558,8
+206,Heart Of The Matter,The Kendalls,26,1981-03-28,1981-06-06,558,11
+207,Angel Of The Morning,Juice Newton,22,1981-03-07,1981-05-16,555,11
+208,The Closer You Get,Don King,27,1981-09-19,1981-12-05,555,12
+209,I'm Gonna Sit Right Down And Write Myself A Letter,Willie Nelson,26,1981-07-25,1981-10-03,554,11
+210,Dixie Man,Randy Barlow,25,1981-01-24,1981-03-28,553,10
+211,Patches,Jerry Reed,30,1981-09-26,1981-12-12,552,12
+212,20/20 Hindsight,Billy Larkin,35,1981-01-10,1981-04-04,549,13
+213,Just Enough Love (For One Woman),Bobby Smith,30,1981-08-22,1981-10-31,539,11
+214,You Better Move On,George Jones & Johnny Paycheck,18,1981-01-03,1981-02-28,536,9
+215,Countryfied,Mel McDaniel,23,1981-01-03,1981-02-28,536,9
+216,Have You Ever Been Lonely (Have You Ever Been Blue),Jim Reeves And Patsy Cline,18,1981-11-07,1981-12-26,530,8
+217,Take Me As I Am (Or Let Me Go),Bobby Bare,28,1981-08-08,1981-10-17,528,11
+218,Hold Me Like You Never Had Me,Randy Parton,30,1981-03-07,1981-05-23,527,12
+219,Every Now And Then,Brenda Lee,26,1981-01-31,1981-04-04,526,10
+220,Hello Woman,Doug Kershaw,29,1981-06-27,1981-09-19,524,13
+221,A Losers Night Out,Jack Grayson,37,1981-01-03,1981-03-14,523,11
+222,Yellow Pages,Roger Bowling,30,1981-01-03,1981-03-07,522,10
+223,Some Love Songs Never Die,B.J. Thomas,27,1981-04-18,1981-06-27,521,11
+224,When You Walk In The Room,Stephanie Winslow,29,1981-10-10,1981-12-12,519,10
+225,Stars On The Water,Rodney Crowell,30,1981-10-10,1981-12-19,519,11
+226,Big Like A River,Tennessee Express,31,1981-08-15,1981-10-24,510,11
+227,"Somebody's Darlin, Somebody's Wife",Dottsy,32,1981-06-27,1981-09-12,507,12
+228,Are We Dreamin' The Same Dream,Charlie Rich,26,1981-02-14,1981-04-25,506,11
+229,A Bridge That Just Won't Burn,Conway Twitty,3,1981-01-03,1981-02-07,503,6
+230,Your Wife Is Cheatin' On Us Again,Wayne Kemp,35,1981-04-04,1981-06-20,501,12
+231,Nobodys Fool,Deborah Allen,24,1981-01-03,1981-02-28,500,9
+232,"Girls, Women Ladies",Ed Bruce,14,1981-01-03,1981-02-21,497,8
+233,Blaze Of Glory,Kenny Rogers,16,1981-11-14,1981-12-26,495,7
+234,Angela,Mundo Earwood,32,1981-05-16,1981-08-01,495,12
+235,Trying Not To Love You,Johnny Rodriguez,30,1981-08-08,1981-10-17,492,11
+236,Only When I Laugh,Brenda Lee,32,1981-10-24,1981-12-26,488,10
+237,North Alabama,Dave Kirby,37,1981-05-16,1981-07-25,488,11
+238,It's Who You Love,Kieran Kane,23,1981-11-07,1981-12-26,483,8
+239,Sometimes I Cry When I'm Alone,Sammi Smith,34,1981-08-08,1981-10-17,475,11
+240,I Still Miss Someone,Don King,38,1981-05-09,1981-07-18,469,11
+241,One In A Million,Johnny Lee,1,1981-01-03,1981-02-07,467,6
+242,Try Me,Randy Barlow,32,1981-09-12,1981-11-14,466,10
+243,Watchin' Girls Go By,Ronnie McDowell,19,1981-11-14,1981-12-26,463,7
+244,You're Crazy Man,Freddie Hart,31,1981-04-18,1981-06-20,451,10
+245,The Pleasure's All Mine,Dave Rowland And Sugar,32,1981-08-29,1981-10-17,448,8
+246,Shot Full Of Love,Randy Parton,30,1981-08-01,1981-10-03,446,10
+247,Married Women,Sonny Curtis,33,1981-08-22,1981-10-24,443,10
+248,Midnight Rodeo,Leon Everette,22,1981-11-14,1981-12-26,442,7
+249,One More Last Chance,Ray Stevens,33,1981-02-14,1981-04-18,440,10
+250,It's A Heartache,Dave Rowland And Sugar,32,1981-02-07,1981-04-04,438,9
+251,Bedtime Stories,Jim Chessnut,36,1981-06-06,1981-08-08,436,10
+252,Slowly,Kippi Brannon,37,1981-09-26,1981-12-05,434,11
+253,Wasn't That A Party,The Rovers,45,1981-02-28,1981-05-09,434,11
+254,Preaching Up A Storm,Mel McDaniel,24,1981-11-14,1981-12-26,433,7
+255,Family Man,Wright Brothers,35,1981-10-31,1981-12-26,419,9
+256,Diamonds In The Stars,Ray Price,25,1981-11-14,1981-12-26,418,7
+257,Now That The Feeling's Gone,"Billy ""Crash"" Craddock",38,1981-10-17,1981-12-19,417,10
+258,Doesn't Anybody Get High On Love Anymore,The Shoppe,33,1981-02-21,1981-04-25,416,10
+259,It Was You,"Billy ""Crash"" Craddock",37,1981-02-14,1981-04-18,416,10
+260,Cheatin' Is Still On My Mind,Christy Lane,38,1981-10-10,1981-12-12,414,10
+261,Honky Tonk Hearts,Dickey Lee,37,1981-06-27,1981-08-29,405,10
+262,Someone Could Lose A Heart Tonight,Eddie Rabbitt,15,1981-11-21,1981-12-26,401,6
+263,She's Got A Drinking Problem,Gary Stewart,36,1981-11-07,1981-12-26,399,8
+264,"Lord, I Hope This Day Is Good",Don Williams,21,1981-11-21,1981-12-26,398,6
+265,Dropping Out Of Sight,Bobby Bare,35,1981-11-07,1981-12-26,397,8
+266,Ready For The Times To Get Better,Joe Sun,43,1981-01-03,1981-03-07,396,10
+267,In The Garden,The Statler Brothers,35,1981-03-28,1981-05-23,395,9
+268,I Wanna Be Around,Terri Gibbs,38,1981-09-26,1981-11-28,393,10
+269,Everyone Gets Crazy Now,Roger Miller,36,1981-10-10,1981-12-12,392,10
+270,Just A Country Boy,Rex Allen Jr.,35,1981-03-14,1981-05-09,389,9
+271,The Round-up Saloon,Bobby Goldsboro,31,1981-11-14,1981-12-26,387,7
+272,Friday Night Feelings,Rick Landers,41,1981-03-28,1981-05-30,387,10
+273,"If You Go, I'll Follow You",Porter Wagoner And Dolly Parton,12,1981-01-03,1981-02-07,386,6
+274,Don't Forget Yourself,The Statler Brothers,13,1981-01-03,1981-02-07,386,6
+275,The Partner Nobody Chose,Guy Clark,38,1981-07-11,1981-09-19,386,11
+276,Any Way You Want Me,Gene Watson,33,1981-02-07,1981-03-28,380,8
+277,Blue Collar Blues,Mundo Earwood,40,1981-02-14,1981-04-11,379,9
+278,Catch Me If You Can,Tom Carlile,49,1981-10-17,1981-12-26,376,11
+279,Acapulo,Johnny Duncan,16,1981-01-03,1981-02-07,374,6
+280,Spread My Wings,Tim Rex And Oklahoma,43,1981-04-11,1981-06-13,372,10
+281,You Were There,Freddie Hart,38,1981-09-12,1981-11-07,371,9
+282,Hideaway Healing,Stephanie Winslow,36,1981-03-21,1981-05-02,369,7
+283,Hold On,Rich Landers,40,1981-07-11,1981-09-05,369,9
+284,I Just Want To Be With You,Sammi Smith,36,1981-01-03,1981-02-21,368,8
+285,Footprints In The Sand,Edgel Groves,42,1981-05-09,1981-07-04,367,9
+286,When It's Just You And Me,Kenny Dale,31,1981-01-03,1981-02-14,365,7
+287,Shine,Waylon Jennings,27,1981-11-21,1981-12-26,361,6
+288,Only One You,T.G. Sheppard,26,1981-11-21,1981-12-26,360,6
+289,Likin' Him And Lovin' You,Kin Vassy,39,1981-05-16,1981-07-18,360,10
+290,It Took Us All Night Long To Say Goodbye,Danny Wood,37,1981-01-03,1981-02-21,359,8
+291,I've Been A Fool/sometimes When We Touch,Stephanie Winslow,39,1981-06-27,1981-08-22,357,9
+292,Gettin' Over You,Tim Rex And Oklahoma,46,1981-01-03,1981-02-28,353,9
+293,My Turn,Donna Hazard,45,1981-01-17,1981-03-14,352,9
+294,I Just Came Home To Count The Memories,John Anderson,29,1981-11-21,1981-12-26,347,6
+295,Fire In Your Eyes,Gary Morris,40,1981-03-07,1981-05-09,346,10
+296,Lefty,David Frizzell,45,1981-09-05,1981-10-31,339,9
+297,Dance The Two Step,Susie Allanson,23,1981-01-03,1981-02-07,334,6
+298,All Night Long,Johnny Duncan,40,1981-11-07,1981-12-26,333,8
+299,Secrets,Mac Davis,47,1981-07-18,1981-09-19,333,10
+300,Carolina (i Remember You),The Charlie Daniels Band,44,1981-01-03,1981-02-28,331,9
+301,Dreams Can Come In Handy,Cindy Hurt,46,1981-09-05,1981-11-07,328,10
+302,I Can't Hold Myself In Line,Paycheck And Haggard,41,1981-03-28,1981-05-16,327,8
+303,I Don't Have To Crawl,Emmylou Harris,44,1981-06-13,1981-08-01,325,8
+304,Heartaches Of A Fool,Willie Nelson,39,1981-11-14,1981-12-26,324,7
+305,Livin' The Good Life,Corbin/Hanner,46,1981-08-08,1981-10-03,324,9
+306,Love Knows We Tried,Tanya Tucker,40,1981-04-25,1981-06-13,322,8
+307,Nobody In His Right Mind,Dean Dillon,25,1981-01-03,1981-02-07,321,6
+308,Mister Peepers,Bill Anderson,44,1981-02-21,1981-04-11,321,8
+309,I Can't Say Goodbye To You,Terry Gregory,35,1981-11-14,1981-12-26,319,7
+310,Here's To The Horses,Johnny Russell,49,1981-04-18,1981-06-13,318,9
+311,No Aces,Patti Page,39,1981-03-21,1981-05-09,314,8
+312,The All New Me,Tom T. Hall,41,1981-05-02,1981-06-20,311,8
+313,I Remember You,Slim Whitman,44,1981-02-07,1981-03-28,307,8
+314,Only You (and You Alone),Reba McEntire,33,1981-11-21,1981-12-26,305,6
+315,Lovers Live Longer,The Bellamy Brothers,3,1981-01-03,1981-01-17,301,3
+316,My Beginning Was You,Jack Grayson,45,1981-07-25,1981-09-19,301,9
+317,Bridge Over Broadway,The Capitals,45,1981-03-07,1981-04-25,299,8
+318,The Best Of Strangers,Barbara Mandrell,6,1981-01-03,1981-01-31,296,5
+319,Dixie Road,King Edward Iv,48,1981-01-31,1981-03-28,295,9
+320,You're The Best Break This Old Heart Ever Had,Ed Bruce,28,1981-11-28,1981-12-26,286,5
+321,Goodbye Marie,Bobby Goldsboro,17,1981-01-03,1981-01-31,284,5
+322,I'll Still Be Loving You,Mundo Earwood,45,1981-10-17,1981-12-05,280,8
+323,Completely Out Of Love,Marty Robbins,47,1981-02-07,1981-03-21,274,7
+324,Slip Away,Mel Street And Sandy Powell,48,1981-10-31,1981-12-19,274,8
+325,A Little Bit Of Heaven,Roger Bowling,50,1981-04-11,1981-05-30,273,8
+326,Stuck Right In The Middle Of Your Love,Billy Swan,34,1981-11-28,1981-12-26,267,5
+327,You Made It Beautiful,Charlie Rich,47,1981-05-23,1981-07-04,265,7
+328,Sneakin Around,Kin Vassy,48,1981-08-15,1981-10-03,264,8
+329,Keep On Movin',King Edward Iv,49,1981-05-30,1981-07-18,264,8
+330,Love Is Knockin' At My Door (Here Comes Forever Again),Susie Allanson,44,1981-09-05,1981-10-24,262,8
+331,Teardrops In My Heart,Marty Robbins,45,1981-11-21,1981-12-26,259,6
+332,It'll Be Him,Debby Boone,46,1981-06-27,1981-08-08,259,7
+333,That's All That Matters To Me,Mickey Gilley,7,1981-01-03,1981-01-31,258,5
+334,Bally Hoo Days,Eddy Arnold,37,1981-05-16,1981-06-13,258,5
+335,Sweet Southern Love,Phil Everly,52,1981-06-13,1981-08-01,258,8
+336,I'm Gonna Take My Angel Out Tonight,Ronnie Rogers,42,1981-11-21,1981-12-26,257,6
+337,Should I Do It,Tanya Tucker,50,1981-07-04,1981-08-15,253,7
+338,The Cowboy And The Lady,John Denver,50,1981-11-14,1981-12-26,253,7
+339,Play Something We Could Love To,Diane Pfeiffer,38,1981-11-28,1981-12-26,252,5
+340,Just Got Back From No Man's Land,Wayne Kemp,46,1981-07-25,1981-09-05,246,7
+341,Lady Lay Down,Tom Jones,37,1981-11-28,1981-12-26,241,5
+342,Headin' For A Heartache,Cindy Hurt,56,1981-06-06,1981-07-25,239,8
+343,Whiskey Heaven,Fats Domino,51,1981-01-03,1981-02-14,236,7
+344,There's Always Me,Jim Reeves,35,1981-01-03,1981-01-31,233,5
+345,I'll Drink To That,Billy Parker,53,1981-08-22,1981-10-03,231,7
+346,Common Man,Sammy Johns,50,1981-09-19,1981-10-31,228,7
+347,Texas In My Rear View Mirror,Mac Davis,9,1981-01-03,1981-01-31,226,5
+348,My Baby's Coming Home Again Today,Bill Lyerly,53,1981-06-20,1981-08-01,225,7
+349,You Are A Liar,Whitey Shafer,48,1981-01-03,1981-02-07,222,6
+350,I Can't Help Falling In Love With You,Slim Whitman,54,1981-08-15,1981-09-26,221,7
+351,Cathy's Clown,Tricia Johns,57,1981-08-08,1981-09-26,220,8
+352,Bally-Hoo Days/Two Hearts Beat Better Than One,Eddy Arnold,32,1981-06-20,1981-07-18,218,5
+353,I'm Almost Ready,Leona Williams,54,1981-04-04,1981-05-23,218,8
+354,Slow Hand,Mel Reeves,53,1981-09-05,1981-10-17,217,7
+355,Fool's Gold,Danny Wood,58,1981-03-21,1981-05-02,216,7
+356,I've Love Enough To Know,Jim Rushing,56,1981-01-03,1981-02-14,215,7
+357,I Wonder If I Care As Much,Dickey Lee,53,1981-10-03,1981-11-14,211,7
+358,Love Never Hurt So Good,Donna Hazard,54,1981-07-11,1981-08-29,211,8
+359,I Don't Want To Know Your Name,Glen Campbell,54,1981-02-07,1981-03-21,210,7
+360,Anything That Hurts You (hursts Me),Keith Stegall,55,1981-02-21,1981-04-04,210,7
+361,It's Really Love This Time,Family Brown,57,1981-07-18,1981-09-05,209,8
+362,Too Many Hearts In The Fire,Bobby Smith,43,1981-11-28,1981-12-26,207,5
+363,Magic Eyes,Jack Grayson,56,1981-04-04,1981-05-09,207,6
+364,Yesterday's News (Just Hit Home Today),Johnny Paycheck,57,1981-07-04,1981-08-15,207,7
+365,There's No Me Without You,Sue Powell,49,1981-10-31,1981-12-05,203,6
+366,Lost In Love,Dickey Lee,30,1981-01-03,1981-01-24,202,4
+367,Everybody Makes Mistakes/Wild Turkey,Lacy J. Dalton,36,1981-12-05,1981-12-26,200,4
+368,Run To Her,Susie Allanson,53,1981-05-30,1981-07-11,200,7
+369,Slow Country Dancin',Judy Bailey,56,1981-05-09,1981-06-20,199,7
+370,No One Will Ever Know,Gene Watson,13,1981-01-03,1981-01-31,198,5
+371,Seven Bridges Road,Eagles,55,1981-01-24,1981-03-07,197,7
+372,Go Home And Go To Pieces,Donna Hazard,55,1981-05-02,1981-06-13,196,7
+373,Song Of The South,Johnny Russell,57,1981-01-03,1981-02-07,193,6
+374,Daddy,Billy Edd Wheeler,55,1981-06-20,1981-07-25,192,6
+375,Where There's Smoke There's Fire,Louise Mandrell And R.C.Bannon,46,1981-11-28,1981-12-26,189,5
+376,Rode Hard & Put Up Wet,Johnny Lee,52,1981-04-25,1981-05-30,188,6
+377,I Wish You Could Have Turned My Head,Peggy Forman,54,1981-10-24,1981-11-28,187,6
+378,Cherokee Country,Solid Gold Band,50,1981-11-28,1981-12-26,185,5
+379,The Best Bedroom In Town,Judy Bailey,54,1981-10-03,1981-11-14,184,7
+380,Let The Little Bird Fly,Dottsy,58,1981-09-19,1981-11-07,183,8
+381,Midnight Flyer,Sue Powell,57,1981-05-16,1981-06-27,181,7
+382,Dream Maker,The Shoppe,61,1981-05-23,1981-07-04,179,7
+383,Cinderella,Terry Gregory,59,1981-09-05,1981-10-10,173,6
+384,They'll Never Take Me Alive,Dean Dillon,57,1981-05-30,1981-07-04,171,6
+385,Oklahoma Crude,Corbin/Hanner,56,1981-11-28,1981-12-26,170,5
+386,Nobody Loves Anybody Anymore,Kris Kristofferson,68,1981-04-18,1981-05-30,168,7
+387,Why Lady Why,Alabama,34,1981-01-03,1981-01-24,167,4
+388,Rockabilly Rebel,Orion,63,1981-01-10,1981-02-14,167,6
+389,I'll Be There (If You Ever Want Me),Davies,4,1981-02-14,1981-02-14,166,1
+390,Love Takes Two,Roy Clark,63,1981-05-23,1981-06-27,166,6
+391,This Must Be My Ship,Diana Trask,62,1981-06-13,1981-07-18,164,6
+392,Rainin' In My Eyes,Miki Mori,59,1981-01-10,1981-02-14,163,6
+393,Dare To Dream Again,Phil Everly,63,1981-01-03,1981-02-07,163,6
+394,Send Me Somebody To Love,Calamity Jane,61,1981-10-17,1981-11-28,162,7
+395,Music In The Mountains,Ernie Rowell,59,1981-05-09,1981-06-13,158,6
+396,"Slippin' Out,slippin' In",Bill Nash,61,1981-10-17,1981-11-21,158,6
+397,She Took The Place Of You,Valentino,62,1981-08-01,1981-09-05,156,6
+398,Let's Get Together And Cry,Joe Stampley,49,1981-12-05,1981-12-26,155,4
+399,I Ain't Got Nobody,Roy Clark,60,1981-01-03,1981-02-07,155,6
+400,I Fall To Pieces,Patsy Cline/Jim Reeves,61,1981-01-03,1981-01-31,155,5
+401,Time Has Treated You Well,Corbin/Hanner,64,1981-05-30,1981-07-04,155,6
+402,Take Me To Your Loving Place,Larry Gatlin & The Gatlin Brothers,41,1981-01-03,1981-01-24,153,4
+403,Cow Patti,Jim Stafford,65,1981-01-10,1981-02-14,153,6
+404,Do Me With Love,Janie Fricke,40,1981-12-12,1981-12-26,148,3
+405,You Almost Slipped My Mind,Charley Pride,43,1981-01-03,1981-01-24,143,4
+406,Cotton Fields,Creedence Clearwater Revival,53,1981-12-05,1981-12-26,141,4
+407,What The World Needs Now Is Love,Billie Jo Spears,58,1981-05-02,1981-05-30,140,5
+408,Moccasin Man,Dave Kirby,64,1981-09-12,1981-10-10,136,5
+409,Hearts (Our Hearts),Susie Allanson,60,1981-12-05,1981-12-26,135,4
+410,Pardon My French,Bobby G. Rice,63,1981-10-10,1981-11-07,135,5
+411,Love Never Comes Easy,Helen Cornelius,52,1981-12-05,1981-12-26,132,4
+412,Mobile Bay,Johnny Cash,60,1981-07-25,1981-08-22,131,5
+413,There's A Crazy Man,Jody Payne,65,1981-02-28,1981-04-04,131,6
+414,You're More To Me (Than He's Ever Been),Peggy Forman,70,1981-07-04,1981-08-08,130,6
+415,Sidewalks Are Gray,Kenny Seratt,70,1981-05-02,1981-06-13,130,7
+416,Won't You Be My Baby,Keith Stegall,65,1981-09-12,1981-10-10,128,5
+417,When You Were Blue And I Was Green,Kin Vassy,48,1981-12-12,1981-12-26,127,3
+418,Your Daddy Don't Live In Heaven,Michael Ballew,67,1981-11-07,1981-12-12,125,6
+419,Beers To You,Ray Charles And Clint Eastwood,55,1981-01-03,1981-01-24,124,4
+420,Lonely Women,Silver,64,1981-11-21,1981-12-26,122,6
+421,Carolina By The Sea,Super Grit Cowboy Band,64,1981-10-24,1981-11-28,122,6
+422,Since I Don't Have You,Don McLean,68,1981-05-09,1981-06-13,120,6
+423,All These Things,Joe Stampley,62,1981-10-24,1981-11-21,119,5
+424,I Don't Want To Want You,Lobo,59,1981-12-05,1981-12-26,118,4
+425,"Fool, Fool",Brenda Lee,67,1981-06-06,1981-07-04,116,5
+426,Bye Bye Love,Billy Walker & Barbara Fairchild,70,1981-01-03,1981-01-31,114,5
+427,Whole Lot Of Cheatin' Goin' On,Jimmi Cannon,63,1981-10-24,1981-11-21,112,5
+428,Texas Ida Red,David Houston,69,1981-05-09,1981-06-13,112,6
+429,She's A Friend Of A Friend,The Burrito Brothers,67,1981-01-24,1981-02-21,111,5
+430,Lonestar Cowboy,Donna Fargo,73,1981-08-01,1981-09-05,111,6
+431,A Poor Man's Roses,Patti Page,66,1981-08-01,1981-08-22,110,4
+432,If You Don't Know Me By Now,Super Grit Cowboy Band,71,1981-08-01,1981-09-05,110,6
+433,Get It While You Can,Tom Carlile,73,1981-08-29,1981-10-03,108,6
+434,Louisiana Lonely,Narvel Felts,67,1981-08-22,1981-09-19,107,5
+435,I'll Leave This World Loving You,Wayne Kemp,47,1981-01-03,1981-01-17,105,3
+436,Swinging Doors,Mel Reeves,67,1981-06-06,1981-06-27,104,4
+437,"Somehow, Someway And Someday",Amarillo,70,1981-06-13,1981-07-11,104,5
+438,Where Could You Take Me,Sheila Andrews,58,1981-01-03,1981-01-17,103,3
+439,Send Me The Pillow You Dream On,The Whites,66,1981-06-20,1981-07-11,103,4
+440,I Can See Forever In Your Eyes,Reba McEntire,48,1981-01-03,1981-01-17,102,3
+441,I Think I Could Love You Better Than She Did,Ava Barber,70,1981-02-28,1981-03-28,102,5
+442,It's Not The Same Old You,Johnny Rodriguez,73,1981-12-05,1981-12-26,102,4
+443,"Willie, Won't You Sing A Song With Me",George Burns,66,1981-02-14,1981-03-14,101,5
+444,All I'm Missing Is You,Eddy Arnold,58,1981-12-12,1981-12-26,98,3
+445,If You're Waiting On Me (You're Backing Up),The Kendalls,55,1981-12-12,1981-12-26,97,3
+446,Single Girl,Cindy Hurt,74,1981-03-21,1981-04-18,97,5
+447,Tell Me So,Gary Goodnight,75,1981-05-16,1981-06-13,97,5
+448,Enough For You,Brenda Lee,75,1981-08-15,1981-09-12,96,5
+449,The Rose Is For Today,Jim Chessnut,70,1981-10-24,1981-11-14,95,4
+450,Let Me Fill For You A Fantasy,Gary Goodnight,72,1981-08-08,1981-09-05,95,5
+451,After Texas,Roy Head,75,1981-10-24,1981-11-21,95,5
+452,Cheatin On A Cheater,Loretta Lynn,52,1981-01-03,1981-01-17,92,3
+453,S.o.s.,Johnny Carver,73,1981-01-24,1981-02-21,91,5
+454,Born,Orion,76,1981-06-27,1981-07-25,90,5
+455,Some Day My Ships Coming In,Joe Waters,64,1981-12-12,1981-12-26,88,3
+456,Jesus Let Me Slide,Dean Dillon,77,1981-10-17,1981-11-14,88,5
+457,Blue Baby Blue,Lynn Anderson,53,1981-01-03,1981-01-17,87,3
+458,Homebody,Bill Anderson,74,1981-08-15,1981-09-05,87,4
+459,Everlovin' Woman,Pat Garrett,73,1981-11-07,1981-12-05,86,5
+460,Wasn't It Supposed To Be Me,Kenny Earle,73,1981-09-19,1981-10-10,85,4
+461,Blue Moon With Heartache,Rosanne Cash,51,1981-12-19,1981-12-26,84,2
+462,Cheat On Him Tonight,David Heavener,73,1981-11-28,1981-12-19,82,4
+463,I Love You A Thousand Ways/chicken Truck,John Anderson,54,1981-08-01,1981-08-08,81,2
+464,Jacamo,Donna Fargo,72,1981-11-21,1981-12-12,81,4
+465,The Last Work In Jesus Is Us,Roy Clark,73,1981-09-26,1981-10-17,81,4
+466,Women,Wyvon Alexander,74,1981-08-15,1981-09-05,81,4
+467,She Left Love All Over Me,Razzy Bailey,54,1981-12-19,1981-12-26,80,2
+468,Why Am I Doing Without,Wayne Kemp,75,1981-11-14,1981-12-12,80,5
+469,If I Say I Love You (Consider Me Drunk),Whitey Shafer,67,1981-04-11,1981-04-25,79,3
+470,An Occasional Rose,Marty Robbins,61,1981-01-03,1981-01-17,77,3
+471,My Heart Cries For You,Margo Smith,72,1981-04-25,1981-05-16,77,4
+472,Tennessee Whiskey,David Allan Coe,77,1981-07-04,1981-08-01,77,5
+473,Reachin' For Freedom,Ron Shaw,78,1981-02-07,1981-02-28,77,4
+474,I Know An Ending (when It Comes),B.J. Wright,81,1981-01-03,1981-01-31,77,5
+475,Home Along The Highway,Tom Nix,79,1981-01-10,1981-01-31,76,4
+476,Waltzes And Western Swing,Donnie Rohrs,85,1981-05-02,1981-06-06,76,6
+477,Let's Forget That We're Married,Gary Stewart,72,1981-04-11,1981-05-02,75,4
+478,Leavin You Is Easier (Than Wishing You Were Gone)/Louisiana Joe,Joe Douglas,75,1981-06-20,1981-07-11,75,4
+479,Without Love,Johnny Cash,78,1981-01-24,1981-02-21,75,5
+480,Sweet City Woman,The Glaser Brothers,62,1981-01-03,1981-01-17,74,3
+481,Clean Your Own Tables,Kay T.Oslin,72,1981-05-16,1981-06-06,74,4
+482,Two Out Of Three Ain't Bad,J.W. Thompson,72,1981-01-24,1981-02-14,74,4
+483,Looking At Things In A Different Light,Nightstreets,72,1981-03-21,1981-04-11,74,4
+484,Fool That I Am,Rita Coolidge,72,1981-01-31,1981-02-21,74,4
+485,I'd Throw It All Away,Sweetwater,75,1981-10-17,1981-11-07,73,4
+486,Woman In My Heart,Bobby Hood,74,1981-09-26,1981-10-17,72,4
+487,Catching Fire,Angela Kaye,81,1981-10-10,1981-11-07,72,5
+488,I Want To See Me In Your Eyes,Gene Kennedy And Karen Jeglum,80,1981-02-28,1981-03-21,71,4
+489,Love Was Born,Randy Barlow,61,1981-12-19,1981-12-26,68,2
+490,One Love Over Easy,Sami Jo Cole,76,1981-05-02,1981-05-23,68,4
+491,Looks Like A Set-Up To Me,Cedar Creek,80,1981-11-14,1981-12-05,67,4
+492,I Ought To Feel Crazy,Jeanne Pruett,72,1981-06-06,1981-06-27,66,4
+493,"Caffein, Nicotine, Benzedrine (and Wish Me Luck)",Jerry Reed,80,1981-01-10,1981-01-31,66,4
+494,A Girl Like You,Sonny Throckmorton,77,1981-12-12,1981-12-26,65,3
+495,Once You Were Mine,Dottie West,80,1981-09-19,1981-10-10,65,4
+496,Turning My Love On,Jimmy Payne,80,1981-08-01,1981-08-22,64,4
+497,When A Man Loves A Woman,Jack Grayson,63,1981-12-19,1981-12-26,63,2
+498,Better Side Of Thirty,Billy Parker,74,1981-02-14,1981-02-28,62,3
+499,Imagine That,Nancy Wood,79,1981-10-10,1981-10-31,62,4
+500,I'm Gonna Let Go (And Love Somebody),Liz Lyndell,78,1981-03-07,1981-03-28,61,4
+501,Burning Bridges,Bill Nash,79,1981-07-04,1981-07-25,61,4
+502,Don't We Belong In Love,Rita Remington,80,1981-10-24,1981-11-14,61,4
+503,Take Me Back To The Country,"Baxter,Baxter And Baxter",76,1981-02-28,1981-03-21,59,4
+504,My Song Don't Sing The Same,Kris Carpenter,76,1981-02-21,1981-03-14,58,4
+505,Stirrin' Up Feelings,Diana Trask,74,1981-09-19,1981-10-03,57,3
+506,Loving You Was All I Ever Needed,Lou Hobbs,79,1981-03-07,1981-03-21,57,3
+507,Silver Eagle,The Atlanta Rhythm Section,75,1981-01-03,1981-01-17,56,3
+508,That's The Way My Woman Loves Me,Amarillo,82,1981-01-03,1981-01-17,55,3
+509,Nothin' To Do But Just Lie,Wesley Ryan,82,1981-07-25,1981-08-15,55,4
+510,I Won't Last A Day Withgout You,Vince And Dianne Hatfield,83,1981-08-01,1981-08-22,55,4
+511,Crazy Little Thing Called Love,Orion,79,1981-03-21,1981-04-11,54,4
+512,It's So Close To Christmas,The Bellamy Brothers,72,1981-12-19,1981-12-26,53,2
+513,Little Things,Tennessee Express,75,1981-12-12,1981-12-26,53,3
+514,Rodeo Girl,Tanya Tucker,83,1981-10-17,1981-11-07,53,4
+515,Paradise,Southern Ashe,80,1981-08-15,1981-08-29,52,3
+516,Antioch Church House Choir,Sweetwater,84,1981-08-08,1981-08-29,52,4
+517,Let The Good Times Roll,Jon And Lynn,71,1981-12-19,1981-12-26,51,2
+518,Love Signs,Ivory Jack,81,1981-05-09,1981-05-30,51,4
+519,Seven Days Come Sunday,Rodney Lay,85,1981-05-30,1981-06-20,50,4
+520,Who'll Turn Out The Lights,Mel Street,65,1981-01-03,1981-01-17,49,3
+521,She's Livin' It Up (And I'm Drinkin' 'Em Down),Allen Frizzell,81,1981-08-29,1981-09-12,49,3
+522,Marianne,Lane Brothers,83,1981-03-28,1981-04-18,49,4
+523,Matilda,John Wesley Ryles,78,1981-07-18,1981-08-01,48,3
+524,Flo's Yellow Rose,Hoyt Axton,78,1981-05-09,1981-05-23,48,3
+525,The Baby,Kieran Kane,80,1981-03-21,1981-04-11,48,4
+526,She Sings Amazing Grace,Stan Hitchcock With Sue Richards,81,1981-04-11,1981-05-02,48,4
+527,Slip Away,Jim West,79,1981-01-03,1981-01-17,47,3
+528,Jumper Cable Man,Marty Robbins,83,1981-09-26,1981-10-17,47,4
+529,Honky Tonk Saturday Night,Becky Hobbs,84,1981-02-07,1981-02-28,46,4
+530,Beer Joint Fever,Allan Frizzell,86,1981-05-16,1981-06-06,46,4
+531,Smoky Mountain Rain,Ronnie Milsap,66,1981-01-03,1981-01-10,45,2
+532,Cowboy,Larry Dalton,82,1981-09-05,1981-09-19,45,3
+533,The Way You Are,P.J.Parks,86,1981-01-10,1981-01-31,45,4
+534,Mountain Of Love,Charley Pride,57,1981-12-26,1981-12-26,44,1
+535,We Have To Start Meeting Like This,Kenny Earle,84,1981-05-09,1981-05-23,44,3
+536,The Devil,Hoyt Axton,86,1981-07-25,1981-08-15,44,4
+537,A Man Just Don't Know What A Woman Goes Through,Charlie Rich,67,1981-01-03,1981-01-10,43,2
+538,On The Inside,Patti Page,76,1981-07-18,1981-07-25,43,2
+539,Love Fires,Don Gibson,80,1981-01-03,1981-01-17,43,3
+540,Lovin' Night,Jim West,83,1981-03-14,1981-03-28,43,3
+541,Lay Back Down And Love Me/your Bedroom Eyes,Rich Landers,75,1981-12-19,1981-12-26,42,2
+542,Somewhere To Come When It Rains,John Wesley Ryles,80,1981-04-04,1981-04-18,42,3
+543,What's So Good About Goodbye,Terry Aden,81,1981-10-31,1981-11-14,42,3
+544,Have You Ever Seen The Rain,Pam Hobbs,85,1981-02-07,1981-02-28,42,4
+545,Sweet Natural Love,Mick Lloyd And Jerri Kelly,85,1981-08-08,1981-08-29,42,4
+546,I'd Rather Be The Stranger In Your Eyes,Gene Kennedy And Karen Jeglum,84,1981-04-25,1981-05-16,41,4
+547,Charleston Cotton Mill,Marty Haggard,85,1981-03-07,1981-03-21,41,3
+548,Don't Cry Baby,Randy Parton,80,1981-12-19,1981-12-26,40,2
+549,Got Locky Last Night,Jerry Jeff Walker,82,1981-08-29,1981-09-12,40,3
+550,Diamonds And Teardrops,Wayne Massey,82,1981-01-17,1981-01-31,40,3
+551,The Shoe's On The Other Foot Tonight,Montana,83,1981-11-14,1981-11-28,40,3
+552,Making The Night The Best Part Of My Day,Lincoln,84,1981-04-11,1981-05-02,40,4
+553,Why Don't We Just Sleep On It Tonight,Glen Campbell & Tanya Tucker,85,1981-04-11,1981-05-02,40,4
+554,Sad Ole Shade Of Grey,Jeanne Pruett,81,1981-03-14,1981-03-28,39,3
+555,"Too Much, Too Little, Too Late",Mary Bailey,84,1981-08-15,1981-08-29,39,3
+556,A Little Bit Crazy,Amarillo,86,1981-10-10,1981-10-31,39,4
+557,There's Another Woman,Joe Stampley,71,1981-01-03,1981-01-10,38,2
+558,Old Fangled Country Songs,Kenny O'Dell,83,1981-08-22,1981-09-05,38,3
+559,There Ain't A Song,Music Row,86,1981-03-07,1981-03-28,38,4
+560,One Too Many Memories,Ray Pillow,82,1981-07-18,1981-08-01,37,3
+561,Have Another Drink,Doug Block,82,1981-01-31,1981-02-14,37,3
+562,Mama What Does Cheatin Mean,Carroll Baker,82,1981-07-04,1981-07-18,37,3
+563,"Some You Win, Some You Lose",Orion,83,1981-12-12,1981-12-26,37,3
+564,Take It As It Comes,Michael Martin Murphey and Katy Moffatt,83,1981-07-04,1981-07-18,37,3
+565,The Very Best Is You,Charly McClain,65,1981-12-26,1981-12-26,36,1
+566,Fire In The Night,Narvel Felts,84,1981-12-12,1981-12-26,36,3
+567,How Long Has This Been Going On,Amarillo,87,1981-03-21,1981-04-04,36,3
+568,I Can't Help Myself (Here Comes The Feeling),Sami Jo Cole,82,1981-10-31,1981-11-14,35,3
+569,Always Late With Your Kisses,Leona Williams,84,1981-11-14,1981-11-28,35,3
+570,A Real Cowboy (You Say You're),"Billy ""Crash"" Craddock",74,1981-01-03,1981-01-10,34,2
+571,New York Cowboy,Nashville Superpickers,83,1981-02-07,1981-02-14,34,2
+572,Good Friends Make Good Lovers,Jerry Reed,84,1981-07-04,1981-07-11,34,2
+573,Livin' In The Light Of Her Love,Joe Waters,85,1981-09-26,1981-10-10,34,3
+574,Play Me Or Trade Me/Where Would I Be,Mel Tillis And Nancy Sinatra,68,1981-12-26,1981-12-26,33,1
+575,(s.o.b.) Same Old Boy,Gary Gentry,83,1981-12-19,1981-12-26,33,2
+576,Lovers Love,Thrasher Brothers,83,1981-03-07,1981-03-14,33,2
+577,Blue As The Blue In Your Eyes,Nancy Ruud,83,1981-06-20,1981-06-27,33,2
+578,If Something Should Come Between Us,The Burrito Brothers,69,1981-12-26,1981-12-26,32,1
+579,Innocent Lies,Sonny James,70,1981-12-26,1981-12-26,31,1
+580,Rockin In The Congo,Hank Thompson,84,1981-12-19,1981-12-26,31,2
+581,Right In The Wrong Direction,Liz Lyndell,85,1981-07-11,1981-07-25,31,3
+582,Sweet Red Wine,Gary Morris,77,1981-01-03,1981-01-10,30,2
+583,Don't Ever Leave Me Again,Max D. Barnes,84,1981-03-07,1981-03-14,30,2
+584,"Be My Lover, Be My Friend",Mick Lloyd And Jerri Kelly,85,1981-01-31,1981-02-14,30,3
+585,I Think I Could Love You (Better Than He Did),Gabriel,85,1981-01-24,1981-02-07,30,3
+586,Layin' Low,Denny Hilton,84,1981-03-28,1981-04-04,29,2
+587,Stay Away From Jim,Jimmy Arthur Ordge,89,1981-07-11,1981-07-25,29,3
+588,Take It Like A Woman,Debby Boone,78,1981-01-03,1981-01-10,28,2
+589,I Sold All Of Tom T's Songs Last Night,Gary Gentry,84,1981-04-25,1981-05-02,28,2
+590,All I Have To Do Is Dream,Nancy Montgomery,85,1981-07-04,1981-07-11,28,2
+591,She Can't Give It Away,Roy Clark,86,1981-04-04,1981-04-11,28,2
+592,Houston Blues,David Rogers,88,1981-05-23,1981-06-06,28,3
+593,You've Got The Devil In Your Eyes,Ann J.Morton,89,1981-02-14,1981-02-28,28,3
+594,Every Breath I Take,Eme,86,1981-02-21,1981-02-28,27,2
+595,Falling In,P.J.Parks,85,1981-04-04,1981-04-18,26,3
+596,Livin' Together (Lovin' Apart),Bobby G. Rice,86,1981-02-07,1981-02-14,26,2
+597,Old Familiar Feeling,Wyvon Alexander,86,1981-04-18,1981-04-25,26,2
+598,Easier To Go,Gene Kennedy And Karen Jeglum,87,1981-07-18,1981-07-25,26,2
+599,Draw Me A Line,Ray Griff,87,1981-11-07,1981-11-21,26,3
+600,The Testimony Of Soddy Hoe,Jerry Reed,87,1981-05-09,1981-05-23,26,3
+601,It's Not The Rain,Music Row,88,1981-06-27,1981-07-11,26,3
+602,Country Is The Closest Thing To Heaven,Concrete Cowboy Band,87,1981-07-11,1981-07-18,25,2
+603,I'm Gonna Hang Up This Heartache,Nancy Ruud,87,1981-04-04,1981-04-11,25,2
+604,Love (Can Make You Happy),James Marvell,90,1981-05-30,1981-06-13,25,3
+605,I Thought I Heard You Calling My Name,Pam Hobbs,88,1981-05-02,1981-05-09,24,2
+606,Stand By Your Man,David Allan Coe,88,1981-03-14,1981-03-28,24,3
+607,Do Fish Swim?,Wickline,90,1981-03-28,1981-04-11,24,3
+608,Until The Bitter End,Faron Young,88,1981-04-25,1981-05-02,23,2
+609,"Get Me High, Off This Low",Gary Goodnight,90,1981-03-21,1981-04-04,23,3
+610,Barely Gettin' By,Sawmill Creek,90,1981-10-24,1981-11-07,23,3
+611,Makin' Believe,Paul Williams,93,1981-12-12,1981-12-26,23,3
+612,Mis'ry River,Terri Gibbs,79,1981-12-26,1981-12-26,22,1
+613,It's Like Falling In Love (Over And Over Again),Chris Waters,89,1981-03-07,1981-03-14,22,2
+614,Whiskey Made Me Stumble,Bill Anderson,81,1981-12-26,1981-12-26,20,1
+615,Frustration,Wyvon Alexander,90,1981-02-14,1981-02-21,20,2
+616,You're The Reason,John Rex Reeves,90,1981-08-01,1981-08-08,20,2
+617,Cheater's Last Chance,Larry Riley,90,1981-01-17,1981-01-24,20,2
+618,Losin' Myself In You,Gary Goodnight,90,1981-11-28,1981-12-12,20,3
+619,Slow Texas Dancin,Donna Hazard,82,1981-12-26,1981-12-26,19,1
+620,Did We Fall Out Of Love,Tricia Johns,90,1981-01-03,1981-01-10,19,2
+621,Make Me Believe,Gary Goodnight,91,1981-01-24,1981-01-31,19,2
+622,(Frenchie Burke's) Fire On The Mountain,Fiddlin' Frenchie Burke,93,1981-03-28,1981-04-11,19,3
+623,Lady,Kenny Rogers,87,1981-01-03,1981-01-10,18,2
+624,Take Me Home With You,Carl Chambers,91,1981-02-28,1981-03-07,18,2
+625,Lady's Man,Music Row,92,1981-05-16,1981-05-23,18,2
+626,Until The Night,Charlie Mccoy And Laney Smallwood,92,1981-12-19,1981-12-26,18,2
+627,Where Cheaters Go,Ben Marney,92,1981-07-18,1981-07-25,17,2
+628,Barroom Games,Mike Campbell,85,1981-12-26,1981-12-26,16,1
+629,Lovin' You Lightly,Bonnie Shannon,88,1981-01-03,1981-01-10,16,2
+630,Whiskey River,Johnny Bush,92,1981-02-28,1981-03-07,16,2
+631,This Ain't Tennessee And He Ain't You,Gypsy Martin,93,1981-10-10,1981-10-17,16,2
+632,Old Fashioned Lover (In A Brand New Love Affair),Michele,93,1981-07-25,1981-08-01,16,2
+633,You're The Only Dancer,Pam Hobbs,93,1981-09-26,1981-10-03,16,2
+634,Baby Loved Me,Ronnie Speeks,93,1981-01-17,1981-01-24,16,2
+635,Gold Cadillac,Tom Carlile,93,1981-06-20,1981-06-27,16,2
+636,We're Building Our Love On A Rock,Lou Hobbs,93,1981-09-05,1981-09-12,16,2
+637,If You Ever Change Your Mind,Crystal Gayle,89,1981-01-03,1981-01-10,14,2
+638,Friends Before Lovers,Gabriel,93,1981-04-18,1981-04-25,14,2
+639,What Would You Do,John Rex Reeves,93,1981-02-21,1981-02-28,14,2
+640,Mexican Girl,Michael Tate,93,1981-03-07,1981-03-14,14,2
+641,Sweet Home Alabama,The Charlie Daniels Band,94,1981-07-25,1981-08-01,14,2
+642,You And Me And Tennessee,Roger Ivie And Silvercreek,94,1981-09-12,1981-09-19,14,2
+643,Full Moon Empty Pockets,Montana Skyline,88,1981-12-26,1981-12-26,13,1
+644,Cheaters Trap,John Wesley Ryles,90,1981-01-03,1981-01-10,12,2
+645,Beethoven Was Before My Time,Jerry Dycke,94,1981-02-28,1981-03-07,12,2
+646,You're The Reason,Sligo Studio Band,94,1981-04-18,1981-04-25,12,2
+647,"Urban Cowboys, Outlaws, Cavaleers",James Marvell,94,1981-03-14,1981-03-21,12,2
+648,Without You,Buck Owens,92,1981-05-30,1981-06-06,11,2
+649,Whatever Happened To Those Drinking Songs,Foxfire,91,1981-01-03,1981-01-03,10,1
+650,Green Eyed Girl,Sean Morton Downey,95,1981-03-14,1981-03-21,10,2
+651,We Could Go On Forever,E.W.B.,96,1981-09-12,1981-09-19,10,2
+652,Footsteps,Jimmy McMillan,92,1981-01-03,1981-01-03,9,1
+653,Code-A-Phone,Larry Riley,93,1981-05-30,1981-06-06,9,2
+654,Cajun Lady,Ralph May,93,1981-05-02,1981-05-09,8,2
+655,Her Empty Pillow (Lying Next To Mine),Jimmy McMillan,96,1981-03-14,1981-03-21,8,2
+656,North Of The Border,Johnny Rodriguez,94,1981-01-03,1981-01-03,7,1
+657,I Musta Died And Gone To Texas,Amazing Rhythm Aces,95,1981-01-03,1981-01-03,6,1
+658,A Little Bitty Tear,Hank Cochran,96,1981-01-03,1981-01-03,5,1
+659,"Hold Me, Thrill Me, Kiss Me",Micki Fuhrman,97,1981-01-03,1981-01-03,4,1
+660,Somebody's Got To Do The Losing,Stephany Samone,98,1981-01-03,1981-01-03,3,1
+661,Fat 'n' Sassy,Pacific Steel Company,99,1981-01-03,1981-01-03,2,1
+662,She Can't Say That Anymore,John Conlee,100,1981-01-03,1981-01-03,1,1

@@ -1,0 +1,456 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Cracked Rear View,Hootie & The Blowfish,1,1995-01-07,1995-12-30,8276,52
+2,CrazySexyCool,TLC,3,1995-01-07,1995-12-30,6461,52
+3,II,Boyz II Men,1,1995-01-07,1995-12-30,5784,52
+4,Throwing Copper,Live,1,1995-01-07,1995-12-30,5642,52
+5,The Hits,Garth Brooks,1,1995-01-07,1995-12-30,5564,52
+6,Hell Freezes Over,Eagles,3,1995-01-07,1995-12-30,4960,52
+7,Dookie,Green Day,2,1995-01-07,1995-10-28,3947,43
+8,Jagged Little Pill,Alanis Morissette,1,1995-07-08,1995-12-30,3879,26
+9,The Woman In Me,Shania Twain,6,1995-04-29,1995-12-30,3438,36
+10,Sixteen Stone,Bush,13,1995-02-11,1995-12-30,3416,47
+11,John Michael Montgomery,John Michael Montgomery,5,1995-04-15,1995-12-30,3391,38
+12,No Need To Argue,The Cranberries,6,1995-01-07,1995-11-11,3364,45
+13,Under The Table And Dreaming,Dave Matthews Band,11,1995-02-11,1995-12-30,3301,47
+14,The Lion King,Soundtrack,1,1995-01-07,1995-09-23,3290,38
+15,Tuesday Night Music Club,Sheryl Crow,3,1995-01-07,1995-10-21,3258,42
+16,four,Blues Traveler,8,1995-04-08,1995-12-30,3145,39
+17,Pulp Fiction,Soundtrack,21,1995-01-07,1995-12-30,2926,52
+18,Smash,The Offspring,6,1995-01-07,1995-10-14,2907,41
+19,Dangerous Minds,Soundtrack,1,1995-08-19,1995-12-30,2824,20
+20,Vitalogy,Pearl Jam,2,1995-01-07,1995-09-09,2801,36
+21,Me Against The World,2Pac,1,1995-04-01,1995-10-07,2745,28
+22,Pocahontas,Soundtrack,1,1995-06-17,1995-12-30,2697,29
+23,"Astro Creep: 2000 Songs Of Love, Destruction",White Zombie,6,1995-04-29,1995-12-30,2662,36
+24,Forrest Gump,Soundtrack,4,1995-01-07,1995-12-30,2461,43
+25,Friday,Soundtrack,1,1995-04-29,1995-11-11,2441,26
+26,E. 1999 Eternal,Bone Thugs-N-Harmony,1,1995-08-12,1995-12-30,2415,21
+27,Balance,Van Halen,1,1995-02-11,1995-09-30,2409,34
+28,Yes I Am,Melissa Etheridge,15,1995-01-07,1995-09-30,2354,39
+29,Now That I've Found You: A Collection,Alison Krauss,13,1995-03-11,1995-12-30,2321,43
+30,Brandy,Brandy,20,1995-01-07,1995-10-21,2312,42
+31,Not A Moment Too Soon,Tim McGraw,13,1995-01-07,1995-11-04,2226,44
+32,MTV Unplugged In New York,Nirvana,7,1995-01-07,1995-09-09,2211,36
+33,"HIStory: Past, Present And Future Book 1",Michael Jackson,1,1995-07-08,1995-12-30,2181,26
+34,Collective Soul,Collective Soul,23,1995-04-01,1995-12-30,2178,40
+35,Greatest Hits,Bruce Springsteen,1,1995-03-18,1995-08-26,2174,24
+36,My Life,Mary J. Blige,7,1995-01-07,1995-08-12,2150,32
+37,Greatest Hits,Bob Seger & The Silver Bullet Band,11,1995-01-07,1995-11-18,2146,41
+38,Wildflowers,Tom Petty,9,1995-01-07,1995-09-09,2138,36
+39,Tigerlily,Natalie Merchant,13,1995-07-08,1995-12-30,2134,26
+40,Daydream,Mariah Carey,1,1995-10-21,1995-12-30,2101,11
+41,Medusa,Annie Lennox,11,1995-04-01,1995-11-04,2099,32
+42,Dreaming Of You,Selena,1,1995-08-05,1995-12-30,2083,22
+43,Batman Forever,Soundtrack,5,1995-06-24,1995-12-30,2033,28
+44,Bedtime Stories,Madonna,13,1995-01-07,1995-08-05,1908,31
+45,Ready To Die,The Notorious B.I.G.,29,1995-01-14,1995-10-07,1841,39
+46,Weezer,Weezer,16,1995-01-07,1995-10-28,1840,35
+47,This Is How We Do It,Montell Jordan,12,1995-04-22,1995-10-14,1835,26
+48,You Might Be A Redneck If...,Jeff Foxworthy,38,1995-01-07,1995-10-07,1824,40
+49,Games Rednecks Play,Jeff Foxworthy,8,1995-08-05,1995-12-30,1818,22
+50,Frogstomp,Silverchair,9,1995-07-29,1995-12-30,1803,23
+51,Seal,Seal,15,1995-07-01,1995-12-30,1753,27
+52,Another Night,Real McCoy,13,1995-04-15,1995-10-14,1746,27
+53,Big Ones,Aerosmith,8,1995-01-07,1995-06-24,1483,25
+54,I Ain't Movin',Des'ree,27,1995-01-21,1995-07-29,1454,28
+55,"The Show, The After Party, The Hotel",Jodeci,2,1995-08-05,1995-12-23,1421,21
+56,The Downward Spiral,Nine Inch Nails,44,1995-01-07,1995-10-07,1379,37
+57,Candy Rain,Soul For Real,23,1995-04-15,1995-09-23,1367,24
+58,All I Want,Tim McGraw,4,1995-10-07,1995-12-30,1365,13
+59,Off The Hook,Xscape,23,1995-08-05,1995-12-30,1356,22
+60,Greatest Hits 1985-1995,Michael Bolton,5,1995-10-07,1995-12-30,1328,13
+61,Christmas In The Aire,Mannheim Steamroller,3,1995-09-30,1995-12-30,1322,14
+62,From The Bottom Up,Brownstone,29,1995-01-28,1995-08-26,1320,28
+63,The Show,Soundtrack,4,1995-09-02,1995-11-25,1279,13
+64,The Best Of Sade,Sade,23,1995-01-07,1995-07-15,1256,27
+65,One Hot Minute,Red Hot Chili Peppers,4,1995-09-30,1995-12-30,1244,14
+66,The Sign,Ace Of Base,21,1995-01-07,1995-06-24,1232,25
+67,Creepin On Ah Come Up (EP),Bone Thugs-N-Harmony,28,1995-01-07,1995-08-26,1232,25
+68,Foo Fighters,Foo Fighters,23,1995-07-22,1995-12-30,1227,24
+69,Let Your Dim Light Shine,Soul Asylum,6,1995-06-24,1995-10-14,1202,17
+70,And The Music Speaks,All-4-One,27,1995-06-24,1995-11-25,1183,22
+71,Monster,R.E.M.,14,1995-01-07,1995-07-15,1175,25
+72,L.P.,The Rembrandts,23,1995-06-10,1995-10-07,1152,18
+73,Pulse,Pink Floyd,1,1995-06-24,1995-10-07,1144,16
+74,Deluxe,Better Than Ezra,35,1995-05-20,1995-10-21,1139,23
+75,Cross Road,Bon Jovi,14,1995-01-07,1995-05-13,1138,19
+76,Live At The Acropolis,Yanni,31,1995-01-07,1995-12-30,1127,33
+77,Made In England,Elton John,13,1995-04-08,1995-09-09,1118,23
+78,The Icon Is Love,Barry White,25,1995-01-07,1995-06-03,1107,22
+79,No Ordinary Man,Tracy Byrd,30,1995-03-04,1995-08-19,1103,25
+80,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,1,1995-11-11,1995-12-30,1083,8
+81,Design Of A Decade 1986/1996,Janet Jackson,3,1995-10-28,1995-12-30,1058,10
+82,The Greatest Hits Collection,Alan Jackson,5,1995-11-11,1995-12-30,1050,8
+83,The Presidents Of The United States Of America,The Presidents Of The United States Of America,20,1995-09-16,1995-12-30,1044,16
+84,Purple,Stone Temple Pilots,22,1995-01-07,1995-06-17,1038,23
+85,Operation Stackola,Luniz,20,1995-07-22,1995-11-18,1024,18
+86,ESPN Presents: Jock Jams Volume 1,Various Artists,30,1995-08-12,1995-12-30,1023,21
+87,Starting Over,Reba McEntire,5,1995-10-21,1995-12-30,1022,11
+88,Forever Blue,Chris Isaak,31,1995-06-10,1995-10-14,1017,19
+89,Tales From The Punch Bowl,Primus,8,1995-06-24,1995-10-07,1009,16
+90,"Hold Me, Thrill Me, Kiss Me",Gloria Estefan,34,1995-01-07,1995-05-27,999,21
+91,Insomniac,Green Day,2,1995-10-28,1995-12-30,988,10
+92,August And Everything After,Counting Crows,34,1995-01-07,1995-06-10,975,23
+93,Miss Thang,Monica,36,1995-08-05,1995-12-30,958,22
+94,Live Through This,Hole,52,1995-01-07,1995-09-30,946,39
+95,Mortal Kombat,Soundtrack,10,1995-09-09,1995-12-16,945,15
+96,Do You Wanna Ride?,Adina Howard,39,1995-03-18,1995-07-29,937,20
+97,Ballbreaker,AC/DC,4,1995-10-14,1995-12-30,908,12
+98,Poverty's Paradise,Naughty By Nature,3,1995-06-17,1995-09-09,900,13
+99,Encomium: A Tribute To Led Zeppelin,Various Artists,17,1995-04-08,1995-07-08,900,14
+100,Candlebox,Candlebox,26,1995-01-07,1995-06-03,896,21
+101,The Tractors,The Tractors,19,1995-01-07,1995-06-03,880,19
+102,The Lion King: Rhythm Of The Pride Lands,Various Artists Featuring Lebo M,23,1995-03-18,1995-07-01,878,15
+103,These Days,Bon Jovi,9,1995-07-15,1995-10-21,873,15
+104,Boys On The Side,Soundtrack,17,1995-02-18,1995-05-27,859,15
+105,Boombastic,Shaggy,34,1995-07-29,1995-11-25,859,18
+106,Only Built 4 Cuban Linx...,Raekwon Guest Starring Tony Starks (Ghost Face Killer),4,1995-08-19,1995-11-11,858,13
+107,Tical,Method Man,55,1995-01-07,1995-07-22,841,29
+108,Faith,Faith Evans,22,1995-09-16,1995-12-16,838,14
+109,Brown Sugar,D'Angelo,42,1995-07-22,1995-12-09,834,21
+110,Waiting To Exhale,Soundtrack,3,1995-12-02,1995-12-30,813,5
+111,Cocktails,Too $hort,6,1995-02-11,1995-04-22,801,11
+112,Lead On,George Strait,49,1995-01-07,1995-06-24,801,24
+113,Return To The 36 Chambers,Ol' Dirty Bastard,7,1995-04-15,1995-07-29,800,16
+114,Murder Was The Case,Soundtrack,16,1995-01-07,1995-04-22,795,16
+115,Anthology 1,The Beatles,1,1995-12-09,1995-12-30,789,4
+116,In A Major Way,E-40,13,1995-04-01,1995-07-29,781,18
+117,Bad Boys,Soundtrack,26,1995-04-15,1995-07-29,776,16
+118,Who I Am,Alan Jackson,35,1995-01-07,1995-07-15,774,22
+119,Dogg Food,Tha Dogg Pound,1,1995-11-18,1995-12-30,770,7
+120,Greatest Hits -- From The Beginning,Travis Tritt,21,1995-09-30,1995-12-30,765,14
+121,A Boy Named Goo,Goo Goo Dolls,39,1995-09-30,1995-12-30,731,14
+122,Rhythm Of Love,Anita Baker,38,1995-01-07,1995-04-15,729,15
+123,Above,Mad Season,24,1995-04-01,1995-07-15,720,16
+124,Barometer Soup,Jimmy Buffett,6,1995-08-19,1995-11-04,718,12
+125,Fresh Horses,Garth Brooks,2,1995-12-09,1995-12-30,712,4
+126,Superunknown,Soundgarden,37,1995-01-07,1995-05-06,697,18
+127,Read My Mind,Reba McEntire,54,1995-01-07,1995-09-02,695,28
+128,The Long Black Veil,The Chieftains,22,1995-02-11,1995-04-22,694,11
+129,Breathless,Kenny G,46,1995-01-07,1995-12-30,678,27
+130,Amor Prohibido,Selena,29,1995-04-15,1995-08-05,669,15
+131,The Infamous,Mobb Deep,18,1995-05-13,1995-08-12,668,14
+132,I Remember You,Brian McKnight,22,1995-08-26,1995-11-18,663,13
+133,Fields Of Gold - Best Of Sting 1984-1994,Sting,27,1995-01-07,1995-04-01,662,13
+134,Rotting Pinata,Sponge,58,1995-03-11,1995-09-16,653,27
+135,Ozzmosis,Ozzy Osbourne,4,1995-11-11,1995-12-30,649,8
+136,R. Kelly,R. Kelly,1,1995-12-02,1995-12-30,636,5
+137,Conspiracy,Junior M.A.F.I.A.,8,1995-09-16,1995-11-18,627,10
+138,Mirror Ball,Neil Young,5,1995-07-15,1995-09-16,621,10
+139,New Jersey Drive Vol. 1,Soundtrack,22,1995-04-15,1995-06-24,621,11
+140,It Matters To Me,Faith Hill,36,1995-09-16,1995-12-30,619,16
+141,Safe + Sound,DJ Quik,14,1995-03-11,1995-05-20,618,11
+142,The Diary,Scarface,45,1995-01-07,1995-04-15,616,15
+143,Dead Presidents,Soundtrack,14,1995-10-14,1995-12-16,614,10
+144,Friends,Soundtrack,41,1995-10-14,1995-12-30,614,12
+145,When Love Finds You,Vince Gill,57,1995-01-07,1995-12-30,609,27
+146,From The Cradle,Eric Clapton,20,1995-01-07,1995-04-08,604,14
+147,Mack 10,Mack 10,33,1995-07-08,1995-10-07,601,14
+148,Greatest Hits 1990-1995,Sawyer Brown,44,1995-02-11,1995-06-10,596,18
+149,Alice In Chains,Alice In Chains,1,1995-11-25,1995-12-30,595,6
+150,Tails,Lisa Loeb & Nine Stories,30,1995-10-14,1995-12-30,587,12
+151,If I Could Make A Living,Clay Walker,42,1995-01-28,1995-05-13,585,16
+152,Something To Remember,Madonna,6,1995-11-25,1995-12-30,577,6
+153,Live At The BBC,The Beatles,10,1995-01-07,1995-03-18,563,11
+154,Cypress Hill III (Temple Of Boom),Cypress Hill,3,1995-11-18,1995-12-30,557,7
+155,Ready To Wear (Pret-A-Porter),Soundtrack,29,1995-01-14,1995-03-25,557,11
+156,Bootlegs & B-Sides,Ice Cube,43,1995-01-07,1995-04-08,551,14
+157,Stones In The Road,Mary Chapin Carpenter,45,1995-01-07,1995-04-08,547,14
+158,Father And Son,"Gerald Levert & Eddie Levert, Sr.",20,1995-10-14,1995-12-16,546,10
+159,Strait Out Of The Box,George Strait,47,1995-09-30,1995-12-30,535,14
+160,Rubberneck,Toadies,56,1995-09-16,1995-12-30,526,16
+161,Gangsta's Paradise,Coolio,11,1995-11-25,1995-12-30,516,6
+162,Strong Enough,BlackHawk,22,1995-09-30,1995-12-02,508,10
+163,Greatest Hits,Lorrie Morgan,46,1995-07-15,1995-10-28,498,15
+164,Third Rock From The Sun,Joe Diffie,59,1995-01-07,1995-05-13,491,19
+165,Further Down The Spiral (EP),Nine Inch Nails,23,1995-06-17,1995-09-02,490,12
+166,I Wish,Skee-Lo,53,1995-07-15,1995-10-21,490,15
+167,Tales From The Hood,Soundtrack,16,1995-05-27,1995-07-22,487,9
+168,Nineteen Ninety Quad,69 Boyz,59,1995-01-07,1995-05-06,487,18
+169,The Remix Collection,Boyz II Men,17,1995-11-25,1995-12-30,482,6
+170,Vault: Greatest Hits 1980-1995,Def Leppard,15,1995-11-18,1995-12-30,476,7
+171,Short Bus,Filter,59,1995-06-10,1995-09-23,474,16
+172,Songs,Luther Vandross,34,1995-01-07,1995-04-01,471,13
+173,Greatest Hits,Tom Petty And The Heartbreakers,63,1995-01-07,1995-09-02,468,29
+174,When I Woke,Rusted Root,51,1995-07-22,1995-11-04,465,16
+175,Thinkin' About You,Trisha Yearwood,28,1995-03-04,1995-06-03,462,14
+176,Head Over Heels,Paula Abdul,18,1995-07-01,1995-08-26,456,9
+177,Don Juan Demarco,Soundtrack,61,1995-05-06,1995-09-02,455,18
+178,Conversation Peace,Stevie Wonder,16,1995-04-08,1995-06-03,454,9
+179,I'll Lead You Home,Michael W. Smith,16,1995-09-09,1995-12-09,451,12
+180,Waitin' On Sundown,Brooks & Dunn,34,1995-01-07,1995-10-28,442,16
+181,Miracles: The Holiday Album,Kenny G,2,1995-01-07,1995-02-04,436,5
+182,Higher Learning,Soundtrack,39,1995-01-28,1995-03-25,436,9
+183,Reflections,After 7,40,1995-08-05,1995-10-21,434,12
+184,Your Little Secret,Melissa Etheridge,6,1995-12-02,1995-12-30,433,5
+185,Relish,Joan Osborne,41,1995-10-28,1995-12-30,423,10
+186,Days Like This,Van Morrison,33,1995-07-08,1995-09-16,410,11
+187,Stripped,The Rolling Stones,9,1995-12-02,1995-12-30,395,5
+188,The Gold Experience,Prince,6,1995-10-14,1995-11-18,383,6
+189,It's A Mystery,Bob Seger & The Silver Bullet Band,27,1995-11-11,1995-12-30,383,8
+190,No Quarter,Jimmy Page & Robert Plant,42,1995-01-07,1995-03-04,379,9
+191,Out With A Bang,David Lee Murphy,52,1995-09-23,1995-12-30,378,15
+192,Blackstreet,BLACKstreet,59,1995-01-07,1995-04-22,376,16
+193,Post,Bjork,32,1995-07-01,1995-09-23,375,13
+194,I Think About You,Collin Raye,40,1995-09-09,1995-12-30,373,11
+195,Metallica,Metallica,78,1995-01-14,1995-10-21,370,36
+196,Lucy,Candlebox,11,1995-10-21,1995-12-02,365,7
+197,I See It Now,Tracy Lawrence,57,1995-01-14,1995-07-15,356,12
+198,MTV Unplugged,Bob Dylan,23,1995-05-20,1995-07-01,354,7
+199,Souvenirs,Vince Gill,11,1995-12-09,1995-12-30,353,4
+200,Jason's Lyric,Soundtrack,47,1995-01-07,1995-03-04,350,9
+201,A Live One,Phish,18,1995-07-15,1995-09-09,343,9
+202,Regulate...G Funk Era,Warren G,36,1995-01-07,1995-03-11,341,10
+203,Spanner In The Works,Rod Stewart,35,1995-06-24,1995-08-12,338,8
+204,The Bridge,Ace Of Base,32,1995-12-02,1995-12-30,336,5
+205,Welcome To The Neighborhood,Meat Loaf,17,1995-12-02,1995-12-30,334,5
+206,Q's Jook Joint,Quincy Jones,32,1995-11-25,1995-12-30,332,6
+207,Merry Christmas,Mariah Carey,6,1995-01-07,1995-02-04,329,5
+208,Circus,Lenny Kravitz,10,1995-09-30,1995-11-04,325,6
+209,The Sweetest Days,Vanessa Williams,57,1995-01-07,1995-04-08,325,11
+210,Bette Of Roses,Bette Midler,45,1995-08-05,1995-12-30,320,13
+211,Whaler,Sophie B. Hawkins,65,1995-09-16,1995-12-30,316,16
+212,All-4-One,All-4-One,66,1995-01-07,1995-04-01,313,13
+213,...And Out Come The Wolves,Rancid,45,1995-09-09,1995-11-04,307,9
+214,Kirk Franklin And The Family,Kirk Franklin And The Family,58,1995-02-18,1995-06-10,307,17
+215,Greatest Hits III,Alabama,56,1995-01-21,1995-06-17,302,19
+216,Wild Seed-Wild Flower,Dionne Farris,57,1995-03-25,1995-06-17,302,13
+217,Live At Red Rocks,John Tesh,54,1995-03-25,1995-07-01,298,13
+218,Liquid Swords,Genius/GZA,9,1995-11-25,1995-12-23,296,5
+219,On Top Of The World,8Ball & MJG,8,1995-11-18,1995-12-16,291,5
+220,The Jerky Boys 2,The Jerky Boys,45,1995-01-07,1995-03-11,291,10
+221,All You Can Eat,k.d. lang,37,1995-10-28,1995-12-02,289,6
+222,The Ghost Of Tom Joad,Bruce Springsteen,11,1995-12-09,1995-12-30,287,4
+223,House Of Love,Amy Grant,55,1995-01-07,1995-03-18,286,11
+224,Dumb And Dumber,Soundtrack,62,1995-01-21,1995-03-18,286,9
+225,Definitely Maybe,Oasis,58,1995-03-11,1995-05-06,279,9
+226,Empire Records,Soundtrack,63,1995-09-09,1995-11-11,279,10
+227,Pocahontas Sing-Along (EP),Soundtrack Cast,46,1995-07-01,1995-08-19,277,8
+228,MTV Party To Go Volume 6,Various Artists,54,1995-01-07,1995-03-11,276,10
+229,Thank You,Duran Duran,19,1995-04-22,1995-05-20,275,5
+230,The Bridges Of Madison County,Soundtrack,47,1995-06-24,1995-08-05,273,7
+231,Mr. Smith,LL Cool J,23,1995-12-09,1995-12-30,271,4
+232,1995 Grammy Nominees,Various Artists,26,1995-03-04,1995-04-08,270,6
+233,Clueless,Soundtrack,49,1995-08-12,1995-09-23,267,7
+234,This Is Christmas,Luther Vandross,28,1995-12-02,1995-12-30,262,5
+235,Road Tested,Bonnie Raitt,44,1995-11-25,1995-12-30,244,6
+236,Jesus Freak,dc Talk,16,1995-12-09,1995-12-30,239,4
+237,Hot House,Bruce Hornsby,68,1995-08-05,1995-09-30,234,9
+238,Duets II,Frank Sinatra,22,1995-01-07,1995-02-11,232,6
+239,Doe Or Die,AZ,15,1995-10-28,1995-11-18,231,4
+240,Something Special,Dolly Parton,54,1995-09-16,1995-11-18,229,10
+241,KRS-One,KRS-One,19,1995-10-28,1995-11-18,223,4
+242,Gone,Dwight Yoakam,30,1995-11-18,1995-12-23,222,6
+243,Panther,Soundtrack,37,1995-05-20,1995-06-17,216,5
+244,Soup,Blind Melon,28,1995-09-02,1995-10-07,208,6
+245,You Gotta Love That,Neal McCoy,68,1995-02-18,1995-04-08,208,8
+246,What A Crying Shame,The Mavericks,75,1995-02-25,1995-06-03,202,12
+247,Very Necessary,Salt-N-Pepa,62,1995-01-07,1995-03-25,200,11
+248,Hundred Year Hall,Grateful Dead,26,1995-10-14,1995-11-04,196,4
+249,Pisces Iscariot,The Smashing Pumpkins,40,1995-01-07,1995-02-04,196,5
+250,Hold It Down,Das EFX,22,1995-10-14,1995-11-04,192,4
+251,To Bring You My Love,PJ Harvey,40,1995-03-18,1995-04-22,190,6
+252,Immortal Beloved,Soundtrack,63,1995-02-04,1995-03-18,190,7
+253,Elastica,Elastica,66,1995-05-13,1995-07-08,188,9
+254,Conversation,Twinz,36,1995-09-09,1995-10-07,186,5
+255,Love Lessons,Tracy Byrd,44,1995-08-05,1995-09-02,185,5
+256,Solo,Solo,66,1995-09-30,1995-11-18,183,8
+257,Braveheart,Soundtrack,59,1995-06-17,1995-07-29,179,7
+258,Game Related,The Click,21,1995-11-25,1995-12-16,174,4
+259,MTV Party To Go Volume 7,Various Artists,54,1995-11-18,1995-12-30,173,7
+260,Actual Miles  Henley's Greatest Hits,Don Henley,48,1995-12-09,1995-12-30,170,4
+261,Music For All Occasions,The Mavericks,58,1995-10-14,1995-11-11,168,5
+262,Surrender,Kut Klose,66,1995-05-13,1995-06-24,168,7
+263,Tattooed Heart,Aaron Neville,64,1995-05-13,1995-08-05,167,9
+264,The Colour Of My Love,Celine Dion,70,1995-01-07,1995-06-17,165,11
+265,The Memory Of Trees,Enya,18,1995-12-23,1995-12-30,163,2
+266,Music Box,Mariah Carey,72,1995-01-07,1995-03-04,163,9
+267,1200 Curfews,Indigo Girls,40,1995-10-28,1995-11-25,162,5
+268,"4,5,6",Kool G Rap,24,1995-10-14,1995-11-04,160,4
+269,Voodoo Lounge,The Rolling Stones,47,1995-01-07,1995-02-04,160,5
+270,Outside,David Bowie,21,1995-10-14,1995-11-04,159,4
+271,The Lion King Sing-Along (EP),Soundtrack Cast,48,1995-01-14,1995-05-06,158,8
+272,Dance Mix U.S.A. Vol. 3,Various Artists,71,1995-05-13,1995-06-24,155,7
+273,All We Got Iz Us,Onyx,22,1995-11-11,1995-11-25,151,3
+274,Greatest Hits,Stevie Ray Vaughan And Double Trouble,39,1995-11-18,1995-12-30,151,7
+275,Blackface,Shai,42,1995-11-04,1995-11-25,147,4
+276,100% Fun,Matthew Sweet,65,1995-04-01,1995-07-08,147,9
+277,American Thighs,Veruca Salt,69,1995-01-14,1995-02-18,147,6
+278,Kickin' It Up,John Michael Montgomery,65,1995-01-07,1995-06-03,141,7
+279,Phantom Of The Rapra,Bushwick Bill,43,1995-07-29,1995-08-19,138,4
+280,2000,Grand Puba,48,1995-07-08,1995-07-29,138,4
+281,Desperado,Soundtrack,53,1995-09-16,1995-10-07,136,4
+282,Youthanasia,Megadeth,58,1995-01-07,1995-02-11,136,6
+283,In Light Syrup,Toad The Wet Sprocket,37,1995-11-11,1995-12-02,135,4
+284,Dwight Live,Dwight Yoakam,56,1995-06-10,1995-07-08,132,5
+285,MTV Party To Go Volume 8,Various Artists,65,1995-12-09,1995-12-30,129,4
+286,Subhuman Race,Skid Row,35,1995-04-15,1995-04-29,127,3
+287,What Mattered Most,Ty Herndon,68,1995-05-13,1995-06-24,126,6
+288,The Concert,Barbra Streisand,33,1995-01-07,1995-01-28,123,4
+289,King For A Day/Fool For A Lifetime,Faith No More,31,1995-04-15,1995-04-29,121,3
+290,The 3 Tenors In Concert 1994,"Carreras, Domingo, Pavarotti (Mehta)",30,1995-01-07,1995-01-28,119,4
+291,Kirk Franklin And The Family Christmas,Kirk Franklin And The Family,60,1995-12-16,1995-12-30,114,3
+292,Abriendo Puertas,Gloria Estefan,67,1995-10-14,1995-11-18,111,6
+293,Jamie Walters,Jamie Walters,70,1995-03-25,1995-05-13,110,5
+294,Second Coming,The Stone Roses,47,1995-02-04,1995-03-18,106,7
+295,You Have The Right To Remain Silent,Perfect Stranger,68,1995-08-19,1995-09-23,105,6
+296,1990 Sick,Spice 1,30,1995-12-23,1995-12-30,101,2
+297,Joe Satriani,Joe Satriani,51,1995-10-28,1995-11-11,101,3
+298,Natural Mystic,Bob Marley And The Wailers,67,1995-06-10,1995-07-08,99,5
+299,Chant,The Benedictine Monks Of Santo Domingo De Silos,44,1995-01-07,1995-02-04,98,5
+300,Woodstock 94,Various Artists,56,1995-01-07,1995-01-21,98,3
+301,The Music Of Christmas,Steven Curtis Chapman,61,1995-12-09,1995-12-30,98,4
+302,Double Or Nothing,Erick Sermon,35,1995-11-25,1995-12-02,96,2
+303,R.I.O.T.,Carman,45,1995-11-18,1995-12-09,96,3
+304,Hypnotize The Moon,Clay Walker,57,1995-11-04,1995-11-18,93,3
+305,Dah Shinin',Smif-N-Wessun,59,1995-01-28,1995-02-11,93,3
+306,Bonafide,Jon B,79,1995-07-08,1995-08-26,92,8
+307,Dummy,Portishead,79,1995-02-11,1995-03-18,91,6
+308,Alive In America,Steely Dan,40,1995-11-04,1995-11-11,90,2
+309,MTV Unplugged,Tony Bennett,48,1995-03-18,1995-03-25,90,2
+310,New Beginning,Tracy Chapman,58,1995-12-02,1995-12-30,90,5
+311,(What's The Story) Morning Glory?,Oasis,70,1995-10-21,1995-12-30,89,4
+312,Home,Deep Blue Something,79,1995-10-21,1995-12-30,89,11
+313,Gold: Greatest Hits,ABBA,82,1995-05-06,1995-07-01,89,9
+314,The Cream Of Eric Clapton,Eric Clapton,80,1995-03-25,1995-06-10,88,9
+315,Root Down (EP),Beastie Boys,50,1995-06-10,1995-06-24,87,3
+316,Feels Like Home,Linda Ronstadt,75,1995-04-08,1995-04-29,87,4
+317,3,Firehouse,66,1995-04-29,1995-05-20,86,4
+318,Boheme,Deep Forest,62,1995-07-08,1995-07-29,83,4
+319,Have Yourself A Tractors Christmas,The Tractors,68,1995-12-16,1995-12-30,83,3
+320,Soul Food,Goodie Mob,45,1995-11-25,1995-12-02,81,2
+321,Love Songs From The Movies,Various Artists,51,1995-09-16,1995-09-23,81,2
+322,Fumbling Towards Ecstasy,Sarah McLachlan,82,1995-01-21,1995-04-08,81,8
+323,Tool Box,Aaron Tippin,63,1995-11-11,1995-12-02,79,4
+324,Walk On,John Hiatt,48,1995-11-11,1995-11-25,77,3
+325,Jock Rock Volume 1,Various Artists,79,1995-01-07,1995-02-18,77,6
+326,Dysfunctional,Dokken,47,1995-06-03,1995-06-10,76,2
+327,New Jersey Drive Vol. 2,Soundtrack,58,1995-04-29,1995-05-06,76,2
+328,janet.,Janet Jackson,84,1995-01-07,1995-02-18,74,7
+329,Waiting For The Punchline,Extreme,40,1995-02-25,1995-03-04,72,2
+330,El Concierto,Luis Miguel,45,1995-11-04,1995-11-11,70,2
+331,Labcabincalifornia,The Pharcyde,37,1995-12-02,1995-12-09,67,2
+332,Amerikkka's Nightmare,Spice 1,72,1995-01-14,1995-02-04,67,4
+333,Toni Braxton,Toni Braxton,82,1995-01-07,1995-03-18,66,7
+334,Made In Heaven,Queen,58,1995-11-25,1995-12-02,65,2
+335,Groove Theory,Groove Theory,69,1995-11-11,1995-11-25,64,3
+336,The Jerky Boys,The Jerky Boys,75,1995-02-11,1995-02-25,63,3
+337,Wantin' And Havin' It All,Sawyer Brown,77,1995-09-16,1995-09-30,63,3
+338,Life,Simply Red,75,1995-11-11,1995-12-02,62,4
+339,Silk,Silk,46,1995-12-02,1995-12-09,59,2
+340,Standing On The Edge,John Berry,69,1995-05-27,1995-06-03,59,2
+341,Home,Blessid Union Of Souls,78,1995-06-17,1995-07-08,58,4
+342,Wild Angels,Martina McBride,77,1995-10-14,1995-11-04,55,4
+343,Stomp 442,Anthrax,47,1995-11-11,1995-11-11,54,1
+344,Coast II Coast,Tha Alkaholiks,50,1995-03-18,1995-03-25,53,2
+345,This Is The Shack,The Dove Shack,68,1995-09-09,1995-09-23,53,3
+346,Sex & Violins,Rednex,68,1995-05-20,1995-06-17,53,4
+347,King,Belly,57,1995-03-04,1995-03-11,52,2
+348,Voodoo Soup,Jimi Hendrix,66,1995-04-29,1995-05-06,52,2
+349,12 Super Exitos,Selena,64,1995-05-06,1995-05-13,51,2
+350,Nevermind,Nirvana,74,1995-01-14,1995-04-29,51,5
+351,I Refuse To Be Lonely,Phyllis Hyman,67,1995-11-25,1995-12-02,50,2
+352,Ten,Pearl Jam,84,1995-01-07,1995-02-11,50,6
+353,Greatest Hits,Little Texas,82,1995-10-14,1995-11-04,49,4
+354,Anotha Day Anotha Balla,South Circle,63,1995-07-22,1995-07-29,48,2
+355,Ten Feet Tall & Bulletproof,Travis Tritt,90,1995-06-10,1995-07-22,47,7
+356,311,311,56,1995-08-12,1995-08-19,46,2
+357,Nola,Down,57,1995-10-07,1995-10-14,46,2
+358,Nobody Else,Take That,69,1995-11-18,1995-11-25,46,2
+359,The Jerky Boys,Soundtrack,79,1995-02-11,1995-02-25,46,3
+360,The RBX Files,RBX,62,1995-10-14,1995-10-21,45,2
+361,Change Of Seasons,Dream Theater,58,1995-10-07,1995-10-07,43,1
+362,Station Identification,Channel Live,58,1995-04-08,1995-04-08,43,1
+363,Washing Machine,Sonic Youth,58,1995-10-14,1995-10-14,43,1
+364,Tank Girl,Soundtrack,72,1995-04-15,1995-04-29,43,3
+365,Smells Like Children,Marilyn Manson,59,1995-11-11,1995-11-11,42,1
+366,Jealous One's Envy,Fat Joe,71,1995-11-11,1995-11-18,41,2
+367,New York Undercover,Soundtrack,73,1995-10-07,1995-10-14,41,2
+368,Sinatra 80th - Live In Concert,Frank Sinatra,61,1995-12-30,1995-12-30,40,1
+369,Jazzmatazz Vol.II New Reality,Guru,71,1995-08-05,1995-08-12,40,2
+370,(The Best) Of New Order,New Order,78,1995-04-01,1995-04-08,39,2
+371,Siamese Dream,The Smashing Pumpkins,75,1995-01-07,1995-01-21,37,3
+372,Live!,Selena,79,1995-05-06,1995-05-13,36,2
+373,12 Deadly Cyns...And Then Some,Cyndi Lauper,81,1995-08-12,1995-09-30,36,5
+374,Holly & Ivy,Natalie Cole,66,1995-01-07,1995-01-07,35,1
+375,Sinatra 80th - All The Best,Frank Sinatra,66,1995-12-30,1995-12-30,35,1
+376,South Paw Grammar,Morrissey,66,1995-09-30,1995-09-30,35,1
+377,Singin' With The Big Bands,Barry Manilow,67,1995-01-07,1995-01-07,34,1
+378,Sittin' On Chrome,Masta Ace Incorporated,69,1995-05-20,1995-05-20,32,1
+379,A Winter's Solstice V,Various Artists,85,1995-12-16,1995-12-30,32,3
+380,It's Five O'Clock Somewhere,Slash's Snakepit,70,1995-03-04,1995-03-04,31,1
+381,Playtyme Is Over,Immature,88,1995-01-07,1995-03-11,31,5
+382,She,"Harry Connick, Jr.",71,1995-01-07,1995-01-07,30,1
+383,An All-4-One Christmas,All-4-One,91,1995-12-09,1995-12-23,30,3
+384,Raoul And The Kings Of Spain,Tears For Fears,79,1995-10-28,1995-11-04,29,2
+385,Life Is Good,Emilio,82,1995-10-14,1995-10-21,29,2
+386,Original Soundtrack 1,Passengers,76,1995-11-25,1995-12-02,28,2
+387,Storm In The Heartland,Billy Ray Cyrus,76,1995-01-21,1995-01-28,28,2
+388,Forest,George Winston,75,1995-01-07,1995-01-07,26,1
+389,The Concert Highlights,Barbra Streisand,81,1995-05-27,1995-06-10,25,2
+390,We Live Here,Pat Metheny Group,83,1995-02-04,1995-02-11,25,2
+391,Elixir,Fourplay,90,1995-09-09,1995-10-14,24,4
+392,The Freedom Sessions,Sarah McLachlan,78,1995-04-15,1995-04-15,23,1
+393,Promised Land,Queensryche,91,1995-01-07,1995-01-28,23,4
+394,Apollo 13,Soundtrack,90,1995-07-22,1995-07-29,22,2
+395,Hog Wild,Hank Williams Jr.,91,1995-02-11,1995-02-25,22,3
+396,Saturday Morning Cartoons Greatest Hits,Various Artists,86,1995-12-23,1995-12-30,21,2
+397,The Road Home,Heart,87,1995-09-23,1995-09-30,21,2
+398,Erasure,Erasure,82,1995-11-11,1995-11-11,19,1
+399,Nine Livez,Nine,90,1995-03-25,1995-04-01,19,2
+400,Thrak,King Crimson,83,1995-05-13,1995-05-13,18,1
+401,Eternal E,Eazy-E,84,1995-12-16,1995-12-16,17,1
+402,The Christmas Album Volume II,Neil Diamond,85,1995-01-07,1995-01-07,16,1
+403,Curb Servin',WC & The Maad Circle,85,1995-10-21,1995-10-21,16,1
+404,Live,The Police,86,1995-07-01,1995-07-01,15,1
+405,The Bodyguard,Whitney Houston,86,1995-01-07,1995-01-07,15,1
+406,New Life,Intro,86,1995-11-18,1995-11-18,15,1
+407,Spirit Of the World,Ted Nugent,86,1995-05-20,1995-05-20,15,1
+408,Good News From The Next World,Simple Minds,87,1995-02-25,1995-02-25,14,1
+409,NASCAR: Runnin' Wide Open,Various Artists,90,1995-05-06,1995-05-13,14,2
+410,No Doubt,Petra,91,1995-09-16,1995-09-23,14,2
+411,Tapestry Revisited: A Tribute To Carole King,Various Artists,88,1995-11-25,1995-11-25,13,1
+412,2nd Set,The Allman Brothers Band,88,1995-05-27,1995-05-27,13,1
+413,Thinkin' Problem,David Ball,92,1995-03-25,1995-04-01,12,2
+414,Night And Day,Chicago,90,1995-06-17,1995-06-17,11,1
+415,One Emotion,Clint Black,90,1995-01-07,1995-01-07,11,1
+416,Come Together: America Salutes The Beatles,Various Artists,90,1995-04-22,1995-04-22,11,1
+417,Hidden Treasures (EP),Megadeth,90,1995-08-05,1995-08-05,11,1
+418,I Am An Elastic Firecracker,Tripping Daisy,95,1995-09-02,1995-09-09,11,2
+419,Groove On,Gerald Levert,97,1995-01-28,1995-02-18,11,3
+420,Buy-Product,Various Artists,91,1995-08-26,1995-08-26,10,1
+421,Tomorrow The Green Grass,The Jayhawks,92,1995-03-04,1995-03-04,9,1
+422,Toast To The Ladies,The Whispers,92,1995-04-08,1995-04-08,9,1
+423,Greatest Hits Volume Two,Reba McEntire,92,1995-01-07,1995-01-07,9,1
+424,In Utero,Nirvana,92,1995-01-14,1995-01-14,9,1
+425,Working Class Hero: A Tribute To John Lennon,Various Artists,94,1995-10-28,1995-10-28,7,1
+426,Wrecking Ball,Emmylou Harris,94,1995-10-14,1995-10-14,7,1
+427,Dare Iz A Darkside,Redman,95,1995-01-14,1995-01-21,7,2
+428,Chant Noel,The Benedictine Monks Of Santo Domingo De Silos,95,1995-01-07,1995-01-07,6,1
+429,Classic Disney Vol. I - 60 Years Of Musical Magic,Various Artists,95,1995-05-06,1995-05-06,6,1
+430,Ty England,Ty England,95,1995-09-02,1995-09-02,6,1
+431,Jazz To The World,Various Artists,95,1995-12-30,1995-12-30,6,1
+432,Here's To The Ladies,Tony Bennett,96,1995-11-11,1995-12-30,6,2
+433,About Time,Pennywise,96,1995-07-01,1995-07-01,5,1
+434,Angus,Soundtrack,96,1995-10-07,1995-10-07,5,1
+435,Only Everything,Juliana Hatfield,96,1995-04-15,1995-04-15,5,1
+436,Let's Go,Rancid,97,1995-04-08,1995-04-08,4,1
+437,Celtic Christmas,Various Artists,97,1995-12-23,1995-12-23,4,1
+438,The Unplugged Collection Volume One,Various Artists,97,1995-01-07,1995-01-07,4,1
+439,Entre A Mi Mundo,Selena,97,1995-05-06,1995-05-06,4,1
+440,"Everybody Else Is Doing It, So Why Can't We?",The Cranberries,97,1995-09-02,1995-09-02,4,1
+441,Mighty Morphin Power Rangers,Soundtrack,98,1995-07-22,1995-07-22,3,1
+442,The Division Bell,Pink Floyd,98,1995-01-07,1995-01-07,3,1
+443,Beggin' After Dark,H-Town,98,1995-05-20,1995-05-20,3,1
+444,Old Enough To Know Better,Wade Hayes,99,1995-04-01,1995-04-01,2,1
+445,John Berry,John Berry,99,1995-01-21,1995-01-21,2,1
+446,Sexsational,Tony Thompson,99,1995-07-15,1995-07-15,2,1
+447,My Utmost For His Highest,Various Artists,99,1995-09-23,1995-09-23,2,1
+448,Korn,Korn,99,1995-10-07,1995-10-07,2,1
+449,Ill Communication,Beastie Boys,99,1995-01-14,1995-01-14,2,1
+450,Tales From The Crypt,C-BO,99,1995-06-24,1995-06-24,2,1
+451,The Phantom Of The Opera: Highlights,Original London Cast Recording,99,1995-07-01,1995-07-01,2,1
+452,Ballin' Out Of Control,AMG,100,1995-06-24,1995-06-24,1,1
+453,The Isle Of View,Pretenders,100,1995-11-18,1995-11-18,1,1
+454,Get A Grip,Aerosmith,100,1995-01-14,1995-01-14,1,1
+455,In Pictures,Alabama,100,1995-10-28,1995-10-28,1,1

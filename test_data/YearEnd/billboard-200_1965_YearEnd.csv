@@ -1,0 +1,559 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Mary Poppins,Soundtrack,1,1965-01-02,1965-12-25,10905,52
+2,The Sound Of Music,Soundtrack,1,1965-03-20,1965-12-25,8467,41
+3,My Fair Lady,Soundtrack,4,1965-01-02,1965-12-25,8201,52
+4,Goldfinger,Soundtrack,1,1965-01-02,1965-12-25,7584,52
+5,Beatles '65,The Beatles,1,1965-01-02,1965-12-25,7541,52
+6,Where Did Our Love Go,The Supremes,2,1965-01-02,1965-12-25,7388,52
+7,Fiddler On The Roof,Original Cast,7,1965-01-02,1965-12-25,6813,52
+8,Beach Boys In Concert,The Beach Boys,2,1965-01-02,1965-12-25,6468,52
+9,People,Barbra Streisand,8,1965-01-02,1965-12-25,6385,52
+10,Dear Heart,Andy Williams,4,1965-04-10,1965-12-25,5744,38
+11,Blue Midnight,Bert Kaempfert And His Orchestra,5,1965-01-23,1965-12-25,5636,49
+12,Introducing Herman's Hermits,Herman's Hermits,2,1965-02-20,1965-11-20,5552,40
+13,You've Lost That Lovin' Feelin',The Righteous Brothers,4,1965-01-23,1965-12-25,5514,49
+14,The Beach Boys Today!,The Beach Boys,4,1965-03-27,1965-12-25,5508,40
+15,Joan Baez/5,Joan Baez,12,1965-01-02,1965-12-25,5453,52
+16,The Return Of Roger Miller,Roger Miller,4,1965-02-06,1965-12-25,5329,47
+17,"The Rolling Stones, Now!",The Rolling Stones,5,1965-03-20,1965-12-25,5282,41
+18,My Name Is Barbra,Barbra Streisand,2,1965-05-22,1965-12-25,5263,32
+19,Whipped Cream & Other Delights,Herb Alpert's Tijuana Brass,1,1965-05-15,1965-12-25,5167,33
+20,Getz/Gilberto,Stan Getz And Joao Gilberto Featuring Antonio Carlos Jobim,17,1965-01-02,1965-12-25,5060,52
+21,Bringing It All Back Home,Bob Dylan,6,1965-05-01,1965-12-25,4956,35
+22,Herman's Hermits On Tour,Herman's Hermits,2,1965-06-19,1965-12-25,4831,28
+23,The Best Of Al Hirt,Al Hirt,13,1965-01-30,1965-11-20,4588,43
+24,L-O-V-E,Nat King Cole,4,1965-02-06,1965-10-23,4570,38
+25,Ramblin' Rose,Nat King Cole,7,1965-03-13,1965-12-25,4557,42
+26,"Hello, Dolly!",Original Cast,13,1965-01-02,1965-11-06,4403,45
+27,Beatles VI,The Beatles,1,1965-06-26,1965-12-25,4363,27
+28,A Song Will Rise,"Peter, Paul & Mary",8,1965-04-10,1965-12-25,4277,38
+29,Getz Au Go Go,The New Stan Getz Quartet Featuring Astrud Gilberto,24,1965-01-02,1965-10-30,4051,44
+30,The Kingsmen In Person,The Kingsmen,46,1965-01-02,1965-12-25,3977,52
+31,My Fair Lady,Original Cast,29,1965-01-02,1965-12-25,3936,52
+32,Out Of Our Heads,The Rolling Stones,1,1965-08-07,1965-12-25,3882,21
+33,Hello Dolly,Louis Armstrong,23,1965-01-02,1965-10-09,3833,41
+34,Help! (Soundtrack),The Beatles,1,1965-08-28,1965-12-25,3730,18
+35,The Pink Panther,Henry Mancini,32,1965-01-02,1965-12-11,3679,50
+36,Honey In The Horn,Al Hirt,20,1965-01-02,1965-09-11,3663,37
+37,Look At Us,Sonny & Cher,2,1965-08-21,1965-12-25,3584,19
+38,The In Crowd,Ramsey Lewis Trio,2,1965-08-14,1965-12-25,3521,20
+39,Zorba The Greek,Soundtrack,26,1965-05-01,1965-12-25,3518,35
+40,Girl Happy,Elvis Presley,8,1965-04-17,1965-11-13,3500,31
+41,Summer Days (And Summer Nights!!),The Beach Boys,2,1965-07-24,1965-12-25,3480,23
+42,Just Once In My Life...,The Righteous Brothers,9,1965-05-29,1965-12-25,3479,31
+43,Downtown,Petula Clark,21,1965-02-13,1965-10-16,3407,36
+44,My Love Forgive Me,Robert Goulet,5,1965-01-02,1965-07-10,3346,28
+45,Unforgettable Wirh Love,Nat King Cole,30,1965-03-20,1965-12-11,3310,39
+46,A Hard Day's Night (Soundtrack),The Beatles,5,1965-01-02,1965-07-03,3296,27
+47,Sam Cooke At The Copa,Sam Cooke,29,1965-01-02,1965-10-02,3233,40
+48,Sinatra '65,Frank Sinatra,9,1965-07-03,1965-12-25,3209,26
+49,The Nancy Wilson Show!,Nancy Wilson,24,1965-02-06,1965-08-21,2998,29
+50,Your Cheatin' Heart,Hank Williams Jr.,16,1965-01-02,1965-09-11,2950,37
+51,Marianne Faithfull,Marianne Faithfull,12,1965-06-05,1965-12-25,2944,30
+52,Roustabout,Soundtrack,1,1965-01-02,1965-05-15,2835,20
+53,All Summer Long,The Beach Boys,26,1965-01-02,1965-07-03,2831,27
+54,"Peter, Paul And Mary In Concert","Peter, Paul & Mary",22,1965-01-02,1965-08-21,2793,34
+55,Everybody Loves Somebody,Dean Martin,12,1965-01-02,1965-07-17,2757,29
+56,The Genius Of Jankowski!,Horst Jankowski,18,1965-05-22,1965-12-18,2614,31
+57,"Softly, As I Leave You",Frank Sinatra,19,1965-01-02,1965-06-26,2602,26
+58,Mr. Tambourine Man,The Byrds,6,1965-06-26,1965-12-25,2582,27
+59,Dear Heart,Jack Jones,11,1965-01-09,1965-06-26,2517,25
+60,12 x 5,The Rolling Stones,3,1965-01-02,1965-11-13,2516,31
+61,The Ventures On Stage,The Ventures,27,1965-06-19,1965-12-25,2511,28
+62,Dear Heart And Other Songs About Love,Henry Mancini,11,1965-01-30,1965-07-17,2497,25
+63,Kinks-Size,The Kinks,13,1965-04-03,1965-10-16,2488,29
+64,More Hits By The Supremes,The Supremes,6,1965-08-21,1965-12-25,2482,19
+65,Pearly Shells,Billy Vaughn And His Orchestra,18,1965-01-02,1965-07-17,2478,29
+66,Dean Martin Hits Again,Dean Martin,13,1965-02-13,1965-08-28,2471,29
+67,Sugar Lips,Al Hirt,21,1965-01-02,1965-07-17,2459,29
+68,Coast To Coast,The Dave Clark Five,6,1965-01-02,1965-05-22,2438,21
+69,Yesterday's Gone,Chad & Jeremy,22,1965-01-02,1965-06-19,2421,25
+70,The 3rd Time Around,Roger Miller,13,1965-07-24,1965-12-25,2419,23
+71,Cast Your Fate To The Wind,Sounds Orchestral,11,1965-05-29,1965-12-04,2404,28
+72,Greatest Hits From The Beginning,The Miracles,21,1965-04-17,1965-10-02,2375,25
+73,A Little Bit Of Heaven,John Gary,17,1965-01-23,1965-09-04,2331,33
+74,That Honey Horn Sound,Al Hirt,28,1965-03-13,1965-09-11,2287,27
+75,Bobby Vinton's Greatest Hits,Bobby Vinton,12,1965-01-02,1965-06-19,2274,25
+76,Horowitz at Carnegie Hall - An Historic Return,Vladimir Horowitz,22,1965-07-24,1965-12-25,2271,23
+77,The Door Is Still Open To My Heart,Dean Martin,9,1965-01-02,1965-06-05,2261,23
+78,"Peter, Paul And Mary","Peter, Paul & Mary",62,1965-01-02,1965-11-06,2259,45
+79,The Incomparable Mantovani,Mantovani,40,1965-01-02,1965-08-28,2223,35
+80,The Nearness Of You,John Gary,11,1965-07-24,1965-12-25,2212,23
+81,"Hush, Hush, Sweet Charlotte",Patti Page,27,1965-05-22,1965-11-13,2211,26
+82,Highway 61 Revisited,Bob Dylan,3,1965-10-02,1965-12-25,2207,13
+83,Elvis For Everyone!,Elvis Presley,10,1965-08-14,1965-12-25,2206,20
+84,Today-My Way,Nancy Wilson,7,1965-06-05,1965-10-23,2201,21
+85,The Temptations Sing Smokey,The Temptations,35,1965-04-03,1965-09-25,2193,26
+86,The Folk Album,Trini Lopez,18,1965-01-30,1965-07-03,2185,23
+87,Red Roses For A Blue Lady,Vic Dana,13,1965-04-10,1965-08-28,2166,21
+88,Moon River & Other Great Movie Themes,Andy Williams,40,1965-01-02,1965-09-18,2138,38
+89,Having A Wild Weekend,The Dave Clark Five,15,1965-08-14,1965-12-25,2135,20
+90,Chim Chim Cher-ee,The New Christy Minstrels,22,1965-06-26,1965-11-20,2124,22
+91,September Of My Year,Frank Sinatra,14,1965-08-21,1965-12-25,2117,19
+92,This Diamond Ring,Gary Lewis And The Playboys,26,1965-03-27,1965-09-11,2082,25
+93,Something New,The Beatles,13,1965-01-02,1965-05-15,2018,20
+94,You Really Got Me,The Kinks,29,1965-01-02,1965-06-05,2012,23
+95,Ferry Cross The Mersey,Gerry And The Pacemakers,13,1965-02-27,1965-07-10,2004,20
+96,"Tony's Greatest Hits, Volume III",Tony Bennett,20,1965-08-21,1965-12-25,2001,19
+97,(Remember Me) I'm The One Who Loves You,Dean Martin,12,1965-08-28,1965-12-25,1998,18
+98,Right Now!,The Righteous Brothers,11,1965-01-02,1965-05-22,1997,21
+99,The Hit Sounds Of The Lettermen,The Lettermen,13,1965-08-21,1965-12-25,1976,19
+100,"The Great Songs From ""My Fair Lady"" And Other Broadway Hits",Andy Williams,11,1965-01-02,1965-05-08,1968,19
+101,Cotton Candy,Al Hirt,24,1965-01-02,1965-05-22,1965,21
+102,The Ventures Knock Me Out!,The Ventures,31,1965-02-13,1965-07-24,1946,24
+103,The Mantovani Sound - Big Hits From Broadway And Hollywood,Mantovani,26,1965-03-20,1965-10-16,1939,31
+104,Some Blue-Eyed Soul,The Righteous Brothers,14,1965-01-16,1965-05-29,1936,20
+105,Monster,Jimmy Smith,35,1965-05-08,1965-10-16,1922,24
+106,The Third Album,Barbra Streisand,43,1965-01-02,1965-09-11,1875,30
+107,Introducing The Beau Brummels,The Beau Brummels,24,1965-05-08,1965-09-25,1843,21
+108,Gentle Is My Love,Nancy Wilson,17,1965-08-28,1965-12-25,1826,18
+109,Red Roses For A Blue Lady,Wayne Newton,17,1965-05-01,1965-09-11,1819,20
+110,"Music From Mary Poppins, The Sound Of Music, My Fair Lady, & Other Great Mo",Ray Conniff,34,1965-06-05,1965-10-09,1807,19
+111,Portrait Of My Love,The Lettermen,27,1965-03-13,1965-08-14,1803,23
+112,Shake,Sam Cooke,44,1965-02-13,1965-07-17,1800,23
+113,The Best Of Jim Reeves,Jim Reeves,27,1965-01-02,1965-05-29,1789,22
+114,Summer Sounds,Robert Goulet,31,1965-08-14,1965-12-18,1788,19
+115,What's New Pussycat?,Soundtrack,14,1965-08-07,1965-12-25,1761,21
+116,"The Academy Award Winning ""Call Me Irresponsible""",Andy Williams,49,1965-01-02,1965-07-17,1760,29
+117,People Get Ready,The Impressions,23,1965-03-06,1965-07-10,1752,19
+118,The Love Album,Trini Lopez,32,1965-06-12,1965-10-16,1714,19
+119,The Roar Of The Greasepaint-The Smell Of The Crowd,Original Cast,54,1965-04-10,1965-11-27,1709,34
+120,Freddie & The Dreamers,Freddie And The Dreamers,19,1965-04-17,1965-08-21,1698,19
+121,My Kind Of Town,Jack Jones,29,1965-05-08,1965-09-25,1695,21
+122,A Bit Of Liverpool,The Supremes,21,1965-01-02,1965-04-17,1694,16
+123,You Don't Have To Be Jewish,Various Artists,9,1965-09-18,1965-12-25,1685,15
+124,Licorice Stick,Pete Fountain,61,1965-01-02,1965-06-19,1672,25
+125,Meanwhile Back At The Whisky A Go Go,Johnny Rivers,21,1965-06-26,1965-10-30,1663,19
+126,Early Beatles,The Beatles,43,1965-04-24,1965-12-11,1663,34
+127,Johnny's Greatest Hits,Johnny Mathis,72,1965-01-02,1965-12-25,1657,30
+128,The Magic Music Of Far Away Places,Bert Kaempfert And His Orchestra,27,1965-09-04,1965-12-25,1654,17
+129,Catch The Wind,Donovan,30,1965-07-17,1965-12-18,1644,23
+130,"The Kingsmen, Volume 3",The Kingsmen,22,1965-02-20,1965-06-19,1635,18
+131,Trini Lopez At PJ's,Trini Lopez,61,1965-01-02,1965-06-26,1626,26
+132,"The Kingsmen, Volume II",The Kingsmen,51,1965-01-02,1965-06-05,1622,23
+133,Funny Girl,Barbra Streisand,22,1965-01-02,1965-04-17,1620,16
+134,Weekend In London,The Dave Clark Five,24,1965-04-03,1965-09-04,1614,23
+135,!!Going Places!!,Herb Alpert & The Tijuana Brass,4,1965-10-16,1965-12-25,1609,11
+136,The Beatles' Story,The Beatles,7,1965-01-02,1965-04-03,1601,14
+137,I Started Out As A Child,Bill Cosby,32,1965-01-02,1965-04-24,1597,17
+138,Why Is There Air?,Bill Cosby,23,1965-08-28,1965-12-25,1588,18
+139,All I Really Want To Do,Cher,16,1965-09-18,1965-12-25,1583,15
+140,This Is New!,The Righteous Brothers,39,1965-06-19,1965-10-30,1578,20
+141,Meet The Beatles!,The Beatles,49,1965-01-02,1965-06-05,1567,23
+142,If I Ruled The World - Songs For The Jet Set,Tony Bennett,47,1965-05-22,1965-10-16,1566,22
+143,South Of The Border,Herb Alpert & The Tijuana Brass,31,1965-01-16,1965-12-25,1564,25
+144,Wooly Bully,Sam The Sham and the Pharaohs,26,1965-06-12,1965-10-09,1554,18
+145,Themes From The James Bond Thrillers,Rola,38,1965-02-27,1965-08-14,1546,25
+146,West Side Story,Soundtrack,57,1965-01-02,1965-06-05,1530,23
+147,Gerry & The Pacemakers Greatest Hits,Gerry And The Pacemakers,44,1965-05-15,1965-10-09,1527,22
+148,Three O'Clock In The Morning,Bert Kaempfert And His Orchestra,42,1965-07-10,1965-12-04,1510,22
+149,The Sidewinder,Lee Morgan,25,1965-01-02,1965-05-01,1509,18
+150,Before And After,Chad & Jeremy,37,1965-06-26,1965-10-23,1504,18
+151,Have You Looked Into Your Heart,Jerry Vale,30,1965-03-06,1965-08-07,1502,23
+152,Who Can I Turn To,Tony Bennett,42,1965-01-02,1965-04-24,1502,17
+153,The Ventures A Go-Go,The Ventures,16,1965-09-25,1965-12-25,1490,14
+154,The King Family Show!,King Family,34,1965-07-10,1965-10-23,1481,16
+155,Soul Sauce,Cal Tjader,52,1965-04-17,1965-10-02,1475,22
+156,The Zombies,The Zombies,39,1965-02-27,1965-06-19,1464,17
+157,"My Name Is Barbra, Two...",Barbra Streisand,2,1965-11-06,1965-12-25,1451,8
+158,Four Tops,Four Tops,63,1965-02-27,1965-11-06,1441,27
+159,The Astrud Gilberto Album,Astrud Gilberto,41,1965-05-15,1965-09-11,1413,18
+160,Organ Grinder Swing,Jimmy Smith,15,1965-09-18,1965-12-25,1400,15
+161,Papa's Got A Brand New Bag,James Brown,36,1965-09-11,1965-12-25,1400,16
+162,A Session With Gary Lewis And The Playboys,Gary Lewis And The Playboys,18,1965-09-18,1965-12-25,1397,15
+163,I've Got A Tiger By The Tail,Buck Owens,43,1965-04-03,1965-08-28,1371,22
+164,"""Pops"" Goes The Trumpet",Boston Pops Orchestra,30,1965-01-02,1965-04-24,1364,17
+165,Baby The Rain Must Fall,Glenn Yarbrough,35,1965-06-12,1965-11-20,1354,24
+166,The Beatles' Second Album,The Beatles,62,1965-01-02,1965-05-08,1344,19
+167,Live At Carnegie Hall,Al Hirt,47,1965-07-24,1965-12-18,1333,22
+168,The People's Choice,Ferrante & Teicher,35,1965-01-02,1965-04-10,1330,15
+169,Mr. Lonely,Bobby Vinton,18,1965-01-16,1965-04-10,1319,13
+170,I Know A Place,Petula Clark,42,1965-05-29,1965-09-18,1307,17
+171,Standing Ovation!,Jerry Vale,55,1965-01-30,1965-05-29,1282,18
+172,Keep On Pushing,The Impressions,15,1965-01-02,1965-03-27,1280,13
+173,Command Performance/Live In Person,Jan & Dean,33,1965-02-27,1965-06-12,1265,16
+174,The Latin Sound Of Henry Mancini,Henry Mancini,46,1965-06-26,1965-10-16,1254,17
+175,Looking Through The Eyes Of Love,Gene Pitney,43,1965-09-18,1965-12-25,1249,15
+176,I Don't Want To Be Hurt Anymore,Nat King Cole,65,1965-01-02,1965-06-05,1239,23
+177,Golden Boy,Original Cast,36,1965-01-02,1965-04-03,1236,14
+178,Another Side Of Bob Dylan,Bob Dylan,56,1965-01-02,1965-12-25,1224,20
+179,The Sound Of Music,Original Cast,82,1965-01-16,1965-11-13,1222,44
+180,In The Wind,"Peter, Paul & Mary",58,1965-01-02,1965-05-01,1221,18
+181,20 Original Winners Of 1964,Various Artists,44,1965-03-20,1965-07-17,1158,18
+182,Them,Them,54,1965-07-24,1965-11-27,1152,19
+183,For Swingin' Livers Only!,Allan Sherman,32,1965-01-02,1965-03-20,1130,12
+184,The Scene Changes,Perry Como,47,1965-05-29,1965-09-18,1127,17
+185,How Glad I Am,Nancy Wilson,16,1965-01-02,1965-04-03,1124,14
+186,Johnny Rivers In Action!,Johnny Rivers,42,1965-02-20,1965-05-22,1117,14
+187,The Cat,Jimmy Smith,17,1965-01-02,1965-04-24,1113,17
+188,Eve Of Destruction,Barry McGuire,37,1965-09-25,1965-12-25,1113,14
+189,"Farewell, Angelina",Joan Baez,10,1965-10-23,1965-12-25,1106,10
+190,We Remember Sam Cooke,The Supremes,75,1965-05-08,1965-09-11,1094,19
+191,"""Live"" At The London Palladium",Judy Garland,41,1965-09-04,1965-12-04,1085,14
+192,Too Many Rivers,Brenda Lee,36,1965-09-25,1965-12-25,1077,14
+193,The Manfred Mann Album,Manfred Mann,35,1965-01-02,1965-03-20,1065,12
+194,She Cried,The Lettermen,41,1965-01-02,1965-03-27,1058,13
+195,Hawaiian Wedding Song,Andy Williams,61,1965-05-22,1965-09-18,1043,18
+196,The Jim Reeves Way,Jim Reeves,45,1965-03-06,1965-05-29,1031,13
+197,Welcome To The Ponderosa,Lorne Greene,35,1965-01-02,1965-04-03,1029,14
+198,We Could,Al Martino,41,1965-02-06,1965-05-15,1025,15
+199,Moon Over Naples,Billy Vaughn And His Orchestra,31,1965-10-09,1965-12-25,1020,12
+200,There Is Only One Roy Orbison,Roy Orbison,55,1965-09-04,1965-12-25,1020,17
+201,Invisible Tears,Ray Conniff,32,1965-01-02,1965-04-03,1018,14
+202,My World,Eddy Arnold,13,1965-10-16,1965-12-25,1011,11
+203,Animal Tracks,The Animals,57,1965-09-18,1965-12-25,995,15
+204,Somebody Else Is Taking My Place,Al Martino,42,1965-06-19,1965-09-04,982,12
+205,Roy Orbison's Greatest Hits,Roy Orbison,44,1965-01-02,1965-03-27,982,13
+206,Begin To Love,Robert Goulet,69,1965-06-05,1965-09-18,973,16
+207,The Best Of Herman's Hermits,Herman's Hermits,5,1965-11-20,1965-12-25,970,6
+208,Johnny Rivers At The Whisky A Go Go,Johnny Rivers,67,1965-01-02,1965-04-24,964,17
+209,Mexican Pearls,Billy Vaughn And His Orchestra,45,1965-04-24,1965-07-31,961,15
+210,Only The Best,Ferrante & Teicher,49,1965-09-11,1965-12-04,954,13
+211,See What Tomorrow Brings,"Peter, Paul & Mary",11,1965-10-30,1965-12-25,936,9
+212,Tour De Farce American History And Other Unrelated Subjects,The Smothers Brothers,58,1965-01-02,1965-05-01,925,18
+213,Live At Basin St. East,Trini Lopez,37,1965-01-02,1965-03-20,923,12
+214,Love Affair,Ray Conniff,54,1965-09-18,1965-12-25,916,15
+215,The New Seekers,The Seekers,62,1965-06-12,1965-09-25,916,16
+216,Welcome To The LBJ Ranch!,Various Artists,3,1965-11-27,1965-12-25,914,5
+217,Days Of Wine And Roses,Andy Williams,83,1965-01-16,1965-06-05,908,21
+218,It's Not Unusual,Tom Jones,54,1965-07-03,1965-10-02,903,14
+219,True Love Ways,Peter And Gordon,49,1965-08-14,1965-11-06,897,13
+220,You Were On My Mind,We Five,32,1965-10-16,1965-12-25,887,11
+221,Dream With Dean,Dean Martin,53,1965-01-02,1965-03-27,885,13
+222,More Of Roy Orbison's Greatest Hits,Roy Orbison,31,1965-01-02,1965-03-13,880,11
+223,It Might As Well Be Swing,Frank Sinatra & Count Basie,43,1965-01-02,1965-03-20,875,12
+224,The Kingston Trio (Nick-Bob-John),The Kingston Trio,53,1965-01-16,1965-04-10,868,13
+225,The Rhythm & Blues Album,Trini Lopez,46,1965-08-28,1965-11-13,861,12
+226,I Go To Pieces,Peter And Gordon,51,1965-05-22,1965-08-28,856,15
+227,The Wonderful World Of Antonio Carlos Jobim,Antonio Carlos Jobim,57,1965-09-11,1965-12-11,851,14
+228,The Great Race,Henry Mancini,63,1965-10-02,1965-12-25,848,13
+229,I'm A Fool,"Dino, Desi & Billy",51,1965-09-25,1965-12-25,839,14
+230,La Bamba,Mongo Santamaria,79,1965-08-28,1965-12-04,839,15
+231,There Goes My Heart,Jerry Vale,42,1965-10-16,1965-12-25,832,11
+232,Looking Back,Nat King Cole,60,1965-09-04,1965-12-04,832,14
+233,Love Is Everything,Johnny Mathis,52,1965-03-20,1965-05-29,831,11
+234,Mantovani Ole,Mantovani,41,1965-10-23,1965-12-25,825,10
+235,Summer Wind,Roger Williams,63,1965-10-09,1965-12-25,821,12
+236,"Walk, Don't Run, Vol. 2",The Ventures,28,1965-01-02,1965-03-20,789,12
+237,The Kennedy Wit (narrated by David Brinkley),John Fitzgerald Kennedy,49,1965-01-02,1965-03-06,786,10
+238,Harum Scarum,Elvis Presley,10,1965-11-13,1965-12-25,781,7
+239,Songs For Lonesome Lovers,Ray Charles Singers,88,1965-01-02,1965-04-17,781,16
+240,Your All-Time Favorite Songs,John Gary,21,1965-10-30,1965-12-25,762,9
+241,Orange Blossom Special,Johnny Cash,49,1965-03-20,1965-06-12,761,13
+242,More Amor,Eydie Gorme,53,1965-08-28,1965-11-06,754,11
+243,Beach Boys' Party!,The Beach Boys,7,1965-11-27,1965-12-25,753,5
+244,Mr. Stick Man,Pete Fountain,64,1965-05-08,1965-08-07,744,14
+245,The Greatest Live Show On Earth,Jerry Lee Lewis,71,1965-01-02,1965-03-27,742,13
+246,Early Morning Rain,Ian & Sylvia,77,1965-06-19,1965-10-16,729,18
+247,Chad & Jeremy Sing For You,Chad & Jeremy,69,1965-03-27,1965-06-26,726,14
+248,Mom Always Liked You Best!,The Smothers Brothers,49,1965-10-16,1965-12-25,716,11
+249,The Little Old Lady From Pasadena,Jan & Dean,40,1965-01-02,1965-02-20,713,8
+250,That Was The Year That Was,Tom Lehrer,20,1965-11-06,1965-12-25,712,8
+251,Apples & Bananas,Lawrence Welk,57,1965-04-17,1965-07-03,708,12
+252,Eddie Fisher Today!,Eddie Fisher,52,1965-07-24,1965-09-25,706,10
+253,Connie Francis Sings For Mama,Connie Francis,78,1965-05-01,1965-08-07,704,15
+254,Ray Charles Live In Concert,Ray Charles,80,1965-02-20,1965-06-19,697,18
+255,Bach's Greatest Hits,Swingle Singers,76,1965-01-02,1965-03-20,689,12
+256,The Best Of Mancini,Henry Mancini,81,1965-01-02,1965-04-03,681,14
+257,Pearly Shells,Burl Ives,65,1965-01-02,1965-03-13,679,11
+258,The Golden Hits Of Lesley Gore,Lesley Gore,95,1965-07-17,1965-12-04,675,21
+259,Roger And Out,Roger Miller,46,1965-01-02,1965-07-17,674,20
+260,Baby Don't Go,Sonny & Cher,69,1965-10-23,1965-12-25,670,10
+261,Cowboys And Indians,The New Christy Minstrels,62,1965-02-13,1965-04-24,667,11
+262,Golden Hits,Roger Miller,18,1965-11-13,1965-12-25,644,7
+263,My Cherie,Al Martino,70,1965-09-11,1965-12-25,644,16
+264,"Hold Me, Thrill Me, Kiss Me",Mel Carter,62,1965-09-18,1965-12-04,642,12
+265,So Tenderly,John Gary,44,1965-01-02,1965-02-20,637,8
+266,Judy Collins' Fifth Album,Judy Collins,69,1965-10-02,1965-12-25,637,13
+267,Kinda Kinks,The Kinks,60,1965-08-28,1965-10-23,636,9
+268,Johnny Rivers Rocks The Folk,Johnny Rivers,91,1965-09-25,1965-12-25,634,14
+269,Houston,Dean Martin,15,1965-11-20,1965-12-25,633,6
+270,Aesop's Fables The Smothers Brothers Way,The Smothers Brothers,57,1965-06-05,1965-08-07,631,10
+271,It Hurts To Be In Love,Gene Pitney,45,1965-01-02,1965-03-06,619,10
+272,There's Love & There's Love & There's Love,Jack Jones,86,1965-09-18,1965-12-11,619,13
+273,Goin' Out Of My Head,Little Anthony And The Imperials,74,1965-02-20,1965-05-15,618,13
+274,Here We A Go Go Again!,Johnny Rivers,55,1965-01-02,1965-03-20,616,12
+275,Peter And The Commissar,Allan Sherman,53,1965-01-02,1965-02-20,614,8
+276,The Supremes At The Copa,The Supremes,12,1965-11-13,1965-12-25,613,7
+277,The Animals,The Animals,39,1965-01-02,1965-03-06,613,10
+278,Music To Read James Bond By,Soundtrack,72,1965-03-13,1965-09-11,605,27
+279,The Impressions Greatest Hits,The Impressions,83,1965-03-20,1965-06-26,604,15
+280,The Greatest Story Ever Told,Soundtrack,82,1965-04-17,1965-07-10,600,13
+281,The 4 Seasons Entertain You,The 4 Seasons,77,1965-04-10,1965-07-03,591,13
+282,The Barbra Streisand Album,Barbra Streisand,88,1965-01-02,1965-03-13,590,11
+283,The Game Of Love,The Mindbenders,58,1965-05-01,1965-06-26,578,9
+284,This Is Love,Johnny Mathis,41,1965-01-02,1965-02-27,576,9
+285,Otis Blue: Otis Redding Sings Soul,Otis Redding,82,1965-10-16,1965-12-25,564,11
+286,Runnin' Out Of Fools,Aretha Franklin,84,1965-01-02,1965-03-13,555,11
+287,The Sweetheart Tree,Johnny Mathis,71,1965-10-16,1965-12-25,549,11
+288,Love Is The Thing,Nat King Cole,73,1965-03-27,1965-06-05,541,11
+289,Surfer Girl,The Beach Boys,88,1965-01-02,1965-03-13,539,11
+290,An Evening With Belafonte/Makeba,Harry Belafonte,85,1965-07-10,1965-09-18,537,11
+291,The Shadow Of Your Smile,Astrud Gilberto,66,1965-10-09,1965-12-25,525,12
+292,Do The Freddie,Freddie And The Dreamers,85,1965-06-19,1965-09-04,521,12
+293,Play Guitar With The Ventures,The Ventures,96,1965-08-07,1965-10-30,497,13
+294,You Were Only Fooling,Vic Damone,86,1965-07-10,1965-09-11,492,10
+295,I Don't Want To See You Again,Peter And Gordon,95,1965-01-02,1965-03-13,491,11
+296,The Sandpiper,Soundtrack,89,1965-10-23,1965-12-25,477,10
+297,"Songs From ""Cat Ballou"" And Other Motion Pictures",Nat King Cole,77,1965-07-03,1965-08-28,472,9
+298,The Unsinkable Molly Brown,Soundtrack,75,1965-01-02,1965-02-27,470,9
+299,The Supremes Sing Country Western & Pop,The Supremes,79,1965-03-20,1965-05-08,467,8
+300,My Kind Of Folk Songs,Gale Garnett,72,1965-01-02,1965-02-20,460,8
+301,Shotgun,Jr. Walker & The All Stars,108,1965-07-10,1965-12-25,460,19
+302,The Yellow Rolls-Royce,Soundtrack,82,1965-08-07,1965-10-09,454,10
+303,Amor,Eydie Gorme,63,1965-01-02,1965-02-06,450,6
+304,Do I Hear A Waltz?,Original Cast,81,1965-05-22,1965-07-17,447,9
+305,Four Tops Second Album,Four Tops,47,1965-11-13,1965-12-25,446,7
+306,I'm Telling You Now,Freddie And The Dreamers,86,1965-05-08,1965-07-10,446,10
+307,We're Gonna Make It,Little Milton,101,1965-06-05,1965-09-04,441,14
+308,Don't Just Stand There,Patty Duke,90,1965-09-18,1965-12-04,436,12
+309,For Your Love,The Yardbirds,96,1965-07-31,1965-10-09,425,11
+310,Soul Serenade,Gloria Lynne,82,1965-06-05,1965-08-07,423,10
+311,Serenade For Elisabeth,The Gunter Kallmann Chorus,97,1965-05-01,1965-07-03,421,10
+312,It's Gonna Be Fine,Glenn Yarbrough,75,1965-11-06,1965-12-25,416,8
+313,I Left My Heart In San Francisco,Tony Bennett,112,1965-01-02,1965-05-22,412,19
+314,"Nero Goes ""Pops""",Peter Nero,86,1965-10-23,1965-12-25,410,10
+315,Bizet: Carmen,Maria Callas,87,1965-02-27,1965-04-17,410,8
+316,Half A Sixpence,Original Cast,103,1965-06-12,1965-09-11,408,14
+317,Jay & The Americans Greatest Hits!,Jay & The Americans,55,1965-11-20,1965-12-25,403,6
+318,The Kingsmen On Campus,The Kingsmen,85,1965-10-30,1965-12-25,401,9
+319,Life & Love Italian Style,Jimmy Roselli,96,1965-06-26,1965-09-04,388,11
+320,You'll Never Walk Alone,The Lettermen,73,1965-10-30,1965-12-25,387,9
+321,Blockbusters,Jay & The Americans,113,1965-06-12,1965-10-02,380,17
+322,December's Children (And Everybody's),The Rolling Stones,8,1965-12-11,1965-12-25,374,3
+323,Live At The Apollo,James Brown,92,1965-09-04,1965-11-06,367,10
+324,Bread & Butter,The Newbeats,56,1965-01-02,1965-02-06,365,6
+325,Here They Come!,Paul Revere & The Raiders,95,1965-07-03,1965-12-25,365,17
+326,Soupy Sales Sez Do The Mouse And Other Teen Hits,Soupy Sales,80,1965-05-15,1965-06-26,363,7
+327,Camelot,Original Cast Recording,123,1965-01-02,1965-05-01,363,18
+328,I Don't Want To Lose You Baby,Chad & Jeremy,77,1965-11-06,1965-12-25,360,8
+329,Dear Lonely Hearts,Nat King Cole,85,1965-03-27,1965-05-15,358,8
+330,My Fair Lady,Nat King Cole,106,1965-03-20,1965-06-05,356,12
+331,I Do Love You,Billy Stewart,97,1965-07-03,1965-09-04,354,10
+332,Songs You Won't Forget,Peter Nero,64,1965-01-02,1965-02-27,346,9
+333,Hawaii Tattoo,The Waikikis,93,1965-01-16,1965-03-13,346,9
+334,Temptin' Temptations,The Temptations,45,1965-11-27,1965-12-25,345,5
+335,James Brown Plays James Brown - Today & Yesterday,James Brown,64,1965-11-20,1965-12-25,341,6
+336,Discotheque Dance...Dance...Dance,Enoch Light & The Light Brigade,84,1965-01-02,1965-02-13,337,7
+337,Shirley Bassey Belts The Best!,Shirley Bassey,85,1965-04-24,1965-06-19,334,9
+338,England's Newest Hit Makers/The Rolling Stones,The Rolling Stones,87,1965-01-02,1965-02-20,331,8
+339,I Put A Spell On You,Nina Simone,99,1965-06-26,1965-08-14,328,8
+340,Going To A Go-Go,Smokey Robinson & The Miracles,50,1965-11-27,1965-12-25,327,5
+341,Try To Remember,The Brothers Four,91,1965-11-13,1965-12-25,318,7
+342,Lonely Bull,Herb Alpert & The Tijuana Brass,57,1965-11-27,1965-12-25,311,5
+343,Last Kiss,J. Frank Wilson and The Cavaliers,100,1965-01-02,1965-02-13,310,7
+344,...Presenting The Fabulous Ronettes Featuring Veronica,The Ronettes,96,1965-01-02,1965-02-13,309,7
+345,My First Of 1965,Lawrence Welk,108,1965-04-03,1965-06-19,302,12
+346,The Animals On Tour,The Animals,99,1965-03-20,1965-05-15,296,9
+347,Yeah!!!,Aretha Franklin,101,1965-07-10,1965-08-28,295,8
+348,Be My Love,Jerry Vale,62,1965-01-02,1965-01-23,292,4
+349,Ride The Wild Surf,Jan & Dean,66,1965-01-02,1965-02-20,291,8
+350,One By One,The Impressions,104,1965-09-18,1965-11-13,284,9
+351,Hang On Sloopy,The McCoys,78,1965-11-20,1965-12-25,277,6
+352,Surfin' U.S.A.,The Beach Boys,105,1965-01-02,1965-02-20,275,8
+353,Magnificent Movie Themes,Enoch Light & The Light Brigade,105,1965-09-11,1965-11-13,272,10
+354,The Sensitive Sound Of Dionne Warwick,Dionne Warwick,107,1965-03-06,1965-05-01,272,9
+355,Marie,The Bachelors,89,1965-09-04,1965-10-09,271,6
+356,One Kiss For Old Times' Sake,Ronnie Dove,119,1965-07-24,1965-11-06,271,14
+357,The Chipmunks Sing The Beatles Hits,The Chipmunks,77,1965-01-02,1965-02-06,266,6
+358,Spy With A Pie,Soupy Sales,102,1965-04-24,1965-06-05,261,7
+359,Song For My Father (Cantiga Para Meu Pai),Horace Silver,95,1965-06-12,1965-08-14,260,10
+360,American Tour,The Dave Clark Five,109,1965-01-02,1965-03-06,259,10
+361,Skitch...Tonight!,Skitch Henderson,103,1965-10-09,1965-11-27,255,8
+362,From Hello Dolly To Goodbye Charlie,Bobby Darin,107,1965-01-02,1965-02-13,253,7
+363,1-2-3,Len Barry,90,1965-11-20,1965-12-25,252,6
+364,"Flora, The Red Menace",Original Cast,111,1965-07-03,1965-08-21,250,8
+365,Choice! The Best Of The Ramsey Lewis Trio,Ramsey Lewis,82,1965-11-06,1965-12-25,244,8
+366,It Ain't Me Babe,The Turtles,109,1965-10-23,1965-12-25,238,9
+367,In The Midnight Hour,Wilson Pickett,107,1965-10-30,1965-12-04,227,6
+368,Down In The Boondocks,Billy Joe Royal,96,1965-09-18,1965-10-30,226,7
+369,You Turn Me On!,Ian Whitcomb,125,1965-07-10,1965-10-02,221,13
+370,Rag Doll,The 4 Seasons,68,1965-01-02,1965-01-30,219,5
+371,I Must Be Seeing Things,Gene Pitney,112,1965-07-17,1965-09-11,217,9
+372,"Ramblin' Featuring Green, Green",The New Christy Minstrels,113,1965-01-02,1965-02-06,212,6
+373,El Pussy Cat,Mongo Santamaria,112,1965-03-27,1965-05-29,210,10
+374,The Latin Album,Trini Lopez,90,1965-01-02,1965-01-30,205,5
+375,The Good Life With The Drifters,The Drifters,103,1965-02-06,1965-03-13,203,6
+376,More Genius Of Jankowski,Horst Jankowski,69,1965-12-04,1965-12-25,202,4
+377,The New Searchers LP,The Searchers,112,1965-03-20,1965-05-01,199,7
+378,The Best Of Buck Owens,Buck Owens,112,1965-01-02,1965-02-13,199,7
+379,Greatest Hits,Mark Wills,103,1965-01-02,1965-02-06,197,6
+380,"",Roots Of Country Music (1965),107,1965-07-10,1965-08-21,196,7
+381,How To Be A Jewish Mother,Gertrude Berg,131,1965-07-17,1965-10-02,195,12
+382,A Double Header With Arthur Prysock,Arthur Prysock,116,1965-07-17,1965-08-28,194,7
+383,Al-Di-La And Other Extra-Special Songs For Young Lovers,Ray Charles Singers,105,1965-01-02,1965-01-30,192,5
+384,Bitter Tears (Ballads Of The American Indian),Johnny Cash,54,1965-01-02,1965-01-30,190,5
+385,Leader Of The Pack,The Shangri-Las,109,1965-03-13,1965-04-17,190,6
+386,"Oldies But Goodies, Vol. 7",Various Artists,121,1965-01-09,1965-03-06,188,9
+387,"Jan & Dean Golden Hits, Volume 2",Jan & Dean,107,1965-10-02,1965-11-06,184,6
+388,Those Lazy-Hazy-Crazy Days Of Summer,Nat King Cole,109,1965-04-10,1965-05-15,181,6
+389,Sandie Shaw,Sandie Shaw,100,1965-06-12,1965-07-03,180,4
+390,Canadian Sunset,Andy Williams,112,1965-07-03,1965-08-07,176,6
+391,Country & Western Meets Rhythm & Blues,Ray Charles,116,1965-09-11,1965-10-23,175,7
+392,Robert Goulet On Broadway,Robert Goulet,77,1965-12-11,1965-12-25,174,3
+393,Come Share My Life,Glenn Yarbrough,112,1965-05-08,1965-06-26,172,8
+394,The Golden Millions,Lawrence Welk,115,1965-01-09,1965-02-13,172,6
+395,The 4 Seasons' Gold Vault of Hits,The 4 Seasons,76,1965-12-11,1965-12-25,170,3
+396,Thunderball,Soundtrack,71,1965-12-11,1965-12-25,168,3
+397,I Like It Like That,The Dave Clark Five,79,1965-12-11,1965-12-25,167,3
+398,Connie Smith,Connie Smith,105,1965-05-22,1965-06-19,164,5
+399,Catch A Rising Star,John Gary,93,1965-01-02,1965-01-16,163,3
+400,Pete's Place,Pete Fountain,121,1965-01-02,1965-02-13,159,7
+401,On A Clear Day You Can See Forever,Original Cast,88,1965-12-11,1965-12-25,158,3
+402,Sammy's Back On Broadway,Sammy Davis Jr.,104,1965-09-04,1965-09-25,158,4
+403,Broadway Bouquet,Percy Faith,101,1965-12-04,1965-12-25,156,4
+404,Without You,Robert Goulet,102,1965-01-02,1965-01-30,156,5
+405,I'll Be There!,Gerry And The Pacemakers,120,1965-02-27,1965-04-10,156,7
+406,Drum Discotheque,Sandy Nelson,120,1965-07-10,1965-08-28,156,8
+407,How Sweet It Is To Be Loved By You,Marvin Gaye,128,1965-02-27,1965-05-01,154,10
+408,Drums A Go-Go,Sandy Nelson,118,1965-10-02,1965-12-11,152,11
+409,Stay Awhile,The Kingston Trio,126,1965-06-19,1965-08-21,152,10
+410,What's New Pussycat?,Tom Jones,114,1965-09-18,1965-10-16,151,5
+411,Try A Little Love,Sam Cooke,120,1965-10-30,1965-12-11,149,7
+412,Class Of '65,Floyd Cramer,114,1965-10-23,1965-12-25,147,10
+413,Summer Wind,Wayne Newton,114,1965-10-23,1965-11-27,146,6
+414,The Wandering Minstrels,The New Christy Minstrels,125,1965-10-16,1965-12-11,144,9
+415,Major's Greatest Hits,Major Lance,109,1965-09-04,1965-10-09,142,6
+416,Bobby Vinton Sings For Lonely Nights,Bobby Vinton,116,1965-07-03,1965-07-31,139,5
+417,Boots Randolph Plays More Yakety Sax!,Boots Randolph,118,1965-11-13,1965-12-11,137,5
+418,The Second Barbra Streisand Album,Barbra Streisand,107,1965-01-02,1965-02-06,134,6
+419,Everybody Loves A Clown,Gary Lewis And The Playboys,98,1965-12-04,1965-12-25,133,4
+420,Roger Williams Plays The Hits,Roger Williams,118,1965-04-10,1965-05-15,133,6
+421,Make Way For Dionne Warwick,Dionne Warwick,109,1965-01-02,1965-01-23,127,4
+422,Hold What You've Got,Joe Tex,124,1965-02-06,1965-03-20,126,7
+423,"Baby, I'm Yours",Barbara Lewis,118,1965-09-25,1965-11-06,124,7
+424,A World Of Our Own,The Seekers,123,1965-09-25,1965-10-30,120,6
+425,Oscar Peterson Trio + One,Oscar Peterson Trio,92,1965-01-02,1965-01-16,119,3
+426,Live At The Cocoanut Grove,Sergio Franchi,114,1965-03-27,1965-04-17,114,4
+427,Queen Of The House,Jody Miller,124,1965-06-26,1965-07-31,113,6
+428,This Is Us,The Searchers,119,1965-02-13,1965-03-13,111,5
+429,The Return Of Rock,Jerry Lee Lewis,121,1965-06-05,1965-07-03,109,5
+430,Land Of Giants,The New Christy Minstrels,115,1965-01-02,1965-01-30,107,5
+431,Grits & Soul,James Brown,124,1965-04-10,1965-06-12,107,10
+432,Live! The Ike & Tina Turner Show,Ike & Tina Turner,126,1965-02-06,1965-03-13,107,6
+433,"Yes, I'm Ready",Barbara Mason,129,1965-10-02,1965-11-20,107,8
+434,The Honey Wind Blows,The Brothers Four,118,1965-05-01,1965-05-29,106,5
+435,The Best Of Peter Nero,Peter Nero,123,1965-02-20,1965-03-13,106,4
+436,Hawaii Tattoo,Martin Denny and His Orchestra,123,1965-01-16,1965-02-27,106,7
+437,The World's Greatest International Hits!,Petula Clark,129,1965-10-23,1965-12-18,105,9
+438,John Fitzgerald Kennedy...As We Remember Him (narrated by Chartles Kuralt),John Fitzgerald Kennedy,100,1965-12-11,1965-12-25,104,3
+439,I Had A Ball,Original Cast,126,1965-01-30,1965-03-20,104,8
+440,Lord Jim,Soundtrack,123,1965-03-27,1965-04-24,102,5
+441,The Windmills Are Weakening,Bob Newhart,126,1965-04-24,1965-05-22,102,5
+442,Live! In Las Vegas,Sandy Nelson,122,1965-01-02,1965-01-30,100,5
+443,Ben Franklin In Paris,Original Cast,132,1965-01-02,1965-02-13,98,7
+444,Songs For Latin Lovers,Ray Charles Singers,125,1965-08-21,1965-09-25,96,6
+445,"The Best Of Sam Cooke, Volume 2",Sam Cooke,128,1965-07-24,1965-09-11,96,8
+446,Invisible Tears,The Johnny Mann Singers,100,1965-01-02,1965-01-09,94,2
+447,"My Town, My Guy & Me",Lesley Gore,120,1965-12-04,1965-12-25,90,4
+448,Blues For Mister Jimmy,Jimmy McGriff,130,1965-05-29,1965-07-03,90,6
+449,By Popular Demand,Ferrante & Teicher,120,1965-06-12,1965-07-03,88,4
+450,The Baroque Beatles Book,Joshua Rifkin,118,1965-12-11,1965-12-25,87,3
+451,This Is Damita Jo,Damita Jo,121,1965-03-27,1965-04-17,85,4
+452,Love Songs - Mexico/S.A.,Tony Mottola,107,1965-12-11,1965-12-25,84,3
+453,Springtime,Ferrante & Teicher,130,1965-04-24,1965-05-29,84,6
+454,Under The Boardwalk,The Drifters,104,1965-01-02,1965-01-09,77,2
+455,The New Ebb Tide,Frank Chacksfield And His Orch.,122,1965-01-02,1965-01-23,74,4
+456,St. Louis To Liverpool,Chuck Berry,124,1965-01-02,1965-01-23,74,4
+457,From Russia With Love,Soundtrack,131,1965-07-10,1965-08-14,73,6
+458,Don't Forget I Still Love You,Bobbi Martin,127,1965-03-06,1965-04-03,71,5
+459,Oliver!,Original Cast,133,1965-02-13,1965-03-13,69,5
+460,My Funny Valentine,Miles Davis,138,1965-04-24,1965-06-19,69,9
+461,Baja Marimba Band Rides Again,Baja Marimba Band,123,1965-04-24,1965-05-08,68,3
+462,The Paul Butterfield Blues Band,The Paul Butterfield Blues Band,127,1965-12-04,1965-12-25,68,4
+463,Angel Eyes,The Dave Brubeck Quartet,122,1965-10-09,1965-10-23,64,3
+464,Walk Away,Matt Monro,126,1965-03-13,1965-03-27,63,3
+465,The Slightly Irreverent Mitchell Trio,The Chad Mitchell Trio,128,1965-01-02,1965-01-23,63,4
+466,Venice Blue,Bobby Darin,132,1965-07-10,1965-07-31,63,4
+467,Orbisongs,Roy Orbison,139,1965-11-06,1965-12-25,62,8
+468,"James Blonde, Secret Agent 006.95, ""The Man From T.A.N.T.E.""",Various Artists,120,1965-12-18,1965-12-25,58,2
+469,My Name Is Allan,Allan Sherman,117,1965-12-18,1965-12-25,57,2
+470,Do You Believe In Magic,The Lovin' Spoonful,130,1965-12-04,1965-12-25,57,4
+471,I'm On The Outside (Looking In),Little Anthony And The Imperials,135,1965-01-16,1965-02-06,57,4
+472,The Best Of Sam Cooke,Sam Cooke,136,1965-01-30,1965-03-06,57,6
+473,Typical American Boys,The Chad Mitchell Trio,130,1965-05-01,1965-05-15,54,3
+474,Where Love Has Gone,Jack Jones,136,1965-01-02,1965-01-30,53,5
+475,Them Cotton Pickin' Days Is Over,Godfrey Cambridge,142,1965-04-03,1965-07-24,53,9
+476,The Ramsey Lewis Trio At The Bohemian Caverns,Ramsey Lewis,119,1965-01-02,1965-01-09,51,2
+477,Gerry & The Pacemakers Second Album,Gerry And The Pacemakers,129,1965-01-02,1965-01-16,51,3
+478,A Man And His Music,Frank Sinatra,101,1965-12-25,1965-12-25,50,1
+479,Keep On Dancing,The Gentrys,119,1965-12-18,1965-12-25,48,2
+480,Liza! Liza!,Liza Minnelli,124,1965-01-02,1965-01-09,48,2
+481,Teen Beat '65,Sandy Nelson,135,1965-03-06,1965-04-03,48,5
+482,"Songs, Pictures And Stories Of The Fabulous Beatles",The Beatles,117,1965-01-02,1965-01-09,47,2
+483,Memories Of America / Ode To The Little Brown Shack Out Back,Billy Edd Wheeler,132,1965-02-13,1965-02-27,47,3
+484,Motortown Review In Paris,Various Artists,126,1965-12-18,1965-12-25,46,2
+485,Rubber Soul,The Beatles,106,1965-12-25,1965-12-25,45,1
+486,Now Hear This,Moms Mabley,133,1965-11-13,1965-11-27,45,3
+487,Having A Rave Up With The Yardbirds,The Yardbirds,121,1965-12-18,1965-12-25,44,2
+488,No Arms Can Ever Hold You,The Bachelors,136,1965-04-03,1965-04-24,43,4
+489,Baker Street (A Musical Adventure Of Sherlock Holmes),Original Cast,138,1965-05-08,1965-05-29,41,4
+490,Treat Me Right,Roy Head,133,1965-12-04,1965-12-25,40,4
+491,Paper Tiger,Sue Thompson,134,1965-03-20,1965-04-03,40,3
+492,The Nat King Cole Song Book,The Hollyridge Strings,136,1965-04-24,1965-05-08,39,3
+493,Pastel Blues,Nina Simone,139,1965-10-16,1965-11-27,38,7
+494,My Kind Of Broadway,Frank Sinatra,116,1965-12-25,1965-12-25,35,1
+495,Together Again / My Heart Skips A Beat,Buck Owens,116,1965-01-02,1965-01-02,35,1
+496,Fairytale,Donovan,131,1965-12-18,1965-12-25,35,2
+497,The Steve Lawrence Show,Steve Lawrence,133,1965-12-11,1965-12-18,35,2
+498,Yeh Yeh,Georgie Fame,137,1965-05-01,1965-05-15,34,3
+499,Anyone For Mozart?,Swingle Singers,140,1965-02-20,1965-03-27,34,6
+500,The Five Faces Of Manfred Mann,Manfred Mann,141,1965-03-06,1965-03-27,34,4
+501,G.T.O.,Ronny And The Daytonas,132,1965-01-02,1965-01-09,33,2
+502,The Ipcress File,Soundtrack,133,1965-11-13,1965-11-20,33,2
+503,Land Of 1000 Dances,Cannibal And The Headhunters,141,1965-05-08,1965-05-29,33,4
+504,Friendly Persuasion,Ray Conniff,141,1965-04-03,1965-05-01,33,5
+505,Dance Party,Martha & The Vandellas,139,1965-05-29,1965-06-12,31,3
+506,Going Baroque,Swingle Singers,142,1965-01-16,1965-02-06,26,4
+507,Bumpin',Wes Montgomery,135,1965-12-11,1965-12-25,25,3
+508,Big Hits By Burt Bacharach...Hal David...Bob Dylan...,The 4 Seasons,137,1965-12-18,1965-12-25,25,2
+509,Father & Son,Hank Williams,139,1965-08-07,1965-08-21,25,3
+510,I Don't Care,Buck Owens,138,1965-01-02,1965-01-09,24,2
+511,Our Shining Hour,Count Basie,141,1965-03-27,1965-04-17,23,4
+512,The New Boss,Joe Tex,142,1965-11-27,1965-12-18,23,4
+513,Jazz Impressions Of New York,The Dave Brubeck Quartet,142,1965-02-27,1965-03-20,23,4
+514,Beat & Soul,The Everly Brothers,141,1965-09-25,1965-10-09,22,3
+515,Standing Ovation At Newport,Herbie Mann,143,1965-11-27,1965-12-11,22,3
+516,The Most Exciting Organ Ever,Billy Preston,143,1965-06-12,1965-06-26,22,3
+517,The Silence (Il Silenzio),Roy Etzel,140,1965-12-18,1965-12-25,21,2
+518,I Want Candy,The Strangeloves,141,1965-11-13,1965-11-20,20,2
+519,George Jones & Gene Pitney,George Jones & Gene Pitney,141,1965-03-20,1965-04-10,20,4
+520,Back To Back,The Righteous Brothers,132,1965-12-25,1965-12-25,19,1
+521,The Very Best Of Solomon Burke,Solomon Burke,141,1965-07-31,1965-08-14,19,3
+522,Trade Winds,Earl Grant,143,1965-05-15,1965-06-05,19,4
+523,Mary Wells,Mary Wells,145,1965-05-01,1965-05-22,19,4
+524,Ten Little Bottles,Johnny Bond,142,1965-05-29,1965-06-12,18,3
+525,Come A Little Bit Closer,Jay & The Americans,134,1965-01-02,1965-01-02,17,1
+526,The Jerk,The Larks,143,1965-01-23,1965-02-13,17,4
+527,Bajour,Original Cast,143,1965-02-20,1965-02-27,16,2
+528,Hits Made Famous By Elvis Presley,The Hollyridge Strings,144,1965-02-13,1965-02-27,16,3
+529,Introducing...The Beatles,The Beatles,141,1965-01-02,1965-01-09,15,2
+530,The Seekers,The Seekers,145,1965-06-05,1965-06-19,15,3
+531,Pass Me By,Peggy Lee,145,1965-05-22,1965-06-12,15,4
+532,The Sing-Along World Of Trini Lopez,Trini Lopez,139,1965-12-18,1965-12-25,14,2
+533,The King Family Album,King Family,142,1965-10-02,1965-10-16,14,3
+534,Go Away From My World,Marianne Faithfull,138,1965-12-25,1965-12-25,13,1
+535,English Hits Of '65,Billy Strange,146,1965-07-03,1965-07-17,13,3
+536,Man From Two Worlds,Chico Hamilton,145,1965-01-02,1965-01-09,12,2
+537,My Fair Lady,Ferrante & Teicher,147,1965-01-23,1965-02-06,11,3
+538,The Great Ones!,Jimmy Roselli,145,1965-09-11,1965-09-18,9,2
+539,Moonlight And Roses,Jim Reeves,143,1965-01-02,1965-01-02,8,1
+540,Glad All Over,The Dave Clark Five,146,1965-03-06,1965-03-13,8,2
+541,The Great Otis Redding Sings Soul Ballads,Otis Redding,147,1965-04-10,1965-04-24,8,3
+542,Career Girls,Peter Nero,147,1965-05-29,1965-06-12,8,3
+543,My Fair Lady,Andre Previn,147,1965-01-02,1965-01-09,7,2
+544,Here Are The Honeycombs,The Honeycombs,147,1965-01-02,1965-01-09,7,2
+545,Music Of A People,Stanley Black,148,1965-06-12,1965-06-26,7,3
+546,Concrete And Clay,Eddie Rambeau,148,1965-07-24,1965-07-31,6,2
+547,Shenandoah,Soundtrack,147,1965-10-09,1965-10-16,5,2
+548,Blue Rabbit,Johnny Hodges,148,1965-02-20,1965-02-27,5,2
+549,She Understands Me,Johnny Tillotson,148,1965-02-06,1965-02-20,5,3
+550,The Original Peanuts,Sunny & The Sunliners,148,1965-08-14,1965-08-21,4,2
+551,Take Your Shoes Off with the Serendipity Singers,The Serendipity Singers,149,1965-01-16,1965-01-23,4,2
+552,The Searchers No. 4,The Searchers,149,1965-10-23,1965-10-30,3,2
+553,The Race Is On,George Jones,149,1965-06-26,1965-07-03,3,2
+554,The Arthur Sound,Wil,149,1965-11-20,1965-11-27,3,2
+555,Encore,John Gary,149,1965-01-02,1965-01-02,2,1
+556,Kinks Kinkdom,The Kinks,149,1965-12-25,1965-12-25,2,1
+557,Topkapi,Soundtrack,150,1965-01-09,1965-01-16,2,2
+558,Autumn Leaves-1965,Roger Williams,150,1965-12-25,1965-12-25,1,1

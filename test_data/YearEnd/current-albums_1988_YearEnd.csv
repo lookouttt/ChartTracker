@@ -1,0 +1,360 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Faith,George Michael,1,1988-01-02,1988-12-31,8553,53
+2,Hysteria,Def Leppard,1,1988-01-02,1988-12-31,8004,53
+3,Dirty Dancing,Soundtrack,1,1988-01-02,1988-12-31,7749,53
+4,Appetite For Destruction,Guns N' Roses,1,1988-01-02,1988-12-31,7224,53
+5,Kick,INXS,3,1988-01-02,1988-12-31,6114,53
+6,Bad,Michael Jackson,2,1988-01-02,1988-12-31,5948,53
+7,Out Of The Blue,Debbie Gibson,7,1988-01-02,1988-12-31,4307,53
+8,Tiffany,Tiffany,1,1988-01-02,1988-08-27,4030,35
+9,Tracy Chapman,Tracy Chapman,1,1988-05-07,1988-12-31,4020,35
+10,Open Up And Say...Ahh!,Poison,2,1988-05-21,1988-12-31,3642,33
+11,Indtroducing The Hardline According To Terence Trent D'Arby,Terence Trent D'Arby,4,1988-01-02,1988-11-26,3626,48
+12,Richard Marx,Richard Marx,8,1988-01-02,1988-11-26,3626,48
+13,OU812,Van Halen,1,1988-06-18,1988-12-31,3570,29
+14,Let It Loose,Gloria Estefan & Miami Sound Machine,6,1988-01-09,1988-12-03,3461,48
+15,More Dirty Dancing,Soundtrack,3,1988-03-19,1988-11-26,3332,37
+16,Whenever You Need Somebody,Rick Astley,10,1988-01-30,1988-12-10,3320,46
+17,Permanent Vacation,Aerosmith,12,1988-01-02,1988-11-05,3194,45
+18,Roll With It,Steve Winwood,1,1988-07-09,1988-12-31,3166,26
+19,"He's The D.J., I'm The Rapper",D.J. Jazzy Jeff & The Fresh Prince,4,1988-04-23,1988-12-31,3054,37
+20,Make It Last Forever,Keith Sweat,15,1988-01-30,1988-12-31,2950,49
+21,Now And Zen,Robert Plant,6,1988-03-12,1988-11-05,2877,35
+22,Cocktail,Soundtrack,3,1988-08-20,1988-12-31,2872,20
+23,Whitney,Whitney Houston,7,1988-01-02,1988-10-08,2752,41
+24,The Lonesome Jubilee,John Mellencamp,6,1988-01-02,1988-07-23,2686,30
+25,Lap Of Luxury,Cheap Trick,16,1988-05-07,1988-12-31,2508,35
+26,Don't Be Cruel,Bobby Brown,6,1988-07-23,1988-12-31,2429,24
+27,Diesel And Dust,Midnight Oil,21,1988-03-12,1988-12-10,2411,40
+28,Heaven On Earth,Belinda Carlisle,13,1988-01-02,1988-08-27,2336,35
+29,Pride,White Lion,11,1988-01-02,1988-12-31,2279,40
+30,Tell It To My Heart,Taylor Dayne,21,1988-01-30,1988-12-31,2253,43
+31,Savage Amusement,Scorpions,5,1988-05-07,1988-11-12,2252,28
+32,In Effect Mode,Al B. Sure!,20,1988-05-21,1988-12-31,2222,33
+33,New Jersey,Bon Jovi,1,1988-10-08,1988-12-31,2215,13
+34,Stronger Than Pride,Sade,7,1988-06-04,1988-12-31,2205,31
+35,Long Cold Winter,Cinderella,10,1988-07-23,1988-12-31,2121,24
+36,Whitesnake,Whitesnake,4,1988-01-02,1988-07-09,2115,28
+37,Simple Pleasures,Bobby McFerrin,5,1988-05-07,1988-12-31,2115,35
+38,Out Of Order,Rod Stewart,21,1988-06-04,1988-12-31,2105,31
+39,Tunnel Of Love,Bruce Springsteen,8,1988-01-02,1988-07-16,2102,29
+40,Scenes From The Southside,Bruce Hornsby & The Range,5,1988-05-21,1988-11-05,2076,25
+41,Skyscraper,David Lee Roth,6,1988-02-13,1988-07-16,1988,23
+42,Heart Break,New Edition,12,1988-07-16,1988-12-31,1958,25
+43,Pebbles,Pebbles,14,1988-02-20,1988-09-17,1918,31
+44,Rattle And Hum (Soundtrack),U2,1,1988-10-29,1988-12-31,1821,10
+45,Heavy Nova,Robert Palmer,13,1988-07-23,1988-12-31,1794,24
+46,A Momentary Lapse Of Reason,Pink Floyd,6,1988-01-02,1988-07-16,1765,29
+47,Cloud Nine,George Harrison,8,1988-01-02,1988-05-28,1730,22
+48,Surfing With The Alien,Joe Satriani,29,1988-01-23,1988-11-05,1714,42
+49,The Joshua Tree,U2,13,1988-01-02,1988-07-02,1706,27
+50,Up Your Alley,Joan Jett & the Blackhearts,19,1988-05-28,1988-12-31,1695,32
+51,Lita,Lita Ford,29,1988-02-27,1988-10-08,1690,33
+52,Jody Watley,Jody Watley,25,1988-01-02,1988-07-02,1689,27
+53,. . .Nothing Like The Sun,Sting,11,1988-01-02,1988-06-11,1680,24
+54,Conscious Party,Ziggy Marley And The Melody Makers,23,1988-04-30,1988-11-19,1647,30
+55,In My Tribe,"10,000 Maniacs",37,1988-03-05,1988-11-05,1643,36
+56,Inside Information,Foreigner,15,1988-01-02,1988-07-02,1589,27
+57,Reg Strikes Back,Elton John,16,1988-07-09,1988-12-03,1586,22
+58,Giving You The Best That I Got,Anita Baker,1,1988-11-05,1988-12-31,1525,9
+59,Tear Down These Walls,Billy Ocean,18,1988-03-19,1988-09-03,1458,25
+60,...And Justice For All,Metallica,6,1988-09-24,1988-12-31,1437,15
+61,Magic,The Jets,35,1988-01-02,1988-08-13,1421,33
+62,Kingdom Come,Kingdom Come,12,1988-03-19,1988-08-20,1411,23
+63,Tougher Than Leather,Run-D.M.C.,9,1988-06-04,1988-10-29,1391,22
+64,Always & Forever,Randy Travis,38,1988-01-02,1988-07-30,1391,31
+65,"Hot, Cool And Vicious",Salt-N-Pepa,26,1988-01-02,1988-06-25,1377,26
+66,Cher,Cher,32,1988-01-16,1988-08-06,1376,30
+67,"Good Morning, Vietnam",Soundtrack,10,1988-02-13,1988-06-18,1306,19
+68,Actually,Pet Shop Boys,28,1988-01-02,1988-06-25,1294,26
+69,All That Jazz,Breathe,34,1988-07-02,1988-12-31,1280,27
+70,Exposure,Expose,16,1988-01-02,1988-05-14,1279,20
+71,Small World,Huey Lewis & The News,11,1988-08-20,1988-12-31,1235,20
+72,Blow Up Your Video,AC/DC,12,1988-03-05,1988-07-09,1186,19
+73,Back For The Attack,Dokken,18,1988-01-02,1988-05-07,1156,19
+74,Once Bitten,Great White,38,1988-01-02,1988-06-04,1140,23
+75,Labour Of Love,UB40,14,1988-09-10,1988-12-31,1135,17
+76,Characters,Stevie Wonder,17,1988-01-02,1988-05-14,1131,20
+77,Everlasting,Natalie Cole,42,1988-01-02,1988-07-09,1091,28
+78,Seventh Son Of A Seventh Son,Iron Maiden,12,1988-04-30,1988-08-20,1089,17
+79,Starfish,The Church,41,1988-04-02,1988-10-01,1068,27
+80,"",Silhouette,8,1988-10-22,1988-12-31,1066,11
+81,Time And Tide,Basia,36,1988-07-09,1988-12-31,1063,26
+82,Out Of This World,Europe,19,1988-08-27,1988-12-17,1041,17
+83,Britny Fox,Britny Fox,39,1988-08-06,1988-12-31,1032,22
+84,Never Die Young,James Taylor,25,1988-02-20,1988-06-18,1031,18
+85,Tango In The Night,Fleetwood Mac,20,1988-01-02,1988-04-23,1023,17
+86,How Ya Like Me Now,Kool Moe Dee,35,1988-01-30,1988-10-01,1015,29
+87,Chicago 19,Chicago,43,1988-07-16,1988-12-31,1013,25
+88,Information Society,Information Society,25,1988-09-03,1988-12-31,1008,18
+89,Wide Awake In Dreamland,Pat Benatar,28,1988-07-23,1988-11-19,1004,18
+90,Man Of Colours,Icehouse,43,1988-01-02,1988-07-09,996,28
+91,Naked,Talking Heads,19,1988-04-02,1988-07-16,970,16
+92,Ooh Yeah!,Daryl Hall John Oates,24,1988-05-21,1988-09-24,968,19
+93,Any Love,Luther Vandross,9,1988-10-22,1988-12-31,958,11
+94,The Lion And The Cobra,Sinead O'Connor,36,1988-02-13,1988-07-09,938,22
+95,Rapture,Anita Baker,34,1988-01-02,1988-06-11,912,23
+96,"Wild, Wild West",The Escape Club,27,1988-09-24,1988-12-31,890,15
+97,Even Worse,"""Weird Al"" Yankovic",27,1988-05-14,1988-08-27,889,16
+98,Born To Be Bad,George Thorogood,32,1988-02-06,1988-05-21,880,16
+99,No Rest For The Wicked,Ozzy Osbourne,13,1988-10-22,1988-12-31,873,11
+100,Bad Animals,Heart,23,1988-01-02,1988-04-16,859,16
+101,It's Better To Travel,Swing Out Sister,40,1988-01-02,1988-05-07,845,19
+102,Lovesexy,Prince,11,1988-05-28,1988-08-20,843,13
+103,Duotones,Kenny G,27,1988-01-02,1988-04-30,843,18
+104,You Can Dance,Madonna,14,1988-01-02,1988-03-26,840,13
+105,Live In Australia With The Melbourne Symphony Orch.,Elton John,24,1988-01-02,1988-04-09,839,15
+106,All Our Love,Gladys Knight And The Pips,39,1988-01-02,1988-05-14,816,20
+107,Traveling Wilburys,Traveling Wilburys,8,1988-11-12,1988-12-31,815,8
+108,Old 8 x 10,Randy Travis,35,1988-07-30,1988-11-26,798,18
+109,Document,R.E.M.,24,1988-01-02,1988-04-09,796,15
+110,Outrider,Jimmy Page,26,1988-07-09,1988-10-22,786,16
+111,The Best Of OMD,Orchestral Manoeuvres In The Dark,46,1988-04-02,1988-08-06,784,19
+112,Less Than Zero,Soundtrack,31,1988-01-02,1988-04-02,773,14
+113,Soul Searching,Glenn Frey,36,1988-09-03,1988-12-10,772,15
+114,Big Generator,Yes,26,1988-01-02,1988-04-02,766,14
+115,Coming Back Hard Again,Fat Boys,33,1988-07-09,1988-10-22,757,16
+116,Crazy Nights,KISS,31,1988-01-02,1988-04-16,756,16
+117,Canciones de Mi Padre,Linda Ronstadt,42,1988-01-02,1988-04-30,749,18
+118,Don't Be Afraid Of The Dark,The Robert Cray Band,32,1988-08-27,1988-12-03,731,15
+119,A Salt With A Deadly Pepa,Salt-N-Pepa,38,1988-08-20,1988-12-03,725,16
+120,Let It Roll,Little Feat,36,1988-08-27,1988-12-10,720,16
+121,"So Far, So Good... So What!",Megadeth,28,1988-02-06,1988-05-14,713,15
+122,The Hunger,Michael Bolton,46,1988-01-02,1988-06-18,712,24
+123,It Takes A Nation Of Millions To Hold Us Back,Public Enemy,42,1988-07-23,1988-11-12,708,17
+124,It Takes Two,Rob Base & D.J. E-Z Rock,31,1988-10-15,1988-12-31,697,12
+125,Unlimited,Roger,35,1988-01-02,1988-04-02,697,14
+126,Follow The Leader,Eric B. & Rakim,22,1988-08-13,1988-10-29,692,12
+127,Talk Is Cheap,Keith Richards,24,1988-10-22,1988-12-31,691,11
+128,Till I Loved You,Barbra Streisand,10,1988-11-12,1988-12-31,689,8
+129,Power,Ice-T,35,1988-10-08,1988-12-31,689,13
+130,Supersonic--The Album,J.J. Fad,49,1988-07-30,1988-12-03,689,19
+131,The Phantom Of The Opera,Original London Cast Recording,33,1988-02-13,1988-07-02,686,17
+132,Hangin' Tough,New Kids On The Block,46,1988-09-10,1988-12-31,686,17
+133,Sur La Mer,The Moody Blues,38,1988-06-25,1988-09-24,677,14
+134,Substance,New Order,36,1988-01-02,1988-05-28,674,21
+135,Vital Idol,Billy Idol,21,1988-01-02,1988-03-12,673,11
+136,In God We Trust,Stryper,32,1988-07-23,1988-10-15,651,13
+137,"Kiss Me, Kiss Me, Kiss Me",The Cure,48,1988-01-02,1988-04-23,650,17
+138,Ram It Down,Judas Priest,31,1988-06-04,1988-08-27,649,13
+139,I'm The Man,Anthrax,53,1988-01-02,1988-05-28,648,21
+140,Temple Of Low Men,Crowded House,40,1988-07-23,1988-10-22,646,14
+141,The Innocents,Erasure,49,1988-07-30,1988-12-31,645,21
+142,Chronicles,Steve Winwood,26,1988-01-02,1988-03-26,642,13
+143,Get Here,Brenda Russell,49,1988-04-30,1988-08-13,629,16
+144,State Of Euphoria,Anthrax,30,1988-10-08,1988-12-31,620,13
+145,Robbie Robertson,Robbie Robertson,38,1988-01-02,1988-04-16,617,16
+146,UB40,UB40,44,1988-08-27,1988-12-17,613,17
+147,Colors,Soundtrack,31,1988-05-14,1988-07-30,608,12
+148,Winger,Winger,38,1988-10-08,1988-12-31,600,13
+149,L.A. Guns,L.A. Guns,50,1988-02-20,1988-06-18,599,18
+150,Guy,Guy,54,1988-08-20,1988-12-31,597,20
+151,Bete Noire,Bryan Ferry,63,1988-01-02,1988-05-28,594,22
+152,Big Thing,Duran Duran,24,1988-11-12,1988-12-31,590,8
+153,Shooting Rubberbands At The Stars,Edie Brickell & New Bohemians,20,1988-10-15,1988-12-31,583,12
+154,Touch The World,"Earth, Wind & Fire",36,1988-01-02,1988-04-30,577,17
+155,Crossroads,Eric Clapton,34,1988-05-07,1988-07-23,562,12
+156,Green Thoughts,The Smithereens,60,1988-04-16,1988-08-20,560,19
+157,Don't Let Love Slip Away,Freddie Jackson,48,1988-08-13,1988-11-26,545,16
+158,Imagine: John Lennon,Soundtrack,31,1988-10-29,1988-12-31,538,10
+159,The Hits,REO Speedwagon,56,1988-07-02,1988-10-22,535,17
+160,Eyes Of A Stranger,The Deele,54,1988-03-05,1988-07-02,529,18
+161,Odyssey,Yngwie J. Malmsteen's Rising Force,40,1988-04-30,1988-07-23,521,13
+162,1988 Summer Olympics-One Moment In Time,Various Artists,31,1988-09-24,1988-12-03,519,11
+163,Reach For The Sky,Ratt,17,1988-11-19,1988-12-31,516,7
+164,Slippery When Wet,Bon Jovi,46,1988-01-02,1988-04-23,515,17
+165,Henry Lee Summer,Henry Lee Summer,56,1988-03-26,1988-07-16,510,17
+166,Green,R.E.M.,13,1988-11-26,1988-12-31,495,6
+167,Life's Too Good,The Sugarcubes,54,1988-07-30,1988-11-12,495,16
+168,Babylon And On,Squeeze,39,1988-01-02,1988-03-12,487,11
+169,80's Ladies,K.T. Oslin,68,1988-01-02,1988-05-28,480,22
+170,Look What The Cat Dragged In,Poison,32,1988-01-02,1988-03-05,476,10
+171,Crest Of A Knave,Jethro Tull,33,1988-01-02,1988-03-12,470,11
+172,Introspective,Pet Shop Boys,34,1988-11-12,1988-12-31,467,8
+173,Other Roads,Boz Scaggs,47,1988-06-04,1988-08-20,467,12
+174,Joy,Teddy Pendergrass,54,1988-06-04,1988-08-27,460,13
+175,Viva Hate,Morrissey,48,1988-04-09,1988-07-09,459,14
+176,Vixen,Vixen,52,1988-10-08,1988-12-31,459,13
+177,The Final Countdown,Europe,41,1988-01-02,1988-03-12,452,11
+178,The California Raisins,The California Raisins,60,1988-01-02,1988-04-23,451,17
+179,Wild Streak,Hank Williams Jr.,55,1988-07-16,1988-10-01,446,12
+180,Everything,The Bangles,39,1988-11-05,1988-12-31,442,9
+181,Daydreaming,Morris Day,41,1988-03-12,1988-05-14,442,10
+182,Samantha Fox,Samantha Fox,51,1988-05-14,1988-07-30,442,12
+183,Savage,Eurythmics,41,1988-01-09,1988-03-26,439,12
+184,Dangerous Age,Bad Company,58,1988-10-01,1988-12-31,435,14
+185,Kylie,Kylie Minogue,58,1988-10-01,1988-12-31,433,14
+186,Show Me,The Cover Girls,64,1988-01-23,1988-06-04,425,20
+187,Nothing To Lose,Eddie Money,49,1988-10-29,1988-12-31,412,10
+188,Sign 'O' The Times,Prince,48,1988-01-02,1988-03-19,409,12
+189,Chalk Mark In A Rain Storm,Joni Mitchell,45,1988-04-16,1988-07-02,408,12
+190,Turn Back The Clock,Johnny Hates Jazz,56,1988-04-30,1988-07-16,407,12
+191,Brenda K. Starr,Brenda K. Starr,58,1988-06-04,1988-10-08,407,19
+192,Union,Toni Childs,63,1988-07-09,1988-11-19,406,19
+193,Operation: Mindcrime,Queensryche,50,1988-05-21,1988-08-06,402,12
+194,Buster,Soundtrack,56,1988-10-15,1988-12-31,398,12
+195,Coming Around Again,Carly Simon,62,1988-01-02,1988-04-02,394,14
+196,Rock Of Life,Rick Springfield,55,1988-02-27,1988-05-07,383,11
+197,Hot Water,Jimmy Buffett,46,1988-07-16,1988-09-03,373,8
+198,Music For The Masses,Depeche Mode,53,1988-01-02,1988-06-18,373,13
+199,The Seventh One,Toto,64,1988-03-19,1988-06-18,354,14
+200,"Girls, Girls, Girls",Motley Crue,40,1988-01-02,1988-03-05,353,10
+201,Close-Up,David Sanborn,59,1988-07-16,1988-10-08,348,13
+202,American Dream,"Crosby, Stills, Nash & Young",17,1988-12-03,1988-12-31,345,5
+203,One More Story,Peter Cetera,58,1988-08-27,1988-10-29,325,10
+204,A Very Special Christmas,Various Artists,20,1988-01-02,1988-12-31,324,7
+205,Hold Your Fire,Rush,40,1988-01-02,1988-03-05,321,10
+206,One Good Reason,Paul Carrack,67,1988-01-23,1988-04-30,321,15
+207,Non Stop,Julio Iglesias,52,1988-06-11,1988-08-13,312,10
+208,"Smashes, Thrashes & Hits",KISS,25,1988-12-03,1988-12-31,311,5
+209,La Bamba,Soundtrack,42,1988-01-02,1988-03-19,310,12
+210,Brian Wilson,Brian Wilson,54,1988-07-30,1988-10-01,310,10
+211,Delicate Sound Of Thunder,Pink Floyd,12,1988-12-10,1988-12-31,307,4
+212,South Of Heaven,Slayer,57,1988-08-06,1988-10-08,307,10
+213,Melissa Etheridge,Melissa Etheridge,74,1988-08-27,1988-12-31,307,19
+214,Journey's Greatest Hits,Journey,18,1988-12-03,1988-12-31,304,5
+215,Karyn White,Karyn White,53,1988-11-12,1988-12-31,303,8
+216,Beast From The East,Dokken,33,1988-12-03,1988-12-31,297,5
+217,The Best Of Eric Carmen,Eric Carmen,59,1988-07-09,1988-09-24,293,12
+218,Eponymous,R.E.M.,44,1988-10-29,1988-12-10,287,7
+219,Secrets Of Flying,Johnny Kemp,68,1988-06-25,1988-09-10,283,12
+220,To Hell With The Devil,Stryper,61,1988-01-02,1988-02-27,280,9
+221,This Note's For You,Neil Young & The Bluenotes,61,1988-05-07,1988-07-02,279,9
+222,Dreaming #11,Joe Satriani,48,1988-11-26,1988-12-31,277,6
+223,Peepshow,Siouxsie & The Banshees,68,1988-10-08,1988-12-31,274,13
+224,Hold An Old Friend's Hand,Tiffany,21,1988-12-10,1988-12-31,272,4
+225,Reel Life,Boy Meets Girl,53,1988-11-12,1988-12-31,267,8
+226,A Fresh Aire Christmas,Mannheim Steamroller,36,1988-12-03,1988-12-31,263,5
+227,Move Somethin',The 2 Live Crew,68,1988-06-18,1988-10-01,261,15
+228,Earth - Sun - Moon,Love & Rockets,64,1988-01-02,1988-03-12,259,11
+229,Crushin',Fat Boys,52,1988-01-02,1988-02-20,257,8
+230,Copperhead Road,Steve Earle,60,1988-11-19,1988-12-31,248,7
+231,Dana Dane With Fame,Dana Dane,63,1988-01-02,1988-02-27,243,9
+232,Buenos Noches From A Lonely Room,Dwight Yoakam,68,1988-08-27,1988-10-29,243,10
+233,Have You Seen Me Lately?,Sam Kinison,43,1988-12-03,1988-12-31,242,5
+234,Blow My Fuse,KIX,65,1988-10-22,1988-12-31,242,11
+235,Pop Goes The World,Men Without Hats,73,1988-01-02,1988-03-26,240,13
+236,All Systems Go,Vinnie Vincent Invasion,64,1988-05-28,1988-07-16,237,8
+237,Bigger And Deffer,LL Cool J,63,1988-01-02,1988-05-14,236,14
+238,All The Best,Paul McCartney,62,1988-01-02,1988-02-27,235,9
+239,Swing Street,Barry Manilow,70,1988-01-02,1988-04-09,235,13
+240,Shadowland,k.d. lang,73,1988-06-25,1988-09-17,219,13
+241,Machismo,Cameo,56,1988-11-12,1988-12-17,209,6
+242,Dream Of Life,Patti Smith,65,1988-07-30,1988-09-24,206,9
+243,Strictly Business,EPMD,80,1988-07-16,1988-10-22,205,15
+244,Aliens Ate My Buick,Thomas Dolby,70,1988-05-14,1988-07-23,203,11
+245,See The Light,The Jeff Healey Band,68,1988-11-05,1988-12-31,199,9
+246,Kohuept (Live In Leningrad),Billy Joel,49,1988-01-02,1988-02-06,198,6
+247,By All Means Necessary,Boogie Down Productions,75,1988-05-07,1988-07-16,197,11
+248,Hearsay,Alexander O'Neal,68,1988-01-02,1988-03-26,194,13
+249,G N' R Lies,Guns N' Roses,22,1988-12-17,1988-12-31,193,3
+250,Greatest Hits,Fleetwood Mac,31,1988-12-17,1988-12-31,192,3
+251,Down In The Groove,Bob Dylan,61,1988-06-25,1988-07-30,184,6
+252,Hot August Night II,Neil Diamond,59,1988-01-02,1988-02-06,179,6
+253,Back To Avalon,Kenny Loggins,69,1988-08-27,1988-10-08,177,7
+254,Spanish Fly,Lisa Lisa And Cult Jam,54,1988-01-02,1988-02-13,176,7
+255,Greatest Hits,The Judds,76,1988-09-03,1988-11-05,176,10
+256,Will To Power,Will To Power,68,1988-11-12,1988-12-31,170,8
+257,Money For Nothing,Dire Straits,62,1988-11-19,1988-12-31,164,7
+258,Who?,Tony Toni Tone,69,1988-06-04,1988-07-30,163,9
+259,Ruff `N' Ready,Ready For The World,65,1988-10-15,1988-11-26,161,7
+260,Casual Gods,Jerry Harrison: Casual Gods,78,1988-03-19,1988-05-21,155,10
+261,Mannheim Steamroller Christmas,Mannheim Steamroller,54,1988-12-10,1988-12-31,152,4
+262,Naked To The World,Teena Marie,65,1988-04-16,1988-05-21,147,6
+263,Lead Me On,Amy Grant,71,1988-07-23,1988-09-17,145,9
+264,Party Your Body,Stevie B,78,1988-08-13,1988-10-15,143,10
+265,Live,Alabama,76,1988-07-02,1988-08-20,138,8
+266,The Rumour,Olivia Newton-John,67,1988-09-03,1988-10-01,130,5
+267,"Bright Lights, Big City",Soundtrack,67,1988-04-16,1988-05-21,127,6
+268,The Real Chuckeeboo,Loose Ends,80,1988-08-06,1988-10-01,123,9
+269,School Daze,Soundtrack,81,1988-04-16,1988-05-28,121,7
+270,The Lover In Me,Sheena Easton,67,1988-12-03,1988-12-31,120,5
+271,Southern By The Grace Of God,Lynyrd Skynyrd,68,1988-04-16,1988-05-14,120,5
+272,Triumph And Agony,Warlock,80,1988-02-13,1988-04-23,120,11
+273,Day By Day,Najee,76,1988-07-23,1988-10-01,118,9
+274,The Mona Lisa's Sister,Graham Parker,77,1988-06-04,1988-08-06,113,9
+275,Short Sharp Shocked,Michelle Shocked,78,1988-10-15,1988-12-31,112,12
+276,Open Sesame,Whodini,61,1988-01-02,1988-01-30,111,5
+277,Twice The Love,George Benson,76,1988-10-01,1988-11-05,111,6
+278,Messages From The Boys,The Boys,63,1988-12-10,1988-12-31,107,4
+279,Land Of Dreams,Randy Newman,80,1988-11-05,1988-12-31,106,9
+280,Wild-Eyed Dream,Ricky Van Shelton,76,1988-03-19,1988-04-30,104,7
+281,Loving Proof,Ricky Van Shelton,78,1988-10-29,1988-12-17,104,8
+282,Open All Night,The Georgia Satellites,77,1988-07-09,1988-08-13,103,6
+283,Folkways,Various Artists,70,1988-10-01,1988-10-22,102,4
+284,"What Up, Dog?",Was (Not Was),77,1988-11-26,1988-12-31,101,6
+285,Just Us,Alabama,75,1988-01-02,1988-02-06,95,6
+286,Every Shade Of Love,Jesse Johnson,79,1988-04-23,1988-05-28,95,6
+287,Diamond Sun,Glass Tiger,82,1988-05-14,1988-06-25,94,7
+288,Eazy-Duz-It,Eazy-E,69,1988-12-10,1988-12-31,89,4
+289,The Singles,Pretenders,69,1988-01-02,1988-01-30,89,5
+290,In The Dark,Grateful Dead,73,1988-01-02,1988-01-23,88,4
+291,This Woman,K.T. Oslin,75,1988-10-08,1988-11-26,83,7
+292,Second Sighting,Frehley's Comet,81,1988-06-25,1988-07-23,75,5
+293,When In Rome,When In Rome,86,1988-11-05,1988-12-31,75,9
+294,The $5.98 EP: Garage Days Re-Revisited,Metallica,83,1988-01-02,1988-02-06,72,6
+295,People,Hothouse Flowers,88,1988-10-01,1988-11-05,70,6
+296,Unchain My Heart,Joe Cocker,89,1988-01-02,1988-02-13,70,7
+297,Vivid,Living Colour,80,1988-12-10,1988-12-31,68,4
+298,Racing After Midnight,Honeymoon Suite,86,1988-05-21,1988-06-25,67,6
+299,Greatest Hits Live,Carly Simon,87,1988-09-03,1988-10-15,67,7
+300,I Wanna Have Some Fun,Samantha Fox,73,1988-12-17,1988-12-31,66,3
+301,Rank,The Smiths,77,1988-10-08,1988-10-22,65,3
+302,Let Me Touch You,The O'Jays,77,1988-01-02,1988-01-30,65,5
+303,Rock The House,D.J. Jazzy Jeff & The Fresh Prince,83,1988-12-10,1988-12-31,63,4
+304,Pleasures Of The Flesh,Exodus,82,1988-01-02,1988-02-20,60,8
+305,Live + 1,Frehley's Comet,84,1988-03-05,1988-04-02,55,5
+306,One Love--One Dream,Jeffrey Osborne,86,1988-09-17,1988-10-15,49,5
+307,Heart Attack,Krokus,87,1988-05-28,1988-07-02,48,6
+308,Man In Motion,Night Ranger,81,1988-10-29,1988-11-12,47,3
+309,If I Should Fall From Grace With God,The Pogues,88,1988-03-26,1988-04-23,47,5
+310,Them,King Diamond,89,1988-07-30,1988-08-20,46,4
+311,Bulletboys,BulletBoys,82,1988-12-17,1988-12-31,45,3
+312,"Strangeways, Here We Come",The Smiths,84,1988-01-16,1988-02-06,44,4
+313,Tina Live In Europe,Tina Turner,86,1988-04-23,1988-05-07,43,3
+314,The Right Stuff,Vanessa Williams,90,1988-08-06,1988-09-17,42,7
+315,If You Ain't Lovin' You Ain't Livin',George Strait,87,1988-04-02,1988-04-16,38,3
+316,Touch,Laura Branigan,87,1988-01-02,1988-01-16,38,3
+317,"Birth, School, Work, Death",The Godfathers,91,1988-04-09,1988-05-07,37,5
+318,Stand In Line,Impellitteri,91,1988-07-30,1988-09-10,37,7
+319,Boingo Alive,Oingo Boingo,90,1988-10-29,1988-11-19,35,4
+320,Graceland,Paul Simon,80,1988-01-16,1988-02-13,34,4
+321,Over The Edge,Hurricane,92,1988-09-24,1988-10-22,32,5
+322,One Heartbeat,Smokey Robinson,80,1988-01-02,1988-01-09,31,2
+323,Heart's Horizon,Al Jarreau,87,1988-12-17,1988-12-31,31,3
+324,Live 1980/86,Joe Jackson,91,1988-06-04,1988-06-18,30,3
+325,Yo Yo,Bourgeois Tagg,88,1988-01-02,1988-01-16,29,3
+326,Goin' Off,Biz Markie,90,1988-04-16,1988-04-30,29,3
+327,Long Live The New Flesh,Flesh For Lulu,89,1988-03-05,1988-04-09,27,4
+328,Rock & Roll Strategy,Thirty Eight Special,92,1988-11-19,1988-12-10,27,4
+329,The World's Greatest Entertainer,Doug E. Fresh & The Get Fresh Crew,88,1988-07-02,1988-07-23,26,4
+330,Bonk,Big Pig,93,1988-04-30,1988-05-21,26,4
+331,December,George Winston,89,1988-01-02,1988-01-16,22,3
+332,Buster Poindexter,Buster Poindexter,90,1988-02-13,1988-02-27,21,3
+333,Red,The Communards,93,1988-02-20,1988-03-05,20,3
+334,Dan Reed Network,Dan Reed Network,95,1988-04-23,1988-05-21,20,5
+335,Eye Of The Hurricane,The Alarm,96,1988-01-02,1988-01-30,20,5
+336,Forever Your Girl,Paula Abdul,92,1988-12-24,1988-12-31,18,2
+337,Nothin' But Trouble,Nia Peeples,97,1988-06-25,1988-07-23,17,5
+338,She's Having A Baby,Soundtrack,92,1988-04-02,1988-04-09,16,2
+339,Told U So,Nu Shooz,93,1988-05-28,1988-06-04,16,2
+340,Wow,Bananarama,86,1988-01-02,1988-01-02,15,1
+341,Primitive Cool,Mick Jagger,89,1988-01-02,1988-01-09,13,2
+342,Door To Door,The Cars,95,1988-01-02,1988-01-09,12,2
+343,Brasil,The Manhattan Transfer,96,1988-02-06,1988-03-05,11,3
+344,Scrooged,Soundtrack,96,1988-12-24,1988-12-31,10,2
+345,Midnight Star,Midnight Star,96,1988-11-26,1988-12-03,10,2
+346,Love Is Such A Funny Game,Michael Cooper,98,1988-03-12,1988-04-09,10,4
+347,Sharp,Angela Winbush,92,1988-01-02,1988-01-02,9,1
+348,Trio,"Dolly Parton, Linda Ronstadt, Emmylou Harris",95,1988-01-09,1988-01-16,9,2
+349,Slow Turning,John Hiatt,98,1988-10-15,1988-10-29,9,3
+350,I'm Real,James Brown,96,1988-07-09,1988-07-16,8,2
+351,To The Power Of Three,3,97,1988-04-09,1988-04-16,8,2
+352,20 Years Of Jethro Tull,Jethro Tull,97,1988-09-17,1988-09-24,8,2
+353,"Greatest Hits, Vol. II",George Strait,98,1988-01-02,1988-01-23,7,3
+354,Say It Again,Jermaine Stewart,98,1988-05-21,1988-05-28,6,2
+355,Listen To The Message,Club Nouveau,98,1988-06-25,1988-07-02,6,2
+356,Swass,Sir Mix-A-Lot,99,1988-12-24,1988-12-31,4,2
+357,Recovery: Live,Great White,99,1988-03-12,1988-03-19,4,2
+358,Just Coolin',Levert,100,1988-12-10,1988-12-17,2,2
+359,The Shouting Stage,Joan Armatrading,100,1988-09-24,1988-09-24,1,1

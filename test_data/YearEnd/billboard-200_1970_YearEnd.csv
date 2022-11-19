@@ -1,0 +1,799 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Chicago II,Chicago,4,1970-02-14,1970-12-26,10344,46
+2,Led Zeppelin II,Led Zeppelin,1,1970-01-03,1970-12-26,9413,52
+3,Bridge Over Troubled Water,Simon & Garfunkel,1,1970-02-14,1970-12-26,9196,46
+4,Santana,Santana,4,1970-01-03,1970-12-26,9088,52
+5,Abbey Road,The Beatles,1,1970-01-03,1970-12-26,8762,52
+6,Deja Vu,"Crosby, Stills, Nash & Young",1,1970-04-04,1970-12-26,8710,39
+7,Get Ready,Rare Earth,12,1970-01-03,1970-12-26,7975,51
+8,Sweet Baby James,James Taylor,3,1970-03-14,1970-12-26,7835,42
+9,Willy And The Poorboys,Creedence Clearwater Revival,3,1970-01-03,1970-12-26,7673,52
+10,Was Captured Live At The Forum,Three Dog Night,6,1970-01-03,1970-12-26,7653,52
+11,Woodstock,Soundtrack,1,1970-06-06,1970-12-26,7649,30
+12,Butch Cassidy And The Sundance Kid,Soundtrack,16,1970-01-03,1970-12-26,7640,52
+13,Easy Rider,Soundtrack,6,1970-01-03,1970-12-26,7625,52
+14,"Blood, Sweat & Tears","Blood, Sweat & Tears",7,1970-01-03,1970-12-26,7013,52
+15,Joe Cocker!,Joe Cocker,11,1970-01-03,1970-11-21,6978,47
+16,Hair,Original Cast Recording,22,1970-01-03,1970-12-26,6688,52
+17,McCartney,Paul McCartney,1,1970-05-09,1970-12-26,6634,34
+18,"Crosby,Stills & Nash","Crosby, Stills & Nash",8,1970-01-03,1970-12-26,6631,52
+19,American Woman,The Guess Who,9,1970-02-14,1970-12-26,6549,46
+20,In-A-Gadda-Da-Vida,Iron Butterfly,11,1970-01-03,1970-12-26,6531,52
+21,Stand!,Sly & The Family Stone,26,1970-01-03,1970-12-26,6502,52
+22,Grand Funk,Grand Funk Railroad,11,1970-01-31,1970-12-26,6470,48
+23,Chicago Transit Authority,Chicago,44,1970-01-03,1970-12-26,6460,52
+24,The Best Of Charley Pride,Charley Pride,25,1970-01-03,1970-12-26,6437,52
+25,The Isaac Hayes Movement,Isaac Hayes,8,1970-04-18,1970-12-26,6428,37
+26,Tom Jones Live In Las Vegas,Tom Jones,3,1970-01-03,1970-10-31,6325,44
+27,Band Of Gypsys,Jimi Hendrix,5,1970-05-02,1970-12-26,6246,35
+28,Raindrops Keep Fallin' On My Head,B.J. Thomas,12,1970-01-03,1970-10-10,6161,41
+29,Cosmo's Factory,Creedence Clearwater Revival,1,1970-07-25,1970-12-26,6057,23
+30,Live At Leeds,The Who,4,1970-05-30,1970-12-26,6051,31
+31,Let It Be (Soundtrack),The Beatles,1,1970-05-30,1970-12-26,6049,31
+32,Engelbert Humperdinck,Engelbert Humperdinck,5,1970-01-03,1970-10-10,5934,41
+33,Green River,Creedence Clearwater Revival,13,1970-01-03,1970-12-26,5802,52
+34,It Ain't Easy,Three Dog Night,8,1970-05-02,1970-12-26,5772,35
+35,Steppenwolf 'Live',Steppenwolf,7,1970-04-18,1970-12-26,5736,37
+36,Hey Jude,The Beatles,2,1970-03-21,1970-10-31,5592,33
+37,Still Waters Run Deep,Four Tops,21,1970-04-11,1970-12-26,5590,38
+38,Diana Ross Presents The Jackson 5,The Jackson 5,5,1970-01-17,1970-08-22,5500,32
+39,Hot Buttered Soul,Isaac Hayes,21,1970-01-03,1970-12-26,5479,52
+40,Mountain Climbing!,Mountain,17,1970-03-14,1970-12-05,5377,39
+41,ABC,The Jackson 5,4,1970-06-06,1970-12-26,5363,30
+42,The Age Of Aquarius,The 5th Dimension,30,1970-01-03,1970-10-10,5344,41
+43,Everybody Knows This Is Nowhere,Neil Young,34,1970-01-10,1970-12-26,5291,48
+44,Let It Bleed,The Rolling Stones,3,1970-01-03,1970-08-29,5261,35
+45,Tommy,The Who,4,1970-01-03,1970-12-26,5254,37
+46,The 5th Dimension/Greatest Hits,The 5th Dimension,5,1970-05-16,1970-12-26,5249,33
+47,To Our Children's Children's Children,The Moody Blues,14,1970-01-10,1970-11-07,5209,44
+48,"""The Devil Made Me Buy This Dress""",FLiP,17,1970-02-28,1970-12-26,5201,44
+49,Here Comes Bobby,Bobby Sherman,10,1970-04-11,1970-12-26,5166,38
+50,The Band,The Band,9,1970-01-03,1970-09-19,5146,38
+51,"Blood, Sweat & Tears 3","Blood, Sweat & Tears",1,1970-07-18,1970-12-26,5112,24
+52,Closer To Home,Grand Funk Railroad,6,1970-07-11,1970-12-26,5072,25
+53,Suitable For Framing,Three Dog Night,24,1970-01-03,1970-12-05,4908,49
+54,Psychedelic Shack,The Temptations,9,1970-04-04,1970-10-24,4742,30
+55,"Hello, I'm Johnny Cash",Johnny Cash,6,1970-02-14,1970-09-05,4643,30
+56,Closing The Gap,Michael Parks,35,1970-01-03,1970-09-19,4567,38
+57,Benefit,Jethro Tull,11,1970-05-09,1970-12-26,4544,34
+58,John Barleycorn Must Die,Traffic,5,1970-07-11,1970-12-26,4452,25
+59,Ladies Of The Canyon,Joni Mitchell,27,1970-04-11,1970-11-21,4436,33
+60,Swiss Movement,Eddie Harris,29,1970-01-03,1970-08-29,4336,35
+61,This Girl's In Love With You,Aretha Franklin,17,1970-02-14,1970-09-05,4297,30
+62,Candles In The Rain,Melanie,17,1970-05-09,1970-12-26,4260,34
+63,Paint Your Wagon,Soundtrack,40,1970-01-03,1970-11-28,4251,46
+64,Ecology,Rare Earth,15,1970-07-11,1970-12-26,4179,25
+65,Okie From Muskogee,Merle Haggard And The Strangers,46,1970-01-24,1970-12-26,4146,43
+66,Johnny Cash At San Quentin,Johnny Cash,14,1970-01-03,1970-10-31,4133,44
+67,Morrison Hotel/Hard Rock Cafe,The Doors,4,1970-03-07,1970-09-05,4112,27
+68,I'll Never Fall In Love Again,Dionne Warwick,23,1970-05-02,1970-12-26,4110,35
+69,Monster,Steppenwolf,17,1970-01-03,1970-09-26,4080,39
+70,Tom,Tom Jones,6,1970-05-09,1970-10-31,3999,26
+71,The Plastic Ono Band - Live Peace In Toronto 1969,John Lennon,10,1970-01-10,1970-08-15,3995,32
+72,On Time,Grand Funk Railroad,34,1970-01-03,1970-10-24,3964,43
+73,Cricklewood Green,Ten Years After,14,1970-04-18,1970-11-07,3961,30
+74,Midnight Cowboy,Soundtrack,29,1970-01-03,1970-09-05,3928,36
+75,Frijid Pink,Frijid Pink,11,1970-01-24,1970-08-15,3908,30
+76,On The Threshold Of A Dream,The Moody Blues,97,1970-01-03,1970-12-26,3901,52
+77,Touching You Touching Me,Neil Diamond,30,1970-01-03,1970-10-31,3890,44
+78,John B. Sebastian,John Sebastian,20,1970-03-28,1970-10-24,3883,31
+79,Volunteers,Jefferson Airplane,19,1970-01-03,1970-09-19,3826,38
+80,"Eric Burdon Declares ""War""",Eric Burdon And War,18,1970-05-16,1970-11-14,3810,27
+81,Cold Blood,Cold Blood,23,1970-01-03,1970-07-11,3748,28
+82,Mad Dogs & Englishmen,Joe Cocker,2,1970-09-05,1970-12-26,3716,17
+83,The Turning Point,John Mayall,66,1970-01-03,1970-10-03,3715,40
+84,Them Changes,Buddy Miles,35,1970-07-04,1970-12-26,3710,26
+85,Diana Ross,Diana Ross,19,1970-07-11,1970-12-26,3697,25
+86,The Last Poets,The Last Poets,29,1970-06-20,1970-12-26,3697,28
+87,The Best Of Tommy James & The Shondells,Tommy James,21,1970-01-03,1970-10-10,3687,38
+88,Bitches Brew,Miles Davis,35,1970-05-16,1970-11-28,3664,29
+89,Funny Girl (Soundtrack),Barbra Streisand,61,1970-01-03,1970-10-17,3646,42
+90,Bobby Sherman,Bobby Sherman,11,1970-01-03,1970-07-04,3621,27
+91,Completely Well,B.B. King,38,1970-01-03,1970-07-18,3621,29
+92,"10 Years Together/The Best Of Peter, Paul And Mary","Peter, Paul & Mary",15,1970-06-20,1970-12-26,3569,28
+93,2001: A Space Odyssey,Soundtrack,45,1970-01-03,1970-10-24,3557,43
+94,12 In A Roe/A Collection Of Tommy Roe's Greatest Hits,Tommy Roe,21,1970-01-03,1970-07-11,3552,28
+95,Try A Little Kindness,Glen Campbell,12,1970-02-07,1970-08-15,3532,28
+96,Walking In Space,Quincy Jones,56,1970-01-03,1970-08-15,3521,33
+97,Johnny Cash At Folsom Prison,Johnny Cash,60,1970-01-03,1970-10-10,3519,41
+98,Self Portrait,Bob Dylan,4,1970-07-04,1970-11-28,3505,22
+99,Just Plain Charley,Charley Pride,22,1970-02-28,1970-08-29,3478,27
+100,Neil Diamond/Gold,Neil Diamond,10,1970-08-22,1970-12-26,3470,19
+101,Abraxas,Santana,1,1970-10-10,1970-12-26,3468,12
+102,James Gang Rides Again,The James Gang,20,1970-07-25,1970-12-26,3450,23
+103,Workingman's Dead,Grateful Dead,27,1970-06-27,1970-12-19,3417,26
+104,Close To You,Carpenters,2,1970-09-19,1970-12-26,3398,15
+105,Puzzle People,The Temptations,9,1970-01-03,1970-07-18,3390,29
+106,Third Album,The Jackson 5,4,1970-09-26,1970-12-26,3360,14
+107,Bayou Country,Creedence Clearwater Revival,43,1970-01-03,1970-10-10,3352,41
+108,Alone Together,Dave Mason,22,1970-07-04,1970-12-19,3340,25
+109,Portrait,The 5th Dimension,35,1970-05-09,1970-12-26,3300,27
+110,We Made It Happen,Engelbert Humperdinck,19,1970-07-11,1970-12-26,3251,25
+111,The Sesame Street Book & Record,Soundtrack,23,1970-07-25,1970-12-26,3221,23
+112,Eric Clapton,Eric Clapton,13,1970-07-25,1970-12-26,3195,23
+113,Charley Pride's 10th Album,Charley Pride,30,1970-07-18,1970-12-26,3184,24
+114,A Question Of Balance,The Moody Blues,3,1970-09-12,1970-12-26,3114,16
+115,"On Stage: February, 1970",Elvis Presley,13,1970-06-20,1970-10-31,3103,20
+116,Stage Fright,The Band,5,1970-09-05,1970-12-26,3098,17
+117,On The Waters,Bread,12,1970-08-08,1970-12-26,3060,21
+118,Absolutely Live,The Doors,8,1970-08-08,1970-12-19,3057,20
+119,After The Gold Rush,Neil Young,8,1970-09-19,1970-12-26,3023,15
+120,Album 1700,"Peter, Paul & Mary",18,1970-01-03,1970-08-22,2950,34
+121,Sugarloaf,Sugarloaf,24,1970-08-15,1970-12-26,2920,20
+122,Led Zeppelin,Led Zeppelin,25,1970-01-03,1970-07-04,2920,27
+123,Something's Burning,Kenny Rogers,26,1970-04-18,1970-09-26,2844,24
+124,Led Zeppelin III,Led Zeppelin,1,1970-10-24,1970-12-26,2835,10
+125,Live Cream,Cream,15,1970-05-02,1970-09-19,2834,21
+126,Greatest Hits,Herb Alpert & The Tijuana Brass,43,1970-03-21,1970-10-24,2834,32
+127,"Diana Ross & The Supremes Greatest Hits, Volume 3",Diana Ross & The Supremes,31,1970-01-10,1970-06-27,2815,25
+128,"Hello, Dolly!",Barbra Streisand,49,1970-01-03,1970-06-27,2765,26
+129,Gary Puckett & The Union Gap's Greatest Hits,Gary Puckett And The Union Gap,50,1970-07-11,1970-12-26,2747,25
+130,In The Court Of The Crimson King - An Observation By King Crimson,King Crimson,28,1970-01-03,1970-05-30,2739,22
+131,Brook Benton Today,Brook Benton,27,1970-02-21,1970-07-25,2736,23
+132,Oliver!,Soundtrack,84,1970-01-03,1970-09-19,2719,38
+133,Spirit In The Sky,Norman Greenbaum,23,1970-02-28,1970-08-15,2712,25
+134,Zephyr,Zephyr,48,1970-01-03,1970-06-13,2711,24
+135,It's A Beautiful Day,It's A Beautiful Day,105,1970-01-03,1970-10-10,2706,41
+136,Number 5,The Steve Miller Band,23,1970-07-25,1970-12-26,2689,23
+137,Iron Butterfly Live,Iron Butterfly,20,1970-05-23,1970-10-24,2667,23
+138,Bridge Over Troubled Water,Ray Conniff,47,1970-04-25,1970-10-31,2659,28
+139,Fire And Water,Free,17,1970-09-05,1970-12-26,2655,17
+140,Stand Up,Jethro Tull,41,1970-01-03,1970-07-11,2650,28
+141,Metamorphosis,Iron Butterfly,16,1970-08-29,1970-12-26,2629,18
+142,Long Lonesome Highway,Michael Parks,24,1970-05-23,1970-10-10,2600,21
+143,Romeo & Juliet (1969),Soundtrack,31,1970-01-03,1970-07-04,2585,27
+144,Barbra Streisand's Greatest Hits,Barbra Streisand,32,1970-02-28,1970-09-19,2579,30
+145,Just For Love,Quicksilver Messenger Service,27,1970-08-22,1970-12-26,2562,19
+146,Make It Easy On Yourself,Burt Bacharach,102,1970-01-03,1970-12-26,2540,42
+147,"Love, Peace And Happiness",The Chambers Brothers,58,1970-01-03,1970-08-08,2517,32
+148,Chapter Two,Roberta Flack,33,1970-08-29,1970-12-26,2505,18
+149,The World Of Johnny Cash,Johnny Cash,54,1970-06-06,1970-12-26,2493,30
+150,Empty Rooms,John Mayall,33,1970-03-14,1970-07-18,2453,19
+151,Raindrops Keep Fallin' On My Head,Johnny Mathis,38,1970-04-04,1970-09-26,2453,26
+152,From Memphis To Vegas / From Vegas To Memphis,Elvis Presley,12,1970-01-03,1970-05-09,2435,19
+153,Spirit In The Dark,Aretha Franklin,25,1970-09-12,1970-12-26,2429,16
+154,Open Road,Donovan,16,1970-07-18,1970-11-21,2415,19
+155,The Fightin' Side Of Me,Merle Haggard,68,1970-07-25,1970-12-26,2382,23
+156,Tammy's Greatest Hits,Tammy Wynette,78,1970-01-03,1970-10-31,2368,44
+157,Temptations Greatest Hits II,The Temptations,15,1970-09-26,1970-12-26,2364,14
+158,Gasoline Alley,Rod Stewart,27,1970-06-20,1970-11-14,2351,21
+159,Right On,The Supremes,25,1970-06-06,1970-10-10,2350,19
+160,Everything Is Beautiful,Ray Stevens,35,1970-06-13,1970-10-17,2342,19
+161,Moondance,Van Morrison,29,1970-03-14,1970-08-08,2315,22
+162,The Jim Nabors Hour,Jim Nabors,34,1970-06-27,1970-10-31,2307,19
+163,Monterey International Pop Festival,Otis Redding/The Jimi Hendrix Experience,16,1970-09-19,1970-12-26,2295,15
+164,'Get Yer Ya-Ya's Out!',The Rolling Stones,6,1970-10-17,1970-12-26,2287,11
+165,Hot Tuna,Hot Tuna,30,1970-07-18,1970-11-21,2269,19
+166,Arizona,Mark Lindsay,36,1970-03-07,1970-07-11,2256,19
+167,Live At London's Talk Of The Town,The Temptations,21,1970-08-22,1970-12-19,2255,18
+168,Hello Darlin',Conway Twitty,65,1970-07-04,1970-12-26,2239,26
+169,I Am The President,David,19,1970-01-03,1970-04-25,2235,17
+170,Signed Sealed & Delivered,Stevie Wonder,25,1970-08-29,1970-12-12,2211,16
+171,Best Of Bee Gees,Bee Gees,63,1970-01-03,1970-06-27,2203,26
+172,Marrying Maiden,It's A Beautiful Day,28,1970-07-04,1970-11-21,2196,21
+173,Andy Williams' Greatest Hits,Andy Williams,42,1970-03-07,1970-07-18,2157,20
+174,Sex Machine,James Brown,29,1970-09-12,1970-12-26,2150,16
+175,World Wide 50 Gold Awards Vol. 1,Elvis Presley,45,1970-08-22,1970-12-26,2142,19
+176,Curtis,Curtis Mayfield,19,1970-10-03,1970-12-26,2137,13
+177,Oh Happy Day,Glen Campbell,38,1970-05-23,1970-09-26,2135,19
+178,Shady Grove,Quicksilver Messenger Service,25,1970-01-24,1970-07-04,2134,24
+179,Black Sabbath,Black Sabbath,23,1970-08-29,1970-12-26,2116,18
+180,Home,Procol Harum,34,1970-07-11,1970-10-17,2097,15
+181,Fireworks,Jose Feliciano,57,1970-05-30,1970-10-10,2077,20
+182,"Johnny Cash's Greatest Hits,volume Iii",Johnny Cash,97,1970-01-03,1970-09-05,2073,36
+183,Ummagumma,Pink Floyd,74,1970-01-03,1970-07-04,2064,27
+184,Delaney & Bonnie & Friends On Tour With Eric Clapton,Delaney & Bonnie,29,1970-04-18,1970-08-08,2027,17
+185,Shilo,Neil Diamond,52,1970-09-12,1970-12-26,2025,16
+186,Barrel,Lee Michaels,51,1970-08-01,1970-12-05,2003,19
+187,Blind Faith,Blind Faith,29,1970-01-03,1970-04-25,1999,17
+188,I Got Dem Ol' Kozmic Blues Again Mama!,Janis Joplin,35,1970-01-03,1970-04-18,1987,16
+189,Cream Of The Crop,The Supremes,33,1970-01-03,1970-04-11,1970,15
+190,Traces/Memories,The Lettermen,42,1970-02-07,1970-07-11,1969,23
+191,Raindrops Keep Fallin' On My Head,Andy Williams,43,1970-06-13,1970-10-17,1968,19
+192,Real Friends,The Friends Of Distinction,68,1970-03-28,1970-08-15,1965,21
+193,Share The Land,The Guess Who,14,1970-10-17,1970-12-26,1958,11
+194,Farewell,The Supremes,46,1970-05-16,1970-09-12,1940,18
+195,Poco,Poco,58,1970-06-06,1970-10-10,1940,19
+196,"Dionne Warwick's Golden Hits, Part 2",Dionne Warwick,56,1970-01-03,1970-05-09,1938,19
+197,Elton John,Elton John,17,1970-10-03,1970-12-26,1926,13
+198,Rick Nelson In Concert,Rick Nelson,54,1970-02-21,1970-06-27,1918,19
+199,Leftover Wine,Melanie,33,1970-09-26,1970-12-26,1902,14
+200,Don't It Make You Want To Go Home?,Joe South,60,1970-01-17,1970-06-20,1899,23
+201,Greatest Hits,Sly & The Family Stone,2,1970-11-07,1970-12-26,1879,8
+202,Leaving It All Behind,The Grass Roots,36,1970-01-03,1970-04-25,1870,17
+203,Dennis Yost & The Classics IV/Golden Greats-Volume I,Classics IV,50,1970-01-03,1970-04-18,1862,16
+204,The Delfonics,The Delfonics,61,1970-08-15,1970-12-12,1855,18
+205,The Glen Campbell Goodtime Album,Glen Campbell,27,1970-10-03,1970-12-26,1840,13
+206,(If You Let Me Make Love To You Then) Why Can't I Touch You?,Ronnie Dyson,55,1970-09-05,1970-12-26,1829,17
+207,Alice's Restaurant,Soundtrack,22,1970-01-03,1970-04-25,1819,17
+208,Future Blues,Canned Heat,59,1970-09-12,1970-12-26,1816,16
+209,Sentimental Journey,Ringo Starr,22,1970-05-16,1970-08-15,1789,14
+210,Magic Christian Music,Badfinger,55,1970-03-28,1970-07-18,1789,17
+211,Snowbird,Anne Murray,41,1970-10-03,1970-12-26,1772,13
+212,The Shocking Blue,The Shocking Blue,31,1970-02-14,1970-06-06,1767,17
+213,Everything's Archie,The Archies,72,1970-01-03,1970-05-16,1760,20
+214,"He Ain't Heavy, He's My Brother",The Hollies,32,1970-04-04,1970-07-04,1753,14
+215,Cactus,Cactus,54,1970-07-25,1970-11-21,1751,18
+216,See,The Rascals,45,1970-01-10,1970-04-25,1748,16
+217,Leon Russell,Leon Russell,60,1970-04-11,1970-08-15,1741,19
+218,In The Wake Of Poseidon,King Crimson,31,1970-09-12,1970-12-05,1723,13
+219,Viva Tirado,El Chicano,51,1970-06-13,1970-10-03,1721,17
+220,A Man Without Love,Engelbert Humperdinck,99,1970-01-03,1970-07-04,1721,27
+221,Best Of Traffic,Traffic,48,1970-01-03,1970-04-04,1712,14
+222,"With Love, Bobby",Bobby Sherman,20,1970-10-24,1970-12-26,1708,10
+223,For The Good Times,Ray Price,31,1970-09-12,1970-12-26,1708,16
+224,Gypsy,Gypsy,44,1970-10-10,1970-12-26,1703,12
+225,Midnight Cowboy,Ferrante & Teicher,61,1970-01-03,1970-05-16,1677,20
+226,Ginger Baker's Air Force,Ginger Baker's Air Force,33,1970-05-23,1970-08-29,1675,15
+227,Creedence Clearwater Revival: Collector's Edition,Creedence Clearwater Revival,94,1970-01-03,1970-07-04,1668,27
+228,Best Of Cream,Cream,48,1970-01-03,1970-05-16,1665,20
+229,"Greatest Hits, Volume 1",B.J. Thomas,90,1970-01-03,1970-05-16,1651,20
+230,Gula Matari,Quincy Jones,63,1970-09-05,1970-12-19,1639,16
+231,Tom Rush,Tom Rush,76,1970-03-14,1970-06-27,1632,16
+232,Good Morning Starshine,Oliver,60,1970-01-03,1970-04-18,1627,16
+233,The Partridge Family Album,The Partridge Family,9,1970-10-31,1970-12-26,1623,9
+234,This Is Tom Jones,Tom Jones,42,1970-01-03,1970-04-04,1583,14
+235,The Byrds (Untitled),The Byrds,40,1970-10-17,1970-12-26,1572,11
+236,Everybody's Out Of Town,B.J. Thomas,72,1970-05-02,1970-09-12,1566,20
+237,USA Union,John Mayall,22,1970-10-24,1970-12-26,1559,10
+238,What Does It Take To Win Your Love,Jr. Walker & The All Stars,92,1970-01-17,1970-06-13,1558,22
+239,Is That All There Is?,Peggy Lee,55,1970-01-03,1970-04-11,1545,15
+240,Patches,Clarence Carter,44,1970-09-26,1970-12-12,1535,12
+241,Mantovani Today,Mantovani,77,1970-04-04,1970-09-12,1535,24
+242,Ain't It Funky,James Brown,43,1970-02-14,1970-05-02,1527,12
+243,The Begatting Of The President,Orson Welles,66,1970-08-22,1970-12-05,1523,16
+244,Ballad Of Easy Rider,The Byrds,36,1970-01-03,1970-04-04,1522,14
+245,Indianola Mississippi Seeds,B.B. King,26,1970-10-17,1970-12-26,1520,11
+246,"Through The Past, Darkly (Big Hits Vol. 2)",The Rolling Stones,28,1970-01-03,1970-04-18,1503,16
+247,"Glen Campbell - ""Live""",Glen Campbell,47,1970-01-03,1970-04-04,1491,14
+248,Alive Alive-O!,Jose Feliciano,29,1970-01-03,1970-03-21,1472,12
+249,Idlewild South,The Allman Brothers Band,38,1970-10-24,1970-12-26,1460,10
+250,Gladys Knight & The Pips Greatest Hits,Gladys Knight And The Pips,55,1970-04-04,1970-08-01,1447,16
+251,James Taylor,James Taylor,62,1970-10-03,1970-12-26,1436,13
+252,Wilson Pickett In Philadelphia,Wilson Pickett,64,1970-10-03,1970-12-26,1426,13
+253,Looking In,Savoy Brown,39,1970-10-17,1970-12-26,1419,11
+254,War & Peace,Edwin Starr,52,1970-09-05,1970-11-28,1394,13
+255,Yer' Album,The James Gang,83,1970-01-03,1970-04-11,1394,15
+256,Live/Dead,Grateful Dead,64,1970-01-03,1970-04-11,1386,15
+257,New Morning,Bob Dylan,7,1970-11-14,1970-12-26,1383,7
+258,Vehicle,The Ides Of March,55,1970-06-27,1970-09-12,1368,12
+259,One Day At A Time,Joan Baez,80,1970-03-21,1970-06-20,1339,14
+260,Band Of Gold,Freda Payne,60,1970-08-22,1970-11-14,1323,13
+261,Tammy's Touch,Tammy Wynette,85,1970-05-16,1970-09-05,1318,17
+262,Black Talk!,Charles Earland,108,1970-07-11,1970-11-14,1311,19
+263,Release Me,Engelbert Humperdinck,126,1970-01-10,1970-07-04,1311,26
+264,Stevie Wonder Live,Stevie Wonder,81,1970-04-11,1970-07-18,1302,15
+265,Canned Heat Cook Book (The Best Of Canned Heat),Canned Heat,86,1970-01-03,1970-04-11,1280,15
+266,The Brass Are Comin',Herb Alpert & The Tijuana Brass,30,1970-01-03,1970-04-04,1259,14
+267,Tom Jones Live!,Tom Jones,64,1970-01-03,1970-04-18,1244,16
+268,Beaucoups of Blues,Ringo Starr,65,1970-10-17,1970-12-26,1224,11
+269,"The Association ""Live""",The Association,79,1970-07-18,1970-10-03,1219,12
+270,I Love You,Eddie Holman,75,1970-02-21,1970-05-16,1206,13
+271,Livingston Taylor,Livingston Taylor,82,1970-07-25,1970-12-19,1199,20
+272,Jesus Christ Superstar,Various Artists,7,1970-11-21,1970-12-26,1185,6
+273,a group called Smith,Smith,32,1970-01-03,1970-03-28,1183,13
+274,Hurt So Bad,The Lettermen,53,1970-01-03,1970-03-28,1179,13
+275,Fancy,Bobbie Gentry,96,1970-05-09,1970-08-29,1176,17
+276,To Bonnie From Delaney,Delaney & Bonnie,58,1970-10-10,1970-12-12,1163,10
+277,Leaving On A Jet Plane,Percy Faith,88,1970-02-14,1970-05-16,1163,14
+278,We Went To Different Schools Together,The Jaggerz,62,1970-04-11,1970-06-20,1158,11
+279,Mungo Jerry,Mungo Jerry,64,1970-09-12,1970-11-21,1150,11
+280,Sounds Of Silence,Simon & Garfunkel,120,1970-05-23,1970-09-26,1139,19
+281,Stephen Stills,Stephen Stills,4,1970-11-28,1970-12-26,1133,5
+282,Minus-Plus,Smith,74,1970-07-04,1970-09-19,1130,12
+283,Greatest Hits,The Association,119,1970-01-03,1970-09-05,1122,22
+284,Tell It All Brother,Kenny Rogers,61,1970-10-31,1970-12-26,1120,9
+285,Greatest Hits,Sergio Mendes,101,1970-07-04,1970-11-14,1113,20
+286,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,101,1970-01-03,1970-08-15,1109,18
+287,The Ventures 10th Anniversary Album,The Ventures,91,1970-10-10,1970-12-26,1090,12
+288,Washington County,Arlo Guthrie,33,1970-11-07,1970-12-26,1089,8
+289,Tap Root Manuscript,Neil Diamond,13,1970-11-21,1970-12-26,1085,6
+290,Second Winter,Johnny Winter,59,1970-01-03,1970-03-28,1085,13
+291,Lord Sutch And Heavy Friends,L,84,1970-02-21,1970-05-16,1085,13
+292,Steppenwolf 7,Steppenwolf,19,1970-11-21,1970-12-26,1079,6
+293,The Last Puff,Spooky Tooth,84,1970-08-15,1970-11-07,1078,13
+294,I (Who Have Nothing),Tom Jones,23,1970-11-14,1970-12-26,1075,7
+295,Which Way You Goin' Billy?,The Poppy Family,76,1970-06-20,1970-08-29,1075,11
+296,New Ways But Love Stays,The Supremes,71,1970-10-24,1970-12-26,1070,10
+297,Your Saving Grace,The Steve Miller Band,38,1970-01-03,1970-02-28,1064,9
+298,On A Clear Day You Can See Forever,Barbra Streisand,108,1970-07-25,1970-12-26,1062,23
+299,Ye-Me-Le,Sergio Mendes,71,1970-01-03,1970-03-28,1058,13
+300,Oliver Again,Oliver,71,1970-05-16,1970-08-08,1052,13
+301,Steam,Steam,84,1970-01-10,1970-04-04,1050,13
+302,The Johnny Cash Show,Johnny Cash,44,1970-11-14,1970-12-26,1047,7
+303,Reflections Of My Life,The Marmalade,71,1970-06-20,1970-09-12,1046,13
+304,Bill Cosby,Bill Cosby,70,1970-01-03,1970-03-28,1043,13
+305,New Routes,Lulu,88,1970-02-21,1970-05-23,1039,14
+306,Ceremony,Spooky Tooth,92,1970-03-21,1970-06-20,1038,14
+307,Kiln House,Fleetwood Mac,69,1970-10-31,1970-12-26,1025,9
+308,Yakety Revisited,Boots Randolph,113,1970-01-10,1970-05-09,1025,18
+309,Then Play On,Fleetwood Mac,109,1970-01-03,1970-05-16,1018,17
+310,Susan Sings Songs From Sesame Street,Susan,86,1970-08-01,1970-10-24,1010,13
+311,More Of The Best Of Bill Cosby,Bill Cosby,80,1970-03-14,1970-06-27,1009,16
+312,Rock Festival,The Youngbloods,80,1970-10-31,1970-12-26,995,9
+313,Bloodrock 2,Bloodrock,52,1970-11-07,1970-12-26,978,8
+314,Get Together With Andy Williams,Andy Williams,56,1970-01-03,1970-03-28,977,13
+315,Come Together,Ike & Tina Turner,130,1970-05-16,1970-09-19,974,19
+316,The Delfonics Super Hits,The Delfonics,111,1970-02-21,1970-05-23,972,14
+317,Jean,Ray Conniff,103,1970-01-03,1970-05-09,962,19
+318,The New Gary Puckett And The Union Gap Album,Gary Puckett And The Union Gap,50,1970-01-03,1970-03-07,960,10
+319,The Ways To Love A Man,Tammy Wynette,83,1970-02-21,1970-05-02,957,11
+320,The Sea,San Sebastian,107,1970-01-03,1970-04-11,955,15
+321,Norwood,Glen Campbell,90,1970-06-27,1970-09-19,954,13
+322,On Her Majesty's Secret Service,Soundtrack,103,1970-02-07,1970-05-02,954,13
+323,Atom Heart Mother,Pink Floyd,55,1970-11-07,1970-12-26,953,8
+324,Crow Music,CROW,69,1970-01-03,1970-02-28,945,9
+325,A Pocket Full Of Miracles,The Miracles,56,1970-10-24,1970-12-26,940,10
+326,Come Saturday Morning,The Sandpipers,96,1970-08-15,1970-10-24,940,11
+327,We Got To Live Together,Buddy Miles,53,1970-11-14,1970-12-26,924,7
+328,What Love Has...Joined Together,The Miracles,97,1970-05-30,1970-08-08,917,11
+329,"Theme From ""Z"" And Other Film Music",Henry Mancini,111,1970-04-25,1970-09-05,917,17
+330,R.B. Greaves,R.B. Greaves,85,1970-01-03,1970-04-04,915,14
+331,Let's Be Friends,Elvis Presley,105,1970-05-09,1970-07-18,915,11
+332,Raw Sienna,Savoy Brown,121,1970-04-25,1970-09-05,914,18
+333,Arthur (Or The Decline And Fall Of The British Empire),The Kinks,107,1970-01-03,1970-04-04,912,14
+334,Live Album,Grand Funk Railroad,5,1970-12-05,1970-12-26,903,4
+335,Turn Back The Hands Of Time,Tyrone Davis,90,1970-07-11,1970-09-19,903,11
+336,Layla,Derek & The Dominos,16,1970-11-21,1970-12-26,897,6
+337,You Ain't Heard Nothin' Yet,Danny Davis And The Nashville Brass,102,1970-05-30,1970-08-15,889,12
+338,For Lovers,San Sebastian,84,1970-01-03,1970-03-14,885,11
+339,Tonight I'll Say A Prayer,Eydie Gorme,105,1970-03-07,1970-05-23,883,12
+340,Everything Is Everything,Diana Ross,42,1970-11-21,1970-12-26,876,6
+341,Everything Is Beautiful,Jim Nabors,124,1970-09-05,1970-12-26,876,17
+342,Close To You,Johnny Mathis,61,1970-10-10,1970-12-05,870,9
+343,Silverbird,Mark Lindsay,82,1970-09-05,1970-11-07,867,10
+344,Stairsteps,The Five Stairsteps,83,1970-06-13,1970-09-12,857,12
+345,Nashville Skyline,Bob Dylan,66,1970-01-03,1970-03-21,846,12
+346,Country Preacher,Cannonball Adderley,136,1970-03-14,1970-08-22,843,22
+347,Country Joe & The Fish/Greatest Hits,Country Joe & The Fish,74,1970-01-03,1970-02-28,841,9
+348,Recollections,Judy Collins,98,1970-01-03,1970-04-04,836,14
+349,10th Anniversary - Golden Piano Hits,Ferrante & Teicher,134,1970-01-03,1970-04-11,827,15
+350,Smash Hits,The Jimi Hendrix Experience,57,1970-01-03,1970-11-21,824,13
+351,Blue,Michael Parks,71,1970-10-10,1970-11-28,824,8
+352,Three Dog Night,Three Dog Night,114,1970-01-03,1970-04-11,821,13
+353,Airport Love Theme,Vincent Bell,75,1970-06-20,1970-08-08,814,8
+354,A Brand New Me,Dusty Springfield,107,1970-02-28,1970-05-23,810,13
+355,The Andy Williams Show,Andy Williams,81,1970-11-14,1970-12-26,809,7
+356,No Dice,Badfinger,28,1970-11-28,1970-12-26,804,5
+357,Bobby Goldsboro's Greatest Hits,Bobby Goldsboro,103,1970-07-04,1970-09-05,797,10
+358,"Shirley Bassey Is Really ""Something""",Shirley Bassey,105,1970-10-17,1970-12-26,789,11
+359,Silk Purse,Linda Ronstadt,103,1970-10-24,1970-12-26,787,10
+360,"My Woman, My Woman, My Wife",Marty Robbins,117,1970-05-23,1970-09-05,782,16
+361,Memphis Underground,Herbie Mann,96,1970-01-03,1970-03-21,778,12
+362,DisinHAIRited,Various Artists,95,1970-02-14,1970-05-09,777,13
+363,Running Down The Road,Arlo Guthrie,71,1970-01-03,1970-02-28,773,9
+364,Hurt So Bad,Nancy Wilson,92,1970-01-03,1970-03-07,770,10
+365,Wax Museum,Jay & The Americans,105,1970-02-28,1970-05-09,767,11
+366,The July 5th Album,The 5th Dimension,63,1970-08-15,1970-10-03,766,8
+367,The Magic Christian,Soundtrack,106,1970-03-21,1970-06-06,749,12
+368,The Masked Marauders,Masked Marauders,114,1970-01-03,1970-03-21,744,12
+369,Funkadelic,Funkadelic,126,1970-03-21,1970-08-15,738,17
+370,To Be Continued,Isaac Hayes,11,1970-12-05,1970-12-26,737,4
+371,The Strawberry Statement,Soundtrack,91,1970-09-12,1970-11-07,737,9
+372,Are You Ready,Pacific Gas And Electric,101,1970-07-04,1970-09-12,728,11
+373,Cucumber Castle,Bee Gees,94,1970-05-09,1970-06-27,727,8
+374,Spanky's Greatest Hit(s),Spanky And Our Gang,91,1970-01-03,1970-02-21,723,8
+375,The Magnificent 7,The Supremes & Four Tops,113,1970-10-17,1970-12-26,723,11
+376,Burnt Weeny Sandwich,Mothers Of Invention,94,1970-03-14,1970-05-02,720,8
+377,My Cherie Amour,Stevie Wonder,74,1970-01-03,1970-02-21,717,8
+378,"My Woman, My Woman, My Wife",Dean Martin,97,1970-09-12,1970-11-28,716,12
+379,The First 10 Years,Joan Baez,73,1970-11-21,1970-12-26,715,6
+380,Neil Diamond's Greatest Hits,Neil Diamond,100,1970-10-17,1970-12-26,715,11
+381,M*A*S*H,Soundtrack,120,1970-07-11,1970-12-05,714,16
+382,Getting Together,Ferrante & Teicher,97,1970-05-30,1970-08-08,712,10
+383,Watertown,Frank Sinatra,101,1970-04-11,1970-06-13,705,10
+384,The Diary Of A Band,John Mayall,93,1970-02-28,1970-05-09,704,11
+385,Rare Bird,Ra,117,1970-03-07,1970-05-30,704,13
+386,Travelin',Tommy James,91,1970-04-11,1970-06-06,681,9
+387,New Ballads,Rod McKuen,126,1970-03-14,1970-06-06,680,13
+388,Almost In Love,Elvis Presley,65,1970-11-21,1970-12-26,671,6
+389,Whales & Nightingales,Judy Collins,26,1970-12-05,1970-12-26,663,4
+390,Magical Mystery Tour (Soundtrack),The Beatles,109,1970-01-03,1970-08-01,662,12
+391,Four In Blue,The Miracles,78,1970-01-03,1970-02-21,655,8
+392,Slim Slo Slider,Johnny Rivers,100,1970-08-08,1970-10-03,653,9
+393,McLemore Avenue,Booker T. & The MG's,107,1970-05-02,1970-08-22,650,15
+394,Airport,Soundtrack,104,1970-04-18,1970-09-12,633,19
+395,C.J. Fish,Country Joe & The Fish,111,1970-05-02,1970-06-27,628,9
+396,"Like It Is, Like It Was",The Dells,126,1970-03-14,1970-05-30,627,12
+397,The Best Of Jerry Lee Lewis,Jerry Lee Lewis,114,1970-05-09,1970-08-22,623,14
+398,Switched-On Bach,Walter,106,1970-03-07,1970-04-25,618,8
+399,The Sensational Charley Pride,Charley Pride,116,1970-01-03,1970-03-21,613,12
+400,Dinosaur Swamps,The Flock,96,1970-10-17,1970-12-12,612,9
+401,Movin' On,Danny Davis And The Nashville Brass,141,1970-01-03,1970-05-09,610,19
+402,On Broadway,Diana Ross & The Supremes,46,1970-01-03,1970-02-21,604,8
+403,The Beatles [White Album],The Beatles,85,1970-01-03,1970-03-07,594,10
+404,"Don't Crush That Dwarf, Hand Me The Pliers",Firesign Theatre,106,1970-09-19,1970-11-21,580,10
+405,Deep Purple In Rock,Deep Purple,143,1970-09-12,1970-12-26,576,16
+406,Lee Michaels,Lee Michaels,111,1970-01-03,1970-02-21,570,8
+407,Free Your Mind...And Your Ass Will Follow,Funkadelic,92,1970-10-31,1970-12-26,568,9
+408,Soul On Top,James Brown,125,1970-05-16,1970-07-18,566,10
+409,Swamp Rock,The Ventures,81,1970-01-03,1970-02-28,564,9
+410,Donovan's Greatest Hits,Donovan,128,1970-01-03,1970-03-14,564,11
+411,Together,Diana Ross & The Supremes,79,1970-01-03,1970-02-21,562,8
+412,Changing Times,Four Tops,109,1970-10-17,1970-12-26,562,11
+413,"Rare Precious & Beautiful, Volume 2",Bee Gees,100,1970-03-28,1970-05-16,557,8
+414,Joe South's Greatest Hits,Joe South,125,1970-09-12,1970-11-21,555,11
+415,My Elusive Dreams,Bobby Vinton,90,1970-04-11,1970-05-16,553,6
+416,All Things Must Pass,George Harrison,2,1970-12-19,1970-12-26,545,2
+417,The Tom Jones Fever Zone,Tom Jones,125,1970-01-03,1970-03-07,543,10
+418,Nashville by Carr,Vikki Carr,111,1970-05-09,1970-06-27,534,8
+419,Engelbert,Engelbert Humperdinck,119,1970-02-07,1970-04-04,532,9
+420,First Step,Faces,119,1970-04-18,1970-07-11,520,12
+421,Easy Does It,Al Kooper,105,1970-09-19,1970-10-24,516,6
+422,The Worst Of Jefferson Airplane,Jefferson Airplane,21,1970-12-12,1970-12-26,513,3
+423,Galveston,Jim Nabors,145,1970-01-24,1970-04-18,513,13
+424,The First Lady,Tammy Wynette,119,1970-10-31,1970-12-26,510,9
+425,Cherry Hill Park,Billy Joe Royal,100,1970-01-03,1970-02-28,509,9
+426,Reflections,The Lettermen,134,1970-09-05,1970-11-14,498,11
+427,Nazz,Nazz,118,1970-02-14,1970-04-04,495,8
+428,Muddy Mississippi Line,Bobby Goldsboro,139,1970-01-17,1970-03-28,491,11
+429,Down Home,Seals & Crofts,122,1970-10-31,1970-12-26,490,9
+430,Alice's Restaurant,Arlo Guthrie,71,1970-01-03,1970-02-07,489,6
+431,Naturally,Three Dog Night,18,1970-12-12,1970-12-26,486,3
+432,Jingle Jangle,The Archies,125,1970-01-03,1970-03-07,486,10
+433,Nancy's Greatest Hits,Nancy Sinatra,99,1970-10-03,1970-11-14,485,7
+434,Feliciano/10 To 23,Jose Feliciano,112,1970-01-03,1970-03-07,483,10
+435,Vintage Dead,Grateful Dead,127,1970-10-31,1970-12-26,479,9
+436,Elvis-That's The Way It Is,Elvis Presley,25,1970-12-12,1970-12-26,478,3
+437,Creation,Fever Tree,97,1970-02-07,1970-03-14,474,6
+438,The Soft Parade,The Doors,91,1970-01-03,1970-02-14,462,7
+439,Watt,Ten Years After,30,1970-12-12,1970-12-26,460,3
+440,Uncle Charlie & His Dog Teddy,Nitty Gritty Dirt Band,86,1970-12-05,1970-12-26,452,4
+441,Construction #1,Ten Wheel Drive With Genya Ravan,151,1970-01-10,1970-04-25,447,16
+442,It's A Mother,James Brown,103,1970-01-03,1970-02-14,443,7
+443,The Kaempfert Touch,Bert Kaempfert And His Orchestra,87,1970-03-28,1970-05-09,441,7
+444,The Beatles Featuring Tony Sheridan - In The Beginning (Circa 1960),The Beatles,117,1970-05-16,1970-06-27,441,7
+445,Open,Blues Image,147,1970-04-25,1970-09-26,441,13
+446,"Parsley, Sage, Rosemary And Thyme",Simon & Garfunkel,138,1970-05-23,1970-07-18,439,9
+447,Clouds,Joni Mitchell,125,1970-01-03,1970-02-28,438,8
+448,"Ruby, Don't Take Your Love To Town",Kenny Rogers,90,1970-01-03,1970-02-07,436,6
+449,Bob McGrath From Sesame Street,Bob McGrath,126,1970-08-15,1970-10-24,434,11
+450,American Beauty,Grateful Dead,39,1970-12-12,1970-12-26,432,3
+451,With A Little Help From My Friends,Joe Cocker,119,1970-02-21,1970-04-11,429,8
+452,Ice On Ice,Jerry Butler,142,1970-01-03,1970-03-07,429,10
+453,"Love Theme From ""Romeo And Juliet""",Johnny Mathis,131,1970-01-03,1970-02-28,425,9
+454,16 Of Their Greatest Hits,The Mamas & The Papas,119,1970-01-03,1970-04-04,424,12
+455,Little Green Bag,George Baker Selection,107,1970-07-04,1970-08-08,423,6
+456,Emitt Rhodes,Emitt Rhodes,47,1970-12-12,1970-12-26,419,3
+457,Darling Lili,Soundtrack,113,1970-08-01,1970-09-12,418,7
+458,Barabajagal,Donovan,124,1970-01-03,1970-02-21,418,8
+459,Come Together,The Mike Curb Congregation,105,1970-07-04,1970-08-01,415,5
+460,The Everlovin' Soul Of Roy Clark,Roy Clark,129,1970-01-03,1970-03-21,413,9
+461,Signs Of The Zodiac,Various Artists,147,1970-01-03,1970-03-14,413,11
+462,From Elvis In Memphis,Elvis Presley,98,1970-01-03,1970-01-31,411,5
+463,The Archies Greatest Hits,The Archies,114,1970-11-28,1970-12-26,407,5
+464,Very Dionne,Dionne Warwick,51,1970-12-12,1970-12-26,402,3
+465,Porter Wayne And Dolly Rebecca,Porter Wagoner And Dolly Parton,137,1970-04-04,1970-05-16,402,7
+466,Now I'm A Woman,Nancy Wilson,65,1970-11-28,1970-12-26,401,5
+467,Tony Sings The Great Hits Of Today!,Tony Bennett,144,1970-02-28,1970-05-09,399,11
+468,Black Gold,Nina Simone,149,1970-03-14,1970-05-30,395,12
+469,It's A New Day So Let A Man Come In,James Brown,121,1970-07-04,1970-08-08,390,6
+470,Z,Soundtrack,128,1970-04-11,1970-05-30,390,8
+471,Wings Upon Your Horns,Loretta Lynn,146,1970-02-28,1970-05-09,387,11
+472,Give Me Just A Little More Time,Chairmen Of The Board,133,1970-05-02,1970-08-22,378,10
+473,A Warm Shade Of Ivory,Henry Mancini,121,1970-01-03,1970-02-14,374,7
+474,Six Hours Past Sunset,Henry Mancini,116,1970-01-03,1970-02-14,372,7
+475,Getting To This,Blodwyn Pig,96,1970-06-27,1970-07-25,366,5
+476,Bobby Vinton's Greatest Hits Of Love,Bobby Vinton,138,1970-01-17,1970-03-07,365,8
+477,Workin' Together,Ike & Tina Turner,101,1970-12-05,1970-12-26,362,4
+478,Chunga's Revenge,Frank Zappa,119,1970-11-21,1970-12-26,362,6
+479,New York Tendaberry,Laura Nyro,92,1970-01-03,1970-02-21,350,8
+480,Down Homers,Danny Davis And The Nashville Brass,140,1970-10-31,1970-12-26,343,9
+481,Aretha's Gold,Aretha Franklin,155,1970-01-03,1970-02-28,341,9
+482,Marvin Gaye Super Hits,Marvin Gaye,117,1970-11-07,1970-12-12,332,6
+483,In Session,Chairmen Of The Board,126,1970-11-28,1970-12-26,331,5
+484,A Gasssss,Jr. Walker & The All Stars,110,1970-10-03,1970-10-31,329,5
+485,The Best Of The Youngbloods,The Youngbloods,144,1970-09-05,1970-11-07,328,10
+486,Donovan P. Leitch,Donovan,128,1970-11-14,1970-12-26,322,7
+487,Stonehenge,Richie Havens,155,1970-01-10,1970-04-25,319,14
+488,Help Yourself,Tom Jones,123,1970-01-31,1970-04-04,311,8
+489,Back In The USA,MC5,137,1970-02-21,1970-04-04,308,7
+490,Collage,Paul Revere & The Raiders,154,1970-04-11,1970-06-06,306,9
+491,Bridge Over Troubled Water,Peggy Lee,142,1970-06-06,1970-08-01,304,9
+492,The Coming Atlantis,Freddy Robinson,133,1970-09-19,1970-10-31,302,7
+493,13,The Doors,29,1970-12-19,1970-12-26,298,2
+494,Tracy,The Cuff Links,138,1970-01-03,1970-02-14,296,7
+495,"Deep Purple/The Royal Philharmonic Ork. ""Concerto For Group And Orchestra""",Deep Purple,149,1970-05-16,1970-07-04,296,8
+496,We Can Make Music,Tommy Roe,134,1970-10-31,1970-12-05,295,6
+497,2001: A Space Odyssey (Volume Two),Soundtrack,147,1970-10-10,1970-11-21,290,7
+498,Hit Boots 1970,Boots Randolph,157,1970-10-10,1970-12-05,287,9
+499,Motown At The Hollywood Palace,Various Artists,105,1970-04-11,1970-05-02,284,4
+500,The Turtles! More Golden Hits,The Turtles,146,1970-04-11,1970-06-06,280,9
+501,Be A Brother,Big Brother And The Holding Company,134,1970-11-28,1970-12-26,275,5
+502,"So Close, So Very Far To Go",Jake Holmes,135,1970-11-14,1970-12-19,271,6
+503,The Best Of Bill Cosby,Bill Cosby,157,1970-01-03,1970-02-21,270,8
+504,"""Maybe""",The Three Degrees,139,1970-08-08,1970-09-19,269,7
+505,The Best Of Ed Ames,Ed Ames,132,1970-01-03,1970-01-31,262,5
+506,Child Is Father To The Man,"Blood, Sweat & Tears",147,1970-01-03,1970-02-07,259,6
+507,Stormy Weekend,The Mystic Moods,165,1970-05-23,1970-11-21,259,15
+508,Rod McKuen's Greatest Hits-2,Rod McKuen,148,1970-09-19,1970-11-07,253,8
+509,The World Of Mantovani,Mantovani,156,1970-01-03,1970-02-21,251,8
+510,Greatest Hits,The Sandpipers,160,1970-04-18,1970-06-20,248,10
+511,The Vogues' Greatest Hits,The Vogues,148,1970-01-10,1970-03-07,247,9
+512,"Live At The International, Las Vegas",Jerry Lee Lewis,149,1970-10-10,1970-11-14,247,6
+513,Sunshine,The Archies,137,1970-09-12,1970-10-17,238,6
+514,More Golden Grass,The Grass Roots,161,1970-10-24,1970-12-19,238,9
+515,Blows Against The Empire,Paul Kantner/Jefferson Starship,35,1970-12-19,1970-12-26,237,2
+516,Defrosted,Frijid Pink,149,1970-10-31,1970-12-26,235,9
+517,I Take A Lot Of Pride In What I Am,Dean Martin,122,1970-01-03,1970-01-24,226,4
+518,Gimme Dat Ding!,The Pipkins,132,1970-08-08,1970-08-29,226,4
+519,Yestergroovin',Chet Atkins,139,1970-04-25,1970-06-20,226,5
+520,Canned Wheat Packed by The Guess Who,The Guess Who,124,1970-02-28,1970-03-28,225,5
+521,The Monkees Present,The Monkees,154,1970-01-03,1970-01-31,222,5
+522,Live & Well,B.B. King,126,1970-01-03,1970-01-31,214,5
+523,Booker T. & The M.G.'s Greatest Hits,Booker T. & The MG's,132,1970-11-14,1970-12-26,209,5
+524,Put A Little Love In Your Heart,Jackie DeShannon,127,1970-01-03,1970-02-14,205,6
+525,Ma Belle Amie,The Tee Set,158,1970-05-16,1970-06-20,205,6
+526,The Flock,The Flock,138,1970-01-03,1970-01-31,204,5
+527,Brief Replies,Ten Wheel Drive With Genya Ravan,161,1970-08-01,1970-09-19,201,8
+528,O.C. Smith At Home,O.C. Smith,140,1970-01-03,1970-01-31,195,5
+529,The Best Of Ramsey Lewis,Ramsey Lewis,172,1970-03-14,1970-05-30,195,12
+530,Dionne Warwick's Greatest Motion Picture Hits,Dionne Warwick,141,1970-01-03,1970-01-24,191,4
+531,A Song Of Joy,Miguel Rios,140,1970-08-22,1970-09-12,188,4
+532,John Lennon & The Plastic Ono Band,John Lennon,14,1970-12-26,1970-12-26,187,1
+533,Black Drops,Charles Earland,157,1970-11-21,1970-12-26,187,6
+534,Pendulum,Creedence Clearwater Revival,15,1970-12-26,1970-12-26,186,1
+535,Mama,Heintje,142,1970-12-05,1970-12-26,186,4
+536,"A Tribute To The Best Damn Fiddle Player In The World (Or, My Salute To Bob",Merle Haggard,103,1970-12-19,1970-12-26,184,2
+537,"Ramsey Lewis, The Piano Player",Ramsey Lewis,157,1970-03-21,1970-05-09,184,8
+538,The Best Of Buffy Sainte-Marie,Buffy Sainte-Marie,142,1970-10-24,1970-12-19,183,7
+539,Switched On Nashville: Country Moog,Gil Trythall,157,1970-02-07,1970-03-14,183,6
+540,Heavy Sounds,Various Artists,128,1970-02-28,1970-03-14,181,3
+541,Steppenwolf,Steppenwolf,141,1970-01-03,1970-02-21,181,4
+542,Galveston,Glen Campbell,154,1970-01-03,1970-01-31,180,5
+543,Purlie,Original Cast,138,1970-06-13,1970-07-11,179,5
+544,Sunflower,The Beach Boys,151,1970-09-26,1970-10-17,177,4
+545,We're Gonna Get Together,Buck Owens,154,1970-05-16,1970-06-20,177,6
+546,R.P.M.,Soundtrack,148,1970-10-31,1970-12-05,173,6
+547,"Gritty, Groovy, & Gettin' It",David Porter,163,1970-03-28,1970-05-30,171,10
+548,Dreams,Dreams,146,1970-11-28,1970-12-26,169,5
+549,Love Is Blue,The Dells,123,1970-01-03,1970-02-07,168,5
+550,Big In Vegas,Buck Owens,141,1970-02-07,1970-03-14,166,6
+551,Magnetic South,Michael Nesmith,143,1970-10-17,1970-10-31,165,3
+552,Can't Take My Eyes Off You,Nancy Wilson,155,1970-03-28,1970-05-02,165,6
+553,Alive 'N Kickin',Alive & Kicking,129,1970-10-17,1970-10-31,164,3
+554,More Golden Greats,The Ventures,154,1970-03-14,1970-04-11,164,5
+555,Revisited,Love,142,1970-09-05,1970-10-31,163,7
+556,Lena & Gabor,Lena Horne,162,1970-05-16,1970-07-25,162,10
+557,His Band And The Street Choir,Van Morrison,40,1970-12-26,1970-12-26,161,1
+558,The Bobby Bloom Album,Bobby Bloom,126,1970-11-28,1970-12-12,161,3
+559,Peacing It All Together,Lighthouse,133,1970-05-09,1970-05-23,156,3
+560,SSSSH,Ten Years After,146,1970-01-03,1970-08-29,156,5
+561,"""Live"" Madison Square Garden Center",Bill Cosby,165,1970-09-12,1970-10-17,154,6
+562,John Sebastian Live,John Sebastian,129,1970-10-10,1970-10-24,153,3
+563,Solid Gold '69,Chet Atkins,150,1970-01-03,1970-01-24,152,4
+564,Jim Nabors Sings Love Me With All Your Heart,Jim Nabors,167,1970-01-03,1970-02-07,150,6
+565,"The Yardbirds/Featuring Performances By Jeff Beck, Eric Clapton, Jimmy Page",The Yardbirds,155,1970-10-03,1970-11-07,149,6
+566,Live At The Whisky A Go Go,Herbie Mann,159,1970-01-03,1970-01-31,149,5
+567,United We Stand,The Brotherhood Of Man,168,1970-08-08,1970-09-26,148,8
+568,Candida,Dawn,118,1970-12-19,1970-12-26,147,2
+569,Greatest Hits,Wes Montgomery,175,1970-04-04,1970-06-06,147,9
+570,Music From Big Pink,The Band,156,1970-02-07,1970-03-21,146,7
+571,Fat Mattress,Fat Mattress,142,1970-01-03,1970-01-17,144,3
+572,"Lola Versus Powerman And The Moneygoround, Part One",The Kinks,59,1970-12-26,1970-12-26,142,1
+573,The Rod Stewart Album,Rod Stewart,156,1970-04-11,1970-05-23,140,7
+574,Love Of The Common People,Ed Ames,172,1970-01-03,1970-02-07,130,6
+575,Rock & Roll,Vanilla Fudge,115,1970-01-03,1970-01-17,128,3
+576,James Brown Plays & Directs The Popcorn,James Brown,139,1970-01-03,1970-01-17,127,3
+577,Feelin' Good,David Ruffin,148,1970-01-10,1970-01-31,126,4
+578,Vintage-Canned Heat,Canned Heat,173,1970-01-17,1970-02-14,124,5
+579,Mancini Country,Henry Mancini,140,1970-12-19,1970-12-26,121,2
+580,Miles Davis At Fillmore,Miles Davis,150,1970-12-12,1970-12-26,120,3
+581,The Association,The Association,137,1970-01-03,1970-01-24,119,4
+582,The Complete Sea,San Sebastian,162,1970-01-17,1970-02-14,119,5
+583,Bloodrock,Bloodrock,160,1970-04-25,1970-05-30,118,5
+584,The Gene Chandler Situation,Gene Chandler,178,1970-10-31,1970-12-26,118,9
+585,My Baby Loves Lovin',White Plains,166,1970-08-22,1970-09-12,117,4
+586,Little Johnny From Down The Street,Wilburn Brothers,143,1970-03-28,1970-04-04,116,2
+587,Express Yourself,Charles Wright,182,1970-08-08,1970-12-05,116,10
+588,Johnny Winter And,Johnny Winter,154,1970-09-26,1970-11-07,115,4
+589,Johnnie Taylor's Greatest Hits,Johnnie Taylor,141,1970-12-19,1970-12-26,113,2
+590,Rock And Roll Music,Frost,148,1970-01-03,1970-01-17,113,3
+591,Crabby Appleton,Crabby Appleton,175,1970-06-27,1970-08-01,113,6
+592,Savage Grace,Saving Grace,182,1970-06-06,1970-07-25,112,8
+593,"The Best Of Eddy Arnold, Volume II",Eddy Arnold,146,1970-05-30,1970-06-06,110,2
+594,Christmas And The Beads Of Sweat,Laura Nyro,92,1970-12-26,1970-12-26,109,1
+595,The World Of Tammy Wynette,Tammy Wynette,145,1970-08-15,1970-08-22,109,2
+596,Applause,Original Cast,168,1970-05-23,1970-07-11,109,7
+597,Sit Down Young Stranger,Gordon Lightfoot,153,1970-05-30,1970-07-04,107,4
+598,Soul Spin,Four Tops,163,1970-01-03,1970-01-17,106,3
+599,You & Me,Jerry Butler,172,1970-07-11,1970-08-01,104,4
+600,John Phillips (John The Wolfking Of L.A.),John Phillips,181,1970-05-02,1970-07-04,103,9
+601,For The Love Of Him,Bobbi Martin,176,1970-05-30,1970-06-27,100,5
+602,The Best Of Jerry Butler,Jerry Butler,167,1970-06-27,1970-08-22,96,5
+603,I Never Picked Cotton,Roy Clark,176,1970-08-29,1970-10-03,95,6
+604,A Real Live Dolly,Dolly Parton,154,1970-08-15,1970-08-22,94,2
+605,Just Pet,Petula Clark,176,1970-01-03,1970-02-07,94,6
+606,Better Times Are Coming,Rhinoceros,178,1970-07-11,1970-08-15,94,6
+607,My Kind Of Jazz,Ray Charles,155,1970-07-11,1970-07-18,92,2
+608,My Heart Sings,Al Martino,172,1970-11-28,1970-12-19,89,4
+609,Greatest Hits,Baja Marimba Band,180,1970-04-04,1970-05-09,89,6
+610,The Black-Man's Burdon,Eric Burdon And War,114,1970-12-26,1970-12-26,87,1
+611,New Feelin',Liza Minnelli,158,1970-11-28,1970-12-12,87,3
+612,The Soft Sea,San Sebastian,171,1970-09-26,1970-10-24,87,5
+613,Mantovani In Concert,Mantovani,167,1970-11-07,1970-11-21,86,3
+614,The Flying Machine,The Flying Machine,179,1970-01-03,1970-02-21,85,6
+615,Yellow River,Christie,154,1970-12-12,1970-12-26,83,3
+616,Feelin' Alright,Mongo Santamaria,171,1970-04-11,1970-04-25,82,3
+617,Them Changes,Ramsey Lewis,177,1970-10-24,1970-12-05,81,7
+618,The Everly Brothers' Original Greatest Hits,The Everly Brothers,180,1970-07-18,1970-09-05,80,8
+619,Ahead Rings Out,Blodwyn Pig,149,1970-01-03,1970-01-10,79,2
+620,"Baby, I'm For Real",The Originals,174,1970-01-17,1970-02-07,79,4
+621,Wonders Of The Wine,David Houston,170,1970-09-26,1970-10-10,78,3
+622,Most Of All,B.J. Thomas,173,1970-12-12,1970-12-26,78,3
+623,It's Just A Matter Of Time,Sonny James,177,1970-04-11,1970-05-02,78,4
+624,The Core Of Rock,Various Artists,175,1970-06-13,1970-07-04,77,4
+625,O.C. Smith's Greatest Hits,O.C. Smith,177,1970-09-19,1970-10-17,75,5
+626,Can't Help Falling In Love,Al Martino,184,1970-04-11,1970-05-09,75,5
+627,Mongrel,Bob Seger System,171,1970-10-31,1970-11-21,74,4
+628,Rod McKuen At Carnegie Hall,Rod McKuen,177,1970-01-24,1970-02-14,73,4
+629,Redeye,Redeye,151,1970-12-12,1970-12-26,71,3
+630,Scrooged,Soundtrack,133,1970-12-26,1970-12-26,68,1
+631,English Muffins,The Mystic Moods,177,1970-11-28,1970-12-26,68,5
+632,Concert In Stereo/Live At The Sahara/Tahoe,Ray Conniff,177,1970-09-26,1970-11-14,67,5
+633,Tall Dark Stranger,Buck Owens,151,1970-01-03,1970-01-10,66,2
+634,The Original Hits Of Right Now,Various Artists,166,1970-01-03,1970-01-10,63,2
+635,Make Your Own Kind Of Music,Mama Cass,169,1970-01-03,1970-01-10,63,2
+636,The Clique,The Clique,177,1970-01-17,1970-01-31,63,3
+637,Out Here,Love,176,1970-01-03,1970-01-24,62,4
+638,The Beatles Album,Percy Faith,179,1970-10-17,1970-11-07,62,4
+639,Birds Of A Feather,Jack Blanchard & Misty Morgan,185,1970-07-04,1970-08-01,62,5
+640,Marvin Gaye & Tammi Terrell Greatest Hits,Tammi Terrell,171,1970-06-13,1970-06-27,61,3
+641,You've Made Me So Very Happy,Lou Rawls,172,1970-04-18,1970-05-02,59,3
+642,Ebony Woman,Billy Paul,183,1970-08-22,1970-09-19,59,5
+643,The Astrodome Presents In Person Sonny James,Sonny James,161,1970-01-03,1970-01-10,57,2
+644,Whatever,The Friends Of Distinction,179,1970-10-31,1970-11-14,57,3
+645,Love Token,The Mystic Moods,165,1970-01-03,1970-01-10,55,2
+646,"Old Socks, New Shoes...New Socks, Old Shoes",The Crusaders,159,1970-10-17,1970-12-26,54,3
+647,The Boss Is Back!,Gene Ammons,174,1970-06-06,1970-06-13,52,2
+648,Kooper Session,Al Kooper,182,1970-01-24,1970-03-07,51,5
+649,I Walk The Line,Johnny Cash,176,1970-12-12,1970-12-26,49,3
+650,Rock & Roll Is Here To Stay!,Sha Na Na,184,1970-02-07,1970-02-28,49,4
+651,First Take,Roberta Flack,184,1970-01-31,1970-06-13,49,5
+652,Crow By Crow,CROW,181,1970-06-06,1970-06-27,48,4
+653,Company,Original Cast,178,1970-06-20,1970-06-27,46,2
+654,Wild! Wild! Wild! Wild!,Wil,179,1970-06-06,1970-06-13,44,2
+655,"Astromusical House Of..., The",Various Artists,180,1970-02-28,1970-03-14,44,3
+656,The Allman Brothers Band,The Allman Brothers Band,188,1970-01-24,1970-03-07,44,5
+657,I Am My Brother's Keeper,The Ruffin Brothers (Jimmy & David),178,1970-11-07,1970-11-21,43,3
+658,Tom Paxton 6,Tom Paxton,184,1970-06-06,1970-06-27,43,4
+659,The Original Human Being,Blue Cheer,188,1970-11-07,1970-12-05,43,5
+660,The Last Waltz,Engelbert Humperdinck,180,1970-01-31,1970-02-07,42,2
+661,Yours Forever More,Forever More,180,1970-03-07,1970-03-21,41,3
+662,The Damnation Of Adam Blessing,Damnation Of Adam Blessing,181,1970-03-28,1970-04-04,40,2
+663,Gone Is Love,Paul Mauriat,184,1970-09-19,1970-10-03,40,3
+664,Wrong End Of The Rainbow,Tom Rush,162,1970-12-26,1970-12-26,39,1
+665,"The Big Ones, Volume II",Floyd Cramer,183,1970-04-25,1970-05-09,39,3
+666,Get Rhythm,Johnny Cash,164,1970-01-03,1970-01-03,37,1
+667,Sky,Sky (RCA),168,1970-12-19,1970-12-26,37,2
+668,Elvis Back In Memphis,Elvis Presley,183,1970-11-21,1970-12-05,37,3
+669,Stone Flute,Herbie Mann,184,1970-03-07,1970-04-04,36,3
+670,The Klowns,The Klowns,184,1970-12-12,1970-12-19,34,2
+671,Only For The Lonely,Mavis Staples,188,1970-09-12,1970-10-03,34,4
+672,Spring Fever,The Soulful Strings,183,1970-01-17,1970-01-24,32,2
+673,Showtime,Johnny Cash,181,1970-01-03,1970-01-17,31,3
+674,The Best Of Bill Deal & The Rhondels,Bill Deal & The Rhondels,185,1970-04-11,1970-04-18,31,2
+675,Westbound #9,The Flaming Ember,188,1970-08-29,1970-09-12,31,3
+676,Days Of Future Past,The Moody Blues With The London Festival Orchestra (Knight),183,1970-01-03,1970-01-10,30,2
+677,Move Your Hand,L,186,1970-05-16,1970-05-23,30,2
+678,Mott The Hoople,Mott The Hoople,185,1970-07-04,1970-07-11,29,2
+679,Love & Guitars,Eddy Arnold,191,1970-05-02,1970-05-16,29,3
+680,Traces Of Love,Bert Kaempfert And His Orchestra,173,1970-01-03,1970-01-03,28,1
+681,Sweet Gingerbread Man,The Mike Curb Congregation,185,1970-11-21,1970-11-28,28,2
+682,Right On Be Free,Voices,191,1970-10-10,1970-10-24,28,3
+683,Spaced Out,Enoch Light & The Light Brigade,191,1970-03-21,1970-04-11,28,4
+684,Songs For A Tailor,Jack Bruce,174,1970-01-03,1970-01-03,27,1
+685,Spinning Wheel,Lenny Dee,189,1970-01-03,1970-01-17,27,3
+686,Weasels Ripped My Flesh,Mothers Of Invention,189,1970-09-26,1970-10-10,27,3
+687,Somebody's Been Sleeping In My Bed,100 Proof Aged in Soul,190,1970-12-12,1970-12-26,27,3
+688,Uriah Heep,Uriah Heep,186,1970-10-03,1970-10-24,26,4
+689,Love Is A Soft Touch,Ferrante & Teicher,188,1970-12-05,1970-12-12,26,2
+690,Robbin's Nest,Willie Mitchell,188,1970-11-07,1970-11-14,25,2
+691,The Best Of Nina Simone,Nina Simone,189,1970-07-25,1970-08-08,25,3
+692,Love Country Style,Ray Charles,192,1970-08-22,1970-09-26,25,4
+693,"Goodbye, Mr. Chips",Soundtrack,177,1970-01-03,1970-01-03,24,1
+694,The Best Of Herbie Mann,Herbie Mann,189,1970-03-28,1970-04-04,24,2
+695,Hot Rats,Frank Zappa,178,1970-01-03,1970-01-03,23,1
+696,The Time Is Near,Keef Hartley Band,191,1970-11-28,1970-12-12,23,3
+697,Ray Stevens...Unreal!!!,Ray Stevens,189,1970-12-12,1970-12-26,22,3
+698,Let It Be,Jerry Vale,189,1970-06-27,1970-07-18,22,4
+699,One Night Stand,Susan Raye,190,1970-09-26,1970-10-03,22,2
+700,You Got-ta Have A License,Porter Wagoner,190,1970-05-16,1970-05-23,22,2
+701,Half & Half,The 4 Seasons,190,1970-06-13,1970-06-20,22,2
+702,Let's Work Together,Wilbert Harrison,190,1970-01-24,1970-01-31,22,2
+703,The Best Of Eddie Harris,Eddie Harris,191,1970-04-18,1970-05-02,22,3
+704,Down Home Style,Brother Jack McDuff,192,1970-02-07,1970-02-28,22,4
+705,Bobbie Gentry's Greatest!,Bobbie Gentry,180,1970-01-03,1970-01-03,21,1
+706,She Even Woke Me Up To Say Goodbye,Jerry Lee Lewis,186,1970-02-28,1970-03-07,21,2
+707,The Singing Story Teller,Johnny Cash,186,1970-05-16,1970-05-30,21,3
+708,Joy,Original Cast,187,1970-03-14,1970-05-16,21,4
+709,Winter World Of Love,Billy Vaughn And His Orchestra,188,1970-03-14,1970-03-21,21,2
+710,That's The Way Love Is,Marvin Gaye,189,1970-02-28,1970-03-07,21,2
+711,Mixed Bag,Richie Havens,190,1970-11-07,1970-11-14,21,2
+712,Bread,Bread,189,1970-07-25,1970-08-01,20,2
+713,Everything I Play Is Funky,Lou Donaldson,190,1970-07-11,1970-07-18,20,2
+714,Fantasy,Fantasy,194,1970-08-15,1970-08-29,20,3
+715,The Light Side: The Dark Side,Dick Gregory,182,1970-01-03,1970-01-03,19,1
+716,Befour,Brian Auger,184,1970-08-01,1970-08-15,19,3
+717,If,If,187,1970-10-31,1970-11-07,19,2
+718,Black Pearl-Live!,Black Pearl,189,1970-10-17,1970-10-24,19,2
+719,Once More,Dolly Parton,191,1970-10-10,1970-10-17,19,2
+720,Keep On Moving,The Paul Butterfield Blues Band,183,1970-01-03,1970-01-03,18,1
+721,Tony Mottola's Guitar Factory,Tony Mottola,189,1970-05-16,1970-05-30,18,3
+722,Marriage On The Rocks/Rock Bottom,The Amboy Dukes,191,1970-03-21,1970-03-28,18,2
+723,Second Thoughts,Mc Kendree Spring,192,1970-11-28,1970-12-05,18,2
+724,Waylon,Waylon,192,1970-05-16,1970-05-23,18,2
+725,False Start,Love,184,1970-12-26,1970-12-26,17,1
+726,Blue Afternoon,Tim Buckley,192,1970-02-07,1970-02-14,17,2
+727,Homeward Bound,Harry Belafonte,192,1970-01-10,1970-01-24,17,3
+728,The Stars Of Hee Haw,Soundtrack,196,1970-05-23,1970-06-13,16,4
+729,The Things I Love,Jim Nabors,191,1970-01-10,1970-01-17,15,2
+730,America The Beautiful,Tennessee Ernie Ford,192,1970-04-25,1970-05-02,14,2
+731,The Chambers Brothers Greatest Hits,The Chambers Brothers,193,1970-12-05,1970-12-12,14,2
+732,Make It With You,Peggy Lee,194,1970-12-19,1970-12-26,14,2
+733,Phil Ochs Greatest Hits,Phil Ochs,194,1970-03-14,1970-03-21,14,2
+734,"Experience In E, Tensity, Dialogues",Cannonball Adderley,194,1970-09-26,1970-10-03,14,2
+735,The American Dream,American Dream,194,1970-02-28,1970-03-07,14,2
+736,Farquahr,Far,195,1970-12-05,1970-12-19,14,3
+737,Five Bridges,The Nice,197,1970-08-29,1970-10-10,14,5
+738,"Tony Bennett's ""Something""",Tony Bennett,193,1970-11-14,1970-11-21,13,2
+739,Cookin',Jerry Reed,194,1970-05-16,1970-05-23,13,2
+740,I Wouldn't Live In New York City,Buck Owens,190,1970-11-28,1970-12-05,12,2
+741,The Incredible Soul Of B.B. King,B.B. King,193,1970-04-11,1970-04-18,12,2
+742,Mongo '70,Mongo Santamaria,195,1970-10-03,1970-10-10,12,2
+743,Bangor Flying Circus,Bangor Flying Circus,190,1970-01-03,1970-01-03,11,1
+744,Believe,Third Power,194,1970-07-04,1970-07-11,11,2
+745,A Record Of Pure Love & Pleasure,Pure Love & Pleasure,195,1970-04-25,1970-05-02,11,2
+746,You Need Someone To Love,The New Christy Minstrels,195,1970-11-28,1970-12-05,11,2
+747,Hollywood Dream,Thunderclap Newman,196,1970-10-10,1970-10-24,11,3
+748,Rick Sings Nelson,Canyon,196,1970-11-07,1970-11-14,10,2
+749,Jerry Vale Sings 16 Greatest Hits Of The 60's,Jerry Vale,196,1970-02-14,1970-02-21,10,2
+750,I Looked Up,Incredible String Band,196,1970-07-25,1970-08-01,10,2
+751,Entrance,Edgar Winter,196,1970-06-27,1970-07-04,10,2
+752,Je T'Aime (Beautiful Love),Jane Birkin Serge Gainsbourg,196,1970-03-07,1970-03-14,10,2
+753,"Baby, Baby",David Houston,194,1970-04-18,1970-04-25,9,2
+754,The Tears Of A Clown,The Miracles,193,1970-12-26,1970-12-26,8,1
+755,Ru-beeeee,The Osborne Brothers,193,1970-07-04,1970-07-04,8,1
+756,Sing Away The World,Ed Ames,194,1970-07-11,1970-07-18,8,2
+757,Super Rock,Various Artists,197,1970-11-14,1970-11-21,8,2
+758,The Big Hits Now,Various Artists,197,1970-08-08,1970-08-15,8,2
+759,If Walls Could Talk,Little Milton,197,1970-03-28,1970-04-04,8,2
+760,My Love / Don't Keep Me Hangin' On,Sonny James,197,1970-09-19,1970-09-26,8,2
+761,Life Goes On,Paul Anka,194,1970-01-03,1970-01-03,7,1
+762,This Is Henry Mancini,Henry Mancini,196,1970-09-26,1970-10-03,7,2
+763,Held Over! Today's Great Movie Themes,Percy Faith,196,1970-06-13,1970-06-20,7,2
+764,Take Me To Tomorrow,John Denver,197,1970-05-02,1970-05-09,7,2
+765,The Kansas City Song,Buck Owens,196,1970-09-19,1970-09-26,6,2
+766,Groove Drops,Jimmy Smith,197,1970-05-23,1970-06-06,6,3
+767,Right On,Wilson Pickett,197,1970-04-04,1970-04-18,6,3
+768,I Wish You Love,Robert Goulet,198,1970-11-14,1970-11-21,6,2
+769,Get Ready,King Curtis,198,1970-08-29,1970-09-05,6,2
+770,Look-Ka Py Py,The Meters,198,1970-01-24,1970-01-31,6,2
+771,Candida,Lawrence Welk,198,1970-12-12,1970-12-19,6,2
+772,Your Mother's Prayer,Buck Owens,198,1970-04-25,1970-05-02,6,2
+773,Memphis,Petula Clark,198,1970-08-08,1970-08-15,6,2
+774,Portrait Of The Originals,The Originals,198,1970-07-11,1970-07-18,6,2
+775,Greatest Hits,Jr. Walker & The All Stars,198,1970-04-11,1970-04-18,6,2
+776,We've Only Just Begun,Ray Conniff,196,1970-12-26,1970-12-26,5,1
+777,Through The Eyes Of Love,Frost,197,1970-10-17,1970-10-24,5,2
+778,Official Music,King B,197,1970-12-26,1970-12-26,4,1
+779,Story Songs Of The Trains And Rivers,Johnny Cash,197,1970-01-03,1970-01-03,4,1
+780,The Climax Chicago Blues Band Plays On,Climax Blues Band,197,1970-11-28,1970-11-28,4,1
+781,#1,Sonny James,198,1970-11-28,1970-12-05,4,2
+782,Here Comes Shuggie Otis,Shuggie Otis,199,1970-03-07,1970-03-14,4,2
+783,Step By Step By Step,The Five Stairsteps,199,1970-12-12,1970-12-19,4,2
+784,Home Style,Brook Benton,199,1970-08-22,1970-08-29,4,2
+785,Honey Come Back,Tony Sandler And Ralph Young,199,1970-07-11,1970-07-18,4,2
+786,2nd Time Around,Spinners,199,1970-11-14,1970-11-21,4,2
+787,The Road,The Road,199,1970-01-31,1970-02-07,4,2
+788,Twelve Dreams Of Dr. Sardonicus,Spirit,198,1970-12-26,1970-12-26,3,1
+789,The Well-Tempered Synthesizer,Walter,199,1970-01-03,1970-01-10,3,2
+790,Roger Miller 1970,Roger Miller,200,1970-02-14,1970-02-21,2,2
+791,Tell The Truth,Otis Redding,200,1970-08-29,1970-09-05,2,2
+792,Struttin',The Meters,200,1970-07-18,1970-07-25,2,2
+793,The Sterile Cuckoo,Soundtrack,200,1970-06-06,1970-06-13,2,2
+794,Basket Of Light,Pentangle,200,1970-01-31,1970-02-07,2,2
+795,Ryan's Daughter,Soundtrack,200,1970-12-19,1970-12-26,2,2
+796,The New Spirit Of Capitol,Various Artists,200,1970-03-07,1970-03-07,1,1
+797,Potlatch,Redbone,200,1970-11-07,1970-11-07,1,1
+798,The Main Ingredient L.T.D.,The Main Ingredient,200,1970-08-22,1970-08-22,1,1

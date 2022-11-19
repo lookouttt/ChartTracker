@@ -1,0 +1,498 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,I've Been Around Enough To Know,John Schneider,1,1984-07-28,1984-12-29,2010,23
+2,I Can Tell By The Way You Dance (You're Gonna Love Me Tonigh,Vern Gosdin,1,1984-03-31,1984-09-15,1951,25
+3,Mama He's Crazy,The Judds,1,1984-04-28,1984-09-29,1933,23
+4,Give Me One More Chance,Exile,1,1984-08-11,1984-12-29,1926,21
+5,I Don't Wanna Be A Memory,Exile,1,1984-04-07,1984-09-15,1892,24
+6,To All The Girls I've Loved Before,Julio Iglesias & Willie Nelson,1,1984-03-10,1984-07-21,1855,20
+7,You're Gettin' to Me Again,Jim Glaser,1,1984-06-09,1984-11-17,1852,24
+8,I Got Mexico,Eddy Raven,1,1984-03-17,1984-08-11,1807,22
+9,If You're Gonna Play In Texas,Alabama,1,1984-08-04,1984-12-08,1799,19
+10,Nobody Loves Me Like You Do,Anne Murray & Dave Loggins,1,1984-09-08,1984-12-29,1774,17
+11,I Don't Know A Thing About Love (The Moon Song),Conway Twitty,1,1984-07-28,1984-12-01,1767,19
+12,Let's Fall To Pieces Together,George Strait,1,1984-06-02,1984-10-20,1767,21
+13,Just Another Woman In Love,Anne Murray,1,1984-04-28,1984-09-08,1760,20
+14,Mona Lisa Lost Her Smile,David Allan Coe,2,1984-03-17,1984-08-11,1755,22
+15,The Lady Takes the Cowboy Everytime,Larry Gatlin & The Gatlin Brothers,3,1984-07-21,1984-12-29,1743,24
+16,Elizabeth,The Statler Brothers,1,1984-01-07,1984-05-12,1720,19
+17,Angel In Disguise,Earl Thomas Conley,1,1984-05-05,1984-09-22,1716,21
+18,Uncle Pen,Ricky Skaggs,1,1984-07-21,1984-11-24,1715,19
+19,Only A Lonely Heart Knows,Barbara Mandrell,2,1984-06-09,1984-10-27,1712,21
+20,That's The Thing About Love,Don Williams,1,1984-05-19,1984-09-29,1705,20
+21,Long Hard Road (the Sharecropper's Dream),Nitty Gritty Dirt Band,1,1984-05-26,1984-10-06,1703,20
+22,Chance Of Lovin' You,Earl Thomas Conley,1,1984-09-08,1984-12-29,1687,17
+23,Tennessee Homesick Blues,Dolly Parton,1,1984-06-09,1984-10-20,1687,20
+24,Your Heart's Not In It,Janie Fricke,1,1984-09-01,1984-12-29,1686,18
+25,Still Losing You,Ronnie Milsap,1,1984-05-19,1984-09-22,1681,19
+26,Someday When Things Are Good,Merle Haggard,1,1984-03-24,1984-08-11,1672,21
+27,Somebody's Needin' Somebody,Conway Twitty,1,1984-04-14,1984-08-18,1671,19
+28,To Me,Barbara Mandrell & Lee Greenwood,3,1984-07-21,1984-12-01,1671,20
+29,I Don't Wanna Lose Your Love,Crystal Gayle,2,1984-02-25,1984-06-30,1666,19
+30,City Of New Orleans,Willie Nelson,1,1984-08-18,1984-12-29,1665,20
+31,Turning Away,Crystal Gayle,1,1984-07-07,1984-11-17,1661,20
+32,I Guess It Never Hurts To Hurt Sometimes,The Oak Ridge Boys,1,1984-02-25,1984-07-21,1661,22
+33,Everyday,The Oak Ridge Boys,1,1984-07-14,1984-12-01,1654,21
+34,She's My Rock,George Jones,2,1984-09-22,1984-12-29,1653,15
+35,Fool's Gold,Lee Greenwood,3,1984-08-18,1984-12-29,1650,20
+36,You Could've Heard A Heart Break,Johnny Lee,1,1984-08-25,1984-12-29,1648,19
+37,Thank God For The Radio,The Kendalls,1,1984-01-14,1984-06-16,1637,23
+38,Right Or Wrong,George Strait,1,1984-02-11,1984-07-14,1634,23
+39,As Long As I'm Rockin' With You,John Conlee,1,1984-03-10,1984-07-14,1597,19
+40,When We Make Love,Alabama,1,1984-04-21,1984-08-25,1595,19
+41,Let's Stop Talkin' About It,Janie Fricke,1,1984-01-14,1984-05-12,1584,18
+42,I've Been Wrong Before,Deborah Allen,2,1984-01-28,1984-07-07,1584,24
+43,Somewhere Down The Line,T.G. Sheppard,3,1984-06-02,1984-10-20,1579,21
+44,She Sure Got Away With My Heart,John Anderson,3,1984-08-18,1984-12-29,1575,20
+45,Atlanta Blue,The Statler Brothers,3,1984-04-21,1984-09-08,1572,21
+46,You've Still Got A Place In My Heart,George Jones,3,1984-04-07,1984-08-11,1571,19
+47,Honey (Open That Door),Ricky Skaggs,1,1984-03-24,1984-07-21,1535,18
+48,I Love Only You,Nitty Gritty Dirt Band,3,1984-09-22,1984-12-29,1530,15
+49,Don't Make It Easy For Me,Earl Thomas Conley,1,1984-01-14,1984-05-12,1529,18
+50,B-B-B-Burnin' Up With Love,Eddie Rabbitt,3,1984-05-19,1984-09-15,1522,18
+51,Let's Chase Each Other Around The Room,Merle Haggard,1,1984-07-14,1984-11-10,1517,18
+52,Happy Birthday Dear Heartache,Barbara Mandrell,3,1984-02-18,1984-07-07,1516,21
+53,"Going, Going, Gone",Lee Greenwood,1,1984-01-07,1984-04-21,1512,16
+54,Woke Up In Love,Exile,1,1984-01-07,1984-04-28,1495,17
+55,You've Really Got A Hold On Me,Mickey Gilley,2,1984-01-07,1984-05-19,1494,20
+56,The Yellow Rose,Johnny Lee,1,1984-02-25,1984-06-30,1489,19
+57,Too Good To Stop Now,Mickey Gilley,4,1984-09-01,1984-12-29,1481,18
+58,Sweet Country Music,Atlanta,5,1984-02-18,1984-07-21,1470,23
+59,Roll On (Eighteen Wheeler),Alabama,1,1984-01-21,1984-05-12,1462,17
+60,Why Not Me,The Judds,1,1984-10-06,1984-12-29,1456,13
+61,Way Back,John Conlee,4,1984-06-23,1984-10-27,1443,19
+62,Save The Last Dance For Me,Dolly Parton,3,1984-01-07,1984-04-28,1436,17
+63,Man Of Steel,Hank Williams Jr.,3,1984-02-18,1984-06-16,1387,18
+64,Forget About Me,The Bellamy Brothers,5,1984-06-02,1984-09-29,1381,18
+65,Stay Young,Don Williams,1,1984-01-07,1984-04-07,1379,14
+66,I May Be Used (but Baby I Ain't Used Up),Waylon Jennings,4,1984-03-03,1984-07-14,1375,20
+67,Lonely Women Make Good Lovers,Steve Wariner,4,1984-01-07,1984-04-21,1344,16
+68,Buried Treasure,Kenny Rogers,3,1984-01-14,1984-05-05,1338,17
+69,One Takes The Blame,The Statler Brothers,8,1984-08-18,1984-12-29,1333,20
+70,Just A Little Love,Reba McEntire,5,1984-03-17,1984-07-21,1318,19
+71,I'm Not Through Loving You Yet,Louise Mandrell,7,1984-03-24,1984-08-04,1317,20
+72,I Could 'a Had You,Leon Everette,6,1984-02-04,1984-06-16,1302,20
+73,Does Fort Worth Ever Cross Your Mind,George Strait,4,1984-09-29,1984-12-29,1292,14
+74,Second Hand Heart,Gary Morris,7,1984-07-28,1984-12-01,1285,19
+75,I Got A Million Of 'Em,Ronnie McDowell,8,1984-06-23,1984-11-10,1282,21
+76,I Never Quite Got Back (from Loving You),Sylvia (r&b),3,1984-01-07,1984-04-07,1273,14
+77,Don't Cheat In Our Hometown,Ricky Skaggs,1,1984-01-07,1984-04-14,1271,15
+78,Candy Man,Mickey Gilley & Charly McClain,5,1984-02-18,1984-06-16,1260,18
+79,Never Could Toe The Mark,Waylon Jennings,6,1984-06-16,1984-10-13,1249,18
+80,I Dream Of Women Like You,Ronnie McDowell,7,1984-02-25,1984-06-30,1247,19
+81,(You Bring Out) The Wild Side Of Me,Dan Seals,9,1984-07-28,1984-12-29,1242,23
+82,Pledging My Love,Emmylou Harris,9,1984-08-11,1984-12-29,1241,21
+83,Denver,Larry Gatlin & The Gatlin Brothers,7,1984-03-24,1984-07-21,1234,18
+84,Prisoner Of The Highway,Ronnie Milsap,6,1984-09-01,1984-12-29,1233,18
+85,Will It Be Love By Morning,Michael Martin Murphey,7,1984-01-28,1984-05-26,1233,18
+86,Between Two Fires,Gary Morris,7,1984-04-07,1984-08-04,1231,18
+87,America,Waylon Jennings,6,1984-09-29,1984-12-29,1230,14
+88,World's Greatest Lover,The Bellamy Brothers,6,1984-09-22,1984-12-29,1227,15
+89,That's The Way Love Goes,Merle Haggard,1,1984-01-07,1984-04-07,1220,14
+90,Attitude Adjustment,Hank Williams Jr.,5,1984-06-16,1984-10-13,1213,18
+91,In My Dreams,Emmylou Harris,9,1984-03-24,1984-08-11,1212,21
+92,Woman Your Love,Moe Bandy,12,1984-08-04,1984-12-29,1208,22
+93,If I Could Only Dance With You,Jim Glaser,10,1984-01-28,1984-07-07,1205,24
+94,New Patches,Mel Tillis,10,1984-04-28,1984-09-22,1204,22
+95,P.S. I Love You,Tom T. Hall,8,1984-09-08,1984-12-29,1194,17
+96,Faithless Love,Glen Campbell,10,1984-06-23,1984-11-17,1188,22
+97,I Could Use Another You,Eddy Raven,9,1984-07-21,1984-11-17,1172,18
+98,You're Welcome To Tonight,Lynn Anderson & Gary Morris,9,1984-01-07,1984-05-19,1172,20
+99,Two Car Garage,B.J. Thomas,3,1984-01-07,1984-04-14,1169,15
+100,The Best Year Of My Life,Eddie Rabbitt,5,1984-10-06,1984-12-29,1168,13
+101,If All The Magic Is Gone,Mark Gray,9,1984-05-26,1984-10-27,1165,23
+102,The Power Of Love,Charley Pride,9,1984-06-09,1984-10-20,1158,20
+103,If The Fall Don't Get You,Janie Fricke,8,1984-05-12,1984-09-01,1156,17
+104,I Hurt For You,Deborah Allen,10,1984-05-26,1984-10-06,1149,20
+105,God Must Be A Cowboy,Dan Seals,10,1984-02-25,1984-07-14,1145,21
+106,God Bless The USA,Lee Greenwood,7,1984-05-26,1984-09-15,1140,17
+107,What Would Your Memories Do,Vern Gosdin,10,1984-07-21,1984-12-01,1136,20
+108,We Didn't See A Thing,Ray Charles With George Jones & Chet Atkins,6,1984-01-07,1984-04-14,1134,15
+109,Pins & Needles,The Whites,10,1984-08-25,1984-12-29,1121,19
+110,Maggie's Dream,Don Williams,11,1984-09-01,1984-12-29,1105,18
+111,Three Times A Lady,Conway Twitty,7,1984-01-07,1984-04-21,1104,16
+112,Show Her,Ronnie Milsap,1,1984-01-07,1984-03-17,1097,11
+113,The Whole World's In Love When You're Lonely,B.J. Thomas,10,1984-04-14,1984-08-18,1097,19
+114,God Won't Get You,Dolly Parton,10,1984-09-15,1984-12-29,1085,16
+115,Forever Again,Gene Watson,10,1984-03-31,1984-07-21,1081,17
+116,Why Goodbye,Steve Wariner,12,1984-04-07,1984-08-04,1066,18
+117,I've Been Rained On Too,Tom Jones,13,1984-01-07,1984-05-05,1065,18
+118,Left Side Of The Bed,Mark Gray,10,1984-01-28,1984-06-23,1062,22
+119,Why Lady Why,Gary Morris,4,1984-01-07,1984-03-31,1054,13
+120,Where's The Dress,Moe Bandy & Joe Stampley,8,1984-06-02,1984-09-15,1054,16
+121,The Sound Of Goodbye,Crystal Gayle,1,1984-01-07,1984-03-17,1050,11
+122,Sentimental Ol' You,Charly McClain,3,1984-01-07,1984-03-24,1043,12
+123,Diamond In The Dust,Mark Gray,9,1984-09-29,1984-12-29,1041,14
+124,Disenchanted,Michael Martin Murphey,12,1984-05-12,1984-09-01,1038,17
+125,He Broke Your Mem'ry Last Night,Reba McEntire,15,1984-06-23,1984-11-03,1018,20
+126,It's A Be Together Night,David Frizzell & Shelly West,13,1984-09-15,1984-12-29,1013,16
+127,Forever You,The Whites,14,1984-05-12,1984-09-01,1005,17
+128,Rock And Roll Shoes,Ray Charles,14,1984-08-04,1984-12-01,1001,18
+129,In My Eyes,John Conlee,1,1984-01-07,1984-03-17,996,11
+130,After All,Ed Bruce,4,1984-01-07,1984-03-31,993,13
+131,I Wish I Could Write You A Song,John Anderson,14,1984-05-12,1984-09-01,987,17
+132,Let Somebody Else Drive,John Anderson,10,1984-01-14,1984-04-28,977,16
+133,In The Midnight Hour,Razzy Bailey,14,1984-02-25,1984-06-16,963,17
+134,All My Rowdy Friends Are Coming Over Tonight,Hank Williams Jr.,10,1984-10-06,1984-12-29,959,13
+135,There Ain't No Future In This,Reba McEntire,12,1984-01-07,1984-04-28,957,17
+136,Too Late To Go Home,Johnny Rodriguez,15,1984-01-28,1984-05-19,957,17
+137,I Still Do,Bill Medley,17,1984-04-14,1984-08-11,951,18
+138,How Blue,Reba McEntire,7,1984-10-13,1984-12-29,948,12
+139,The Right Stuff,Charly McClain & Mickey Gilley,14,1984-06-16,1984-10-06,932,17
+140,My Baby's Gone,The Kendalls,15,1984-06-02,1984-09-22,930,17
+141,Had A Dream (for The Heart),The Judds,17,1984-01-07,1984-04-14,924,15
+142,Whatever Turns You On,Keith Stegall,19,1984-09-22,1984-12-29,916,15
+143,Dream On Texas Ladies,Rex Allen Jr.,18,1984-07-14,1984-10-27,914,16
+144,Crossword Puzzle,Barbara Mandrell,11,1984-10-06,1984-12-29,909,13
+145,Without A Song,Willie Nelson,11,1984-01-07,1984-04-07,907,14
+146,You Made A Wanted Man Of Me,Ronnie McDowell,3,1984-01-07,1984-03-17,889,11
+147,Give Me Back That Old Familiar Feeling,The Whites,10,1984-01-07,1984-04-21,881,16
+148,Make My Day,T.G. Sheppard With Clint Eastwood,12,1984-02-18,1984-05-26,871,15
+149,Radio Land,Michael Martin Murphey,19,1984-08-25,1984-12-08,868,16
+150,Tonight I'm Here With Someone Else,Karen Brooks,19,1984-07-21,1984-11-03,850,16
+151,Evening Star/Midsummer Nights,Kenny Rogers,11,1984-08-04,1984-11-03,847,14
+152,Boys Like You,Gail Davies,19,1984-02-25,1984-06-16,838,17
+153,Nothing Like Falling In Love,Eddie Rabbitt,10,1984-01-07,1984-03-24,820,12
+154,Silent Partners,David Frizzell & Shelly West,20,1984-02-04,1984-05-26,820,17
+155,Some Hearts Get All The Breaks,Charly McClain,25,1984-09-22,1984-12-29,815,15
+156,Stuck On You,Lionel Richie,24,1984-07-21,1984-11-17,813,18
+157,Jagged Edge of a Broken Heart,Gail Davies,20,1984-10-06,1984-12-29,795,13
+158,Together Again,Kenny Rogers And Dottie West,19,1984-03-24,1984-06-30,788,15
+159,Goodbye Heartache,Louise Mandrell,24,1984-08-18,1984-11-24,785,15
+160,Wishful Drinkin',Atlanta,22,1984-09-15,1984-12-29,783,16
+161,Got No Reason Now For Goin' Home,Gene Watson,15,1984-10-13,1984-12-29,782,12
+162,Ev'ry Heart Should Have One,Charley Pride,2,1984-01-07,1984-02-25,779,8
+163,Years After You,John Conlee,12,1984-10-20,1984-12-29,779,11
+164,Midnight Blue,Billie Jo Spears,39,1984-01-07,1984-05-26,775,21
+165,Band Of Gold,Charly McClain,22,1984-04-07,1984-07-14,768,15
+166,Slow Burn,T.G. Sheppard,1,1984-01-07,1984-03-03,766,9
+167,I Want To Go Somewhere,Keith Stegall,25,1984-05-12,1984-08-25,763,16
+168,I Call It Love,Mel McDaniel,9,1984-01-07,1984-03-17,747,11
+169,A Sweeter Love (I'll Never Know),Brenda Lee,22,1984-08-11,1984-11-24,741,16
+170,Leona,Sawyer Brown,23,1984-10-06,1984-12-29,731,13
+171,Me Against The Night,Crystal Gayle,13,1984-10-27,1984-12-29,725,10
+172,I've Always Got The Heart To Sing The Blues,Bill Medley,26,1984-08-04,1984-11-03,716,14
+173,Drinkin' My Way Back Home,Gene Watson,10,1984-01-07,1984-03-17,713,11
+174,Someone Is Falling In Love,Kathy Mattea,26,1984-02-25,1984-06-09,692,16
+175,A Place To Fall Apart,Merle Haggard,14,1984-10-27,1984-12-29,690,10
+176,Victims Of Goodbye,Sylvia (r&b),24,1984-04-07,1984-07-07,685,14
+177,Heartache And A Half,Deborah Allen,23,1984-10-20,1984-12-29,684,11
+178,Brown Eyed Girl,Joe Stampley,29,1984-02-11,1984-05-26,680,16
+179,Better Our Hearts Should Bend (than Break),Bandana,26,1984-04-14,1984-07-07,676,13
+180,Knock On Wood,Razzy Bailey,29,1984-08-04,1984-11-03,672,14
+181,Till Your Memory's Gone,Bill Medley,28,1984-01-07,1984-04-07,651,14
+182,Dedicate,Kieran Kane,28,1984-03-17,1984-06-16,650,14
+183,You Look So Good In Love,George Strait,1,1984-01-07,1984-03-10,639,10
+184,The Girl Most Likely to,B.J. Thomas,25,1984-10-20,1984-12-29,630,11
+185,Let's Leave The Lights On Tonight,Johnny Rodriguez,30,1984-05-19,1984-08-25,615,15
+186,Double Shot (Of My Baby's Love),Joe Stampley,8,1984-01-07,1984-03-10,614,10
+187,Dancin' With The Devil,Stephanie Winslow,29,1984-01-07,1984-03-24,608,12
+188,Eyes That See In The Dark,Kenny Rogers,30,1984-04-21,1984-07-14,603,13
+189,It Took A Lot Of Drinkin' (to Get That Woman Over,Moe Bandy,31,1984-02-18,1984-05-12,602,13
+190,This Time,Tom Jones,30,1984-04-28,1984-07-28,600,14
+191,Something In My Heart,Ricky Skaggs,18,1984-11-03,1984-12-29,597,9
+192,I'd Dance Every Dance With You,The Kendalls,26,1984-10-27,1984-12-29,590,10
+193,Shot In The Dark,Leon Everette,30,1984-07-07,1984-10-06,589,14
+194,Little By Little,Gene Watson,33,1984-06-30,1984-09-29,580,14
+195,Somebody Buy This Cowgirl A Beer,Shelly West,34,1984-06-02,1984-09-01,574,14
+196,(There's A) Fire In The Night,Alabama,16,1984-11-10,1984-12-29,573,8
+197,Ride 'em Cowboy,Juice Newton,32,1984-08-18,1984-11-10,570,13
+198,Ozark Mountain Jubilee,The Oak Ridge Boys,5,1984-01-07,1984-02-25,558,8
+199,Lady In Waiting,David Wills,31,1984-02-25,1984-05-05,556,11
+200,Ain't She Something Else,Conway Twitty,19,1984-11-10,1984-12-29,552,8
+201,You Turn Me On (Like A Radio),Ed Bruce,24,1984-11-03,1984-12-29,546,9
+202,Another Motel Memory,Shelly West,10,1984-01-07,1984-03-03,529,9
+203,Make My Life With You,The Oak Ridge Boys,20,1984-11-10,1984-12-29,517,8
+204,One Owner Heart,T.G. Sheppard,22,1984-11-10,1984-12-29,515,8
+205,Victim Of Life's Circumstance,Vince Gill,40,1984-02-11,1984-05-05,514,13
+206,Turn Me Loose,Vince Gill,39,1984-09-22,1984-12-29,512,15
+207,Pictures,Atlanta,35,1984-06-16,1984-09-01,511,12
+208,If Every Man Had A Woman Like You,The Osmonds,39,1984-05-05,1984-07-21,501,12
+209,Most Of All,Mac Davis,41,1984-02-11,1984-05-12,498,14
+210,Missin' Mississippi,Charley Pride,32,1984-11-03,1984-12-29,493,9
+211,When The Wild Life Betrays Me,Jimmy Buffett,42,1984-09-08,1984-12-01,488,13
+212,Lonely Heart,Tammy Wynette,40,1984-06-02,1984-09-08,486,15
+213,Love Over Old Times,Sylvia (r&b),36,1984-07-07,1984-09-29,470,13
+214,You Were A Good Friend,Kenny Rogers,20,1984-01-07,1984-03-10,467,10
+215,Have You Loved Your Woman Today,Craig Dillingham,32,1984-01-07,1984-03-03,466,9
+216,Runaway Heart,Louise Mandrell,13,1984-01-07,1984-02-25,456,8
+217,Oh Carolina,Vince Gill,38,1984-05-19,1984-07-28,454,11
+218,She's Gonna Win Your Heart,Eddy Raven,28,1984-11-10,1984-12-29,451,8
+219,Gettin' Over You,Mason Dixon,49,1984-09-22,1984-12-29,441,15
+220,The Boys Night Out,Moe Bandy & Joe Stampley,36,1984-10-13,1984-12-15,436,10
+221,Baby's Got Her Blue Jeans On,Mel McDaniel,30,1984-11-10,1984-12-29,434,8
+222,One More Shot,Johnny Lee,42,1984-05-26,1984-08-11,426,12
+223,Born To Love You,Karen Brooks,40,1984-04-28,1984-07-07,424,11
+224,Houston (Means I'm One Day Closer To You),Larry Gatlin & The Gatlin Brothers,7,1984-01-07,1984-02-18,416,7
+225,Downtown,Dolly Parton,36,1984-04-07,1984-06-09,414,10
+226,Day By Day,McGuffey Lane,44,1984-05-12,1984-07-28,407,12
+227,Memory Lane,Joe Stampley & Jessica Boucher,39,1984-05-05,1984-07-07,401,10
+228,Tell 'em I've Gone Crazy,Ed Bruce,45,1984-08-18,1984-11-03,399,12
+229,Where Does An Angel Go When She Cries,The Osmonds,43,1984-01-21,1984-03-31,398,11
+230,It's Great To Be Single Again,David Allan Coe,44,1984-08-25,1984-11-03,392,11
+231,That's Not The Way (It's S'posed To Be),Anne Murray,46,1984-02-04,1984-04-21,391,12
+232,On The Wings Of A Nightingale,The Everly Brothers,49,1984-09-29,1984-12-15,391,12
+233,Fallen Angel (flyin' High Tonight),Gus Hardin,41,1984-01-07,1984-03-10,389,10
+234,All Tangled Up In Love,Gus Hardin,35,1984-11-10,1984-12-29,386,8
+235,She's Gone Gone Gone,Carl Jackson,44,1984-11-03,1984-12-29,385,9
+236,I Pass,Gus Hardin,43,1984-03-24,1984-06-02,383,11
+237,In Real Life,Ed Hunnicutt,41,1984-03-17,1984-05-12,382,9
+238,The Chicken In Black,Johnny Cash,45,1984-07-14,1984-09-22,376,11
+239,You've Got A Soft Place To Fall,Kathy Mattea,44,1984-06-16,1984-08-18,370,10
+240,The Best Of Families,Big Al Downing,45,1984-01-07,1984-03-17,370,11
+241,So Close,Wright Brothers,46,1984-08-11,1984-10-20,370,11
+242,Running Down Memory Lane,Rex Allen Jr.,38,1984-11-10,1984-12-29,369,8
+243,Mama She's Lazy,Pinkard & Bowden,39,1984-09-15,1984-11-10,368,9
+244,Let Me Down Easy,Jim Glaser,36,1984-11-17,1984-12-29,367,7
+245,Slow Nights,Mel Tillis with Glen Campbell,47,1984-10-27,1984-12-29,367,10
+246,Does He Ever Mention My Name,Rick & Janis Carnes,32,1984-01-07,1984-03-10,362,10
+247,Dance Little Jean,Nitty Gritty Dirt Band,13,1984-01-07,1984-03-03,361,9
+248,"Baby, Come To Me",Stephanie Winslow,42,1984-04-07,1984-06-02,361,9
+249,Miss Understanding,David Wills,26,1984-01-07,1984-02-18,359,7
+250,Oklahoma Heart,Becky Hobbs,46,1984-06-02,1984-08-04,355,10
+251,Baby Bye Bye,Gary Morris,31,1984-11-24,1984-12-29,354,6
+252,How Do You Feel About Fooling Around ?,Willie Nelson & Kris Kristofferson,46,1984-11-03,1984-12-29,350,9
+253,Sweet Rosanna,Rex Allen Jr.,44,1984-03-10,1984-05-05,349,9
+254,Don't You Give Up On Love,Steve Wariner,49,1984-09-22,1984-11-24,349,10
+255,I Bet You Never Thought I'd Go This Far,Micki Fuhrman,48,1984-02-18,1984-04-21,344,10
+256,The Man I Used To Be,Boxcar Willie,44,1984-01-07,1984-03-10,343,10
+257,Another Lonely Night With You,Roy Clark,48,1984-10-27,1984-12-29,343,10
+258,Drivin' Wheel,Emmylou Harris,26,1984-01-07,1984-02-11,338,6
+259,That's Easy For You To Say,Kathy Mattea,50,1984-09-15,1984-11-24,334,11
+260,I Never Had A Chance With You,Mason Dixon,51,1984-04-21,1984-06-30,333,11
+261,Slow Dancin',Kimberly Springs,49,1984-06-23,1984-08-25,329,10
+262,All I Wanna Do (Is Make Love To You),Bandana,52,1984-08-18,1984-11-03,327,12
+263,Honky Tonk Women Make Honky Tonk Men,Craig Dillingham,47,1984-03-31,1984-05-26,320,9
+264,My Baby's Got Good Timing,Dan Seals,34,1984-11-24,1984-12-29,318,6
+265,Bad Night For Good Girls,Jan Gray,51,1984-01-21,1984-03-17,315,9
+266,Black Sheep,John Anderson,10,1984-01-07,1984-02-11,311,6
+267,It's You Alone,Gail Davies,55,1984-08-04,1984-10-20,309,12
+268,Ride 'em Cowboy,David Allan Coe,48,1984-01-07,1984-03-17,308,11
+269,Almost Saturday Night,The Burrito Brothers,49,1984-01-28,1984-03-24,307,9
+270,Good Night For Falling In Love,Hillary Kanter,51,1984-08-18,1984-10-13,302,9
+271,Wounded Hearts,Mark Gray,18,1984-01-07,1984-02-11,300,6
+272,When We Get Back To The Farm (that's When We Really Go To,David Frizzell,49,1984-07-28,1984-09-22,300,9
+273,Do I Ever Cross Your Mind,Ray Charles,50,1984-04-14,1984-06-16,300,10
+274,Where'd That Woman Go,Mel McDaniel,49,1984-03-10,1984-05-05,298,9
+275,You Really Go For The Heart,Dan Seals,37,1984-01-07,1984-03-03,290,9
+276,Angel In Your Arms,Robin Lee,54,1984-01-07,1984-03-10,289,10
+277,Someone Like You,Emmylou Harris,41,1984-11-24,1984-12-29,287,6
+278,I Wonder Where We'd Be Tonight,Vern Gosdin,20,1984-01-07,1984-02-18,283,7
+279,Evening Star,Kenny Rogers,33,1984-06-30,1984-07-28,273,5
+280,My Kind Of Lady,The Burrito Brothers,53,1984-05-26,1984-07-14,273,8
+281,You're A Hard Dog (To Keep Under The Porch),Gail Davies,22,1984-01-07,1984-02-18,270,7
+282,How Are You Spending My Nights,Gus Hardin,52,1984-06-23,1984-08-11,269,8
+283,One Sided Love Affair,Mike Campbell,52,1984-03-17,1984-05-19,269,10
+284,If That Ain't Love,Lacy J. Dalton,46,1984-11-24,1984-12-29,265,6
+285,A Lady Like You,Glen Campbell,39,1984-12-01,1984-12-29,263,5
+286,Lonesome 7-7203,Darrell Clanton,24,1984-01-07,1984-02-18,262,7
+287,Slow Burning Memory,Vern Gosdin,40,1984-12-01,1984-12-29,261,5
+288,Building Bridges,Larry Willoughby,55,1984-02-04,1984-03-24,254,8
+289,Lo And Behold,Wally Fowler's Tennessee Valley Boys,57,1984-04-14,1984-06-16,254,10
+290,All The Love On The Radio,Tom Jones,53,1984-09-01,1984-10-27,253,9
+291,If I Can Just Get Through The Night,Sissy Spacek,57,1984-01-21,1984-03-17,247,9
+292,I'm Gonna Love You Right Out Of The Blues,Lloyd David Foster,50,1984-11-24,1984-12-29,244,6
+293,What She Wants,Michael Martin Murphey,43,1984-12-01,1984-12-29,241,5
+294,A Little Love,Juice Newton,64,1984-06-23,1984-08-18,240,9
+295,Let's Live This Dream Together,Narvel Felts,53,1984-06-30,1984-08-18,236,8
+296,Repeat After Me,Family Brown,56,1984-03-03,1984-05-05,236,10
+297,Restless Heart,Juice Newton,57,1984-10-20,1984-12-01,232,7
+298,Break My Heart,Victoria Shaw,61,1984-02-25,1984-04-28,230,10
+299,I Never Got Over You,Johnny Paycheck,47,1984-12-01,1984-12-29,229,5
+300,Home Again,Judy Collins & T.G. Sheppard,57,1984-09-29,1984-11-24,228,9
+301,Goodtime Charlie got the Blues,Leon Russell,63,1984-07-28,1984-10-13,228,12
+302,Eight Days A Week,Wright Brothers,57,1984-11-03,1984-12-29,226,9
+303,Fool,Narvel Felts,52,1984-01-07,1984-02-11,225,6
+304,Turn Me To Love,Keith Whitley,59,1984-09-29,1984-11-24,224,9
+305,Thinking 'bout Leaving,Butch Baker,56,1984-10-27,1984-12-08,219,7
+306,Back On Her Mind Again,Johnny Rodriguez,35,1984-01-07,1984-02-04,212,5
+307,Rose Of My Heart,Johnny Rodriguez,60,1984-10-13,1984-12-01,212,8
+308,Handsome Man,Karen Taylor-Good,62,1984-01-07,1984-03-10,211,10
+309,My Only Love,The Statler Brothers,42,1984-12-08,1984-12-29,210,4
+310,Most Of All I Remember You,Mel McDaniel,59,1984-05-19,1984-07-07,210,8
+311,Hanging On,Lane Brody,59,1984-05-12,1984-06-23,208,7
+312,Queen Of My Heart,Hank Williams Jr.,21,1984-01-07,1984-02-18,207,7
+313,Now I Lay Me Down To Cheat,Shelly West,56,1984-03-10,1984-04-21,204,7
+314,What About Me?,Kenny Rogers With Kim Carnes & James Ingram,70,1984-11-10,1984-12-29,203,8
+315,The Conversation,"Waylon Jennings With Hank Williams, Jr.",27,1984-01-07,1984-02-04,200,5
+316,She Put The Sad In All His Songs,Ronnie Dunn,59,1984-06-23,1984-08-11,200,8
+317,Crazy For Your Love,Exile,45,1984-12-08,1984-12-29,195,4
+318,No Way Jose,David Frizzell,55,1984-12-01,1984-12-29,194,5
+319,I Got A Bad Attitude,Gary Stewart,64,1984-08-11,1984-09-22,185,7
+320,Little Bits And Pieces,Jim Stafford,67,1984-02-04,1984-03-31,181,9
+321,Eye Of A Hurricane,John Anderson,48,1984-12-08,1984-12-29,178,4
+322,Holding Her And Loving You,Earl Thomas Conley,48,1984-01-07,1984-02-25,177,8
+323,Please Tell Him That I Said Hello,Margo Smith,63,1984-01-28,1984-03-10,177,7
+324,The First Time,McGuffey Lane,63,1984-09-01,1984-10-20,175,8
+325,Take It To The Limit,Willie Nelson With Waylon Jennings,30,1984-01-07,1984-02-11,172,6
+326,1984,Craig Dillingham,58,1984-07-21,1984-08-25,172,6
+327,Sweet & Easy To Love,Mike Campbell,57,1984-01-07,1984-02-11,171,6
+328,The Mississippi Squirrel Revival,Ray Stevens,49,1984-12-08,1984-12-29,169,4
+329,Hey,Hillary Kanter,60,1984-12-01,1984-12-29,168,5
+330,Those You Lose,Ronny Robbins,62,1984-07-21,1984-09-01,168,7
+331,First Time Burned,Johnny Rodriguez,63,1984-08-18,1984-09-29,168,7
+332,You're Gonna Lose Her Like That,Moe Bandy,50,1984-01-07,1984-02-18,167,7
+333,You Bring The Heartache (I'll Bring The Beer),Gary Wolf,63,1984-07-07,1984-08-25,167,8
+334,Pardon Me (Haven't We Loved Somewhere Before),Becky Hobbs,64,1984-09-08,1984-10-13,166,6
+335,Adventures In Parodies,Pinkard & Bowden,64,1984-03-03,1984-04-21,166,8
+336,She Used To Love Me A Lot,David Allan Coe,52,1984-12-08,1984-12-29,165,4
+337,Want Ads,Robin Lee,63,1984-04-28,1984-06-09,165,7
+338,My Dad,Ray Stevens,64,1984-02-11,1984-03-31,162,8
+339,Touchy Situation,Razzy Bailey,57,1984-12-08,1984-12-29,161,4
+340,Street Talk,Kathy Mattea,38,1984-01-07,1984-02-04,157,5
+341,This Ain't Tennessee And He Ain't You,Katy Moffatt,66,1984-05-05,1984-06-09,156,6
+342,Who Dat,David Frizzell,60,1984-04-28,1984-06-02,155,6
+343,Cold In July,Robin Lee,62,1984-08-11,1984-09-08,155,5
+344,We Just Gotta Dance,Karen Taylor-Good,66,1984-09-08,1984-10-20,155,7
+345,Let Love Come Looking For You,Dottie West,67,1984-12-01,1984-12-29,153,5
+346,Black & White,David Frizzell,64,1984-01-14,1984-02-18,152,6
+347,Baby I Lied,Deborah Allen,42,1984-01-07,1984-01-28,147,4
+348,All Around The Water Tank,Mel McDaniel,64,1984-07-28,1984-09-01,146,6
+349,"Shoot First, Ask Questions Later",James And Michael Younger,65,1984-01-07,1984-02-11,145,6
+350,I'm Glad You Couldn't Sleep last Night,Narvel Felts,63,1984-10-06,1984-11-03,144,5
+351,This Bed's Not Big Enough,Louise Mandrell,59,1984-12-08,1984-12-29,143,4
+352,Luther,Boxcar Willie,69,1984-07-14,1984-08-18,140,6
+353,Branded Man,Sierra,70,1984-03-17,1984-04-21,139,6
+354,Love Is The Reason,Sierra,68,1984-06-23,1984-07-28,137,6
+355,What I Didn't Do,Steve Wariner,51,1984-12-15,1984-12-29,136,3
+356,Tell Me A Lie,Janie Fricke,36,1984-01-07,1984-01-28,133,4
+357,A Little Good News,Anne Murray,45,1984-01-07,1984-01-28,132,4
+358,The Yellow Rose/say When,Johnny Lee & Lane Brody,43,1984-02-04,1984-02-18,131,3
+359,Bigger Than Both Of Us,Jimmy Buffett,63,1984-12-08,1984-12-29,129,4
+360,I Heard It On The Radio,Robin Lee,71,1984-12-01,1984-12-29,129,5
+361,The Image Of Me,Jim Reeves,70,1984-01-21,1984-02-25,124,6
+362,You Lay So Easy On My Mind,Narvel Felts,70,1984-03-10,1984-04-14,123,6
+363,Macon Love,David Wills,69,1984-11-24,1984-12-29,122,6
+364,Honky Tonk Tan,O.B. Mcclinton,69,1984-06-09,1984-07-07,121,5
+365,Light Up,J.C. Cunningham,70,1984-04-21,1984-05-26,120,6
+366,Ski Bumpus/banjo Fantasy Ii,Wickline,78,1984-02-04,1984-03-17,118,7
+367,Islands In The Stream,Kenny Rogers Duet With Dolly Parton,60,1984-01-07,1984-02-04,117,5
+368,Goodbye Highway,Pam Tillis,71,1984-11-10,1984-12-08,115,5
+369,Blackjack Whiskey,Bobby Jenkins,69,1984-06-16,1984-07-14,109,5
+370,That It's All Over Feeling (all Over Again),Steve Clark,68,1984-03-10,1984-04-07,108,5
+371,Run Your Sweet Love By Me One More Time,Lang Scott,68,1984-04-21,1984-05-26,108,6
+372,The River's Song,Joey Scarbury,76,1984-10-20,1984-12-01,108,7
+373,Bad For Me,Joe Sun,73,1984-07-14,1984-08-11,106,5
+374,Your Eyes,Bill Anderson,76,1984-05-12,1984-06-23,106,7
+375,The Greatest Gift Of All,Kenny Rogers & Dolly Parton,58,1984-12-15,1984-12-29,105,3
+376,I'm An Old Rock And Roller (Dancin' To A Different Beat),Tom Jones,68,1984-12-08,1984-12-29,105,4
+377,Where Did We Go Right,Russell Smith,74,1984-02-04,1984-03-10,105,6
+378,What's Good For The Goose (Is Good For The Ganger),Dottie West,77,1984-09-15,1984-10-27,103,7
+379,It's A Cover Up,Peter Isaacson,71,1984-05-12,1984-06-09,102,5
+380,Love and Let Love,Danny Shirley,72,1984-10-20,1984-11-17,102,5
+381,My Girl,Savannah,73,1984-07-21,1984-08-18,100,5
+382,Old Memories Are Hard To Lose,Kimberly Springs,74,1984-10-20,1984-11-17,100,5
+383,All Heaven Is About To Break Loose,Zella Lehr,72,1984-09-29,1984-10-27,97,5
+384,Caroline's Still In Georgia,Mac Davis,76,1984-05-19,1984-06-16,97,5
+385,Deep In The Arms Of Texas,Con Hunley,75,1984-03-17,1984-04-28,96,7
+386,Seven Spanish Angels,Ray Charles With Willie Nelson,62,1984-12-15,1984-12-29,95,3
+387,What'll You Do About Me,Steve Earle,76,1984-12-08,1984-12-29,95,4
+388,Can You Fool,Paulette Carlson,72,1984-03-10,1984-03-31,93,4
+389,"Hey, Bottle Of Whiskey",Gary Stewart,75,1984-04-14,1984-05-26,93,7
+390,Don't Go Changing,Lorrie Morgan,69,1984-03-17,1984-04-14,92,5
+391,Love Isn't Love ('til You Give It Away),Tari Hensley,69,1984-09-08,1984-09-29,90,4
+392,Put Another Notch In Your Belt,Susan Raye,76,1984-11-03,1984-12-01,90,5
+393,Somebody's Back In Town,Chris Hillman,81,1984-09-29,1984-11-03,89,6
+394,Better Class Of Loser,Ray Price & The Cherokee Cowboys,73,1984-09-08,1984-10-13,87,6
+395,I'll Take As Much Of You As I Can Get,Darrell Clanton,75,1984-03-31,1984-05-05,87,6
+396,Wheels In Emotion,Becky Hobbs,77,1984-12-08,1984-12-29,87,4
+397,I'm A Country Song,David Rogers,72,1984-03-03,1984-03-24,86,4
+398,Lean On Me,Jack Grayson,77,1984-01-14,1984-02-04,84,4
+399,All American Country Boy,Con Hunley,66,1984-12-15,1984-12-29,82,3
+400,You've Got A Good Love Comin',Lee Greenwood,61,1984-12-22,1984-12-29,80,2
+401,Tennessee Whiskey,George Jones,64,1984-01-07,1984-02-04,79,5
+402,I've Always Wanted To,Wayne Kemp,75,1984-06-30,1984-07-21,79,4
+403,Baby's Walkin',Chantilly,77,1984-02-11,1984-03-03,79,4
+404,Alibis,Lane Brody,81,1984-08-25,1984-09-22,79,5
+405,Cowgirl In A Coupe DeVille,Terry Gregory,75,1984-04-21,1984-05-19,78,5
+406,The Air That I Breathe,Rex Allen Jr.,63,1984-01-07,1984-01-28,77,4
+407,The Lady In My Life,Tony Joe White,67,1984-01-07,1984-01-28,76,4
+408,Long Lost Causes,Rick & Janis Carnes,74,1984-08-18,1984-09-08,75,4
+409,If You Think I Love You Now,The Shoppe,74,1984-11-17,1984-12-15,73,5
+410,She Took It Too Well,John Wesley Ryles,78,1984-08-25,1984-09-15,71,4
+411,Don't Count The Rainy Days,Michael Martin Murphey,62,1984-01-07,1984-01-28,70,4
+412,The Look Of A Lovin' Lady,Wyvon Alexander,68,1984-01-07,1984-01-28,68,4
+413,Almost Over You,Sheena Easton,86,1984-03-24,1984-05-05,68,7
+414,Just Out Of Reach,Merle Kilgore,74,1984-07-14,1984-08-04,67,4
+415,If You're Serious About Cheating,Randy Wright,77,1984-05-12,1984-06-02,66,4
+416,What Am I Gonna Do Without You,Ray Price,77,1984-11-17,1984-12-29,66,7
+417,Crazy,Kenny Rogers,69,1984-12-22,1984-12-29,64,2
+418,Come On Home,Tony Arata,76,1984-09-22,1984-10-13,64,4
+419,Harvest Moon,Joe Waters,74,1984-01-07,1984-01-21,63,3
+420,You're The Only Star (in My Blue Heaven),Mike Campbell,77,1984-07-14,1984-07-28,63,3
+421,If It's Love (Then Bet It All),Jack Greene,81,1984-11-17,1984-12-15,63,5
+422,There'll Never Be A Better Night For Bein' Wrong,Big Al Downing,76,1984-04-28,1984-05-19,62,4
+423,Friendly Game Of Hearts,Penny Dehaven,78,1984-04-14,1984-05-05,61,4
+424,Heartache Tonight,Conway Twitty,70,1984-01-07,1984-01-28,60,4
+425,"Sweet Love, Don't Cry",Charleston Express (With Jesse Wales),78,1984-12-15,1984-12-29,60,3
+426,My Heart Will Always Belong To You,Donna Fargo,80,1984-07-07,1984-07-28,60,4
+427,"Hallelujah, I Love You So",George Jones With Brenda Lee,72,1984-12-22,1984-12-29,58,2
+428,Have Another Drink,Doug Block,73,1984-12-22,1984-12-29,56,2
+429,Reynosa,Katy Moffatt,82,1984-02-11,1984-03-03,55,4
+430,Two Will Be One,Kenny Dale,85,1984-01-28,1984-03-03,53,6
+431,Memphis In May,Darrell Mccall,79,1984-06-09,1984-06-30,52,4
+432,The Minstrel,Mike Dekle,79,1984-11-03,1984-11-24,51,4
+433,Piece Of My Heart,John Hartford,81,1984-08-18,1984-09-01,50,3
+434,Anything For Your Love,Brentwood Kids,80,1984-03-17,1984-03-31,49,3
+435,Famous In Missouri,Tom T. Hall,81,1984-07-14,1984-07-28,49,3
+436,Who's Counting,Marie Osmond,82,1984-03-24,1984-04-14,49,4
+437,Here I Go Again,Cheryl Handy,83,1984-04-14,1984-05-05,49,4
+438,If You Could Only See Me Now,Sissy Spacek,79,1984-05-05,1984-05-19,48,3
+439,My Baby Don't Slow Dance,Johnny Lee,73,1984-01-07,1984-01-21,47,3
+440,Burn Georgia Burn (there's A Fire),Butch Baker,80,1984-08-04,1984-08-18,47,3
+441,Angel Eyes,Larry Willoughby,82,1984-06-23,1984-07-07,47,3
+442,A New Place To Begin,Ray Price,87,1984-06-23,1984-07-14,47,4
+443,Biloxi Lady,Leon Raines,81,1984-11-24,1984-12-08,45,3
+444,That's The Truth,Johnny Cash,84,1984-05-12,1984-06-09,43,5
+445,Tell Mama,Terri Gibbs,80,1984-01-07,1984-01-21,42,3
+446,Louisiana Heatwave,Bobby Jenkins,82,1984-08-25,1984-09-08,42,3
+447,Midnight Angel Of Merrcy,Rod Rishard,84,1984-07-28,1984-08-11,42,3
+448,Whatcha' Got Cookin' In Your Oven Tonight,Thrasher Brothers,87,1984-01-07,1984-01-28,42,4
+449,We Belong Together,Tony Joe White,85,1984-03-03,1984-03-17,41,3
+450,(Nothing Left Between Us) But Alabama,Gordon Dee,87,1984-12-15,1984-12-29,41,3
+451,You Are What Love Means To Me,Craig Bickhardt,86,1984-05-26,1984-06-16,40,4
+452,Old Photographs,Sam Neely,81,1984-01-21,1984-02-04,39,3
+453,Take It Slow,Kenny Dale,86,1984-09-01,1984-09-15,36,3
+454,Not On The Bottom Yet,Boxcar Willie,87,1984-05-05,1984-05-19,36,3
+455,You Are A Miracle,The Maines Brothers Band,85,1984-03-24,1984-04-07,35,3
+456,You're The Best I Never Had,Larry Jenkins,87,1984-07-28,1984-08-11,34,3
+457,Anything For Your Love,Sammy Hall,88,1984-04-28,1984-05-12,34,3
+458,Walking With My Memories,Loretta Lynn,83,1984-01-07,1984-01-21,33,3
+459,We've Got To Start Meeting Like This,Memphis,85,1984-08-25,1984-09-15,33,4
+460,Dixie Dreaming,Atlanta,76,1984-01-07,1984-01-14,30,2
+461,I Still Love Your Body,Tommy Overstreet,87,1984-05-19,1984-06-02,26,3
+462,The Man In The Mirror,Jim Glaser,84,1984-01-07,1984-01-14,25,2
+463,The More I Go Blind,Rod Rishard,89,1984-03-24,1984-04-07,24,3
+464,One Of A Kind Pair Of Fools,Barbara Mandrell,82,1984-01-07,1984-01-14,22,2
+465,Your Love Shines Through,Mickey Gilley,88,1984-01-07,1984-01-21,22,3
+466,It Won't Be Easy,Lois Johnson,89,1984-06-02,1984-06-16,22,3
+467,Somebody's Gonna Love You,Lee Greenwood,89,1984-01-07,1984-01-14,21,2
+468,I'd Say Yes,Paulette Carlson,86,1984-01-07,1984-01-21,20,3
+469,Rise Above It All,Joe Waters,90,1984-05-26,1984-06-02,20,2
+470,Bed of Roses,Bobby Vinton,91,1984-11-24,1984-12-08,20,3
+471,Don't Give Up On Her Now,Leon Raines,91,1984-07-07,1984-07-14,19,2
+472,Easier,Sandy Croft,91,1984-08-04,1984-08-11,19,2
+473,Lay Back (In The Arms Of Someone),Johnny Tillotson,91,1984-03-31,1984-04-07,17,2
+474,It's Been One Of Those Days,Lang Scott,91,1984-08-18,1984-08-25,16,2
+475,The Wind Beneath My Wings,Gary Morris,95,1984-01-07,1984-01-21,16,3
+476,It's Gonna Be A Heartache,Kevin Pearce,91,1984-01-14,1984-01-21,15,2
+477,Making Love To Dixie,The Younger Brothers Band,92,1984-09-08,1984-09-15,15,2
+478,Hanky Panky,Mike Dekle,93,1984-06-30,1984-07-07,15,2
+479,Just Like That,Malchak & Rucker,92,1984-11-10,1984-11-17,14,2
+480,No Survivors,Peter Isaacson,93,1984-03-24,1984-03-31,14,2
+481,Dying To Believe,Jack Greene,93,1984-07-14,1984-07-28,13,3
+482,Dream Love,Susie Brading,94,1984-02-04,1984-02-18,13,3
+483,Wedding Bells,Margo Smith,90,1984-01-07,1984-01-07,11,1
+484,Hello Josephine,J.W. Thompson,91,1984-07-14,1984-07-21,11,2
+485,Wabash Cannonball,Willie Nelson & Hank Wilson,91,1984-10-27,1984-11-03,11,2
+486,Don't Take Much,Peter Isaacson,91,1984-01-07,1984-01-07,10,1
+487,Grandma Got Run Over By A Reindeer,Elmo & Patsy,92,1984-01-07,1984-01-14,10,2
+488,Colorado Christmas,Nitty Gritty Dirt Band,93,1984-01-07,1984-01-14,10,2
+489,You Really Know How To Break A Heart,Jimmy Mac,93,1984-06-23,1984-06-23,7,1
+490,Brave Heart,Thom Schuyler,94,1984-01-07,1984-01-07,7,1
+491,"Tenamuck, Georgia",Charlie Bandy,95,1984-07-28,1984-08-04,7,2
+492,I Love You Because,Roger Whittaker,96,1984-01-07,1984-01-07,5,1
+493,She Meant Forever When She Said Goodbye,Mel Tillis,97,1984-01-07,1984-01-07,4,1
+494,Sleeping Back To Back,White Water Junction,97,1984-10-27,1984-10-27,4,1
+495,Where Did He Go Right,Roy Head,98,1984-01-07,1984-01-07,3,1
+496,It's Another Silent Night,Lane Brody,99,1984-01-07,1984-01-07,2,1
+497,Louisiana Anna,The Maines Brothers Band,100,1984-01-07,1984-01-07,1,1

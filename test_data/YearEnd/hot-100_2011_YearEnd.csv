@@ -1,0 +1,611 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Rolling In The Deep,Adele,1,2011-01-29,2011-12-31,5811,49
+2,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,1,2011-02-12,2011-12-31,5259,39
+3,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",1,2011-04-16,2011-12-31,4790,38
+4,E.T.,Katy Perry Featuring Kanye West,1,2011-03-05,2011-09-17,4146,29
+5,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,1,2011-07-09,2011-12-31,3867,26
+6,Super Bass,Nicki Minaj,3,2011-05-14,2011-12-31,3841,34
+7,Firework,Katy Perry,1,2011-01-01,2011-07-30,3565,31
+8,F**k You! (Forget You),CeeLo Green,2,2011-01-01,2011-08-06,3529,32
+9,Pumped Up Kicks,Foster The People,3,2011-05-14,2011-12-31,3446,34
+10,Just Can't Get Enough,The Black Eyed Peas,3,2011-03-05,2011-10-01,3415,31
+11,Grenade,Bruno Mars,1,2011-01-01,2011-06-18,3300,25
+12,Someone Like You,Adele,1,2011-03-12,2011-12-31,3211,24
+13,On The Floor,Jennifer Lopez Featuring Pitbull,3,2011-03-12,2011-09-24,3157,29
+14,F**kin' Perfect,P!nk,2,2011-01-01,2011-08-06,2946,30
+15,S&M,Rihanna Featuring Britney Spears,1,2011-02-05,2011-07-23,2922,25
+16,Last Friday Night (T.G.I.F.),Katy Perry,1,2011-06-18,2011-11-19,2880,23
+17,Good Life,OneRepublic,8,2011-04-23,2011-12-10,2766,34
+18,Stereo Hearts,Gym Class Heroes Featuring Adam Levine,4,2011-07-02,2011-12-31,2679,27
+19,Just A Kiss,Lady Antebellum,7,2011-05-21,2011-12-31,2665,33
+20,Look At Me Now,Chris Brown Featuring Lil Wayne & Busta Rhymes,6,2011-02-19,2011-08-20,2569,27
+21,Down On Me,Jeremih Featuring 50 Cent,4,2011-01-01,2011-07-09,2531,28
+22,The Lazy Song,Bruno Mars,4,2011-03-19,2011-09-10,2528,26
+23,How To Love,Lil Wayne,5,2011-06-11,2011-11-19,2504,24
+24,The Edge Of Glory,Lady Gaga,3,2011-05-28,2011-11-05,2484,24
+25,Born This Way,Lady Gaga,1,2011-02-26,2011-07-09,2449,20
+26,Tonight (I'm Lovin' You),Enrique Iglesias Featuring Ludacris & DJ Frank E,4,2011-01-01,2011-05-28,2421,22
+27,Sexy And I Know It,LMFAO,2,2011-09-17,2011-12-31,2400,16
+28,The Show Goes On,Lupe Fiasco,9,2011-01-29,2011-08-27,2377,31
+29,Tonight Tonight,Hot Chelle Rae,7,2011-04-30,2011-11-19,2366,30
+30,Till The World Ends,Britney Spears Featuring Nicki Minaj & Ke$ha,3,2011-03-19,2011-08-27,2344,24
+31,Lighters,Bad Meets Evil Featuring Bruno Mars,4,2011-07-02,2011-11-26,2340,22
+32,We Found Love,Rihanna Featuring Calvin Harris,1,2011-10-08,2011-12-31,2265,13
+33,If I Die Young,The Band Perry,14,2011-01-01,2011-12-10,2243,30
+34,Just The Way You Are,Bruno Mars,6,2011-01-01,2011-07-02,2173,27
+35,You Make Me Feel...,Cobra Starship Featuring Sabi,7,2011-07-30,2011-12-31,2131,23
+36,Blow,Ke$ha,7,2011-02-12,2011-07-30,2047,25
+37,Dirt Road Anthem,Jason Aldean,7,2011-04-23,2011-10-22,1997,27
+38,Without You,David Guetta Featuring Usher,4,2011-09-17,2011-12-31,1957,16
+39,Motivation,Kelly Rowland Featuring Lil Wayne,17,2011-04-30,2011-10-15,1874,25
+40,Raise Your Glass,P!nk,4,2011-01-01,2011-05-14,1872,20
+41,Black And Yellow,Wiz Khalifa,1,2011-01-01,2011-04-09,1820,15
+42,I'm On One,"DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",10,2011-06-04,2011-11-05,1805,23
+43,What's My Name?,Rihanna Featuring Drake,3,2011-01-01,2011-04-02,1725,14
+44,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,7,2011-01-01,2011-05-14,1692,20
+45,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,11,2011-01-01,2011-05-21,1689,21
+46,6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,9,2011-01-01,2011-05-21,1665,21
+47,For The First Time,The Script,23,2011-01-01,2011-07-30,1647,29
+48,Crazy Girl,Eli Young Band,30,2011-03-26,2011-12-03,1643,36
+49,Moment 4 Life,Nicki Minaj Featuring Drake,13,2011-01-01,2011-06-04,1627,23
+50,I Wanna Go,Britney Spears,7,2011-04-16,2011-11-05,1618,20
+51,You And I,Lady Gaga,6,2011-06-11,2011-12-31,1603,20
+52,I Need A Doctor,Dr. Dre Featuring Eminem & Skylar Grey,4,2011-02-19,2011-07-02,1597,20
+53,Headlines,Drake,13,2011-08-27,2011-12-31,1555,19
+54,All Of The Lights,Kanye West,18,2011-01-22,2011-07-02,1538,24
+55,Roll Up,Wiz Khalifa,13,2011-02-26,2011-07-23,1504,22
+56,God Gave Me You,Blake Shelton,22,2011-07-30,2011-12-31,1490,23
+57,Don't You Wanna Stay,Jason Aldean With Kelly Clarkson,31,2011-01-01,2011-09-03,1488,25
+58,Honey Bee,Blake Shelton,13,2011-04-23,2011-09-03,1483,20
+59,We R Who We R,Ke$ha,3,2011-01-01,2011-03-26,1478,13
+60,In The Dark,Dev,11,2011-08-20,2011-12-31,1457,20
+61,Jar Of Hearts,Christina Perri,17,2011-01-01,2011-05-14,1444,20
+62,She Will,Lil Wayne Featuring Drake,3,2011-09-03,2011-12-31,1427,18
+63,More,Usher,15,2011-01-01,2011-05-21,1422,21
+64,What The Hell,Avril Lavigne,11,2011-01-29,2011-06-11,1411,20
+65,It Will Rain,Bruno Mars,3,2011-10-15,2011-12-31,1381,12
+66,Love You Like A Love Song,Selena Gomez & The Scene,26,2011-07-09,2011-12-31,1373,26
+67,Barefoot Blue Jean Night,Jake Owen,21,2011-04-30,2011-10-22,1372,24
+68,Rocketeer,Far*East Movement Featuring Ryan Tedder,7,2011-01-01,2011-04-30,1366,18
+69,Written In The Stars,Tinie Tempah Featuring Eric Turner,12,2011-03-05,2011-07-16,1360,20
+70,Ni**as in Paris,Jay Z Kanye West,6,2011-08-27,2011-12-31,1354,19
+71,Country Girl (Shake It For Me),Luke Bryan,22,2011-05-07,2011-09-17,1331,20
+72,Remind Me,Brad Paisley Duet With Carrie Underwood,17,2011-06-25,2011-11-05,1327,20
+73,Knee Deep,Zac Brown Band Featuring Jimmy Buffett,18,2011-05-28,2011-10-08,1326,20
+74,Who Says,Selena Gomez & The Scene,21,2011-04-02,2011-08-13,1319,20
+75,No Hands,Waka Flocka Flame Featuring Roscoe Dash & Wale,13,2011-01-01,2011-04-30,1301,18
+76,Dynamite,Taio Cruz,11,2011-01-01,2011-05-07,1300,19
+77,Pretty Girl Rock,Keri Hilson,24,2011-01-01,2011-05-07,1295,19
+78,Yeah 3X,Chris Brown,15,2011-01-01,2011-04-23,1288,17
+79,It Girl,Jason Derulo,17,2011-08-27,2011-12-31,1268,19
+80,The Time (Dirty Bit),The Black Eyed Peas,7,2011-01-01,2011-04-09,1267,15
+81,Hold It Against Me,Britney Spears,1,2011-01-29,2011-05-21,1254,17
+82,Stereo Love,Edward Maya & Vika Jigulina,16,2011-01-01,2011-04-30,1244,18
+83,Good Feeling,Flo Rida,4,2011-09-17,2011-12-31,1243,12
+84,Cheers (Drink To That),Rihanna,7,2011-08-13,2011-12-10,1243,18
+85,Take A Back Road,Rodney Atkins,23,2011-06-18,2011-11-19,1229,23
+86,Best Thing I Never Had,Beyonce,16,2011-06-18,2011-10-29,1201,20
+87,Mr. Know It All,Kelly Clarkson,10,2011-09-24,2011-12-31,1195,15
+88,Mr. Saxobeat,Alexandra Stan,21,2011-07-30,2011-12-10,1185,20
+89,Backseat,New Boyz Featuring The Cataracs & Dev,26,2011-03-05,2011-07-16,1164,20
+90,She Ain't You,Chris Brown,27,2011-04-30,2011-09-10,1147,20
+91,Sure Thing,Miguel,36,2011-03-26,2011-08-27,1138,23
+92,You And Tequila,Kenny Chesney Featuring Grace Potter,33,2011-06-11,2011-10-22,1129,20
+93,Where Them Girls At,David Guetta Featuring Flo Rida & Nicki Minaj,14,2011-05-21,2011-10-01,1123,20
+94,Only Girl (In The World),Rihanna,7,2011-01-01,2011-03-26,1057,13
+95,My Last,Big Sean Featuring Chris Brown,30,2011-03-19,2011-08-27,1029,21
+96,Otis,Jay Z Kanye West Featuring Otis Redding,12,2011-08-06,2011-12-17,1011,20
+97,Are You Gonna Kiss Me Or Not,Thompson Square,32,2011-01-01,2011-05-14,1007,20
+98,Mean,Taylor Swift,31,2011-04-09,2011-08-13,1006,19
+99,Colder Weather,Zac Brown Band,29,2011-02-05,2011-06-18,1005,20
+100,Fly,Nicki Minaj Featuring Rihanna,19,2011-09-17,2011-12-31,1004,16
+101,Price Tag,Jessie J Featuring B.o.B,23,2011-02-19,2011-07-02,1003,20
+102,5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,10,2011-10-15,2011-12-31,1001,12
+103,Don't Wanna Go Home,Jason Derulo,14,2011-06-04,2011-09-10,986,15
+104,Back To December,Taylor Swift,18,2011-01-01,2011-03-26,978,13
+105,Marvin & Chardonnay,Big Sean Featuring Kanye West & Roscoe Dash,32,2011-08-06,2011-12-17,966,20
+106,Tomorrow,Chris Young,36,2011-03-05,2011-08-13,963,21
+107,Easy,Rascal Flatts Featuring Natasha Bedingfield,43,2011-08-13,2011-12-31,948,21
+108,The One That Got Away,Katy Perry,4,2011-10-29,2011-12-31,937,10
+109,Every Teardrop Is A Waterfall,Coldplay,14,2011-06-18,2011-10-15,935,18
+110,Best Love Song,T-Pain Featuring Chris Brown,33,2011-04-09,2011-08-20,927,20
+111,Work Out,J. Cole,14,2011-07-23,2011-12-31,916,16
+112,You Lie,The Band Perry,42,2011-03-19,2011-07-30,908,20
+113,Nothing,The Script,32,2011-08-27,2011-12-31,901,19
+114,Not Over You,Gavin DeGraw,22,2011-06-25,2011-12-31,900,19
+115,Paradise,Coldplay,15,2011-10-01,2011-12-31,895,14
+116,I Won't Let Go,Rascal Flatts,31,2011-02-19,2011-06-25,885,19
+117,A Little Bit Stronger,Sara Evans,34,2011-01-15,2011-06-04,876,21
+118,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,15,2011-01-01,2011-03-19,863,12
+119,We Owned The Night,Lady Antebellum,31,2011-09-03,2011-12-31,856,18
+120,Just A Dream,Nelly,10,2011-01-01,2011-03-12,837,11
+121,Marry Me,Train,34,2011-01-01,2011-04-16,837,16
+122,Marvins Room,Drake,21,2011-08-06,2011-12-17,836,18
+123,Take Over Control,Afrojack Featuring Eva Simons,41,2011-07-02,2011-11-12,825,20
+124,Teenage Dream,Katy Perry,18,2011-01-01,2011-03-19,805,12
+125,Baggage Claim,Miranda Lambert,44,2011-08-27,2011-12-31,803,19
+126,Better With The Lights Off,New Boyz Feat. Chris Brown,38,2011-05-21,2011-11-19,801,19
+127,Made In America,Toby Keith,40,2011-06-25,2011-11-05,801,20
+128,Higher,Taio Cruz Featuring Travie McCoy,24,2011-01-01,2011-04-09,793,15
+129,Hello,Martin Solveig & Dragonette,46,2011-04-23,2011-09-03,789,20
+130,Am I The Only One,Dierks Bentley,39,2011-05-21,2011-10-01,786,20
+131,Let Me Down Easy,Billy Currington,46,2011-01-01,2011-04-23,776,17
+132,Bow Chicka Wow Wow,Mike Posner Featuring Lil Wayne,30,2011-03-12,2011-06-25,769,16
+133,If Heaven Wasn't So Far Away,Justin Moore,49,2011-04-09,2011-08-20,764,20
+134,Somewhere With You,Kenny Chesney,31,2011-01-01,2011-04-02,749,14
+135,Sparks Fly,Taylor Swift,42,2011-08-27,2011-12-24,740,18
+136,Dance (A$$),Big Sean Featuring Nicki Minaj,12,2011-10-22,2011-12-31,735,11
+137,Old Alabama,Brad Paisley Featuring Alabama,38,2011-04-23,2011-09-03,728,20
+138,Here For A Good Time,George Strait,46,2011-07-16,2011-11-26,723,20
+139,Keep Your Head Up,Andy Grammer,53,2011-06-18,2011-10-29,721,20
+140,I Don't Want This Night To End,Luke Bryan,22,2011-10-15,2011-12-31,714,12
+141,What Do You Want,Jerrod Niemann,52,2011-01-01,2011-05-21,710,20
+142,Heart Like Mine,Miranda Lambert,44,2011-02-26,2011-07-09,708,20
+143,Bottoms Up,Trey Songz Featuring Nicki Minaj,8,2011-01-01,2011-02-19,672,8
+144,Country Must Be Country Wide,Brantley Gilbert,50,2011-07-09,2011-12-03,672,21
+145,Who Are You When I'm Not Looking,Blake Shelton,46,2011-01-01,2011-04-02,670,14
+146,Long Hot Summer,Keith Urban,45,2011-07-30,2011-11-26,667,18
+147,Never Say Never,Justin Bieber Featuring Jaden Smith,8,2011-02-05,2011-05-07,666,14
+148,Tattoos On This Town,Jason Aldean,38,2011-10-08,2011-12-31,665,13
+149,Rain Over Me,Pitbull Featuring Marc Anthony,30,2011-07-02,2011-12-10,662,19
+150,Who Dat Girl,Flo Rida Featuring Akon,29,2011-01-01,2011-03-26,646,13
+151,Out Of My Head,Lupe Fiasco Featuring Trey Songz,40,2011-06-11,2011-10-01,644,17
+152,The Cave,Mumford & Sons,27,2011-02-19,2011-07-02,640,20
+153,Without You,Keith Urban,52,2011-03-26,2011-07-23,640,18
+154,Homeboy,Eric Church,53,2011-03-26,2011-08-20,640,21
+155,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,10,2011-10-29,2011-12-31,636,10
+156,Make Me Proud,Drake Featuring Nicki Minaj,9,2011-10-29,2011-12-31,635,10
+157,Dirty Dancer,Enrique Iglesias With Usher Featuring Lil Wayne,18,2011-05-28,2011-08-13,628,12
+158,Like A G6,Far*East Movement Featuring Cataracs & Dev,14,2011-01-01,2011-02-19,611,8
+159,Racks,YC Featuring Future,42,2011-04-16,2011-08-06,611,17
+160,Waiting For The End,Linkin Park,42,2011-01-01,2011-03-26,609,13
+161,Felt Good On My Lips,Tim McGraw,32,2011-01-01,2011-04-02,608,14
+162,This,Darius Rucker,51,2011-01-22,2011-05-28,608,19
+163,Just Fishin',Trace Adkins,61,2011-06-18,2011-10-29,587,20
+164,I Love You This Big,Scotty McCreery,11,2011-06-11,2011-09-24,586,16
+165,California King Bed,Rihanna,37,2011-06-04,2011-09-03,578,14
+166,John,Lil Wayne Featuring Rick Ross,22,2011-04-09,2011-08-20,575,20
+167,Strange Clouds,B.o.B Featuring Lil Wayne,7,2011-10-15,2011-12-31,567,12
+168,Fall For Your Type,Jamie Foxx Featuring Drake,50,2011-01-01,2011-04-23,567,17
+169,Please Don't Go,Mike Posner,20,2011-01-01,2011-02-19,565,8
+170,Keep Me In Mind,Zac Brown Band,35,2011-10-15,2011-12-31,552,12
+171,Animal,Neon Trees,23,2011-01-01,2011-02-19,550,8
+172,Never Gonna Leave This Bed,Maroon 5,55,2011-05-14,2011-09-10,545,18
+173,Brighter Than The Sun,Colbie Caillat,60,2011-09-03,2011-12-31,545,18
+174,Secrets,OneRepublic,25,2011-01-01,2011-02-19,542,8
+175,Red Solo Cup,Toby Keith,17,2011-11-12,2011-12-31,541,8
+176,Skyscraper,Demi Lovato,10,2011-07-30,2011-11-05,536,15
+177,All Your Life,The Band Perry,37,2011-09-24,2011-12-31,535,15
+178,Judas,Lady Gaga,10,2011-04-30,2011-06-25,519,8
+179,Drink In My Hand,Eric Church,40,2011-10-08,2011-12-31,514,13
+180,That Way,Wale Featuring Jeremih & Rick Ross,49,2011-09-10,2011-12-31,507,16
+181,You Be Killin Em,Fabolous,63,2011-01-01,2011-05-14,504,18
+182,The Adventures Of Rain Dance Maggie,Red Hot Chili Peppers,38,2011-08-06,2011-11-26,500,17
+183,When We Stand Together,Nickelback,44,2011-10-15,2011-12-31,500,12
+184,No Sleep,Wiz Khalifa,6,2011-04-09,2011-10-22,496,15
+185,Voices,Chris Young,53,2011-01-01,2011-04-02,486,14
+186,Aston Martin Music,Rick Ross Featuring Drake & Chrisette Michele,30,2011-01-01,2011-02-26,485,9
+187,Did It On'em,Nicki Minaj,49,2011-03-19,2011-06-25,483,15
+188,Set Fire To The Rain,Adele,13,2011-03-12,2011-12-31,473,16
+189,Run The World (Girls),Beyonce,29,2011-05-07,2011-07-30,472,13
+190,Right Above It,Lil Wayne Featuring Drake,25,2011-01-01,2011-02-12,470,7
+191,Bleed Red,Ronnie Dunn,62,2011-02-26,2011-06-25,467,18
+192,This Is Country Music,Brad Paisley,58,2011-01-08,2011-04-16,457,15
+193,I'm Into You,Jennifer Lopez Featuring Lil Wayne,41,2011-05-21,2011-09-10,450,15
+194,Love Done Gone,Billy Currington,58,2011-07-02,2011-10-08,449,15
+195,Rhythm of Love,Plain White T's,38,2011-01-01,2011-02-19,443,8
+196,Pretty Girls,Iyaz Featuring Travie McCoy,43,2011-07-16,2011-10-22,438,14
+197,You Da One,Rihanna,14,2011-11-26,2011-12-31,430,6
+198,I Like It,Enrique Iglesias Featuring Pitbull,32,2011-01-01,2011-02-12,427,7
+199,Party,Beyonce Featuring Andre 3000,50,2011-10-22,2011-12-31,423,11
+200,Man Down,Rihanna,59,2011-06-11,2011-09-10,420,14
+201,Right There,Nicole Scherzinger Featuring 50 Cent,39,2011-06-04,2011-08-20,418,12
+202,Whip My Hair,WILLOW,23,2011-01-01,2011-03-19,417,10
+203,Hello World,Lady Antebellum,58,2011-01-01,2011-04-09,416,15
+204,Let It Rain,David Nail Featuring Sarah Buxton,51,2011-10-01,2011-12-31,399,14
+205,Domino,Jessie J,28,2011-10-29,2011-12-31,398,10
+206,I Like It Like That,Hot Chelle Rae Featuring New Boyz,43,2011-10-22,2011-12-31,386,11
+207,Someone Else Calling You Baby,Luke Bryan,56,2011-01-01,2011-03-26,382,13
+208,Mistletoe,Justin Bieber,11,2011-11-05,2011-12-31,371,8
+209,Love Faces,Trey Songz,63,2011-02-12,2011-06-04,370,16
+210,The Motto,Drake Featuring Lil Wayne,18,2011-12-03,2011-12-31,369,5
+211,A Thousand Years,Christina Perri,43,2011-11-05,2011-12-31,365,9
+212,Maybe,Sick Puppies,56,2011-01-01,2011-03-19,364,12
+213,Hustle Hard,Ace Hood,60,2011-04-23,2011-08-06,363,16
+214,Put You In A Song,Keith Urban,53,2011-01-01,2011-02-26,356,9
+215,Lotus Flower Bomb,Wale Featuring Miguel,38,2011-11-12,2011-12-31,352,8
+216,Live A Little,Kenny Chesney,61,2011-03-26,2011-06-11,349,12
+217,Right Thru Me,Nicki Minaj,29,2011-01-01,2011-02-19,346,8
+218,I Just Had Sex,The Lonely Island Featuring Akon,30,2011-01-08,2011-03-19,346,11
+219,Kush,Dr. Dre Featuring Snoop Dogg & Akon,45,2011-01-01,2011-03-26,339,13
+220,Country Song,Seether,72,2011-03-26,2011-07-30,339,18
+221,Sing,My Chemical Romance,58,2011-02-26,2011-06-18,338,17
+222,Quickie,Miguel,62,2011-08-06,2011-11-05,329,14
+223,Club Can't Handle Me,Flo Rida Featuring David Guetta,30,2011-01-01,2011-01-29,326,5
+224,No BS,Chris Brown,62,2011-01-01,2011-04-23,324,17
+225,Take Care,Drake Featuring Rihanna,9,2011-12-03,2011-12-31,323,5
+226,I Got You,Thompson Square,68,2011-09-03,2011-12-31,322,18
+227,You,Chris Young,52,2011-11-05,2011-12-31,321,9
+228,One More Drinkin' Song,Jerrod Niemann,72,2011-08-13,2011-12-10,316,18
+229,No Love,Eminem Featuring Lil Wayne,29,2011-01-01,2011-01-29,308,5
+230,Dog Days Are Over,Florence + The Machine,54,2011-01-01,2011-02-12,305,7
+231,Buzzin',Mann,61,2011-01-29,2011-04-09,301,11
+232,I'm Gonna Love You Through It,Martina McBride,61,2011-09-10,2011-12-31,292,11
+233,Can't Be Friends,Trey Songz,49,2011-01-01,2011-02-12,280,7
+234,Marry The Night,Lady Gaga,29,2011-06-11,2011-12-31,277,6
+235,International Love,Pitbull Featuring Chris Brown,30,2011-06-18,2011-12-31,277,7
+236,Gucci Gucci,Kreayshawn,57,2011-08-13,2011-10-15,265,10
+237,Lay It Down,Lloyd,64,2011-01-01,2011-03-12,263,11
+238,Ours,Taylor Swift,13,2011-11-26,2011-12-31,261,6
+239,Bass Down Low,Dev Featuring The Cataracs,61,2011-01-01,2011-03-19,260,11
+240,Far Away,Marsha Ambrosius,74,2011-04-02,2011-08-06,259,18
+241,Heartbeat,The Fray,43,2011-10-29,2011-12-31,258,9
+242,The Story Of Us,Taylor Swift,66,2011-05-28,2011-08-06,255,11
+243,Memories,David Guetta Featuring Kid Cudi,50,2011-01-01,2011-02-19,249,8
+244,Love The Way You Lie,Eminem Featuring Rihanna,35,2011-01-01,2011-01-22,244,4
+245,Body 2 Body,Ace Hood Featuring Chris Brown,65,2011-10-01,2011-12-24,240,13
+246,Mama's Song,Carrie Underwood,58,2011-01-01,2011-02-12,238,7
+247,Stuck Like Glue,Sugarland,36,2011-01-01,2011-01-22,237,4
+248,Little Miss,Sugarland,71,2011-02-05,2011-04-30,234,13
+249,We No Speak Americano,Yolanda Be Cool & Dcup,56,2011-01-01,2011-02-12,233,7
+250,Mine,Taylor Swift,31,2011-01-01,2011-01-22,229,4
+251,Unusual,Trey Songz Featuring Drake,68,2011-06-18,2011-08-27,227,11
+252,My Kinda Party,Jason Aldean,43,2011-01-01,2011-01-22,224,4
+253,Who's That Chick?,David Guetta Featuring Rihanna,51,2011-01-22,2011-03-12,220,8
+254,From A Table Away,Sunny Sweeney,71,2011-01-22,2011-04-09,216,12
+255,Loser Like Me,Glee Cast,6,2011-04-02,2011-04-16,215,3
+256,I Can't Love You Back,Easton Corbin,76,2011-03-26,2011-06-04,213,11
+257,Sail,AWOLNATION,82,2011-09-03,2011-12-31,205,18
+258,Blackout,Breathe Carolina,49,2011-11-19,2011-12-31,204,7
+259,Hold My Hand,Michael Jackson Duet With Akon,39,2011-01-01,2011-01-29,197,5
+260,You The Boss,Rick Ross Featuring Nicki Minaj,67,2011-11-05,2011-12-31,190,9
+261,Criminal,Britney Spears,55,2011-10-29,2011-12-03,189,6
+262,H*A*M,Kanye West Jay Z,23,2011-01-29,2011-03-12,187,7
+263,Countdown,Beyonce,71,2011-10-29,2011-12-31,186,9
+264,Mrs. Right,Mindless Behavior Featuring Diggy,72,2011-08-27,2011-11-19,185,10
+265,Love Like Woe,The Ready Set,34,2011-01-01,2011-01-15,184,3
+266,Booty Wurk (One Cheek At A Time),T-Pain Featuring Joey Galaxy,44,2011-07-30,2011-09-10,182,7
+267,On My Level,Wiz Khalifa Featuring Too $hort,52,2011-03-12,2011-09-03,182,9
+268,Deuces,Chris Brown Featuring Tyga & Kevin McCall,38,2011-01-01,2011-01-15,176,3
+269,Wet The Bed,Chris Brown Feat. Ludacris,77,2011-09-24,2011-11-26,175,10
+270,Fire Flame,Birdman Featuring Lil Wayne,64,2011-01-01,2011-02-19,174,8
+271,Bring It Back,Travis Porter,75,2011-04-02,2011-06-04,173,10
+272,Mirror,Lil Wayne Featuring Bruno Mars,16,2011-09-17,2011-10-01,170,3
+273,Make A Movie,Twista Featuring Chris Brown,71,2011-01-01,2011-02-26,165,9
+274,"Save Me, San Francisco",Train,75,2011-07-09,2011-09-17,163,11
+275,I Do,Colbie Caillat,23,2011-02-26,2011-06-11,158,9
+276,Friday,Rebecca Black,58,2011-04-02,2011-05-07,154,6
+277,Freak The Freak Out,Victorious Cast Featuring Victoria Justice,50,2011-01-08,2011-02-05,153,5
+278,Rope,Foo Fighters,68,2011-03-19,2011-06-11,151,13
+279,If This Was A Movie,Taylor Swift,10,2011-11-26,2011-12-03,149,2
+280,Crawling Back To You,Daughtry,41,2011-10-22,2011-12-24,147,9
+281,Rumour Has It / Someone Like You,Glee Cast,11,2011-12-03,2011-12-17,145,3
+282,Boyfriend,Big Time Rush,72,2011-03-12,2011-06-04,145,11
+283,Little Lion Man,Mumford & Sons,45,2011-01-01,2011-03-05,144,4
+284,Wildflower,The JaneDear Girls,60,2011-01-29,2011-03-19,140,8
+285,Smile,Avril Lavigne,68,2011-07-23,2011-09-03,140,7
+286,Faster,Matt Nathanson,74,2011-08-13,2011-10-29,140,12
+287,Grove St. Party,Waka Flocka Flame Featuring Kebo Gotti,74,2011-04-02,2011-05-28,139,9
+288,Levels,Avicii,66,2011-12-03,2011-12-31,136,5
+289,Shake It Out,Florence + The Machine,79,2011-11-12,2011-12-31,132,8
+290,Walk,Foo Fighters,83,2011-07-23,2011-10-15,132,13
+291,I Smile,Kirk Franklin,85,2011-03-12,2011-08-13,132,18
+292,We Are Young,Glee Cast,12,2011-12-24,2011-12-31,131,2
+293,Turn Me On,David Guetta Featuring Nicki Minaj,37,2011-09-17,2011-12-31,130,3
+294,Home,Dierks Bentley,70,2011-11-26,2011-12-31,130,6
+295,Love On Top,Beyonce,20,2011-09-17,2011-12-31,127,5
+296,Lonely Boy,The Black Keys,64,2011-11-12,2011-12-31,127,6
+297,Blunt Blowin,Lil Wayne,33,2011-09-17,2011-10-08,125,4
+298,Rack City,Tyga,56,2011-12-10,2011-12-31,124,4
+299,Like My Mother Does,Lauren Alaina,20,2011-06-11,2011-06-18,122,2
+300,That's All She Wrote,T.I. Featuring Eminem,31,2011-01-01,2011-01-22,118,4
+301,Turn On The Radio,Reba,59,2011-01-01,2011-01-29,116,5
+302,Get It Right,Glee Cast,16,2011-04-02,2011-04-09,113,2
+303,Where You At,Jennifer Hudson,64,2011-03-26,2011-04-30,113,6
+304,Smoke A Little Smoke,Eric Church,80,2011-01-01,2011-02-12,113,7
+305,Landslide,Glee Cast Featuring Gwyneth Paltrow,23,2011-03-26,2011-04-02,109,2
+306,Tonight Is The Night,Outasight,61,2011-12-10,2011-12-31,109,4
+307,(It) Feels So Good,Steven Tyler,35,2011-05-28,2011-06-18,108,4
+308,Bullets In The Gun,Toby Keith,83,2011-01-01,2011-02-19,107,8
+309,Hit The Lights,Jay Sean Featuring Lil Wayne,18,2011-02-26,2011-03-05,106,2
+310,Princess Of China,Coldplay Featuring Rihanna,20,2011-11-12,2011-11-19,106,2
+311,Beautiful People,Chris Brown Featuring Benny Benassi,43,2011-09-17,2011-10-08,103,4
+312,Heartless,Dia Frampton,57,2011-06-25,2011-07-16,101,4
+313,Reality,Kenny Chesney,76,2011-11-19,2011-12-31,100,7
+314,The Breath You Take,George Strait,67,2011-01-01,2011-01-29,98,5
+315,Do The John Wall,Troop 41,76,2011-01-08,2011-03-05,98,8
+316,Beggin' On Your Knees,Victorious Cast Featuring Victoria Justice,58,2011-04-16,2011-05-07,97,4
+317,I Feel Pretty / Unpretty,Glee Cast,22,2011-05-14,2011-05-21,95,2
+318,Talk That Talk,Rihanna Featuring Jay-Z,31,2011-12-10,2011-12-17,94,2
+319,Fish,Craig Campbell,83,2011-08-13,2011-10-15,94,10
+320,Next To You,Chris Brown Featuring Justin Bieber,26,2011-04-09,2011-07-09,93,3
+321,Only Prettier,Miranda Lambert,68,2011-01-01,2011-01-22,91,4
+322,Welcome To My Hood,"DJ Khaled Featuring Rick Ross, Plies, Lil Wayne & T-Pain",79,2011-03-12,2011-04-23,91,7
+323,Hair,Lady Gaga,12,2011-06-04,2011-06-04,89,1
+324,Stitch By Stitch,Javier Colon,17,2011-07-16,2011-07-23,89,2
+325,Thriller / Heads Will Roll,Glee Cast,38,2011-02-19,2011-02-26,89,2
+326,Determinate,"Bridgit Mendler, Adam Hicks, Naomi Scott & Hayley Kiyoko",51,2011-04-30,2011-05-14,87,3
+327,As She's Walking Away,Zac Brown Band Featuring Alan Jackson,54,2011-01-01,2011-01-08,87,2
+328,Fast Lane,Bad Meets Evil,32,2011-05-21,2011-05-28,86,2
+329,Pray,Justin Bieber,61,2011-02-26,2011-03-19,86,4
+330,Can't Get Enough,J. Cole Featuring Trey Songz,65,2011-12-17,2011-12-31,85,3
+331,Somewhere Else,Toby Keith,80,2011-04-23,2011-06-25,85,8
+332,Rolling In The Deep,Glee Cast Featuring Jonathan Groff,29,2011-05-28,2011-06-04,83,2
+333,Rumour Has It,Adele,60,2011-08-13,2011-12-17,83,6
+334,Love Don't Run,Steve Holy,78,2011-09-10,2011-10-22,83,7
+335,Inventing Shadows,Dia Frampton,20,2011-07-16,2011-07-16,81,1
+336,Dedication To My Ex (Miss That),Lloyd Featuring Andre 3000 & Lil Wayne,79,2011-10-15,2011-11-12,81,5
+337,"Bills, Bills, Bills",Glee Cast,44,2011-02-19,2011-02-26,79,2
+338,Who Gon Stop Me,Jay Z Kanye West,44,2011-08-27,2011-09-03,79,2
+339,Bang Bang Pow Pow,T-Pain Featuring Lil Wayne,48,2011-12-24,2011-12-31,79,2
+340,Promise,Romeo Santos Featuring Usher,83,2011-11-05,2011-12-31,78,9
+341,The Trouble With Girls,Scotty McCreery,75,2011-09-24,2011-12-31,77,6
+342,T.H.E (The Hardest Ever),will.i.am Featuring Mick Jagger & Jennifer Lopez,36,2011-12-10,2011-12-17,76,2
+343,I Got Nothin',Darius Rucker,84,2011-10-01,2011-12-10,76,10
+344,Superman,Taylor Swift,26,2011-11-26,2011-11-26,75,1
+345,Firework,Glee Cast,34,2011-02-26,2011-03-05,73,2
+346,Family Man,Craig Campbell,84,2011-04-09,2011-05-14,72,6
+347,We Are Young,fun. Featuring Janelle Monae,53,2011-12-24,2011-12-31,71,2
+348,Frick Park Market,Mac Miller,60,2011-09-03,2011-09-10,71,2
+349,Police Dog Blues,Hugh Laurie,58,2011-09-24,2011-10-01,70,2
+350,Got 2 Luv U,Sean Paul Featuring Alexis Jordan,84,2011-10-01,2011-11-05,69,6
+351,Light Up The World,Glee Cast,33,2011-06-11,2011-06-11,68,1
+352,Friday,Glee Cast,34,2011-05-28,2011-06-04,68,2
+353,Need You Now,Glee Cast,62,2011-02-19,2011-02-26,68,2
+354,Runaway,Kanye West Featuring Pusha T,75,2011-01-01,2011-01-15,68,3
+355,Boom,Snoop Dogg Featuring T-Pain,76,2011-03-26,2011-04-23,68,4
+356,Wanted You More,Lady Antebellum,34,2011-09-24,2011-09-24,67,1
+357,Ballin',Young Jeezy Featuring Lil Wayne,57,2011-06-04,2011-08-06,67,5
+358,Monster,Paramore,36,2011-06-25,2011-07-02,66,2
+359,Raise Your Glass,Glee Cast,36,2011-04-02,2011-04-02,65,1
+360,Hell On Heels,Pistol Annies,55,2011-09-10,2011-09-24,65,3
+361,Sleazy Remix 2.0 Get Sleazier,"Ke$ha Featuring Lil Wayne, Wiz Khalifa, T.I. & Andre 3000",37,2011-12-31,2011-12-31,64,1
+362,Blackbird,Glee Cast,37,2011-04-02,2011-04-02,64,1
+363,Tongue Tied,Grouplove,69,2011-12-17,2011-12-31,63,3
+364,Pretending,Glee Cast,40,2011-06-11,2011-06-11,61,1
+365,I Like How It Feels,Enrique Iglesias Featuring Pitbull & The WAV.s,74,2011-10-22,2011-12-17,60,3
+366,Somewhere Only We Know,Glee Cast,42,2011-05-14,2011-05-14,59,1
+367,Losing My Religion,Dia Frampton,54,2011-07-09,2011-07-16,59,2
+368,Turning Tables,Adele,63,2011-05-07,2011-05-28,59,3
+369,Party On Fifth Ave.,Mac Miller,64,2011-11-19,2011-11-26,59,2
+370,Cost Of Livin',Ronnie Dunn,86,2011-09-10,2011-11-26,59,8
+371,Danza Kuduro,Don Omar & Lucenzo,82,2011-05-21,2011-06-18,58,5
+372,Born This Way,Glee Cast,44,2011-05-14,2011-05-14,57,1
+373,Man In The Mirror,Adam Levine & Javier Colon,45,2011-07-16,2011-07-16,56,1
+374,Go Your Own Way,Glee Cast,45,2011-05-21,2011-05-21,56,1
+375,Silly Love Songs,Glee Cast,45,2011-02-26,2011-02-26,56,1
+376,1+1,Beyonce,57,2011-06-11,2011-06-18,56,2
+377,9 Piece,Rick Ross Featuring Lil Wayne Or T.I.,61,2011-05-28,2011-06-04,55,2
+378,Roman In Moscow,Nicki Minaj,64,2011-12-17,2011-12-24,55,2
+379,When I Get You Alone,Glee Cast,47,2011-02-26,2011-02-26,54,1
+380,Baby,Glee Cast,47,2011-03-05,2011-03-05,54,1
+381,Sweat,Bow Wow Featuring Lil Wayne,48,2011-11-12,2011-11-12,53,1
+382,Novacane,Frank Ocean,82,2011-07-23,2011-08-13,53,4
+383,Don't You Want Me,Glee Cast,49,2011-03-12,2011-03-12,52,1
+384,Jar Of Hearts,Glee Cast,49,2011-05-28,2011-05-28,52,1
+385,Sing,Glee Cast,49,2011-03-05,2011-03-05,52,1
+386,Up All Night,Blink-182,65,2011-07-30,2011-08-06,52,2
+387,Why Wait,Rascal Flatts,65,2011-01-01,2011-01-15,52,3
+388,Anything Like Me,Brad Paisley,76,2011-01-01,2011-01-22,52,4
+389,Donald Trump,Mac Miller,79,2011-06-11,2011-07-23,52,5
+390,Dancin' Away With My Heart,Lady Antebellum,50,2011-09-17,2011-09-17,51,1
+391,Fix You,Javier Colon,52,2011-07-09,2011-07-16,51,2
+392,Marry You,Bruno Mars,85,2011-01-08,2011-02-12,51,6
+393,Survivor / I Will Survive,Glee Cast,51,2011-12-24,2011-12-24,50,1
+394,Take Me Or Leave Me,Glee Cast,51,2011-03-05,2011-03-05,50,1
+395,A Year Without Rain,Selena Gomez & The Scene,75,2011-01-08,2011-01-15,50,2
+396,MegaMan,Lil Wayne,52,2011-09-17,2011-09-17,49,1
+397,Misery,Glee Cast,52,2011-04-02,2011-04-02,49,1
+398,Far Away,Tyga Featuring Chris Richardson,86,2011-08-20,2011-10-15,49,7
+399,Run,Matt Nathanson Featuring Sugarland,53,2011-11-26,2011-11-26,48,1
+400,Fix You,Glee Cast,53,2011-10-22,2011-10-22,48,1
+401,Hell To The No,Glee Cast,53,2011-04-02,2011-04-02,48,1
+402,Don't Stop The Party,The Black Eyed Peas,86,2011-08-13,2011-09-03,48,4
+403,Blame It (On The Alcohol),Glee Cast,55,2011-03-12,2011-03-12,46,1
+404,Smile Back,Mac Miller,55,2011-11-26,2011-11-26,46,1
+405,Shake Senora,Pitbull Featuring T-Pain & Sean Paul,69,2011-07-09,2011-07-16,46,2
+406,Storm Warning,Hunter Hayes,85,2011-11-12,2011-12-31,46,5
+407,Fat Bottomed Girls,Glee Cast,56,2011-02-26,2011-02-26,45,1
+408,Best Friend's Brother,Victorious Cast Featuring Victoria Justice,86,2011-06-18,2011-07-09,45,4
+409,Do You Wanna Touch Me (Oh Yeah),Glee Cast Featuring Gwyneth Paltrow,57,2011-03-26,2011-03-26,44,1
+410,When I'm Gone,Wiz Khalifa,57,2011-04-16,2011-04-16,44,1
+411,I Won't Back Down,Blake Shelton & Dia Frampton,57,2011-07-16,2011-07-16,44,1
+412,Perfect,Glee Cast,57,2011-12-17,2011-12-17,44,1
+413,Footloose,Blake Shelton,63,2011-11-26,2011-12-03,44,2
+414,Christmas Song (Chestnuts Roasting On An Open Fire),Justin Bieber Featuring Usher,58,2011-11-12,2011-11-12,43,1
+415,P.Y.T. (Pretty Young Thing),Glee Cast,58,2011-02-26,2011-02-26,43,1
+416,For Good,Glee Cast,58,2011-06-11,2011-06-11,43,1
+417,Pure Imagination,Glee Cast,59,2011-06-04,2011-06-04,42,1
+418,Girls Just Want To Have Fun,Glee Cast,59,2011-12-17,2011-12-17,42,1
+419,Tik Tok,Glee Cast,61,2011-03-12,2011-03-12,40,1
+420,Alone With You,Jake Owen,72,2011-12-24,2011-12-31,40,2
+421,Wish You Were Here,Avril Lavigne,80,2011-03-26,2011-12-31,40,3
+422,Iridescent,Linkin Park,81,2011-06-18,2011-07-23,40,3
+423,Roman's Revenge,Nicki Minaj Featuring Eminem,84,2011-01-08,2011-02-12,40,4
+424,Animal,Glee Cast,62,2011-03-26,2011-03-26,39,1
+425,Red Nation,Game Featuring Lil Wayne,62,2011-04-30,2011-04-30,39,1
+426,Somebody To Love,Glee Cast,62,2011-03-05,2011-03-05,39,1
+427,Hangover,Taio Cruz Featuring Flo Rida,62,2011-10-22,2011-10-22,39,1
+428,Stronger (What Doesn't Kill You),Kelly Clarkson,64,2011-11-12,2011-12-03,39,2
+429,Georgia Clay,Josh Kelley,87,2011-04-09,2011-04-23,39,3
+430,Angel,Javier Colon,64,2011-07-02,2011-07-02,37,1
+431,It's Not Unusual,Glee Cast,65,2011-10-08,2011-10-08,36,1
+432,Where Have You Been,Rihanna,65,2011-12-10,2011-12-10,36,1
+433,Isn't She Lovely,Glee Cast,65,2011-05-28,2011-05-28,36,1
+434,Time After Time,Javier Colon,65,2011-05-14,2011-05-14,36,1
+435,My Body,Young The Giant,65,2011-09-17,2011-09-17,36,1
+436,I Kissed A Girl,Glee Cast,66,2011-12-17,2011-12-17,35,1
+437,Turning Tables,Glee Cast Featuring Gwyneth Paltrow,66,2011-05-07,2011-05-07,35,1
+438,Titanium,David Guetta Featuring Sia,66,2011-08-27,2011-08-27,35,1
+439,The Race,Wiz Khalifa,66,2011-03-26,2011-03-26,35,1
+440,Hit It Again,3OH!3,66,2011-01-08,2011-01-08,35,1
+441,I'm Flexin',T.I. Featuring Big K.R.I.T.,66,2011-10-22,2011-10-22,35,1
+442,Today Is Your Day,Shania Twain,66,2011-07-02,2011-07-02,35,1
+443,Jack Sparrow,The Lonely Island Featuring Michael Bolton,69,2011-05-28,2011-06-04,35,2
+444,You Can't Stop The Beat,Glee Cast,67,2011-10-08,2011-10-08,34,1
+445,Hate Sleeping Alone,Drake,67,2011-12-03,2011-12-03,34,1
+446,Shake Me Down,Cage The Elephant,78,2011-01-29,2011-04-09,34,4
+447,Country Strong,Gwyneth Paltrow,81,2011-01-22,2011-01-29,34,2
+448,Make It Rain,Travis Porter,92,2011-01-22,2011-02-26,34,6
+449,What You Want,Evanescence,68,2011-08-27,2011-08-27,33,1
+450,Y.U. Mad,Birdman Featuring Nicki Minaj & Lil Wayne,68,2011-10-08,2011-10-08,33,1
+451,Dog Days Are Over,Vicci Martinez,68,2011-07-09,2011-07-09,33,1
+452,Songbird,Glee Cast,68,2011-05-21,2011-05-21,33,1
+453,Uptown Girl,Glee Cast,68,2011-11-26,2011-11-26,33,1
+454,Bait A Hook,Justin Moore,83,2011-11-12,2011-12-31,33,3
+455,You And  I / You And I,Glee Cast,69,2011-12-03,2011-12-03,32,1
+456,The Story,Sara Ramirez,69,2011-04-16,2011-04-16,32,1
+457,Fix A Heart,Demi Lovato,69,2011-10-08,2011-10-08,32,1
+458,You Gonna Fly,Keith Urban,79,2011-12-24,2011-12-31,32,2
+459,Not Ready To Die,Avenged Sevenfold,70,2011-05-21,2011-05-21,31,1
+460,Little Bad Girl,David Guetta Featuring Taio Cruz & Ludacris,70,2011-07-16,2011-07-16,31,1
+461,Beautiful Lasers (2 Ways),Lupe Fiasco Featuring MDMA,70,2011-03-26,2011-03-26,31,1
+462,Tighten Up,The Black Keys,87,2011-01-22,2011-02-05,31,3
+463,Candles,Glee Cast,71,2011-04-02,2011-04-02,30,1
+464,I'm Not Gonna Teach Your Boyfriend To Dance With You,Glee Cast,72,2011-05-28,2011-05-28,29,1
+465,Last Friday Night,Glee Cast,72,2011-11-19,2011-11-19,29,1
+466,Pause,Pitbull,73,2011-06-25,2011-06-25,28,1
+467,Watch Me,Bella Thorne & Zendaya,86,2011-07-09,2011-07-30,28,3
+468,Born To Be Somebody,Justin Bieber,74,2011-03-05,2011-03-05,27,1
+469,Beautiful,Christina Aguilera & Beverly McClellan,74,2011-07-16,2011-07-16,27,1
+470,Rise Above 1,Reeve Carney Featuring Bono & The Edge,74,2011-06-11,2011-06-11,27,1
+471,Dancing Queen,Glee Cast,74,2011-05-28,2011-05-28,27,1
+472,Till I'm Gone,Tinie Tempah Featuring Wiz Khalifa,90,2011-08-20,2011-09-10,27,4
+473,I Won't Give Up,Jana Kramer,75,2011-02-26,2011-02-26,26,1
+474,Somewhere,Glee Cast,75,2011-10-15,2011-10-15,26,1
+475,Man In The Mirror,Glee Cast,76,2011-12-24,2011-12-24,25,1
+476,Jolene,Vicci Martinez,76,2011-07-02,2011-07-02,25,1
+477,Give In To Me,Garrett Hedlund & Leighton Meester,79,2011-01-29,2011-02-05,25,2
+478,Walking,Mary Mary,94,2011-03-19,2011-04-23,25,5
+479,Twisted,Gorilla Zoe Featuring Lil Jon,77,2011-03-19,2011-03-19,24,1
+480,What If,Colbie Caillat,77,2011-07-30,2011-07-30,24,1
+481,Under And Over It,Five Finger Death Punch,77,2011-08-20,2011-08-20,24,1
+482,Afraid To Sleep,Vicci Martinez,78,2011-07-16,2011-07-16,23,1
+483,We Don't Get Down Like Y'all,T.I. Featuring B.o.B.,78,2011-08-27,2011-08-27,23,1
+484,Angel,Akon,83,2011-05-07,2011-05-14,23,2
+485,Drunk On You,Luke Bryan,79,2011-08-27,2011-08-27,22,1
+486,Big Night,Big Time Rush,79,2011-01-15,2011-01-15,22,1
+487,Don't Stop,Glee Cast,79,2011-05-21,2011-05-21,22,1
+488,It's Good,Lil Wayne Featuring Drake & Jadakiss,79,2011-09-17,2011-09-17,22,1
+489,As If We Never Said Goodbye,Glee Cast,80,2011-05-14,2011-05-14,21,1
+490,I Can't Go For That / You Make My Dreams,Glee Cast,80,2011-12-03,2011-12-03,21,1
+491,Better Than I Used To Be,Tim McGraw,81,2011-12-31,2011-12-31,20,1
+492,Ambition,Wale Featuring Meek Mill & Rick Ross,81,2011-11-19,2011-11-19,20,1
+493,Never Going Back Again,Glee Cast,81,2011-05-21,2011-05-21,20,1
+494,Night Of Your Life,David Guetta Featuring Jennifer Hudson,81,2011-09-10,2011-09-10,20,1
+495,When You're Young,3 Doors Down,81,2011-02-19,2011-02-19,20,1
+496,"I Love New York / New York, New York",Glee Cast,81,2011-06-11,2011-06-11,20,1
+497,Camouflage,Brad Paisley,88,2011-12-17,2011-12-31,20,3
+498,Come Home,Faith Hill,82,2011-11-26,2011-11-26,19,1
+499,Back To Black,Glee Cast,82,2011-06-04,2011-06-04,19,1
+500,The Creep,The Lonely Island Featuring Nicki Minaj,82,2011-02-19,2011-02-19,19,1
+501,I Am Woman,Jordin Sparks,82,2011-05-28,2011-05-28,19,1
+502,Round Of Applause,Waka Flocka Flame Featuring Drake,86,2011-12-24,2011-12-31,19,2
+503,Kiss,Glee Cast,83,2011-03-26,2011-03-26,18,1
+504,Fight For You,Jason Derulo,83,2011-10-15,2011-10-15,18,1
+505,What Are Words,Chris Medina,83,2011-03-19,2011-03-19,18,1
+506,We Got The Beat,Glee Cast,83,2011-10-08,2011-10-08,18,1
+507,Christmas Lights,Coldplay,83,2011-01-01,2011-01-01,18,1
+508,Check It Out,will.i.am & Nicki Minaj,88,2011-01-08,2011-01-15,18,2
+509,Shake,Jesse McCartney,89,2011-01-08,2011-01-15,18,2
+510,How To Hate,Lil Wayne Featuring T-Pain,84,2011-09-17,2011-09-17,17,1
+511,Strip,Chris Brown Featuring Kevin K-MAC McCall,85,2011-12-10,2011-12-10,16,1
+512,Lights,Ellie Goulding,85,2011-08-20,2011-08-20,16,1
+513,I Am The Champion,B.o.B,85,2011-01-08,2011-01-08,16,1
+514,Calling All The Monsters,China Anne McClain,86,2011-10-15,2011-10-29,16,2
+515,I'm The Only One,Glee Cast,86,2011-12-17,2011-12-17,15,1
+516,Hit Me With Your Best Shot / One Way Or Another,Glee Cast,86,2011-12-03,2011-12-03,15,1
+517,Don't Hold Your Breath,Nicole Scherzinger,86,2011-09-03,2011-09-03,15,1
+518,All I Want For Christmas Is You (SuperFestive!),Justin Bieber Duet With Mariah Carey,86,2011-11-19,2011-11-19,15,1
+519,Country Boy,Aaron Lewis Featuring George Jones & Charlie Daniels,87,2011-03-12,2011-03-19,15,2
+520,All By Myself,Glee Cast,87,2011-05-07,2011-05-07,14,1
+521,Outlaw,50 Cent,87,2011-08-06,2011-08-06,14,1
+522,She's Not There,Glee Cast,87,2011-02-26,2011-02-26,14,1
+523,Ships In The Night,Mat Kearney,87,2011-08-20,2011-08-20,14,1
+524,Disaster,JoJo,87,2011-09-24,2011-09-24,14,1
+525,Body And Soul,Tony Bennett & Amy Winehouse,87,2011-10-01,2011-10-01,14,1
+526,Monster,"Kanye West Featuring Jay-Z, Rick Ross, Bon Iver & Nicki Minaj",92,2011-01-08,2011-01-22,14,3
+527,Breakthrough,"Bridgit Mendler, Adam Hicks, Naomi Scott & Hayley Kiyoko",88,2011-05-07,2011-05-07,13,1
+528,After Midnight,Blink-182,88,2011-10-15,2011-10-15,13,1
+529,ABC,Glee Cast,88,2011-12-24,2011-12-24,13,1
+530,Amen,Edens Edge,90,2011-12-24,2011-12-31,13,2
+531,Good Good Night,Roscoe Dash,91,2011-10-29,2011-12-31,13,2
+532,The Shape I'm In,Joe Nichols,91,2011-03-12,2011-03-19,13,2
+533,Constant Craving,Glee Cast,89,2011-12-17,2011-12-17,12,1
+534,Lullaby,Nickelback,89,2011-12-10,2011-12-10,12,1
+535,Somebody,Bridgit Mendler,89,2011-05-07,2011-05-07,12,1
+536,We'll Be Fine,Drake Featuring Birdman,89,2011-12-03,2011-12-03,12,1
+537,All I Want Is You,Miguel Featuring J. Cole,89,2011-01-01,2011-01-01,12,1
+538,Words I Never Said,Lupe Fiasco Featuring Skylar Grey,89,2011-02-26,2011-02-26,12,1
+539,The Ballad Of Mona Lisa,Panic! At The Disco,89,2011-02-19,2011-02-19,12,1
+540,Still Got It,Tyga Featuring Drake,89,2011-10-29,2011-10-29,12,1
+541,Barbra Streisand,Duck Sauce,89,2011-05-14,2011-05-14,12,1
+542,Help Is On The Way,Rise Against,89,2011-02-12,2011-02-12,12,1
+543,Black Horse And The Cherry Tree,Casey Weston,90,2011-07-02,2011-07-02,11,1
+544,Nightmares Of The Bottom,Lil Wayne,90,2011-09-17,2011-09-17,11,1
+545,Moving To Mars,Coldplay,90,2011-07-16,2011-07-16,11,1
+546,Forget You,Glee Cast Featuring Gwyneth Paltrow,90,2011-03-05,2011-03-05,11,1
+547,Arms,Christina Perri,94,2011-04-02,2011-09-10,11,2
+548,Boyfriend,New Hollow,96,2011-02-12,2011-02-26,11,3
+549,Loving You No More,Diddy - Dirty Money Featuring Drake,91,2011-01-01,2011-01-01,10,1
+550,What The Water Gave Me,Florence + The Machine,91,2011-09-10,2011-09-10,10,1
+551,Run The World (Girls),Glee Cast,91,2011-10-22,2011-10-22,10,1
+552,Papi,Jennifer Lopez,96,2011-05-07,2011-10-29,10,3
+553,See No More,Joe Jonas,92,2011-07-02,2011-07-02,9,1
+554,The Man Who Can't Be Moved,Xenia,92,2011-07-09,2011-07-09,9,1
+555,HYFR (Hell Ya F*****g Right),Drake Featuring Lil Wayne,92,2011-12-03,2011-12-03,9,1
+556,Major Minus,Coldplay,92,2011-07-16,2011-07-16,9,1
+557,I Wouldn't Be A Man,Josh Turner,92,2011-07-23,2011-07-23,9,1
+558,Do They Know It's Christmas?,Glee Cast,92,2011-12-31,2011-12-31,9,1
+559,Red Solo Cup,Glee Cast,92,2011-12-24,2011-12-24,9,1
+560,Dreams,Glee Cast Featuring Kristin Chenoweth,92,2011-05-21,2011-05-21,9,1
+561,U Smile,Justin Bieber,94,2011-03-05,2011-03-12,9,2
+562,Over You,Miranda Lambert,93,2011-11-19,2011-11-19,8,1
+563,As Long As You're There,Glee Cast,93,2011-06-11,2011-06-11,8,1
+564,When A Woman Loves,R. Kelly,93,2011-01-01,2011-01-01,8,1
+565,I'll Be Home For Christmas,Kelly Clarkson,93,2011-12-24,2011-12-24,8,1
+566,Oh My,"DJ Drama Featuring Fabolous, Roscoe Dash & Wiz Khalifa",95,2011-08-06,2011-08-20,8,3
+567,My Man,Glee Cast,94,2011-06-04,2011-06-04,7,1
+568,Stay The Night,James Blunt,94,2011-02-05,2011-02-05,7,1
+569,Lessons In Love,Kaskade Featuring Neon Trees,94,2011-11-12,2011-11-12,7,1
+570,President Carter,Lil Wayne,94,2011-09-17,2011-09-17,7,1
+571,Bang Bang Bang,Selena Gomez & The Scene,94,2011-06-25,2011-06-25,7,1
+572,September,Daughtry,95,2011-01-01,2011-01-01,6,1
+573,Pursuit Of Happiness (Nightmare),Kid Cudi Featuring MGMT & Ratatat,95,2011-01-08,2011-01-08,6,1
+574,Look It Up,Ashton Shepherd,95,2011-06-04,2011-06-04,6,1
+575,So Special,Lil Wayne Featuring John Legend,95,2011-09-17,2011-09-17,6,1
+576,A Woman Like You,Lee Brice,96,2011-12-31,2011-12-31,5,1
+577,Loca,Shakira Featuring El Cata or Dizzee Rascal,96,2011-01-01,2011-01-01,5,1
+578,It's Beginning To Look A Lot Like Christmas,Michael Buble,96,2011-12-17,2011-12-17,5,1
+579,F**k Him He's A DJ,Ke$ha,97,2011-04-09,2011-04-09,4,1
+580,Focused,Wale Featuring Kid Cudi,97,2011-11-05,2011-11-05,4,1
+581,Cat Daddy,Rej3ctz,97,2011-06-18,2011-06-18,4,1
+582,You,Romeo Santos,97,2011-06-25,2011-06-25,4,1
+583,Taboo,Don Omar,97,2011-07-23,2011-07-23,4,1
+584,So In Love,Jill Scott Featuring Anthony Hamilton,97,2011-07-09,2011-07-09,4,1
+585,Haunted,Taylor Swift,98,2011-11-26,2011-11-26,3,1
+586,Unbroken,Demi Lovato,98,2011-10-08,2011-10-08,3,1
+587,Letting Go (Dutty Love),Sean Kingston Featuring Nicki Minaj,98,2011-01-01,2011-01-01,3,1
+588,High,Big Sean Featuring Wiz Khalifa,98,2011-07-16,2011-07-16,3,1
+589,Porn Star Dancing,My Darkest Days Featuring Zakk Wylde,98,2011-01-22,2011-01-22,3,1
+590,Lost In Paradise,Evanescence,99,2011-10-29,2011-10-29,2,1
+591,Shake Up Christmas,Train,99,2011-01-08,2011-01-08,2,1
+592,Price Tag,Xenia,99,2011-07-02,2011-07-02,2,1
+593,21st Century Girl,WILLOW,99,2011-03-19,2011-03-19,2,1
+594,Closer To The Edge,Thirty Seconds To Mars,99,2011-05-21,2011-05-21,2,1
+595,All I Want For Christmas Is You,Michael Buble,99,2011-12-31,2011-12-31,2,1
+596,Whiskey,Jana Kramer,99,2011-05-14,2011-05-14,2,1
+597,"Baby, It's Cold Outside",Glee Cast,99,2011-01-01,2011-01-01,2,1
+598,Drummer Boy,Justin Bieber Featuring Busta Rhymes,99,2011-11-19,2011-11-19,2,1
+599,Lo Mejor De Mi Vida Eres Tu,Ricky Martin Featuring Natalia Jimenez,100,2011-02-19,2011-02-19,1,1
+600,You Don't Know Her Like I Do,Brantley Gilbert,100,2011-10-01,2011-10-01,1,1
+601,Teenage Daughters,Martina McBride,100,2011-06-25,2011-06-25,1,1
+602,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,100,2011-12-31,2011-12-31,1,1
+603,First Of The Year (Equinox),Skrillex,100,2011-11-19,2011-11-19,1,1
+604,El Verdadero Amor Perdona,Mana Featuring Prince Royce,100,2011-12-10,2011-12-10,1,1
+605,Shot For Me,Drake,100,2011-12-03,2011-12-03,1,1
+606,Dancing Crazy,Miranda Cosgrove,100,2011-04-02,2011-04-02,1,1
+607,"For You, And Your Denial",Yellowcard,100,2011-02-05,2011-02-05,1,1
+608,Opposite Of Adults,Chiddy Bang,100,2011-01-15,2011-01-15,1,1
+609,Oh Santa!,Mariah Carey,100,2011-01-01,2011-01-01,1,1
+610,Martians Vs Goblins,"Game Featuring Lil Wayne & Tyler, The Creator",100,2011-09-10,2011-09-10,1,1

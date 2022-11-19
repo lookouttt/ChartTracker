@@ -1,0 +1,681 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Alone Again (Naturally),Gilbert O'Sullivan,1,1972-06-17,1972-10-14,2442,18
+2,The First Time Ever I Saw Your Face,Roberta Flack,1,1972-03-04,1972-07-01,2420,18
+3,I Gotcha,Joe Tex,2,1972-01-22,1972-06-10,2281,21
+4,Brandy (You're A Fine Girl),Looking Glass,1,1972-06-17,1972-09-30,2123,16
+5,Without You,Nilsson,1,1972-01-01,1972-04-22,2100,17
+6,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",1,1972-03-11,1972-07-29,2082,21
+7,American Pie (Parts I & II),Don McLean,1,1972-01-01,1972-04-01,1989,14
+8,Baby Don't Get Hooked On Me,Mac Davis,1,1972-07-01,1972-10-28,1978,18
+9,I Can See Clearly Now,Johnny Nash,1,1972-09-09,1972-12-30,1946,17
+10,A Horse With No Name,America,1,1972-02-19,1972-05-20,1914,14
+11,I'll Take You There,The Staple Singers,1,1972-04-08,1972-07-15,1893,15
+12,Lean On Me,Bill Withers,1,1972-04-22,1972-08-26,1830,19
+13,I Am Woman,Helen Reddy,1,1972-06-24,1972-12-30,1827,19
+14,Let's Stay Together,Al Green,1,1972-01-01,1972-03-18,1816,12
+15,Heart Of Gold,Neil Young,1,1972-02-05,1972-05-06,1795,14
+16,Oh Girl,The Chi-lites,1,1972-04-08,1972-07-15,1784,15
+17,Nights In White Satin,The Moody Blues,2,1972-08-05,1972-12-02,1762,18
+18,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,3,1972-06-03,1972-09-16,1757,16
+19,Daddy Don't You Walk So Fast,Wayne Newton,4,1972-04-22,1972-09-02,1757,20
+20,The Lion Sleeps Tonight,Robert John,3,1972-01-01,1972-04-22,1688,17
+21,Long Cool Woman (In A Black Dress),The Hollies,2,1972-06-24,1972-09-30,1685,15
+22,Outa-Space,Billy Preston,2,1972-04-22,1972-08-12,1661,17
+23,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,2,1972-05-27,1972-08-26,1631,14
+24,Rockin' Robin,Michael Jackson,2,1972-03-11,1972-06-03,1597,13
+25,Precious And Few,Climax,3,1972-01-01,1972-04-08,1596,15
+26,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",3,1972-02-26,1972-06-10,1593,16
+27,Nice To Be With You,Gallery,4,1972-02-26,1972-07-22,1592,22
+28,Song Sung Blue,Neil Diamond,1,1972-05-06,1972-07-29,1591,13
+29,My Ding-A-Ling,Chuck Berry,1,1972-08-05,1972-11-25,1576,17
+30,Ben,Michael Jackson,1,1972-08-05,1972-11-18,1562,16
+31,Everybody Plays The Fool,The Main Ingredient,3,1972-07-15,1972-11-11,1526,18
+32,Back Stabbers,The O'Jays,3,1972-07-22,1972-10-28,1500,15
+33,Burning Love,Elvis Presley,2,1972-08-19,1972-11-25,1494,15
+34,Down By The Lazy River,The Osmonds,4,1972-01-22,1972-04-22,1427,14
+35,Brand New Key,Melanie,1,1972-01-01,1972-02-26,1421,9
+36,I'd Love You To Want Me,Lobo,2,1972-09-23,1972-12-23,1379,14
+37,Garden Party,Rick Nelson And The Stone Canyon Band,6,1972-07-29,1972-12-02,1379,19
+38,I'll Be Around,The Spinners,3,1972-09-16,1972-12-23,1368,15
+39,I'm Still In Love With You,Al Green,3,1972-07-08,1972-09-23,1348,12
+40,Hurting Each Other,Carpenters,2,1972-01-15,1972-04-01,1346,12
+41,Papa Was A Rollin' Stone,The Temptations,1,1972-10-14,1972-12-30,1345,12
+42,Go All The Way,Raspberries,5,1972-07-01,1972-10-28,1341,18
+43,If You Don't Know Me By Now,Harold Melvin And The Blue Notes,3,1972-09-30,1972-12-30,1338,14
+44,How Do You Do?,Mouth & MacNeal,8,1972-04-29,1972-09-02,1318,19
+45,"Freddie's Dead (Theme From ""Superfly"")",Curtis Mayfield,4,1972-08-19,1972-12-02,1315,16
+46,Where Is The Love,Roberta Flack & Donny Hathaway,5,1972-06-10,1972-09-02,1281,13
+47,Everything I Own,Bread,5,1972-01-29,1972-04-22,1270,13
+48,Use Me,Bill Withers,2,1972-08-26,1972-11-11,1263,12
+49,Popcorn,Hot Butter,9,1972-07-08,1972-11-04,1246,18
+50,Slippin' Into Darkness,War,16,1972-01-22,1972-06-17,1242,22
+51,Puppy Love,Donny Osmond,3,1972-02-26,1972-05-13,1237,12
+52,Rocket Man,Elton John,6,1972-05-06,1972-08-12,1235,15
+53,Look What You Done For Me,Al Green,4,1972-04-01,1972-06-17,1232,12
+54,Mother And Child Reunion,Paul Simon,4,1972-02-05,1972-04-29,1230,13
+55,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,8,1972-04-01,1972-07-15,1228,16
+56,You Ought To Be With Me,Al Green,3,1972-10-21,1972-12-30,1224,11
+57,Black & White,Three Dog Night,1,1972-08-12,1972-10-21,1220,11
+58,Morning Has Broken,Cat Stevens,6,1972-04-01,1972-07-01,1206,14
+59,Summer Breeze,Seals & Crofts,6,1972-09-09,1972-12-30,1200,17
+60,Hold Your Head Up,Argent,5,1972-06-17,1972-09-23,1197,15
+61,In The Rain,The Dramatics,5,1972-02-26,1972-05-20,1196,13
+62,Day Dreaming,Aretha Franklin,5,1972-03-18,1972-06-03,1195,12
+63,Saturday In The Park,Chicago,3,1972-08-05,1972-10-21,1186,12
+64,Sylvia's Mother,Dr. Hook And The Medicine Show,5,1972-04-01,1972-07-08,1147,15
+65,Never Been To Spain,Three Dog Night,5,1972-01-01,1972-03-11,1136,11
+66,Starting All Over Again,Mel And Tim,19,1972-07-08,1972-11-18,1136,20
+67,Jungle Fever,The Chakachas,8,1972-01-15,1972-04-22,1133,15
+68,Sunshine,Jonathan Edwards,4,1972-01-01,1972-02-26,1122,9
+69,Troglodyte (Cave Man),The Jimmy Castor Bunch,6,1972-05-13,1972-07-29,1122,12
+70,It Never Rains In Southern California,Albert Hammond,5,1972-10-21,1972-12-30,1115,11
+71,If I Could Reach You,The 5th Dimension,10,1972-09-09,1972-12-16,1100,15
+72,Joy,Apollo featuring Tom Parker,6,1972-01-01,1972-04-01,1092,14
+73,Day After Day,Badfinger,4,1972-01-01,1972-03-04,1084,10
+74,The Way Of Love,Cher,7,1972-01-29,1972-04-22,1082,13
+75,Beautiful Sunday,Daniel Boone,15,1972-06-03,1972-10-14,1075,20
+76,You Don't Mess Around With Jim,Jim Croce,8,1972-07-01,1972-09-23,1055,13
+77,Me And Mrs. Jones,Billy Paul,1,1972-11-04,1972-12-30,1053,9
+78,School's Out,Alice Cooper,7,1972-06-03,1972-08-26,1049,13
+79,Coconut,Nilsson,8,1972-06-10,1972-09-09,1034,14
+80,Bang A Gong (Get It On),T. Rex,10,1972-01-01,1972-04-08,1034,15
+81,A Cowboys Work Is Never Done,Sonny & Cher,8,1972-02-26,1972-05-20,1033,13
+82,The Happiest Girl In The Whole U.S.A.,Donna Fargo,11,1972-05-27,1972-09-09,1022,16
+83,The City Of New Orleans,Arlo Guthrie,18,1972-07-29,1972-11-11,1014,16
+84,Layla,Derek & The Dominos,10,1972-05-13,1972-08-19,1011,15
+85,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,9,1972-03-25,1972-06-24,1005,14
+86,Clair,Gilbert O'Sullivan,2,1972-10-28,1972-12-30,976,10
+87,Funny Face,Donna Fargo,6,1972-09-30,1972-12-30,966,14
+88,Witchy Woman,Eagles,9,1972-09-09,1972-12-02,955,13
+89,Don't Say You Don't Remember,Beverly Bremers,15,1972-01-01,1972-04-01,953,14
+90,Scorpio,Dennis Coffey & The Detroit Guitar Band,6,1972-01-01,1972-02-19,947,8
+91,Tumbling Dice,The Rolling Stones,7,1972-04-29,1972-07-01,932,10
+92,Doctor My Eyes,Jackson Browne,8,1972-03-18,1972-06-03,931,12
+93,Rock And Roll Part 2,Gary Glitter,7,1972-07-22,1972-09-30,927,11
+94,Good Time Charlie's Got The Blues,Danny O'Keefe,9,1972-09-02,1972-11-25,925,13
+95,Listen To The Music,The Doobie Brothers,11,1972-09-02,1972-11-25,904,13
+96,Ventura Highway,America,8,1972-10-21,1972-12-30,902,11
+97,Power Of Love,Joe Simon,11,1972-07-08,1972-10-14,900,15
+98,Taxi,Harry Chapin,24,1972-03-11,1972-06-24,897,16
+99,Sealed With A Kiss,Bobby Vinton,19,1972-06-10,1972-09-09,896,14
+100,I Believe In Music,Gallery,22,1972-08-12,1972-11-25,894,16
+101,I Saw The Light,Todd Rundgren,16,1972-04-08,1972-07-08,893,14
+102,Rockin' Pneumonia - Boogie Woogie Flu,Johnny Rivers,8,1972-10-07,1972-12-30,891,13
+103,Motorcycle Mama,Sailcat,12,1972-06-10,1972-09-16,887,15
+104,Day By Day,Godspell,13,1972-05-20,1972-08-19,884,14
+105,Roundabout,Yes,13,1972-02-12,1972-05-06,882,13
+106,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,21,1972-01-01,1972-04-08,881,15
+107,Clean Up Woman,Betty Wright,6,1972-01-01,1972-02-26,876,9
+108,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,12,1972-03-18,1972-06-03,866,12
+109,Baby Let Me Take You (In My Arms),Detroit Emeralds,24,1972-05-27,1972-09-16,865,17
+110,Goodbye To Love,Carpenters,7,1972-07-15,1972-09-16,862,10
+111,Speak To The Sky,Rick Springfield,14,1972-08-05,1972-10-28,854,13
+112,Walkin' In The Rain With The One I Love,Love Unlimited,14,1972-04-01,1972-07-01,844,14
+113,Get On The Good Foot-Part 1,James Brown,18,1972-08-05,1972-11-04,838,14
+114,Pop That Thang,The Isley Brothers,24,1972-07-01,1972-10-07,837,15
+115,Conquistador,Procol Harum,16,1972-05-27,1972-08-19,834,13
+116,Thunder And Lightning,Chi Coltrane,17,1972-09-02,1972-11-25,832,13
+117,I've Been Lonely For So Long,Frederick Knight,27,1972-04-22,1972-07-22,828,14
+118,Every Day Of My Life,Bobby Vinton,24,1972-01-29,1972-05-13,815,16
+119,I'm Stone In Love With You,The Stylistics,10,1972-10-14,1972-12-30,813,12
+120,Anticipation,Carly Simon,13,1972-01-01,1972-03-04,811,10
+121,Crazy Mama,J.J. Cale,22,1972-01-29,1972-04-29,811,14
+122,I Need You,America,9,1972-05-20,1972-07-22,804,10
+123,Why/Lonely Boy,Donny Osmond,13,1972-08-26,1972-11-11,804,12
+124,Tight Rope,Leon Russell,11,1972-08-26,1972-11-11,802,12
+125,Something's Wrong With Me,Austin Roberts,12,1972-10-14,1972-12-30,794,12
+126,Rock And Roll Lullaby,B.J. Thomas,15,1972-02-12,1972-04-22,791,11
+127,Operator (That's Not the Way it Feels),Jim Croce,17,1972-10-14,1972-12-30,783,12
+128,Sweet Seasons,Carole King,9,1972-01-29,1972-04-01,779,10
+129,Black Dog,Led Zeppelin,15,1972-01-01,1972-03-11,776,11
+130,Honky Cat,Elton John,8,1972-08-12,1972-10-14,773,10
+131,I Wanna Be Where You Are,Michael Jackson,16,1972-05-27,1972-08-05,773,11
+132,Back Off Boogaloo,Ringo Starr,9,1972-04-01,1972-06-03,771,10
+133,Play Me,Neil Diamond,11,1972-08-12,1972-10-21,767,11
+134,Take It Easy,Eagles,12,1972-06-03,1972-08-12,765,11
+135,Suavecito,Malo,18,1972-03-04,1972-05-20,764,12
+136,Floy Joy,The Supremes,16,1972-01-08,1972-03-25,760,12
+137,The Guitar Man,Bread,11,1972-07-29,1972-09-30,759,10
+138,Diary,Bread,15,1972-04-22,1972-07-01,758,11
+139,Taurus,Dennis Coffey & The Detroit Guitar Band,18,1972-02-19,1972-05-06,757,12
+140,Family Affair,Sly & The Family Stone,3,1972-01-01,1972-02-05,753,6
+141,Gone,Joey Heatherton,24,1972-05-27,1972-09-02,752,15
+142,Run To Me,Bee Gees,16,1972-07-29,1972-10-14,750,12
+143,The Witch Queen Of New Orleans,Redbone,21,1972-01-01,1972-03-11,749,11
+144,You Are Everything,The Stylistics,9,1972-01-01,1972-02-19,731,8
+145,We've Got To Get It On Again,Addrisi Brothers,25,1972-01-22,1972-04-08,724,12
+146,I'd Like To Teach The World To Sing (In Perfect Harmony),The New Seekers,7,1972-01-01,1972-02-12,722,7
+147,Crazy Horses,The Osmonds,14,1972-10-21,1972-12-30,721,11
+148,Kiss An Angel Good Mornin',Charley Pride,21,1972-01-01,1972-03-04,720,10
+149,Stay With Me,Faces,17,1972-01-01,1972-03-04,719,10
+150,Me And Julio Down By The Schoolyard,Paul Simon,22,1972-04-08,1972-06-17,711,11
+151,It's Going To Take Some Time,Carpenters,12,1972-04-29,1972-07-01,709,10
+152,Rock 'N Roll Soul,Grand Funk Railroad,29,1972-09-23,1972-12-16,700,13
+153,Ask Me What You Want,Millie Jackson,27,1972-03-25,1972-06-24,699,14
+154,Join Together,The Who,17,1972-07-22,1972-09-23,682,10
+155,Don't Ever Be Lonely (A Poor Little Fool Like Me),Cornelius Brothers & Sister Rose,23,1972-09-02,1972-11-11,682,11
+156,Baby Blue,Badfinger,14,1972-03-25,1972-05-27,680,10
+157,Amazing Grace,The Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guards,11,1972-05-20,1972-07-15,676,9
+158,The Family Of Man,Three Dog Night,12,1972-03-25,1972-05-20,675,9
+159,Drowning In The Sea Of Love,Joe Simon,11,1972-01-01,1972-02-19,672,8
+160,Little Bitty Pretty One,Jackson 5,13,1972-04-22,1972-06-17,671,9
+161,Too Young,Donny Osmond,13,1972-06-10,1972-08-05,670,9
+162,Fire And Water,Wilson Pickett,24,1972-01-01,1972-03-04,664,10
+163,Lookin' Through The Windows,Jackson 5,16,1972-07-15,1972-09-16,662,10
+164,People Make The World Go Round,The Stylistics,25,1972-06-03,1972-08-12,661,11
+165,Corner Of The Sky,Jackson 5,18,1972-10-28,1972-12-30,658,10
+166,Loving You Just Crossed My Mind,Sam Neely,29,1972-09-02,1972-11-18,657,12
+167,You Wear It Well,Rod Stewart,13,1972-08-26,1972-10-28,652,10
+168,That's The Way I Feel About Cha,Bobby Womack & Peace,27,1972-01-01,1972-03-04,652,10
+169,You're Still A Young Man,Tower Of Power,29,1972-07-15,1972-09-30,646,12
+170,"You Want It, You Got It",Detroit Emeralds,36,1972-01-08,1972-04-01,642,13
+171,Small Beginnings,Flash,29,1972-06-24,1972-09-09,636,12
+172,Hold Her Tight,The Osmonds,14,1972-07-01,1972-08-26,632,9
+173,Do Your Thing,Isaac Hayes,30,1972-02-26,1972-05-06,629,11
+174,Sweet Inspiration/Where You Lead,Barbra Streisand,37,1972-06-24,1972-09-09,626,12
+175,Dialogue (Part I & II),Chicago,24,1972-10-28,1972-12-30,621,10
+176,American City Suite,Cashman & West,27,1972-09-23,1972-12-02,619,11
+177,Convention '72,The Delegates,8,1972-10-21,1972-12-09,618,8
+178,The Day I Found Myself,The Honey Cone,23,1972-02-19,1972-04-29,616,11
+179,Sugar Daddy,Jackson 5,10,1972-01-01,1972-02-12,614,7
+180,Runnin' Away,Sly & The Family Stone,23,1972-02-05,1972-04-08,613,10
+181,Sweet Surrender,Bread,15,1972-11-11,1972-12-30,592,8
+182,Got To Be There,Michael Jackson,5,1972-01-01,1972-01-29,591,5
+183,Don't Do It,The Band,34,1972-09-16,1972-11-25,589,11
+184,Run Run Run,Jo Jo Gunne,27,1972-03-18,1972-05-27,588,11
+185,Superwoman (Where Were You When I Needed You),Stevie Wonder,33,1972-05-20,1972-07-29,588,11
+186,Spaceman,Nilsson,23,1972-09-16,1972-11-18,586,10
+187,Living In The Past,Jethro Tull,13,1972-11-04,1972-12-30,582,9
+188,Isn't Life Strange,The Moody Blues,29,1972-04-22,1972-06-24,580,10
+189,We're Free,Beverly Bremers,40,1972-04-29,1972-08-05,576,15
+190,Softly Whispering I Love You,The English Congregation,29,1972-01-22,1972-03-25,575,10
+191,Sunny Days,Lighthouse,34,1972-10-07,1972-12-23,574,12
+192,I'd Like To Teach The World To Sing (In Perfect Harmony),The Hillside Singers,13,1972-01-01,1972-02-12,570,7
+193,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Donnie Elbert,22,1972-01-29,1972-03-25,570,9
+194,My World,Bee Gees,16,1972-01-29,1972-03-18,568,8
+195,Easy Livin,Uriah Heep,39,1972-07-29,1972-10-14,561,12
+196,Let It Rain,Eric Clapton,48,1972-09-23,1972-12-16,559,13
+197,How Can I Be Sure,David Cassidy,25,1972-05-20,1972-07-15,557,9
+198,All The Young Dudes,Mott The Hoople,37,1972-09-23,1972-12-02,555,11
+199,"Love Theme From ""The Godfather"" (Speak Softly Love)",Andy Williams,34,1972-04-08,1972-06-17,547,11
+200,Levon,Elton John,24,1972-01-01,1972-02-19,546,8
+201,Footstompin' Music,Grand Funk Railroad,29,1972-01-08,1972-03-18,539,11
+202,You Could Have Been A Lady,April Wine,32,1972-03-25,1972-06-03,537,11
+203,Keeper Of The Castle,Four Tops,11,1972-11-11,1972-12-30,536,8
+204,Walk On Water,Neil Diamond,17,1972-11-11,1972-12-30,531,8
+205,Geronimo's Cadillac,Michael Murphey,37,1972-08-05,1972-10-28,531,13
+206,I'm Coming Home,Stories,42,1972-06-17,1972-09-02,531,12
+207,Jump Into The Fire,Nilsson,27,1972-03-18,1972-05-13,523,9
+208,Make Me The Woman That You Go Home To,Gladys Knight And The Pips,27,1972-01-01,1972-02-19,517,8
+209,Breaking Up Is Hard To Do,The Partridge Family Starring Shirley Jones Featuring David Cassidy,28,1972-07-01,1972-09-02,516,10
+210,From The Beginning,"Emerson, Lake & Palmer",39,1972-08-26,1972-11-04,516,11
+211,Superfly,Curtis Mayfield,9,1972-11-18,1972-12-30,515,7
+212,Living In A House Divided,Cher,22,1972-05-20,1972-07-08,511,8
+213,Elected,Alice Cooper,26,1972-10-07,1972-11-25,511,8
+214,Glory Bound,The Grass Roots,34,1972-02-12,1972-04-15,510,10
+215,When You Say Love,Sonny & Cher,32,1972-07-08,1972-09-09,503,10
+216,Give Ireland Back To The Irish,Wings,21,1972-03-11,1972-04-29,501,8
+217,Happy,The Rolling Stones,22,1972-07-15,1972-09-02,501,8
+218,Long Dark Road,The Hollies,26,1972-11-04,1972-12-30,501,9
+219,Someday Never Comes,Creedence Clearwater Revival,25,1972-05-06,1972-06-24,500,8
+220,No One To Depend On,Santana,36,1972-02-12,1972-04-08,500,9
+221,All The Kings Horses,Aretha Franklin,26,1972-06-03,1972-07-22,499,8
+222,Feeling Alright,Joe Cocker,33,1972-01-08,1972-03-04,499,9
+223,Your Mama Don't Dance,Kenny Loggins & Jim Messina,10,1972-11-11,1972-12-30,495,8
+224,That's How Love Goes,Jermaine Jackson,46,1972-09-16,1972-11-25,495,11
+225,Ring The Living Bell,Melanie,31,1972-01-29,1972-03-25,493,9
+226,The Nickel Song,Melanie,35,1972-01-22,1972-03-25,493,10
+227,Could It Be Forever,David Cassidy,37,1972-02-19,1972-04-15,486,9
+228,Walk In The Night,Jr. Walker & The All Stars,46,1972-04-01,1972-06-17,483,12
+229,Midnight Rider,Joe Cocker and The Chris Stainton Band,27,1972-09-16,1972-11-04,482,8
+230,Life And Breath,Climax featuring Sonny Geraci,52,1972-05-06,1972-09-16,476,15
+231,Hey Girl/I Knew You When,Donny Osmond,9,1972-01-01,1972-01-29,474,5
+232,Old Man,Neil Young,31,1972-04-29,1972-06-24,474,9
+233,Now Run And Tell That,Denise LaSalle,46,1972-02-05,1972-04-15,473,11
+234,Chantilly Lace,Jerry Lee Lewis,43,1972-03-04,1972-05-06,469,10
+235,In The Ghetto,Candi Staton,48,1972-06-24,1972-09-02,467,11
+236,Take A Look Around,The Temptations,30,1972-03-04,1972-04-22,465,8
+237,What Am I Crying For?,Dennis Yost And The Classics IV,39,1972-10-21,1972-12-30,464,11
+238,Help Me Make It Through The Night,Gladys Knight And The Pips,33,1972-03-25,1972-05-13,463,8
+239,Together Let's Find Love,The 5th Dimension,37,1972-01-01,1972-03-04,460,10
+240,Automatically Sunshine,The Supremes,37,1972-05-06,1972-07-01,454,9
+241,Immigration Man,Graham Nash & David Crosby,36,1972-05-06,1972-07-01,452,9
+242,It's One Of Those Nights (Yes Love),The Partridge Family Starring Shirley Jones Featuring David Cassidy,20,1972-01-01,1972-02-05,451,6
+243,After Midnight,J.J. Cale,42,1972-05-20,1972-07-29,451,11
+244,No,Bulldog,44,1972-10-14,1972-12-30,451,12
+245,I Didn't Know I Loved You (Till I Saw You Rock And Roll),Gary Glitter,35,1972-11-04,1972-12-30,450,9
+246,"My Man, A Sweet Man",Millie Jackson,42,1972-08-05,1972-10-07,450,10
+247,Theme From The Men,Isaac Hayes,38,1972-10-21,1972-12-16,447,9
+248,Sitting,Cat Stevens,18,1972-11-18,1972-12-30,443,7
+249,The Runway,The Grass Roots,39,1972-06-17,1972-08-12,443,9
+250,Woman Don't Go Astray,King Floyd,53,1972-09-16,1972-12-02,442,12
+251,A Piece Of Paper,Gladstone,45,1972-08-26,1972-11-04,438,11
+252,We've Come Too Far To End It Now,Smokey Robinson & The Miracles,46,1972-06-24,1972-08-26,436,10
+253,Talking Loud And Saying Nothing - Part I,James Brown,27,1972-02-12,1972-03-25,432,7
+254,If You Leave Me Tonight I'll Cry,Jerry Wallace,38,1972-08-19,1972-10-14,432,9
+255,Until It's Time For You To Go,Elvis Presley,40,1972-01-29,1972-03-25,431,9
+256,So Long Dixie,"Blood, Sweat & Tears",44,1972-09-30,1972-12-09,426,11
+257,Long Haired Lover From Liverpool,Little Jimmy Osmond with The Mike Curb Congregation,38,1972-04-22,1972-06-24,425,10
+258,Once You Understand,Think,23,1972-01-01,1972-02-05,424,6
+259,Superstition,Stevie Wonder,16,1972-11-18,1972-12-30,414,7
+260,Baby Sitter,Betty Wright,46,1972-10-14,1972-12-16,412,10
+261,One Monkey Don't Stop No Show Part I,The Honey Cone,15,1972-01-01,1972-01-29,408,5
+262,Rock Me Baby,David Cassidy,38,1972-09-09,1972-10-28,408,8
+263,Alive,Bee Gees,34,1972-11-18,1972-12-30,406,7
+264,Be My Lover,Alice Cooper,49,1972-03-11,1972-05-13,403,10
+265,Hearsay,The Soul Children,44,1972-03-18,1972-05-27,402,11
+266,An Old Fashioned Love Song,Three Dog Night,4,1972-01-01,1972-01-22,397,4
+267,You Said A Bad Word,Joe Tex,41,1972-05-20,1972-07-08,396,8
+268,Pieces Of April,Three Dog Night,23,1972-11-18,1972-12-30,395,7
+269,Everything Good Is Bad,100 Proof Aged in Soul,45,1972-04-01,1972-06-10,393,11
+270,Mary Had A Little Lamb/Little Woman Love,Wings,28,1972-06-17,1972-07-29,391,7
+271,You're So Vain,Carly Simon,4,1972-12-02,1972-12-30,386,5
+272,Cherish,David Cassidy,9,1972-01-01,1972-01-22,385,4
+273,Iron Man,Black Sabbath,52,1972-01-29,1972-04-01,383,10
+274,Hey Big Brother,Rare Earth,19,1972-01-01,1972-01-29,382,5
+275,This World,The Staple Singers,38,1972-08-05,1972-09-16,382,7
+276,Honky Tonk - Part 1,The James Brown Soul Train,44,1972-06-24,1972-08-12,380,8
+277,The Coldest Days Of My Life (Part 1),The Chi-lites,47,1972-07-15,1972-09-09,379,9
+278,Show Me How,The Emotions,52,1972-01-01,1972-02-26,377,9
+279,King Heroin,James Brown,40,1972-03-04,1972-04-15,374,7
+280,In Heaven There Is No Beer,Clean Living,49,1972-11-04,1972-12-30,373,9
+281,Have You Seen Her,The Chi-lites,6,1972-01-01,1972-01-22,372,4
+282,"Love Me, Love Me Love",Frank Mills,46,1972-01-29,1972-03-25,372,9
+283,Rock Me On The Water,Jackson Browne,48,1972-08-05,1972-09-30,371,9
+284,Lay-Away,The Isley Brothers,54,1972-04-01,1972-05-27,368,9
+285,Sweet Caroline (Good Times Never Seemed So Good),Bobby Womack & Peace,51,1972-08-26,1972-10-21,360,9
+286,Pool Of Bad Luck,Joe Simon,42,1972-03-25,1972-05-13,359,8
+287,Dancing In The Moonlight,King Harvest,43,1972-10-28,1972-12-30,359,10
+288,(It's The Way) Nature Planned It,Four Tops,53,1972-09-09,1972-11-04,359,9
+289,You Are The One,Sugar Bears,51,1972-03-11,1972-06-03,358,13
+290,We're On Our Way,Chris Hodge,44,1972-06-03,1972-07-22,357,8
+291,I Wanna Be With You,Raspberries,28,1972-11-25,1972-12-30,356,6
+292,Can't You Hear The Song?,Wayne Newton,48,1972-09-23,1972-11-11,355,8
+293,Lies,J.J. Cale,42,1972-11-04,1972-12-23,354,8
+294,Daisy Mae,"Hamilton, Joe Frank & Reynolds",41,1972-01-01,1972-02-12,353,7
+295,Do The Funky Penguin Part I,Rufus Thomas,44,1972-01-01,1972-02-26,352,9
+296,Put It Where You Want It,The Crusaders,52,1972-07-15,1972-09-09,348,9
+297,Mister Can't You See,Buffy Sainte-Marie,38,1972-04-01,1972-05-20,347,8
+298,Legend In Your Own Time,Carly Simon,50,1972-03-25,1972-05-27,346,10
+299,Been To Canaan,Carole King,26,1972-11-25,1972-12-30,342,6
+300,Don't Hide Your Love,Cher,46,1972-09-09,1972-10-28,342,8
+301,Son Of My Father,Giorgio,46,1972-03-04,1972-04-22,341,8
+302,To Get To You,Jerry Wallace,48,1972-03-18,1972-06-03,339,12
+303,Beautiful,Gordon Lightfoot,58,1972-05-27,1972-08-05,337,11
+304,Looking For A Love,The J. Geils Band,39,1972-01-01,1972-02-05,332,6
+305,I Miss You (Part I),Harold Melvin And The Blue Notes,58,1972-07-01,1972-08-26,330,9
+306,A Simple Man,Lobo,56,1972-07-08,1972-09-02,329,9
+307,Slaughter,Billy Preston,50,1972-09-09,1972-10-28,328,8
+308,Tiny Dancer,Elton John,41,1972-03-04,1972-04-15,326,7
+309,"White Lies, Blue Eyes",Bullet,28,1972-01-01,1972-01-29,325,5
+310,Let's Stay Together,Isaac Hayes,48,1972-04-01,1972-05-13,325,7
+311,Afro-Strut,The Nite-Liters,49,1972-02-26,1972-04-15,325,8
+312,Smilin',Sly & The Family Stone,42,1972-04-22,1972-06-03,321,7
+313,Don't Let Me Be Lonely Tonight,James Taylor,21,1972-12-02,1972-12-30,318,5
+314,There It Is (Part 1),James Brown,43,1972-05-06,1972-06-17,318,7
+315,All I Ever Need Is You,Sonny & Cher,11,1972-01-01,1972-01-22,316,4
+316,Rock And Roll,Led Zeppelin,47,1972-03-18,1972-04-29,316,7
+317,Zing Went The Strings Of My Heart,The Trammps,64,1972-07-08,1972-09-16,316,11
+318,I Got A Bag Of My Own,James Brown,44,1972-11-18,1972-12-30,313,7
+319,Hot 'N' Nasty,Humble Pie,52,1972-05-06,1972-06-24,312,8
+320,Son Of Shaft,The Bar-Kays,53,1972-01-01,1972-02-26,312,9
+321,Work To Do,The Isley Brothers,51,1972-10-28,1972-12-16,311,8
+322,Smoke Gets In Your Eyes,Blue Haze,31,1972-11-11,1972-12-30,309,8
+323,"You Turn Me On, I'm A Radio",Joni Mitchell,40,1972-11-11,1972-12-30,308,8
+324,Poor Boy,Casey Kelly,52,1972-09-23,1972-11-18,307,9
+325,Angel,Rod Stewart,40,1972-11-18,1972-12-30,305,7
+326,Man Sized Job,Denise LaSalle,55,1972-10-07,1972-12-02,303,9
+327,Those Were The Days,Carroll O'Connor And Jean Stapleton (As The Bunkers),43,1972-01-01,1972-02-05,302,6
+328,America,Yes,46,1972-08-12,1972-09-23,302,7
+329,Powder Blue Mercedes Queen,The Raiders,54,1972-05-20,1972-07-08,302,8
+330,In A Broken Dream,Python Lee Jackson,56,1972-05-27,1972-07-29,297,10
+331,Brown Eyed Girl,El Chicano,45,1972-06-17,1972-07-29,296,7
+332,Handbags And Gladrags,Rod Stewart,42,1972-02-12,1972-03-18,292,6
+333,Heartbroken Bopper,The Guess Who,47,1972-03-04,1972-04-15,290,7
+334,"For Emily, Whenever I May Find Her",Simon & Garfunkel,53,1972-09-02,1972-10-14,288,7
+335,Woman's Gotta Have It,(The Preacher) Bobby Womack,60,1972-05-06,1972-07-01,287,9
+336,Tupelo Honey,Van Morrison,47,1972-01-01,1972-02-19,286,8
+337,Duncan,Paul Simon,52,1972-07-08,1972-08-19,286,7
+338,The Harder I Try (The Bluer I Get),Free Movement,50,1972-01-01,1972-02-12,281,7
+339,992 Arguments,The O'Jays,57,1972-11-11,1972-12-30,281,8
+340,My Boy,Richard Harris,41,1972-01-01,1972-01-29,280,5
+341,Me And Bobby McGee,Jerry Lee Lewis,40,1972-01-01,1972-01-29,278,5
+342,Diamonds Are Forever,Shirley Bassey,57,1972-01-29,1972-03-25,275,9
+343,Wedding Song (There Is Love),Petula Clark,61,1972-10-07,1972-12-09,275,10
+344,Brian's Song,Michel Legrand,56,1972-01-29,1972-03-18,272,8
+345,And You And I (Part II),Yes,42,1972-11-11,1972-12-23,270,7
+346,Money Runner,Quincy Jones,57,1972-03-11,1972-04-29,269,8
+347,I Had It All The Time,Tyrone Davis,61,1972-03-25,1972-05-20,269,9
+348,Why Can't We Live Together,Timmy Thomas,24,1972-11-25,1972-12-30,267,6
+349,Rip Off,Laura Lee,68,1972-06-10,1972-08-19,267,11
+350,I'm Movin' On,John Kay,52,1972-04-22,1972-06-03,262,7
+351,Why Can't We Be Lovers,Holland-Dozier,57,1972-09-30,1972-12-02,262,10
+352,"Your Wonderful, Sweet Sweet Love",The Supremes,59,1972-08-05,1972-09-23,262,8
+353,Separate Ways,Elvis Presley,34,1972-12-02,1972-12-30,261,5
+354,Cheer,Potliquor,65,1972-02-05,1972-04-15,260,11
+355,One Night Affair,Jerry Butler,52,1972-11-04,1972-12-16,258,7
+356,"Oh, Babe, What Would You Say?",Hurricane Smith,30,1972-12-02,1972-12-30,257,5
+357,Rocky Mountain High,John Denver,41,1972-11-25,1972-12-30,252,6
+358,Country Wine,The Raiders,51,1972-01-29,1972-03-04,251,6
+359,It Doesn't Matter,Stephen Stills,61,1972-05-27,1972-07-08,251,7
+360,I'll Make You Music,Beverly Bremers,63,1972-09-16,1972-11-11,250,9
+361,Funk Factory,Wilson Pickett,58,1972-05-27,1972-07-15,249,8
+362,We Can Make It Together,Steve & Eydie Featuring The Osmonds,68,1972-09-16,1972-11-18,249,10
+363,Waking Up Alone,Paul Williams,60,1972-02-19,1972-04-15,248,9
+364,Ain't Nobody Home,B.B. King,46,1972-01-01,1972-01-29,246,5
+365,"Love Theme From ""The Godfather""",Carlo Savina,66,1972-04-22,1972-06-17,245,9
+366,My Guy,Petula Clark,70,1972-06-10,1972-09-02,243,13
+367,George Jackson,Bob Dylan,33,1972-01-01,1972-01-22,240,4
+368,Respect Yourself,The Staple Singers,15,1972-01-01,1972-01-15,238,3
+369,Goin' Down (On The Road To L.A.),Terry Black & Laurel Ward,57,1972-02-12,1972-04-01,237,8
+370,Guess Who/Them Changes,B.B. King,62,1972-08-19,1972-10-28,237,11
+371,Victim Of A Foolish Heart,Bettye Swann,63,1972-05-27,1972-07-22,237,9
+372,Crocodile Rock,Elton John,20,1972-12-09,1972-12-30,235,4
+373,Way Back Home,Jr. Walker & The All Stars,52,1972-01-01,1972-02-05,233,6
+374,The World Is A Ghetto,War,35,1972-11-18,1972-12-30,232,7
+375,Under My Wheels,Alice Cooper,59,1972-01-01,1972-02-12,230,7
+376,If You Let Me,Eddie Kendricks,66,1972-10-07,1972-11-25,226,8
+377,Trouble In My Home/I Found My Dad,Joe Simon,50,1972-12-02,1972-12-30,225,5
+378,Do It Again,Steely Dan,37,1972-11-18,1972-12-30,224,7
+379,Special Someone,The Heywoods,64,1972-10-28,1972-12-16,224,8
+380,Am I Losing You,The Partridge Family Starring Shirley Jones Featuring David Cassidy,59,1972-04-01,1972-05-13,223,7
+381,(Oh Lord Won't You Buy Me A) Mercedes Benz,Goose Creek Symphony,64,1972-01-29,1972-03-25,223,9
+382,You're The Man (Part 1),Marvin Gaye,50,1972-05-20,1972-06-17,222,5
+383,Alabama Wild Man,Jerry Reed,62,1972-07-15,1972-09-02,218,8
+384,Good Time Sally,Rare Earth,67,1972-11-04,1972-12-23,218,8
+385,Louisianna,Mike Kennedy,62,1972-03-04,1972-04-15,216,7
+386,An American Trilogy,Mickey Newbury,26,1972-01-01,1972-01-15,215,3
+387,Love Gonna Pack Up (And Walk Out),The Persuaders,64,1972-01-01,1972-02-26,215,9
+388,That's The Way God Planned It,Billy Preston,65,1972-07-08,1972-09-09,213,10
+389,Francene,ZZ Top,69,1972-05-20,1972-07-15,206,9
+390,Toast To The Fool,The Dramatics,67,1972-08-26,1972-10-21,203,9
+391,What Am I Living For,Ray Charles,54,1972-01-01,1972-02-05,202,6
+392,War Song,Neil Young & Graham Nash,61,1972-07-01,1972-08-05,202,6
+393,In Time,Engelbert Humperdinck,69,1972-08-05,1972-09-23,202,8
+394,In The Quiet Morning,Joan Baez,69,1972-07-29,1972-09-16,201,8
+395,Down To The Nightclub,Tower Of Power,66,1972-10-21,1972-12-09,199,8
+396,Men Of Learning,Vigrass & Osborne,65,1972-06-17,1972-07-29,197,7
+397,Sour Suite,The Guess Who,50,1972-01-01,1972-01-22,196,4
+398,If You Can Beat Me Rockin' (You Can Have My Chair),Laura Lee,65,1972-09-30,1972-11-18,196,8
+399,Everybody Knows About My Good Thing Pt. 1,Little Johnny Taylor,60,1972-01-01,1972-01-29,195,5
+400,Jackie Wilson Said (I'm In Heaven When You Smile),Van Morrison,61,1972-08-19,1972-09-23,193,6
+401,(I Know) I'm Losing You,Rod Stewart With Faces,29,1972-01-01,1972-01-15,191,3
+402,Nothing To Hide,Tommy James,41,1972-01-01,1972-01-22,189,4
+403,Everybody Loves A Love Song,Mac Davis,63,1972-11-25,1972-12-30,188,6
+404,Josie,Kris Kristofferson,63,1972-03-11,1972-04-29,188,8
+405,Think (About It),Lyn Collins,66,1972-09-02,1972-10-14,187,7
+406,I Love You More Than You'll Ever Know,Donny Hathaway,60,1972-10-21,1972-11-25,184,6
+407,Mr. Penguin-Pt. I,Lunar Funk,63,1972-02-05,1972-03-25,184,8
+408,Jubilation,Paul Anka,65,1972-03-25,1972-05-20,183,9
+409,Changes,David Bowie,66,1972-04-15,1972-05-27,180,7
+410,Colorado,Danny Holien,66,1972-09-09,1972-10-28,178,8
+411,Hallelujah,Sweathog,34,1972-01-01,1972-01-15,177,3
+412,Behind Blue Eyes,The Who,39,1972-01-01,1972-01-15,175,3
+413,Woman Is The Nigger Of The World,John Lennon/Plastic Ono Band With Elephant's Memory,57,1972-05-20,1972-06-17,175,5
+414,That's What Love Will Make You Do,Little Milton,59,1972-02-12,1972-03-18,175,6
+415,Starman,David Bowie,65,1972-07-01,1972-08-26,175,9
+416,I Will Never Pass This Way Again,Glen Campbell,61,1972-08-26,1972-10-07,174,7
+417,Living Without You,Manfred Mann's Earth Band,69,1972-02-26,1972-04-08,174,7
+418,If I Were A Carpenter,Bob Seger,76,1972-07-01,1972-08-26,174,9
+419,Jambalaya (On The Bayou),The Blue Ridge Rangers,49,1972-12-02,1972-12-30,173,5
+420,We Need Order,The Chi-lites,61,1972-12-02,1972-12-30,169,5
+421,Move 'Em Out,Delaney & Bonnie,59,1972-01-22,1972-02-19,168,5
+422,You're A Lady,Peter Skellern,53,1972-11-25,1972-12-30,167,6
+423,Gimme Some More,The JB's,67,1972-01-22,1972-03-11,167,8
+424,"Look What They've Done To My Song, Ma",Ray Charles,65,1972-07-08,1972-08-12,166,6
+425,Guilty,Al Green,69,1972-09-30,1972-11-11,164,7
+426,Your Precious Love,Linda Jones,74,1972-02-26,1972-04-22,164,9
+427,Baby Won't You Let Me Rock 'N Roll You,Ten Years After,61,1972-01-15,1972-02-12,163,5
+428,Pain (Part I),Ohio Players,64,1972-01-01,1972-02-12,161,7
+429,Can I Get A Witness,Lee Michaels,42,1972-01-01,1972-01-15,160,3
+430,A Lonely Man/The Man & The Woman (The Boy & The Girl),The Chi-lites,57,1972-09-30,1972-10-28,159,5
+431,Papa Was A Rollin' Stone,The Undisputed Truth,63,1972-06-10,1972-07-08,158,5
+432,Keep Playin' That Rock 'N' Roll,Edgar Winter's White Trash,70,1972-01-01,1972-02-26,158,9
+433,An American Trilogy,Elvis Presley,66,1972-05-06,1972-06-10,155,6
+434,No Sad Song,Helen Reddy,62,1972-01-01,1972-01-22,152,4
+435,Do What You Set Out To Do,Bobby Bland,64,1972-02-26,1972-03-25,152,5
+436,Reelin' & Rockin',Chuck Berry,55,1972-12-02,1972-12-30,151,5
+437,What'd I Say,Rare Earth,61,1972-04-08,1972-05-06,151,5
+438,Love Jones,Brighter Side Of Darkness,46,1972-12-09,1972-12-30,149,4
+439,Love Song,Tommy James,67,1972-08-19,1972-09-23,149,6
+440,Where Did Our Love Go,Donnie Elbert,22,1972-01-01,1972-01-08,148,2
+441,Theme From Shaft,Isaac Hayes,23,1972-01-01,1972-01-08,148,2
+442,Telegram Sam,T. Rex,67,1972-04-22,1972-05-20,148,5
+443,Eddie's Love,Eddie Kendricks,77,1972-06-10,1972-07-29,148,8
+444,Woman To Woman,Joe Cocker and The Chris Stainton Band,58,1972-12-02,1972-12-30,146,5
+445,Take It Slow (Out In The Country),Lighthouse,64,1972-01-01,1972-01-22,145,4
+446,Day And Night,The Wackers,65,1972-11-18,1972-12-16,145,5
+447,Baby I'm - A Want You,Bread,24,1972-01-01,1972-01-08,144,2
+448,Ajax Airlines,Hudson and Landry,68,1972-01-15,1972-02-19,144,6
+449,The Relay,The Who,47,1972-12-09,1972-12-30,142,4
+450,Another Puff,Jerry Reed,65,1972-01-08,1972-02-05,140,5
+451,Stones/Crunchy Granola Suite,Neil Diamond,27,1972-01-01,1972-01-08,139,2
+452,Trouble Man,Marvin Gaye,33,1972-12-16,1972-12-30,139,3
+453,Let Us Love,Bill Withers,52,1972-12-09,1972-12-30,139,4
+454,Friends With You,John Denver,53,1972-01-01,1972-01-15,139,3
+455,Pretty As You Feel,Jefferson Airplane,60,1972-01-01,1972-01-22,139,4
+456,"Carry Me, Carrie",Dr. Hook And The Medicine Show,71,1972-09-09,1972-10-14,138,6
+457,I'll Be Your Shelter (In Time Of Storm),Luther Ingram,60,1972-12-02,1972-12-30,135,5
+458,"Guns, Guns, Guns",The Guess Who,70,1972-05-20,1972-06-24,135,6
+459,Kate,Johnny Cash And The Tennessee Three,75,1972-05-13,1972-06-24,135,7
+460,"Hi, Hi, Hi",Wings,27,1972-12-16,1972-12-30,134,3
+461,Superstar (Remember How You Got Where You Are),The Temptations,30,1972-01-01,1972-01-08,133,2
+462,Bed And Board,Barbara Mason,70,1972-06-10,1972-07-15,133,6
+463,"Theme From ""Summer Of '42""",Peter Nero,31,1972-01-01,1972-01-08,131,2
+464,Harry Hippie,Bobby Womack & Peace,45,1972-12-09,1972-12-30,129,4
+465,Carolyn,Merle Haggard And The Strangers,58,1972-01-01,1972-01-15,128,3
+466,Vanilla Ólay,Jackie DeShannon,76,1972-06-03,1972-07-29,127,9
+467,Butterfly,Danyel Gerard,78,1972-06-10,1972-08-05,127,9
+468,Satisfaction,Smokey Robinson & The Miracles,49,1972-01-01,1972-01-15,124,3
+469,Upsetter,Grand Funk Railroad,73,1972-04-29,1972-05-27,124,5
+470,Superstar/Bless The Beasts And Children,Carpenters,67,1972-01-01,1972-01-22,122,4
+471,Beat Me Daddy Eight To The Bar,Commander Cody,81,1972-07-22,1972-09-02,122,7
+472,What It Is,The Undisputed Truth,71,1972-02-26,1972-03-25,121,5
+473,Cotton Jenny,Anne Murray,71,1972-04-01,1972-04-29,119,5
+474,Sunday Morning Sunshine,Harry Chapin,75,1972-10-21,1972-11-25,119,6
+475,Devil You,Stampeders,61,1972-01-01,1972-01-15,118,3
+476,Money Back Guarantee,Five Man Electrical Band,72,1972-09-09,1972-10-07,117,5
+477,Standing In For Jody,Johnnie Taylor (The Soul Philosopher),74,1972-01-22,1972-03-04,117,7
+478,The Jean Genie,David Bowie,71,1972-11-25,1972-12-23,115,5
+479,Cry,Lynn Anderson,71,1972-01-29,1972-02-26,114,5
+480,I've Got To Have You,Sammi Smith,77,1972-08-26,1972-10-07,114,7
+481,Nutrocker,"Emerson, Lake & Palmer",70,1972-03-18,1972-04-22,113,6
+482,Delta Dawn,Tanya Tucker,72,1972-07-01,1972-08-12,108,7
+483,Iko Iko,Dr. John,71,1972-04-15,1972-05-13,107,5
+484,That's What Friends Are For,B.J. Thomas,74,1972-07-15,1972-08-19,106,6
+485,Daddy's Home,Jermaine Jackson,54,1972-12-09,1972-12-30,105,4
+486,You're A Lady,Dawn Featuring Tony Orlando,74,1972-11-25,1972-12-30,105,6
+487,The Young New Mexican Puppeteer,Tom Jones,80,1972-04-29,1972-06-10,104,7
+488,You Make Your Own Heaven And Hell Right Here On Earth,The Undisputed Truth,72,1972-01-01,1972-01-22,103,4
+489,Will You Still Love Me Tomorrow,Roberta Flack,76,1972-01-22,1972-02-19,103,5
+490,I Wrote A Simple Song,Billy Preston,77,1972-01-22,1972-02-19,102,5
+491,Five Hundred Miles,Heaven Bound with Tony Scotti,79,1972-01-01,1972-02-05,101,6
+492,Oh Me Oh My (I'm A Fool For You Baby),Aretha Franklin,73,1972-01-15,1972-02-05,97,4
+493,What Would The Children Think,Rick Springfield,70,1972-11-25,1972-12-16,95,4
+494,White Lies,Grin,75,1972-02-05,1972-03-11,94,6
+495,Since I Fell For You,Laura Lee,76,1972-03-04,1972-04-01,94,5
+496,After All This Time,Merry Clayton,71,1972-01-01,1972-01-22,93,4
+497,"Lovin' You, Lovin' Me",Candi Staton,83,1972-11-04,1972-12-09,92,6
+498,Ain't Wastin' Time No More,The Allman Brothers Band,77,1972-04-29,1972-05-20,89,4
+499,Truckin',Grateful Dead,69,1972-01-01,1972-01-15,87,3
+500,I Found My Dad,Joe Simon,78,1972-11-04,1972-11-25,87,4
+501,Best Thing,Styx,82,1972-09-16,1972-10-21,87,6
+502,Mama Weer All Crazee Now,Slade,83,1972-11-18,1972-12-30,87,7
+503,I Can't Stand To See You Cry,Smokey Robinson & The Miracles,62,1972-12-16,1972-12-30,84,3
+504,Looking Through The Eyes Of Love,The Partridge Family Starring Shirley Jones Featuring David Cassidy,64,1972-12-16,1972-12-30,84,3
+505,One More Chance,Ocean,76,1972-09-23,1972-10-14,84,4
+506,Keep On Keeping On,N.F. Porter,77,1972-01-01,1972-01-22,83,4
+507,I Guess I'll Miss The Man,The Supremes,85,1972-10-21,1972-12-02,81,7
+508,What A Wonderful Thing We Have,The Fabulous Rhinestones,78,1972-08-05,1972-08-26,80,4
+509,"Gypsys, Tramps & Thieves",Cher,25,1972-01-01,1972-01-01,76,1
+510,Wholy Holy,Aretha Franklin With James Cleveland & The Southern California Community Choir,81,1972-08-19,1972-09-09,76,4
+511,I Just Want To Make Love To You,Foghat,83,1972-10-07,1972-12-23,76,7
+512,Giving Up,Donny Hathaway,81,1972-05-13,1972-06-10,75,5
+513,Vahevala,Kenny Loggins With Jim Messina,84,1972-04-15,1972-05-13,75,5
+514,I Can't Turn You Loose,Edgar Winter's White Trash,81,1972-05-06,1972-05-27,71,4
+515,"Beg, Steal Or Borrow",The New Seekers,81,1972-04-22,1972-05-13,68,4
+516,I Don't Need No Doctor,New Riders Of The Purple Sage,81,1972-06-10,1972-07-08,66,5
+517,Lady Eleanor,Lindisfarne,82,1972-09-02,1972-09-30,66,5
+518,Annabelle,Daniel Boone,86,1972-11-11,1972-12-09,66,5
+519,Lonesome Mary,Chilliwack,75,1972-02-05,1972-02-19,64,3
+520,Amerikan Music,Steve Alaimo,79,1972-04-29,1972-05-13,64,3
+521,"Dance, Dance, Dance",The New Seekers featuring Marty Kristian,84,1972-09-23,1972-10-21,63,5
+522,Dreidel,Don McLean,66,1972-12-23,1972-12-30,61,2
+523,How Could I Let You Get Away,The Spinners,77,1972-08-19,1972-09-09,61,4
+524,Speak Softly Love,Al Martino,80,1972-04-29,1972-05-20,61,4
+525,"Just As Long As You Need Me, Part I",Independents,84,1972-05-13,1972-06-10,61,5
+526,"The Cover Of ""Rolling Stone""",Dr. Hook And The Medicine Show,77,1972-12-02,1972-12-30,60,5
+527,The Mosquito,The Doors,85,1972-09-30,1972-10-21,60,4
+528,Goodbye Again,John Denver,88,1972-07-22,1972-08-26,60,6
+529,I'm Never Gonna Be Alone Anymore,Cornelius Brothers & Sister Rose,69,1972-12-23,1972-12-30,59,2
+530,Everyday,John Denver,81,1972-03-11,1972-03-25,59,3
+531,Up In Heah,Ike & Tina Turner,83,1972-02-26,1972-03-18,59,4
+532,Together Alone,Melanie,86,1972-10-21,1972-11-11,57,4
+533,You've Got To Take It (If You Want It),The Main Ingredient,67,1972-12-23,1972-12-30,56,2
+534,Remember (Christmas),Nilsson,70,1972-12-23,1972-12-30,56,2
+535,Music From Across The Way,James Last,84,1972-01-15,1972-02-05,55,4
+536,I'm A Greedy Man - Part I,James Brown,47,1972-01-01,1972-01-01,54,1
+537,Runaway/Happy Together,Dawn Featuring Tony Orlando,79,1972-01-29,1972-02-19,54,4
+538,If I Could See The Light,The 8th Day,79,1972-01-08,1972-01-29,53,4
+539,Tightrope Ride,The Doors,75,1972-01-01,1972-01-08,52,2
+540,Love Potion Number Nine,The Coasters,76,1972-01-01,1972-01-15,51,3
+541,(Love Me) Love The Life I Lead,The Fantastics,86,1972-02-19,1972-03-11,51,4
+542,You Can Do Magic,Limmie & Family Cookin',89,1972-11-18,1972-12-30,51,7
+543,Simple Song Of Freedom,Buckwheat,84,1972-04-01,1972-04-29,50,5
+544,One Way Out,The Allman Brothers Band,86,1972-12-02,1972-12-23,50,4
+545,Do You Want To Dance?,Bette Midler,72,1972-12-23,1972-12-30,49,2
+546,Me And My Baby Got A Good Thing Going,Lyn Collins,86,1972-12-02,1972-12-23,49,4
+547,Circles,The New Seekers,87,1972-07-15,1972-08-12,49,5
+548,Daytime Night-Time,Keith Hampshire,76,1972-12-23,1972-12-30,48,2
+549,So Many People,Chase,81,1972-01-01,1972-01-15,48,3
+550,Dinah Flo,Boz Scaggs,86,1972-09-30,1972-10-21,48,4
+551,Anthem,Wayne Newton,75,1972-12-23,1972-12-30,47,2
+552,Get Up And Get Down,The Dramatics,78,1972-01-01,1972-01-22,47,4
+553,Step Out,The Mamas & The Papas,81,1972-02-12,1972-02-26,47,3
+554,Jambalaya (On The Bayou),Nitty Gritty Dirt Band,84,1972-04-01,1972-04-15,47,3
+555,Ain't That Peculiar,Fanny,85,1972-04-29,1972-05-13,46,3
+556,I Only Have Eyes For You,Jerry Butler,85,1972-05-20,1972-06-10,46,4
+557,Taos New Mexico,R. Dean Taylor,83,1972-04-15,1972-04-29,45,3
+558,Down By The River,Albert Hammond,91,1972-07-22,1972-09-02,45,7
+559,Let It Be,Joan Baez,57,1972-01-01,1972-01-01,44,1
+560,Silly Wasn't I,Valerie Simpson,84,1972-12-09,1972-12-30,44,4
+561,Evil Ways,Carlos Santana & Buddy Miles,84,1972-09-09,1972-10-07,44,5
+562,One Last Time,Glen Campbell,85,1972-12-09,1972-12-30,44,4
+563,Bedtime Story,Tammy Wynette,86,1972-01-29,1972-02-19,44,4
+564,Misty Blue,Joe Simon,91,1972-10-21,1972-11-18,44,5
+565,If We Only Have Love,Dionne Warwicke,84,1972-03-11,1972-03-25,43,3
+566,Rockin' With The King,Canned Heat,88,1972-03-18,1972-04-15,43,5
+567,Open The Door (Song For Judith),Judy Collins,90,1972-01-01,1972-01-29,43,5
+568,Rock Me On The Water,Linda Ronstadt,85,1972-03-04,1972-03-18,41,3
+569,Ain't That Loving You (For More Reasons Than One),Isaac Hayes & David Porter,86,1972-05-13,1972-06-03,41,4
+570,Too Beautiful To Last,Engelbert Humperdinck,86,1972-04-29,1972-05-13,39,3
+571,Love's Street And Fool's Road,Solomon Burke,89,1972-04-15,1972-05-13,39,5
+572,Summer Sun,Jamestown Massacre,90,1972-08-12,1972-09-09,38,5
+573,Questions,Bang,90,1972-04-22,1972-05-27,37,6
+574,I Got Some Help I Don't Need,B.B. King,92,1972-05-06,1972-06-10,37,6
+575,"Hey, You Love",Mouth & MacNeal,87,1972-10-21,1972-11-04,35,3
+576,Eve,Jim Capaldi,91,1972-04-08,1972-04-29,35,4
+577,The People Tree,"Sammy Davis, Jr. with The Mike Curb Congregation",92,1972-10-21,1972-11-18,35,5
+578,Tell 'Em Willie Boy 's A'Comin',Tommy James,89,1972-02-19,1972-03-11,33,4
+579,I Could Never Be Happy,The Emotions,93,1972-07-22,1972-08-19,33,5
+580,Cat's Eye In The Window,Tommy James,90,1972-06-17,1972-07-08,32,4
+581,Turn Your Radio On,Ray Stevens,70,1972-01-01,1972-01-01,31,1
+582,Deteriorata,National Lampoon,91,1972-10-14,1972-11-04,31,4
+583,I'm Sorry,Joey Heatherton,93,1972-11-25,1972-12-30,31,6
+584,Lay Lady Lay,The Isley Brothers,71,1972-01-01,1972-01-01,30,1
+585,Tell Me This Is A Dream,The Delfonics,86,1972-06-24,1972-07-08,30,3
+586,I Received A Letter,Delbert & Glen,90,1972-12-02,1972-12-16,30,3
+587,Last Song,Edward Bear,80,1972-12-16,1972-12-30,29,3
+588,Son Of My Father,Chicory,91,1972-03-11,1972-03-25,29,3
+589,It's Four In The Morning,Faron Young,92,1972-02-12,1972-03-04,29,4
+590,Knock Knock Who's There,Mary Hopkin,92,1972-12-09,1972-12-30,29,4
+591,Peaceful Easy Feeling,Eagles,73,1972-12-30,1972-12-30,28,1
+592,Nobody But You,Kenny Loggins With Jim Messina,86,1972-06-10,1972-06-17,28,2
+593,Country Woman,The Magic Lantern,88,1972-07-08,1972-07-29,28,4
+594,Buzzy Brown,Tim Davis,91,1972-09-16,1972-09-30,28,3
+595,"Oh No, Not My Baby",Merry Clayton,87,1972-12-23,1972-12-30,27,2
+596,Keep On Doin' What You're Doin',Bobby Byrd,88,1972-02-26,1972-03-11,27,3
+597,Down On Me,Janis Joplin,91,1972-07-15,1972-08-05,27,4
+598,Mother Nature,The Temptations,92,1972-07-01,1972-07-22,27,4
+599,Sweet Baby,Donnie Elbert,92,1972-01-22,1972-02-12,27,4
+600,Do Ya,The Move,93,1972-10-28,1972-11-25,27,5
+601,What My Baby Needs Now Is A Little More Lovin',James Brown-Lyn Collins,78,1972-12-23,1972-12-30,26,2
+602,Melissa,The Allman Brothers Band,86,1972-08-12,1972-08-19,26,2
+603,Rock And Roll Crazies,Stephen Stills-Manassas,92,1972-07-15,1972-07-29,26,3
+604,Don't Want To Say Goodbye,Raspberries,86,1972-05-13,1972-05-20,23,2
+605,A Simple Game,Four Tops,90,1972-02-05,1972-02-19,23,3
+606,Jesus Is Just Alright,The Doobie Brothers,90,1972-12-16,1972-12-30,23,3
+607,"Getting It On/Ride, Sally, Ride",Dennis Coffey & The Detroit Guitar Band,93,1972-06-03,1972-06-24,23,4
+608,I Thank You,Donny Hathaway And June Conquest,94,1972-05-27,1972-06-24,23,5
+609,Could It Be I'm Falling In Love,The Spinners,79,1972-12-30,1972-12-30,22,1
+610,"Mean Little Woman, Rosalie",Tommy Roe,92,1972-09-23,1972-10-07,22,3
+611,With Pen In Hand,Bobby Goldsboro,94,1972-09-16,1972-10-14,22,5
+612,Keep On Running,Stevie Wonder,90,1972-09-16,1972-09-30,21,3
+613,School Teacher,Kenny Rogers & The First Edition,91,1972-04-01,1972-04-22,21,4
+614,You Were Made For Me,Luther Ingram,93,1972-04-08,1972-04-22,21,3
+615,Don't Expect Me To Be Your Friend,Lobo,81,1972-12-30,1972-12-30,20,1
+616,Didn't We,Barbra Streisand,95,1972-12-09,1972-12-30,20,4
+617,Songman,Cashman & West,82,1972-12-30,1972-12-30,19,1
+618,All His Children,Charley Pride with Henry Mancini,92,1972-04-01,1972-04-15,19,3
+619,Sweet Sixteen,B.B. King,93,1972-03-04,1972-03-18,18,3
+620,A Sunday Kind Of Love,Lenny Welch,96,1972-08-12,1972-09-09,18,5
+621,No Good To Cry,The Poppy Family,84,1972-01-01,1972-01-01,17,1
+622,(They Long To Be) Close To You,Jerry Butler & Brenda Lee Eager,91,1972-09-09,1972-09-23,17,3
+623,It's All Up To You,The Dells,94,1972-02-26,1972-03-11,17,3
+624,Whatever Turns You On,Travis Wammack,95,1972-09-02,1972-09-23,17,4
+625,I Got A Thing About You Baby,Billy Lee Riley,93,1972-11-04,1972-11-11,16,2
+626,Dedicated To The One I Love,The Temprees,93,1972-10-07,1972-10-14,16,2
+627,I Just Wanna Be Your Friend,Lighthouse,93,1972-04-29,1972-05-06,16,2
+628,Lucky Man,"Emerson, Lake & Palmer",86,1972-12-30,1972-12-30,15,1
+629,Sing A Song/Make Your Own Kind Of Music,Barbra Streisand,94,1972-09-30,1972-10-14,15,3
+630,You Got Me Walking,Jackie Wilson,93,1972-02-26,1972-03-11,14,3
+631,Roberta,Bones,94,1972-11-04,1972-11-11,14,2
+632,One Way Sunday,Mark-Almond,94,1972-02-19,1972-02-26,14,2
+633,Vaya Con Dios,Dawn Featuring Tony Orlando,95,1972-06-24,1972-07-08,14,3
+634,Da Doo Ron Ron (When He Walked Me Home),Ian Matthews,96,1972-02-19,1972-03-04,14,3
+635,Big City Miss Ruth Ann,Gallery,88,1972-12-30,1972-12-30,13,1
+636,Couldn't I Just Tell You,Todd Rundgren,93,1972-07-29,1972-08-05,13,2
+637,Rock & Roll Stew...Part 1,Traffic,93,1972-01-15,1972-01-22,13,2
+638,Sugaree,Jerry Garcia,94,1972-04-15,1972-04-22,13,2
+639,Fool's Paradise,The Sylvers,94,1972-09-02,1972-09-16,13,3
+640,Mendelssohn's 4th (Second Movement),Apollo 100,94,1972-04-15,1972-04-29,13,3
+641,Celebration,Tommy James,95,1972-11-04,1972-11-18,13,3
+642,Runnin' Back To Saskatoon,The Guess Who,96,1972-10-14,1972-10-28,13,3
+643,Together Again,Bobby Sherman,91,1972-02-19,1972-02-26,12,2
+644,It's The Same Old Love,The Courtship,93,1972-06-24,1972-07-01,12,2
+645,Number Wonderful,Rock Flowers,95,1972-02-12,1972-02-19,12,2
+646,Turn On Your Love Light,Jerry Lee Lewis,95,1972-07-22,1972-08-05,12,3
+647,Song Seller,The Raiders,96,1972-10-21,1972-11-04,12,3
+648,Sittin' On A Time Bomb (Waitin' For The Hurt To Come),The Honey Cone,96,1972-07-29,1972-08-19,12,4
+649,Brandy,Scott English,91,1972-03-04,1972-03-11,11,2
+650,Boogie Woogie Man,Paul Davis,94,1972-12-23,1972-12-30,11,2
+651,Suite: Man And Woman,Tony Cole,97,1972-10-28,1972-11-18,11,4
+652,Jesus Was A Capricorn,Kris Kristofferson,91,1972-12-30,1972-12-30,10,1
+653,"Willpower Weak, Temptation Strong",Bullet,96,1972-03-11,1972-03-18,10,2
+654,Bring It Home (And Give It To Me),Hot Sauce,96,1972-05-20,1972-06-03,10,3
+655,Long Time To Be Alone,The New Colony Six,93,1972-01-01,1972-01-01,8,1
+656,Pass The Peas,The JB's,95,1972-05-27,1972-06-03,8,2
+657,America,Simon & Garfunkel,97,1972-11-25,1972-12-02,8,2
+658,Take Me Bak 'Ome,Slade,97,1972-09-30,1972-10-07,8,2
+659,Choo Choo Mama,Ten Years After,97,1972-12-16,1972-12-30,8,3
+660,Love And Liberty,Laura Lee,94,1972-01-22,1972-01-22,7,1
+661,Get Out Of Bed,Livingston Taylor,97,1972-02-05,1972-02-12,7,2
+662,Thank God For You Baby,PG&E,97,1972-03-18,1972-03-25,7,2
+663,He's An Indian Cowboy In The Rodeo,Buffy Sainte-Marie,98,1972-08-19,1972-08-26,6,2
+664,Fever/My Crew,Rita Coolidge,96,1972-12-30,1972-12-30,5,1
+665,Me And Jesus,Tom T. Hall,98,1972-05-13,1972-05-20,5,2
+666,Redwood Tree,Van Morrison,98,1972-10-28,1972-11-04,5,2
+667,Shake Off The Demon,Brewer And Shipley,98,1972-02-05,1972-02-19,5,3
+668,Southbound Train,Graham Nash & David Crosby,99,1972-08-12,1972-08-19,4,2
+669,You Really Got A Hold On Me,Gayle McCormick,98,1972-01-22,1972-01-22,3,1
+670,But I Do,Bobby Vinton,98,1972-12-30,1972-12-30,3,1
+671,The Red Back Spider,Brownsville Station,99,1972-12-23,1972-12-30,3,2
+672,Mama Told Me Not To Come,Wilson Pickett,99,1972-11-11,1972-11-18,3,2
+673,Hushabye,Robert John,99,1972-06-24,1972-07-01,3,2
+674,Where There's A Will There's A Way,Delaney & Bonnie,99,1972-04-29,1972-05-06,3,2
+675,Don't Ever Take Away My Freedom,Peter Yarrow,100,1972-04-08,1972-04-15,2,2
+676,Happier Than The Morning Sun,B.J. Thomas,100,1972-10-07,1972-10-14,2,2
+677,The Road We Didn't Take,Freda Payne,100,1972-01-08,1972-01-15,2,2
+678,We're Together,The Hillside Singers,100,1972-02-26,1972-02-26,1,1
+679,I Miss You Baby,Millie Jackson,100,1972-12-09,1972-12-09,1,1
+680,I Never Said Goodbye,Engelbert Humperdinck,100,1972-12-30,1972-12-30,1,1

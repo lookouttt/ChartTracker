@@ -1,0 +1,953 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Unorthodox Jukebox,Bruno Mars,1,2013-01-05,2013-12-28,5495,52
+2,Night Visions,Imagine Dragons,4,2013-01-05,2013-12-28,5184,52
+3,Here's To The Good Times,Florida Georgia Line,4,2013-01-05,2013-12-28,5041,52
+4,The Heist,Macklemore & Ryan Lewis,4,2013-01-05,2013-12-28,4294,52
+5,Babel,Mumford & Sons,1,2013-01-05,2013-12-28,4276,52
+6,Red,Taylor Swift,1,2013-01-05,2013-12-28,4060,52
+7,The Truth About Love,P!nk,5,2013-01-05,2013-12-28,4004,52
+8,The 20/20 Experience,Justin Timberlake,1,2013-04-06,2013-12-28,3910,39
+9,Based On A True Story ...,Blake Shelton,3,2013-04-13,2013-12-28,3702,38
+10,The Lumineers,The Lumineers,2,2013-01-05,2013-11-16,3579,46
+11,Pitch Perfect,Soundtrack,3,2013-01-05,2013-12-28,3463,51
+12,Night Train,Jason Aldean,17,2013-01-05,2013-12-28,3044,52
+13,21,Adele,10,2013-01-05,2013-12-14,2981,50
+14,"good kid, m.A.A.d city",Kendrick Lamar,14,2013-01-05,2013-12-07,2832,49
+15,Hunter Hayes,Hunter Hayes,7,2013-01-05,2013-12-28,2743,52
+16,Take Me Home,One Direction,3,2013-01-05,2013-12-28,2692,48
+17,Overexposed,Maroon 5,10,2013-01-05,2013-10-26,2640,43
+18,The World From The Side Of The Moon,Phillip Phillips,4,2013-01-05,2013-11-23,2552,42
+19,Some Nights,fun.,7,2013-01-05,2013-09-21,2543,38
+20,Tailgates & Tanlines,Luke Bryan,16,2013-01-05,2013-11-30,2488,48
+21,Born To Die,Lana Del Rey,20,2013-01-05,2013-12-28,2484,52
+22,Unapologetic,Rihanna,6,2013-01-05,2013-12-14,2470,37
+23,Crash My Party,Luke Bryan,1,2013-08-31,2013-12-28,2301,18
+24,Random Access Memories,Daft Punk,1,2013-06-08,2013-12-14,2190,25
+25,Tornado,Little Big Town,14,2013-01-05,2013-12-14,2166,40
+26,To Be Loved,Michael Buble,1,2013-05-11,2013-12-28,2104,31
+27,Magna Carta... Holy Grail,JAY-Z,1,2013-07-27,2013-12-07,2006,20
+28,+,Ed Sheeran,21,2013-01-05,2013-11-02,1998,41
+29,Blurred Lines,Robin Thicke,1,2013-08-17,2013-12-28,1919,20
+30,Les Miserables,Soundtrack,1,2013-01-05,2013-06-22,1917,25
+31,Chief,Eric Church,18,2013-01-05,2013-09-21,1902,38
+32,My Head Is An Animal,Of Monsters And Men,13,2013-01-05,2013-10-05,1842,40
+33,Blown Away,Carrie Underwood,21,2013-01-05,2013-10-19,1829,41
+34,Native,OneRepublic,4,2013-04-13,2013-12-28,1823,36
+35,True Believers,Darius Rucker,2,2013-06-08,2013-12-28,1795,27
+36,Sigh No More,Mumford & Sons,31,2013-01-05,2013-10-05,1740,40
+37,Spring Break... Here To Party,Luke Bryan,1,2013-03-23,2013-09-21,1723,27
+38,Save Rock And Roll,Fall Out Boy,1,2013-05-04,2013-12-28,1720,30
+39,Golden,Lady Antebellum,1,2013-05-25,2013-12-28,1689,25
+40,Pioneer,The Band Perry,2,2013-04-20,2013-12-28,1649,27
+41,Nothing Was The Same,Drake,1,2013-10-12,2013-12-28,1648,12
+42,The Great Gatsby: Music From Baz Luhrmann's Film,Soundtrack,2,2013-05-25,2013-10-26,1641,23
+43,Two Lanes Of Freedom,Tim McGraw,2,2013-02-23,2013-09-07,1617,29
+44,Greatest Hits: Chapter One,Kelly Clarkson,23,2013-01-05,2013-11-16,1599,38
+45,I Am Not A Human Being II,Lil Wayne,2,2013-04-13,2013-09-14,1584,23
+46,NOW 45,Various Artists,3,2013-02-23,2013-07-27,1565,22
+47,NOW 47,Various Artists,2,2013-08-24,2013-12-28,1515,19
+48,Born Sinner,J. Cole,1,2013-07-06,2013-10-19,1465,16
+49,Teen Beach Movie,Soundtrack,3,2013-08-03,2013-12-28,1465,19
+50,NOW 46,Various Artists,3,2013-05-25,2013-09-28,1394,19
+51,Yeezus,Kanye West,1,2013-07-06,2013-12-21,1312,17
+52,All That Echoes,Josh Groban,1,2013-02-23,2013-06-22,1306,18
+53,Pure Heroine,Lorde,3,2013-10-19,2013-12-28,1305,11
+54,Girl On Fire,Alicia Keys,9,2013-01-05,2013-06-15,1279,24
+55,Life On A Rock,Kenny Chesney,1,2013-05-18,2013-12-14,1271,20
+56,Stars Dance,Selena Gomez,1,2013-08-10,2013-12-28,1221,21
+57,Bangerz,Miley Cyrus,1,2013-10-26,2013-12-28,1208,10
+58,PRISM,Katy Perry,1,2013-11-09,2013-12-28,1204,8
+59,Passione,Andrea Bocelli,2,2013-02-16,2013-06-29,1183,17
+60,Same Trailer Different Park,Kacey Musgraves,2,2013-04-06,2013-12-14,1178,28
+61,Hail To The King,Avenged Sevenfold,1,2013-09-14,2013-12-28,1167,16
+62,Long.Live.A$AP,A$AP Rocky,1,2013-02-02,2013-08-17,1160,26
+63,The 20/20 Experience (2 Of 2),Justin Timberlake,1,2013-10-19,2013-12-28,1152,11
+64,Duck The Halls: A Robertson Family Christmas,The Robertsons,3,2013-11-16,2013-12-28,1147,7
+65,Trouble Man: Heavy Is The Head,T.I.,2,2013-01-05,2013-04-27,1143,17
+66,Boys & Girls,Alabama Shakes,6,2013-01-12,2013-07-06,1139,26
+67,Modern Vampires Of The City,Vampire Weekend,1,2013-06-01,2013-12-28,1125,19
+68,Kidz Bop 23,Kidz Bop Kids,2,2013-02-02,2013-07-27,1121,17
+69,Up All Night,One Direction,15,2013-01-05,2013-10-05,1096,35
+70,Love And War,Tamar Braxton,2,2013-09-21,2013-12-28,1083,15
+71,Wrapped In Red,Kelly Clarkson,3,2013-11-16,2013-12-28,1081,7
+72,Love Is Everything,George Strait,2,2013-06-01,2013-11-23,1076,18
+73,The Wrong Side Of Heaven And The Righteous Side Of Hell: Volume 1,Five Finger Death Punch,2,2013-08-17,2013-12-21,1073,18
+74,Demi,Demi Lovato,3,2013-06-01,2013-12-14,1059,18
+75,Yours Truly,Ariana Grande,1,2013-09-21,2013-12-28,1049,15
+76,The Marshall Mathers LP 2,Eminem,1,2013-11-23,2013-12-28,1046,6
+77,2013 Grammy Nominees,Various Artists,2,2013-02-09,2013-05-11,1042,14
+78,Love In The Future,John Legend,4,2013-09-21,2013-12-28,1039,15
+79,NOW 44,Various Artists,9,2013-01-05,2013-05-04,1023,18
+80,Rebel Soul,Kid Rock,24,2013-01-05,2013-09-14,1004,22
+81,Kidz Bop 24,Kidz Bop Kids,3,2013-08-03,2013-12-28,975,14
+82,The Gifted,Wale,1,2013-07-13,2013-09-21,974,11
+83,Uncaged,Zac Brown Band,40,2013-01-05,2013-12-28,963,39
+84,Side Effects Of You,Fantasia,2,2013-05-11,2013-08-17,954,15
+85,Wheelhouse,Brad Paisley,2,2013-04-27,2013-08-17,954,17
+86,El Camino,The Black Keys,14,2013-01-05,2013-06-08,952,23
+87,13,Black Sabbath,1,2013-06-29,2013-09-14,944,12
+88,Fuse,Keith Urban,1,2013-09-28,2013-12-28,923,14
+89,Closer To The Truth,Cher,3,2013-10-12,2013-12-28,916,12
+90,Kaleidoscope Dream,Miguel,38,2013-01-05,2013-07-27,902,29
+91,Burning Lights,Chris Tomlin,1,2013-01-26,2013-12-14,900,20
+92,Set You Free,Gary Allan,1,2013-02-09,2013-05-18,858,15
+93,Believe,Justin Bieber,11,2013-01-05,2013-04-20,855,16
+94,Lightning Bolt,Pearl Jam,1,2013-11-02,2013-12-28,853,9
+95,B.O.A.T.S. II #METIME,2 Chainz,3,2013-09-28,2013-12-28,852,13
+96,The Love Club EP,Lorde,23,2013-07-06,2013-10-12,835,15
+97,Four The Record,Miranda Lambert,39,2013-01-05,2013-08-31,829,29
+98,Annie Up,Pistol Annies,5,2013-05-25,2013-08-24,822,14
+99,WOW Hits 2014,Various Artists,25,2013-10-12,2013-12-28,818,12
+100,The Civil Wars,The Civil Wars,1,2013-08-24,2013-10-26,808,10
+101,Paradise Valley,John Mayer,2,2013-09-07,2013-12-21,779,13
+102,Precious Memories: Volume II,Alan Jackson,5,2013-04-13,2013-07-06,772,13
+103,The Blessed Unrest,Sara Bareilles,2,2013-08-03,2013-12-14,765,12
+104,Trilogy,The Weeknd,36,2013-01-05,2013-09-28,750,20
+105,From Here To Now To You,Jack Johnson,1,2013-10-05,2013-12-14,746,9
+106,Rise,Skillet,4,2013-07-13,2013-09-28,739,12
+107,The 2nd Law,Muse,11,2013-01-05,2013-05-11,732,19
+108,Global Warming,Pitbull,29,2013-01-05,2013-12-14,725,22
+109,Best Days,Tamela Mann,48,2013-02-16,2013-12-07,719,33
+110,Believe: Acoustic,Justin Bieber,1,2013-02-16,2013-04-20,717,10
+111,Caught In The Act: Live,Eric Church,5,2013-04-27,2013-08-31,698,15
+112,True,Avicii,5,2013-10-05,2013-12-21,694,12
+113,Paramore,Paramore,1,2013-04-27,2013-12-14,693,17
+114,Nashville: Season 1: Volume 1,Soundtrack,24,2013-01-05,2013-06-08,691,18
+115,Off The Beaten Path,Justin Moore,2,2013-10-05,2013-12-07,680,10
+116,Reflektor,Arcade Fire,1,2013-11-16,2013-12-28,666,7
+117,Mechanical Bull,Kings Of Leon,2,2013-10-12,2013-12-28,656,10
+118,NOW 48,Various Artists,3,2013-11-30,2013-12-28,647,5
+119,See You Tonight,Scotty McCreery,6,2013-11-02,2013-12-28,640,9
+120,A Mary Christmas,Mary J. Blige,8,2013-11-02,2013-12-28,634,9
+121,ARTPOP,Lady Gaga,1,2013-11-30,2013-12-28,631,5
+122,NOW That's What I Call Country: Volume 6,Various Artists,16,2013-06-29,2013-09-14,627,12
+123,O.N.I.F.C.,Wiz Khalifa,22,2013-01-05,2013-04-06,626,14
+124,Wrote A Song For Everyone,John Fogerty,3,2013-06-15,2013-11-16,620,10
+125,Three Kings,TGT,3,2013-09-07,2013-11-02,615,9
+126,Bad Blood,Bastille,11,2013-09-21,2013-12-28,608,14
+127,Talk A Good Game,Kelly Rowland,4,2013-07-06,2013-08-31,606,9
+128,3.0,Marc Anthony,5,2013-08-10,2013-10-19,606,10
+129,Kiss Land,The Weeknd,2,2013-09-28,2013-11-23,600,8
+130,AM,Arctic Monkeys,6,2013-09-28,2013-12-28,600,13
+131,Based On A T.R.U. Story,2 Chainz,39,2013-01-05,2013-09-14,596,15
+132,Watching Movies With The Sound Off,Mac Miller,3,2013-07-06,2013-08-31,577,9
+133,Loved Me Back To Life,Celine Dion,2,2013-11-23,2013-12-28,570,6
+134,Blame It All On My Roots: Five Decades Of Influences,Garth Brooks,1,2013-12-14,2013-12-28,567,3
+135,Home For Christmas,Susan Boyle,16,2013-11-16,2013-12-28,567,7
+136,Indicud,Kid Cudi,2,2013-05-04,2013-06-22,554,8
+137,...Like Clockwork,Queens Of The Stone Age,1,2013-06-22,2013-08-17,547,9
+138,Midnight Memories,One Direction,1,2013-12-14,2013-12-28,545,3
+139,What About Now,Bon Jovi,1,2013-03-30,2013-05-11,539,7
+140,New,Paul McCartney,3,2013-11-02,2013-12-28,522,9
+141,Rebellious Soul,K. Michelle,2,2013-08-31,2013-10-19,519,8
+142,Stay Trippy,Juicy J,4,2013-09-14,2013-11-16,517,10
+143,A.M.,Chris Young,3,2013-10-05,2013-12-14,516,9
+144,Excuse My French,French Montana,4,2013-06-08,2013-07-27,507,8
+145,The Diving Board,Elton John,4,2013-10-12,2013-11-16,504,6
+146,Celebration Day,Led Zeppelin,19,2013-01-05,2013-03-16,501,11
+147,"Love, Charlie",Charlie Wilson,4,2013-02-16,2013-07-20,500,9
+148,24/Seven (Soundtrack),Big Time Rush,4,2013-06-29,2013-08-24,500,9
+149,"People, Hell And Angels",Jimi Hendrix,2,2013-03-23,2013-05-04,499,7
+150,Frame By Frame,Cassadee Pope,9,2013-10-26,2013-12-28,493,9
+151,Hotel California,Tyga,7,2013-04-27,2013-07-06,490,11
+152,Ciara,Ciara,2,2013-07-27,2013-09-21,480,9
+153,Hesitation Marks,Nine Inch Nails,3,2013-09-21,2013-11-09,477,8
+154,Trouble Will Find Me,The National,3,2013-06-08,2013-08-17,475,9
+155,Woman To Woman,Keyshia Cole,42,2013-01-05,2013-03-30,475,13
+156,The Bluegrass Album,Alan Jackson,11,2013-10-12,2013-11-30,465,8
+157,Old Sock,Eric Clapton,7,2013-03-30,2013-05-18,464,8
+158,La Misma Gran Senora,Jenni Rivera,36,2013-01-05,2013-03-16,459,11
+159,The Next Day,David Bowie,2,2013-03-30,2013-05-11,448,7
+160,The Devil Put Dinosaurs Here,Alice In Chains,2,2013-06-15,2013-07-27,446,7
+161,Channel Orange,Frank Ocean,36,2013-01-05,2013-03-23,445,12
+162,Appreciation Day,Jaheim,6,2013-09-21,2013-11-02,438,7
+163,Finally Rich,Chief Keef,27,2013-01-05,2013-03-23,432,12
+164,"Too Weird To Live, Too Rare To Die!",Panic! At The Disco,2,2013-10-26,2013-11-30,428,6
+165,Shake It Up: I <3 Dance,Soundtrack,26,2013-03-23,2013-05-18,425,9
+166,Warrior,Ke$ha,29,2013-01-05,2013-06-15,425,12
+167,Heartthrob,Tegan And Sara,3,2013-02-16,2013-04-06,417,8
+168,Songs From St. Somewhere,Jimmy Buffett,4,2013-09-07,2013-11-09,414,8
+169,My Name Is My Name,Pusha T,4,2013-10-26,2013-11-23,407,5
+170,SongVersation,India.Arie,7,2013-07-13,2013-08-24,405,7
+171,The Electric Lady,Janelle Monae,5,2013-09-28,2013-11-16,397,8
+172,WOW Hits 2013,Various Artists,50,2013-01-05,2013-06-01,395,20
+173,Something Else,Tech N9ne,4,2013-08-17,2013-09-14,392,5
+174,Feel,Sleeping With Sirens,3,2013-06-22,2013-08-10,389,8
+175,Time,Rod Stewart,7,2013-05-25,2013-06-29,387,6
+176,Better,Chrisette Michele,12,2013-06-29,2013-08-10,385,7
+177,The Wrong Side Of Heaven And The Righteous Side Of Hell: Volume 2,Five Finger Death Punch,2,2013-12-07,2013-12-28,380,4
+178,Bankrupt!,Phoenix,4,2013-05-11,2013-06-15,375,6
+179,The Hunger Games: Catching Fire,Soundtrack,5,2013-12-07,2013-12-28,375,4
+180,Hall Of Fame,Big Sean,3,2013-09-14,2013-10-12,368,5
+181,Release The Panic,Red,7,2013-02-23,2013-04-13,367,8
+182,Wolf,"Tyler, The Creator",3,2013-04-20,2013-05-18,365,5
+183,Jesus Piece,The Game,35,2013-01-05,2013-03-09,364,10
+184,Delta Machine,Depeche Mode,6,2013-04-13,2013-05-18,359,6
+185,Our Version Of Events,Emeli Sande,55,2013-02-16,2013-06-22,356,13
+186,Drinks After Work,Toby Keith,7,2013-11-16,2013-12-21,355,6
+187,In A World Like This,Backstreet Boys,5,2013-08-17,2013-09-14,353,5
+188,Doubleback: Evolution Of R&B,Joe,6,2013-07-20,2013-08-24,351,6
+189,Christmas Symphony II,Mannheim Steamroller With Members Of The Czech Philharmonic Orchestra,24,2013-11-23,2013-12-28,351,6
+190,NOW Christmas,Various Artists,29,2013-11-23,2013-12-28,351,6
+191,Redneck Crazy,Tyler Farr,5,2013-10-19,2013-11-23,350,6
+192,Baptized,Daughtry,6,2013-12-07,2013-12-28,346,4
+193,Outlaw Gentlemen & Shady Ladies,Volbeat,9,2013-04-27,2013-06-22,344,9
+194,The Paradigm Shift,Korn,8,2013-10-26,2013-11-30,342,6
+195,Halcyon,Ellie Goulding,34,2013-01-05,2013-10-05,342,12
+196,"Maybach Music Group Presents: Self Made, Vol. 3",Various Artists,4,2013-10-05,2013-10-26,341,4
+197,12-12-12 The Concert For Sandy Relief,Various Artists,8,2013-01-05,2013-03-02,341,7
+198,Joyas Prestadas: Pop,Jenni Rivera,51,2013-01-05,2013-03-16,341,11
+199,Days Are Gone,HAIM,6,2013-10-19,2013-12-28,339,8
+200,All The Little Lights,Passenger,28,2013-09-07,2013-12-28,338,10
+201,Just Feels Good,Thompson Square,13,2013-04-13,2013-05-25,336,7
+202,Vans Warped Tour '13: 2013 Tour Compilation,Various Artists,49,2013-06-22,2013-08-24,335,10
+203,Amok,Atoms For Peace,2,2013-03-16,2013-04-06,332,4
+204,Nashville: Season 1: Volume 2,Soundtrack,13,2013-05-25,2013-06-29,332,6
+205,Notes From The Underground,Hollywood Undead,2,2013-01-26,2013-03-02,331,5
+206,Magpie And The Dandelion,The Avett Brothers,5,2013-11-02,2013-11-30,331,5
+207,To All The Girls...,Willie Nelson,9,2013-11-02,2013-11-30,331,5
+208,A Family Christmas,The Piano Guys,18,2013-11-09,2013-12-28,331,8
+209,On Air: Live At The BBC Volume 2,The Beatles,7,2013-11-30,2013-12-28,330,5
+210,It Goes Like This,Thomas Rhett,6,2013-11-16,2013-12-07,328,4
+211,DNA,Little Mix,4,2013-06-15,2013-07-20,326,6
+212,The Best Man Holiday,Soundtrack,22,2013-11-30,2013-12-28,324,5
+213,Hard 2 Love,Lee Brice,72,2013-01-19,2013-08-31,319,18
+214,Ray Charles Forever,Ray Charles,24,2013-10-12,2013-11-16,316,6
+215,All Around The World,Mindless Behavior,6,2013-03-30,2013-08-03,315,6
+216,Volume 3,She & Him,15,2013-05-25,2013-07-06,315,7
+217,Avril Lavigne,Avril Lavigne,5,2013-11-23,2013-12-14,313,4
+218,Trials & Tribulations,Ace Hood,4,2013-08-03,2013-08-24,306,4
+219,Feels Like Home,Sheryl Crow,7,2013-09-28,2013-10-26,306,5
+220,A Messenger,Colton Dixon,15,2013-02-16,2013-04-27,305,8
+221,Let's Be Still,The Head And The Heart,10,2013-11-02,2013-11-30,300,5
+222,Frozen,Soundtrack,9,2013-12-14,2013-12-28,297,3
+223,Greater Than,Tye Tribbett,9,2013-08-24,2013-09-28,297,6
+224,I Love You.,The Neighbourhood,39,2013-05-11,2013-12-07,296,18
+225,Alabama & Friends,Various Artists,8,2013-09-14,2013-10-12,294,5
+226,I Am,Yo Gotti,7,2013-12-07,2013-12-28,292,4
+227,Buon Natale: The Christmas Album,Il Volo,37,2013-11-09,2013-12-28,286,7
+228,The Twilight Saga: Breaking Dawn: Part 2,Soundtrack,32,2013-01-05,2013-04-06,280,8
+229,Wretched And Divine: The Story Of The Wild Ones,Black Veil Brides,7,2013-01-26,2013-06-29,279,5
+230,WOW Gospel 2013,Various Artists,42,2013-02-16,2013-04-06,276,8
+231,Eye On It,tobyMac,64,2013-01-05,2013-12-14,276,14
+232,Venomous Rat Regeneration Vendor,Rob Zombie,7,2013-05-11,2013-06-08,274,5
+233,The Hobbit: An Unexpected Journey,Soundtrack,44,2013-01-05,2013-04-06,270,7
+234,From Death To Destiny,Asking Alexandria,5,2013-08-24,2013-09-14,260,4
+235,Nothing To Lose,Emblem3,7,2013-08-17,2013-08-31,260,3
+236,Metallica: Through The Never (Soundtrack),Metallica,9,2013-10-12,2013-11-02,257,4
+237,How Country Feels,Randy Houser,11,2013-02-09,2013-08-31,257,9
+238,Rich Gang,Various Artists,9,2013-08-10,2013-08-31,253,4
+239,Britney Jean,Britney Spears,4,2013-12-21,2013-12-28,247,2
+240,Disarm The Descent,Killswitch Engage,7,2013-04-20,2013-05-11,247,4
+241,Confidencias,Alejandro Fernandez,19,2013-09-14,2013-10-19,246,6
+242,Love Lust Faith + Dreams,Thirty Seconds To Mars,6,2013-06-08,2013-06-22,243,3
+243,Mosquito,Yeah Yeah Yeahs,5,2013-05-04,2013-05-18,241,3
+244,Dogs Eating Dogs (EP),Blink-182,22,2013-01-05,2013-01-26,240,4
+245,Zion,Hillsong UNITED,5,2013-03-16,2013-04-06,237,4
+246,Wild Ones,Flo Rida,38,2013-01-12,2013-03-16,234,9
+247,"Merry Christmas, Baby",Rod Stewart,5,2013-01-05,2013-01-12,233,2
+248,Sail Out (EP),Jhene Aiko,8,2013-11-30,2013-12-28,229,4
+249,Lindsey Stirling,Lindsey Stirling,23,2013-02-02,2013-12-07,229,10
+250,Super Collider,Megadeth,6,2013-06-22,2013-07-06,227,3
+251,Bring You Back,Brett Eldredge,11,2013-08-24,2013-09-14,227,4
+252,Signed And Sealed In Blood,Dropkick Murphys,9,2013-01-26,2013-03-30,226,5
+253,Mother,Natalie Maines,17,2013-05-25,2013-06-22,226,5
+254,Fast & Furious 6,Soundtrack,24,2013-06-08,2013-06-29,225,4
+255,Temper Temper,Bullet For My Valentine,13,2013-03-02,2013-03-30,222,5
+256,NOW That's What I Call Disney 2,Various Artists,25,2013-11-30,2013-12-28,219,5
+257,Let The Future Begin,Passion,4,2013-03-30,2013-04-13,218,3
+258,Doris,Earl Sweatshirt,5,2013-09-07,2013-09-21,217,3
+259,Suffering From Success,DJ Khaled,7,2013-11-09,2013-11-23,216,3
+260,20,TLC,12,2013-11-02,2013-11-30,216,5
+261,Reckless,Jeremy Camp,31,2013-03-02,2013-12-14,215,6
+262,The Best Of Nickelback: Volume 1,Nickelback,20,2013-12-07,2013-12-28,213,4
+263,Device,Device,11,2013-04-27,2013-05-25,212,5
+264,Overcomer,Mandisa,29,2013-09-14,2013-10-12,210,5
+265,Dream Theater,Dream Theater,7,2013-10-12,2013-10-26,209,3
+266,10,New Kids On The Block,6,2013-04-20,2013-05-04,208,3
+267,Memphis,Boz Scaggs,17,2013-03-23,2013-04-20,208,5
+268,Didn't It Rain,Hugh Laurie,21,2013-08-24,2013-09-14,207,4
+269,California 37,Train,24,2013-01-05,2013-08-10,207,9
+270,WOW Christmas (Blue),Various Artists,39,2013-11-30,2013-12-28,207,5
+271,Glee: The Quarterback (EP),Soundtrack,7,2013-10-26,2013-11-02,206,2
+272,NOW That's What I Call A Country Party,Various Artists,31,2013-05-25,2013-06-22,206,5
+273,Recharged,Linkin Park,10,2013-11-16,2013-11-30,205,3
+274,Danielle Bradbery,Danielle Bradbery,18,2013-12-14,2013-12-28,205,3
+275,Man Of Steel,Soundtrack,9,2013-06-29,2013-07-13,204,3
+276,#willpower,will.i.am,9,2013-05-11,2013-06-15,203,6
+277,We Are Tonight,Billy Currington,10,2013-10-05,2013-10-26,203,4
+278,A Musical Affair: The Greatest Songs From The World's Favourite Musicals,Il Divo,19,2013-11-23,2013-12-07,203,3
+279,"The Worse Things Get, The Harder I Fight...",Neko Case,12,2013-09-21,2013-10-12,201,4
+280,Beyonce,Beyonce,1,2013-12-28,2013-12-28,200,1
+281,Kidz Bop 22,Kidz Bop Kids,52,2013-01-05,2013-02-02,200,5
+282,Love Has Come For You,Steve Martin & Edie Brickell,21,2013-05-11,2013-07-20,198,7
+283,Love Will...,Trace Adkins,14,2013-06-01,2013-06-22,195,4
+284,Tracing Back Roots,We Came As Romans,8,2013-08-10,2013-08-24,191,3
+285,An Awesome Wave,alt-J,78,2013-01-19,2013-09-28,191,17
+286,How Mercy Looks From Here,Amy Grant,12,2013-06-01,2013-06-22,190,4
+287,Rescue & Restore,August Burns Red,9,2013-07-13,2013-07-27,189,3
+288,House Of Gold & Bones: Part 2,Stone Sour,10,2013-04-27,2013-05-18,189,4
+289,Made Up Mind,Tedeschi Trucks Band,11,2013-09-07,2013-09-28,189,4
+290,Sound City -- Real To Reel,Soundtrack,8,2013-03-30,2013-04-13,185,3
+291,Trap Lord,A$AP Ferg,9,2013-09-07,2013-09-21,184,3
+292,Old Yellow Moon,Emmylou Harris & Rodney Crowell,27,2013-03-16,2013-04-13,184,5
+293,No Love Lost,Joe Budden,15,2013-02-23,2013-03-16,179,4
+294,IV Play,The-Dream,16,2013-06-15,2013-07-06,179,4
+295,Lotus,Christina Aguilera,55,2013-01-05,2013-03-30,179,6
+296,Foreverly,Billie Joe + Norah,34,2013-12-14,2013-12-28,176,3
+297,NOW 43,Various Artists,59,2013-01-05,2013-02-02,175,5
+298,Comedown Machine,The Strokes,10,2013-04-13,2013-04-27,174,3
+299,Ultimate Hits: Rock And Roll Never Forgets,Bob Seger & The Silver Bullet Band,49,2013-01-26,2013-05-11,174,6
+300,Bones Of What You Believe,CHVRCHES,12,2013-10-12,2013-10-26,172,3
+301,Django Unchained,Soundtrack,53,2013-01-12,2013-05-04,168,6
+302,Black Panties,R. Kelly,4,2013-12-28,2013-12-28,167,1
+303,Better Together (EP),Fifth Harmony,6,2013-11-09,2013-11-16,167,2
+304,Sempiternal,Bring Me The Horizon,11,2013-04-20,2013-08-17,167,7
+305,The Sound Of Music: Music From The NBC Television Event,Soundtrack,15,2013-12-21,2013-12-28,165,2
+306,Grinning Streak,Barenaked Ladies,10,2013-06-22,2013-06-29,163,2
+307,Magnetic,Goo Goo Dolls,8,2013-06-29,2013-07-13,161,3
+308,Soy El Mismo,Prince Royce,14,2013-10-26,2013-11-09,160,3
+309,Halfway To Heaven,Brantley Gilbert,60,2013-02-02,2013-06-08,160,12
+310,On This Winter's Night,Lady Antebellum,10,2013-01-05,2013-01-12,158,2
+311,"Now, Then & Forever","Earth, Wind & Fire",11,2013-09-28,2013-10-19,158,4
+312,Don't Look Down,Skylar Grey,8,2013-07-27,2013-08-03,157,2
+313,The Wack Album,The Lonely Island,10,2013-06-29,2013-07-06,157,2
+314,Reincarnated,Snoop Lion,16,2013-05-11,2013-07-20,156,4
+315,Withholding Nothing,William McDowell,28,2013-11-23,2013-12-07,153,3
+316,Keep It Redneck,The Lacs,23,2013-09-07,2013-09-28,152,4
+317,Paradise (EP),Lana Del Rey,53,2013-01-12,2013-09-07,152,9
+318,Bakersfield,Vince Gill & Paul Franklin,22,2013-08-17,2013-08-31,150,3
+319,Burials,AFI,9,2013-11-09,2013-11-16,149,2
+320,Another Self Portrait: The Bootleg Series Vol. 10 (1969-1971),Bob Dylan,21,2013-09-14,2013-09-28,149,3
+321,Top 25 Praise Songs: 2014 Edition,Various Artists,53,2013-09-14,2013-12-14,149,6
+322,Days Of Gold,Jake Owen,13,2013-12-21,2013-12-28,148,2
+323,Ellen's I'm Gonna Make You Dance Jams,Various Artists,35,2013-11-30,2013-12-28,147,4
+324,Official 2013 Academy Of Country Music Awards 'ZinePak,Various Artists,37,2013-04-13,2013-04-27,147,3
+325,Tre!,Green Day,53,2013-01-05,2013-01-26,147,4
+326,Kiss,Carly Rae Jepsen,38,2013-01-05,2013-01-26,146,4
+327,Azusa: The Next Generation,Hezekiah Walker,30,2013-06-29,2013-08-03,145,5
+328,Make A Move,Gavin DeGraw,13,2013-11-02,2013-11-09,144,2
+329,"10,000 Reasons",Matt Redman,59,2013-05-18,2013-06-15,144,5
+330,PTX: Vol. II,Pentatonix,10,2013-11-23,2013-11-30,142,2
+331,Fortress,Alter Bridge,12,2013-10-26,2013-11-09,141,3
+332,Ceremonials,Florence + The Machine,49,2013-01-12,2013-03-02,141,7
+333,The Afterman: Descension,Coheed And Cambria,9,2013-02-23,2013-03-02,140,2
+334,Under The Influence: Holiday Edition (EP),Straight No Chaser,33,2013-11-16,2013-12-28,140,4
+335,Monsters In The Closet,Mayday Parade,10,2013-10-26,2013-11-02,139,2
+336,The Last Ship,Sting,13,2013-10-12,2013-10-26,139,3
+337,Rhythm & Blues,Buddy Guy,24,2013-08-17,2013-08-31,138,3
+338,This Song Is For You,Ronald Isley,27,2013-08-03,2013-08-17,138,3
+339,Southeastern,Jason Isbell,23,2013-06-29,2013-08-10,137,4
+340,Edward Sharpe & The Magnetic Zeros,Edward Sharpe & The Magnetic Zeros,14,2013-08-10,2013-08-17,136,2
+341,Deceiver Of The Gods,Amon Amarth,19,2013-07-13,2013-07-27,136,3
+342,GRRR!,The Rolling Stones,47,2013-01-05,2013-02-02,136,5
+343,Get Wet,Krewella,8,2013-10-12,2013-10-19,135,2
+344,Because The Internet,Childish Gambino,7,2013-12-28,2013-12-28,134,1
+345,Hello My Name Is...,Bridgit Mendler,58,2013-01-12,2013-02-09,133,5
+346,Ready Set Roll (EP),Chase Rice,16,2013-11-02,2013-11-09,132,2
+347,Live: Glorious Ruins,Hillsong Worship,18,2013-07-20,2013-08-03,132,3
+348,The Standards,Gloria Estefan,20,2013-09-28,2013-10-12,132,3
+349,"Cheers, It's Christmas",Blake Shelton,15,2013-01-05,2013-01-12,131,2
+350,1969 - Siempre: En Vivo Desde Monterrey: Parte 1,Jenni Rivera,23,2013-12-21,2013-12-28,131,2
+351,R.E.D,Ne-Yo,50,2013-01-05,2013-01-26,131,4
+352,Trouble,Randy Rogers Band,9,2013-05-18,2013-05-25,130,2
+353,Fashionably Late,Falling In Reverse,17,2013-07-06,2013-07-20,129,3
+354,Right Place Right Time,Olly Murs,19,2013-05-04,2013-05-11,129,2
+355,Sway,Blue October,13,2013-09-07,2013-09-21,128,3
+356,Church Clothes: Vol. 2,Lecrae,21,2013-11-23,2013-11-30,128,2
+357,Melophobia,Cage The Elephant,15,2013-10-26,2013-11-09,126,3
+358,Surfers Paradise,Cody Simpson,10,2013-08-03,2013-08-24,125,3
+359,Lead With Your Heart,The Tenors,21,2013-02-02,2013-02-23,124,3
+360,Beast In Its Tracks,Josh Ritter,22,2013-03-23,2013-03-30,124,2
+361,Welcome To The Fishbowl,Kenny Chesney,60,2013-01-05,2013-01-26,124,4
+362,Black Radio 2,Robert Glasper Experiment,16,2013-11-16,2013-11-23,123,2
+363,Hurricane,Natalie Grant,17,2013-11-02,2013-11-09,123,2
+364,Blunderbuss,Jack White,51,2013-01-12,2013-03-23,123,8
+365,The Woman I Am,Kellie Pickler,19,2013-11-30,2013-12-07,121,2
+366,Tomorrow's Harvest,Boards Of Canada,13,2013-06-29,2013-07-13,120,3
+367,Wise Up Ghost And Other Songs 2013,Elvis Costello And The Roots,16,2013-10-05,2013-10-12,120,2
+368,Cee Lo's Magic Moment,CeeLo Green,25,2013-01-05,2013-01-12,120,2
+369,'Tis The Season,Various Artists,43,2013-11-30,2013-12-21,120,3
+370,Black Out The Sun,Sevendust,18,2013-04-13,2013-04-27,118,3
+371,A Place Called Love Land,Raheem DeVaughn,22,2013-09-21,2013-09-28,118,2
+372,Hummingbird,Local Natives,12,2013-02-16,2013-02-23,117,2
+373,Crickets,Joe Nichols,17,2013-10-26,2013-11-02,117,2
+374,Connect,Sick Puppies,17,2013-08-03,2013-08-10,116,2
+375,Kveikur,Sigur Ros,14,2013-07-06,2013-07-13,113,2
+376,Direct Hits,The Killers,20,2013-11-30,2013-12-07,113,2
+377,Clublife Vol 3: Stockholm,Tiesto,40,2013-07-06,2013-07-20,111,3
+378,M.O.,Nelly,14,2013-10-19,2013-10-26,110,2
+379,Tate Stevens,Tate Stevens,18,2013-05-11,2013-05-18,110,2
+380,Face The Music,Avant,40,2013-02-23,2013-03-09,110,3
+381,Pink Friday: Roman Reloaded,Nicki Minaj,70,2013-01-05,2013-02-02,110,5
+382,Paracosm,Washed Out,21,2013-08-31,2013-09-07,109,2
+383,"United Tenors: Hammond, Hollister, Roberson, Wilson",Fred Hammond,38,2013-04-13,2013-04-27,109,3
+384,Fade,Yo La Tengo,26,2013-02-02,2013-02-09,108,2
+385,In A Tidal Wave Of Mystery,Capital Cities,66,2013-06-22,2013-09-28,108,8
+386,Earth Rocker,Clutch,15,2013-04-06,2013-04-13,107,2
+387,"Mountains Of Sorrow, Rivers Of Song",Amos Lee,16,2013-10-26,2013-11-02,107,2
+388,Your Grace Finds Me,Matt Redman,28,2013-10-12,2013-10-19,106,2
+389,Damage,Jimmy Eat World,14,2013-06-29,2013-07-06,105,2
+390,Vengeance Falls,Trivium,15,2013-11-02,2013-11-09,105,2
+391,Confessions,Buckcherry,20,2013-03-09,2013-03-16,105,2
+392,My True Story,Aaron Neville,45,2013-02-09,2013-03-23,105,4
+393,Heroes For Sale,Andy Mineo,11,2013-05-04,2013-05-11,104,2
+394,Red River Blue,Blake Shelton,36,2013-01-05,2013-01-19,104,3
+395,Winter Loversland,Tamar Braxton,39,2013-11-30,2013-12-21,104,3
+396,Under The Influence,Straight No Chaser,28,2013-05-25,2013-06-01,102,2
+397,20 Year Celebration - Vol. 1: Best For Last,Donald Lawrence,30,2013-10-12,2013-10-26,102,3
+398,Cities 97 Sampler // Live From Studio C: Vol. 25,Various Artists,10,2013-12-07,2013-12-07,101,1
+399,Matangi,M.I.A.,23,2013-11-23,2013-11-30,101,2
+400,Almost Home (EP),Kid Ink,26,2013-06-15,2013-06-22,101,2
+401,The Music Is You: A Tribute To John Denver,Various Artists,36,2013-04-20,2013-04-27,101,2
+402,Motown 25,Various Artists,50,2013-08-10,2013-08-17,101,2
+403,Atmosphere,Kaskade,16,2013-09-28,2013-10-05,100,2
+404,Authentic,LL Cool J,23,2013-05-18,2013-05-25,100,2
+405,Get Up!,Ben Harper With Charlie Musselwhite,27,2013-02-16,2013-02-23,100,2
+406,Tides,Bethel Music,30,2013-09-21,2013-09-28,100,2
+407,4,Beyonce,61,2013-02-16,2013-03-09,100,4
+408,True North,Bad Religion,19,2013-02-09,2013-02-16,99,2
+409,Forever,Donell Jones,20,2013-07-27,2013-08-03,99,2
+410,Every Man Should Know,"Harry Connick, Jr.",33,2013-06-29,2013-07-06,99,2
+411,Moon Landing,James Blunt,20,2013-11-23,2013-11-30,98,2
+412,More Than Just A Dream,Fitz And The Tantrums,26,2013-05-25,2013-06-01,98,2
+413,Christmas With Scotty McCreery,Scotty McCreery,30,2013-01-05,2013-01-12,98,2
+414,The Terror,The Flaming Lips,21,2013-05-04,2013-05-11,97,2
+415,Queensryche,Queensryche,23,2013-07-13,2013-07-20,97,2
+416,The 1975,The 1975,28,2013-09-21,2013-09-28,97,2
+417,Ice On The Dune,Empire Of The Sun,20,2013-07-06,2013-07-13,96,2
+418,Age Against The Machine,Goodie Mob,30,2013-09-14,2013-09-21,96,2
+419,The Acoustic Sessions {Volume One},Casting Crowns,35,2013-02-09,2013-02-16,96,2
+420,The Piano Guys 2,The Piano Guys,38,2013-05-25,2013-06-08,96,3
+421,Common Courtesy,A Day To Remember,40,2013-12-21,2013-12-28,96,2
+422,The Lone Bellow,The Lone Bellow,58,2013-02-02,2013-03-16,95,3
+423,MGMT,MGMT,14,2013-10-05,2013-10-12,94,2
+424,Iron Man 3: Heroes Fall: Music Inspired By The Motion Picture,Soundtrack,16,2013-05-18,2013-05-25,94,2
+425,The Glorious Unfolding,Steven Curtis Chapman,27,2013-10-19,2013-10-26,94,2
+426,Spitfire,LeAnn Rimes,36,2013-06-22,2013-06-29,94,2
+427,Sending You A Little Christmas,Johnny Mathis,43,2013-12-21,2013-12-28,94,2
+428,Louder,R5,24,2013-10-12,2013-10-19,93,2
+429,We Are Young & Free,Hillsong Young & Free,22,2013-10-19,2013-10-26,92,2
+430,Ungrateful,Escape The Fate,27,2013-06-01,2013-06-08,92,2
+431,Gracias Por Estar Aqui,Marco Antonio Solis,38,2013-11-09,2013-11-16,92,2
+432,Pluto,Future,84,2013-01-19,2013-03-30,92,9
+433,Glee Sings The Beatles,Soundtrack,38,2013-10-12,2013-10-19,91,2
+434,Hope On The Rocks,Toby Keith,61,2013-01-05,2013-01-26,90,4
+435,The Hurt & The Healer,MercyMe,64,2013-03-30,2013-04-20,90,4
+436,The Hurry And The Harm,City And Colour,16,2013-06-22,2013-06-29,89,2
+437,Aftershock,Motorhead,22,2013-11-09,2013-11-16,88,2
+438,Infestissumam,Ghost B.C.,28,2013-05-04,2013-05-11,88,2
+439,Girl Who Got Away,Dido,31,2013-04-13,2013-04-20,88,2
+440,Overgrown,James Blake,32,2013-04-27,2013-05-04,88,2
+441,SMASH: Bombshell,Soundtrack,42,2013-03-02,2013-03-09,88,2
+442,Megalithic Symphony,AWOLNATION,80,2013-01-26,2013-12-07,88,9
+443,Dreamchaser,Sarah Brightman,17,2013-05-04,2013-05-11,87,2
+444,Pasion,Andrea Bocelli,58,2013-02-16,2013-03-02,87,3
+445,Joyas Prestadas: Banda,Jenni Rivera,74,2013-01-05,2013-02-09,87,5
+446,Overnight,Parachute,15,2013-08-31,2013-08-31,86,1
+447,Hollow Bodies,blessthefall,15,2013-09-07,2013-09-07,86,1
+448,Tears On Tape,HIM,15,2013-05-18,2013-05-18,86,1
+449,The Voice: The Complete Season 4 Collection,Danielle Bradbery,19,2013-07-06,2013-07-13,86,2
+450,Ghost On Ghost,Iron And Wine,26,2013-05-04,2013-05-11,86,2
+451,Adrian Younge Presents: Twelve Reasons To Die,Ghostface Killah,27,2013-05-04,2013-05-11,86,2
+452,In Time,The Mavericks,37,2013-03-16,2013-03-23,86,2
+453,Star Trek: Into Darkness,Soundtrack,58,2013-06-01,2013-06-15,86,3
+454,The Walking In Between,Ben Rector,16,2013-09-07,2013-09-07,85,1
+455,Collapsible Lung,Relient K,16,2013-07-20,2013-07-20,85,1
+456,Foreword (EP),Tori Kelly,16,2013-11-09,2013-11-09,85,1
+457,Last Of The Great Pretenders,Matt Nathanson,16,2013-08-03,2013-08-03,85,1
+458,The Winery Dogs,The Winery Dogs,27,2013-08-10,2013-08-17,85,2
+459,Word Of Mouth,The Wanted,17,2013-11-23,2013-11-23,84,1
+460,Dreams Of Fireflies (On A Christmas Night) (EP),Trans-Siberian Orchestra,40,2013-01-05,2013-01-12,84,2
+461,You Can't Make Old Friends,Kenny Rogers,43,2013-10-26,2013-11-02,84,2
+462,Kanye West Presents GOOD Music Cruel Summer,Various Artists,56,2013-01-12,2013-01-26,84,3
+463,Old,Danny Brown,18,2013-10-26,2013-10-26,83,1
+464,Long Forgotten Songs: B-Sides & Covers 2000 - 2013,Rise Against,19,2013-09-28,2013-10-05,83,2
+465,Don't Panic,All Time Low,19,2013-10-19,2013-10-19,82,1
+466,"Sunshine Daydream: Veneta, Oregon August 27, 1972",Grateful Dead,19,2013-10-05,2013-10-05,82,1
+467,Hyde Park Live,The Rolling Stones,19,2013-08-10,2013-08-10,82,1
+468,Seether: 2002-2013,Seether,22,2013-11-16,2013-11-23,82,2
+469,Electric,Pet Shop Boys,26,2013-08-03,2013-08-10,82,2
+470,Deep Roots,Steven Curtis Chapman,57,2013-03-30,2013-04-20,82,4
+471,The Greatest Generation,The Wonder Years,20,2013-06-01,2013-06-01,81,1
+472,Fix Me Up (EP),A Firm Handshake,20,2013-06-08,2013-06-08,81,1
+473,Volition,Protest The Hero,20,2013-11-16,2013-11-16,81,1
+474,8:18,The Devil Wears Prada,20,2013-10-05,2013-10-05,81,1
+475,The Divinity Of Purpose,Hatebreed,20,2013-02-16,2013-02-16,81,1
+476,Regions Of Light And Sound Of God Audio,Jim James,34,2013-02-23,2013-03-02,81,2
+477,Spreading Rumours,Grouplove,21,2013-10-05,2013-10-05,80,1
+478,Battle Born,The Killers,68,2013-01-05,2013-01-19,80,3
+479,Anthem,Hanson,22,2013-07-06,2013-07-06,79,1
+480,About That Life,Attila,22,2013-07-13,2013-07-13,79,1
+481,Life Love & Hope,Boston,31,2013-12-21,2013-12-28,79,2
+482,Mud Digger 4,Various Artists,38,2013-07-20,2013-07-27,79,2
+483,Miracle,Third Day,77,2013-01-05,2013-11-16,79,6
+484,Get Home Safely,Dom Kennedy,23,2013-11-02,2013-11-02,78,1
+485,"Dave's Picks: Volume 7: Horton Field House, Illinois State, Normal, Illinoi",Grateful Dead,23,2013-08-17,2013-08-17,78,1
+486,Sammy Hagar & Friends,Sammy Hagar,23,2013-10-12,2013-10-12,78,1
+487,"Eric Clapton Guitar Festival: Crossroads: Live: MSG, NY, April 2013",Various Artists,23,2013-12-07,2013-12-07,78,1
+488,Standing Ovation: The Greatest Songs From The Stage,Susan Boyle,54,2013-01-05,2013-02-02,78,5
+489,The Blue Room,Madeleine Peyroux,60,2013-03-23,2013-04-06,78,3
+490,High Rise (EP),Stone Temple Pilots With Chester Bennington,24,2013-10-26,2013-10-26,77,1
+491,A Color Map Of The Sun,Pretty Lights,24,2013-07-20,2013-07-20,77,1
+492,"Viva! Hysteria: Live At The Joint, Las Vegas",Def Leppard,24,2013-11-09,2013-11-09,77,1
+493,The Grohl Sessions: Vol. I (EP),Zac Brown Band,24,2013-12-28,2013-12-28,77,1
+494,My Shame Is True,Alkaline Trio,24,2013-04-20,2013-04-20,77,1
+495,"Right Thoughts, Right Words, Right Action",Franz Ferdinand,24,2013-09-14,2013-09-14,77,1
+496,All People,Michael Franti & Spearhead,26,2013-08-17,2013-08-24,77,2
+497,"Call Me Crazy, But... (EP)",Sevyn Streeter,26,2013-12-21,2013-12-28,77,2
+498,Reset,Isaac Carree,39,2013-07-13,2013-07-20,77,2
+499,One Of Us Is The Killer,The Dillinger Escape Plan,25,2013-06-01,2013-06-01,76,1
+500,The Life And Times Of Jonny Valiant,Rittz,25,2013-05-18,2013-05-18,76,1
+501,PAX-AM Days (EP),Fall Out Boy,25,2013-11-02,2013-11-02,76,1
+502,Savage Life 4,Webbie,25,2013-12-07,2013-12-07,76,1
+503,Live: In Concert (EP),Wiz Khalifa & Curren$Y,30,2013-05-04,2013-05-11,76,2
+504,Welcome Oblivion,How To Destroy Angels,30,2013-03-23,2013-04-06,76,2
+505,American Kid,Patty Griffin,36,2013-05-25,2013-06-01,76,2
+506,Repave,Volcano Choir,40,2013-09-21,2013-09-28,76,2
+507,Us Against Them,Jake Miller,26,2013-11-23,2013-11-23,75,1
+508,Songs For The Philippines,Various Artists,26,2013-12-14,2013-12-14,75,1
+509,Me You & The Music,Jessica Sanchez,26,2013-05-18,2013-05-18,75,1
+510,Live At The Cellar Door,Neil Young,26,2013-12-28,2013-12-28,75,1
+511,Dreams And Nightmares,Meek Mill,62,2013-01-12,2013-01-26,75,3
+512,Tomorrow We Die Alive,Born Of Osiris,27,2013-09-07,2013-09-07,74,1
+513,Such Hot Blood,The Airborne Toxic Event,27,2013-05-18,2013-05-18,74,1
+514,Home / Phantoms Of Summer / The Acoustic Sessions,The Dirty Heads,27,2013-11-16,2013-11-16,74,1
+515,Push The Sky Away,Nick Cave & The Bad Seeds,29,2013-03-09,2013-03-16,74,2
+516,Haunted House (EP),Knife Party,37,2013-05-25,2013-06-01,74,2
+517,Trill O.G.: The Epilogue,Bun-B,28,2013-11-30,2013-11-30,73,1
+518,New Demons,I See Stars,28,2013-11-09,2013-11-09,73,1
+519,Americoustic  (EP),Hoodie Allen,28,2013-08-31,2013-08-31,73,1
+520,Evil Friends,Portugal. The Man,28,2013-06-22,2013-06-22,73,1
+521,The Spirit Of Ireland,Various Artists,28,2013-03-30,2013-03-30,73,1
+522,Bangarang (EP),Skrillex,77,2013-01-12,2013-04-27,73,8
+523,When It Was Now,Atlas Genius,34,2013-03-09,2013-03-16,72,2
+524,The Walking Dead: AMC Original Soundtrack - Vol. 1 (EP),Soundtrack,52,2013-03-30,2013-04-06,72,2
+525,Corazon Profundo,Carlos Vives,58,2013-05-11,2013-05-18,72,2
+526,18 Months,Calvin Harris,80,2013-01-19,2013-07-27,72,5
+527,Where Does This Door Go,Mayer Hawthorne,30,2013-08-03,2013-08-03,71,1
+528,Vida,Draco Rosa,30,2013-04-06,2013-04-06,71,1
+529,Nashville: Season 2: Volume 1,Soundtrack,30,2013-12-28,2013-12-28,71,1
+530,Shout!,Gov't Mule,32,2013-10-12,2013-10-19,71,2
+531,Stories Don't End,Dawes,36,2013-04-27,2013-05-04,71,2
+532,Therapy: Sessions With Ross Robinson,Tech N9ne,31,2013-11-23,2013-11-23,70,1
+533,Clockwork Angels Tour,Rush,31,2013-12-07,2013-12-07,70,1
+534,Settle,Disclosure,38,2013-06-22,2013-06-29,70,2
+535,Seasons Of Your Day,Mazzy Star,42,2013-10-12,2013-10-19,70,2
+536,Lucid,Lyfe Jennings,32,2013-10-26,2013-10-26,69,1
+537,Standoff,Casey Donahew Band,32,2013-05-04,2013-05-04,69,1
+538,Fall Into Me,Katie Armiger,32,2013-02-02,2013-02-02,69,1
+539,Everblack,The Black Dahlia Murder,32,2013-06-29,2013-06-29,69,1
+540,Winter Kills,DevilDriver,32,2013-09-14,2013-09-14,69,1
+541,The Mortal Instruments: City Of Bones,Soundtrack,32,2013-09-07,2013-09-07,69,1
+542,"Dave's Picks Volume 6: San Francisco, 12/20/69/St. Louis, 2/2/70",Grateful Dead,32,2013-06-01,2013-06-01,69,1
+543,Finish Strong,Jonathan Nelson,46,2013-05-11,2013-05-18,69,2
+544,No More Hell To Pay,Stryper,33,2013-11-23,2013-11-23,68,1
+545,Gossamer,Passion Pit,33,2013-03-16,2013-03-16,68,1
+546,Restart,newsboys,38,2013-09-28,2013-12-07,68,3
+547,The Love Club (EP),Lorde,65,2013-10-19,2013-10-26,68,2
+548,Contrast,Conor Maynard,34,2013-01-26,2013-01-26,67,1
+549,Unplugged On VH1 (EP),The Civil Wars,34,2013-02-02,2013-02-02,67,1
+550,The Hobbit: The Desolation of Smaug,Soundtrack,34,2013-12-28,2013-12-28,67,1
+551,Free The Universe,Major Lazer,34,2013-05-04,2013-05-04,67,1
+552,Proof Of Life,Scott Stapp,35,2013-11-23,2013-11-23,66,1
+553,Specter At The Feast,Black Rebel Motorcycle Club,35,2013-04-06,2013-04-06,66,1
+554,Three Sixty,A Perfect Circle,35,2013-12-07,2013-12-07,66,1
+555,Vapor Trails: Remixed,Rush,35,2013-10-19,2013-10-19,66,1
+556,Walk Through Exits Only,Philip H. Anselmo & The Illegals,35,2013-08-03,2013-08-03,66,1
+557,Unstoppable Momentum,Joe Satriani,42,2013-05-25,2013-06-01,66,2
+558,Warning Signs (EP),Timeflies,36,2013-11-02,2013-11-02,65,1
+559,This Is...,Icona Pop,36,2013-10-12,2013-10-12,65,1
+560,Ain't No Mountain High Enough: A Tribute To Hitsville U.S.A.,Michael Bolton,36,2013-03-16,2013-03-16,65,1
+561,The W.I. N. (Worship In Nassau) Experience: Live In Nassau Bahamas 20/15 Co,Earnest Pugh,46,2013-10-05,2013-10-12,65,2
+562,Sticks & Stones,Cher Lloyd,62,2013-01-12,2013-01-19,65,2
+563,Miami Pop Festival,The Jimi Hendrix Experience,37,2013-11-23,2013-11-23,64,1
+564,Stranger Than Fiction,Kevin Gates,37,2013-08-03,2013-08-03,64,1
+565,Unimagine,Hands Like Houses,37,2013-08-10,2013-08-10,64,1
+566,Wrongdoers,Norma Jean,37,2013-08-24,2013-08-24,64,1
+567,Pushin' Against A Stone,Valerie June,41,2013-08-31,2013-09-07,64,2
+568,Gracias Por Creer,La Arrolladora Banda el Limon de Rene Camacho,48,2013-08-24,2013-08-31,64,2
+569,Feels Like Carolina,Parmalee,38,2013-12-28,2013-12-28,63,1
+570,"Dave's Picks Volume 5: Pauley Pavilion, UCLA, Los Angeles, CA: 11/17/73",Grateful Dead,38,2013-02-16,2013-02-16,63,1
+571,The Ascension,Phil Wickham,39,2013-10-12,2013-10-12,62,1
+572,Still Believe,Kim Walker-Smith,39,2013-02-02,2013-02-02,62,1
+573,Forever Halloween,The Maine,39,2013-06-22,2013-06-22,62,1
+574,Low Highway,Steve Earle & The Dukes (& Duchesses),39,2013-05-04,2013-05-04,62,1
+575,Onyx,Pop Evil,39,2013-06-01,2013-06-01,62,1
+576,We Won't Be Shaken,Building 429,53,2013-06-22,2013-06-29,62,2
+577,The Road To Red Rocks: Live,Mumford & Sons,54,2013-02-23,2013-03-02,62,2
+578,Love In Portofino,Andrea Bocelli,40,2013-11-09,2013-11-09,61,1
+579,Heavy Metal Music,Newsted,40,2013-08-24,2013-08-24,61,1
+580,Minorville,Derek Minor,40,2013-09-28,2013-09-28,61,1
+581,Anonymous,Stray From The Path,40,2013-10-05,2013-10-05,61,1
+582,Reanimate 2.0: The Covers (EP),Halestorm,40,2013-11-02,2013-11-02,61,1
+583,Event 2,Deltron 3030,41,2013-10-19,2013-10-19,60,1
+584,Glee: The Music: Season 5: A Katy Or A Gaga (EP),Soundtrack,41,2013-11-23,2013-11-23,60,1
+585,Surgical Steel,Carcass,41,2013-10-05,2013-10-05,60,1
+586,Monomania,Deerhunter,41,2013-05-25,2013-05-25,60,1
+587,Rise,A Skylit Drive,41,2013-10-12,2013-10-12,60,1
+588,Homecoming (EP),Sammy Adams,41,2013-12-07,2013-12-07,60,1
+589,Nothing Is Wasted,Elevation Worship,41,2013-03-09,2013-03-09,60,1
+590,Acceptance Speech,Dance Gavin Dance,42,2013-10-26,2013-10-26,59,1
+591,Shangri La,Jake Bugg,42,2013-12-07,2013-12-07,59,1
+592,Can't Get Enough,The Rides,42,2013-09-14,2013-09-14,59,1
+593,Like A Rose,Ashley Monroe,43,2013-03-23,2013-03-23,58,1
+594,Cardboard Castles,Watsky,43,2013-03-30,2013-03-30,58,1
+595,Bless This House,Kurt Carr & The Kurt Carr Singers,43,2013-02-09,2013-02-09,58,1
+596,Kingdom Come,Bryan & Katie Torwalt,43,2013-11-02,2013-11-02,58,1
+597,The Other Side,Tonight Alive,43,2013-09-28,2013-09-28,58,1
+598,Say Goodbye (EP),Nicholas David,43,2013-06-29,2013-06-29,58,1
+599,Crown Of Phantoms,Chimaira,44,2013-08-17,2013-08-17,57,1
+600,Reborn,Trapt,44,2013-02-09,2013-02-09,57,1
+601,"Night Time, My Time",Sky Ferreira,44,2013-11-16,2013-11-16,57,1
+602,El Corazon Decide,Ednita Nazario,44,2013-11-09,2013-11-09,57,1
+603,What You Don't See,The Story So Far,45,2013-04-13,2013-04-13,56,1
+604,Pura Vida Conspiracy,Gogol Bordello,45,2013-08-10,2013-08-10,56,1
+605,Heart Attack,Man Overboard,45,2013-06-15,2013-06-15,56,1
+606,Prevailer (EP),For Today,46,2013-04-20,2013-04-20,55,1
+607,Wakin On A Pretty Daze,Kurt Vile,46,2013-04-27,2013-04-27,55,1
+608,Lip Lock,Eve,46,2013-06-01,2013-06-01,55,1
+609,Unvarnished,Joan Jett & the Blackhearts,47,2013-10-19,2013-10-19,54,1
+610,Get Happy,Pink Martini,47,2013-10-12,2013-10-12,54,1
+611,Seesaw,Beth Hart And Joe Bonamassa,47,2013-06-08,2013-06-08,54,1
+612,Home,Kim Walker-Smith & Skyler Smith,47,2013-08-03,2013-08-03,54,1
+613,Teenage Dream,Katy Perry,81,2013-01-05,2013-02-02,54,5
+614,Extended Play (EP),Fleetwood Mac,48,2013-05-18,2013-05-18,53,1
+615,Dirt Road Driveway,Granger Smith,48,2013-05-04,2013-05-04,53,1
+616,Prisoner Of Conscious,Talib Kweli,48,2013-05-25,2013-05-25,53,1
+617,Once I Was An Eagle,Laura Marling,48,2013-06-15,2013-06-15,53,1
+618,In Rolling Waves,The Naked And Famous,48,2013-10-05,2013-10-05,53,1
+619,Willie Nelson And Family: Let's Face The Music And Dance,Willie Nelson,49,2013-05-04,2013-05-04,52,1
+620,I Am Mountain,Gungor,49,2013-10-12,2013-10-12,52,1
+621,Bitter Rivals,Sleigh Bells,49,2013-10-26,2013-10-26,52,1
+622,An Acoustic Evening At The Vienna Opera House,Joe Bonamassa,50,2013-04-13,2013-04-13,51,1
+623,Kinky Boots,Original Broadway Cast Recording,50,2013-06-15,2013-06-15,51,1
+624,Fight For My Soul,Jonny Lang,50,2013-10-05,2013-10-05,51,1
+625,B-Room,Dr. Dog,50,2013-10-19,2013-10-19,51,1
+626,Anthems (EP),Anthrax,50,2013-04-06,2013-04-06,51,1
+627,Opus Collection,Fleetwood Mac,72,2013-09-21,2013-09-28,51,2
+628,Living Things,Linkin Park,74,2013-01-12,2013-01-19,51,2
+629,Tape Deck Heart,Frank Turner,51,2013-05-11,2013-05-11,50,1
+630,"ONXRT: Live From the Archives, Volume 15",Various Artists,51,2013-12-21,2013-12-21,50,1
+631,"Glee: The Music, The Christmas Album: Volume 3",Soundtrack,51,2013-01-05,2013-01-05,50,1
+632,Dear Miss Lonelyhearts,Cold War Kids,51,2013-04-20,2013-04-20,50,1
+633,Shaking The Habitual,The Knife,51,2013-04-27,2013-04-27,50,1
+634,Zendaya,Zendaya,51,2013-10-05,2013-10-05,50,1
+635,Wolf's Law,The Joy Formidable,51,2013-02-09,2013-02-09,50,1
+636,Need You Now,Plumb,51,2013-03-16,2013-03-16,50,1
+637,The Things We Think We're Missing,Balance And Composure,51,2013-09-28,2013-09-28,50,1
+638,Mythology,Celtic Thunder,51,2013-03-09,2013-03-09,50,1
+639,Intense,Armin van Buuren,63,2013-05-18,2013-05-25,50,2
+640,Mater Eucharistiae (Mother Of The Eucharist),Dominican Sisters Of Mary,74,2013-08-31,2013-09-07,50,2
+641,Up All Night,Kip Moore,81,2013-03-23,2013-08-31,50,6
+642,The Sun Comes Out Tonight,Filter,52,2013-06-22,2013-06-22,49,1
+643,The Water & The Blood,Dustin Kensrue,52,2013-10-19,2013-10-19,49,1
+644,The Raven That Refused To Sing And Other Stories,Steven Wilson,52,2013-03-16,2013-03-16,49,1
+645,Halo Of Blood,Children Of Bodom,52,2013-06-29,2013-06-29,49,1
+646,Glenn Beck Presents: Believe Again,Clyde Bawden And Jason Barney,52,2013-12-28,2013-12-28,49,1
+647,En Peligro de Extincion,Intocable,56,2013-04-20,2013-04-27,49,2
+648,I Will Always Love You: The Best Of Whitney Houston,Whitney Houston,85,2013-01-05,2013-03-02,49,6
+649,Tightrope (EP),WALK THE MOON,53,2013-02-09,2013-02-09,48,1
+650,Legendary,The Summer Set,53,2013-05-04,2013-05-04,48,1
+651,The Beat,Boney James,53,2013-04-27,2013-04-27,48,1
+652,Palms,Palms,53,2013-07-13,2013-07-13,48,1
+653,Pop Underground (EP),Andrew McMahon,53,2013-05-18,2013-05-18,48,1
+654,Ocean Avenue Acoustic,Yellowcard,53,2013-08-31,2013-08-31,48,1
+655,Come To The Well,Casting Crowns,56,2013-01-05,2013-02-09,48,3
+656,Woman,Rhye,54,2013-03-23,2013-03-23,47,1
+657,The Road Less Traveled (EP),Jake Miller,54,2013-04-27,2013-04-27,47,1
+658,Collide With The Sky,Pierce The Veil,54,2013-12-14,2013-12-14,47,1
+659,Bookmarks,Five For Fighting,54,2013-10-05,2013-10-05,47,1
+660,Relief,Mike Stud,55,2013-05-25,2013-06-01,47,2
+661,A Son De Guerra Tour,Juan Luis Guerra 440,75,2013-06-01,2013-06-08,47,2
+662,iTunes Session (EP),Imagine Dragons,55,2013-06-15,2013-06-15,46,1
+663,Migrant,The Dear Hunter,55,2013-04-20,2013-04-20,46,1
+664,In A Warzone,Transplants,55,2013-07-13,2013-07-13,46,1
+665,Wake Up,Youngblood Hawke,55,2013-05-11,2013-05-11,46,1
+666,The Voice: The Complete Season 4 Collection,Michelle Chamuel,55,2013-07-06,2013-07-06,46,1
+667,Ultra Dance 14,Various Artists,55,2013-03-02,2013-03-02,46,1
+668,Pippin,New Broadway Cast Recording,68,2013-06-22,2013-07-27,46,2
+669,Clarity,Zedd,69,2013-10-12,2013-10-19,46,2
+670,Son Of Sam,Krizz Kaliko,56,2013-09-14,2013-09-14,45,1
+671,Saves The Day,Saves The Day,56,2013-10-05,2013-10-05,45,1
+672,Love,Cloud Cult,56,2013-03-23,2013-03-23,45,1
+673,The King's Gift: A Celtic Christmas Collection,Trace Adkins,67,2013-12-07,2013-12-21,45,2
+674,High Times,Young Dro,57,2013-11-02,2013-11-02,44,1
+675,Fragile Figures,Secrets,57,2013-08-10,2013-08-10,44,1
+676,Blow The Roof,Flux Pavilion,57,2013-02-16,2013-02-16,44,1
+677,The Rock Won't Move,Vertical Church Band,57,2013-11-16,2013-11-16,44,1
+678,Donkey Punch The Night. (E.P.),Puscifer,57,2013-03-09,2013-03-09,44,1
+679,Dance Again ... The Hits,Jennifer Lopez,57,2013-03-16,2013-03-16,44,1
+680,Nanobots,They Might Be Giants,57,2013-03-23,2013-03-23,44,1
+681,Muchacho,Phosphorescent,57,2013-04-06,2013-04-06,44,1
+682,Kings & Queens,Audio Adrenaline,59,2013-03-30,2013-04-06,44,2
+683,Own The Night,Lady Antebellum,65,2013-01-05,2013-01-19,44,2
+684,Take Care,Drake,70,2013-03-09,2013-04-20,44,3
+685,NOW That's What I Call Today's Christmas,Various Artists,58,2013-01-05,2013-01-05,43,1
+686,Young Legs,Anthony Green,58,2013-11-30,2013-11-30,43,1
+687,...Little Broken Hearts,Norah Jones,58,2013-01-12,2013-01-12,43,1
+688,Vessel,twenty one pilots,58,2013-01-26,2013-01-26,43,1
+689,This Is How The Wind Shifts,Silverstein,59,2013-02-23,2013-02-23,42,1
+690,Inside Llewyn Davis,Soundtrack,59,2013-11-30,2013-11-30,42,1
+691,Anything In Return,Toro y Moi,59,2013-02-09,2013-02-09,42,1
+692,Living Infinite,Soilwork,59,2013-03-23,2013-03-23,42,1
+693,Swallow The Ocean,NewSong,59,2013-03-16,2013-03-16,42,1
+694,Archivos de Mi Vida,Gerardo Ortiz,60,2013-12-14,2013-12-14,41,1
+695,Another Self Portrait: The Bootleg Series Vol. 10 (1969-1971) (Deluxe),Bob Dylan,60,2013-09-14,2013-09-14,41,1
+696,My Favorite Picture Of You,Guy Clark,60,2013-08-10,2013-08-10,41,1
+697,Classic Christmas Album,Barbra Streisand,75,2013-12-21,2013-12-28,41,2
+698,Rock Of Ages,Soundtrack,85,2013-04-13,2013-04-27,41,3
+699,More Than Words,Brian McKnight,61,2013-04-06,2013-04-06,40,1
+700,Brothers Of The 4X4,Hank 3,61,2013-10-19,2013-10-19,40,1
+701,An Eye For An Eye,Like Moths To Flames,61,2013-07-27,2013-07-27,40,1
+702,Grace (EP),Tasha Cobbs,61,2013-02-23,2013-02-23,40,1
+703,Serpents Unleashed,Skeletonwitch,61,2013-11-16,2013-11-16,40,1
+704,SAAAB STORIES Produced By Harry Fraud (EP),Action Bronson,61,2013-06-29,2013-06-29,40,1
+705,Beautiful,Teena Marie,61,2013-02-02,2013-02-02,40,1
+706,Invisible Empire // Crescent Moon,KT Tunstall,62,2013-08-24,2013-08-24,39,1
+707,Indigo Meadow,The Black Angels,62,2013-04-20,2013-04-20,39,1
+708,Metal (EP),Newsted,62,2013-01-26,2013-01-26,39,1
+709,Away From The World,Dave Matthews Band,81,2013-01-05,2013-01-19,39,3
+710,We As Human,We As Human,63,2013-07-13,2013-07-13,38,1
+711,Scars & Stories,The Fray,63,2013-03-30,2013-03-30,38,1
+712,Rubberband,Charlie Worsham,63,2013-09-07,2013-09-07,38,1
+713,Pedestrian Verse,Frightened Rabbit,63,2013-02-23,2013-02-23,38,1
+714,The Voice: The Complete Season 4 Collection,The Swon Brothers,63,2013-07-06,2013-07-06,38,1
+715,Stronger,Kelly Clarkson,66,2013-03-02,2013-03-09,38,2
+716,"Merry Christmas... Love, Elvis",Elvis Presley,79,2013-12-21,2013-12-28,38,2
+717,Silver Bell,Patty Griffin,64,2013-10-26,2013-10-26,37,1
+718,Negativity,Deer Tick,64,2013-10-12,2013-10-12,37,1
+719,One True Vine,Mavis Staples,64,2013-07-13,2013-07-13,37,1
+720,Girls: Volume 1: Music From The HBO Original Series,Soundtrack,65,2013-01-26,2013-04-06,37,2
+721,Greatest Hits,Jewel,70,2013-02-23,2013-03-02,37,2
+722,Circles Super Bon Bon...,Mike Doughty,65,2013-10-05,2013-10-05,36,1
+723,Currents,Eisley,65,2013-06-15,2013-06-15,36,1
+724,Change Your Mind: Music For Brainwave Entrainment,Dr. Mitch Gaynor And Jon Regen,65,2013-08-03,2013-08-03,36,1
+725,Pepper,Pepper,65,2013-09-21,2013-09-21,36,1
+726,Honky Tonk,Son Volt,65,2013-03-23,2013-03-23,36,1
+727,Smoke And Mirrors,Brett Dennen,65,2013-11-09,2013-11-09,36,1
+728,Homegrown,Chris Webby,65,2013-11-30,2013-11-30,36,1
+729,2.0,98 Degrees,65,2013-05-25,2013-05-25,36,1
+730,#3,The Script,65,2013-03-30,2013-03-30,36,1
+731,Privateering,Mark Knopfler,65,2013-09-28,2013-09-28,36,1
+732,Chapter V,Trey Songz,73,2013-03-09,2013-03-16,36,2
+733,Oddfellows,Tomahawk,66,2013-02-16,2013-02-16,35,1
+734,Silver Gymnasium,Okkervil River,66,2013-09-21,2013-09-21,35,1
+735,Forte,Forte,66,2013-11-30,2013-11-30,35,1
+736,Rough (EP),Chuck Wicks,66,2013-04-27,2013-04-27,35,1
+737,Icon For Hire,Icon For Hire,66,2013-11-02,2013-11-02,35,1
+738,Nothing But The Beat,David Guetta,66,2013-01-19,2013-01-19,35,1
+739,Innocents,Moby,66,2013-10-19,2013-10-19,35,1
+740,All That For This,Crystal Bowersox,66,2013-04-13,2013-04-13,35,1
+741,Brave Enough: Live At The Variety Playhouse,Sara Bareilles,66,2013-11-09,2013-11-09,35,1
+742,The Classic Christmas Album,Elvis Presley,71,2013-12-21,2013-12-28,35,2
+743,Mannibalector,Brotha Lynch Hung,67,2013-02-23,2013-02-23,34,1
+744,Beta Love,Ra Ra Riot,67,2013-02-09,2013-02-09,34,1
+745,Push And Shove,No Doubt,67,2013-01-12,2013-01-12,34,1
+746,Knock Madness,Hopsin,67,2013-12-14,2013-12-14,34,1
+747,Downtown: Life Under The Gun (EP),August Alsina,67,2013-09-07,2013-09-07,34,1
+748,Whales And Leeches,Red Fang,67,2013-11-02,2013-11-02,34,1
+749,Southern Soul,Frank Foster,67,2013-09-21,2013-09-21,34,1
+750,Revolution (EP),Diplo,68,2013-10-26,2013-10-26,33,1
+751,All This For A King: The Essential Collection,David Crowder Band,68,2013-06-08,2013-06-08,33,1
+752,Amelita,Court Yard Hounds,68,2013-08-03,2013-08-03,33,1
+753,Bring Your Nothing,Shane & Shane,68,2013-06-01,2013-06-01,33,1
+754,Resilience,Drowning Pool,68,2013-04-27,2013-04-27,33,1
+755,Live Acoustic,Guster,68,2013-01-26,2013-01-26,33,1
+756,Loud (EP),R5,68,2013-03-09,2013-03-09,33,1
+757,Inland,Jars Of Clay,68,2013-09-14,2013-09-14,33,1
+758,In Grand Company,Duke Ellington,76,2013-02-02,2013-02-09,33,2
+759,Promises,The Boxer Rebellion,69,2013-06-01,2013-06-01,32,1
+760,Love Songs,Destiny's Child,69,2013-02-16,2013-02-16,32,1
+761,Silence Yourself,Savages,69,2013-05-25,2013-05-25,32,1
+762,Pardon My French,"Chunk! No, Captain Chunk!",69,2013-05-18,2013-05-18,32,1
+763,R.E.D. (Restoring Everything Damaged),Deitrick Haddon,71,2013-09-21,2013-09-28,32,2
+764,Letters Home,Defeater,70,2013-08-03,2013-08-03,31,1
+765,"Bach: Sonatas & Partitas, Vol. 1",Chris Thile,70,2013-08-24,2013-08-24,31,1
+766,Trouble,Natalia Kills,70,2013-09-21,2013-09-21,31,1
+767,De Lider A Leyenda,Yandel,70,2013-11-23,2013-11-23,31,1
+768,Automatic,Iration,71,2013-07-20,2013-07-20,30,1
+769,Step Brothers Two,Starlito / Don Trip,71,2013-11-02,2013-11-02,30,1
+770,Resolution,Action Item,71,2013-01-19,2013-01-19,30,1
+771,Wax Wings,Joshua Radin,71,2013-05-25,2013-05-25,30,1
+772,Unblackened,Black Label Society,71,2013-10-12,2013-10-12,30,1
+773,"Wonderful, Glorious",eels,71,2013-02-23,2013-02-23,30,1
+774,Parts Of Speech,Dessa,71,2013-07-13,2013-07-13,30,1
+775,Jake Bugg,Jake Bugg,71,2013-04-27,2013-04-27,30,1
+776,Uno!,Green Day,77,2013-01-05,2013-01-12,30,2
+777,The Invisible Way,Low,72,2013-04-06,2013-04-06,29,1
+778,Electric,Richard Thompson,72,2013-02-23,2013-02-23,29,1
+779,The Blackest Beautiful,letlive.,72,2013-07-27,2013-07-27,29,1
+780,"Bennett/Brubeck: The White House Sessions, Live 1962",Tony Bennett/Dave Brubeck,72,2013-06-15,2013-06-15,29,1
+781,DreamWeaver,George Duke,72,2013-08-24,2013-08-24,29,1
+782,Searching For Sugar Man (Soundtrack),Rodriguez,88,2013-02-16,2013-03-23,29,3
+783,The Dream Calls For Blood,Death Angel,73,2013-11-02,2013-11-02,28,1
+784,2 Birds 1 Stone,Stevie Stone,73,2013-08-31,2013-08-31,28,1
+785,We Are The 21st Century Ambassadors Of Peace & Magic,Foxygen,73,2013-02-09,2013-02-09,28,1
+786,Wondrous Bughouse,Youth Lagoon,73,2013-03-23,2013-03-23,28,1
+787,I Hate Music,Superchunk,73,2013-09-07,2013-09-07,28,1
+788,Believers,!MAYDAY!,73,2013-08-03,2013-08-03,28,1
+789,King Animal,Soundgarden,86,2013-01-05,2013-01-12,28,2
+790,Natalie Cole En Espanol,Natalie Cole,87,2013-07-13,2013-07-20,28,2
+791,The Idler Wheel Is Wiser Than...,Fiona Apple,74,2013-03-16,2013-03-16,27,1
+792,Frequency Unknown,Queensryche,74,2013-05-11,2013-05-11,27,1
+793,The Way Life Goes,Tom Keifer,75,2013-05-18,2013-05-18,26,1
+794,Home For Christmas,Celtic Woman,75,2013-01-05,2013-01-05,26,1
+795,Prince Avalanche: An Original Motion Picture Soundtrack,Explosions In The Sky & David Wingo,75,2013-08-24,2013-08-24,26,1
+796,Rkives,Rilo Kiley,75,2013-04-20,2013-04-20,26,1
+797,This River,JJ Grey & MOFRO,75,2013-05-04,2013-05-04,26,1
+798,Tales Of Us,Goldfrapp,75,2013-09-28,2013-09-28,26,1
+799,Making Mirrors,Gotye,75,2013-03-02,2013-03-02,26,1
+800,Music From Another Dimension!,Aerosmith,76,2013-01-05,2013-01-05,25,1
+801,Dave Koz And Friends: Summer Horns,Dave Koz/Gerald Albright/Mindi Abair/Richard Elliot,76,2013-06-29,2013-06-29,25,1
+802,Afraid Of Heights,Wavves,76,2013-04-13,2013-04-13,25,1
+803,My Brother's Keeper,K-Ci & JoJo,76,2013-10-19,2013-10-19,25,1
+804,Hawai'i 13,The Green,76,2013-09-07,2013-09-07,25,1
+805,Life At Best,Eli Young Band,76,2013-02-09,2013-02-09,25,1
+806,W.L.A.K.,W.L.A.K.,77,2013-03-23,2013-03-23,24,1
+807,Jammin' With Friends,Bret Michaels,77,2013-07-13,2013-07-13,24,1
+808,Devotion,Jessie Ware,77,2013-05-04,2013-05-04,24,1
+809,The Journey (Livin Hits),Craig Morgan,77,2013-09-21,2013-09-21,24,1
+810,iTunes Session (EP),Emeli Sande,77,2013-05-11,2013-05-11,24,1
+811,If You Have Ghost (EP),Ghost B.C.,77,2013-12-07,2013-12-07,24,1
+812,Between Here & Lost,Love And Death,78,2013-02-09,2013-02-09,23,1
+813,Ultra Music Festival: 2013,Various Artists,78,2013-04-06,2013-04-06,23,1
+814,The Messenger,Johnny Marr,78,2013-03-16,2013-03-16,23,1
+815,Rev. Floyd Flake Presents: The Worship Expierence,The Greater Allen Cathedral,79,2013-04-06,2013-04-06,22,1
+816,Meet Me At The Edge Of The World,Over The Rhine,79,2013-09-21,2013-09-21,22,1
+817,Omens,3OH!3,79,2013-07-06,2013-07-06,22,1
+818,Renacer,Senses Fail,79,2013-04-13,2013-04-13,22,1
+819,What Christmas Means,Kem,79,2013-01-05,2013-01-05,22,1
+820,GarciaLive: Volume Two: August 5th 1990 Greek Theatre,Jerry Garcia Band,79,2013-07-13,2013-07-13,22,1
+821,Holy Fire,Foals,79,2013-03-02,2013-03-02,22,1
+822,Gravel & Wine,Gin Wigmore,79,2013-04-20,2013-04-20,22,1
+823,Into The Light,Matthew West,83,2013-04-13,2013-12-14,22,2
+824,Opus Collection,The Band,87,2013-06-22,2013-06-29,22,2
+825,Devour,Dave Hause,80,2013-10-26,2013-10-26,21,1
+826,Good Light,Drew Holcomb And The Neighbors,80,2013-03-09,2013-03-09,21,1
+827,Cronies (EP),Brandon & Leah,80,2013-07-27,2013-07-27,21,1
+828,Love Is Stronger,Jason Crabb,80,2013-03-30,2013-03-30,21,1
+829,Con La Frente En Alto,Luis Coronel,80,2013-10-05,2013-10-05,21,1
+830,Transit Of Venus,Three Days Grace,89,2013-01-12,2013-01-19,21,2
+831,Yessir Whatever,Quasimoto,81,2013-07-06,2013-07-06,20,1
+832,L.O.L.,Alexis Spight,81,2013-07-27,2013-07-27,20,1
+833,Love Hope War,Da' T.R.U.T.H.,81,2013-02-16,2013-02-16,20,1
+834,Meltdown EP,Pitbull,81,2013-12-14,2013-12-14,20,1
+835,Black Dog Barking,Airbourne,81,2013-06-08,2013-06-08,20,1
+836,Austin & Ally (Soundtrack),Ross Lynch,82,2013-01-12,2013-01-19,20,2
+837,Siberia Acoustic,LIGHTS,82,2013-05-18,2013-05-18,19,1
+838,It Happens All The Time,Megan Hilty,82,2013-03-30,2013-03-30,19,1
+839,Dos!,Green Day,82,2013-01-05,2013-01-05,19,1
+840,Glee: The Music: The Christmas Album: Volume 4 (EP),Soundtrack,82,2013-12-21,2013-12-21,19,1
+841,R.E.V.O,Walk Off The Earth,82,2013-04-06,2013-04-06,19,1
+842,The Carpenter,The Avett Brothers,87,2013-01-12,2013-01-19,19,2
+843,Is Survived By,Touche Amore,83,2013-10-12,2013-10-12,18,1
+844,GarciaLive: Volume One: March 1st 1980 Capitol Theatre,Jerry Garcia Band,83,2013-03-09,2013-03-09,18,1
+845,Savages,Soulfly,83,2013-10-19,2013-10-19,18,1
+846,Until Now,Swedish House Mafia,89,2013-01-26,2013-02-23,18,3
+847,Changed,Rascal Flatts,84,2013-01-05,2013-01-05,17,1
+848,The War Within,Wrekonize,84,2013-07-13,2013-07-13,17,1
+849,Life By Design?,Fight Or Flight,84,2013-08-10,2013-08-10,17,1
+850,Koi No Yokan,Deftones,91,2013-01-12,2013-02-16,17,4
+851,God Chaser,William Murphy,85,2013-02-23,2013-02-23,16,1
+852,Inspiration: A Tribute To Nat King Cole,George Benson,85,2013-06-22,2013-06-22,16,1
+853,Dark & Dirty Mile,Jason Boland And The Stragglers,85,2013-06-01,2013-06-01,16,1
+854,Legend: Remixed,Bob Marley And The Wailers,85,2013-07-13,2013-07-13,16,1
+855,Sentimental Journey,Emmy Rossum,85,2013-02-16,2013-02-16,16,1
+856,Live: The 50th Anniversary Tour,The Beach Boys,85,2013-06-08,2013-06-08,16,1
+857,See You There,Glen Campbell,85,2013-08-31,2013-08-31,16,1
+858,Barefoot Blue Jean Night,Jake Owen,85,2013-06-29,2013-06-29,16,1
+859,NOW That's What I Call Love Songs,Various Artists,91,2013-02-23,2013-03-02,16,2
+860,Zion: Acoustic Sessions,Hillsong UNITED,86,2013-11-16,2013-11-16,15,1
+861,Pretending Perfection,Huey Mack,86,2013-11-09,2013-11-09,15,1
+862,No Beginning No End,Jose James,86,2013-02-09,2013-02-09,15,1
+863,Right On Time,Gretchen Wilson,86,2013-04-20,2013-04-20,15,1
+864,The Midsummer Station: Acoustic (EP),Owl City,87,2013-08-17,2013-08-17,14,1
+865,MellowHigh,MellowHigh,87,2013-11-16,2013-11-16,14,1
+866,Punk Goes Christmas,Various Artists,87,2013-11-23,2013-11-23,14,1
+867,Believer,Kutless,87,2013-03-23,2013-03-23,14,1
+868,Heart Like Your Own,Steve Hare,87,2013-05-25,2013-05-25,14,1
+869,"Sentimiento, Elegancia & Maldad",Arcangel,87,2013-12-07,2013-12-07,14,1
+870,Hands That Thieve,Streetlight Manifesto,88,2013-05-18,2013-05-18,13,1
+871,Hokey Fright,The Uncluded,88,2013-05-25,2013-05-25,13,1
+872,Mirage Rock,Band Of Horses,88,2013-03-16,2013-03-16,13,1
+873,Original Good Ol' Boy: O.G.O.B.,JJ Lawhorn,88,2013-08-03,2013-08-03,13,1
+874,"Christmas, With Love",Leona Lewis,88,2013-12-21,2013-12-21,13,1
+875,Altered State,TesseracT,88,2013-06-15,2013-06-15,13,1
+876,Chasing Down The Wind (EP),Green River Ordinance,88,2013-07-06,2013-07-06,13,1
+877,MDNA World Tour,Madonna,89,2013-09-28,2013-09-28,12,1
+878,Live At Rome Olympic Stadium,Muse,89,2013-12-21,2013-12-21,12,1
+879,Duets,Paul Anka,89,2013-04-27,2013-04-27,12,1
+880,Ready To Die,Iggy And The Stooges,89,2013-05-18,2013-05-18,12,1
+881,OKE: Deluxe Edition,DJ Skee Presents The Game,89,2013-11-02,2013-11-02,12,1
+882,LoCash Cowboys,LoCash Cowboys,90,2013-07-06,2013-07-06,11,1
+883,J.A.C.K.,Forever The Sickest Kids,90,2013-07-13,2013-07-13,11,1
+884,A Love Surreal,Bilal,90,2013-03-16,2013-03-16,11,1
+885,Free Your Mind,Cut Copy,90,2013-11-23,2013-11-23,11,1
+886,A Very Special Christmas: 25 Years Bringing Joy To The World,Various Artists,90,2013-01-05,2013-01-05,11,1
+887,Late For Nothing,iwrestledabearonce,90,2013-08-24,2013-08-24,11,1
+888,The Nacirema Dream,Papoose,90,2013-04-13,2013-04-13,11,1
+889,"RWBY, Volume 1 Soundtrack",Soundtrack,90,2013-11-30,2013-11-30,11,1
+890,If You Leave,Daughter,90,2013-05-18,2013-05-18,11,1
+891,Blak And Blu,Gary Clark Jr.,90,2013-01-26,2013-01-26,11,1
+892,Campfire: Worship & Community Reimagined,Rend Collective Experiment,90,2013-02-16,2013-02-16,11,1
+893,The Strange Case Of...,Halestorm,93,2013-05-25,2013-06-08,11,2
+894,Vulnerable,The Used,91,2013-02-09,2013-02-09,10,1
+895,Constant Energy Struggles,Ces Cru,91,2013-04-13,2013-04-13,10,1
+896,100 Hits: 60's,Various Artists,91,2013-03-09,2013-03-09,10,1
+897,Never Forget,Craig Campbell,91,2013-05-25,2013-05-25,10,1
+898,Where It All Began,Matthew Morrison,91,2013-06-22,2013-06-22,10,1
+899,Viva Duets,Tony Bennett,94,2013-01-05,2013-01-12,10,2
+900,How Great Is Our God: The Essential Collection,Chris Tomlin,92,2013-05-18,2013-05-18,9,1
+901,Ghost Brothers Of Darkland County,Various Artists,92,2013-06-22,2013-06-22,9,1
+902,Walk The Moon,WALK THE MOON,92,2013-03-30,2013-03-30,9,1
+903,Straight Out Of Hell,Helloween,92,2013-02-09,2013-02-09,9,1
+904,Pokemon X & Pokemon Y: Super Music Collection,Soundtrack,92,2013-11-30,2013-11-30,9,1
+905,Royal Tailor,Royal Tailor,92,2013-11-09,2013-11-09,9,1
+906,Lonerism,Tame Impala,92,2013-01-26,2013-01-26,9,1
+907,The Bible: Music Inspired By The Epic Miniseries,Various Artists,92,2013-04-20,2013-04-20,9,1
+908,Dream River,Bill Callahan,93,2013-10-05,2013-10-05,8,1
+909,Cold Turkey,Starlito,94,2013-07-20,2013-07-20,7,1
+910,Safe Haven,Soundtrack,94,2013-03-09,2013-03-09,7,1
+911,Love To Love You Donna,Donna Summer,94,2013-11-09,2013-11-09,7,1
+912,Talented 10th,Sho Baraka,94,2013-02-02,2013-02-02,7,1
+913,Pitch Perfect: More From Pitch Perfect (EP),Soundtrack,94,2013-07-27,2013-07-27,7,1
+914,Born And Raised,John Mayer,95,2013-01-19,2013-01-19,6,1
+915,Glee: The Music: Seson 5: Movin' Out (EP),Soundtrack,95,2013-12-07,2013-12-07,6,1
+916,Coexist,The xx,95,2013-02-02,2013-02-02,6,1
+917,With Love,Christina Grimmie,95,2013-08-24,2013-08-24,6,1
+918,Evening : Morning,The Digital Age,95,2013-08-31,2013-08-31,6,1
+919,Christmas Songs,Bad Religion,95,2013-11-16,2013-11-16,6,1
+920,Endless Fantasy,Anamanaguchi,95,2013-06-01,2013-06-01,6,1
+921,The Life Acoustic,Everlast,95,2013-09-14,2013-09-14,6,1
+922,Revealing Jesus: A Live Worship Experience,Darlene Zschech,95,2013-05-11,2013-05-11,6,1
+923,Isles,Wild Belle,95,2013-03-30,2013-03-30,6,1
+924,In Love... With Cole Porter,Various Artists,96,2013-04-20,2013-04-27,6,2
+925,Vicious Lies And Dangerous Rumors,Big Boi,96,2013-01-05,2013-01-05,5,1
+926,Know Hope,The Color Morale,96,2013-04-13,2013-04-13,5,1
+927,Engine Of A Million Plots,Five Iron Frenzy,96,2013-12-14,2013-12-14,5,1
+928,Where You Stand,Travis,96,2013-09-07,2013-09-07,5,1
+929,Could You Watch Your Children Burn,The Plot In You,96,2013-02-02,2013-02-02,5,1
+930,The Struggle,Tenth Avenue North,96,2013-08-10,2013-08-10,5,1
+931,How I Learned To Stop Giving A Shit And Love Mindless Self Indulgence,Mindless Self Indulgence,96,2013-06-01,2013-06-01,5,1
+932,The Secret (EP),The Airborne Toxic Event,96,2013-03-30,2013-03-30,5,1
+933,Don't Be S.A.F.E.,Trinidad James,96,2013-03-09,2013-03-09,5,1
+934,Mylo Xyloto,Coldplay,96,2013-01-19,2013-01-19,5,1
+935,Christmas In The Sand,Colbie Caillat,97,2013-01-05,2013-01-05,4,1
+936,Build Me Up From Bones,Sarah Jarosz,97,2013-10-12,2013-10-12,4,1
+937,Only A Shadow,Misty Edwards,97,2013-04-06,2013-04-06,4,1
+938,New Constellation,Toad The Wet Sprocket,97,2013-11-02,2013-11-02,4,1
+939,Haunt (EP),Bastille,97,2013-06-15,2013-06-15,4,1
+940,Loud Like Love,Placebo,97,2013-10-05,2013-10-05,4,1
+941,The Weatherman,Gregory Alan Isakov,97,2013-07-27,2013-07-27,4,1
+942,Without Words,Bethel Music,98,2013-03-23,2013-03-23,3,1
+943,That's It!,Preservation Hall Jazz Band,98,2013-07-27,2013-07-27,3,1
+944,Neon,Jay Sean,99,2013-08-17,2013-08-17,2,1
+945,Lo Mejor de Roberto Tapia,Roberto Tapia,99,2013-08-03,2013-08-03,2,1
+946,This Christmas,John Travolta & Olivia Newton-John,99,2013-01-05,2013-01-05,2,1
+947,NOW That's What I Call Disney,Various Artists,99,2013-04-13,2013-04-13,2,1
+948,Kidz Bop Party Hits!,Kidz Bop Kids,99,2013-06-01,2013-06-01,2,1
+949,The Greatest Hits,3 Doors Down,99,2013-02-16,2013-02-16,2,1
+950,PTX: Volume 1,Pentatonix,100,2013-11-23,2013-11-23,1,1
+951,The Acoustic Sessions (EP),Cody Simpson,100,2013-12-07,2013-12-07,1,1
+952,No Matter How Far,David Archuleta,100,2013-04-13,2013-04-13,1,1

@@ -1,0 +1,683 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Slippery When Wet,Bon Jovi,1,1987-01-03,1987-12-26,12333,52
+2,Licensed To Ill,Beastie Boys,1,1987-01-03,1987-12-26,10196,52
+3,Graceland,Paul Simon,3,1987-01-03,1987-12-26,9794,52
+4,Whitesnake,Whitesnake,2,1987-04-18,1987-12-26,9744,37
+5,The Joshua Tree,U2,1,1987-04-04,1987-12-26,9665,39
+6,The Final Countdown,Europe,8,1987-01-03,1987-12-26,9368,52
+7,Look What The Cat Dragged In,Poison,3,1987-01-03,1987-12-26,9357,52
+8,Rapture,Anita Baker,11,1987-01-03,1987-12-26,9254,52
+9,Duotones,Kenny G,6,1987-01-03,1987-12-26,9056,52
+10,Control,Janet Jackson,5,1987-01-03,1987-12-26,8760,52
+11,The Way It Is,Bruce Hornsby & The Range,3,1987-01-03,1987-11-07,8336,45
+12,Back In The Highlife,Steve Winwood,10,1987-01-03,1987-12-26,8306,52
+13,Invisible Touch,Genesis,4,1987-01-03,1987-12-26,8286,52
+14,True Blue,Madonna,6,1987-01-03,1987-12-26,7917,52
+15,Night Songs,Cinderella,3,1987-01-03,1987-11-14,7845,46
+16,Fore!,Huey Lewis & The News,5,1987-01-03,1987-11-07,7460,45
+17,Exposure,Expose,23,1987-02-21,1987-12-26,7401,45
+18,Whitney,Whitney Houston,1,1987-06-27,1987-12-26,7176,27
+19,Strong Persuader,Robert Cray,13,1987-01-03,1987-11-21,6808,47
+20,Whitney Houston,Whitney Houston,28,1987-01-03,1987-12-26,6696,52
+21,Tango In The Night,Fleetwood Mac,7,1987-05-02,1987-12-26,6658,35
+22,Bad Animals,Heart,2,1987-06-13,1987-12-26,6542,29
+23,Jody Watley,Jody Watley,10,1987-03-21,1987-12-26,6535,41
+24,Crowded House,Crowded House,12,1987-02-07,1987-12-26,6470,47
+25,Just Like The First Time,Freddie Jackson,23,1987-01-03,1987-10-31,6331,44
+26,Give Me The Reason,Luther Vandross,14,1987-01-03,1987-10-17,6329,42
+27,So,Peter Gabriel,16,1987-01-03,1987-11-21,6245,47
+28,Spanish Fly,Lisa Lisa And Cult Jam,7,1987-05-09,1987-12-26,6218,34
+29,Sign 'O' The Times,Prince,6,1987-04-18,1987-12-26,6087,37
+30,"Life, Love And Pain",Club Nouveau,6,1987-01-03,1987-10-17,6067,42
+31,"Girls, Girls, Girls",Motley Crue,2,1987-06-13,1987-12-26,6056,29
+32,To Hell With The Devil,Stryper,32,1987-01-03,1987-12-26,5902,52
+33,One Heartbeat,Smokey Robinson,26,1987-03-28,1987-12-26,5873,40
+34,Third Stage,Boston,3,1987-01-03,1987-09-26,5765,39
+35,Dancing On The Ceiling,Lionel Richie,7,1987-01-03,1987-10-03,5747,40
+36,Bigger And Deffer,LL Cool J,3,1987-06-20,1987-12-26,5741,28
+37,Raising Hell,Run-D.M.C.,12,1987-01-03,1987-10-17,5662,42
+38,Different Light,The Bangles,2,1987-01-03,1987-08-22,5605,34
+39,Word Up,Cameo,12,1987-01-03,1987-10-03,5496,40
+40,Coming Around Again,Carly Simon,25,1987-04-25,1987-12-26,5488,36
+41,Into The Fire,Bryan Adams,7,1987-04-18,1987-11-28,5343,33
+42,Top Gun,Soundtrack,26,1987-01-03,1987-12-26,5295,52
+43,Life As We Know It,REO Speedwagon,28,1987-02-28,1987-12-26,5263,44
+44,Robbie Nevil,Robbie Nevil,37,1987-01-03,1987-10-10,5255,41
+45,Crushin',Fat Boys,8,1987-06-13,1987-12-26,5119,29
+46,Can't Hold Back,Eddie Money,22,1987-01-03,1987-10-03,4996,40
+47,Always & Forever,Randy Travis,19,1987-05-30,1987-12-26,4948,31
+48,Mechanical Resonance,Tesla,32,1987-01-31,1987-12-26,4915,48
+49,Georgia Satellites,The Georgia Satellites,5,1987-01-03,1987-08-15,4884,33
+50,Whiplash Smile,Billy Idol,11,1987-01-03,1987-09-26,4876,39
+51,Trio,"Dolly Parton, Linda Ronstadt, Emmylou Harris",6,1987-03-28,1987-12-26,4866,38
+52,Forever,Kool & The Gang,25,1987-01-03,1987-09-19,4759,38
+53,La Bamba,Soundtrack,1,1987-07-25,1987-12-26,4739,23
+54,Broadcast,Cutting Crew,16,1987-03-21,1987-12-26,4716,41
+55,Hysteria,Def Leppard,4,1987-08-22,1987-12-26,4586,19
+56,Solitude Standing,Suzanne Vega,11,1987-05-16,1987-12-19,4543,32
+57,Richard Marx,Richard Marx,19,1987-06-20,1987-12-26,4482,28
+58,Keep Your Eye On Me,Herb Alpert,18,1987-03-21,1987-10-17,4456,31
+59,Just Gets Better With Time,The Whispers,22,1987-05-30,1987-12-26,4331,31
+60,Break Every Rule,Tina Turner,23,1987-01-03,1987-09-19,4275,38
+61,All In The Name Of Love,Atlantic Starr,18,1987-04-25,1987-11-21,4271,31
+62,Najee's Theme,Najee,56,1987-02-28,1987-12-26,4261,44
+63,Let It Loose,Gloria Estefan & Miami Sound Machine,16,1987-06-20,1987-12-26,4219,28
+64,In The Dark,Grateful Dead,6,1987-07-25,1987-12-26,4193,23
+65,Running In The Family,Level 42,23,1987-04-11,1987-11-28,4177,34
+66,Aretha (II),Aretha Franklin,32,1987-01-03,1987-08-08,4170,32
+67,Bad,Michael Jackson,1,1987-09-26,1987-12-26,4090,14
+68,"Kiss Me, Kiss Me, Kiss Me",The Cure,35,1987-06-20,1987-12-26,4075,28
+69,True Colors,Cyndi Lauper,14,1987-01-03,1987-08-01,4060,31
+70,Electric,The Cult,38,1987-04-25,1987-11-28,4056,32
+71,August,Eric Clapton,37,1987-01-03,1987-08-15,4051,33
+72,Beverly Hills Cop II,Soundtrack,8,1987-06-13,1987-12-05,4047,26
+73,Notorious,Duran Duran,12,1987-01-03,1987-08-08,4031,32
+74,Raised On Radio,Journey,32,1987-01-03,1987-08-15,3888,33
+75,Dirty Dancing,Soundtrack,1,1987-09-19,1987-12-26,3886,15
+76,The Jets,The Jets,21,1987-01-03,1987-09-05,3884,36
+77,Shake You Down,Gregory Abbott,22,1987-01-03,1987-07-04,3837,27
+78,Tribute,Ozzy Osbourne/Randy Rhoads,6,1987-05-09,1987-10-10,3731,23
+79,Once Bitten,Great White,23,1987-07-18,1987-12-26,3699,24
+80,The Return Of Bruno,Bruce Willis,14,1987-02-14,1987-08-29,3696,29
+81,Chicago 18,Chicago,35,1987-01-03,1987-08-22,3694,34
+82,The Bridge,Billy Joel,20,1987-01-03,1987-07-04,3663,27
+83,Bon Jovi,Bon Jovi,77,1987-01-03,1987-10-03,3662,40
+84,If I Were Your Woman,Stephanie Mills,30,1987-06-27,1987-12-26,3635,27
+85,7800 Degrees Fahrenheit,Bon Jovi,77,1987-01-03,1987-10-03,3635,40
+86,Thin Red Line,Glass Tiger,27,1987-01-03,1987-07-04,3606,27
+87,I'm No Angel,Gregg Allman,30,1987-03-07,1987-09-12,3597,28
+88,The Breakfast Club,The Breakfast Club,43,1987-03-28,1987-10-17,3563,30
+89,Midnight To Midnight,Psychedelic Furs,29,1987-03-07,1987-09-05,3531,27
+90,The Lonesome Jubilee,John Mellencamp,6,1987-09-19,1987-12-26,3445,15
+91,Who's That Girl,Soundtrack-Madonna,7,1987-08-15,1987-12-26,3418,20
+92,A Momentary Lapse Of Reason,Pink Floyd,3,1987-09-26,1987-12-26,3417,14
+93,Never Let Me Down,David Bowie,34,1987-05-23,1987-11-14,3413,26
+94,One Voice,Barbra Streisand,9,1987-05-09,1987-11-14,3379,28
+95,Jonathan Butler,Jonathan Butler,50,1987-05-30,1987-12-26,3373,31
+96,Ready Or Not,Lou Gramm,27,1987-02-28,1987-08-22,3310,26
+97,Opera Sauvage,Vangelis,42,1987-01-03,1987-09-05,3301,36
+98,Into The Light,Chris de Burgh,25,1987-03-21,1987-09-19,3229,27
+99,Bruce Springsteen & The E Street Band 1975-1985,Bruce Springsteen,1,1987-01-03,1987-05-23,3200,21
+100,I Never Said Goodbye,Sammy Hagar,14,1987-07-11,1987-12-12,3186,23
+101,Storms Of Life,Randy Travis,111,1987-01-03,1987-12-26,3185,52
+102,Private Revolution,World Party,39,1987-01-03,1987-07-25,3175,30
+103,Especially For You,The Smithereens,51,1987-01-03,1987-07-25,3140,30
+104,Among The Living,Anthrax,62,1987-04-11,1987-12-12,3131,36
+105,By The Light Of The Moon,Los Lobos,47,1987-02-14,1987-09-19,3127,32
+106,Love An Adventure,Pseudo Echo,54,1987-03-21,1987-09-19,3108,27
+107,Riptide,Robert Palmer,44,1987-01-03,1987-08-08,3096,32
+108,Let Me Up (I've Had Enough),Tom Petty And The Heartbreakers,20,1987-05-09,1987-09-19,3082,20
+109,A Change Of Heart,David Sanborn,74,1987-02-14,1987-10-17,3081,36
+110,Touch Me,Samantha Fox,24,1987-01-03,1987-06-06,3074,23
+111,Men And Women,Simply Red,31,1987-03-28,1987-09-19,3064,26
+112,Another Step,Kim Wilde,40,1987-04-04,1987-09-26,3010,26
+113,Bangin',The Outfield,18,1987-07-04,1987-11-21,2993,21
+114,No Protection,Starship,12,1987-07-25,1987-12-26,2960,23
+115,Hearsay,Alexander O'Neal,29,1987-08-22,1987-12-26,2919,19
+116,Born To Boogie,Hank Williams Jr.,28,1987-08-01,1987-12-26,2918,22
+117,Shirley Murdock,Shirley Murdock,44,1987-02-14,1987-08-08,2907,26
+118,By Request,Billy Vera & The Beaters,15,1987-01-03,1987-05-30,2901,22
+119,Somewhere In Time,Iron Maiden,23,1987-01-03,1987-07-04,2889,27
+120,Frehley's Comet,Ace Frehley,43,1987-05-23,1987-11-07,2882,25
+121,Collaboration,George Benson/Earl Klugh,59,1987-07-11,1987-12-26,2818,25
+122,Mosaic,Wang Chung,45,1987-01-03,1987-07-04,2803,27
+123,Dancin' Undercover,Ratt,43,1987-01-03,1987-07-25,2726,30
+124,Long Time Coming,Ready For The World,32,1987-01-03,1987-05-30,2711,22
+125,Get Close,Pretenders,25,1987-01-03,1987-05-30,2710,22
+126,Peace Sells...But Who's Buying?,Megadeth,80,1987-01-03,1987-09-12,2709,37
+127,Don't Disturb This Groove,The System,62,1987-04-18,1987-10-03,2688,25
+128,Hillbilly Deluxe,Dwight Yoakam,55,1987-05-16,1987-11-21,2682,28
+129,Happy Together,The Nylons,43,1987-05-23,1987-10-31,2673,24
+130,Permanent Vacation,Aerosmith,11,1987-09-19,1987-12-26,2669,15
+131,Lost Boys,Soundtrack,15,1987-08-01,1987-12-26,2638,22
+132,One Way Home,Hooters,27,1987-08-08,1987-12-26,2596,21
+133,T'Pau,T'Pau,31,1987-06-06,1987-11-14,2591,24
+134,The House Of Blue Light,Deep Purple,34,1987-01-31,1987-06-27,2578,22
+135,Document,R.E.M.,10,1987-09-26,1987-12-26,2563,14
+136,Tunnel Of Love,Bruce Springsteen,1,1987-10-24,1987-12-26,2555,10
+137,Heartland,The Judds,52,1987-04-04,1987-11-14,2544,31
+138,Everlasting,Natalie Cole,63,1987-08-08,1987-12-26,2537,21
+139,Live In Australia With The Melbourne Symphony Orch.,Elton John,45,1987-07-25,1987-12-26,2528,23
+140,Shelter,Lone Justice,65,1987-01-03,1987-06-20,2510,25
+141,Stand By Me,Soundtrack,31,1987-01-03,1987-07-25,2506,30
+142,It's Better To Travel,Swing Out Sister,42,1987-08-29,1987-12-26,2474,18
+143,Echo And The Bunnymen,Echo & The Bunnymen,51,1987-08-08,1987-12-26,2464,21
+144,Hold Your Fire,Rush,13,1987-09-26,1987-12-26,2459,14
+145,The Big Throwdown,Levert,32,1987-09-05,1987-12-26,2458,17
+146,Substance,New Order,40,1987-09-05,1987-12-26,2458,17
+147,Door To Door,The Cars,26,1987-09-12,1987-12-26,2448,16
+148,Live,Stevie Ray Vaughan And Double Trouble,52,1987-01-03,1987-06-06,2439,23
+149,Every Breath You Take-The Singles,The Police,9,1987-01-03,1987-05-16,2401,20
+150,Out Of The Blue,Debbie Gibson,30,1987-09-05,1987-12-26,2396,17
+151,"Mad, Bad And Dangerous To Know",Dead Or Alive,52,1987-01-03,1987-06-13,2391,24
+152,The $5.98 EP: Garage Days Re-Revisited,Metallica,28,1987-09-12,1987-12-26,2380,16
+153,Tiffany,Tiffany,5,1987-09-26,1987-12-26,2320,14
+154,Slide It In: 35th Anniversary Edition,Whitesnake,99,1987-05-23,1987-12-26,2318,32
+155,Wishes,Jon Butcher,77,1987-04-04,1987-10-03,2301,27
+156,Radio K.A.O.S.,Roger Waters,50,1987-07-04,1987-11-07,2262,19
+157,Appetite For Destruction,Guns N' Roses,52,1987-08-29,1987-12-26,2246,18
+158,Boomtown,David & David,45,1987-01-03,1987-05-02,2244,18
+159,Alphabet City,ABC,48,1987-08-22,1987-12-26,2225,19
+160,An American Tail,Soundtrack,42,1987-01-31,1987-06-06,2205,19
+161,Skylarking,XTC,70,1987-01-24,1987-08-08,2205,29
+162,Under The Blue Moon,New Edition,43,1987-01-03,1987-05-23,2202,21
+163,Vital Idol,Billy Idol,10,1987-10-10,1987-12-26,2160,12
+164,The Unforgettable Fire,U2,76,1987-04-18,1987-09-19,2156,23
+165,Power,Kansas,35,1987-01-03,1987-05-16,2144,20
+166,Dana Dane With Fame,Dana Dane,46,1987-09-12,1987-12-26,2144,16
+167,U2 Live: Under A Blood Red Sky (EP),U2,75,1987-04-18,1987-09-19,2133,23
+168,Wildside,Loverboy,42,1987-09-12,1987-12-26,2127,16
+169,Solitude/Solitaire,Peter Cetera,30,1987-01-03,1987-05-02,2125,18
+170,Actually,Pet Shop Boys,25,1987-10-03,1987-12-26,2121,13
+171,War,U2,80,1987-04-18,1987-09-19,2113,23
+172,Surface,Surface,55,1987-05-30,1987-10-03,2104,19
+173,Crazy Nights,KISS,18,1987-10-10,1987-12-26,2097,12
+174,Living All Alone,Phyllis Hyman,78,1987-01-03,1987-07-25,2087,30
+175,Exiles,Dan Fogelberg,48,1987-06-20,1987-10-24,2069,19
+176,Famous Blue Raincoat,Jennifer Warnes,72,1987-02-14,1987-07-04,2049,21
+177,Go,Hiroshima,75,1987-08-15,1987-12-26,2048,20
+178,The Whole Story,Kate Bush,76,1987-01-03,1987-06-20,2028,25
+179,The Dark Side Of The Moon,Pink Floyd,142,1987-01-03,1987-12-26,2028,52
+180,Greetings From Timbuk 3,Timbuk 3,50,1987-01-03,1987-04-25,1974,17
+181,Babylon And On,Squeeze,36,1987-10-03,1987-12-26,1972,13
+182,Reservations For Two,Dionne Warwick,56,1987-08-22,1987-12-26,1970,19
+183,Paid In Full,Eric B. & Rakim,58,1987-09-12,1987-12-26,1952,16
+184,Express,Love & Rockets,72,1987-01-03,1987-05-23,1944,21
+185,Big Generator,Yes,15,1987-10-17,1987-12-26,1937,11
+186,Hipsway,Hipsway,55,1987-02-21,1987-06-20,1937,18
+187,"True Stories: A Film By David Byrne, The Complete Soundtrack",Talking Heads,28,1987-01-03,1987-04-18,1918,16
+188,Big Life,Night Ranger,28,1987-04-11,1987-08-08,1905,18
+189,Thunder,Andy Taylor,46,1987-03-28,1987-07-18,1898,17
+190,When Seconds Count,Survivor,49,1987-01-03,1987-04-18,1895,16
+191,Keep Your Distance,Curiosity Killed The Cat,55,1987-08-22,1987-12-26,1895,19
+192,Wheels,Restless Heart,73,1987-04-11,1987-09-26,1892,25
+193,Wow,Bananarama,44,1987-09-26,1987-12-26,1889,14
+194,Little Shop Of Horrors,Soundtrack,47,1987-01-17,1987-05-09,1850,17
+195,Sentimental Hygiene,Warren Zevon,63,1987-06-27,1987-10-24,1840,18
+196,"Best Of 38 Special--""Flashback""",Thirty Eight Special,35,1987-08-22,1987-12-12,1829,17
+197,No Jacket Required,Phil Collins,87,1987-01-03,1987-07-11,1826,28
+198,Private Passion,Jeff Lorber,68,1987-01-03,1987-05-09,1821,19
+199,Primitive Cool,Mick Jagger,41,1987-10-03,1987-12-26,1815,13
+200,Living In The 20th Century,Steve Miller,65,1987-01-03,1987-04-18,1806,16
+201,Live,Judas Priest,38,1987-06-20,1987-09-26,1802,15
+202,Fields Of Fire,Corey Hart,63,1987-01-03,1987-04-18,1798,16
+203,Never Enough,Patty Smyth,66,1987-03-21,1987-08-01,1792,20
+204,Louder Than Bombs,The Smiths,62,1987-04-25,1987-10-10,1754,25
+205,. . .Nothing Like The Sun,Sting,9,1987-10-31,1987-12-26,1743,9
+206,Live,George Thorogood & The Destroyers,78,1987-01-03,1987-06-06,1735,23
+207,Crest Of A Knave,Jethro Tull,32,1987-10-10,1987-12-26,1717,12
+208,Rock You To Hell,Grim Reaper,93,1987-08-01,1987-12-19,1714,21
+209,Heaven On Earth,Belinda Carlisle,16,1987-10-24,1987-12-26,1712,10
+210,Love Zone,Billy Ocean,38,1987-01-03,1987-04-11,1712,15
+211,Welcome Home,'Til Tuesday,71,1987-01-03,1987-04-18,1712,16
+212,5150,Van Halen,60,1987-01-03,1987-06-27,1700,26
+213,Primitive Love,Miami Sound Machine,45,1987-01-03,1987-04-25,1693,17
+214,The Collection,Amy Grant,66,1987-01-03,1987-05-02,1686,18
+215,Passion,Robin Trower,100,1987-01-03,1987-06-13,1682,24
+216,"Hank ""Live""",Hank Williams Jr.,71,1987-02-14,1987-07-25,1675,24
+217,Moonlighting,Soundtrack,50,1987-08-08,1987-11-07,1665,14
+218,Come As You Are,Peter Wolf,53,1987-04-18,1987-07-25,1663,15
+219,Open Sesame,Whodini,30,1987-10-17,1987-12-26,1661,11
+220,A Nice Place To Be,George Howard,109,1987-01-03,1987-06-20,1660,25
+221,The Touch,Alabama,69,1987-01-03,1987-05-16,1647,20
+222,Smooth Sailin',The Isley Brothers,64,1987-06-20,1987-10-10,1636,17
+223,Hot Number,The Fabulous Thunderbirds,49,1987-07-18,1987-10-24,1630,15
+224,Double Vision,Bob James/David Sanborn,132,1987-01-03,1987-08-29,1601,35
+225,The Tonight Show Band,The Tonight Show Band/Doc Severinsen,65,1987-01-03,1987-04-25,1598,17
+226,Kool Moe Dee,Kool Moe Dee,83,1987-04-18,1987-09-05,1589,21
+227,KBC Band,KBC Band,75,1987-01-03,1987-04-18,1588,16
+228,Klymaxx,Klymaxx,98,1987-01-03,1987-09-19,1583,27
+229,Fahrenheit,Toto,54,1987-01-03,1987-05-16,1578,20
+230,Wide Awake In America (EP),U2,100,1987-04-25,1987-09-19,1538,22
+231,Lethal,UTFO,67,1987-10-03,1987-12-26,1526,13
+232,Ocean Front Property,George Strait,117,1987-02-14,1987-08-22,1514,28
+233,Vinnie Vincent Invasion,Vinnie Vincent Invasion,70,1987-01-03,1987-04-04,1494,14
+234,Chico DeBarge,Chico DeBarge,90,1987-01-03,1987-06-06,1493,23
+235,Music For The Masses,Depeche Mode,35,1987-10-24,1987-12-26,1488,10
+236,Like A Rock,Bob Seger,71,1987-01-03,1987-06-20,1482,25
+237,Better Than Heaven,Stacey Q,102,1987-01-03,1987-06-20,1476,25
+238,Gaudi,The Alan Parsons Project,57,1987-02-07,1987-05-09,1474,14
+239,Crash,The Human League,35,1987-01-03,1987-03-21,1473,12
+240,"Strangeways, Here We Come",The Smiths,55,1987-10-10,1987-12-26,1472,12
+241,"Greatest Hits, Vol. II",George Strait,68,1987-09-26,1987-12-26,1470,14
+242,Just Us,Alabama,55,1987-10-17,1987-12-26,1458,11
+243,Dead Letter Office,R.E.M.,52,1987-05-16,1987-08-15,1445,14
+244,Watch Out,Patrice Rushen,77,1987-03-28,1987-08-01,1439,19
+245,Hard Times In The Land Of Plenty,Omar And The Howlers,81,1987-06-27,1987-10-31,1432,19
+246,Touch And Go,Force M.D.'s,67,1987-08-15,1987-11-28,1425,16
+247,Gypsy Blood,Mason Ruffner,80,1987-06-13,1987-09-26,1424,16
+248,Tell No Tales,TNT,100,1987-05-23,1987-10-10,1403,21
+249,Go On. . .,Mr. Mister,55,1987-09-26,1987-12-26,1396,14
+250,Legend,Lynyrd Skynyrd,41,1987-10-10,1987-12-26,1394,12
+251,Let Me Touch You,The O'Jays,66,1987-10-10,1987-12-26,1387,12
+252,Faith,George Michael,3,1987-11-21,1987-12-26,1381,6
+253,Rock The House,D.J. Jazzy Jeff & The Fresh Prince,95,1987-04-25,1987-08-15,1379,17
+254,Think Visual,The Kinks,81,1987-01-03,1987-04-04,1355,14
+255,"Blah, Blah, Blah",Iggy Pop,90,1987-01-03,1987-04-18,1353,16
+256,"Hot, Cool And Vicious",Salt-N-Pepa,81,1987-08-01,1987-12-26,1352,19
+257,A Lot Of Love,Melba Moore,91,1987-03-07,1987-07-18,1334,20
+258,Sexappeal,Georgio,121,1987-04-25,1987-12-26,1331,36
+259,The Dark,Metal Church,92,1987-01-03,1987-04-11,1319,15
+260,For Sentimental Reasons,Linda Ronstadt With Nelson Riddle & His Orchestra,55,1987-01-03,1987-04-11,1309,15
+261,Dream Evil,Dio,43,1987-08-15,1987-10-24,1308,11
+262,Hot Together,The Pointer Sisters,48,1987-01-03,1987-03-28,1304,13
+263,Rhyme Pays,Ice-T,93,1987-08-15,1987-12-26,1283,20
+264,One To One,Howard Jones,59,1987-01-03,1987-03-21,1278,12
+265,Contagious,Y&T,78,1987-07-11,1987-10-03,1273,13
+266,Boston,Boston,101,1987-01-03,1987-06-13,1268,24
+267,Boi-ngo,Oingo Boingo,77,1987-03-21,1987-07-04,1266,16
+268,Touch,Laura Branigan,87,1987-08-01,1987-12-26,1259,18
+269,The Zagora,Loose Ends,59,1987-04-04,1987-07-04,1254,14
+270,Eat 'Em And Smile,David Lee Roth,43,1987-01-03,1987-03-28,1251,13
+271,Strawberry Moon,"Grover Washington, Jr.",66,1987-08-29,1987-12-12,1248,16
+272,Faster Pussycat,Faster Pussycat,97,1987-08-29,1987-12-26,1244,18
+273,Kohuept (Live In Leningrad),Billy Joel,38,1987-11-07,1987-12-26,1238,8
+274,Boy,U2,107,1987-04-25,1987-09-19,1232,22
+275,Kick,INXS,14,1987-11-14,1987-12-26,1230,7
+276,The Lace,Benjamin Orr,86,1987-01-03,1987-04-04,1229,14
+277,Infected,The The,89,1987-02-14,1987-06-13,1218,18
+278,Spontaneous Inventions,Bobby McFerrin,103,1987-03-21,1987-07-25,1215,19
+279,Raindancing,Alison Moyet,94,1987-06-20,1987-10-10,1213,17
+280,Some Kind Of Wonderful,Soundtrack,57,1987-03-21,1987-06-13,1189,13
+281,Meet Danny Wilson,Danny Wilson,79,1987-07-18,1987-10-31,1189,16
+282,Red Hot Rhythm & Blues,Diana Ross,73,1987-05-30,1987-08-29,1174,14
+283,Indtroducing The Hardline According To Terence Trent D'Arby,Terence Trent D'Arby,63,1987-10-24,1987-12-26,1160,10
+284,All By Myself,Regina Belle,85,1987-07-11,1987-10-17,1159,15
+285,Outside Looking In,BoDeans,86,1987-10-10,1987-12-26,1143,12
+286,Under The Volcano,Rock And Hyde,94,1987-05-02,1987-08-08,1139,15
+287,Standing On The Beach -- The Singles,The Cure,131,1987-01-03,1987-07-11,1138,28
+288,Close To The Bone,Thompson Twins,76,1987-04-25,1987-07-25,1136,14
+289,"Keeper Of The Seven Keys, Part I",Helloween,104,1987-07-04,1987-11-21,1135,21
+290,After Dark,Cruzados,106,1987-08-01,1987-12-19,1129,21
+291,Keel,Keel,79,1987-06-27,1987-09-19,1127,13
+292,A Very Special Christmas,Various Artists,20,1987-11-14,1987-12-26,1126,7
+293,Exit 0,Steve Earle,90,1987-06-13,1987-09-12,1123,14
+294,October,U2,107,1987-04-25,1987-09-19,1115,22
+295,Still Standing,Jason & The Scorchers,91,1987-01-03,1987-03-28,1113,13
+296,Platoon,Soundtrack,75,1987-04-04,1987-06-27,1110,13
+297,Rover's Return,John Waite,77,1987-07-11,1987-09-26,1108,12
+298,This Side Of Paradise,Ric Ocasek,52,1987-01-03,1987-03-14,1106,11
+299,Glenn Medeiros,Glenn Medeiros,83,1987-06-13,1987-10-03,1104,17
+300,Pride,White Lion,94,1987-09-26,1987-12-26,1104,14
+301,Magic,The Jets,51,1987-11-07,1987-12-26,1100,8
+302,Still Life (Talking),Pat Metheny Group,86,1987-08-22,1987-11-28,1092,15
+303,Count Three And Pray,Berlin,67,1987-01-03,1987-03-21,1089,12
+304,Life,Neil Young With Crazy Horse,75,1987-07-25,1987-10-03,1087,11
+305,Sensational,Starpoint,95,1987-03-21,1987-06-20,1083,14
+306,Wendy And Lisa,Wendy And Lisa,88,1987-09-19,1987-12-12,1081,13
+307,Sheila E.,Sheila E.,56,1987-03-21,1987-06-06,1080,12
+308,Glenn Jones,Glenn Jones,94,1987-10-10,1987-12-26,1071,12
+309,Bring The Family,John Hiatt,107,1987-07-04,1987-10-24,1067,17
+310,The Pacific Age,Orchestral Manoeuvres In The Dark,61,1987-01-03,1987-03-21,1066,12
+311,Love Is For Suckers,Twisted Sister,74,1987-08-01,1987-10-10,1065,11
+312,Man Of Colours,Icehouse,84,1987-10-17,1987-12-26,1061,11
+313,King Of Stage,Bobby Brown,88,1987-01-03,1987-04-04,1061,14
+314,Concrete Blonde,Concrete Blonde,96,1987-02-21,1987-06-06,1061,16
+315,Dan Hill,Dan Hill,90,1987-08-08,1987-10-24,1058,12
+316,Cloud Nine,George Harrison,11,1987-11-21,1987-12-26,1050,6
+317,Freedom No Compromise,Little Steven,80,1987-06-13,1987-08-29,1050,12
+318,Inside Story,Grace Jones,81,1987-01-03,1987-03-28,1030,13
+319,Master Of Puppets,Metallica,133,1987-01-03,1987-08-08,1030,32
+320,Then & Now...The Best Of The Monkees,The Monkees,68,1987-01-03,1987-03-14,1012,11
+321,Heartbeat,Don Johnson,68,1987-01-03,1987-03-14,993,11
+322,Live In The Raw,W.A.S.P.,77,1987-10-10,1987-12-26,990,12
+323,Loud And Clear,Autograph,108,1987-04-11,1987-07-18,967,15
+324,Poetic Champions Compose,Van Morrison,90,1987-10-10,1987-12-26,964,12
+325,Female Trouble,Nona Hendryx,96,1987-05-23,1987-08-15,956,13
+326,Raise Your Fist And Yell,Alice Cooper,73,1987-10-24,1987-12-26,955,10
+327,"Standards, Vol. 1",Stanley Jordan,116,1987-02-14,1987-06-13,955,18
+328,God's Own Medicine,The Mission U.K.,108,1987-03-07,1987-07-04,949,18
+329,Touch The World,"Earth, Wind & Fire",33,1987-11-21,1987-12-26,946,6
+330,Earth - Sun - Moon,Love & Rockets,78,1987-10-31,1987-12-26,944,9
+331,Lifes Rich Pageant,R.E.M.,77,1987-01-03,1987-03-28,942,13
+332,Robbie Robertson,Robbie Robertson,38,1987-11-14,1987-12-26,941,7
+333,Marvin Sease,Marvin Sease,114,1987-07-18,1987-11-07,936,17
+334,The Communards,The Communards,90,1987-01-03,1987-04-04,935,14
+335,Perfect Timing,MSG,95,1987-10-24,1987-12-26,920,10
+336,Honor Among Thieves,The Brandos,108,1987-09-26,1987-12-26,920,14
+337,Chronicles,Steve Winwood,28,1987-11-21,1987-12-26,914,6
+338,The Last One To Know,Reba McEntire,102,1987-10-10,1987-12-26,911,12
+339,"Greatest Hits, Vol. III 1979-1987",Elton John,84,1987-10-03,1987-12-26,903,13
+340,Down To The Moon,Andreas Vollenweider,93,1987-01-03,1987-04-25,895,17
+341,Little America,Little America,102,1987-04-25,1987-07-25,884,14
+342,Between Two Fires,Paul Young,77,1987-01-03,1987-03-14,883,11
+343,Eye Of The Hurricane,The Alarm,77,1987-11-07,1987-12-26,879,8
+344,Pleased To Meet Me,The Replacements,131,1987-05-30,1987-10-03,877,19
+345,Revenge,Eurythmics,79,1987-01-03,1987-03-21,860,12
+346,Les Miserables,The Original 1985 London Cast Recording,106,1987-04-11,1987-07-18,856,15
+347,Rockbird,Debbie Harry,97,1987-01-03,1987-03-07,855,10
+348,Freedom,Santana,95,1987-03-07,1987-05-16,846,11
+349,Inside The Electric Circus,W.A.S.P.,86,1987-01-03,1987-03-14,841,11
+350,Just Visiting This Planet,Jellybean,101,1987-09-05,1987-11-14,838,11
+351,Disco,Pet Shop Boys,95,1987-01-03,1987-03-14,827,11
+352,Yo Yo,Bourgeois Tagg,84,1987-10-24,1987-12-26,826,10
+353,Light Of Day,Soundtrack,82,1987-03-14,1987-05-16,822,10
+354,Join The Army,Suicidal Tendencies,100,1987-05-23,1987-08-15,821,13
+355,Live - I Hear You Rockin',The Dave Edmunds Band,106,1987-01-31,1987-04-18,817,12
+356,2 Live Crew Is What We Are,The 2 Live Crew,128,1987-04-11,1987-12-26,814,25
+357,Living In A Box,Living In A Box,89,1987-08-08,1987-10-31,811,13
+358,The Hunger,Michael Bolton,93,1987-10-10,1987-12-26,806,12
+359,Sharp,Angela Winbush,81,1987-11-07,1987-12-26,801,8
+360,Obsession,Bob James,142,1987-01-03,1987-05-23,799,21
+361,Who Made Who,AC/DC,114,1987-01-03,1987-04-04,791,14
+362,Pool It,The Monkees,72,1987-09-19,1987-11-14,790,9
+363,One Second,Yello,92,1987-09-26,1987-11-28,790,10
+364,Trilogy,Yngwie J. Malmsteen's Rising Force,84,1987-01-03,1987-03-14,757,11
+365,Frozen Ghost,Frozen Ghost,107,1987-04-11,1987-07-04,754,13
+366,5 To 1,Tom Kimmel,104,1987-07-04,1987-10-10,751,15
+367,Hot August Night II,Neil Diamond,62,1987-11-21,1987-12-26,745,6
+368,In The City Of Light,Simple Minds,96,1987-07-18,1987-09-19,741,10
+369,See How We Are,X,107,1987-07-11,1987-09-19,741,11
+370,Into The Woods,The Call,123,1987-07-04,1987-09-26,739,13
+371,Back For The Attack,Dokken,13,1987-12-05,1987-12-26,733,4
+372,Reign In Blood,Slayer,94,1987-01-03,1987-03-14,732,11
+373,Stories Without Words,Spyro Gyra,84,1987-09-26,1987-11-21,730,9
+374,St. Julian,Julian Cope,105,1987-04-04,1987-06-20,729,12
+375,Together Again,The Temptations,112,1987-10-24,1987-12-26,727,10
+376,What Price Paradise,China Crisis,114,1987-03-07,1987-05-23,724,12
+377,Raising Fear,Armored Saint,114,1987-09-26,1987-12-12,722,12
+378,After Dark,Ray Parker Jr.,86,1987-10-10,1987-12-05,701,9
+379,December,George Winston,85,1987-01-03,1987-12-26,700,13
+380,Constrictor,Alice Cooper,93,1987-01-03,1987-03-07,700,10
+381,Clutching At Straws,Marillion,103,1987-07-11,1987-09-19,699,11
+382,An Imitation Of Love,Millie Jackson,119,1987-01-03,1987-05-23,699,16
+383,Rockin' With The Rhythm,The Judds,93,1987-02-28,1987-04-25,695,9
+384,Bete Noire,Bryan Ferry,65,1987-11-21,1987-12-26,693,6
+385,8,Mad'house,107,1987-02-21,1987-05-02,692,11
+386,Blow Your Cool,Hoodoo Gurus,120,1987-05-02,1987-07-25,691,13
+387,Romeo's Escape,Dave Alvin,116,1987-09-26,1987-12-19,687,13
+388,Sports,Huey Lewis & The News,130,1987-01-03,1987-05-16,685,20
+389,Timothy B.,Timothy B. Schmit,106,1987-10-03,1987-12-12,683,11
+390,The Beatles [White Album],The Beatles,87,1987-09-12,1987-11-21,680,11
+391,To Be Continued,The Temptations,121,1987-01-03,1987-03-14,679,11
+392,L Is For Lover,Al Jarreau,129,1987-01-03,1987-04-11,676,15
+393,Characters,Stevie Wonder,17,1987-12-05,1987-12-26,675,4
+394,Greatest Hits,Reba McEntire,139,1987-06-06,1987-12-05,674,23
+395,Best Of The Doors,The Doors,127,1987-08-08,1987-12-19,673,16
+396,"Guitars, Cadillacs, Etc., Etc.",Dwight Yoakam,159,1987-01-03,1987-07-11,671,28
+397,Franks Wild Years,Tom Waits,115,1987-09-26,1987-11-28,669,10
+398,E.S.P,Bee Gees,96,1987-10-17,1987-12-12,659,9
+399,Decisions,The Winans,109,1987-09-26,1987-12-05,655,11
+400,Unchain My Heart,Joe Cocker,90,1987-11-14,1987-12-26,650,7
+401,Brothers In Arms,Dire Straits,131,1987-01-03,1987-04-11,644,15
+402,You Can Dance,Madonna,19,1987-12-05,1987-12-26,641,4
+403,Soul Survivor,Al Green,131,1987-05-02,1987-08-01,640,14
+404,Lisa Lisa & Cult Jam With Full Force,Lisa Lisa And Clult Jam With Full Force,99,1987-01-03,1987-03-14,634,11
+405,Free As A Bird,Supertramp,101,1987-10-31,1987-12-26,628,9
+406,Living Large,Heavy D & The Boyz,92,1987-11-14,1987-12-26,627,7
+407,Abbey Road,The Beatles,69,1987-11-14,1987-12-26,611,7
+408,Rock For Amnesty,Various Artists,121,1987-01-24,1987-04-04,603,11
+409,Perfect Timing,Donna Allen,133,1987-04-04,1987-06-27,603,13
+410,Unlimited,Roger,44,1987-11-28,1987-12-26,598,5
+411,Miami Vice II,Soundtrack,82,1987-01-03,1987-02-21,597,8
+412,United,Commodores,101,1987-01-03,1987-02-28,592,9
+413,London 0 Hull 4,The Housemartins,124,1987-02-07,1987-05-09,586,14
+414,Disorderlies,Soundtrack,99,1987-09-12,1987-10-31,580,8
+415,Abigail,King Diamond,123,1987-07-11,1987-10-03,571,13
+416,The Big Easy,Soundtrack,107,1987-10-24,1987-12-19,569,9
+417,Eye Of The Zombie,John Fogerty,73,1987-01-03,1987-02-14,560,7
+418,Shockadelica,Jesse Johnson's Revue,89,1987-01-03,1987-02-28,559,9
+419,They Don't Make Them Like They Used To,Kenny Rogers,137,1987-01-03,1987-03-21,557,12
+420,Heart Over Mind,Jennifer Rush,118,1987-06-27,1987-08-29,556,10
+421,The Mission,Soundtrack,132,1987-02-21,1987-05-16,556,13
+422,The Sport Of Kings,Triumph,108,1987-01-03,1987-03-07,554,10
+423,The Cost Of Loving,The Style Council,122,1987-04-18,1987-06-20,552,10
+424,The Best Of Ritchie Valens,Ritchie Valens,100,1987-08-29,1987-10-31,550,10
+425,Surveillance,Triumph,82,1987-11-28,1987-12-26,549,5
+426,Pop Goes The World,Men Without Hats,91,1987-11-14,1987-12-26,547,7
+427,Silk And Steel,Five Star,122,1987-01-03,1987-03-21,540,12
+428,Contagious,Barkays,110,1987-11-07,1987-12-26,539,8
+429,Best Part Of The Fat Boys,Fat Boys,108,1987-10-03,1987-12-05,537,10
+430,Rap's Greatest Hits,Various Artists,114,1987-01-03,1987-02-28,534,9
+431,"Nasty, Nasty",Black 'N Blue,128,1987-01-03,1987-03-07,530,10
+432,While The City Sleeps,George Benson,124,1987-01-03,1987-02-28,527,9
+433,Wild Frontier,Gary Moore,139,1987-05-16,1987-08-22,522,15
+434,In My Tribe,"10,000 Maniacs",143,1987-09-19,1987-12-26,521,15
+435,Juice,Oran 'Juice' Jones,88,1987-01-03,1987-02-14,520,7
+436,True Confessions,Bananarama,113,1987-01-03,1987-02-21,519,8
+437,Warehouse: Songs And Stories,Husker Du,117,1987-02-14,1987-04-18,519,10
+438,Show Me,The Cover Girls,136,1987-08-15,1987-12-26,517,16
+439,No. 10 Upping Street,Big Audio,135,1987-01-03,1987-04-04,502,14
+440,Got Any Gum?,Joe Walsh,113,1987-08-01,1987-09-19,501,8
+441,Over The Top,Soundtrack,120,1987-03-07,1987-04-25,500,8
+442,Picture Book,Simply Red,150,1987-01-03,1987-06-06,497,23
+443,The Singles,Pretenders,69,1987-12-05,1987-12-26,494,4
+444,Piledriver -- The Wrestling Album II,Various Artists,123,1987-10-17,1987-12-26,491,11
+445,Les Miserables,Original Broadway Cast Recording,117,1987-06-20,1987-08-15,486,9
+446,Less Than Zero,Soundtrack,43,1987-12-05,1987-12-26,483,4
+447,Weapons Of Love,The Truth,115,1987-05-30,1987-07-18,474,8
+448,Julian Cope,Julian Cope,109,1987-02-21,1987-03-28,470,6
+449,Wa Wa Nee,Wa Wa Nee,123,1987-11-07,1987-12-26,468,8
+450,Aerosmith's Greatest Hits,Aerosmith,154,1987-03-07,1987-08-08,466,16
+451,Born In The U.S.A.,Bruce Springsteen,123,1987-01-03,1987-02-14,462,7
+452,Guitar Town,Steve Earle,129,1987-01-03,1987-03-07,459,10
+453,Live In Moscow,UB40,121,1987-08-29,1987-10-17,456,8
+454,The Broadway Album,Barbra Streisand,147,1987-04-25,1987-07-11,455,12
+455,The Phantom Of The Opera,Original London Cast Recording,136,1987-05-23,1987-07-25,440,10
+456,Policy,Martha Davis,127,1987-11-14,1987-12-26,439,7
+457,One Good Reason,Paul Carrack,112,1987-11-21,1987-12-26,435,6
+458,Play Deep,The Outfield,139,1987-01-03,1987-03-14,434,10
+459,Led Zeppelin IV,Led Zeppelin,136,1987-03-21,1987-07-25,432,11
+460,How Ya Like Me Now,Kool Moe Dee,85,1987-11-28,1987-12-26,431,5
+461,React,The Fixx,110,1987-07-18,1987-08-29,429,7
+462,Kick The Wall,Jimmy Davis & Junction,122,1987-10-31,1987-12-19,428,8
+463,The Color Of Money,Soundtrack,100,1987-01-03,1987-02-21,424,8
+464,Looking For Jack,Colin James Hay,126,1987-02-21,1987-04-18,424,9
+465,Scoundrel Days,a-ha,139,1987-01-03,1987-03-14,421,11
+466,She Was Only The Grocer's Daughter,The Blow Monkeys,134,1987-04-25,1987-06-13,413,8
+467,Deep In The Heart Of Nowhere,Bob Geldof,130,1987-01-03,1987-02-28,411,9
+468,The Camera Never Lies,Michael Franks,147,1987-08-01,1987-10-10,411,11
+469,Heart,Heart,134,1987-01-03,1987-09-19,393,15
+470,The Top Ten Hits,Elvis Presley,117,1987-08-15,1987-10-03,388,8
+471,Pursuit Of Happiness,The Beat Farmers,131,1987-09-05,1987-10-24,384,8
+472,Pleasures Of The Flesh,Exodus,99,1987-11-28,1987-12-26,382,5
+473,Everybody Loves The Pilot (Except The Crew),Jon Astley,135,1987-08-01,1987-10-03,377,10
+474,2400 Fulton St.,Jefferson Airplane,138,1987-04-18,1987-06-13,371,9
+475,Soldiers Under Command,Stryper,157,1987-01-03,1987-04-04,367,14
+476,Will Power,Joe Jackson,131,1987-05-02,1987-06-20,366,8
+477,Afterburner,ZZ Top,141,1987-01-03,1987-03-28,363,11
+478,Maximum Security,Tony MacAlpine,146,1987-07-04,1987-09-12,360,11
+479,Miracle,The Kane Gang,115,1987-11-21,1987-12-26,358,6
+480,A Letter From St. Paul,The Silencers,147,1987-08-22,1987-10-31,358,11
+481,Tornado,The Rainmakers,116,1987-11-28,1987-12-26,356,5
+482,Tuff Enuff,The Fabulous Thunderbirds,140,1987-01-03,1987-03-14,356,11
+483,Surfing With The Alien,Joe Satriani,113,1987-11-21,1987-12-26,351,6
+484,Canciones de Mi Padre,Linda Ronstadt,67,1987-12-12,1987-12-26,350,3
+485,All Systems Go,Donna Summer,122,1987-10-10,1987-11-14,350,6
+486,The Queen Is Dead,The Smiths,156,1987-01-03,1987-03-28,347,13
+487,The Secret Of My Success,Soundtrack,131,1987-06-13,1987-08-01,345,8
+488,Cher,Cher,103,1987-12-05,1987-12-26,344,4
+489,Swing Street,Barry Manilow,74,1987-12-12,1987-12-26,341,3
+490,Three Hearts In The Happy Ending Machine,Daryl Hall,115,1987-01-03,1987-02-28,338,9
+491,The Golden Child,Soundtrack,126,1987-01-24,1987-03-07,332,7
+492,In No Sense? Nonsense?,The Art Of Noise,134,1987-10-17,1987-12-12,330,9
+493,The Number One Hits,Elvis Presley,143,1987-08-08,1987-10-03,330,9
+494,The Other Side Of Life,The Moody Blues,136,1987-01-03,1987-09-19,323,9
+495,The California Raisins,The California Raisins,79,1987-12-05,1987-12-26,316,4
+496,False Accusations,The Robert Cray Band,147,1987-03-07,1987-05-16,315,11
+497,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,141,1987-08-29,1987-10-10,312,7
+498,Samantha Fox,Samantha Fox,128,1987-10-24,1987-11-28,300,6
+499,All Our Love,Gladys Knight And The Pips,82,1987-12-12,1987-12-26,297,3
+500,Bad Influence,The Robert Cray Band,143,1987-03-07,1987-05-23,293,11
+501,Let It Be (Soundtrack),The Beatles,88,1987-11-14,1987-12-05,288,4
+502,Leather Jackets,Elton John,91,1987-01-03,1987-01-31,285,5
+503,Love Changes,Kashif,118,1987-12-05,1987-12-26,283,4
+504,Quiet Riot III,Quiet Riot,114,1987-01-03,1987-01-31,282,5
+505,Brasil,The Manhattan Transfer,104,1987-12-05,1987-12-26,281,4
+506,I'm The Man,Anthrax,58,1987-12-19,1987-12-26,274,2
+507,The House Of Dolls,Gene Loves Jezebel,132,1987-11-14,1987-12-26,273,7
+508,Liverpool,Frankie Goes To Hollywood,116,1987-01-03,1987-02-07,272,6
+509,Dragnet,Soundtrack,137,1987-07-18,1987-08-22,270,6
+510,EZO,EZO,150,1987-06-13,1987-08-08,269,9
+511,Live At The Hollywood Bowl,The Doors,154,1987-07-11,1987-09-19,266,11
+512,The Passenger,Melvin James,146,1987-10-03,1987-11-21,261,8
+513,The Best Of War,War,156,1987-05-30,1987-08-01,260,10
+514,The Other Ones,The Other Ones,139,1987-05-16,1987-06-20,257,6
+515,Brotherhood,New Order,161,1987-01-03,1987-03-21,256,11
+516,Big Night Music,Shriekback,145,1987-02-21,1987-03-28,253,6
+517,Don't Give Up Your Day Job,Jack Wagner,151,1987-05-02,1987-06-20,250,8
+518,80's Ladies,K.T. Oslin,96,1987-12-12,1987-12-26,247,3
+519,Company B,Company B,143,1987-07-18,1987-08-22,247,6
+520,Television's Greatest Hits Volume II,Various Artists,152,1987-01-03,1987-02-28,247,9
+521,Hall Of The Mountain King,Savatage,161,1987-10-10,1987-12-26,246,12
+522,Heroes & Zeros,Glen Burtnick,147,1987-10-24,1987-11-28,245,6
+523,Uptown,The Neville Brothers,155,1987-05-02,1987-06-27,244,9
+524,I Commit To Love,Howard Hewett,159,1987-03-07,1987-06-13,241,9
+525,Electric Cafe,Kraftwerk,158,1987-01-03,1987-02-28,239,9
+526,Under Lock And Key,Dokken,168,1987-01-03,1987-03-28,232,13
+527,Alive And Screamin',Krokus,117,1987-01-03,1987-02-07,231,6
+528,4 By Four,4 By Four,141,1987-06-27,1987-08-08,230,7
+529,Guess Who's Comin' To The Crib,Full Force,126,1987-12-05,1987-12-26,223,4
+530,Visual Lies,Lizzy Borden,146,1987-09-26,1987-11-07,222,7
+531,Rock 'N' Roll,Motorhead,150,1987-10-24,1987-11-28,220,6
+532,Sold,Boy George,145,1987-08-01,1987-08-29,216,5
+533,Fresh Aire #6,Mannheim Steamroller,155,1987-01-03,1987-03-14,215,11
+534,Discover,Gene Loves Jezebel,155,1987-01-03,1987-02-21,213,8
+535,All The Best,Paul McCartney,72,1987-12-19,1987-12-26,210,2
+536,Closer To The Flame,Rob Jungklas,136,1987-02-14,1987-03-14,210,5
+537,What's My Name,Steady B,149,1987-10-31,1987-11-28,209,5
+538,Uplift Mofo Party Plan,Red Hot Chili Peppers,155,1987-11-21,1987-12-26,207,6
+539,The Yellow And Black Attack,Stryper,168,1987-01-03,1987-04-04,206,11
+540,Electric Honey,Partland Brothers,146,1987-06-27,1987-07-25,203,5
+541,Harmony,Anne Murray,149,1987-06-20,1987-07-25,203,6
+542,Big Dreamers Never Sleep,Gino Vannelli,160,1987-05-23,1987-07-04,201,7
+543,Press To Play,Paul McCartney,137,1987-01-03,1987-02-07,200,6
+544,Live At Carnegie Hall,Liza Minnelli,156,1987-11-14,1987-12-26,200,7
+545,Seen One Earth,Pete Bardens,148,1987-10-17,1987-11-14,195,5
+546,Hand To Mouth,General Public,151,1987-01-03,1987-02-07,194,6
+547,Scarecrow,John Mellencamp,159,1987-01-03,1987-02-14,194,7
+548,Enough Is Enough,Billy Squier,134,1987-01-03,1987-01-31,186,5
+549,Most Of The Girls Like To Dance. . .,Don Dixon,162,1987-03-07,1987-04-25,183,8
+550,Mannheim Steamroller Christmas,Mannheim Steamroller,126,1987-01-03,1987-01-17,181,3
+551,Future World,Pretty Maids,165,1987-06-20,1987-08-08,181,8
+552,Trick Or Treat,Soundtrack,156,1987-01-03,1987-02-07,179,6
+553,Rock The Nations,Saxon,149,1987-02-14,1987-03-21,172,6
+554,'Round Midnight,Linda Ronstadt With Nelson Riddle & His Orchestra,151,1987-01-03,1987-01-31,169,5
+555,Don't Look Back,Boston,158,1987-01-17,1987-03-21,168,6
+556,Chronicle I,Creedence Clearwater Revival,165,1987-01-03,1987-02-14,162,7
+557,Face Value,Phil Collins,159,1987-03-28,1987-04-25,160,5
+558,Dancing On The Couch,Go West,172,1987-08-22,1987-10-17,159,9
+559,Hai Hai,Roger Hodgson,163,1987-10-31,1987-12-05,156,6
+560,Orgasmatron,Motorhead,157,1987-01-03,1987-02-07,155,6
+561,The Right Night And Barry White,Barry White,159,1987-11-21,1987-12-26,154,6
+562,Happy?,Public Image Ltd.,169,1987-10-24,1987-11-28,154,6
+563,Inside Information,Foreigner,48,1987-12-26,1987-12-26,153,1
+564,The Rainmakers,The Rainmakers,158,1987-01-03,1987-02-07,152,6
+565,Bucky Fellini,The Dead Milkmen,163,1987-08-01,1987-09-12,152,7
+566,U.S.A. For M.O.D.,M.O.D.,153,1987-11-07,1987-12-05,149,5
+567,Can't Slow Down,Lionel Richie,166,1987-01-10,1987-02-14,146,6
+568,Come Share My Love,Miki Howard,171,1987-03-14,1987-05-23,146,6
+569,Marsalis Standard Time: Vol. 1,Wynton Marsalis,153,1987-09-26,1987-10-31,145,5
+570,Take Me All The Way,Stacy Lattisaw,175,1987-01-03,1987-03-07,145,10
+571,Discovery,Shanice Wilson,161,1987-11-28,1987-12-26,144,5
+572,Hiding Out,Soundtrack,157,1987-12-05,1987-12-26,138,4
+573,Theatre Of Pain,Motley Crue,159,1987-06-27,1987-08-29,136,5
+574,Good Music,Joan Jett & the Blackhearts,161,1987-01-03,1987-02-07,133,6
+575,Mean,Montrose,165,1987-05-30,1987-07-11,132,7
+576,Ghost On The Beach,Insiders,167,1987-10-10,1987-11-07,132,5
+577,Madame X,Madame X,162,1987-10-10,1987-11-07,130,5
+578,Mutual Attraction,Sylvester,164,1987-02-14,1987-03-14,129,5
+579,Stand Up,The Del Fuegos,167,1987-04-18,1987-05-23,126,6
+580,Pyromania,Def Leppard,147,1987-09-12,1987-10-03,124,4
+581,Goodbye Yellow Brick Road,Elton John,147,1987-12-12,1987-12-26,122,3
+582,Magical Mystery Tour (Soundtrack),The Beatles,163,1987-10-17,1987-11-07,118,4
+583,"Rap's Greatest Hits, Volume 2",Various Artists,167,1987-05-02,1987-05-23,116,4
+584,Miles,Miles Jaye,131,1987-12-12,1987-12-26,113,3
+585,Darklands,The Jesus And Mary Chain,161,1987-10-17,1987-11-07,113,4
+586,In Love,Bunny Debarge,172,1987-03-14,1987-04-11,113,5
+587,No Easy Walk To Freedom,"Peter, Paul & Mary",173,1987-03-14,1987-04-11,107,5
+588,The Sound Of Music,The dB's,171,1987-11-28,1987-12-26,106,5
+589,Good Love,Meli'sa Morgan,122,1987-12-19,1987-12-26,105,2
+590,Triumph And Agony,Warlock,142,1987-12-19,1987-12-26,101,2
+591,King's Record Shop,Rosanne Cash,167,1987-08-15,1987-10-03,101,8
+592,Classical Gas,Mason Williams & Mannheim Steamroller,128,1987-12-19,1987-12-26,100,2
+593,Esquire,Esquire,165,1987-03-28,1987-04-18,97,4
+594,Rock & Roll Rebels,John Kay & Steppenwolf,171,1987-09-26,1987-10-17,97,4
+595,Shout At The Devil,Motley Crue,165,1987-06-27,1987-08-15,94,4
+596,Like A Virgin,Madonna,176,1987-08-15,1987-09-19,94,6
+597,Farrenheit,Farrenheit,179,1987-05-09,1987-06-20,91,7
+598,I Prefer The Moonlight,Kenny Rogers,163,1987-09-26,1987-10-17,90,4
+599,Get Rhythm,Ry Cooder,177,1987-11-28,1987-12-26,90,5
+600,Bad To The Bone,L.A. Dream Team,162,1987-11-14,1987-12-05,89,4
+601,Days Of Future Past,The Moody Blues With The London Festival Orchestra (Knight),154,1987-09-12,1987-09-19,87,2
+602,Angel Band,Emmylou Harris,166,1987-08-01,1987-08-22,87,4
+603,Baby Tonight,Marlon Jackson,175,1987-11-28,1987-12-26,87,5
+604,Christmas Rap,Various Artists,138,1987-12-12,1987-12-26,85,3
+605,Dreamtime,The Stranglers,172,1987-05-02,1987-05-23,85,4
+606,Rainbow,Dolly Parton,154,1987-12-19,1987-12-26,84,2
+607,Simple Things,Richie Havens,173,1987-10-03,1987-10-24,82,4
+608,Discovery,Larry Carlton,180,1987-08-01,1987-09-05,80,6
+609,On A Night Like This,Buckwheat Zydeco,172,1987-11-14,1987-12-12,79,5
+610,"After Here, Through Midland",Cock Robin,166,1987-09-05,1987-10-03,75,3
+611,Back In Black,Whodini,180,1987-01-03,1987-02-07,75,6
+612,More Of The Monkees,The Monkees,176,1987-01-03,1987-02-07,74,6
+613,The Monkees,The Monkees,178,1987-01-03,1987-01-24,73,4
+614,Too Fast For Love,Motley Crue,166,1987-06-27,1987-07-11,72,3
+615,Open All Night,Leroi Bros.,181,1987-03-28,1987-04-25,72,5
+616,License To Kill,Malice,177,1987-04-11,1987-05-16,69,6
+617,Red 7,Red 7,175,1987-05-30,1987-06-13,66,3
+618,Long Live The New Flesh,Flesh For Lulu,167,1987-12-12,1987-12-26,62,3
+619,Winter Solstice,Various Artists,172,1987-01-03,1987-01-17,62,3
+620,Pleasure One,Heaven 17,177,1987-04-04,1987-04-18,60,3
+621,Halfway To Sanity,The Ramones,172,1987-10-10,1987-10-24,57,3
+622,Remembrance Days,The Dream Academy,181,1987-11-14,1987-11-28,57,3
+623,Treacherous: A History Of The Neville Brothers,The Neville Brothers,178,1987-04-11,1987-04-25,56,3
+624,"One Lord, One Faith, One Baptism",Aretha Franklin,146,1987-12-26,1987-12-26,55,1
+625,Savage,Eurythmics,149,1987-12-26,1987-12-26,52,1
+626,Ten Women,Wire Train,181,1987-05-02,1987-05-23,52,4
+627,Soldiers Of Fortune,The Outlaws,172,1987-01-03,1987-01-10,50,2
+628,Winter Into Spring,George Winston,186,1987-03-14,1987-04-04,48,4
+629,Wild In The Streets,Helix,179,1987-11-07,1987-11-14,44,2
+630,Not Just The Girl Next Door,Nancy Martinez,178,1987-02-21,1987-03-07,41,3
+631,Music From The Edge Of Heaven,Wham!,184,1987-01-03,1987-01-24,41,4
+632,Millions Like Us,Millions Like Us,174,1987-12-19,1987-12-26,38,2
+633,Through The Looking Glass,Siouxsie & The Banshees,188,1987-04-11,1987-04-25,37,3
+634,The Manhattan Transfer Live,The Manhattan Transfer,187,1987-05-30,1987-06-13,36,3
+635,Terror Rising,Lizzy Borden,188,1987-05-02,1987-06-06,36,6
+636,Awaken The Guardian,Fates Warning,191,1987-02-07,1987-02-28,36,4
+637,Hit And Run,TSOL,184,1987-07-04,1987-07-11,33,2
+638,Serious,Deja,188,1987-12-05,1987-12-26,33,4
+639,"Hello, I Must Be Going!",Phil Collins,183,1987-04-04,1987-04-11,32,2
+640,"Velvet Kiss, Lick Of The Lime",Lions And Ghosts,187,1987-10-24,1987-11-07,32,3
+641,Save Your Prayers,Waysted,185,1987-03-21,1987-03-28,31,2
+642,Madonna,Madonna,185,1987-08-22,1987-09-05,31,3
+643,Hurricane Eyes,Loudness,190,1987-08-15,1987-09-05,31,4
+644,The Eternal Idol,Black Sabbath,172,1987-12-26,1987-12-26,29,1
+645,Greatest Hits,War,187,1987-10-17,1987-10-24,28,2
+646,Wild-Eyed Dream,Ricky Van Shelton,175,1987-12-26,1987-12-26,26,1
+647,Back To The Beach,Soundtrack,188,1987-09-05,1987-09-12,25,2
+648,Soul Man,Soundtrack,181,1987-01-03,1987-01-10,22,2
+649,Bo-Day-Shus,Mojo Nixon/Skid Roper,189,1987-10-10,1987-10-17,22,2
+650,Circus,Erasure,190,1987-07-18,1987-08-01,22,3
+651,The Princess Bride,Mark Knopfler (Original Soundtrack),180,1987-10-31,1987-10-31,21,1
+652,Yellow Submarine,The Beatles,180,1987-09-26,1987-09-26,21,1
+653,Turbo 30,Judas Priest,190,1987-01-17,1987-01-31,19,3
+654,Prince's Trust,Various Artists,194,1987-06-06,1987-06-20,19,3
+655,Tenku,Kitaro,183,1987-04-04,1987-04-04,18,1
+656,Genesis,Genesis,189,1987-03-21,1987-03-28,18,2
+657,Menace To Society,Lizzy Borden,185,1987-01-03,1987-01-03,16,1
+658,The Island Story,Various Artists,185,1987-12-26,1987-12-26,16,1
+659,Tutu,Miles Davis,186,1987-01-17,1987-01-24,16,2
+660,Love,Aztec Camera,193,1987-12-19,1987-12-26,16,2
+661,Strength Of Steel,Anvil,191,1987-07-18,1987-07-25,15,2
+662,Law Of The Fish,The Radiators,191,1987-12-19,1987-12-26,14,2
+663,Chris Isaak,Chris Isaak,194,1987-04-11,1987-04-18,13,2
+664,Round Midnight,Soundtrack,196,1987-01-24,1987-02-07,13,3
+665,Belinda Carlisle,Belinda Carlisle,196,1987-01-03,1987-01-24,12,4
+666,Excess All Areas,Shy,193,1987-06-27,1987-07-11,11,2
+667,Taking Over,Overkill,191,1987-04-11,1987-04-11,10,1
+668,Real Love,Ashford & Simpson,192,1987-01-03,1987-01-03,9,1
+669,Autumn,George Winston,193,1987-01-10,1987-01-10,8,1
+670,The Hollywood Musicals,Johnny Mathis & Henry Mancini,197,1987-01-10,1987-01-17,8,2
+671,Rage For Order,Queensryche,194,1987-02-07,1987-02-07,7,1
+672,Brighter Than A Thousand Suns,Killing Joke,194,1987-04-11,1987-04-11,7,1
+673,Blues For Salvador,Carlos Santana,195,1987-11-07,1987-11-07,6,1
+674,Born To Run,Bruce Springsteen,195,1987-01-17,1987-01-17,6,1
+675,Reckless,Bryan Adams,196,1987-05-30,1987-05-30,5,1
+676,Bouncing Off The Satellites,The B-52s,197,1987-01-03,1987-01-10,5,2
+677,Ba-Dop-Boom-Bang,Grandmaster Flash,197,1987-04-25,1987-04-25,4,1
+678,Got To Be Tough,M.C. Shy-D,197,1987-06-27,1987-06-27,4,1
+679,All Of Me,Toni Tennille,198,1987-12-26,1987-12-26,3,1
+680,Another Scoop,Pete Townshend,198,1987-04-04,1987-04-04,3,1
+681,Blind Date,Soundtrack,198,1987-05-02,1987-05-02,3,1
+682,Poolside,Nu Shooz,199,1987-01-03,1987-01-03,2,1

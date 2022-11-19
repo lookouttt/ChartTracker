@@ -1,0 +1,512 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Backstreet Boys,Backstreet Boys,4,1998-01-03,1998-12-26,6406,52
+2,Let's Talk About Love,Celine Dion,1,1998-01-03,1998-12-26,5972,52
+3,Titanic,Soundtrack,1,1998-01-03,1998-12-26,5441,51
+4,Come On Over,Shania Twain,3,1998-01-03,1998-12-26,5414,52
+5,City Of Angels,Soundtrack,1,1998-04-18,1998-12-26,4732,37
+6,Yourself Or Someone Like You,matchbox 20,5,1998-01-03,1998-12-26,4517,52
+7,Savage Garden,Savage Garden,3,1998-01-03,1998-12-26,4516,51
+8,Big Willie Style,Will Smith,8,1998-01-03,1998-12-26,4462,52
+9,My Way,Usher,4,1998-01-03,1998-12-26,3727,47
+10,'N Sync,'N Sync,2,1998-04-11,1998-12-26,3682,38
+11,Spiceworld,Spice Girls,3,1998-01-03,1998-12-26,3641,52
+12,My Own Prison,Creed,22,1998-01-03,1998-12-26,3409,52
+13,Ray Of Light,Madonna,2,1998-03-21,1998-12-26,3283,41
+14,Armageddon -- The Album,Soundtrack,1,1998-07-11,1998-12-26,3111,25
+15,Love Always,K-Ci & JoJo,6,1998-01-17,1998-10-10,2998,39
+16,Surfacing,Sarah McLachlan,24,1998-01-03,1998-12-26,2991,52
+17,Sevens,Garth Brooks,1,1998-01-03,1998-10-31,2910,40
+18,Third Eye Blind,Third Eye Blind,25,1998-01-03,1998-12-26,2899,52
+19,Never S-A-Y Never,Brandy,2,1998-06-27,1998-12-26,2872,27
+20,Stunt,Barenaked Ladies,3,1998-07-25,1998-12-26,2800,23
+21,Hello Nasty,Beastie Boys,1,1998-08-01,1998-12-26,2748,22
+22,It's Dark And Hell Is Hot,DMX,1,1998-06-06,1998-12-26,2645,30
+23,Hope Floats,Soundtrack,4,1998-06-06,1998-12-26,2586,30
+24,The Velvet Rope,Janet,22,1998-01-03,1998-12-05,2449,49
+25,Dr. Dolittle: The Album,Soundtrack,4,1998-07-04,1998-12-26,2388,26
+26,The Miseducation Of Lauryn Hill,Lauryn Hill,1,1998-09-12,1998-12-26,2384,16
+27,Anytime,Brian McKnight,13,1998-01-17,1998-10-03,2292,38
+28,Spice,Spice Girls,10,1998-01-03,1998-12-26,2274,50
+29,Left Of The Middle,Natalie Imbruglia,10,1998-03-28,1998-10-31,2229,32
+30,Before These Crowded Streets,Dave Matthews Band,1,1998-05-16,1998-12-26,2215,32
+31,Harlem World,Mase,4,1998-01-03,1998-10-03,2196,40
+32,Faith,Faith Hill,7,1998-05-09,1998-12-26,2179,34
+33,No Way Out,Puff Daddy & The Family,8,1998-01-03,1998-08-08,2068,32
+34,Wide Open Spaces,Dixie Chicks,10,1998-04-25,1998-12-26,1993,36
+35,ReLoad,Metallica,7,1998-01-03,1998-09-05,1952,36
+36,MP Da Last Don,Master P,1,1998-06-20,1998-11-14,1951,22
+37,Butterfly,Mariah Carey,8,1998-01-03,1998-08-01,1947,31
+38,Tubthumper,Chumbawamba,3,1998-01-03,1998-05-30,1945,22
+39,Romanza,Andrea Bocelli,35,1998-01-03,1998-12-26,1907,51
+40,Zoot Suit Riot,Cherry Poppin' Daddies,17,1998-04-04,1998-11-14,1905,33
+41,The Dirty Boogie,The Brian Setzer Orchestra,9,1998-07-11,1998-12-26,1891,25
+42,You Light Up My Life -- Inspirational Songs,LeAnn Rimes,4,1998-01-03,1998-06-27,1816,25
+43,Marcy Playground,Marcy Playground,21,1998-01-10,1998-08-08,1810,31
+44,The Wedding Singer,Soundtrack,5,1998-02-21,1998-12-19,1752,33
+45,Ghetto D,Master P,32,1998-01-03,1998-09-26,1749,37
+46,Vol. 2... Hard Knock Life,JAY-Z,1,1998-10-17,1998-12-26,1747,11
+47,The Limited Series,Garth Brooks,1,1998-05-23,1998-09-26,1646,19
+48,Bulworth -- The Soundtrack,Soundtrack,10,1998-05-09,1998-10-10,1601,23
+49,The Dance,Fleetwood Mac,14,1998-01-03,1998-07-11,1572,28
+50,Charge It 2 Da Game,Silkk The Shocker,3,1998-03-07,1998-10-10,1568,31
+51,Everywhere,Tim McGraw,28,1998-01-03,1998-11-14,1516,43
+52,Capital Punishment,Big Punisher,5,1998-05-16,1998-10-10,1507,22
+53,Godzilla -- The Album,Soundtrack,2,1998-06-06,1998-09-19,1498,16
+54,Mya,Mya,29,1998-05-09,1998-12-26,1472,34
+55,Levert.Sweat.Gill,LSG,18,1998-01-03,1998-07-18,1458,27
+56,Rated Next,Next,37,1998-03-14,1998-10-31,1406,34
+57,Pilgrim,Eric Clapton,4,1998-03-28,1998-08-15,1398,20
+58,So Much For The Afterglow,Everclear,59,1998-01-03,1998-12-26,1383,52
+59,Follow The Leader,Korn,1,1998-09-05,1998-12-26,1370,17
+60,The Book Of Secrets,Loreena McKennitt,17,1998-01-03,1998-06-13,1350,24
+61,"Da Game Is To Be Sold, Not To Be Told",Snoop Dogg,1,1998-08-22,1998-11-28,1347,15
+62,Sittin' On Top Of The World,LeAnn Rimes,3,1998-05-23,1998-10-10,1344,21
+63,Yield,Pearl Jam,2,1998-02-21,1998-07-11,1309,20
+64,The Boy Is Mine,Monica,8,1998-08-01,1998-12-26,1237,22
+65,Hellbilly Deluxe,Rob Zombie,5,1998-09-12,1998-12-26,1230,16
+66,Aquarium,Aqua,10,1998-01-03,1998-05-16,1217,20
+67,Songs From Ally McBeal (TV Soundtrack),Vonda Shepard,7,1998-05-23,1998-10-03,1213,20
+68,Jermaine Dupri Presents -- Life In 1472 The Original Soundtrack,Jermaine Dupri,3,1998-08-08,1998-11-14,1210,15
+69,Higher Ground,Barbra Streisand,3,1998-01-03,1998-05-23,1197,17
+70,Cool Relax,Jon B,33,1998-04-04,1998-10-03,1184,27
+71,One Step At A Time,George Strait,2,1998-05-09,1998-10-17,1171,18
+72,Rush Hour,Soundtrack,5,1998-10-03,1998-12-26,1168,13
+73,Eve 6,Eve 6,33,1998-07-11,1998-12-26,1143,25
+74,Aquemini,OutKast,2,1998-10-17,1998-12-26,1127,11
+75,All The Pain Money Can Buy: 25th Anniversary Edition,Fastball,29,1998-04-18,1998-10-03,1127,25
+76,Fush Yu Mang,Smash Mouth,19,1998-01-03,1998-05-02,1112,18
+77,Middle Of Nowhere,Hanson,8,1998-01-03,1998-05-23,1109,21
+78,Welcome To Our World,Timbaland & Magoo,33,1998-01-03,1998-05-30,1085,22
+79,Adore,The Smashing Pumpkins,2,1998-06-20,1998-10-10,1084,17
+80,Urban Hymns,The Verve,23,1998-01-10,1998-06-13,1070,23
+81,The Globe Sessions,Sheryl Crow,5,1998-10-17,1998-12-26,1066,11
+82,The Players Club,Soundtrack,10,1998-04-04,1998-08-01,1058,18
+83,These Are Special Times,Celine Dion,2,1998-11-21,1998-12-26,1057,6
+84,Soul Food,Soundtrack,9,1998-01-03,1998-04-25,1054,17
+85,Kenny G Greatest Hits,Kenny G,19,1998-01-03,1998-05-23,1038,21
+86,Back To Titanic,London Symphony Orchestra (Horner),2,1998-09-12,1998-12-26,998,16
+87,I Got The Hook-Up!,Soundtrack,3,1998-04-25,1998-07-25,994,14
+88,The Greatest Hits Collection,Brooks & Dunn,27,1998-01-03,1998-05-30,993,22
+89,Ophelia,Natalie Merchant,8,1998-06-06,1998-09-26,983,17
+90,All Saints,All Saints,40,1998-06-20,1998-12-26,983,27
+91,Live,Erykah Badu,20,1998-01-03,1998-04-18,970,16
+92,Dizzy Up The Girl,The Goo Goo Dolls,15,1998-10-10,1998-12-26,960,12
+93,ESPN Presents: Jock Jams Vol. 4,Various Artists,20,1998-09-12,1998-12-26,943,16
+94,(Songbook) A Collection Of Hits,Trisha Yearwood,34,1998-01-03,1998-05-30,939,22
+95,"Money, Power & Respect",The Lox,3,1998-01-31,1998-05-09,936,15
+96,Wyclef Jean Presents The Carnival Featuring Refugee Allstars,Wyclef Jean Featuring Refugee Allstars,36,1998-01-17,1998-07-11,924,26
+97,This Fire,Paula Cole,20,1998-01-24,1998-06-13,890,21
+98,Soul Of A Woman,Kelly Price,15,1998-08-29,1998-11-28,885,14
+99,Mechanical Animals,Marilyn Manson,1,1998-10-03,1998-12-12,882,11
+100,The Source Presents Hip Hop Hits -- Volume 1,Various Artists,38,1998-01-17,1998-05-23,869,19
+101,Pieces Of You,Jewel,18,1998-01-03,1998-05-02,863,18
+102,The Nu Nation Project,Kirk Franklin,7,1998-10-17,1998-12-26,852,11
+103,Life Or Death,C-Murder,3,1998-04-04,1998-06-20,839,12
+104,Nimrod.,Green Day,47,1998-01-03,1998-10-03,837,30
+105,Embrya,Maxwell,3,1998-07-18,1998-10-03,836,12
+106,Big Bad Voodoo Daddy,Big Bad Voodoo Daddy,47,1998-03-14,1998-10-17,834,32
+107,High Mileage,Alan Jackson,4,1998-09-19,1998-12-26,832,15
+108,Traces Of My Lipstick,Xscape,28,1998-05-30,1998-10-24,831,22
+109,Celebrity Skin,Hole,9,1998-09-26,1998-12-26,825,14
+110,Feeling Strangely Fine,Semisonic,43,1998-05-02,1998-10-10,825,24
+111,My Best Friend's Wedding,Soundtrack,34,1998-01-03,1998-05-02,820,18
+112,Version 2.0,Garbage,13,1998-05-30,1998-10-10,817,20
+113,For The Record: 41 Number One Hits,Alabama,13,1998-09-12,1998-12-26,808,16
+114,Sparkle,Sparkle,3,1998-06-06,1998-08-22,803,12
+115,Double Live,Garth Brooks,1,1998-12-05,1998-12-26,800,4
+116,If You See Him,Reba McEntire,8,1998-06-20,1998-11-07,800,19
+117,If You See Her,Brooks & Dunn,11,1998-06-20,1998-11-14,793,22
+118,Supposed Former Infatuation Junkie,Alanis Morissette,1,1998-11-21,1998-12-26,782,6
+119,Whatever And Ever Amen,Ben Folds Five,42,1998-01-17,1998-05-16,764,18
+120,When Disaster Strikes...,Busta Rhymes,39,1998-01-03,1998-05-09,745,19
+121,Enter The Dru,Dru Hill,2,1998-11-14,1998-12-26,730,7
+122,N.O.R.E.,Noreaga,3,1998-08-01,1998-10-17,724,12
+123,Evolution,Boyz II Men,25,1998-01-03,1998-05-23,711,15
+124,R U Still Down? [Remember Me],2Pac,19,1998-01-03,1998-03-28,695,13
+125,Spirit,Jewel,3,1998-12-05,1998-12-26,679,4
+126,Tribute,Yanni,23,1998-01-03,1998-04-18,663,16
+127,Paint The Sky With Stars -- The Best Of Enya,Enya,30,1998-01-03,1998-04-11,661,15
+128,The Best Of 1980-1990/The B-Sides,U2,2,1998-11-21,1998-12-26,638,6
+129,Evolution,Martina McBride,24,1998-01-03,1998-05-23,638,21
+130,Love & Consequences,Gerald Levert,17,1998-08-08,1998-10-24,637,12
+131,Unpredictable,Mystikal,56,1998-01-03,1998-05-23,620,21
+132,How Stella Got Her Groove Back,Soundtrack,8,1998-08-29,1998-10-31,616,10
+133,My Homies,Scarface,4,1998-03-21,1998-05-16,608,9
+134,OK Computer,Radiohead,37,1998-01-24,1998-05-16,607,17
+135,Tidal,Fiona Apple,32,1998-01-03,1998-04-04,606,14
+136,Musical Chairs,Hootie & The Blowfish,4,1998-10-03,1998-12-19,604,10
+137,Sehnsucht,Rammstein,45,1998-07-25,1998-11-14,604,17
+138,From The Choirgirl Hotel,Tori Amos,5,1998-05-23,1998-08-01,601,11
+139,...Hits,Phil Collins,18,1998-10-24,1998-12-26,600,10
+140,3 Car Garage: The Indie Recordings '95-'96,Hanson,6,1998-05-30,1998-08-08,598,11
+141,Can't Hardly Wait,Soundtrack,25,1998-06-27,1998-09-12,587,12
+142,Still In The Game,Keith Sweat,6,1998-10-10,1998-12-05,582,9
+143,# 1's,Mariah Carey,4,1998-12-05,1998-12-26,580,4
+144,The Wedding Singer Volume 2,Soundtrack,22,1998-08-08,1998-10-31,580,13
+145,Great Expectations: The Album,Soundtrack,25,1998-01-24,1998-04-18,579,13
+146,"All I Have In This World, Are... My Balls And My Word",Young Bleed,10,1998-02-07,1998-04-11,571,10
+147,Home For Christmas,'N Sync,7,1998-11-28,1998-12-26,570,5
+148,Still Standing,Goodie Mob,6,1998-04-25,1998-06-27,560,10
+149,Desireless,Eagle-Eye Cherry,45,1998-09-19,1998-12-26,557,15
+150,The Key,Vince Gill,11,1998-08-29,1998-10-31,551,10
+151,In Tha Beginning...There Was Rap,Various Artists,30,1998-01-03,1998-03-21,537,12
+152,VH1 Divas Live,"Celine Dion, Gloria Estefan, Aretha Franklin, Shania Twain & Mariah Carey",21,1998-10-24,1998-12-26,532,10
+153,Family Scriptures Chapter II: Family Reunion,Mo Thugs Family,25,1998-06-13,1998-09-05,530,13
+154,Fundamental,Bonnie Raitt,17,1998-04-25,1998-06-20,521,9
+155,Let's Ride,Montell Jordan,20,1998-04-18,1998-06-27,521,11
+156,Days Of The New,Days Of The New,58,1998-01-03,1998-05-09,521,19
+157,1998 Grammy Nominees,Various Artists,11,1998-02-28,1998-04-25,516,9
+158,R.,R. Kelly,2,1998-11-28,1998-12-26,510,5
+159,Funkmaster Flex The Mix Tape Volume III: 60 Minutes Of Funk The Final Chapt,Funkmaster Flex,4,1998-08-29,1998-10-10,509,7
+160,Now,Various Artists,21,1998-11-14,1998-12-26,506,7
+161,Falling Into You,Celine Dion,59,1998-01-03,1998-05-23,500,21
+162,The Love Movement,A Tribe Called Quest,3,1998-10-17,1998-11-21,495,6
+163,Heaven'z Movie,Bizzy Bone,3,1998-10-24,1998-11-28,493,6
+164,Am I My Brothers Keeper,Kane & Abel,5,1998-07-25,1998-09-12,492,8
+165,El Nino,Def Squad,2,1998-07-18,1998-08-29,488,7
+166,Phoenix Rising,The Temptations,44,1998-09-05,1998-12-19,487,16
+167,Robyn Is Here,Robyn,57,1998-01-03,1998-05-30,480,20
+168,gloria!,Gloria Estefan,23,1998-06-20,1998-09-05,475,12
+169,Van Halen 3,Van Halen,4,1998-04-04,1998-05-16,470,7
+170,Lost,8Ball,5,1998-06-06,1998-07-25,470,8
+171,There's One In Every Family,Fiend,8,1998-05-23,1998-07-25,465,10
+172,Headz Or Tailz,Do Or Die,13,1998-04-25,1998-06-20,465,9
+173,The Swarm,Wu-Tang Killa Beez,4,1998-08-08,1998-09-19,463,7
+174,Men In Black--The Album,Soundtrack,21,1998-01-03,1998-03-14,461,11
+175,The Pillage,Cappadonna,3,1998-04-11,1998-05-16,458,6
+176,Sublime,Sublime,44,1998-01-03,1998-07-25,458,21
+177,Mulan,Soundtrack,24,1998-07-04,1998-08-29,454,9
+178,Confessions Of Fire,Cam'ron,6,1998-08-08,1998-09-19,452,7
+179,Life After Death,The Notorious B.I.G.,61,1998-01-03,1998-05-02,450,18
+180,Garage Inc.,Metallica,2,1998-12-12,1998-12-26,446,3
+181,Ultimate Dance Party 1998,Various Artists,48,1998-01-03,1998-03-28,437,13
+182,Americana,The Offspring,6,1998-12-05,1998-12-26,436,4
+183,Tical 2000: Judgement Day,Method Man,2,1998-12-05,1998-12-26,432,4
+184,A Rose Is Still A Rose,Aretha Franklin,30,1998-04-11,1998-06-13,432,10
+185,5,Lenny Kravitz,36,1998-05-30,1998-12-26,432,18
+186,Moment Of Truth,Gang Starr,6,1998-04-18,1998-05-30,429,7
+187,Don Cartagena,Fat Joe,7,1998-09-19,1998-11-07,422,8
+188,Walking Into Clarksdale,Jimmy Page & Robert Plant,8,1998-05-09,1998-06-27,417,8
+189,Share My World,Mary J. Blige,55,1998-01-24,1998-05-02,398,15
+190,Up,R.E.M.,3,1998-11-14,1998-12-26,392,7
+191,Greatest Hits,2Pac,5,1998-12-12,1998-12-26,389,3
+192,Premonition,John Fogerty,29,1998-06-27,1998-09-05,385,11
+193,ESPN Presents: Jock Jams Volume 3,Various Artists,41,1998-01-03,1998-03-21,383,12
+194,The Best That I Could Do 1978 - 1988,John Mellencamp,44,1998-01-03,1998-03-14,383,11
+195,Psycho-Circus,KISS,3,1998-10-10,1998-11-21,379,7
+196,Prolonging The Magic,Cake,33,1998-10-24,1998-12-26,379,10
+197,Blues Brothers 2000,Soundtrack,12,1998-02-21,1998-04-04,378,7
+198,The X-Files: The Album,Soundtrack,26,1998-06-20,1998-08-01,377,7
+199,Whitey Ford Sings The Blues,Everlast,37,1998-11-07,1998-12-26,372,8
+200,Supernatural,dc Talk,4,1998-10-10,1998-11-14,371,6
+201,The Rugrats Movie,Soundtrack,20,1998-11-21,1998-12-26,371,6
+202,Pure Funk,Various Artists,51,1998-05-30,1998-09-05,370,15
+203,"In My Lifetime, Vol. 1",JAY-Z,56,1998-01-03,1998-03-21,360,12
+204,Perennial Favorites,Squirrel Nut Zippers,18,1998-08-22,1998-10-03,359,7
+205,I Know,Luther Vandross,26,1998-08-29,1998-10-17,358,8
+206,Floored,Sugar Ray,36,1998-01-03,1998-03-07,357,10
+207,Destiny's Child,Destiny's Child,67,1998-03-07,1998-07-18,357,20
+208,Nine Lives,Aerosmith,62,1998-01-03,1998-04-25,356,15
+209,Cypress Hill IV,Cypress Hill,11,1998-10-24,1998-11-28,351,6
+210,Can-I-Bus,Canibus,2,1998-09-26,1998-10-17,344,4
+211,Steady On,Point Of Grace,24,1998-08-22,1998-10-17,337,9
+212,The Ozzman Cometh,Ozzy Osbourne,43,1998-01-03,1998-03-07,336,10
+213,The Christmas Angel,Mannheim Steamroller,25,1998-11-14,1998-12-26,334,7
+214,Where Your Road Leads,Trisha Yearwood,33,1998-08-01,1998-10-17,334,11
+215,War & Peace Vol. I (The War Disc),Ice Cube,7,1998-12-05,1998-12-26,331,4
+216,My Love Is Your Love,Whitney Houston,13,1998-12-05,1998-12-26,331,4
+217,Belly,Soundtrack,5,1998-11-21,1998-12-12,330,4
+218,The Movie Album: As Time Goes By,Neil Diamond,31,1998-11-14,1998-12-26,330,7
+219,Keep The Faith,Faith Evans,6,1998-11-14,1998-12-12,325,5
+220,The Tour,Mary J. Blige,21,1998-08-15,1998-09-26,325,7
+221,Shut 'Em Down,Onyx,10,1998-06-20,1998-08-01,322,7
+222,Lilith Fair: A Celebration Of Women In Music,Various Artists,24,1998-05-16,1998-07-04,311,8
+223,Soul's Core,Shawn Mullins,54,1998-10-24,1998-12-26,300,10
+224,"Retaliation, Revenge And Get Back",Daz Dillinger,8,1998-04-18,1998-05-16,297,5
+225,Bathhouse Betty,Bette Midler,32,1998-10-03,1998-11-07,297,6
+226,WoW-1999: The Year's 30 Top Christian Artists And Songs,Various Artists,51,1998-11-07,1998-12-26,295,8
+227,He Got Game (Soundtrack),Public Enemy,26,1998-05-16,1998-06-20,294,6
+228,BBC Sessions,Led Zeppelin,34,1998-01-03,1998-02-28,284,9
+229,Labor Of Love,Sammy Kershaw,49,1998-01-24,1998-04-18,284,13
+230,Mean Green -- Major Players Compilation,Various Artists,9,1998-10-17,1998-11-14,281,5
+231,Shell Shocked,Mac,11,1998-08-08,1998-09-12,280,6
+232,The Element Of Surprise,E-40,13,1998-08-29,1998-09-26,278,5
+233,MTV Party To Go 98,Various Artists,50,1998-01-03,1998-03-07,277,9
+234,Touched By An Angel: The Album,Soundtrack,16,1998-12-05,1998-12-26,276,4
+235,Mama Drama,Mia X,7,1998-11-21,1998-12-05,263,3
+236,Time Out Of Mind,Bob Dylan,27,1998-01-24,1998-04-04,260,8
+237,Don't Stop The Carnival,Jimmy Buffett,15,1998-05-16,1998-06-13,259,5
+238,The Fat Of The Land,The Prodigy,47,1998-01-03,1998-02-21,259,8
+239,Greatest Hits,Clay Walker,41,1998-06-27,1998-08-22,257,9
+240,Blade,Soundtrack,36,1998-09-05,1998-10-10,254,6
+241,Totally Committed,Jeff Foxworthy,50,1998-06-06,1998-07-25,254,8
+242,Kuruption!,Kurupt,8,1998-10-24,1998-11-14,252,4
+243,Chef Aid: The South Park Album,Soundtrack,16,1998-12-12,1998-12-26,250,3
+244,Uncle Sam,Uncle Sam,68,1998-01-31,1998-04-11,249,11
+245,The Imperial,The FlipMode Squad,15,1998-10-10,1998-11-07,246,5
+246,Ladies & Gentlemen: The Best Of George Michael,George Michael,24,1998-11-28,1998-12-26,246,5
+247,Second-Hand Smoke,Sublime,44,1998-01-03,1998-02-14,245,7
+248,Bringing Down The Horse,The Wallflowers,45,1998-01-03,1998-02-28,242,9
+249,The Recipe,Mack 10,15,1998-10-24,1998-11-14,240,4
+250,Wander This World,Jonny Lang,28,1998-11-07,1998-12-19,234,7
+251,Burnin' The Roadhouse Down,Steve Wariner,41,1998-05-09,1998-06-20,234,7
+252,The Shadiest One,WC,19,1998-05-16,1998-06-13,233,5
+253,Live From Albertane,Hanson,32,1998-11-21,1998-12-26,227,6
+254,Dude Ranch,Blink-182,67,1998-01-17,1998-03-28,227,11
+255,Live On Two Legs,Pearl Jam,15,1998-12-12,1998-12-26,224,3
+256,Give It 2 'Em Raw,Soulja Slim,13,1998-06-06,1998-07-11,223,6
+257,Mutations,Beck,13,1998-11-21,1998-12-12,217,4
+258,Blue,LeAnn Rimes,38,1998-01-03,1998-02-28,214,9
+259,The Firm -- The Album,"NAS Escobar, Foxy Brown, AZ And Nature",62,1998-01-10,1998-02-28,212,8
+260,Where Have All The Merrymakers Gone?,Harvey Danger,70,1998-08-01,1998-09-26,212,9
+261,Deuces Wild,B.B. King,73,1998-01-03,1998-03-28,212,13
+262,HavPlenty,Soundtrack,39,1998-07-04,1998-08-01,210,5
+263,Ol Skool,Ol Skool,49,1998-03-14,1998-04-18,209,6
+264,The Colour And The Shape,Foo Fighters,60,1998-02-28,1998-06-06,208,14
+265,The Assassin,Big Ed,16,1998-09-19,1998-10-10,207,4
+266,Snowed In,Hanson,17,1998-01-03,1998-01-17,206,3
+267,Reunion,Black Sabbath,11,1998-11-07,1998-11-28,200,4
+268,Sunburn,Fuel,77,1998-06-06,1998-09-05,197,14
+269,Aria -- The Opera Album,Andrea Bocelli,59,1998-04-25,1998-07-04,196,9
+270,The Last Shall Be First,Sunz Of Man,20,1998-08-08,1998-08-29,195,4
+271,The Best Of 1980-1990,U2,45,1998-11-28,1998-12-26,195,5
+272,A Little South Of Sanity,Aerosmith,12,1998-11-07,1998-11-28,194,4
+273,Live At Red Rocks 8.15.95,Dave Matthews Band,49,1998-01-03,1998-02-07,192,6
+274,Sky's The Limit,Magic,15,1998-10-03,1998-10-17,190,3
+275,Breath Of Heaven -- A Christmas Collection,Vince Gill With Patrick Williams And His Orchestra,39,1998-12-05,1998-12-26,190,4
+276,Across A Wire -- Live In New York,Counting Crows,19,1998-08-01,1998-08-22,187,4
+277,Human Being,Seal,22,1998-12-05,1998-12-26,187,4
+278,Scream 2,Soundtrack,50,1998-01-03,1998-02-07,183,6
+279,Misguided Roses,Edwin McCain,73,1998-06-06,1998-09-12,179,15
+280,Pieces Of A Man,AZ,22,1998-04-25,1998-05-16,178,4
+281,Pure Disco 2,Various Artists,71,1998-01-31,1998-04-11,175,11
+282,Heavy Mental,Killah Priest,24,1998-03-28,1998-04-11,172,3
+283,Boggy Depot,Jerry Cantrell,28,1998-04-25,1998-05-16,172,4
+284,Til' My Casket Drops,C-BO,41,1998-03-14,1998-04-04,170,4
+285,Newpower Soul,The Artist & The New Power Generation,22,1998-07-18,1998-08-08,166,4
+286,Live The Life,Michael W. Smith,23,1998-05-16,1998-06-06,166,4
+287,When We Were The New Boys,Rod Stewart,44,1998-06-20,1998-08-01,166,7
+288,Practical Magic,Soundtrack,36,1998-10-31,1998-11-28,164,5
+289,Make It Hot,Nicole,42,1998-09-12,1998-10-03,163,4
+290,The Story Of The Ghost,Phish,8,1998-11-14,1998-11-21,159,2
+291,RZA As Bobby Digital In Stereo,RZA As Bobby Digital,16,1998-12-12,1998-12-26,157,3
+292,Caught Up,Soundtrack,30,1998-03-14,1998-03-28,156,3
+293,Stand By Your Van -- Sublime Live In Concert,Sublime,49,1998-07-11,1998-08-01,154,4
+294,"Diana, Princess Of Wales -- Tribute",Various Artists,43,1998-01-03,1998-01-31,153,5
+295,Clumsy,Our Lady Peace,76,1998-01-31,1998-04-04,153,10
+296,Streets Is Watching,Soundtrack,27,1998-05-30,1998-06-13,152,3
+297,Anastasia,Soundtrack,54,1998-01-03,1998-05-30,152,7
+298,These Wicked Streets,Skull Duggery,21,1998-09-26,1998-10-10,151,3
+299,Speak Of The Devil,Chris Isaak,41,1998-10-10,1998-10-31,151,4
+300,98 Degrees And Rising,98 Degrees,56,1998-11-14,1998-12-26,150,7
+301,Too Short Records: Nationwide -- Independence Day: The Compilation,Various Artists,38,1998-06-06,1998-06-27,148,4
+302,Chicago 25,Chicago,47,1998-12-12,1998-12-26,147,3
+303,Little Plastic Castle,Ani DiFranco,22,1998-03-07,1998-03-28,145,4
+304,The Prince Of Egypt,Soundtrack,43,1998-12-05,1998-12-26,145,4
+305,Room 112,112,20,1998-11-28,1998-12-12,144,3
+306,The Source Presents Hip Hop Hits -- Volume 2,Various Artists,53,1998-11-28,1998-12-26,143,5
+307,The Collection: Volume One,Bone Thugs-N-Harmony,32,1998-12-12,1998-12-26,142,3
+308,Wish You Were Here,Mark Wills,74,1998-09-19,1998-11-14,142,9
+309,Greatest Hits,Motley Crue,20,1998-11-14,1998-11-28,141,3
+310,Grand Passion,John Tesh,45,1998-02-21,1998-03-14,139,4
+311,I'm Alright,Jo Dee Messina,61,1998-04-04,1998-09-26,139,11
+312,Dru Hill,Dru Hill,77,1998-01-10,1998-03-07,138,9
+313,The Rude Awakening,Cocoa Brovaz,21,1998-04-18,1998-05-02,136,3
+314,Sabrina The Teenage Witch,Soundtrack,71,1998-11-14,1998-12-26,135,7
+315,Trouble Is...,The Kenny Wayne Shepherd Band,79,1998-04-18,1998-06-13,133,9
+316,Make It Reign,Lord Tariq & Peter Gunz,38,1998-06-20,1998-07-11,132,4
+317,Ghetto Organized,Gambino Family,17,1998-11-07,1998-11-14,131,2
+318,Dance With Me,Soundtrack,54,1998-09-05,1998-10-03,131,5
+319,John Mellencamp,John Mellencamp,41,1998-10-24,1998-11-28,127,4
+320,Jaci Velasquez,Jaci Velasquez,56,1998-06-20,1998-08-15,127,8
+321,Mobstability,Twista & The Speed Knot Mobstaz,34,1998-10-24,1998-11-07,123,3
+322,You And You Alone,Randy Travis,49,1998-05-09,1998-05-23,123,3
+323,One Wish,Deborah Cox,72,1998-10-31,1998-12-19,123,7
+324,Greatest Hits Volume One,Toby Keith,61,1998-11-07,1998-12-05,122,5
+325,Phenomenon,LL Cool J,67,1998-01-03,1998-01-31,122,5
+326,I'm Telling You For The Last Time,Jerry Seinfeld,59,1998-10-10,1998-10-31,121,4
+327,Whitechocolatespaceegg,Liz Phair,35,1998-08-29,1998-09-12,115,3
+328,Diabolus In Musica,Slayer,31,1998-06-27,1998-07-11,113,3
+329,The Singles 86>98,Depeche Mode,38,1998-10-24,1998-11-07,113,3
+330,Deconstructed,Bush,61,1998-01-03,1998-01-24,113,4
+331,"Kima, Keisha & Pam",Total,39,1998-11-21,1998-12-05,111,3
+332,Life Won't Wait,Rancid,35,1998-07-18,1998-08-01,109,3
+333,Woo,Soundtrack,52,1998-05-23,1998-06-06,109,3
+334,Bob Dylan Live 1966: The `Royal Albert Hall' Concert,Bob Dylan,31,1998-10-31,1998-11-07,106,2
+335,Christmas Live,Mannheim Steamroller,37,1998-01-03,1998-01-10,105,2
+336,The Walls Came Down,Collin Raye,55,1998-08-01,1998-08-22,102,4
+337,On Eagle's Wings,Michael Crawford,57,1998-03-28,1998-04-11,102,3
+338,Bridges To Babylon,The Rolling Stones,48,1998-01-03,1998-01-17,100,3
+339,Ultimate Dance Party 1999,Various Artists,69,1998-11-14,1998-12-05,99,4
+340,Guilty Til Proven Innocent,Prime Suspects,36,1998-10-24,1998-10-31,97,2
+341,Magnum Force,Heltah Skeltah,34,1998-10-31,1998-11-07,96,2
+342,400 Degreez,Juvenile,36,1998-11-21,1998-11-28,96,2
+343,A Long Way Home,Dwight Yoakam,60,1998-06-27,1998-07-18,96,4
+344,12 Bar Blues,Scott Weiland,42,1998-04-18,1998-05-02,94,3
+345,A Very Special Christmas 3,Various Artists,39,1998-01-03,1998-01-10,92,2
+346,(Pages Of Life) Chapters I & II,Fred Hammond & Radical For Christ,51,1998-05-16,1998-05-30,92,3
+347,Bad Boy's Greatest Hits Volume 1,Various Artists,51,1998-10-31,1998-11-14,92,3
+348,Everything's Gonna Be Alright,Deana Carter,57,1998-11-07,1998-11-21,92,3
+349,Car Wheels On A Gravel Road,Lucinda Williams,65,1998-07-18,1998-08-08,92,4
+350,Lennon Legend: The Very Best Of John Lennon,John Lennon,65,1998-03-14,1998-04-04,92,4
+351,Doc's Da Name 2000,Redman,11,1998-12-26,1998-12-26,90,1
+352,BBC Sessions,The Jimi Hendrix Experience,50,1998-06-20,1998-07-04,90,3
+353,Good Side Bad Side,Crucial Conflict,38,1998-11-21,1998-11-28,89,2
+354,The Game Of Funk,Sons Of Funk,44,1998-05-09,1998-05-16,89,2
+355,Da Good Da Bad & Da Ugly,Geto Boys,26,1998-12-05,1998-12-12,88,2
+356,Darkest Days,Stabbing Westward,52,1998-04-25,1998-05-09,85,3
+357,Tim's Bio: Life From Da Bassment,Timbaland,41,1998-12-12,1998-12-19,83,2
+358,No Limit Soldier Compilation -- We Can't Be Stopped,Various Artists,19,1998-12-26,1998-12-26,82,1
+359,Dirty Weaponry,Killarmy,40,1998-08-29,1998-09-05,82,2
+360,Tracks,Bruce Springsteen,27,1998-11-28,1998-12-26,80,3
+361,No Security,The Rolling Stones,34,1998-11-21,1998-11-28,80,2
+362,Whatcha Gonna Do,Jayo Felony,46,1998-09-12,1998-09-19,76,2
+363,Why Do Fools Fall In Love,Soundtrack,55,1998-09-26,1998-10-03,76,2
+364,G-Filez,Celly Cel,53,1998-08-15,1998-08-22,75,2
+365,I'm From The Country,Tracy Byrd,58,1998-05-30,1998-06-13,75,3
+366,How I Feel,Terri Clark,70,1998-06-06,1998-06-27,75,4
+367,Ride,Soundtrack,54,1998-03-07,1998-03-14,74,2
+368,Crystal Planet,Joe Satriani,50,1998-03-21,1998-04-04,73,3
+369,Now Or Never,Tela,49,1998-10-24,1998-10-31,71,2
+370,Different Stages/Live,Rush,35,1998-11-28,1998-12-05,70,2
+371,My Melody,Queen Pen,78,1998-03-28,1998-05-02,70,5
+372,Rock Spectacle,Barenaked Ladies,86,1998-04-18,1998-09-12,70,9
+373,Did I Shave My Legs For This?,Deana Carter,70,1998-01-03,1998-01-17,69,3
+374,Carrying Your Love With Me,George Strait,66,1998-01-03,1998-05-09,68,3
+375,G-Funk Classics Vol. 1 & 2,Nate Dogg,58,1998-08-08,1998-08-15,66,2
+376,Greatest Hits,John Michael Montgomery,84,1998-01-03,1998-02-28,66,8
+377,Enquiring Minds,Gangsta Boo,46,1998-10-17,1998-10-24,65,2
+378,Generation EFX,Das EFX,48,1998-04-11,1998-04-18,65,2
+379,Inside Of You,Aaron Hall,55,1998-11-07,1998-11-14,65,2
+380,God's Property,God's Property From Kirk Franklin's Nu Nation,88,1998-01-03,1998-03-21,65,9
+381,Jackie Brown,Soundtrack,73,1998-01-17,1998-02-07,64,4
+382,Soul Survivor,Pete Rock,39,1998-11-28,1998-12-05,63,2
+383,Be Here Now,Oasis,77,1998-01-03,1998-01-17,62,3
+384,Step Up To The Microphone,newsboys,61,1998-07-18,1998-07-25,60,2
+385,Motown 40 Forever,Various Artists,65,1998-03-07,1998-03-21,59,3
+386,White Christmas,Martina McBride,68,1998-12-12,1998-12-26,59,3
+387,Unbelievable,Diamond Rio,70,1998-08-15,1998-08-29,59,3
+388,El Oso,Soul Coughing,49,1998-10-17,1998-10-24,58,2
+389,Step Inside This House,Lyle Lovett,55,1998-10-10,1998-10-17,58,2
+390,The Big Picture,Elton John,65,1998-01-03,1998-01-10,56,2
+391,Forgotten Freshness Vol. 1 & 2,Insane Clown Posse,46,1998-09-05,1998-09-05,55,1
+392,WoW-1998: The Year's 30 Top Christian Artists And Songs,Various Artists,64,1998-01-03,1998-02-14,55,3
+393,Time To Say Goodbye,Sarah Brightman & The London Symphony Orchestra,71,1998-03-28,1998-04-11,55,3
+394,Ultimate Christmas,Various Artists,71,1998-12-19,1998-12-26,53,2
+395,"Growing, Pains",Billie Myers,91,1998-03-07,1998-04-25,53,8
+396,Airbag/How Am I Driving? (EP),Radiohead,56,1998-05-09,1998-05-16,52,2
+397,40 Dayz & 40 Nightz,Xzibit,58,1998-09-12,1998-09-19,52,2
+398,54 -- Vol. 2,Soundtrack,74,1998-09-12,1998-10-03,52,4
+399,In The Line Of Fire,Fatal,50,1998-04-18,1998-04-18,51,1
+400,Black Star,Mos Def & Talib Kweli Are Black Star,53,1998-10-17,1998-10-24,51,2
+401,The Masterplan,Oasis,51,1998-11-21,1998-11-21,50,1
+402,Ghetto Supastar,Pras Michel,55,1998-11-14,1998-11-21,50,2
+403,Cosas Del Amor,Enrique Iglesias,64,1998-10-10,1998-10-17,50,2
+404,Ultimate Country Party,Various Artists,83,1998-08-08,1998-08-29,49,4
+405,Mezzanine,Massive Attack,60,1998-05-30,1998-06-06,48,2
+406,Happy Pills,Candlebox,65,1998-08-08,1998-08-15,48,2
+407,Is This Desire?,PJ Harvey,54,1998-10-17,1998-10-17,47,1
+408,Back With A Heart,Olivia Newton-John,59,1998-05-30,1998-06-06,46,2
+409,Nothin' But The Taillights,Clint Black,67,1998-02-28,1998-03-07,45,2
+410,The 18th Letter,Rakim,78,1998-01-10,1998-01-24,45,3
+411,"All Work, No Play",Public Announcement,81,1998-04-11,1998-05-02,44,3
+412,Respect,Shaquille O'Neal,58,1998-10-03,1998-10-03,43,1
+413,Wise Guys,Ghetto Commission,59,1998-11-28,1998-11-28,42,1
+414,Foundation,Brand Nubian,59,1998-10-17,1998-10-17,42,1
+415,Rhythm-al-ism,DJ Quik,63,1998-12-12,1998-12-19,42,2
+416,From The Soul Of Man,Kenny Lattimore,71,1998-11-07,1998-11-14,42,2
+417,Vertical Man,Ringo Starr,61,1998-07-04,1998-07-04,40,1
+418,Crystal Ball,Prince,62,1998-03-21,1998-03-21,39,1
+419,Rasassination,Ras Kass,63,1998-10-10,1998-10-10,38,1
+420,Firecracker,Lisa Loeb,88,1998-01-03,1998-02-14,38,7
+421,Sketches For My Sweetheart The Drunk,Jeff Buckley,64,1998-06-13,1998-06-13,37,1
+422,Greatest Hits Live,Journey,79,1998-04-11,1998-04-18,36,2
+423,The 3 Tenors: Paris 1998,Carreras-Domingo-Pavarotti (Levine),83,1998-09-05,1998-09-19,36,3
+424,Tamia,Tamia,67,1998-05-02,1998-05-02,34,1
+425,Why Do They Rock So Hard?,Reel Big Fish,67,1998-11-07,1998-11-07,34,1
+426,Light Fuse Get Away,Widespread Panic,67,1998-05-09,1998-05-09,34,1
+427,MTV Unplugged,Bryan Adams,88,1998-01-31,1998-02-21,34,4
+428,The Gift,Jim Brickman,68,1998-01-03,1998-01-03,33,1
+429,Punk-O-Rama III,Various Artists,80,1998-07-18,1998-07-25,33,2
+430,Superstar Christmas,Various Artists,69,1998-01-03,1998-01-03,32,1
+431,For The Masses,Various Artists,69,1998-08-22,1998-08-22,32,1
+432,Lie To Me,Jonny Lang,86,1998-01-03,1998-02-28,30,3
+433,Space Jam,Soundtrack,86,1998-01-03,1998-03-21,30,4
+434,54 -- Vol.1,Soundtrack,77,1998-09-12,1998-09-26,29,3
+435,Much Afraid,Jars Of Clay,78,1998-01-03,1998-01-10,28,2
+436,Behind The Eyes,Amy Grant,75,1998-01-03,1998-01-03,26,1
+437,Taming The Tiger,Joni Mitchell,75,1998-10-17,1998-10-17,26,1
+438,Traveling Without Moving,Jamiroquai,85,1998-01-10,1998-01-24,26,3
+439,All That I Am,Joe,90,1998-02-14,1998-03-07,25,4
+440,Obsolete,Fear Factory,77,1998-08-15,1998-08-15,24,1
+441,Live,311,77,1998-11-21,1998-11-21,24,1
+442,Best Of Love -- 16 Great Soft Rock Hits,Various Artists,82,1998-02-21,1998-02-28,24,2
+443,Painted From Memory,Elvis Costello With Burt Bacharach,78,1998-10-17,1998-10-17,23,1
+444,No Substance,Bad Religion,78,1998-05-23,1998-05-23,23,1
+445,Soulfly,Soulfly,79,1998-05-09,1998-05-09,22,1
+446,Songs From The Capeman,Paul Simon,82,1998-01-03,1998-01-10,22,2
+447,An American Werewolf In Paris,Soundtrack,80,1998-01-17,1998-01-17,21,1
+448,Hello Rockview,Less Than Jake,80,1998-10-24,1998-10-24,21,1
+449,First Family 4 Life,M.O.P.,80,1998-08-29,1998-08-29,21,1
+450,Christmastime,Michael W. Smith,90,1998-12-19,1998-12-26,21,2
+451,Vuelve,Ricky Martin,81,1998-02-28,1998-02-28,20,1
+452,The Art Of War,Bone Thugs-N-Harmony,87,1998-01-10,1998-01-17,20,2
+453,The Mask Of Zorro,Soundtrack,87,1998-08-08,1998-08-15,20,2
+454,Against,Sepultura,82,1998-10-24,1998-10-24,19,1
+455,Black Mafia,Steady Mobb'n,82,1998-12-12,1998-12-12,19,1
+456,Angels With Dirty Faces,Tricky,84,1998-06-20,1998-06-20,17,1
+457,Da Holocaust,Concentration Camp II,84,1998-05-30,1998-05-30,17,1
+458,Def Jam Survival Of The Illest: Live From 125--N.Y.C.,Various Artists,84,1998-11-14,1998-11-14,17,1
+459,Slam: The Soundtrack,Soundtrack,84,1998-10-31,1998-10-31,17,1
+460,Poly Sci,John Forte,84,1998-08-01,1998-08-01,17,1
+461,Pure Moods,Various Artists,92,1998-01-17,1998-01-31,17,3
+462,The Enchanted Works Of Stevie Nicks,Stevie Nicks,85,1998-05-16,1998-05-16,16,1
+463,"Other Voices, Too (A Trip Back To Bountiful)",Nanci Griffith,85,1998-08-08,1998-08-08,16,1
+464,A Thousand Leaves,Sonic Youth,85,1998-05-30,1998-05-30,16,1
+465,Legacy: A Tribute To Fleetwood Mac's Rumours,Various Artists,86,1998-04-18,1998-04-18,15,1
+466,Cheers 2 U,Playa,86,1998-04-11,1998-04-11,15,1
+467,Greatest Hits Volume III,Billy Joel,87,1998-01-03,1998-01-10,15,2
+468,The Philosopher's Stone,Van Morrison,87,1998-07-04,1998-07-04,14,1
+469,The Prince Of Egypt--Inspirational,Soundtrack,93,1998-12-19,1998-12-26,14,2
+470,Blurring The Edges,Meredith Brooks,97,1998-01-17,1998-02-14,14,4
+471,Imagination,Brian Wilson,88,1998-07-04,1998-07-04,13,1
+472,Kettle Whistle,Jane's Addiction,88,1998-01-24,1998-01-24,13,1
+473,Mission 3:16,Carman,94,1998-02-14,1998-02-21,13,2
+474,One Night Only,Bee Gees,89,1998-11-28,1998-11-28,12,1
+475,Club Mix '98,Various Artists,90,1998-01-17,1998-01-17,11,1
+476,Mermaid Avenue,Billy Bragg & Wilco,90,1998-07-11,1998-07-11,11,1
+477,To See You,"Harry Connick, Jr.",90,1998-01-03,1998-01-03,11,1
+478,The Horse Whisperer,Soundtrack,91,1998-06-13,1998-06-13,10,1
+479,Crash,Dave Matthews Band,91,1998-01-10,1998-01-10,10,1
+480,Selena,Soundtrack,91,1998-05-23,1998-05-23,10,1
+481,Good Will Hunting,Soundtrack,91,1998-04-11,1998-04-11,10,1
+482,The Best Of Tracy Lawrence,Tracy Lawrence,92,1998-09-26,1998-09-26,9,1
+483,When The Wrong One Loves You Right,Wade Hayes,92,1998-02-14,1998-02-14,9,1
+484,Time Capsule -- Songs For A Future Generation,The B-52s,93,1998-06-13,1998-06-13,8,1
+485,Wide Swing Tremolo,Son Volt,93,1998-10-24,1998-10-24,8,1
+486,Powertrip,Monster Magnet,97,1998-10-03,1998-10-17,8,3
+487,Unchained Melody/The Early Years,LeAnn Rimes,94,1998-01-03,1998-01-03,7,1
+488,Naked Baby Photos,Ben Folds Five,94,1998-01-31,1998-01-31,7,1
+489,Brother's Gonna Work It Out: A DJ Mix Album,The Chemical Brothers,95,1998-10-10,1998-10-10,6,1
+490,Order In The Court,Queen Latifah,95,1998-07-04,1998-07-04,6,1
+491,A Night At The Roxbury,Soundtrack,95,1998-11-07,1998-11-07,6,1
+492,Obvious,4Him,95,1998-04-25,1998-04-25,6,1
+493,Leave A Mark,John Michael Montgomery,95,1998-05-23,1998-05-23,6,1
+494,"Three Dollar Bill, Y'all",Limp Bizkit,96,1998-05-02,1998-12-26,6,2
+495,Trampoline,The Mavericks,96,1998-03-28,1998-03-28,5,1
+496,Long Time No See,Chico DeBarge,98,1998-02-21,1998-05-30,5,2
+497,I Will Stand,Kenny Chesney,98,1998-07-11,1998-07-11,3,1
+498,Miles From Our Home,Cowboy Junkies,98,1998-07-18,1998-07-18,3,1
+499,Let's Face It,The Mighty Mighty Bosstones,99,1998-01-03,1998-01-03,2,1
+500,The Full Monty,Soundtrack,99,1998-04-11,1998-04-11,2,1
+501,Slowly Going The Way Of The Buffalo,MxPx,99,1998-07-04,1998-07-04,2,1
+502,John Lennon Anthology,John Lennon,99,1998-11-21,1998-11-21,2,1
+503,MTV Party To Go 99,Various Artists,99,1998-12-26,1998-12-26,2,1
+504,Halloween Songs & Sounds,Various Artists,100,1998-11-21,1998-11-21,1,1
+505,All That Matters,Michael Bolton,100,1998-01-03,1998-01-03,1,1
+506,Decksandrumsandrockandroll,Propellerheads,100,1998-04-11,1998-04-11,1,1
+507,Ever After,Soundtrack,100,1998-08-22,1998-08-22,1,1
+508,The Prince Of Egypt--Nashville,Soundtrack,100,1998-12-26,1998-12-26,1,1
+509,MTV Party To Go Platinum Mix,Various Artists,100,1998-10-31,1998-10-31,1,1
+510,Ruthless For Life,MC Ren,100,1998-07-18,1998-07-18,1,1
+511,WOW Gospel 1998,Various Artists,100,1998-03-07,1998-03-07,1,1

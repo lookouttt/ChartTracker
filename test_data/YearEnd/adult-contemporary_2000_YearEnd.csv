@@ -1,0 +1,106 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,I Knew I Loved You,Savage Garden,1,2000-01-01,2000-12-30,1386,53
+2,Amazed,Lonestar,2,2000-01-01,2000-12-30,1362,53
+3,That's The Way It Is,Celine Dion,2,2000-01-01,2000-12-30,1269,53
+4,Breathe,Faith Hill,1,2000-02-05,2000-12-30,1258,48
+5,You Sang To Me,Marc Anthony,1,2000-03-11,2000-12-30,1069,43
+6,Show Me The Meaning Of Being Lonely,Backstreet Boys,2,2000-02-05,2000-12-30,1043,48
+7,You'll Be In My Heart,Phil Collins,7,2000-01-01,2000-12-30,1034,53
+8,Back At One,Brian McKnight,4,2000-01-01,2000-12-16,1014,51
+9,I Need You,LeAnn Rimes,2,2000-04-08,2000-12-30,961,39
+10,Taking You Home,Don Henley,1,2000-05-13,2000-12-30,868,34
+11,Smooth,Santana Featuring Rob Thomas,11,2000-01-01,2000-12-02,721,49
+12,I Turn To You,Christina Aguilera,5,2000-05-13,2000-12-30,669,34
+13,I Want It That Way,Backstreet Boys,3,2000-01-01,2000-08-26,645,35
+14,I Do (Cherish You),98 Degrees,4,2000-01-01,2000-07-29,637,31
+15,I Will Remember You (Live),Sarah McLachlan,11,2000-01-01,2000-09-30,626,40
+16,Someday Out Of The Blue,Elton John,5,2000-03-04,2000-09-09,551,28
+17,Back Here,BBMak,1,2000-08-12,2000-12-30,509,21
+18,I Could Not Ask For More,Edwin McCain,5,2000-01-01,2000-07-01,476,27
+19,Music Of My Heart,'N Sync & Gloria Estefan,4,2000-01-01,2000-05-27,450,22
+20,Crash And Burn,Savage Garden,10,2000-04-08,2000-09-30,412,26
+21,Could I Have This Kiss Forever,Whitney Houston & Enrique Iglesias,10,2000-06-03,2000-11-25,399,26
+22,I Will Love Again,Lara Fabian,10,2000-06-10,2000-12-02,344,26
+23,The Way You Love Me,Faith Hill,4,2000-09-09,2000-12-30,331,17
+24,Cruisin',Huey Lewis & Gwyneth Paltrow,1,2000-09-30,2000-12-30,327,14
+25,Angel,Sarah McLachlan,14,2000-01-01,2000-06-10,326,24
+26,Angels,Robbie Williams,10,2000-01-01,2000-06-10,308,24
+27,She's All I Ever Had,Ricky Martin,8,2000-01-01,2000-04-22,299,17
+28,Truly Madly Deeply,Savage Garden,13,2000-01-01,2000-05-20,288,21
+29,This I Promise You,'N Sync,1,2000-10-07,2000-12-30,281,13
+30,My Baby You,Marc Anthony,8,2000-09-16,2000-12-30,273,16
+31,Strangers Like Me,Phil Collins,10,2000-01-01,2000-05-06,272,19
+32,I Want You To Need Me,Celine Dion,12,2000-05-06,2000-09-30,272,22
+33,Kiss Me,Sixpence None The Richer,14,2000-01-01,2000-05-13,265,20
+34,There You Are,Martina McBride,15,2000-08-05,2000-12-09,211,19
+35,Shape Of My Heart,Backstreet Boys,4,2000-10-21,2000-12-30,196,11
+36,I Try,Macy Gray,21,2000-04-22,2000-10-14,192,26
+37,The One,Backstreet Boys,15,2000-07-01,2000-11-04,190,19
+38,The Hardest Thing,98 Degrees,12,2000-01-01,2000-03-04,167,10
+39,The Love I Found In You,Jim Brickman,15,2000-08-19,2000-11-25,155,15
+40,Can't Fight The Moonlight,LeAnn Rimes,15,2000-10-14,2000-12-30,132,12
+41,There She Goes,Sixpence None The Richer,19,2000-01-01,2000-04-01,111,14
+42,Man! I Feel Like A Woman!,Shania Twain,17,2000-01-01,2000-03-25,101,13
+43,I Need To Know,Marc Anthony,21,2000-01-01,2000-03-25,99,13
+44,When She Loved Me,John Tesh Featuring Richard Page,21,2000-04-01,2000-07-08,96,15
+45,Desert Rose,Sting Featuring Cheb Mami,22,2000-08-26,2000-12-16,95,17
+46,I Wanna Know,Joe,21,2000-07-29,2000-11-04,93,15
+47,Private Emotion,Ricky Martin Featuring Meja,21,2000-02-26,2000-05-27,91,14
+48,I Learned From The Best,Whitney Houston,20,2000-01-08,2000-03-25,88,12
+49,Breathless,The Corrs,20,2000-10-14,2000-12-30,88,12
+50,Angel On My Shoulder,Natalie Cole,14,2000-11-18,2000-12-30,83,7
+51,Swear It Again,Westlife,22,2000-05-20,2000-08-05,83,12
+52,If You Believe,Sasha Alexander,23,2000-06-03,2000-09-02,80,14
+53,When The Heartache Is Over,Tina Turner,23,2000-01-22,2000-04-08,74,12
+54,Friends Never Say Goodbye,Elton John,21,2000-09-09,2000-11-11,72,10
+55,Auld Lang Syne,Kenny G,3,2000-01-01,2000-01-15,71,3
+56,American Pie,Madonna,21,2000-02-26,2000-04-15,62,8
+57,He's My Son,Mark Schultz,22,2000-06-24,2000-09-09,62,12
+58,Run To Me,Oscar De La Hoya,23,2000-10-21,2000-12-30,62,11
+59,I Hope You Dance,Lee Ann Womack,16,2000-11-11,2000-12-30,59,6
+60,Need To Be Next To You,Leigh Nash,21,2000-11-04,2000-12-30,55,9
+61,Bye Bye Bye,'N Sync,25,2000-04-22,2000-07-22,51,14
+62,Stop,Jon Secada,23,2000-07-15,2000-09-09,45,9
+63,Your Love,Jim Brickman Featuring Michelle Wright,19,2000-01-01,2000-01-29,43,5
+64,Where You Are,Jessica Simpson Featuring Nick Lachey,23,2000-04-01,2000-05-13,43,7
+65,I Wanna Love You Forever,Jessica Simpson,25,2000-01-01,2000-02-19,36,8
+66,The Christmas Shoes,NewSong,10,2000-12-23,2000-12-30,34,2
+67,You've Got A Way,Shania Twain,20,2000-01-15,2000-02-05,34,4
+68,Bailamos,Enrique Iglesias,26,2000-01-15,2000-03-04,34,8
+69,Blue Eyes Blue,Eric Clapton,22,2000-01-01,2000-02-12,32,7
+70,All I Want For Christmas Is You,Mariah Carey,10,2000-01-01,2000-01-08,29,2
+71,Know You By Heart,Dave Koz,26,2000-06-03,2000-08-05,29,9
+72,This Is Your Time,Michael W. Smith,25,2000-04-15,2000-05-27,28,7
+73,Days In Avalon,Richard Marx,25,2000-11-11,2000-12-23,27,7
+74,Spanish Guitar,Toni Braxton,24,2000-12-02,2000-12-30,26,5
+75,I Think I'm In Love With You,Jessica Simpson,26,2000-08-05,2000-09-23,26,8
+76,Where Are You Christmas?,Faith Hill,21,2000-12-16,2000-12-30,23,3
+77,By Your Side,Sade,25,2000-11-18,2000-12-30,23,7
+78,This Gift,98 Degrees,14,2000-01-01,2000-01-08,21,2
+79,Feliz Navidad,Jose Feliciano,12,2000-01-08,2000-01-08,19,1
+80,Just To Be Loved,Al Jarreau,26,2000-04-01,2000-05-06,19,6
+81,Be With You,Enrique Iglesias,27,2000-06-17,2000-09-02,18,8
+82,Shake My Soul,Beth Nielsen Chapman,26,2000-06-24,2000-07-15,16,4
+83,Mr. Too Damn Good,Gerald Levert,25,2000-06-03,2000-06-24,15,4
+84,Believe,Cher,17,2000-01-01,2000-01-01,14,1
+85,That's The Way I Remember It,Garth Brooks as Chris Gaines,26,2000-03-04,2000-04-01,14,5
+86,Gotta Get Back,Shelby Lynne,26,2000-09-16,2000-10-28,14,7
+87,Wish I Could Fly,Roxette,27,2000-09-16,2000-10-14,14,5
+88,Vienna,Linda Eder,27,2000-05-20,2000-06-17,14,5
+89,(God Must Have Spent) A Little More Time On You,'N Sync,20,2000-01-01,2000-01-01,11,1
+90,Sexual Healing,Michael Bolton,28,2000-01-22,2000-02-19,11,5
+91,Love By Grace,Lara Fabian,28,2000-12-09,2000-12-30,10,4
+92,Someday,Sugar Ray,29,2000-01-15,2000-04-15,10,7
+93,My Funny Friend And Me,Sting,27,2000-12-16,2000-12-30,8,3
+94,Rudolph The Red-Nosed Reindeer,Gene Autry,24,2000-01-08,2000-01-08,7,1
+95,Sometimes,Britney Spears,24,2000-01-01,2000-01-01,7,1
+96,Stay,Alison Krauss,28,2000-02-26,2000-03-25,6,4
+97,If You're Gone,matchbox twenty,27,2000-12-23,2000-12-30,5,2
+98,Now I Know,Suzy K With Donny Osmond,30,2000-07-22,2000-08-19,4,4
+99,Mambo No. 5 (A Little Bit Of...),Lou Bega,29,2000-01-15,2000-01-22,3,2
+100,One Voice,Billy Gilman,29,2000-10-07,2000-10-07,2,1
+101,No Matter What,Boyzone,30,2000-01-29,2000-02-19,2,2
+102,Cousin Dupree,Steely Dan,30,2000-04-29,2000-05-27,2,2
+103,With Arms Wide Open,Creed,30,2000-12-09,2000-12-09,1,1
+104,Careless Whisper,Dave Koz Featuring Montell Jordan,30,2000-10-07,2000-10-07,1,1
+105,Everything Is Different Now,Don Henley,30,2000-12-30,2000-12-30,1,1

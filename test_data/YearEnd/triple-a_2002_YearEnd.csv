@@ -1,0 +1,91 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Flake,Jack Johnson,1,2002-03-09,2002-11-23,523,38
+2,Where Are You Going,Dave Matthews Band,1,2002-06-01,2002-12-28,394,30
+3,Soak Up The Sun,Sheryl Crow,1,2002-03-09,2002-08-31,381,26
+4,Let Me Down Easy,Chris Isaak,1,2002-01-26,2002-07-27,381,27
+5,Your Body Is A Wonderland,John Mayer,1,2002-06-22,2002-12-21,375,27
+6,No Such Thing,John Mayer,2,2002-01-05,2002-09-14,374,37
+7,Strange Condition,Pete Yorn,1,2002-01-05,2002-07-13,360,28
+8,Don't Know Why,Norah Jones,5,2002-05-25,2002-12-07,346,29
+9,In A Little While,U2,1,2002-01-26,2002-07-27,338,27
+10,Everyday,Dave Matthews Band,1,2002-01-05,2002-05-18,318,20
+11,In My Place,Coldplay,1,2002-07-20,2002-11-30,283,20
+12,American Girls,Counting Crows,1,2002-05-25,2002-09-07,259,16
+13,Here Is Gone,Goo Goo Dolls,3,2002-04-06,2002-08-10,251,19
+14,Electrical Storm,U2,1,2002-09-21,2002-12-28,249,15
+15,The Zephyr Song,Red Hot Chili Peppers,1,2002-09-21,2002-12-28,247,15
+16,Steve McQueen,Sheryl Crow,2,2002-08-03,2002-11-16,238,16
+17,The Rising,Bruce Springsteen,1,2002-07-13,2002-10-05,228,13
+18,When You're On Top,The Wallflowers,1,2002-09-28,2002-12-28,220,14
+19,The Middle,Jimmy Eat World,4,2002-05-25,2002-09-28,213,19
+20,I Can't Help You Now,Bonnie Raitt,4,2002-03-16,2002-06-29,212,16
+21,She's On Fire,Train,5,2002-02-09,2002-06-01,186,17
+22,Hands Clean,Alanis Morissette,3,2002-02-02,2002-05-11,182,15
+23,Trouble,Coldplay,4,2002-01-05,2002-04-13,180,15
+24,Lonesome Day,Bruce Springsteen,3,2002-10-12,2002-12-28,175,12
+25,Moment Of Forgiveness,Indigo Girls,7,2002-02-02,2002-06-01,175,18
+26,You've Got To Hide Your Love Away,Eddie Vedder,5,2002-02-23,2002-06-22,172,18
+27,Summertime Thing,Chuck Prophet,3,2002-07-06,2002-09-21,167,12
+28,I Am Mine,Pearl Jam,3,2002-10-12,2002-12-28,160,12
+29,Wherever You Will Go,The Calling,6,2002-01-05,2002-04-06,157,14
+30,You're The One,Tracy Chapman,4,2002-09-28,2002-12-28,140,14
+31,Stillness Of Heart,Lenny Kravitz,7,2002-03-02,2002-07-13,140,16
+32,"New York, New York",Ryan Adams,3,2002-01-05,2002-03-09,137,10
+33,Miami,Counting Crows,9,2002-09-21,2002-12-28,134,15
+34,Alive Again,Trey Anastasio,7,2002-04-27,2002-08-03,129,15
+35,Grace Is Gone,Dave Matthews Band,4,2002-10-19,2002-12-28,117,11
+36,Don't Stop,The Rolling Stones,5,2002-09-21,2002-11-16,111,9
+37,The Other Side,David Gray,4,2002-10-26,2002-12-28,104,10
+38,One Day,Chris Isaak,10,2002-06-22,2002-09-14,101,13
+39,Dig In,Lenny Kravitz,2,2002-01-05,2002-02-16,100,7
+40,When The Stars Go Blue,The Corrs Featuring Bono,11,2002-05-11,2002-09-14,92,19
+41,Tear Off Your Own Head (It's A Doll Revolution),Elvis Costello,11,2002-04-13,2002-07-06,91,13
+42,Disease,matchbox twenty,6,2002-10-26,2002-12-28,87,10
+43,Ghost,Howie Day,9,2002-08-17,2002-10-19,87,10
+44,Peaceful World,John Mellencamp Featuring India.Arie,4,2002-01-05,2002-02-09,84,6
+45,The Barry Williams Show,Peter Gabriel,9,2002-08-24,2002-10-19,79,9
+46,A Sorta Fairytale,Tori Amos,3,2002-10-05,2002-12-28,78,8
+47,Standing Still,Jewel,10,2002-01-05,2002-03-09,78,10
+48,Answering Bell,Ryan Adams,13,2002-02-16,2002-05-25,77,15
+49,Bubbletoes,Jack Johnson,10,2002-09-14,2002-12-28,71,11
+50,Let's Roll,Neil Young,7,2002-01-05,2002-02-09,67,6
+51,Silver Lining,Bonnie Raitt,10,2002-08-10,2002-09-28,64,8
+52,The Night Inside Me,Jackson Browne,11,2002-09-07,2002-12-21,64,15
+53,The Last DJ,Tom Petty And The Heartbreakers,12,2002-09-28,2002-12-14,61,12
+54,Just Can't Last,Natalie Merchant,6,2002-01-05,2002-02-02,54,5
+55,Island In The Sun,Weezer,10,2002-01-05,2002-02-23,53,8
+56,We Are All Made Of Stars,Moby,9,2002-06-08,2002-07-27,50,8
+57,Differently,Neil Young,13,2002-04-06,2002-06-15,50,11
+58,Side,Travis,14,2002-02-02,2002-03-30,45,9
+59,Alone,Susan Tedeschi,11,2002-11-30,2002-12-28,42,5
+60,Never Recover,Dave Pirner,13,2002-08-10,2002-09-14,42,6
+61,How You Remind Me,Nickelback,11,2002-01-05,2002-03-23,39,7
+62,Hearts Of Stone,Los Lobos,14,2002-06-15,2002-08-17,39,9
+63,Clocks,Coldplay,2,2002-12-07,2002-12-28,38,4
+64,Good Souls,Starsailor,13,2002-02-23,2002-04-27,38,10
+65,The Game Of Love,Santana Featuring Michelle Branch,16,2002-10-12,2002-12-28,36,11
+66,Lover Please,Melissa Etheridge,13,2002-01-05,2002-02-09,35,6
+67,Visions Of Paradise,Mick Jagger,12,2002-02-16,2002-03-16,31,5
+68,Little Lilly,Widespread Panic,12,2002-01-05,2002-01-26,30,4
+69,Breaking Up The Girl,Garbage,12,2002-02-02,2002-03-02,30,5
+70,Complex Person,Pretenders,14,2002-11-30,2002-12-28,27,5
+71,Back To Believing,William Topley,15,2002-02-16,2002-03-23,21,6
+72,God Gave Me Everything,Mick Jagger,13,2002-01-05,2002-01-26,20,4
+73,Fly Away From Here (Graduation Day),Dropline,16,2002-07-20,2002-08-31,18,6
+74,Build A Levee,Natalie Merchant Featuring Mavis Staples,17,2002-03-16,2002-05-18,18,9
+75,Amber,311,15,2002-09-07,2002-10-05,15,4
+76,Concrete Sky,Beth Orton,14,2002-09-07,2002-09-21,12,3
+77,The Widow's Walk,Suzanne Vega,15,2002-01-05,2002-01-19,12,3
+78,Golden Age,Midnight Oil,15,2002-03-30,2002-04-20,12,4
+79,Lost Cause,Beck,12,2002-12-21,2002-12-28,11,2
+80,Stuck In A Moment You Can't Get Out Of,U2,15,2002-01-05,2002-01-19,11,3
+81,Something More,Train,15,2002-01-05,2002-01-12,10,2
+82,Good Day,Luce,17,2002-08-10,2002-08-31,9,4
+83,It's Been Awhile,Staind,16,2002-01-19,2002-01-26,8,2
+84,Fragile (Live),Sting,18,2002-01-05,2002-01-19,7,3
+85,Stuck Inside A Cloud,George Harrison,16,2002-12-28,2002-12-28,5,1
+86,Driving Me Mad,Neil Finn,17,2002-08-03,2002-08-03,4,1
+87,Hey Mr DJ,Van Morrison,19,2002-05-04,2002-06-08,4,3
+88,Slow Burn,David Bowie,19,2002-08-03,2002-08-10,3,2
+89,Everybody Went Low,John Hiatt,19,2002-01-19,2002-01-26,3,2
+90,More Than This,Peter Gabriel,20,2002-12-28,2002-12-28,1,1

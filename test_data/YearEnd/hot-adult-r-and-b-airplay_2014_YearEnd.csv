@@ -1,0 +1,123 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Happy,Pharrell Williams,1,2014-02-08,2014-11-15,1082,41
+2,All Of Me,John Legend,1,2014-01-04,2014-08-23,969,34
+3,Love Never Felt So Good,Michael Jackson & Justin Timberlake,1,2014-05-17,2014-11-22,752,28
+4,Good Kisser,Usher,2,2014-06-07,2014-12-27,748,30
+5,Stay With Me,Sam Smith,1,2014-05-24,2014-12-27,694,32
+6,What's Best For You,Trey Songz,1,2014-06-21,2014-12-27,671,28
+7,For The Rest Of My Life,Robin Thicke,1,2014-01-04,2014-06-07,651,23
+8,It's You,Kem,1,2014-06-21,2014-12-13,637,26
+9,Hurt You,Toni Braxton & Babyface,1,2014-01-04,2014-06-14,636,24
+10,You & I (Nobody In The World),John Legend,4,2014-05-17,2014-12-27,635,33
+11,The Worst,Jhene Aiko,4,2014-03-08,2014-09-13,626,28
+12,I Blame You,Ledisi,3,2014-01-04,2014-07-05,602,27
+13,It's My Time,Kelly Price,4,2014-03-15,2014-09-06,596,26
+14,You're My Star,Tank,6,2014-04-05,2014-10-18,586,29
+15,Love & Sex Pt. 2,Joe Featuring Kelly Rowland,5,2014-03-08,2014-08-30,536,26
+16,March,"George Tandy, Jr.",3,2014-01-04,2014-05-31,500,22
+17,Call My Name,AverySunshine,1,2014-06-21,2014-12-27,499,28
+18,Get Her Back,Robin Thicke,5,2014-06-07,2014-10-25,474,21
+19,Spend The Night,Dave Hollister,7,2014-07-12,2014-12-27,464,25
+20,Beautiful,Mali Music,9,2014-02-01,2014-07-12,394,24
+21,Like This,Ledisi,9,2014-05-24,2014-11-01,375,24
+22,"Hold On, We're Going Home",Drake Featuring Majid Jordan,5,2014-01-04,2014-04-12,374,15
+23,Drunk In Love,Beyonce Featuring Jay Z,8,2014-01-18,2014-06-07,363,21
+24,I Can't Describe (The Way I Feel),Jennifer Hudson Featuring T.I.,7,2014-01-04,2014-04-26,357,17
+25,Without Me,Fantasia Featuring Kelly Rowland & Missy Elliott,2,2014-01-04,2014-03-29,345,13
+26,Ain't Supposed To Cry,Shaliek,8,2014-03-22,2014-08-02,343,20
+27,My Favorite Thing,Ronald Isley Featuring Kem,5,2014-01-04,2014-04-12,335,15
+28,Make The World Go Round,DJ Cassidy Featuring R. Kelly,10,2014-04-26,2014-09-06,319,20
+29,Where Did We Go Wrong?,Toni Braxton & Babyface,11,2014-02-01,2014-06-14,298,20
+30,It's Your World,Jennifer Hudson Featuring R. Kelly,11,2014-08-09,2014-12-20,295,20
+31,Look Up,Daley,12,2014-01-04,2014-06-21,290,21
+32,Run,Marsha Ambrosius,13,2014-05-03,2014-09-20,282,21
+33,Say That,Leela James Featuring Anthony Hamilton,12,2014-01-04,2014-05-03,280,18
+34,Behind Closed Doors,Johnny Gill,8,2014-08-09,2014-12-27,279,21
+35,If You Lose Her,Joe,7,2014-09-13,2014-12-27,271,16
+36,Nobody,Kem,4,2014-09-27,2014-12-27,269,14
+37,Whole Damn Year,Mary J. Blige,5,2014-10-11,2014-12-27,268,12
+38,Jaded,"George Tandy, Jr.",11,2014-08-16,2014-12-27,258,20
+39,We Gonna Love Tonite,Calvin Richardson,14,2014-06-07,2014-10-18,240,20
+40,Genius,R. Kelly,7,2014-01-04,2014-03-15,239,11
+41,Call My Name,Morgan James,12,2014-09-20,2014-12-27,224,15
+42,All The Way Home,Tamar Braxton,8,2014-01-04,2014-03-15,214,11
+43,Fall For You,Leela James,13,2014-06-14,2014-10-25,207,20
+44,Roller Coaster,Toni Braxton & Babyface,17,2014-06-14,2014-10-11,202,18
+45,Hope,Jagged Edge,18,2014-07-12,2014-11-22,196,20
+46,Last Call,Traci Braxton,16,2014-08-23,2014-12-27,188,19
+47,Legs Shakin',R. Kelly Featuring Ludacris,16,2014-03-29,2014-09-20,178,18
+48,Somebody Else,Robert Glasper Experimenet Featuring Emeli Sande,15,2014-04-19,2014-08-09,177,17
+49,Cried,Candice Glover,16,2014-01-18,2014-05-24,176,19
+50,V.S.O.P.,K. Michelle,13,2014-01-04,2014-03-22,171,12
+51,I Still Have You,Charlie Wilson,14,2014-01-04,2014-03-15,162,11
+52,Stronger,Tank,15,2014-10-04,2014-12-27,155,13
+53,Age Ain't A Factor,Jaheim,8,2014-01-04,2014-02-15,150,7
+54,The Man,Aloe Blacc,18,2014-02-15,2014-07-26,150,20
+55,Nobody But You,Algebra Blessett,13,2014-01-04,2014-02-22,122,7
+56,Let Me Know,Tamar Braxton Featuring Future,11,2014-11-08,2014-12-27,119,8
+57,Side Effects Of You,Fantasia,19,2014-01-04,2014-04-19,116,16
+58,It's On Again,Alicia Keys Featuring Kendrick Lamar,16,2014-04-19,2014-06-21,115,10
+59,Money Can't Buy,Ne-Yo Featuring Jeezy,20,2014-07-12,2014-11-01,110,17
+60,My Love,Syleena Johnson,21,2014-08-30,2014-12-27,108,18
+61,Fire We Make,Alicia Keys Duet With Maxwell,4,2014-01-04,2014-01-25,107,4
+62,Forever Don't Last,Jazmine Sullivan,17,2014-10-18,2014-12-27,106,11
+63,Latch,Disclosure Featuring Sam Smith,10,2014-11-08,2014-12-27,104,8
+64,Queen,Raheem DeVaughn,15,2014-10-25,2014-12-27,104,10
+65,Heaven Knows,Noel Gourdin,21,2014-02-15,2014-06-14,102,18
+66,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,6,2014-01-04,2014-01-25,97,4
+67,Love & Sex,Joe Featuring Fantasia,14,2014-01-04,2014-02-08,86,6
+68,Hey Boy,Goapele,23,2014-08-02,2014-11-08,86,15
+69,Feel Good,Urban Mystic,22,2014-10-18,2014-12-27,77,11
+70,Walk It Out,Jennifer Hudson Featuring Timbaland,22,2014-05-24,2014-08-16,77,13
+71,You're Mine (Eternal),Mariah Carey,20,2014-03-15,2014-05-17,72,10
+72,Goodnight Kisses,Charlie Wilson,18,2014-11-15,2014-12-27,69,7
+73,I'll Never Let You Go,Shelea,23,2014-03-29,2014-06-21,66,11
+74,Help,Erica Campbell Featuring Lecrae,22,2014-03-01,2014-05-31,64,13
+75,Partition,Beyonce,20,2014-04-12,2014-06-07,56,9
+76,Runnin',Eric Benet,12,2014-01-04,2014-01-18,55,3
+77,Ain't My Fault,Jamie Foxx,18,2014-11-22,2014-12-27,53,6
+78,Losing Sleep,Boyz II Men,21,2014-10-04,2014-12-27,53,10
+79,"Love, Love, Love",Ruben Studdard,25,2014-03-08,2014-05-31,50,12
+80,Your Night,ConFunkShun,26,2014-09-13,2014-12-27,50,14
+81,1 On 1,Zacardi Cortez,21,2014-02-22,2014-04-12,41,8
+82,I Deserve It,Faith Evans Featuring Missy Elliott & Sharaya J,20,2014-11-08,2014-12-27,40,8
+83,Take Back The Night,Justin Timberlake,23,2014-01-04,2014-02-08,37,6
+84,It Won't Stop,Sevyn Streeter Featuring Chris Brown,23,2014-02-01,2014-05-10,34,8
+85,I Need,TGT,14,2014-01-04,2014-01-11,33,2
+86,New Flame,Chris Brown Featuring Usher & Rick Ross,25,2014-11-01,2014-12-27,32,9
+87,Every Praise,Hezekiah Walker,22,2014-01-04,2014-01-25,28,4
+88,He Don't Exist,Jaheim,25,2014-01-04,2014-03-01,27,8
+89,A Place With No Name,Michael Jackson,25,2014-09-06,2014-10-25,27,8
+90,Love Is The Answer,Aloe Blacc,26,2014-06-28,2014-08-09,27,7
+91,Without You,Marsha Ambrosius Featuring Ne-Yo,24,2014-01-04,2014-02-01,25,5
+92,I'm Not The Only One,Sam Smith,21,2014-12-13,2014-12-27,20,3
+93,Conqueror,Empire Cast Featuring Estelle & Jussie Smollett,22,2014-12-13,2014-12-27,20,3
+94,Love Won't Leave Me Out,Chrisette Michele,25,2014-01-25,2014-02-22,19,5
+95,Options,Luke James,27,2014-08-02,2014-09-13,18,7
+96,This Christmas,Mary J. Blige,21,2014-01-04,2014-01-11,17,2
+97,I Choose You,Keyshia Cole,26,2014-01-18,2014-02-15,17,5
+98,That Ain't Love,Club Nouveau,26,2014-02-22,2014-03-29,16,5
+99,Christmas I'll Be Steppin',R. Kelly,26,2014-01-04,2014-01-11,9,2
+100,Royals,Lorde,27,2014-02-22,2014-03-22,9,4
+101,Nothing Can Stop Me,CeCe Peniston,29,2014-08-30,2014-09-27,9,5
+102,Breakfast Can Wait,Prince,26,2014-02-01,2014-02-15,8,3
+103,Last Night,Sebastian Mikael Featuring Wale,28,2014-06-28,2014-08-23,7,5
+104,Jesus,Kem Featuring Patti LaBelle & Ronald Isley,25,2014-01-04,2014-01-04,6,1
+105,I.R.S.,Angie Fisher,29,2014-11-01,2014-12-06,6,4
+106,Pretty Hurts,Beyonce,28,2014-02-22,2014-03-01,5,2
+107,Calls,Robert Glasper Experiment Featuring Jill Scott,29,2014-01-11,2014-01-25,5,3
+108,Reminds Me,Eric Nolan,29,2014-06-21,2014-07-05,5,3
+109,Suitcase,Mary J. Blige,29,2014-07-19,2014-07-26,4,2
+110,FALLINLOVE2NITE,Prince Featuring Zooey Deschanel,29,2014-04-26,2014-05-10,3,2
+111,I Can Only Imagine,Tamela Mann,29,2014-05-03,2014-08-16,3,2
+112,Lips,Sisqo,29,2014-12-20,2014-12-27,3,2
+113,Nothing Without You,Jason Nelson,29,2014-03-01,2014-03-01,2,1
+114,PrimeTime,Janelle Monae Featuring Miguel,29,2014-04-19,2014-04-19,2,1
+115,Can't Raise A Man,K. Michelle,30,2014-04-05,2014-04-12,2,2
+116,Don't Wanna Dance,Elle Varner Featuring A$AP Ferg,30,2014-11-29,2014-12-06,2,2
+117,The Gift,Donald Lawrence,30,2014-02-22,2014-02-22,1,1
+118,Ring Off,Beyonce,30,2014-12-27,2014-12-27,1,1
+119,Remember,Ann Nesby,30,2014-09-27,2014-09-27,1,1
+120,Forever Love,Kandi Featuring Q Parker,30,2014-07-05,2014-07-05,1,1
+121,Promise (You Won't Break My Heart),Eddie Murphy,30,2014-01-11,2014-01-11,1,1
+122,It's Working,William Murphy,30,2014-08-02,2014-08-02,1,1

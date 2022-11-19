@@ -1,0 +1,296 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Pompeii,Bastille,1,2014-01-04,2014-10-25,5953,43
+2,Team,Lorde,2,2014-01-04,2014-09-20,4390,38
+3,Ain't It Fun,Paramore,1,2014-01-04,2014-11-22,4317,42
+4,Best Day Of My Life,American Authors,2,2014-01-04,2014-09-27,4296,39
+5,A Sky Full Of Stars,Coldplay,1,2014-05-17,2014-12-27,3941,33
+6,Come With Me Now,KONGOS,2,2014-02-15,2014-11-29,3562,42
+7,Riptide,Vance Joy,2,2014-03-08,2014-12-27,3345,43
+8,Let Her Go,Passenger,1,2014-01-04,2014-05-24,2654,21
+9,Royals,Lorde,1,2014-01-04,2014-06-14,2613,24
+10,Take Me To Church,Hozier,1,2014-05-17,2014-12-27,2551,33
+11,Stolen Dance,Milky Chance,4,2014-06-21,2014-12-27,2242,28
+12,Demons,Imagine Dragons,2,2014-01-04,2014-05-17,2136,20
+13,Habits (Stay High),Tove Lo,1,2014-06-14,2014-10-04,1978,17
+14,Centuries,Fall Out Boy,2,2014-09-27,2014-12-27,1913,14
+15,Radioactive,Imagine Dragons,5,2014-01-04,2014-05-10,1530,19
+16,Magic,Coldplay,3,2014-03-22,2014-09-13,1349,26
+17,Sleeping With A Friend,Neon Trees,8,2014-01-25,2014-07-19,1236,26
+18,Dangerous,Big Data Featuring Joywave,8,2014-05-31,2014-11-22,978,26
+19,Fever,The Black Keys,12,2014-04-12,2014-10-04,976,26
+20,Girls Chase Boys,Ingrid Michaelson,7,2014-02-22,2014-07-26,936,22
+21,The Walker,Fitz And The Tantrums,11,2014-01-25,2014-07-19,930,26
+22,Sweater Weather,The Neighbourhood,4,2014-01-04,2014-03-08,895,10
+23,On Top Of The World,Imagine Dragons,10,2014-01-18,2014-06-21,885,23
+24,Tennis Court,Lorde,9,2014-01-04,2014-08-16,876,19
+25,Left Hand Free,alt-J,9,2014-07-26,2014-12-27,875,23
+26,I Wanna Get Better,Bleachers,10,2014-03-29,2014-09-20,874,26
+27,Yellow Flicker Beat,Lorde,3,2014-10-18,2014-12-27,838,11
+28,Why'd You Only Call Me When You're High?,Arctic Monkeys,14,2014-02-08,2014-08-23,796,29
+29,Heaven Knows,The Pretty Reckless,17,2014-02-22,2014-08-16,764,26
+30,Bad Blood,Bastille,15,2014-01-25,2014-07-19,763,26
+31,Sail,AWOLNATION,8,2014-01-04,2014-03-22,744,12
+32,My Sweet Summer,Dirty Heads,13,2014-06-14,2014-11-29,741,25
+33,Shut Up And Dance,WALK THE MOON,6,2014-09-27,2014-12-27,739,14
+34,Do I Wanna Know?,Arctic Monkeys,10,2014-01-04,2014-05-03,738,18
+35,Peace,O.A.R.,13,2014-03-15,2014-09-27,650,25
+36,Safe And Sound,Capital Cities,7,2014-01-04,2014-03-08,642,10
+37,I Bet My Life,Imagine Dragons,5,2014-11-15,2014-12-27,621,7
+38,Flaws,Bastille,14,2014-08-23,2014-12-27,586,19
+39,Glory And Gore,Lorde,9,2014-01-04,2014-05-03,575,18
+40,Jungle,Jamie N Commons & X Ambassadors,10,2014-04-26,2014-10-18,551,20
+41,Love Don't Die,The Fray,11,2014-01-04,2014-04-12,550,15
+42,Back To The Shack,Weezer,13,2014-08-09,2014-12-20,530,20
+43,Multiplied,NEEDTOBREATHE,16,2014-05-24,2014-11-15,526,22
+44,Coming Of Age,Foster The People,14,2014-02-01,2014-06-14,524,20
+45,Budapest,George Ezra,14,2014-08-23,2014-12-27,521,19
+46,Words As Weapons,Seether,18,2014-05-24,2014-10-11,520,21
+47,The Devil In I,Slipknot,12,2014-09-13,2014-12-27,516,16
+48,Fall In Love,Phantogram,16,2014-01-25,2014-06-07,507,20
+49,Believer,American Authors,12,2014-07-05,2014-11-01,482,18
+50,Skinny Love,Birdy,24,2014-02-01,2014-06-14,476,20
+51,Wrong Side Of Heaven,Five Finger Death Punch,11,2014-08-30,2014-12-27,468,18
+52,Warriors,Imagine Dragons,10,2014-10-04,2014-12-27,467,13
+53,Chocolate,The 1975,13,2014-01-04,2014-03-29,450,13
+54,Something From Nothing,Foo Fighters,8,2014-11-01,2014-12-27,436,9
+55,Reflections,MisterWives,14,2014-10-04,2014-12-27,420,13
+56,I Don't Want To Be Here Anymore,Rise Against,21,2014-06-28,2014-10-25,416,18
+57,Come A Little Closer,Cage The Elephant,15,2014-01-04,2014-03-22,403,12
+58,Girls,The 1975,12,2014-08-16,2014-12-20,390,18
+59,Lazaretto,Jack White,15,2014-05-10,2014-09-06,383,17
+60,Guilty All The Same,Linkin Park Featuring Rakim,19,2014-03-22,2014-07-12,376,17
+61,Afraid,The Neighbourhood,18,2014-01-04,2014-03-22,363,12
+62,Immortals,Fall Out Boy,9,2014-11-01,2014-12-27,362,9
+63,Cardiac Arrest,Bad Suns,25,2014-05-10,2014-09-27,362,20
+64,Unbelievers,Vampire Weekend,22,2014-01-04,2014-04-19,360,16
+65,All I Want,Kodaline,23,2014-03-22,2014-10-18,358,20
+66,Every Other Freckle,alt-J,13,2014-08-30,2014-12-27,356,18
+67,Cigarette Daydreams,Cage The Elephant,15,2014-09-27,2014-12-27,343,14
+68,We Might Be Dead By Tomorrow,Soko,3,2014-03-29,2014-08-02,341,12
+69,Gotta Get Away,The Black Keys,22,2014-09-06,2014-12-13,337,15
+70,Painkiller,Three Days Grace,24,2014-04-19,2014-08-30,334,20
+71,Pumpin Blood,NONONO,23,2014-02-08,2014-06-07,324,18
+72,Doses & Mimosas,Cherub,21,2014-03-08,2014-07-19,323,20
+73,Alone Together,Fall Out Boy,11,2014-01-04,2014-03-01,317,9
+74,Midnight,Coldplay,6,2014-03-15,2014-06-14,314,8
+75,Take Out The Gunman,Chevelle,25,2014-03-01,2014-06-21,314,17
+76,Shepherd Of Fire,Avenged Sevenfold,28,2014-01-04,2014-04-26,311,17
+77,Torn To Pieces,Pop Evil,23,2014-04-19,2014-08-09,308,17
+78,Work Song,Hozier,22,2014-09-13,2014-12-27,305,16
+79,It's About Time,Young The Giant,17,2014-01-04,2014-05-03,301,18
+80,From Eden,Hozier,17,2014-08-16,2014-12-27,294,16
+81,Come To Me,Goo Goo Dolls,17,2014-01-04,2014-03-08,291,10
+82,Forever,HAIM,24,2014-03-22,2014-07-12,262,17
+83,House Of The Rising Sun,Five Finger Death Punch,26,2014-03-29,2014-08-09,260,20
+84,I'm Only Joking,KONGOS,24,2014-08-30,2014-12-06,246,15
+85,Arrows,Fences Featuring Macklemore,24,2014-08-16,2014-11-15,241,11
+86,Edge Of A Revolution,Nickelback,13,2014-09-06,2014-12-20,236,14
+87,Until It's Gone,Linkin Park,17,2014-05-24,2014-09-27,233,18
+88,What Are You Waiting For?,Nickelback,11,2014-09-27,2014-12-20,231,13
+89,Everybody Wants To Rule The World,Lorde,27,2014-06-28,2014-11-08,219,16
+90,Car Radio,twenty one pilots,20,2014-04-26,2014-09-20,216,18
+91,1000hp,Godsmack,22,2014-06-28,2014-09-27,216,14
+92,Drown,Bring Me The Horizon,11,2014-11-22,2014-12-27,206,6
+93,Figure It Out,Royal Blood,18,2014-10-25,2014-12-27,205,10
+94,We Are Done,The Madden Brothers,23,2014-07-19,2014-09-13,198,9
+95,Tonight You're Perfect,New Politics,23,2014-03-01,2014-05-03,197,10
+96,Sirens,Pearl Jam,21,2014-01-04,2014-02-15,192,7
+97,The Mother We Share,CHVRCHES,30,2014-01-04,2014-03-15,192,11
+98,Not About Angels,Birdy,17,2014-06-07,2014-10-11,191,14
+99,Hunger Of The Pine,alt-J,20,2014-07-12,2014-10-25,191,14
+100,400 Lux,Lorde,25,2014-01-04,2014-03-01,190,9
+101,Mess Is Mine,Vance Joy,25,2014-08-30,2014-12-27,186,13
+102,Thunder Clatter,Wild Cub,34,2014-04-26,2014-09-06,185,20
+103,Ballast,Nothing More,30,2014-07-12,2014-10-18,183,15
+104,I Am Machine,Three Days Grace,26,2014-10-18,2014-12-27,175,11
+105,Fools Gold,Fitz And The Tantrums,26,2014-10-18,2014-12-27,172,11
+106,Mind Over Matter,Young The Giant,25,2014-01-25,2014-11-29,171,14
+107,Like Real People Do,Hozier,32,2014-08-16,2014-12-27,167,13
+108,Take Me To Church,Matt McAndrew,8,2014-12-06,2014-12-27,165,4
+109,Buzzcut Season,Lorde,29,2014-01-04,2014-03-01,164,9
+110,My Demons,Starset,36,2014-08-02,2014-11-29,162,18
+111,Who You Love,John Mayer Featuring Katy Perry,11,2014-01-04,2014-02-01,159,5
+112,Ordinary Love,U2,13,2014-02-01,2014-05-03,159,8
+113,Holding On For Life,Broken Bells,22,2014-01-04,2014-05-03,158,13
+114,Dirty Paws,Of Monsters And Men,24,2014-01-04,2014-02-15,157,7
+115,I See Fire,Ed Sheeran,16,2014-01-04,2014-02-08,154,6
+116,The Blower's Daughter,Matt McAndrew,4,2014-12-20,2014-12-27,149,2
+117,Out Of My League,Fitz And The Tantrums,14,2014-01-04,2014-01-25,145,4
+118,Best Friend,Foster The People,21,2014-03-29,2014-08-02,145,12
+119,The Wire,HAIM,29,2014-01-04,2014-04-05,144,12
+120,This Means War,Avenged Sevenfold,36,2014-05-24,2014-09-20,140,17
+121,One Minute More,Capital Cities,29,2014-07-12,2014-08-30,137,8
+122,Angel Of Small Death And The Codeine Scene,Hozier,31,2014-10-25,2014-12-27,137,10
+123,R U Mine?,Arctic Monkeys,39,2014-01-18,2014-06-14,136,19
+124,Giants,Bear Hands,33,2014-03-29,2014-07-05,135,15
+125,Miss Jackson,Panic! At The Disco Featuring Lolo,19,2014-01-04,2014-01-25,121,4
+126,White Teeth Teens,Lorde,33,2014-01-04,2014-03-08,119,10
+127,Ribs,Lorde,30,2014-01-04,2014-03-01,115,9
+128,Gooey,Glass Animals,30,2014-10-11,2014-12-27,115,12
+129,Battle Born,Five Finger Death Punch,27,2014-01-04,2014-03-01,113,9
+130,Battle Cry,Imagine Dragons,24,2014-06-21,2014-11-01,110,9
+131,Wait For Me,Kings Of Leon,35,2014-04-05,2014-06-14,108,11
+132,Play Ball,AC/DC,17,2014-10-25,2014-12-20,98,6
+133,Everywhere I Go (Kings And Queens),New Politics,28,2014-10-25,2014-11-22,98,5
+134,Of The Night,Bastille,35,2014-02-01,2014-06-14,98,10
+135,All The Time,Bahamas,19,2014-11-22,2014-12-13,97,4
+136,Invisible,U2,15,2014-02-22,2014-03-22,94,5
+137,A Light That Never Comes,Linkin Park X Steve Aoki,26,2014-01-04,2014-02-08,93,6
+138,Gods And Monsters,Lana Del Rey,15,2014-11-08,2014-11-22,92,3
+139,Zombie,The Cranberries,18,2014-03-22,2014-04-12,92,4
+140,Seven Nation Army,The White Stripes,12,2014-01-18,2014-02-01,90,3
+141,Blue Moon,Beck,30,2014-02-08,2014-04-19,87,9
+142,House Of Gold,twenty one pilots,38,2014-01-04,2014-03-01,86,9
+143,Turn Blue,The Black Keys,19,2014-05-03,2014-05-31,85,3
+144,I Won't Let You Down,OK Go,7,2014-11-15,2014-11-15,84,1
+145,Monster,Imagine Dragons,21,2014-01-11,2014-05-10,84,5
+146,Rollercoaster,Bleachers,31,2014-08-02,2014-12-27,83,6
+147,XO,John Mayer,13,2014-06-14,2014-10-11,82,5
+148,The Negative One,Slipknot,21,2014-08-23,2014-10-04,81,6
+149,What If I Was Nothing,All That Remains,35,2014-03-01,2014-04-26,75,9
+150,Lola Montez,Volbeat,35,2014-01-04,2014-03-01,75,9
+151,The Only Way Out,Bush,38,2014-11-01,2014-12-27,71,9
+152,Beware The Dog,The Griswolds,33,2014-08-30,2014-10-11,68,7
+153,Love Alone Is Worth The Fight,Switchfoot,21,2014-01-25,2014-02-15,63,4
+154,Come Join The Murder,The White Buffalo & The Forest Rangers,9,2014-12-27,2014-12-27,62,1
+155,Trainwreck 1979,Death From Above 1979,33,2014-09-27,2014-11-01,61,6
+156,Do You,Spoon,28,2014-08-16,2014-10-04,60,7
+157,Desire,Meg Myers,39,2014-10-18,2014-12-13,58,9
+158,Royals,Taylor John Williams,10,2014-12-20,2014-12-27,57,2
+159,Just One Of The Guys,Jenny Lewis,17,2014-08-02,2014-08-16,53,3
+160,The Writing's On The Wall,OK Go,10,2014-07-05,2014-07-05,51,1
+161,Final Masquerade,Linkin Park,18,2014-06-28,2014-07-05,51,2
+162,Same Damn Life,Seether,35,2014-12-06,2014-12-27,50,4
+163,A World Alone,Lorde,39,2014-01-04,2014-03-08,50,8
+164,Dead Air,CHVRCHES,24,2014-11-22,2014-12-13,49,3
+165,Jackie And Wilson,Hozier,18,2014-09-20,2014-12-27,46,2
+166,Mad World,Taylor John Williams,18,2014-11-15,2014-11-22,45,2
+167,Rock Or Bust,AC/DC,29,2014-12-06,2014-12-20,45,3
+168,Fix You,Matt McAndrew,13,2014-12-13,2014-12-20,44,2
+169,High Ball Stepper,Jack White,28,2014-04-26,2014-06-28,44,3
+170,The Love Club,Lorde,31,2014-01-04,2014-01-25,44,4
+171,The Moon Song,Karen O & Ezra Koening,27,2014-03-15,2014-03-22,42,2
+172,Kansas City,The New Basement Tapes,35,2014-12-06,2014-12-27,42,4
+173,Wastelands,Linkin Park,25,2014-06-21,2014-06-28,41,2
+174,I Still Haven't Found What I'm Looking For,Matt McAndrew,11,2014-12-27,2014-12-27,40,1
+175,Come Together,Taylor John Williams,11,2014-12-13,2014-12-13,40,1
+176,Feuer Frei,Rammstein,11,2014-07-19,2014-07-19,40,1
+177,Let It Be,Tessanne Chin & Adam Levine,12,2014-01-04,2014-01-04,39,1
+178,Rebellion,Linkin Park Featuring Daron Malakian,21,2014-06-21,2014-06-28,39,2
+179,Kick Me,Sleeping With Sirens,23,2014-12-06,2014-12-13,38,2
+180,Things We Lost In The Fire,Bastille,46,2014-02-08,2014-05-17,37,11
+181,I'm Gonna Be (500 Miles),The Proclaimers,15,2014-06-07,2014-06-07,36,1
+182,The Blower's Daughter,Damien Rice,15,2014-12-20,2014-12-20,36,1
+183,Cherry Wine,Hozier,36,2014-08-16,2014-12-27,36,5
+184,Day Of The Dead,Hollywood Undead,17,2014-11-08,2014-11-08,34,1
+185,You're Not Alone,Of Mice & Men,28,2014-01-11,2014-02-15,30,2
+186,Hook,Blues Traveler,22,2014-05-17,2014-05-17,29,1
+187,Wasteland,NEEDTOBREATHE,22,2014-04-19,2014-04-19,29,1
+188,I've Just Seen A Face,Dawn & Hawkes,22,2014-03-15,2014-03-15,29,1
+189,Taurus,Spirit,23,2014-06-07,2014-06-07,28,1
+190,Hate To See Your Heart Break,Paramore,23,2014-12-13,2014-12-13,28,1
+191,Do Or Die,Thirty Seconds To Mars,38,2014-08-09,2014-10-11,28,3
+192,Weight Of Love,The Black Keys,24,2014-05-31,2014-05-31,27,1
+193,Gods And Monsters,American Horror Story Cast Featuring Jessica Lange,24,2014-11-08,2014-11-08,27,1
+194,Weekend,Priory,36,2014-12-20,2014-12-27,27,2
+195,Flashed Junk Mind,Milky Chance,41,2014-12-13,2014-12-27,27,3
+196,Pseudologia Fantastica,Foster The People,31,2014-03-15,2014-04-05,26,2
+197,Sick Like Me,In This Moment,36,2014-09-27,2014-12-27,26,3
+198,Dead But Rising,Volbeat,44,2014-05-10,2014-06-14,26,6
+199,Sadnecessary,Milky Chance,26,2014-10-25,2014-10-25,25,1
+200,Congregation,Foo Fighters,33,2014-11-22,2014-11-29,25,2
+201,Medicine,The 1975,35,2014-11-15,2014-11-29,25,3
+202,I Need You,M83.,36,2014-04-12,2014-04-19,25,2
+203,Wasted Time,Vance Joy,27,2014-09-20,2014-09-20,24,1
+204,Joel The Lump Of Coal,The Killers Featuring Jimmy Kimmel,27,2014-12-20,2014-12-20,24,1
+205,Wicked Game,Taylor John Williams,27,2014-12-27,2014-12-27,24,1
+206,Crystallized,Young The Giant,27,2014-02-08,2014-02-08,24,1
+207,Tired Of Giving Up,Ryan Adams,28,2014-09-20,2014-09-20,23,1
+208,Sight Of The Sun,fun.,28,2014-03-29,2014-03-29,23,1
+209,Wave,Beck,28,2014-03-08,2014-03-08,23,1
+210,Who We Are,Switchfoot,28,2014-02-01,2014-02-01,23,1
+211,Let Me In,Grouplove,33,2014-06-21,2014-06-28,23,2
+212,Can You Feel My Heart,Bring Me The Horizon,45,2014-09-06,2014-12-27,23,8
+213,Just One Drink,Jack White,29,2014-05-31,2014-05-31,22,1
+214,Never Never,Korn,41,2014-01-04,2014-01-18,22,3
+215,Earthquake Driver,Counting Crows,30,2014-09-06,2014-09-06,21,1
+216,Atlas,Coldplay,39,2014-01-04,2014-01-18,21,3
+217,Stunner,Milky Chance,31,2014-10-18,2014-10-18,20,1
+218,The Feast And The Famine,Foo Fighters,37,2014-11-15,2014-11-29,20,2
+219,Shot At The Night,The Killers,43,2014-04-05,2014-04-26,20,4
+220,Last Love Song,ZZ Ward,44,2014-08-09,2014-09-06,20,4
+221,Palisades Park,Counting Crows,33,2014-07-26,2014-07-26,18,1
+222,Inside Out,Spoon,33,2014-08-23,2014-08-23,18,1
+223,Imagine (Live),Eddie Vedder,34,2014-10-18,2014-10-18,17,1
+224,After The Disco,Broken Bells,34,2014-02-22,2014-02-22,17,1
+225,Turn Down For What,Upon A Burning Body Featuring Ice-T,35,2014-12-06,2014-12-06,16,1
+226,Landslide,Kat Perkins,35,2014-05-17,2014-05-17,16,1
+227,Lydia,Jessica Bassett,35,2014-02-22,2014-02-22,16,1
+228,Drown,Theory Of A Deadman,43,2014-05-10,2014-08-16,15,2
+229,What Did I Do?/God As My Witness,Foo Fighters,37,2014-11-29,2014-11-29,14,1
+230,Hallelujah,Matthew Schuler,37,2014-01-04,2014-01-04,14,1
+231,King For A Day,Pierce The Veil Featuring Kellin Quinn,37,2014-01-11,2014-01-11,14,1
+232,Snap Out Of It,Arctic Monkeys,37,2014-07-05,2014-07-05,14,1
+233,Supernova,Ray LaMontagne,42,2014-03-15,2014-05-17,14,4
+234,Yellow,Ethan Butler & Matt McAndrews,38,2014-11-08,2014-11-08,13,1
+235,Have Yourself A Merry Little Christmas,Cat Power,42,2014-01-04,2014-01-11,13,2
+236,Scare Away The Dark,Passenger,39,2014-04-19,2014-04-19,12,1
+237,Break Your Plans,The Fray,45,2014-07-19,2014-08-02,12,3
+238,Not Gonna Die,Skillet,46,2014-03-29,2014-04-12,12,3
+239,Maybe I'm Amazed,Luke Wade & Griffin,40,2014-11-01,2014-11-01,11,1
+240,Happy Idiot,TV On The Radio,42,2014-12-06,2014-12-13,11,2
+241,My Wrecking Ball,Ryan Adams,41,2014-08-30,2014-08-30,10,1
+242,All The Rage Back Home,Interpol,41,2014-09-27,2014-09-27,10,1
+243,The Miracle (Of Joey Ramone),U2,42,2014-11-15,2014-11-29,10,2
+244,Get Hurt,The Gaslight Anthem,43,2014-07-26,2014-08-30,10,2
+245,Messed Up World,The Pretty Reckless,44,2014-10-11,2014-10-18,10,2
+246,Bridges,Broods,45,2014-05-10,2014-05-24,10,3
+247,As Long As You Love Me,Caleb Johnson,42,2014-06-07,2014-06-07,9,1
+248,Are You What You Want To Be?,Foster The People,42,2014-04-05,2014-04-05,9,1
+249,True Love,Coldplay,42,2014-09-13,2014-09-13,9,1
+250,If I Could Change Your Mind,HAIM,42,2014-03-15,2014-03-15,9,1
+251,God Of Ocean Tides,Counting Crows,42,2014-08-23,2014-08-23,9,1
+252,Someone New,Hozier,42,2014-12-27,2014-12-27,9,1
+253,Out Of The Black,Royal Blood,47,2014-06-14,2014-07-26,9,3
+254,Waking Light,Beck,43,2014-02-22,2014-02-22,8,1
+255,Ladder Song,Lorde,43,2014-12-06,2014-12-06,8,1
+256,World On Fire,Slash Featuring Myles Kennedy And The Conspirators,43,2014-10-04,2014-10-04,8,1
+257,Something Different,Godsmack,43,2014-12-27,2014-12-27,8,1
+258,Step Out,Jose Gonzalez,43,2014-01-18,2014-01-18,8,1
+259,Best Shot,Birdy & Jaymes Young,43,2014-05-31,2014-05-31,8,1
+260,Different Colors,WALK THE MOON,44,2014-12-20,2014-12-20,7,1
+261,Rent I Pay,Spoon,44,2014-08-23,2014-08-23,7,1
+262,Trouble,American Authors,44,2014-03-08,2014-03-08,7,1
+263,Hope For The Future,Paul McCartney,44,2014-12-27,2014-12-27,7,1
+264,I Knew You Were Trouble,We Came As Romans,44,2014-12-06,2014-12-06,7,1
+265,Arabella,Arctic Monkeys,47,2014-03-22,2014-03-29,7,2
+266,Deal With The Devil,Pop Evil,48,2014-01-04,2014-01-18,7,3
+267,State I'm In,NEEDTOBREATHE,45,2014-03-08,2014-03-08,6,1
+268,Hater,Korn,45,2014-09-06,2014-09-06,6,1
+269,Stay Alive,Jose Gonzalez,45,2014-01-18,2014-01-18,6,1
+270,A Love Like War,All Time Low Featuring Vic Fuentes,45,2014-01-11,2014-01-11,6,1
+271,Get Away,CHVRCHES,45,2014-12-06,2014-12-06,6,1
+272,Take It Or Leave It,Cage The Elephant,46,2014-08-02,2014-08-09,6,2
+273,Paralyzed,Angels & Airwaves,46,2014-10-25,2014-10-25,5,1
+274,Nothing More,The Alternate Routes,46,2014-01-04,2014-01-04,5,1
+275,We Exist,Arcade Fire,46,2014-05-31,2014-05-31,5,1
+276,Zombie,Clarissa Serna,46,2014-03-22,2014-03-22,5,1
+277,Fake Your Death,My Chemical Romance,47,2014-03-08,2014-03-08,4,1
+278,Let Me In Your Heart Again (William Orbit Mix),Queen,47,2014-11-22,2014-11-22,4,1
+279,Every Breaking Wave,U2,47,2014-12-27,2014-12-27,4,1
+280,High Hopes,Bruce Springsteen,47,2014-02-01,2014-02-01,4,1
+281,Cecilia And The Satellite,Andrew McMahon In The Wilderness,48,2014-12-20,2014-12-20,3,1
+282,Whore,In This Moment,48,2014-04-12,2014-04-12,3,1
+283,To Be Alone,Hozier,48,2014-12-27,2014-12-27,3,1
+284,The Chamber,Lenny Kravitz,48,2014-10-11,2014-10-11,3,1
+285,Airwaves,Ray LaMontagne,49,2014-05-17,2014-05-17,2,1
+286,This Is Gospel,Panic! At The Disco,49,2014-01-11,2014-01-11,2,1
+287,Gotta Get It Right,Sixx: A.M.,49,2014-08-23,2014-08-23,2,1
+288,Songbird,Eric Clapton Featuring Willie Nelson,49,2014-08-09,2014-08-09,2,1
+289,Tired,Stone Sour,50,2014-03-01,2014-03-01,1,1
+290,Always In My Head,Coldplay,50,2014-06-07,2014-06-07,1,1
+291,2020,Suuns,50,2014-02-15,2014-02-15,1,1
+292,Seasons (Waiting On You),Future Islands,50,2014-04-19,2014-04-19,1,1
+293,Be Okay,Oh Honey,50,2014-04-12,2014-04-12,1,1
+294,Who We Are,Imagine Dragons,50,2014-01-11,2014-01-11,1,1
+295,Tessellate,alt-J,50,2014-01-04,2014-01-04,1,1

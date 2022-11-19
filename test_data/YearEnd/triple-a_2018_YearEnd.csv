@@ -1,0 +1,190 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,You Worry Me,Nathaniel Rateliff & The Night Sweats,1,2018-01-20,2018-07-07,879,25
+2,A Little Honey,Nathaniel Rateliff & The Night Sweats,2,2018-04-14,2018-10-06,805,26
+3,Broken,lovelytheband,3,2018-04-07,2018-09-15,712,24
+4,Gold Rush,Death Cab For Cutie,1,2018-06-30,2018-11-10,683,20
+5,Life To Fix,The Record Company,1,2018-05-05,2018-09-15,678,20
+6,All My Friends,The Revivalists,1,2018-08-18,2018-12-29,670,20
+7,Silver Lining,Mt. Joy,2,2018-02-10,2018-07-14,667,23
+8,Beyond,Leon Bridges,2,2018-06-16,2018-11-03,649,21
+9,Saturday Sun,Vance Joy,2,2018-02-24,2018-07-07,638,20
+10,Hunger,Florence + The Machine,1,2018-05-19,2018-09-29,634,20
+11,Severed,The Decemberists,1,2018-02-03,2018-06-16,632,20
+12,Uh Huh,Jade Bird,3,2018-08-25,2018-12-29,620,19
+13,You're Somebody Else,flora cash,5,2018-07-21,2018-12-29,619,24
+14,Bad Bad News,Leon Bridges,1,2018-03-31,2018-08-11,618,20
+15,Lottery,Jade Bird,1,2018-02-03,2018-06-16,616,20
+16,No Roots,Alice Merton,1,2018-01-03,2018-05-05,614,19
+17,Apollo,St. Paul & The Broken Bones,3,2018-07-21,2018-12-01,583,20
+18,Such A Simple Thing,Ray LaMontagne,3,2018-04-07,2018-08-18,581,20
+19,Shame,Elle King,1,2018-08-25,2018-12-29,578,19
+20,Colors,Beck,3,2018-04-14,2018-08-25,571,20
+21,Whatever It Takes,Imagine Dragons,8,2018-01-03,2018-05-12,551,20
+22,Lash Out,Alice Merton,7,2018-04-28,2018-09-08,547,20
+23,Get Out Of Your Own Way,U2,3,2018-01-03,2018-04-21,541,17
+24,The Joke,Brandi Carlile,4,2018-01-03,2018-04-21,538,17
+25,Nina Cried Power,Hozier Featuring Mavis Staples,1,2018-09-22,2018-12-29,537,15
+26,Live In The Moment,Portugal. The Man,1,2018-01-03,2018-04-07,533,15
+27,"Keep A Little Soul (Outtake, 1982)",Tom Petty,3,2018-07-28,2018-11-24,503,18
+28,Guiding Light,Mumford & Sons,1,2018-10-06,2018-12-29,502,13
+29,Girlfriend,Anderson East,5,2018-02-10,2018-06-23,497,20
+30,Already Gone,Brett Dennen,3,2018-01-27,2018-05-12,493,16
+31,Casanova,Rayland Baxter,11,2018-06-02,2018-10-27,493,22
+32,Samurai Cop (Oh Joy Begin),Dave Matthews Band,5,2018-05-26,2018-09-08,492,16
+33,Loading Zones,Kurt Vile,4,2018-09-08,2018-12-29,485,17
+34,Everybody's Coming To My House,David Byrne,5,2018-01-20,2018-05-12,463,17
+35,Los Ageless,St. Vincent,6,2018-01-03,2018-03-31,456,14
+36,Jenny Jenkins,Mt. Joy,8,2018-09-01,2018-12-29,438,18
+37,Don't Give In,Snow Patrol,8,2018-04-07,2018-08-04,431,18
+38,Unwanted Number,Elvis Costello & The Imposters,8,2018-08-11,2018-12-15,429,19
+39,Across The Room,ODESZA Featuring Leon Bridges,6,2018-01-03,2018-03-31,418,14
+40,Nevermind,Dennis Lloyd,9,2018-07-07,2018-11-17,416,20
+41,Good Kisser,Lake Street Dive,12,2018-03-17,2018-07-21,412,19
+42,Sit Next To Me,Foster The People,13,2018-03-10,2018-07-28,392,21
+43,Best Days,Lissie,9,2018-02-10,2018-06-09,386,18
+44,Pain,The War On Drugs,1,2018-01-03,2018-03-10,382,11
+45,Fever Pitch,Rainbow Kitten Surprise,10,2018-05-05,2018-09-22,380,20
+46,New Light,John Mayer,9,2018-06-23,2018-11-03,375,20
+47,Chainsmoking,Jacob Banks,18,2018-01-27,2018-06-09,367,20
+48,Up All Night,Beck,3,2018-01-03,2018-03-10,366,11
+49,Shotgun,George Ezra,11,2018-09-01,2018-12-29,361,18
+50,"No More Darkness, No More Light",Amos Lee,14,2018-06-30,2018-11-03,359,19
+51,Paradise,George Ezra,14,2018-02-24,2018-06-23,358,18
+52,Again And Again,Dave Matthews Band,14,2018-09-15,2018-12-29,356,16
+53,Four Out Of Five,Arctic Monkeys,8,2018-05-26,2018-09-01,348,15
+54,Natural,Imagine Dragons,17,2018-08-25,2018-12-29,346,19
+55,Come On To Me,Paul McCartney,6,2018-07-07,2018-10-13,344,15
+56,New Birth In New England,Phosphorescent,11,2018-08-25,2018-12-29,343,19
+57,Sucker's Prayer,The Decemberists,10,2018-06-16,2018-09-22,340,15
+58,Make It Happen,The Record Company,9,2018-10-06,2018-12-29,333,13
+59,Light On,Maggie Rogers,2,2018-10-27,2018-12-29,324,10
+60,Hell Or High Water,Passenger,17,2018-06-16,2018-10-20,324,19
+61,Something Human,Muse,9,2018-08-04,2018-10-27,307,13
+62,Cringe,Matt Maeson,8,2018-10-06,2018-12-29,303,13
+63,It's A Shame,First Aid Kit,16,2018-01-03,2018-03-24,294,13
+64,Humility,Gorillaz Featuring George Benson,12,2018-06-16,2018-09-29,292,16
+65,Wait By The River,Lord Huron,14,2018-03-17,2018-06-23,288,15
+66,Forever,Billy Raffoul,17,2018-08-11,2018-12-15,288,18
+67,Hey Mama,Nathaniel Rateliff & The Night Sweats,3,2018-11-03,2018-12-29,279,9
+68,Northern Lights,Death Cab For Cutie,4,2018-11-03,2018-12-29,263,9
+69,Quarter Past Midnight,Bastille,16,2018-06-02,2018-09-08,263,15
+70,Mr. Tillman,Father John Misty,17,2018-03-10,2018-06-16,263,15
+71,This Is It,Lo Moon,6,2018-01-03,2018-02-24,258,9
+72,Living In The Future,Dawes,14,2018-05-26,2018-08-18,256,13
+73,Connected By Love,Jack White,14,2018-01-27,2018-04-21,253,13
+74,Love Is Bigger Than Anything In Its Way,U2,16,2018-05-19,2018-08-25,251,15
+75,Blackout,Frank Turner,19,2018-04-21,2018-07-28,249,15
+76,Painted Yellow Lines,Dispatch,15,2018-01-03,2018-03-10,245,11
+77,Not Too Late,Moon Taxi,22,2018-03-17,2018-06-30,234,16
+78,"""99""",Barns Courtney,16,2018-09-22,2018-12-29,231,15
+79,"Nameless, Faceless",Courtney Barnett,20,2018-03-03,2018-05-26,230,13
+80,Run For Cover,The Killers,20,2018-01-03,2018-03-31,230,14
+81,Here's Looking At You Kid,Brett Dennen,17,2018-09-08,2018-12-01,226,13
+82,Woman,Cat Power Featuring Lana Del Rey,20,2018-09-08,2018-12-08,222,14
+83,Bad Luck,Neko Case,20,2018-04-28,2018-08-04,222,15
+84,Glory,Dermot Kennedy,26,2018-04-07,2018-08-18,210,20
+85,Roll On Slow,Glen Hansard,18,2018-02-10,2018-05-26,209,16
+86,Baby I Love You,Ryan Adams,15,2018-03-10,2018-05-19,204,11
+87,Happy Man,Jungle,20,2018-06-09,2018-09-01,198,13
+88,If It Feels Good (then It Must Be),Leon Bridges,12,2018-11-03,2018-12-29,196,9
+89,Day I Die,The National,9,2018-01-03,2018-02-10,194,7
+90,Do I Have To Talk You Into It,Spoon,18,2018-01-03,2018-03-03,185,10
+91,Stand By My Girl,Dan Auerbach,10,2018-01-03,2018-02-03,179,6
+92,The River,KT Tunstall,20,2018-10-13,2018-12-29,174,12
+93,Unknown (To You),Jacob Banks,21,2018-09-22,2018-12-15,172,13
+94,Revolution,Van William Featuring First Aid Kit,6,2018-01-03,2018-02-10,166,7
+95,Change,The Revivalists,7,2018-11-24,2018-12-29,164,6
+96,Wild And Reckless,Blitzen Trapper,21,2018-01-03,2018-03-03,155,10
+97,Feed The Fire,Dawes,23,2018-09-29,2018-12-15,155,12
+98,Ahead Of Myself,X Ambassadors,8,2018-01-03,2018-01-27,152,5
+99,One Foot,WALK THE MOON,25,2018-01-03,2018-03-24,148,13
+100,The Gold,Manchester Orchestra,8,2018-01-03,2018-01-27,147,5
+101,Comeback Kid,Sharon Van Etten,20,2018-10-20,2018-12-29,140,11
+102,Domino,ZZ Ward Featuring Fitz,24,2018-03-17,2018-06-09,139,13
+103,All On My Mind,Anderson East,5,2018-01-03,2018-01-20,135,4
+104,Creature Comfort,Arcade Fire,21,2018-01-03,2018-02-24,130,9
+105,Charity,Courtney Barnett,26,2018-06-30,2018-09-15,126,12
+106,Happy Hour,Weezer,21,2018-01-03,2018-03-17,122,12
+107,Real Love,Lo Moon,26,2018-03-24,2018-06-23,114,14
+108,Big Sur,Jack Johnson,22,2018-01-03,2018-03-10,113,11
+109,Way With Words,Bahamas,27,2018-02-03,2018-04-14,110,11
+110,Sober Up,AJR Featuring Rivers Cuomo,27,2018-03-17,2018-06-02,109,12
+111,Homesick,The Marcus King Band,26,2018-10-27,2018-12-29,108,10
+112,Never Ever,Lord Huron,26,2018-06-30,2018-09-01,105,10
+113,Think It Over,Wild Child,22,2018-02-17,2018-04-14,104,9
+114,You're The Best Thing About Me,U2,17,2018-01-03,2018-01-27,102,5
+115,Loving Is Easy,Rex Orange County Featuring Benny Sings,24,2018-08-18,2018-10-13,99,9
+116,Motion Sickness,Phoebe Bridgers,26,2018-01-03,2018-03-10,95,11
+117,If We Were Vampires,Jason Isbell And The 400 Unit,29,2018-01-03,2018-03-10,94,11
+118,Mockingbird,Ruston Kelly,25,2018-10-27,2018-12-29,91,10
+119,Spent The Day In Bed,Morrissey,19,2018-01-03,2018-01-27,90,5
+120,Tidal Wave,Portugal. The Man,30,2018-08-04,2018-10-20,83,12
+121,"Shame, Shame, Shame",Lake Street Dive,24,2018-11-10,2018-12-29,78,7
+122,1950,King Princess,25,2018-07-28,2018-09-29,78,9
+123,Can't Deny Me,Pearl Jam,23,2018-03-31,2018-05-05,73,6
+124,False Confidence,Noah Kahan,20,2018-12-01,2018-12-29,71,5
+125,Sky Full Of Song,Florence + The Machine,29,2018-10-06,2018-11-24,70,8
+126,Movement,Hozier,9,2018-12-15,2018-12-29,67,3
+127,Make Me Feel,Janelle Monae,33,2018-03-24,2018-06-09,67,12
+128,Don't Make Me Wait,Sting & Shaggy,29,2018-02-17,2018-04-07,66,8
+129,Cannonball,ZZ Ward Featuring Fantastic Negrito,25,2018-01-03,2018-01-27,65,5
+130,Power Over Me,Dermot Kennedy,22,2018-11-24,2018-12-29,64,6
+131,Sleep On The Floor,The Lumineers,24,2018-01-03,2018-02-10,63,7
+132,Empress,Snow Patrol,29,2018-09-01,2018-10-27,63,8
+133,On The Lips,JD McPherson,30,2018-02-17,2018-04-07,63,8
+134,Superposition,Young The Giant,23,2018-12-01,2018-12-29,61,5
+135,Tonight Tonight,Mondo Cozmo,28,2018-08-04,2018-09-29,54,9
+136,Midnight Lorry,Dispatch,32,2018-06-09,2018-08-11,53,10
+137,Two High,Moon Taxi,15,2018-01-03,2018-01-06,52,2
+138,Happier,Marshmello & Bastille,28,2018-11-17,2018-12-29,52,7
+139,Around The World,Kings Of Leon,28,2018-01-06,2018-02-10,51,6
+140,Total Disaster,Rhett Miller,28,2018-11-10,2018-12-22,50,7
+141,Short Court Style,Natalie Prass,32,2018-05-05,2018-06-30,50,9
+142,End Of The World With You,Calexico,27,2018-01-03,2018-02-03,49,6
+143,So Tied Up,Cold War Kids Featuring Bishop Briggs,17,2018-01-03,2018-01-06,47,2
+144,Move,Milo Greene,30,2018-10-27,2018-12-08,47,7
+145,Africa,Weezer,31,2018-06-30,2018-09-29,46,11
+146,Hide,Rainbow Kitten Surprise,32,2018-11-10,2018-12-29,43,8
+147,Losing All Sense,Grizzly Bear,27,2018-01-03,2018-01-27,42,5
+148,When The Curtain Falls,Greta Van Fleet,30,2018-08-18,2018-10-06,42,6
+149,Under The Wheels,Calexico,31,2018-03-03,2018-05-19,42,9
+150,Fine Line,Parker Millsap,31,2018-05-12,2018-07-14,41,9
+151,Faded Heart,BORNS,22,2018-01-03,2018-01-06,36,2
+152,Matter Of Time,Sharon Jones And The Dap-Kings,30,2018-01-03,2018-02-03,36,5
+153,Tell Me Why,John Butler Trio,34,2018-10-20,2018-12-08,36,8
+154,Brooklyn In The Summer,Aloe Blacc,32,2018-07-14,2018-08-18,35,6
+155,Lucky Penny,JD McPherson,29,2018-01-03,2018-01-13,32,3
+156,You,Morgan Saint,31,2018-01-27,2018-03-03,31,6
+157,Pink Lemonade,James Bay,33,2018-04-28,2018-06-02,31,6
+158,Broken Headlights,Roscoe & Etta,33,2018-09-08,2018-10-13,30,6
+159,I Know What It's Like,Jeff Tweedy,25,2018-12-22,2018-12-29,29,2
+160,Plastic Soul,Mondo Cozmo,29,2018-01-06,2018-02-17,29,7
+161,You're The One,Greta Van Fleet,31,2018-12-08,2018-12-29,29,4
+162,Baby Outlaw,Elle King,27,2018-12-15,2018-12-29,27,3
+163,Like A Motherless Child,Moby,33,2018-01-13,2018-02-17,23,5
+164,Salvation,The Strumbellas,28,2018-12-22,2018-12-29,19,2
+165,Little Light,Amos Lee,33,2018-12-15,2018-12-29,18,3
+166,Home,morgxn Featuring WALK THE MOON,30,2018-12-22,2018-12-29,16,2
+167,Mansion Door,Shakey Graves,37,2018-10-13,2018-11-03,14,4
+168,Midnight Train To Memphis,Chris Stapleton,36,2018-02-17,2018-03-10,13,4
+169,Armor,Sara Bareilles,36,2018-12-08,2018-12-29,13,4
+170,The Heart Is A Muscle,Gang Of Youths,37,2018-06-23,2018-07-21,10,5
+171,Where's My Love,SYML,37,2018-05-12,2018-05-26,9,3
+172,Caesar Rock,Paul McCartney,36,2018-10-13,2018-10-20,7,2
+173,Kings & Queens,Mat Kearney,37,2018-04-21,2018-04-28,7,2
+174,Heart Killer,Dr. Dog,36,2018-06-23,2018-06-23,5,1
+175,Wild Love,James Bay,36,2018-03-17,2018-03-17,5,1
+176,Go Out Fighting,Dr. Dog,38,2018-03-31,2018-04-14,5,2
+177,Bones Of Saints,Robert Plant,38,2018-01-03,2018-01-13,5,2
+178,I Said Hi,Amy Shark,38,2018-07-14,2018-07-28,5,3
+179,Highway Tune,Greta Van Fleet,39,2018-01-13,2018-02-03,4,2
+180,Need Your Love,Curtis Harding,39,2018-03-17,2018-03-24,4,2
+181,Bambi,Hippo Campus,39,2018-11-10,2018-11-17,3,2
+182,Over And Over And Over,Jack White,39,2018-04-28,2018-04-28,2,1
+183,Good On You Son,Mark Knopfler,39,2018-11-17,2018-11-17,2,1
+184,Shelter,Broken Bells,39,2018-12-29,2018-12-29,2,1
+185,Kids These Days,Shakey Graves,40,2018-04-21,2018-04-28,2,2
+186,Funny Business,Alice Merton,40,2018-12-22,2018-12-29,2,2
+187,On And On,Curtis Harding,40,2018-01-03,2018-01-20,2,2
+188,Cumberland Gap,Jason Isbell And The 400 Unit,40,2018-10-06,2018-10-06,1,1
+189,Be Alright,Dean Lewis,40,2018-10-20,2018-10-20,1,1
