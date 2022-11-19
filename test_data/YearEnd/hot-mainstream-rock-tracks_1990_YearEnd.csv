@@ -1,0 +1,309 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,What It Takes,Aerosmith,1,1990-01-13,1990-05-19,1493,19
+2,Hard To Handle,The Black Crowes,1,1990-10-06,1990-12-29,1490,13
+3,Cradle Of Love,Billy Idol,1,1990-05-05,1990-08-04,1452,14
+4,Doubleback,ZZ Top,1,1990-05-12,1990-08-04,1327,13
+5,Good Clean Fun,The Allman Brothers Band,1,1990-07-07,1990-10-20,1301,16
+6,Coming Of Age,Damn Yankees,1,1990-03-17,1990-06-23,1299,15
+7,Hurting Kind,Robert Plant,1,1990-03-17,1990-06-09,1243,13
+8,Holy Water,Bad Company,1,1990-06-02,1990-09-08,1233,15
+9,The Other Side,Aerosmith,1,1990-06-16,1990-09-29,1232,16
+10,Across The River,Bruce Hornsby & The Range,1,1990-06-16,1990-09-15,1178,14
+11,Suicide Blonde,INXS,1,1990-09-08,1990-11-10,1167,10
+12,Blaze Of Glory,Jon Bon Jovi,1,1990-07-21,1990-10-06,1156,12
+13,Brickyard Road,Johnny Van Zant,1,1990-07-14,1990-09-29,1102,12
+14,Black Velvet,Alannah Myles,1,1990-01-06,1990-04-07,1101,14
+15,Texas Twister,Little Feat,1,1990-04-07,1990-06-23,1074,12
+16,"Baby, It's Tonight",Jude Cole,3,1990-03-24,1990-07-14,1057,17
+17,One And Only Man,Steve Winwood,1,1990-11-03,1990-12-29,1053,9
+18,Bad Love,Eric Clapton,1,1990-01-06,1990-04-14,1049,15
+19,The Heart Of The Matter,Don Henley,2,1990-02-17,1990-05-26,1038,15
+20,My Head's In Mississippi,ZZ Top,1,1990-10-27,1990-12-29,1020,10
+21,Days Like These,Asia,2,1990-08-18,1990-10-27,998,11
+22,She's My Baby,Traveling Wilburys,2,1990-10-27,1990-12-29,986,10
+23,High Enough,Damn Yankees,2,1990-09-08,1990-12-29,968,17
+24,No Alibis,Eric Clapton,4,1990-02-24,1990-06-09,946,16
+25,Blue Sky Mine,Midnight Oil,1,1990-02-17,1990-05-19,942,14
+26,Concrete And Steel,ZZ Top,1,1990-10-06,1990-12-01,917,9
+27,The Deeper The Love,Whitesnake,4,1990-01-20,1990-04-07,915,12
+28,Almost Hear You Sigh,The Rolling Stones,1,1990-01-20,1990-04-14,898,13
+29,Jealous Again,The Black Crowes,5,1990-02-24,1990-07-28,871,23
+30,Wild Child,Heart,3,1990-04-14,1990-07-28,860,16
+31,Cliffs Of Dover,Eric Johnson,5,1990-08-04,1990-12-29,820,22
+32,I Think I Love You Too Much,The Jeff Healey Band,5,1990-05-26,1990-09-01,814,15
+33,I Wish It Would Rain Down,Phil Collins,5,1990-01-06,1990-04-07,800,14
+34,Save Me,Fleetwood Mac,3,1990-04-07,1990-06-02,759,9
+35,A Night On The Town,Bruce Hornsby & The Range,4,1990-08-04,1990-10-27,752,13
+36,Come Again,Damn Yankees,5,1990-06-02,1990-09-15,749,16
+37,A Face In The Crowd,Tom Petty,5,1990-01-27,1990-05-05,744,15
+38,If You Needed Somebody,Bad Company,3,1990-10-27,1990-12-29,740,10
+39,Boys Cry Tough,Bad Company,3,1990-08-11,1990-10-27,736,12
+40,All I Wanna Do Is Make Love To You,Heart,2,1990-03-31,1990-05-19,728,8
+41,Mansion On The Hill,Neil Young With Crazy Horse,3,1990-09-15,1990-11-17,717,10
+42,Can't Get Enuff,Winger,6,1990-07-14,1990-10-20,700,15
+43,Tie Dye On The Highway,Robert Plant,6,1990-03-31,1990-07-14,693,16
+44,Can't Stop Fallin' Into Love,Cheap Trick,4,1990-07-21,1990-09-22,689,10
+45,No Myth,Michael Penn,5,1990-01-06,1990-03-31,662,13
+46,Anytime,McAuley Schenker Group,5,1990-01-06,1990-03-24,661,12
+47,Civil War,Guns N' Roses,4,1990-08-04,1990-10-13,660,11
+48,Unskinny Bop,Poison,5,1990-07-07,1990-09-29,653,13
+49,Yer So Bad,Tom Petty,5,1990-04-21,1990-07-14,639,13
+50,Type,Living Colour,5,1990-09-08,1990-11-03,634,9
+51,Never Do That,Pretenders,5,1990-05-19,1990-07-28,626,11
+52,Downtown Train,Rod Stewart,1,1990-01-06,1990-02-10,624,6
+53,Just Came Back,Colin James,7,1990-06-30,1990-09-29,624,14
+54,Something To Believe In,Poison,5,1990-10-06,1990-12-29,608,13
+55,Thunderstruck,AC/DC,5,1990-09-29,1990-12-01,591,10
+56,Blues Before And After,The Smithereens,7,1990-02-10,1990-05-12,580,14
+57,Peace In Our Time,Eddie Money,2,1990-01-06,1990-02-10,576,6
+58,A Girl Like You,The Smithereens,3,1990-01-06,1990-03-10,572,10
+59,King Of Dreams,Deep Purple,6,1990-10-13,1990-12-29,551,12
+60,I'll See You In My Dreams,Giant,7,1990-03-31,1990-07-14,550,16
+61,Before You Accuse Me,Eric Clapton,9,1990-05-05,1990-08-18,544,16
+62,You're Amazing,Robert Palmer,5,1990-11-17,1990-12-29,539,7
+63,Telephone Song,Vaughan Brothers,4,1990-10-27,1990-12-29,521,10
+64,House Of Broken Love,Great White,7,1990-01-06,1990-04-21,506,16
+65,Disappear,INXS,7,1990-11-03,1990-12-29,505,9
+66,While My Guitar Gently Weeps,The Jeff Healey Band,7,1990-08-11,1990-12-01,497,17
+67,Shelter Me,Cinderella,5,1990-11-17,1990-12-29,489,7
+68,Still Got The Blues,Gary Moore,9,1990-09-15,1990-12-29,472,16
+69,Twice As Hard,The Black Crowes,11,1990-06-30,1990-10-20,472,17
+70,"Tease Me, Please Me",Scorpions,8,1990-11-03,1990-12-29,461,9
+71,Moneytalks,AC/DC,5,1990-11-10,1990-12-29,445,8
+72,Life In Detail,Robert Palmer,7,1990-03-10,1990-05-05,445,9
+73,I Can't Explain,Scorpions,5,1990-01-06,1990-03-10,436,10
+74,Can't Find My Way Home,House Of Lords,10,1990-09-08,1990-12-29,430,17
+75,Live It Up,REO Speedwagon,6,1990-08-11,1990-10-06,410,9
+76,Love Is Dangerous,Fleetwood Mac,7,1990-04-28,1990-07-07,405,11
+77,Young Lust,Bryan Adams,7,1990-09-08,1990-11-03,404,9
+78,Jealous,Gene Loves Jezebel,12,1990-07-14,1990-10-20,404,15
+79,How Bad Do You Want It?,Don Henley,8,1990-06-30,1990-09-08,397,11
+80,Your Ma Said You Cried In Your ...,Robert Plant,8,1990-06-09,1990-09-01,397,13
+81,Every Little Thing,Jeff Lynne,9,1990-06-02,1990-08-04,381,10
+82,7 O'Clock,The London Quireboys,15,1990-03-24,1990-06-16,379,13
+83,The Way It Is,Tesla,13,1990-02-17,1990-05-12,378,13
+84,Live It Up,"Crosby, Stills & Nash",7,1990-06-09,1990-08-04,373,9
+85,Miles Away,Winger,14,1990-10-06,1990-12-29,373,13
+86,Don't Go Away Mad (Just Go Away),Motley Crue,13,1990-05-12,1990-08-11,372,14
+87,No More,Neil Young,7,1990-01-06,1990-03-17,369,11
+88,Fly To The Angels,Slaughter,15,1990-08-04,1990-10-27,358,13
+89,Cuts You Up,Peter Murphy,10,1990-02-17,1990-05-12,356,13
+90,Tick Tock,Vaughan Brothers,7,1990-09-29,1990-11-10,346,7
+91,Travelling Riverside Blues,Led Zeppelin,7,1990-10-20,1990-12-08,346,8
+92,I Go To Extremes,Billy Joel,10,1990-01-20,1990-03-24,337,10
+93,Forgotten Years,Midnight Oil,11,1990-04-21,1990-07-07,337,12
+94,Sometimes She Cries,Warrant,11,1990-01-20,1990-03-31,330,11
+95,Love Song,Tesla,7,1990-01-06,1990-03-03,327,9
+96,Best Of What I Got,Bad English,9,1990-01-06,1990-03-10,327,10
+97,The Road To Hell,Chris Rea,11,1990-02-10,1990-04-14,326,10
+98,Love Is The Ritual,Styx,9,1990-09-29,1990-11-17,324,8
+99,Show Don't Tell,Rush,1,1990-01-06,1990-02-03,322,5
+100,How Much Love,Vixen,11,1990-07-28,1990-10-13,316,12
+101,Metropolis,The Church,11,1990-03-17,1990-05-26,315,11
+102,Without You,Motley Crue,11,1990-02-17,1990-04-28,308,11
+103,Pretending,Eric Clapton,5,1990-01-06,1990-02-10,307,6
+104,Kiss This Thing Goodbye,Del Amitri,17,1990-03-24,1990-07-07,306,16
+105,Figure Of Eight,Paul McCartney,8,1990-01-06,1990-02-24,298,8
+106,All Lips N' Hips,Electric Boys,16,1990-05-05,1990-07-28,298,13
+107,99 Worlds,Peter Wolf,9,1990-02-24,1990-04-07,286,7
+108,Signs,Tesla,8,1990-11-24,1990-12-29,283,6
+109,The Forecast,The Robert Cray Band,11,1990-09-15,1990-11-17,281,10
+110,Forever,KISS,17,1990-02-10,1990-04-21,281,11
+111,For You,The Outfield,13,1990-11-03,1990-12-29,277,9
+112,Seven Turns,The Allman Brothers Band,12,1990-09-15,1990-11-10,276,9
+113,Child Of The Wild Blue Yonder,John Hiatt,17,1990-06-23,1990-09-15,274,13
+114,If Dirt Were Dollars,Don Henley,8,1990-01-06,1990-02-24,273,8
+115,The Road,The Alarm,16,1990-11-03,1990-12-29,273,9
+116,Oh Pretty Woman,Gary Moore,15,1990-06-02,1990-08-18,272,12
+117,Love That Never Dies,The Byrds,14,1990-11-03,1990-12-29,267,9
+118,The Pass,Rush,15,1990-03-03,1990-05-12,266,11
+119,Walks Like A Woman,Baton Rouge,22,1990-04-14,1990-07-07,266,13
+120,Mother Earth/Third Stone From The Sun,Santana,14,1990-07-14,1990-09-08,261,9
+121,Sweet Soul Sister,The Cult,14,1990-01-20,1990-03-24,261,10
+122,Love And Affection,Nelson,20,1990-07-21,1990-10-13,261,13
+123,Presto,Rush,14,1990-01-06,1990-03-24,258,12
+124,Joey,Concrete Blonde,20,1990-06-23,1990-09-22,257,14
+125,Up All Night,Slaughter,21,1990-03-03,1990-05-26,254,13
+126,This & That,Michael Penn,16,1990-03-31,1990-06-16,251,12
+127,Hungry,Lita Ford,14,1990-05-26,1990-07-21,250,9
+128,Chain Of Fools,Little Caesar,17,1990-05-19,1990-07-21,249,10
+129,I Didn't Want To Need You,Heart,13,1990-06-30,1990-08-25,248,9
+130,I'm Seventeen,Tommy Conwell And The Young Rumblers,15,1990-09-22,1990-11-17,247,9
+131,Better Days,Gun,19,1990-02-17,1990-05-05,247,12
+132,Lovin' You's A Dirty Job,Ratt,18,1990-08-25,1990-10-20,236,9
+133,Cherry Pie,Warrant,19,1990-09-08,1990-11-03,232,9
+134,Innocent Days,Giant,11,1990-01-06,1990-02-24,228,8
+135,Lone Wolf,Havana Black,17,1990-02-03,1990-03-31,228,9
+136,Heaven Is A 4 Letter Word,Bad English,12,1990-04-14,1990-06-02,225,8
+137,Terrifying,The Rolling Stones,8,1990-01-06,1990-02-03,224,5
+138,It's Love,King's X,12,1990-11-10,1990-12-29,224,8
+139,Way Down Now,World Party,21,1990-05-19,1990-07-28,223,11
+140,L.A. Woman,Billy Idol,18,1990-07-28,1990-09-29,222,10
+141,All Over But The Cryin',The Georgia Satellites,17,1990-01-06,1990-03-17,220,11
+142,The Ballad Of Jayne,L.A. Guns,25,1990-04-14,1990-06-30,214,12
+143,Keep On Loving Me Baby,Colin James,21,1990-10-20,1990-12-29,210,11
+144,"Just The Way It Is, Baby",The Rembrandts,15,1990-11-10,1990-12-29,208,8
+145,Last Plane Out,Toy Matinee,23,1990-09-22,1990-12-01,204,11
+146,Gimme Your Good Lovin',Diving For Pearls,21,1990-01-06,1990-03-03,203,9
+147,All For You,David Baerwald,22,1990-05-26,1990-07-28,201,10
+148,Only My Heart Talkin',Alice Cooper,19,1990-03-31,1990-05-19,200,8
+149,Monkey On My Back,Aerosmith,17,1990-04-14,1990-06-09,199,9
+150,Empire,Queensryche,22,1990-09-22,1990-11-24,198,10
+151,Devolution Workin' Man Blues,The Alarm,9,1990-01-06,1990-02-10,195,6
+152,Too Late To Say Goodbye,Richard Marx,17,1990-01-20,1990-03-10,195,8
+153,The Obvious Child,Paul Simon,21,1990-10-13,1990-12-15,190,10
+154,Now You're Gone,Whitesnake,15,1990-05-05,1990-06-23,189,8
+155,Full Circle,The Jeff Healey Band,16,1990-11-17,1990-12-29,188,7
+156,Epic,Faith No More,25,1990-07-14,1990-09-22,188,11
+157,Knockin' On Heaven's Door,Guns N' Roses,18,1990-07-21,1990-09-15,186,9
+158,The House Is Rockin',Stevie Ray Vaughan And Double Trouble,18,1990-01-06,1990-02-17,181,7
+159,Haunted Heart,Alias,18,1990-06-30,1990-08-25,178,9
+160,Yesterday Girl,The Smithereens,20,1990-05-26,1990-07-21,178,9
+161,Woman In Love,Little Feat,21,1990-06-23,1990-08-11,176,8
+162,House Of Pain,Faster Pussycat,23,1990-03-31,1990-06-02,176,10
+163,Toy Soldier,Riverdogs,26,1990-06-16,1990-08-11,175,9
+164,"Miracle (From ""Young Guns II"")",Jon Bon Jovi,20,1990-10-06,1990-11-24,173,8
+165,I Remember You,Skid Row,23,1990-01-06,1990-02-24,173,8
+166,Give It To Me Good,Trixter,26,1990-09-29,1990-12-15,173,12
+167,Love Is,Alannah Myles,19,1990-05-12,1990-06-23,167,7
+168,King Of The Mountain,Midnight Oil,20,1990-07-21,1990-09-08,166,8
+169,New York Minute,Don Henley,24,1990-11-03,1990-12-29,166,9
+170,Stranger Than Paradise,Sleeze Beez,21,1990-04-21,1990-06-16,161,9
+171,Your Own Sweet Way,The Notting Hillbillies,20,1990-03-10,1990-04-28,159,8
+172,Fly High Michelle,Enuff Z'Nuff,27,1990-01-20,1990-03-24,159,10
+173,Unbelievable,Bob Dylan,21,1990-09-29,1990-11-03,158,6
+174,Righteous,Eric Johnson,14,1990-11-24,1990-12-29,154,6
+175,Mama Help Me,Edie Brickell & New Bohemians,26,1990-11-17,1990-12-29,150,7
+176,Fool For Your Loving,Whitesnake,7,1990-01-06,1990-01-27,148,4
+177,Hangin' By A Thread,Company Of Wolves,26,1990-08-18,1990-10-06,148,8
+178,True Blue Love,Lou Gramm,23,1990-02-10,1990-04-07,147,9
+179,Dirty Deeds,Joan Jett,23,1990-01-20,1990-03-03,146,7
+180,Last Time In Paris,Queensryche,27,1990-07-14,1990-09-01,141,8
+181,Stranded,Heart,25,1990-10-20,1990-12-08,139,8
+182,Just Between You And Me,Lou Gramm,11,1990-01-06,1990-02-03,136,5
+183,Let Love Rule,Lenny Kravitz,23,1990-01-06,1990-02-17,136,7
+184,Love Can Make You Blind,Every Mother's Nightmare,22,1990-10-27,1990-12-29,133,7
+185,Drop The Gun,Kings Of The Sun,30,1990-05-05,1990-07-07,133,10
+186,Pretty Pink Rose,Adrian Belew And David Bowie,24,1990-05-19,1990-06-30,132,7
+187,Nothing Compares 2 U,Sinead O'Connor,23,1990-03-31,1990-05-12,130,7
+188,Real Real Gone,Van Morrison,18,1990-12-01,1990-12-29,129,5
+189,Hearts Are Gonna Roll,Johnny Van Zant,24,1990-10-06,1990-11-17,129,7
+190,Been Caught Stealing,Jane's Addiction,29,1990-10-20,1990-12-29,128,11
+191,"Tall, Dark Handsome Stranger",Heart,24,1990-04-28,1990-10-13,126,8
+192,Deliverance,The Mission U.K.,27,1990-04-07,1990-05-26,125,8
+193,Kickstart My Heart,Motley Crue,19,1990-01-06,1990-02-10,124,6
+194,Wicked Sensation,Lynch Mob,31,1990-11-17,1990-12-29,124,7
+195,Runaway,Damn Yankees,16,1990-12-08,1990-12-29,121,4
+196,Mirror Mirror,Don Dokken,26,1990-09-01,1990-10-20,120,8
+197,That's Not Her Style,Billy Joel,18,1990-01-06,1990-02-03,119,5
+198,Call Of The Wild,Company Of Wolves,26,1990-02-10,1990-03-24,119,7
+199,Brave New World,Michael Penn,26,1990-07-28,1990-09-15,116,8
+200,I Saw Red,Warrant,19,1990-12-01,1990-12-29,112,5
+201,Give It Up,Hothouse Flowers,29,1990-06-30,1990-08-18,110,8
+202,A Touch Of Evil,Judas Priest,29,1990-11-10,1990-12-29,109,8
+203,Wait For You,Bonham,19,1990-01-06,1990-02-03,106,5
+204,High Landrons,Eric Johnson,31,1990-04-21,1990-06-09,106,8
+205,Me & Elvis,Human Radio,32,1990-06-23,1990-08-04,103,7
+206,Guilty,Bonham,29,1990-01-06,1990-02-17,101,7
+207,Don't Be Afraid Of The Dark,Y&T,31,1990-05-26,1990-07-14,101,8
+208,Dream On,Britny Fox,34,1990-02-10,1990-04-07,101,9
+209,"The Downeaster ""Alexa""",Billy Joel,33,1990-04-14,1990-06-02,99,8
+210,Let Me Go,Melissa Etheridge,14,1990-01-06,1990-02-03,98,5
+211,A Hard Rain's A Gonna Fall,Edie Brickell & New Bohemians,28,1990-01-27,1990-03-03,97,6
+212,F.I.N.E.,Aerosmith,14,1990-01-06,1990-01-20,95,3
+213,I Would Love To,Steve Vai,38,1990-09-01,1990-11-24,95,13
+214,Price Of Love,Bad English,30,1990-01-27,1990-03-17,94,8
+215,Love Me Two Times,Aerosmith,27,1990-08-25,1990-09-29,92,6
+216,Same Ol' Situation (S.O.S.),Motley Crue,34,1990-08-18,1990-10-06,91,8
+217,The Nature Of Love,Poco,30,1990-03-03,1990-04-07,88,6
+218,I Said A Prayer,The Red House,30,1990-08-11,1990-09-22,87,7
+219,Put The Message In The Box,World Party,33,1990-08-04,1990-09-22,86,8
+220,Back To Shalla-Bal,Joe Satriani,31,1990-02-10,1990-03-24,84,7
+221,Never Enough,The Cure,33,1990-09-29,1990-11-10,83,7
+222,Back To Square One,Ernie Isley,31,1990-06-09,1990-07-14,79,6
+223,Let Me Love You Too,Tommy Conwell And The Young Rumblers,26,1990-12-08,1990-12-29,78,4
+224,New Orleans Is Sinking,The Tragically Hip,30,1990-03-31,1990-05-05,78,6
+225,The Angels,Melissa Etheridge,34,1990-03-03,1990-04-14,78,7
+226,Something Happened On The Way To Heaven,Phil Collins,34,1990-08-11,1990-09-22,77,7
+227,Time For Letting Go,Jude Cole,33,1990-07-21,1990-08-25,76,6
+228,Down On The Riverbed,Los Lobos,33,1990-09-15,1990-10-20,76,6
+229,Birthday,Paul McCartney,35,1990-10-27,1990-12-08,75,7
+230,Higher Ground,Red Hot Chili Peppers,26,1990-01-06,1990-02-03,73,5
+231,Love Don't Come Easy,The Alarm,33,1990-02-10,1990-03-24,73,7
+232,I Believe,Joe Satriani,36,1990-04-14,1990-05-26,71,7
+233,Another Day In Paradise,Phil Collins,13,1990-01-06,1990-01-20,69,3
+234,Back 'N Blue,Cheap Trick,32,1990-09-29,1990-10-27,68,5
+235,Prodigal Blues,Billy Idol,37,1990-11-24,1990-12-29,64,6
+236,Best I Can,Queensryche,30,1990-12-08,1990-12-29,62,4
+237,Spend My Life,Slaughter,32,1990-12-01,1990-12-29,60,5
+238,Crime In The City,Neil Young,34,1990-03-24,1990-04-28,60,6
+239,Love Is A Rock,REO Speedwagon,31,1990-10-13,1990-11-10,59,5
+240,Cowgirl,Sons Of Angels,35,1990-06-16,1990-07-21,58,6
+241,Candy,Iggy Pop With Kate Pierson,36,1990-10-20,1990-12-29,58,8
+242,Janie's Got A Gun,Aerosmith,25,1990-01-06,1990-01-20,54,3
+243,Big Lie,Rik Emmett,28,1990-12-15,1990-12-29,54,3
+244,Love Is A Long Road,Tom Petty,31,1990-01-06,1990-02-03,54,5
+245,Superconductor,Rush,37,1990-05-19,1990-06-23,54,6
+246,Turn The Volume Up,Robin Trower,38,1990-03-03,1990-03-31,49,5
+247,After The Rain,Nelson,39,1990-11-24,1990-12-29,48,6
+248,"Brother, Don't You Walk Away",Hooters,37,1990-01-27,1990-02-24,47,5
+249,The Other Kind,Steve Earle,37,1990-07-14,1990-08-11,47,5
+250,Too Hot,Loverboy,27,1990-01-06,1990-01-20,45,3
+251,Night And Day,U2,34,1990-11-10,1990-12-08,43,5
+252,Closer To The Flame,Dave Edmunds,38,1990-03-10,1990-04-07,41,5
+253,I Cried,Robert Plant,39,1990-04-07,1990-05-12,40,6
+254,House Of Fire,Alice Cooper,39,1990-01-13,1990-02-24,39,7
+255,Big Love,Robert Plant,35,1990-04-07,1990-04-28,38,4
+256,Consequences,The Robert Cray Band,38,1990-12-08,1990-12-29,37,4
+257,What's Happened To You,The Call,39,1990-10-13,1990-11-03,35,4
+258,Give It Up,ZZ Top,34,1990-12-22,1990-12-29,34,2
+259,Skies The Limit,Fleetwood Mac,40,1990-07-28,1990-08-18,33,4
+260,Judgment Day,Whitesnake,33,1990-01-06,1990-01-13,32,2
+261,Falling To Pieces,Faith No More,40,1990-10-13,1990-11-10,32,5
+262,Rise To It,KISS,40,1990-06-16,1990-07-07,30,4
+263,Flying Under Radar,Jerry Harrison: Casual Gods,42,1990-06-02,1990-06-23,30,4
+264,Over And Over,Neil Young With Crazy Horse,42,1990-12-08,1990-12-29,29,4
+265,Hey You,Paul Carrack,37,1990-11-17,1990-12-01,28,3
+266,Tattooed Millionaire,Bruce Dickinson,42,1990-07-07,1990-08-04,28,5
+267,What Are You Doing With A Fool Like Me,Joe Cocker,44,1990-06-02,1990-07-07,28,6
+268,Pride,Living Colour,42,1990-11-24,1990-12-15,27,4
+269,Bang Bang,Danger Danger,39,1990-06-16,1990-06-30,26,3
+270,500 Miles,Hooters,34,1990-01-06,1990-01-13,25,2
+271,Run So Far,Eric Clapton,40,1990-08-11,1990-09-01,25,4
+272,Just A Little Light,Grateful Dead,41,1990-01-13,1990-02-10,24,5
+273,Le Motion,The Front,41,1990-05-05,1990-05-26,23,4
+274,Angel With A Dirty Face,Lou Gramm,42,1990-05-19,1990-06-09,23,4
+275,Inside Out,Traveling Wilburys,40,1990-12-22,1990-12-29,22,2
+276,Hey Jude,Paul McCartney,41,1990-08-25,1990-09-08,22,3
+277,Out With The Boys,Lord Tracy,40,1990-01-06,1990-01-13,20,2
+278,Dance,David Baerwald,42,1990-09-15,1990-10-06,20,4
+279,Remember My Name,House Of Lords,43,1990-12-15,1990-12-29,20,3
+280,Fire,The Front,44,1990-03-03,1990-03-17,20,3
+281,Rockin' In The Free World,Neil Young,37,1990-01-06,1990-01-13,19,2
+282,Big Bad Moon,Joe Satriani,38,1990-01-06,1990-01-13,19,2
+283,The Emperor's New Clothes,Sinead O'Connor,40,1990-05-26,1990-06-09,18,3
+284,I'm Not Scared,Raindogs,44,1990-04-14,1990-04-28,18,3
+285,Free Fallin',Tom Petty,42,1990-01-06,1990-01-13,16,2
+286,Head On,The Jesus And Mary Chain,45,1990-03-10,1990-03-31,16,4
+287,Why Do You Think They Call It Dope,Love/Hate,46,1990-09-22,1990-10-13,15,4
+288,Home,Iggy Pop,46,1990-08-04,1990-09-01,15,5
+289,We Got Married,Paul McCartney,43,1990-03-17,1990-03-31,13,3
+290,Wall Of Denial,Stevie Ray Vaughan And Double Trouble,46,1990-04-07,1990-04-21,12,3
+291,If Anybody Had A Heart,"Crosby, Stills & Nash",44,1990-08-25,1990-09-01,10,2
+292,SSS & Q,Robert Plant,47,1990-08-18,1990-09-01,10,3
+293,Hide Your Heart,KISS,43,1990-01-06,1990-01-13,9,2
+294,Decadence Dance,Extreme,45,1990-09-01,1990-09-08,9,2
+295,Rock And A Hard Place,The Rolling Stones,46,1990-01-06,1990-01-13,9,2
+296,The Only One I Know,The Charlatans UK,48,1990-12-15,1990-12-29,9,3
+297,The Last Worthless Evening,Don Henley,44,1990-01-06,1990-01-06,7,1
+298,Book Of Dreams,Suzanne Vega,47,1990-05-12,1990-05-19,7,2
+299,Bringing Me Down,Bonham,47,1990-04-28,1990-04-28,4,1
+300,It Ain't Over Yet,The Allman Brothers Band,49,1990-12-22,1990-12-29,4,2
+301,The Party Starts Now!!,Manitoba's Wild Kingdom,48,1990-06-16,1990-06-16,3,1
+302,The Boys Are Back In Town,Bon Jovi,49,1990-01-06,1990-01-06,2,1
+303,Do You Remember?,Phil Collins,49,1990-05-19,1990-05-19,2,1
+304,The Distance,Company Of Wolves,49,1990-06-09,1990-06-09,2,1
+305,I Believe,Riverdogs,50,1990-09-22,1990-09-22,1,1
+306,Mr. Cab Driver,Lenny Kravitz,50,1990-05-12,1990-05-12,1,1
+307,Fire On The Cross,Bruce Hornsby & The Range,50,1990-10-27,1990-10-27,1,1
+308,Simple Man,Junkyard,50,1990-01-06,1990-01-06,1,1

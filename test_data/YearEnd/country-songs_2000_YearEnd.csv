@@ -1,0 +1,362 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,How Do You Like Me Now?!,Toby Keith,1,2000-01-01,2000-09-02,3611,36
+2,What About Now,Lonestar,1,2000-04-15,2000-12-16,3385,36
+3,Yes!,Chad Brock,1,2000-02-19,2000-10-21,3193,36
+4,The Way You Love Me,Faith Hill,1,2000-01-15,2000-09-23,3125,37
+5,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,1,2000-03-25,2000-10-28,3101,32
+6,The Best Day,George Strait,1,2000-01-01,2000-07-15,3082,29
+7,I Will...But,SHeDAISY,2,2000-01-15,2000-11-11,2885,44
+8,My Best Friend,Tim McGraw,1,2000-01-01,2000-06-03,2732,23
+9,That's The Way,Jo Dee Messina,1,2000-05-20,2000-11-18,2725,27
+10,Cowboy Take Me Away,Dixie Chicks,1,2000-01-01,2000-06-17,2624,25
+11,It Must Be Love,Alan Jackson,1,2000-04-29,2000-10-28,2475,27
+12,Kiss This,Aaron Tippin,1,2000-05-27,2000-12-30,2456,32
+13,She's More,Andy Griggs,2,2000-01-01,2000-07-22,2448,29
+14,Best Of Intentions,Travis Tritt,1,2000-07-01,2000-12-30,2406,27
+15,Prayin' For Daylight,Rascal Flatts,3,2000-03-04,2000-09-30,2374,31
+16,Just Another Day In Paradise,Phil Vassar,1,2000-06-10,2000-12-30,2344,30
+17,Your Everything,Keith Urban,4,2000-02-26,2000-10-14,2309,34
+18,We Danced,Brad Paisley,1,2000-07-01,2000-12-30,2257,27
+19,The Chain Of Love,Clay Walker,3,2000-01-15,2000-08-05,2256,30
+20,It's Always Somethin',Joe Diffie,5,2000-02-12,2000-10-21,2250,37
+21,Buy Me A Rose,Kenny Rogers With Alison Krauss & Billy Dean,1,2000-01-01,2000-07-08,2197,28
+22,Unconditional,Clay Davidson,3,2000-01-15,2000-08-12,2129,31
+23,Feels Like Love,Vince Gill,6,2000-05-20,2000-12-23,2118,32
+24,Go On,George Strait,2,2000-07-29,2000-12-23,2074,22
+25,The Little Girl,John Michael Montgomery,1,2000-08-19,2000-12-30,2020,20
+26,Love's The Only House,Martina McBride,3,2000-01-01,2000-05-27,1997,22
+27,Couldn't Last A Moment,Collin Raye,3,2000-02-05,2000-07-22,1961,25
+28,My Next Thirty Years,Tim McGraw,1,2000-04-08,2000-12-30,1925,34
+29,Lessons Learned,Tracy Lawrence,3,2000-01-01,2000-05-20,1916,21
+30,Let's Make Love,Faith Hill With Tim McGraw,6,2000-01-15,2000-11-04,1915,39
+31,Carlene,Phil Vassar,5,2000-01-01,2000-06-17,1909,25
+32,Breathe,Faith Hill,1,2000-01-01,2000-04-15,1907,16
+33,Back At One,Mark Wills,2,2000-01-01,2000-04-29,1802,18
+34,Flowers On The Wall,Eric Heatherly,6,2000-02-26,2000-09-02,1794,28
+35,Born To Fly,Sara Evans,3,2000-07-01,2000-12-30,1791,27
+36,I Need You,LeAnn Rimes,8,2000-04-15,2000-11-11,1790,31
+37,I'll Be,Reba McEntire,4,2000-02-12,2000-08-26,1787,24
+38,Smile,Lonestar,1,2000-01-01,2000-04-15,1776,16
+39,You'll Always Be Loved By Me,Brooks & Dunn,5,2000-03-18,2000-09-30,1760,29
+40,Country Comes To Town,Toby Keith,4,2000-05-27,2000-11-04,1735,24
+41,Without You,Dixie Chicks,2,2000-03-11,2000-12-30,1691,22
+42,Been There,Clint Black With Steve Wariner,5,2000-01-15,2000-06-10,1639,22
+43,What I Need To Do,Kenny Chesney,8,2000-01-22,2000-07-08,1537,25
+44,There You Are,Martina McBride,10,2000-05-06,2000-11-25,1501,29
+45,I Lost It,Kenny Chesney,3,2000-08-19,2000-12-30,1413,20
+46,Some Things Never Change,Tim McGraw,7,2000-04-15,2000-08-26,1387,20
+47,That's The Kind Of Mood I'm In,Patty Loveless,13,2000-06-10,2000-12-16,1341,28
+48,What Do You Say,Reba,3,2000-01-01,2000-03-11,1327,11
+49,He Didn't Have To Be,Brad Paisley,2,2000-01-01,2000-03-25,1229,13
+50,That's The Beat Of A Heart,The Warren Brothers Featuring Sara Evans,22,2000-03-25,2000-09-30,1174,28
+51,Because You Love Me,Jo Dee Messina,8,2000-01-01,2000-04-22,1173,17
+52,More,Trace Adkins,10,2000-01-29,2000-07-01,1163,23
+53,A Little Gasoline,Terri Clark,13,2000-07-22,2000-12-30,1123,24
+54,When You Need My Love,Darryl Worley,15,2000-04-01,2000-09-09,1106,24
+55,Another Nine Minutes,Yankee Grey,15,2000-01-15,2000-06-10,1059,22
+56,Cold Day In July,Dixie Chicks,10,2000-05-20,2000-09-30,1051,20
+57,You Won't Be Lonely Now,Billy Ray Cyrus,17,2000-07-08,2000-12-09,1011,23
+58,It Was,Chely Wright,11,2000-01-01,2000-04-29,999,18
+59,My Love Goes On And On,Chris Cagle,15,2000-07-29,2000-12-30,988,23
+60,Blue Moon,Steve Holy,24,2000-04-22,2000-09-30,984,24
+61,www.memory,Alan Jackson,6,2000-10-07,2000-12-30,952,13
+62,Real Live Woman,Trisha Yearwood,16,2000-01-15,2000-05-27,935,20
+63,Lonely,Tracy Lawrence,18,2000-05-27,2000-10-14,907,21
+64,Tell Her,Lonestar,7,2000-09-16,2000-12-30,899,16
+65,Me Neither,Brad Paisley,18,2000-02-12,2000-06-24,892,20
+66,This Woman Needs,SHeDAISY,9,2000-01-01,2000-04-01,887,14
+67,Almost Doesn't Count,Mark Wills,19,2000-04-01,2000-08-19,872,21
+68,Meanwhile Back At The Ranch,The Clark Family Experience,18,2000-07-29,2000-12-30,856,23
+69,One Voice,Billy Gilman,20,2000-05-27,2000-10-07,852,20
+70,When You Come Back To Me Again,Garth Brooks,21,2000-05-13,2000-09-23,847,20
+71,There Is No Arizona,Jamie O'Neal,12,2000-08-12,2000-12-30,843,21
+72,The Visit,Chad Brock,21,2000-08-05,2000-12-16,830,20
+73,No Mercy,Ty Herndon,26,2000-01-22,2000-06-03,826,20
+74,I'm Holdin' On To Love (To Save My Life),Shania Twain,17,2000-07-08,2000-11-25,818,21
+75,Big Deal,LeAnn Rimes,6,2000-01-01,2000-02-19,813,8
+76,When I Said I Do,Clint Black,4,2000-01-01,2000-03-04,806,10
+77,Let's Make Sure We Kiss Goodbye,Vince Gill,20,2000-01-29,2000-06-10,803,20
+78,Katie Wants A Fast One,Steve Wariner With Garth Brooks,22,2000-06-17,2000-11-18,799,20
+79,I Can't Lie To Me,Clay Davidson,26,2000-07-29,2000-12-09,780,20
+80,Pop A Top,Alan Jackson,6,2000-01-01,2000-02-19,776,8
+81,Daddy Won't Sell The Farm,Montgomery Gentry,17,2000-01-01,2000-04-08,766,15
+82,Do What You Gotta Do,Garth Brooks,13,2000-01-15,2000-05-13,755,18
+83,Love She Can't Live Without,Clint Black,30,2000-06-24,2000-11-04,752,20
+84,We're So Good Together,Reba McEntire,20,2000-09-09,2000-12-30,739,17
+85,This Everyday Love,Rascal Flatts,13,2000-08-12,2000-12-30,726,20
+86,Unbreakable Heart,Jessica Andrews,24,2000-01-01,2000-04-22,726,17
+87,Self Made Man,Montgomery Gentry,31,2000-04-22,2000-09-02,708,20
+88,Something Like That,Tim McGraw,10,2000-01-01,2000-03-18,695,12
+89,She Ain't The Girl For You,The Kinleys,34,2000-04-01,2000-08-19,675,21
+90,"He Will, She Knows",Kenny Rogers,32,2000-07-01,2000-11-11,670,20
+91,Put Your Hand In Mine,Tracy Byrd,11,2000-01-01,2000-03-11,665,11
+92,Faith In You,Steve Wariner,28,2000-03-18,2000-07-22,653,19
+93,Lovin' You Against My Will,Gary Allan,34,2000-04-01,2000-08-12,653,20
+94,I Love You,Martina McBride,11,2000-01-01,2000-03-11,637,11
+95,Goodbye Earl,Dixie Chicks,13,2000-01-15,2000-05-13,634,18
+96,Burn,Jo Dee Messina,9,2000-10-14,2000-12-30,621,12
+97,Ashes By Now,Lee Ann Womack,11,2000-10-07,2000-12-30,588,13
+98,The Fun Of Your Love,Jennifer Day,31,2000-01-01,2000-04-15,588,16
+99,Jimmy's Got A Girlfriend,The Wilkinsons,34,2000-01-15,2000-05-27,588,20
+100,I'm Gonna Love You Anyway,Trace Adkins,36,2000-07-29,2000-12-09,578,20
+101,Stuck In Love,The Judds,26,2000-02-19,2000-07-01,565,18
+102,Every Man For Himself,Neal McCoy,37,2000-09-02,2000-12-30,555,18
+103,Just Because She Lives There,Chalee Tennison,36,2000-01-15,2000-05-13,554,18
+104,A Good Day To Run,Darryl Worley,20,2000-10-07,2000-12-30,551,13
+105,Georgia,Carolyn Dawn Johnson,27,2000-09-16,2000-12-30,536,15
+106,Smoke Rings In The Dark,Gary Allan,12,2000-01-01,2000-02-26,529,9
+107,But For The Grace Of God,Keith Urban,16,2000-10-07,2000-12-30,523,13
+108,Murder On Music Row,George Strait With Alan Jackson,38,2000-03-11,2000-07-22,523,20
+109,I Want To Know (Everything There Is To Know About You),Mark Wills,33,2000-09-16,2000-12-30,519,16
+110,Rock This Country!,Shania Twain,30,2000-01-15,2000-05-06,518,17
+111,Something To Write Home About,Craig Morgan,38,2000-02-26,2000-07-08,509,20
+112,You Made Me That Way,Andy Griggs,23,2000-09-30,2000-12-30,504,14
+113,Can't Nobody Love You (Like I Do),Wynonna,31,2000-01-01,2000-03-25,501,13
+114,I Need You All The Time,BlackHawk,40,2000-03-04,2000-07-08,500,19
+115,What I Need,Julie Reeves,38,2000-01-01,2000-04-08,480,15
+116,All Night Long,Montgomery Gentry Featuring Charlie Daniels,31,2000-09-23,2000-12-30,472,15
+117,Right Where I Need To Be,Gary Allan,39,2000-04-22,2000-12-30,471,22
+118,Paradise,Craig Morgan,46,2000-06-10,2000-10-21,449,20
+119,Beer Thirty,Brooks & Dunn,19,2000-01-01,2000-02-26,444,9
+120,"Forever Works For Me (Monday, Tuesday, Wednesday, Thursday)",Neal McCoy,38,2000-03-18,2000-07-01,437,16
+121,Small Stuff,Alabama,24,2000-01-01,2000-02-26,433,9
+122,What Do You Know About Love,Dwight Yoakam,32,2000-09-30,2000-12-30,417,14
+123,Stuff,Diamond Rio,36,2000-05-20,2000-09-09,412,17
+124,Lucky 4 You (Tonight I'm Just Me),SHeDAISY,25,2000-09-23,2000-12-30,406,14
+125,800 Pound Jesus,Sawyer Brown,40,2000-01-29,2000-05-20,406,17
+126,If You Can,Tammy Cochran,41,2000-04-08,2000-08-12,403,17
+127,When It All Goes South,Alabama,21,2000-11-04,2000-12-30,402,9
+128,You Shouldn't Kiss Me Like This,Toby Keith,18,2000-10-28,2000-12-30,400,10
+129,All Things Considered,Yankee Grey,9,2000-01-01,2000-02-05,392,6
+130,Me And Maxine,Sammy Kershaw,35,2000-01-01,2000-03-18,392,12
+131,Don't Make Me Beg,Steve Holy,29,2000-01-01,2000-02-26,388,9
+132,The Blues Man,Alan Jackson,37,2000-02-19,2000-05-27,388,15
+133,It's A Love Thing,Keith Urban,18,2000-01-01,2000-02-12,385,7
+134,Everybody's Gotta Grow Up Sometime,Sons Of The Desert,42,2000-08-12,2000-11-18,380,15
+135,Move On,The Warren Brothers,30,2000-10-14,2000-12-30,373,12
+136,"Live, Laugh, Love",Clay Walker,11,2000-01-01,2000-02-05,363,6
+137,Change,Sons Of The Desert,45,2000-03-11,2000-07-22,362,19
+138,This Time Around,Yankee Grey,43,2000-07-01,2000-09-30,355,14
+139,Live It Up,Marshall Dyllon,44,2000-09-30,2000-12-30,349,14
+140,I've Forgotten How You Feel,Sonya Isaacs,46,2000-01-22,2000-05-20,333,18
+141,Oklahoma,Billy Gilman,38,2000-10-14,2000-12-30,326,12
+142,The Quittin' Kind,Joe Diffie,21,2000-01-01,2000-02-05,320,6
+143,One More Day,Diamond Rio,26,2000-11-04,2000-12-30,307,9
+144,Goodbye Is The Wrong Way To Go,Wade Hayes,45,2000-05-06,2000-08-05,307,14
+145,Tired Of Loving This Way,Collin Raye With Bobbie Eakes,50,2000-06-24,2000-10-21,300,17
+146,Going Nowhere,Wynonna,43,2000-06-03,2000-08-26,297,13
+147,Where Are You Now,Trisha Yearwood,45,2000-06-17,2000-09-09,296,13
+148,Do I Love You Enough,Ricochet,45,2000-04-01,2000-07-08,296,15
+149,She's Gone,Ricochet,48,2000-08-19,2000-12-02,293,16
+150,I Pray For You,John Rich,53,2000-07-08,2000-11-18,290,20
+151,Things Change,Tim McGraw,36,2000-11-04,2000-12-30,280,9
+152,Wild Horses,Garth Brooks,17,2000-11-25,2000-12-30,276,6
+153,She Misses Him,Tim Rushlow,35,2000-11-04,2000-12-30,272,9
+154,The Cold Hard Truth,George Jones,45,2000-01-01,2000-04-01,272,12
+155,I Knew I Loved You,Daryle Singletary,55,2000-07-01,2000-12-09,263,20
+156,Who I Am,Jessica Andrews,28,2000-11-04,2000-12-30,261,9
+157,Pour Me,Trick Pony,37,2000-10-21,2000-12-30,258,11
+158,She Thinks My Tractor's Sexy,Kenny Chesney,11,2000-01-01,2000-01-22,257,4
+159,Breathless,River Road,45,2000-03-18,2000-07-22,255,14
+160,A Country Boy Can Survive (Y2K Version),Chad Brock With Hank Williams Jr. & George Jones,30,2000-01-01,2000-02-12,252,7
+161,"Love, You Ain't Seen The Last Of Me",Tracy Byrd,44,2000-04-01,2000-06-17,251,12
+162,God Gave Me You,Bryan White,40,2000-01-01,2000-03-04,247,10
+163,I Think You're Beautiful,Shane Minor,44,2000-02-05,2000-04-15,245,11
+164,Home To You,John Michael Montgomery,13,2000-01-01,2000-01-22,241,4
+165,Once In A Lifetime Love,Clay Walker,50,2000-08-05,2000-11-11,240,15
+166,Don't Lie,Trace Adkins,27,2000-01-01,2000-01-29,239,5
+167,You Are,John Michael Montgomery,48,2000-03-04,2000-07-01,239,16
+168,Wrong Five O'clock,Eric Heatherly,41,2000-11-04,2000-12-30,229,9
+169,Don't Make Me Come Over There And Love You,George Strait,29,2000-10-21,2000-12-30,227,11
+170,I'm In,The Kinleys,47,2000-10-28,2000-12-30,218,10
+171,"Up North (Down South, Back East, Out West)",Wade Hayes,48,2000-02-05,2000-05-06,215,12
+172,Run Away,Shane McAnally,50,2000-08-05,2000-10-21,212,11
+173,Grow Young With You,Coley McCabe With Andy Griggs,50,2000-03-04,2000-05-06,211,10
+174,Perfect World,Sawyer Brown,50,2000-06-24,2000-09-09,205,12
+175,So What,Tammy Cochran,51,2000-09-09,2000-11-25,201,12
+176,Sin Wagon,Dixie Chicks,52,2000-03-25,2000-11-25,194,18
+177,Swimming In Champagne,Eric Heatherly,46,2000-09-16,2000-11-25,191,10
+178,Take Me With You When You Go,Tracy Byrd,43,2000-09-02,2000-10-21,188,8
+179,Out Here In The Water,Rebecca Lynn Howard,54,2000-02-26,2000-05-13,188,12
+180,It's A Beautiful Thing,Paul Brandt,38,2000-01-01,2000-02-05,186,6
+181,The Hunger,Steve Holy,43,2000-11-11,2000-12-30,180,8
+182,No Place Like Home,Georgia Middleman,53,2000-07-15,2000-09-16,180,10
+183,Take A Letter Maria,Doug Stone,45,2000-01-01,2000-02-19,175,7
+184,Nothing Catches Jesus By Surprise,John Michael Montgomery,50,2000-01-22,2000-03-25,175,10
+185,Fallin' Never Felt So Good,Mark Chesnutt,52,2000-04-22,2000-06-24,175,10
+186,She's All That,Collin Raye,49,2000-11-11,2000-12-30,173,8
+187,The Look,Jerry Kilgore,49,2000-01-15,2000-03-11,168,9
+188,I Will Be,Lila McCann,47,2000-01-01,2000-02-26,167,8
+189,Scream,Mindy McCready,52,2000-11-11,2000-12-30,167,8
+190,Shame On Me,The Wilkinsons,49,2000-06-10,2000-08-05,165,9
+191,Amazed,Lonestar,17,2000-01-01,2000-01-15,162,3
+192,Deck The Halls,SHeDAISY,40,2000-01-01,2000-12-30,162,6
+193,Go Back,Chalee Tennison,47,2000-11-18,2000-12-30,158,7
+194,I'm Diggin' It,Alecia Elliott,50,2000-01-01,2000-02-19,151,7
+195,She Went Out For Cigarettes,Chely Wright,49,2000-06-10,2000-07-29,150,8
+196,Where Can I Surrender,Randy Travis,48,2000-01-29,2000-04-01,149,10
+197,Sinners & Saints,George Jones,55,2000-05-13,2000-07-29,149,12
+198,Come On Over,Shania Twain,26,2000-01-01,2000-01-15,147,3
+199,Legacy,Neal Coty,53,2000-11-11,2000-12-30,141,8
+200,Makin' Up With You,Chalee Tennison,56,2000-09-16,2000-11-04,141,8
+201,I Do Now,Jessica Andrews,53,2000-06-24,2000-08-12,140,8
+202,Nobody's Got It All,John Anderson,55,2000-09-30,2000-12-02,139,9
+203,A Little Left Of Center,Randy Travis,54,2000-04-29,2000-07-01,138,10
+204,Where Are You Christmas?,Faith Hill,33,2000-12-09,2000-12-30,133,4
+205,Good Times,Anita Cochran,50,2000-05-20,2000-07-15,126,8
+206,A Love Like That,Ty Herndon,58,2000-07-15,2000-09-09,126,9
+207,Trouble With Angels,Kathy Mattea,53,2000-04-22,2000-06-10,119,8
+208,Kiss Me Now,Lila McCann,60,2000-03-11,2000-05-13,118,10
+209,Against The Wind,Brooks & Dunn,53,2000-01-15,2000-03-11,117,8
+210,How Long,Bryan White,56,2000-10-28,2000-12-23,117,8
+211,Now That's Awesome,"Bill Engvall Featuring Tracy Byrd, Neal McCoy & T. Graham Brown",59,2000-09-02,2000-12-02,111,12
+212,Lookin' For Love,Sawyer Brown,54,2000-11-25,2000-12-30,110,6
+213,Waitin' On Sundown,Andy Griggs,50,2000-07-29,2000-09-16,104,7
+214,Here Comes My Baby,The Mavericks,56,2000-01-01,2000-03-11,96,9
+215,"Time, Love & Money",Ronnie Milsap,57,2000-07-01,2000-08-12,90,7
+216,My Hometown,Charlie Robison,65,2000-01-15,2000-04-22,85,12
+217,All I Want For Christmas Is You,Vince Vance & The Valiants,31,2000-01-01,2000-01-08,84,2
+218,There Will Come A Day,Faith Hill,59,2000-10-28,2000-12-23,84,9
+219,I Would,Jolie & The Wanted,55,2000-09-16,2000-10-28,81,7
+220,Please,Pam Tillis,46,2000-12-09,2000-12-30,79,4
+221,Honey I Do,Danni Leigh,59,2000-03-25,2000-05-13,78,7
+222,Seventeen,Tim McGraw,64,2000-07-15,2000-10-07,78,13
+223,Redneck 12 Days Of Christmas,Jeff Foxworthy,35,2000-01-01,2000-01-08,75,2
+224,Bring It On,Keith Harling,52,2000-01-01,2000-01-29,75,4
+225,Have Yourself A Merry Little Christmas,Martina McBride,53,2000-01-08,2000-12-30,74,5
+226,You Ain't Hurt Nothin' Yet,John Anderson,56,2000-04-29,2000-06-17,73,8
+227,Cracker Jack Diamond,Marty Raybon,63,2000-01-29,2000-03-25,73,9
+228,Merry Christmas From The Family,Montgomery Gentry,48,2000-12-16,2000-12-30,72,3
+229,Til' Santa's Gone (I Just Can't Wait),Clint Black,34,2000-01-01,2000-01-08,71,2
+230,Jingle Bells,SHeDAISY,57,2000-12-09,2000-12-30,71,4
+231,Lost In The Feeling,Mark Chesnutt,59,2000-09-30,2000-11-18,70,8
+232,Christmas In Dixie,Alabama,37,2000-01-01,2000-01-08,69,2
+233,"Let It Snow, Let It Snow, Let It Snow",Ricochet,39,2000-01-01,2000-01-08,68,2
+234,You With Me,Anita Cochran,61,2000-08-05,2000-09-16,67,7
+235,What Do You Want From Me Now,Billy Yates,57,2000-11-18,2000-12-30,66,6
+236,Can't Fight The Moonlight,LeAnn Rimes,61,2000-10-21,2000-12-23,66,8
+237,My Cellmate Thinks I'm Sexy,Cledus T. Judd,61,2000-08-26,2000-10-28,66,9
+238,Warm & Fuzzy,Billy Gilman,57,2000-12-09,2000-12-30,63,4
+239,The Christmas Shoes,NewSong,45,2000-12-16,2000-12-30,62,3
+240,Santa's Got A Semi,Keith Harling,60,2000-01-01,2000-12-30,61,6
+241,Sleigh Ride,Lorrie Morgan,42,2000-01-01,2000-01-08,59,2
+242,Christmas Carol,Skip Ewing,44,2000-01-01,2000-01-08,59,2
+243,I Don't Feel That Way,Danni Leigh,56,2000-07-08,2000-08-05,52,5
+244,Blue Christmas,Clay Walker,59,2000-12-09,2000-12-30,52,4
+245,Blue Collar Dollar,Jeff Foxworthy And Bill Engvall Featuring Marty Stuart,63,2000-04-15,2000-05-20,52,6
+246,Steam,Ty Herndon,25,2000-01-01,2000-01-01,51,1
+247,For My Wedding,Don Henley,61,2000-10-28,2000-12-02,50,6
+248,Here's Your Sign Christmas,Bill Engvall,46,2000-01-01,2000-01-08,48,2
+249,Grandma Got Run Over By A Reindeer,Elmo & Patsy,48,2000-01-01,2000-01-08,48,2
+250,It's A Great Day To Be Alive,Travis Tritt,59,2000-12-16,2000-12-30,48,3
+251,O Holy Night,Martina McBride,57,2000-01-08,2000-12-30,45,3
+252,When You Love Me,Tim Rushlow,60,2000-04-01,2000-04-29,44,5
+253,Goin' Under Gettin' Over You,Brooks & Dunn,60,2000-01-22,2000-04-08,41,8
+254,Twentieth Century,Alabama,51,2000-01-15,2000-01-29,39,3
+255,Sleigh Ride,Garth Brooks,54,2000-01-01,2000-01-08,39,2
+256,Can't Help Calling Your Name,Jason Sellers,64,2000-03-04,2000-04-22,39,5
+257,It's My Time,Martina McBride,52,2000-12-23,2000-12-30,37,2
+258,Little Drummer Boy,Lonestar,55,2000-12-23,2000-12-30,36,2
+259,It's The Most Wonderful Time Of The Year,Garth Brooks,56,2000-01-01,2000-01-08,34,2
+260,You Wanna What?,Alecia Elliott,70,2000-05-13,2000-07-22,33,10
+261,I Saw Mama Kissing Santa Claus,Reba,50,2000-01-01,2000-01-08,31,2
+262,Barefoot In The Grass,Sonya Isaacs,64,2000-08-19,2000-09-23,31,6
+263,Secret Of Giving,Reba,58,2000-01-01,2000-01-08,30,2
+264,Kick Down The Door,Georgia Middleman,60,2000-11-18,2000-12-02,30,3
+265,To Get To You,Lorrie Morgan,63,2000-01-22,2000-03-04,30,5
+266,We Made Love,Alabama,63,2000-05-20,2000-06-03,28,3
+267,Auld Lang Syne,Kenny G,49,2000-01-15,2000-01-15,27,1
+268,BFD,Kathy Mattea,63,2000-07-08,2000-07-29,27,4
+269,That Hurts,Paul Brandt,68,2000-02-05,2000-02-26,27,4
+270,I Got My Baby,Faith Hill,63,2000-11-25,2000-12-09,25,3
+271,She Is,Hal Ketchum,65,2000-12-02,2000-12-23,25,4
+272,Old Time Christmas,George Strait,62,2000-12-23,2000-12-30,24,2
+273,Merry Christmas From Texas Y'all,Tracy Byrd,55,2000-01-01,2000-01-08,23,2
+274,There's No Place Like Home For The Holidays,Garth Brooks,63,2000-01-01,2000-01-08,23,2
+275,I'm Gonna Be There,Victor Sanz,68,2000-06-10,2000-07-08,23,4
+276,Christmas In Your Arms,Steve Wariner,65,2000-12-23,2000-12-30,22,2
+277,New Year's Eve 1999,Alabama With Gretchen Peters,55,2000-01-15,2000-01-15,21,1
+278,We The People,Billy Ray Cyrus,60,2000-11-04,2000-11-25,21,2
+279,The Wreckin' Crew,Trini Triggs,62,2000-02-26,2000-03-11,21,3
+280,What If It's Me,Jennifer Day,67,2000-06-03,2000-06-24,20,3
+281,White Christmas,Martina McBride,69,2000-01-01,2000-12-30,20,4
+282,Silence On The Line,Chris LeDoux,65,2000-08-19,2000-09-16,18,4
+283,The End Of The World,Allison Paige,72,2000-05-13,2000-06-17,18,5
+284,White Christmas,Garth Brooks,65,2000-01-01,2000-01-08,17,2
+285,Rudolph The Red-Nosed Reindeer,Gene Autry,60,2000-01-08,2000-01-08,16,1
+286,Rockin' Around The Christmas Tree,Alabama,64,2000-01-01,2000-01-08,16,2
+287,Askin' Too Much,Tamara Walker,65,2000-03-04,2000-04-08,16,2
+288,The Christmas Song (Chestnuts Roasting On An Open Fire),Martina McBride,67,2000-12-23,2000-12-30,16,2
+289,How Do You Milk A Cow,Cledus T. Judd,67,2000-12-02,2000-12-16,16,2
+290,A Woman Gets Lonely,Lisa Angelle,62,2000-08-05,2000-08-12,15,2
+291,It Don't Matter To The Sun,Garth Brooks as Chris Gaines,62,2000-01-15,2000-01-15,14,1
+292,I Don't Know,Hank Williams III,70,2000-11-18,2000-12-09,14,3
+293,Six Tons Of Toys,Paul Brandt,66,2000-01-01,2000-01-08,13,2
+294,The Kid In Me,Craig Morgan,68,2000-12-16,2000-12-30,13,2
+295,I Don't Paint Myself Into Corners,Rebecca Lynn Howard,71,2000-09-09,2000-10-07,13,4
+296,Surprise,Doug Stone,64,2000-04-22,2000-04-22,12,1
+297,Baby Jesus Is Born,Garth Brooks,65,2000-01-01,2000-01-08,12,2
+298,If You Ever Leave Me,Barbra Streisand/Vince Gill,69,2000-01-15,2000-01-29,12,3
+299,Roly Poly,Asleep At The Wheel Featuring Dixie Chicks,65,2000-03-25,2000-03-25,11,1
+300,Don't Ever Let Me Go,Tara Lyn Hart,65,2000-03-18,2000-03-18,11,1
+301,What Children Believe,Shenandoah,65,2000-09-09,2000-09-09,11,1
+302,Think It Over,Allison Moorer,68,2000-12-02,2000-12-30,11,2
+303,Jingle Bell Rock,George Strait,69,2000-01-01,2000-01-08,11,2
+304,The Trouble With Never,Tim McGraw,72,2000-03-04,2000-04-01,11,4
+305,Send Down An Angel,Allison Moorer,66,2000-07-22,2000-07-22,10,1
+306,The Ballad Of John Rocker,Tim Wilson,66,2000-04-15,2000-04-15,10,1
+307,You Call That A Mountain,B.J. Thomas,66,2000-07-29,2000-07-29,10,1
+308,Too Much To Lose,The Kentucky Headhunters,66,2000-10-28,2000-10-28,10,1
+309,Three Little Teardrops,Joanie Keller,66,2000-03-25,2000-03-25,10,1
+310,Away In A Manger,Kenny Chesney,67,2000-01-08,2000-01-08,9,1
+311,Let's Go Chase Some Women,Michael Chain,67,2000-03-18,2000-03-18,9,1
+312,Poor Man's Son,Charlie Robison,67,2000-04-08,2000-04-08,9,1
+313,Critical List,Ray Hood,67,2000-11-11,2000-11-11,9,1
+314,"Hard To Be A Husband, Hard To Be A Wife",Brad Paisley & Chely Wright,68,2000-10-14,2000-10-28,9,2
+315,That's When You Came Along,Tara Lyn Hart,68,2000-06-17,2000-06-17,8,1
+316,It's Alright To Be A Redneck,Alan Jackson,68,2000-11-25,2000-11-25,8,1
+317,Destination Unknown,Victor Sanz,68,2000-09-23,2000-09-23,8,1
+318,I'll Be Right Here Loving You,Randy Travis,68,2000-08-19,2000-08-19,8,1
+319,Old Toy Trains,Toby Keith,68,2000-12-30,2000-12-30,8,1
+320,Santa Claus Is Comin' To Town,Lonestar,69,2000-12-30,2000-12-30,7,1
+321,Perfect Night,Billy Hoffman,69,2000-06-17,2000-06-17,7,1
+322,God Rest Ye Merry Gentlemen,Garth Brooks,69,2000-01-08,2000-01-08,7,1
+323,I Know How The River Feels,Mcalyster,69,2000-11-25,2000-11-25,7,1
+324,Didn't We Love,Tamara Walker,69,2000-10-14,2000-10-14,7,1
+325,You Can Leave Your Hat On,Ty Herndon,72,2000-01-15,2000-01-29,7,2
+326,My Favorite Things,Lorrie Morgan,70,2000-01-08,2000-01-08,6,1
+327,The Hampsterdance Song,Hampton The Hampster,70,2000-08-26,2000-08-26,6,1
+328,I've Thought Of Everything,Daryle Singletary,70,2000-12-16,2000-12-16,6,1
+329,Shoulda Shut Up,Bill Engvall Featuring Julie Reeves,71,2000-12-09,2000-12-16,6,2
+330,You're Where I Belong,Trisha Yearwood,71,2000-02-12,2000-02-12,5,1
+331,Toss A Little Bone,Confederate Railroad,71,2000-09-02,2000-09-02,5,1
+332,The Decision,Ricky Van Shelton,71,2000-06-24,2000-06-24,5,1
+333,More Of A Man,Rodney Carrington,71,2000-10-07,2000-10-07,5,1
+334,The Kid,Clint Black,71,2000-01-08,2000-01-08,5,1
+335,You Could've Had Me,Lace,71,2000-02-19,2000-02-19,5,1
+336,Willie Nelson For President,Peter Dawson,72,2000-10-21,2000-10-21,4,1
+337,Country In My Genes,Loretta Lynn,72,2000-09-23,2000-09-23,4,1
+338,Three Minute Positive Not Too Country Up-Tempo Love Song,Alan Jackson,72,2000-11-25,2000-11-25,4,1
+339,Love Bug (Bite Me),South Sixty Five,72,2000-06-03,2000-06-03,4,1
+340,Winter Wonderland,Lonestar,72,2000-12-30,2000-12-30,4,1
+341,Long Slow Beautiful Dance,Rascal Flatts,73,2000-12-02,2000-12-09,4,2
+342,The Memory Is The Last Thing To Go,B.B. Watson,73,2000-04-15,2000-04-15,3,1
+343,"Let It Snow, Let It Snow, Let It Snow",Martina McBride,73,2000-01-08,2000-01-08,3,1
+344,Tearin' It Up (And Burnin' It Down),Garth Brooks,73,2000-01-15,2000-01-15,3,1
+345,Cactus In A Coffee Can,Jerry Kilgore,73,2000-08-05,2000-08-05,3,1
+346,Your Love,Jim Brickman Featuring Michelle Wright,74,2000-01-22,2000-03-11,3,2
+347,Where I Come From,Alan Jackson,74,2000-11-25,2000-11-25,2,1
+348,I Know What I Want For Christmas,George Strait,74,2000-01-08,2000-01-08,2,1
+349,Laredo,Chris Cagle,74,2000-12-02,2000-12-02,2,1
+350,Power Windows,John Berry,74,2000-01-15,2000-01-15,2,1
+351,Runaway,Gary Allan,74,2000-01-22,2000-01-22,2,1
+352,It Never Rains In Southern California,Trent Summar & The New Row Mob,74,2000-12-30,2000-12-30,2,1
+353,Margaritaville,Alan Jackson With Jimmy Buffett,74,2000-07-15,2000-07-15,2,1
+354,Coming Up Short Again,Perfect Stranger,75,2000-04-15,2000-04-15,1,1
+355,You're The Ticket,Billy Hoffman,75,2000-12-02,2000-12-02,1,1
+356,Beauty's In The Eye Of The Beerholder,Chuck Wagon And The Wheels,75,2000-06-03,2000-06-03,1,1
+357,No Time For Tears,Jo Dee Messina,75,2000-03-18,2000-03-18,1,1
+358,I'm Lookin' For Trouble,Damon Gray,75,2000-02-12,2000-02-12,1,1
+359,Down With The Old Man (Up With The New),Randy Travis,75,2000-12-23,2000-12-23,1,1
+360,When Will I Be Loved,Rebel Hearts,75,2000-09-09,2000-09-09,1,1
+361,Have Yourself A Merry Little Christmas,Lonestar,75,2000-12-30,2000-12-30,1,1

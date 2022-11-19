@@ -1,0 +1,688 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Don't Be Cruel,Bobby Brown,1,1989-01-07,1989-12-30,12382,52
+2,Forever Your Girl,Paula Abdul,1,1989-01-07,1989-12-30,12208,52
+3,Hangin' Tough,New Kids On The Block,1,1989-01-07,1989-12-30,12068,52
+4,Girl You Know It's True,Milli Vanilli,1,1989-03-25,1989-12-30,9883,41
+5,The Raw & The Cooked,Fine Young Cannibals,1,1989-03-11,1989-12-30,9855,43
+6,Appetite For Destruction,Guns N' Roses,1,1989-01-07,1989-12-30,9564,52
+7,New Jersey,Bon Jovi,4,1989-01-07,1989-12-30,9483,52
+8,Skid Row,Skid Row,6,1989-02-11,1989-12-30,8708,47
+9,Vivid,Living Colour,6,1989-01-07,1989-12-30,8616,52
+10,Beaches,Soundtrack,2,1989-01-21,1989-12-30,8502,50
+11,G N' R Lies,Guns N' Roses,2,1989-01-07,1989-11-25,8356,47
+12,Like A Prayer,Madonna,1,1989-04-08,1989-12-30,8288,39
+13,Electric Youth,Debbie Gibson,1,1989-02-11,1989-12-30,8099,47
+14,Full Moon Fever,Tom Petty,3,1989-05-13,1989-12-30,7665,34
+15,Hysteria,Def Leppard,4,1989-01-07,1989-12-30,7550,52
+16,Winger,Winger,21,1989-01-07,1989-12-02,7517,48
+17,Dirty Rotten Filthy Stinking Rich,Warrant,10,1989-03-04,1989-12-30,7283,44
+18,Let's Get It Started,M.C. Hammer,30,1989-01-07,1989-12-30,7211,52
+19,Repeat Offender,Richard Marx,1,1989-05-20,1989-12-30,7037,33
+20,Traveling Wilburys,Traveling Wilburys,3,1989-01-07,1989-09-30,6917,39
+21,...And Justice For All,Metallica,21,1989-01-07,1989-12-30,6856,52
+22,It Takes Two,Rob Base & D.J. E-Z Rock,41,1989-01-07,1989-12-30,6753,52
+23,Loc-ed After Dark,Tone-Loc,1,1989-02-18,1989-11-18,6730,40
+24,Eazy-Duz-It,Eazy-E,41,1989-01-07,1989-12-30,6603,52
+25,Guy,Guy,27,1989-01-07,1989-11-25,6356,47
+26,Karyn White,Karyn White,19,1989-01-07,1989-10-21,6189,42
+27,Out Of Order,Rod Stewart,20,1989-01-07,1989-10-14,6161,41
+28,Twice Shy,Great White,9,1989-05-06,1989-12-30,6103,35
+29,Straight Outta Compton,N.W.A,37,1989-03-04,1989-12-30,6079,44
+30,Shooting Rubberbands At The Stars,Edie Brickell & New Bohemians,4,1989-01-07,1989-09-30,5982,39
+31,Life Is...Too Short,Too $hort,37,1989-02-25,1989-12-30,5842,45
+32,Long Cold Winter,Cinderella,20,1989-01-07,1989-10-21,5793,42
+33,Disintegration,The Cure,12,1989-05-20,1989-12-30,5729,33
+34,A New Flame,Simply Red,22,1989-03-11,1989-12-02,5408,39
+35,Giving You The Best That I Got,Anita Baker,1,1989-01-07,1989-08-19,5354,33
+36,Batman (Soundtrack),Prince,1,1989-07-08,1989-12-30,5333,26
+37,"",Silhouette,10,1989-01-07,1989-11-18,5331,46
+38,Look Sharp!,Roxette,28,1989-04-22,1989-12-30,5320,37
+39,Nick Of Time,Bonnie Raitt,22,1989-04-15,1989-12-30,5263,38
+40,Open Up And Say...Ahh!,Poison,3,1989-01-07,1989-09-16,5209,37
+41,See The Light,The Jeff Healey Band,22,1989-01-07,1989-12-30,5171,52
+42,Sonic Temple,The Cult,10,1989-04-29,1989-12-09,5119,33
+43,Green,R.E.M.,12,1989-01-07,1989-08-26,5025,34
+44,The Great Adventures Of Slick Rick,Slick Rick,31,1989-01-21,1989-10-21,4975,40
+45,Melissa Etheridge,Melissa Etheridge,22,1989-01-07,1989-09-09,4869,36
+46,Everything,The Bangles,15,1989-01-07,1989-08-19,4817,33
+47,The Great Radio Controversy,Tesla,18,1989-02-18,1989-12-30,4793,41
+48,Larger Than Life,Jody Watley,16,1989-04-15,1989-12-30,4626,38
+49,Cocktail,Soundtrack,2,1989-01-07,1989-10-07,4581,40
+50,Keep On Movin',Soul II Soul,14,1989-07-08,1989-12-30,4577,26
+51,Journey's Greatest Hits,Journey,10,1989-01-07,1989-11-11,4572,45
+52,The End Of The Innocence,Don Henley,8,1989-07-15,1989-12-30,4561,25
+53,Martika,Martika,15,1989-02-04,1989-12-02,4518,39
+54,Indigo Girls,Indigo Girls,22,1989-04-15,1989-12-09,4465,35
+55,Watermark,Enya,25,1989-02-04,1989-10-28,4444,39
+56,24/7,Dino,34,1989-03-25,1989-12-30,4388,41
+57,Mystery Girl,Roy Orbison,5,1989-02-18,1989-08-19,4385,27
+58,Big Tyme,Heavy D & The Boyz,19,1989-07-01,1989-12-30,4251,27
+59,Blind Man's Zoo,"10,000 Maniacs",13,1989-06-03,1989-12-09,4241,28
+60,Cosmic Thing,The B-52s,6,1989-07-22,1989-12-30,4222,24
+61,Heart Of Stone,Cher,10,1989-07-22,1989-12-30,4169,24
+62,Cuts Both Ways,Gloria Estefan,8,1989-07-29,1989-12-30,4159,23
+63,Blow My Fuse,KIX,46,1989-01-07,1989-12-30,4127,36
+64,Living Years,Mike + The Mechanics,13,1989-01-07,1989-07-29,4042,30
+65,2nd Wave,Surface,56,1989-03-25,1989-12-02,4033,37
+66,Love And Rockets,Love And Rockets,14,1989-05-20,1989-11-11,4031,26
+67,Rattle And Hum (Soundtrack),U2,2,1989-01-07,1989-07-15,3897,28
+68,Steel Wheels,The Rolling Stones,3,1989-09-16,1989-12-30,3875,16
+69,Bulletboys,BulletBoys,34,1989-01-07,1989-09-16,3805,37
+70,Big Game,White Lion,19,1989-07-01,1989-12-23,3775,26
+71,Bad English,Bad English,21,1989-07-15,1989-12-30,3770,25
+72,What You Don't Know,Expose,33,1989-07-01,1989-12-30,3760,27
+73,The Trinity Session,Cowboy Junkies,26,1989-01-28,1989-08-12,3741,29
+74,As Nasty As They Wanna Be,The 2 Live Crew,30,1989-07-29,1989-12-30,3726,23
+75,Big Daddy,John Mellencamp,7,1989-05-27,1989-10-28,3688,23
+76,3 Feet High And Rising,De La Soul,24,1989-04-01,1989-10-14,3668,29
+77,In Step,Stevie Ray Vaughan And Double Trouble,33,1989-07-01,1989-12-30,3628,27
+78,Janet Jackson's Rhythm Nation 1814,Janet Jackson,1,1989-10-07,1989-12-30,3564,13
+79,Hold An Old Friend's Hand,Tiffany,17,1989-01-07,1989-06-24,3518,25
+80,Dr. Feelgood,Motley Crue,1,1989-09-23,1989-12-30,3513,15
+81,Spike,Elvis Costello,32,1989-02-25,1989-08-12,3502,25
+82,Walking With A Panther,LL Cool J,6,1989-07-01,1989-11-18,3481,21
+83,In My Eyes,Stevie B,75,1989-03-11,1989-11-25,3465,38
+84,Tender Lover,Babyface,25,1989-08-05,1989-12-30,3452,22
+85,Tracy Chapman,Tracy Chapman,18,1989-01-07,1989-06-24,3446,25
+86,Trash,Alice Cooper,20,1989-08-12,1989-12-30,3403,21
+87,Gipsy Kings,Gipsy Kings,57,1989-01-07,1989-09-30,3397,39
+88,I Wanna Have Some Fun,Samantha Fox,37,1989-01-07,1989-07-15,3396,28
+89,Faith,George Michael,17,1989-01-07,1989-07-15,3350,28
+90,Technique,New Order,32,1989-02-11,1989-08-26,3330,28
+91,2 Hype,Kid 'N Play,96,1989-01-07,1989-11-04,3293,44
+92,Killin' Time,Clint Black,61,1989-06-10,1989-12-30,3290,30
+93,Soul Provider,Michael Bolton,34,1989-07-22,1989-12-30,3279,24
+94,Pump,Aerosmith,5,1989-09-30,1989-12-30,3264,14
+95,Messages From The Boys,The Boys,33,1989-01-07,1989-07-29,3232,30
+96,Swass,Sir Mix-A-Lot,82,1989-01-07,1989-11-25,3200,47
+97,Heart Break,New Edition,30,1989-01-07,1989-06-17,3191,24
+98,Flowers In The Dirt,Paul McCartney,21,1989-06-24,1989-12-30,3171,28
+99,Time And Tide,Basia,48,1989-01-07,1989-08-05,3145,31
+100,Raw Like Sushi,Neneh Cherry,40,1989-06-24,1989-12-30,3120,28
+101,Hold Me In Your Arms,Rick Astley,19,1989-01-28,1989-07-01,3114,23
+102,Vixen,Vixen,41,1989-01-07,1989-07-01,3106,26
+103,Dangerous Toys,Dangerous Toys,65,1989-06-17,1989-12-30,3101,29
+104,Lita,Lita Ford,29,1989-04-08,1989-09-16,3069,24
+105,Knowledge Is King,Kool Moe Dee,25,1989-06-17,1989-11-18,3049,23
+106,New Kids On The Block,New Kids On The Block,25,1989-08-05,1989-12-30,3037,22
+107,No One Can Do It Better,The D.O.C.,20,1989-08-19,1989-12-30,3026,20
+108,The Right Stuff,Vanessa Williams,38,1989-01-07,1989-07-22,3005,29
+109,Absolute Torch And Twang,k.d. lang & The Reclines,76,1989-06-17,1989-12-30,2975,29
+110,Take It While It's Hot,Sweet Sensation,63,1989-03-18,1989-09-16,2971,27
+111,The Other Side Of The Mirror,Stevie Nicks,10,1989-06-10,1989-10-28,2963,21
+112,Cycles,The Doobie Brothers,17,1989-06-10,1989-10-21,2921,20
+113,"What Up, Dog?",Was (Not Was),43,1989-01-07,1989-06-24,2877,25
+114,New York,Lou Reed,40,1989-01-28,1989-06-24,2859,22
+115,Any Love,Luther Vandross,18,1989-01-07,1989-06-03,2781,22
+116,Greatest Hits,Fleetwood Mac,14,1989-01-07,1989-06-03,2751,22
+117,The Lover In Me,Sheena Easton,44,1989-01-07,1989-05-27,2683,21
+118,"Smashes, Thrashes & Hits",KISS,21,1989-01-07,1989-06-03,2662,22
+119,Tell It To My Heart,Taylor Dayne,24,1989-01-07,1989-05-20,2650,20
+120,Stone Cold Rhymin',Young M.C.,9,1989-09-23,1989-12-30,2647,15
+121,Dice,Andrew Dice Clay,94,1989-04-29,1989-12-30,2636,36
+122,Pride,White Lion,18,1989-01-07,1989-05-13,2620,19
+123,Badlands,Badlands,57,1989-06-10,1989-12-02,2610,26
+124,Ghostbusters II,Soundtrack,14,1989-07-01,1989-11-04,2561,19
+125,All That Jazz,Breathe,34,1989-01-07,1989-05-20,2552,20
+126,Greatest Hits III,Hank Williams Jr.,61,1989-02-25,1989-11-11,2509,35
+127,Reach For The Sky,Ratt,24,1989-01-07,1989-05-20,2497,20
+128,A Night To Remember,Cyndi Lauper,37,1989-05-27,1989-10-14,2477,21
+129,Sleeping With The Past,Elton John,23,1989-09-16,1989-12-30,2470,16
+130,Psycho Cafe,Bang Tango,58,1989-07-01,1989-12-30,2465,27
+131,Youngest In Charge,Special Ed,73,1989-06-03,1989-12-09,2459,28
+132,Home,Stephanie Mills,82,1989-07-22,1989-12-30,2451,24
+133,The Seeds Of Love,Tears For Fears,8,1989-10-07,1989-12-30,2436,13
+134,Surprise Attack,Tora Tora,47,1989-07-15,1989-12-30,2421,25
+135,Operation: Mindcrime,Queensryche,65,1989-03-18,1989-10-07,2411,30
+136,Donny Osmond,Donny Osmond,54,1989-05-13,1989-10-14,2391,23
+137,Dirty Dancing,Soundtrack,32,1989-01-07,1989-07-15,2388,28
+138,Oranges And Lemons,XTC,44,1989-03-18,1989-08-05,2385,21
+139,OU812,Van Halen,25,1989-01-07,1989-05-13,2371,19
+140,American Dream,"Crosby, Stills, Nash & Young",16,1989-01-07,1989-04-29,2370,17
+141,Kick,INXS,22,1989-01-07,1989-05-27,2357,21
+142,Sa-Fire,SaFire,79,1989-01-07,1989-08-19,2339,33
+143,Extreme,Extreme,80,1989-04-08,1989-11-11,2323,32
+144,Just Coolin',Levert,79,1989-01-07,1989-06-24,2306,25
+145,This Woman,K.T. Oslin,77,1989-01-07,1989-09-16,2301,37
+146,One Bright Day,Ziggy Marley And The Melody Makers,26,1989-08-12,1989-12-09,2298,18
+147,Legacy,Poco,40,1989-09-23,1989-12-30,2290,15
+148,Storm Front,Billy Joel,1,1989-11-04,1989-12-30,2288,9
+149,Saraya,Saraya,79,1989-04-29,1989-12-30,2275,35
+150,Rock & Roll Strategy,Thirty Eight Special,61,1989-01-07,1989-07-29,2273,30
+151,Yellow Moon,The Neville Brothers,66,1989-04-08,1989-09-16,2273,24
+152,Dreaming #11,Joe Satriani,42,1989-01-07,1989-05-20,2259,20
+153,"Anderson, Bruford, Wakeman, Howe","Anderson, Bruford, Wakeman, Howe",30,1989-07-01,1989-10-14,2254,16
+154,Ancient Heart,Tanita Tikaram,59,1989-02-11,1989-07-15,2250,23
+155,Avalon Sunset,Van Morrison,91,1989-07-01,1989-12-30,2240,27
+156,The Innocents,Erasure,52,1989-01-07,1989-05-27,2230,21
+157,Lyle Lovett And His Large Band,Lyle Lovett,62,1989-02-18,1989-07-08,2215,21
+158,Delicate Sound Of Thunder,Pink Floyd,11,1989-01-07,1989-04-29,2212,17
+159,"Merry, Merry Christmas",New Kids On The Block,9,1989-10-14,1989-12-30,2210,12
+160,Good To Be Back,Natalie Cole,59,1989-05-27,1989-10-28,2195,23
+161,Mother's Milk,Red Hot Chili Peppers,52,1989-09-16,1989-12-30,2187,16
+162,We Too Are One,Eurythmics,34,1989-09-30,1989-12-30,2185,14
+163,Brave And Crazy,Melissa Etheridge,22,1989-10-07,1989-12-30,2181,13
+164,Cross That Line,Howard Jones,65,1989-04-15,1989-09-09,2179,22
+165,Copperhead Road,Steve Earle,56,1989-01-07,1989-05-20,2175,20
+166,Roll With It,Steve Winwood,28,1989-01-07,1989-05-13,2156,19
+167,When Harry Met Sally (Soundtrack),"Harry Connick, Jr.",42,1989-08-19,1989-12-30,2149,20
+168,Don't Tell A Soul,The Replacements,57,1989-02-18,1989-06-24,2141,19
+169,Big Thing,Duran Duran,32,1989-01-07,1989-04-29,2132,17
+170,Bad,Michael Jackson,42,1989-01-07,1989-05-20,2119,20
+171,Rain Man,Soundtrack,31,1989-03-11,1989-06-24,2092,16
+172,Be Yourself,Patti LaBelle,86,1989-07-22,1989-12-30,2091,24
+173,Voices Of Babylon,The Outfield,53,1989-04-15,1989-09-16,2088,23
+174,Crossroads,Tracy Chapman,9,1989-10-21,1989-12-30,2086,11
+175,Southern Star,Alabama,62,1989-02-18,1989-07-08,2071,21
+176,Till I Loved You,Barbra Streisand,11,1989-01-07,1989-05-06,2062,18
+177,Paul's Boutique,Beastie Boys,14,1989-08-12,1989-11-18,2057,15
+178,Mr. Big,Mr. Big,46,1989-07-22,1989-11-18,2032,18
+179,Doolittle,Pixies,98,1989-05-06,1989-11-04,2027,27
+180,Let The Day Begin,The Call,64,1989-07-01,1989-11-25,2010,22
+181,Foreign Affair,Tina Turner,31,1989-10-07,1989-12-30,1987,13
+182,Ghetto Music: The Blueprint Of Hip Hop,Boogie Down Productions,36,1989-07-22,1989-11-11,1983,17
+183,"Cry Like A Rainstorm, Howl Like The Wind",Linda Ronstadt (Featuring Aaron Neville),9,1989-10-21,1989-12-30,1978,11
+184,"Wild, Wild West",The Escape Club,32,1989-01-07,1989-05-13,1954,19
+185,Fisherman's Blues,The Waterboys,76,1989-01-07,1989-06-03,1941,22
+186,Silky Soul,Maze Featuring Frankie Beverly,37,1989-09-23,1989-12-30,1914,15
+187,The Disregard Of Timekeeping,Bonham,38,1989-10-07,1989-12-30,1909,13
+188,Tin Machine,Tin Machine,28,1989-06-10,1989-09-30,1897,17
+189,The Phantom Of The Opera,Original London Cast Recording,114,1989-01-07,1989-12-30,1890,42
+190,Chicago 19,Chicago,37,1989-01-07,1989-04-22,1889,16
+191,Letter From Home,Pat Metheny Group,66,1989-07-22,1989-11-18,1889,18
+192,Oh Mercy,Bob Dylan,30,1989-10-07,1989-12-30,1887,13
+193,A Show Of Hands,Rush,21,1989-01-28,1989-05-06,1879,15
+194,101,Depeche Mode,45,1989-04-01,1989-08-05,1872,19
+195,Another Place And Time,Donna Summer,53,1989-05-20,1989-09-30,1867,20
+196,World In Motion,Jackson Browne,45,1989-06-24,1989-10-07,1848,16
+197,Dancing With The Lion,Andreas Vollenweider,52,1989-04-15,1989-08-19,1832,19
+198,A Collection: Greatest Hits...And More,Barbra Streisand,26,1989-10-21,1989-12-30,1822,11
+199,Stay With Me,Regina Belle,63,1989-09-16,1989-12-30,1820,16
+200,Love Among The Cannibals,Starship,64,1989-08-19,1989-12-16,1820,18
+201,Information Society,Information Society,58,1989-01-07,1989-05-06,1798,18
+202,Take 6,Take 6,71,1989-03-11,1989-07-15,1796,19
+203,No Holdin' Back,Randy Travis,33,1989-10-14,1989-12-30,1784,12
+204,Still Cruisin',The Beach Boys,46,1989-09-16,1989-12-30,1774,16
+205,Heaven,BeBe & CeCe Winans,95,1989-03-04,1989-08-19,1774,25
+206,Blue Murder,Blue Murder,69,1989-05-13,1989-09-30,1768,21
+207,Reel Life,Boy Meets Girl,50,1989-01-07,1989-04-15,1764,15
+208,Blind To Reason,Grayson Hugh,71,1989-07-15,1989-11-25,1762,20
+209,Flying Cowboys,Rickie Lee Jones,39,1989-10-14,1989-12-30,1756,12
+210,Up Your Alley,Joan Jett & the Blackhearts,35,1989-01-07,1989-04-08,1752,14
+211,Short Sharp Shocked,Michelle Shocked,73,1989-01-07,1989-05-13,1732,19
+212,Calm Animals,The Fixx,72,1989-02-11,1989-06-10,1729,18
+213,It's A Big Daddy Thing,Big Daddy Kane,33,1989-10-07,1989-12-30,1700,13
+214,Freedom,Neil Young,35,1989-10-21,1989-12-30,1691,11
+215,The Miracle,Queen,24,1989-06-24,1989-09-23,1685,14
+216,Kaleidoscope World,Swing Out Sister,61,1989-05-27,1989-09-30,1672,19
+217,In Effect Mode,Al B. Sure!,65,1989-01-07,1989-05-20,1667,20
+218,Cocked & Loaded,L.A. Guns,57,1989-09-16,1989-12-30,1657,16
+219,The Best Years Of Our Lives,Neil Diamond,46,1989-01-07,1989-04-22,1656,16
+220,House Of Lords,House Of Lords,78,1989-01-07,1989-05-20,1653,20
+221,Today,Today,86,1989-01-14,1989-06-10,1650,22
+222,Runaway Horses,Belinda Carlisle,37,1989-10-21,1989-12-30,1638,11
+223,Greenpeace: Rainbow Warriors,Various Artists,68,1989-07-15,1989-12-30,1626,22
+224,Working Girl,Soundtrack,45,1989-03-11,1989-06-10,1618,14
+225,Where Do We Go From Here,Michael Damian,61,1989-06-17,1989-12-30,1606,18
+226,Singles Collection - The London Years,The Rolling Stones,91,1989-09-09,1989-12-30,1604,17
+227,Rock Island,Jethro Tull,56,1989-09-30,1989-12-30,1602,14
+228,So Good,Mica Paris,86,1989-05-13,1989-10-14,1597,23
+229,Through The Storm,Aretha Franklin,55,1989-05-20,1989-09-16,1584,18
+230,No Rest For The Wicked,Ozzy Osbourne,28,1989-01-07,1989-04-22,1551,16
+231,Out Of The Blue,Debbie Gibson,76,1989-01-07,1989-05-13,1551,19
+232,Heavy Nova,Robert Palmer,47,1989-01-07,1989-05-13,1543,19
+233,Simple Pleasures,Bobby McFerrin,48,1989-01-07,1989-05-06,1543,18
+234,Unfinished Business,EPMD,53,1989-08-19,1989-11-18,1523,14
+235,I've Got Everything,Henry Lee Summer,78,1989-05-27,1989-09-16,1511,17
+236,Greatest Hits,The Judds,110,1989-01-07,1989-06-10,1506,23
+237,Heart's Horizon,Al Jarreau,75,1989-01-07,1989-05-06,1502,18
+238,River Of Time,The Judds,51,1989-04-22,1989-09-02,1492,20
+239,Blessing In Disguise,Metal Church,75,1989-03-11,1989-06-17,1489,15
+240,Danger Danger,Danger Danger,88,1989-08-19,1989-12-30,1484,20
+241,Nothing To Lose,Eddie Money,74,1989-01-07,1989-05-06,1482,18
+242,Hear & Now,Billy Squier,64,1989-07-15,1989-11-11,1480,17
+243,One Night Of Sin,Joe Cocker,72,1989-09-16,1989-12-30,1480,16
+244,Beyond The Blue Neon,George Strait,92,1989-03-04,1989-08-12,1474,24
+245,State Of Euphoria,Anthrax,94,1989-01-07,1989-06-10,1470,23
+246,In Your Face,Kingdom Come,49,1989-05-13,1989-08-19,1455,15
+247,Say Anything,Soundtrack,62,1989-05-06,1989-08-05,1455,14
+248,Hot In The Shade,KISS,29,1989-11-04,1989-12-30,1441,9
+249,The Headless Children,W.A.S.P.,48,1989-04-22,1989-07-15,1441,13
+250,Something Real,Phoebe Snow,75,1989-04-15,1989-08-26,1436,20
+251,Jeff Beck's Guitar Shop,Jeff Beck With Terry Bozzio & Tony Hymas,49,1989-10-21,1989-12-30,1435,11
+252,The Best Of Luther Vandross: The Best Of Love,Luther Vandross,28,1989-11-04,1989-12-30,1431,9
+253,Batman Motion Picture Score,Danny Elfman,30,1989-08-26,1989-11-11,1416,12
+254,Four Winds,Tangier,91,1989-07-29,1989-11-18,1413,17
+255,Blaze Of Glory,Joe Jackson,61,1989-05-06,1989-09-23,1401,21
+256,Barry Manilow,Barry Manilow,64,1989-05-20,1989-09-02,1396,16
+257,The Iceberg/Freedom Of Speech...,Ice-T,37,1989-10-28,1989-12-30,1381,10
+258,Fabulous Disaster,Exodus,82,1989-02-25,1989-06-17,1371,17
+259,Enuff Z'Nuff,Enuff Z'Nuff,74,1989-09-30,1989-12-30,1368,14
+260,Sweet 16,Reba McEntire,78,1989-06-03,1989-09-30,1364,18
+261,Love Junk,The Pursuit Of Happiness,93,1989-01-07,1989-05-06,1360,18
+262,The Sensual World,Kate Bush,43,1989-11-04,1989-12-30,1357,9
+263,Dangerous Age,Bad Company,80,1989-01-07,1989-06-17,1354,24
+264,Sheriff,Sheriff,60,1989-01-07,1989-04-08,1348,14
+265,Wake Me When It's Over,Faster Pussycat,60,1989-09-23,1989-12-30,1348,15
+266,Old 8 x 10,Randy Travis,92,1989-01-07,1989-05-20,1347,20
+267,Do The Right Thing,Soundtrack,68,1989-07-22,1989-10-21,1336,14
+268,One,Bee Gees,68,1989-08-19,1989-11-11,1333,13
+269,Nothing's Shocking,Jane's Addiction,103,1989-01-07,1989-05-13,1323,19
+270,"He's The D.J., I'm The Rapper",D.J. Jazzy Jeff & The Fresh Prince,73,1989-01-07,1989-05-06,1320,18
+271,East,Hiroshima,105,1989-03-25,1989-07-29,1314,19
+272,Lincoln,They Might Be Giants,89,1989-01-07,1989-04-29,1311,17
+273,Gorky Park,Gorky Park,80,1989-09-09,1989-12-30,1306,17
+274,Passion: The Last Temptaion Of Christ (Soundtrack),Peter Gabriel,60,1989-07-01,1989-09-30,1292,14
+275,Surfing With The Alien,Joe Satriani,82,1989-01-07,1989-04-22,1291,16
+276,Southside,Texas,88,1989-08-19,1989-12-02,1284,16
+277,Off To See The Lizard,Jimmy Buffett,57,1989-07-15,1989-10-07,1277,13
+278,Dylan And The Dead,Bob Dylan & The Grateful Dead,37,1989-02-18,1989-04-29,1275,11
+279,9,Public Image Ltd.,106,1989-06-03,1989-11-04,1269,23
+280,Kylie,Kylie Minogue,53,1989-01-07,1989-03-18,1266,11
+281,The Iron Man,Pete Townshend,58,1989-07-15,1989-10-07,1266,13
+282,Britny Fox,Britny Fox,69,1989-01-07,1989-04-01,1265,13
+283,Introspective,Pet Shop Boys,52,1989-01-07,1989-04-01,1253,13
+284,Beast From The East,Dokken,40,1989-01-07,1989-03-25,1227,12
+285,Answers To Nothing,Midge Ure,88,1989-02-11,1989-05-27,1220,16
+286,Flying In A Blue Dream,Joe Satriani,23,1989-11-18,1989-12-30,1211,7
+287,Make It Last Forever,Keith Sweat,76,1989-01-07,1989-04-15,1184,15
+288,2300 Jackson St.,The Jacksons,59,1989-06-17,1989-08-26,1170,11
+289,Spell,Deon Estus,89,1989-04-01,1989-07-08,1166,15
+290,Change,The Alarm,75,1989-10-14,1989-12-30,1151,12
+291,Mr. Jordan,Julian Lennon,87,1989-04-01,1989-07-08,1146,15
+292,Union,Toni Childs,101,1989-01-07,1989-04-29,1145,17
+293,Sybil,Sybil,75,1989-10-21,1989-12-30,1141,11
+294,Slip Of The Tongue,Whitesnake,10,1989-11-25,1989-12-30,1118,6
+295,Power,Ice-T,81,1989-01-07,1989-05-13,1116,19
+296,...But Seriously,Phil Collins,1,1989-12-02,1989-12-30,1115,5
+297,Built To Last,Grateful Dead,27,1989-11-18,1989-12-30,1106,7
+298,Megatop Phoenix,Big Audio,85,1989-09-23,1989-12-16,1106,13
+299,Practice What You Preach,Testament,77,1989-09-02,1989-11-18,1101,12
+300,Rei Momo,David Byrne,71,1989-10-21,1989-12-30,1090,11
+301,And In This Corner,D.J. Jazzy Jeff & The Fresh Prince,39,1989-11-18,1989-12-30,1082,7
+302,Have You Seen Me Lately?,Sam Kinison,43,1989-01-07,1989-03-18,1070,11
+303,Kevin Paige,Kevin Paige,107,1989-09-23,1989-12-30,1061,15
+304,Lap Of Luxury,Cheap Trick,55,1989-01-07,1989-03-25,1054,12
+305,Straight To The Sky,Lisa Lisa And Cult Jam,77,1989-05-13,1989-08-12,1054,13
+306,Last Of The Runaways,Giant,91,1989-10-14,1989-12-30,1036,12
+307,Magnum Cum Louder,Hoodoo Gurus,101,1989-08-12,1989-11-18,1036,15
+308,Introducing. . .David Peaston,David Peaston,113,1989-08-05,1989-12-02,1034,18
+309,Great Balls Of Fire,Soundtrack,62,1989-07-22,1989-09-23,1031,10
+310,Buster,Soundtrack,54,1989-01-07,1989-03-18,1027,11
+311,Journeyman,Eric Clapton,17,1989-11-25,1989-12-30,1024,6
+312,Can't Fight Fate,Taylor Dayne,39,1989-11-18,1989-12-30,1022,7
+313,Nothing Matters Without Love,Seduction,78,1989-10-28,1989-12-30,1010,10
+314,Storms,Nanci Griffith,99,1989-09-16,1989-12-16,1007,14
+315,In Dreams,Roy Orbison,95,1989-01-07,1989-04-15,1002,15
+316,Yo Frankie,Dion,130,1989-05-20,1989-09-23,1001,19
+317,Tourist In Paradise,The Rippingtons Featuring Russ Freeman,85,1989-06-10,1989-08-26,999,12
+318,Gretchen Goes To Nebraska,King's X,123,1989-08-05,1989-12-02,999,18
+319,Stronger Than Pride,Sade,89,1989-01-07,1989-04-08,995,14
+320,Street Fighting Years,Simple Minds,70,1989-05-20,1989-08-05,993,12
+321,Rock The House,D.J. Jazzy Jeff & The Fresh Prince,85,1989-01-07,1989-03-25,991,12
+322,A Fresh Aire Christmas,Mannheim Steamroller,36,1989-01-07,1989-12-30,987,7
+323,Let It Loose,Gloria Estefan & Miami Sound Machine,118,1989-01-07,1989-04-22,979,16
+324,Home,BoDeans,94,1989-07-22,1989-10-14,976,13
+325,"Happy Anniversary, Charlie Brown",Various Artists,65,1989-11-11,1989-12-30,968,8
+326,Talk Is Cheap,Keith Richards,54,1989-01-07,1989-03-25,966,12
+327,Serious Business,Third World,107,1989-07-15,1989-10-14,965,14
+328,The Healer,John Lee Hooker,101,1989-10-07,1989-12-30,962,13
+329,The Biz Never Sleeps,Biz Markie,66,1989-10-28,1989-12-30,958,10
+330,K-9 Posse,K-9 Posse,98,1989-03-04,1989-06-03,957,14
+331,Wild!,Erasure,57,1989-11-11,1989-12-30,951,8
+332,Spend The Night,The Isley Brothers Featuring Ronald Isley,89,1989-09-02,1989-11-25,945,13
+333,Urban Daydreams,David Benoit,101,1989-05-13,1989-08-12,944,14
+334,Serious,The O'Jays,114,1989-05-27,1989-09-16,942,17
+335,New Light Through Old Windows,Chris Rea,92,1989-03-04,1989-05-27,941,13
+336,City Streets,Carole King,111,1989-05-06,1989-08-19,941,16
+337,Shotgun Messiah,Shotgun Messiah,99,1989-10-21,1989-12-30,939,11
+338,Michael Morales,Michael Morales,113,1989-06-17,1989-10-28,929,20
+339,Harder Than You,24-7 SPYZ,113,1989-06-17,1989-09-30,926,16
+340,Julia Fordham,Julia Fordham,118,1989-01-07,1989-05-20,917,20
+341,To Whom It May Concern,The Pasadenas,89,1989-03-18,1989-06-03,915,12
+342,Voices & Images,Camouflage,100,1989-01-14,1989-04-15,902,14
+343,Billy Ocean's Greatest Hits,Billy Ocean,77,1989-11-04,1989-12-30,886,9
+344,"Will The Circle Be Unbroken, Vol.II",Nitty Gritty Dirt Band,95,1989-05-27,1989-08-12,882,12
+345,Will To Power,Will To Power,80,1989-01-07,1989-03-25,877,12
+346,Boy Genius Featuring Kwame,Kwame,114,1989-05-27,1989-09-23,876,18
+347,Maria McKee,Maria McKee,120,1989-07-01,1989-10-07,876,15
+348,Loving Proof,Ricky Van Shelton,105,1989-01-07,1989-04-08,875,14
+349,The Best Of The Art Of Noise,The Art Of Noise,83,1989-01-07,1989-03-18,871,11
+350,Beelzebubba,The Dead Milkmen,101,1989-01-07,1989-06-03,870,21
+351,So Happy,Eddie Murphy,70,1989-08-26,1989-10-21,869,9
+352,Road House,Soundtrack,67,1989-06-03,1989-08-05,867,10
+353,When In Rome,When In Rome,84,1989-01-07,1989-03-25,865,12
+354,Eyes On This,MC Lyte,86,1989-10-21,1989-12-30,864,11
+355,Mannheim Steamroller Christmas,Mannheim Steamroller,50,1989-01-07,1989-12-30,862,7
+356,Just Lookin' For A Hit,Dwight Yoakam,68,1989-10-14,1989-12-16,862,10
+357,If My Ancestors Could See Me Now,Ivan Neville,107,1989-01-07,1989-04-15,858,15
+358,Animotion,Animotion,110,1989-03-25,1989-07-15,858,17
+359,Seminar,Sir Mix-A-Lot,67,1989-11-18,1989-12-30,852,7
+360,Presto,Rush,16,1989-12-02,1989-12-30,848,5
+361,Nearly Human,Todd Rundgren,102,1989-06-17,1989-08-26,836,11
+362,3,Violent Femmes,93,1989-02-04,1989-04-29,833,13
+363,Wild And Loose,Oaktown's 3.5.7,126,1989-05-13,1989-08-26,831,16
+364,Tequila Sunrise,Soundtrack,101,1989-01-21,1989-04-15,828,13
+365,Dance!...Ya Know It!,Bobby Brown,18,1989-12-02,1989-12-30,827,5
+366,Slow Turning,John Hiatt,128,1989-01-07,1989-04-22,816,16
+367,The Fabulous Baker Boys,Soundtrack,74,1989-11-18,1989-12-30,815,7
+368,It Takes A Nation Of Millions To Hold Us Back,Public Enemy,109,1989-01-07,1989-08-19,815,27
+369,Crackers International,Erasure,73,1989-05-13,1989-07-15,798,10
+370,Dream A Little Dream,Soundtrack,94,1989-04-08,1989-06-10,782,10
+371,Junkyard,Junkyard,105,1989-08-12,1989-10-21,782,11
+372,Maxi Priest,Maxi Priest,108,1989-01-07,1989-03-25,775,12
+373,Best Shots,Pat Benatar,67,1989-11-25,1989-12-30,767,6
+374,"For The Lonely: An Anthology, 1956-1965",Roy Orbison,110,1989-01-07,1989-04-01,762,13
+375,Waterfront,Waterfront,103,1989-05-20,1989-08-12,761,13
+376,Sound + Vision,David Bowie,97,1989-10-14,1989-12-30,760,12
+377,"Here Today, Tomorrow, Next Week",The Sugarcubes,70,1989-10-14,1989-12-09,750,9
+378,Neither Fish Nor Flesh,Terence Trent D'Arby,61,1989-11-25,1989-12-30,749,6
+379,Who?,Tony Toni Tone,114,1989-01-07,1989-04-08,748,14
+380,So,Peter Gabriel,131,1989-06-17,1989-10-07,748,17
+381,A Very Special Christmas,Various Artists,55,1989-01-07,1989-12-30,747,6
+382,Dave Grusin Collection,Dave Grusin,110,1989-02-25,1989-05-13,740,12
+383,Intuition,TNT,115,1989-03-18,1989-06-03,740,12
+384,Boys Club,Boys Club,93,1989-01-07,1989-03-11,738,10
+385,No Fuel Left For The Pilgrims,D.A.D.,116,1989-09-30,1989-12-09,734,11
+386,Smithereens 11,The Smithereens,84,1989-11-18,1989-12-30,722,7
+387,Can't Look Away,Trevor Rabin,111,1989-08-19,1989-10-21,722,10
+388,Oh Yes I Can,David Crosby,104,1989-02-18,1989-04-22,714,10
+389,Act A Fool,King Tee,125,1989-01-21,1989-04-29,712,15
+390,Original Stylin',Three Times Dope,122,1989-04-22,1989-09-09,705,18
+391,Charlie Sexton,Charlie Sexton,104,1989-02-18,1989-04-15,692,9
+392,A Place Like This,Robbie Nevil,118,1989-01-07,1989-04-22,674,15
+393,Mr. Music Head,Adrian Belew,114,1989-07-22,1989-09-30,673,11
+394,Turn Of The Screw,Dirty Looks,118,1989-08-19,1989-10-28,665,11
+395,Street Life 20 Great Hits,Bryan Ferry + Roxy Music,100,1989-08-26,1989-11-04,660,11
+396,Greatest Hits - Best Of Rockers N' Ballads,Scorpions,51,1989-12-02,1989-12-30,659,5
+397,Radio One,The Jimi Hendrix Experience,119,1989-01-07,1989-03-25,654,12
+398,Dreams,The Allman Brothers Band,103,1989-07-15,1989-09-23,649,11
+399,Frank,Squeeze,113,1989-10-07,1989-12-09,649,10
+400,Stage Dolls,Stage Dolls,118,1989-08-19,1989-11-04,645,12
+401,Roachford,Roachford,109,1989-05-20,1989-08-05,641,12
+402,After The War,Gary Moore,114,1989-03-25,1989-05-20,641,9
+403,Boys In Heat,Britny Fox,79,1989-11-25,1989-12-30,636,6
+404,Captain Swing,Michelle Shocked,95,1989-11-11,1989-12-30,634,8
+405,About Time,Ten Years After,120,1989-09-16,1989-11-18,628,10
+406,Flip Flop,Guadalcanal Diary,132,1989-03-25,1989-06-17,628,13
+407,Workbook,Bob Mould,127,1989-05-27,1989-08-26,617,14
+408,Rapture,Anita Baker,132,1989-01-07,1989-04-15,613,15
+409,Labour Of Love,UB40,56,1989-01-07,1989-02-18,611,7
+410,Back On The Block,Quincy Jones,22,1989-12-09,1989-12-30,604,4
+411,Small World,Huey Lewis & The News,88,1989-01-07,1989-03-11,603,10
+412,A Salt With A Deadly Pepa,Salt-N-Pepa,97,1989-01-07,1989-03-11,603,10
+413,Addictions Vol. I,Robert Palmer,79,1989-11-25,1989-12-30,588,6
+414,Jefferson Airplane,Jefferson Airplane,85,1989-09-23,1989-11-04,588,7
+415,Steve Stevens Atomic Playboys,Steve Stevens Atomic Playboys,119,1989-09-02,1989-11-18,586,12
+416,Don't Close Your Eyes,Keith Whitley,121,1989-06-03,1989-09-09,576,14
+417,High Hat,Boy George,126,1989-03-25,1989-06-03,574,11
+418,Boom Boom Chi Boom Boom,Tom Tom Club,114,1989-04-15,1989-06-24,572,11
+419,Raging Slab,Raging Slab,113,1989-10-28,1989-12-30,571,10
+420,Chuckii,Chuckii Booker,116,1989-07-22,1989-09-23,567,10
+421,More Dirty Dancing,Soundtrack,100,1989-01-07,1989-03-11,560,10
+422,Storyteller/Complete Anthology: 1964-1990,Rod Stewart,63,1989-12-02,1989-12-30,554,5
+423,Live,Kenny G,29,1989-12-09,1989-12-30,553,4
+424,Nude,Dead Or Alive,106,1989-07-22,1989-09-16,551,9
+425,Spellbound,Joe Sample,129,1989-04-15,1989-07-15,550,14
+426,Don't Be Afraid Of The Dark,The Robert Cray Band,133,1989-01-07,1989-04-01,550,13
+427,Conspiracy,King Diamond,111,1989-09-30,1989-11-18,548,8
+428,All Is Forgiven,Red Siren,124,1989-04-08,1989-06-24,547,12
+429,The Cactus Album,3rd Bass,76,1989-12-02,1989-12-30,546,5
+430,Shocker - The Music,Soundtrack,97,1989-11-18,1989-12-30,544,7
+431,Long Hard Look,Lou Gramm,122,1989-11-11,1989-12-30,543,8
+432,Whenever You Need Somebody,Rick Astley,101,1989-01-07,1989-03-11,541,10
+433,Imagine: John Lennon,Soundtrack,72,1989-01-07,1989-02-18,540,7
+434,Key Lime Pie,Camper van Beethoven,141,1989-10-07,1989-12-23,537,12
+435,Headless Cross,Black Sabbath,115,1989-05-13,1989-07-01,532,8
+436,The Incredible Base,Rob Base,56,1989-12-09,1989-12-30,528,4
+437,Master Of Disguise,Lizzy Borden,133,1989-08-26,1989-10-28,520,10
+438,An Old Time Christmas,Randy Travis,70,1989-12-02,1989-12-30,519,5
+439,Let It Roll,Little Feat,110,1989-01-07,1989-04-01,518,13
+440,Peace & Love,The Pogues,118,1989-08-12,1989-10-07,518,9
+441,Love Season,Alex Bugnon,127,1989-04-01,1989-06-10,518,11
+442,Zigzagging Through Ghostland,The Radiators,122,1989-04-01,1989-06-10,517,11
+443,Machismo,Cameo,114,1989-01-07,1989-03-18,511,11
+444,After 7,After 7,132,1989-10-14,1989-12-30,509,12
+445,The Real Thing,Angela Winbush,113,1989-11-11,1989-12-30,508,8
+446,Sunshine On Leith,The Proclaimers,125,1989-04-08,1989-06-17,505,11
+447,You Wanna Dance With Me?,Jody Watley,86,1989-12-02,1989-12-30,494,5
+448,Pictures From The Front,Jon Butcher,121,1989-02-18,1989-04-08,490,8
+449,Powerful Stuff,The Fabulous Thunderbirds,118,1989-05-06,1989-06-17,483,7
+450,Rumble,Tommy Conwell And The Young Rumblers,128,1989-01-07,1989-03-11,483,10
+451,Vesta 4 U,Vesta,131,1989-09-02,1989-11-04,480,10
+452,Land Of Dreams,Randy Newman,101,1989-01-07,1989-02-18,476,7
+453,Blast Off,Stray Cats,111,1989-04-29,1989-06-24,474,9
+454,Simple Man,The Charlie Daniels Band,89,1989-11-25,1989-12-30,471,6
+455,Money For Nothing,Dire Straits,98,1989-01-07,1989-03-04,470,9
+456,Street Ready,Leatherwolf,123,1989-04-29,1989-06-17,470,8
+457,"Def, Dumb & Blonde",Deborah Harry,123,1989-10-14,1989-12-02,470,8
+458,Groove Approved,Paul Carrack,120,1989-11-11,1989-12-30,466,8
+459,Here I Am,Sharon Bryant,139,1989-09-09,1989-12-02,466,13
+460,Fruit At The Bottom,Wendy And Lisa,119,1989-04-08,1989-05-27,460,8
+461,On Solid Ground,Larry Carlton,126,1989-06-10,1989-07-29,457,8
+462,Free,Concrete Blonde,148,1989-05-13,1989-09-09,456,18
+463,Believe,The Jets,107,1989-09-02,1989-10-14,455,7
+464,Always & Forever,Randy Travis,156,1989-01-07,1989-05-13,453,19
+465,Too Long In The Wasteland,James McMurtry,125,1989-10-14,1989-12-09,450,9
+466,Shaday,Ofra Haza,130,1989-01-21,1989-03-18,450,9
+467,Mind Bomb,The The,138,1989-07-22,1989-10-07,444,12
+468,Trouble Walkin',Ace Frehley,102,1989-11-11,1989-12-30,440,8
+469,Break Of Hearts,Katrina And The Waves,122,1989-09-02,1989-10-21,433,8
+470,TV Toons - The Commercials,Various Artists,159,1989-06-10,1989-10-07,433,18
+471,Rough Night In Jericho,Dreams So Real,150,1989-01-07,1989-04-01,427,13
+472,December,George Winston,101,1989-01-07,1989-12-30,425,5
+473,Reba Live,Reba McEntire,124,1989-10-14,1989-12-02,419,8
+474,Smoking In The Fields,The Del Fuegos,139,1989-10-28,1989-12-30,418,10
+475,O.F.R.,Nitro,140,1989-08-12,1989-10-07,408,9
+476,I Wonder Do You Think Of Me,Keith Whitley,115,1989-09-02,1989-10-14,407,7
+477,On Target,Fastway,135,1989-04-22,1989-06-24,403,10
+478,Decade,Duran Duran,81,1989-12-09,1989-12-30,401,4
+479,Love Or Physical,Ashford & Simpson,135,1989-03-18,1989-05-06,400,8
+480,Peepshow,Siouxsie & The Banshees,102,1989-01-07,1989-02-11,399,6
+481,March,Michael Penn,98,1989-11-25,1989-12-30,398,6
+482,The Warmer Side Of Cool,Wang Chung,123,1989-06-10,1989-07-15,397,6
+483,Greatest Hits...Sound Of Money,Eddie Money,84,1989-12-02,1989-12-30,396,5
+484,C.K.,Chaka Khan,125,1989-01-07,1989-03-04,395,9
+485,UB40,UB40,109,1989-01-07,1989-02-18,394,7
+486,Touch,Sarah McLachlan,132,1989-04-29,1989-07-15,391,12
+487,The First Of A Million Kisses,Fairground Attraction,137,1989-01-21,1989-04-01,391,11
+488,Queen Elvis,Robyn Hitchcock 'n' The Egyptians,139,1989-04-01,1989-05-27,391,9
+489,Workin' Overtime,Diana Ross,116,1989-06-24,1989-07-29,388,6
+490,Brain Drain,The Ramones,122,1989-06-17,1989-07-22,388,6
+491,Black & White Night: 30,Roy Orbison,123,1989-12-02,1989-12-30,386,5
+492,Eat The Heat,Accept,139,1989-06-24,1989-08-19,383,9
+493,People,Hothouse Flowers,155,1989-01-07,1989-04-08,383,14
+494,Greatest Hits 1982-1989,Chicago,67,1989-12-09,1989-12-30,379,4
+495,Twin Hype,Twin Hype,140,1989-08-26,1989-11-04,374,11
+496,Let Love Rule,Lenny Kravitz,96,1989-11-25,1989-12-30,373,6
+497,In A Sentimental Mood,Dr. John,142,1989-05-27,1989-08-05,371,11
+498,Everything's Different Now,'Til Tuesday,135,1989-01-07,1989-03-25,368,12
+499,The Stars We Are,Marc Almond,144,1989-01-28,1989-04-08,368,11
+500,Stay Awake,Various Artists,119,1989-01-07,1989-02-18,367,7
+501,The Little Mermaid,Soundtrack,61,1989-12-16,1989-12-30,365,3
+502,Perfect Symmetry,Fates Warning,141,1989-09-16,1989-11-11,364,9
+503,Negotiations And Love Songs (1971-1986),Paul Simon,110,1989-01-07,1989-02-11,361,6
+504,Something Inside So Strong,Kenny Rogers,141,1989-05-27,1989-07-15,361,8
+505,Affair,Cherrelle,106,1989-01-07,1989-02-25,357,8
+506,Shangri-La,Bardeux,133,1989-10-14,1989-11-25,356,7
+507,Handle With Care,Nuclear Assault,134,1989-11-18,1989-12-30,356,7
+508,Don't Take It Personal,Jermaine Jackson,115,1989-12-02,1989-12-30,352,5
+509,Large And In Charge,Chunky A,77,1989-12-16,1989-12-30,351,3
+510,Point Of View,Spyro Gyra,120,1989-07-08,1989-08-12,351,6
+511,Force Majeure,Doro Pesch,154,1989-04-29,1989-07-08,351,11
+512,I Want Out-Live,Helloween,123,1989-04-22,1989-06-03,350,7
+513,Diesel And Dust,Midnight Oil,130,1989-01-07,1989-02-25,348,8
+514,Results,Liza Minnelli,128,1989-11-11,1989-12-30,342,8
+515,We're Movin' Up,Atlantic Starr,125,1989-05-20,1989-06-24,341,6
+516,Big Trash,Thompson Twins,143,1989-10-21,1989-11-25,334,6
+517,UK Jive,The Kinks,122,1989-11-25,1989-12-30,332,6
+518,In The Land Of Salvation And Sin,The Georgia Satellites,130,1989-11-11,1989-12-30,331,8
+519,It's Beginning To And Back Again,Wire,135,1989-07-08,1989-09-09,331,10
+520,Tantilla,House Of Freaks,154,1989-05-06,1989-07-08,331,10
+521,My Nation Underground,Julian Cope,155,1989-01-07,1989-03-04,325,9
+522,Y U I Orta,Ian Hunter/Mick Ronson,157,1989-10-28,1989-12-30,325,10
+523,The Joshua Tree,U2,147,1989-01-07,1989-03-18,323,11
+524,Soulforce Revolution,7 Seconds,153,1989-11-04,1989-12-30,319,9
+525,Gems,Aerosmith,133,1989-01-07,1989-02-18,310,7
+526,In My Tribe,"10,000 Maniacs",143,1989-01-07,1989-03-04,309,9
+527,It's Tee Time,Sweet Tee,169,1989-02-25,1989-05-20,304,13
+528,Zig Zag,Hooters,120,1989-12-02,1989-12-30,302,5
+529,Gross Misconduct,M.O.D.,151,1989-03-11,1989-04-29,301,8
+530,Twins,Soundtrack,162,1989-01-21,1989-04-08,300,12
+531,Supersonic--The Album,J.J. Fad,123,1989-01-07,1989-02-11,296,6
+532,Heart Shaped World,Chris Isaak,149,1989-07-15,1989-09-16,293,10
+533,Rockapella,The Nylons,136,1989-06-10,1989-08-12,292,10
+534,Mosaique,Gipsy Kings,95,1989-12-16,1989-12-30,290,3
+535,Make A Difference Foundation,Various Artists,100,1989-12-16,1989-12-30,281,3
+536,Irresistible,Miles Jaye,160,1989-06-10,1989-08-05,271,9
+537,Migration,Dave Grusin,145,1989-10-21,1989-12-09,269,8
+538,Eddie & The Cruisers II,Soundtrack,121,1989-08-26,1989-09-30,265,6
+539,Tenderly,George Benson,140,1989-08-05,1989-09-09,265,6
+540,Perfect View,The Graces,147,1989-09-09,1989-11-04,264,9
+541,The Best Of Dark Horse,George Harrison,132,1989-11-04,1989-12-09,261,6
+542,Out Of This World,Europe,127,1989-01-07,1989-02-11,260,6
+543,No Respect,Vain,154,1989-08-26,1989-10-14,260,8
+544,Trial By Fire: Live In Leningrad,Yngwie Malmsteen,128,1989-11-11,1989-12-30,258,7
+545,Love Warriors,Tuck & Patti,162,1989-06-24,1989-09-02,252,11
+546,We Can't Go Wrong,The Cover Girls,143,1989-10-07,1989-11-11,250,6
+547,Livin' Large,E.U.,158,1989-04-22,1989-06-17,250,9
+548,Pump Up The Jam - The Album,Technotronic,70,1989-12-23,1989-12-30,249,2
+549,Scrooged,Soundtrack,93,1989-01-07,1989-01-28,245,4
+550,Beauty & The Beast,Soundtrack,157,1989-06-17,1989-09-09,244,10
+551,Eponymous,R.E.M.,132,1989-01-07,1989-02-25,234,8
+552,Festival,Lee Ritenour,156,1989-01-21,1989-03-11,232,8
+553,King Swamp,King Swamp,159,1989-06-03,1989-09-02,231,14
+554,When All The Pieces Fit,Peter Frampton,152,1989-10-14,1989-11-18,228,6
+555,More Than Friends,Jonathan Butler,173,1989-01-07,1989-04-01,228,13
+556,Root Hog Or Die,Mojo Nixon & Skid Roper,151,1989-05-06,1989-06-17,227,7
+557,Savage Amusement,Scorpions,149,1989-01-07,1989-02-25,225,8
+558,The Best Of Oingo Boingo: Skeletons In The Closet,Oingo Boingo,150,1989-02-11,1989-03-18,225,6
+559,Christmas In America,Kenny Rogers,119,1989-12-16,1989-12-30,223,3
+560,Heart Like A Gun,Fiona,152,1989-11-25,1989-12-30,223,6
+561,Pickin' On Nashville,The Kentucky Headhunters,104,1989-12-16,1989-12-30,221,3
+562,Greatest Hits,The Moody Blues,127,1989-12-09,1989-12-30,220,4
+563,Passion Crimes,Darling Cruel,160,1989-09-09,1989-10-28,218,8
+564,Hits 1979-1989,Rosanne Cash,152,1989-04-01,1989-05-13,217,7
+565,Move Somethin',The 2 Live Crew,164,1989-01-07,1989-03-18,217,11
+566,Femme Fatale,Femme Fatale,141,1989-01-28,1989-02-25,216,5
+567,Winter Solstice II,Various Artists,108,1989-01-07,1989-01-21,215,3
+568,"Touch Me Tonight, Best Of Shooting Star",Shooting Star,151,1989-11-04,1989-12-16,213,7
+569,Flag,Yello,152,1989-04-15,1989-06-10,212,9
+570,Richard Marx,Richard Marx,144,1989-01-07,1989-02-04,210,5
+571,Faster & Llouder,Foster & Lloyd,142,1989-05-13,1989-06-17,208,6
+572,Agent Double O Soul,The Untouchables,162,1989-04-01,1989-05-27,205,9
+573,Doin' It,UTFO,143,1989-06-10,1989-07-01,201,4
+574,Victory Day,Tom Cochrane & Red Rider,153,1989-01-07,1989-02-04,200,5
+575,Leave Scars,Dark Angel,159,1989-04-01,1989-05-06,198,6
+576,Mystery Of Bulgarian Voices,Bulgarian State Radio & T.V. Female Choir,165,1989-01-07,1989-02-18,191,7
+577,Warm And Tender,Olivia Newton-John,124,1989-12-02,1989-12-30,189,5
+578,Controlled By Hatred/Feel Like Shit...Deja Vu,Suicidal Tendencies,150,1989-10-28,1989-11-25,188,5
+579,The Scattering,Cutting Crew,150,1989-06-03,1989-07-08,188,6
+580,Oasis,Roberta Flack,159,1989-01-14,1989-03-04,184,8
+581,Don't Let Love Slip Away,Freddie Jackson,146,1989-01-07,1989-03-04,182,9
+582,Slam,Dan Reed Network,160,1989-10-21,1989-11-25,179,6
+583,Oliver & Company,Soundtrack,170,1989-01-07,1989-02-18,179,7
+584,Babylon A.D.,Babylon A.D.,141,1989-12-02,1989-12-30,178,5
+585,Start Of A Romance,Skyy,155,1989-05-27,1989-06-24,176,5
+586,Fun & Games,The Connells,163,1989-05-06,1989-07-08,174,10
+587,Whispers And Promises,Earl Klugh,150,1989-05-20,1989-06-17,173,5
+588,UHF,"Soundtrack/""Weird"" Al Yankovic",146,1989-08-19,1989-09-09,172,4
+589,Sea Hags,Sea Hags,163,1989-06-24,1989-08-05,169,7
+590,Book Of Days,The Psychedelic Furs,138,1989-11-25,1989-12-16,163,4
+591,Not Fakin' It,Michael Monroe,161,1989-10-07,1989-11-25,163,8
+592,Pyromania,Def Leppard,156,1989-01-07,1989-02-25,162,8
+593,Rich And Poor,Randy Crawford,159,1989-11-18,1989-12-30,162,7
+594,Quiet Riot,Quiet Riot,134,1989-01-07,1989-01-28,159,4
+595,Twist Of Shadows,Xymox,165,1989-06-03,1989-08-26,156,10
+596,Midnight Star,Midnight Star,152,1989-01-07,1989-02-11,151,6
+597,Monster,Fetchin Bones,175,1989-11-18,1989-12-30,151,7
+598,V,Zapp,154,1989-10-07,1989-10-28,141,4
+599,Grab It!,L'Trimm,162,1989-01-07,1989-02-18,141,7
+600,Swing The Heartache,Bauhaus,169,1989-08-12,1989-09-16,141,6
+601,A GRP Christmas Collection,Various Artists,140,1989-01-07,1989-12-30,139,3
+602,XYZ,XYZ,144,1989-12-16,1989-12-30,139,3
+603,Counterfeit E.P.,Martin L. Gore,156,1989-08-12,1989-09-09,136,5
+604,Strange Fire,Indigo Girls,167,1989-11-25,1989-12-30,135,6
+605,Real Life Story,Terri Lyne Carrington,169,1989-04-29,1989-06-10,132,7
+606,This Is The Day...This Is The Hour...This Is This,Pop Will Eat Itself,169,1989-08-26,1989-09-30,129,6
+607,Strange Angels,Laurie Anderson,171,1989-11-18,1989-12-30,126,7
+608,Hot Rocks 1964-1971,The Rolling Stones,174,1989-09-23,1989-11-11,126,8
+609,"Me, Myself And I",Cheryl Pepsii Riley,148,1989-01-07,1989-01-21,125,3
+610,Now And Zen,Robert Plant,151,1989-01-07,1989-02-04,124,5
+611,Bill & Ted's Excellent Adventure,Soundtrack,170,1989-04-08,1989-04-29,120,4
+612,Strange Kind Of Love,Love And Money,175,1989-03-25,1989-05-06,120,7
+613,Judson Spence,Judson Spence,168,1989-01-07,1989-03-04,119,9
+614,Everybody Wants Some,Gucci Crew II,173,1989-09-23,1989-10-28,119,6
+615,Big Fun,Inner City,162,1989-06-24,1989-07-15,118,4
+616,Witchdoctor,Sidewinders,169,1989-05-13,1989-06-10,116,5
+617,Animal Logic,Animal Logic,147,1989-12-09,1989-12-30,115,4
+618,Conscious Party,Ziggy Marley And The Melody Makers,155,1989-01-07,1989-02-04,113,5
+619,Tap,Soundtrack,166,1989-03-11,1989-04-01,112,4
+620,Blue Bell Knoll,Cocteau Twins,168,1989-01-07,1989-02-11,109,6
+621,The Mind Is A Terrible Thing To Taste,Ministry,163,1989-12-09,1989-12-30,107,4
+622,Max Q,Max Q,182,1989-10-07,1989-11-25,102,8
+623,Ancient Dreams,Candlemass,174,1989-01-21,1989-02-25,100,6
+624,Whitney,Whitney Houston,161,1989-01-07,1989-02-04,97,5
+625,Automatic,The Jesus And Mary Chain,172,1989-11-25,1989-12-30,96,6
+626,Amandla,Miles Davis,177,1989-06-17,1989-07-15,96,5
+627,More Songs About Love & Hate,The Godfathers,174,1989-05-20,1989-06-24,93,6
+628,Tommy Page,Tommy Page,166,1989-05-06,1989-06-03,92,5
+629,Fire And Gas,Steve Jones,169,1989-10-21,1989-11-11,89,4
+630,My Gift To You,Alexander O'Neal,149,1989-01-07,1989-01-14,88,2
+631,Windham Hill Sampler,Various Artists,176,1989-04-15,1989-05-06,86,4
+632,Tiffany,Tiffany,172,1989-01-07,1989-02-11,85,6
+633,Lethal Weapon 2,Soundtrack,164,1989-09-02,1989-09-16,81,3
+634,Steady On,Shawn Colvin,165,1989-12-16,1989-12-30,79,3
+635,Wide Awake In Dreamland,Pat Benatar,181,1989-01-07,1989-02-04,78,5
+636,Nothing Face,Voivod,168,1989-12-16,1989-12-30,77,3
+637,Naive Art,Red Flag,178,1989-09-23,1989-10-14,75,4
+638,"Keeper Of The Seven Keys, Part II",Helloween,179,1989-01-07,1989-02-11,73,6
+639,Guitar Speak,Various Artists,171,1989-01-07,1989-02-04,72,5
+640,Brazil Classics 1: Beleza Tropical,Various Artists,178,1989-04-22,1989-05-13,71,4
+641,All Mixed Up,Alexander O'Neal,185,1989-02-25,1989-03-25,71,5
+642,Reg Strikes Back,Elton John,166,1989-01-07,1989-01-21,70,3
+643,Close-Up,David Sanborn,170,1989-01-07,1989-01-21,66,3
+644,Feel The Shake,Jetboy,160,1989-01-07,1989-01-14,63,2
+645,Pure,The Primitives,170,1989-12-23,1989-12-30,62,2
+646,Jive Bunny - The Album,Jive Bunny & The Mastermixers,140,1989-12-30,1989-12-30,61,1
+647,Greatest Hits Collection,Bananarama,169,1989-01-07,1989-01-28,58,4
+648,From The Greenhouse,Crack The Sky,186,1989-06-24,1989-07-22,58,5
+649,On And On,Fat Boys,175,1989-10-28,1989-11-11,56,3
+650,Some Come Running,Jim Capaldi,183,1989-01-07,1989-02-11,55,5
+651,Big Circumstance,Bruce Cockburn,182,1989-02-25,1989-04-08,53,7
+652,Moons Of Jupiter,Scruffy The Cat,177,1989-01-07,1989-02-04,52,5
+653,All Hail The Queen,Queen Latifah,174,1989-12-16,1989-12-30,50,3
+654,Blast From The Bayou,Wayne Toups,183,1989-03-18,1989-04-08,49,4
+655,Tracie Spencer,Tracie Spencer,172,1989-01-07,1989-01-14,48,2
+656,High Tension Wires,Steve Morse,182,1989-06-24,1989-07-08,47,3
+657,Never Run Never Hide,Benny Mardones,178,1989-07-01,1989-07-08,46,2
+658,1988 Summer Olympics-One Moment In Time,Various Artists,164,1989-01-07,1989-01-14,44,2
+659,Mick Jones,Mick Jones,184,1989-09-23,1989-10-07,42,3
+660,Climbing The Walls,Wrathchild America,190,1989-09-30,1989-11-04,42,6
+661,State Of The Heart,Mary Chapin Carpenter,186,1989-12-09,1989-12-30,40,4
+662,Thrash Zone,D.R.I.,180,1989-12-23,1989-12-30,39,2
+663,Culture Killed The Native,Victory,182,1989-05-06,1989-06-03,35,5
+664,1969,Soundtrack,186,1989-01-07,1989-01-21,33,3
+665,Substance,New Order,172,1989-02-11,1989-02-11,29,1
+666,Waiting For Spring,David Benoit,187,1989-11-11,1989-11-25,29,3
+667,Me And Joe,Rodney O & Joe Cooley,187,1989-03-04,1989-03-11,28,2
+668,The Cinderella Theory,George Clinton,192,1989-09-02,1989-09-23,26,4
+669,Round Trip,The Gap Band,189,1989-12-09,1989-12-30,25,4
+670,Noel,Noel,183,1989-01-07,1989-01-14,23,2
+671,Candleland,Ian McCulloch,179,1989-11-25,1989-11-25,22,1
+672,Send Me An Angel '89,Real Life,191,1989-07-01,1989-08-12,18,3
+673,Talkin' 'Bout You,Diane Schuur,192,1989-01-07,1989-01-14,18,2
+674,The Years Of Decay,Overkill,194,1989-11-18,1989-11-25,14,2
+675,Diamonds In The Raw,The S.O.S. Band,194,1989-11-04,1989-11-11,14,2
+676,Truth And Soul,Fishbone,188,1989-01-21,1989-01-21,13,1
+677,Big Ones,Loverboy,189,1989-12-23,1989-12-23,12,1
+678,Brother Arab,Arabian Prince,193,1989-12-16,1989-12-23,12,2
+679,Hard Core,Paul Dean,195,1989-02-25,1989-03-04,12,2
+680,Trinere & Friends,Trinere,196,1989-09-23,1989-09-30,10,2
+681,Greatest Hits 1979-1990,Dionne Warwick,196,1989-12-23,1989-12-30,10,2
+682,No Blue Thing,Ray Lynch,197,1989-06-24,1989-07-01,8,2
+683,Radio Silence,Boris Grebenshikov,198,1989-08-26,1989-09-02,6,2
+684,Sing,Soundtrack,196,1989-04-29,1989-04-29,5,1
+685,Soul Searching,Glenn Frey,198,1989-01-07,1989-01-07,3,1
+686,Wild Weekend,NRBQ,198,1989-12-30,1989-12-30,3,1
+687,"Sweet, Delicious & Marvelous",Buddy Miles & The California Raisins,199,1989-01-07,1989-01-14,3,2

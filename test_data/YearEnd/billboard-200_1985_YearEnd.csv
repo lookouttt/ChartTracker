@@ -1,0 +1,640 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Born In The U.S.A.,Bruce Springsteen,1,1985-01-05,1985-12-28,13585,52
+2,Reckless,Bryan Adams,1,1985-01-05,1985-12-28,11703,52
+3,Like A Virgin,Madonna,1,1985-01-05,1985-12-28,11381,52
+4,Make It Big,Wham!,1,1985-01-05,1985-12-28,11008,52
+5,No Jacket Required,Phil Collins,1,1985-03-09,1985-12-28,10731,43
+6,Private Dancer,Tina Turner,5,1985-01-05,1985-12-28,9610,52
+7,Songs From The Big Chair,Tears For Fears,1,1985-04-06,1985-12-28,9570,39
+8,Beverly Hills Cop,Soundtrack,1,1985-01-12,1985-12-28,9541,51
+9,Emergency,Kool & The Gang,13,1985-01-05,1985-12-28,9058,52
+10,Suddenly,Billy Ocean,12,1985-01-05,1985-12-28,8719,52
+11,Building The Perfect Beast,Don Henley,13,1985-01-05,1985-12-28,8302,52
+12,Centerfield,John Fogerty,1,1985-01-26,1985-12-28,8038,49
+13,Whitney Houston,Whitney Houston,2,1985-03-30,1985-12-28,7617,40
+14,Brothers In Arms,Dire Straits,1,1985-06-08,1985-12-28,7354,30
+15,Diamond Life,Sade,5,1985-02-23,1985-12-28,7319,45
+16,Around The World In A Day,Prince And The Revolution,1,1985-05-11,1985-12-28,6992,34
+17,Sports,Huey Lewis & The News,11,1985-01-05,1985-12-28,6984,52
+18,Agent Provocateur,Foreigner,4,1985-01-05,1985-11-09,6940,45
+19,Vital Signs,Survivor,16,1985-01-05,1985-11-23,6859,47
+20,The Unforgettable Fire,U2,16,1985-01-05,1985-12-28,6727,52
+21,Purple Rain (Soundtrack),Prince And The Revolution,1,1985-01-05,1985-11-23,6595,47
+22,Break Out,The Pointer Sisters,11,1985-01-05,1985-11-23,6588,47
+23,Wheels Are Turning,REO Speedwagon,7,1985-01-05,1985-10-26,6554,43
+24,The Power Station,The Power Station,6,1985-04-13,1985-12-28,6407,38
+25,Madonna,Madonna,35,1985-01-05,1985-12-28,6377,52
+26,Can't Slow Down,Lionel Richie,12,1985-01-05,1985-12-28,6110,52
+27,The Dream Of The Blue Turtles,Sting,2,1985-07-13,1985-12-28,6027,25
+28,Big Bam Boom,Daryl Hall John Oates,7,1985-01-05,1985-10-12,5984,41
+29,Rhythm Of The Night,Debarge,19,1985-03-23,1985-12-28,5968,41
+30,New Edition,New Edition,6,1985-01-05,1985-10-19,5925,42
+31,Maverick,George Thorogood,32,1985-03-02,1985-12-14,5812,42
+32,Dream Into Action,Howard Jones,10,1985-04-20,1985-12-28,5797,37
+33,Chicago 17,Chicago,4,1985-01-05,1985-10-12,5776,41
+34,Meeting In The Ladies Room,Klymaxx,38,1985-02-02,1985-12-28,5669,48
+35,Jesse Johnson's Revue,Jesse Johnson's Revue,43,1985-03-16,1985-12-28,5643,42
+36,Be Yourself Tonight,Eurythmics,9,1985-05-25,1985-12-28,5557,32
+37,The Night I Fell In Love,Luther Vandross,19,1985-04-06,1985-12-28,5518,39
+38,Heart,Heart,1,1985-07-13,1985-12-28,5443,25
+39,Secret Of Association,Paul Young,19,1985-05-25,1985-12-28,5288,32
+40,Rock Me Tonight,Freddie Jackson,10,1985-05-25,1985-12-28,5247,32
+41,7 Wishes,Night Ranger,10,1985-06-08,1985-12-28,5244,30
+42,Face Value,Phil Collins,76,1985-01-05,1985-12-28,5238,52
+43,She's So Unusual: A 30th Anniversary Celebration,Cyndi Lauper,9,1985-01-05,1985-10-19,5199,42
+44,King Of Rock,Run-D.M.C.,52,1985-02-23,1985-12-28,5193,45
+45,Valotte,Julian Lennon,17,1985-01-05,1985-09-21,5188,38
+46,Southern Accents,Tom Petty And The Heartbreakers,7,1985-04-13,1985-11-16,5175,32
+47,Only Four You,Mary Jane Girls,18,1985-03-16,1985-11-30,5094,38
+48,Nightshift,Commodores,12,1985-02-16,1985-10-26,4996,37
+49,The Allnighter,Glenn Frey,22,1985-04-06,1985-12-28,4837,39
+50,Escape,Whodini,35,1985-01-05,1985-10-19,4836,42
+51,Tooth And Nail,Dokken,49,1985-01-05,1985-12-28,4825,52
+52,The Big Chill,Soundtrack,58,1985-01-05,1985-12-28,4802,52
+53,Stop Making Sense,Talking Heads,53,1985-01-05,1985-12-28,4774,52
+54,Crazy From The Heat EP,David Lee Roth,15,1985-02-23,1985-10-05,4752,33
+55,Greatest Hits Vol. I & II,Billy Joel,6,1985-07-20,1985-12-28,4718,24
+56,7800 Degrees Fahrenheit,Bon Jovi,37,1985-05-18,1985-12-28,4718,33
+57,Nervous Night,Hooters,26,1985-05-25,1985-12-28,4714,32
+58,Theatre Of Pain,Motley Crue,6,1985-07-13,1985-12-28,4655,25
+59,Invasion Of Your Privacy,Ratt,7,1985-06-29,1985-12-28,4545,27
+60,Little Creatures,Talking Heads,20,1985-07-06,1985-12-28,4507,26
+61,Welcome To The Pleasure Dome,Frankie Goes To Hollywood,33,1985-01-05,1985-08-31,4331,35
+62,Voices Carry,'Til Tuesday,19,1985-04-20,1985-11-16,4243,31
+63,The Firm,The Firm,17,1985-03-02,1985-10-12,4219,33
+64,Amadeus,Soundtrack,56,1985-01-05,1985-12-28,4175,52
+65,Ready For the World,Ready For The World,17,1985-06-22,1985-12-28,4174,28
+66,World Wide Live,Scorpions,14,1985-07-13,1985-12-28,4159,25
+67,Katrina And The . . . Waves,Katrina And The Waves,25,1985-04-13,1985-11-16,4158,32
+68,Who's Zoomin' Who?,Aretha Franklin,13,1985-07-27,1985-12-28,4086,23
+69,Swept Away,Diana Ross,29,1985-01-05,1985-08-03,4080,31
+70,Scarecrow,John Mellencamp,2,1985-09-14,1985-12-28,3991,16
+71,Fables Of The Reconstruction,R.E.M.,28,1985-06-29,1985-12-28,3984,27
+72,Ice Cream Castle,The Time,24,1985-01-05,1985-08-24,3983,34
+73,Unguarded,Amy Grant,35,1985-06-15,1985-12-28,3972,29
+74,Starchild,Teena Marie,31,1985-01-05,1985-08-10,3920,32
+75,Boy In The Box,Corey Hart,20,1985-07-20,1985-12-28,3919,24
+76,Tao,Rick Springfield,21,1985-04-27,1985-10-26,3890,27
+77,Tough All Over,John Cafferty & The Beaver Brown Band,40,1985-06-08,1985-12-28,3847,30
+78,She's The Boss,Mick Jagger,13,1985-03-16,1985-09-28,3840,29
+79,Animotion,Animotion,28,1985-02-23,1985-09-14,3765,30
+80,St. Elmo's Fire,Soundtrack,21,1985-07-13,1985-12-28,3758,25
+81,40 Hour Week,Alabama,28,1985-02-23,1985-11-23,3756,40
+82,Heartbeat City,The Cars,23,1985-01-05,1985-07-27,3664,30
+83,Perfect Strangers,Deep Purple,17,1985-01-05,1985-07-06,3658,27
+84,Hunting High And Low,a-ha,15,1985-07-20,1985-12-28,3657,24
+85,Sign In Please,Autograph,29,1985-01-05,1985-07-20,3648,29
+86,Chinese Wall,Philip Bailey,22,1985-01-05,1985-07-06,3628,27
+87,Go West,Go West,60,1985-03-23,1985-11-16,3588,35
+88,Some Great Reward,Depeche Mode,51,1985-01-19,1985-11-30,3587,42
+89,Born To Run,Bruce Springsteen,101,1985-01-05,1985-12-28,3579,52
+90,We Are The World,USA For Africa,1,1985-04-20,1985-09-14,3578,22
+91,A Private Heaven,Sheena Easton,15,1985-01-05,1985-06-15,3567,24
+92,Eliminator,ZZ Top,43,1985-01-05,1985-12-28,3554,52
+93,All The Rage,General Public,26,1985-01-05,1985-07-20,3537,29
+94,Contact,The Pointer Sisters,24,1985-08-10,1985-12-28,3519,21
+95,Solid,Ashford & Simpson,29,1985-01-05,1985-07-13,3518,28
+96,Magic Touch,Stanley Jordan,64,1985-05-25,1985-12-28,3472,32
+97,Vox Humana,Kenny Loggins,41,1985-04-20,1985-11-16,3415,31
+98,An Innocent Man,Billy Joel,50,1985-01-05,1985-09-28,3402,39
+99,Giuffria,Giuffria,26,1985-01-05,1985-06-22,3392,25
+100,How Will The Wolf Survive,Los Lobos,47,1985-01-05,1985-08-03,3381,31
+101,Miami Vice,Soundtrack,1,1985-10-12,1985-12-28,3374,12
+102,Behind The Sun,Eric Clapton,34,1985-04-06,1985-10-12,3345,28
+103,The Breakfast Club,Soundtrack,17,1985-03-09,1985-08-31,3341,26
+104,Back To The Future,Soundtrack,12,1985-07-27,1985-12-28,3332,23
+105,Arena,Duran Duran,4,1985-01-05,1985-06-08,3315,23
+106,I Feel For You,Chaka Khan,21,1985-01-05,1985-09-21,3306,38
+107,Fat Boys,Fat Boys,48,1985-01-05,1985-10-05,3272,40
+108,U2 Live: Under A Blood Red Sky (EP),U2,121,1985-01-05,1985-12-28,3245,52
+109,Thunder Seven,Triumph,35,1985-01-05,1985-06-29,3182,26
+110,Planetary Invasion,Midnight Star,32,1985-01-05,1985-07-13,3164,28
+111,20/20,George Benson,45,1985-01-26,1985-08-31,3136,32
+112,The Woman In Red (Soundtrack),Stevie Wonder,15,1985-01-05,1985-06-22,3094,25
+113,Vision Quest,Soundtrack,11,1985-03-02,1985-08-03,3092,23
+114,Glow,Rick James,50,1985-05-11,1985-11-02,2957,26
+115,1984,Van Halen,36,1985-01-05,1985-07-13,2942,28
+116,Crush,Orchestral Manoeuvres In The Dark,38,1985-07-27,1985-12-28,2920,23
+117,December,George Winston,68,1985-01-05,1985-12-28,2917,38
+118,Fly On The Wall,AC/DC,32,1985-07-20,1985-12-28,2890,24
+119,Don't Stop,Jeffrey Osborne,49,1985-01-05,1985-06-29,2840,26
+120,Brother Where You Bound,Supertramp,21,1985-06-01,1985-10-26,2839,22
+121,White Winds,Andreas Vollenweider,76,1985-03-02,1985-11-23,2831,39
+122,Alf,Alison Moyet,45,1985-04-06,1985-09-21,2830,25
+123,Lovin' Every Minute Of It,Loverboy,13,1985-09-14,1985-12-28,2828,16
+124,Truly For You,The Temptations,55,1985-01-05,1985-07-06,2807,27
+125,The Age Of Consent,Bronski Beat,36,1985-01-19,1985-07-06,2805,25
+126,Volume One,The Honeydrippers,6,1985-01-05,1985-05-18,2798,20
+127,Air Supply,Air Supply,26,1985-06-29,1985-11-16,2748,21
+128,Lone Justice,Lone Justice,56,1985-05-11,1985-10-26,2745,25
+129,Rising Force,Yngwie J. Malmsteen's Rising Force,60,1985-05-04,1985-12-28,2661,35
+130,Youth Quake,Dead Or Alive,31,1985-07-13,1985-11-23,2632,20
+131,Lush Life,Linda Ronstadt,13,1985-01-05,1985-06-01,2630,22
+132,Animalize,KISS,27,1985-01-05,1985-06-22,2599,25
+133,In Square Circle,Stevie Wonder,5,1985-10-19,1985-12-28,2584,11
+134,The Hurting,Tears For Fears,82,1985-05-25,1985-12-28,2584,32
+135,Little Baggariddim,UB40,40,1985-08-17,1985-12-28,2572,20
+136,Sacred Heart,Dio,29,1985-08-31,1985-12-28,2556,18
+137,1999,Prince,74,1985-01-05,1985-10-19,2554,42
+138,Single Life,Cameo,58,1985-07-13,1985-12-28,2541,25
+139,Shaken 'N Stirred,Robert Plant,20,1985-06-15,1985-10-19,2531,19
+140,Street Talk,Steve Perry,43,1985-01-05,1985-06-15,2521,24
+141,John Parr,John Parr,48,1985-01-05,1985-06-08,2516,23
+142,Can't Stop The Love,Maze Featuring Frankie Beverly,45,1985-03-30,1985-10-19,2510,30
+143,High Country Snows,Dan Fogelberg,30,1985-05-11,1985-10-12,2496,23
+144,High Crime,Al Jarreau,54,1985-01-05,1985-07-20,2483,29
+145,The Dark Side Of The Moon,Pink Floyd,122,1985-01-05,1985-12-28,2478,52
+146,Welcome To The Real World,Mr. Mister,15,1985-08-31,1985-12-28,2464,18
+147,Street Called Desire,Rene & Angela,68,1985-07-06,1985-12-28,2414,26
+148,Gap Band VI,The Gap Band,58,1985-01-19,1985-06-22,2381,23
+149,Shout At The Devil,Motley Crue,81,1985-01-05,1985-11-16,2375,43
+150,Boys And Girls,Bryan Ferry,63,1985-06-29,1985-12-14,2368,25
+151,Tropico,Pat Benatar,14,1985-01-05,1985-04-20,2345,16
+152,Highwayman,"Willie, Waylon, Johnny & Kris",92,1985-06-01,1985-12-28,2315,31
+153,Electric Lady,ConFunkShun,62,1985-05-18,1985-11-09,2294,26
+154,Run D.M.C.,Run-D.M.C.,102,1985-01-05,1985-09-14,2289,37
+155,Stay Hungry,Twisted Sister,30,1985-01-05,1985-08-10,2278,25
+156,Standing On The Edge,Cheap Trick,35,1985-08-17,1985-12-14,2277,18
+157,Don't Suppose,Limahl,41,1985-04-27,1985-09-07,2268,20
+158,Rain Forest,Paul Hardcastle,63,1985-03-23,1985-09-07,2258,25
+159,Straight To The Heart,David Sanborn,64,1985-02-09,1985-09-14,2252,32
+160,Asylum,KISS,20,1985-10-05,1985-12-28,2229,13
+161,"Hello, I Must Be Going!",Phil Collins,104,1985-06-15,1985-12-28,2221,29
+162,Knee Deep In The Hoopla,Starship,9,1985-10-05,1985-12-28,2201,13
+163,Steady Nerves,Graham Parker & The Shot,57,1985-04-20,1985-09-07,2195,21
+164,Vulture Culture,The Alan Parsons Project,46,1985-03-09,1985-07-13,2186,19
+165,Chess,Various Artists,47,1985-03-16,1985-08-03,2184,21
+166,The Last Mango In Paris,Jimmy Buffett,53,1985-07-06,1985-11-16,2171,20
+167,Marching Out,Yngwie J. Malmsteen's Rising Force,52,1985-09-07,1985-12-28,2159,17
+168,Beyond Appearances,Santana,50,1985-03-23,1985-08-10,2155,21
+169,Empire Burlesque,Bob Dylan,33,1985-06-22,1985-10-12,2145,17
+170,As The Band Turns,Atlantic Starr,82,1985-05-18,1985-12-28,2130,33
+171,Hall & Oates Live At The Apollo,Daryl Hall John Oates,21,1985-09-28,1985-12-28,2115,14
+172,Vocalese,The Manhattan Transfer,74,1985-08-10,1985-12-28,2098,21
+173,Flash,Jeff Beck,39,1985-07-20,1985-11-16,2095,18
+174,Eddie & The Cruisers (Soundtrack),John Cafferty & The Beaver Brown Band,31,1985-01-05,1985-07-13,2081,28
+175,2:00 A.M. Paradise Cafe,Barry Manilow,28,1985-01-05,1985-04-27,2066,17
+176,The Glamorous Life,Sheila E.,70,1985-01-05,1985-05-18,2058,20
+177,How To Be A Zillionaire,ABC,30,1985-10-05,1985-12-28,2056,13
+178,Mask Of Smiles,John Waite,36,1985-08-31,1985-12-14,2038,16
+179,Misplaced Childhood,Marillion,47,1985-08-24,1985-12-28,2007,19
+180,Thunder On The East,Loudness,74,1985-03-02,1985-08-10,2001,24
+181,Romance 1600,Sheila E.,53,1985-09-21,1985-12-28,1992,15
+182,People Are People,Depeche Mode,71,1985-06-08,1985-10-26,1991,21
+183,Word Of Mouth,The Kinks,57,1985-01-05,1985-04-27,1971,17
+184,War,U2,133,1985-01-05,1985-12-28,1969,52
+185,Ego Trip,Kurtis Blow,83,1985-01-05,1985-06-22,1946,25
+186,Shock,The Motels,36,1985-08-17,1985-11-30,1945,16
+187,The History Mix Vol. I,Godley & Creme,37,1985-08-17,1985-11-23,1936,15
+188,Alternating Currents,Spyro Gyra,66,1985-06-29,1985-11-30,1913,23
+189,Here's To Future Days,Thompson Twins,23,1985-10-19,1985-12-28,1907,11
+190,Why Not Me,The Judds,71,1985-01-05,1985-05-25,1876,21
+191,Meat Is Murder,The Smiths,110,1985-03-02,1985-10-05,1874,32
+192,Soul To Soul,Stevie Ray Vaughan And Double Trouble,34,1985-10-12,1985-12-28,1865,12
+193,Rebel Yell,Billy Idol,51,1985-01-05,1985-06-22,1857,25
+194,Lisa Lisa & Cult Jam With Full Force,Lisa Lisa And Clult Jam With Full Force,52,1985-08-31,1985-12-28,1841,18
+195,Black Cars,Gino Vannelli,62,1985-06-29,1985-12-14,1837,25
+196,The Confessor,Joe Walsh,65,1985-06-01,1985-10-05,1817,19
+197,Cock Robin,Cock Robin,61,1985-07-13,1985-11-16,1813,19
+198,Patti,Patti LaBelle,72,1985-08-10,1985-12-28,1809,21
+199,Open Fire,Y&T,70,1985-07-20,1985-11-09,1795,17
+200,A Little Spice,Loose Ends,46,1985-07-13,1985-11-09,1776,18
+201,Suzanne Vega,Suzanne Vega,91,1985-06-15,1985-12-14,1769,27
+202,1100 Bel Air Place,Julio Iglesias,25,1985-01-05,1985-04-20,1768,16
+203,How Could It Be,Eddie Murphy,27,1985-10-12,1985-12-28,1768,12
+204,Dare To Be Stupid,"""Weird Al"" Yankovic",50,1985-07-13,1985-10-26,1766,16
+205,All I Need,Jack Wagner,44,1985-01-05,1985-04-06,1764,14
+206,No Brakes,John Waite,61,1985-01-05,1985-05-11,1762,18
+207,UTFO,UTFO,80,1985-06-15,1985-10-26,1757,20
+208,A Sense Of Wonder,Van Morrison,61,1985-03-09,1985-06-29,1743,17
+209,I Can Dream About You,Dan Hartman,55,1985-01-05,1985-05-11,1732,19
+210,The Family,The Family,62,1985-09-07,1985-12-28,1730,17
+211,Friendship,Ray Charles,75,1985-02-23,1985-07-06,1721,20
+212,A View To A Kill,Soundtrack,38,1985-06-29,1985-10-05,1719,15
+213,Warrior,Scandal Featuring Patty Smyth,84,1985-01-05,1985-05-11,1717,19
+214,Under A Raging Moon,Roger Daltrey,42,1985-10-12,1985-12-28,1706,12
+215,So Good,The Whispers,88,1985-01-05,1985-05-25,1703,21
+216,Emotion,Barbra Streisand,29,1985-01-05,1985-05-04,1698,18
+217,Cosi Fan Tutti Frutti,Squeeze,57,1985-09-21,1985-12-28,1694,15
+218,Jermaine Jackson,Jermaine Jackson,52,1985-01-05,1985-04-20,1692,16
+219,City Life,Boogie Boys,53,1985-08-31,1985-12-21,1687,17
+220,No Lookin' Back,Michael McDonald,45,1985-09-07,1985-12-14,1676,15
+221,Afterburner,ZZ Top,4,1985-11-16,1985-12-28,1672,7
+222,Secret Secrets,Joan Armatrading,73,1985-03-30,1985-08-03,1669,19
+223,The Fat Boys Are Back,Fat Boys,63,1985-08-31,1985-12-28,1666,18
+224,Hot House Flowers,Wynton Marsalis,95,1985-01-05,1985-07-06,1655,27
+225,Mad Max Beyond Thunderdome,Soundtrack,39,1985-08-24,1985-11-16,1651,13
+226,Cuts Like A Knife,Bryan Adams,118,1985-05-11,1985-11-30,1628,30
+227,The Beach Boys,The Beach Boys,52,1985-06-29,1985-09-28,1618,14
+228,Color Of Success,Morris Day,37,1985-10-19,1985-12-28,1610,11
+229,Hounds Of Love,Kate Bush,30,1985-10-26,1985-12-28,1606,10
+230,Lionel Richie,Lionel Richie,111,1985-01-05,1985-06-22,1603,25
+231,Eaten Alive,Diana Ross,45,1985-10-12,1985-12-28,1578,12
+232,Berry Gordy's The Last Dragon,Soundtrack,58,1985-03-30,1985-07-06,1573,15
+233,West Side Story,Leonard Bernstein,70,1985-05-25,1985-10-05,1569,20
+234,Powerslave,Iron Maiden,71,1985-01-05,1985-05-18,1554,20
+235,Citizen Kihn,Greg Kihn,51,1985-03-23,1985-06-15,1551,13
+236,Waking Up With The House On Fire,Culture Club,28,1985-01-05,1985-04-06,1549,14
+237,Dream Of A Lifetime,Marvin Gaye,41,1985-06-08,1985-09-14,1533,15
+238,Hold Me,Laura Branigan,71,1985-08-10,1985-11-16,1532,15
+239,Hard Line,The Blasters,86,1985-03-23,1985-07-27,1523,19
+240,What About Me,Kenny Rogers,58,1985-01-05,1985-04-20,1519,16
+241,Five-O,Hank Williams Jr.,72,1985-05-18,1985-10-12,1519,22
+242,Power Windows,Rush,10,1985-11-09,1985-12-28,1516,8
+243,Barking At Airplanes,Kim Carnes,48,1985-06-29,1985-09-28,1515,14
+244,Heartbreak,Shalamar,90,1985-01-05,1985-05-18,1477,20
+245,Fiona,Fiona,71,1985-03-30,1985-07-27,1470,18
+246,The Head On The Door,The Cure,59,1985-10-05,1985-12-28,1461,13
+247,9.9,9.9,79,1985-09-14,1985-12-28,1449,16
+248,Low Life,New Order,94,1985-06-08,1985-11-02,1446,22
+249,The Right To Rock,Keel,99,1985-03-09,1985-07-27,1439,21
+250,Soul Kiss,Olivia Newton-John,29,1985-11-02,1985-12-28,1437,9
+251,VOA,Sammy Hagar,44,1985-01-05,1985-04-13,1436,15
+252,So Many Rivers,Bobby Womack,66,1985-09-21,1985-12-28,1435,15
+253,Dreamland Express,John Denver,90,1985-07-06,1985-11-09,1434,19
+254,The Heart Of The Matter,Kenny Rogers,51,1985-10-19,1985-12-28,1424,11
+255,Rhythm And Romance,Rosanne Cash,101,1985-06-22,1985-11-09,1420,21
+256,Breakin' 2 Electric Boogaloo,Soundtrack,52,1985-01-12,1985-04-06,1409,13
+257,Two Hearts,Men At Work,50,1985-06-22,1985-09-14,1408,13
+258,Perfect,Soundtrack,45,1985-06-29,1985-09-14,1389,12
+259,Requiem,Andrew Lloyd Webber,77,1985-04-06,1985-07-06,1363,14
+260,Bad To The Bone,George Thorogood & The Destroyers,108,1985-05-18,1985-11-16,1359,27
+261,Once Upon A Time,Simple Minds,18,1985-11-09,1985-12-28,1357,8
+262,Secrets,Wilton Felder,81,1985-03-09,1985-06-22,1356,16
+263,White Nights,Soundtrack,24,1985-11-02,1985-12-28,1351,9
+264,Maurice White,Maurice White,61,1985-10-05,1985-12-28,1348,13
+265,Geffrey Morgan,UB40,94,1985-01-05,1985-05-04,1339,18
+266,Girls With Guns,Tommy Shaw,73,1985-01-05,1985-04-06,1326,14
+267,Playing To Win,Little River Band,75,1985-02-09,1985-05-11,1317,14
+268,Isolation,Toto,42,1985-01-05,1985-04-13,1307,15
+269,Restless,Starpoint,68,1985-10-05,1985-12-28,1307,13
+270,Tonight,David Bowie,40,1985-01-05,1985-03-30,1305,13
+271,Cupid And Psyche 85,Scritti Politti,51,1985-08-03,1985-12-28,1304,13
+272,Out Of The Cellar,Ratt,61,1985-01-05,1985-04-13,1300,15
+273,Ride The Lightning,Metallica,100,1985-01-05,1985-05-25,1291,21
+274,In The Eye Of The Storm,Roger Hodgson,46,1985-01-05,1985-03-23,1281,12
+275,Luxury Of Life,Five Star,91,1985-09-21,1985-12-28,1272,15
+276,Listen Like Thieves,INXS,44,1985-11-02,1985-12-28,1268,9
+277,Stay Hard,Raven,81,1985-03-23,1985-06-29,1265,15
+278,The Broadway Album,Barbra Streisand,4,1985-11-23,1985-12-28,1264,6
+279,Sam Harris,Sam Harris,59,1985-01-05,1985-04-13,1263,15
+280,Along The Axis,Jon Butcher Axis,66,1985-10-12,1985-12-28,1262,12
+281,Chartbusters,Ray Parker Jr.,60,1985-01-05,1985-03-23,1261,12
+282,Mahvelous,Billy Crystal,65,1985-09-21,1985-12-14,1242,13
+283,Menudo,Menudo,100,1985-05-25,1985-09-28,1229,19
+284,Live After Death,Iron Maiden,19,1985-11-16,1985-12-28,1228,7
+285,Metal Heart,Accept,94,1985-03-30,1985-06-29,1186,14
+286,Stealing Fire,Bruce Cockburn,74,1985-01-05,1985-04-13,1179,15
+287,Old Ways,Neil Young,75,1985-09-07,1985-11-23,1176,12
+288,The Falcon & The Snowman,Soundtrack,54,1985-03-09,1985-05-11,1175,10
+289,Ain't Love Grand,X,89,1985-08-17,1985-11-16,1166,14
+290,Long Way To Heaven,Helix,103,1985-06-29,1985-10-19,1158,17
+291,Step By Step,Jeff Lorber,90,1985-03-09,1985-06-22,1140,16
+292,"Phantom, Rocker & Slick","Phantom, Rocker & Slick",61,1985-10-26,1985-12-28,1134,10
+293,Stages,Triumph,50,1985-11-02,1985-12-28,1127,9
+294,Skin Dive,Michael Franks,137,1985-06-15,1985-12-14,1116,27
+295,Lost And Found,Jason & The Scorchers,96,1985-03-30,1985-07-06,1113,15
+296,First Circle,Pat Metheny Group,122,1985-01-05,1985-06-08,1112,23
+297,Give My Regards To Broad Street,Paul McCartney,36,1985-01-05,1985-03-09,1111,10
+298,Do You Wanna Get Away,Shannon,92,1985-05-25,1985-09-07,1099,16
+299,The River,Bruce Springsteen,144,1985-01-05,1985-12-28,1098,38
+300,Greatest Hits,The Cars,12,1985-11-23,1985-12-28,1097,6
+301,Sweet Dreams,Soundtrack,29,1985-11-16,1985-12-28,1092,7
+302,Alexander O'Neal,Alexander O'Neal,92,1985-04-27,1985-08-24,1090,18
+303,First Offense,Corey Hart,65,1985-01-05,1985-03-16,1079,11
+304,Soldiers Under Command,Stryper,84,1985-09-28,1985-12-28,1073,14
+305,Thriller,Michael Jackson,82,1985-01-05,1985-04-20,1071,16
+306,The Big Chill: More Songs From,Soundtrack,121,1985-01-05,1985-05-18,1069,20
+307,Vu,The Velvet Underground,85,1985-03-09,1985-06-01,1063,13
+308,Soda Fountain Shuffle,Earl Klugh,110,1985-05-11,1985-08-31,1057,17
+309,Desert Moon,Dennis DeYoung,54,1985-01-05,1985-03-23,1054,12
+310,No Parking On The Dance Floor,Midnight Star,111,1985-01-05,1985-05-25,1046,21
+311,What's New,Linda Ronstadt & The Nelson Riddle Orchestra,97,1985-01-05,1985-04-13,1035,15
+312,Fear No Evil,Grim Reaper,108,1985-07-06,1985-10-05,1035,14
+313,Rhythm Romance,The Romantics,72,1985-09-21,1985-11-30,1030,11
+314,A Golden Celebration,Elvis Presley,80,1985-01-05,1985-03-23,1028,12
+315,Eurythmics (1984),Soundtrack,93,1985-01-05,1985-04-06,1018,14
+316,Ta Mara & The Seen,Ta Mara & The Seen,72,1985-11-02,1985-12-28,1005,9
+317,Krush Groove,Soundtrack,79,1985-10-26,1985-12-28,1003,10
+318,Strength,The Alarm,48,1985-11-09,1985-12-28,999,8
+319,Jukebox,Dazz Band,104,1985-01-05,1985-05-04,982,18
+320,Fantastic,Wham!,127,1985-03-16,1985-11-16,982,31
+321,Eugene Wilde,Eugene Wilde,97,1985-01-26,1985-05-04,971,15
+322,The Word Is Out,Jermaine Stewart,90,1985-03-02,1985-05-11,966,11
+323,Steeltown,Big Country,70,1985-01-05,1985-03-16,964,11
+324,Sex And The Single Man,Ray Parker Jr.,65,1985-10-26,1985-12-28,959,10
+325,Gap Gold,The Gap Band,103,1985-03-09,1985-06-22,952,16
+326,Greatest Hits Vol. 2,Ronnie Milsap,102,1985-08-31,1985-12-28,944,18
+327,That's Why I'm Here,James Taylor,34,1985-11-23,1985-12-28,939,6
+328,Sun City,Artists United Against Apartheid,31,1985-11-23,1985-12-28,932,6
+329,W.A.S.P.,W.A.S.P.,127,1985-01-05,1985-05-04,920,18
+330,Caravan Of Love,"Isley, Jasper, Isley",77,1985-11-02,1985-12-28,918,9
+331,Do You,Sheena Easton,40,1985-11-23,1985-12-28,915,6
+332,Akimbo Alogo,Kim Mitchell,106,1985-05-18,1985-08-24,910,15
+333,Libra,Julio Iglesias,92,1985-08-24,1985-11-09,907,12
+334,Cruzados,Cruzados,76,1985-11-02,1985-12-28,904,9
+335,Downtown,Marshall Crenshaw,110,1985-10-12,1985-12-28,898,12
+336,MTV's Rock 'N Roll To Go,Various Artists,91,1985-03-02,1985-05-18,889,12
+337,Spoiled Girl,Carly Simon,88,1985-07-20,1985-09-28,883,11
+338,No Muss...No Fuss,Donnie Iris,115,1985-03-16,1985-06-22,879,15
+339,Boy Meets Girl,Boy Meets Girl,76,1985-05-04,1985-07-13,878,11
+340,Bad Attitude,Meat Loaf,74,1985-05-18,1985-07-20,877,10
+341,The Complete Story Of Roxanne,Dr. J.R. Kool & The Other Roxannes,113,1985-07-20,1985-10-12,868,13
+342,Beautiful Feelings,Rick Springfield,78,1985-01-05,1985-03-02,863,9
+343,Across A Crowded Room,Richard Thompson,102,1985-03-09,1985-06-01,856,13
+344,The Goonies (Soundtrack),Dave Grusin,73,1985-06-29,1985-08-31,855,10
+345,The Last Command,W.A.S.P.,49,1985-11-23,1985-12-28,848,6
+346,Love At First Sting,Scorpions,100,1985-01-05,1985-09-28,847,21
+347,Dangerous Moments,Martin Briley,85,1985-02-09,1985-04-13,844,10
+348,Willie & The Poor Boys,Willie & The Poor Boys,96,1985-05-25,1985-08-10,843,12
+349,Teases And Dares,Kim Wilde,84,1985-02-09,1985-04-13,839,10
+350,Love Bomb,The Tubes,87,1985-03-23,1985-05-25,838,10
+351,Behaviour,Saga,87,1985-09-21,1985-11-23,834,10
+352,Take No Prisoners,Peabo Bryson,102,1985-07-06,1985-09-28,834,13
+353,Cotton Club,Soundtrack,93,1985-01-19,1985-03-23,828,10
+354,Hot Spot,Dazz Band,98,1985-08-17,1985-11-02,826,12
+355,Inside Moves,"Grover Washington, Jr.",107,1985-01-05,1985-04-13,824,15
+356,Who's Last,The Who,81,1985-01-05,1985-03-02,818,9
+357,Change No Change,Elliot Easton,99,1985-03-09,1985-05-18,813,11
+358,Rocky IV,Soundtrack,37,1985-11-16,1985-12-28,811,7
+359,Dog Eat Dog,Joni Mitchell,63,1985-11-23,1985-12-28,809,6
+360,The Last In Line,Dio,106,1985-01-05,1985-03-16,798,11
+361,Gravity,Kenny G,97,1985-06-01,1985-08-17,794,12
+362,He Thinks He's Ray Stevens,Ray Stevens,118,1985-01-19,1985-05-25,790,19
+363,To Live And Die In L.A.,Wang Chung,85,1985-11-02,1985-12-28,789,9
+364,Roll On,Alabama,126,1985-01-05,1985-04-13,789,15
+365,The Manilow Collection/20 Classic Hits,Barry Manilow,100,1985-06-29,1985-09-14,783,12
+366,Phantoms,The Fixx,75,1985-01-05,1985-03-23,778,12
+367,Done With Mirrors,Aerosmith,36,1985-11-30,1985-12-28,766,5
+368,Legend: The Best Of...,Bob Marley And The Wailers,113,1985-01-05,1985-04-20,763,16
+369,What If,Tommy Shaw,87,1985-10-26,1985-12-21,759,9
+370,White City - A Novel,Pete Townshend,40,1985-11-30,1985-12-28,755,5
+371,Strike Like Lightning,Lonnie Mack,130,1985-06-15,1985-11-02,755,21
+372,"Behind The Gardens, Behind The Wall....",Andreas Vollenweider,121,1985-01-05,1985-03-30,739,13
+373,Get Out Of My Room,Cheech & Chong,71,1985-10-12,1985-12-21,734,11
+374,The Blitz,Krokus,106,1985-01-05,1985-03-09,730,10
+375,Say You Love Me,Jennifer Holliday,110,1985-09-14,1985-12-14,702,14
+376,Midnight Madness,Night Ranger,101,1985-01-05,1985-03-09,696,10
+377,That's The Stuff,Autograph,92,1985-11-16,1985-12-28,694,7
+378,Finder Of Lost Loves,Dionne Warwick,106,1985-03-02,1985-05-11,682,11
+379,Sampler '84,Various Artists,119,1985-01-05,1985-04-06,682,14
+380,Weird Science,Soundtrack,105,1985-08-31,1985-11-09,680,11
+381,Sense Of Purpose,Third World,119,1985-04-13,1985-06-22,674,11
+382,The Magazine,Rickie Lee Jones,87,1985-01-05,1985-03-02,672,9
+383,The Rose Of England,Nick Lowe And His Cowboy Outfit,119,1985-09-21,1985-12-07,668,12
+384,The Warning,Queensryche,120,1985-01-05,1985-03-16,667,11
+385,Life,Gladys Knight And The Pips,126,1985-03-23,1985-06-08,660,12
+386,Breaking Hearts,Elton John,98,1985-01-05,1985-03-09,652,10
+387,Hero,Clarence Clemons,76,1985-11-23,1985-12-28,646,6
+388,Ice On Fire,Elton John,66,1985-11-30,1985-12-28,645,5
+389,Straight Ahead,Amy Grant,133,1985-04-20,1985-09-14,645,20
+390,Reckoning,R.E.M.,148,1985-01-05,1985-05-04,644,18
+391,Manilow,Barry Manilow,42,1985-11-30,1985-12-28,640,5
+392,Slave To The Rhythm,Grace Jones,73,1985-11-23,1985-12-28,640,6
+393,Real Live,Bob Dylan,115,1985-01-05,1985-03-02,629,9
+394,Red 7,Red 7,105,1985-05-25,1985-07-27,624,10
+395,Couldn't Stand The Weather,Stevie Ray Vaughan And Double Trouble,123,1985-01-05,1985-03-09,621,10
+396,Country,Soundtrack,120,1985-01-05,1985-03-09,619,10
+397,Camouflage,Rod Stewart,99,1985-01-05,1985-02-23,609,8
+398,Dead Man's Party,Oingo Boingo,98,1985-11-16,1985-12-28,607,7
+399,Heart Over Mind,Anne Murray,113,1985-01-05,1985-04-13,606,15
+400,Self Control,Laura Branigan,96,1985-01-05,1985-03-02,605,9
+401,Songs You Know By Heart: Jimmy Buffett's Greatest Hit(s),Jimmy Buffett,100,1985-11-16,1985-12-28,605,7
+402,Down For The Count,Y&T,91,1985-11-23,1985-12-28,597,6
+403,Love Fever,The O'Jays,121,1985-10-19,1985-12-28,597,11
+404,Glorious Results Of A Misspent Youth,Joan Jett & the Blackhearts,102,1985-01-05,1985-03-16,591,11
+405,Centipede,Rebbie Jackson,63,1985-01-05,1985-02-23,582,8
+406,Christmas,Alabama,75,1985-11-23,1985-12-28,575,6
+407,Internationalists,The Style Council,123,1985-06-29,1985-09-07,575,11
+408,Jam On Revenge,Newcleus,130,1985-01-05,1985-03-16,571,11
+409,Under The Blade,Twisted Sister,125,1985-07-06,1985-09-14,568,11
+410,March Of The Saint,Armored Saint,138,1985-01-05,1985-04-06,565,14
+411,Teachers,Soundtrack,53,1985-01-05,1985-02-09,563,6
+412,Cats,Original Broadway Cast Recording,145,1985-02-02,1985-12-28,559,21
+413,Stay With Me Tonight,Jeffrey Osborne,153,1985-01-05,1985-04-13,555,15
+414,The Riddle,Nik Kershaw,113,1985-04-27,1985-06-29,548,10
+415,Black Codes (From The Underground),Wynton Marsalis,118,1985-10-19,1985-12-21,539,10
+416,Pink World,Planet P Project,121,1985-01-05,1985-03-02,539,9
+417,9012 Live - The Solos,Yes,81,1985-11-30,1985-12-28,537,5
+418,All For Love,New Edition,46,1985-12-07,1985-12-28,534,4
+419,Primitive Love,Miami Sound Machine,88,1985-11-23,1985-12-28,534,6
+420,You're Under Arrest,Miles Davis,111,1985-06-01,1985-08-17,533,12
+421,Riptide,Robert Palmer,102,1985-11-23,1985-12-28,522,6
+422,Bop Doo-Wop,The Manhattan Transfer,127,1985-01-05,1985-03-16,516,11
+423,Banging The Wall,Barkays,115,1985-09-21,1985-11-16,514,9
+424,Disturbing The Peace,Alcatrazz,145,1985-04-20,1985-08-03,513,16
+425,Astra,Asia,67,1985-12-07,1985-12-28,511,4
+426,Rock A Little,Stevie Nicks,14,1985-12-14,1985-12-28,509,3
+427,Biograph,Bob Dylan,47,1985-12-07,1985-12-28,509,4
+428,Captured,Rockwell,120,1985-02-23,1985-04-20,503,9
+429,In London,Al Jarreau,125,1985-09-21,1985-11-16,497,9
+430,Signs Of Life,Billy Squier,94,1985-01-05,1985-02-16,492,7
+431,Seven The Hard Way,Pat Benatar,26,1985-12-14,1985-12-28,487,3
+432,Darkness On The Edge Of Town,Bruce Springsteen,164,1985-01-05,1985-10-26,476,26
+433,Once Upon A Christmas,Kenny Rogers & Dolly Parton,31,1985-01-05,1985-01-26,475,4
+434,Read My Lips,Melba Moore,130,1985-04-27,1985-06-29,465,10
+435,Ghostbusters,Soundtrack,109,1985-01-05,1985-02-23,463,8
+436,Just The Way You Like It,The S.O.S. Band,118,1985-01-05,1985-03-02,454,9
+437,Into The Night,Soundtrack,118,1985-04-13,1985-06-01,452,8
+438,"Boston, Mass.",The Del Fuegos,132,1985-10-26,1985-12-28,451,10
+439,Voices In The Sky-Best Of The Moody Blues,The Moody Blues,132,1985-03-23,1985-05-18,449,9
+440,A.C.,Andre Cymone,121,1985-09-21,1985-11-09,448,8
+441,Controversy,Prince,144,1985-01-05,1985-05-04,444,13
+442,Footloose,Soundtrack,146,1985-01-05,1985-05-18,442,15
+443,Porky's Revenge,Soundtrack,122,1985-04-13,1985-06-01,439,8
+444,The Judds,The Judds,153,1985-01-05,1985-03-16,438,11
+445,Arrive Without Travelling,The 3 O'Clock,125,1985-05-25,1985-07-27,436,10
+446,Mannheim Steamroller Christmas,Mannheim Steamroller,110,1985-01-05,1985-12-28,435,6
+447,Wild Animal,Vanity,129,1985-01-05,1985-02-23,435,8
+448,Rockin' With The Rhythm,The Judds,114,1985-11-16,1985-12-28,428,7
+449,Sawyer Brown,Sawyer Brown,140,1985-02-23,1985-05-11,427,11
+450,The Flamingo Kid,Soundtrack,130,1985-02-16,1985-04-06,417,8
+451,Caverna Magica,Andreas Vollenweider,149,1985-01-05,1985-03-23,411,12
+452,Pictures For Pleasure,Charlie Sexton,106,1985-11-30,1985-12-28,405,5
+453,Slide It In: 35th Anniversary Edition,Whitesnake,142,1985-01-05,1985-03-02,394,9
+454,Human's Lib,Howard Jones,146,1985-07-20,1985-10-05,392,12
+455,Lighting Up The Night,Jack Wagner,150,1985-10-19,1985-12-28,378,11
+456,Cut The Crap,The Clash,92,1985-12-07,1985-12-28,377,4
+457,Eric Carmen (II),Eric Carmen,128,1985-02-09,1985-04-13,377,10
+458,The Dreams Of Children,Shadowfax,140,1985-01-05,1985-03-30,374,13
+459,Pack Up The Plantation: Live!,Tom Petty And The Heartbreakers,48,1985-12-14,1985-12-28,372,3
+460,Magic,Four Tops,140,1985-06-29,1985-08-24,372,9
+461,Classics,The Doors,124,1985-06-08,1985-07-20,368,7
+462,Here's The World For You,Paul Hyde & Payolas,144,1985-06-08,1985-08-10,367,10
+463,Best Of Elvis Costello/The Attractions,Elvis Costello And The Attractions,122,1985-11-30,1985-12-28,366,5
+464,The Wrestling Album,The Wrestlers,101,1985-11-30,1985-12-28,364,5
+465,Rogues Gallery,Slade,132,1985-05-04,1985-06-08,362,6
+466,'74 Jailbreak,AC/DC,112,1985-01-05,1985-02-16,361,7
+467,On The Nile,The Egyptian Lover,146,1985-02-09,1985-04-13,357,10
+468,When A Guitar Plays The Blues,Roy Buchanan,161,1985-08-03,1985-10-26,356,13
+469,Promise,Sade,21,1985-12-21,1985-12-28,355,2
+470,Innocence Is No Excuse,Saxon,130,1985-11-02,1985-12-21,355,8
+471,Mike & The Mechanics,Mike + The Mechanics,97,1985-11-23,1985-12-28,351,6
+472,Stay Tuned,Chet Atkins,145,1985-04-27,1985-07-20,348,13
+473,A Cappella,Todd Rundgren,128,1985-10-12,1985-11-30,345,8
+474,Broadway's Closer To Sunset Blvd.,"Isley, Jasper, Isley",135,1985-02-09,1985-04-13,345,10
+475,Jane Wiedlin,Jane Wiedlin,127,1985-10-26,1985-11-30,343,6
+476,So Red The Rose,Arcadia,25,1985-12-21,1985-12-28,342,2
+477,Vive Le Rock,Adam Ant,131,1985-10-19,1985-11-30,339,7
+478,This Island,Eurogliders,140,1985-01-05,1985-03-02,339,9
+479,All This Love,Debarge,110,1985-04-20,1985-05-25,336,6
+480,Wild Romance,Herb Alpert,151,1985-08-24,1985-10-26,326,10
+481,America,Kurtis Blow,153,1985-11-02,1985-12-28,323,9
+482,A Winter's Solstice,Various Artists,86,1985-12-07,1985-12-28,322,4
+483,Sam Cooke Live At The Harlem Square Club,Sam Cooke,134,1985-06-22,1985-08-10,321,8
+484,Steps In Time,King,140,1985-08-17,1985-10-12,320,9
+485,Television's Greatest Hits,Various Artists,120,1985-11-09,1985-12-28,319,8
+486,Famous At Night,John Hunter,148,1985-02-09,1985-04-06,319,9
+487,Dangerous,Natalie Cole,140,1985-06-29,1985-08-24,310,9
+488,You're Gettin' Even While I'm Gettin' Odd,The J. Geils Band,80,1985-01-05,1985-01-26,309,4
+489,Rescue You,Joe Lynn Turner,143,1985-11-02,1985-12-28,308,9
+490,Yesterday Once More,Carpenters,144,1985-05-25,1985-07-13,307,8
+491,Rocker,Elvis Presley,154,1985-01-05,1985-03-02,307,9
+492,This Is Big Audio Dynamite,Big Audio,138,1985-11-23,1985-12-28,300,6
+493,Victory,Jacksons,126,1985-01-05,1985-02-09,294,6
+494,Autumn,George Winston,145,1985-10-26,1985-12-28,293,10
+495,Me & Paul,Willie Nelson,152,1985-03-30,1985-05-11,293,7
+496,Lights Out,Peter Wolf,116,1985-01-05,1985-02-02,291,5
+497,"Watching You, Watching Me",Bill Withers,143,1985-05-25,1985-07-13,289,8
+498,Seven And The Ragged Tiger,Duran Duran,149,1985-01-05,1985-02-23,285,8
+499,The Rhythmotist,Stewart Copeland,148,1985-09-07,1985-10-26,281,8
+500,All Over the Place,The Bangles,153,1985-01-05,1985-02-23,280,8
+501,Serious Business,Johnny Winter,156,1985-10-19,1985-12-21,280,10
+502,Fervor,Jason & The Scorchers,157,1985-03-23,1985-06-08,280,12
+503,Friends,Dionne Warwick,54,1985-12-21,1985-12-28,279,2
+504,Under Lock And Key,Dokken,55,1985-12-21,1985-12-28,276,2
+505,Apollonia 6,Apollonia 6,128,1985-01-05,1985-02-16,276,7
+506,Come Out And Play,Twisted Sister,60,1985-12-21,1985-12-28,272,2
+507,Every Turn Of The World,Christopher Cross,127,1985-11-30,1985-12-28,268,5
+508,Love Is What You Make It,Kenny Rogers,145,1985-04-20,1985-06-01,266,7
+509,Burns Like A Star,Stone Fury,144,1985-01-05,1985-02-09,260,6
+510,Play Deep,The Outfield,154,1985-11-02,1985-12-21,259,8
+511,Allied Forces,Triumph,154,1985-03-02,1985-04-20,256,8
+512,Greatest Hits,George Strait,157,1985-04-20,1985-06-08,252,8
+513,Material Thangz,The Deele,155,1985-07-06,1985-08-24,251,8
+514,Durell Coleman,Durell Coleman,155,1985-09-28,1985-11-09,250,7
+515,EB 84,The Everly Brothers,133,1985-01-05,1985-02-02,249,5
+516,Music For The Knee Plays,David Byrne,141,1985-06-01,1985-07-06,247,6
+517,Catching Up With Depeche Mode,Depeche Mode,119,1985-12-07,1985-12-28,244,4
+518,Power & Passion,Mama's Boys,151,1985-06-15,1985-07-20,235,6
+519,Bananarama,Bananarama,127,1985-01-05,1985-02-02,226,5
+520,Mathematics,Melissa Manchester,144,1985-05-18,1985-06-22,226,6
+521,Another Place,Hiroshima,123,1985-11-30,1985-12-28,223,5
+522,Flip,Nils Lofgren,150,1985-06-22,1985-07-20,220,5
+523,Back Into Blue,Quarterflash,150,1985-10-05,1985-11-02,215,5
+524,Into The Gap,Thompson Twins,171,1985-01-05,1985-03-16,215,11
+525,Comedian,Eddie Murphy,168,1985-03-23,1985-06-01,208,11
+526,Wrap Your Body,One Way,156,1985-08-10,1985-10-05,203,9
+527,In A Special Way,Debarge,137,1985-04-20,1985-05-11,201,4
+528,Condition Critical,Quiet Riot,150,1985-01-05,1985-02-09,201,6
+529,Van Zant,Van Zant,170,1985-05-04,1985-06-22,200,8
+530,The Deed Is Done,Molly Hatchet,147,1985-01-05,1985-02-16,186,7
+531,The Method To Our Madness,The Lords Of The New Church,158,1985-04-27,1985-06-08,184,7
+532,Ignition,John Waite,160,1985-03-16,1985-04-20,183,6
+533,Primitive,Neil Diamond,138,1985-01-05,1985-02-02,181,5
+534,Step On Out,The Oak Ridge Boys,156,1985-04-20,1985-05-18,181,5
+535,Standing Alone,White Wolf,162,1985-02-16,1985-03-30,181,7
+536,Double Trouble Live,Molly Hatchet,130,1985-12-07,1985-12-28,180,4
+537,Led Zeppelin IV,Led Zeppelin,175,1985-08-03,1985-11-02,177,14
+538,Too Fast For Love,Motley Crue,159,1985-08-17,1985-10-19,171,10
+539,Mr. Bad Guy,Freddie Mercury,159,1985-05-18,1985-06-22,170,6
+540,Birdy-Soundtrack,Peter Gabriel,162,1985-04-20,1985-06-01,170,7
+541,Goddess In Progress,Julie Brown,168,1985-02-02,1985-03-16,165,7
+542,Wide Awake In America (EP),U2,37,1985-06-29,1985-06-29,164,1
+543,Go For Your Life,Mountain,166,1985-04-27,1985-06-01,164,6
+544,Masterpiece,The Isley Brothers,142,1985-12-07,1985-12-28,163,4
+545,Some Of My Best Jokes Are Friends,George Clinton,163,1985-08-10,1985-09-14,163,6
+546,The Dream Academy,The Dream Academy,143,1985-11-09,1985-12-28,159,8
+547,P. O. V.,Utopia,161,1985-03-16,1985-04-20,157,6
+548,Blue Skies,Kiri With Nelson Riddle And His Orchestra,148,1985-12-07,1985-12-28,154,4
+549,Dune,Soundtrack,168,1985-01-05,1985-02-09,141,6
+550,Profiles,Nick Mason & Rick Fenn,154,1985-08-31,1985-09-28,140,5
+551,What A Life,Divinyls,147,1985-12-07,1985-12-28,138,4
+552,Forever Young,Alphaville,180,1985-01-05,1985-03-30,137,13
+553,Greatest Hits,Lee Greenwood,163,1985-05-18,1985-07-06,134,8
+554,Open Mind,Jean Luc Ponty,171,1985-01-05,1985-04-06,130,9
+555,Too Hot To Stop It,The Manhattans,171,1985-04-13,1985-05-18,128,6
+556,Fables,Jean Luc Ponty,166,1985-11-02,1985-11-23,125,4
+557,Does Fort Worth Ever Cross Your Mind,George Strait,177,1985-01-05,1985-02-23,124,8
+558,Nebraska,Bruce Springsteen,174,1985-01-12,1985-02-16,122,6
+559,My Toot Toot,Rockin' Sidney,166,1985-08-24,1985-09-14,121,4
+560,The New Zapp IV,Zapp,170,1985-11-23,1985-12-28,119,6
+561,The Fire Still Burns,Russ Ballard,166,1985-08-03,1985-08-24,117,4
+562,A Valentine Gift For You,Elvis Presley,154,1985-03-02,1985-03-16,116,3
+563,Fletch,Soundtrack,160,1985-07-27,1985-08-17,115,4
+564,Greatest Hits,Air Supply,174,1985-07-13,1985-08-31,115,8
+565,Dancing In The Sun,George Howard,169,1985-07-27,1985-08-17,112,4
+566,Love Language,Teddy Pendergrass,178,1985-01-05,1985-02-16,112,6
+567,Footsteps In The Dark: Greatest Hits Volume 2,Cat Stevens,165,1985-01-05,1985-02-02,110,5
+568,Too Good To Stop Now,John Schneider,163,1985-01-05,1985-02-02,106,5
+569,Flaunt The Imperfection,China Crisis,171,1985-06-01,1985-06-22,104,4
+570,The Ballad Of Sally Rose,Emmylou Harris,171,1985-05-25,1985-06-15,104,4
+571,2010,Soundtrack,173,1985-02-02,1985-03-02,101,5
+572,Nightsongs,Earl Klugh,173,1985-01-05,1985-02-16,100,7
+573,See You In Hell,Grim Reaper,178,1985-01-05,1985-02-23,99,8
+574,New Sensations,Lou Reed,159,1985-01-05,1985-01-19,96,3
+575,City of New Orleans,Willie Nelson,162,1985-01-05,1985-01-26,95,4
+576,Two Wheels Good,Prefab Sprout,178,1985-11-02,1985-11-30,93,5
+577,Delirious Nomad,Armored Saint,165,1985-12-07,1985-12-28,92,4
+578,"Greatest Hits, Vol. 2",The Oak Ridge Boys,180,1985-01-05,1985-02-16,92,7
+579,Red Sails In The Sunset,Midnight Oil,177,1985-08-03,1985-09-07,82,6
+580,Amour,Richard Clayderman,160,1985-01-05,1985-01-19,75,3
+581,New Jersey,Joe Piscopo,168,1985-07-27,1985-08-10,73,3
+582,Hard To Hold,Rick Springfield,141,1985-01-05,1985-01-12,72,2
+583,Samurai Samba,Yellowjackets,179,1985-04-13,1985-05-04,72,4
+584,Walking From Fire,April Wine,174,1985-10-05,1985-10-26,71,4
+585,My Toot Toot,Jean Knight,180,1985-08-03,1985-08-24,67,4
+586,Spreading The Disease,Anthrax,167,1985-12-21,1985-12-28,64,2
+587,Half Nelson,Willie Nelson,178,1985-10-12,1985-10-26,64,3
+588,Rain Dogs,Tom Waits,181,1985-11-16,1985-12-07,64,4
+589,No Parlez,Paul Young,171,1985-09-21,1985-10-05,62,3
+590,Favorite Country Hits,Ricky Skaggs,181,1985-03-09,1985-03-30,62,4
+591,Thief In The Night,George Duke,183,1985-04-20,1985-05-18,62,5
+592,Workin' It Back,Teddy Pendergrass,180,1985-12-07,1985-12-28,58,4
+593,Backwards And Forwards,Aztec Camera,181,1985-04-13,1985-04-27,56,3
+594,Cats Without Claws,Donna Summer,173,1985-01-05,1985-01-12,55,2
+595,Dancin' In The Key Of Life,Steve Arrington,185,1985-05-18,1985-06-15,51,5
+596,Boy,U2,179,1985-01-19,1985-02-02,49,3
+597,The Velveteen Rabbit,George Winston,180,1985-04-20,1985-05-11,49,4
+598,Rites Of Passage,Vitamin Z,183,1985-08-10,1985-08-24,49,3
+599,Dirty Mind,Prince,189,1985-01-05,1985-03-02,49,9
+600,Fans,Malcolm McLaren,190,1985-02-02,1985-03-09,48,6
+601,Gettin' Away With Murder,Patti Austin,182,1985-11-09,1985-11-30,47,4
+602,Winter Into Spring,George Winston,182,1985-03-30,1985-04-13,46,3
+603,Midnight Mission,Textones,176,1985-01-05,1985-01-12,45,2
+604,Live From Earth,Pat Benatar,183,1985-02-16,1985-03-09,45,4
+605,In The Long Grass,The Boomtown Rats,188,1985-05-25,1985-06-15,44,4
+606,What Is This?,What Is This,187,1985-09-14,1985-10-05,42,4
+607,Cypress,Let's Active,191,1985-01-05,1985-02-23,41,8
+608,Let's Dance,David Bowie,184,1985-01-05,1985-01-26,39,4
+609,A Chorus Line-The Movie,Soundtrack,163,1985-12-28,1985-12-28,38,1
+610,Extra Play,Kaja,185,1985-04-27,1985-05-18,37,4
+611,Condition Of The Heart,Kashif,181,1985-12-21,1985-12-28,36,2
+612,Cocoon,Soundtrack,188,1985-07-27,1985-08-17,34,4
+613,Mud Will Be Flung Tonight,Bette Midler,184,1985-12-21,1985-12-28,32,2
+614,Tales Of The New West,The Beat Farmers,186,1985-06-08,1985-06-22,29,3
+615,Under Wraps,Jethro Tull,174,1985-01-05,1985-01-12,28,2
+616,Italian X Rays,The Steve Miller Band,177,1985-01-05,1985-01-12,27,2
+617,3 Ships,Jon Anderson,175,1985-12-28,1985-12-28,26,1
+618,Sportin' Life,Weather Report,191,1985-04-27,1985-05-11,25,3
+619,Thief Of Hearts,Soundtrack,179,1985-01-05,1985-01-12,24,2
+620,Rio,Duran Duran,188,1985-01-26,1985-02-02,24,2
+621,The Christmas Album,Elvis Presley,178,1985-12-28,1985-12-28,23,1
+622,Get Back,Ike & Tina Turner,189,1985-05-11,1985-05-18,23,2
+623,United States Live,Laurie Anderson,192,1985-01-26,1985-02-23,23,5
+624,Piano Sampler,Various Artists,190,1985-12-21,1985-12-28,17,2
+625,Love Letters,Force M.D.'s,185,1985-01-05,1985-01-05,16,1
+626,Asia,Kitaro,191,1985-11-30,1985-12-07,16,2
+627,Picture This,Huey Lewis & The News,191,1985-02-16,1985-02-23,16,2
+628,I Have A Pony,Steve Wright,192,1985-11-23,1985-11-30,16,2
+629,"You, Me And He",Mtume,193,1985-01-05,1985-01-19,16,3
+630,I've Got The Cure,Stephanie Mills,194,1985-01-05,1985-01-19,16,3
+631,Harlequin,Dave Grusin & Lee Ritenour,192,1985-10-05,1985-10-12,15,2
+632,"Greetings From Asbury Park, N.J.",Bruce Springsteen,192,1985-11-16,1985-11-23,15,2
+633,Loose Ends,Loose Ends,189,1985-07-06,1985-07-06,12,1
+634,Old Fashion Christmas,Carpenters,190,1985-01-05,1985-01-05,11,1
+635,Jewel Of The Nile,Soundtrack,194,1985-12-28,1985-12-28,7,1
+636,The Velvet Underground,The Velvet Underground & Nico,197,1985-04-20,1985-04-27,7,2
+637,Love,The Cult,195,1985-12-28,1985-12-28,6,1
+638,Who's Missing,The Who,196,1985-12-28,1985-12-28,5,1
+639,I Appreciate,Alicia Myers,196,1985-01-05,1985-01-05,5,1

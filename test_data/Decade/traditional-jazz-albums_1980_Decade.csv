@@ -1,0 +1,487 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,December,George Winston,2,1983-11-12,1987-01-17,2065,67
+2,Autumn,George Winston,7,1983-11-12,1986-06-07,1580,67
+3,Magic Touch,Stanley Jordan,1,1985-03-30,1986-10-25,1536,42
+4,Think Of One,Wynton Marsalis,1,1983-11-12,1985-06-08,1388,41
+5,Backstreet,David Sanborn,1,1983-11-26,1985-03-16,1338,34
+6,Future Shock,Herbie Hancock,2,1983-11-12,1985-01-19,1123,31
+7,Hot House Flowers,Wynton Marsalis,1,1984-10-20,1986-03-15,1079,37
+8,Winter Into Spring,George Winston,9,1983-11-12,1985-06-08,992,41
+9,Dancing In The Sun,George Howard,1,1985-05-11,1986-06-21,949,30
+10,White Winds,Andreas Vollenweider,5,1985-03-16,1986-05-24,925,32
+11,Harlequin,Dave Grusin & Lee Ritenour,2,1985-07-06,1986-06-21,901,26
+12,What's New,Linda Ronstadt & The Nelson Riddle Orchestra,5,1983-12-10,1985-01-19,890,29
+13,Straight To The Heart,David Sanborn,1,1985-02-16,1986-06-21,882,36
+14,First Circle,Pat Metheny Group,2,1984-10-20,1986-03-15,826,37
+15,Skin Dive,Michael Franks,6,1985-06-22,1986-06-21,814,27
+16,Passionfruit,Michael Franks,4,1983-11-12,1984-10-20,801,25
+17,Night Lines,Dave Grusin,4,1984-07-14,1985-10-26,797,34
+18,Wishful Thinking,Earl Klugh,1,1984-03-24,1985-02-02,795,23
+19,Vocalese,The Manhattan Transfer,2,1985-08-17,1986-06-21,765,23
+20,Caverna Magica (...Under The Tree-in The Cave...),Andreas Vollenweider,8,1984-03-10,1985-08-17,761,38
+21,Alternating Currents,Spyro Gyra,3,1985-07-20,1986-06-21,727,25
+22,Jarreau,Jarreau,6,1983-11-12,1984-11-03,723,26
+23,Diamond Life,Sade,5,1985-03-30,1986-06-07,711,32
+24,20/20,George Benson,3,1985-02-16,1986-01-04,662,24
+25,Black Codes (From The Underground),Wynton Marsalis,2,1985-10-26,1986-07-19,649,20
+26,G Force,Kenny G,6,1984-02-25,1984-11-03,632,19
+27,Access All Areas,Spyro Gyra,1,1984-07-14,1985-03-16,631,18
+28,High Crime,Al Jarreau,2,1984-12-01,1985-11-23,623,26
+29,Imagine This,Pieces Of A Dream,4,1984-01-28,1984-10-20,623,20
+30,Shadowdance,Shadowfax,13,1983-11-12,1984-10-06,622,24
+31,Another Place,Hiroshima,8,1985-12-07,1986-11-22,614,26
+32,You're Under Arrest,Miles Davis,3,1985-05-25,1986-03-15,609,22
+33,Individual Choice,Jean Luc Ponty,2,1983-11-12,1984-08-25,602,21
+34,Decoy,Miles Davis,1,1984-07-14,1985-03-16,600,18
+35,Soda Fountain Shuffle,Earl Klugh,3,1985-05-11,1986-03-01,592,22
+36,Double Vision,Bob James/David Sanborn,1,1986-06-21,1987-02-14,589,18
+37,American Eyes,Rare Silk,4,1985-04-13,1986-02-01,586,22
+38,In Your Eyes,George Benson,1,1983-11-12,1984-07-14,580,18
+39,Rejoicing,Pat Metheny With Charlie Haden & Billy Higgins,4,1984-05-19,1985-03-16,577,22
+40,Travels,Pat Metheny Group,8,1983-11-12,1984-08-11,567,20
+41,Ghetto Blaster,The Crusaders,3,1984-05-05,1984-11-17,565,15
+42,Steppin' Out,George Howard,9,1984-06-02,1985-02-02,514,18
+43,City Kids,Spyro Gyra,3,1983-11-12,1984-07-14,513,18
+44,Modern Times,Steps Ahead,11,1984-05-05,1985-01-19,513,19
+45,Alone/But Never Alone,Larry Carlton,1,1986-04-12,1986-11-22,511,17
+46,Down To The Moon,Andreas Vollenweider,1,1986-08-16,1987-02-14,502,14
+47,Love Will Follow,George Howard,1,1986-03-29,1986-10-11,500,15
+48,In The Heat Of The Night,Jeff Lorber,7,1984-03-24,1984-10-06,497,15
+49,Foxie,Bob James,3,1983-11-12,1984-06-02,492,15
+50,Breakout,Spyro Gyra,1,1986-07-05,1987-02-14,470,17
+51,Low Ride,Earl Klugh,13,1983-11-12,1984-06-30,468,17
+52,Bodies And Souls,The Manhattan Transfer,10,1983-11-12,1984-08-25,467,21
+53,Time Exposure,Stanley Clarke,10,1984-05-05,1984-11-17,465,15
+54,Now,Patrice Rushen,7,1984-06-30,1985-01-05,463,14
+55,Inside Moves,"Grover Washington, Jr.",3,1984-11-17,1985-06-22,458,16
+56,Scenario,Al Di Meola Project,8,1983-11-12,1984-06-30,444,17
+57,Canyon,Paul Winter,4,1986-01-18,1986-10-11,433,20
+58,Promise,Sade,4,1986-01-18,1986-08-02,418,15
+59,Rendezvous,Sadao Watanabe,2,1984-09-08,1985-03-16,413,14
+60,Domino Theory,Weather Report,5,1984-03-24,1984-10-20,408,16
+61,Still Warm,John Scofield,4,1986-03-29,1986-10-11,407,15
+62,Live From San Francisco,Maynard Ferguson,10,1985-05-11,1986-01-04,399,18
+63,On The Line,Lee Ritenour,12,1984-02-11,1984-08-25,398,15
+64,Open Mind,Jean Luc Ponty,5,1984-12-01,1985-05-25,397,13
+65,Joyride,Pieces Of A Dream,3,1986-08-02,1987-02-14,389,15
+66,Spontaneous Inventions,Bobby McFerrin,6,1986-08-02,1987-02-14,387,15
+67,One Of A kind,Dave Grusin,6,1985-03-16,1985-11-23,383,19
+68,Love Explosion,Tania Maria,13,1984-03-10,1984-10-20,383,17
+69,J Mood,Wynton Marsalis,3,1986-10-11,1987-06-06,380,18
+70,Made In New York,Tania Maria,12,1985-05-11,1986-02-01,380,20
+71,Round Midnight,Soundtrack,2,1986-10-11,1987-08-01,375,22
+72,Scenes In The City,Branford Marsalis,11,1984-05-05,1984-10-20,373,13
+73,Shades,Yellowjackets,4,1986-07-05,1987-01-31,369,16
+74,Duotones,Kenny G,5,1986-08-30,1987-02-14,366,13
+75,Night Songs,Earl Klugh,4,1984-11-03,1985-05-11,365,14
+76,An Evening With Windham Hill Live,Various Artists,18,1983-11-12,1984-07-28,359,19
+77,Acousticity,David Grisman,6,1986-01-18,1986-07-05,351,13
+78,Oasis,Joe Sample,8,1985-09-28,1986-03-29,351,14
+79,The Other Side Of Round Midnight,Dexter Gordon,1,1987-01-17,1988-02-06,344,28
+80,12,Bob James,5,1984-11-03,1985-05-11,342,14
+81,Banded Together,Lee Ritenour,6,1984-06-30,1984-11-03,339,10
+82,Target,Tom Scott,9,1983-11-12,1984-04-21,335,12
+83,Digital Works,Ahmad Jamal,11,1985-08-31,1986-04-26,327,18
+84,Third Generation,Hiroshima,12,1983-11-12,1984-04-21,316,12
+85,Silent Witness,Skywalk,12,1985-06-08,1986-04-26,310,24
+86,Tutu,Miles Davis,1,1986-10-25,1987-02-14,302,9
+87,Diane Schuur - Count Basie,Diane Schuur - Count Basie,1,1987-10-10,1988-08-20,301,23
+88,In London,Al Jarreau,10,1985-09-28,1986-03-15,301,13
+89,Streetshadows,David Diggs,9,1985-03-30,1985-10-12,299,15
+90,The Two Of Us,Ramsey Lewis & Nancy Wilson,5,1984-09-08,1985-02-02,297,11
+91,Sound System,Herbie Hancock,7,1984-09-08,1985-02-02,292,11
+92,Fables,Jean Luc Ponty,9,1985-10-26,1986-03-29,290,12
+93,This Side Up,David Benoit,4,1986-04-26,1986-09-13,289,11
+94,Michael Brecker,Michael Brecker,1,1987-05-23,1988-04-02,286,23
+95,Offramp,Pat Metheny Group,27,1983-11-12,1984-08-25,284,21
+96,Marathon,Rodney Franklin,15,1984-02-25,1984-06-30,278,10
+97,GRP Live In Session,Various Artists,8,1986-02-01,1986-07-19,276,13
+98,Breakin' Away,Jarreau,23,1983-11-12,1984-05-19,275,14
+99,Dreams Of Children,Shadowfax,10,1984-12-01,1986-03-01,269,15
+100,The Introduction,Steve Morse Band,15,1984-09-08,1985-03-02,267,13
+101,The Chick Corea Elektric Band,The Chick Corea Elektric Band,6,1986-05-10,1986-09-27,265,11
+102,Marsalis Standard Time: Vol. 1,Wynton Marsalis,2,1987-09-26,1988-07-09,261,21
+103,Jammin' In Manhattan,Tyzik,15,1984-07-14,1984-11-17,261,10
+104,Royal Garden Blues,Branford Marsalis,2,1986-11-08,1987-07-04,260,18
+105,Past Light,Will Ackerman,20,1983-12-24,1984-08-11,260,17
+106,"What It Is, Is What It Is",Leslie Drayton & Fun,4,1986-07-19,1986-12-06,258,11
+107,The Bohemians,Skywalk,6,1986-04-26,1986-08-30,257,10
+108,Schuur Thing,Diane Schuur,10,1985-12-21,1986-07-05,257,15
+109,While The City Sleeps. . .,George Benson,8,1986-09-27,1987-02-14,256,11
+110,Soaring Through A Dream,Al Di Meola Project,14,1985-10-12,1986-04-26,252,15
+111,Togethering,Kenny Burrell & Grover Washington,16,1985-04-13,1985-09-14,249,12
+112,L Is For Lover,Al Jarreau,9,1986-10-11,1987-02-14,247,10
+113,L.A. Is My Lady,Frank Sinatra,8,1984-09-08,1985-01-19,245,10
+114,Encontros E Despedidas (Meetings And Farewells),Milton Nascimento,7,1986-05-10,1986-09-27,244,11
+115,Lush Life,Linda Ronstadt,8,1985-01-05,1985-04-27,244,9
+116,Slow Motion,Andy Narell,12,1985-10-12,1986-03-15,241,12
+117,Gravity,Kenny G,13,1985-06-08,1985-11-23,241,13
+118,Warning,Billy Cobham,14,1985-09-28,1986-03-29,241,14
+119,Samurai Samba,Yellowjackets,10,1985-03-30,1985-08-31,236,12
+120,Twinkling Of An Eye,John Blake,11,1986-02-01,1986-08-16,236,15
+121,Secrets,Wilton Felder,8,1985-03-16,1985-08-03,235,11
+122,Every Night,Joe Williams,2,1987-11-07,1988-07-09,233,18
+123,Look What I Got,Betty Carter,1,1988-07-23,1989-04-29,232,21
+124,Fill Up The Night,Sadao Watanabe,19,1983-12-24,1984-06-16,224,13
+125,Right On The Money,Cabo Frio,11,1986-04-12,1986-08-16,221,10
+126,You Might Be Surprised,Roy Ayers,11,1985-12-07,1986-05-10,220,12
+127,My Best,Kitaro,16,1986-05-10,1986-10-11,217,12
+128,Mr. Nice Guy,Ronnie Laws,19,1983-11-12,1984-03-10,214,9
+129,Oregon,Oregon,21,1983-11-12,1984-03-24,213,10
+130,Talkin' 'Bout You,Diane Schuur,1,1988-10-01,1989-05-13,209,17
+131,Obsession,Bob James,3,1986-11-22,1987-02-14,209,7
+132,"Behind The Gardens, Behind The Wall....",Andreas Vollenweider,17,1985-01-05,1985-07-20,205,15
+133,Introducing Jonathan Butler,Jonathan Butler,9,1986-05-24,1986-09-27,202,10
+134,Around The World,Jetstream,7,1986-08-02,1986-11-08,201,8
+135,Friends,Larry Carlton,25,1983-11-12,1984-04-21,201,12
+136,Jungle Garden,Dave Valentin,16,1985-07-06,1985-12-07,200,12
+137,The Clarke/Duke Project II,Stanley Clarke/George Duke,19,1983-12-10,1984-04-21,199,10
+138,Bop Doo Wop,The Manhattan Transfer,11,1985-01-05,1985-04-27,198,9
+139,The Good And Bad Times,The Crusaders,4,1986-12-06,1987-02-14,196,6
+140,Come With Me,Tania Maria,30,1983-11-12,1984-07-28,193,19
+141,Step By Step,Jeff Lorber,11,1985-03-02,1985-06-22,188,9
+142,Earth Run,Lee Ritenour,10,1986-09-27,1987-01-31,186,10
+143,Just Feelin',McCoy Tyner,13,1985-08-17,1985-12-07,181,9
+144,Celebrate,Perri,14,1986-03-15,1986-07-05,180,9
+145,Renaissance,Branford Marsalis,4,1987-11-07,1988-06-25,179,17
+146,"Standards, Vol. I",Keith Jarrett,14,1983-11-12,1984-03-10,179,9
+147,In A Sentimental Mood,Dr. John,1,1989-05-27,1989-12-23,178,16
+148,A Nice Place To Be,George Howard,1,1986-12-20,1987-02-14,173,5
+149,Aerial Boundaries,Michael Hedges,27,1984-07-28,1985-03-02,173,16
+150,Son X,Pat Metheny/Ornette Coleman,9,1986-05-10,1986-09-13,172,10
+151,Timeless,Diane Schuur,13,1986-10-25,1987-02-14,172,9
+152,Blue Skies,Cassandra Wilson,2,1988-11-26,1989-07-08,171,17
+153,That's The Way I Feel Now - A Tribute To Thelonious Monk,Various Artists,20,1984-07-28,1984-10-20,170,7
+154,Michel Camilo,Michel Camilo,1,1988-12-24,1989-07-22,169,16
+155,"Passion, Grace & Fire","John Mclaughlin,Al Dimeola,Paco Delucia",23,1983-11-12,1984-03-10,166,9
+156,Blow Your Own Horn,Herb Alpert,17,1983-11-12,1984-03-10,165,9
+157,Winelight,"Grover Washington, Jr.",34,1983-11-12,1984-05-19,165,14
+158,Show Stopper,Jamaaladeen Tacuma,25,1983-11-12,1984-02-25,163,8
+159,Classic Masters,Ronnie Laws,16,1985-01-19,1985-05-11,162,9
+160,Sand Dance,Frank Potenza,12,1986-08-02,1986-11-08,159,8
+161,One Of A Kind,Fattburger,13,1986-08-16,1986-12-06,159,9
+162,High Visibility,Victor Feldman's Generation Band,15,1985-08-03,1985-11-23,159,9
+163,Sportin' Life,Weather Report,13,1985-04-27,1985-08-03,158,8
+164,Digital Duke,The Duke Ellington Orchestra,3,1987-07-04,1988-02-06,155,16
+165,Then And Now,"Grover Washington, Jr.",2,1988-08-20,1989-03-18,152,16
+166,Ella In Rome - The Birthday Concert,Ella Fitzgerald,1,1988-05-28,1988-11-12,150,13
+167,Standards Volume 1,Stanley Jordan,2,1986-12-20,1987-02-14,150,5
+168,Bird--The Original Recordings Of Charlie Parker,Charlie Parker,2,1988-11-12,1989-05-13,150,14
+169,Lyle Mays,Lyle Mays,12,1986-05-24,1986-08-30,150,8
+170,Tenderly,George Benson,1,1989-08-05,1989-12-23,149,11
+171,Chiaruscuro,Mike Marshall/Darol Anger,18,1985-12-07,1986-04-26,149,11
+172,Chick Corea Akoustic Band,Chick Corea Akoustic Band,1,1989-04-01,1989-09-02,148,12
+173,Basic Basie,Count Basie,19,1984-07-28,1984-10-20,148,7
+174,Don't Look Back,Damon Rentie,12,1986-11-22,1987-02-14,146,7
+175,True Stories,Earl Klugh,13,1986-09-13,1986-12-06,146,7
+176,The Truth Is Spoken Here,Marcus Roberts,1,1989-03-04,1989-09-02,145,14
+177,Go For Whatcha Know,Jimmy Smith,15,1986-07-19,1986-11-22,141,10
+178,Star People,Miles Davis,29,1983-11-12,1984-03-24,139,10
+179,Face To Face,Kevin Eubanks,14,1986-10-25,1987-01-31,135,8
+180,Hideaway,Stanley Clarke,15,1986-10-25,1987-02-14,135,9
+181,Piano Sampler,Various Artists,18,1985-12-07,1986-04-12,132,10
+182,This Is This,Weather Report,13,1986-08-02,1986-10-25,131,7
+183,Civilization,Tony Williams,3,1987-05-09,1987-11-07,130,14
+184,Stay Tuned,Chet Atkins,12,1985-04-13,1985-07-06,130,7
+185,Black & Blue,Rare Silk,9,1986-08-30,1986-11-08,129,6
+186,Modern Manners,Special EFX,19,1985-06-22,1985-09-14,129,7
+187,Nightline,Randy Crawford,24,1983-11-26,1984-02-25,129,7
+188,Confetti,Sergio Mendes,31,1984-06-16,1984-10-20,129,9
+189,Cross Currents,Eliane Elias,2,1988-08-20,1989-02-04,128,13
+190,Private Passion,Jeff Lorber,17,1986-11-22,1987-02-14,128,7
+191,Good Morning Kiss,Carmen Lundy,3,1987-02-14,1987-08-15,127,14
+192,Windham Hill Records Sampler '86,Various Artists,19,1986-03-29,1986-07-05,127,8
+193,The Birth Of A Band,Quincy Jones,21,1984-05-05,1984-07-14,126,6
+194,Slice Of Life,Special EFX,15,1986-06-21,1986-09-27,125,8
+195,Teaser,Angela Bofill,21,1984-02-25,1984-05-05,125,6
+196,The Voice,Bobby McFerrin,24,1984-08-11,1984-10-20,123,6
+197,10th Avenue,Patrick Williams' New York Band,4,1987-06-20,1988-01-09,122,15
+198,As We Speak,David Sanborn,36,1983-11-12,1984-05-05,122,13
+199,"Chet Baker Sings And Plays (From ""Let's Get Lost"")",Chet Baker,2,1989-05-13,1989-10-14,119,12
+200,When Harry Met Sally (Soundtrack),"Harry Connick, Jr.",1,1989-09-02,1989-12-23,118,9
+201,Soulscape,Rob Mullins,12,1986-03-01,1986-05-10,118,6
+202,Bird,Soundtrack,2,1988-10-29,1989-03-18,117,11
+203,Brazilian Romance,Sarah Vaughan,4,1987-10-10,1988-04-30,117,15
+204,Sweet Return,Freddie Hubbard,27,1983-12-24,1984-03-24,117,7
+205,Virgin Beauty,Ornette Coleman and Prime Time,2,1988-07-23,1988-12-10,112,11
+206,The Majesty Of The Blues,Wynton Marsalis,3,1989-07-08,1989-12-09,112,12
+207,East Coast Offering,East Coast Offering,24,1984-07-28,1984-10-06,112,6
+208,The Magazine,Rickie Lee Jones,20,1984-12-01,1985-03-02,111,7
+209,Keep You Satisfied,Nancy Wilson,16,1986-05-10,1986-08-02,110,7
+210,Double Take,Freddie Hubbard/Woody Shaw,19,1986-07-05,1986-09-13,109,6
+211,New Faces,Dizzy Gillespie,20,1985-06-22,1985-10-12,108,9
+212,Behind The Gardens-behind The Wall-under The Tree,Andreas Vollenweider,30,1984-04-21,1984-08-11,107,9
+213,Cielo E Terra,Al Di Meola Project,18,1985-06-08,1985-10-12,106,10
+214,Straight Ahead,Stanley Turrentine,23,1985-05-25,1985-08-31,106,8
+215,Power Of Three,Michel Petrucciani,2,1987-02-28,1987-07-18,104,11
+216,Jazz Samba,Stan Getz/Charlie Byrd,22,1984-10-06,1985-01-05,104,7
+217,The Lady From Brazil,Tania Maria,19,1986-12-06,1987-02-14,103,6
+218,Disguise,Chuck Mangione,26,1984-09-08,1984-11-17,100,6
+219,Symphonic Dreams,Gerry Mulligan,7,1987-11-21,1988-06-11,99,15
+220,The Tonight Show Band,The Tonight Show Band/Doc Severinsen,21,1986-11-22,1987-02-14,99,7
+221,Heavy Heart,Carla Bley,27,1984-05-19,1984-07-28,99,6
+222,Maisha,Sadao Watanabe,27,1985-08-03,1986-01-18,99,13
+223,John Patitucci,John Patitucci,1,1988-05-14,1988-09-03,98,9
+224,Renaissance Man,Jamaaladeen Tacuma,17,1985-02-02,1985-04-13,98,6
+225,The Johnny Mercer Songbook,Ella Fitzgerald,14,1985-02-02,1985-03-30,97,5
+226,The Village,Henry Butler,5,1987-11-21,1988-04-30,96,12
+227,Opening Night,Kevin Eubanks,24,1985-07-20,1985-11-09,95,9
+228,Light Struck,Dave Valentin,21,1986-08-16,1986-11-08,93,7
+229,Encounters,George Shaw,22,1986-12-06,1987-02-14,91,6
+230,Bullish,Herb Alpert & The Tijuana Brass,28,1984-09-08,1984-11-17,90,6
+231,Trio Jeepy,Branford Marsalis,3,1989-07-08,1989-11-11,89,10
+232,Mobo 1,Kazumi Watanabe,29,1984-08-11,1984-10-20,89,6
+233,Revelations,McCoy Tyner,3,1989-04-01,1989-08-05,88,10
+234,Tommy Gun,Tom Browne,22,1984-11-03,1985-03-02,88,9
+235,Still Live,Keith Jarrett,3,1988-05-28,1988-09-17,84,9
+236,Mosaic,Mark Egan,20,1985-11-09,1986-01-18,84,6
+237,Shadowfax,Shadowfax,36,1984-06-02,1984-09-08,84,8
+238,One Night/One Day,Tom Scott,15,1986-12-06,1987-02-14,83,6
+239,Smooth,Victor Feldman's Generation Band,17,1986-08-30,1986-11-08,82,6
+240,"Day In, Night Out",Mike Metheny,18,1986-09-27,1986-12-06,82,6
+241,Ella At Duke's Place,Ella Fitzgerald & Duke Ellington,21,1984-10-20,1984-12-15,81,5
+242,The Best Is Yet To Come,"Grover Washington, Jr.",35,1983-11-12,1984-02-11,81,7
+243,Two Of A Kind,Bob James And Earl Klugh,37,1983-11-12,1984-02-11,80,7
+244,In Good Company,Joe Williams,5,1989-07-08,1989-11-11,79,10
+245,Six Silver Strings,B.B. King,23,1985-11-23,1986-03-01,79,8
+246,Live At Blues Alley,Wynton Marsalis,2,1988-07-23,1988-10-29,77,8
+247,Country,Soundtrack,22,1985-01-19,1985-03-16,77,5
+248,Make It Last,Hubert Laws,28,1983-11-26,1984-01-28,77,5
+249,Kaleidoscope,Mike Metheny,6,1988-02-20,1988-06-25,76,10
+250,Irresistible Forces,Jack DeJohnette's Special Edition,6,1987-06-20,1987-11-21,76,12
+251,Travelin',Oscar Peterson,35,1984-07-28,1984-10-06,76,6
+252,Power Play,Billy Cobham,23,1986-07-19,1986-09-27,75,6
+253,Too Far To Whisper,Shadowfax,24,1986-07-19,1986-10-11,75,7
+254,Sampler '84,Various Artists,25,1984-12-15,1985-03-02,75,6
+255,Indigo Blue,Hank Crawford,33,1984-02-11,1984-05-05,75,7
+256,Bordertown,Bennie Wallace,4,1988-07-09,1988-10-15,74,8
+257,Designated Hitter,Damon Rentie,21,1986-05-10,1986-07-19,74,6
+258,The Billie Holiday Songbook,Billie Holiday,21,1985-05-25,1985-08-03,73,6
+259,Illumination,Free Flight,24,1986-12-06,1987-02-14,73,6
+260,Tribute To Count Basie,Gene Harris,4,1988-04-02,1988-07-09,71,8
+261,To Bird With Love,Eddie Daniels,5,1987-05-23,1987-10-24,71,12
+262,Les Fleurs,Ramsey Lewis,32,1983-11-12,1984-02-11,71,7
+263,20,"Harry Connick, Jr.",6,1989-02-18,1989-06-24,70,10
+264,100 Hearts,Michel Petrucciani,29,1984-07-28,1984-09-22,70,5
+265,Bolling: Suite For Flute & Jazz Piano Trio No. 2,Claude Bolling & Jean-Pierre Rampal,5,1987-06-06,1987-10-10,68,10
+266,Rapture,Anita Baker,24,1986-11-22,1987-02-14,67,7
+267,Invitation,Jaco Pastorius,24,1983-11-12,1983-12-24,66,4
+268,Keep On Comin' Vol. One,Jimmy Smith,35,1983-12-24,1984-03-10,65,6
+269,Playboy Jazz Festival,Various Artists,35,1984-06-02,1984-08-25,65,7
+270,Flatout,John Scofield,3,1989-09-16,1989-12-23,64,8
+271,Phantom Navigator,Wayne Shorter,6,1987-02-28,1987-06-06,64,8
+272,Najee's Theme,Najee,8,1987-01-17,1987-02-14,64,3
+273,Waiting For Spring,David Benoit,1,1989-10-28,1989-12-23,63,5
+274,Nightwind,Mike Lawrence,5,1988-04-02,1988-07-09,63,8
+275,Illusions,Eliane Elias,7,1987-10-24,1988-03-05,63,10
+276,Embraceable You,Billie Holiday,30,1984-05-19,1984-07-14,63,5
+277,Electric Outlet,John Scofield,18,1985-02-02,1985-03-30,62,5
+278,Ray Charles & Betty Carter,Ray Charles & Betty Carter,7,1988-09-17,1989-01-21,61,10
+279,A House Full Of Love,"Music From Bill Cosby Show/Grover Washington,Jr.",25,1986-03-15,1986-05-24,61,6
+280,Historical Concerts,Max Roach & Cecil Taylor,27,1984-10-20,1984-12-15,60,5
+281,Quartet West,Charlie Haden,4,1987-08-15,1987-11-07,59,7
+282,Luella,James Newton,32,1984-05-05,1984-07-28,58,7
+283,Random Abstract,Branford Marsalis,6,1988-08-06,1988-11-12,56,8
+284,Mahavishnu,Mahavishnu,27,1984-12-01,1985-02-16,56,6
+285,Original Bird: The Best Of Bird On Savoy,Charlie Parker,5,1988-12-24,1989-04-01,55,8
+286,Rendez-Vous,Jean Michel Jarre,26,1986-05-24,1986-08-02,55,6
+287,Audio Visualscapes,Jack DeJohnette's Special Edition,5,1988-10-01,1988-12-24,54,7
+288,Reflections,Bill Watrous,5,1988-02-06,1988-04-30,54,7
+289,The Men In My Life,Lena Horne,5,1989-01-07,1989-04-15,54,8
+290,The Real Tania Maria:wild,Tania Maria,20,1985-03-30,1985-05-11,54,4
+291,You're The One,Henry Johnson,7,1987-01-31,1987-05-23,53,9
+292,Rossiter Road,Ahmad Jamal,21,1986-06-07,1986-08-02,53,5
+293,Voodoo,The Dirty Dozen Brass Band,6,1989-04-15,1989-07-22,52,8
+294,Silk Road,Kitaro,20,1985-04-27,1985-05-25,52,3
+295,Mel Torme/Rob McConnell And The Boss Brass,Mel Torme & Rob McConnell,11,1986-10-11,1987-03-28,51,11
+296,Juntos (Together),Ivan Lins,27,1986-05-24,1986-08-02,51,6
+297,Strong Persuader,Robert Cray,20,1986-12-20,1987-02-14,50,5
+298,The Great Wide World Of Quincy Jones-Live,Quincy Jones,24,1985-04-27,1985-06-08,50,4
+299,The Irving Berlin Songbook,Sarah Vaughan & Billy Eckstine,26,1985-02-02,1985-03-16,50,4
+300,Vital Information,Steve Smith,33,1983-11-12,1984-01-07,50,5
+301,"State Of The Tenor: Live At The Village Vanguard,Vol. Two",Joe Henderson,7,1987-02-28,1987-05-23,49,7
+302,Ming's Samba,David Murray,6,1989-04-29,1989-07-22,48,7
+303,Future Excursions,Henry Johnson,8,1988-02-20,1988-05-28,48,8
+304,Fire!,David Newman,6,1989-06-24,1989-09-30,47,8
+305,Storytime,T Lavitz,24,1986-09-13,1986-10-25,47,4
+306,Mirage A Trois,Yellowjackets,34,1983-11-12,1983-12-10,47,3
+307,Close Enough For Love,Shirley Horn,5,1989-06-10,1989-09-02,46,7
+308,Christopher Hollyday,Christopher Hollyday,6,1989-09-16,1989-11-25,46,6
+309,Take Me To Your Dreams,Tom Grant,27,1986-09-27,1987-01-03,46,8
+310,Solo Guitar,Earl Klugh,4,1989-10-28,1989-12-23,45,5
+311,I Thought About You,Shirley Horn,10,1987-11-21,1988-03-19,45,9
+312,Champion,Jeff Berlin & Vox Humana,27,1985-12-07,1986-01-18,45,4
+313,Jazz Jazz,Rob Mullins,6,1989-09-16,1989-12-09,44,7
+314,State Of The Art,Bob Florence,8,1988-09-17,1988-12-10,43,7
+315,Out Of The Blue,O.T.B.,29,1986-03-29,1986-06-07,43,6
+316,The Hunter,Joe Sample,30,1983-11-12,1983-12-10,43,3
+317,Flame,Azymuth,31,1984-10-06,1984-12-15,43,6
+318,Drinkin' From The Money River,Grant Geissman,25,1986-08-30,1986-11-08,42,6
+319,Destiny's Song + The Image Of Pursuance,Courtney Pine,6,1988-07-09,1988-09-03,41,5
+320,That's A Plenty,Al Hirt,9,1988-08-20,1988-12-10,41,9
+321,The All American Hero,Wynton Marsalis,30,1985-08-03,1985-09-14,41,4
+322,The Harold Arlen Songbook,Ella Fitzgerald,36,1984-05-19,1984-07-14,41,5
+323,Forbidden Lover,Nancy Wilson,8,1987-07-18,1987-11-07,40,9
+324,At Home,Janis Siegel,6,1987-08-01,1987-10-24,39,7
+325,Good Bait,Bobby Hutcherson,29,1985-04-13,1985-05-25,39,4
+326,Key Notes,Earl Klugh,30,1985-05-25,1985-07-06,39,4
+327,Wintersong,Paul Winter,31,1986-12-20,1987-02-14,39,5
+328,It Is Love,Marlena Shaw,7,1987-04-11,1987-06-20,38,6
+329,Reunited,Elvin Jones/McCoy Tyner Quintet,7,1987-05-09,1987-08-01,38,7
+330,"Sunny Days, Starry Nights",Sonny Rollins,38,1984-08-25,1984-10-20,38,5
+331,Dave Grusin And The New York/l.a. Dream Band,Dave Grusin And The New York/La Dream Band,44,1983-11-12,1984-01-28,38,6
+332,Save Tonight For Me,Chuck Mangione,28,1986-06-07,1986-08-16,37,6
+333,Lyric Suite For Sextet,Gary Burton And Chick Corea,36,1984-02-11,1984-04-07,37,5
+334,All Of Me,Joey DeFrancesco,7,1989-08-19,1989-10-28,36,6
+335,Diane Schuur Collection,Diane Schuur,8,1989-07-22,1989-10-14,36,7
+336,Urban Earth,Harvie Swartz,24,1986-04-26,1986-05-24,36,3
+337,The Falcon And The Snowman,Soundtrack,27,1985-03-30,1985-05-11,36,4
+338,Atlantis,Wayne Shorter,32,1985-10-26,1986-01-04,36,6
+339,The Fabulous Baker Boys,Soundtrack,3,1989-11-25,1989-12-23,35,3
+340,Erroll Garner Plays Gershwin & Kern,Erroll Garner,28,1986-03-29,1986-04-26,35,3
+341,On Fire,Michel Camilo,4,1989-11-11,1989-12-23,34,4
+342,Someplace Else,Bill Watrous,8,1987-04-25,1987-07-18,34,7
+343,Nite Street,Rob Mullins,30,1986-07-05,1986-08-30,34,5
+344,Down On The Deuce,Hank Crawford,32,1984-10-06,1984-12-15,34,5
+345,In The Dark,Roy Ayers,30,1985-02-02,1985-03-30,33,5
+346,The George Benson Collection,George Benson,33,1983-11-12,1984-01-28,33,6
+347,As Falls Wichita So Falls Wichita Falls,Pat Metheny And Lyle Mays,42,1983-11-12,1984-04-21,33,12
+348,Svingin' With Svend,David Grisman,10,1988-03-19,1988-05-28,32,6
+349,2:00 A.M. Paradise Cafe,Barry Manilow,28,1985-02-16,1985-03-16,32,3
+350,The Color Purple,Soundtrack,30,1986-03-29,1986-05-10,32,4
+351,Times Like These,Gary Burton,9,1988-12-10,1989-03-04,31,7
+352,The Drifter,Max Bennett & Freeway,29,1986-12-06,1987-02-14,31,6
+353,Torch Song Trilogy,Various Artists,7,1989-03-18,1989-05-13,30,5
+354,Endlessly,Dizzy Gillespie,9,1988-07-23,1988-10-01,30,6
+355,The Columbia Years 1955-1985,Miles Davis,9,1989-01-21,1989-04-15,30,7
+356,Blue To The Bone,Jimmy McGriff,11,1989-02-04,1989-05-27,30,9
+357,Skydance,Rodney Franklin,31,1985-07-06,1985-08-31,30,5
+358,Live At The Keystone Korner,Paquito D'Rivera,39,1983-11-12,1983-12-24,30,4
+359,Angel Street,Tony Williams,8,1988-11-26,1989-02-18,29,7
+360,Magnetic,Steps Ahead,29,1986-08-16,1986-09-13,29,3
+361,Echoes,The Modern Jazz Quartet,39,1984-09-22,1984-10-20,29,3
+362,Deedles,Diane Schuur,33,1985-02-02,1985-05-11,28,8
+363,Makoto,Makoto,42,1984-07-28,1984-09-22,28,5
+364,Superblue,Superblue,9,1989-04-15,1989-06-10,25,5
+365,Live At Mt. Fuji,Out Of The Blue,9,1987-08-29,1987-11-07,25,6
+366,"Other Times, Other Places",David Friesen,11,1989-09-30,1989-12-09,25,6
+367,Last Nite,Larry Carlton,16,1987-02-14,1987-02-14,25,1
+368,Generation,Kenny Burrell & The Jazz Guitar Band,9,1987-06-06,1987-08-29,24,7
+369,Crystal,Ahmad Jamal,11,1987-12-05,1988-03-05,24,7
+370,Jazz At The Philharmonic,Ella Fitzgerald,32,1985-03-30,1985-04-27,24,3
+371,Blues In The Night,Etta James & Eddie Vincent,10,1986-11-22,1987-04-11,23,10
+372,Kalahari,Dave Valentin,31,1984-11-17,1984-12-15,23,3
+373,High Voltage,The Count Basie Orchestra,31,1985-03-30,1985-04-27,23,3
+374,Morning Song,David Murray Quartet,32,1985-03-16,1985-04-13,23,3
+375,Art Deco,Don Cherry,9,1989-07-22,1989-09-16,22,5
+376,Genius + Soul = Jazz,Ray Charles,10,1988-09-03,1988-10-29,22,5
+377,Universal Rhythm,Ralph MacDonald,30,1985-01-05,1985-01-19,22,2
+378,Thelonica,Tommy Flanagan,43,1984-06-30,1984-08-25,22,5
+379,The Best Of Impulse! Vol. I,Various Artists,6,1988-06-11,1988-07-23,21,4
+380,My Favourite Songs: The Last Great Concert,Chet Baker,7,1989-11-25,1989-12-23,21,3
+381,Boss Brass & Woods,Rob Mc Connel & The Boss Brass,10,1987-08-01,1987-09-26,21,5
+382,Soul Survivors,Hank Crawford And Jimmy McGriff,13,1986-08-30,1987-02-28,21,6
+383,Kind Of Blue,Miles Davis,10,1987-03-14,1987-04-25,20,4
+384,The Next Day,Leni Stern,11,1988-03-19,1988-05-14,20,5
+385,Vapor Drawings,Mark Isham,44,1984-01-07,1984-05-05,20,9
+386,Michel Plays Petrucciani,Michel Petrucciani,9,1988-07-23,1988-09-03,19,4
+387,Sunscapes,Michael Jones,32,1986-10-11,1986-11-08,19,3
+388,Children's Songs,Chick Corea,41,1984-06-16,1984-07-14,19,3
+389,Makoto Ozone,Makoto Ozone,34,1984-11-03,1984-12-01,18,3
+390,It Takes Two,Rodney Franklin,34,1986-08-16,1986-09-27,18,4
+391,It's About Time,McCoy Tyner/Jackie McLean,35,1986-03-15,1986-04-26,18,4
+392,Murray's Steps,David Murray Octet,43,1983-11-12,1983-12-10,18,3
+393,Ever Since The World Ended,Mose Allison,10,1988-01-23,1988-03-19,17,5
+394,Down On The Street,Shakatak,33,1985-03-16,1985-04-13,17,3
+395,Foreign Intrigue,Tony Williams,34,1986-03-15,1986-04-12,17,3
+396,Ballads,John Coltrane Quartet,11,1987-03-28,1987-05-09,16,4
+397,Moonlighting,The Rippingtons,25,1987-02-14,1987-02-14,16,1
+398,MCA Master Series Sampler '86,Various Artists,34,1986-06-07,1986-07-05,16,3
+399,Wild Romance,Herb Alpert,35,1985-09-14,1985-10-26,16,4
+400,Oasis,Kitaro,35,1985-08-17,1985-09-28,16,4
+401,Dimensions,McCoy Tyner,43,1984-08-11,1984-08-25,16,2
+402,Mood Indigo,Frank Morgan,7,1989-12-09,1989-12-23,15,2
+403,Angles,Michael Pedicin Jr.,10,1989-05-27,1989-07-08,15,4
+404,A Change Of Heart,David Sanborn,26,1987-02-14,1987-02-14,15,1
+405,Two Hearts,Peter Kater,31,1987-01-31,1987-02-14,15,2
+406,Didier Lockwood Group,Didier Lockwood Group,33,1985-06-08,1985-06-22,15,2
+407,Voyage,Stan Getz,33,1986-10-11,1986-11-22,15,4
+408,Live Jazz,Nancy Kelly,11,1988-07-09,1988-08-06,14,3
+409,I'll Be Seeing You,Etta Jones,11,1989-02-04,1989-04-01,14,5
+410,Cotton Candy,Al Hirt,12,1989-04-29,1989-06-24,14,5
+411,Inside Track,Out Of The Blue,31,1986-10-11,1986-12-06,14,5
+412,After,Makoto Ozone,33,1986-07-05,1986-07-19,14,2
+413,Live At Sweet Basil,David Murray Big Band,35,1985-06-22,1985-07-20,14,3
+414,Spectrum,Azymuth,35,1985-10-12,1985-11-09,14,3
+415,Skywalk,Jimmy McGriff,44,1984-10-06,1984-10-20,14,2
+416,Live In Zurich,World Saxophone Quartet,45,1984-08-25,1984-09-22,14,3
+417,Four For All,Sphere,10,1987-08-29,1987-09-26,13,3
+418,A Tribute To John Coltrane,Various Artists,11,1988-10-15,1988-11-26,13,4
+419,Gene Harris Trio Plus One,Gene Harris Trio Plus One,11,1986-11-22,1987-03-14,13,8
+420,Easily Slip Into Another World,Henry Threadgill,12,1988-05-14,1988-06-25,13,4
+421,Into The Faddisphere,Jon Faddis,13,1989-10-14,1989-12-09,13,5
+422,Conferring With The Moon,William Ackerman,35,1986-07-19,1986-08-16,13,3
+423,Twilight Time,Bennie Wallace,36,1986-04-12,1986-05-10,13,3
+424,Countdown,Jimmy McGriff,41,1983-11-12,1983-11-26,13,2
+425,Color,Rick Margitza,9,1989-11-25,1989-12-23,12,3
+426,Dancing In The Dark,Sonny Rollins,11,1988-05-14,1988-06-25,12,4
+427,Ernie Watts Quartet,Ernie Watts Quartet,12,1988-11-12,1989-01-07,12,5
+428,Flute Juice,Dave Valentin,43,1984-03-10,1984-03-24,12,2
+429,Fresh Aire VI,Mannheim Steamroller,36,1986-12-20,1987-01-31,11,4
+430,Everthing I Have Is Yours-The M.G.M. Years,Billy Eckstine,36,1985-12-21,1986-02-15,11,5
+431,Silhouettes,Lonnie Liston Smith,38,1985-01-05,1985-03-02,11,4
+432,Heard Round The World,Miles Davis,45,1984-01-07,1984-01-28,11,2
+433,Fanfare,Kittyhawk,47,1984-08-25,1984-09-22,11,3
+434,Romance And Revolution,James Newton,12,1987-04-11,1987-05-09,10,3
+435,Celebration,Paquito D'Rivera,12,1988-06-25,1988-08-06,10,4
+436,Here's To My Lady,Phil Woods,12,1989-08-05,1989-09-30,10,5
+437,Good Time For Love,Sadao Watanabe,35,1986-09-13,1986-09-27,10,2
+438,Sarah Vaughan Sings The George Gerswin Songbook,Sarah Vaughan,44,1984-06-02,1984-06-30,10,3
+439,Love Fantasy,Alphonse Mouzon,32,1987-02-14,1987-02-14,9,1
+440,Thief In The Night,George Duke,36,1985-05-25,1985-06-08,9,2
+441,Cotton Club,Soundtrack,36,1985-03-16,1985-03-30,9,2
+442,Maiden Voyage,Herbie Hancock,37,1985-05-25,1985-06-22,9,3
+443,Journey To A Rainbow,Chuck Mangione,42,1983-11-12,1983-11-12,9,1
+444,The Rhythm & The Blues Years,Dinah Washington,46,1984-02-11,1984-02-25,9,2
+445,Crystal Stair,Donald Harrison & Terrance Blanchard,13,1987-11-21,1988-01-23,7,5
+446,Anthology,"Grover Washington, Jr.",37,1985-11-09,1985-11-23,7,2
+447,In A Jazz Tradition,Eric Gale,14,1989-05-27,1989-06-24,6,3
+448,Find Out,The Stanley Clarke Band,38,1985-09-14,1985-09-28,6,2
+449,The Genie,Bob James,47,1983-11-12,1983-11-26,6,2
+450,Look For The Silver Lining,Alberta Hunter,47,1983-11-26,1983-12-10,6,2
+451,Pittsburgh,Ahmad Jamal,11,1989-12-23,1989-12-23,5,1
+452,Blue Delight,Sun Ra,13,1989-08-05,1989-08-19,5,2
+453,FF&C III,Full Faith & Credit Big Band,14,1988-12-24,1989-01-21,5,3
+454,Live At Fulham Town Hall,Charlie Watts Orchestra,14,1987-02-28,1987-03-28,5,3
+455,Brother's Keeper,Bob Thompson,36,1987-02-14,1987-02-14,5,1
+456,Blues 'n Jazz,B.B. King,46,1983-11-12,1983-11-12,5,1
+457,Music,Michel Petrucciani,12,1989-12-23,1989-12-23,4,1
+458,Moving Forward,James Moody,14,1988-06-25,1988-07-09,4,2
+459,Sweet And Lovely,James Moody,14,1989-10-14,1989-11-11,4,3
+460,"",Mack The Knife,39,1985-11-23,1985-12-07,4,2
+461,Sketches Of Spain: 50th Anniversary,Miles Davis,13,1987-03-14,1987-03-14,3,1
+462,After Hours,"Andre Previn, Joe Pass & Ray Brown",13,1989-12-23,1989-12-23,3,1
+463,What A Wonderful World,Louis Armstrong,13,1988-06-11,1988-06-11,3,1
+464,Steppin' Up,Hank Crawford And Jimmy McGriff,15,1988-04-16,1988-05-14,3,3
+465,Maiden Dance,John Blake,45,1984-05-05,1984-05-19,3,2
+466,Ella Fitzgerald Sings The George And Ira Gershwin,Ella Fitzgerald,48,1983-11-12,1983-11-12,3,1
+467,Bud & Bird,Gil Evans,15,1988-07-23,1988-08-06,2,2
+468,Easy Living,Laurel Masse,15,1987-03-28,1987-04-11,2,2
+469,Three Windows,The Modern Jazz Quartet With The New York Chamber Symphony,15,1987-08-15,1987-09-12,2,2
+470,Think Again,Wishful Thinking,39,1987-02-14,1987-02-14,2,1
+471,Gettin' Away With Murder,Patti Austin,39,1986-02-15,1986-03-01,2,2
+472,Echoes,Wally Badarou,39,1986-07-05,1986-07-19,2,2
+473,Pianism,The Michel Petrucciani Trio,39,1986-07-19,1986-08-16,2,3
+474,Unaccountable Effect,Liz Story,40,1985-07-06,1985-07-20,2,2
+475,Music For The Knee Plays,David Byrne,40,1985-09-14,1985-09-28,2,2
+476,Explosion,Paquito D'Rivera,40,1986-03-29,1986-04-12,2,2
+477,Straight No Chaser,Soundtrack,15,1989-12-23,1989-12-23,1,1
+478,Heavy Nights,Passport,15,1987-02-28,1987-02-28,1,1
+479,Other Aspects,Eric Dolphy,15,1987-04-25,1987-04-25,1,1
+480,Carmen McRae & Betty Carter,Carmen McRae & Betty Carter,15,1988-09-17,1988-09-17,1,1
+481,Cornbread,Lee Morgan,15,1988-07-09,1988-07-09,1,1
+482,New Weave,Rare Silk,50,1983-11-12,1983-11-12,1,1
+483,Rejuvination,Lonnie Liston Smith,40,1986-02-01,1986-02-15,0,2
+484,On The Cool Side,Ben Sidran,40,1986-03-01,1986-03-15,0,2
+485,Mobo Splash,Kazumi Watanabe,40,1986-06-21,1986-07-05,0,2
+486,Swing Street,Joe Sample & David T. Walker,39,1986-11-08,1986-11-08,-1,1

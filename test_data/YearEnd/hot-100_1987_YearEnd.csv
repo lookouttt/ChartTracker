@@ -1,0 +1,493 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Here I Go Again,Whitesnake,1,1987-07-04,1987-12-26,2209,26
+2,Nothing's Gonna Stop Us Now,Starship,1,1987-01-31,1987-06-27,2107,22
+3,Alone,Heart,1,1987-05-16,1987-10-03,2084,21
+4,Don't Dream It's Over,Crowded House,2,1987-01-17,1987-06-27,2062,24
+5,Only In My Dreams,Debbie Gibson,4,1987-05-09,1987-11-14,2044,28
+6,The Lady In Red,Chris de Burgh,3,1987-02-14,1987-08-08,2032,26
+7,La Bamba,Los Lobos,1,1987-06-27,1987-11-14,2020,21
+8,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,1,1987-05-16,1987-09-12,2006,18
+9,Always,Atlantic Starr,1,1987-03-28,1987-08-22,1946,22
+10,"Shakedown (From ""Beverly Hills Cop II"")",Bob Seger,1,1987-05-23,1987-09-19,1933,18
+11,Heart And Soul,T'Pau,4,1987-05-02,1987-10-31,1917,27
+12,Livin' On A Prayer,Bon Jovi,1,1987-01-03,1987-05-02,1890,18
+13,Head To Toe,Lisa Lisa And Cult Jam,1,1987-04-11,1987-08-22,1888,20
+14,With or Without You,U2,1,1987-03-21,1987-07-18,1847,18
+15,Looking For A New Love,Jody Watley,2,1987-03-07,1987-07-11,1835,19
+16,I Think We're Alone Now,Tiffany,1,1987-08-29,1987-12-26,1819,18
+17,"I Want Your Sex (From ""Beverly Hills Cop II"")",George Michael,2,1987-06-06,1987-10-17,1800,20
+18,U Got The Look,Prince,2,1987-08-01,1987-12-26,1792,22
+19,Mony Mony,Billy Idol,1,1987-09-05,1987-12-26,1773,17
+20,Didn't We Almost Have It All,Whitney Houston,1,1987-08-01,1987-11-21,1768,17
+21,I Still Haven't Found What I'm Looking For,U2,1,1987-06-13,1987-10-03,1757,17
+22,(I Just) Died In Your Arms,Cutting Crew,1,1987-03-07,1987-07-11,1741,19
+23,You Keep Me Hangin' On,Kim Wilde,1,1987-03-28,1987-08-15,1736,21
+24,Lost In Emotion,Lisa Lisa And Cult Jam,1,1987-08-01,1987-12-12,1733,20
+25,Lean On Me,Club Nouveau,1,1987-02-14,1987-06-06,1720,17
+26,"Somewhere Out There (From ""An American Tail"")",Linda Ronstadt & James Ingram,2,1987-01-03,1987-05-16,1663,20
+27,I Knew You Were Waiting (For Me),Aretha Franklin & George Michael,1,1987-02-21,1987-06-13,1643,17
+28,(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,1,1987-09-26,1987-12-26,1619,14
+29,Can't We Try,Dan Hill (Duet With Vonda Shepard),6,1987-06-06,1987-11-14,1595,24
+30,Heaven Is A Place On Earth,Belinda Carlisle,1,1987-09-26,1987-12-26,1593,14
+31,Let's Wait Awhile,Janet Jackson,2,1987-01-17,1987-05-23,1592,19
+32,Songbird,Kenny G,4,1987-04-04,1987-08-29,1583,22
+33,Don't Mean Nothing,Richard Marx,3,1987-06-13,1987-10-31,1578,21
+34,Who's That Girl,Madonna,1,1987-07-11,1987-10-24,1574,16
+35,"I Heard A Rumour (From ""Disorderlies"")",Bananarama,4,1987-07-18,1987-11-21,1553,19
+36,Jacob's Ladder,Huey Lewis & The News,1,1987-01-17,1987-04-25,1545,15
+37,Little Lies,Fleetwood Mac,4,1987-08-29,1987-12-26,1543,18
+38,You Got It All,The Jets,3,1987-01-03,1987-05-09,1531,19
+39,In Too Deep,Genesis,3,1987-04-25,1987-08-15,1528,17
+40,Luka,Suzanne Vega,3,1987-06-06,1987-10-10,1519,19
+41,Don't Disturb This Groove,The System,4,1987-04-11,1987-08-29,1515,21
+42,Rock Steady,The Whispers,7,1987-06-06,1987-11-07,1511,23
+43,Carrie,Europe,3,1987-08-01,1987-12-05,1510,19
+44,Causing A Commotion,Madonna,2,1987-09-12,1987-12-26,1508,16
+45,Nothing's Gonna Change My Love For You,Glenn Medeiros,12,1987-02-14,1987-08-01,1469,25
+46,At This Moment,Billy Vera & The Beaters,1,1987-01-03,1987-03-28,1457,13
+47,Come Go With Me,Expose,5,1987-01-24,1987-05-30,1456,19
+48,Breakout,Swing Out Sister,6,1987-08-15,1987-12-26,1451,20
+49,I Just Can't Stop Loving You,Michael Jackson With Siedah Garrett,1,1987-08-08,1987-11-07,1445,14
+50,La Isla Bonita,Madonna,4,1987-03-21,1987-07-11,1444,17
+51,Open Your Heart,Madonna,1,1987-01-03,1987-04-04,1442,14
+52,Keep Your Hands To Yourself,The Georgia Satellites,2,1987-01-03,1987-04-04,1441,14
+53,The Finer Things,Steve Winwood,8,1987-02-07,1987-07-11,1433,23
+54,Mandolin Rain,Bruce Hornsby & The Range,4,1987-01-17,1987-05-16,1423,18
+55,Let Me Be The One,Expose,7,1987-08-15,1987-12-26,1403,20
+56,When Smokey Sings,ABC,5,1987-07-04,1987-11-07,1395,19
+57,Meet Me Half Way,Kenny Loggins,11,1987-03-07,1987-08-22,1376,25
+58,Should've Known Better,Richard Marx,3,1987-09-26,1987-12-26,1374,14
+59,Bad,Michael Jackson,1,1987-09-19,1987-12-19,1372,14
+60,Something So Strong,Crowded House,7,1987-05-02,1987-09-19,1366,21
+61,Sign 'O' The Times,Prince,3,1987-03-07,1987-06-06,1364,14
+62,Will You Still Love Me?,Chicago,3,1987-01-03,1987-04-18,1364,16
+63,Rhythm Is Gonna Get You,Gloria Estefan & Miami Sound Machine,5,1987-05-30,1987-09-19,1363,17
+64,Casanova,Levert,5,1987-08-15,1987-12-12,1344,18
+65,Midnight Blue,Lou Gramm,5,1987-01-31,1987-06-13,1331,20
+66,"Tonight, Tonight, Tonight",Genesis,3,1987-02-14,1987-05-23,1317,15
+67,Diamonds,Herb Alpert,5,1987-04-11,1987-08-15,1315,19
+68,Point Of No Return,Expose,5,1987-05-09,1987-08-29,1314,17
+69,Wanted Dead Or Alive,Bon Jovi,7,1987-04-11,1987-08-01,1314,17
+70,Just To See Her,Smokey Robinson,8,1987-03-28,1987-08-15,1314,21
+71,Faith,George Michael,1,1987-10-24,1987-12-26,1302,10
+72,Big Time,Peter Gabriel,8,1987-01-03,1987-05-02,1296,18
+73,Big Love,Fleetwood Mac,5,1987-03-28,1987-07-11,1277,16
+74,Who Will You Run To,Heart,7,1987-08-15,1987-12-26,1261,20
+75,Touch Me (I Want Your Body),Samantha Fox,4,1987-01-03,1987-04-04,1251,14
+76,Heat Of The Night,Bryan Adams,6,1987-03-28,1987-07-11,1251,16
+77,In My Dreams,REO Speedwagon,19,1987-07-18,1987-12-26,1225,24
+78,C'est La Vie,Robbie Nevil,2,1987-01-03,1987-03-14,1220,11
+79,Right On Track,The Breakfast Club,7,1987-03-14,1987-07-18,1210,19
+80,Shake Your Love,Debbie Gibson,4,1987-10-03,1987-12-26,1198,13
+81,"Cross My Broken Heart (From ""Beverly Hills Cop II"")",The Jets,7,1987-06-06,1987-09-19,1194,16
+82,I've Been In Love Before,Cutting Crew,9,1987-09-05,1987-12-26,1181,17
+83,Doing It All For My Baby,Huey Lewis & The News,6,1987-07-18,1987-10-31,1175,16
+84,Wipeout,Fat Boys & The Beach Boys,12,1987-07-11,1987-11-14,1171,19
+85,Shake You Down,Gregory Abbott,1,1987-01-03,1987-03-14,1170,11
+86,Brilliant Disguise,Bruce Springsteen,5,1987-10-03,1987-12-26,1155,13
+87,Change Of Heart,Cyndi Lauper,3,1987-01-03,1987-03-21,1154,12
+88,Let's Go!,Wang Chung,9,1987-01-24,1987-05-23,1151,18
+89,Respect Yourself,Bruce Willis,5,1987-01-17,1987-04-18,1149,14
+90,The Final Countdown,Europe,8,1987-01-24,1987-05-23,1140,18
+91,Back In The High Life Again,Steve Winwood,13,1987-05-30,1987-10-17,1130,21
+92,I'd Still Say Yes,Klymaxx,18,1987-05-02,1987-09-12,1123,20
+93,One Heartbeat,Smokey Robinson,10,1987-07-18,1987-11-21,1120,19
+94,Is This Love,Whitesnake,2,1987-10-24,1987-12-26,1109,10
+95,The Pleasure Principle,Janet Jackson,14,1987-05-23,1987-09-19,1098,18
+96,(You Gotta) Fight For Your Right (To Party!),Beastie Boys,7,1987-01-03,1987-04-18,1097,16
+97,Funkytown,Pseudo Echo,6,1987-05-16,1987-08-22,1092,15
+98,It's A Sin,Pet Shop Boys,9,1987-09-05,1987-12-26,1092,17
+99,Paper In Fire,John Mellencamp,9,1987-08-15,1987-11-28,1080,16
+100,Lessons In Love,Level 42,12,1987-04-04,1987-08-01,1080,18
+101,Don't You Want Me,Jody Watley,6,1987-10-03,1987-12-26,1051,13
+102,The One I Love,R.E.M.,9,1987-09-19,1987-12-26,1051,15
+103,We'll Be Together,Sting,7,1987-10-10,1987-12-26,1049,12
+104,If She Would Have Been Faithful. . .,Chicago,17,1987-03-21,1987-07-25,1047,19
+105,Ballerina Girl,Lionel Richie,7,1987-01-03,1987-04-04,1039,14
+106,Stone Love,Kool & The Gang,10,1987-02-07,1987-06-06,1039,18
+107,Jump Start,Natalie Cole,13,1987-07-25,1987-11-21,1031,18
+108,I Wanna Go Back,Eddie Money,14,1987-01-03,1987-05-09,1021,19
+109,I Won't Forget You,Poison,13,1987-09-05,1987-12-26,1020,17
+110,Kiss Him Goodbye,The Nylons,12,1987-05-16,1987-09-05,1017,17
+111,Land Of Confusion,Genesis,4,1987-01-03,1987-03-21,1016,12
+112,Talk Dirty To Me,Poison,9,1987-03-14,1987-06-27,1012,16
+113,I'll Be Alright Without You,Journey,14,1987-01-03,1987-04-25,1012,17
+114,It's Not Over ('til It's Over),Starship,9,1987-06-27,1987-10-10,1009,16
+115,Wot's It To Ya,Robbie Nevil,10,1987-05-30,1987-09-12,994,16
+116,"Catch Me (I'm Falling) (From The Film ""Hiding Out"")",Pretty Poison,8,1987-09-26,1987-12-26,989,14
+117,Touch Of Grey,Grateful Dead,9,1987-07-25,1987-10-31,989,15
+118,Brand New Lover,Dead Or Alive,15,1987-01-03,1987-04-25,989,17
+119,So Emotional,Whitney Houston,2,1987-10-31,1987-12-26,980,9
+120,Walking Down Your Street,The Bangles,11,1987-02-14,1987-05-30,974,16
+121,Control,Janet Jackson,5,1987-01-03,1987-02-28,971,9
+122,"Girls, Girls, Girls",Motley Crue,12,1987-05-30,1987-09-05,970,15
+123,Love You Down,Ready For The World,9,1987-01-03,1987-04-04,968,14
+124,I Know What I Like,Huey Lewis & The News,9,1987-04-04,1987-07-04,964,14
+125,Don't Make Me Wait For Love,Kenny G. (Vocal By Lenny Williams),15,1987-08-29,1987-12-26,958,18
+126,Mary's Prayer,Danny Wilson,23,1987-06-06,1987-10-17,957,20
+127,Serious,Donna Allen,21,1987-02-14,1987-06-13,946,18
+128,Walk Like An Egyptian,The Bangles,1,1987-01-03,1987-02-28,945,9
+129,Hourglass,Squeeze,15,1987-09-19,1987-12-26,935,15
+130,Endless Nights,Eddie Money,21,1987-04-11,1987-08-15,930,19
+131,That's What Love Is All About,Michael Bolton,19,1987-09-05,1987-12-26,926,17
+132,As We Lay,Shirley Murdock,23,1987-01-17,1987-05-16,926,18
+133,Someday,Glass Tiger,7,1987-01-03,1987-03-21,919,12
+134,Dominoes,Robbie Nevil,14,1987-02-14,1987-05-30,909,16
+135,Every Little Kiss,Bruce Hornsby & The Range,14,1987-05-16,1987-08-22,906,15
+136,Love Power,Dionne Warwick & Jeffrey Osborne,12,1987-07-11,1987-10-10,903,14
+137,Who Found Who,Jellybean Featuring Elisa Fiorillo,16,1987-07-11,1987-10-17,893,15
+138,Fascinated,Company B,21,1987-03-21,1987-07-18,889,18
+139,Nobody's Fool,Cinderella,13,1987-01-03,1987-03-28,875,13
+140,Got My Mind Set On You,George Harrison,4,1987-10-24,1987-12-26,873,10
+141,Give To Live,Sammy Hagar,23,1987-06-20,1987-10-10,872,17
+142,Where The Streets Have No Name,U2,13,1987-09-12,1987-12-12,869,14
+143,Come As You Are,Peter Wolf,15,1987-02-28,1987-06-06,859,15
+144,You Are The Girl,The Cars,17,1987-08-29,1987-11-28,859,14
+145,What You Get Is What You See,Tina Turner,13,1987-02-07,1987-05-09,852,14
+146,Valerie,Steve Winwood,9,1987-10-10,1987-12-26,846,12
+147,Stop To Love,Luther Vandross,15,1987-01-03,1987-03-21,845,12
+148,Notorious,Duran Duran,2,1987-01-03,1987-02-21,832,8
+149,What's Going On,Cyndi Lauper,12,1987-03-14,1987-06-06,831,13
+150,Happy,Surface,20,1987-05-23,1987-08-22,820,14
+151,I Need Love,LL Cool J,14,1987-08-01,1987-10-24,817,13
+152,Living In A Box,Living In A Box,17,1987-06-20,1987-09-26,814,15
+153,Candy,Cameo,21,1987-01-03,1987-04-18,813,16
+154,We're Ready,Boston,9,1987-01-03,1987-03-14,807,11
+155,Dude (Looks Like A Lady),Aerosmith,14,1987-10-03,1987-12-26,805,13
+156,The Honeythief,Hipsway,19,1987-01-24,1987-05-02,799,15
+157,Seven Wonders,Fleetwood Mac,19,1987-06-20,1987-09-12,784,13
+158,Talk To Me,Chico DeBarge,21,1987-01-03,1987-03-21,779,12
+159,That Ain't Love,REO Speedwagon,16,1987-01-31,1987-05-02,776,14
+160,Se La,Lionel Richie,20,1987-03-28,1987-06-20,757,13
+161,The Right Thing,Simply Red,27,1987-02-28,1987-06-06,754,15
+162,Holiday,The Other Ones,29,1987-08-01,1987-11-21,754,17
+163,Silent Morning,Noel,47,1987-08-22,1987-12-26,747,19
+164,"Come On, Let's Go",Los Lobos,21,1987-09-12,1987-12-12,745,14
+165,You Can Call Me Al,Paul Simon,23,1987-03-28,1987-07-04,745,15
+166,Sweet Sixteen,Billy Idol,20,1987-04-25,1987-07-25,732,14
+167,Lies,Jonathan Butler,27,1987-06-27,1987-09-26,731,14
+168,Tell It To My Heart(Dub),Taylor Dayne,12,1987-10-10,1987-12-26,727,12
+169,I'll Still Be Loving You,Restless Heart,33,1987-04-11,1987-08-08,727,18
+170,Since You've Been Gone,The Outfield,31,1987-06-13,1987-09-19,726,15
+171,Skeletons,Stevie Wonder,19,1987-10-17,1987-12-26,722,11
+172,Smoking Gun,The Robert Cray Band,22,1987-02-07,1987-05-09,722,14
+173,Fake,Alexander O'Neal,25,1987-07-25,1987-10-31,714,15
+174,Heartbreak Beat,Psychedelic Furs,26,1987-03-14,1987-06-13,711,14
+175,Day-In Day-Out,David Bowie,21,1987-04-04,1987-06-20,710,12
+176,We Connect,Stacey Q,35,1987-01-03,1987-04-18,708,16
+177,Stay The Night,Benjamin Orr,24,1987-01-03,1987-03-21,703,12
+178,Show Me,The Cover Girls,44,1987-02-28,1987-06-27,696,18
+179,Animal,Def Leppard,19,1987-10-10,1987-12-26,688,12
+180,Everybody Have Fun Tonight,Wang Chung,2,1987-01-03,1987-02-21,685,8
+181,Cherry Bomb,John Mellencamp,9,1987-10-24,1987-12-26,685,10
+182,Jammin' Me,Tom Petty And The Heartbreakers,18,1987-04-25,1987-07-11,681,12
+183,I Do You,The Jets,20,1987-10-17,1987-12-26,680,11
+184,Moonlighting (Theme),Al Jarreau,23,1987-05-30,1987-08-22,678,13
+185,Love Will Find A Way,Yes,30,1987-10-03,1987-12-26,677,13
+186,Hearts On Fire,Bryan Adams,26,1987-06-13,1987-09-05,676,13
+187,Is This Love,Survivor,9,1987-01-03,1987-02-28,669,9
+188,Can'tcha Say (You Believe In Me)/Still In Love,Boston,20,1987-03-07,1987-05-30,656,13
+189,Ship Of Fools (Save Me From Tomorrow),World Party,27,1987-02-14,1987-05-23,650,15
+190,Soul City,Partland Brothers,27,1987-05-02,1987-07-25,644,13
+191,Can't Help Falling In Love,Corey Hart,24,1987-01-03,1987-03-14,628,11
+192,Boys Night Out,Timothy B. Schmit,25,1987-09-19,1987-12-12,624,13
+193,Need You Tonight,INXS,10,1987-10-24,1987-12-26,622,10
+194,This Is The Time,Billy Joel,18,1987-01-03,1987-03-07,611,10
+195,Facts Of Love,Jeff Lorber & Karyn White,27,1987-01-03,1987-03-21,610,12
+196,Victory,Kool & The Gang,10,1987-01-03,1987-02-28,609,9
+197,Rock The Night,Europe,30,1987-05-02,1987-07-25,600,13
+198,Flames Of Paradise,Jennifer Rush (Duet With Elton John),36,1987-05-16,1987-08-08,589,13
+199,Jam Tonight,Freddie Jackson,32,1987-06-27,1987-09-19,586,13
+200,Never Let Me Down,David Bowie,27,1987-08-08,1987-10-17,585,11
+201,Something Real (Inside Me/Inside You),Mr. Mister,29,1987-08-22,1987-10-31,579,11
+202,The Way It Is,Bruce Hornsby & The Range,5,1987-01-03,1987-02-14,575,7
+203,Making Love In The Rain,Herb Alpert,35,1987-07-18,1987-10-17,574,14
+204,Get That Love,Thompson Twins,31,1987-03-28,1987-06-06,570,11
+205,Victim Of Love,Bryan Adams,32,1987-08-22,1987-11-07,569,12
+206,Sugar Free,Wa Wa Nee,35,1987-09-12,1987-12-05,561,13
+207,Dreamin',Will To Power,50,1987-06-27,1987-10-10,555,16
+208,No One In The World,Anita Baker,44,1987-08-22,1987-12-12,553,17
+209,Caught Up In The Rapture,Anita Baker,37,1987-01-03,1987-03-28,547,13
+210,Notorious,Loverboy,38,1987-08-22,1987-11-21,544,14
+211,I Don't Mind At All,Bourgeois Tagg,38,1987-10-10,1987-12-26,542,12
+212,Candle In The Wind,Elton John,13,1987-11-07,1987-12-26,536,8
+213,Why You Treat Me So Bad,Club Nouveau,39,1987-05-30,1987-08-22,536,13
+214,Crazy,Icehouse,22,1987-10-17,1987-12-26,533,11
+215,Power Of Love,Laura Branigan,27,1987-10-24,1987-12-26,520,10
+216,Boom Boom (Let's Go Back To My Room),Paul Lekakis,43,1987-03-07,1987-05-30,514,13
+217,There's The Girl,Heart,18,1987-11-07,1987-12-26,512,8
+218,"Hypnotize Me (From ""Innerspace"")",Wang Chung,36,1987-06-06,1987-08-22,512,12
+219,Stand By Me,Ben E. King,9,1987-01-03,1987-02-21,509,8
+220,One For The Mockingbird,Cutting Crew,38,1987-06-06,1987-08-15,507,11
+221,Just Like Heaven,The Cure,41,1987-10-10,1987-12-26,507,12
+222,Don't Look Down - The Sequel,Go West,39,1987-08-01,1987-10-24,506,13
+223,Same Ole Love (365 Days A Year),Anita Baker,44,1987-03-21,1987-06-20,504,14
+224,The Way You Make Me Feel,Michael Jackson,7,1987-11-21,1987-12-26,503,6
+225,I Will Be There,Glass Tiger,34,1987-02-28,1987-05-09,499,11
+226,Light Of Day,The Barbusters (Joan Jett And The Blackhearts),33,1987-02-21,1987-05-02,497,11
+227,All I Wanted,Kansas,19,1987-01-03,1987-02-28,491,9
+228,Motortown,The Kane Gang,36,1987-10-17,1987-12-26,484,11
+229,True Faith,New Order,32,1987-10-24,1987-12-26,481,10
+230,Jimmy Lee,Aretha Franklin,28,1987-01-03,1987-02-28,479,9
+231,War,Bruce Springsteen,8,1987-01-03,1987-02-07,478,6
+232,"Good Times (From ""The Lost Boys"")",INXS & Jimmy Barnes,47,1987-06-20,1987-09-12,476,13
+233,Coming Around Again,Carly Simon,18,1987-01-03,1987-02-21,472,8
+234,Misfit,Curiosity Killed The Cat,42,1987-08-01,1987-10-24,472,13
+235,Betcha Say That,Gloria Estefan & Miami Sound Machine,36,1987-09-05,1987-11-14,469,11
+236,Without Your Love,Toto,38,1987-01-03,1987-03-07,451,10
+237,Shelter,Lone Justice,47,1987-01-10,1987-03-28,450,12
+238,Don't Need A Gun,Billy Idol,37,1987-01-24,1987-03-21,447,9
+239,Wild Horses,Gino Vannelli,55,1987-04-18,1987-07-25,441,15
+240,Hazy Shade Of Winter,The Bangles,15,1987-11-14,1987-12-26,437,7
+241,Don't Leave Me This Way,The Communards,40,1987-01-03,1987-03-21,436,12
+242,"Back To Paradise (From ""Revenge Of The Nerds II"")",Thirty Eight Special,41,1987-07-25,1987-10-03,432,11
+243,Falling In Love (Uh-Oh),Miami Sound Machine,25,1987-01-03,1987-02-14,417,7
+244,I Could Never Take The Place Of Your Man,Prince,23,1987-11-14,1987-12-26,407,7
+245,"Hungry Eyes (From ""Dirty Dancing"")",Eric Carmen,25,1987-11-07,1987-12-26,406,8
+246,Skin Trade,Duran Duran,39,1987-01-31,1987-03-28,404,9
+247,These Times Are Hard For Lovers,John Waite,53,1987-06-20,1987-10-03,397,16
+248,Pop Goes The World,Men Without Hats,35,1987-10-31,1987-12-26,394,9
+249,There's Nothing Better Than Love,Luther Vandross with Gregory Hines,50,1987-03-14,1987-06-13,392,14
+250,I Live For Your Love,Natalie Cole,31,1987-11-07,1987-12-26,387,8
+251,Brass Monkey,Beastie Boys,48,1987-03-21,1987-05-23,387,10
+252,Dinner With Gershwin,Donna Summer,48,1987-08-22,1987-10-31,387,11
+253,Love Is Forever,Billy Ocean,16,1987-01-03,1987-02-07,385,6
+254,Winner Takes It All,Sammy Hagar,54,1987-02-14,1987-05-16,381,14
+255,Why Can't I Be You?,The Cure,54,1987-06-20,1987-09-05,376,12
+256,Don't Get Me Wrong,Pretenders,10,1987-01-03,1987-02-07,375,6
+257,Let's Work,Mick Jagger,39,1987-09-12,1987-11-07,372,9
+258,Beat Patrol,Starship,46,1987-09-26,1987-11-28,370,10
+259,I Want To Be Your Man,Roger,26,1987-11-14,1987-12-26,367,7
+260,I Got The Feelin' (It's Over),Gregory Abbott,56,1987-02-21,1987-05-02,361,11
+261,You Be Illin',Run-D.M.C.,29,1987-01-03,1987-02-21,357,8
+262,For Tonight,Nancy Martinez,32,1987-01-03,1987-02-21,356,8
+263,One Lover At A Time,Atlantic Starr,58,1987-08-15,1987-11-07,351,13
+264,Don't Shed A Tear,Paul Carrack,34,1987-11-14,1987-12-26,349,7
+265,Oh Yeah,Yello,51,1987-08-08,1987-10-17,348,11
+266,Shattered Glass,Laura Branigan,48,1987-07-04,1987-09-05,346,10
+267,(Baby Tell Me) Can You Dance,Shanice Wilson,50,1987-11-07,1987-12-26,344,8
+268,Keep Your Eye On Me,Herb Alpert,46,1987-02-28,1987-05-02,340,10
+269,Ready Or Not,Lou Gramm,54,1987-05-09,1987-07-25,335,12
+270,Seasons Change,Expose,20,1987-11-28,1987-12-26,333,5
+271,Honestly,Stryper,36,1987-11-07,1987-12-26,333,8
+272,Cry Wolf,a-ha,50,1987-01-24,1987-03-28,332,10
+273,The Next Time I Fall,Peter Cetera With Amy Grant,21,1987-01-03,1987-02-07,326,6
+274,You Give Love A Bad Name,Bon Jovi,24,1987-01-03,1987-02-14,319,7
+275,Rock Me,Great White,60,1987-08-22,1987-11-21,316,14
+276,Fire,Bruce Springsteen,46,1987-01-31,1987-03-21,315,8
+277,"Be There (From ""Beverly Hills Cop II"")",The Pointer Sisters,42,1987-08-08,1987-10-03,311,9
+278,Ain't So Easy,David & David,51,1987-01-24,1987-04-04,310,11
+279,"The Future's So Bright, I Gotta Wear Shades",Timbuk 3,19,1987-01-03,1987-02-07,307,6
+280,I Want Action,Poison,50,1987-06-13,1987-08-15,306,10
+281,Waterfall,Wendy And Lisa,56,1987-09-19,1987-11-21,305,10
+282,To Be A Lover,Billy Idol,11,1987-01-03,1987-01-31,304,5
+283,Johnny B,Hooters,61,1987-07-18,1987-09-26,304,11
+284,I Need Your Loving,The Human League,44,1987-01-03,1987-02-14,302,7
+285,Two People,Tina Turner,30,1987-01-03,1987-02-07,300,6
+286,Why Can't This Night Go On Forever,Journey,60,1987-04-25,1987-07-11,300,12
+287,We Are What We Are,The Other Ones,53,1987-04-18,1987-06-13,296,9
+288,I'm No Angel,The Gregg Allman Band,49,1987-04-04,1987-06-06,295,10
+289,Hooked On You,Sweet Sensation,64,1987-01-17,1987-04-04,295,12
+290,How Much Love,Survivor,51,1987-02-21,1987-04-18,290,9
+291,It's Tricky,Run-D.M.C.,57,1987-02-28,1987-05-02,290,10
+292,Could've Been,Tiffany,16,1987-11-28,1987-12-26,289,5
+293,Give Me All Night,Carly Simon,61,1987-05-23,1987-08-08,282,12
+294,Coming Up Close,'Til Tuesday,59,1987-01-10,1987-03-14,277,10
+295,Love Is Contagious,Taja Sevelle,62,1987-09-12,1987-11-14,274,10
+296,Back And Forth,Cameo,50,1987-04-25,1987-06-13,271,8
+297,Push It,Salt-N-Pepa,40,1987-11-21,1987-12-26,268,6
+298,System Of Survival,"Earth, Wind & Fire",60,1987-10-31,1987-12-26,265,9
+299,Why Should I Cry?,Nona Hendryx,58,1987-05-23,1987-07-18,264,9
+300,Say You Really Want Me,Kim Wilde,44,1987-07-18,1987-09-05,263,8
+301,You Know I Love You ... Don't You?,Howard Jones,17,1987-01-03,1987-01-31,261,5
+302,Kiss And Tell,The Breakfast Club,48,1987-07-11,1987-09-05,260,9
+303,Never Enough,Patty Smyth,61,1987-02-28,1987-05-09,255,11
+304,Everywhere,Fleetwood Mac,38,1987-11-28,1987-12-26,253,5
+305,Hip To Be Square,Huey Lewis & The News,20,1987-01-03,1987-01-31,252,5
+306,Girlfriend,Bobby Brown,57,1987-01-03,1987-02-14,252,7
+307,Satellite,Hooters,61,1987-10-03,1987-11-21,250,8
+308,Dirty Water,Rock And Hyde,61,1987-04-25,1987-06-27,247,10
+309,I Can't Help It,Bananarama,48,1987-11-21,1987-12-26,246,6
+310,Living In A Dream,Pseudo Echo,57,1987-03-28,1987-05-23,246,9
+311,Variety Tonight,REO Speedwagon,60,1987-05-09,1987-07-04,245,9
+312,Sexappeal,Georgio,58,1987-02-28,1987-04-25,237,9
+313,I Found Someone,Cher,44,1987-11-21,1987-12-26,236,6
+314,Tunnel Of Love,Bruce Springsteen,30,1987-12-05,1987-12-26,235,4
+315,The Best Man In The World,Ann Wilson,61,1987-01-03,1987-02-14,235,7
+316,We've Only Just Begun (The Romance Is Not Over),Glenn Jones,66,1987-10-31,1987-12-26,233,9
+317,Hold Me,Sheila E.,68,1987-02-07,1987-04-11,224,10
+318,Special Way,Kool & The Gang,72,1987-10-17,1987-12-26,223,11
+319,Dance,Ratt,59,1987-02-21,1987-04-18,221,9
+320,Say You Will,Foreigner,33,1987-12-05,1987-12-26,220,4
+321,Can't Stay Away From You,Gloria Estefan & Miami Sound Machine,45,1987-11-21,1987-12-26,217,6
+322,The Secret Of My Success,Night Ranger,64,1987-03-28,1987-05-16,217,8
+323,Have You Ever Loved Somebody,Freddie Jackson,69,1987-02-07,1987-04-04,214,9
+324,Should I See,Frozen Ghost,69,1987-04-11,1987-06-13,213,10
+325,Someone Like You,Daryl Hall,57,1987-01-24,1987-03-14,211,8
+326,Weapons Of Love,The Truth,65,1987-05-09,1987-07-04,211,9
+327,Still A Thrill,Jody Watley,56,1987-06-20,1987-08-01,208,7
+328,Word Up,Cameo,33,1987-01-03,1987-01-31,206,5
+329,If I Say Yes,Five Star,67,1987-01-03,1987-03-07,206,10
+330,Crazay,Jesse Johnson (Featuring Sly Stone),53,1987-01-03,1987-02-07,204,6
+331,That's Freedom,Tom Kimmel,64,1987-06-20,1987-08-08,200,8
+332,You And Me Tonight,Deja,54,1987-11-21,1987-12-26,192,6
+333,Follow You,Glen Burtnick,65,1987-09-26,1987-11-14,189,8
+334,Show Me The Way,Regina Belle,68,1987-07-18,1987-09-12,189,9
+335,Under The Boardwalk,Bruce Willis,59,1987-06-13,1987-07-25,184,7
+336,My Baby,Pretenders,64,1987-02-07,1987-03-21,183,7
+337,World Where You Live,Crowded House,65,1987-08-08,1987-09-26,176,8
+338,Love Will Conquer All,Lionel Richie,41,1987-01-03,1987-01-31,175,5
+339,French Kissin,Debbie Harry,57,1987-01-03,1987-01-31,171,5
+340,Criticize,Alexander O'Neal,70,1987-11-14,1987-12-26,171,7
+341,Big Mistake,Peter Cetera,61,1987-01-24,1987-02-28,170,6
+342,Human,The Human League,38,1987-01-03,1987-01-24,166,4
+343,I Don't Think That Man Should Sleep Alone,Ray Parker Jr.,68,1987-08-29,1987-10-10,166,7
+344,If You Let Me Stay,Terence Trent D'Arby,68,1987-10-24,1987-12-12,166,8
+345,Kiss You (When It's Dangerous),Eight Seconds,72,1987-01-31,1987-03-21,163,8
+346,Because Of You,The Cover Girls,51,1987-11-28,1987-12-26,161,5
+347,Kick The Wall,Jimmy Davis & Junction,67,1987-11-07,1987-12-12,158,6
+348,Deep River Woman,Lionel Richie,71,1987-01-17,1987-03-07,158,8
+349,Jane's Getting Serious,Jon Astley,77,1987-06-27,1987-08-29,158,10
+350,Somebody Save Me,Cinderella,66,1987-04-25,1987-06-06,157,7
+351,What Have I Done To Deserve This?,Pet Shop Boys & Dusty Springfield,39,1987-12-12,1987-12-26,156,3
+352,Reservations For Two,Dionne & Kashif,62,1987-10-31,1987-12-12,156,7
+353,Pump Up The Volume,M/A/R/R/S,46,1987-11-28,1987-12-26,155,5
+354,Learning To Fly,Pink Floyd,70,1987-10-10,1987-11-28,155,8
+355,Someone,El DeBarge,70,1987-01-03,1987-02-21,150,8
+356,Tasty Love,Freddie Jackson,47,1987-01-03,1987-01-24,149,4
+357,Suburbia,Pet Shop Boys,70,1987-01-03,1987-02-07,146,6
+358,Love Is A House,Force M.D.'s,78,1987-08-29,1987-10-24,146,9
+359,Heartache Away,Don Johnson,56,1987-01-03,1987-01-31,145,5
+360,Holiday,Kool & The Gang,66,1987-06-27,1987-08-08,145,7
+361,In Love With Love,Debbie Harry,70,1987-07-04,1987-08-15,143,7
+362,Weatherman Says,Jack Wagner,67,1987-05-09,1987-06-13,141,6
+363,Guaranteed For Life,Millions Like Us,69,1987-11-14,1987-12-19,141,6
+364,Crazy Crazy Nights,KISS,65,1987-09-26,1987-11-07,139,7
+365,Goldmine,The Pointer Sisters,45,1987-01-03,1987-01-24,138,4
+366,In God's Country,U2,53,1987-12-05,1987-12-26,136,4
+367,Primitive Love Rites,Mondo Rock,71,1987-05-23,1987-06-27,135,6
+368,(I Know) I'm Losing You,Uptown,80,1987-01-03,1987-03-07,131,10
+369,You Win Again,Bee Gees,75,1987-09-19,1987-10-24,125,6
+370,Eagles Fly,Sammy Hagar,82,1987-10-24,1987-12-26,125,10
+371,Young Blood,Bruce Willis,68,1987-04-11,1987-05-09,124,5
+372,Crazy World,Big Trouble,71,1987-10-17,1987-11-28,124,7
+373,Throwaway,Mick Jagger,67,1987-11-28,1987-12-26,123,5
+374,Baby Grand,Billy Joel featuring Ray Charles,75,1987-04-04,1987-05-16,121,7
+375,Lover's Lane,Georgio,59,1987-12-05,1987-12-26,120,4
+376,If I Was Your Girlfriend,Prince,67,1987-05-30,1987-07-04,118,6
+377,Don't Give Up,Peter Gabriel/Kate Bush,72,1987-04-04,1987-05-09,118,6
+378,Still Of The Night,Whitesnake,79,1987-06-13,1987-07-25,118,7
+379,What's Too Much,Smokey Robinson,79,1987-11-14,1987-12-26,118,7
+380,Wild Wild Life,Talking Heads,51,1987-01-03,1987-01-24,115,4
+381,I'll Be Over You,Toto,64,1987-01-03,1987-01-31,112,5
+382,Watching Over You,Glenn Medeiros,80,1987-08-01,1987-09-19,112,8
+383,Amanda,Boston,58,1987-01-03,1987-01-24,110,4
+384,True To You,Ric Ocasek,75,1987-01-03,1987-02-07,110,6
+385,Strangelove,Depeche Mode,76,1987-07-25,1987-08-29,107,6
+386,Meet El Presidente,Duran Duran,70,1987-05-02,1987-05-30,106,5
+387,Happy Together,The Nylons,75,1987-08-29,1987-10-10,106,7
+388,Heartache,Pepsi & Shirlie,78,1987-08-15,1987-10-03,104,8
+389,Take Me Home Tonight,Eddie Money,59,1987-01-03,1987-01-17,99,3
+390,Break Every Rule,Tina Turner,74,1987-05-09,1987-06-06,99,5
+391,I'm Not Perfect (But I'm Perfect For You),Grace Jones,69,1987-01-03,1987-01-24,98,4
+392,Hot In The City,Billy Idol,60,1987-12-12,1987-12-26,97,3
+393,Can't Get Started,Peter Wolf,75,1987-05-23,1987-06-20,97,5
+394,Showing Out (Get Fresh At The Weekend),Mel & Kim,78,1987-02-21,1987-04-04,96,7
+395,Sweet Rachel,Beau Coup,80,1987-10-31,1987-12-05,96,6
+396,Cherokee,Europe,72,1987-11-28,1987-12-26,94,5
+397,Someone To Love Me For Me,Lisa Lisa And Cult Jam Featuring Full Force,78,1987-11-14,1987-12-26,93,7
+398,Shy Girl,Stacey Q,89,1987-04-11,1987-06-20,90,11
+399,Boy Blue,Cyndi Lauper,71,1987-06-13,1987-07-04,88,4
+400,Want You For My Girlfriend,4 By Four,79,1987-06-13,1987-07-18,88,6
+401,Don't Tell Me The Time,Martha Davis,80,1987-11-21,1987-12-26,88,6
+402,A Trick Of The Night,Bananarama,76,1987-01-03,1987-02-07,87,6
+403,He's My Girl,David Hallyday,79,1987-08-29,1987-10-03,85,6
+404,True Blue,Madonna,57,1987-01-03,1987-01-17,84,3
+405,Black Dog,Newcity Rockers,80,1987-04-18,1987-05-23,84,6
+406,All I Want,Howard Jones,76,1987-01-24,1987-02-21,80,5
+407,Nothing's Gonna Stop Me Now,Samantha Fox,80,1987-10-10,1987-11-07,79,5
+408,The Real Thing,Jellybean Featuring Steven Dante,82,1987-11-07,1987-12-12,78,6
+409,She Don't Look Back,Dan Fogelberg,84,1987-05-30,1987-07-04,78,6
+410,She's Fly,Tony Terry,82,1987-11-28,1987-12-26,77,5
+411,Stand Back,The Fabulous Thunderbirds,76,1987-07-04,1987-08-01,76,5
+412,Right Next Door (Because Of Me),The Robert Cray Band,80,1987-05-16,1987-06-20,76,6
+413,"Summertime, Summertime",Nocera,84,1987-01-17,1987-02-28,76,7
+414,Never Thought (That I Could Love),Dan Hill,65,1987-12-12,1987-12-26,74,3
+415,Reason To Live,KISS,68,1987-12-05,1987-12-26,71,4
+416,Never Gonna Give You Up,Rick Astley,61,1987-12-19,1987-12-26,70,2
+417,Let's Dance,Chris Rea,81,1987-08-29,1987-09-26,69,5
+418,Women,Def Leppard,80,1987-08-22,1987-09-19,68,5
+419,853-5937,Squeeze,56,1987-12-19,1987-12-26,67,2
+420,(Forever) Live And Die,Orchestral Manoeuvres In The Dark,69,1987-01-03,1987-01-17,65,3
+421,"Twistin' The Night Away (From ""Innerspace"")",Rod Stewart,80,1987-07-18,1987-08-08,65,4
+422,She's Like The Wind,Patrick Swayze (Featuring Wendy Fraser),55,1987-12-19,1987-12-26,63,2
+423,Don't Lose Any Sleep,John Waite,81,1987-09-26,1987-10-17,62,4
+424,You're All I Need,Motley Crue,83,1987-11-28,1987-12-26,62,5
+425,Something In My House,Dead Or Alive,85,1987-04-25,1987-05-30,62,6
+426,The Rain,Oran 'Juice' Jones,71,1987-01-03,1987-01-17,61,3
+427,Painted Moon,The Silencers,82,1987-08-08,1987-09-12,60,6
+428,Some People,Paul Young,74,1987-01-03,1987-01-17,58,3
+429,Dear Mr. Jesus,Powersource (Solo...Sharon),63,1987-12-19,1987-12-26,57,2
+430,Hot Hot Hot,Buster Poindexter & His Banshees Of Blue,67,1987-12-12,1987-12-26,56,3
+431,He Wants My Body,Starpoint,89,1987-03-14,1987-04-25,55,7
+432,Goin' To The Bank,Commodores,75,1987-01-03,1987-01-17,54,3
+433,So The Story Goes,Living In A Box,81,1987-10-17,1987-11-07,53,4
+434,Man Against The World,Survivor,86,1987-05-09,1987-06-06,53,5
+435,Rhythm Of Love,Yes,64,1987-12-19,1987-12-26,52,2
+436,Rock-A-Lott,Aretha Franklin,82,1987-06-20,1987-07-11,51,4
+437,Running In The Family,Level 42,83,1987-08-08,1987-08-29,47,4
+438,I'm Bad,LL Cool J,84,1987-07-11,1987-08-01,47,4
+439,Welcome To The Boomtown,David & David,78,1987-01-03,1987-01-17,46,3
+440,This Is The World Calling,Bob Geldof,82,1987-01-03,1987-01-17,46,3
+441,I Need A Man,Eurythmics,70,1987-12-19,1987-12-26,45,2
+442,Power,Kansas,84,1987-02-14,1987-03-07,44,4
+443,Battleship Chains,The Georgia Satellites,86,1987-03-28,1987-04-25,44,5
+444,Heart And Soul,The Monkees,87,1987-09-26,1987-10-17,43,4
+445,"Do Ya, Do Ya (Wanna Please Me)",Samantha Fox,87,1987-03-14,1987-04-11,43,5
+446,Graceland,Paul Simon,81,1987-01-03,1987-01-17,41,3
+447,Strap Me In,The Cars,85,1987-11-14,1987-12-05,41,4
+448,I Didn't Mean To Turn You On,Robert Palmer,79,1987-01-03,1987-01-10,39,2
+449,World Shut Your Mouth,Julian Cope,84,1987-03-21,1987-04-11,39,4
+450,The Boy In The Bubble,Paul Simon,86,1987-03-07,1987-03-28,39,4
+451,So Much For Love,The Venetians,88,1987-02-28,1987-03-28,38,5
+452,Make It Mean Something,Rob Jungklas,86,1987-02-07,1987-02-21,37,3
+453,All Cried Out,Lisa Lisa And Cult Jam With Full Force Featuring Paul Anthony & Bow Legged Lou,84,1987-01-03,1987-01-17,36,3
+454,Rev It Up,Newcity Rockers,86,1987-09-12,1987-10-03,36,4
+455,Go See The Doctor,Kool Moe Dee,89,1987-04-18,1987-05-16,32,5
+456,Twilight World,Swing Out Sister,76,1987-12-19,1987-12-26,29,2
+457,Blame It On The Radio,John Parr,89,1987-01-03,1987-01-17,27,3
+458,Montego Bay,Amazulu,90,1987-07-25,1987-08-15,27,4
+459,Rain In The Summertime,The Alarm,81,1987-12-19,1987-12-26,25,2
+460,(You're Puttin') A Rush On Me,Stephanie Mills,85,1987-10-10,1987-10-17,25,2
+461,Emotion In Motion,Ric Ocasek,86,1987-01-03,1987-01-10,25,2
+462,Dancin' With My Mirror,Corey Hart,88,1987-03-28,1987-04-11,24,3
+463,Foolish Pride,Daryl Hall,85,1987-01-03,1987-01-10,23,2
+464,Hearts Away,Night Ranger,90,1987-07-04,1987-07-18,23,3
+465,Niagara Falls,Chicago,91,1987-07-11,1987-07-25,23,3
+466,Burning Like A Flame,Dokken,82,1987-12-19,1987-12-26,22,2
+467,We Should Be Sleeping,Eddie Money,90,1987-09-19,1987-10-03,22,3
+468,"Live My Life (From The Film ""Hiding Out"")",Boy George,80,1987-12-26,1987-12-26,21,1
+469,Little Suzi,Tesla,91,1987-05-16,1987-05-30,21,3
+470,Ronnies Rapp,Ron And The D.C. Crew,93,1987-01-24,1987-02-14,21,4
+471,Lonely Won't Leave Me Alone,Glenn Medeiros,88,1987-12-19,1987-12-26,20,2
+472,One Simple Thing,Stabilizers,93,1987-04-04,1987-04-18,18,3
+473,Solitude Standing,Suzanne Vega,94,1987-09-12,1987-09-26,17,3
+474,Miami,Bob Seger,88,1987-01-03,1987-01-10,16,2
+475,Dancin' In My Sleep,Secret Ties,91,1987-01-03,1987-01-10,16,2
+476,Shy Boys,Ana,94,1987-07-11,1987-07-25,16,3
+477,American Dream,Simon F,91,1987-10-24,1987-10-31,14,2
+478,Nail It To The Wall,Stacy Lattisaw,94,1987-01-03,1987-01-10,12,2
+479,All I Know Is The Way I Feel,The Pointer Sisters,93,1987-02-21,1987-02-28,11,2
+480,Certain Things Are Likely,K.T.P.,97,1987-06-13,1987-07-04,11,4
+481,Thorn In My Side,Eurythmics,95,1987-01-03,1987-01-10,10,2
+482,Downtown Train,Patty Smyth,95,1987-06-13,1987-06-20,8,2
+483,Boy Toy,Tia,97,1987-03-07,1987-03-14,8,2
+484,Tina Cherry,Georgio,96,1987-08-29,1987-09-05,6,2
+485,Never Let Me Down Again,Depeche Mode,96,1987-12-26,1987-12-26,5,1
+486,True Colors,Cyndi Lauper,97,1987-01-03,1987-01-10,5,2
+487,Sweet Love,Anita Baker,98,1987-01-03,1987-01-10,5,2
+488,Into My Secret,Alisha,97,1987-08-22,1987-08-22,4,1
+489,Spring Love,The Cover Girls,98,1987-08-01,1987-08-01,3,1
+490,Hold Me,Colin James Hay,99,1987-03-07,1987-03-07,2,1
+491,Freedom Overspill,Steve Winwood,99,1987-01-03,1987-01-03,2,1
+492,Every Beat Of My Heart,Rod Stewart,100,1987-01-03,1987-01-03,1,1

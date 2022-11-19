@@ -1,0 +1,614 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Let's Get Serious,Jermaine Jackson,1,1980-03-22,1980-08-16,2956,22
+2,Give Me The Night,George Benson,1,1980-06-28,1980-11-15,2796,21
+3,One In A Million You,Larry Graham,1,1980-05-03,1980-10-18,2654,25
+4,Take Your Time (Do It Right),The S.O.S. Band,1,1980-04-19,1980-09-27,2646,24
+5,And The Beat Goes On,The Whispers,1,1980-01-19,1980-05-31,2592,20
+6,Funkin' For Jamaica (N.Y.),Tom Browne,1,1980-08-02,1980-12-20,2530,21
+7,Funkytown,"Lipps, Inc.",2,1980-03-22,1980-08-16,2421,22
+8,More Bounch To The Ounce,Zapp,2,1980-08-23,1980-12-27,2400,19
+9,Master Blaster (Jammin'),Stevie Wonder,1,1980-09-20,1980-12-27,2397,15
+10,Upside Down,Diana Ross,1,1980-07-12,1980-11-15,2369,19
+11,Stomp,The Brothers Johnson,1,1980-02-16,1980-06-14,2354,18
+12,Sweet Sensation,Stephanie Mills,3,1980-04-05,1980-08-23,2340,21
+13,Special Lady,"Ray, Goodman & Brown",1,1980-01-05,1980-04-26,2287,17
+14,Rock With You,Michael Jackson,1,1980-01-05,1980-04-19,2254,16
+15,Landlord,Gladys Knight And The Pips,3,1980-04-19,1980-08-30,2236,20
+16,Another One Bites The Dust,Queen With Wyclef Jean Featuring Pras And Free,2,1980-08-23,1980-12-20,2212,18
+17,Don't Say Goodnight (It's Time For Love) (Parts 1 & 2),The Isley Brothers,1,1980-03-08,1980-06-28,2175,17
+18,The Second Time Around,Shalamar,1,1980-01-05,1980-05-03,2159,18
+19,Shining Star,The Manhattans,4,1980-03-15,1980-08-23,2152,24
+20,Lady,The Whispers,3,1980-03-15,1980-07-19,2084,19
+21,Wide Receiver (Part I),Michael Henderson,4,1980-07-05,1980-12-13,2032,24
+22,Too Hot,Kool & The Gang,3,1980-01-05,1980-05-17,2009,20
+23,Don't Push It Don't Force It,Leon Haywood,2,1980-02-16,1980-06-21,1983,19
+24,Lovely One,The Jacksons,2,1980-10-04,1980-12-27,1875,13
+25,Where Did We Go Wrong,LTD,7,1980-08-09,1980-12-20,1844,20
+26,The Breaks (Part 1),Kurtis Blow,4,1980-06-14,1980-10-18,1761,19
+27,"Girl,don't Let It Get You Down",The O'Jays,3,1980-07-26,1980-11-15,1711,17
+28,Let Me Be The Clock,Smokey Robinson,4,1980-03-22,1980-07-12,1698,17
+29,I've Just Begun To Love You,Dynasty,6,1980-07-05,1980-11-08,1696,19
+30,I Don't Believe You Want To Get Up An Dance (Oops!),The Gap Band,4,1980-02-16,1980-05-31,1675,16
+31,A Lover's Holiday,Change,5,1980-04-12,1980-08-23,1668,20
+32,"Working My Way Back To You/Forgive Me, Girl",The Spinners,6,1980-01-05,1980-05-10,1645,19
+33,All Night Thing,The Invisible Man's Band,9,1980-03-15,1980-08-09,1642,22
+34,I'm Coming Out,Diana Ross,6,1980-09-13,1980-12-27,1616,16
+35,Can't We Try,Teddy Pendergrass,3,1980-07-05,1980-10-18,1606,16
+36,Cupid/I've Loved You For A Long Time,The Spinners,5,1980-05-24,1980-08-30,1603,15
+37,Let Me Be Your Angel,Stacy Lattisaw,8,1980-08-02,1980-12-13,1584,20
+38,I Shoulda Loved Ya,Narada Michael Walden,4,1980-01-05,1980-04-19,1580,16
+39,"Bounce, Rock, Skate, Roll",Vaughn Mason And Crew,5,1980-01-19,1980-05-24,1565,19
+40,Two Places At The Same Time,Ray Parker Jr. & Raydio,6,1980-03-15,1980-07-12,1565,18
+41,You And Me,Rockie Robbins,9,1980-04-26,1980-09-20,1557,22
+42,Love T.K.O.,Teddy Pendergrass,2,1980-10-18,1980-12-27,1506,11
+43,Peanut Butter,Twennynine Featuring Lenny White,3,1980-01-05,1980-03-22,1506,12
+44,Gotta Get My Hands On Some (Money),The Fatback Band,6,1980-03-15,1980-07-26,1500,20
+45,He's So Shy,The Pointer Sisters,10,1980-08-02,1980-12-13,1453,20
+46,Celebration,Kool & The Gang,1,1980-10-18,1980-12-27,1428,11
+47,Backstrokin',The Fatback Band,3,1980-06-28,1980-10-04,1428,15
+48,Never Knew Love Like This Before,Stephanie Mills,12,1980-08-09,1980-12-27,1410,21
+49,Southern Girl,Maze,9,1980-07-19,1980-11-15,1403,18
+50,You Are My Heaven,Roberta Flack With Donny Hathaway,8,1980-01-26,1980-05-17,1401,17
+51,Uptown,Prince And The Revolution,5,1980-10-04,1980-12-27,1389,13
+52,Dynamite,Stacy Lattisaw,8,1980-05-17,1980-09-27,1368,20
+53,I Need Your Lovin',Teena Marie,9,1980-08-30,1980-12-27,1339,18
+54,Do You Love What You Feel,Rufus And Chaka Khan,2,1980-01-05,1980-03-15,1335,11
+55,Got To Be Enough,ConFunkShun,8,1980-03-15,1980-07-12,1330,18
+56,Love Don't Make It Right,Ashford & Simpson,6,1980-07-12,1980-10-25,1326,16
+57,Got To Love Somebody,Sister Sledge,6,1980-01-05,1980-04-12,1300,15
+58,Welcome Back Home,The Dramatics,9,1980-02-02,1980-05-31,1297,18
+59,Off The Wall,Michael Jackson,5,1980-02-23,1980-05-17,1275,13
+60,Sitting In The Park,GQ,9,1980-05-10,1980-08-23,1260,16
+61,Haven't You Heard,Patrice Rushen,7,1980-01-05,1980-04-05,1258,14
+62,Old Fashion Love,Commodores,8,1980-06-28,1980-09-27,1164,14
+63,Forever Mine,The O'Jays,4,1980-01-05,1980-03-08,1141,10
+64,Back Together Again,Roberta Flack With Donny Hathaway,8,1980-05-03,1980-08-02,1124,14
+65,Rebels Are We,Chic,8,1980-07-05,1980-10-04,1117,14
+66,Every Generation,Ronnie Laws,12,1980-01-26,1980-05-17,1115,17
+67,I Touched A Dream,The Dells,17,1980-08-09,1980-11-29,1115,17
+68,Theme From The Black Hole,Parliament,8,1980-01-19,1980-05-03,1114,16
+69,Magic Of You (Like The Way),Cameron,16,1980-07-05,1980-11-01,1114,18
+70,Clouds,Chaka Khan,10,1980-04-26,1980-07-26,1096,14
+71,We're Going Out Tonight,Cameo,11,1980-05-03,1980-08-09,1084,15
+72,Here We Go,Minnie Riperton,14,1980-08-23,1980-11-22,1061,14
+73,Bad Times,Tavares,10,1980-01-05,1980-04-12,1059,15
+74,Prayin',Harold Melvin And The Blue Notes,18,1980-01-05,1980-04-26,1051,17
+75,Shake Your Pants,Cameo,8,1980-07-26,1980-10-25,1039,14
+76,Standing Ovation,GQ,12,1980-02-09,1980-05-17,1036,15
+77,Why You Wanna Treat Me So Bad?,Prince,13,1980-02-09,1980-05-17,1018,15
+78,We Ought To Be Doin' It,Randy Brown,16,1980-03-08,1980-06-21,998,16
+79,Rescue Me,A Taste Of Honey,16,1980-07-05,1980-10-18,993,16
+80,Keep It Hot,Cameo,4,1980-10-25,1980-12-27,991,10
+81,Power,The Temptations,11,1980-04-26,1980-07-19,990,13
+82,Someone That I Used To Love,Natalie Cole,21,1980-05-31,1980-09-06,987,15
+83,High,Skyy,13,1980-02-23,1980-06-07,986,16
+84,Big Time,Rick James,17,1980-07-12,1980-11-01,982,17
+85,Just A Touch Of Love,Slave,9,1980-01-05,1980-03-15,981,11
+86,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,18,1980-01-19,1980-05-10,976,17
+87,Hurry Up This Way Again,The Stylistics,18,1980-09-06,1980-12-27,963,17
+88,Overnight Sensation,Jerry Knight,17,1980-04-05,1980-07-19,958,16
+89,Here We Go Again (part 1),The Isley Brothers,11,1980-06-14,1980-09-13,952,14
+90,Let Me Talk,"Earth, Wind & Fire",8,1980-09-27,1980-12-13,946,12
+91,I Wanna Be Your Lover,Prince,4,1980-01-05,1980-02-23,938,8
+92,On The Radio,Donna Summer,9,1980-01-26,1980-04-19,934,13
+93,(Baby) I Can't Get Over Losing You,Ttf,21,1980-06-07,1980-10-04,930,18
+94,Love X Love,George Benson,9,1980-10-11,1980-12-27,923,12
+95,Minute By Minute,Peabo Bryson,12,1980-03-22,1980-06-21,921,14
+96,The Wanderer,Donna Summer,13,1980-09-27,1980-12-27,916,14
+97,Funk You Up,Sequence,15,1980-01-05,1980-04-12,903,15
+98,Kid Stuff,Twennynine With Lenny White,19,1980-09-27,1980-12-27,901,14
+99,Jojo,Boz Scaggs,17,1980-06-21,1980-09-20,883,14
+100,What I Wouldn't Do (for The Love Of You),Angela Bofill,18,1980-01-05,1980-04-05,871,14
+101,Dance Turned Into A Romance,The Jones Girls,22,1980-08-02,1980-11-08,869,15
+102,Push Push,Brick,21,1980-08-23,1980-12-13,868,17
+103,Now That You're Mine Again,The Spinners,25,1980-09-13,1980-12-20,864,15
+104,Remote Control,The Reddings,8,1980-10-11,1980-12-27,863,12
+105,Inside Of You,"Ray, Goodman & Brown",14,1980-03-29,1980-06-21,863,13
+106,When We Get Married,Larry Graham,9,1980-10-11,1980-12-27,857,12
+107,For Those Who Like To Groove,Ray Parker Jr. & Raydio,14,1980-06-28,1980-09-13,855,12
+108,Sit Down And Talk To Me,Lou Rawls,26,1980-01-05,1980-04-12,851,15
+109,Love Injection,Trussel,23,1980-01-05,1980-04-19,831,16
+110,Cruisin',Smokey Robinson,8,1980-01-05,1980-03-08,826,10
+111,I'm Back For More,Al Johnson,26,1980-03-01,1980-06-07,822,15
+112,No Night So Long,Dionne Warwick,19,1980-08-02,1980-11-01,820,14
+113,High Society,Norma Jean,19,1980-01-05,1980-03-22,818,12
+114,I Heard It In A Love Song,McFadden And Whitehead,23,1980-08-02,1980-11-08,811,15
+115,Papillon (Aka Hot Buterfly),Chaka Khan,22,1980-07-12,1980-10-11,806,14
+116,Pop It,One Way Featuring Al Hudson,20,1980-08-16,1980-11-08,805,13
+117,Behind The Groove,Teena Marie,21,1980-05-03,1980-07-26,769,13
+118,Move Your Boogie Body,Bar-Kays,3,1980-01-05,1980-02-16,768,7
+119,I Just Wanna Dance With You,Starpoint,19,1980-07-05,1980-10-04,767,14
+120,Love Jones,Johnny Guitar Watson,28,1980-05-24,1980-09-06,760,16
+121,Is This The Best,L.A.Boppers,28,1980-02-09,1980-05-10,754,14
+122,You Are My Friend,Sylvester,30,1980-02-23,1980-05-24,754,14
+123,Steppin' (Out),The Gap Band,10,1980-01-05,1980-03-01,753,9
+124,This Is It,Kenny Loggins,19,1980-01-05,1980-04-05,753,14
+125,Let This Moment Be Forever,Kwick,20,1980-04-12,1980-07-05,749,13
+126,Today Is The Day,Barkays,25,1980-02-09,1980-05-10,742,14
+127,Light Up The Night,The Brothers Johnson,16,1980-05-24,1980-08-02,741,11
+128,"Yes, I'm Ready",Teri DeSario With K.C.,20,1980-02-09,1980-05-03,734,13
+129,What You Won't Do For Love,Natalie Cole And Peabo Bryson,16,1980-02-16,1980-04-26,733,11
+130,Sparkle,Cameo,10,1980-01-05,1980-03-08,725,10
+131,THE REAL THANG,Narada,22,1980-10-04,1980-12-27,724,13
+132,Wonderland,Commodores,21,1980-01-05,1980-03-15,715,11
+133,Never Givin' Up,Jarreau,26,1980-05-24,1980-08-16,709,13
+134,S.O.S. (Dit Dit Dit Dash Dash Dash Dit Dit Dit),The S.O.S. Band,20,1980-09-27,1980-12-20,708,13
+135,I'm Caught Up (In A One Night Love Affair),Inner Life,22,1980-01-05,1980-03-22,708,12
+136,By Your Side,ConFunkShun,27,1980-06-21,1980-09-13,705,13
+137,Winners,Kleeer,23,1980-04-05,1980-06-28,702,13
+138,Gimme Some Time,Natalie Cole And Peabo Bryson,8,1980-01-05,1980-02-23,701,8
+139,You Know How To Love Me,Phyllis Hyman,15,1980-01-05,1980-03-08,701,10
+140,Reach Your Peak,Sister Sledge,21,1980-03-29,1980-06-14,697,12
+141,Searching,Change,23,1980-08-02,1980-10-18,680,12
+142,Music Trance,Ben E. King,29,1980-02-16,1980-05-10,677,13
+143,Love Uprising,Tavares,17,1980-10-18,1980-12-27,675,11
+144,Right In The Socket,Shalamar,22,1980-03-29,1980-06-21,673,13
+145,Girl Of My Dream,The Manhattans,30,1980-07-26,1980-10-11,665,12
+146,Freedom,Grandmaster Flash,19,1980-09-13,1980-11-22,664,11
+147,Does She Have A Friend,Gene Chandler,28,1980-04-26,1980-08-02,663,15
+148,GIVE IT ON UP (IF YOU WANT TO),Mtume,26,1980-08-23,1980-11-08,659,12
+149,Give It All You Got,Chuck Mangione,32,1980-02-02,1980-04-19,659,12
+150,I Enjoy Ya,7th Wonder,33,1980-06-28,1980-09-20,652,13
+151,Look Up,Patrice Rushen,13,1980-10-25,1980-12-27,644,10
+152,I Should Be Your Lover,Harold Melvin And The Blue Notes,25,1980-05-10,1980-07-26,641,12
+153,Love Makin' Music,Barry White,25,1980-07-12,1980-10-04,640,13
+154,I Don't Go Shopping,Patti LaBelle,26,1980-05-03,1980-07-19,631,12
+155,Send One Your Love,Stevie Wonder,5,1980-01-05,1980-02-16,630,7
+156,Give Up The Funk (Let's Dance),B.T. Express,24,1980-04-19,1980-07-05,627,12
+157,Yearnin' Burnin',Pleasure,30,1980-06-28,1980-09-20,622,13
+158,House Party,Fred Wesley,40,1980-06-21,1980-09-27,619,15
+159,Spacer,Sheila And B.Devotion,28,1980-05-17,1980-08-09,616,13
+160,I Love The Way You Love,Peabo Bryson,39,1980-07-05,1980-09-27,609,13
+161,Figures Can't Calculate,William De Vaughn,37,1980-06-14,1980-09-06,599,13
+162,Skyyzoo,Skyy,32,1980-05-31,1980-08-09,596,11
+163,"Honey,honey",David Hudson,37,1980-05-10,1980-08-09,596,14
+164,Coming Down From Love,Bobby Caldwell,28,1980-04-12,1980-06-28,590,12
+165,Catchin' Up On Love,Kinsman Dazz,33,1980-01-05,1980-03-15,586,11
+166,Hold On To My Love,Jimmy Ruffin,29,1980-03-15,1980-05-31,583,12
+167,Any Love,Rufus And Chaka Khan,24,1980-03-01,1980-05-03,581,10
+168,How Long,Lipps Inc.,29,1980-10-18,1980-12-27,577,11
+169,I'll Never Find Another (Find Another Like You),The Manhattans,12,1980-11-08,1980-12-27,576,8
+170,Come Into My Life (Part 1),Rick James,26,1980-02-09,1980-04-19,573,11
+171,Happy Anniversary,"Ray, Goodman & Brown",16,1980-11-01,1980-12-27,567,9
+172,Give Me Some Emotion,Webster Lewis,41,1980-02-09,1980-05-03,567,13
+173,United Together,Aretha Franklin,5,1980-11-15,1980-12-27,565,7
+174,Heroes,Commodores,27,1980-09-13,1980-11-22,563,11
+175,What Cha Doin',Seawind,18,1980-10-25,1980-12-27,560,10
+176,Stars In Your Eyes,Herbie Hancock,33,1980-04-12,1980-06-28,558,12
+177,Jam <P6>(Let's Take It To The Streets),Five Special,29,1980-05-17,1980-08-02,556,12
+178,Gangsters Of The Groove,Heatwave,21,1980-11-01,1980-12-27,550,9
+179,My Prayer,"Ray, Goodman & Brown",31,1980-08-30,1980-11-01,539,10
+180,You're Supposed To Keep Your Love For Me,Jermaine Jackson,32,1980-07-19,1980-09-27,535,11
+181,Rapper's Delight,Sugarhill Gang,7,1980-01-05,1980-02-16,534,7
+182,Freak To Freak,Sweat Band,26,1980-10-25,1980-12-27,530,10
+183,It's My Turn,Diana Ross,14,1980-11-08,1980-12-27,523,8
+184,Rotation,Herb Alpert,20,1980-01-05,1980-02-23,522,8
+185,Don't Take It Away,War,32,1980-01-05,1980-03-08,520,10
+186,I Pledge My Love,Peaches & Herb,37,1980-01-05,1980-03-15,518,11
+187,I Go Crazy,Lou Rawls,37,1980-10-11,1980-12-27,517,12
+188,Shout And Scream,Teddy Pendergrass,21,1980-01-05,1980-02-23,514,8
+189,How Sweet It Is (To Be Loved By You),Tyrone Davis,36,1980-09-13,1980-11-22,514,11
+190,Love Over And Over Again,Switch,19,1980-11-08,1980-12-27,510,8
+191,Fantastic Voyage,Lakeside,7,1980-11-15,1980-12-27,508,7
+192,Party Lights,The Gap Band,36,1980-06-07,1980-08-16,508,11
+193,Take It To The Limit,Norman Connors,28,1980-09-13,1980-11-22,499,11
+194,Hey Lover,Chocolate Milk,40,1980-07-05,1980-09-20,499,12
+195,Under Your Spell,Phyllis Hyman,37,1980-03-08,1980-05-17,496,11
+196,Walk Away,Donna Summer,35,1980-09-20,1980-11-22,491,10
+197,Cisslin Hot,Chuck Cissel,38,1980-01-05,1980-03-08,485,10
+198,Desire,Masqueraders,38,1980-03-01,1980-05-10,483,11
+199,Here Comes The Sun,Fat Larry's Band,44,1980-01-19,1980-04-05,481,12
+200,Make It Feel Good,Alfonzo Surrett,44,1980-06-28,1980-09-13,480,12
+201,Prove It,Michael Henderson,27,1980-11-01,1980-12-27,479,9
+202,Sunrise,Slick,46,1980-08-23,1980-11-15,478,13
+203,Throughout Your Years,Kurtis Blow,31,1980-10-04,1980-12-13,473,11
+204,Could I Be Dreaming,The Pointer Sisters,22,1980-11-08,1980-12-27,471,8
+205,That Burning Love,Edmund Sylvers,38,1980-08-02,1980-10-11,466,11
+206,Treasure,The Brothers Johnson,36,1980-08-09,1980-10-11,465,10
+207,Tonight I'm Alright,Narada,35,1980-04-05,1980-06-07,464,10
+208,After You,Dionne Warwick,33,1980-03-29,1980-05-31,463,10
+209,Funkdown,Rafael Cameron,33,1980-10-11,1980-12-20,463,11
+210,"Oh,darling'",Brothers By Choice,39,1980-01-26,1980-04-05,463,11
+211,Don't Stop The Feeling,Roy Ayers,32,1980-01-05,1980-03-15,462,11
+212,Funtime (Part I),Peaches & Herb,37,1980-08-09,1980-10-11,460,10
+213,Love's Sweet Sensation,Curtis Mayfield,34,1980-05-17,1980-07-26,455,11
+214,Do Your Thang,One Way Featuring Al Hudson,36,1980-05-24,1980-07-26,452,10
+215,Same Old Story (Same Old Song),Randy Crawford,34,1980-04-26,1980-06-28,451,10
+216,Glide,Pleasure,12,1980-01-05,1980-02-16,450,7
+217,Everything So Good About You,Melba Moore,47,1980-08-23,1980-11-08,447,12
+218,Looking For Love,Candi Staton,42,1980-06-07,1980-08-16,444,11
+219,Heavenly Body,The Chi-lites,36,1980-11-01,1980-12-27,443,9
+220,Music,One Way Featuring Al Hudson,36,1980-01-26,1980-03-29,442,10
+221,That Thang Of Yours,John And Arthur Simms,39,1980-04-05,1980-06-14,439,11
+222,Ooh Child,Lenny Williams,34,1980-09-27,1980-11-29,437,10
+223,Heavy On Pride (Light On Love),Smokey Robinson,34,1980-06-21,1980-08-23,434,10
+224,It's Not My Time,L.V. Johnson,44,1980-01-05,1980-03-22,434,12
+225,Body Language,Patti Austin,45,1980-06-28,1980-09-06,432,11
+226,Don't Let Go,Isaac Hayes,21,1980-01-05,1980-02-09,430,6
+227,You,"Earth, Wind & Fire",11,1980-11-22,1980-12-27,428,6
+228,Let's Get Funky Tonight,"Evelyn ""Champagne"" King",34,1980-09-20,1980-11-15,428,9
+229,I Want You For Myself,George Duke,23,1980-01-05,1980-02-23,427,8
+230,Soul Shadows,The Crusaders,41,1980-08-16,1980-10-18,427,10
+231,Sheet Music,Barry White,43,1980-04-19,1980-06-21,423,10
+232,Bodyshine,Instant Funk,41,1980-01-26,1980-03-29,422,10
+233,Do You Really Love Me,Rene & Angela,43,1980-06-14,1980-08-23,422,11
+234,Do Me Right,Dynasty,34,1980-11-01,1980-12-27,421,9
+235,I Call Your Name,Switch,25,1980-01-05,1980-02-09,419,6
+236,Happy Endings,Ashford & Simpson,35,1980-11-01,1980-12-27,416,9
+237,We Supply,Stanley Clarke,43,1980-06-07,1980-08-09,415,10
+238,Forever,Mass Production,42,1980-03-29,1980-06-07,411,11
+239,All The Way,Brick,38,1980-05-24,1980-07-26,410,10
+240,Taste Of Bitter Love,Gladys Knight And The Pips,38,1980-08-09,1980-10-04,409,9
+241,Shine On,LTD,20,1980-11-15,1980-12-27,406,7
+242,Mug Push,Bootsy,25,1980-11-08,1980-12-27,406,8
+243,It's My House,Diana Ross,29,1980-01-05,1980-02-16,404,7
+244,Hangin' Out,Kool & The Gang,36,1980-05-17,1980-07-05,404,8
+245,Just Us/i've Got The Feeling,Two Tons Of Fun,29,1980-05-17,1980-06-28,400,7
+246,"Don't Tell Me,tell Her",Odyssey,44,1980-05-10,1980-07-12,397,10
+247,Agony Of Defeet,Parliament,10,1980-11-22,1980-12-27,391,6
+248,Tripping Out,Curtis Mayfield,46,1980-09-06,1980-11-08,389,10
+249,Get Up,Vernon Burch,35,1980-01-05,1980-02-23,388,8
+250,I've Got Faith In You,Cheryl Lynn,41,1980-01-12,1980-03-15,388,10
+251,Red Light,Linda Clifford,40,1980-08-30,1980-10-25,387,9
+252,Right Place,Brass Construction,41,1980-01-26,1980-03-22,381,9
+253,My Love Don't Come Easy,Jean Cairn,43,1980-01-05,1980-03-08,381,10
+254,Everything We Do,Rene & Angela,39,1980-10-04,1980-11-29,378,9
+255,The Tilt,7th Wonder,39,1980-09-27,1980-11-22,377,9
+256,The Groove,Rodney Franklin,41,1980-04-26,1980-06-21,377,9
+257,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Bonnie Pointer,42,1980-01-05,1980-03-01,377,9
+258,Don't Take My Love Away,Switch,41,1980-05-24,1980-07-19,375,9
+259,I Wanna Know Your Name,Frank Hooker And Positive People,40,1980-05-24,1980-07-19,374,9
+260,I Can't Go On Living Without You,Tavares,42,1980-04-19,1980-06-14,374,9
+261,Real Love,The Doobie Brothers,40,1980-09-20,1980-11-15,372,9
+262,Pull My Strings,Lakeside,31,1980-01-05,1980-02-16,368,7
+263,Biggest Part Of Me,Ambrosia,35,1980-05-10,1980-07-05,365,9
+264,From 9:00 Until,Lakeside,44,1980-03-29,1980-05-31,361,10
+265,If You Feel The Funk,LaToya Jackson,40,1980-11-08,1980-12-27,360,8
+266,Ladies Night,Kool & The Gang,8,1980-01-05,1980-01-26,357,4
+267,Way Back When,Brenda Russell,42,1980-02-02,1980-03-29,356,9
+268,SHAKE IT UP-DO THE BOOGALOO,Rod,49,1980-07-26,1980-10-04,348,11
+269,Let's Go 'round Again,Average White Band,40,1980-06-14,1980-08-09,346,9
+270,It's You I Love,Teddy Pendergrass,44,1980-03-01,1980-04-26,345,9
+271,I Don't Ever (Wanna Love Nobody But You),Creme D'Cocoa,47,1980-01-19,1980-03-15,345,9
+272,We Never Said Goodbye/easy Love,Dionne Warwick,41,1980-11-15,1980-12-27,343,7
+273,Best Of Friends,Lenny White,47,1980-03-01,1980-04-26,343,9
+274,We Don't,The Controllers,43,1980-02-02,1980-03-29,339,9
+275,Shoot Your Best Shot,Linda Clifford,43,1980-11-01,1980-12-20,338,8
+276,Coming Home,The Truth,47,1980-08-16,1980-10-11,338,9
+277,Sugar,Kenny Doss,43,1980-03-22,1980-05-17,337,9
+278,Can You Feel It,Pressure,54,1980-02-23,1980-05-03,337,11
+279,Unlock The Funk,Locksmith,49,1980-08-23,1980-10-25,335,10
+280,Welcome To My World,Delegation,50,1980-05-10,1980-07-05,333,9
+281,Strut Your Stuff,Stone City Band,48,1980-03-08,1980-05-03,331,9
+282,Beyond,Herb Alpert,44,1980-06-28,1980-08-16,329,8
+283,Heartbreak Hotel,The Jacksons,6,1980-12-06,1980-12-27,325,4
+284,Lady,Kenny Rogers,42,1980-11-08,1980-12-27,324,8
+285,Hold On,Natalie Cole,38,1980-10-04,1980-11-22,323,8
+286,The Best Love I Ever Had,Jerry Butler,49,1980-03-22,1980-05-17,323,9
+287,Love Is Good News,Ava Cherry,39,1980-02-09,1980-03-29,317,8
+288,Too Tight,ConFunkShun,23,1980-11-22,1980-12-27,315,6
+289,I Ain't Never,Isaac Hayes,49,1980-05-24,1980-07-19,313,9
+290,Do You Wanna Make Love,Millie Jackson And Issac Hayes,30,1980-01-05,1980-02-09,309,6
+291,"Love Me, Love Me Now",Curtis Mayfield,48,1980-06-28,1980-08-23,308,9
+292,Love Touch,Jeff & Aleta,48,1980-09-13,1980-11-01,307,8
+293,Rapp Payback <P6>(Where iz Moses),James Brown,46,1980-11-15,1980-12-27,306,7
+294,Inherit The Wind,Wilton Felder,35,1980-11-15,1980-12-27,305,7
+295,She's Out Of My Life,Michael Jackson,43,1980-05-03,1980-06-21,305,8
+296,"Baby,this Love That We've Found",Heat,45,1980-04-12,1980-05-31,305,8
+297,Only Make Believe,Bell And James,50,1980-01-05,1980-02-23,305,8
+298,Once Is Not Enough,The O'Jays,44,1980-11-15,1980-12-27,304,7
+299,Sir Jam Alot,Captain Sky,51,1980-09-20,1980-11-15,303,9
+300,Little Girl Don't You Worry,Jermaine Jackson,33,1980-11-15,1980-12-27,302,7
+301,Didn't I Blow Your Mind,Millie Jackson,49,1980-02-02,1980-03-22,298,8
+302,I'm Dancing For Your Love,Rufus And Chaka Khan,43,1980-05-17,1980-07-05,296,8
+303,Love Cycles,D.J. Rogers,44,1980-05-10,1980-06-28,296,8
+304,YOU DON't LIKE I KNOW,Genty,51,1980-10-18,1980-12-20,294,10
+305,Boogie Body Land,Barkays,24,1980-11-29,1980-12-27,286,5
+306,Pop Your Fingers,Rose Royce,60,1980-07-19,1980-09-13,286,9
+307,Could You Be Loved,Bob Marley And The Wailers,56,1980-09-13,1980-11-01,285,8
+308,Telephone Bill,Johnny Guitar Watson,45,1980-09-20,1980-11-08,284,8
+309,Stranger,LTD,22,1980-01-05,1980-02-02,280,5
+310,The Look In Your Eyes,Maze Featuring Frankie Beverly,40,1980-11-15,1980-12-27,279,7
+311,Bourgie Bourgie,Gladys Knight And The Pips,45,1980-10-25,1980-12-20,275,9
+312,Now I'm Fine,Grey And Hanks,57,1980-03-15,1980-05-10,274,9
+313,Fun City,Vernon Burch,54,1980-10-11,1980-12-06,273,9
+314,Givin' It Up Is Givin' Up,Patrice Rushen And D.J. Rogers,47,1980-06-07,1980-07-19,270,7
+315,Feel My Love,Michael Wycoff,43,1980-11-15,1980-12-27,269,7
+316,Brazos River Breakdown,Stix Hooper,49,1980-01-12,1980-03-01,266,8
+317,The Glow Of Love,Change,49,1980-10-25,1980-12-20,259,9
+318,Can It Be Love,Teena Marie,57,1980-03-01,1980-04-26,258,9
+319,Get Ready Get Set,Chaka Khan,48,1980-10-18,1980-11-29,257,7
+320,Nobody Knows,Ashford & Simpson,27,1980-01-05,1980-02-02,256,5
+321,Ain't That Loving You (For More Reasons Than One),Lou Rawls,57,1980-04-26,1980-06-07,253,7
+322,Still,Commodores,18,1980-01-05,1980-01-26,252,4
+323,Shante,Mass Production,49,1980-06-21,1980-08-02,251,7
+324,I Just Love The Man,The Jones Girls,29,1980-11-29,1980-12-27,247,5
+325,I'm In Love With You,Ren Woods,45,1980-01-05,1980-02-09,245,6
+326,Emotion,Merry Clayton,53,1980-03-01,1980-04-19,245,8
+327,What's Your Name,Leon Ware,42,1980-01-05,1980-02-09,243,6
+328,Can't Fake The Feeling,Geraldine Hunt,58,1980-10-11,1980-12-06,243,9
+329,Strength Of A Woman,Eloise Laws,41,1980-11-22,1980-12-27,242,6
+330,I'll Tell You,Sergio Mendes,49,1980-01-05,1980-03-01,242,9
+331,The Big Bang Theory,Parliament,50,1980-04-12,1980-05-24,242,7
+332,Get It,The Dramatics,59,1980-10-25,1980-12-20,241,9
+333,Slow Dance,David Ruffin,63,1980-07-26,1980-09-13,240,8
+334,One In A Million,Dee Dee Bridgewater,52,1980-10-18,1980-12-06,235,8
+335,Let The Music Take Me,Patrice Rushen,50,1980-04-05,1980-05-17,234,7
+336,I Believe In You,Idris Muhammad,57,1980-10-11,1980-11-29,233,8
+337,No More Tears (Enough Is Enough),Barbra Streisand/Donna Summer,20,1980-01-05,1980-01-19,232,3
+338,I've Got My Second Wind,Al Johnson,58,1980-06-21,1980-08-09,230,8
+339,Make The World Stand Still,Roberta Flack & Donny Hathaway,28,1980-12-06,1980-12-27,226,4
+340,Together,Tierra,45,1980-11-22,1980-12-27,225,6
+341,Let's Do It Again,The Fatback Band,55,1980-10-18,1980-12-13,225,9
+342,Real People,Chic,51,1980-10-25,1980-12-06,224,7
+343,Baby I'm For Real,Hamilton Bohannon,54,1980-04-12,1980-05-24,224,7
+344,What's The Name Of Your Love?,The Emotions,30,1980-01-05,1980-02-02,223,5
+345,Desire,Andy Gibb,49,1980-02-23,1980-03-29,222,6
+346,Foxy Lady (Funky Lady),Slave,55,1980-03-15,1980-04-26,222,7
+347,Singing A Song About You,"Tripple ""S"" Connection",60,1980-02-09,1980-03-29,222,8
+348,Space Ranger (Majic's In The Air),Sun,56,1980-06-14,1980-08-02,221,8
+349,Don't Stop The Music,Yarbrough & Peoples,44,1980-11-22,1980-12-27,219,6
+350,The Get Down Mellow Sound,Players Association,59,1980-04-05,1980-05-17,219,7
+351,"Baby,when Love Is In Your Heart",Joe Simon,60,1980-08-02,1980-09-20,219,8
+352,Outside My Window,Stevie Wonder,56,1980-03-08,1980-04-19,218,7
+353,Roller Skate,Vaughn Mason And Crew,52,1980-06-07,1980-07-19,217,7
+354,Taking Away Your Space,Two Tons Of Fun,53,1980-08-16,1980-09-27,216,7
+355,This Feeling Rated X-tra,Carl Carlton,57,1980-08-30,1980-10-18,215,8
+356,Star,"Earth, Wind & Fire",47,1980-01-05,1980-02-02,214,5
+357,Country Freakin',Mighty Fine,66,1980-01-26,1980-03-22,210,9
+358,The Sweetest Pain,Dexter Wansel,40,1980-01-05,1980-02-02,209,5
+359,I'm Ready,Kano,50,1980-11-22,1980-12-27,207,6
+360,Night Time Lover,LaToya Jackson,59,1980-09-06,1980-10-25,206,8
+361,Now You Choose,Pleasure,56,1980-10-04,1980-11-15,204,7
+362,Just Like You,Heat,57,1980-07-19,1980-08-30,202,7
+363,Sizzlin' Hot,Slave,57,1980-11-08,1980-12-20,202,7
+364,I Want You,Wilson Pickett,47,1980-01-05,1980-02-02,198,5
+365,Sticks And Stones (But The Funk Won't Never Hurt You) (Part I),Chuck Brown,55,1980-05-03,1980-06-14,198,7
+366,Can't You Tell It's Me,Tyrone Davis,58,1980-02-16,1980-03-29,198,7
+367,TONIGHT's THE NIGHT,Sharon Paige,61,1980-02-23,1980-04-05,196,7
+368,Still Waiting,Prince And The Revolution,65,1980-04-26,1980-06-14,194,8
+369,Release (The Tension),Patti LaBelle,61,1980-03-08,1980-04-19,193,7
+370,Struck By Lightning Twice,The Temptations,55,1980-07-26,1980-08-30,188,6
+371,Kamali,Herb Alpert,64,1980-09-13,1980-10-25,186,7
+372,Don't You Like It,Chapter 8,55,1980-04-26,1980-05-31,185,6
+373,Out Here On My Own,Angela Clemmons,61,1980-08-30,1980-10-11,183,7
+374,Never Buy Texas From A Cowboy,Brides Of Funkenstein,67,1980-01-12,1980-03-01,183,8
+375,Gimme Something Real,Wardell Piper,53,1980-04-19,1980-05-24,182,6
+376,Discoed To Death,Latimore,68,1980-01-05,1980-02-23,182,8
+377,So Delicious,Pockets,34,1980-01-05,1980-01-26,181,4
+378,Straight From The Heart,Loose Change,54,1980-01-05,1980-02-09,179,6
+379,One More Time For Love,Billy Preston & Syreeta,72,1980-06-28,1980-08-09,178,7
+380,Deja Vu,Dionne Warwick,28,1980-01-05,1980-02-02,176,5
+381,Throw Down The Groove Pt. 1,Bohannon,59,1980-10-18,1980-11-29,176,7
+382,Da Lady,ConFunkShun,60,1980-01-05,1980-02-09,176,6
+383,Be With Me,Tyrone Davis,43,1980-01-05,1980-02-02,175,5
+384,One Child Of Love,Peaches & Herb,51,1980-11-29,1980-12-27,173,5
+385,Can't Keep From Cryin',Ray Parker Jr. & Raydio,57,1980-09-20,1980-10-25,173,6
+386,Regrets,James Brown,63,1980-01-26,1980-03-01,173,6
+387,Sexy Eyes,Dr. Hook,67,1980-04-12,1980-05-24,173,7
+388,My Feet Keep Dancing,Chic,42,1980-01-05,1980-01-26,172,4
+389,"Let It Flow (""For Dr. J"")","Grover Washington, Jr.",62,1980-11-22,1980-12-27,172,6
+390,Burn Rubber (Why You Wanna Hurt Me),The Gap Band,38,1980-12-06,1980-12-27,168,4
+391,I Love It,Trussel,61,1980-07-19,1980-08-23,168,6
+392,Something About You,Bobbi Walker,62,1980-06-28,1980-08-09,167,7
+393,Bad Babe,Shotgun,69,1980-09-20,1980-11-01,167,7
+394,Melancholy Fire,Norman Connors,39,1980-12-06,1980-12-27,166,4
+395,Wolf Tickets,Parlet,67,1980-05-24,1980-07-05,165,7
+396,Uncle Jam (Part I),Funkadelic,53,1980-01-05,1980-02-02,162,5
+397,Love In Perfect Harmony,The Fatback Band,59,1980-01-05,1980-02-09,162,6
+398,I'll Be Thinkin' Of You,Andrae Crouch,69,1980-01-19,1980-04-12,161,11
+399,You Got What It Takes,Bobby Thurston,78,1980-03-08,1980-05-10,161,10
+400,Splashdown Time,Breakwater,59,1980-06-21,1980-07-26,160,6
+401,I Owe You One,Shalamar,60,1980-07-26,1980-08-30,160,6
+402,Gee Whiz (Look At His Eyes),Interlude,64,1980-05-24,1980-06-28,160,6
+403,You're So Good To Me,Curtis Mayfield,46,1980-01-05,1980-01-26,159,4
+404,You And Me,Solaris,71,1980-03-08,1980-05-10,159,10
+405,I Believe In Love,Barry White,71,1980-11-08,1980-12-13,158,6
+406,Runnin' From The Law,Stargard,61,1980-02-02,1980-03-08,157,6
+407,Let's Go On Vacation,Sister Sledge,63,1980-06-21,1980-07-19,156,5
+408,Heartache No. 9,Delegation,66,1980-08-30,1980-10-04,156,6
+409,Walking On Sunshine,Bill Summers & Summers Heat,57,1980-01-05,1980-02-09,154,6
+410,"For You, For Love",Average White Band,60,1980-09-20,1980-10-25,154,6
+411,I'm Talkin' 'bout You,A Taste Of Honey,64,1980-11-01,1980-12-13,153,7
+412,Top Of The Stairs,Collins And Collins,68,1980-06-07,1980-07-12,152,6
+413,Freakin Time Pt. 1,Asphalt Jungle,60,1980-04-26,1980-05-31,151,6
+414,Distracted,Jarreau,61,1980-11-01,1980-12-06,151,6
+415,Do That To Me One More Time,Captain & Tennille,58,1980-02-16,1980-03-22,150,6
+416,Street Life,Herb Alpert,65,1980-03-08,1980-04-12,149,6
+417,Love Gun,Rick James,32,1980-01-05,1980-01-19,148,3
+418,Only The Lonely (Have A Reason To Be Sad),La Flavour,63,1980-05-31,1980-07-05,148,6
+419,Mr. Miracle Man,Dee Edwards,64,1980-09-06,1980-10-11,148,6
+420,The Real Thing,Pleasure,65,1980-03-22,1980-04-19,146,5
+421,Can't Stop Dancing,Sylvester,43,1980-01-05,1980-01-26,145,4
+422,"Baby, Let's Rap Now (Pt. 1)",The Moments,59,1980-11-29,1980-12-27,144,5
+423,Non Stop,Forecast,65,1980-11-22,1980-12-27,140,6
+424,Gimme What You Got,Jarreau,63,1980-09-06,1980-10-04,139,5
+425,A Song For Donny,The Whispers,36,1980-01-05,1980-01-19,138,3
+426,If You Want Me To Say It,Love Unlimited Orchestra,71,1980-08-16,1980-09-13,137,5
+427,Just Us,Two Tons O' Fun,52,1980-04-19,1980-05-10,136,4
+428,Superwoman,Side Effect,64,1980-05-24,1980-06-21,134,5
+429,Can't Help Myself,Kwick,68,1980-09-06,1980-10-18,134,7
+430,Despair,Millie Jackson,61,1980-06-28,1980-07-26,132,5
+431,How Do You Do <P6>(What You Do To Me),Brass Construction,71,1980-11-22,1980-12-27,130,6
+432,Hey There Lonely Girl,The Flakes,66,1980-09-27,1980-11-08,124,7
+433,Make Me Yours,High Inergy,68,1980-08-30,1980-10-04,122,6
+434,I Just Wanna Wanna,Linda Clifford,38,1980-01-05,1980-01-19,120,3
+435,Don't Make Me Wait Too Long,Roberta Flack,67,1980-08-09,1980-09-06,120,5
+436,Badd Boy,Don Covay,74,1980-07-19,1980-08-23,118,6
+437,After Loving You,Rockie Robbins,60,1980-12-06,1980-12-27,117,4
+438,I Still Love You,Windy City Kings,72,1980-05-17,1980-06-21,116,6
+439,Party People,Parliament,51,1980-01-05,1980-01-19,114,3
+440,If You're Lookin For A Night Of Fun,Leon Haywood,67,1980-07-05,1980-08-02,114,5
+441,Here's To You,Skyy,58,1980-12-06,1980-12-27,112,4
+442,Angel Of The Night,Angela Bofill,67,1980-05-03,1980-05-31,112,5
+443,Hangin'out,ADC Band,67,1980-07-12,1980-08-16,112,6
+444,Shut 'um Down,Gil Scott-Heron,68,1980-02-02,1980-03-15,112,7
+445,Take Me Away,The Temptations,69,1980-11-29,1980-12-27,111,5
+446,Save Me,Dave Mason,70,1980-08-30,1980-09-27,111,5
+447,Little Runaway,Stone City Band,66,1980-05-31,1980-06-21,110,4
+448,Tight Money,Leon Huff,68,1980-08-02,1980-08-30,109,5
+449,Last Night At Danceland,Randy Crawford,68,1980-07-05,1980-08-02,107,5
+450,You're My Sweetness,Billy Paul,69,1980-01-26,1980-02-23,106,5
+451,Hang Tough,Rockie Robbins,70,1980-10-04,1980-11-01,106,5
+452,Sure Shot,Crown Heights Affair,72,1980-06-21,1980-07-19,106,5
+453,So You Wanna Be A Star,Mtume,61,1980-12-06,1980-12-27,105,4
+454,Where Is Your Love,The Emotions,75,1980-03-01,1980-04-12,102,6
+455,She Believes In Me,D.J. Rogers,66,1980-08-16,1980-09-06,101,4
+456,Mystery Dancer,Shadow,68,1980-08-09,1980-09-06,101,5
+457,The Girl's Alright With Me,Masterpiece,81,1980-04-26,1980-06-14,99,8
+458,Hold On,Symba,70,1980-08-16,1980-09-13,98,5
+459,You've Got To Like What You Do,Shirley Brown,73,1980-11-29,1980-12-27,98,5
+460,You Gave Me Love,Crown Heights Affair,74,1980-03-29,1980-05-10,96,7
+461,Family,Hubert Laws,74,1980-10-18,1980-11-15,95,5
+462,Cowboys To Girls,Philly Cream,72,1980-10-11,1980-11-01,94,4
+463,Love Ain't Easy,Barry White,75,1980-02-02,1980-03-01,94,5
+464,Help From My Friends,Parlet,73,1980-09-06,1980-09-27,93,4
+465,Witch Doctor,Instant Funk,35,1980-01-05,1980-01-19,91,3
+466,Wop That Wandy,Gangsters,77,1980-02-16,1980-03-15,91,5
+467,In The Moonlight,ADC Band,75,1980-05-10,1980-06-07,90,5
+468,Think Positive,The Main Ingredient Featuring Cuba Gooding,69,1980-08-23,1980-09-20,88,5
+469,Never Seen A Girl Like You,David Oliver,57,1980-01-05,1980-01-19,84,3
+470,Watching You,Slave,62,1980-12-13,1980-12-27,84,3
+471,Soon As The Weather Breaks,Bobby Bland,76,1980-03-29,1980-04-19,83,4
+472,I'm At Your Mercy,The Jones Girls,77,1980-01-19,1980-02-16,82,5
+473,Hold On To Your Dream,Wee Gee,77,1980-03-22,1980-04-26,82,6
+474,E-flat Boogie,Trouble,72,1980-05-17,1980-06-07,81,4
+475,I Come Here To Party,T.F.O,82,1980-05-31,1980-07-05,81,6
+476,Say You Love Me Girl,Breakwater,79,1980-08-16,1980-09-13,79,5
+477,Ego Tripping Out,Marvin Gaye,37,1980-01-05,1980-01-12,78,2
+478,Something In The Past,One Way Featuring Al Hudson,76,1980-11-29,1980-12-27,78,5
+479,No Better Love,Shadow,72,1980-02-23,1980-03-08,77,3
+480,Making Love,Herbie Hancock,73,1980-08-09,1980-09-06,76,5
+481,Roomfull Of Mirrors,Hiroshima,80,1980-03-15,1980-04-12,76,5
+482,I'm So Hot,Denise LaSalle,82,1980-05-17,1980-06-14,76,5
+483,8th Wonder,Sugarhill Gang,57,1980-12-13,1980-12-27,75,3
+484,Bon Bon Vie,T.S. Monk,66,1980-12-13,1980-12-27,75,3
+485,Don't Be An Island,Jerry Butler,75,1980-08-30,1980-09-20,75,4
+486,Hang On In There Baby,Alton & Johnny,73,1980-02-02,1980-02-16,74,3
+487,Hot City,Shadow,75,1980-10-18,1980-11-08,73,4
+488,Lay Me Gently,Gene Chandler,73,1980-10-04,1980-10-18,72,3
+489,I Just Want To Fall In Love,The Spinners,75,1980-12-06,1980-12-27,72,4
+490,Does It Feel Good,B.T. Express,76,1980-09-06,1980-09-27,72,4
+491,How Much I Feel,Brothers By Choice,87,1980-07-05,1980-08-09,72,6
+492,Cant Be Love-do It To Me Anyway,Peter Brown,74,1980-06-07,1980-06-21,71,3
+493,Give It To You,R.C.R.,89,1980-07-12,1980-08-23,71,7
+494,What You Won't Do For Love,Roy Ayers,73,1980-03-08,1980-03-22,70,3
+495,I Don't Want To Be With Nobody Else,Alton McClain & Destiny,76,1980-04-19,1980-05-10,70,4
+496,We Came To Funk You Out,South Road Connection,79,1980-09-06,1980-09-27,70,4
+497,Shake It Up,Dazz Band,68,1980-12-13,1980-12-27,69,3
+498,Magic Carpet Ride,Diva Gray And Oyster,72,1980-02-09,1980-03-01,69,4
+499,It's Not What You Got (It's How You Use It),Carrie Lucas,74,1980-10-11,1980-10-25,69,3
+500,Anything You Want,David Sanborn,75,1980-04-26,1980-05-17,69,4
+501,Let's Dance,9th Creation,49,1980-01-05,1980-01-19,68,3
+502,Your Love Is Good,Sheila And B.Devotion,75,1980-09-27,1980-10-11,68,3
+503,Stretch' In Out,Gayle Adams,75,1980-07-19,1980-08-16,68,5
+504,IS IT IN,Jimmy 'Bo' Horne,77,1980-10-04,1980-11-08,67,6
+505,Stretch,B.T. Express,69,1980-12-13,1980-12-27,66,3
+506,My Guy/My Girl,Amii Stewart & Johnny Bristol,76,1980-10-04,1980-10-18,66,3
+507,I Ain't Gonna Stand For It,Stevie Wonder,63,1980-12-20,1980-12-27,65,2
+508,I've Been Pushed Aside,McFadden And Whitehead,73,1980-01-05,1980-01-26,65,4
+509,Right Or Wrong,Leroy Hutson,48,1980-01-05,1980-01-12,63,2
+510,Passionate Breezes,The Dells,76,1980-12-13,1980-12-27,63,3
+511,You Never Cross My Mind,Millie Jackson And Issac Hayes,78,1980-03-22,1980-04-12,62,4
+512,Play Something Pretty,Johnnie Taylor,79,1980-01-05,1980-01-26,62,4
+513,Never Gonna Tell It (Part 1),Philippe Wynne,81,1980-11-08,1980-11-29,62,4
+514,Georgy Porgy,Side Effect,77,1980-08-16,1980-08-30,60,3
+515,I Got This Thing For Your Love,Johnnie Taylor,77,1980-08-09,1980-08-30,60,4
+516,Without You,Jimmy 'Bo' Horne,78,1980-02-09,1980-02-23,60,3
+517,Love Won't Let Me Wait,Jackie Moore,78,1980-10-25,1980-11-15,60,4
+518,Don't Ask My Neighbors,Ahmad Jamal,79,1980-03-29,1980-04-19,60,4
+519,How Good Is Love,Fat Larry's Band,78,1980-06-14,1980-06-28,59,3
+520,Shame On You,Patience,78,1980-09-20,1980-10-04,59,3
+521,Love TKO,David Oliver,77,1980-07-12,1980-07-26,56,3
+522,It's A Groove (Keep On Dancin'),Ttf,78,1980-01-05,1980-01-19,56,3
+523,I Just Can't Shake The Feeling,Ava Cherry,79,1980-05-03,1980-05-17,56,3
+524,Be With The One You Love,The Dramatics,79,1980-06-28,1980-07-12,56,3
+525,Give Me A Break,The Ritchie Family,80,1980-06-21,1980-07-12,55,4
+526,When I Fall In Love,Revelatian,80,1980-12-06,1980-12-27,54,4
+527,Different Kinda Different,Johnny Mathis,81,1980-08-09,1980-08-30,54,4
+528,Jesus Is Love,Commodores,67,1980-12-20,1980-12-27,53,2
+529,Just To Make You Happy,Perry & Sanlin,81,1980-06-07,1980-06-21,53,3
+530,Be Alright - Part I,Zapp,65,1980-12-20,1980-12-27,52,2
+531,Sidra's Dream,Dave Valentin,82,1980-11-08,1980-11-29,52,4
+532,How Do You Know It Was Me,Barry White,64,1980-01-05,1980-01-19,49,3
+533,Groovy Ghost Show - Version 1,Casper,86,1980-07-12,1980-08-02,48,4
+534,Dance,Silver Platinum,70,1980-12-20,1980-12-27,46,2
+535,Full Of Fire,Shalamar,73,1980-12-20,1980-12-27,46,2
+536,Us And Love (We Go Together),Kenny Nolan,89,1980-02-23,1980-03-15,46,4
+537,Make It Last,Midnight Star,85,1980-04-05,1980-04-26,45,4
+538,Half A Love,Aretha Franklin,65,1980-01-05,1980-01-12,44,2
+539,I Want You,Narada,74,1980-12-20,1980-12-27,44,2
+540,Don't Wanna See You Cry,Clifford Coulter,85,1980-05-17,1980-05-31,44,3
+541,Happy Face,ConFunkShun,87,1980-10-11,1980-11-01,44,4
+542,The Hunter Gets Captured By The Game,Grace Jones,87,1980-08-30,1980-09-20,43,4
+543,IN THE MOOD TO GROOVE,Aurra,86,1980-06-14,1980-06-28,39,3
+544,I Just Want To Be The One In Your Life,Eddie Kendricks,87,1980-01-12,1980-01-26,39,3
+545,Talk To Me/Every Beat Of My Heart,Dorothy Moore,87,1980-03-15,1980-04-05,39,4
+546,I'll Never Love The Same Way Twice,Barbara Mason,77,1980-12-20,1980-12-27,38,2
+547,Snake Eyes,"Grover Washington, Jr.",88,1980-05-24,1980-06-14,38,4
+548,I Need Love,Shadow,77,1980-01-05,1980-01-12,37,2
+549,Like Sister And Brother,Frank Hooker And Positive People,78,1980-12-20,1980-12-27,36,2
+550,With You I'm Born Again,Billy Preston & Syreeta,86,1980-01-19,1980-02-02,35,3
+551,"My Feet Won't Move, But My Shoes Did The Boogie",People's Choice,79,1980-12-20,1980-12-27,34,2
+552,I Can't Stop (Turning You On),Silk,87,1980-01-26,1980-02-09,33,3
+553,Career Girl,Carrie Lucas,80,1980-12-20,1980-12-27,32,2
+554,Forever,Chuck Cissel,87,1980-04-19,1980-05-03,31,3
+555,How Glad I Am,Joyce Cobb,90,1980-09-27,1980-10-11,31,3
+556,Turn Out The Lamplight,George Benson,71,1980-12-27,1980-12-27,30,1
+557,Steal Away,Robbie Dupree,85,1980-07-26,1980-08-02,30,2
+558,Rock It,Lipps Inc.,85,1980-08-16,1980-08-23,30,2
+559,It's All In The Game,Isaac Hayes,86,1980-08-23,1980-08-30,30,2
+560,Who Said,The Isley Brothers,72,1980-12-27,1980-12-27,29,1
+561,I Just Wanna Be Your Girl,Chapter 8,81,1980-01-05,1980-01-19,29,3
+562,Big City Rocker,Trussel,86,1980-05-31,1980-06-07,29,2
+563,You're Playing Dirty,Lowrell,87,1980-05-17,1980-05-31,29,3
+564,Let Me Blow Your Whistle,Laura Greene,90,1980-03-29,1980-04-12,29,3
+565,Shadow Dancing,Ndugu & The Chocolate Jam Company,91,1980-03-22,1980-04-05,29,3
+566,Open Your Mind,Kleeer,86,1980-08-09,1980-08-16,28,2
+567,The Funk Is On,Instant Funk,87,1980-11-29,1980-12-13,28,3
+568,Joy Ride,Jerry Knight,87,1980-08-30,1980-09-13,28,3
+569,PARTY ON,Pure Energy,93,1980-07-26,1980-08-16,28,4
+570,What We Have Is Right,The Blackbyrds,75,1980-12-27,1980-12-27,26,1
+571,This Is It (Part I),Millie Jackson,88,1980-09-27,1980-10-11,26,3
+572,Just How Sweet Is Your Love,Rhyze,92,1980-06-07,1980-06-28,26,4
+573,Right In The Middle Of Falling In Love,Solaris,92,1980-09-06,1980-09-20,25,3
+574,Music Speaks Louder Than Words,Wilbert Longmire,92,1980-02-16,1980-03-01,25,3
+575,A Few More Kisses To Go,Isaac Hayes,89,1980-04-19,1980-04-26,23,2
+576,I Wanna Give You Some Love,Chuck Jackson,90,1980-06-07,1980-06-14,22,2
+577,In The Morning,South Road Connection,93,1980-02-16,1980-03-01,22,3
+578,Fill Me Up,Elaine And Ellen,91,1980-08-30,1980-09-06,20,2
+579,You're The Best Thing In My Life,The Dramatics,82,1980-12-27,1980-12-27,19,1
+580,Smack Dab In The Middle,Janice McClaine,91,1980-01-26,1980-02-02,19,2
+581,Dreams Come True,O.C. Smith,92,1980-11-22,1980-12-06,19,3
+582,Glad You Came My Way,Joe Simon,83,1980-12-27,1980-12-27,18,1
+583,I Had A Talk With My Man,Linda Clifford,84,1980-12-27,1980-12-27,17,1
+584,Magic Man,Robert Winters And Fall,85,1980-12-27,1980-12-27,16,1
+585,Tit For Tat,Bobby Bland,91,1980-01-05,1980-01-19,16,3
+586,Can't Help Falling In Love With You/Stay With Me (Spend The Night),Jimmy Castor,93,1980-05-24,1980-06-07,16,3
+587,"Dance, Dance, Dance All Night",Bohannon,86,1980-12-27,1980-12-27,15,1
+588,SEABISCUIT IN THE FIFTH,Belinda West,92,1980-10-25,1980-11-01,15,2
+589,Bussle,Opus 7,92,1980-01-05,1980-01-12,15,2
+590,DON't SAY GOODNIGHT,First Love,87,1980-12-27,1980-12-27,14,1
+591,Sadness In My Eyes,The Duncan Sisters,94,1980-02-23,1980-03-01,14,2
+592,Walk On,Ozone,94,1980-07-26,1980-08-02,14,2
+593,Understanding,The Truth,88,1980-12-27,1980-12-27,13,1
+594,I'll Be Around,War,96,1980-05-03,1980-05-17,13,3
+595,Hey You,Symba,89,1980-12-27,1980-12-27,12,1
+596,In The Center,Rodney Franklin,91,1980-11-15,1980-11-29,12,3
+597,Beat Of The Night,Fever,93,1980-01-05,1980-01-12,12,2
+598,I Wanna Get Down,C.L. Blast,93,1980-06-21,1980-06-28,12,2
+599,Live With Me,Wilson Pickett,95,1980-03-01,1980-03-08,12,2
+600,Love's Calling,Zingara,90,1980-12-27,1980-12-27,11,1
+601,Music,Gary Bartz,93,1980-06-14,1980-06-21,9,2
+602,I Get Excited,David Ruffin,94,1980-01-05,1980-01-12,9,2
+603,"Mellow,mellow Right On",Lowrell,95,1980-01-05,1980-01-12,9,2
+604,"Let Me Go, Love",Nicolette Larson & Michael McDonald,96,1980-03-15,1980-03-22,9,2
+605,I'm So Glad That I'm A Woman,Love Unlimited,96,1980-03-01,1980-03-08,8,2
+606,All About Love,Niteflyte,97,1980-06-07,1980-06-14,6,2
+607,Rockin',Windstorm,98,1980-08-16,1980-08-23,6,2
+608,(Not Just) Knee Deep - Part 1,Funkadelic,96,1980-01-05,1980-01-05,5,1
+609,Love Is Gone,Top Shelf,98,1980-07-26,1980-08-02,5,2
+610,You Can Get Over,Stephanie Mills,97,1980-01-05,1980-01-05,4,1
+611,I Want You Here With Me,The O'Jays,98,1980-01-05,1980-01-05,3,1
+612,Moon Child,Captain Sky,99,1980-01-05,1980-01-12,3,2
+613,I Found Love,Deniece Williams,100,1980-01-05,1980-01-05,1,1

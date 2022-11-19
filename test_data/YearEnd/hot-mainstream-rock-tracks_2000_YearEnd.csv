@@ -1,0 +1,182 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Kryptonite,3 Doors Down,1,2000-02-05,2000-12-30,1692,48
+2,I Disappear,Metallica,1,2000-05-06,2000-12-30,1225,35
+3,Higher,Creed,1,2000-01-01,2000-08-26,1087,35
+4,Last Resort,Papa Roach,4,2000-05-06,2000-12-30,1023,35
+5,With Arms Wide Open,Creed,1,2000-04-22,2000-11-18,1021,31
+6,No Leaf Clover,Metallica,1,2000-01-01,2000-07-22,1006,30
+7,Loser,3 Doors Down,1,2000-06-24,2000-12-30,966,28
+8,Voodoo,Godsmack,5,2000-01-01,2000-07-29,965,31
+9,Otherside,Red Hot Chili Peppers,2,2000-01-29,2000-07-29,934,27
+10,Judith,A Perfect Circle,4,2000-04-29,2000-10-28,878,27
+11,N.I.B.,Primus With Ozzy,2,2000-07-15,2000-12-30,800,25
+12,What If,Creed,3,2000-01-08,2000-07-01,751,26
+13,Sour Girl,Stone Temple Pilots,4,2000-04-22,2000-10-14,734,26
+14,Stupify,Disturbed,12,2000-05-20,2000-12-23,716,32
+15,Californication,Red Hot Chili Peppers,1,2000-07-01,2000-12-23,710,26
+16,Pardon Me,Incubus,7,2000-01-01,2000-07-08,695,28
+17,Godless,U.P.O.,6,2000-04-22,2000-10-14,669,26
+18,Only God Knows Why,Kid Rock,5,2000-01-01,2000-06-17,666,25
+19,Hemorrhage (In My Hands),Fuel,2,2000-08-26,2000-12-30,635,19
+20,Stiff Upper Lip,AC/DC,1,2000-02-19,2000-07-22,631,23
+21,Make Me Bad,Korn,9,2000-02-19,2000-08-12,621,26
+22,Bad Religion,Godsmack,8,2000-06-17,2000-12-09,606,26
+23,Learn To Fly,Foo Fighters,3,2000-01-01,2000-04-22,563,17
+24,Leader Of Men,Nickelback,8,2000-03-04,2000-08-19,548,25
+25,Are You Ready?,Creed,4,2000-09-09,2000-12-30,540,17
+26,Change (In The House Of Flies),Deftones,9,2000-06-03,2000-12-02,536,24
+27,"Turn Me On ""Mr. Deadman""",The Union Underground,11,2000-07-08,2000-12-30,525,26
+28,The Chemicals Between Us,Bush,4,2000-01-01,2000-04-22,514,17
+29,Why Pt.2,Collective Soul,2,2000-09-30,2000-12-30,511,14
+30,Home,Staind,11,2000-02-12,2000-08-05,492,26
+31,Satellite Blues,AC/DC,7,2000-06-03,2000-10-14,443,20
+32,Falling Away From Me,Korn,7,2000-01-01,2000-05-06,440,19
+33,Take A Picture,Filter,4,2000-01-01,2000-04-22,423,17
+34,Awake,Godsmack,2,2000-10-14,2000-12-30,420,12
+35,Re-arranged,Limp Bizkit,8,2000-01-01,2000-04-08,393,15
+36,Breathe,Nickelback,10,2000-08-12,2000-12-02,371,17
+37,Nothing As It Seems,Pearl Jam,3,2000-04-29,2000-07-08,357,11
+38,Was,The Kenny Wayne Shepherd Band,9,2000-01-29,2000-05-20,355,17
+39,Put Your Lights On,Santana Featuring Everlast,9,2000-01-01,2000-03-25,352,13
+40,Guerrilla Radio,Rage Against The Machine,11,2000-01-01,2000-04-08,348,15
+41,Keep Away,Godsmack,14,2000-01-01,2000-04-01,347,14
+42,3 Libras,A Perfect Circle,12,2000-09-16,2000-12-30,338,16
+43,Angel's Eye,Aerosmith,4,2000-10-28,2000-12-30,335,10
+44,Breadline,Megadeth,6,2000-01-01,2000-03-25,325,13
+45,Original Prankster,The Offspring,8,2000-10-21,2000-12-30,325,11
+46,Beautiful Day,U2,14,2000-09-23,2000-12-30,318,15
+47,Goodbye Lament,Iommi Featuring Dave Grohl,10,2000-10-07,2000-12-30,310,13
+48,Break Stuff,Limp Bizkit,19,2000-03-04,2000-09-02,291,26
+49,Stacked Actors,Foo Fighters,9,2000-02-12,2000-05-06,287,13
+50,One Step Closer,Linkin Park,6,2000-09-16,2000-12-30,286,16
+51,Last Goodbye,The Kenny Wayne Shepherd Band,14,2000-07-29,2000-10-28,285,14
+52,Silver Future,Monster Magnet,15,2000-04-01,2000-07-01,273,14
+53,Serious JUJU,Sammy Hagar,10,2000-09-30,2000-12-16,268,12
+54,Sleep Now In The Fire,Rage Against The Machine,16,2000-02-26,2000-06-24,266,18
+55,Take A Look Around,Limp Bizkit,15,2000-05-27,2000-09-16,265,17
+56,Hell On High Heels,Motley Crue,13,2000-07-01,2000-09-16,262,12
+57,Weapon And The Wound,Days Of The New,10,2000-01-29,2000-04-15,258,12
+58,What Is And What Should Never Be,Jimmy Page & The Black Crowes,13,2000-03-18,2000-06-10,258,13
+59,Stellar,Incubus,17,2000-07-15,2000-10-28,258,16
+60,Stand Inside Your Love,The Smashing Pumpkins,11,2000-03-04,2000-05-20,251,12
+61,Breakout,Foo Fighters,11,2000-05-13,2000-07-29,246,12
+62,Nobody's Real,Powerman 5000,18,2000-01-01,2000-04-01,239,14
+63,The Dolphin's Cry,Live,6,2000-01-01,2000-02-26,237,9
+64,Rollin',Limp Bizkit,10,2000-09-23,2000-12-30,235,15
+65,Minority,Green Day,15,2000-09-16,2000-11-25,226,11
+66,New Beginning,Stir,16,2000-03-11,2000-06-10,218,14
+67,Broken Home,Papa Roach,18,2000-09-30,2000-12-30,216,14
+68,Where Did You Go?,Full Devil Jacket,19,2000-09-02,2000-11-18,216,12
+69,The Everlasting Gaze,The Smashing Pumpkins,14,2000-01-01,2000-02-26,209,9
+70,Painted Perfect,One Way Ride,16,2000-07-15,2000-09-23,209,11
+71,Run To The Water,Live,17,2000-02-12,2000-04-29,199,12
+72,The Wicker Man,Iron Maiden,19,2000-06-10,2000-09-02,196,13
+73,American Bad Ass,Kid Rock,20,2000-05-13,2000-08-05,195,13
+74,Mudshovel,Staind,11,2000-01-01,2000-02-12,188,7
+75,Heaven & Hot Rods,Stone Temple Pilots,17,2000-01-01,2000-03-04,188,10
+76,Question Everything,8Stops7,16,2000-07-29,2000-10-07,179,11
+77,Free,VAST,18,2000-09-02,2000-11-11,171,11
+78,Warm Machine,Bush,16,2000-05-13,2000-07-22,168,11
+79,Kill The King,Megadeth,21,2000-09-30,2000-12-09,164,11
+80,Workin' It,Don Henley,21,2000-04-08,2000-06-17,160,11
+81,When It All Goes Wrong Again,Everclear,11,2000-11-18,2000-12-30,159,7
+82,My Favorite Headache,Geddy Lee,20,2000-11-04,2000-12-30,158,9
+83,Waffle,Sevendust,23,2000-02-26,2000-06-17,157,17
+84,In 2 Deep,The Kenny Wayne Shepherd Band,10,2000-01-01,2000-02-19,155,8
+85,No Way Out,Stone Temple Pilots,17,2000-10-21,2000-12-16,153,9
+86,The Lost Art Of Keeping A Secret,Queens Of The Stone Age,21,2000-06-24,2000-09-09,152,11
+87,Light Years,Pearl Jam,17,2000-07-01,2000-08-26,150,9
+88,Open Your Eyes,Guano Apes,24,2000-01-01,2000-03-18,150,12
+89,Step Into The Light,Dust For Life,18,2000-10-28,2000-12-30,146,10
+90,Bartender (I Just Want Your Company),(hed) p.e.,23,2000-08-26,2000-11-25,143,14
+91,Satisfied,8Stops7,26,2000-03-11,2000-06-10,140,14
+92,Now You Know,Full Devil Jacket,23,2000-04-01,2000-07-01,139,14
+93,Testify,Rage Against The Machine,22,2000-08-12,2000-10-21,137,11
+94,Just Got Wicked,Cold,25,2000-09-09,2000-11-25,136,12
+95,Young Lust (Live),Pink Floyd,15,2000-04-08,2000-05-20,130,7
+96,Bent,matchbox twenty,24,2000-05-06,2000-07-15,126,11
+97,Day After Day,Def Leppard,22,2000-02-05,2000-04-01,124,9
+98,Nothing To Prove,Caroline's Spine,23,2000-04-01,2000-06-03,119,10
+99,Disposable Teens,Marilyn Manson,22,2000-11-04,2000-12-30,117,9
+100,Riding With The King,B.B. King & Eric Clapton,26,2000-06-17,2000-08-26,106,11
+101,She's Got Issues,The Offspring,19,2000-01-01,2000-02-05,105,6
+102,Life Jacket,Simon Says,23,2000-01-01,2000-02-19,104,8
+103,Meltdown,AC/DC,22,2000-09-16,2000-11-11,103,9
+104,Sleepwalker,The Wallflowers,26,2000-09-30,2000-12-09,103,11
+105,Down,Stone Temple Pilots,18,2000-01-01,2000-02-12,101,7
+106,Letting The Cables Sleep,Bush,26,2000-01-29,2000-03-25,98,9
+107,Somebody Someone,Korn,23,2000-07-29,2000-09-23,96,9
+108,Revolution Is My Name,Pantera,28,2000-03-25,2000-06-03,95,11
+109,Preacher Man,Lynyrd Skynyrd,26,2000-01-01,2000-02-12,92,7
+110,Scum Of The Earth,Rob Zombie,25,2000-07-29,2000-09-09,91,7
+111,Fear The Voices,Alice In Chains,16,2000-01-01,2000-01-29,90,5
+112,Knock Down Walls,Tonic,23,2000-01-01,2000-02-05,90,6
+113,Congratulations Song,COC,24,2000-11-04,2000-12-30,88,9
+114,Promise,Eve 6,25,2000-07-15,2000-09-09,88,9
+115,They Stood Up For Love,Live,24,2000-08-05,2000-09-23,86,8
+116,Painted On My Heart,The Cult,26,2000-07-08,2000-08-26,86,8
+117,Feel Alive,U.P.O.,25,2000-11-18,2000-12-30,85,7
+118,Wonderful,Everclear,28,2000-06-17,2000-08-19,84,10
+119,Hanging By A Moment,Lifehouse,19,2000-11-25,2000-12-30,83,6
+120,Spiders,System Of A Down,25,2000-04-01,2000-05-27,83,9
+121,Push It,Static-X,24,2000-01-01,2000-02-19,81,8
+122,Is Anybody Home?,Our Lady Peace,27,2000-02-12,2000-04-08,79,9
+123,Rock The Party (Off The Hook),P.O.D.,25,2000-08-05,2000-09-23,75,8
+124,Drive,Incubus,15,2000-12-09,2000-12-30,74,4
+125,Into The Void,Nine Inch Nails,27,2000-01-01,2000-02-26,74,9
+126,Black Jesus,Everlast,30,2000-09-30,2000-12-16,72,12
+127,Renegades Of Funk,Rage Against The Machine,23,2000-12-02,2000-12-30,70,5
+128,Miserable,Lit,29,2000-03-04,2000-05-06,70,10
+129,Southtown,P.O.D.,31,2000-02-05,2000-04-29,67,12
+130,Little Scene,Isle Of Q,29,2000-08-05,2000-09-23,64,8
+131,Around The World,Red Hot Chili Peppers,21,2000-01-01,2000-01-22,60,4
+132,Angel's Son,Strait Up Featuring Lajon,21,2000-11-25,2000-12-30,58,6
+133,Enemy,Days Of The New,28,2000-01-01,2000-01-29,53,5
+134,The Best Things,Filter,31,2000-04-15,2000-05-27,53,7
+135,Karma,Diffuser,27,2000-12-02,2000-12-30,50,5
+136,True Friends,Shannon Curfman,29,2000-01-01,2000-02-05,49,6
+137,Check Your Head,Buckcherry,29,2000-02-19,2000-03-25,48,6
+138,Sugar,System Of A Down,30,2000-01-01,2000-01-29,45,5
+139,Ten Years Gone,Jimmy Page & The Black Crowes,33,2000-08-05,2000-09-16,44,7
+140,Voices,Disturbed,25,2000-12-16,2000-12-30,39,3
+141,Outside,Aaron Lewis Of Staind With Fred Durst,22,2000-12-16,2000-12-30,36,3
+142,36-22-36,ZZ Top,31,2000-02-05,2000-03-04,35,5
+143,Bag Of Tricks,Isle Of Q,30,2000-12-09,2000-12-30,31,4
+144,Denial,Sevendust,30,2000-01-01,2000-01-29,31,5
+145,My Generation,Limp Bizkit,33,2000-09-23,2000-11-04,31,7
+146,Let Sally Drive (Ride Sally Ride),Sammy Hagar,26,2000-12-16,2000-12-30,29,3
+147,First Trip To The Moon,The Nixons,32,2000-05-27,2000-07-01,29,6
+148,Wait And Bleed,Slipknot,34,2000-01-15,2000-02-26,29,7
+149,Simon Says,Drain STH,32,2000-01-01,2000-01-22,28,4
+150,Mainline,Jesse James Dupree,34,2000-06-17,2000-07-22,28,6
+151,Basic Breakdown,Apartment 26,33,2000-06-03,2000-07-08,22,6
+152,The Great Beyond,R.E.M.,33,2000-01-01,2000-02-12,22,7
+153,Slave,David Coverdale,33,2000-12-09,2000-12-30,21,4
+154,Drifters,Paul Rodgers,33,2000-06-24,2000-07-29,20,5
+155,Riders On The Storm,Creed,32,2000-12-16,2000-12-30,19,3
+156,Wasting Time,Kid Rock,35,2000-09-02,2000-09-23,17,4
+157,Back To School,Deftones,35,2000-11-11,2000-12-09,17,5
+158,Anything,Third Eye Blind,36,2000-01-01,2000-01-22,14,4
+159,Playing With Fire,Shannon Curfman,37,2000-04-08,2000-05-13,11,6
+160,Old Enough,Nickelback,34,2000-12-23,2000-12-30,10,2
+161,Break On Through,Stone Temple Pilots,35,2000-12-23,2000-12-30,8,2
+162,Fiction (Dreams In Digital),Orgy,38,2000-09-16,2000-10-21,8,4
+163,Smooth,Santana Featuring Rob Thomas,34,2000-01-01,2000-01-01,7,1
+164,You Spin Me Round (Like A Record),Dope,37,2000-08-26,2000-09-09,7,3
+165,Again & Again,Taproot,39,2000-11-11,2000-12-02,6,4
+166,Totalimmortal,The Offspring,36,2000-06-10,2000-06-10,5,1
+167,I'm With Stupid (He's A Loser),Static-X,38,2000-04-15,2000-04-29,5,2
+168,When Worlds Collide,Powerman 5000,37,2000-01-01,2000-01-01,4,1
+169,Right Now,SR-71,38,2000-09-02,2000-09-09,4,2
+170,Ultra Mega,Powerman 5000,38,2000-12-23,2000-12-30,4,2
+171,Still After You,Earth To Andy,39,2000-01-08,2000-01-22,4,2
+172,Nookie,Limp Bizkit,38,2000-01-08,2000-01-08,3,1
+173,Holy Man,One Minute Silence,39,2000-05-27,2000-05-27,2,1
+174,Climbing The Walls,Stir,39,2000-08-19,2000-08-19,2,1
+175,Paper Sun,Def Leppard,39,2000-01-01,2000-01-01,2,1
+176,American Woman,Lenny Kravitz,39,2000-01-15,2000-01-15,2,1
+177,Man In The Box (Live),Alice In Chains,39,2000-12-30,2000-12-30,2,1
+178,Salvation,Little Steven,40,2000-03-04,2000-03-11,2,2
+179,Point #1,Chevelle,40,2000-02-26,2000-02-26,1,1
+180,Bad Little Doggie,Gov't Mule,40,2000-04-15,2000-04-15,1,1
+181,Warning,Green Day,40,2000-12-30,2000-12-30,1,1

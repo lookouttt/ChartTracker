@@ -1,0 +1,482 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Hello Darlin',Conway Twitty,1,1970-04-25,1970-09-05,2044,20
+2,For The Good Times/Grazin' In Greener Pastures,Ray Price,1,1970-07-11,1970-11-07,1922,18
+3,Is Anybody Goin' To San Antone,Charley Pride,1,1970-03-07,1970-06-27,1842,17
+4,Tennessee Bird Walk,Jack Blanchard & Misty Morgan,1,1970-02-07,1970-06-13,1816,19
+5,Wonder Could I Live There Anymore,Charley Pride,1,1970-06-13,1970-10-03,1782,17
+6,He Loves Me All The Way,Tammy Wynette,1,1970-05-23,1970-09-05,1752,16
+7,Sunday Morning Coming Down,Johnny Cash,1,1970-09-05,1970-12-12,1619,15
+8,"My Woman, My Woman, My Wife",Marty Robbins,1,1970-02-21,1970-06-13,1571,17
+9,My Love,Sonny James,1,1970-04-11,1970-07-18,1565,15
+10,The Fightin' Side Of Me,Merle Haggard And The Strangers,1,1970-02-07,1970-05-09,1526,14
+11,Don't Keep Me Hangin' On,Sonny James,1,1970-07-04,1970-10-10,1522,15
+12,I Do My Swinging At Home,David Houston,3,1970-04-04,1970-07-25,1470,17
+13,"Run, Woman, Run",Tammy Wynette,1,1970-09-12,1970-12-19,1466,15
+14,The Pool Shark,Dave Dudley,1,1970-03-14,1970-06-27,1459,16
+15,When A Man Loves A Woman (The Way That I Love You),Billy Walker,3,1970-06-27,1970-10-24,1437,18
+16,The Kansas City Song,Buck Owens,2,1970-06-06,1970-09-12,1415,15
+17,It's Just A Matter Of Time,Sonny James,1,1970-01-17,1970-04-18,1397,14
+18,There Must Be More To Love Than This,Jerry Lee Lewis,1,1970-08-22,1970-11-28,1395,15
+19,All For The Love Of Sunshine,"Hank Williams, Jr. & Mike Curb Congregation",1,1970-08-01,1970-11-07,1394,15
+20,Fifteen Years Ago,Conway Twitty,1,1970-10-10,1970-12-26,1382,12
+21,She's A Little Bit Country,George Hamilton IV,3,1970-05-02,1970-08-15,1371,16
+22,Endlessly,Sonny James,1,1970-10-17,1970-12-26,1360,11
+23,If I Were A Carpenter,Johnny Cash & June Carter,2,1970-01-24,1970-05-02,1346,15
+24,I Can't Believe That You've Stopped Loving Me,Charley Pride,1,1970-09-26,1970-12-26,1309,14
+25,Heart Over Mind,Mel Tillis,3,1970-04-25,1970-08-15,1283,17
+26,I'll See Him Through,Tammy Wynette,2,1970-01-31,1970-05-02,1276,14
+27,A Week In A Country Jail,Tom T. Hall,1,1970-01-03,1970-03-28,1240,13
+28,I Can't Be Myself/Sidewalks Of Chicago,Merle Haggard,3,1970-10-17,1970-12-26,1236,11
+29,Honey Come Back,Glen Campbell,2,1970-01-24,1970-04-18,1216,13
+30,What Is Truth,Johnny Cash,3,1970-04-18,1970-07-18,1206,14
+31,Mule Skinner Blues (Blue Yodel No. 8),Dolly Parton,3,1970-07-04,1970-10-17,1203,16
+32,Once More With Feeling,Jerry Lee Lewis,2,1970-02-21,1970-05-23,1172,14
+33,Long Long Texas Road,Roy Drusky,5,1970-05-09,1970-08-22,1169,16
+34,The Taker,Waylon Jennings,5,1970-08-29,1970-12-05,1156,15
+35,It's Only Make Believe,Glen Campbell,3,1970-09-19,1970-12-26,1144,15
+36,I Know How,Loretta Lynn,4,1970-03-07,1970-06-06,1107,14
+37,If I Ever Fall In Love (With A Honky Tonk Girl),Faron Young,4,1970-05-30,1970-09-12,1107,16
+38,Love Is A Sometimes Thing,Bill Anderson,5,1970-03-14,1970-06-20,1106,15
+39,How I Got To Memphis,Bobby Bare,3,1970-08-08,1970-11-21,1097,16
+40,Someday We'll Be Together,Bill Anderson,4,1970-06-20,1970-09-26,1082,15
+41,Angels Don't Lie,Jim Reeves,4,1970-08-15,1970-11-21,1071,15
+42,Wonders Of The Wine,David Houston,6,1970-08-08,1970-11-14,1066,15
+43,That's When She Started To Stop Loving You,Conway Twitty,3,1970-01-03,1970-04-04,1064,14
+44,"Baby, Baby (I Know You're A Lady)",David Houston,1,1970-01-03,1970-02-28,1019,9
+45,Coal Miner's Daughter,Loretta Lynn,1,1970-10-31,1970-12-26,1010,9
+46,"Jesus, Take A Hold",Merle Haggard And The Strangers,3,1970-06-13,1970-09-12,1009,14
+47,Heaven Everyday,Mel Tillis,5,1970-07-25,1970-10-24,985,14
+48,You Wanna Give Me A Lift,Loretta Lynn,6,1970-06-27,1970-10-03,978,15
+49,One Minute Past Eternity,Jerry Lee Lewis,2,1970-01-03,1970-03-14,973,11
+50,Daddy Was An Old Time Preacher Man,Porter Wagoner And Dolly Parton,7,1970-08-01,1970-11-07,952,15
+51,I Can't Seem To Say Goodbye,Jerry Lee Lewis,7,1970-04-25,1970-08-01,935,15
+52,Humphrey The Camel,Jack Blanchard & Misty Morgan,5,1970-06-20,1970-09-12,924,13
+53,Wish I Didn't Have To Miss You,Jack Greene,2,1970-01-03,1970-02-28,909,9
+54,Stay There 'til I Get There,Lynn Anderson,7,1970-03-21,1970-07-04,906,16
+55,Thank God And Greyhound,Roy Clark,6,1970-09-26,1970-12-26,905,14
+56,I Never Picked Cotton,Roy Clark,5,1970-06-06,1970-09-12,888,15
+57,I Never Once Stopped Loving You,Connie Smith,5,1970-05-16,1970-08-22,888,15
+58,Brown Eyed Handsome Man,Waylon Jennings,3,1970-01-03,1970-03-07,885,10
+59,After Closing Time,David Houston,6,1970-10-03,1970-12-26,880,13
+60,All I Have To Do Is Dream,Bobbie Gentry & Glen Campbell,6,1970-02-21,1970-05-16,876,13
+61,(I'm So) Afraid Of Losing You Again,Charley Pride,2,1970-01-03,1970-02-21,873,8
+62,SNOWBIRD,Anne Murray,10,1970-07-25,1970-11-28,867,19
+63,Occasional Wife,Faron Young,6,1970-02-07,1970-05-09,864,14
+64,You Wouldn't Know Love,Ray Price,8,1970-03-07,1970-06-13,854,15
+65,Everything A Man Could Ever Need,Glen Campbell,5,1970-07-18,1970-10-03,847,12
+66,Rise And Shine,Tommy Cash,9,1970-03-28,1970-06-27,840,14
+67,If It's All The Same To You,Bill Anderson,2,1970-01-03,1970-02-21,829,8
+68,Where Have All Our Heroes Gone,Bill Anderson,6,1970-10-24,1970-12-26,820,10
+69,Shoeshine Man,Tom T. Hall,8,1970-04-04,1970-07-04,802,14
+70,Salute To A Switchblade,Tom T. Hall,8,1970-07-11,1970-10-03,787,13
+71,Goin' Steady,Faron Young,5,1970-10-10,1970-12-26,771,12
+72,Six White Horses,Tommy Cash,4,1970-01-03,1970-03-07,769,10
+73,Jolie Girl,Marty Robbins,7,1970-09-12,1970-12-12,765,14
+74,The Great White Horse,Buck Owens,8,1970-08-29,1970-11-21,757,13
+75,Tomorrow Is Forever,Porter Wagoner And Dolly Parton,9,1970-02-14,1970-05-23,753,15
+76,Then He Touched Me,Jean Shepard,8,1970-01-03,1970-04-04,748,14
+77,Country Girl,Jeannie C. Riley,7,1970-01-31,1970-04-18,739,12
+78,She Goes Walking Through My Mind,Billy Walker,3,1970-10-24,1970-12-26,736,10
+79,Rose Garden,Lynn Anderson,1,1970-11-07,1970-12-26,735,8
+80,Singer Of Sad Songs,Waylon Jennings,12,1970-04-18,1970-07-18,722,14
+81,Tell Me My Lying Eyes Are Wrong,George Jones,13,1970-07-04,1970-10-03,710,14
+82,Welfare Cadilac,Guy Drake,6,1970-01-10,1970-04-11,708,14
+83,There's A Story (Goin' 'round),Dottie West,7,1970-01-03,1970-03-07,701,10
+84,Lovin' Man (Oh Pretty Woman),Arlene,13,1970-04-25,1970-07-25,697,14
+85,One Song Away,Tommy Cash,9,1970-07-18,1970-10-10,696,13
+86,Morning,Jim Ed Brown,4,1970-10-24,1970-12-26,693,10
+87,Biloxi,Kenny Price,10,1970-07-18,1970-10-17,685,14
+88,I'm A Lover (Not A Fighter),Skeeter Davis,9,1970-01-03,1970-03-21,678,12
+89,Street Singer,Merle Haggard,9,1970-04-18,1970-07-11,665,13
+90,The Whole World Comes To Me/If This Is Love,Jack Greene,14,1970-07-18,1970-10-17,658,14
+91,Heavenly Sunshine,Ferlin Husky,11,1970-05-16,1970-08-08,657,13
+92,Hello Mary Lou,Bobby Lewis,14,1970-05-30,1970-09-12,643,16
+93,All My Hard Times,Roy Drusky,9,1970-09-19,1970-12-05,623,12
+94,I Walked Out On Heaven,Hank Williams Jr.,12,1970-03-07,1970-05-30,622,13
+95,Marty Gray,Billie Jo Spears,17,1970-07-25,1970-10-24,620,14
+96,Wings Upon Your Horns,Loretta Lynn,11,1970-01-03,1970-03-14,616,11
+97,It's A Beautiful Day,Wynn Stewart,13,1970-09-12,1970-12-05,609,13
+98,Togetherness,Buck Owens,12,1970-05-09,1970-07-25,608,12
+99,A Perfect Mountain,Don Gibson,16,1970-06-27,1970-09-19,602,13
+100,Take A Letter Maria,Anthony Armstrong Jones,8,1970-01-10,1970-03-21,584,11
+101,Lilacs And Fire,George Morgan,17,1970-04-18,1970-07-11,577,13
+102,"Thinking 'Bout You, Babe",Billy Walker,9,1970-01-03,1970-03-07,572,10
+103,So Sad (To Watch Good Love Go Bad),"Hank Williams, Jr. & Lois Johnson",12,1970-10-03,1970-12-26,562,13
+104,Don't Take All Your Loving,Don Gibson,17,1970-03-14,1970-05-30,561,12
+105,Live For The Good Times,Warner Mack,16,1970-09-12,1970-12-05,558,13
+106,Big In Vegas,Buck Owens and The Buckaroos,5,1970-01-03,1970-02-07,557,6
+107,No Love At All/I Found You Just In Time,Lynn Anderson,15,1970-08-01,1970-10-17,556,12
+108,Talk About The Good Times,Jerry Reed,14,1970-03-07,1970-05-23,551,12
+109,South/Don't We All Have The Right,Roger Miller,15,1970-08-29,1970-11-14,551,12
+110,Blistered/See Ruby Fall,Johnny Cash,7,1970-01-03,1970-02-14,549,7
+111,I'm Leavin' It Up To You,Johnny & Jonie Mosby,18,1970-05-09,1970-08-01,548,13
+112,Nobody's Fool/Why Do I Love You (Melody Of Love),Jim Reeves,10,1970-01-03,1970-03-07,547,10
+113,You And Me Against The World,Bobby Lord,15,1970-05-02,1970-07-25,542,13
+114,A Lover's Question,Del Reeves,14,1970-02-07,1970-04-25,536,12
+115,We're Gonna Get Together,Buck Owens,13,1970-02-21,1970-05-02,535,11
+116,Do It To Someone You Love,Norro Wilson,20,1970-07-04,1970-09-26,533,13
+117,This Night (Ain't Fit For Nothing But Drinking),Dave Dudley,20,1970-08-01,1970-10-17,530,12
+118,Northeast Arkansas Mississippi County Bootlegger,Kenny Price,17,1970-01-31,1970-04-18,529,12
+119,She's Mine/No Blues Is Good News,George Jones,6,1970-01-03,1970-02-14,525,7
+120,I'll Make Amends,Roy Drusky,11,1970-01-17,1970-03-28,521,11
+121,Don't Cry Daddy,Elvis Presley,13,1970-01-03,1970-03-07,520,10
+122,Playin' Around With Love,Barbara Mandrell,18,1970-05-23,1970-08-08,517,12
+123,I Want You Free,Jean Shepard,22,1970-08-15,1970-10-31,510,12
+124,Wake Me Up Early In The Morning,Bobby Lord,21,1970-08-22,1970-11-21,508,14
+125,A Woman Lives For Love,Wanda Jackson,17,1970-04-04,1970-06-13,505,11
+126,Back Where It's At,George Hamilton IV,16,1970-08-29,1970-11-14,504,12
+127,Louisiana Man,Connie Smith,14,1970-09-12,1970-11-21,499,11
+128,She'll Be Hanging 'round Somewhere,Mel Tillis,10,1970-01-17,1970-03-28,497,11
+129,I Wouldn't Live In New York City (If They Gave Me The Whole Dang Town),Buck Owens,9,1970-11-07,1970-12-26,496,8
+130,Lord Is That Me,Jack Greene,16,1970-03-14,1970-05-23,486,11
+131,Pull My String And Wind Me Up,Carl Smith,18,1970-03-14,1970-05-16,486,10
+132,Honky Tonk Man,Bob Luman,22,1970-07-11,1970-10-10,485,14
+133,Look At Mine,Jody Miller,21,1970-08-15,1970-11-07,481,13
+134,The Most Uncomplicated Goodbye I've Ever Heard,Henson Cargill,18,1970-05-16,1970-07-25,461,11
+135,You And Your Sweet Love,Connie Smith,6,1970-01-03,1970-02-14,454,7
+136,Something To Brag About,Charlie Louvin & Melba Montgomery,18,1970-10-24,1970-12-26,454,10
+137,Runnin' Bare,Jim Nesbitt,20,1970-02-28,1970-05-16,454,12
+138,I've Cried (the Blues Right Out Of My Eyes),Crystal Gayle,23,1970-09-19,1970-12-12,454,13
+139,Rocky Top,Lynn Anderson,17,1970-06-06,1970-08-08,449,10
+140,Georgia Sunshine,Jerry Reed,16,1970-08-08,1970-10-17,448,11
+141,Commercial Affection,Mel Tillis,8,1970-11-07,1970-12-26,444,8
+142,Love Hungry,Warner Mack,19,1970-04-04,1970-06-20,444,12
+143,Charlie Brown,The Compton Brothers,16,1970-01-24,1970-04-04,443,11
+144,I've Just Been Wasting My Time,"John Wesley Ryles, I",17,1970-05-02,1970-07-04,437,10
+145,Duty Not Desire,Jeannie C. Riley,21,1970-06-27,1970-09-05,433,11
+146,Land Mark Tavern,Del Reeves,20,1970-05-30,1970-08-15,431,12
+147,Pickin' Wild Mountain Berries,Lawanda Lindsey,27,1970-03-21,1970-06-20,431,14
+148,How I Love Them Old Songs,Carl Smith,20,1970-10-03,1970-12-19,429,12
+149,I've Been Everywhere,Lynn Anderson,16,1970-02-14,1970-04-18,423,10
+150,A Woman's Hand,Jean Shepard,23,1970-04-25,1970-07-04,422,11
+151,A Good Year For The Roses,George Jones,3,1970-11-21,1970-12-26,419,6
+152,I Wish I Had A Mommy Like You,Patti Page,22,1970-05-30,1970-08-01,413,10
+153,Camelia,Marty Robbins,10,1970-01-03,1970-02-14,406,7
+154,Soul Deep,Eddy Arnold,22,1970-02-28,1970-05-09,404,11
+155,Removing The Shadow,"Hank Williams, Jr. & Lois Johnson",23,1970-07-04,1970-09-19,401,12
+156,"Too Lonely, Too Long",Mel Tillis,25,1970-10-17,1970-12-26,397,11
+157,"Hello, I'm A Jukebox",George Kent,26,1970-01-03,1970-03-21,397,12
+158,Darling Days,Billy Walker,23,1970-03-21,1970-05-30,396,11
+159,From Heaven To Heartache,Eddy Arnold,22,1970-09-12,1970-11-07,388,9
+160,Shutters And Boards,Slim Whitman,26,1970-08-08,1970-10-24,387,12
+161,I'm Alright,Lynn Anderson,20,1970-10-31,1970-12-26,385,9
+162,Warmth Of The Wine,Johnny Bush,25,1970-05-16,1970-07-25,385,11
+163,I Wake Up In Heaven,David Rogers,26,1970-10-17,1970-12-26,384,11
+164,A Girl Who'll Satisfy Her Man,Barbara Fairchild,26,1970-02-14,1970-04-25,378,11
+165,The Whole World Holding Hands,Freddie Hart,27,1970-01-03,1970-03-07,377,10
+166,Big Wheel Cannonball,Dick Curless,27,1970-05-02,1970-07-11,373,11
+167,He's Everywhere,Sammi Smith,25,1970-09-05,1970-11-28,371,13
+168,"Hard, Hard Traveling Man",Dick Curless,31,1970-08-08,1970-10-10,371,10
+169,Amos Moses/The Preacher And The Bear,Jerry Reed,16,1970-11-14,1970-12-26,370,7
+170,Oh Happy Day,Glen Campbell,25,1970-04-25,1970-06-20,369,9
+171,Forever Yours,Dottie West,21,1970-10-31,1970-12-26,365,9
+172,Tomorrow Never Comes,Slim Whitman,27,1970-04-18,1970-07-04,364,12
+173,A Man's Kind Of Woman/Living Under Pressure,Eddy Arnold,28,1970-06-20,1970-08-22,364,10
+174,Gone Girl,The Glaser Brothers,23,1970-10-24,1970-12-26,362,10
+175,My Elusive Dreams,Bobby Vinton,27,1970-02-28,1970-04-25,356,9
+176,Rock Me Back To Little Rock,Jan Howard,26,1970-03-21,1970-05-23,353,10
+177,A Good Thing,Bill Wilbourn & Kathy Morrison,34,1970-05-09,1970-07-25,353,12
+178,Where Grass Won't Grow,George Jones,28,1970-03-14,1970-05-16,350,10
+179,Crying,Arlene,28,1970-08-29,1970-11-07,346,11
+180,Cowboy Convention,Buddy Alan & Don Rich,19,1970-11-07,1970-12-26,338,8
+181,She Cheats On Me,Glenn Barber,28,1970-01-10,1970-03-21,337,11
+182,All That Keeps Ya Goin',The Glaser Brothers,33,1970-04-11,1970-06-20,329,11
+183,Kentucky Rain,Elvis Presley,31,1970-02-28,1970-05-02,328,10
+184,Right Back Loving You Again,Del Reeves,22,1970-10-03,1970-12-05,327,10
+185,He'd Still Love Me,Lynn Anderson,15,1970-01-03,1970-02-07,324,6
+186,Fancy,Bobbie Gentry,26,1970-01-03,1970-02-28,322,9
+187,Put A Little Love In Your Heart,Susan Raye,30,1970-01-10,1970-03-21,315,11
+188,Big Mama's Medicine Show,Buddy Alan,23,1970-02-07,1970-03-28,311,8
+189,You've Got Your Troubles (I've Got Mine),Jack Blanchard & Misty Morgan,27,1970-09-26,1970-12-05,307,11
+190,Patches,Ray Griff,26,1970-10-03,1970-11-28,306,9
+191,Blame It On Rosey,Ray Sanders,36,1970-08-01,1970-10-10,301,11
+192,Just Someone I Used To Know,Porter Wagoner And Dolly Parton,13,1970-01-03,1970-02-07,300,6
+193,One Night Stand,Susan Raye,35,1970-07-04,1970-09-12,296,11
+194,Hey Baby,Bobby G. Rice,35,1970-08-08,1970-10-17,287,11
+195,"Baby, I Tried",Jim Ed Brown,31,1970-07-11,1970-09-05,286,9
+196,It Don't Take But One Mistake,"Luke The Drifter, Jr",36,1970-05-23,1970-07-18,285,9
+197,Sugar In The Flowers,Anthony Armstrong Jones,38,1970-07-25,1970-10-03,283,11
+198,Husband Hunting,Liz Anderson,26,1970-02-14,1970-04-04,279,8
+199,Two Separate Bar Stools,Wanda Jackson,35,1970-01-03,1970-03-07,279,10
+200,Willy Jones,Susan Raye,11,1970-11-14,1970-12-26,274,7
+201,Sittin' In Atlanta Station,Nat Stuckey,33,1970-01-10,1970-03-14,274,10
+202,"Your Husband, My Wife",Bobby Bare,22,1970-01-24,1970-03-07,272,7
+203,Money Can't Buy Love,Roy Rogers,35,1970-09-26,1970-11-28,272,10
+204,Nice'n' Easy,Charlie Rich,37,1970-10-24,1970-12-26,271,10
+205,Little Bit Late,Lewie Wickham,36,1970-03-28,1970-05-30,270,10
+206,Let Me Go (Set Me Free),Johnny Duncan,27,1970-10-31,1970-12-26,269,9
+207,It's Dawned On Me You're Gone,Dottie West,37,1970-08-01,1970-10-03,268,10
+208,"Mama, I Won't Be Wearing A Ring",Peggy Little,37,1970-02-21,1970-05-02,268,11
+209,You're Gonna Need A Man,Johnny Duncan,39,1970-05-09,1970-07-11,268,10
+210,Something Unseen/What's The Use,Jack Greene,15,1970-11-28,1970-12-26,266,5
+211,April's Fool,Ray Price,17,1970-01-03,1970-01-31,265,5
+212,Then She's A Lover,Roy Clark,31,1970-01-24,1970-03-21,265,9
+213,The Chicago Story,Jimmy Snyder,30,1970-02-14,1970-04-11,264,9
+214,Old Man Willis,Nat Stuckey,31,1970-05-16,1970-07-04,262,8
+215,Your Time's Comin',Faron Young,11,1970-01-03,1970-01-31,261,5
+216,Walk Unashamed,The Glaser Brothers,30,1970-01-03,1970-02-21,261,8
+217,The Wonder Of You,Elvis Presley,37,1970-06-06,1970-08-08,258,10
+218,Waiting For A Train (All Around The Watertank),Jerry Lee Lewis,13,1970-11-21,1970-12-26,257,6
+219,A World Called You,David Rogers,23,1970-01-03,1970-02-07,257,6
+220,"Whoever Finds This, I Love You",Mac Davis,43,1970-04-25,1970-07-18,257,13
+221,Someway,Don Gibson,37,1970-10-10,1970-12-26,255,12
+222,Sugar Shack,Bobby G. Rice,32,1970-04-25,1970-06-13,254,8
+223,All American Husband,Peggy Sue,37,1970-07-11,1970-09-19,250,11
+224,Little Johnny From Down The Street,Wilburn Brothers,37,1970-01-31,1970-03-21,249,8
+225,Right Or Left At Oak Street,Roy Clark,21,1970-01-03,1970-01-31,247,5
+226,I Just Can't Help Believing,David Frizzell,36,1970-10-31,1970-12-26,242,9
+227,I'll Be Your Baby Tonight,Claude King,33,1970-05-30,1970-08-01,241,10
+228,The Wonders You Perform,Tammy Wynette,7,1970-11-28,1970-12-26,239,5
+229,God Bless America Again,Bobby Bare,16,1970-01-03,1970-01-31,236,5
+230,Suspicious Minds,Waylon Jennings And Jessi Colter,25,1970-11-14,1970-12-26,234,7
+231,Little Boy's Prayer,Porter Wagoner,43,1970-04-04,1970-05-30,234,9
+232,"Whiskey, Whiskey",Nat Stuckey,31,1970-09-05,1970-10-31,232,9
+233,Third World,Johnny & Jonie Mosby,34,1970-02-28,1970-04-18,231,8
+234,Mary's Vineyard,Claude King,18,1970-11-07,1970-12-26,229,8
+235,Day Drinkin',Dave Dudley,23,1970-11-14,1970-12-26,226,7
+236,Rainbow Girl,Bobby Lord,28,1970-01-03,1970-01-31,226,5
+237,Down In New Orleans,Buddy Alan,38,1970-05-02,1970-06-27,221,9
+238,Son Of A Coal Man,Del Reeves,41,1970-05-23,1970-08-01,221,11
+239,The Tom Green County Fair,Roger Miller,36,1970-03-14,1970-04-25,216,7
+240,"Drag 'Em Off The Interstate, Sock It To 'Em, J.P. Blues",Dick Curless,29,1970-11-21,1970-12-26,215,6
+241,Marry Me,Ron Lowry,39,1970-02-28,1970-05-09,215,11
+242,The Lover's Song,Ned Miller,39,1970-04-25,1970-06-20,211,9
+243,Once More With Feeling,Willie Nelson,42,1970-03-14,1970-05-09,210,9
+244,Hit The Road Jack,Connie,44,1970-05-23,1970-07-18,207,9
+245,Mary Goes 'round,Bobby Helms,41,1970-06-27,1970-08-22,205,9
+246,Something To Think About,"Luke The Drifter, Jr",36,1970-01-03,1970-02-21,204,8
+247,"Same Old Story, Same Old Lie",Bill Phillips,46,1970-08-22,1970-10-17,203,9
+248,Angel Of The Morning,Connie,34,1970-02-07,1970-03-21,202,7
+249,Early In The Morning,Mac Curtis,35,1970-10-17,1970-12-19,202,10
+250,Get Together,Gwen & Jerry Collins,34,1970-01-17,1970-03-14,200,9
+251,"Daddy, I Love You",Billie Jo Spears,40,1970-01-03,1970-02-21,199,8
+252,Til I Can't Take It Anymore,Dottie West,46,1970-07-18,1970-09-19,199,10
+253,Daddy Come And Get Me,Dolly Parton,40,1970-01-31,1970-03-21,196,8
+254,Long Lonesome Highway,Michael Parks,41,1970-03-21,1970-05-16,194,9
+255,Beneath Still Waters,Diana Trask,38,1970-03-28,1970-05-23,193,9
+256,I'm Going Home,Bobby Lewis,41,1970-01-17,1970-03-21,193,10
+257,Fingerprints,Freddie Hart,41,1970-07-04,1970-09-12,193,11
+258,Your Sweet Love Lifted Me,Ferlin Husky,45,1970-09-12,1970-11-07,193,9
+259,Okie From Muskogee,Merle Haggard And The Strangers,12,1970-01-03,1970-01-24,191,4
+260,Luziana River,Van Trevor,42,1970-06-13,1970-08-01,191,8
+261,Here's A Toast To Mama,Charlie Louvin,42,1970-01-17,1970-03-14,190,9
+262,Drivin' Home,Jerry Smith and his Pianos,44,1970-06-06,1970-08-01,187,9
+263,I Know You're Married But I Love You Still,Red Sovine,52,1970-04-18,1970-06-20,186,10
+264,The Golden Rocket,Jim & Jesse,38,1970-01-10,1970-03-07,185,9
+265,She's Hungry Again,Bill Phillips,43,1970-03-28,1970-05-09,185,7
+266,Everything Will Be Alright,Claude Gray,40,1970-07-18,1970-09-05,183,8
+267,So Much In Love With You,David Rogers,46,1970-05-09,1970-07-04,182,9
+268,I Hope So,Willie Nelson,36,1970-01-03,1970-02-07,180,6
+269,Watermelon Time In Georgia,Lefty Frizzell,49,1970-08-22,1970-10-24,180,10
+270,"Ginger Is Gentle And Waiting For Me/Drink Boys, Drink",Jim Ed Brown,35,1970-01-03,1970-02-07,179,6
+271,Every Step Of The Way,Ferlin Husky,26,1970-01-03,1970-01-24,175,4
+272,Rock Island Line,Johnny Cash,35,1970-02-28,1970-04-11,175,7
+273,Bed Of Roses,The Statler Brothers,21,1970-11-21,1970-12-26,174,6
+274,"Honey, Don't",Mac Curtis,43,1970-02-28,1970-04-25,174,9
+275,Come And Get It Mama,Charlie Louvin,47,1970-07-04,1970-08-22,173,8
+276,Hurry Home To Me,Bobby Wright,47,1970-08-01,1970-09-26,173,9
+277,One More Mountain To Climb,Freddie Hart,48,1970-04-11,1970-06-06,172,9
+278,Before The Next Teardrop Falls,Linda Martell,33,1970-01-03,1970-01-31,170,5
+279,Down In The Boondocks,Freddy Weller,25,1970-01-03,1970-01-24,169,4
+280,The Birthmark Henry Thompson Talks About,Dallas Frazier,45,1970-08-29,1970-10-10,169,7
+281,Tyin' Strings,June Stearns,41,1970-09-26,1970-10-31,166,6
+282,When You're Hot You're Hot,Porter Wagoner,30,1970-01-03,1970-01-24,163,4
+283,Jim Johnson,Porter Wagoner,41,1970-09-26,1970-11-21,162,9
+284,"July 12, 1939",Charlie Rich,47,1970-03-28,1970-05-02,160,6
+285,Whiskey-Six Years Old,Norma Jean,48,1970-10-10,1970-12-05,160,9
+286,The Sun's Gotta' Shine,Wilma Burgess,48,1970-01-03,1970-02-21,159,8
+287,Johnny's Cash And Charley's Pride,Mac Wiseman,38,1970-01-03,1970-01-31,158,5
+288,My Joy,Johnny Bush,44,1970-11-07,1970-12-26,158,8
+289,Partly Bill,Lawanda Lindsey,48,1970-01-03,1970-02-21,157,8
+290,The Tears On Lincoln's Face,Tommy Cash,36,1970-11-21,1970-12-26,155,6
+291,Try A Little Kindness,Glen Campbell,19,1970-01-03,1970-01-17,151,3
+292,Dream Baby,Bob Regan & Lucille Starr,50,1970-01-03,1970-02-28,149,9
+293,My Happiness,Johnny & Jonie Mosby,47,1970-09-05,1970-10-17,148,7
+294,Heartbreak Avenue,Carl Smith,35,1970-01-03,1970-01-24,145,4
+295,I Stayed Long Enough,Billie Jo Spears,30,1970-11-28,1970-12-26,141,5
+296,I Heard Our Song,Dottie West,45,1970-02-07,1970-03-28,141,8
+297,Everything Is Beautiful,Ray Stevens,39,1970-05-02,1970-06-06,140,6
+298,Call Me Gone,Stan Hitchcock With Sue Richards,46,1970-04-18,1970-05-23,139,6
+299,Who Shot John,Wanda Jackson,50,1970-09-12,1970-10-24,138,7
+300,It Ain't No Big Thing,Tex Williams,50,1970-09-19,1970-11-14,137,9
+301,Let's Think About Where We're Going,Lawanda Lindsey,51,1970-09-19,1970-11-14,137,9
+302,You Got-ta Have A License,Porter Wagoner,41,1970-03-14,1970-04-11,136,5
+303,(Don't Let The Sun Set On You) Tulsa,Waylon Jennings,31,1970-12-05,1970-12-26,128,4
+304,Joshua,Dolly Parton,19,1970-12-12,1970-12-26,125,3
+305,Love Ain't Never Gonna Be No Better,Webb Pierce,38,1970-01-03,1970-01-24,124,4
+306,Little Boy Sad,Bill Phillips,27,1970-01-03,1970-01-17,122,3
+307,Dixie Belle,Stan Hitchcock With Sue Richards,54,1970-10-17,1970-11-28,121,7
+308,Still Loving You,Bob Luman,56,1970-05-09,1970-06-27,114,8
+309,Let's Go Fishin' Boys (The Girls Are Bitin'),Charlie,52,1970-06-27,1970-08-08,113,7
+310,Sweet Caroline,Anthony Armstrong Jones,40,1970-11-21,1970-12-26,109,6
+311,Please Be My New Love,Jeannie Seely,46,1970-03-07,1970-04-11,109,6
+312,"Beer Drinking, Honky Tonkin' Blues",Billy Mize,49,1970-11-14,1970-12-26,109,7
+313,Vanishing Breed,Hank Snow,52,1970-07-11,1970-08-22,105,7
+314,Flesh And Blood,Johnny Cash,16,1970-12-19,1970-12-26,104,2
+315,Mississippi,John Phillips,58,1970-07-04,1970-08-15,103,7
+316,Flying South,Hank Locklin,56,1970-06-27,1970-08-01,102,6
+317,It Takes Two,Connie,56,1970-11-07,1970-12-19,102,7
+318,Pick Me Up On Your Way Down/Bonaparte's Retreat,Carl Smith,46,1970-08-08,1970-08-29,96,4
+319,The Cleanest Man In Cincinnati,Claude Gray,54,1970-04-11,1970-05-16,96,6
+320,Goin' Home To Your Mother,The Hagers,50,1970-05-23,1970-06-27,90,6
+321,Leaving On A Jet Plane,The Kendalls,52,1970-07-25,1970-08-29,89,6
+322,I've Lost You/The Next Step Is Love,Elvis Presley,57,1970-08-29,1970-10-03,89,6
+323,Down In The Boondocks,Penny Dehaven,38,1970-01-03,1970-01-17,87,3
+324,Guess Who,Slim Whitman,39,1970-12-12,1970-12-26,87,3
+325,Gettin' Back To Norma,Bob Luman,56,1970-03-28,1970-04-25,86,5
+326,What About The Hurt,Bob Luman,48,1970-11-28,1970-12-26,83,5
+327,Freightliner Fever,Red Sovine,54,1970-07-25,1970-09-05,83,7
+328,Santo Domingo,Buddy Alan,57,1970-08-08,1970-09-19,81,7
+329,"Friend, Lover, Woman, Wife",Claude King,31,1970-01-03,1970-01-10,80,2
+330,Green Green Valley,Tex Ritter,57,1970-06-06,1970-07-25,80,8
+331,Padre,Marty Robbins,32,1970-12-19,1970-12-26,79,2
+332,Waxahachie Woman,The John Deer Company,57,1970-10-10,1970-11-21,77,7
+333,Bad Case Of The Blues,Linda Martell,58,1970-03-28,1970-05-02,77,6
+334,She Wakes Me With A Kiss Every Morning (And She Loves Me To Sleep Every Nig,Nat Stuckey,42,1970-12-12,1970-12-26,76,3
+335,Steppin' Out,Jerry Smith and his Pianos,60,1970-10-03,1970-11-14,75,7
+336,Find Out What's Happenin',Barbara Fairchild,52,1970-08-01,1970-09-05,73,6
+337,Mornin Mornin,Bobby Goldsboro,56,1970-01-03,1970-01-31,73,5
+338,Wax Museum,Dave Peel,62,1970-03-14,1970-04-25,71,7
+339,For The Good Times,Ray Price,39,1970-06-27,1970-12-26,69,4
+340,You Don't Have To Say You Love Me,Elvis Presley,56,1970-12-05,1970-12-26,69,4
+341,But That's All Right,Hank Thompson,54,1970-05-09,1970-06-06,67,5
+342,If I'd Only Come And Gone,Clay Hart,62,1970-05-02,1970-06-13,66,7
+343,"An Old Love Affair, Now Showing",Leroy Van Dyke,63,1970-06-13,1970-07-25,66,7
+344,Rainin' In My Heart,"Hank Williams, Jr. w/ The Mike Curb Congregation",38,1970-12-19,1970-12-26,64,2
+345,"Jim, Jack, And Rose/I'll Go To A Stranger",Johnny Bush,56,1970-01-10,1970-02-07,63,5
+346,Silver Wings,The Hagers,59,1970-09-12,1970-10-31,63,8
+347,We'll Sing In The Sunshine,Lawanda Lindsey,63,1970-07-25,1970-08-29,63,6
+348,I Fall To Pieces,Diana Trask,37,1970-01-03,1970-01-10,62,2
+349,The Man You Want Me To Be,Webb Pierce,56,1970-08-01,1970-08-29,62,5
+350,I Feel Fine,Penny Dehaven,59,1970-03-21,1970-04-18,61,5
+351,Come The Morning,Hank Snow,57,1970-11-07,1970-12-05,60,5
+352,Lead Me Not Into Temptation,Anthony Armstrong Jones,56,1970-05-23,1970-06-20,59,5
+353,Old Enough To Want To (Fool Enough To Try),Norro Wilson,53,1970-11-28,1970-12-26,58,5
+354,Sittin' Bull,Charlie Louvin,57,1970-11-28,1970-12-26,58,5
+355,When He Touches Me (Nothing Else Matters),Lois Johnson,52,1970-12-05,1970-12-26,57,4
+356,You Don't Know Me,Ray Pennington,61,1970-05-02,1970-06-13,57,7
+357,Lonely For You,Wilma Burgess,63,1970-07-11,1970-08-15,57,6
+358,All Day Sucker,Liz Anderson,64,1970-08-15,1970-09-19,57,6
+359,"Ruby, Are You Mad",The Osborne Brothers,58,1970-01-17,1970-02-21,56,6
+360,You Don't Care What Happens To Me,Wynn Stewart,55,1970-04-11,1970-06-06,55,4
+361,Sunshine,Earl Richards,57,1970-10-10,1970-10-31,54,4
+362,Heaven Is Just A Touch Away,Cal Smith,47,1970-01-03,1970-01-10,53,2
+363,Fancy Satin Pillows,Wanda Jackson,47,1970-12-12,1970-12-26,53,3
+364,The Weakest Kind Of Man,"John Wesley Ryles, I",57,1970-01-03,1970-01-24,52,4
+365,The Promised Land,Freddy Weller,49,1970-12-12,1970-12-26,51,3
+366,Big River,Trick Pony Featuring Johnny Cash & Waylon Jennings,41,1970-12-05,1970-12-26,50,4
+367,A Girl Named Johnny Cash,Jane Morgan,61,1970-05-30,1970-06-27,50,5
+368,Yours Forever,Wynn Stewart,47,1970-01-03,1970-01-10,46,2
+369,The Ballad Of J.C.,Gordon Terry,62,1970-05-30,1970-06-27,46,5
+370,What's The Use/Something Unseen,Jack Greene,45,1970-11-14,1970-11-21,45,2
+371,Walk A Mile In My Shoes,Joe South and The Believers,56,1970-01-31,1970-03-14,45,5
+372,Everything I Love,Hugh X. Lewis,56,1970-01-17,1970-02-21,45,6
+373,The Gun,Bob Luman,60,1970-01-03,1970-01-24,45,4
+374,California Cotton Fields,Dallas Frazier,52,1970-01-03,1970-01-10,44,2
+375,Drifting Too Far (From Your Arms),June Stearns,58,1970-01-03,1970-01-17,43,3
+376,Pick Me Up On Your Way Down,Carl Smith,62,1970-07-11,1970-08-01,43,4
+377,Good Morning,Leapy Lee,55,1970-03-21,1970-04-11,42,4
+378,Apron Strings,Peggy Sue,58,1970-12-12,1970-12-26,42,3
+379,"Take Me Back To The Goodtimes, Sally",Bobby Wright,61,1970-03-28,1970-04-18,42,4
+380,The Arms Of My Weakness,Darrell Mccall,62,1970-02-07,1970-02-28,42,4
+381,Hey There Johnny,Mayf Nutter,65,1970-02-14,1970-03-14,42,5
+382,Amos Moses,Jerry Reed,53,1970-10-24,1970-11-07,40,3
+383,Tell Me Again,Jeannie Seely,58,1970-12-05,1970-12-26,40,3
+384,I Knew You'd Be Leaving,Peggy Little,59,1970-08-08,1970-08-22,39,3
+385,That Ain't No Stuff,Compton Brothers,61,1970-08-22,1970-09-05,38,3
+386,It's Hard To Be A Woman,Skeeter Davis,65,1970-05-09,1970-06-06,38,5
+387,"Oh, Lonesome Me",Stonewall Jackson,63,1970-10-10,1970-10-31,37,4
+388,Help Me Make It Through The Night,Sammi Smith,50,1970-12-19,1970-12-26,36,2
+389,If God Is Dead (Who's That Living In My Soul),Nat Stuckey,59,1970-03-14,1970-04-04,36,4
+390,Oh How I Waited,Ron Lowry,65,1970-08-22,1970-09-26,35,6
+391,Carolina In My Mind,George Hamilton IV,41,1970-01-03,1970-01-03,33,1
+392,The Soul You Never Had,Jan Howard,64,1970-11-14,1970-12-12,33,5
+393,Look How Far We've Come,Bill Wilbourne & Kathy Morrison,65,1970-10-31,1970-12-05,33,6
+394,Back In The Arms Of Love,Jack Greene,42,1970-01-03,1970-01-03,32,1
+395,Who Will The Next Fool Be,Charlie Rich,67,1970-02-28,1970-03-28,32,5
+396,Harvey Harrington IV,Johnny Carver,68,1970-06-20,1970-07-11,30,4
+397,Wabash Cannon Ball,Danny Davis,63,1970-02-14,1970-02-28,29,3
+398,The Sheriff Of Boone County,Kenny Price,53,1970-12-19,1970-12-26,28,2
+399,I'll Paint You A Song,Mac Davis,68,1970-08-29,1970-09-19,28,4
+400,It Ain't No Big Thing,The Mills Brothers,64,1970-03-21,1970-04-04,26,3
+401,L.A. International Airport,David Frizzell,67,1970-06-20,1970-07-04,26,3
+402,That's The Way I See It,Jack Reno,67,1970-04-18,1970-05-02,25,3
+403,Mama Come'n Get Your Baby Boy,Johnny Darrell,68,1970-02-14,1970-03-28,25,7
+404,Mama Bake A Pie (Daddy Kill A Chicken),George Kent,66,1970-12-05,1970-12-26,24,4
+405,I'm Holding Your Memory (But He's Holding You),Jimmy Newman,65,1970-11-28,1970-12-26,23,5
+406,Simple Days And Simple Ways,Bobby Lewis,67,1970-11-14,1970-11-28,23,3
+407,"Jim, Jack, And Rose",Johnny Bush,63,1970-01-03,1970-03-07,22,3
+408,After The Preacher's Gone,Peggy Sue,65,1970-04-18,1970-05-02,22,3
+409,Bless Her Heart...I Love Her,Hank Locklin,68,1970-10-10,1970-10-31,22,4
+410,Window Number Five,Johnny Duncan,65,1970-01-10,1970-01-24,21,3
+411,One Of The Fortunate Few,Hank Thompson,69,1970-10-10,1970-10-31,21,4
+412,My Friend,Arlene,63,1970-01-03,1970-01-10,20,2
+413,Let's Get Together,Skeeter Davis,65,1970-09-26,1970-10-03,20,2
+414,Homeward Bound,Brenda,66,1970-01-24,1970-02-14,20,4
+415,We Need A Lot More Of Jesus,Skeeter Davis,69,1970-08-08,1970-08-22,20,3
+416,Listen Betty (I'm Singing Your Song),Dave Dudley,56,1970-12-26,1970-12-26,19,1
+417,Take A Little Good Will Home,Bobby Goldsboro,56,1970-01-03,1970-01-03,18,1
+418,My Man/The Generation Gap,Jeannie C. Riley,60,1970-12-19,1970-12-26,18,2
+419,Irma Jackson,Tony Booth,67,1970-03-28,1970-04-11,18,3
+420,I Can't Be Myself,Merle Haggard,60,1970-10-10,1970-10-10,16,1
+421,Doogie Ray,George Kent,70,1970-07-04,1970-07-18,16,3
+422,Your Love Is The Way,Kitty Wells,71,1970-08-15,1970-09-05,15,4
+423,Laying My Burdens Down,Willie Nelson,68,1970-11-28,1970-12-05,14,2
+424,"Please Help Me, I'm Falling",Hank Locklin,68,1970-01-03,1970-01-17,14,3
+425,My Woman's Love,Johnny Duncan,68,1970-09-19,1970-10-03,14,3
+426,Awful Lotta Lovin',Penny Dehaven,69,1970-09-19,1970-09-26,14,2
+427,"Lift Ring, Pull Open",Jim Ed Brown,71,1970-04-04,1970-04-25,14,4
+428,I'm Gettin' Tired Of Babyin' You,Peggy Sue,61,1970-01-03,1970-01-03,13,1
+429,The Generation Gap/My Man,Jeannie C. Riley,62,1970-12-12,1970-12-12,13,1
+430,One Hundred Children,Tom T. Hall,62,1970-12-26,1970-12-26,13,1
+431,California Grapevine,Freddie Hart,68,1970-11-21,1970-12-12,13,4
+432,My Old Kentucky Home (Turpentine And Dandelion Wine),The Osborne Brothers,69,1970-12-05,1970-12-12,12,2
+433,The Difference Between Going And Really Gone,Cal Smith,70,1970-04-25,1970-05-02,12,2
+434,Allegheny,Bonnie Guitar,70,1970-10-24,1970-11-07,12,3
+435,Truck Driver's Lament,Johnny Dollar,71,1970-02-14,1970-02-28,12,3
+436,Have A Little Talk With Myself,Ray Stevens,63,1970-01-03,1970-01-03,11,1
+437,Judy,Ray Sanders,64,1970-12-26,1970-12-26,11,1
+438,Blues Sells A Lot Of Booze,Hugh X. Lewis,68,1970-11-28,1970-12-19,11,4
+439,If You're Looking For A Fool,Tommy Overstreet,69,1970-12-12,1970-12-26,11,3
+440,The Night They Drove Old Dixie Down,The Buckaroos,71,1970-04-04,1970-04-18,11,3
+441,Nobody Wants To Hear It Like It Is,Jack Barlow,68,1970-01-03,1970-01-10,10,2
+442,Running From A Memory,The Chaparral Brothers,70,1970-02-14,1970-02-21,10,2
+443,If This Was The Last Song,Billy Mize,71,1970-06-20,1970-06-27,10,2
+444,Can You Feel It,Bobby Goldsboro,71,1970-05-16,1970-05-23,10,2
+445,Merry-Go-Round World,Webb Pierce,71,1970-03-28,1970-04-11,10,3
+446,That Look Of Good-Bye,Ernie Ashworth,72,1970-07-18,1970-08-01,10,3
+447,Moody River,Chase Webster,68,1970-06-20,1970-06-27,9,2
+448,Columbus Stockade Blues,Danny Davis,70,1970-07-04,1970-07-11,9,2
+449,Everybody's Gotta Hurt,Cheryl,70,1970-02-14,1970-02-21,9,2
+450,The First Day,Jane Morgan,70,1970-11-07,1970-11-14,9,2
+451,Born That Way,Stonewall Jackson,72,1970-07-04,1970-07-11,8,2
+452,Sweet Misery,Ferlin Husky,68,1970-12-26,1970-12-26,7,1
+453,Poison Red Berries,Glenn Barber,72,1970-06-20,1970-06-27,7,2
+454,I Started Loving You Again,Al Martino,69,1970-01-31,1970-01-31,6,1
+455,Roll Over Beethoven,Jerry Lee Lewis,71,1970-01-10,1970-01-17,6,2
+456,Two Little Boys,Rusty Draper,73,1970-04-25,1970-05-02,6,2
+457,Papa Joe's Thing,Papa Joe's Music Box,69,1970-01-03,1970-01-03,5,1
+458,Mister Professor,Leroy Van Dyke,71,1970-12-12,1970-12-19,5,2
+459,"Mama, Call Me Home",Bob Dalton,73,1970-10-17,1970-10-31,5,3
+460,She Came To Me,Lamar Morris,74,1970-06-13,1970-06-27,5,3
+461,If You See My Baby,Johnny Carver,73,1970-12-12,1970-12-19,4,2
+462,Face Of A Dear Friend,Clay Hart,73,1970-01-31,1970-02-14,4,3
+463,Nashville Skyline Rag,Earl Scruggs,74,1970-10-24,1970-10-31,4,2
+464,The Other Woman,Ray Pennington,74,1970-08-08,1970-08-15,4,2
+465,Two Little Rooms,Janet Lawson,74,1970-07-25,1970-08-01,4,2
+466,Loneliness Without You,The Hagers,74,1970-04-04,1970-04-11,4,2
+467,Even The Bad Times Are Good,Jerry Wallace,74,1970-05-09,1970-05-16,4,2
+468,Better Days For Mama,Stonewall Jackson,72,1970-03-07,1970-03-14,3,2
+469,"Corrine, Corrina",Earl Richards,73,1970-01-31,1970-02-07,3,2
+470,This Song Don't Care Who Sings It,Ray Pennington,72,1970-01-03,1970-01-03,2,1
+471,Come Sundown,Bobby Bare,73,1970-12-26,1970-12-26,2,1
+472,A Man's Kind Of Woman,Eddy Arnold,74,1970-06-13,1970-06-13,2,1
+473,They'll Never Take Her Love From Me,Johnny Darrell,74,1970-11-14,1970-11-21,2,2
+474,Holy Cow,Jamey Ryan,75,1970-05-23,1970-05-30,2,2
+475,Brother River,Johnny Darrell,75,1970-07-11,1970-07-18,2,2
+476,(You've Been Quite A Doll) Raggedy Ann,Jimmy Dickens,75,1970-05-09,1970-05-16,2,2
+477,"Let Me Go, Lover",Karen Kelly,75,1970-09-19,1970-09-26,2,2
+478,I Shook The Hand,Freddy Weller,75,1970-04-11,1970-04-18,2,2
+479,Since December,Eddy Arnold,73,1970-01-03,1970-01-03,1,1
+480,Showing His Dollar,Webb Pierce,74,1970-12-26,1970-12-26,1,1
+481,When I'm Not Lookin',Liz Anderson,75,1970-12-19,1970-12-26,0,2

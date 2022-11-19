@@ -1,0 +1,715 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Escape,Journey,2,1982-01-02,1982-12-25,9816,52
+2,Get Lucky,Loverboy,7,1982-01-02,1982-12-25,9764,52
+3,Asia,Asia,1,1982-04-03,1982-12-25,9431,39
+4,Beauty And The Beat,Go-Go's,1,1982-01-02,1982-12-11,8367,50
+5,Freeze-frame,The J. Geils Band,1,1982-01-02,1982-12-25,8343,52
+6,Bella Donna,Stevie Nicks,6,1982-01-02,1982-12-25,8285,52
+7,4,Foreigner,1,1982-01-02,1982-12-04,8069,49
+8,I Love Rock 'n' Roll,Joan Jett & the Blackhearts,2,1982-01-02,1982-12-25,7934,52
+9,American Fool,John Cougar,1,1982-05-08,1982-12-25,7894,34
+10,Hooked On Classics,Royal Philharmonic Orchestra Conducted By Louis Clark,4,1982-01-02,1982-12-25,7782,52
+11,Ghost In The Machine,The Police,2,1982-01-02,1982-12-25,7561,52
+12,Always On My Mind,Willie Nelson,2,1982-03-20,1982-12-25,7317,41
+13,Chariots Of Fire (Soundtrack),Vangelis,1,1982-01-02,1982-11-13,6966,46
+14,Diary Of A Madman,Ozzy Osbourne,16,1982-01-02,1982-12-25,6679,52
+15,Mountain Music,Alabama,14,1982-03-13,1982-12-25,6568,42
+16,Feels So Right,Alabama,21,1982-01-02,1982-12-25,6198,52
+17,Mirage,Fleetwood Mac,1,1982-07-17,1982-12-25,6137,24
+18,Dare,The Human League,3,1982-02-27,1982-11-13,6092,38
+19,Abacab,Genesis,12,1982-01-02,1982-11-13,6076,46
+20,Something Special,Kool & The Gang,17,1982-01-02,1982-12-25,6076,52
+21,Toto IV,Toto,4,1982-04-24,1982-12-25,6035,36
+22,Success Hasn't Spoiled Me Yet,Rick Springfield,2,1982-03-27,1982-11-20,5944,35
+23,Don't Say No,Billy Squier,22,1982-01-02,1982-12-25,5919,52
+24,Physical,Olivia Newton-John,6,1982-01-02,1982-11-27,5906,48
+25,Private Eyes,Daryl Hall John Oates,5,1982-01-02,1982-11-20,5850,47
+26,Quarterflash,Quarterflash,8,1982-01-02,1982-10-23,5754,43
+27,Breakin' Away,Jarreau,37,1982-01-02,1982-12-25,5667,52
+28,Blackout,Scorpions,10,1982-03-27,1982-12-25,5406,40
+29,Non-stop Erotic Cabaret,Soft Cell,22,1982-01-30,1982-11-06,5390,41
+30,Abracadabra,The Steve Miller Band,3,1982-06-26,1982-12-25,5335,27
+31,Eye Of The Tiger,Survivor,2,1982-06-26,1982-12-25,5313,27
+32,A Flock Of Seagulls,A Flock Of Seagulls,10,1982-05-22,1982-12-25,5277,32
+33,Tattoo You,The Rolling Stones,5,1982-01-02,1982-10-16,5276,42
+34,Tug Of War,Paul McCartney,1,1982-05-15,1982-11-27,5248,29
+35,Combat Rock,The Clash,10,1982-06-12,1982-12-25,5221,29
+36,All Four One,The Motels,16,1982-04-24,1982-12-25,5147,36
+37,Eye In The Sky,The Alan Parsons Project,7,1982-06-19,1982-12-25,5119,28
+38,Business As Usual,Men At Work,1,1982-07-03,1982-12-25,5035,26
+39,The Innocent Age,Dan Fogelberg,15,1982-01-02,1982-11-13,5029,46
+40,Willie Nelson's Greatest Hits (& Some That Will Be),Willie Nelson,55,1982-01-02,1982-12-25,5028,52
+41,Diver Down,Van Halen,3,1982-05-08,1982-12-25,5014,34
+42,Aldo Nova,Aldo Nova,8,1982-02-20,1982-10-30,4973,37
+43,The Dude,Quincy Jones,10,1982-01-02,1982-10-09,4898,41
+44,Built For Speed,Stray Cats,2,1982-07-03,1982-12-25,4731,26
+45,Special Forces,38 Special,10,1982-05-29,1982-12-25,4695,31
+46,Picture This,Huey Lewis & The News,13,1982-02-27,1982-10-23,4669,35
+47,Chicago 16,Chicago,9,1982-06-26,1982-12-25,4664,27
+48,Blizzard Of Ozz,Ozzy Osbourne,76,1982-01-02,1982-12-25,4618,52
+49,Jane Fonda's Workout Record,Jane Fonda,38,1982-05-29,1982-12-25,4546,31
+50,Quiet Lies,Juice Newton,20,1982-05-29,1982-12-25,4516,31
+51,Daylight Again,"Crosby, Stills & Nash",8,1982-07-17,1982-12-25,4487,24
+52,Shake It Up,The Cars,9,1982-01-02,1982-09-04,4486,36
+53,Keep It Live,Dazz Band,14,1982-04-03,1982-11-20,4425,34
+54,Standing Hampton,Sammy Hagar,28,1982-01-30,1982-09-04,4412,32
+55,Emotions In Motion,Billy Squier,5,1982-08-07,1982-12-25,4367,21
+56,Night And Day,Joe Jackson,4,1982-07-17,1982-12-25,4364,24
+57,Gap Band Iv,The Gap Band,14,1982-06-12,1982-12-25,4341,29
+58,Jump Up,Elton John,17,1982-05-08,1982-12-18,4331,33
+59,Pictures At Eleven,Robert Plant,5,1982-07-17,1982-12-25,4292,24
+60,Hey Ricky,Melissa Manchester,19,1982-05-15,1982-12-25,4272,33
+61,Good Trouble,REO Speedwagon,7,1982-07-10,1982-12-18,4152,24
+62,Juice,Juice Newton,22,1982-01-02,1982-11-27,4145,43
+63,For Those About To Rock (We Salute You),AC/DC,1,1982-01-02,1982-07-03,4138,27
+64,No Fun Aloud,Glenn Frey,32,1982-06-26,1982-12-25,4137,27
+65,You Could Have Been With Me,Sheena Easton,47,1982-01-02,1982-11-06,4069,45
+66,Dreamgirls,Original Cast,11,1982-05-22,1982-12-04,4068,29
+67,Screaming For Vengeance,Judas Priest,17,1982-07-24,1982-12-25,4037,23
+68,Working Class Dog,Rick Springfield,33,1982-01-02,1982-07-31,4008,31
+69,Loverboy,Loverboy,85,1982-01-02,1982-12-25,3984,52
+70,Hooked On Swing,Larry Elgart And His Manhattan Swing Orchestra,24,1982-06-19,1982-12-25,3963,28
+71,Stevie Wonder's Original Musiquarium I,Stevie Wonder,4,1982-05-29,1982-12-04,3952,28
+72,Pelican West,Haircut One Hundred,31,1982-04-24,1982-12-25,3912,36
+73,No Control,Eddie Money,20,1982-07-10,1982-12-25,3869,25
+74,Kenny Rogers' Greatest Hits,Kenny Rogers,53,1982-01-02,1982-12-25,3869,50
+75,The Dark Side Of The Moon,Pink Floyd,96,1982-01-02,1982-12-25,3836,52
+76,The Concert In Central Park,Simon And Garfunkel,6,1982-03-13,1982-09-18,3783,28
+77,Memories,Barbra Streisand,10,1982-01-02,1982-07-10,3759,28
+78,The Other Woman,Ray Parker Jr.,11,1982-04-24,1982-10-23,3712,27
+79,One On One,Cheap Trick,39,1982-05-29,1982-11-27,3710,27
+80,Skyy Line,Skyy,18,1982-01-02,1982-07-03,3660,27
+81,Tonight I'm Yours,Rod Stewart,11,1982-01-02,1982-06-19,3630,25
+82,Three Sides Live,Genesis,10,1982-06-26,1982-12-11,3569,25
+83,Now And Forever,Air Supply,25,1982-06-19,1982-12-25,3537,28
+84,Missing Persons,Missing Persons,46,1982-05-15,1982-12-25,3528,33
+85,Wild Heart Of The Young,Karla Bonoff,49,1982-04-03,1982-11-27,3498,35
+86,Tom Tom Club,Tom Tom Club,23,1982-01-09,1982-07-10,3486,27
+87,Zenyatta Mondatta,The Police,88,1982-01-02,1982-12-18,3469,51
+88,The Number Of The Beast,Iron Maiden,33,1982-04-10,1982-12-18,3447,37
+89,Hi Infidelity,REO Speedwagon,60,1982-01-02,1982-11-13,3421,46
+90,Reach,Richard Simmons,44,1982-06-05,1982-12-25,3419,30
+91,Tommy Tutone,Tommy Tutone,20,1982-02-06,1982-08-28,3362,30
+92,Street Songs,Rick James,44,1982-01-02,1982-09-25,3348,39
+93,The One That You Love,Air Supply,28,1982-01-02,1982-07-31,3327,31
+94,Annie,Soundtrack,35,1982-05-29,1982-11-27,3327,27
+95,Why Do Fools Fall In Love,Diana Ross,15,1982-01-02,1982-06-19,3320,25
+96,The Blasters,The Blasters,36,1982-01-09,1982-07-31,3234,30
+97,If That's What It Takes,Michael McDonald,6,1982-08-28,1982-12-25,3195,18
+98,Come Morning,"Grover Washington, Jr.",28,1982-01-02,1982-06-12,3178,24
+99,Straight From The Heart,Patrice Rushen,14,1982-05-01,1982-11-06,3177,28
+100,Vacation,Go-Go's,8,1982-08-14,1982-12-25,3165,20
+101,"""Still Life"" (American Concert 1981)",The Rolling Stones,5,1982-06-26,1982-11-27,3160,23
+102,E.T. - The Extra-Terrestrial,Soundtrack,37,1982-07-03,1982-12-25,3122,26
+103,Great White North,Bob And Doug Mckenzie,8,1982-01-09,1982-05-29,3086,21
+104,Time Exposure,Little River Band,62,1982-01-02,1982-08-28,3069,35
+105,All The Best Cowboys Have Chinese Eyes,Pete Townshend,26,1982-07-10,1982-12-25,2977,25
+106,Precious Time,Pat Benatar,28,1982-01-02,1982-07-31,2969,31
+107,Brilliance,Atlantic Starr,18,1982-03-27,1982-10-09,2964,29
+108,Donna Summer,Donna Summer,20,1982-08-14,1982-12-25,2949,20
+109,Just Another Day In Paradise,Bertie Higgins,38,1982-02-27,1982-08-14,2941,25
+110,Throwin' Down,Rick James,13,1982-06-05,1982-11-06,2939,23
+111,Marshall Crenshaw,Marshall Crenshaw,50,1982-05-29,1982-11-27,2906,27
+112,Jump To It,Aretha Franklin,23,1982-08-14,1982-12-25,2903,20
+113,The George Benson Collection,George Benson,14,1982-01-02,1982-05-15,2894,20
+114,Controversy,Prince,47,1982-01-02,1982-06-12,2840,24
+115,Love Is Where You Find It,The Whispers,35,1982-01-23,1982-07-10,2810,25
+116,The Poet,Bobby Womack,29,1982-01-02,1982-05-29,2784,22
+117,Raise,"Earth, Wind & Fire",5,1982-01-02,1982-05-01,2778,18
+118,A Ship Arriving Too Late To Save A Drowning Witch,Frank Zappa,23,1982-06-12,1982-11-06,2763,22
+119,Jeffrey Osborne,Jeffrey Osborne,49,1982-06-19,1982-12-25,2763,28
+120,Allied Forces,Triumph,51,1982-01-02,1982-09-04,2757,36
+121,Friends,Shalamar,35,1982-02-20,1982-08-07,2748,25
+122,Nebraska,Bruce Springsteen,3,1982-10-09,1982-12-25,2716,12
+123,Imperial Bedroom,Elvis Costello And The Attractions,30,1982-07-24,1982-12-25,2713,23
+124,Straight Between The Eyes,Rainbow,30,1982-05-08,1982-10-09,2710,23
+125,I Can't Stand Still,Don Henley,24,1982-09-04,1982-12-25,2704,17
+126,Love Will Turn You Around,Kenny Rogers,34,1982-07-24,1982-12-25,2704,23
+127,Never Too Much,Luther Vandross,38,1982-01-02,1982-05-22,2703,21
+128,Share Your Love,Kenny Rogers,55,1982-01-02,1982-06-19,2701,25
+129,Sweets From The Stranger,Squeeze,32,1982-05-29,1982-12-18,2667,30
+130,Shango,Santana,22,1982-09-04,1982-12-25,2662,17
+131,Rocky Iii,Soundtrack,15,1982-07-10,1982-11-13,2645,19
+132,Seasons Of The Heart,John Denver,39,1982-03-20,1982-10-30,2643,33
+133,It's Hard,The Who,8,1982-09-25,1982-12-25,2624,14
+134,The Jazz Singer (Soundtrack),Neil Diamond,87,1982-01-02,1982-12-25,2623,41
+135,Niecy,Deniece Williams,20,1982-04-17,1982-09-11,2589,22
+136,Talking Back To The Night,Steve Winwood,28,1982-08-21,1982-12-25,2560,19
+137,Hooked On Classics II (Can't Stop The Classics),Royal Philharmonic Orchestra,33,1982-08-28,1982-12-25,2547,18
+138,Alligator Woman,Cameo,23,1982-04-10,1982-09-18,2542,24
+139,On The Way To The Sky,Neil Diamond,17,1982-01-02,1982-05-29,2515,22
+140,Wasn't Tomorrow Wonderful,The Waitresses,41,1982-02-06,1982-07-17,2511,24
+141,Bobbie Sue,The Oak Ridge Boys,20,1982-02-20,1982-07-10,2493,21
+142,Power Play,April Wine,37,1982-07-10,1982-11-20,2482,20
+143,Outlaw,War,48,1982-03-20,1982-09-18,2465,27
+144,Offramp,Pat Metheny Group,50,1982-05-22,1982-11-27,2461,28
+145,View From The Ground,America,41,1982-08-28,1982-12-25,2442,18
+146,Lionel Richie,Lionel Richie,3,1982-10-23,1982-12-25,2428,10
+147,Avalon,Roxy Music,53,1982-06-19,1982-12-18,2417,27
+148,High Adventure,Kenny Loggins,13,1982-09-25,1982-12-25,2409,14
+149,Waitin' For The Sun To Shine,Ricky Skaggs,77,1982-06-12,1982-12-25,2381,29
+150,Vinyl Confessions,Kansas,16,1982-06-12,1982-10-23,2369,20
+151,Who's Foolin' Who,One Way,51,1982-04-03,1982-09-04,2360,23
+152,12 Greatest Hits Vol. II,Neil Diamond,48,1982-05-29,1982-12-25,2346,31
+153,Signals,Rush,10,1982-10-02,1982-12-25,2325,13
+154,The Nylon Curtain,Billy Joel,7,1982-10-16,1982-12-25,2310,11
+155,I Am Love,Peabo Bryson,40,1982-01-02,1982-05-08,2290,19
+156,Rough Diamonds,Bad Company,26,1982-09-04,1982-12-25,2280,17
+157,Just Sylvia,Sylvia (r&b),56,1982-08-07,1982-12-25,2269,21
+158,Zapp Ii,Zapp,25,1982-08-14,1982-12-18,2259,19
+159,Hot Space,Queen,22,1982-05-29,1982-10-16,2254,21
+160,Your Wish Is My Command,Lakeside,58,1982-01-09,1982-06-12,2225,23
+161,Nine Tonight,Bob Seger & The Silver Bullet Band,20,1982-01-02,1982-05-22,2219,21
+162,Give The People What They Want,The Kinks,41,1982-01-02,1982-05-15,2215,20
+163,Windows,The Charlie Daniels Band,26,1982-04-03,1982-08-07,2190,19
+164,Street Opera,Ashford & Simpson,45,1982-05-29,1982-10-09,2187,20
+165,Cool Night,Paul Davis,52,1982-01-02,1982-07-03,2181,27
+166,Get Loose,"Evelyn ""Champagne"" King",27,1982-09-11,1982-12-25,2180,16
+167,Voices,Daryl Hall John Oates,78,1982-01-02,1982-07-10,2179,28
+168,Small Change,Prism,53,1982-02-06,1982-06-19,2177,20
+169,Night Cruisin,Barkays,55,1982-01-02,1982-05-29,2167,22
+170,I've Never Been To Me,Charlene,36,1982-04-10,1982-08-21,2166,20
+171,Black On Black,Waylon Jennings,39,1982-03-06,1982-08-07,2150,23
+172,The Lexicon Of Love,ABC,30,1982-09-25,1982-12-25,2144,14
+173,Peter Gabriel (Security),Peter Gabriel,28,1982-10-02,1982-12-25,2134,13
+174,"Olivia's Greatest Hits, Vol. 2",Olivia Newton-John,16,1982-10-09,1982-12-25,2123,12
+175,I'm The One,Roberta Flack,59,1982-06-19,1982-11-06,2121,21
+176,The Visitors,ABBA,29,1982-01-09,1982-05-01,2116,17
+177,Heartlight,Neil Diamond,9,1982-10-16,1982-12-25,2089,11
+178,What Time Is It?,The Time,26,1982-09-25,1982-12-25,2084,14
+179,Carol Hensel's Exercise And Dance Program-volume 2,Carol Hensel,70,1982-01-02,1982-06-26,2081,26
+180,You've Got The Power,Third World,63,1982-03-20,1982-09-18,2070,27
+181,8th Wonder,Sugarhill Gang,50,1982-01-30,1982-05-29,2065,18
+182,Pac-man Fever,Buckner And Garcia,24,1982-03-13,1982-06-26,2064,16
+183,Tantalizingly Hot,Stephanie Mills,48,1982-08-07,1982-12-11,2055,19
+184,The Broadsword And The Beast,Jethro Tull,19,1982-05-01,1982-08-21,2051,17
+185,So Excited,The Pointer Sisters,59,1982-07-17,1982-12-25,2049,24
+186,Bad To The Bone,George Thorogood & The Destroyers,43,1982-08-28,1982-12-25,2045,18
+187,Carol Hensel's Exercise And Dance Program,Carol Hensel,87,1982-01-02,1982-06-19,2036,25
+188,On The Line,Gary U.S. Bonds,52,1982-06-26,1982-10-16,2031,17
+189,Perhaps Love,Placido Domingo,18,1982-01-02,1982-05-08,2030,19
+190,Greatest Hits,Queen,14,1982-01-02,1982-05-08,2025,19
+191,Green Light,Bonnie Raitt,38,1982-03-06,1982-07-03,2013,18
+192,Richard Pryor Live On The Sunset Strip,Richard Pryor,21,1982-04-17,1982-08-07,2004,17
+193,Fame,Soundtrack,59,1982-02-27,1982-07-31,1998,23
+194,As One,Kool & The Gang,29,1982-10-09,1982-12-25,1986,12
+195,Extraterrestrial Live,Blue Oyster Cult,29,1982-05-15,1982-09-18,1984,19
+196,Law And Order,Lindsey Buckingham,39,1982-01-02,1982-04-17,1982,16
+197,Fancy Free,The Oak Ridge Boys,47,1982-01-02,1982-05-08,1977,19
+198,As We Speak,David Sanborn,70,1982-07-10,1982-12-11,1976,23
+199,Last Safe Place,LeRoux,64,1982-02-06,1982-06-26,1974,21
+200,Yes It's You Lady,Smokey Robinson,33,1982-02-20,1982-06-12,1967,17
+201,Sneakin' Out,Stacy Lattisaw,55,1982-08-28,1982-12-11,1961,16
+202,Fast Times At Ridgemont High,Soundtrack,54,1982-08-28,1982-12-25,1955,18
+203,Greatest Hits,The Doors,68,1982-01-02,1982-05-08,1947,19
+204,Exit...Stage Left,Rush,22,1982-01-02,1982-04-03,1945,14
+205,Back In Black,AC/DC,66,1982-01-02,1982-05-22,1931,21
+206,H2O,Daryl Hall John Oates,6,1982-10-30,1982-12-25,1916,9
+207,Somewhere Over China,Jimmy Buffett,31,1982-01-23,1982-05-01,1915,15
+208,Mr. Look So Good,"Richard ""Dimples"" Fields",63,1982-03-06,1982-07-17,1907,20
+209,English Settlement,XTC,48,1982-03-20,1982-07-31,1903,20
+210,Rock In A Hard Place,Aerosmith,32,1982-09-25,1982-12-25,1875,14
+211,Crimes Of Passion,Pat Benatar,80,1982-01-02,1982-05-29,1875,22
+212,Mesopotamia,The B-52s,35,1982-02-20,1982-06-19,1870,18
+213,"Forever, For Always, For Love",Luther Vandross,20,1982-10-16,1982-12-25,1869,11
+214,All The Greatest Hits,Diana Ross,71,1982-01-02,1982-05-29,1862,22
+215,Branigan,Laura Branigan,34,1982-09-25,1982-12-25,1846,14
+216,The Secret Policeman's Other Ball,Various Artists,29,1982-03-20,1982-07-03,1832,16
+217,Let Me Tickle Your Fancy,Jermaine Jackson,46,1982-08-21,1982-12-04,1823,16
+218,Billy Idol,Billy Idol,65,1982-07-31,1982-12-25,1816,22
+219,If I Should Love Again,Barry Manilow,34,1982-01-02,1982-04-03,1809,14
+220,Steel Breeze,Steel Breeze,50,1982-09-18,1982-12-25,1803,15
+221,Bad Reputation,Joan Jett & the Blackhearts,51,1982-09-11,1982-12-25,1801,16
+222,Love Over Gold,Dire Straits,19,1982-10-16,1982-12-25,1797,11
+223,A Little Love,Aurra,38,1982-02-27,1982-06-05,1794,15
+224,Eddie Murphy,Eddie Murphy,52,1982-08-14,1982-11-20,1775,15
+225,One Vice At A Time,Krokus,53,1982-04-10,1982-08-21,1775,20
+226,Rio,Duran Duran,95,1982-06-05,1982-12-25,1771,30
+227,Cimarron,Emmylou Harris,46,1982-01-02,1982-04-24,1767,17
+228,Fandango,Herb Alpert,100,1982-05-29,1982-11-20,1759,26
+229,Kihntinued,Greg Kihn,33,1982-04-10,1982-07-31,1752,17
+230,The First Family Rides Again,Rich Little,29,1982-02-13,1982-05-08,1744,13
+231,Reunion,The Temptations,37,1982-05-01,1982-08-28,1744,18
+232,Get Closer,Linda Ronstadt,31,1982-10-16,1982-12-25,1743,11
+233,Songs In The Attic,Billy Joel,48,1982-01-02,1982-04-03,1727,14
+234,The Best Of Blondie,Blondie,35,1982-01-02,1982-04-03,1707,14
+235,Time And Tide,Split Enz,58,1982-05-08,1982-09-18,1706,20
+236,Reel Music,The Beatles,19,1982-04-10,1982-06-26,1691,12
+237,Hot Rocks 1964-1971,The Rolling Stones,86,1982-01-02,1982-06-12,1679,24
+238,Silk Electric,Diana Ross,27,1982-10-23,1982-12-25,1676,10
+239,Lost In Love,Air Supply,103,1982-01-02,1982-06-05,1668,23
+240,In The Pocket,Commodores,49,1982-01-02,1982-04-10,1667,15
+241,The Time,The Time,62,1982-01-02,1982-04-17,1665,16
+242,Another Grey Area,Graham Parker,51,1982-04-10,1982-07-24,1654,16
+243,The Nightfly,Donald Fagen,11,1982-10-30,1982-12-25,1646,9
+244,Vanity 6,Vanity 6,45,1982-10-02,1982-12-25,1643,13
+245,Famous Last Words,Supertramp,5,1982-11-13,1982-12-25,1636,7
+246,A Collection Of Great Dance Songs,Pink Floyd,31,1982-01-02,1982-03-27,1614,13
+247,Abominog,Uriah Heep,56,1982-08-07,1982-11-20,1612,16
+248,Anyone Can See,Irene Cara,76,1982-01-30,1982-05-22,1608,17
+249,Private Audition,Heart,25,1982-06-12,1982-09-11,1584,14
+250,Voyeur,Kim Carnes,49,1982-09-25,1982-12-25,1583,14
+251,Mystical Adventure,Jean Luc Ponty,44,1982-02-13,1982-05-15,1572,14
+252,The Name Of This Band Is Talking Heads,Talking Heads,31,1982-04-17,1982-07-17,1564,14
+253,Television Theme Songs,Mike Post,70,1982-02-27,1982-06-19,1539,17
+254,Jacksons Live,The Jacksons,30,1982-01-02,1982-03-20,1535,12
+255,Ji,Junior,71,1982-05-08,1982-08-21,1531,16
+256,Christopher Cross,Christopher Cross,66,1982-01-02,1982-05-01,1510,18
+257,Word Of Mouth,Toni Basil,22,1982-10-23,1982-12-25,1509,10
+258,Something About You,Angela Bofill,61,1982-01-02,1982-04-17,1507,16
+259,This One's For You,Teddy Pendergrass,59,1982-08-21,1982-11-27,1503,15
+260,Below The Belt,Franke & The Knockouts,48,1982-04-10,1982-08-07,1499,18
+261,Objects Of Desire,Michael Franks,45,1982-01-30,1982-05-01,1498,14
+262,Sheffield Steel,Joe Cocker,105,1982-07-10,1982-12-11,1488,23
+263,Cat People,Soundtrack,47,1982-04-17,1982-07-17,1486,14
+264,Ignition,John Waite,68,1982-07-17,1982-11-06,1483,17
+265,Offering,Axe,81,1982-06-26,1982-11-06,1479,20
+266,Winds Of Change,Jefferson Starship,26,1982-10-30,1982-12-25,1478,9
+267,Spring Session M,Missing Persons,21,1982-10-30,1982-12-25,1473,9
+268,Kim Wilde,Kim Wilde,86,1982-06-05,1982-10-30,1467,22
+269,The Message,Grandmaster Flash & The Furious Five,53,1982-10-16,1982-12-25,1466,11
+270,Nugent,Ted Nugent,51,1982-07-17,1982-10-16,1463,14
+271,Walk Under Ladders,Joan Armatrading,88,1982-01-02,1982-05-22,1449,21
+272,Dream On,George Duke,48,1982-03-06,1982-05-22,1437,12
+273,The Last Of The Mohicans,Bow Wow Wow,67,1982-05-15,1982-10-09,1436,22
+274,Nick The Knife,Nick Lowe,50,1982-02-20,1982-05-22,1423,14
+275,Incognito,Spyro Gyra,46,1982-10-23,1982-12-25,1400,10
+276,Dirty Deeds Done Dirt Cheap,AC/DC,88,1982-01-02,1982-05-01,1394,18
+277,Heartbreaker,Dionne Warwick,31,1982-10-30,1982-12-25,1393,9
+278,Industry Standard,Dixie Dregs,56,1982-03-27,1982-07-03,1377,15
+279,Re-ac-tor,Neil Young & Crazy Horse,27,1982-01-02,1982-03-13,1364,11
+280,The Best Little Whorehouse In Texas,Soundtrack,63,1982-08-07,1982-11-13,1361,15
+281,Mob Rules,Black Sabbath,29,1982-01-02,1982-03-27,1347,13
+282,D.e. 7th,Dave Edmunds,46,1982-05-01,1982-07-31,1345,14
+283,Captured,Journey,111,1982-01-02,1982-06-12,1338,24
+284,Electric Rendezvous,Al Di Meola Project,55,1982-02-06,1982-05-01,1337,13
+285,Beat,King Crimson,52,1982-07-03,1982-10-02,1320,14
+286,Crazy For You,Earl Klugh,69,1982-01-02,1982-05-15,1320,20
+287,Non Stop Ecstatic Dancing,Soft Cell,57,1982-08-14,1982-11-13,1316,14
+288,It's Time For Love,Teddy Pendergrass,75,1982-01-02,1982-04-03,1306,14
+289,An Officer And A Gentleman,Soundtrack,38,1982-10-30,1982-12-25,1298,9
+290,The Wall,Pink Floyd,64,1982-10-16,1982-12-25,1288,11
+291,Midnight Love,Marvin Gaye,7,1982-11-20,1982-12-25,1269,6
+292,The Gift,The Jam,82,1982-03-27,1982-07-10,1262,16
+293,Under The Big Black Sun,X,76,1982-07-17,1982-10-23,1248,15
+294,The Hunter,Blondie,33,1982-06-19,1982-09-04,1223,12
+295,Beautiful Vision,Van Morrison,44,1982-03-06,1982-05-15,1218,11
+296,My Favorite Person,The O'Jays,49,1982-05-15,1982-08-07,1206,13
+297,High 'N' Dry,Def Leppard,100,1982-01-02,1982-12-25,1196,21
+298,The Sisters,Sister Sledge,69,1982-02-13,1982-05-15,1195,14
+299,Dan Fogelberg/Greatest Hits,Dan Fogelberg,15,1982-11-13,1982-12-25,1194,7
+300,Michael Martin Murphey,Michael Martin Murphey,69,1982-09-04,1982-12-18,1193,16
+301,Inside Ronnie Milsap,Ronnie Milsap,66,1982-07-03,1982-10-02,1189,14
+302,ChangesTwoBowie,David Bowie,68,1982-01-02,1982-04-10,1189,15
+303,Premonition,Survivor,82,1982-01-02,1982-04-10,1183,15
+304,Death Wish II,Jimmy Page,50,1982-04-03,1982-06-05,1182,10
+305,Sleepwalk,Larry Carlton,99,1982-01-30,1982-05-15,1173,16
+306,Get Nervous,Pat Benatar,8,1982-11-20,1982-12-25,1160,6
+307,Hands Down,Bob James,72,1982-07-17,1982-11-06,1156,17
+308,Hooked On Big Bands,Frank Barber Orchestra,94,1982-06-05,1982-09-18,1152,16
+309,Step By Step,Eddie Rabbitt,77,1982-01-02,1982-04-10,1151,15
+310,Long Distance Voyager,The Moody Blues,57,1982-01-02,1982-03-06,1148,10
+311,Suburban Voodoo,Paul Carrack,78,1982-09-11,1982-12-11,1140,14
+312,Ladies Of The Eighties,A Taste Of Honey,73,1982-04-24,1982-07-10,1135,12
+313,The Many Facets Of Roger,Roger,65,1982-01-02,1982-03-20,1131,12
+314,Mechanix,UFO,82,1982-02-20,1982-05-22,1130,14
+315,Worlds Apart,Saga,41,1982-10-23,1982-12-25,1123,10
+316,Circle Of Love,The Steve Miller Band,45,1982-01-02,1982-03-06,1121,10
+317,Highways And Heartaches,Ricky Skaggs,61,1982-10-16,1982-12-25,1114,11
+318,King Cool,Donnie Iris,107,1982-02-13,1982-06-26,1114,20
+319,Gamma 3,Gamma,72,1982-03-20,1982-06-05,1110,12
+320,Weather Report,Weather Report,68,1982-02-20,1982-05-01,1109,11
+321,Two Of A Kind,Earl Klugh,44,1982-11-06,1982-12-25,1106,8
+322,It's A Fact,Jeff Lorber,73,1982-03-27,1982-06-19,1104,13
+323,Torch,Carly Simon,85,1982-01-02,1982-03-27,1102,13
+324,There's No Gettin' Over Me,Ronnie Milsap,90,1982-01-02,1982-04-03,1100,14
+325,Utopia,Utopia,84,1982-10-16,1982-12-25,1078,11
+326,Take No Prisoners,Molly Hatchet,36,1982-01-02,1982-03-06,1077,10
+327,Radio Romance,Eddie Rabbitt,48,1982-11-06,1982-12-25,1076,8
+328,Jazzercise,Judi Sheppard-Missett,117,1982-01-02,1982-04-17,1064,16
+329,Greatest Hits,Dolly Parton,77,1982-10-16,1982-12-25,1062,11
+330,Grease 2,Soundtrack,71,1982-06-19,1982-09-11,1061,13
+331,Long After Dark,Tom Petty And The Heartbreakers,12,1982-11-20,1982-12-25,1059,6
+332,Upstairs At Eric's,Yaz,92,1982-10-02,1982-12-25,1058,13
+333,Friend Or Foe,Adam Ant,37,1982-11-06,1982-12-25,1055,8
+334,Somewhere In The Stars,Rosanne Cash,76,1982-07-10,1982-09-25,1035,12
+335,WWII,Waylon & Willie,57,1982-10-30,1982-12-25,1030,9
+336,Hang On For Your Life,Shooting Star,103,1982-01-02,1982-04-10,1027,15
+337,1999,Prince,23,1982-11-20,1982-12-25,1020,6
+338,The Real Deal,The Isley Brothers,87,1982-08-21,1982-11-06,1017,12
+339,Wanna Be A Star,Chilliwack,97,1982-01-02,1982-04-24,1007,17
+340,Doin' Alright,O'Bryan,80,1982-04-10,1982-06-26,1000,12
+341,Jam The Box!,Bill Summers,92,1982-01-02,1982-03-27,990,13
+342,Wild Things Run Fast,Joni Mitchell,25,1982-11-20,1982-12-25,974,6
+343,Wild-Eyed Southern Boys,38 Special,118,1982-06-19,1982-09-25,966,15
+344,Eye To Eye,Eye To Eye,99,1982-06-19,1982-09-25,948,15
+345,I Advance Masked,Andy Summers And Robert Fripp,60,1982-11-06,1982-12-25,946,8
+346,She Shot Me Down,Frank Sinatra,52,1982-01-02,1982-02-27,939,9
+347,Star Trek II: The Wrath Of Khan,Soundtrack,61,1982-07-17,1982-09-11,937,9
+348,Moving Pictures,Rush,122,1982-01-02,1982-05-15,935,20
+349,Pop Goes The Movies,Meco,68,1982-04-03,1982-05-29,930,9
+350,Carnival,Duran Duran,98,1982-10-02,1982-12-25,923,13
+351,Instant Love,Cheryl Lynn,133,1982-07-17,1982-11-27,919,20
+352,The Dukes Of Hazzard,Soundtrack,93,1982-04-17,1982-07-17,914,14
+353,Best Of The Doobies Vol.ii,The Doobie Brothers,47,1982-01-02,1982-02-27,910,9
+354,The Hottest Night Of The Year,Anne Murray,90,1982-08-28,1982-11-13,909,12
+355,New Traditionalists,Devo,94,1982-01-02,1982-03-27,897,13
+356,Last Date,Emmylou Harris,65,1982-11-13,1982-12-25,891,7
+357,Time Pieces -- The Best Of Eric Clapton,Eric Clapton,101,1982-05-22,1982-08-21,887,14
+358,Con Funk Shun 7,ConFunkShun,82,1982-01-02,1982-03-06,879,10
+359,Absolutely Live,Rod Stewart,46,1982-11-20,1982-12-25,871,6
+360,"Hello, I Must Be Going!",Phil Collins,14,1982-11-27,1982-12-25,865,5
+361,20 Greatest Hits,The Beatles,57,1982-11-13,1982-12-25,865,7
+362,Yours Truly,Tom Browne,97,1982-01-02,1982-03-13,857,11
+363,Oh No! It's Devo,Devo,47,1982-11-20,1982-12-25,856,6
+364,Prince Charming,Adam Ant,94,1982-01-02,1982-03-06,849,10
+365,Mr Crowley,Ozzy Osbourne,120,1982-05-08,1982-08-21,844,16
+366,Greg Lake,Greg Lake,62,1982-01-02,1982-02-20,843,8
+367,All Dressed Up And No Place To Go,Nicolette Larson,75,1982-08-14,1982-10-16,842,10
+368,On A Roll,Point Blank,119,1982-04-17,1982-08-07,842,17
+369,Casino Lights,Various Artists,63,1982-11-13,1982-12-25,837,7
+370,Shadows,Gordon Lightfoot,87,1982-02-20,1982-05-08,828,12
+371,We Go A Long Way Back,Bloodstone,95,1982-07-17,1982-09-25,826,11
+372,Special Beat Service,The English Beat,56,1982-11-13,1982-12-25,824,7
+373,Farewell Song,Janis Joplin,104,1982-02-13,1982-04-24,824,11
+374,Pat Travers' Black Pearl,Pat Travers,74,1982-11-06,1982-12-25,820,8
+375,Love Notes,Chuck Mangione,83,1982-07-17,1982-09-18,818,10
+376,High Notes,Hank Williams Jr.,123,1982-05-08,1982-09-18,814,20
+377,Greatest Hits: Volume 2,Eagles,62,1982-11-13,1982-12-25,807,7
+378,Friends In Love,Dionne Warwick,83,1982-05-22,1982-08-07,807,12
+379,Paradise Theater,Styx,113,1982-01-02,1982-03-27,802,13
+380,The Envoy,Warren Zevon,93,1982-08-14,1982-11-06,781,13
+381,Oh Julie,Barry Manilow,69,1982-09-25,1982-11-20,775,9
+382,We Are One,Pieces Of A Dream,114,1982-08-28,1982-12-04,773,15
+383,Randy Meisner,Randy Meisner,94,1982-08-21,1982-10-30,770,11
+384,Computer World,Kraftwerk,110,1982-01-02,1982-03-20,768,12
+385,The Best,Quincy Jones,122,1982-07-17,1982-11-06,768,17
+386,Show Time,Slave,96,1982-01-02,1982-03-13,767,11
+387,The Jimi Hendrix Concerts,Jimi Hendrix,79,1982-09-25,1982-11-13,753,8
+388,"You Want It, You Got It",Bryan Adams,118,1982-01-30,1982-04-24,747,13
+389,Echoes Of An Era,Various Artists,105,1982-02-06,1982-04-17,743,11
+390,The Music For The Elder,KISS,75,1982-01-02,1982-02-13,742,7
+391,Lone Rhino,Adrian Belew,82,1982-07-24,1982-09-18,739,9
+392,The Catherine Wheel,David Byrne,104,1982-01-02,1982-03-06,737,10
+393,Live And Outrageous (Rated XXX),Millie Jackson,113,1982-03-13,1982-06-05,721,13
+394,Sharing Your Love,Change,66,1982-05-15,1982-07-10,710,9
+395,Heartbreak Express,Dolly Parton,106,1982-04-24,1982-07-10,710,12
+396,Reflections,Gil Scott-Heron,106,1982-01-02,1982-03-27,708,13
+397,"Madness, Money And Music",Sheena Easton,85,1982-10-16,1982-12-25,707,11
+398,Highway To Hell,AC/DC,141,1982-01-02,1982-04-03,696,14
+399,Propositions,Barkays,51,1982-11-20,1982-12-25,692,6
+400,Iii Wishes,Shooting Star,82,1982-08-07,1982-10-02,680,9
+401,Love Magic,LTD,83,1982-01-02,1982-02-13,679,7
+402,Creatures Of The Night,KISS,53,1982-11-20,1982-12-25,677,6
+403,Scuba Divers,Dwight Twilley,109,1982-03-13,1982-05-22,673,11
+404,Janet Jackson,Janet Jackson,67,1982-11-20,1982-12-25,670,6
+405,The Best Of Manhattan Transfer,The Manhattan Transfer,103,1982-01-02,1982-02-20,670,8
+406,Forever Now,Psychedelic Furs,85,1982-11-13,1982-12-25,669,7
+407,Los Hombres Malo,The Outlaws,77,1982-05-01,1982-06-26,668,9
+408,Out Of The Shadows,Dave Grusin,88,1982-08-07,1982-10-02,659,9
+409,The John Lennon Collection,John Lennon,35,1982-12-04,1982-12-25,649,4
+410,Discipline,King Crimson,95,1982-01-02,1982-02-20,635,8
+411,Mistaken Idenity,Kim Carnes,147,1982-01-02,1982-04-24,629,17
+412,In The Heat Of The Night,Pat Benatar,143,1982-01-02,1982-03-27,626,13
+413,A Taste Of Yesterday's Wine,Merle Haggard/George Jones,123,1982-09-25,1982-12-11,622,12
+414,"Hank Williams, Jr.'s Greatest Hits",Hank Williams Jr.,110,1982-11-13,1982-12-25,615,7
+415,Tane Cain,Tane Cain,121,1982-09-11,1982-11-13,614,10
+416,As Far As Siam,Tom Cochrane,92,1982-01-02,1982-02-20,612,8
+417,Showtime,The J. Geils Band,32,1982-12-04,1982-12-25,603,4
+418,Questionnaire,Chaz Jankel,126,1982-03-06,1982-06-05,603,14
+419,Swing To The Right,Utopia,102,1982-03-20,1982-05-22,593,10
+420,Sneaker,Sneaker,149,1982-01-02,1982-04-03,593,14
+421,Living Eyes,Bee Gees,41,1982-01-02,1982-02-06,592,6
+422,Cats,Original London Cast,100,1982-11-06,1982-12-25,591,8
+423,True Democracy,Steel Pulse,120,1982-07-17,1982-10-09,577,13
+424,All The Greatest Hits,Commodores,45,1982-12-04,1982-12-25,569,4
+425,Drop The Bomb,Trouble Funk,121,1982-05-08,1982-08-07,566,14
+426,One To One,Carole King,119,1982-04-03,1982-06-12,564,11
+427,Big Science,Laurie Anderson,124,1982-05-29,1982-08-14,563,12
+428,Freetime,Spyro Gyra,131,1982-01-02,1982-02-27,561,9
+429,Pirates,Rickie Lee Jones,107,1982-01-02,1982-02-20,555,8
+430,Skyyjammer,Skyy,82,1982-11-20,1982-12-25,543,6
+431,Still The Same Ole Me,George Jones,115,1982-01-02,1982-02-27,543,9
+432,Christmas,Kenny Rogers,34,1982-01-02,1982-12-25,542,4
+433,Benefactor,Romeo Void,119,1982-09-04,1982-11-27,542,13
+434,Homosapien,Pete Shelley,121,1982-06-26,1982-08-28,541,10
+435,2 X S,Nazareth,122,1982-07-10,1982-09-11,535,10
+436,Keep On Moving Straight Ahead,Lakeside,109,1982-01-02,1982-02-13,531,7
+437,Holigans,The Who,115,1982-01-02,1982-02-20,529,8
+438,Gold,Steely Dan,115,1982-07-03,1982-08-28,525,9
+439,Live It Up,David Johansen,148,1982-07-03,1982-10-09,524,15
+440,High Voltage,AC/DC,146,1982-01-02,1982-03-13,522,11
+441,Carry On,Bobby Caldwell,133,1982-04-17,1982-07-10,516,13
+442,Speak Of The Devil,Ozzy Osbourne,17,1982-12-11,1982-12-25,511,3
+443,Drop Down And Get Me,Del Shannon,123,1982-01-02,1982-03-13,509,11
+444,Evita,Original Cast,130,1982-02-13,1982-04-10,508,9
+445,Tuckerized,The Marshall Tucker Band,95,1982-06-12,1982-07-24,505,7
+446,Annie,Original Cast,123,1982-03-06,1982-05-22,503,12
+447,Over There (live At The Venue In London),The Blasters,117,1982-10-30,1982-12-18,502,8
+448,Architecture And Morality,Orchestral Manoeuvres In The Dark,144,1982-02-06,1982-04-24,502,12
+449,'Live' Bullet,Bob Seger & The Silver Bullet Band,136,1982-01-02,1982-02-27,501,9
+450,Every Home Should Have One,Patti Austin,66,1982-01-02,1982-12-25,499,9
+451,Pure + Natural,T-Connection,123,1982-03-20,1982-05-22,499,10
+452,Greatest Hits,Little River Band,50,1982-12-04,1982-12-25,494,4
+453,Road Island,Ambrosia,115,1982-05-29,1982-07-10,480,7
+454,Players In The Dark,Dr. Hook,118,1982-04-03,1982-05-15,479,7
+455,Truce,Jack Bruce & Robin Trower,109,1982-01-30,1982-03-06,475,6
+456,Southern Comfort,Conway Twitty,144,1982-02-13,1982-05-22,474,15
+457,The Friends Of Mr. Cairo,Jon And Vangelis,129,1982-01-02,1982-08-07,468,13
+458,I Want Candy,Bow Wow Wow,123,1982-09-18,1982-11-13,462,9
+459,Barbara Mandrell Live,Barbara Mandrell,127,1982-01-02,1982-02-13,462,7
+460,The Slide Area,Ry Cooder,105,1982-06-12,1982-07-24,460,7
+461,D Train,D Train,128,1982-06-26,1982-08-21,456,9
+462,Heavy Metal,Soundtrack,110,1982-01-02,1982-02-13,455,7
+463,Double Fantasy,John Lennon & Yoko Ono,140,1982-01-02,1982-05-01,454,18
+464,Take It Off,Chic,124,1982-01-02,1982-02-13,452,7
+465,Solid Ground,Ronnie Laws,114,1982-01-02,1982-02-13,449,7
+466,Run For The Roses,Jerry Garcia,100,1982-11-20,1982-12-25,447,6
+467,Annie's Christmas,Christmas,96,1982-11-20,1982-12-25,443,6
+468,Chipmunk Rock,The Chipmunks,109,1982-06-05,1982-07-10,440,6
+469,Christmas Wishes,Anne Murray,54,1982-01-02,1982-01-16,435,3
+470,Moving Target,Gil Scott-Heron,123,1982-10-02,1982-11-27,430,9
+471,Coda,Led Zeppelin,9,1982-12-18,1982-12-25,424,2
+472,Don't Play With Fire,Peabo Bryson,73,1982-12-04,1982-12-25,422,4
+473,The Monroes,The Monroes,109,1982-06-19,1982-08-14,420,9
+474,Steamin' Hot,The Reddings,153,1982-05-29,1982-08-14,419,12
+475,Cowboys And Englishmen,Poco,131,1982-02-20,1982-04-10,410,8
+476,Finally,T.G. Sheppard,152,1982-01-30,1982-06-12,406,13
+477,Let Me Know You,Stanley Clarke,114,1982-08-21,1982-10-09,403,8
+478,Urban Chipmunk,The Chipmunks,110,1982-01-02,1982-01-30,402,5
+479,Ragtime,Soundtrack,134,1982-01-23,1982-03-20,402,9
+480,Keepin' Love New,Howard Johnson,122,1982-09-11,1982-11-06,399,9
+481,Sooner Or Later,Larry Graham,142,1982-06-26,1982-08-21,399,9
+482,Camouflage,Rufus And Chaka Khan,108,1982-01-02,1982-01-30,395,5
+483,Mega Force,707,129,1982-07-03,1982-08-28,392,9
+484,Point Of Pleasure,Xavier,129,1982-04-24,1982-06-05,391,7
+485,Almost Blue,Elvis Costello And The Attractions,115,1982-01-02,1982-02-06,385,6
+486,Big City,Merle Haggard,161,1982-01-02,1982-10-30,385,20
+487,S.p.y.s.,Spys,138,1982-08-14,1982-10-16,384,10
+488,A Chipmunk Christmas,The Chipmunks,72,1982-01-02,1982-01-16,381,3
+489,Rit/2,Lee Ritenour,99,1982-12-04,1982-12-25,381,4
+490,Gone Troppo,George Harrison,108,1982-11-27,1982-12-25,380,5
+491,Old Enough,Lou Ann Barton,133,1982-04-24,1982-06-19,377,9
+492,Wise Guy,Kid Creole & The Coconuts,145,1982-07-03,1982-09-18,376,12
+493,Greatest Hits,Barry Manilow,147,1982-01-02,1982-03-13,375,11
+494,"The One Giveth, The Count Taketh Away",Bootsy's Rubber Band,120,1982-05-29,1982-07-17,367,8
+495,Standing On The Edge,Frankie Miller Band,135,1982-06-26,1982-08-21,365,9
+496,On Golden Pond,Soundtrack,147,1982-02-27,1982-05-08,365,11
+497,A Place For My Stuff,George Carlin,145,1982-01-02,1982-03-13,364,11
+498,Windsong,Randy Crawford,148,1982-06-26,1982-08-28,364,10
+499,Attitudes,Brass Construction,114,1982-05-22,1982-07-10,357,8
+500,"The Kids From ""Fame""",The Kids From Fame,146,1982-04-03,1982-05-22,357,8
+501,Opus X,Chilliwack,112,1982-11-27,1982-12-25,353,5
+502,Silk,Fuse One,139,1982-02-13,1982-04-03,343,8
+503,The Bad C.c.,Carl Carlton,133,1982-10-23,1982-12-04,341,7
+504,Something's Going On,Frida,121,1982-11-13,1982-12-25,337,7
+505,Chariots Of Fire,Ernie Watts,161,1982-02-20,1982-05-08,336,12
+506,To The Max,ConFunkShun,115,1982-12-04,1982-12-25,331,4
+507,Glassworks,Philip Glass,121,1982-04-10,1982-05-15,330,6
+508,Kathy Smith's Aerobic Fitness,Kathy Smith,144,1982-03-13,1982-06-05,330,13
+509,Stop And Smell The Roses,Ringo Starr,111,1982-01-02,1982-01-30,326,5
+510,Love And Dancing,The Human League,135,1982-09-18,1982-10-30,323,7
+511,Primitive Man,Icehouse,129,1982-10-09,1982-11-13,320,6
+512,American Worker,The Bus Boys,139,1982-08-21,1982-10-02,320,7
+513,Peter Cetera,Peter Cetera,143,1982-01-23,1982-03-27,317,10
+514,Friends In Love,Johnny Mathis,147,1982-05-08,1982-07-03,316,9
+515,Grasshopper,J.J. Cale,149,1982-04-03,1982-05-22,314,8
+516,All This Love,Debarge,136,1982-09-11,1982-10-23,312,7
+517,Living My Life,Grace Jones,86,1982-12-11,1982-12-25,305,3
+518,Taste The Music,Kleeer,139,1982-02-20,1982-04-10,304,8
+519,All Of The Above,The John Hall Band,158,1982-01-02,1982-02-27,301,9
+520,The Party's Over,Talk Talk,132,1982-09-18,1982-12-25,297,15
+521,Convertible Music,Josie Cotton,147,1982-08-07,1982-10-23,297,12
+522,Royal Jam,The Crusaders With B.B.King And The Royal Philharmonic Orchestra,144,1982-07-17,1982-08-28,295,7
+523,Central Line,Central Line,145,1982-01-09,1982-03-06,294,9
+524,MSB,Michael Stanley Band,136,1982-09-04,1982-10-09,292,6
+525,October,U2,137,1982-01-02,1982-02-13,292,7
+526,Ann Murray's Greatest Hits,Anne Murray,123,1982-11-27,1982-12-25,291,5
+527,Renegade,Thin Lizzy,157,1982-02-20,1982-05-01,290,11
+528,Chill Out,Black Uhuru,146,1982-07-24,1982-09-04,288,7
+529,Christmas,The Oak Ridge Boys,83,1982-12-04,1982-12-25,286,4
+530,Here Comes The Night,Barry Manilow,52,1982-12-18,1982-12-25,283,2
+531,Second To Nunn,Bobby Nunn,148,1982-10-23,1982-12-11,283,8
+532,Nothing To Fear,Oingo Boingo,148,1982-09-04,1982-10-30,279,9
+533,Stay,"Ray, Goodman & Brown",151,1982-01-09,1982-02-20,279,7
+534,The Elvis Medley,Elvis Presley,133,1982-11-27,1982-12-25,278,5
+535,In The Name Of Love,Thompson Twins,148,1982-06-26,1982-08-14,278,8
+536,Live/indian Summer,Al Stewart,121,1982-01-02,1982-01-23,276,4
+537,Inside You,The Isley Brothers,119,1982-01-02,1982-01-23,275,4
+538,Luciano,Luciano Pavarotti,141,1982-04-24,1982-06-05,275,7
+539,The Beatles 1967-1970,The Beatles,146,1982-05-01,1982-06-19,274,8
+540,Take Me To Your Heaven,Stevie Woods,153,1982-01-02,1982-05-22,274,21
+541,A Christmas Album,Barbra Streisand,108,1982-01-02,1982-01-16,269,3
+542,The Beatles 1962-1966,The Beatles,153,1982-05-01,1982-06-26,268,9
+543,Change,Barry White,148,1982-10-02,1982-11-06,267,6
+544,The Best Is Yet To Come,"Grover Washington, Jr.",79,1982-12-11,1982-12-25,266,3
+545,The Bitterest Pill I Ever Had To Swallow,The Jam,135,1982-11-27,1982-12-25,266,5
+546,Wrabit,Wrabit,157,1982-02-06,1982-03-27,265,8
+547,The Other Side Of The Rainbow,Melba Moore,156,1982-11-13,1982-12-25,264,7
+548,"Aerobic Dance Hits, Volume One",Carla Capuano,152,1982-03-13,1982-05-01,261,8
+549,The Dreaming,Kate Bush,157,1982-11-13,1982-12-25,261,7
+550,This Is The Way,The Rossington Collins Band,124,1982-01-02,1982-01-23,259,4
+551,True Love,Crystal Gayle,132,1982-12-04,1982-12-25,257,4
+552,Confidence,Narada,135,1982-06-05,1982-07-10,256,6
+553,Love Stinks,The J. Geils Band,145,1982-02-06,1982-03-27,253,8
+554,Classic Yes,Yes,142,1982-01-09,1982-02-06,251,5
+555,Let It Rock,Johnny And The Distractions,152,1982-02-20,1982-04-17,249,9
+556,Looks So Fine,Instant Funk,147,1982-04-10,1982-05-22,248,7
+557,Tonight,Four Tops,134,1982-01-02,1982-01-30,241,5
+558,In Concert,Jane Olivor,144,1982-05-29,1982-07-03,241,6
+559,Acting Very Strange,Mike Rutherford,145,1982-10-09,1982-11-13,241,6
+560,Chaka Khan,Chaka Khan,69,1982-12-18,1982-12-25,240,2
+561,Christiane F.,David Bowie,135,1982-04-03,1982-05-15,239,7
+562,Listen To The Radio,Don Williams,166,1982-05-01,1982-06-19,231,8
+563,Greatest Hits Volume One,Elvis Presley,142,1982-01-02,1982-01-30,230,5
+564,Greatest Hits,Ray Parker Jr.,76,1982-12-18,1982-12-25,229,2
+565,Over The Line,Greg Guidry,147,1982-04-17,1982-05-29,229,7
+566,Never Say Never,Romeo Void,147,1982-03-06,1982-04-10,228,6
+567,Anytime,The Henry Paul Band,158,1982-01-02,1982-02-13,228,7
+568,The Pressure Is On,Hank Williams Jr.,160,1982-01-02,1982-02-06,228,6
+569,Watts In A Tank,Diesel,136,1982-01-02,1982-01-30,226,5
+570,Spies Of Life,Player,152,1982-02-06,1982-03-20,225,7
+571,Get As Much Love As You Can,The Jones Girls,155,1982-01-02,1982-03-13,223,11
+572,Believers,Don McLean,156,1982-01-02,1982-02-06,223,6
+573,Men Without Women,Little Steven And The Disciples Of Soul,130,1982-12-04,1982-12-25,220,4
+574,Lite Me Up,Herbie Hancock,151,1982-05-29,1982-07-03,216,6
+575,Summer Lovers,Soundtrack,152,1982-08-28,1982-10-09,215,7
+576,We Want Miles,Miles Davis,159,1982-05-29,1982-07-10,213,7
+577,Blue Jeans,Chocolate Milk,162,1982-01-02,1982-02-13,209,7
+578,Shuttered Room,The Fixx,124,1982-11-13,1982-12-25,207,7
+579,Li'l Suzy,Ozone,152,1982-09-04,1982-10-09,207,6
+580,The Singles (The First Ten Years),ABBA,94,1982-12-18,1982-12-25,204,2
+581,Gigolo,The Fatback Band,148,1982-01-09,1982-01-30,199,4
+582,In Black And White,Barbara Mandrell,153,1982-05-29,1982-07-03,199,6
+583,Feeling Good,Roy Ayers,160,1982-03-20,1982-05-01,196,7
+584,Infinity,Journey,165,1982-02-06,1982-03-20,196,7
+585,Maiden Japan,Iron Maiden,138,1982-01-02,1982-01-23,195,4
+586,Quest For Fire,Soundtrack,154,1982-04-17,1982-05-22,194,6
+587,Thriller,Michael Jackson,11,1982-12-25,1982-12-25,190,1
+588,Dry Dreams,The Jim Carroll Band,156,1982-05-22,1982-07-03,190,7
+589,Desire,Tom Scott,164,1982-09-25,1982-11-06,190,7
+590,2112,Rush,175,1982-01-02,1982-02-27,189,9
+591,Me And You,The Chi-lites,162,1982-04-10,1982-05-22,188,7
+592,Rio,Lee Ritenour,163,1982-04-17,1982-05-22,188,6
+593,Tron,Soundtrack,135,1982-07-31,1982-08-28,181,5
+594,Arthur The Album,Soundtrack,141,1982-01-02,1982-01-30,179,5
+595,Ten Years Of Harmony (1970-1980),The Beach Boys,156,1982-01-02,1982-02-13,179,7
+596,Current,Heatwave,156,1982-07-10,1982-08-14,178,6
+597,Last Of The Wild Ones,Johnny Van Zant Band,159,1982-09-18,1982-10-23,178,6
+598,Get It On Credit,Toronto,162,1982-09-04,1982-11-06,178,10
+599,Maybe It's Live,Robert Palmer,148,1982-05-15,1982-06-12,176,5
+600,Soup For One,Soundtrack,168,1982-06-12,1982-09-18,176,12
+601,Greatest Hits Of The Outlaws/High Tides Forever,Outlaws,150,1982-11-27,1982-12-25,168,5
+602,Steve Forbert,Steve Forbert,159,1982-07-24,1982-08-28,166,6
+603,Records,Foreigner,36,1982-12-25,1982-12-25,165,1
+604,The Best Of The Rest,Lynyrd Skynyrd,171,1982-11-20,1982-12-25,165,6
+605,The Best Of The Blues Brothers,Blues Brothers,143,1982-01-09,1982-01-23,164,3
+606,Cut,Golden Earring,125,1982-12-11,1982-12-25,160,3
+607,Give It Up,Pleasure,164,1982-05-15,1982-06-19,157,6
+608,Adventures In Modern Recording,Buggles,161,1982-03-27,1982-04-24,150,5
+609,Stars On Long Play Iii,Stars On,163,1982-05-08,1982-06-12,150,6
+610,Domingo-con Amore,Placido Domingo,164,1982-03-13,1982-04-17,150,6
+611,In The Mood For Something Rude,Foghat,162,1982-11-13,1982-12-11,146,5
+612,Sharky's Machine,Soundtrack,171,1982-01-23,1982-03-13,143,8
+613,Aerobic Dancing,Barbara Ann Auer,151,1982-01-02,1982-04-17,140,9
+614,The Best Of Dave Edmunds,Dave Edmunds,163,1982-01-09,1982-02-06,138,5
+615,Wynton Marsalis,Wynton Marsalis,165,1982-03-06,1982-04-03,138,5
+616,Tough,Kurtis Blow,167,1982-10-09,1982-11-06,137,5
+617,Used To Be,Charlene,162,1982-11-27,1982-12-25,136,5
+618,Evolution,Journey,166,1982-02-06,1982-03-13,136,6
+619,Fire Of Unknown Origin,Blue Oyster Cult,171,1982-01-02,1982-02-06,136,6
+620,Five Miles Out,Mike Oldfield,164,1982-05-08,1982-06-05,132,5
+621,Iron Fist,Motorhead,174,1982-05-22,1982-06-26,131,6
+622,The Pirate Movie,Soundtrack,166,1982-08-28,1982-10-02,130,6
+623,The Art Of Control,Peter Frampton,174,1982-08-28,1982-10-16,129,8
+624,Angst In My Pants,Sparks,173,1982-05-22,1982-06-26,128,6
+625,Dance & Exercise With The Hits,Linda Fratianne,174,1982-02-20,1982-04-03,126,7
+626,"Bill Cosby ""Himself""",Bill Cosby,93,1982-12-18,1982-12-25,122,2
+627,Poltergeist,Soundtrack,168,1982-07-17,1982-08-14,122,5
+628,White Christmas,John Schneider,155,1982-01-02,1982-01-16,117,3
+629,Conan The Barbarian,Soundtrack,162,1982-06-12,1982-07-10,117,5
+630,"Yes, Giorgio",Luciano Pavarotti,158,1982-11-06,1982-11-20,115,3
+631,Shooting Star,Shooting Star,172,1982-02-06,1982-03-06,115,5
+632,Roman Gods,The Fleshtones,174,1982-03-06,1982-04-03,115,5
+633,Some Days Are Diamonds,John Denver,146,1982-01-02,1982-01-23,113,4
+634,Fancy Dancer,One Way,165,1982-01-02,1982-01-30,113,5
+635,I Could Rule The World If I Could Only Get The Par,The Waitresses,141,1982-12-18,1982-12-25,109,2
+636,Days Of Innocence,Moving Pictures,163,1982-12-04,1982-12-25,107,4
+637,Three Lock Box,Sammy Hagar,97,1982-12-25,1982-12-25,104,1
+638,Against The Wind,Bob Seger & The Silver Bullet Band,155,1982-01-02,1982-01-30,104,5
+639,Sunshine Dream,The Beach Boys,180,1982-07-03,1982-08-07,99,6
+640,White Noise,Jay Ferguson,178,1982-04-17,1982-05-15,96,5
+641,The Jam,The Jam,176,1982-01-02,1982-01-30,95,5
+642,Nothin' Matters And What If It Did,John Cougar,151,1982-12-18,1982-12-25,91,2
+643,The Blue Mask,Lou Reed,169,1982-02-27,1982-03-20,91,4
+644,Night Attack,Angel City,174,1982-03-20,1982-04-17,91,5
+645,Wilder,The Teardrop Explodes,176,1982-02-06,1982-02-27,90,4
+646,Great Gonzos!: The Best Of Ted Nugent,Ted Nugent,147,1982-01-02,1982-01-16,88,3
+647,Go For It,Shalamar,148,1982-01-02,1982-01-30,88,5
+648,Animation,Jon Anderson,176,1982-07-03,1982-07-31,86,5
+649,Christmas Jollies II,The Salsoul Orchestra,170,1982-01-02,1982-01-16,85,3
+650,Runaway,Bill Champlin,178,1982-02-06,1982-02-27,83,4
+651,Tongue In Chic,Chic,173,1982-12-04,1982-12-25,78,4
+652,Victor/victoria,Soundtrack,174,1982-06-05,1982-06-26,76,4
+653,More Of The Good Life,T.S. Monk,176,1982-01-09,1982-02-27,75,8
+654,Standing Tall,The Crusaders,149,1982-01-02,1982-01-23,68,4
+655,Distant Lover,Alphonse Mouzon,175,1982-12-04,1982-12-25,68,4
+656,Love Me Tender,B.B. King,179,1982-05-15,1982-06-12,67,5
+657,Hit And Run,Girlschool,182,1982-05-22,1982-06-19,67,5
+658,Best Bits,Roger Daltrey,185,1982-03-27,1982-04-24,67,5
+659,Songs Of The Free,Gang Of Four,175,1982-06-26,1982-07-10,66,3
+660,The Best Of The Whispers,The Whispers,180,1982-03-13,1982-04-10,63,5
+661,Feelin' Right,Razzy Bailey,176,1982-02-27,1982-03-20,61,4
+662,A Broken Frame,Depeche Mode,177,1982-12-04,1982-12-25,61,4
+663,Plain From The Heart,Delbert McClinton,181,1982-01-02,1982-01-30,61,5
+664,Hollywood,Maynard Ferguson,185,1982-05-22,1982-06-12,61,4
+665,Midnight Crazy,Mac Davis,174,1982-01-16,1982-01-30,60,3
+666,Pointer Sisters' Greatest Hits,The Pointer Sisters,178,1982-11-13,1982-11-27,60,3
+667,The High And The Mighty,Donnie Iris,180,1982-11-27,1982-12-18,56,4
+668,Wait For Night,Rick Springfield,169,1982-12-18,1982-12-25,54,2
+669,Scott Baio,Scott Baio,181,1982-09-04,1982-09-25,54,4
+670,New Directions,Tavares,177,1982-12-11,1982-12-25,53,3
+671,Still In Love,Carrie Lucas,180,1982-09-11,1982-09-25,52,3
+672,Speak & Spell,Depeche Mode,192,1982-01-02,1982-02-20,50,8
+673,Computer Games,George Clinton,173,1982-12-18,1982-12-25,48,2
+674,Keep On Doing It,The Roches,183,1982-11-13,1982-11-27,44,3
+675,It's Alright (i See Rainbows),Yoko Ono,158,1982-12-25,1982-12-25,43,1
+676,My Movie Of You,Leif Garrett,185,1982-01-02,1982-01-23,43,4
+677,Nunsexmonkrock,Nina Hagen,184,1982-06-05,1982-06-19,42,3
+678,Juggernaut,Mahogany Rush,185,1982-08-14,1982-09-04,41,4
+679,Times Of Our Lives,Judy Collins,190,1982-03-13,1982-04-10,41,5
+680,Just Like Dreamin,Twennynine Featuring Lenny White,162,1982-01-02,1982-01-02,39,1
+681,Exposed Ii,Various Artists,163,1982-01-02,1982-01-02,38,1
+682,Set My Love In Motion,Syreeta,189,1982-01-30,1982-02-13,36,3
+683,El Loco,ZZ Top,168,1982-01-02,1982-01-02,33,1
+684,"Chicago - Greatest Hits, Volume II",Chicago,171,1982-01-02,1982-01-09,32,2
+685,New York Cake,Kano,189,1982-01-09,1982-01-30,32,4
+686,In Harmony 2,Various Artists,191,1982-01-02,1982-01-23,32,4
+687,The Best Of Firefall,Firefall,186,1982-01-02,1982-01-16,31,3
+688,Special,Jimmy Cliff,186,1982-08-14,1982-08-21,30,2
+689,Belo Horizonte,John Mc Laughlin,172,1982-01-02,1982-01-02,29,1
+690,Aqua Dream,McGuffey Lane,193,1982-01-23,1982-02-27,28,6
+691,The Change Has Come,Chubby Checker,186,1982-03-06,1982-03-13,27,2
+692,No Refuge,Eddie Schwartz,195,1982-02-06,1982-03-13,27,6
+693,Hot Ash,Wishbone Ash,192,1982-01-23,1982-02-13,24,4
+694,A Country Christmas,Various Artists,178,1982-12-25,1982-12-25,23,1
+695,Pennies From Heaven,Soundtrack,188,1982-01-23,1982-01-30,23,2
+696,"Tour De Force - ""Live""",Al Di Meola,180,1982-12-25,1982-12-25,21,1
+697,Time,Electric Light Orchestra,180,1982-01-02,1982-01-02,21,1
+698,Bobby & The Midnites,Bobby And The Midnites,182,1982-01-02,1982-01-02,19,1
+699,Ghost Town,Poco,195,1982-12-04,1982-12-18,17,3
+700,Can't Shake This Feeling,The Spinners,196,1982-01-16,1982-02-06,15,4
+701,S.o.s. Iii,The S.O.S. Band,187,1982-12-25,1982-12-25,14,1
+702,Dawn Patrol,Night Ranger,188,1982-12-25,1982-12-25,13,1
+703,Another Day/another Dollar,Gang Of Four,195,1982-02-13,1982-02-20,12,2
+704,The Sun Still Shines,Sonny Charles,190,1982-12-25,1982-12-25,11,1
+705,Face To Face,GQ,190,1982-01-02,1982-01-02,11,1
+706,Pretenders Ii,Pretenders,191,1982-01-02,1982-01-02,10,1
+707,Merry Christmas/Happy New Year's,Montana Orchestra,195,1982-01-02,1982-01-09,10,2
+708,Greatest Hits,Charley Pride,192,1982-01-02,1982-01-02,9,1
+709,Live In New Orleans,Maze Featuring Frankie Beverly,193,1982-01-02,1982-01-02,8,1
+710,Kasim,Kasim Sulton,197,1982-02-27,1982-03-06,8,2
+711,States Of Emergency,Taxxi,194,1982-12-25,1982-12-25,7,1
+712,Camera Camera,Renaissance,196,1982-01-02,1982-01-02,5,1
+713,Quinella,The Atlanta Rhythm Section,199,1982-01-02,1982-01-02,2,1
+714,"Hollywood, Tennessee",Crystal Gayle,200,1982-01-02,1982-01-02,1,1

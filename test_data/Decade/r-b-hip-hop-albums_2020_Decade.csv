@@ -1,0 +1,464 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Hollywood's Bleeding,Post Malone,2,2020-01-04,2022-11-05,6017,149
+2,My Turn,Lil Baby,1,2020-03-14,2022-11-05,5984,139
+3,Goodbye & Good Riddance,Juice WRLD,3,2020-01-04,2022-11-05,5280,149
+4,Shoot For The Stars Aim For The Moon,Pop Smoke,1,2020-07-18,2022-11-05,5020,121
+5,Legends Never Die,Juice WRLD,1,2020-07-25,2022-11-05,4439,120
+6,F*ck Love,The Kid LAROI,1,2020-08-08,2022-11-05,4061,115
+7,After Hours,The Weeknd,1,2020-04-04,2022-09-24,3708,89
+8,Death Race For Love,Juice WRLD,12,2020-01-04,2022-11-05,3629,149
+9,beerbongs & bentleys,Post Malone,11,2020-01-04,2022-11-05,3365,149
+10,The Highlights,The Weeknd,1,2021-02-20,2022-11-05,3353,88
+11,ASTROWORLD,Travis Scott,8,2020-01-04,2022-11-05,3292,146
+12,Scorpion,Drake,14,2020-01-04,2022-11-05,3125,146
+13,"good kid, m.A.A.d city",Kendrick Lamar,6,2020-01-11,2022-11-05,3102,119
+14,Planet Her,Doja Cat,1,2021-07-10,2022-11-05,3052,70
+15,The GOAT,Polo G,2,2020-05-30,2022-06-18,3005,97
+16,Certified Lover Boy,Drake,1,2021-09-18,2022-11-05,2749,60
+17,Eternal Atake,Lil Uzi Vert,1,2020-03-21,2022-06-18,2701,109
+18,Over It,Summer Walker,6,2020-01-04,2022-11-05,2671,125
+19,Curtain Call: The Hits,Eminem,5,2020-02-08,2022-11-05,2618,108
+20,SoulFly,Rod Wave,1,2021-04-10,2022-11-05,2588,81
+21,Hot Pink,Doja Cat,8,2020-01-04,2022-06-25,2556,112
+22,Please Excuse Me For Being Antisocial,Roddy Ricch,1,2020-01-04,2021-07-24,2472,81
+23,Pray 4 Love,Rod Wave,2,2020-04-18,2022-06-25,2327,89
+24,BLAME IT ON BABY,DaBaby,1,2020-05-02,2021-07-17,2254,64
+25,Legend: The Best Of...,Bob Marley And The Wailers,10,2020-01-04,2022-09-17,2151,134
+26,Hall Of Fame,Polo G,1,2021-06-26,2022-09-03,2084,63
+27,A Gangsta's Pain,Moneybagg Yo,1,2021-05-08,2022-07-16,1951,60
+28,Ctrl,SZA,4,2020-09-19,2022-11-05,1870,107
+29,Stoney,Post Malone,19,2020-01-04,2022-07-23,1810,110
+30,Chilombo,Jhene Aiko,2,2020-03-21,2021-05-15,1629,61
+31,Shiesty Season,Pooh Shiesty,2,2021-02-20,2022-07-23,1536,53
+32,2014 Forest Hills Drive,J. Cole,21,2020-01-04,2022-11-05,1479,103
+33,7220,Lil Durk,1,2022-03-26,2022-11-05,1463,33
+34,Greatest Hits,2Pac,15,2020-03-14,2022-11-05,1450,111
+35,Music To Be Murdered By,Eminem,1,2020-02-01,2021-07-24,1434,57
+36,Good News,Megan Thee Stallion,1,2020-12-05,2021-09-18,1431,42
+37,The Voice Of The Heroes,Lil Baby & Lil Durk,1,2021-06-19,2022-06-25,1405,45
+38,Donda,Kanye West,1,2021-09-11,2022-07-30,1365,46
+39,DAMN.,Kendrick Lamar,10,2020-01-11,2022-11-05,1317,89
+40,Take Care,Drake,18,2020-01-04,2022-11-05,1309,103
+41,Just Cause Y'all Waited 2,Lil Durk,2,2020-05-23,2021-05-22,1278,49
+42,The Voice,Lil Durk,1,2021-01-02,2021-11-06,1275,45
+43,DS4EVER,Gunna,1,2022-01-22,2022-09-17,1257,35
+44,Dawn FM,The Weeknd,1,2022-01-22,2022-11-05,1226,42
+45,I Never Liked You,Future,1,2022-05-14,2022-11-05,1219,26
+46,Thats What They All Say,Jack Harlow,2,2020-12-26,2022-05-28,1207,59
+47,Fighting Demons,Juice WRLD,1,2021-12-25,2022-11-05,1198,42
+48,?,XXXTENTACION,25,2020-01-04,2022-07-23,1192,99
+49,High Off Life,Future,1,2020-05-30,2021-05-08,1181,50
+50,Wunna,Gunna,1,2020-06-06,2021-04-17,1161,45
+51,"Meet The Woo, V.2",Pop Smoke,5,2020-02-22,2021-07-10,1147,52
+52,The Off-Season,J. Cole,1,2021-05-29,2022-02-19,1080,36
+53,Luv Is Rage 2,Lil Uzi Vert,25,2020-01-11,2022-11-05,1075,111
+54,Top,YoungBoy Never Broke Again,1,2020-09-26,2021-11-27,1065,53
+55,Dark Lane Demo Tapes,Drake,1,2020-05-16,2021-03-27,1056,43
+56,Ghetto Gospel,Rod Wave,7,2020-01-04,2020-11-21,1050,47
+57,When It's All Said And Done... Take Time,Giveon,3,2021-03-27,2021-12-18,1029,35
+58,KIRK,DaBaby,4,2020-01-04,2020-08-29,1019,35
+59,Who Is Nardo Wick?,Nardo Wick,7,2021-12-18,2022-11-05,1011,40
+60,Mr. Morale & The Big Steppers,Kendrick Lamar,1,2022-05-28,2022-11-05,994,24
+61,Still Over It,Summer Walker,1,2021-11-20,2022-06-25,947,32
+62,Suga,Megan Thee Stallion,6,2020-03-21,2020-09-26,924,28
+63,Time Served,Moneybagg Yo,2,2020-01-25,2020-11-21,888,40
+64,JACKBOYS,JACKBOYS,1,2020-01-11,2020-09-26,882,35
+65,Twelve Carat Toothache,Post Malone,1,2022-06-18,2022-11-05,863,21
+66,Changes,Justin Bieber,1,2020-02-29,2020-08-22,853,26
+67,So Much Fun,Young Thug,4,2020-01-04,2020-09-26,800,38
+68,Starboy,The Weeknd,11,2020-01-18,2022-10-08,788,45
+69,"Honestly, Nevermind",Drake,1,2022-07-02,2022-11-05,773,19
+70,AI YoungBoy 2,YoungBoy Never Broke Again,8,2020-01-04,2020-11-14,771,38
+71,The Melodic Blue,Baby Keem,3,2021-09-25,2022-06-04,762,36
+72,Savage Mode II,21 Savage & Metro Boomin,1,2020-10-17,2021-04-10,761,26
+73,Indigo,Chris Brown,13,2020-01-04,2022-11-05,758,50
+74,An Evening With Silk Sonic,Silk Sonic (Bruno Mars & Anderson .Paak),1,2021-11-27,2022-09-24,739,28
+75,Artist 2.0,A Boogie Wit da Hoodie,2,2020-02-29,2020-10-03,727,31
+76,"Sincerely, Kentrell",YoungBoy Never Broke Again,1,2021-10-09,2022-03-19,707,22
+77,IGOR,"Tyler, The Creator",20,2020-01-04,2022-11-05,702,54
+78,Merry Christmas,Mariah Carey,2,2020-01-04,2022-01-08,694,18
+79,Graduation,Kanye West,22,2021-08-21,2022-11-05,687,39
+80,Whole Lotta Red,Playboi Carti,1,2021-01-09,2022-02-19,685,26
+81,A Love Letter To You 4,Trippie Redd,7,2020-01-04,2020-07-11,680,26
+82,Pluto x Baby Pluto,Future & Lil Uzi Vert,1,2020-11-28,2021-06-12,670,29
+83,Gemini Rights,Steve Lacy,3,2022-07-30,2022-11-05,662,15
+84,Khaled Khaled,DJ Khaled,1,2021-05-15,2021-10-09,661,22
+85,Come Home The Kids Miss You,Jack Harlow,2,2022-05-21,2022-10-08,654,21
+86,Renaissance,Beyonce,1,2022-08-13,2022-11-05,634,13
+87,B4 The Storm,Internet Money,6,2020-09-12,2021-02-20,633,24
+88,The Christmas Song,Nat King Cole,1,2020-01-04,2022-01-08,624,15
+89,Call Me If You Get Lost,"Tyler, The Creator",1,2021-07-10,2022-08-27,595,21
+90,Sweet Action,Jack Harlow,14,2020-03-28,2020-11-14,595,32
+91,American Teen,Khalid,27,2020-01-04,2021-06-12,583,63
+92,Thriller,Michael Jackson,14,2020-01-04,2022-11-05,577,51
+93,Free Spirit,Khalid,19,2020-01-04,2020-10-31,575,40
+94,Back For Everything,Kodak Black,1,2022-03-12,2022-07-16,555,19
+95,Certified Hitmaker,Lil Mosey,21,2020-03-07,2020-10-03,544,31
+96,A Christmas Gift For You From Phil Spector,Various Artists,3,2020-01-04,2022-01-08,541,13
+97,Destined 2 Win,Lil Tjay,2,2021-04-17,2021-08-28,540,20
+98,Beautiful Mind,Rod Wave,1,2022-08-27,2022-11-05,517,11
+99,Culture III,Migos,2,2021-06-26,2021-10-09,506,16
+100,Young Stoner Life: Slime Language 2,Young Thug & Various Artists,1,2021-05-01,2021-08-07,503,15
+101,Wasteland,Brent Faiyaz,1,2022-07-23,2022-11-05,480,16
+102,Free Dem Boyz,42 Dugg,4,2021-06-05,2021-11-20,456,22
+103,The Last Slimeto,YoungBoy Never Broke Again,1,2022-08-20,2022-11-05,448,12
+104,Breezy,Chris Brown,2,2022-07-09,2022-10-01,426,13
+105,Curtain Call 2,Eminem,3,2022-08-20,2022-11-05,417,12
+106,Welcome To O'Block,King Von,3,2020-11-14,2021-03-13,411,18
+107,Perfect Ten,Mustard,14,2020-01-04,2020-05-16,410,20
+108,Melly vs. Melvin,YNW Melly,16,2020-01-04,2020-05-09,399,19
+109,"Still Flexin, Still Steppin",YoungBoy Never Broke Again,1,2020-03-07,2020-05-23,385,12
+110,Colors,YoungBoy Never Broke Again,1,2022-02-05,2022-04-16,384,11
+111,Trip At Knight,Trippie Redd,1,2021-09-04,2021-11-20,379,12
+112,Still Sleep?,Sleepy Hallow,10,2021-06-19,2021-11-20,370,19
+113,2 Alive,Yeat,3,2022-03-05,2022-06-04,368,14
+114,7 (EP),Lil Nas X,17,2020-01-04,2020-05-02,368,18
+115,Man On The Moon III: The Chosen,Kid Cudi,1,2020-12-26,2022-01-08,356,12
+116,Expensive Pain,Meek Mill,2,2021-10-16,2021-12-18,353,10
+117,Heaven Or Hell,Don Toliver,5,2020-03-28,2020-08-01,320,19
+118,Code Red,Moneybagg Yo & Blac Youngsta,5,2020-10-03,2020-12-12,315,11
+119,True 2 Myself,Lil Tjay,18,2020-01-04,2020-05-02,293,18
+120,Dreamville & J. Cole: Revenge Of The Dreamers III,Various Artists,6,2020-01-04,2020-07-18,292,17
+121,Faith,Pop Smoke,1,2021-07-31,2021-09-25,291,9
+122,Queen Radio: Volume 1,Nicki Minaj,6,2022-09-10,2022-11-05,290,9
+123,Collection One,SAINt JHN,31,2020-04-11,2020-09-19,286,24
+124,Slime & B,Chris Brown & Young Thug,15,2020-05-16,2021-03-06,268,22
+125,God Did,DJ Khaled,1,2022-09-10,2022-10-29,264,8
+126,PTSD,G Herbo,4,2020-03-14,2020-07-04,262,12
+127,Back Of My Mind,H.E.R.,4,2021-07-03,2021-10-02,261,11
+128,The College Dropout,Kanye West,6,2022-03-05,2022-07-02,259,13
+129,Invasion Of Privacy,Cardi B,32,2020-01-04,2021-04-10,255,33
+130,It Was Good Until It Wasn't,Kehlani,2,2020-05-23,2020-08-01,246,11
+131,Sniper Gang Presents Syko Bob & SnapKatt: Nightmare Babies,Various Artists,17,2021-12-18,2022-02-12,246,9
+132,Funeral,Lil Wayne,1,2020-02-15,2020-06-13,243,9
+133,Heaux Tales,Jazmine Sullivan,2,2021-01-23,2022-06-04,239,11
+134,Bigger Than Life Or Death,EST Gee,5,2021-07-31,2022-01-15,237,10
+135,Baby On Baby,DaBaby,21,2020-01-04,2020-03-28,235,13
+136,Punk,Young Thug,1,2021-10-30,2021-12-11,233,7
+137,Realer 2,YoungBoy Never Broke Again,2,2022-09-17,2022-10-29,233,7
+138,Detroit 2,Big Sean,1,2020-09-19,2020-11-07,225,8
+139,Top Shotta,NLE Choppa,6,2020-08-22,2020-11-14,224,12
+140,The Search,NF,24,2020-01-04,2020-04-04,219,14
+141,We Love You Tecca,Lil Tecca,22,2020-01-04,2020-03-14,212,11
+142,Traumazine,Megan Thee Stallion,3,2022-08-27,2022-10-08,211,7
+143,38 Baby 2,YoungBoy Never Broke Again,1,2020-05-09,2020-06-27,208,8
+144,Views,Drake,33,2020-01-11,2022-11-05,207,35
+145,Gangsta Art,Various Artists,6,2022-07-30,2022-11-05,205,8
+146,Give Or Take,Giveon,5,2022-07-09,2022-08-20,203,7
+147,From The Bayou,YoungBoy Never Broke Again & Birdman,9,2021-12-25,2022-01-29,201,6
+148,"Sing Me A Lullaby, My Sweet Temptation",$uicideBoy$,2,2022-08-13,2022-10-15,196,10
+149,Live Life Fast,Roddy Ricch,1,2022-01-01,2022-02-05,194,6
+150,The New Toronto 3,Tory Lanez,2,2020-04-25,2020-06-06,193,7
+151,Pegasus,Trippie Redd,1,2020-11-14,2021-03-13,191,8
+152,Life Of A DON,Don Toliver,2,2021-10-23,2021-11-27,188,6
+153,A Legendary Christmas,John Legend,8,2020-01-04,2022-01-08,188,9
+154,Good Intentions,NAV,1,2020-05-23,2020-07-04,185,7
+155,Hoodie SZN,A Boogie Wit da Hoodie,28,2020-01-04,2020-03-21,185,12
+156,The Jackson 5 Christmas Album,Jackson 5,19,2020-01-04,2022-01-08,184,10
+157,Rich Slave,Young Dolph,3,2020-08-29,2021-12-11,171,8
+158,Beam Me Up Scotty,Nicki Minaj,2,2021-05-29,2021-06-26,166,5
+159,We Love You Tecca 2,Lil Tecca,6,2021-09-11,2021-10-16,165,6
+160,Epidemic,Money Man,15,2020-09-05,2020-11-07,165,10
+161,What It Means To Be King,King Von,1,2022-03-19,2022-04-16,162,5
+162,Man On The Moon: The End Of Day,Kid Cudi,28,2020-12-19,2022-07-30,160,16
+163,Greatest Hits,The Notorious B.I.G.,28,2021-03-13,2022-07-30,157,20
+164,A N N I V E R S A R Y,Bryson Tiller,4,2020-10-17,2021-03-13,156,5
+165,Only The Family Presents: Loyal Bros Compilation,Various Artists,6,2021-03-20,2021-05-01,155,7
+166,Khaza,Kevin Gates,4,2022-07-02,2022-08-06,150,6
+167,Dr. Dre -- 2001,Dr. Dre,6,2022-02-26,2022-04-02,141,6
+168,Something For Thee Hotties: From Thee Archives,Megan Thee Stallion,3,2021-11-13,2021-12-18,136,6
+169,PARTYMOBILE,PARTYNEXTDOOR,4,2020-04-11,2020-05-09,136,5
+170,Yellow Tape 2,Key Glock,4,2021-11-20,2022-04-16,132,5
+171,Clouds (The Mixtape),NF,2,2021-04-10,2021-05-08,130,5
+172,"Quality Control: Control The Streets, Volume 2",Various Artists,27,2020-01-04,2020-02-22,130,8
+173,It's Almost Dry,Pusha T,1,2022-05-07,2022-06-04,129,4
+174,25,G Herbo,3,2021-07-17,2021-08-07,129,4
+175,Beauty Behind The Madness,The Weeknd,36,2020-01-18,2021-11-20,129,19
+176,The Best Of DMX,DMX,1,2021-04-17,2021-05-08,124,4
+177,ADHD,Joyner Lucas,6,2020-04-11,2020-05-30,123,6
+178,777,Latto,8,2022-04-09,2022-05-28,121,8
+179,Until I Return,YoungBoy Never Broke Again,5,2020-11-28,2020-12-26,118,5
+180,Up 2 Me,Yeat,31,2022-02-12,2022-05-21,115,15
+181,Swimming,Mac Miller,28,2020-01-04,2022-01-01,113,17
+182,RTJ4,Run The Jewels,7,2020-06-13,2020-10-03,108,3
+183,Homesick (EP),Trevor Daniel,35,2020-01-11,2020-03-14,108,10
+184,Demons Protected By Angels,NAV,1,2022-09-24,2022-10-08,107,3
+185,SHAKE THE SNOW GLOBE,Russ,4,2020-02-15,2020-06-06,106,6
+186,Untrapped,Yo Gotti,6,2020-02-15,2020-03-07,105,4
+187,Long Term Effects Of Suffering,$uicideBoy$,3,2021-08-28,2021-09-11,102,3
+188,The House Is Burning,Isaiah Rashad,4,2021-08-14,2021-08-28,102,3
+189,It's Only Me,Lil Baby,1,2022-10-29,2022-11-05,100,2
+190,King Of Killbranch,BIG30,6,2021-09-18,2021-10-02,100,3
+191,Faces,Mac Miller,3,2021-10-30,2021-11-13,99,3
+192,Chixtape 5,Tory Lanez,26,2020-01-04,2020-03-28,99,8
+193,Mr. Crawford,NoCap,4,2022-05-14,2022-05-28,98,3
+194,Dum And Dummer 2,Young Dolph & Key Glock,5,2021-04-10,2021-04-24,98,3
+195,Featuring Ty Dolla $ign,Ty Dolla $ign,2,2020-11-07,2020-11-21,97,3
+196,Missunderstood,Queen Naija,6,2020-11-14,2021-05-01,94,5
+197,Berry Christmas (EP),Chuck Berry,20,2020-01-04,2022-01-08,94,7
+198,No Pressure,Logic,1,2020-08-08,2020-08-22,90,3
+199,The Lion King: The Gift (Soundtrack),Beyonce & Various Artists,7,2020-08-15,2020-09-05,90,4
+200,Moon Boy,Yung Bleu,7,2021-08-07,2021-09-04,90,5
+201,Shottaz 4Eva,MO3,18,2021-04-24,2021-09-18,88,4
+202,Channel Orange,Frank Ocean,25,2022-01-29,2022-02-26,88,5
+203,CM10: Free Game,Yo Gotti,2,2022-02-19,2022-03-05,87,3
+204,B.I.B.L.E.,Fivio Foreign,5,2022-04-23,2022-05-07,87,3
+205,Lyfe,Yeat,5,2022-09-24,2022-10-15,87,4
+206,Take Time (EP),Giveon,19,2021-03-06,2021-03-20,87,3
+207,My Beautiful Dark Twisted Fantasy,Kanye West,26,2021-08-07,2022-04-09,86,9
+208,King's Disease II,Nas,1,2021-08-21,2021-08-28,85,2
+209,Only Built For Infinity Links,Quavo & Takeoff,3,2022-10-22,2022-11-05,83,3
+210,Last Ones Left,42 Dugg & EST Gee,3,2022-04-23,2022-05-07,82,3
+211,The Album,Teyana Taylor,6,2020-07-04,2020-07-18,82,3
+212,Look At Me: The Album. (Soundtrack),XXXTENTACION,11,2022-06-25,2022-07-02,79,2
+213,Lil Boat 3,Lil Yachty,11,2020-06-13,2020-12-12,79,3
+214,I Never Felt Nun,EST Gee,3,2022-10-01,2022-10-15,78,3
+215,Survivor’s Remorse: A Side,G Herbo,4,2022-10-22,2022-10-29,78,2
+216,The Forever Story,JID,8,2022-09-10,2022-09-24,78,3
+217,Emergency Tsunami,NAV,4,2020-11-21,2020-11-28,77,2
+218,Yellow Tape,Key Glock,8,2020-02-15,2020-02-29,77,3
+219,Purple Rain,Prince And The Revolution,13,2021-01-02,2022-01-01,77,4
+220,Better Than You,DaBaby & YoungBoy Never Broke Again,7,2022-03-19,2022-04-02,74,3
+221,King's Disease,Nas,3,2020-09-05,2020-09-12,72,2
+222,Poetic Pain,Toosii,12,2020-10-03,2020-10-24,70,4
+223,Die A Legend,Polo G,36,2020-01-11,2021-05-08,70,10
+224,Melt My Eyez See Your Future,Denzel Curry,11,2022-04-09,2022-10-15,68,2
+225,"Only the Generals, Part II",Kevin Gates,11,2021-03-06,2021-03-20,68,3
+226,ELE 2: The Wrath Of God,Busta Rhymes,4,2020-11-14,2020-11-21,67,2
+227,Virgo World,Lil Tecca,7,2020-10-03,2020-10-10,66,2
+228,Red & White,Lil Uzi Vert,13,2022-08-06,2022-08-13,66,2
+229,The Eminem Show,Eminem,29,2022-02-05,2022-06-11,66,4
+230,Daystar,Tory Lanez,4,2020-10-10,2020-10-17,65,2
+231,Levon James,King Von,21,2020-03-21,2020-12-05,65,4
+232,The L.I.B.R.A.,T.I.,9,2020-10-31,2020-11-07,64,2
+233,Big Grim Reaper,Big Scarr,14,2021-05-01,2022-03-12,64,3
+234,I'm Him,Kevin Gates,33,2020-01-11,2020-02-22,64,7
+235,TattleTales,6ix9ine,4,2020-09-19,2020-09-26,63,2
+236,Me Vs. Me,NLE Choppa,8,2022-02-12,2022-02-19,62,2
+237,We Are,Jon Batiste,14,2021-04-03,2022-04-23,62,3
+238,Tha Carter V,Lil Wayne,9,2020-10-10,2020-10-17,61,2
+239,Back Home,Trey Songz,9,2020-10-24,2020-10-31,61,2
+240,Championships,Meek Mill,37,2020-01-11,2020-02-22,61,7
+241,Cottonwood,NLE Choppa,20,2020-01-04,2020-01-18,60,3
+242,3.15.20,Childish Gambino,8,2020-04-04,2020-04-11,59,2
+243,Just A Matter Of Slime,YNW Melly,5,2021-08-28,2021-09-04,57,2
+244,So Help Me God!,2 Chainz,8,2020-11-28,2020-12-05,56,2
+245,Fuck The World,Brent Faiyaz,12,2020-02-22,2020-02-29,56,2
+246,The Essential Michael Jackson,Michael Jackson,39,2021-04-10,2022-11-05,56,14
+247,Judas And The Black Messiah: The Inspired Album,Soundtrack,7,2021-02-27,2021-03-06,55,2
+248,Bill Israel,Kodak Black,20,2020-11-21,2020-11-28,53,2
+249,Final Destination,SpotemGottem,37,2021-03-13,2021-05-22,52,8
+250,B4 AVA,A Boogie Wit da Hoodie,12,2021-12-25,2022-01-01,50,2
+251,T R A P S O U L,Bryson Tiller,15,2020-10-10,2020-10-17,50,2
+252,While The World Was Burning,SAINt JHN,16,2020-12-05,2020-12-12,50,2
+253,Welcome 2 America,Prince,2,2021-08-14,2021-08-14,49,1
+254,Sorry 4 What,Tory Lanez,4,2022-10-15,2022-10-22,49,2
+255,From A Birds Eye View,Cordae,7,2022-01-29,2022-02-05,49,2
+256,BEFORE LOVE CAME TO KILL US,Jessie Reyez,9,2020-04-11,2020-04-18,49,2
+257,My Life 4Hunnid,YG,3,2020-10-17,2020-10-17,48,1
+258,Alicia,Alicia Keys,3,2020-10-03,2020-10-03,48,1
+259,Ma' I Got A Family (A Gangsta Grillz Special Edition Hosted By DJ Drama),YoungBoy Never Broke Again,3,2022-11-05,2022-11-05,48,1
+260,Entergalactic,Kid Cudi,7,2022-10-15,2022-10-22,48,2
+261,Richer Than I Ever Been,Rick Ross,10,2021-12-25,2022-01-01,48,2
+262,Gold-Diggers Sound,Leon Bridges,11,2021-08-07,2021-08-14,48,2
+263,Snofall,Jeezy & DJ Drama,4,2022-11-05,2022-11-05,47,1
+264,Exodus,DMX,4,2021-06-12,2021-06-12,47,1
+265,City On Lock,City Girls,17,2020-07-04,2020-07-11,47,2
+266,Flawless Like Me,LUCKI,5,2022-10-08,2022-10-08,46,1
+267,One In A Million,Aaliyah,5,2021-09-04,2021-09-04,46,1
+268,$oul $old $eparately,Freddie Gibbs,5,2022-10-15,2022-10-15,46,1
+269,Ungodly Hour,Chloe X Halle,11,2020-06-27,2020-07-04,46,2
+270,QPac,Quando Rondo,14,2020-01-25,2020-02-01,46,2
+271,Life On Earth (EP),Summer Walker,6,2020-07-25,2020-07-25,45,1
+272,3800 Degrees,YoungBoy Never Broke Again,6,2022-10-22,2022-10-22,45,1
+273,Blockchain,Money Man,6,2021-11-27,2021-11-27,45,1
+274,Vinyl Days,Logic,6,2022-07-02,2022-07-02,45,1
+275,"Roadrunner: New Light, New Machine",BrockHampton,6,2021-04-24,2021-04-24,45,1
+276,I Know NIGO,Nigo,6,2022-04-09,2022-04-09,45,1
+277,DJ Drama & Dreamville Presents: D-Day: A Gangsta Grillz Mixtape,Various Artists,6,2022-04-16,2022-04-16,45,1
+278,Good Morning Gorgeous,Mary J. Blige,9,2022-02-26,2022-03-05,45,2
+279,Aaliyah,Aaliyah,7,2021-09-25,2021-09-25,44,1
+280,Kauai (EP),Childish Gambino,7,2022-05-07,2022-05-07,44,1
+281,The Recession 2,Jeezy,7,2020-12-05,2020-12-05,44,1
+282,A Written Testimony,Jay Electronica,8,2020-03-28,2020-03-28,43,1
+283,Drillmatic Heart Vs. Mind,The Game,8,2022-08-27,2022-08-27,43,1
+284,Blue Water Road,Kehlani,8,2022-05-14,2022-05-14,43,1
+285,Built For Whatever,Tee Grizzley,10,2021-05-22,2021-05-29,43,2
+286,G.I.H.F. (Goat In Human Form),Rylo Rodriguez,14,2020-12-12,2020-12-19,43,2
+287,17,XXXTENTACION,33,2020-01-25,2022-06-25,43,6
+288,B7,Brandy,9,2020-08-15,2020-08-15,42,1
+289,The Brave,Tom MacDonald X Adam Calhoun,9,2022-03-19,2022-03-19,42,1
+290,Heart On My Sleeve,Ella Mai,9,2022-05-21,2022-05-21,42,1
+291,These Things Happen Too,G-Eazy,12,2021-10-09,2021-10-16,42,2
+292,RICH YOUNGIN,Stunna 4 Vegas,16,2020-02-01,2020-02-08,42,2
+293,Ramona Park Broke My Heart,Vince Staples,10,2022-04-23,2022-04-23,41,1
+294,Limbo,Amine,10,2020-08-22,2020-08-22,41,1
+295,Untreated Trauma,Mozzy,10,2021-10-02,2021-10-02,41,1
+296,Magic,Nas,11,2022-01-08,2022-01-08,40,1
+297,No Ceilings,Lil Wayne,11,2020-09-12,2020-09-12,40,1
+298,Sign 'O' The Times,Prince,11,2020-10-10,2020-10-10,40,1
+299,Gotti,Berner,11,2021-12-18,2021-12-18,40,1
+300,6pc Hot (EP),6LACK,11,2020-07-11,2020-07-11,40,1
+301,# 1's,Mariah Carey,11,2022-05-07,2022-05-07,40,1
+302,Prince And The Revolution: Live,Prince And The Revolution,11,2022-06-18,2022-06-18,40,1
+303,Steel Human,NoCap,18,2020-08-01,2020-08-08,40,2
+304,"I Love Life, Thank You",Mac Miller,12,2022-08-06,2022-08-06,39,1
+305,Folarin II,Wale,12,2021-11-06,2021-11-06,39,1
+306,I Got Issues,YG,12,2022-10-15,2022-10-15,39,1
+307,Alfredo,Freddie Gibbs & The Alchemist,12,2020-06-13,2020-06-13,39,1
+308,"Funk Wav Bounces, Vol. 2",Calvin Harris,12,2022-08-20,2022-08-20,39,1
+309,Tana Talk 4,Benny The Butcher,12,2022-03-26,2022-03-26,39,1
+310,BOSS MAN,Rich The Kid,17,2020-03-28,2020-04-04,39,2
+311,Gucci Mane Presents: So Icy Summer,Gucci Mane & Various Artists,19,2020-07-18,2020-07-25,39,2
+312,Dope Don't Sell Itself,2 Chainz,13,2022-02-19,2022-02-19,38,1
+313,Paper Route iLLUMINATi,Young Dolph,13,2021-08-14,2021-08-14,38,1
+314,Bigger Love,John Legend,13,2020-07-04,2020-07-04,38,1
+315,A Muse In Her Feelings,dvsn,13,2020-05-02,2020-05-02,38,1
+316,Wish Me Well 3,YFN Lucci,18,2020-12-19,2020-12-26,38,2
+317,Burden Of Proof,Benny The Butcher,14,2020-10-31,2020-10-31,37,1
+318,Vince Staples,Vince Staples,14,2021-07-24,2021-07-24,37,1
+319,The Smartest,Tee Grizzley,14,2020-07-04,2020-07-04,37,1
+320,Kiss 5,K Camp,18,2020-05-09,2020-05-16,37,2
+321,Haitian Boy Kodak,Kodak Black,15,2021-05-29,2021-05-29,36,1
+322,2000,Joey Bada$$,15,2022-08-06,2022-08-06,36,1
+323,Texas Moon (EP),Khruangbin & Leon Bridges,15,2022-03-05,2022-03-05,36,1
+324,The Rarities,Mariah Carey,15,2020-10-17,2020-10-17,36,1
+325,The Saga Of Wiz Khalifa,Wiz Khalifa,29,2020-05-02,2020-05-09,36,2
+326,Temporary Highs In The Violet,Snoh Aalegra,16,2021-07-24,2021-07-24,35,1
+327,The Plugs I Met 2,Benny The Butcher & Harry Fraud,16,2021-04-03,2021-04-03,35,1
+328,Stop Staring At The Shadows,$uicideBoy$,16,2020-02-29,2020-02-29,35,1
+329,Thank You For Believing,Toosii,16,2021-05-22,2021-05-22,35,1
+330,Bobby Tarantino III,Logic,16,2021-08-14,2021-08-14,35,1
+331,Birds In The Trap Sing McKnight,Travis Scott,26,2020-05-09,2020-05-23,35,3
+332,Keys,Alicia Keys,17,2021-12-25,2021-12-25,34,1
+333,The Life Of Pi'erre 5,Pi'erre Bourne,17,2021-06-26,2021-06-26,34,1
+334,Coconut Oil (EP),Lizzo,33,2020-01-04,2020-01-25,34,4
+335,Ice Daddy,Gucci Mane,18,2021-07-03,2021-07-03,33,1
+336,Good To Know,JoJo,19,2020-05-16,2020-05-16,32,1
+337,Ignatius,Jadakiss,19,2020-03-21,2020-03-21,32,1
+338,KIKI,Kiana Lede,19,2020-04-18,2020-04-18,32,1
+339,Mafia Bidness,Shoreline Mafia,19,2020-08-15,2020-08-15,32,1
+340,Trust Fund Babies,Lil Wayne Featuring Rich The Kid,19,2021-10-16,2021-10-16,32,1
+341,So Icy Gang: The Reup,Gucci Mane,19,2022-07-02,2022-07-02,32,1
+342,Back On My Baby Jesus Sh!t Again (EP),DaBaby,19,2021-11-27,2021-11-27,32,1
+343,DS2,Future,19,2022-05-07,2022-05-07,32,1
+344,My Brother's Keeper (Long Live G),DaBaby,19,2020-12-05,2020-12-05,32,1
+345,Face,Babyface Ray,19,2022-02-12,2022-02-12,32,1
+346,Victory Lap,Nipsey Hussle,24,2020-04-11,2021-06-05,32,2
+347,Sin City: The Mixtape,Ski Mask The Slump God,20,2021-07-10,2021-07-10,31,1
+348,Street Sermons,Morray,20,2021-05-15,2021-05-15,31,1
+349,State Of Emergency,Lil Tjay,20,2020-05-23,2020-05-23,31,1
+350,The Best Of Stevie Wonder: 20th Century Masters The Christmas Collection,Stevie Wonder,38,2020-01-04,2022-01-01,31,3
+351,Nobody Safe,Rich The Kid & YoungBoy Never Broke Again,21,2020-12-05,2020-12-05,30,1
+352,Ultimate Aaliyah,Aaliyah,21,2021-10-23,2021-10-23,30,1
+353,Michigan Boy Boat,Lil Yachty,21,2021-05-08,2021-05-08,30,1
+354,Baby On Baby 2,DaBaby,21,2022-10-08,2022-10-08,30,1
+355,"Young & Turnt, Vol. 2",42 Dugg,33,2020-04-11,2020-07-04,30,2
+356,Spaceships On The Blade,Larry June,22,2022-09-03,2022-09-03,29,1
+357,Live.Love.A$AP,A$AP Rocky,22,2021-11-13,2021-11-13,29,1
+358,Montega,French Montana & Harry Fraud,22,2022-07-09,2022-07-09,29,1
+359,Quarantine Pack (EP),Meek Mill,22,2020-12-05,2020-12-05,29,1
+360,So Icy Boyz: The New 1017,Various Artists,22,2021-10-30,2021-10-30,29,1
+361,In The Name Of Gee,Fredo Bang,22,2021-01-30,2021-01-30,29,1
+362,They Got Amnesia,French Montana,23,2021-12-04,2021-12-04,28,1
+363,The Gold Experience,The Artist (Formerly Known As Prince),23,2022-07-02,2022-07-02,28,1
+364,Karma 3,Dave East,23,2020-08-29,2020-08-29,28,1
+365,It Is What It Is,Thundercat,23,2020-04-18,2020-04-18,28,1
+366,Survivor's Guilt,Mozzy,23,2022-08-06,2022-08-06,28,1
+367,It's Dark And Hell Is Hot,DMX,23,2021-04-24,2021-04-24,28,1
+368,Scenic Drive (The Tape),Khalid,24,2021-12-18,2021-12-18,27,1
+369,LLD (Long Live Young Dolph),Various Artists,24,2022-02-05,2022-02-05,27,1
+370,Son Of A Gun,Key Glock,24,2020-06-06,2020-06-06,27,1
+371,"So Icy Gang, Vol. One",Gucci Mane And The New 1017,26,2020-10-31,2020-11-07,27,2
+372,"Grandson, Vol. 1",King Von,30,2020-11-21,2020-11-28,27,2
+373,Queen Of Da Souf,Mulatto,25,2020-09-05,2020-09-05,26,1
+374,Alone At Prom,Tory Lanez,25,2021-12-25,2021-12-25,26,1
+375,It Was Divine,Alina Baraz,25,2020-05-09,2020-05-09,26,1
+376,Beyond Bulletproof,Mozzy,25,2020-05-16,2020-05-16,26,1
+377,Pillow Talk,Tink,25,2022-09-03,2022-09-03,26,1
+378,Macadelic,Mac Miller,30,2022-04-09,2022-10-22,26,2
+379,Trapped On Cleveland 3,Lil Keed,26,2020-08-22,2020-08-22,25,1
+380,Evolution,Joyner Lucas,26,2020-11-07,2020-11-07,25,1
+381,Spirit World Field Guide,Aesop Rock,26,2020-11-28,2020-11-28,25,1
+382,"Bigger Than Life Or Death, Part 2",EST Gee,26,2021-12-18,2021-12-18,25,1
+383,CB5,French Montana,26,2020-12-05,2020-12-05,25,1
+384,Cheat Codes,Danger Mouse & Black Thought,26,2022-08-27,2022-08-27,25,1
+385,Get Rich Or Die Tryin',50 Cent,34,2022-02-26,2022-03-05,25,2
+386,Gasanova,Yung Gravy,27,2020-10-17,2020-10-17,24,1
+387,East Atlanta Santa 3,Gucci Mane,27,2020-01-04,2020-01-04,24,1
+388,Blonde,Frank Ocean,43,2021-01-16,2022-11-05,24,5
+389,The Hustle Continues,Juicy J,28,2020-12-12,2020-12-12,23,1
+390,I'm Gone,iann dior,28,2020-06-27,2020-06-27,23,1
+391,All Monsters Are Human,K. Michelle,29,2020-02-15,2020-02-15,22,1
+392,Unbothered,Lil Skies,29,2021-02-06,2021-02-06,22,1
+393,Baby23,JayDaYoungan,30,2020-06-20,2020-06-20,21,1
+394,the highs.,mike.,30,2021-08-07,2021-08-07,21,1
+395,The Product III: stateofEMERGEncy,August Alsina,30,2020-07-11,2020-07-11,21,1
+396,Sorry 4 The Wait,Lil Wayne,31,2022-01-29,2022-01-29,20,1
+397,Heat Of The Moment,Tink,31,2021-08-14,2021-08-14,20,1
+398,Sleepy Hallow Presents: Sleepy For President,Sleepy Hallow,32,2020-06-20,2020-06-20,19,1
+399,Legend,John Legend,32,2022-09-24,2022-09-24,19,1
+400,The Truth,Prince,32,2021-06-26,2021-06-26,19,1
+401,Bad Vibes Forever,XXXTENTACION,32,2020-01-04,2020-01-04,19,1
+402,The Allegory,"Royce da 5'9""",32,2020-03-07,2020-03-07,19,1
+403,YS Collection Vol. 1,Logic,32,2021-07-10,2021-07-10,19,1
+404,JESUS IS KING (Soundtrack),Kanye West,40,2020-01-04,2020-01-18,19,3
+405,State Of Emergency,Money Man,33,2020-04-04,2020-04-04,18,1
+406,Die 4 Respect,DDG X OG Parker,34,2021-04-03,2021-04-03,17,1
+407,Texas Sun (EP),Khruangbin & Leon Bridges,34,2020-02-22,2020-02-22,17,1
+408,Beastie Boys Music,Beastie Boys,34,2020-11-07,2020-11-07,17,1
+409,Public Housing,Real Boston Richey,34,2022-09-10,2022-09-10,17,1
+410,Loyalty Over Royalty,CJ,34,2021-03-06,2021-03-06,17,1
+411,Drip Harder,Lil Baby & Gunna,43,2020-01-11,2020-02-08,17,5
+412,The Life Of Pablo,Kanye West,35,2021-08-21,2021-08-21,16,1
+413,Dance Again ... The Hits,Jennifer Lopez,35,2020-02-15,2020-02-15,16,1
+414,Bad Boys For Life: The Soundtrack,Soundtrack,35,2020-02-01,2020-02-01,16,1
+415,Summertime Shootout 3: Coldest Summer Ever,Fabolous,43,2020-01-04,2020-01-11,16,2
+416,"The Boy Who Flew To The Moon, Vol. 1",Kid Cudi,36,2022-07-23,2022-07-23,15,1
+417,Age/Sex/Location,Ari Lennox,36,2022-09-24,2022-09-24,15,1
+418,Ethereal,$NOT,36,2022-02-26,2022-02-26,15,1
+419,K.I.D.S. (Kickin Incredibly Dope Shit),Mac Miller,37,2020-08-29,2020-08-29,14,1
+420,Pink Friday,Nicki Minaj,37,2022-04-30,2022-04-30,14,1
+421,Fallin',StaySolidRocky,38,2020-08-01,2020-08-08,14,2
+422,"Never Broke Again: The Compilation, Volume One",Various Artists,38,2021-12-04,2021-12-04,13,1
+423,"Rock 'N Soul, Part 1: Greatest Hits",Daryl Hall John Oates,38,2021-11-27,2021-11-27,13,1
+424,MONTANA,French Montana,41,2020-01-11,2020-01-18,13,2
+425,For Certain,BIA,39,2021-07-24,2021-07-24,12,1
+426,Candydrip,Lucky Daye,39,2022-03-26,2022-03-26,12,1
+427,Take Time,Giveon,39,2021-02-27,2021-02-27,12,1
+428,Pray For Paris,Westside Gunn,39,2020-05-02,2020-05-02,12,1
+429,Find The Beat,Blueface,39,2020-03-28,2020-03-28,12,1
+430,Restoration,Lecrae,39,2020-09-05,2020-09-05,12,1
+431,Dangerous,Michael Jackson,40,2021-11-27,2021-11-27,11,1
+432,Mariah Carey's Magical Christmas Special (Soundtrack),Mariah Carey,40,2020-12-19,2020-12-19,11,1
+433,Flower Boy,"Tyler, The Creator",41,2022-07-02,2022-07-02,10,1
+434,What You Expect (EP),Big Sean & Hit-Boy,41,2021-11-13,2021-11-13,10,1
+435,ASIN9NE,Tech N9ne,41,2021-10-23,2021-10-23,10,1
+436,Blinded By Death,Hotboii,42,2022-08-13,2022-08-13,9,1
+437,Madvillainy,Madvillain,42,2021-01-16,2021-01-16,9,1
+438,24K Magic,Bruno Mars,42,2022-02-26,2022-02-26,9,1
+439,Confessions,Usher,42,2022-07-16,2022-07-16,9,1
+440,Die Lit,Playboi Carti,46,2022-01-15,2022-01-22,9,2
+441,Big Money,Money Man,43,2022-07-09,2022-07-09,8,1
+442,Playboy,Tory Lanez,43,2021-03-20,2021-03-20,8,1
+443,Still Bill,Bill Withers,43,2020-04-18,2020-04-18,8,1
+444,Kommunity Service,YG & Mozzy,44,2021-06-05,2021-06-05,7,1
+445,Love Scars: The 5 Stages Of Emotions (EP),Yung Bleu,44,2020-10-31,2020-10-31,7,1
+446,GINGER,BrockHampton,45,2020-01-25,2020-02-01,7,2
+447,FWA,Lil Wayne,45,2020-07-18,2020-07-18,6,1
+448,More Life,Drake,45,2022-07-02,2022-07-02,6,1
+449,Sick!,Earl Sweatshirt,45,2022-01-29,2022-01-29,6,1
+450,The Course Of The Inevitable,Lloyd Banks,45,2021-06-19,2021-06-19,6,1
+451,When It's All Said And Done (EP),Giveon,45,2020-10-17,2020-10-17,6,1
+452,Just As I Am,Bill Withers,46,2020-04-18,2020-04-18,5,1
+453,"Ho, Why Is You Here ?",Flo Milli,46,2020-08-08,2020-08-08,5,1
+454,No Stylist,Destroy Lonely,47,2022-08-27,2022-08-27,4,1
+455,DR. EV4L,Young Nudy,48,2021-05-29,2021-05-29,3,1
+456,Because The Internet,Childish Gambino,48,2022-02-12,2022-02-12,3,1
+457,Greatest Hits,"Earth, Wind & Fire",49,2021-10-02,2021-10-02,2,1
+458,Trendsetter,Coi Leray,49,2022-04-23,2022-04-23,2,1
+459,"""Awaken, My Love!""",Childish Gambino,50,2022-02-12,2022-02-12,1,1
+460,A Donny Hathaway Collection,Donny Hathaway,50,2021-01-02,2021-01-02,1,1
+461,DUMMY BOY,6ix9ine,50,2020-05-23,2020-05-23,1,1
+462,X,Ken Carson,50,2022-07-23,2022-07-23,1,1
+463,Murder Made Me,Fredo Bang,50,2021-08-21,2021-08-21,1,1

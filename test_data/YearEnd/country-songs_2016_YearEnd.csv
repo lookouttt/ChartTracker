@@ -1,0 +1,238 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,H.O.L.Y.,Florida Georgia Line,1,2016-05-14,2016-11-12,3593,27
+2,Die A Happy Man,Thomas Rhett,1,2016-01-02,2016-05-21,2808,21
+3,Humble And Kind,Tim McGraw,1,2016-02-06,2016-07-30,2264,26
+4,Setting The World On Fire,Kenny Chesney Featuring P!nk,1,2016-08-13,2016-12-31,2203,21
+5,Somewhere On A Beach,Dierks Bentley,1,2016-02-06,2016-07-30,2168,26
+6,You Should Be Here,Cole Swindell,1,2016-01-02,2016-06-25,2138,26
+7,Middle Of A Memory,Cole Swindell,3,2016-05-28,2016-12-24,2005,31
+8,Blue Ain't Your Color,Keith Urban,1,2016-08-27,2016-12-31,1925,19
+9,Head Over Boots,Jon Pardi,4,2016-01-02,2016-09-03,1867,36
+10,Peter Pan,Kelsea Ballerini,1,2016-04-09,2016-10-08,1799,27
+11,Came Here To Forget,Blake Shelton,2,2016-03-26,2016-08-27,1776,23
+12,May We All,Florida Georgia Line Featuring Tim McGraw,2,2016-08-06,2016-12-31,1749,22
+13,From The Ground Up,Dan + Shay,3,2016-02-27,2016-09-17,1697,30
+14,Different For Girls,Dierks Bentley Featuring Elle King,3,2016-06-18,2016-12-10,1612,26
+15,"Huntin', Fishin' & Lovin' Every Day",Luke Bryan,2,2016-04-02,2016-09-10,1595,24
+16,Church Bells,Carrie Underwood,2,2016-04-23,2016-10-08,1573,25
+17,My Church,Maren Morris,5,2016-01-30,2016-07-23,1573,26
+18,Break Up In A Small Town,Sam Hunt,2,2016-01-02,2016-03-19,1558,12
+19,Home Alone Tonight,Luke Bryan Featuring Karen Fairchild,3,2016-01-02,2016-04-30,1516,18
+20,Record Year,Eric Church,2,2016-03-05,2016-09-03,1494,27
+21,T-Shirt,Thomas Rhett,3,2016-02-20,2016-07-23,1476,23
+22,Lights Come On,Jason Aldean,3,2016-04-16,2016-10-08,1461,26
+23,Sleep Without You,Brett Young,3,2016-05-14,2016-12-24,1447,33
+24,Drunk On Your Love,Brett Eldredge,2,2016-01-02,2016-05-28,1439,22
+25,Think Of You,Chris Young Duet With Cassadee Pope,2,2016-01-23,2016-07-09,1375,25
+26,Make You Miss Me,Sam Hunt,2,2016-05-28,2016-10-01,1364,19
+27,Snapback,Old Dominion,4,2016-01-02,2016-06-18,1359,25
+28,Heartbeat,Carrie Underwood,2,2016-01-02,2016-05-07,1290,19
+29,American Country Love Song,Jake Owen,6,2016-03-26,2016-09-24,1228,27
+30,It Don't Hurt Like It Used To,Billy Currington,3,2016-04-16,2016-11-05,1202,29
+31,Song For Another Time,Old Dominion,4,2016-07-02,2016-12-31,1178,27
+32,Wanna Be That Song,Brett Eldredge,3,2016-06-25,2016-12-31,1171,28
+33,Vice,Miranda Lambert,2,2016-08-06,2016-12-17,1125,20
+34,You Look Like I Need A Drink,Justin Moore,12,2016-01-09,2016-10-08,1089,38
+35,Move,Luke Bryan,5,2016-08-06,2016-12-24,1084,21
+36,Wasted Time,Keith Urban,4,2016-04-16,2016-09-17,1068,23
+37,A Little More Summertime,Jason Aldean,5,2016-08-06,2016-12-31,1067,22
+38,Fix,Chris Lane,10,2016-01-09,2016-08-20,1048,33
+39,I Met A Girl,William Michael Morgan,8,2016-01-09,2016-10-22,1040,41
+40,I Know Somebody,LOCASH,4,2016-06-18,2016-12-10,953,26
+41,Confession,Florida Georgia Line,7,2016-01-02,2016-05-14,923,20
+42,Backroad Song,Granger Smith,4,2016-01-02,2016-04-02,897,14
+43,Parachute,Chris Stapleton,17,2016-02-06,2016-12-31,852,35
+44,Rock On,Tucker Beathard,9,2016-04-23,2016-10-22,830,27
+45,Beautiful Drug,Zac Brown Band,5,2016-01-02,2016-04-02,823,14
+46,Mind Reader,Dustin Lynch,8,2016-01-02,2016-06-11,805,24
+47,Night's On Fire,David Nail,17,2016-01-02,2016-07-30,800,31
+48,Stay A Little Longer,Brothers Osborne,4,2016-01-02,2016-02-20,782,8
+49,80s Mercedes,Maren Morris,14,2016-06-25,2016-12-31,767,28
+50,I Like The Sound Of That,Rascal Flatts,8,2016-01-02,2016-05-07,750,19
+51,She's Got A Way With Words,Blake Shelton,8,2016-06-11,2016-10-22,717,20
+52,It All Started With A Beer,Frankie Ballard,22,2016-01-02,2016-07-23,699,30
+53,Dirty Laundry,Carrie Underwood,6,2016-09-24,2016-12-31,667,15
+54,Break On Me.,Keith Urban,6,2016-01-02,2016-04-02,659,14
+55,21 Summer,Brothers Osborne,25,2016-04-16,2016-11-26,641,33
+56,How I'll Always Be,Tim McGraw,10,2016-07-30,2016-12-31,634,23
+57,Nobody To Blame,Chris Stapleton,13,2016-01-02,2016-05-07,634,19
+58,Better Man,Little Big Town,5,2016-11-05,2016-12-31,629,9
+59,Noise,Kenny Chesney,14,2016-04-09,2016-08-20,613,20
+60,Burning House,Cam,2,2016-01-02,2016-01-30,596,5
+61,Running For You,Kip Moore,25,2016-02-13,2016-08-27,593,29
+62,Forever Country,"Artists Of Then, Now & Forever",1,2016-10-08,2016-12-31,574,13
+63,Livin' The Dream,Drake White,20,2016-05-07,2016-11-26,564,30
+64,Castaway,Zac Brown Band,17,2016-05-14,2016-10-01,548,21
+65,That Don't Sound Like You,Lee Brice,13,2016-01-02,2016-04-30,531,18
+66,Lovin' Lately,Big & Rich Featuring Tim McGraw,19,2016-03-12,2016-10-22,528,32
+67,Little Bit Of You,Chase Bryant,16,2016-01-02,2016-04-30,522,18
+68,Seein' Red,Dustin Lynch,15,2016-07-16,2016-12-31,488,25
+69,Unlove You,Jennifer Nettles,24,2016-02-20,2016-08-27,487,28
+70,Dibs,Kelsea Ballerini,7,2016-01-02,2016-03-05,471,10
+71,We Went,Randy Houser,7,2016-01-02,2016-03-19,463,12
+72,Sober Saturday Night,Chris Young Featuring Vince Gill,20,2016-07-02,2016-12-31,459,27
+73,Gonna Know We Were Here,Jason Aldean,5,2016-01-02,2016-02-06,457,6
+74,I Got The Boy,Jana Kramer,5,2016-01-02,2016-02-06,449,6
+75,If The Boot Fits,Granger Smith,19,2016-08-06,2016-12-31,449,22
+76,I Love This Life,LOCASH,5,2016-01-02,2016-02-06,448,6
+77,Star Of The Show,Thomas Rhett,9,2016-10-22,2016-12-31,441,11
+78,I'm Comin' Over,Chris Young,5,2016-01-02,2016-01-30,431,5
+79,Vacation,Thomas Rhett,19,2016-05-28,2016-10-08,420,20
+80,Stone Cold Sober,Brantley Gilbert,23,2016-01-02,2016-04-30,416,18
+81,Make You Mine,High Valley,26,2016-07-16,2016-12-31,410,25
+82,Kill A Word,Eric Church Featuring Rhiannon Giddens,14,2016-10-01,2016-12-31,398,14
+83,Tennessee Whiskey,Chris Stapleton,20,2016-01-02,2016-04-02,383,14
+84,A Guy With A Girl,Blake Shelton,8,2016-10-22,2016-12-31,368,11
+85,Road Less Traveled,Lauren Alaina,23,2016-09-17,2016-12-31,360,16
+86,Without A Fight,Brad Paisley Featuring Demi Lovato,23,2016-05-28,2016-09-24,360,18
+87,Dirt On My Boots,Jon Pardi,13,2016-10-08,2016-12-31,345,13
+88,The Weekend,Brantley Gilbert,23,2016-08-13,2016-12-31,343,21
+89,Mr. Misunderstood,Eric Church,15,2016-01-02,2016-04-02,342,14
+90,Better In Boots,Tyler Farr,26,2016-01-02,2016-04-16,325,16
+91,Thy Will,Hillary Scott & The Scott Family,27,2016-05-14,2016-10-01,310,21
+92,Hole In A Bottle,Canaan Smith,30,2016-01-09,2016-06-11,299,23
+93,Today,Brad Paisley,12,2016-10-22,2016-12-31,292,11
+94,Fire Away,Chris Stapleton,25,2016-03-19,2016-07-09,285,17
+95,Shut Up And Fish,Maddie & Tae,30,2016-01-02,2016-04-23,272,17
+96,My Girl,Dylan Scott,31,2016-07-30,2016-12-31,263,19
+97,Real Men Love Jesus,Michael Ray,28,2016-01-02,2016-04-02,261,14
+98,Gonna,Blake Shelton,8,2016-01-02,2016-02-06,257,6
+99,Country Nation,Brad Paisley,18,2016-01-02,2016-02-27,257,9
+100,Love Triangle,RaeLynn,31,2016-09-10,2016-12-31,231,17
+101,Used To Love You Sober,Kane Brown,29,2016-01-09,2016-04-23,227,16
+102,Hometown Girl,Josh Turner,30,2016-09-24,2016-12-31,223,15
+103,Mayday,Cam,32,2016-03-19,2016-07-16,202,18
+104,Hurricane,Luke Combs,32,2016-09-24,2016-12-31,200,15
+105,Holdin' Her,Chris Janson,33,2016-09-10,2016-12-31,199,16
+106,Think A Little Less,Michael Ray,25,2016-10-15,2016-12-31,193,12
+107,Strip It Down,Luke Bryan,10,2016-01-02,2016-01-30,188,5
+108,If I Told You,Darius Rucker,25,2016-07-16,2016-12-31,185,18
+109,There's A Girl,Trent Harmon,33,2016-09-10,2016-12-31,185,16
+110,Yeah Boy,Kelsea Ballerini,28,2016-10-29,2016-12-31,177,10
+111,Top Of The World,Tim McGraw,12,2016-01-02,2016-01-30,174,5
+112,Crazy Over Me,Dylan Scott,36,2016-01-02,2016-04-02,157,14
+113,High Class,Eric Paslay,32,2016-02-13,2016-05-21,133,15
+114,Whisper,Chase Rice,17,2016-02-27,2016-05-14,129,12
+115,Smoke Break,Carrie Underwood,16,2016-01-02,2016-01-23,128,4
+116,Darlin' Don't Go,Sundance Head,4,2016-12-31,2016-12-31,117,1
+117,Burning House,Emily Ann Roberts,4,2016-01-02,2016-01-02,117,1
+118,In Case You Didn't Know,Brett Young,39,2016-08-06,2016-11-12,117,15
+119,The Fighter,Keith Urban Featuring Carrie Underwood,11,2016-05-28,2016-07-09,111,7
+120,Traveller,Chris Stapleton,35,2016-01-02,2016-03-26,105,13
+121,Go Ahead And Break My Heart,Blake Shelton Featuring Gwen Stefani,13,2016-05-28,2016-06-18,97,4
+122,Black,Dierks Bentley,29,2016-06-18,2016-12-31,89,6
+123,Jolene,Pentatonix Featuring Dolly Parton,18,2016-10-08,2016-12-31,88,8
+124,"Baby, Let's Lay Down And Dance",Garth Brooks,36,2016-10-29,2016-12-31,84,10
+125,Outskirts Of Heaven,Craig Campbell,41,2016-10-15,2016-12-31,82,12
+126,(This Ain't No) Drunk Dial,A Thousand Horses,30,2016-01-02,2016-01-23,81,4
+127,Next Boyfriend,Lauren Alaina,43,2016-01-09,2016-05-14,70,19
+128,A Little More Love,Jerrod Niemann & Lee Brice,41,2016-05-21,2016-12-17,62,11
+129,Comeback Kid,The Band Perry,42,2016-08-20,2016-11-05,50,10
+130,Whiskey On My Breath,Love And Theft,31,2016-02-13,2016-03-05,49,4
+131,The Driver,Charles Kelley Featuring Dierks Bentley & Eric Paslay,37,2016-01-23,2016-03-19,48,9
+132,Yup,Easton Corbin,44,2016-01-02,2016-03-05,48,10
+133,I'm Sorry,Adam Wakefield,18,2016-06-04,2016-06-11,47,2
+134,Thunder In The Rain,Kane Brown,30,2016-08-27,2016-12-31,45,5
+135,"Baby, It's Cold Outside",Brett Eldredge Featuring Meghan Trainor,31,2016-12-17,2016-12-31,45,3
+136,Tuxedo,Clare Dunn,44,2016-04-09,2016-07-30,45,11
+137,We Should Be Friends,Miranda Lambert,39,2016-12-03,2016-12-31,44,5
+138,When I'm Gone,Joey + Rory,26,2016-01-30,2016-03-26,42,2
+139,Falling,Trent Harmon,27,2016-04-23,2016-04-30,42,2
+140,Saltwater Gospel (Fins Up Version),Eli Young Band & Jimmy Buffett,43,2016-07-30,2016-10-29,42,12
+141,Me And Jesus,Sundance Head,21,2016-12-17,2016-12-31,41,2
+142,How Not To,Dan + Shay,44,2016-10-29,2016-12-31,41,10
+143,At Last,Sundance Head,11,2016-12-31,2016-12-31,40,1
+144,"RED, WHITE & YOU",Steven Tyler,29,2016-02-13,2016-02-27,38,3
+145,Lonesome Broken And Blue,Adam Wakefield,14,2016-06-11,2016-06-11,37,1
+146,"God, Your Mama, And Me",Florida Georgia Line Featuring Backstreet Boys,28,2016-09-10,2016-09-17,37,2
+147,Wasn't That Drunk,Josh Abbott Band With Carly Pearce,46,2016-05-14,2016-09-10,35,14
+148,Islands In The Stream,Emily Ann Roberts & Blake Shelton,19,2016-01-02,2016-01-02,32,1
+149,Ain't No Stopping Us Now,Kane Brown,19,2016-07-09,2016-07-09,32,1
+150,Cold Beer Conversation,George Strait,43,2016-01-02,2016-02-20,32,8
+151,Pick Any Small Town,Josh Gallagher,21,2016-12-31,2016-12-31,30,1
+152,Everybody We Know Does,Chase Rice,26,2016-07-16,2016-12-03,29,4
+153,There Goes My Everything,Kane Brown,27,2016-04-09,2016-04-16,29,2
+154,Smooth,Florida Georgia Line,28,2016-07-30,2016-08-06,28,2
+155,Treat Her Right,Sundance Head & Blake Shelton,24,2016-12-31,2016-12-31,27,1
+156,Broke Down,Cole Swindell,28,2016-05-21,2016-05-28,27,2
+157,Southern Boy,Jordan Rager With Jason Aldean,41,2016-05-07,2016-07-23,27,8
+158,Remember Boys,Cole Swindell,27,2016-05-14,2016-05-14,24,1
+159,Love Can Build A Bridge,Sundance Head,27,2016-12-24,2016-12-24,24,1
+160,When I Call Your Name,Adam Wakefield,27,2016-06-11,2016-06-11,24,1
+161,Anyway,Billy Gilman,29,2016-12-17,2016-12-17,22,1
+162,I Told You So,Mary Sarah,29,2016-06-04,2016-06-04,22,1
+163,Run Away With You,Big & Rich,39,2016-01-02,2016-01-09,22,2
+164,Long Live Tonight,LANCO,46,2016-10-15,2016-11-26,22,6
+165,Die A Happy Man,Barrett Baber,30,2016-01-02,2016-01-02,21,1
+166,Flatliner,Cole Swindell,36,2016-04-30,2016-05-07,21,2
+167,Whiskey And You,Chris Stapleton,44,2016-11-19,2016-12-17,21,5
+168,Soulshine,Adam Wakefield,31,2016-05-07,2016-05-07,20,1
+169,Danny's Song,Josh Gallagher,31,2016-12-24,2016-12-24,20,1
+170,No One,Sundance Head,32,2016-12-10,2016-12-10,19,1
+171,Here's To The Farmer,Luke Bryan,33,2016-10-01,2016-10-01,18,1
+172,Fast,Luke Bryan,37,2016-12-24,2016-12-31,18,2
+173,Pick Up,Dierks Bentley,34,2016-05-21,2016-05-21,17,1
+174,Love Has No Pride,Adam Wakefield,34,2016-05-28,2016-05-28,17,1
+175,Blue Christmas,Emily Ann Roberts,34,2016-01-02,2016-01-02,17,1
+176,Lights,Adam Wakefield,34,2016-05-14,2016-05-14,17,1
+177,Wide Open,Kane Brown,34,2016-04-09,2016-04-09,17,1
+178,What Ifs,Kane Brown Featuring Lauren Alaina,37,2016-12-24,2016-12-31,17,2
+179,I Got A Woman,Adam Wakefield,35,2016-05-21,2016-05-21,16,1
+180,My Church,Mary Sarah,35,2016-05-28,2016-05-28,16,1
+181,The Way A Night Should Feel,Jason Aldean,35,2016-09-17,2016-09-17,16,1
+182,What The Hell Did I Say,Dierks Bentley,35,2016-05-07,2016-05-07,16,1
+183,Straight Outta Cold Beer,Blake Shelton,36,2016-06-04,2016-06-04,15,1
+184,Stand By Your Man,Mary Sarah,36,2016-05-21,2016-05-21,15,1
+185,Excuses,Kane Brown,36,2016-04-09,2016-04-09,15,1
+186,Any Ol' Barstool,Jason Aldean,39,2016-12-24,2016-12-31,15,2
+187,Damn Drunk,Ronnie Dunn With Kix Brooks,45,2016-11-26,2016-12-17,15,4
+188,Just Like Them Horses,Reba,37,2016-02-13,2016-02-13,14,1
+189,Dig Your Roots,Florida Georgia Line,38,2016-09-17,2016-09-17,13,1
+190,Hold On,The Scott Brothers,38,2016-03-05,2016-03-05,13,1
+191,Song Number 7,Randy Houser,46,2016-04-02,2016-05-14,13,4
+192,The Only One Who Gets Me,Charles Kelley,39,2016-06-25,2016-06-25,12,1
+193,Ain't Always Pretty,Logan Mize,39,2016-10-22,2016-10-22,12,1
+194,Infinite Love,Todd Chrisley & Sara Evans,39,2016-07-02,2016-07-02,12,1
+195,Rhinestone Cowboy,Barrett Baber & Blake Shelton,40,2016-01-02,2016-01-02,11,1
+196,This Plane Don't Go There,Jason Aldean,40,2016-09-24,2016-09-24,11,1
+197,Sweet By And By,Miranda Lambert,40,2016-02-06,2016-02-06,11,1
+198,I'll Be The Moon,Dierks Bentley Featuring Maren Morris,40,2016-04-23,2016-04-23,11,1
+199,Whiskey And You,Josh Halverson,41,2016-11-19,2016-11-19,10,1
+200,Blue Bayou,Alisan Porter,41,2016-03-19,2016-03-19,10,1
+201,Stars,Cole Swindell,41,2016-05-07,2016-05-07,10,1
+202,Love Me In A Field,Luke Bryan,41,2016-10-08,2016-10-08,10,1
+203,Grandma's Garden,Zac Brown,41,2016-03-26,2016-03-26,10,1
+204,Power Of Positive Drinkin',Chris Janson,46,2016-03-12,2016-04-09,10,3
+205,For Her,Chris Lane,47,2016-12-10,2016-12-31,10,4
+206,Jack & Diane,Josh Gallagher,42,2016-12-31,2016-12-31,9,1
+207,How Great Thou Art,Home Free,42,2016-11-19,2016-11-19,9,1
+208,Yesterday's Song,Hunter Hayes,43,2016-10-15,2016-10-15,8,1
+209,Seven Spanish Angels,Adam Wakefield,43,2016-04-30,2016-04-30,8,1
+210,Tin Man,Miranda Lambert,44,2016-12-10,2016-12-10,7,1
+211,Silent Night,Barrett Baber,44,2016-01-02,2016-01-02,7,1
+212,Southern Land,Taylor Ray Holbrook & Ryan Upchurch,44,2016-06-04,2016-06-04,7,1
+213,Bet You Still Think About Me,Blake Shelton,44,2016-06-11,2016-06-11,7,1
+214,Trip Around The Sun,Kenny Chesney,44,2016-11-05,2016-11-05,7,1
+215,Grow Old,Florida Georgia Line,44,2016-09-17,2016-09-17,7,1
+216,Already Ready,Dan + Shay,44,2016-05-21,2016-05-21,7,1
+217,Are You With Me,Easton Corbin,46,2016-07-30,2016-10-29,7,3
+218,Why Baby Why,Mickey Guyton,45,2016-01-30,2016-01-30,6,1
+219,With You I Am,Cody Johnson,46,2016-12-17,2016-12-24,6,2
+220,Circles,Jana Kramer,47,2016-12-10,2016-12-10,4,1
+221,You've Got My Number,Cole Swindell,47,2016-11-12,2016-11-12,4,1
+222,God Bless The USA,Home Free,47,2016-12-03,2016-12-03,4,1
+223,If He Ain't Gonna Love You,Jake Owen,47,2016-08-06,2016-08-06,4,1
+224,These Hands,Taylor Ray Holbrook,48,2016-11-19,2016-11-19,3,1
+225,Hometown,Kane Brown,48,2016-11-12,2016-11-12,3,1
+226,In Bloom,Sturgill Simpson,48,2016-05-07,2016-05-07,3,1
+227,Roots,Parmalee,48,2016-05-21,2016-05-21,3,1
+228,Merica,Granger Smith Featuring Earl Dibbles Jr.,48,2016-03-19,2016-03-19,3,1
+229,Island,Florida Georgia Line,48,2016-09-03,2016-09-03,3,1
+230,Raised On It,Sam Hunt,49,2016-03-12,2016-04-09,3,2
+231,Reason To Love L.A.,Jason Aldean,49,2016-08-20,2016-08-20,2,1
+232,Outta Style,Aaron Watson,49,2016-12-03,2016-12-03,2,1
+233,Pain Killer,Little Big Town,49,2016-01-16,2016-01-16,2,1
+234,"Good Girl, Bad Boy",Florida Georgia Line,50,2016-09-17,2016-09-17,1,1
+235,In Case You Don't Remember,Jason Aldean,50,2016-09-03,2016-09-03,1,1
+236,Boy & A Girl Thing,Mo Pitney,50,2016-02-13,2016-02-13,1,1
+237,Savior's Shadow,Blake Shelton,50,2016-04-30,2016-04-30,1,1

@@ -1,0 +1,788 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Levitating,Dua Lipa,2,2021-03-27,2021-12-04,5394,37
+2,Kiss Me More,Doja Cat Featuring SZA,3,2021-04-24,2021-12-25,4757,36
+3,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),1,2021-03-20,2021-12-04,4733,38
+4,Good 4 U,Olivia Rodrigo,1,2021-05-29,2021-12-25,4718,31
+5,Save Your Tears,The Weeknd & Ariana Grande,1,2021-03-27,2021-12-18,4645,39
+6,Stay,The Kid LAROI & Justin Bieber,1,2021-07-24,2021-12-25,4268,23
+7,Blinding Lights,The Weeknd,3,2021-01-09,2021-09-04,4237,35
+8,Montero (Call Me By Your Name),Lil Nas X,1,2021-04-10,2021-11-27,3885,34
+9,Heat Waves,Glass Animals,7,2021-01-16,2021-12-25,3842,48
+10,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,1,2021-04-03,2021-10-23,3755,30
+11,Drivers License,Olivia Rodrigo,1,2021-01-23,2021-07-31,3720,28
+12,Bad Habits,Ed Sheeran,2,2021-07-10,2021-12-25,3714,25
+13,Mood,24kGoldn Featuring iann dior,1,2021-01-02,2021-08-14,3669,33
+14,Industry Baby,Lil Nas X & Jack Harlow,1,2021-08-07,2021-12-25,3288,21
+15,Butter,BTS,1,2021-06-05,2021-10-16,3053,20
+16,Fancy Like,Walker Hayes,3,2021-07-03,2021-12-25,2890,26
+17,Deja Vu,Olivia Rodrigo,3,2021-04-17,2021-10-30,2871,29
+18,Without You,The Kid LAROI,8,2021-01-02,2021-09-04,2744,36
+19,Astronaut In The Ocean,Masked Wolf,6,2021-02-27,2021-09-04,2589,28
+20,Up,Cardi B,1,2021-02-20,2021-07-03,2531,20
+21,Forever After All,Luke Combs,12,2021-01-02,2021-09-11,2463,37
+22,My Ex's Best Friend,Machine Gun Kelly X blackbear,20,2021-01-02,2021-08-21,2405,34
+23,Go Crazy,Chris Brown & Young Thug,3,2021-01-02,2021-05-15,2299,20
+24,Best Friend,Saweetie Featuring Doja Cat,14,2021-01-23,2021-08-14,2299,30
+25,Positions,Ariana Grande,2,2021-01-02,2021-05-22,2228,21
+26,Need To Know,Doja Cat,8,2021-06-26,2021-12-25,2221,27
+27,What You Know Bout Love,Pop Smoke,9,2021-01-02,2021-07-03,2213,27
+28,Heartbreak Anniversary,Giveon,16,2021-02-27,2021-09-11,2201,29
+29,Rapstar,Polo G,1,2021-04-24,2021-09-04,2104,20
+30,You Right,Doja Cat & The Weeknd,11,2021-07-10,2021-12-25,2068,25
+31,Way 2 Sexy,Drake Featuring Future & Young Thug,1,2021-09-18,2021-12-25,1930,15
+32,Calling My Phone,Lil Tjay Featuring 6LACK,3,2021-02-27,2021-07-24,1919,22
+33,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,13,2021-03-20,2021-09-04,1865,25
+34,Traitor,Olivia Rodrigo,9,2021-06-05,2021-11-20,1828,25
+35,Easy On Me,Adele,1,2021-10-23,2021-12-25,1800,10
+36,Essence,Wizkid Featuring Justin Bieber & Tems,9,2021-07-17,2021-12-25,1774,24
+37,Wockesha,Moneybagg Yo,20,2021-05-08,2021-11-13,1762,28
+38,Beggin',Maneskin,13,2021-07-10,2021-12-18,1700,24
+39,Therefore I Am,Billie Eilish,12,2021-01-02,2021-05-22,1699,21
+40,On Me,Lil Baby,15,2021-01-02,2021-06-12,1672,24
+41,Back In Blood,Pooh Shiesty Featuring Lil Durk,13,2021-01-16,2021-06-19,1632,23
+42,34+35,Ariana Grande,2,2021-01-02,2021-03-20,1624,12
+43,Dakiti,Bad Bunny & Jhay Cortez,16,2021-01-02,2021-05-22,1598,21
+44,Shivers,Ed Sheeran,5,2021-09-25,2021-12-25,1564,14
+45,Telepatia,Kali Uchis,25,2021-03-06,2021-08-21,1534,25
+46,Wants And Needs,Drake Featuring Lil Baby,2,2021-03-20,2021-08-07,1523,21
+47,You Broke Me First.,Tate McRae,17,2021-01-02,2021-05-22,1522,21
+48,Good Days,SZA,9,2021-01-09,2021-05-22,1508,20
+49,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,11,2021-01-02,2021-05-08,1487,19
+50,Chasing After You,Ryan Hurd With Maren Morris,23,2021-05-01,2021-11-27,1443,29
+51,Levitating,Dua Lipa Featuring DaBaby,5,2021-01-02,2021-03-20,1436,12
+52,Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,20,2021-05-15,2021-09-25,1410,20
+53,You're Mines Still,Yung Bleu Featuring Drake,18,2021-01-02,2021-05-22,1394,21
+54,If I Didn't Love You,Jason Aldean & Carrie Underwood,15,2021-08-07,2021-12-18,1391,20
+55,Leave Before You Love Me,Marshmello X Jonas Brothers,19,2021-06-05,2021-10-30,1391,22
+56,Knife Talk,Drake Featuring 21 Savage & Project Pat,4,2021-09-18,2021-12-25,1388,15
+57,Happier Than Ever,Billie Eilish,11,2021-08-14,2021-12-25,1387,20
+58,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,12,2021-03-06,2021-07-03,1351,18
+59,Holy,Justin Bieber Featuring Chance The Rapper,4,2021-01-02,2021-03-20,1275,12
+60,The Good Ones,Gabby Barrett,19,2021-01-09,2021-06-12,1269,23
+61,Late At Night,Roddy Ricch,20,2021-06-19,2021-10-30,1255,20
+62,Pepas,Farruko,25,2021-08-07,2021-12-18,1214,20
+63,Streets,Doja Cat,16,2021-01-23,2021-06-05,1210,20
+64,Whoopty,CJ,10,2021-01-02,2021-04-17,1200,16
+65,Glad You Exist,Dan + Shay,21,2021-02-20,2021-09-04,1198,29
+66,Thot Shit,Megan Thee Stallion,16,2021-06-26,2021-11-06,1188,20
+67,Girls Want Girls,Drake Featuring Lil Baby,2,2021-09-18,2021-12-25,1186,15
+68,Famous Friends,Chris Young + Kane Brown,21,2021-04-03,2021-09-04,1175,22
+69,Willow,Taylor Swift,22,2021-01-02,2021-05-08,1174,19
+70,Save Your Tears,The Weeknd,4,2021-01-09,2021-03-20,1168,11
+71,Anyone,Justin Bieber,6,2021-01-16,2021-05-08,1128,17
+72,Lil Bit,Nelly & Florida Georgia Line,23,2021-03-20,2021-09-04,1126,23
+73,Starting Over,Chris Stapleton,26,2021-01-02,2021-05-01,1106,18
+74,What's Next,Drake,1,2021-03-20,2021-07-17,1095,16
+75,Take My Breath,The Weeknd,6,2021-08-21,2021-12-04,1084,16
+76,Time Today,Moneybagg Yo,31,2021-02-20,2021-07-03,1072,20
+77,Track Star,Mooski,31,2021-03-06,2021-07-17,1043,20
+78,All I Want For Christmas Is You,Mariah Carey,1,2021-01-02,2021-12-25,1033,7
+79,Better Together,Luke Combs,15,2021-01-02,2021-04-03,1031,14
+80,Cold Heart (PNAU Remix),Elton John & Dua Lipa,11,2021-08-28,2021-12-25,1018,15
+81,Dynamite,BTS,5,2021-01-02,2021-04-10,1015,15
+82,What's Your Country Song,Thomas Rhett,29,2021-01-09,2021-05-22,1000,20
+83,Cry Baby,Megan Thee Stallion Featuring DaBaby,28,2021-01-02,2021-05-01,978,18
+84,Bang!,AJR,8,2021-01-02,2021-03-13,971,11
+85,Body,Megan Thee Stallion,16,2021-01-02,2021-04-17,963,16
+86,I Hope,Gabby Barrett Featuring Charlie Puth,8,2021-01-02,2021-03-13,960,11
+87,No More Parties,Coi Leray Featuring Lil Durk,26,2021-03-06,2021-07-03,950,18
+88,Wild Side,Normani Featuring Cardi B,14,2021-07-31,2021-12-11,946,20
+89,My Universe,Coldplay x BTS,1,2021-10-09,2021-12-25,932,12
+90,Yonaguni,Bad Bunny,10,2021-06-19,2021-10-30,916,20
+91,Just The Way,Parmalee x Blanco Brown,31,2021-01-09,2021-05-22,914,20
+92,Laugh Now Cry Later,Drake Featuring Lil Durk,7,2021-01-02,2021-03-13,913,11
+93,We're Good,Dua Lipa,31,2021-02-27,2021-07-03,908,18
+94,Buy Dirt,Jordan Davis Featuring Luke Bryan,30,2021-08-21,2021-12-25,904,19
+95,Rockin' Around The Christmas Tree,Brenda Lee,2,2021-01-02,2021-12-25,899,6
+96,Thats What I Want,Lil Nas X,10,2021-10-02,2021-12-25,891,13
+97,Arcade,Duncan Laurence,30,2021-04-17,2021-10-02,887,24
+98,Sand In My Boots,Morgan Wallen,32,2021-01-23,2021-12-25,866,22
+99,A-O-K,Tai Verdes,34,2021-07-17,2021-11-20,865,19
+100,Lonely,Justin Bieber & benny blanco,12,2021-01-02,2021-03-13,855,11
+101,Things A Man Oughta Know,Lainey Wilson,32,2021-05-29,2021-10-09,852,20
+102,Todo de Ti,Rauw Alejandro,32,2021-06-12,2021-10-23,851,20
+103,Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,24,2021-06-12,2021-10-23,847,20
+104,Meet Me At Our Spot,THE ANXIETY: WILLOW & Tyler Cole,21,2021-09-25,2021-12-25,839,14
+105,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,12,2021-01-02,2021-03-13,838,11
+106,Hell Of A View,Eric Church,28,2021-01-16,2021-06-12,838,21
+107,Good Time,Niko Moon,20,2021-01-02,2021-04-03,831,14
+108,You Should Probably Leave,Chris Stapleton,39,2021-07-17,2021-12-25,824,24
+109,Single Saturday Night,Cole Swindell,26,2021-05-15,2021-09-25,823,20
+110,Goosebumps,Travis Scott & HVME,47,2021-01-30,2021-06-12,820,20
+111,Jingle Bell Rock,Bobby Helms,3,2021-01-02,2021-12-25,813,6
+112,Fair Trade,Drake Featuring Travis Scott,3,2021-09-18,2021-12-18,813,14
+113,Cold As You,Luke Combs,32,2021-08-21,2021-12-25,807,19
+114,One Too Many,Keith Urban Duet With P!nk,52,2021-01-16,2021-08-14,807,30
+115,Whole Lotta Money,BIA Featuring Nicki Minaj,16,2021-07-24,2021-11-13,805,17
+116,Damage,H.E.R.,44,2021-01-02,2021-05-08,805,19
+117,Settling Down,Miranda Lambert,41,2021-03-27,2021-08-07,790,20
+118,Cold Beer Calling My Name,Jameson Rodgers Featuring Luke Combs,26,2021-07-17,2021-11-20,785,19
+119,Family Ties,Baby Keem & Kendrick Lamar,18,2021-09-11,2021-12-25,783,16
+120,Put Your Records On,Ritt Momney,30,2021-01-02,2021-04-17,782,16
+121,Love Nwantiti (Ah Ah Ah),CKay,31,2021-10-02,2021-12-25,777,13
+122,Breaking Up Was Easy In The 90's,Sam Hunt,32,2021-03-13,2021-07-24,775,20
+123,A Holly Jolly Christmas,Burl Ives,4,2021-01-02,2021-12-25,771,6
+124,Tombstone,Rod Wave,11,2021-04-03,2021-09-04,753,22
+125,pov,Ariana Grande,27,2021-05-01,2021-07-31,752,14
+126,Gone,Dierks Bentley,26,2021-03-13,2021-08-07,748,20
+127,I Was On A Boat That Day,Old Dominion,37,2021-07-17,2021-11-20,747,19
+128,Down To One,Luke Bryan,36,2021-01-09,2021-05-22,742,20
+129,34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,9,2021-03-27,2021-05-22,741,9
+130,my.life,"J. Cole, 21 Savage & Morray",2,2021-05-29,2021-08-28,732,14
+131,Throat Baby (Go Baby),BRS Kash,24,2021-01-02,2021-03-27,722,13
+132,Made For You,Jake Owen,32,2021-03-06,2021-07-17,716,20
+133,Waves,Luke Bryan,24,2021-07-03,2021-10-23,708,17
+134,Wasted On You,Morgan Wallen,9,2021-01-23,2021-06-12,700,19
+135,Thinking 'Bout You,Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter,30,2021-08-28,2021-12-25,698,18
+136,Blame It On You,Jason Aldean,30,2021-05-08,2021-08-28,690,17
+137,Ghost,Justin Bieber,32,2021-04-03,2021-12-25,688,12
+138,Gyalis,Capella Grey,38,2021-08-14,2021-12-18,688,19
+139,Hurricane,Kanye West,6,2021-09-11,2021-11-20,678,11
+140,Sharing Locations,Meek Mill Featuring Lil Baby & Lil Durk,22,2021-09-11,2021-12-18,676,15
+141,Drunk (And I Don't Wanna Go Home),Elle King & Miranda Lambert,53,2021-03-13,2021-10-16,668,24
+142,Memory I Don't Mess With,Lee Brice,33,2021-08-07,2021-12-18,653,19
+143,Have Mercy,Chloe,28,2021-09-25,2021-12-25,650,14
+144,Ski,Young Thug & Gunna,18,2021-05-01,2021-08-07,642,15
+145,Almost Maybes,Jordan Davis,43,2021-01-16,2021-07-10,637,23
+146,Long Live,Florida Georgia Line,45,2021-01-16,2021-05-08,637,17
+147,Country Again,Thomas Rhett,42,2021-05-15,2021-09-25,634,20
+148,Who Want Smoke??,"Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage",17,2021-10-23,2021-12-25,633,10
+149,Love Again,Dua Lipa,41,2021-07-31,2021-11-13,628,16
+150,It's The Most Wonderful Time Of The Year,Andy Williams,5,2021-01-02,2021-12-25,625,6
+151,Smokin Out The Window,Silk Sonic (Bruno Mars & Anderson .Paak),5,2021-11-20,2021-12-25,617,6
+152,Memory,Kane Brown X blackbear,50,2021-07-24,2021-11-20,609,18
+153,Permission To Dance,BTS,1,2021-07-24,2021-09-04,605,7
+154,Favorite Crime,Olivia Rodrigo,16,2021-06-05,2021-08-28,581,13
+155,Lady,Brett Young,52,2021-01-16,2021-05-29,576,19
+156,2055,Sleepy Hallow,51,2021-07-31,2021-11-20,567,17
+157,Ain't Shit,Doja Cat,24,2021-07-10,2021-11-06,563,14
+158,Before You Go,Lewis Capaldi,24,2021-01-09,2021-02-27,561,8
+159,Kings & Queens,Ava Max,15,2021-01-02,2021-02-20,555,8
+160,All Too Well (Taylor's Version),Taylor Swift,1,2021-11-27,2021-12-25,548,5
+161,Better Days,NEIKED X Mae Muller X Polo G,29,2021-10-30,2021-12-25,547,9
+162,Hold On,Justin Bieber,20,2021-03-20,2021-06-12,545,13
+163,Woman,Doja Cat,62,2021-07-10,2021-12-25,545,20
+164,My Boy,Elvie Shane,28,2021-07-03,2021-11-13,542,19
+165,Happier,Olivia Rodrigo,15,2021-06-05,2021-08-21,536,12
+166,Volvi,Aventura x Bad Bunny,22,2021-08-14,2021-12-11,522,17
+167,Straightenin,Migos,23,2021-05-29,2021-08-28,522,14
+168,Afterglow,Ed Sheeran,29,2021-01-02,2021-03-06,513,10
+169,Rumors,Lizzo Featuring Cardi B,4,2021-08-28,2021-10-09,505,7
+170,One Right Now,Post Malone & The Weeknd,6,2021-11-20,2021-12-25,501,6
+171,Street Runner,Rod Wave,16,2021-03-27,2021-05-29,489,10
+172,Monsters,All Time Low Featuring Demi Lovato & blackbear,55,2021-01-09,2021-05-01,489,17
+173,Hole In The Bottle,Kelsea Ballerini,39,2021-01-02,2021-03-13,488,11
+174,Beers And Sunshine,Darius Rucker,42,2021-01-09,2021-04-03,487,13
+175,Feliz Navidad,Jose Feliciano,6,2021-01-02,2021-12-25,469,5
+176,My Head And My Heart,Ava Max,45,2021-02-20,2021-05-08,468,12
+177,Nobody,Dylan Scott,50,2021-03-13,2021-07-03,464,17
+178,Last Christmas,Wham!,9,2021-01-02,2021-12-25,459,5
+179,Brutal,Olivia Rodrigo,12,2021-06-05,2021-09-11,454,12
+180,Motley Crew,Post Malone,13,2021-07-24,2021-09-18,452,9
+181,Rockstar,DaBaby Featuring Roddy Ricch,26,2021-01-09,2021-02-20,450,7
+182,Somebody Like That,Tenille Arts,50,2021-01-30,2021-05-15,450,16
+183,Same Boat,Zac Brown Band,48,2021-10-02,2021-12-25,443,13
+184,Quicksand,Morray,65,2021-02-20,2021-07-03,439,20
+185,Champagne Poetry,Drake,4,2021-09-18,2021-10-30,438,7
+186,More Than My Hometown,Morgan Wallen,16,2021-01-09,2021-02-13,435,6
+187,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,8,2021-01-02,2021-12-25,429,5
+188,Skate,Silk Sonic (Bruno Mars & Anderson .Paak),14,2021-08-14,2021-11-27,426,9
+189,We Didn't Have Much,Justin Moore,41,2021-07-03,2021-09-25,421,13
+190,Chosen,Blxst & Tyga Featuring Ty Dolla $ign,53,2021-10-09,2021-12-25,419,12
+191,Knowing You,Kenny Chesney,57,2021-08-21,2021-12-25,419,18
+192,Momma's House,Dustin Lynch,59,2021-01-16,2021-05-01,413,15
+193,7 Summers,Morgan Wallen,18,2021-01-02,2021-02-13,407,7
+194,Buss It,Erica Banks,47,2021-01-23,2021-04-17,405,13
+195,The Christmas Song (Merry Christmas To You),Nat King Cole,11,2021-01-02,2021-12-25,397,5
+196,Golden,Harry Styles,57,2021-01-02,2021-03-20,387,12
+197,Somebody's Problem,Morgan Wallen,26,2021-01-16,2021-03-20,385,10
+198,Way Less Sad,AJR,54,2021-05-08,2021-08-14,377,15
+199,Underneath The Tree,Kelly Clarkson,12,2021-01-02,2021-12-25,374,5
+200,Run Rudolph Run,Chuck Berry,10,2021-01-02,2021-12-25,370,5
+201,Tyler Herro,Jack Harlow,61,2021-01-02,2021-03-20,369,12
+202,La Noche de Anoche,Bad Bunny & Rosalia,58,2021-03-06,2021-05-29,363,13
+203,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",34,2021-01-09,2021-02-13,361,6
+204,You,Regard x Troye Sivan x Tate McRae,58,2021-06-26,2021-09-04,360,11
+205,No Friends In The Industry,Drake,11,2021-09-18,2021-11-06,359,8
+206,One Mississippi,Kane Brown,59,2021-09-04,2021-12-25,358,12
+207,Lemon Pepper Freestyle,Drake Featuring Rick Ross,3,2021-03-20,2021-04-17,355,5
+208,Diamonds,Sam Smith,39,2021-01-02,2021-02-13,355,7
+209,Build A Bitch,Bella Poarch,56,2021-05-29,2021-08-14,354,12
+210,Baddest,"Yung Bleu, Chris Brown & 2 Chainz",56,2021-08-14,2021-12-11,354,17
+211,In The Bible,Drake Featuring Lil Durk & Giveon,7,2021-09-18,2021-11-06,347,8
+212,Hats Off,"Lil Baby, Lil Durk & Travis Scott",16,2021-06-19,2021-08-28,346,11
+213,Sleigh Ride,The Ronettes,13,2021-01-02,2021-12-25,342,4
+214,Ball If I Want To,DaBaby,39,2021-07-03,2021-08-28,341,9
+215,pride.is.the.devil,J. Cole & Lil Baby,7,2021-05-29,2021-07-03,332,6
+216,Your Power,Billie Eilish,10,2021-05-15,2021-06-19,328,6
+217,Oh My God,Adele,5,2021-12-04,2021-12-25,324,4
+218,Masterpiece,DaBaby,55,2021-01-30,2021-05-08,321,14
+219,Christmas (Baby Please Come Home),Darlene Love,17,2021-01-02,2021-12-25,318,4
+220,You Time,Scotty McCreery,50,2021-08-14,2021-10-30,313,12
+221,The Business,Tiesto,69,2021-03-06,2021-06-12,313,14
+222,Pick Up Your Feelings,Jazmine Sullivan,75,2021-01-23,2021-07-03,313,20
+223,Solid,Young Thug & Gunna Featuring Drake,12,2021-05-01,2021-06-12,309,7
+224,Happy Holiday / The Holiday Season,Andy Williams,18,2021-01-02,2021-12-25,308,4
+225,Monster,Shawn Mendes & Justin Bieber,36,2021-01-02,2021-03-06,308,10
+226,Rudolph The Red-Nosed Reindeer,Gene Autry,16,2021-01-02,2021-12-25,305,4
+227,White Christmas,Bing Crosby,20,2021-01-02,2021-12-25,304,4
+228,Whiskey And Rain,Michael Ray,61,2021-10-16,2021-12-25,302,11
+229,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,31,2021-01-09,2021-02-06,301,5
+230,abcdefu,GAYLE,15,2021-12-04,2021-12-25,298,4
+231,Miss The Rage,Trippie Redd & Playboi Carti,11,2021-05-22,2021-09-04,297,11
+232,Santa Tell Me,Ariana Grande,17,2021-01-02,2021-12-25,297,4
+233,Come Through,H.E.R. Featuring Chris Brown,64,2021-05-08,2021-11-13,297,17
+234,"Jealousy, Jealousy",Olivia Rodrigo,24,2021-06-05,2021-07-31,296,9
+235,Still Trappin',Lil Durk & King Von,53,2021-01-09,2021-03-27,295,12
+236,It's Beginning To Look A Lot Like Christmas,Michael Buble,20,2021-01-02,2021-12-25,293,4
+237,Holiday,Lil Nas X,43,2021-01-02,2021-02-13,293,7
+238,WAP,Cardi B Featuring Megan Thee Stallion,35,2021-01-02,2021-01-30,281,5
+239,Happy Does,Kenny Chesney,47,2021-01-09,2021-02-27,275,8
+240,(There's No Place Like) Home For The Holidays,Perry Como,22,2021-01-02,2021-12-25,271,4
+241,I Should Probably Go To Bed,Dan + Shay,28,2021-01-09,2021-01-30,271,4
+242,Bubbly,Young Thug With Drake & Travis Scott,20,2021-10-30,2021-12-25,270,9
+243,"Big, Big Plans",Chris Lane,49,2021-01-02,2021-02-27,267,9
+244,Super Gremlin,Kodak Black,20,2021-11-20,2021-12-25,266,6
+245,Too Easy,Gunna & Future,38,2021-10-09,2021-12-18,265,9
+246,Enough For You,Olivia Rodrigo,14,2021-06-05,2021-07-17,263,6
+247,Girl Like Me,Black Eyed Peas X Shakira,67,2021-01-16,2021-04-17,261,13
+248,Follow You,Imagine Dragons,68,2021-03-27,2021-07-24,261,15
+249,TSU,Drake,9,2021-09-18,2021-10-16,259,5
+250,Richer,Rod Wave Featuring Polo G,22,2021-04-10,2021-05-22,258,7
+251,Back To The Streets,Saweetie Featuring Jhene Aiko,58,2021-01-02,2021-02-27,254,9
+252,amari,J. Cole,5,2021-05-29,2021-06-12,252,3
+253,AM,Nio Garcia X J Balvin X Bad Bunny,41,2021-07-10,2021-09-11,250,10
+254,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,15,2021-01-02,2021-12-25,248,3
+255,Minimum Wage,Blake Shelton,67,2021-05-22,2021-08-07,240,12
+256,interlude,J. Cole,8,2021-05-22,2021-06-05,237,3
+257,Headshot,"Lil Tjay, Polo G & Fivio Foreign",42,2021-04-03,2021-05-22,234,8
+258,Champagne Night,Lady A,33,2021-01-02,2021-02-06,233,6
+259,Don't Go Yet,Camila Cabello,42,2021-08-07,2021-10-02,233,9
+260,Love All,Drake Featuring JAY-Z,10,2021-09-18,2021-10-16,227,5
+261,No Love,Summer Walker & SZA,13,2021-11-20,2021-12-25,224,6
+262,Papi's Home,Drake,8,2021-09-18,2021-10-09,222,4
+263,Get Into It (Yuh),Doja Cat,68,2021-07-10,2021-11-13,221,13
+264,4 Da Gang,42 Dugg & Roddy Ricch,67,2021-04-17,2021-07-24,213,14
+265,N 2 Deep,Drake Featuring Future,12,2021-09-18,2021-10-09,212,4
+266,Cover Me Up,Morgan Wallen,52,2021-01-23,2021-03-20,207,9
+267,I Hate U,SZA,7,2021-12-18,2021-12-25,204,2
+268,WUSYANAME,"Tyler, The Creator Featuring YoungBoy Never Broke Again & Ty Dolla $ign",14,2021-07-10,2021-08-28,204,7
+269,Moon,Kanye West,17,2021-09-11,2021-10-09,204,5
+270,Tequila Little Time,Jon Pardi,68,2021-10-23,2021-12-25,204,10
+271,Love You Like I Used To,Russell Dickerson,50,2021-01-02,2021-01-30,200,5
+272,Hawai,Maluma & The Weeknd,43,2021-01-02,2021-01-23,199,4
+273,Beat Box,SpotemGottem,53,2021-01-30,2021-02-27,196,5
+274,Mr. Right Now,21 Savage & Metro Boomin Featuring Drake,55,2021-01-02,2021-02-13,196,7
+275,Gang Gang,Polo G & Lil Wayne,33,2021-06-05,2021-07-03,195,5
+276,Already Dead,Juice WRLD,20,2021-11-27,2021-12-25,194,4
+277,'Til You Can't,Cody Johnson,65,2021-10-23,2021-12-25,192,10
+278,"1 Step Forward, 3 Steps Back",Olivia Rodrigo,19,2021-06-05,2021-06-26,187,4
+279,Off The Grid,Kanye West,11,2021-09-11,2021-10-02,184,4
+280,Pipe Down,Drake,14,2021-09-18,2021-10-09,181,4
+281,Moth To A Flame,Swedish House Mafia & The Weeknd,27,2021-11-06,2021-12-11,180,6
+282,Real As It Gets,Lil Baby Featuring EST Gee,34,2021-03-20,2021-04-24,180,6
+283,Big Energy,Latto,69,2021-11-06,2021-12-25,180,8
+284,Praise God,Kanye West,20,2021-09-11,2021-11-20,179,7
+285,Seeing Green,"Nicki Minaj, Drake & Lil Wayne",12,2021-05-29,2021-06-19,177,4
+286,Hard For The Next,Moneybagg Yo & Future,49,2021-04-10,2021-05-22,174,5
+287,Red Light Green Light,DaBaby,50,2021-07-10,2021-08-07,174,5
+288,Finesse Out The Gang Way,Lil Durk Featuring Lil Baby,39,2021-02-13,2021-03-27,173,7
+289,You Got It,VEDO,75,2021-02-06,2021-05-01,173,12
+290,95.south,J. Cole,8,2021-05-29,2021-06-12,172,3
+291,Bad Boy,Juice WRLD & Young Thug,22,2021-01-30,2021-02-27,172,5
+292,Prisoner,Miley Cyrus Featuring Dua Lipa,60,2021-01-02,2021-02-20,172,8
+293,Having Our Way,Migos Featuring Drake,15,2021-06-26,2021-07-17,171,4
+294,Bichota,Karol G,72,2021-01-02,2021-03-13,171,10
+295,NDA,Billie Eilish,39,2021-07-24,2021-08-21,168,5
+296,Hellcats & Trackhawks,Lil Durk,69,2021-03-20,2021-05-22,165,9
+297,Fiel,"Los Legendarios, Wisin & Jhay Cortez",62,2021-06-26,2021-08-21,158,9
+298,Freedom Was A Highway,Jimmie Allen & Brad Paisley,76,2021-10-23,2021-12-25,156,10
+299,Still Goin Down,Morgan Wallen,45,2021-01-16,2021-02-20,155,6
+300,865,Morgan Wallen,46,2021-01-23,2021-02-20,155,5
+301,Maybach,42 Dugg Featuring Future,68,2021-06-05,2021-12-11,155,9
+302,Jugaste y Sufri,Eslabon Armado Featuring DannyLux,69,2021-10-16,2021-12-04,155,7
+303,Neighbors,Pooh Shiesty Featuring BIG30,51,2021-02-20,2021-04-03,150,7
+304,Jail,Kanye West,10,2021-09-11,2021-09-25,146,3
+305,Shottas (Lala),Moneybagg Yo,35,2021-05-08,2021-05-29,145,4
+306,Warning,Morgan Wallen,42,2021-01-23,2021-02-20,143,5
+307,So Done,The Kid LAROI,74,2021-01-09,2021-02-27,143,8
+308,Race My Mind,Drake,18,2021-09-18,2021-10-02,142,3
+309,Take You Dancing,Jason Derulo,57,2021-01-09,2021-02-06,141,5
+310,Love Story (Taylor's Version),Taylor Swift,11,2021-02-27,2021-04-24,139,2
+311,7am On Bridle Path,Drake,16,2021-09-18,2021-10-02,138,3
+312,Hope Ur OK,Olivia Rodrigo,29,2021-06-05,2021-06-19,138,3
+313,Summer Of Love,Shawn Mendes & Tainy,48,2021-09-04,2021-10-23,138,8
+314,Twerkulator,City Girls,51,2021-06-05,2021-08-21,138,9
+315,Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,45,2021-11-27,2021-12-25,137,5
+316,Bad Man (Smooth Criminal),Polo G,49,2021-11-27,2021-12-25,137,5
+317,B.S.,Jhene Aiko Featuring H.E.R.,52,2021-01-09,2021-01-23,136,3
+318,Moonwalking In Calabasas,DDG,81,2021-01-02,2021-03-20,136,11
+319,Hit Different,SZA Featuring Ty Dolla $ign,62,2021-01-02,2021-02-06,135,6
+320,For Tonight,Giveon,80,2021-10-09,2021-12-25,135,11
+321,Drankin N Smokin,Future & Lil Uzi Vert,84,2021-01-30,2021-06-12,135,16
+322,Ex For A Reason,Summer Walker & JT,33,2021-10-30,2021-12-11,134,5
+323,Life Support,YoungBoy Never Broke Again,48,2021-09-25,2021-10-23,134,5
+324,Wonderful Christmastime,Paul McCartney,28,2021-01-02,2021-12-25,133,2
+325,Your Heart,Joyner Lucas & J. Cole,32,2021-10-09,2021-10-23,129,3
+326,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,32,2021-01-09,2021-01-16,128,2
+327,Esta Danada,Ivan Cornejo,61,2021-10-16,2021-11-13,127,5
+328,"You're A Mean One, Mr. Grinch",Thurl Ravenscroft,32,2021-01-02,2021-12-25,126,2
+329,Ok Ok,Kanye West,12,2021-09-11,2021-09-18,125,2
+330,Pretty Heart,Parker McCollum,37,2021-01-09,2021-01-16,125,2
+331,Escape Plan,Travis Scott,11,2021-11-20,2021-12-04,124,3
+332,Lost Cause,Billie Eilish,27,2021-06-19,2021-08-14,124,4
+333,Lets Go Brandon,Loza Alexander,38,2021-10-30,2021-11-13,124,3
+334,Hello,Pop Smoke Featuring A Boogie Wit da Hoodie,83,2021-03-06,2021-06-12,123,11
+335,Voice Of The Heroes,Lil Baby & Lil Durk,21,2021-06-12,2021-06-26,119,3
+336,applying.pressure,J. Cole,13,2021-05-29,2021-06-05,117,2
+337,By Your Side,Rod Wave,58,2021-12-11,2021-12-25,115,3
+338,Pissed Me Off,Lil Durk,39,2021-10-30,2021-11-13,113,3
+339,Watermelon Sugar,Harry Styles,42,2021-01-09,2021-01-16,113,2
+340,My Little Love,Adele,23,2021-12-04,2021-12-11,112,2
+341,Enemy,Imagine Dragons X JID,68,2021-12-04,2021-12-25,111,4
+342,I Bet You Think About Me (Taylor's Version) (From The Vault),Taylor Swift Featuring Chris Stapleton,22,2021-11-27,2021-12-04,110,2
+343,Lo Siento BB:/,"Tainy, Bad Bunny & Julieta Venegas",51,2021-10-23,2021-11-13,109,4
+344,100.mil',J. Cole & Bas,14,2021-05-29,2021-06-05,108,2
+345,Junya,Kanye West,16,2021-09-11,2021-09-18,108,2
+346,I Drink Wine,Adele,18,2021-12-04,2021-12-11,108,2
+347,IMY2,Drake Featuring Kid Cudi,22,2021-09-18,2021-09-25,108,2
+348,Lifestyle,Jason Derulo Featuring Adam Levine,71,2021-02-20,2021-03-20,108,5
+349,No Return,Polo G Featuring The Kid LAROI & Lil Durk,26,2021-06-26,2021-07-03,104,2
+350,Yebba's Heartbreak,Drake & Yebba,24,2021-09-18,2021-09-25,102,2
+351,Can I Get It,Adele,26,2021-12-04,2021-12-11,102,2
+352,Bandido,Myke Towers & Juhn,82,2021-02-20,2021-04-03,102,7
+353,let.go.my.hand,"J. Cole, Bas & 6LACK",19,2021-05-29,2021-06-05,100,2
+354,Wandered To LA.,Juice WRLD & Justin Bieber,49,2021-12-18,2021-12-25,98,2
+355,Get Along Better,Drake Featuring Ty Dolla $ign,27,2021-09-18,2021-09-25,97,2
+356,State Of Grace (Taylor's Version),Taylor Swift,18,2021-11-27,2021-12-04,96,2
+357,As I Am,Justin Bieber Featuring Khalid,43,2021-04-03,2021-04-17,96,3
+358,Over The Top,Smiley Featuring Drake,57,2021-08-07,2021-08-28,96,4
+359,Am I The Only One,Aaron Lewis,14,2021-07-17,2021-07-31,95,2
+360,You Only Live Twice,Drake Featuring Lil Wayne & Rick Ross,25,2021-09-18,2021-09-25,94,2
+361,Bad Morning,YoungBoy Never Broke Again,28,2021-10-09,2021-10-23,94,3
+362,On My Side,YoungBoy Never Broke Again,37,2021-10-02,2021-10-09,94,2
+363,Mr. Perfectly Fine (Taylor's Version) (From The Vault),Taylor Swift,30,2021-04-17,2021-05-01,93,3
+364,Not Sober,The Kid LAROI Featuring Polo G & Stunna Gambino,41,2021-08-07,2021-08-21,93,3
+365,Red (Taylor's Version),Taylor Swift,25,2021-11-27,2021-12-04,91,2
+366,How It Feels,Lil Baby & Lil Durk,34,2021-06-19,2021-07-03,91,3
+367,Fountains,Drake Featuring Tems,26,2021-09-18,2021-09-25,90,2
+368,Avalanche,Migos,27,2021-06-26,2021-07-03,89,2
+369,Believe What I Say,Kanye West,28,2021-09-11,2021-09-18,89,2
+370,WFM,RealestK,67,2021-10-23,2021-11-13,89,4
+371,Ruff Ryders' Anthem,DMX,16,2021-04-24,2021-04-24,85,1
+372,punchin'.the.clock,J. Cole,20,2021-05-29,2021-06-05,85,2
+373,Adderall (Corvette Corvette),Popp Hunna,74,2021-01-02,2021-02-06,85,6
+374,Jonah,Kanye West,27,2021-09-11,2021-09-18,84,2
+375,transparentsoul,Willow Featuring Travis Barker,76,2021-06-26,2021-07-31,84,6
+376,Thriller,Michael Jackson,19,2021-11-13,2021-11-13,82,1
+377,Jesus Lord,Kanye West,26,2021-09-11,2021-09-18,81,2
+378,Run It Up,Lil Tjay Featuring Offset & Moneybagg Yo,50,2021-04-17,2021-05-01,81,3
+379,Backdoor,Lil Durk,62,2021-01-02,2021-02-13,80,4
+380,You All Over Me (Taylor's Version) (From The Vault),Taylor Swift Featuring Maren Morris,51,2021-04-10,2021-04-24,79,2
+381,Botella Tras Botella,Gera MX + Christian Nodal,60,2021-05-08,2021-06-12,79,4
+382,the.climb.back,J. Cole,25,2021-05-29,2021-06-05,78,2
+383,2040,Lil Baby & Lil Durk,31,2021-06-19,2021-06-26,77,2
+384,Holy Smokes,Trippie Redd Featuring Lil Uzi Vert,50,2021-07-31,2021-09-04,77,3
+385,Bitter,Summer Walker & Cardi B,25,2021-11-20,2021-11-20,76,1
+386,Overpass Graffiti,Ed Sheeran,41,2021-11-13,2021-11-20,76,2
+387,Go!,Moneybagg Yo Featuring BIG30,52,2021-05-01,2021-05-22,76,4
+388,Mafia,Travis Scott,26,2021-11-20,2021-11-20,75,1
+389,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,26,2021-01-02,2021-01-02,75,1
+390,Let's Go Brandon,Bryson Gray Featuring Tyson James & Chandler Crump,28,2021-11-06,2021-11-13,75,2
+391,Big Gangsta,Kevin Gates,81,2021-04-24,2021-05-22,74,5
+392,hunger.on.hillside,J. Cole & Bas,28,2021-05-29,2021-05-29,73,1
+393,Poke It Out,Wale Featuring J. Cole,79,2021-11-06,2021-12-18,73,6
+394,Girl Of My Dreams,Juice WRLD & SUGA,29,2021-12-25,2021-12-25,72,1
+395,Sorry Not Sorry,"DJ Khaled Featuring Nas, JAY-Z & James Fauntleroy",30,2021-05-15,2021-05-15,71,1
+396,God Breathed,Kanye West,30,2021-09-11,2021-09-11,71,1
+397,I Did It,"DJ Khaled Featuring Post Malone, Megan Thee Stallion, Lil Baby & DaBaby",43,2021-05-15,2021-05-22,71,2
+398,Nevada,YoungBoy Never Broke Again,58,2021-10-09,2021-11-06,71,4
+399,Lonely,DaBaby X Lil Wayne,63,2021-09-25,2021-10-02,71,2
+400,Opp Stoppa,YBN Nahmir Featuring 21 Savage,78,2021-02-06,2021-03-27,71,6
+401,Fucking Fans,Drake,32,2021-09-18,2021-09-18,69,1
+402,To Be Loved,Adele,32,2021-12-04,2021-12-04,69,1
+403,Blue Christmas,Elvis Presley,33,2021-01-02,2021-01-02,68,1
+404,close,J. Cole,33,2021-05-29,2021-05-29,68,1
+405,Pick Out A Christmas Tree,Dan + Shay,77,2021-12-11,2021-12-25,68,3
+406,Burn,Juice WRLD,34,2021-12-25,2021-12-25,67,1
+407,Skin,Sabrina Carpenter,48,2021-02-06,2021-02-20,67,3
+408,Doin' This,Luke Combs,53,2021-11-27,2021-12-04,67,2
+409,The Remorse,Drake,35,2021-09-18,2021-09-18,66,1
+410,Christmas Tree Farm (Old Timey Version),Taylor Swift,74,2021-12-11,2021-12-25,66,3
+411,Mele Kalikimaka (Merry Christmas),Bing Crosby & The Andrews Sisters,36,2021-01-02,2021-01-02,65,1
+412,Intro (Hate On Me),Meek Mill,36,2021-10-16,2021-10-16,65,1
+413,Take Me Home For Christmas,Dan + Shay,48,2021-01-02,2021-01-09,65,2
+414,Wildest Dreams (Taylor's Version),Taylor Swift,37,2021-10-02,2021-10-02,64,1
+415,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",37,2021-11-13,2021-11-13,64,1
+416,Still Runnin,"Lil Baby, Lil Durk & Meek Mill",43,2021-06-19,2021-07-03,64,3
+417,Lumberjack,"Tyler, The Creator",45,2021-07-03,2021-07-10,64,2
+418,Merry Christmas,Ed Sheeran & Elton John,66,2021-12-18,2021-12-25,64,2
+419,Juggernaut,"Tyler, The Creator Featuring Lil Uzi Vert & Pharrell Williams",40,2021-07-10,2021-07-17,63,2
+420,Remote Control,Kanye West,40,2021-09-11,2021-09-18,63,2
+421,Big Purr (Prrdd),Coi Leray & Pooh Shiesty,69,2021-04-10,2021-04-24,63,3
+422,This Christmas,Donny Hathaway,39,2021-01-02,2021-01-02,62,1
+423,No Where,YoungBoy Never Broke Again,40,2021-10-09,2021-10-16,62,2
+424,Party Up (Up In Here),DMX,40,2021-04-24,2021-04-24,61,1
+425,Ghostbusters,Ray Parker Jr.,40,2021-11-13,2021-11-13,61,1
+426,Strangers By Nature,Adele,41,2021-12-04,2021-12-04,60,1
+427,Throw It Away,Summer Walker,41,2021-11-20,2021-11-20,60,1
+428,Ramen & OJ,Joyner Lucas & Lil Baby,67,2021-05-15,2021-05-22,60,2
+429,Somebody's Watching Me,Rockwell,42,2021-11-13,2021-11-13,59,1
+430,Lemonhead,"Tyler, The Creator Featuring 42 Dugg",42,2021-07-10,2021-07-10,59,1
+431,Heaven And Hell,Kanye West,42,2021-09-11,2021-09-11,59,1
+432,Scoop,Lil Nas X Featuring Doja Cat,42,2021-10-02,2021-10-02,59,1
+433,Stay Down,"Lil Durk, 6LACK & Young Thug",73,2021-01-09,2021-02-13,59,3
+434,Deck The Halls,Nat King Cole,43,2021-01-02,2021-01-02,58,1
+435,24,Kanye West,43,2021-09-11,2021-09-11,58,1
+436,Nothing New (Taylor's Version) (From The Vault),Taylor Swift Featuring Phoebe Bridgers,43,2021-11-27,2021-11-27,58,1
+437,Reciprocate,Summer Walker,44,2021-11-20,2021-11-20,57,1
+438,Cry Your Heart Out,Adele,44,2021-12-04,2021-12-04,57,1
+439,Wasting Time,Brent Faiyaz Featuring Drake,49,2021-07-17,2021-07-24,57,2
+440,Toxic,Summer Walker Featuring Lil Durk,45,2021-11-20,2021-11-20,56,1
+441,Please Come Home For Christmas,Eagles,45,2021-01-02,2021-01-02,56,1
+442,Clouds,NF,53,2021-03-06,2021-04-10,56,2
+443,Diamonds Dancing,Young Thug & Gunna Featuring Travis Scott,46,2021-05-01,2021-05-01,55,1
+444,Who I Want,Lil Baby & Lil Durk,46,2021-06-19,2021-06-19,55,1
+445,Santa Claus Is Comin' To Town,Jackson 5,46,2021-01-02,2021-01-02,55,1
+446,I Knew You Were Trouble (Taylor's Version),Taylor Swift,46,2021-11-27,2021-11-27,55,1
+447,X Gon' Give It To Ya,DMX,46,2021-04-24,2021-04-24,55,1
+448,Never Left,Lil Tecca,56,2021-05-22,2021-05-29,55,2
+449,All I Know So Far,P!nk,74,2021-05-22,2021-07-24,55,5
+450,Little Saint Nick,The Beach Boys,47,2021-01-02,2021-01-02,54,1
+451,Run (Taylor's Version) (From The Vault),Taylor Swift Featuring Ed Sheeran,47,2021-11-27,2021-11-27,54,1
+452,Dolla Sign Slime,Lil Nas X Featuring Megan Thee Stallion,47,2021-10-02,2021-10-02,54,1
+453,Higher Power,Coldplay,53,2021-05-22,2021-05-29,54,2
+454,Let It Go,DJ Khaled Featuring Justin Bieber & 21 Savage,54,2021-05-15,2021-05-22,54,2
+455,Dangerous,Morgan Wallen,62,2021-01-23,2021-02-20,54,4
+456,Sad Girlz Luv Money,Amaarae & Moliy Featuring Kali Uchis,80,2021-11-20,2021-12-04,54,3
+457,Half Of My Hometown,Kelsea Ballerini Featuring Kenny Chesney,87,2021-11-06,2021-12-18,54,6
+458,Hot Wind Blows,"Tyler, The Creator Featuring Lil Wayne",48,2021-07-10,2021-07-10,53,1
+459,Unloyal,Summer Walker & Ari Lennox,48,2021-11-20,2021-11-20,53,1
+460,Matt Hardy 999,Trippie Redd Featuring Juice WRLD,49,2021-09-04,2021-09-11,53,2
+461,Tell Em,Cochise & $NOT,64,2021-06-12,2021-07-17,53,4
+462,SUVs (Black On Black),Jack Harlow & Pooh Shiesty,67,2021-08-21,2021-08-28,53,2
+463,Midnight Sky,Miley Cyrus,71,2021-01-09,2021-01-23,53,3
+464,Mistletoe,Justin Bieber,49,2021-12-25,2021-12-25,52,1
+465,Tell The Vision,Pop Smoke Featuring Kanye West & Pusha T,49,2021-07-31,2021-07-31,52,1
+466,Constant Bulls**t,Summer Walker,49,2021-11-20,2021-11-20,52,1
+467,Hold On,Adele,49,2021-12-04,2021-12-04,52,1
+468,Have Yourself A Merry Little Christmas,Michael Buble,49,2021-01-02,2021-01-02,52,1
+469,If Pain Was A Person,Moneybagg Yo,54,2021-05-08,2021-05-15,52,2
+470,Santa Baby,Eartha Kitt With Henri Rene And His Orchestra,50,2021-12-25,2021-12-25,51,1
+471,I'll Be Home For Christmas,Bing Crosby,50,2021-01-02,2021-01-02,51,1
+472,You Don't Know Me,Summer Walker,50,2021-11-20,2021-11-20,51,1
+473,Flocky Flocky,Don Toliver Featuring Travis Scott,53,2021-10-23,2021-10-30,51,2
+474,What It Feels Like,Nipsey Hussle & JAY-Z,51,2021-02-27,2021-02-27,50,1
+475,Better Man (Taylor's Version) (From The Vault),Taylor Swift,51,2021-11-27,2021-11-27,50,1
+476,Woo Baby,Pop Smoke Featuring Chris Brown,64,2021-07-31,2021-10-30,50,3
+477,Paralyzed,Sueco,65,2021-08-28,2021-09-04,50,2
+478,Insane,Summer Walker,52,2021-11-20,2021-11-20,49,1
+479,Pure Souls,Kanye West,52,2021-09-11,2021-09-11,49,1
+480,Fractions,Nicki Minaj,52,2021-05-29,2021-05-29,49,1
+481,22 (Taylor's Version),Taylor Swift,52,2021-11-27,2021-11-27,49,1
+482,Hold Me Down,YoungBoy Never Broke Again,53,2021-10-09,2021-10-09,48,1
+483,No Child Left Behind,Kanye West,53,2021-09-11,2021-09-11,48,1
+484,Should've Ducked,Lil Durk Featuring Pooh Shiesty,53,2021-02-13,2021-02-13,48,1
+485,All Night Parking (Interlude),Adele With Erroll Garner,53,2021-12-04,2021-12-04,48,1
+486,Range Brothers,Baby Keem & Kendrick Lamar,53,2021-09-25,2021-09-25,48,1
+487,Black Hearted,Polo G,53,2021-06-26,2021-06-26,48,1
+488,Dancing With The Devil,Demi Lovato,56,2021-04-17,2021-04-24,48,2
+489,Met Him Last Night,Demi Lovato Featuring Ariana Grande,61,2021-04-17,2021-04-24,48,2
+490,No More Parties,Coi Leray,70,2021-02-20,2021-02-27,48,2
+491,Circus,Summer Walker,54,2021-11-20,2021-11-20,47,1
+492,Treacherous (Taylor's Version),Taylor Swift,54,2021-11-27,2021-11-27,47,1
+493,Hallelujah,Carrie Underwood & John Legend,54,2021-01-02,2021-01-02,47,1
+494,Bout A Million,Pop Smoke Featuring 21 Savage & 42 Dugg,54,2021-07-31,2021-07-31,47,1
+495,Switches & Dracs,Moneybagg Yo Featuring Lil Durk & EST Gee,69,2021-11-06,2021-11-13,47,2
+496,Corso,"Tyler, The Creator",55,2021-07-10,2021-07-10,46,1
+497,Woman Like Me,Adele,55,2021-12-04,2021-12-04,46,1
+498,We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,55,2021-11-27,2021-11-27,46,1
+499,SoulFly,Rod Wave,55,2021-04-10,2021-04-10,46,1
+500,GNF (OKOKOK),Polo G,55,2021-02-20,2021-02-20,46,1
+501,Rich MF,Trippie Redd Featuring Lil Durk & Polo G,56,2021-09-04,2021-09-04,45,1
+502,4th Baby Mama,Summer Walker,56,2021-11-20,2021-11-20,45,1
+503,Love Is A Game,Adele,56,2021-12-04,2021-12-04,45,1
+504,Still Hood,Lil Baby & Lil Durk,56,2021-06-19,2021-06-19,45,1
+505,Feline,"Juice WRLD, Polo G & Trippie Redd",56,2021-12-25,2021-12-25,45,1
+506,Sun Goes Down,Lil Nas X,66,2021-06-05,2021-10-02,45,2
+507,I Don't Do Drugs,Doja Cat Featuring Ariana Grande,57,2021-07-10,2021-07-10,44,1
+508,Baila Conmigo,Selena Gomez With Rauw Alejandro,74,2021-02-13,2021-03-27,44,2
+509,Scorpio,Moneybagg Yo,87,2021-11-06,2021-12-25,44,4
+510,Donda,Kanye West,58,2021-09-11,2021-09-11,43,1
+511,Okay,Lil Baby & Lil Durk,58,2021-06-19,2021-06-19,43,1
+512,Blue Note$ II,Meek Mill Featuring Lil Uzi Vert,72,2021-09-18,2021-10-16,43,2
+513,Ain't Always The Cowboy,Jon Pardi,76,2021-01-09,2021-01-16,43,2
+514,Just About Over You,Priscilla Block,81,2021-10-23,2021-12-18,43,6
+515,50 Shots,YoungBoy Never Broke Again,59,2021-10-09,2021-10-09,42,1
+516,Proud Of You,Young Thug Featuring Lil Uzi Vert & Yung Kayo,59,2021-05-01,2021-05-01,42,1
+517,Sir Baudelaire,"Tyler, The Creator Featuring DJ Drama",59,2021-07-10,2021-07-10,42,1
+518,I Almost Do (Taylor's Version),Taylor Swift,59,2021-11-27,2021-11-27,42,1
+519,Painting Pictures,Polo G,59,2021-06-26,2021-06-26,42,1
+520,Keep My Spirit Alive,Kanye West,59,2021-09-11,2021-09-11,42,1
+521,Switch A N*gga Out,Summer Walker,59,2021-11-20,2021-11-20,42,1
+522,Closure,Summer Walker,60,2021-11-20,2021-11-20,41,1
+523,Already Won,Rod Wave Featuring Lil Durk,60,2021-09-04,2021-09-04,41,1
+524,Sweet / I Thought You Wanted To Dance,"Tyler, The Creator Featuring Brent Faiyaz & Fana Hues",60,2021-07-10,2021-07-10,41,1
+525,Man Of My Word,Lil Baby & Lil Durk,60,2021-06-19,2021-06-19,41,1
+526,Gnat,Eminem,60,2021-01-02,2021-01-02,41,1
+527,Hot,Meek Mill Featuring Moneybagg Yo,60,2021-10-16,2021-10-16,41,1
+528,La Noche de Anoche,Bad Bunny & ROSALIA,69,2021-01-16,2021-02-27,41,2
+529,Rockin' Around The Christmas Tree,Justin Bieber,61,2021-01-02,2021-01-02,40,1
+530,The Very First Night (Taylor's Version) (From The Vault),Taylor Swift,61,2021-11-27,2021-11-27,40,1
+531,Test Drive,Ariana Grande,61,2021-03-06,2021-03-06,40,1
+532,Demon High,Lil Uzi Vert,61,2021-11-13,2021-11-13,40,1
+533,Gone Till November,Rod Wave,61,2021-04-10,2021-04-10,40,1
+534,Not In The Mood,"Lil Tjay, Fivio Foreign & Kay Flock",61,2021-11-06,2021-11-06,40,1
+535,Smoke Strong,YoungBoy Never Broke Again,61,2021-10-09,2021-10-09,40,1
+536,Modern Day,Migos,61,2021-06-26,2021-06-26,40,1
+537,Killer,Eminem Featuring Jack Harlow & Cordae,62,2021-06-12,2021-06-12,39,1
+538,Break Or Make Me,YoungBoy Never Broke Again,62,2021-10-09,2021-10-09,39,1
+539,Unstable,Justin Bieber Featuring The Kid LAROI,62,2021-04-03,2021-04-03,39,1
+540,Favorite Time Of Year,Carrie Underwood,62,2021-01-02,2021-01-02,39,1
+541,Lo Vas A Olvidar,Billie Eilish & ROSALIA,62,2021-02-06,2021-02-06,39,1
+542,AP,Pop Smoke,64,2021-03-13,2021-03-20,39,2
+543,Rockstar In His Prime,Juice WRLD,63,2021-12-25,2021-12-25,38,1
+544,Neon Eyes,Morgan Wallen,63,2021-01-23,2021-01-23,38,1
+545,Everything Has Changed (Taylor's Version),Taylor Swift Featuring Ed Sheeran,63,2021-11-27,2021-11-27,38,1
+546,Don't Forget,Rod Wave,63,2021-04-10,2021-04-10,38,1
+547,Toxic,Polo G,63,2021-06-26,2021-06-26,38,1
+548,Jail Pt 2,Kanye West,63,2021-09-11,2021-09-11,38,1
+549,Solar Power,Lorde,64,2021-06-26,2021-06-26,37,1
+550,"I Am Not A Woman, I'm A God",Halsey,64,2021-09-11,2021-09-11,37,1
+551,Off My Face,Justin Bieber,64,2021-04-03,2021-04-03,37,1
+552,You Wouldn't Understand,Juice WRLD,64,2021-12-25,2021-12-25,37,1
+553,Provide,G-Eazy Featuring Chris Brown & Mark Morrison,64,2021-02-20,2021-02-20,37,1
+554,Malibu,Migos Featuring Polo G,65,2021-06-26,2021-06-26,36,1
+555,Forever & Always (Taylor's Version),Taylor Swift,65,2021-04-24,2021-04-24,36,1
+556,Blame On You,Rod Wave,65,2021-04-10,2021-04-10,36,1
+557,Who's In Your Head,Jonas Brothers,92,2021-10-23,2021-12-11,36,6
+558,The Last Time (Taylor's Version),Taylor Swift Featuring Gary Lightbody Of Snow Patrol,66,2021-11-27,2021-11-27,35,1
+559,Expensive Pain,Meek Mill,66,2021-10-16,2021-10-16,35,1
+560,More Surprised Than Me,Morgan Wallen,66,2021-01-23,2021-01-23,35,1
+561,Massa,"Tyler, The Creator",66,2021-07-10,2021-07-10,35,1
+562,Came And Saw,Young Thug Featuring Rowdy Rebel,66,2021-05-01,2021-05-01,35,1
+563,Don't Play,Polo G Featuring Lil Baby,66,2021-12-18,2021-12-18,35,1
+564,Hit Bout It,Lil Yachty Featuring Kodak Black,67,2021-03-06,2021-03-06,34,1
+565,Betrayal,Trippie Redd Featuring Drake,67,2021-09-04,2021-09-04,34,1
+566,Stay Stay Stay (Taylor's Version),Taylor Swift,67,2021-11-27,2021-11-27,34,1
+567,Medical,Lil Baby & Lil Durk,67,2021-06-19,2021-06-19,34,1
+568,His & Hers,"Internet Money, Don Toliver & Lil Uzi Vert Featuring Gunna",67,2021-05-29,2021-05-29,34,1
+569,Sincerely,YoungBoy Never Broke Again,67,2021-10-09,2021-10-09,34,1
+570,Working,Tate McRae X Khalid,88,2021-07-03,2021-08-14,34,6
+571,Session 33,Summer Walker,68,2021-11-20,2021-11-20,33,1
+572,After Last Night,Silk Sonic (Bruno Mars & Anderson .Paak) With Thundercat & Bootsy Collins,68,2021-11-27,2021-11-27,33,1
+573,New Again,Kanye West,68,2021-09-11,2021-09-11,33,1
+574,2 Much,Justin Bieber,68,2021-04-03,2021-04-03,33,1
+575,RunItUp,"Tyler, The Creator Featuring Teezo Touchdown",68,2021-07-10,2021-07-10,33,1
+576,Rich Off Pain,"Lil Baby, Lil Durk & Rod Wave",68,2021-06-19,2021-06-19,33,1
+577,Livin It Up,Young Thug With Post Malone & A$AP Rocky,68,2021-10-30,2021-10-30,33,1
+578,Way Out,Jack Harlow Featuring Big Sean,83,2021-01-02,2021-01-16,33,3
+579,Don't Go,"Skrillex, Justin Bieber & Don Toliver",69,2021-09-04,2021-09-04,32,1
+580,Babe (Taylor's Version) (From The Vault),Taylor Swift,69,2021-11-27,2021-11-27,32,1
+581,On My Soul,Meek Mill,69,2021-10-16,2021-10-16,32,1
+582,Getting Older,Billie Eilish,69,2021-08-14,2021-08-14,32,1
+583,I Can't Take It Back,YoungBoy Never Broke Again,69,2021-10-09,2021-10-09,32,1
+584,Stressed,Young Thug With J. Cole & T-Shyne,69,2021-10-30,2021-10-30,32,1
+585,On The Ground,ROSE,70,2021-03-27,2021-03-27,31,1
+586,Lord I Need You,Kanye West,70,2021-09-11,2021-09-11,31,1
+587,Billie Bossa Nova,Billie Eilish,70,2021-08-14,2021-08-14,31,1
+588,Lying,Lil Baby & Lil Durk,70,2021-06-19,2021-06-19,31,1
+589,Outside,MO3 X OG Bobby Billions,92,2021-06-12,2021-08-28,31,7
+590,Redman,Lil Durk,71,2021-01-09,2021-01-09,30,1
+591,Gravity,"Brent Faiyaz & DJ Dahi Featuring Tyler, The Creator",71,2021-02-13,2021-02-13,30,1
+592,Snowflakes,Tom MacDonald,71,2021-06-19,2021-06-19,30,1
+593,Type Shit,Migos & Cardi B,71,2021-06-26,2021-06-26,30,1
+594,Mr. Jones,Pop Smoke Featuring Future,71,2021-07-31,2021-07-31,30,1
+595,Fearless (Taylor's Version),Taylor Swift,71,2021-04-24,2021-04-24,30,1
+596,All I Got,Rod Wave,71,2021-04-10,2021-04-10,30,1
+597,Slay3r,Playboi Carti,72,2021-01-09,2021-01-09,29,1
+598,Oxytocin,Billie Eilish,72,2021-08-14,2021-08-14,29,1
+599,Dead Right Now,Lil Nas X,72,2021-10-02,2021-10-02,29,1
+600,Like A Lady,Lady A,85,2021-10-23,2021-11-06,29,3
+601,Heart On Fire,Eric Church,89,2021-12-04,2021-12-25,29,4
+602,Blast Off,Silk Sonic (Bruno Mars & Anderson .Paak),73,2021-11-27,2021-11-27,28,1
+603,That's Facts,Lil Baby & Lil Durk,73,2021-06-19,2021-06-19,28,1
+604,Screwin,Summer Walker & Omarion,73,2021-11-20,2021-11-20,28,1
+605,God's Country,State Of Mine & Drew Jacobs,73,2021-12-04,2021-12-04,28,1
+606,Renegade,Big Red Machine Featuring Taylor Swift,73,2021-07-17,2021-07-17,28,1
+607,"Ya Superame (En Vivo Desde Culiacan, Sinaloa)",Grupo Firme,91,2021-10-30,2021-11-13,28,3
+608,Livin' The Dream,Morgan Wallen,74,2021-01-23,2021-01-23,27,1
+609,Only Wanna Be With You,Post Malone,74,2021-03-13,2021-03-13,27,1
+610,Doom,Juice WRLD,75,2021-12-25,2021-12-25,26,1
+611,Under The Mistletoe,Kelly Clarkson & Brett Eldredge,75,2021-01-02,2021-01-02,26,1
+612,Visiting Hours,Ed Sheeran,75,2021-09-04,2021-09-04,26,1
+613,You Belong With Me (Taylor's Version),Taylor Swift,75,2021-04-24,2021-04-24,26,1
+614,Undivided,Tim McGraw & Tyler Hubbard,76,2021-01-30,2021-03-27,26,2
+615,Next Girl,Carly Pearce,86,2021-07-24,2021-08-28,26,4
+616,Holy Ground (Taylor's Version),Taylor Swift,76,2021-11-27,2021-11-27,25,1
+617,Outside (100 MPH),Meek Mill,76,2021-10-16,2021-10-16,25,1
+618,Go Hard,Juice WRLD,76,2021-12-25,2021-12-25,25,1
+619,Broken Promises,Summer Walker,76,2021-11-20,2021-11-20,25,1
+620,Deserve You,Justin Bieber,76,2021-04-03,2021-04-03,25,1
+621,Repeat It,Lil Tecca & Gunna,80,2021-08-21,2021-09-11,25,3
+622,Dat Right There,"Summer Walker, Pharrell Williams & The Neptunes",77,2021-11-20,2021-11-20,24,1
+623,Champagne Problems,Taylor Swift,77,2021-01-02,2021-01-02,24,1
+624,Begin Again (Taylor's Version),Taylor Swift,77,2021-11-27,2021-11-27,24,1
+625,Come To Life,Kanye West,77,2021-09-11,2021-09-11,24,1
+626,Paid The Fine,Young Thug & Gunna Featuring Lil Baby & YTB Trench,77,2021-05-01,2021-05-01,24,1
+627,To Be Loved By You,Parker McCollum,85,2021-11-06,2021-12-25,24,3
+628,Took Her To The O,King Von,86,2021-01-02,2021-01-16,24,3
+629,Like I Want You,Giveon,87,2021-02-27,2021-03-27,24,4
+630,The Jackie,Bas With J. Cole & Lil TJay,78,2021-07-24,2021-07-24,23,1
+631,White Teeth,YoungBoy Never Broke Again,78,2021-05-29,2021-05-29,23,1
+632,The First Noel,Gabby Barrett,78,2021-01-02,2021-01-02,23,1
+633,Put On A Smile,Silk Sonic (Bruno Mars & Anderson .Paak),78,2021-11-27,2021-11-27,23,1
+634,Mind Of Melvin,YNW Melly Featuring Lil Uzi Vert,78,2021-08-28,2021-08-28,23,1
+635,Last One Standing,"Skylar Grey, Polo G, Mozzy & Eminem",78,2021-10-16,2021-10-16,23,1
+636,Rich N***a Shit,Young Thug With Juice WRLD,78,2021-10-30,2021-10-30,23,1
+637,In Da Getto,J Balvin & Skrillex,90,2021-09-11,2021-10-02,23,3
+638,Forever Winter (Taylor's Version) (From The Vault),Taylor Swift,79,2021-11-27,2021-11-27,22,1
+639,Clueless,Polo G Featuring Pop Smoke & Fivio Foreign,79,2021-06-26,2021-06-26,22,1
+640,Papercuts,Machine Gun Kelly,79,2021-08-28,2021-08-28,22,1
+641,Body In Motion,"DJ Khaled Featuring Bryson Tiller, Lil Baby & Roddy Ricch",79,2021-05-15,2021-05-15,22,1
+642,EPMD 2,Nas Featuring Eminem & EPMD,79,2021-08-21,2021-08-21,22,1
+643,Lost,NF Featuring Hopsin,79,2021-03-27,2021-03-27,22,1
+644,Please,Lil Baby & Lil Durk,79,2021-06-19,2021-06-19,22,1
+645,I'll Be Home For Christmas,Camila Cabello,83,2021-12-18,2021-12-25,22,2
+646,I Didn't Change My Number,Billie Eilish,80,2021-08-14,2021-08-14,21,1
+647,Free Promo,Moneybagg Yo Featuring Polo G & Lil Durk,80,2021-05-08,2021-05-08,21,1
+648,More Time,Pop Smoke,80,2021-07-31,2021-07-31,21,1
+649,Up The Side,"Lil Baby, Lil Durk & Young Thug",80,2021-06-19,2021-06-19,21,1
+650,Not Enough,Juice WRLD,80,2021-12-25,2021-12-25,21,1
+651,Forgiato,YoungBoy Never Broke Again,80,2021-10-09,2021-10-09,21,1
+652,Rap Freaks,Yung Miami,81,2021-11-13,2021-11-13,20,1
+653,Cry No More,G Herbo Featuring Polo G & Lil Tjay,81,2021-07-17,2021-07-17,20,1
+654,Box Of Churches,Pooh Shiesty Featuring 21 Savage,81,2021-02-20,2021-02-20,20,1
+655,Fly As Me,Silk Sonic (Bruno Mars & Anderson .Paak),81,2021-11-27,2021-11-27,20,1
+656,Die For You,Justin Bieber Featuring Dominic Fike,81,2021-04-03,2021-04-03,20,1
+657,Film Out,BTS,81,2021-04-17,2021-04-17,20,1
+658,Slow Down Summer,Thomas Rhett,81,2021-11-20,2021-11-20,20,1
+659,Just Say Det,Moneybagg Yo,82,2021-05-08,2021-05-08,19,1
+660,Itty Bitty Piggy,Nicki Minaj,82,2021-05-29,2021-05-29,19,1
+661,Go2DaMoon,Playboi Carti Featuring Kanye West,82,2021-01-09,2021-01-09,19,1
+662,What You Need,Don Toliver,82,2021-05-22,2021-05-22,19,1
+663,Manslaughter,Pop Smoke Featuring Rick Ross & The-Dream,82,2021-07-31,2021-07-31,19,1
+664,Eat It,Megan Thee Stallion,82,2021-11-13,2021-11-13,19,1
+665,Man In The Mirror,A Boogie Wit da Hoodie,82,2021-12-25,2021-12-25,19,1
+666,Money,Lisa,90,2021-11-06,2021-11-13,19,2
+667,Rich Shit,YoungBoy Never Broke Again,83,2021-10-09,2021-10-09,18,1
+668,The Moment I Knew (Taylor's Version),Taylor Swift,83,2021-11-27,2021-11-27,18,1
+669,The Feels,TWICE,83,2021-10-16,2021-10-16,18,1
+670,Heart Of A Giant,Polo G Featuring Rod Wave,83,2021-06-26,2021-06-26,18,1
+671,Whiskey'd My Way,Morgan Wallen,83,2021-01-23,2021-01-23,18,1
+672,The Lucky One (Taylor's Version),Taylor Swift,84,2021-11-27,2021-11-27,17,1
+673,Manifesto,"Tyler, The Creator Featuring Domo Genesis",84,2021-07-10,2021-07-10,17,1
+674,Big Paper,DJ Khaled Featuring Cardi B,84,2021-05-15,2021-05-15,17,1
+675,Love You Different,Justin Bieber Featuring BEAM,84,2021-04-03,2021-04-03,17,1
+676,Lalisa,Lisa,84,2021-09-25,2021-09-25,17,1
+677,Your Bartender,Morgan Wallen,84,2021-01-23,2021-01-23,17,1
+678,Durag Activity,Baby Keem & Travis Scott,85,2021-05-15,2021-05-15,16,1
+679,Sad Beautiful Tragic (Taylor's Version),Taylor Swift,85,2021-11-27,2021-11-27,16,1
+680,Pills & Billz,Rod Wave,85,2021-04-10,2021-04-10,16,1
+681,Some Girls,Jameson Rodgers,85,2021-01-16,2021-01-16,16,1
+682,Party Lyfe,Polo G Featuring DaBaby,85,2021-06-26,2021-06-26,16,1
+683,Lose,KSI x Lil Wayne,86,2021-08-21,2021-08-21,15,1
+684,Tequila Shots,Kid Cudi,86,2021-01-02,2021-01-02,15,1
+685,Me Or Sum,"Nardo Wick, Lil Baby & Future",86,2021-12-18,2021-12-18,15,1
+686,Refugee,Lil Durk,86,2021-01-09,2021-01-09,15,1
+687,MP5,Trippie Redd Featuring SoFaygo,86,2021-09-04,2021-09-04,15,1
+688,Go Part 1,Polo G Featuring G Herbo,86,2021-06-26,2021-06-26,15,1
+689,From My Window,Juice WRLD,86,2021-12-25,2021-12-25,15,1
+690,Outlaw,Morgan Wallen Featuring Ben Burgess,86,2021-01-23,2021-01-23,15,1
+691,Tales Of Dominica,Lil Nas X,86,2021-10-02,2021-10-02,15,1
+692,Demeanor,Pop Smoke Featuring Dua Lipa,86,2021-07-31,2021-07-31,15,1
+693,Relocate,Juice WRLD,87,2021-12-25,2021-12-25,14,1
+694,Young N Dumb,Polo G,87,2021-12-18,2021-12-18,14,1
+695,Come Back...Be Here (Taylor's Version),Taylor Swift,87,2021-11-27,2021-11-27,14,1
+696,Loved By You,Justin Bieber Featuring Burna Boy,87,2021-04-03,2021-04-03,14,1
+697,Shy Away,twenty one pilots,87,2021-04-24,2021-04-24,14,1
+698,Kacey Talk,YoungBoy Never Broke Again,90,2021-01-16,2021-02-06,14,2
+699,Tampa,Cico P,91,2021-05-15,2021-05-22,14,2
+700,Chicken Tendies,Clinton Kane,88,2021-03-06,2021-03-06,13,1
+701,I Hope Ur Miserable Until Ur Dead,Nessa Barrett,88,2021-08-21,2021-08-21,13,1
+702,Epidemic,Polo G,88,2021-06-26,2021-06-26,13,1
+703,Better Believe,"Belly, The Weeknd & Young Thug",88,2021-08-07,2021-08-07,13,1
+704,One Of Me,Lil Nas X Featuring Elton John,88,2021-10-02,2021-10-02,13,1
+705,Daywalker!,Machine Gun Kelly & CORPSE,88,2021-03-27,2021-03-27,13,1
+706,How The Game Go,Rod Wave,88,2021-04-10,2021-04-10,13,1
+707,Fifteen (Taylor's Version),Taylor Swift,88,2021-04-24,2021-04-24,13,1
+708,How They Remember You,Rascal Flatts,89,2021-02-27,2021-05-08,13,2
+709,Life Goes On,Oliver Tree,91,2021-10-23,2021-11-06,13,2
+710,OMDB,Rod Wave,89,2021-04-10,2021-04-10,12,1
+711,Brainwashed,Tom MacDonald,89,2021-08-28,2021-08-28,12,1
+712,Boom,Polo G,89,2021-06-26,2021-06-26,12,1
+713,Jumpin,NLE Choppa Featuring Polo G,89,2021-11-20,2021-11-20,12,1
+714,Me (FWM),Meek Mill Featuring A$AP Ferg,89,2021-10-16,2021-10-16,12,1
+715,Volando,"Mora, Bad Bunny & Sech",89,2021-07-24,2021-07-24,12,1
+716,Lick Back,EST Gee,89,2021-08-07,2021-08-07,12,1
+717,Lost In The Citadel,Lil Nas X,90,2021-10-02,2021-10-02,11,1
+718,Love Train,Meek Mill,90,2021-10-16,2021-10-16,11,1
+719,ZaZa,6ix9ine,90,2021-03-06,2021-03-06,11,1
+720,I Guess I'm In Love,Clinton Kane,90,2021-09-04,2021-09-04,11,1
+721,Only Thing That's Gone,Morgan Wallen Featuring Chris Stapleton,90,2021-01-23,2021-01-23,11,1
+722,Tell The Vision,Kanye West,90,2021-09-11,2021-09-11,11,1
+723,Halley's Comet,Billie Eilish,90,2021-08-14,2021-08-14,11,1
+724,Starlight (Taylor's Version),Taylor Swift,90,2021-11-27,2021-11-27,11,1
+725,Final Warning,NLE Choppa,90,2021-05-15,2021-05-15,11,1
+726,Vamp Anthem,Playboi Carti,90,2021-01-09,2021-01-09,11,1
+727,Kanye Krazy,Lil Durk,91,2021-02-13,2021-02-13,10,1
+728,'Tis The Damn Season,Taylor Swift,91,2021-01-02,2021-01-02,10,1
+729,Wonder,Shawn Mendes,91,2021-01-16,2021-01-16,10,1
+730,Feelin Like Tunechi,Lil Wayne Featuring Rich The Kid,91,2021-10-16,2021-10-16,10,1
+731,Let Somebody Go,Coldplay X Selena Gomez,91,2021-10-30,2021-10-30,10,1
+732,Somebody,Justin Bieber,91,2021-04-03,2021-04-03,10,1
+733,My Future,Billie Eilish,91,2021-08-14,2021-08-14,10,1
+734,Get Ready,Rod Wave Featuring Kodak Black,91,2021-09-04,2021-09-04,10,1
+735,5500 Degrees,"EST Gee Featuring Lil Baby, 42 Dugg & Rylo Rodriguez",92,2021-08-07,2021-08-28,10,2
+736,New N3on,Playboi Carti,92,2021-01-09,2021-01-09,9,1
+737,This Bar,Morgan Wallen,92,2021-01-23,2021-01-23,9,1
+738,Baddest Thing,YoungBoy Never Broke Again,92,2021-10-09,2021-10-09,9,1
+739,De Una Vez,Selena Gomez,92,2021-01-30,2021-01-30,9,1
+740,Danny Phantom,Trippie Redd Featuring XXXTENTACION,92,2021-09-04,2021-09-04,9,1
+741,24 Hours,A Boogie Wit da Hoodie Featuring Lil Durk,92,2021-06-05,2021-06-05,9,1
+742,What's Wrong,Rod Wave,93,2021-09-04,2021-09-04,8,1
+743,Wonderin' Bout The Wind,Morgan Wallen,93,2021-01-23,2021-01-23,8,1
+744,Death Ain't Easy,Lil Durk,93,2021-01-09,2021-01-09,8,1
+745,What's Love??,Rod Wave,94,2021-04-10,2021-04-10,7,1
+746,La Fama,Rosalia Featuring The Weeknd,94,2021-11-27,2021-11-27,7,1
+747,Demon Time,Trippie Redd Featuring Ski Mask The Slump God,94,2021-09-04,2021-09-04,7,1
+748,Start Up Again,Polo G Featuring Moneybagg Yo,94,2021-12-18,2021-12-18,7,1
+749,The Way I Loved You (Taylor's Version),Taylor Swift,94,2021-04-24,2021-04-24,7,1
+750,Silent Night,Carrie Underwood,94,2021-01-02,2021-01-02,7,1
+751,Better Days,Ant Clemons Featuring Justin Timberlake,94,2021-01-30,2021-01-30,7,1
+752,De Museo,Bad Bunny,94,2021-07-24,2021-07-24,7,1
+753,Wilshire,"Tyler, The Creator",95,2021-07-10,2021-07-10,6,1
+754,Peepin Out The Window,Young Thug With Future & BSlime,95,2021-10-30,2021-10-30,6,1
+755,Always Been You,Jessie Murph,95,2021-12-11,2021-12-11,6,1
+756,Ride For You,Meek Mill Featuring Kehlani,95,2021-10-16,2021-10-16,6,1
+757,Tick Tock,Young Thug,96,2021-09-04,2021-09-04,5,1
+758,Shock Da World,Rod Wave,96,2021-04-10,2021-04-10,5,1
+759,Fake Woke,Tom MacDonald,96,2021-02-13,2021-02-13,5,1
+760,Everywhere But On,Matt Stell,96,2021-01-16,2021-01-16,5,1
+761,Life's A Mess II,"Juice WRLD, Clever & Post Malone",97,2021-03-20,2021-03-20,4,1
+762,Am I Dreaming,Lil Nas X Featuring Miley Cyrus,97,2021-10-02,2021-10-02,4,1
+763,Bloody Canvas,Polo G,97,2021-06-26,2021-06-26,4,1
+764,"No Body, No Crime",Taylor Swift Featuring HAIM,97,2021-01-02,2021-01-02,4,1
+765,I Like Dat,T-Pain & Kehlani,97,2021-08-28,2021-08-28,4,1
+766,Girl Like Me,Jazmine Sullivan Featuring H.E.R.,97,2021-01-23,2021-01-23,4,1
+767,30,Pop Smoke Featuring Bizzy Banks,97,2021-07-31,2021-07-31,4,1
+768,Steal My Love,Dan + Shay,98,2021-08-28,2021-08-28,3,1
+769,Feel Alone,Juice WRLD,98,2021-12-25,2021-12-25,3,1
+770,Sneaky Links,Rod Wave,98,2021-04-10,2021-04-10,3,1
+771,Mercedes,Brent Faiyaz,98,2021-12-18,2021-12-18,3,1
+772,Reminds Me Of You,The Kid LAROI & Juice WRLD,99,2021-01-16,2021-01-16,2,1
+773,Toxic Punk,YoungBoy Never Broke Again,99,2021-10-09,2021-10-09,2,1
+774,Slatty,Young Thug & Gunna Featuring Yak Gotti & Lil Duke,99,2021-05-01,2021-05-01,2,1
+775,From The Garden,Isaiah Rashad Featuring Lil Uzi Vert,99,2021-08-14,2021-08-14,2,1
+776,Time Heals,Rod Wave,99,2021-09-04,2021-09-04,2,1
+777,Rise!,"Tyler, The Creator Featuring Daisy World",99,2021-07-10,2021-07-10,2,1
+778,If You Want To,Lil Baby & Lil Durk,99,2021-06-19,2021-06-19,2,1
+779,M3tamorphosis,Playboi Carti Featuring Kid Cudi,99,2021-01-09,2021-01-09,2,1
+780,Clear Da Air,Moneybagg Yo,100,2021-05-08,2021-05-08,1,1
+781,Rare,Nas,100,2021-08-21,2021-08-21,1,1
+782,Still Chose You,The Kid LAROI Featuring Mustard,100,2021-08-07,2021-08-07,1,1
+783,Ghost Town,Benson Boone,100,2021-11-13,2021-11-13,1,1
+784,Partin Ways,Polo G,100,2021-12-18,2021-12-18,1,1
+785,Crocodile Teeth,Nicki Minaj & Skillibeng,100,2021-05-29,2021-05-29,1,1
+786,Antes,Anuel AA & Ozuna,100,2021-02-06,2021-02-06,1,1
+787,Thankful,DJ Khaled Featuring Lil Wayne & Jeremih,100,2021-05-15,2021-05-15,1,1

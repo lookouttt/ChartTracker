@@ -1,0 +1,769 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,I Can't Stop Loving You,Ray Charles,1,1962-05-05,1962-09-01,2396,18
+2,Stranger On The Shore,Mr. Acker Bilk,1,1962-03-17,1962-08-04,2362,21
+3,Roses Are Red (My Love),Bobby Vinton,1,1962-06-09,1962-09-15,2109,15
+4,Mashed Potato Time,Dee Dee Sharp,2,1962-03-03,1962-06-30,2080,18
+5,The Twist,Chubby Checker,1,1962-01-06,1962-04-07,1967,14
+6,Johnny Angel,Shelley Fabares,1,1962-03-03,1962-06-09,1962,15
+7,Soldier Boy,The Shirelles,1,1962-03-24,1962-06-23,1874,14
+8,The Stripper,David Rose and His Orchestra,1,1962-05-12,1962-09-01,1863,17
+9,Sherry,The 4 Seasons,1,1962-08-25,1962-11-24,1847,14
+10,Duke Of Earl,Gene Chandler,1,1962-01-13,1962-04-21,1833,15
+11,Ramblin' Rose,Nat King Cole,2,1962-08-04,1962-11-17,1817,16
+12,Hey! Baby,Bruce Channel,1,1962-01-27,1962-05-05,1812,15
+13,The Loco-Motion,Little Eva,1,1962-06-30,1962-10-13,1778,16
+14,Big Girls Don't Cry,The 4 Seasons,1,1962-10-20,1962-12-29,1765,11
+15,Peppermint Twist - Part I,Joey Dee & the Starliters,1,1962-01-06,1962-03-24,1758,12
+16,He's A Rebel,The Crystals,1,1962-09-08,1962-12-29,1739,17
+17,Breaking Up Is Hard To Do,Neil Sedaka,1,1962-06-30,1962-09-29,1719,14
+18,Limbo Rock,Chubby Checker,2,1962-09-08,1962-12-29,1701,17
+19,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",1,1962-09-08,1962-12-08,1695,14
+20,Return To Sender,Elvis Presley With The Jordanaires,2,1962-10-20,1962-12-29,1650,11
+21,Good Luck Charm,Elvis Presley With The Jordanaires,1,1962-03-17,1962-06-09,1635,13
+22,Sheila,Tommy Roe,1,1962-07-28,1962-10-27,1611,14
+23,All Alone Am I,Brenda Lee,3,1962-09-29,1962-12-29,1577,14
+24,The Wanderer,Dion,2,1962-01-06,1962-04-07,1571,14
+25,Palisades Park,Freddy Cannon,3,1962-05-12,1962-08-18,1562,15
+26,Slow Twistin',Chubby Checker (with Dee Dee Sharp),3,1962-03-03,1962-06-02,1549,14
+27,The Wah Watusi,The Orlons,2,1962-06-09,1962-09-08,1546,14
+28,Midnight In Moscow,Kenny Ball and his Jazzmen,2,1962-02-03,1962-05-05,1523,14
+29,Green Onions,Booker T. & The MG's,3,1962-08-11,1962-11-24,1509,16
+30,Don't Break The Heart That Loves You,Connie Francis,1,1962-02-10,1962-05-05,1508,13
+31,It Keeps Right On A-Hurtin',Johnny Tillotson,3,1962-05-12,1962-08-11,1497,14
+32,Do You Love Me,The Contours,3,1962-08-11,1962-12-08,1481,18
+33,Let Me In,The Sensations,4,1962-01-06,1962-05-05,1469,18
+34,Norman,Sue Thompson,3,1962-01-06,1962-03-24,1411,12
+35,Sealed With A Kiss,Brian Hyland,3,1962-06-09,1962-09-08,1389,14
+36,Patches,Dickey Lee,6,1962-08-25,1962-11-24,1373,14
+37,Bobby's Girl,Marcie Blane,3,1962-10-20,1962-12-29,1371,11
+38,Can't Help Falling In Love,Elvis Presley With The Jordanaires,2,1962-01-06,1962-03-10,1358,10
+39,Only Love Can Break A Heart,Gene Pitney,2,1962-09-15,1962-12-15,1356,14
+40,Break It To Me Gently,Brenda Lee,4,1962-01-13,1962-04-07,1347,13
+41,I Know (You Don't Love Me No More),Barbara George,3,1962-01-06,1962-03-24,1335,12
+42,Wolverton Mountain,Claude King,6,1962-05-26,1962-09-08,1316,16
+43,Alley Cat,Bent Fabric and His Piano,7,1962-07-28,1962-11-24,1304,18
+44,Let's Dance,Chris Montez,4,1962-08-04,1962-11-10,1246,14
+45,You Don't Know Me,Ray Charles,2,1962-07-28,1962-10-06,1222,11
+46,Don't Hang Up,The Orlons,4,1962-10-13,1962-12-29,1194,12
+47,She Cried,Jay & The Americans,5,1962-03-17,1962-06-16,1194,14
+48,The One Who Really Loves You,Mary Wells,8,1962-03-24,1962-07-14,1188,17
+49,I Left My Heart In San Francisco,Tony Bennett,19,1962-08-11,1962-12-29,1188,21
+50,Playboy,The Marvelettes,7,1962-05-05,1962-08-11,1181,15
+51,Speedy Gonzales,Pat Boone,6,1962-06-16,1962-09-08,1170,13
+52,Young World,Rick Nelson,5,1962-03-03,1962-05-26,1164,13
+53,Party Lights,Claudine Clark,5,1962-06-30,1962-10-06,1138,15
+54,Twistin' The Night Away,Sam Cooke,9,1962-02-03,1962-05-12,1138,15
+55,Crying In The Rain,The Everly Brothers,6,1962-01-13,1962-04-07,1134,13
+56,(The Man Who Shot) Liberty Valance,Gene Pitney,4,1962-04-28,1962-07-21,1122,13
+57,Love Letters,Ketty Lester,5,1962-02-24,1962-05-26,1121,14
+58,Lover Please,Clyde McPhatter,7,1962-03-03,1962-06-02,1118,14
+59,Things,Bobby Darin,3,1962-07-07,1962-09-22,1103,12
+60,Dear Lady Twist,Gary U.S. Bonds,9,1962-01-06,1962-03-31,1078,13
+61,Lovers Who Wander,Dion,3,1962-04-21,1962-07-07,1077,12
+62,"Ahab, The Arab",Ray Stevens,5,1962-06-30,1962-09-08,1075,11
+63,Surfin' Safari,The Beach Boys,14,1962-08-11,1962-12-01,1070,17
+64,Gina,Johnny Mathis,6,1962-09-22,1962-12-08,1061,12
+65,Dream Baby (How Long Must I Dream),Roy Orbison,4,1962-02-17,1962-05-05,1060,12
+66,Shout! Shout! (Knock Yourself Out),Ernie Maresca,6,1962-03-31,1962-06-30,1060,14
+67,What's Your Name,Don & Juan,7,1962-02-10,1962-05-05,1053,13
+68,Next Door To An Angel,Neil Sedaka,5,1962-10-06,1962-12-15,1051,11
+69,The Lion Sleeps Tonight,The Tokens,1,1962-01-06,1962-02-24,1049,8
+70,She's Not You,Elvis Presley With The Jordanaires,5,1962-08-04,1962-10-06,1031,10
+71,Al Di La',Emilio Pericoli,6,1962-05-19,1962-08-18,1023,14
+72,Baby It's You,The Shirelles,8,1962-01-06,1962-03-24,1023,12
+73,Johnny Get Angry,Joanie Sommers,7,1962-05-26,1962-08-25,1022,14
+74,Theme From Dr. Kildare (Three Stars Will Shine Tonight),Richard Chamberlain,10,1962-06-02,1962-09-01,1004,14
+75,Shout - Part I,Joey Dee & the Starliters,6,1962-03-24,1962-06-09,997,12
+76,Cotton Fields,The Highwaymen,13,1962-01-06,1962-03-31,997,13
+77,Twist And Shout,The Isley Brothers,17,1962-06-02,1962-09-15,994,16
+78,A Little Bitty Tear,Burl Ives,9,1962-01-06,1962-03-24,991,12
+79,Venus In Blue Jeans,Jimmy Clanton,7,1962-08-18,1962-11-10,985,13
+80,Tuff,Ace Cannon,17,1962-01-06,1962-04-14,978,15
+81,Old Rivers,Walter Brennan,5,1962-04-07,1962-06-16,970,11
+82,Telstar,The Tornadoes,1,1962-11-03,1962-12-29,969,9
+83,Everybody Loves Me But You,Brenda Lee,6,1962-04-14,1962-06-23,965,11
+84,I Remember You,Frank Ifield,5,1962-09-08,1962-11-17,957,11
+85,Teen Age Idol,Rick Nelson,5,1962-08-11,1962-10-20,943,11
+86,You Belong To Me,The Duprees,7,1962-08-04,1962-10-27,941,13
+87,Ride!,Dee Dee Sharp,5,1962-10-20,1962-12-29,939,11
+88,Smoky Places,"The Corsairs Featuring Jay ""Bird"" Uzzell",12,1962-01-06,1962-04-07,924,14
+89,Popeye (The Hitchhiker),Chubby Checker,10,1962-09-15,1962-12-08,917,13
+90,Cindy's Birthday,Johnny Crawford,8,1962-05-12,1962-08-04,914,13
+91,Having A Party,Sam Cooke,17,1962-05-26,1962-09-01,914,15
+92,Rinky Dink,Baby Cortez,10,1962-07-14,1962-10-13,904,14
+93,Snap Your Fingers,Joe Henderson,8,1962-05-19,1962-08-04,900,12
+94,Her Royal Majesty,James Darren,6,1962-02-03,1962-04-14,899,11
+95,Moon River,Henry Mancini And His Orchestra,19,1962-01-06,1962-06-09,886,14
+96,You Beat Me To The Punch,Mary Wells,9,1962-08-11,1962-10-27,878,12
+97,Desafinado,Stan Getz/Charlie Byrd,15,1962-09-29,1962-12-29,876,14
+98,You'll Lose A Good Thing,Barbara Lynn,8,1962-06-16,1962-09-08,873,13
+99,The Lonely Bull (El Solo Torro),Herb Alpert And Tijuana Brass,6,1962-10-27,1962-12-29,866,10
+100,What Kind Of Fool Am I,Sammy Davis Jr.,17,1962-09-01,1962-12-08,859,15
+101,P.T. 109,Jimmy Dean,8,1962-03-31,1962-06-09,854,11
+102,Uptown,The Crystals,13,1962-03-31,1962-06-23,843,13
+103,Little Diane,Dion,8,1962-07-07,1962-09-15,833,11
+104,Gravy (For My Mashed Potatoes),Dee Dee Sharp,9,1962-06-16,1962-08-18,831,10
+105,Love Me Warm And Tender,Paul Anka,12,1962-02-24,1962-05-12,831,12
+106,(Dance With The) Guitar Man,Duane Eddy and the Rebelettes,12,1962-10-06,1962-12-29,829,13
+107,Close To Cathy,Mike Clifford,12,1962-09-15,1962-12-08,819,13
+108,"Twist, Twist Senora",Gary U.S. Bonds,9,1962-03-31,1962-06-02,816,10
+109,The Cha-Cha-Cha,Bobby Rydell,10,1962-10-13,1962-12-22,816,11
+110,Run To Him,Bobby Vee,3,1962-01-06,1962-02-24,813,8
+111,She's Got You,Patsy Cline,14,1962-01-27,1962-04-21,812,13
+112,Dear One,Larry Finnegan,11,1962-02-24,1962-05-26,811,14
+113,Funny Way Of Laughin',Burl Ives,10,1962-04-07,1962-06-16,809,11
+114,If I Had A Hammer (The Hammer Song),"Peter, Paul & Mary",10,1962-08-18,1962-11-03,809,12
+115,A Swingin' Safari,Billy Vaughn And His Orchestra,13,1962-07-21,1962-10-06,795,12
+116,Tell Me,Dick and DeeDee,22,1962-03-17,1962-06-16,794,14
+117,Release Me,"Esther Phillips ""Little Esther""",8,1962-10-27,1962-12-29,792,10
+118,Percolator (Twist),Billy Joe & The Checkmates,10,1962-01-13,1962-04-07,792,13
+119,Twistin' Matilda (and the channel),Jimmy Soul,22,1962-03-31,1962-06-30,791,14
+120,Walk On The Wild Side (Part 1),Jimmy Smith And The Big Band,21,1962-05-12,1962-08-04,767,13
+121,Soul Twist,King Curtis And The Noble Knights,17,1962-02-17,1962-06-02,766,13
+122,I'll Never Dance Again,Bobby Rydell,14,1962-06-02,1962-08-18,765,12
+123,I'm Blue (The Gong-Gong Song),The Ikettes,19,1962-01-13,1962-03-31,757,12
+124,Where Have All The Flowers Gone,The Kingston Trio,21,1962-01-20,1962-04-21,756,14
+125,"(Girls, Girls, Girls) Made To Love",Eddie Hodges,14,1962-06-23,1962-09-01,754,11
+126,Town Without Pity,Gene Pitney,13,1962-01-06,1962-03-10,753,10
+127,Second Hand Love,Connie Francis,7,1962-05-12,1962-07-07,752,9
+128,That's Old Fashioned (That's The Way Love Should Be),The Everly Brothers,9,1962-05-12,1962-07-21,747,11
+129,Nothing Can Change This Love,Sam Cooke,12,1962-09-29,1962-12-08,746,11
+130,When I Fall In Love,The Lettermen,7,1962-01-06,1962-02-24,743,8
+131,I Wish That We Were Married,Ronnie and The Hi-Lites,16,1962-03-31,1962-06-16,741,12
+132,Torture,Kris Jensen,20,1962-09-01,1962-12-01,739,14
+133,Chip Chip,Gene McDaniels,10,1962-01-20,1962-03-31,735,11
+134,Don't Play That Song (You Lied),Ben E. King,11,1962-04-21,1962-07-07,725,12
+135,"Happy Birthday, Sweet Sixteen",Neil Sedaka,6,1962-01-06,1962-02-17,715,7
+136,I Need Your Loving,Don Gardner And Dee Dee Ford,20,1962-06-02,1962-08-25,711,13
+137,Walk On By,Leroy Van Dyke,7,1962-01-06,1962-02-17,702,7
+138,Dancin' Party,Chubby Checker,12,1962-06-23,1962-08-25,702,10
+139,Come Back Silly Girl,The Lettermen,17,1962-02-17,1962-04-28,702,11
+140,Conscience,James Darren,11,1962-04-14,1962-06-16,697,10
+141,Irresistible You,Bobby Darin,15,1962-01-06,1962-03-10,696,10
+142,I Sold My Heart To The Junkman,The Blue-Belles,15,1962-04-21,1962-06-30,696,11
+143,Beechwood 4-5789,The Marvelettes,17,1962-08-11,1962-10-20,689,11
+144,Devil Woman,Marty Robbins,16,1962-07-28,1962-10-06,687,11
+145,Rain Rain Go Away,Bobby Vinton,12,1962-08-25,1962-11-03,686,11
+146,She Can't Find Her Keys,Paul Petersen,19,1962-03-03,1962-05-19,686,12
+147,Come On Little Angel,The Belmonts,28,1962-07-21,1962-10-20,686,14
+148,What's A Matter Baby (Is It Hurting You),Timi Yuro,12,1962-07-14,1962-09-22,681,11
+149,Lie To Me,Brook Benton,13,1962-08-25,1962-10-27,680,10
+150,You Better Move On,Arthur Alexander,24,1962-02-24,1962-05-12,680,12
+151,Shame On Me,Bobby Bare,23,1962-07-21,1962-10-06,678,12
+152,(I've Got) Bonnie,Bobby Rydell,18,1962-02-17,1962-04-28,676,11
+153,My Boomerang Won't Come Back,Charlie Drake,21,1962-01-13,1962-03-31,676,12
+154,Caterina,Perry Como,23,1962-03-31,1962-06-16,672,12
+155,Please Don't Ask About Barbara,Bobby Vee,15,1962-02-24,1962-05-05,666,11
+156,Follow That Dream,Elvis Presley,15,1962-05-12,1962-07-14,662,10
+157,Heart In Hand,Brenda Lee,15,1962-07-07,1962-09-08,658,10
+158,Village Of Love,Nathaniel Mayer And The Fabulous Twilights,22,1962-04-28,1962-07-14,656,12
+159,Sharing You,Bobby Vee,15,1962-05-19,1962-07-21,650,10
+160,A Steel Guitar And A Glass Of Wine,Paul Anka,13,1962-05-26,1962-07-28,646,10
+161,Nut Rocker,B. Bumble & The Stingers,23,1962-03-03,1962-05-12,645,11
+162,Hully Gully Baby,The Dovells,25,1962-08-11,1962-10-27,645,12
+163,My Own True Love,The Duprees,13,1962-10-20,1962-12-22,642,10
+164,What Kind Of Love Is This,Joey Dee & the Starliters,18,1962-08-25,1962-10-27,642,10
+165,Any Day Now (My Wild Beautiful Bird),Chuck Jackson,23,1962-04-28,1962-07-14,641,12
+166,So This Is Love,The Castells,21,1962-04-14,1962-07-07,630,13
+167,Vacation,Connie Francis,9,1962-07-28,1962-09-22,622,9
+168,Wiggle Wobble,Les Cooper and the Soul Rockers,24,1962-10-06,1962-12-29,622,11
+169,A Wonderful Dream,The Majors,22,1962-08-11,1962-10-20,618,11
+170,Bring It On Home To Me,Sam Cooke,13,1962-06-23,1962-09-15,617,11
+171,I Love You,The Volume's,22,1962-04-28,1962-07-14,616,12
+172,Johnny Jingo,Hayley Mills,21,1962-03-17,1962-05-26,615,11
+173,Keep Your Hands Off My Baby,Little Eva,12,1962-11-03,1962-12-29,614,9
+174,James (Hold The Ladder Steady),Sue Thompson,17,1962-09-29,1962-12-01,613,10
+175,Ginny Come Lately,Brian Hyland,21,1962-03-10,1962-05-19,610,11
+176,Go Away Little Girl,Steve Lawrence,4,1962-11-10,1962-12-29,607,8
+177,Your Nose Is Gonna Grow,Johnny Crawford,14,1962-08-11,1962-10-06,600,9
+178,Johnny Loves Me,Shelley Fabares,21,1962-06-09,1962-08-11,597,10
+179,Something's Got A Hold On Me,Etta James,37,1962-02-24,1962-05-12,597,12
+180,Baby Elephant Walk,Lawrence Welk And His Orchestra,48,1962-06-09,1962-09-22,597,16
+181,Send Me The Pillow You Dream On,Johnny Tillotson,17,1962-08-11,1962-10-06,589,9
+182,She's Everything (I Wanted You To Be),Ral Donner,18,1962-01-06,1962-03-10,586,10
+183,Rumors,Johnny Crawford,12,1962-11-03,1962-12-29,585,9
+184,Point Of No Return,Gene McDaniels,21,1962-08-04,1962-10-06,582,10
+185,Fortuneteller,Bobby Curtola,41,1962-05-05,1962-08-04,579,14
+186,Unchain My Heart,Ray Charles and his Orchestra,9,1962-01-06,1962-02-17,577,7
+187,I've Got A Woman (Part I),Jimmy McGriff,20,1962-10-13,1962-12-08,577,9
+188,Letter Full Of Tears,Gladys Knight And The Pips,19,1962-01-06,1962-03-03,572,9
+189,Jamie,Eddie Holland,30,1962-01-20,1962-04-14,569,13
+190,Love Came To Me,Dion,10,1962-11-10,1962-12-29,566,8
+191,Shadrack,Brook Benton,19,1962-01-13,1962-03-10,566,9
+192,You Win Again,Fats Domino,22,1962-02-24,1962-04-28,566,10
+193,Silver Threads And Golden Needles,The Springfields,20,1962-08-04,1962-10-06,564,10
+194,Cinderella,Jack Ross,16,1962-03-17,1962-05-12,561,9
+195,"Hide & Go Seek, Part I",Bunker Hill,33,1962-08-25,1962-11-17,559,13
+196,Where Are You,Dinah Washington,36,1962-05-19,1962-08-04,558,12
+197,Teach Me Tonight,George Maharis,25,1962-04-21,1962-06-30,556,11
+198,A Taste Of Honey,Martin Denny and His Orchestra,50,1962-07-14,1962-10-20,556,15
+199,If You Gotta Make A Fool Of Somebody,James Ray,22,1962-01-06,1962-02-24,552,8
+200,The Crowd,Roy Orbison,26,1962-06-02,1962-08-04,552,10
+201,You Are My Sunshine,Ray Charles,7,1962-11-17,1962-12-29,551,7
+202,Bristol Twistin' Annie,The Dovells,27,1962-05-19,1962-07-28,548,11
+203,Night Train,James Brown And The Famous Flames,35,1962-04-14,1962-06-23,539,11
+204,The Jam - Part 1,Bobby Gregg and His Friends,29,1962-03-17,1962-05-19,538,10
+205,Let There Be Drums,Sandy Nelson,13,1962-01-06,1962-02-17,534,7
+206,Workin' For The Man,Roy Orbison,33,1962-09-22,1962-12-01,532,11
+207,I Can't Help It (If I'm Still In Love With You),Johnny Tillotson,24,1962-10-27,1962-12-22,529,9
+208,Dear Lonely Hearts,Nat King Cole,13,1962-11-10,1962-12-29,526,8
+209,Let's Go (pony),The Routers,19,1962-11-03,1962-12-29,523,9
+210,Make It Easy On Yourself,Jerry Butler,20,1962-07-07,1962-09-15,521,11
+211,The Cajun Queen,Jimmy Dean,22,1962-01-27,1962-03-17,520,8
+212,Have A Good Time,Sue Thompson,31,1962-06-16,1962-08-25,515,11
+213,Limbo Rock,The Champs,40,1962-05-26,1962-08-18,515,13
+214,Love Me Tender,Richard Chamberlain,21,1962-10-06,1962-12-01,514,9
+215,You Are Mine,Frankie Avalon,26,1962-03-24,1962-06-02,513,11
+216,Léah,Roy Orbison,25,1962-10-06,1962-12-08,512,10
+217,It Might As Well Rain Until September,Carole King,22,1962-08-25,1962-10-20,511,9
+218,To A Sleeping Beauty,Jimmy Dean,26,1962-01-20,1962-03-17,509,9
+219,Little Black Book,Jimmy Dean,29,1962-09-15,1962-11-10,506,9
+220,Call Me Mr. In-Between,Burl Ives,19,1962-07-21,1962-09-15,502,9
+221,Stormy Monday Blues,Bobby Bland,43,1962-09-08,1962-12-01,495,13
+222,Punish Her,Bobby Vee,20,1962-09-01,1962-10-20,494,8
+223,Chains,The Cookies,17,1962-11-10,1962-12-29,488,8
+224,Bongo Stomp,Little Joey And The Flips,33,1962-06-16,1962-08-18,487,10
+225,The Greatest Hurt,Jackie Wilson,34,1962-01-13,1962-03-10,484,9
+226,Eso Beso (That Kiss!),Paul Anka,19,1962-11-03,1962-12-22,483,8
+227,It Started All Over Again,Brenda Lee,29,1962-06-30,1962-08-18,483,8
+228,Welcome Home Baby,The Shirelles,22,1962-06-23,1962-08-11,479,8
+229,Don't Go Near The Indians,Rex Allen,17,1962-09-15,1962-11-03,477,8
+230,Multiplication,Bobby Darin,30,1962-01-06,1962-02-24,476,8
+231,Goodbye Cruel World,James Darren,7,1962-01-06,1962-02-10,474,6
+232,Little Bitty Pretty One,Clyde McPhatter,25,1962-06-16,1962-08-04,474,8
+233,When The Boy In Your Arms (Is The Boy In Your Heart),Connie Francis,10,1962-01-06,1962-02-10,473,6
+234,Route 66 Theme,Nelson Riddle,30,1962-06-02,1962-08-18,473,12
+235,I Was Such A Fool (To Fall In Love With You),Connie Francis,24,1962-10-06,1962-12-01,469,9
+236,West Of The Wall,Toni Fisher,37,1962-05-26,1962-08-04,468,11
+237,What'd I Say (Part 1),Bobby Darin,24,1962-03-31,1962-05-19,466,8
+238,When My Little Girl Is Smiling,The Drifters,28,1962-02-24,1962-04-28,465,10
+239,Zip-A-Dee Doo-Dah,Bob B. Soxx And The Blue Jeans,9,1962-11-17,1962-12-29,464,7
+240,Twist-Her,Bill Black's Combo,26,1962-01-06,1962-02-17,461,7
+241,Anything That's Part Of You,Elvis Presley With The Jordanaires,31,1962-03-17,1962-05-05,457,8
+242,Funny How Time Slips Away,Jimmy Elledge,22,1962-01-06,1962-02-17,456,7
+243,Mama Sang A Song,Stan Kenton,32,1962-10-13,1962-12-08,455,9
+244,Till Death Do Us Part,Bob Braun,26,1962-07-21,1962-09-22,453,10
+245,Theme From Ben Casey,Valjean on Piano,28,1962-05-19,1962-07-14,452,9
+246,Cry Baby Cry,The Angels,38,1962-02-17,1962-04-28,452,11
+247,Little Red Rented Rowboat,Joe Dowell,23,1962-06-23,1962-08-18,451,9
+248,Hotel Happiness,Brook Benton,10,1962-11-24,1962-12-29,446,6
+249,He Knows I Love Him Too Much,The Paris Sisters,34,1962-01-27,1962-03-31,446,10
+250,Do-Re-Mi,Lee Dorsey,27,1962-01-06,1962-02-17,445,7
+251,Most People Get Married,Patti Page,27,1962-04-21,1962-06-09,444,8
+252,"Lovers By Night, Strangers By Day",The Fleetwoods,36,1962-10-13,1962-12-15,444,10
+253,Dreamy Eyes,Johnny Tillotson,35,1962-01-06,1962-03-10,442,10
+254,I'll See You In My Dreams,Pat Boone,32,1962-01-27,1962-03-24,437,9
+255,Afrikaan Beat,Bert Kaempfert And His Orchestra,42,1962-01-20,1962-03-24,437,10
+256,Hide 'Nor Hair,Ray Charles and his Orchestra,20,1962-04-07,1962-05-19,436,7
+257,Swingin' Gently,Earl Grant,44,1962-05-26,1962-08-04,433,11
+258,What's So Good About Good-by,The Miracles,35,1962-01-13,1962-03-17,431,10
+259,Warmed Over Kisses (Left Over Love),Brian Hyland,25,1962-09-22,1962-11-10,429,8
+260,That Stranger Used To Be My Girl,Trade Martin,28,1962-10-20,1962-12-08,429,8
+261,Dear Ivan,Jimmy Dean,24,1962-01-06,1962-02-17,426,7
+262,Cry To Me,Solomon Burke,44,1962-01-27,1962-03-31,426,10
+263,Surfer's Stomp,The Marketts,31,1962-01-13,1962-03-10,425,9
+264,Stop The Wedding,Etta James,34,1962-07-28,1962-09-22,425,9
+265,Ruby Ann,Marty Robbins,18,1962-11-17,1962-12-29,414,7
+266,The Ballad Of Paladin,Duane Eddy,33,1962-07-07,1962-09-01,414,9
+267,Please Mr. Postman,The Marvelettes,13,1962-01-06,1962-02-10,412,6
+268,Twistin' Postman,The Marvelettes,34,1962-01-27,1962-03-24,411,9
+269,Stop The Music,The Shirelles,36,1962-09-08,1962-10-27,405,8
+270,(Do The New) Continental,The Dovells,37,1962-01-27,1962-03-31,405,10
+271,Drums Are My Beat,Sandy Nelson,29,1962-02-10,1962-03-24,403,7
+272,If A Man Answers,Bobby Darin,32,1962-09-29,1962-11-17,403,8
+273,Born To Lose,Ray Charles,41,1962-05-12,1962-07-07,397,9
+274,I Love You The Way You Are,Bobby Vinton,38,1962-08-11,1962-10-06,396,9
+275,Seven Day Weekend,Gary U.S. Bonds,27,1962-06-23,1962-08-04,393,7
+276,Susie Darlin',Tommy Roe,35,1962-10-06,1962-11-24,393,8
+277,No One Will Ever Know,Jimmie Rodgers,43,1962-09-01,1962-11-10,393,11
+278,The Push And Kick,Mark Valentino,27,1962-11-10,1962-12-29,388,8
+279,Comin' Home Baby,Mel Torme,36,1962-11-03,1962-12-29,387,9
+280,Your Cheating Heart,Ray Charles,29,1962-11-17,1962-12-29,386,7
+281,King Of The Whole Wide World,Elvis Presley With The Jordanaires,30,1962-09-22,1962-11-03,386,7
+282,Small Sad Sam,Phil McLean,21,1962-01-06,1962-02-10,384,6
+283,Two Of A Kind,Sue Thompson,42,1962-03-17,1962-05-12,384,9
+284,"Hey, Let's Twist",Joey Dee & the Starliters,20,1962-02-17,1962-03-24,383,6
+285,Itty Bitty Pieces,James Ray,41,1962-04-07,1962-06-09,380,10
+286,Chattanooga Choo Choo,Floyd Cramer,36,1962-01-20,1962-03-10,379,8
+287,Count Every Star,Linda Scott,41,1962-04-07,1962-06-09,379,10
+288,Don't You Believe It,Andy Williams,39,1962-09-15,1962-11-17,376,10
+289,You Can't Judge A Book By The Cover,Bo Diddley,48,1962-08-18,1962-10-20,374,10
+290,Spanish Lace,Gene McDaniels,31,1962-11-10,1962-12-29,369,8
+291,Pop Pop Pop - Pie,The Sherrys,35,1962-10-06,1962-11-24,365,8
+292,I'll Try Something New,The Miracles,39,1962-05-12,1962-07-14,364,10
+293,I'm The Girl From Wolverton Mountain,Jo Ann Campbell,38,1962-08-18,1962-09-29,363,7
+294,My Dad,Paul Petersen,20,1962-11-17,1962-12-29,360,7
+295,Turn On Your Love Light,Bobby Bland,28,1962-01-06,1962-02-10,360,6
+296,Steel Men,Jimmy Dean,41,1962-06-23,1962-08-11,359,8
+297,Lemon Tree,"Peter, Paul & Mary",35,1962-05-05,1962-06-23,356,8
+298,The Alvin Twist,The Chipmunks With David Seville,40,1962-03-03,1962-04-21,355,8
+299,Mama Sang A Song,Walter Brennan,38,1962-10-20,1962-12-08,354,8
+300,Mr. Songwriter,Connie Stevens,43,1962-08-04,1962-09-22,354,8
+301,At The Club,Ray Charles and his Orchestra,44,1962-03-31,1962-05-12,345,7
+302,Poor Fool,Ike & Tina Turner,38,1962-01-06,1962-02-10,342,6
+303,I Will,Vic Dana,47,1962-03-31,1962-05-26,340,9
+304,Pocketful Of Miracles,Frank Sinatra,34,1962-01-06,1962-02-10,339,6
+305,If A Woman Answers (Hang Up The Phone),Leroy Van Dyke,35,1962-03-10,1962-04-21,339,7
+306,I'll Bring It Home To You,Carla Thomas,41,1962-10-13,1962-12-01,339,8
+307,Hit Record,Brook Benton,45,1962-05-05,1962-06-23,332,8
+308,How Is Julie?,The Lettermen,42,1962-05-12,1962-06-30,331,8
+309,But Not For Me,Ketty Lester,41,1962-06-23,1962-08-04,330,7
+310,Rock-A-Hula Baby,Elvis Presley With The Jordanaires,23,1962-01-06,1962-02-03,329,5
+311,Moments,Jennell Hawkins,50,1962-03-24,1962-05-12,329,8
+312,There's No Other (Like My Baby),The Crystals,20,1962-01-06,1962-02-03,328,5
+313,Mary's Little Lamb,James Darren,39,1962-06-30,1962-08-18,328,8
+314,Patti Ann,Johnny Crawford,43,1962-03-03,1962-04-28,328,9
+315,King Of Clowns,Neil Sedaka,45,1962-03-31,1962-05-26,326,9
+316,"Summertime, Summertime",The Jamies,38,1962-06-23,1962-08-11,325,8
+317,Two Lovers,Mary Wells,19,1962-12-01,1962-12-29,321,5
+318,Baby Face,Bobby Darin,42,1962-09-29,1962-11-10,321,7
+319,Balboa Blue,The Marketts,48,1962-04-28,1962-06-30,321,10
+320,Pop-Eye,Huey Smith,51,1962-02-17,1962-04-07,320,8
+321,The Little Drummer Boy,The Harry Simeone Chorale,22,1962-01-06,1962-12-29,318,5
+322,I Don't Love You No More (I Don't Care About You),Jimmy Norman,47,1962-06-16,1962-08-04,316,8
+323,Up On The Roof,The Drifters,29,1962-11-03,1962-12-29,315,9
+324,The Boys' Night Out,Patti Page,49,1962-08-04,1962-09-29,315,9
+325,Blues (Stay Away From Me),Ace Cannon,36,1962-04-14,1962-05-26,313,7
+326,Stubborn Kind Of Fellow,Marvin Gaye,46,1962-10-20,1962-12-15,312,9
+327,I Don't Know Why,Linda Scott,16,1962-01-06,1962-02-03,309,5
+328,Stranger On The Shore,Andy Williams,38,1962-06-09,1962-07-21,308,7
+329,Why'd You Wanna Make Me Cry,Connie Stevens,52,1962-05-05,1962-07-14,308,11
+330,That's My Pa,Sheb Wooley,51,1962-01-06,1962-03-17,305,11
+331,(I was) Born To Cry,Dion,42,1962-04-21,1962-06-02,302,7
+332,Go On Home,Patti Page,42,1962-01-06,1962-02-17,302,7
+333,Revenge,Brook Benton,15,1962-01-06,1962-01-27,300,4
+334,Papa-Oom-Mow-Mow,The Rivingtons,48,1962-08-18,1962-10-06,300,8
+335,Tell Him,The Exciters,14,1962-12-01,1962-12-29,298,5
+336,Twistin' With Linda,The Isley Brothers,54,1962-09-22,1962-11-17,298,9
+337,Shutters And Boards,Jerry Wallace,34,1962-11-17,1962-12-29,294,7
+338,Mary Ann Regrets,Burl Ives,39,1962-11-03,1962-12-15,292,7
+339,Lost Someone,James Brown And The Famous Flames,48,1962-01-06,1962-02-24,291,8
+340,Walk On The Wild Side,Brook Benton,43,1962-02-17,1962-03-31,289,7
+341,Annie Get Your Yo-Yo,Little Junior Parker,51,1962-03-10,1962-04-28,287,8
+342,Lizzie Borden,The Chad Mitchell Trio,44,1962-01-27,1962-03-17,282,8
+343,Flying Circle,Frank Slay And His Orchestra,45,1962-01-06,1962-02-10,279,6
+344,You Talk About Love,Barbara George,46,1962-03-31,1962-05-05,276,6
+345,'Til,The Angels,14,1962-01-06,1962-01-27,270,4
+346,Everybody Loves A Lover,The Shirelles,27,1962-12-01,1962-12-29,267,5
+347,Ten Lonely Guys,Pat Boone,45,1962-09-22,1962-11-03,265,7
+348,You Threw A Lucky Punch,Gene Chandler,49,1962-11-24,1962-12-29,265,6
+349,Never In A Million Years,Linda Scott,56,1962-06-16,1962-08-11,265,9
+350,Moon River,Jerry Butler,27,1962-01-06,1962-02-03,263,5
+351,I'm Going Back To School,Dee Clark,52,1962-10-06,1962-11-17,263,7
+352,Save All Your Lovin' For Me,Brenda Lee,53,1962-09-22,1962-10-27,262,6
+353,Pepino The Italian Mouse,Lou Monte,11,1962-12-08,1962-12-29,261,4
+354,Gypsy Woman,The Impressions,24,1962-01-06,1962-01-27,260,4
+355,That's Life (That's Tough),Gabriel And The Angels,51,1962-11-10,1962-12-29,260,8
+356,If I Cried Every Time You Hurt Me,Wanda Jackson,58,1962-04-21,1962-06-09,257,8
+357,Our Anniversary,Shep And The Limelites,59,1962-02-17,1962-04-07,257,8
+358,Tra La La La La,Ike & Tina Turner,50,1962-03-24,1962-05-05,255,7
+359,Don't Ask Me To Be Friends,The Everly Brothers,48,1962-10-20,1962-12-01,253,7
+360,Number One Man,Bruce Channel,52,1962-04-28,1962-06-09,250,7
+361,Sweet Sixteen Bars,Earl Grant,55,1962-09-08,1962-10-27,250,8
+362,The Things We Did Last Summer,Shelley Fabares,46,1962-09-15,1962-10-20,249,6
+363,Jambalaya (On The Bayou),Fats Domino,30,1962-01-06,1962-01-27,246,4
+364,Ben Crazy,Dickie Goodman,44,1962-07-14,1962-08-18,246,6
+365,Lollipops And Roses,Paul Petersen,54,1962-08-25,1962-10-06,243,7
+366,Maria,Roger Williams,48,1962-01-06,1962-02-03,242,5
+367,Let's Twist Again,Chubby Checker,37,1962-01-06,1962-02-03,239,5
+368,White Christmas,Bing Crosby,12,1962-01-06,1962-12-29,238,4
+369,I Keep Forgettin',Chuck Jackson,55,1962-09-01,1962-10-13,238,7
+370,The Night Has A Thousand Eyes,Bobby Vee,21,1962-12-08,1962-12-29,236,4
+371,Let's Kiss And Make Up,Bobby Vinton,42,1962-12-01,1962-12-29,235,5
+372,He Thinks I Still Care,Connie Francis,57,1962-10-06,1962-11-24,235,8
+373,Boom Boom,John Lee Hooker,60,1962-05-26,1962-07-28,234,10
+374,Mr. Lonely,Buddy Greco,64,1962-09-22,1962-12-01,231,11
+375,The Chipmunk Song (Christmas Don't Be Late),David Seville And The Chipmunks,39,1962-01-06,1962-12-29,228,5
+376,Woman Is A Man's Best Friend,Teddy & The Twilights,59,1962-05-19,1962-07-07,226,8
+377,Beach Party,King Curtis And The Noble Knights,60,1962-07-21,1962-09-15,226,9
+378,Meet Me At The Twistin' Place,Johnnie Morisette,63,1962-04-14,1962-06-09,225,9
+379,The Burning Of Atlanta,Claude King,53,1962-10-06,1962-11-10,221,6
+380,When I Get Thru With You (You'll Love Me Too),Patsy Cline,53,1962-05-19,1962-06-23,220,6
+381,Yield Not To Temptation,Bobby Bland,56,1962-08-11,1962-09-29,219,8
+382,Hearts,Jackie Wilson,58,1962-04-28,1962-06-02,213,6
+383,If I Didn't Have A Dime (To Play The Jukebox),Gene Pitney,58,1962-09-01,1962-10-13,213,7
+384,Oh My Angel,Bertha Tillman,61,1962-05-05,1962-06-30,213,9
+385,Ten Little Indians,The Beach Boys,50,1962-12-01,1962-12-29,211,5
+386,Runaway,Lawrence Welk And His Orchestra,56,1962-04-07,1962-05-12,209,6
+387,My Real Name,Fats Domino,59,1962-05-12,1962-06-23,207,7
+388,Every Night (Without You),Paul Anka,46,1962-08-25,1962-09-29,206,6
+389,Diddle-Dee-Dum (What Happens When Your Love Has Gone),The Belmonts,53,1962-11-17,1962-12-22,204,6
+390,Untie Me,The Tams,60,1962-10-20,1962-12-01,202,7
+391,I Saw Linda Yesterday,Dickey Lee,39,1962-12-08,1962-12-29,200,4
+392,See See Rider,LaVern Baker,44,1962-12-01,1962-12-29,199,5
+393,Love Me As I Love You,George Maharis,54,1962-08-04,1962-09-08,199,6
+394,Lolita Ya-Ya,The Ventures,61,1962-08-04,1962-09-15,197,7
+395,Monsters' Holiday,"Bobby ""Boris"" Pickett And The Crypt-Kickers",31,1962-12-08,1962-12-29,196,4
+396,You Can Run (But You Can't Hide),Jerry Butler,63,1962-10-13,1962-11-24,196,7
+397,(Theme from) A Summer Place,Dick Roman,64,1962-08-04,1962-09-15,196,7
+398,Happy Jose (Ching-Ching),Jack Ross,57,1962-01-13,1962-02-17,195,6
+399,Second Fiddle Girl,Barbara Lynn,63,1962-09-22,1962-11-10,195,8
+400,I Could Have Loved You So Well,Ray Peterson,57,1962-01-06,1962-02-10,193,6
+401,Santa Claus Is Coming To Town,The 4 Seasons,23,1962-12-15,1962-12-29,190,3
+402,Where Have You Been (All My Life),Arthur Alexander,58,1962-05-26,1962-07-14,189,8
+403,Long As The Rose Is Red,Florraine Darlin,62,1962-08-25,1962-10-06,188,7
+404,Rainbow At Midnight,Jimmie Rodgers,62,1962-11-24,1962-12-29,186,6
+405,Ecstasy,Ben E. King,56,1962-02-03,1962-03-10,185,6
+406,The Ballad Of Thunder Road,Robert Mitchum,65,1962-02-24,1962-04-28,185,10
+407,Don't You Worry,Don Gardner And Dee Dee Ford,66,1962-08-25,1962-10-06,185,7
+408,Keep Your Love Locked (Deep In Your Heart),Paul Petersen,58,1962-06-09,1962-07-14,183,6
+409,A Little Bit Now (A Little Bit Later),The Majors,63,1962-11-17,1962-12-22,183,6
+410,Doctor Feel-Good,Dr. Feelgood And The Interns,66,1962-04-21,1962-06-23,183,9
+411,I Lost My Baby,Joey Dee,61,1962-11-03,1962-12-15,181,7
+412,Coney Island Baby,The Excellents,55,1962-11-24,1962-12-29,180,6
+413,Drummin' Up A Storm,Sandy Nelson,67,1962-04-28,1962-06-16,180,8
+414,Memories Of Maria,Jerry Byrd,74,1962-03-17,1962-05-12,180,9
+415,B'wa Nina (Pretty Girl),The Tokens,55,1962-02-10,1962-03-10,177,5
+416,It Will Stand,The Showmen,61,1962-01-06,1962-02-03,177,5
+417,Just Tell Her Jim Said Hello,Elvis Presley With The Jordanaires,55,1962-08-11,1962-09-08,176,5
+418,Yessiree,Linda Scott,60,1962-02-10,1962-03-24,176,7
+419,I've Been Everywhere,Hank Snow,68,1962-09-29,1962-11-24,174,8
+420,Lollipops And Roses,Jack Jones,66,1962-03-03,1962-04-21,173,8
+421,Johnny Will,Pat Boone,35,1962-01-06,1962-01-20,172,3
+422,The Big Draft,The Four Preps,61,1962-03-31,1962-05-05,172,6
+423,Jingle Bell Rock,Bobby Rydell/Chubby Checker,21,1962-01-06,1962-12-22,171,4
+424,It's Up To You,Rick Nelson,30,1962-12-15,1962-12-29,170,3
+425,Hey! Little Girl,Del Shannon,38,1962-01-06,1962-01-20,170,3
+426,Don't Go Near The Eskimos,Ben Colder,62,1962-11-24,1962-12-29,170,6
+427,Don't Make Me Over,Dionne Warwick,46,1962-12-08,1962-12-29,169,4
+428,What's Gonna Happen When Summer's Done,Freddy Cannon,45,1962-09-08,1962-09-29,167,4
+429,"Midnight Special, Part 1",Jimmy Smith,69,1962-03-03,1962-04-21,167,8
+430,Your Ma Said You Cried In Your Sleep Last Night,Kenny Dino,35,1962-01-06,1962-01-20,164,3
+431,Jingle Bell Rock,Bobby Helms,41,1962-01-06,1962-12-29,163,5
+432,Walkin' With My Angel,Bobby Vee,53,1962-01-06,1962-01-27,163,4
+433,The Love Of A Boy,Timi Yuro,53,1962-12-01,1962-12-29,163,5
+434,Dr. Ben Basey,Mickey Shorr and The Cutups,60,1962-06-16,1962-07-14,163,5
+435,Above The Stars,Mr. Acker Bilk,59,1962-07-14,1962-08-18,162,6
+436,Little Altar Boy,Vic Dana,45,1962-01-06,1962-01-20,159,3
+437,So Deep,Brenda Lee,52,1962-01-13,1962-02-24,159,4
+438,Why Did You Leave Me?,Vince Edwards,68,1962-07-07,1962-08-11,159,6
+439,My Melancholy Baby,The Marcels,58,1962-02-03,1962-03-03,157,5
+440,Yes Indeed,Pete Fountain,69,1962-02-24,1962-03-31,157,6
+441,Next Door To The Blues,Etta James,71,1962-10-13,1962-12-01,154,7
+442,Anna (Go To Him),Arthur Alexander,68,1962-10-27,1962-12-01,152,6
+443,Blue Water Line,The Brothers Four,68,1962-01-20,1962-03-10,150,8
+444,What's The Reason,Bobby Edwards,71,1962-01-13,1962-02-17,150,6
+445,Trouble Is My Middle Name,Bobby Vinton,49,1962-12-08,1962-12-29,149,4
+446,Happy Weekend,"Dave ""Baby"" Cortez",67,1962-10-13,1962-11-24,147,7
+447,Love Can't Wait,Marty Robbins,69,1962-04-28,1962-06-02,147,6
+448,Lookin' For A Love,The Valentinos,72,1962-08-18,1962-10-06,147,8
+449,Worried Mind,Ray Anthony,74,1962-06-30,1962-08-18,147,8
+450,The Bird Man,The Highwaymen,64,1962-07-14,1962-08-18,144,6
+451,I May Not Live To See Tomorrow,Brian Hyland,70,1962-11-24,1962-12-29,144,6
+452,Rockin' Around The Christmas Tree,Brenda Lee,50,1962-01-06,1962-12-29,142,4
+453,Somebody Have Mercy,Sam Cooke,70,1962-10-27,1962-12-01,140,6
+454,Patricia - Twist,Perez Prado And His Orchestra,65,1962-04-07,1962-05-05,139,5
+455,The Swiss Maid,Del Shannon,64,1962-09-15,1962-10-13,138,5
+456,If I Should Lose You,Dreamlovers,62,1962-06-30,1962-07-28,137,5
+457,Tennessee,Jan & Dean,69,1962-05-26,1962-07-07,137,7
+458,Down In The Valley,Solomon Burke,71,1962-05-26,1962-07-21,137,8
+459,I'll Take You Home,"The Corsairs Featuring Jay ""Bird"" Uzzell",68,1962-04-14,1962-06-02,136,8
+460,Let's Go Trippin',Dick Dale and The Del-Tones,60,1962-01-06,1962-01-27,135,4
+461,I Found A Love,The Falcons & Band (Ohio Untouchables),75,1962-03-31,1962-06-02,135,9
+462,Big Bad John,Jimmy Dean,40,1962-01-06,1962-01-20,134,3
+463,Some Kinda Fun,Chris Montez,52,1962-12-08,1962-12-29,133,4
+464,That's My Desire,Yvonne Baker and the Sensations,69,1962-04-28,1962-06-09,133,6
+465,I'm Here To Get My Baby Out Of Jail,The Everly Brothers,76,1962-10-13,1962-11-17,131,6
+466,Chapel By The Sea,Billy Vaughn And His Orchestra,69,1962-03-17,1962-04-21,130,6
+467,The White Rose Of Athens,David Carroll And His Orchestra,61,1962-02-24,1962-04-21,129,7
+468,If You Were A Rock And Roll Record,Freddy Cannon,67,1962-11-10,1962-12-08,128,5
+469,What Time Is It?,The Jive Five With Eugene Pitts,67,1962-09-15,1962-10-13,127,5
+470,Santa Claus Is Watching You,Ray Stevens,45,1962-12-15,1962-12-29,126,3
+471,Tonight,Ferrante & Teicher,36,1962-01-06,1962-01-13,121,2
+472,Up A Lazy River,Si Zentner And His Orchestra,57,1962-01-06,1962-01-20,121,3
+473,Baby Has Gone Bye Bye,George Maharis,62,1962-11-17,1962-12-15,121,5
+474,Thou Shalt Not Steal,John D. Loudermilk,73,1962-04-07,1962-05-05,121,5
+475,Half Heaven - Half Heartache,Gene Pitney,43,1962-12-15,1962-12-29,120,3
+476,Me And My Shadow,Frank Sinatra & Sammy Davis Jr.,64,1962-12-01,1962-12-29,120,5
+477,Shout And Shimmy,James Brown And The Famous Flames,61,1962-07-07,1962-07-28,119,4
+478,Hot Pepper,Floyd Cramer,63,1962-07-07,1962-07-28,119,4
+479,My Daddy Is President,Little Jo Ann,67,1962-07-07,1962-08-04,119,5
+480,Bandit Of My Dreams,Eddie Hodges,65,1962-01-27,1962-03-03,117,6
+481,Twistin' All Night Long,Danny & The Juniors with Freddy Cannon,68,1962-01-06,1962-02-03,116,5
+482,Heartaches,Patsy Cline,73,1962-10-13,1962-11-24,116,7
+483,Let Me Call You Sweetheart,Timi Yuro,66,1962-02-03,1962-03-03,114,5
+484,(What A Sad Way) To Love Someone,Ral Donner,74,1962-03-24,1962-05-05,114,7
+485,That Happy Feeling,Bert Kaempfert And His Orchestra,67,1962-05-19,1962-06-30,113,6
+486,Bermuda,Linda Scott,70,1962-02-10,1962-03-17,113,6
+487,...And Then There Were Drums,Sandy Nelson,65,1962-09-22,1962-10-13,112,4
+488,Jivin' Around,Al Casey Combo,71,1962-07-28,1962-09-08,111,6
+489,"Well, I Told You",The Chantels,43,1962-01-06,1962-01-13,110,2
+490,Oliver Twist,Rod McKuen,76,1962-01-20,1962-03-03,109,6
+491,"Turn Around, Look At Me",Glen Campbell,62,1962-01-06,1962-01-20,108,3
+492,Just Got To Know,Jimmy McCracklin,64,1962-01-06,1962-01-27,108,4
+493,Tears And Laughter,Dinah Washington,71,1962-02-10,1962-03-10,107,5
+494,Road Hog,John D. Loudermilk,65,1962-12-01,1962-12-22,106,4
+495,Baby's First Christmas,Connie Francis,26,1962-01-06,1962-01-13,105,2
+496,I'm Gonna' Be Warm This Winter,Connie Francis,51,1962-12-15,1962-12-29,105,3
+497,Surfin,The Beach Boys,75,1962-02-17,1962-03-24,105,6
+498,The Majestic,Dion,70,1962-01-06,1962-02-17,104,4
+499,Strange I Know,The Marvelettes,72,1962-12-01,1962-12-29,102,5
+500,Gonna Raise A Rukus Tonight,Jimmy Dean,73,1962-12-01,1962-12-29,102,5
+501,Tears From An Angel,Troy Shondell,77,1962-01-06,1962-02-03,102,5
+502,Rudolph The Red Nosed Reindeer,David Seville And The Chipmunks,47,1962-01-06,1962-12-29,100,4
+503,Careless Love,Ray Charles,60,1962-07-28,1962-08-18,100,4
+504,The Ballad Of Jed Clampett,Flatt & Scruggs,68,1962-12-08,1962-12-29,99,4
+505,The Christmas Song (Merry Christmas To You),Nat King Cole,65,1962-12-15,1962-12-29,96,3
+506,I Left My Heart In The Balcony,Linda Scott,74,1962-09-22,1962-11-10,96,8
+507,Just Out Of Reach (Of My Two Open Arms),Solomon Burke,49,1962-01-06,1962-01-13,95,2
+508,Glory Of Love,Don Gardner And Dee Dee Ford,75,1962-08-11,1962-09-22,94,5
+509,You've Really Got A Hold On Me,The Miracles,69,1962-12-08,1962-12-29,93,4
+510,A Miracle,Frankie Avalon,75,1962-07-14,1962-08-18,93,6
+511,Nite Owl,Dukays,73,1962-01-20,1962-03-31,91,6
+512,My Wife Can't Cook,Lonnie Russ,74,1962-12-08,1962-12-29,91,4
+513,The Rains Came,Big Sambo and The House Wreckers,74,1962-03-10,1962-04-21,91,7
+514,A Little Too Much,Clarence Henry,77,1962-01-13,1962-02-10,89,5
+515,The Gypsy Rover,The Highwaymen,56,1962-01-06,1962-01-13,87,2
+516,Lose Her,Bobby Rydell,69,1962-02-17,1962-03-10,87,4
+517,I Just Can't Help It,Jackie Wilson,70,1962-07-07,1962-07-28,86,4
+518,Good Lover,Jimmy Reed,77,1962-06-23,1962-07-14,86,4
+519,So What,Bill Black's Combo,78,1962-08-11,1962-09-22,86,7
+520,The Alley Cat Song,David Thorne,76,1962-10-20,1962-11-17,84,4
+521,Nothing New (Same Old Thing),Fats Domino,77,1962-06-30,1962-07-28,81,5
+522,What Am I Supposed To Do,Ann-Margret,82,1962-03-24,1962-04-21,79,5
+523,Who Will The Next Fool Be,Bobby Bland,76,1962-03-31,1962-04-21,78,4
+524,Remember Then,The Earls,58,1962-12-15,1962-12-29,76,3
+525,Deep In The Heart Of Texas,Duane Eddy,78,1962-04-21,1962-05-19,76,5
+526,Scotch And Soda,The Kingston Trio,81,1962-04-28,1962-06-23,76,7
+527,Did You Ever See A Dream Walking,Fats Domino,79,1962-10-06,1962-11-03,74,5
+528,Lipstick Traces (On A Cigarette),Benny Spellman,80,1962-05-05,1962-06-16,74,6
+529,Midnight,Johnny Gibson,76,1962-02-03,1962-02-24,69,4
+530,"Goodnight, Irene",Jerry Reed And The Hully Girlies,79,1962-06-30,1962-07-28,69,5
+531,Broken Heart,The Fiestas,81,1962-08-25,1962-09-29,69,6
+532,I Want To Be Loved,Dinah Washington,76,1962-08-18,1962-09-08,68,4
+533,A Girl Has To Know,The G-Clefs,81,1962-03-10,1962-04-07,68,5
+534,You're Gonna Need Me,Barbara Lynn,76,1962-12-15,1962-12-29,67,3
+535,Pictures In The Fire,Pat Boone,77,1962-02-10,1962-03-10,67,4
+536,Reap What You Sow,Billy Stewart,79,1962-07-21,1962-09-08,67,5
+537,That Greasy Kid Stuff,Janie Grant,74,1962-06-23,1962-07-21,65,4
+538,Love Is The Sweetest Thing,Saverio Saridis,86,1962-01-27,1962-03-03,64,5
+539,Big Love,Joe Henderson,74,1962-09-08,1962-09-29,63,4
+540,Roly Poly,Joey Dee & the Starliters,74,1962-03-10,1962-03-24,62,3
+541,I Need Some One,The Belmonts,75,1962-01-06,1962-01-20,62,3
+542,Loop De Loop,Johnny Thunder,61,1962-12-22,1962-12-29,61,2
+543,There'll Be No Next Time,Jackie Wilson,75,1962-01-20,1962-02-03,61,3
+544,All Night Long,Sandy Nelson,75,1962-07-14,1962-07-28,60,3
+545,Cast Your Fate To The Wind,Vince Guaraldi Trio,75,1962-12-08,1962-12-29,59,4
+546,Sweet And Lovely,April Stevens & Nino Tempo,77,1962-07-07,1962-07-28,56,4
+547,The Green Leaves Of Summer,Kenny Ball and his Jazzmen,87,1962-06-02,1962-07-07,56,6
+548,Queen Of My Heart,Rene And Ray,79,1962-06-09,1962-06-23,55,3
+549,I Told The Brook,Marty Robbins,81,1962-01-13,1962-01-27,55,3
+550,Echo,The Emotions,82,1962-12-01,1962-12-29,52,4
+551,La Paloma Twist,Chubby Checker,72,1962-03-17,1962-03-24,51,2
+552,Too Late To Worry - Too Blue To Cry,Glen Campbell,76,1962-08-25,1962-09-01,49,2
+553,I'll Remember Carol,Tommy Boyce,80,1962-10-13,1962-11-10,49,3
+554,Forever And A Day,Jackie Wilson,82,1962-09-22,1962-10-13,48,4
+555,Shake Sherry,The Contours,71,1962-12-22,1962-12-29,47,2
+556,Lovesick Blues,Frank Ifield,73,1962-12-22,1962-12-29,47,2
+557,How Can I Meet Her?,The Everly Brothers,75,1962-05-26,1962-06-16,47,3
+558,Do You Know How To Twist,Hank Ballard,87,1962-02-10,1962-03-10,47,4
+559,My Coloring Book,Kitty Kallen,67,1962-12-22,1962-12-29,46,2
+560,Let Me Be The One,The Paris Sisters,87,1962-05-12,1962-06-09,46,5
+561,The Lost Penny,Brook Benton,77,1962-01-13,1962-01-20,45,2
+562,Don't Ever Leave Me,Bob And Earl,85,1962-10-20,1962-11-10,45,4
+563,La Bomba,The Tokens,85,1962-06-30,1962-08-04,45,5
+564,But On The Other Hand Baby,Ray Charles and his Orchestra,72,1962-01-13,1962-01-20,44,2
+565,Room Full Of Tears,The Drifters,82,1962-01-06,1962-01-20,44,3
+566,The Jitterbug,The Dovells,82,1962-11-24,1962-12-08,44,3
+567,Right String But The Wrong Yo-Yo,Dr. Feelgood And The Interns,84,1962-08-04,1962-08-18,44,3
+568,Silly Boy (She Doesn't Love You),The Lettermen,81,1962-08-18,1962-09-08,43,4
+569,Adios Amigo,Jim Reeves,90,1962-05-05,1962-06-23,43,6
+570,Alvin's Harmonica,David Seville And The Chipmunks,73,1962-01-06,1962-12-22,42,2
+571,Ev'rybody's Twistin',Frank Sinatra,75,1962-04-07,1962-04-14,42,2
+572,She's A Troublemaker,The Majors,83,1962-11-24,1962-12-22,42,3
+573,Desafinado (Slightly Out Of Tune),Pat Thomas,78,1962-12-08,1962-12-15,41,2
+574,Callin' Doctor Casey,John D. Loudermilk,83,1962-07-28,1962-08-11,41,3
+575,A Little Bitty Tear,Wanda Jackson,84,1962-01-20,1962-02-03,41,3
+576,Getting Ready For The Heartbreak,Chuck Jackson,88,1962-11-17,1962-12-08,41,4
+577,Lovesick Blues,Floyd Cramer,87,1962-04-14,1962-04-28,38,3
+578,Don't Worry 'Bout Me,Vincent Edwards,72,1962-08-11,1962-08-18,37,2
+579,Unsquare Dance,The Dave Brubeck Quartet,74,1962-01-06,1962-01-13,37,2
+580,What Kind Of Fool Am I,Anthony Newley,85,1962-09-22,1962-10-27,37,4
+581,Heart Breaker,Dean Christie,87,1962-11-03,1962-12-01,36,4
+582,"I Surrender, Dear",Aretha Franklin,87,1962-02-03,1962-03-03,35,5
+583,Fool #1,Brenda Lee,68,1962-01-06,1962-01-06,33,1
+584,Fools Rush In,Etta James,87,1962-10-13,1962-11-24,33,4
+585,"Shimmy, Shimmy Walk, Part 1",The Megatons,88,1962-01-27,1962-02-24,33,4
+586,Soothe Me,Sims Twins,70,1962-01-06,1962-01-06,31,1
+587,Mashed Potatoes U.S.A.,James Brown And The Famous Flames,82,1962-09-29,1962-10-06,31,2
+588,Baby Elephant Walk,The Miniature Men,87,1962-06-09,1962-06-30,31,4
+589,Trouble In Mind,Aretha Franklin,88,1962-12-15,1962-12-29,31,3
+590,Amor,Roger Williams,88,1962-03-10,1962-04-07,31,4
+591,"Aw Shucks, Hush Your Mouth",Jimmy Reed,93,1962-01-27,1962-03-10,31,5
+592,Life's Too Short,The Lafayettes,87,1962-07-21,1962-08-04,30,3
+593,I Understand (Just How You Feel),The G-Clefs,72,1962-01-06,1962-01-06,29,1
+594,Pop Goes The Weasel,Anthony Newley,85,1962-01-06,1962-01-13,29,2
+595,Stranger On The Shore,The Drifters,73,1962-05-12,1962-05-12,28,1
+596,Drum Stomp,Sandy Nelson,86,1962-05-26,1962-06-16,28,3
+597,Mama Sang A Song,Bill Anderson,89,1962-10-27,1962-11-17,28,4
+598,Magic Wand,Don & Juan,91,1962-10-27,1962-11-10,28,3
+599,Twilight Time,Andy Williams,86,1962-12-08,1962-12-22,27,3
+600,There Is No Greater Love,The Wanderers,88,1962-08-25,1962-09-15,27,4
+601,Potato Peeler,Bobby Gregg and His Friends,89,1962-06-30,1962-07-21,27,4
+602,Language Of Love,John D. Loudermilk,75,1962-01-06,1962-01-06,26,1
+603,The Birth Of The Beat,Sandy Nelson,75,1962-02-24,1962-02-24,26,1
+604,Please Come Home For Christmas,Charles Brown,76,1962-01-06,1962-01-06,25,1
+605,409,The Beach Boys,76,1962-10-13,1962-10-13,25,1
+606,Too Bad,Ben E. King,88,1962-08-11,1962-08-18,25,2
+607,Here Comes That Feelin',Brenda Lee,89,1962-04-28,1962-05-19,25,3
+608,Further More,Ray Stevens,91,1962-10-13,1962-10-27,25,3
+609,Little Town Flirt,Del Shannon,81,1962-12-22,1962-12-29,24,2
+610,You Should'a Treated Me Right,Ike & Tina Turner,89,1962-06-30,1962-07-07,24,2
+611,Poor Little Puppet,Cathy Carroll,91,1962-08-04,1962-08-18,24,3
+612,The Cinnamon Cinder (It's A Very Nice Dance),The Pastel Six,79,1962-12-29,1962-12-29,22,1
+613,Ol' Man River,Jimmy Smith,82,1962-09-01,1962-09-29,22,3
+614,I Really Don't Want To Know,Solomon Burke,93,1962-09-08,1962-09-22,22,3
+615,My Coloring Book,Sandy Stewart,80,1962-12-29,1962-12-29,21,1
+616,Molly,Bobby Goldsboro,85,1962-12-22,1962-12-29,21,2
+617,Copy Cat,Gary U.S. Bonds,92,1962-08-25,1962-09-15,21,3
+618,Mashed Potatoes (Part 1),Steve Alaimo,81,1962-03-17,1962-03-17,20,1
+619,Keep Your Hands In Your Pockets,The Playmates,88,1962-07-14,1962-07-21,20,2
+620,What Kind Of Fool Am I?,Robert Goulet,89,1962-10-06,1962-11-10,20,2
+621,Imagine That,Patsy Cline,90,1962-05-12,1962-05-19,20,2
+622,Shout - Part 1,The Isley Brothers,94,1962-03-24,1962-04-14,20,3
+623,Way Over There,The Miracles,94,1962-09-15,1962-09-29,20,3
+624,Ida Jane,Fats Domino,90,1962-03-03,1962-03-10,19,2
+625,Joey Baby,Anita & Th' So-And-So's,91,1962-02-17,1962-03-03,19,3
+626,From A Jack To A King,Ned Miller,83,1962-12-29,1962-12-29,18,1
+627,I'm Hanging Up My Heart For You,Solomon Burke,85,1962-07-07,1962-07-21,18,2
+628,Summertime,Rick Nelson,89,1962-03-10,1962-03-17,18,2
+629,Walk On With The Duke,The Duke Of Earl,91,1962-04-28,1962-05-05,18,2
+630,Oh! What It Seemed To Be,The Castells,91,1962-08-25,1962-09-01,18,2
+631,Dancin' The Strand,Maureen Gray,91,1962-06-09,1962-07-07,18,3
+632,Teen Queen Of The Week,Freddy Cannon,92,1962-02-03,1962-03-17,18,2
+633,Limelight,Mr. Acker Bilk,92,1962-12-01,1962-12-15,18,3
+634,Aladdin,Bobby Curtola,92,1962-10-27,1962-11-17,18,3
+635,Three Hearts In A Tangle,James Brown And The Famous Flames,93,1962-12-08,1962-12-22,18,3
+636,Wild Weekend,The Rebels,84,1962-12-29,1962-12-29,17,1
+637,For All We Know,Dinah Washington,88,1962-08-25,1962-09-01,17,2
+638,Baby It's Cold Outside,Ray Charles & Betty Carter,91,1962-03-03,1962-03-10,17,2
+639,It's Magic,The Platters,91,1962-02-17,1962-02-24,17,2
+640,"Theme From ""Hatari!""",Henry Mancini And His Orchestra,95,1962-07-14,1962-08-04,17,4
+641,So Wrong,Patsy Cline,85,1962-08-25,1962-08-25,16,1
+642,Four Walls,Kay Starr,92,1962-10-27,1962-11-17,16,4
+643,Smile,Ferrante & Teicher,94,1962-03-17,1962-04-07,16,3
+644,Sweet Little Sixteen,Jerry Lee Lewis,95,1962-09-15,1962-09-29,16,3
+645,Java,Floyd Cramer,86,1962-12-29,1962-12-29,15,1
+646,Ain't That Loving You,Bobby Bland,86,1962-03-31,1962-03-31,15,1
+647,Marianna,Johnny Mathis,86,1962-06-16,1962-06-16,15,1
+648,I Need You,Rick Nelson,87,1962-12-22,1962-12-29,15,2
+649,Cookin',Al Casey Combo,92,1962-04-07,1962-04-14,15,2
+650,You're Nobody 'til Somebody Loves You,Dinah Washington,87,1962-05-12,1962-05-12,14,1
+651,Let's Go,Floyd Cramer,90,1962-02-03,1962-02-10,14,2
+652,-twistin'-White Silver Sands,Bill Black's Combo,92,1962-05-05,1962-05-19,14,2
+653,Maria,Johnny Mathis,88,1962-01-06,1962-01-06,13,1
+654,White Christmas,The Drifters Featuring Clyde McPhatter And Bill Pinkney,88,1962-12-22,1962-12-22,13,1
+655,March Of The Siamese Children,Kenny Ball and his Jazzmen,88,1962-04-14,1962-04-14,13,1
+656,A Taste Of Honey,The Victor Feldman Quartet,88,1962-09-01,1962-09-01,13,1
+657,Sam's Song,Dean Martin & Sammy Davis Jr.,94,1962-12-22,1962-12-29,13,2
+658,When The Boys Get Together,Joanie Sommers,94,1962-10-06,1962-10-20,13,3
+659,Still Waters Run Deep,Brook Benton,89,1962-12-08,1962-12-08,12,1
+660,Little Tin Soldier,The Toy Dolls,89,1962-12-29,1962-12-29,12,1
+661,I'm So Lonesome I Could Cry,Johnny Tillotson,89,1962-12-01,1962-12-01,12,1
+662,What Did Daddy Do,Shep And The Limelites,94,1962-06-30,1962-07-07,12,2
+663,Your Heart Belongs To Me,The Supremes,95,1962-08-11,1962-09-15,12,3
+664,I'm On My Way,The Highwaymen,90,1962-04-14,1962-04-14,11,1
+665,It's All Because,Linda Scott,90,1962-01-06,1962-01-06,11,1
+666,You Can't Lie To A Liar,Ketty Lester,90,1962-10-13,1962-10-13,11,1
+667,I Found A New Baby,Bobby Darin,90,1962-12-15,1962-12-15,11,1
+668,Jellybread,Booker T. & The MG's,90,1962-12-22,1962-12-22,11,1
+669,Shake Me I Rattle (Squeeze Me I Cry),Marion Worth,90,1962-12-29,1962-12-29,11,1
+670,The Basie Twist,Count Basie & His Orch.,94,1962-01-13,1962-01-20,11,2
+671,Dear Hearts And Gentle People,The Springfields,95,1962-11-03,1962-11-24,11,3
+672,Crazy,Patsy Cline,91,1962-01-06,1962-01-06,10,1
+673,Let Me Go The Right Way,The Supremes,91,1962-12-08,1962-12-08,10,1
+674,Fly Me To The Moon - Bossa Nova,Joe Harnell And His Orchestra,91,1962-12-29,1962-12-29,10,1
+675,Dream,Dinah Washington,92,1962-05-12,1962-05-19,10,2
+676,Sugar Plum,Ike Clanton,95,1962-08-04,1962-08-11,10,2
+677,Honky-Tonk Man,Johnny Horton,96,1962-03-31,1962-04-07,10,2
+678,Pushin' Your Luck,Sleepy King,92,1962-01-06,1962-01-06,9,1
+679,"Don't Cry, Baby",Aretha Franklin,92,1962-07-21,1962-07-21,9,1
+680,The Door Is Open,Tommy Hunt,92,1962-01-27,1962-01-27,9,1
+681,I Can't Say Goodbye,Bobby Vee,92,1962-02-24,1962-02-24,9,1
+682,Sugar Blues,Ace Cannon,92,1962-04-14,1962-04-14,9,1
+683,"The 2,000 Pound Bee (Part 2)",The Ventures,92,1962-12-29,1962-12-29,9,1
+684,Island In The Sky,Troy Shondell,92,1962-01-13,1962-01-13,9,1
+685,Duchess Of Earl,Pearlettes,96,1962-03-10,1962-03-17,9,2
+686,This Land Is Your Land,The New Christy Minstrels,93,1962-12-01,1962-12-01,8,1
+687,I Wouldn't Know (What To Do),Dinah Washington,93,1962-09-01,1962-09-01,8,1
+688,He's Sure The Boy I Love,The Crystals,93,1962-12-29,1962-12-29,8,1
+689,The Twist,Ernie Freeman,93,1962-01-06,1962-01-06,8,1
+690,"Jane, Jane, Jane",The Kingston Trio,93,1962-05-19,1962-05-19,8,1
+691,I Found Love,Jackie Wilson & Linda Hopkins,93,1962-04-21,1962-04-21,8,1
+692,Doin' The Continental Walk,Danny & The Juniors,93,1962-04-14,1962-04-14,8,1
+693,Fiesta,"Dave ""Baby"" Cortez",96,1962-11-17,1962-11-24,8,2
+694,Searching,Jack Eubanks,96,1962-01-06,1962-01-13,8,2
+695,Bonanza!,Johnny Cash,94,1962-09-15,1962-09-15,7,1
+696,The Waltz You Saved For Me,Ferlin Husky,94,1962-01-06,1962-01-06,7,1
+697,I'm Coming Home,Paul Anka,94,1962-08-25,1962-08-25,7,1
+698,Rough Lover,Aretha Franklin,94,1962-02-10,1962-02-10,7,1
+699,The Searching Is Over,Joe Henderson,94,1962-11-24,1962-11-24,7,1
+700,Pop-Eye Stroll,Mar-Keys,94,1962-03-31,1962-03-31,7,1
+701,I'm Gonna Change Everything,Jim Reeves,95,1962-10-13,1962-10-20,7,2
+702,One More Town,The Kingston Trio,97,1962-10-27,1962-11-17,7,2
+703,Operator,Gladys Knight And The Pips,97,1962-04-14,1962-05-12,7,2
+704,A Sunday Kind Of Love,Jan & Dean,95,1962-01-20,1962-01-20,6,1
+705,Beach Party,Dave York and The Beachcombers,95,1962-08-25,1962-08-25,6,1
+706,Play The Thing,Marlowe Morris Quintet,95,1962-03-31,1962-03-31,6,1
+707,You Don't Miss Your Water,William Bell,95,1962-04-28,1962-04-28,6,1
+708,"Quando, Quando, Quando (Tell Me When)",Pat Boone,95,1962-05-19,1962-05-19,6,1
+709,Lover Come Back To Me,The Cleftones,95,1962-12-29,1962-12-29,6,1
+710,The (Bossa Nova) Bird,The Dells,97,1962-12-22,1962-12-29,6,2
+711,You're A Sweetheart,Dinah Washington,98,1962-11-24,1962-12-01,6,2
+712,Portrait Of A Fool,Conway Twitty,98,1962-01-20,1962-01-27,6,2
+713,Guitar Boogie Shuffle Twist,The Virtues,96,1962-03-24,1962-03-24,5,1
+714,The Little Drummer Boy,The Jack Halloran Singers,96,1962-01-06,1962-01-06,5,1
+715,Let Me Entertain You,Ray Anthony,96,1962-12-15,1962-12-15,5,1
+716,Hey Paula,Paul and Paula,96,1962-12-29,1962-12-29,5,1
+717,Send For Me (If you need some Lovin),Barbara George,96,1962-09-08,1962-09-08,5,1
+718,"Cold, Cold Heart",Dinah Washington,96,1962-11-17,1962-11-17,5,1
+719,Little Young Lover,The Impressions,96,1962-07-28,1962-07-28,5,1
+720,Shake A Hand,Ruth Brown,97,1962-06-23,1962-06-30,5,2
+721,Strange,Patsy Cline,97,1962-02-10,1962-02-17,5,2
+722,Limbo Dance,The Champs,97,1962-10-20,1962-10-20,4,1
+723,Hail To The Conquering Hero,James Darren,97,1962-10-13,1962-10-13,4,1
+724,This Land Is Your Land,Ketty Lester,97,1962-12-01,1962-12-01,4,1
+725,Come On Baby,Bruce Channel,98,1962-07-28,1962-08-04,4,2
+726,Lisa,Ferrante & Teicher,98,1962-06-16,1962-06-23,4,2
+727,I'm Tossin' And Turnin' Again,Bobby Lewis,98,1962-07-28,1962-07-28,3,1
+728,Stardust,Frank Sinatra,98,1962-03-24,1962-03-24,3,1
+729,Lover Come Back,Doris Day,98,1962-04-07,1962-04-07,3,1
+730,Does He Mean That Much To You?,Eddy Arnold,98,1962-12-22,1962-12-22,3,1
+731,What To Do With Laurie,Mike Clifford,98,1962-12-29,1962-12-29,3,1
+732,Big Boat,"Peter, Paul & Mary",98,1962-12-15,1962-12-15,3,1
+733,My Time For Cryin',Maxine Brown,98,1962-06-30,1962-06-30,3,1
+734,Dance With Mr. Domino,Fats Domino,98,1962-07-21,1962-07-21,3,1
+735,The Comancheros,Claude King,98,1962-01-13,1962-01-13,3,1
+736,Zero-Zero,Lawrence Welk,98,1962-12-08,1962-12-08,3,1
+737,Someday (When I'm Gone From You),Bobby Vee and The Crickets,99,1962-09-22,1962-09-29,3,2
+738,Sugar Babe,Buster Brown,99,1962-02-03,1962-02-10,3,2
+739,Sweet Thursday,Johnny Mathis,99,1962-03-17,1962-04-07,3,2
+740,Don't Stop The Wedding,Ann Cole,99,1962-11-24,1962-11-24,2,1
+741,Popeye Joe,Ernie K-Doe,99,1962-02-24,1962-02-24,2,1
+742,Air Travel,Ray And Bob,99,1962-06-23,1962-06-23,2,1
+743,Hully Gully Guitar,Jerry Reed And The Hully Girlies,99,1962-10-13,1962-10-13,2,1
+744,Where Do You Come From,Elvis Presley With The Jordanaires,99,1962-10-27,1962-10-27,2,1
+745,"From The Bottom Of My Heart (Dammi, Dammi, Dammi)",Dean Martin,99,1962-12-01,1962-12-01,2,1
+746,Mama (He Treats Your Daughter Mean),Ruth Brown,99,1962-09-08,1962-09-08,2,1
+747,Grow Closer Together,The Impressions,99,1962-02-17,1962-02-17,2,1
+748,"Silent Night, Holy Night",Mahalia Jackson,99,1962-12-29,1962-12-29,2,1
+749,The Moon Was Yellow,Frank Sinatra,99,1962-03-17,1962-03-17,2,1
+750,Cry Myself To Sleep,Del Shannon,99,1962-06-30,1962-06-30,2,1
+751,Funny,Gene McDaniels,99,1962-04-21,1962-04-21,2,1
+752,Motorcycle,Tico And The Triumphs,99,1962-01-06,1962-01-06,2,1
+753,The John Birch Society,The Chad Mitchell Trio,99,1962-05-19,1962-05-19,2,1
+754,Limbo,The Capris,99,1962-08-18,1962-08-18,2,1
+755,The Wonderful World Of The Young,Andy Williams,99,1962-03-24,1962-03-24,2,1
+756,Lonesome Number One,Don Gibson,99,1962-01-13,1962-01-13,2,1
+757,Tequila Twist,The Champs,99,1962-02-03,1962-02-03,2,1
+758,Theme From Taras Bulba (The Wishing Star),Jerry Butler,100,1962-12-15,1962-12-15,1,1
+759,Drown In My Own Tears,Don Shirley,100,1962-01-06,1962-01-06,1,1
+760,Sweet Georgia Brown,Carroll Bros.,100,1962-08-18,1962-08-18,1,1
+761,Night Time,Pete Antell,100,1962-12-08,1962-12-08,1,1
+762,(Quarter To Four) Stomp,The Stompers,100,1962-03-03,1962-03-03,1,1
+763,Houdini,Walter Brennan,100,1962-08-04,1962-08-04,1,1
+764,Father Knows Best,The Radiants,100,1962-11-03,1962-11-03,1,1
+765,Goodbye Dad,The Castle Sisters,100,1962-07-21,1962-07-21,1,1
+766,Till There Was You,Valjean on Piano,100,1962-08-25,1962-08-25,1,1
+767,The Popeye Waddle,Don Covay,100,1962-12-29,1962-12-29,1,1
+768,Try A Little Tenderness,Aretha Franklin,100,1962-09-29,1962-09-29,1,1

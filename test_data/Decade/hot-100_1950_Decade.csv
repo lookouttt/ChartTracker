@@ -1,0 +1,926 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Mack The Knife,Bobby Darin,1,1959-08-24,1959-12-28,3036,19
+2,The Battle Of New Orleans,Johnny Horton,1,1959-04-27,1959-09-14,2852,21
+3,It's All In The Game,Tommy Edwards,1,1958-08-18,1959-01-12,2798,22
+4,"To Know Him, Is To Love Him",The Teddy Bears,1,1958-09-22,1959-02-23,2606,23
+5,Tom Dooley,The Kingston Trio,1,1958-09-29,1959-02-16,2594,21
+6,Smoke Gets In Your Eyes,The Platters,1,1958-11-17,1959-03-23,2437,19
+7,Donna,Ritchie Valens,2,1958-11-24,1959-04-27,2437,23
+8,It's Only Make Believe,Conway Twitty,1,1958-09-15,1959-02-02,2413,21
+9,Mr. Blue,The Fleetwoods,1,1959-09-07,1959-12-28,2410,17
+10,Rock-in Robin,Bobby Day,2,1958-08-04,1958-12-22,2277,21
+11,Bird Dog,The Everly Brothers,2,1958-08-04,1958-12-01,2250,18
+12,Nel Blu Dipinto Di Blu (Volaré),Domenico Modugno,1,1958-08-04,1958-11-17,2242,16
+13,Stagger Lee,Lloyd Price,1,1958-12-08,1959-04-27,2234,21
+14,Put Your Head On My Shoulder,Paul Anka,2,1959-08-31,1959-12-28,2187,18
+15,Venus,Frankie Avalon,1,1959-02-09,1959-06-01,2169,17
+16,Lonely Boy,Paul Anka,1,1959-06-01,1959-09-07,2163,15
+17,Personality,Lloyd Price and His Orchestra,2,1959-04-27,1959-08-31,2125,19
+18,The Three Bells,The Browns,1,1959-07-27,1959-11-16,2097,17
+19,Little Star,The Elegants,1,1958-08-04,1958-11-24,2076,17
+20,Topsy II,Cozy Cole,3,1958-08-25,1959-01-12,2069,21
+21,16 Candles,The Crests,2,1958-11-24,1959-04-13,2067,21
+22,My Heart Is An Open Book,"Carl Dobkins, Jr.",3,1959-04-13,1959-09-28,2054,24
+23,Chantilly Lace,Big Bopper,6,1958-08-04,1959-01-19,2024,25
+24,A Lover's Question,Clyde McPhatter,6,1958-10-06,1959-03-23,2014,24
+25,Sleep Walk,Santo & Johnny,1,1959-07-27,1959-11-23,2010,18
+26,Dream Lover,Bobby Darin,2,1959-04-20,1959-08-10,2003,17
+27,Come Softly To Me,The Fleetwoods,1,1959-03-09,1959-06-22,1946,16
+28,Pink Shoe Laces,Dodie Stevens,3,1959-02-16,1959-06-22,1830,19
+29,Don't You Know,Della Reese,2,1959-09-21,1959-12-28,1826,15
+30,My Happiness,Connie Francis,2,1958-12-08,1959-04-06,1807,18
+31,Sea Of Love,Phil Phillips With The Twilights,2,1959-07-06,1959-11-02,1798,18
+32,Charlie Brown,The Coasters,2,1959-02-02,1959-05-11,1785,15
+33,Kansas City,Wilbert Harrison,1,1959-04-13,1959-07-27,1770,16
+34,One Night,Elvis Presley,4,1958-11-10,1959-03-02,1744,17
+35,It's Just A Matter Of Time,Brook Benton,3,1959-01-26,1959-05-25,1734,18
+36,Gotta Travel On,Billy Grammer,4,1958-11-24,1959-04-06,1729,20
+37,('til) I Kissed You,The Everly Brothers,4,1959-08-17,1959-11-30,1728,16
+38,Tears On My Pillow,Little Anthony And The Imperials,4,1958-08-11,1958-12-15,1723,19
+39,The Happy Organ,"Dave ""Baby"" Cortez",1,1959-03-16,1959-07-06,1711,17
+40,Lonesome Town,Ricky Nelson,7,1958-10-20,1959-02-16,1708,18
+41,Lonely Teardrops,Jackie Wilson,7,1958-11-24,1959-04-13,1689,21
+42,There Goes My Baby,The Drifters,2,1959-06-01,1959-10-05,1681,19
+43,Sorry (I Ran All The Way Home),The Impalas,2,1959-03-16,1959-07-13,1664,18
+44,Just A Dream,Jimmy Clanton And His Rockets,4,1958-08-04,1958-11-10,1658,15
+45,Lavender-Blue,Sammy Turner,3,1959-06-22,1959-10-19,1654,18
+46,Heartaches By The Number,Guy Mitchell,1,1959-10-05,1959-12-28,1624,13
+47,Teen Beat,Sandy Nelson,4,1959-09-07,1959-12-21,1618,16
+48,Susie Darlin',Robin Luke,5,1958-08-11,1958-12-01,1605,17
+49,Tea For Two Cha Cha,The Tommy Dorsey Orchestra,7,1958-09-01,1959-01-12,1604,20
+50,Primrose Lane,Jerry Wallace With The Jewels,8,1959-08-17,1959-12-28,1595,20
+51,Tragedy,Thomas Wayne With the Delons,5,1959-01-26,1959-06-01,1582,19
+52,Beep Beep,The Playmates,4,1958-11-03,1959-02-09,1569,15
+53,I Cried A Tear,LaVern Baker,6,1958-12-08,1959-04-27,1564,21
+54,A Big Hunk O' Love,Elvis Presley With The Jordanaires,1,1959-07-06,1959-10-05,1563,14
+55,Problems,The Everly Brothers,2,1958-11-10,1959-02-16,1558,15
+56,I'm Gonna Get Married,Lloyd Price,3,1959-08-10,1959-11-09,1536,14
+57,Lipstick On Your Collar,Connie Francis,5,1959-05-18,1959-09-07,1531,17
+58,Quiet Village,The Exotic Sounds of Martin Denny,4,1959-04-13,1959-07-27,1530,16
+59,Red River Rock,Johnny And The Hurricanes,5,1959-08-03,1959-11-23,1522,17
+60,The All American Boy,Bill Parsons,2,1958-12-22,1959-04-06,1519,16
+61,The Chipmunk Song,The Chipmunks With David Seville,1,1958-12-01,1959-02-23,1510,13
+62,A Teenager In Love,Dion & The Belmonts,5,1959-04-20,1959-07-27,1475,15
+63,What A Diff'rence A Day Makes,Dinah Washington,8,1959-05-25,1959-10-05,1473,20
+64,Lonely Street,Andy Williams,5,1959-09-07,1959-12-21,1472,16
+65,Waterloo,Stonewall Jackson,4,1959-05-25,1959-09-07,1471,16
+66,The End,Earl Grant,7,1958-09-15,1959-01-19,1463,19
+67,The Hawaiian Wedding Song (Ke Kali Nei Au),Andy Williams,11,1958-12-29,1959-05-11,1443,20
+68,Patricia,Perez Prado And His Orchestra,2,1958-08-04,1958-11-03,1436,14
+69,Guitar Boogie Shuffle,The Virtues,5,1959-03-09,1959-06-22,1435,16
+70,(Now and Then There's) A Fool Such As I,Elvis Presley With The Jordanaires,2,1959-03-23,1959-06-29,1399,15
+71,Never Be Anyone Else But You,Ricky Nelson,6,1959-02-23,1959-06-08,1383,16
+72,My True Love,Jack Scott,3,1958-08-04,1958-11-03,1360,14
+73,Tiger,Fabian,3,1959-06-15,1959-09-07,1359,13
+74,Deck Of Cards,Wink Martindale,7,1959-09-14,1959-12-28,1334,16
+75,Poor Little Fool,Ricky Nelson,1,1958-08-04,1958-10-13,1332,11
+76,In The Mood,Ernie Fields & Orch.,4,1959-09-21,1959-12-28,1328,15
+77,Queen Of The Hop,Bobby Darin,9,1958-10-06,1959-02-09,1324,19
+78,Broken-Hearted Melody,Sarah Vaughan,7,1959-07-20,1959-11-23,1316,19
+79,Robbin' The Cradle,Tony Bellus,25,1959-04-27,1959-10-19,1313,26
+80,"Kookie, Kookie (Lend Me Your Comb)",Edward Byrnes & Connie Stevens,4,1959-04-20,1959-07-13,1305,13
+81,Tallahassee Lassie,Freddy Cannon,6,1959-05-11,1959-08-17,1280,15
+82,Peter Gunn,Ray Anthony and His Orchestra,8,1959-01-05,1959-04-27,1273,17
+83,What'd I Say (Part I & II),Ray Charles and his Orchestra,6,1959-07-06,1959-10-12,1270,15
+84,I've Had It,The Bell Notes,6,1959-01-26,1959-05-11,1267,16
+85,Poison Ivy,The Coasters,7,1959-08-24,1959-12-07,1256,16
+86,I Got Stung,Elvis Presley,8,1958-11-03,1959-02-16,1255,16
+87,Whole Lotta Loving,Fats Domino,6,1958-11-17,1959-02-23,1251,15
+88,Goodbye Baby,Jack Scott,8,1958-12-15,1959-03-30,1218,16
+89,I Got A Feeling,Ricky Nelson,10,1958-10-13,1959-02-02,1214,17
+90,Alvin's Harmonica,David Seville And The Chipmunks,3,1959-02-16,1959-05-04,1198,12
+91,Summertime Blues,Eddie Cochran,8,1958-08-04,1958-11-17,1188,16
+92,Just Ask Your Heart,Frankie Avalon,7,1959-08-31,1959-12-14,1187,16
+93,Manhattan Spiritual,Reg Owen & His Orchestra,10,1958-12-08,1959-03-23,1184,16
+94,Born Too Late,Poni-Tails,7,1958-08-04,1958-11-03,1154,14
+95,I Need Your Love Tonight,Elvis Presley With The Jordanaires,4,1959-03-30,1959-06-22,1153,13
+96,You're So Fine,The Falcons,17,1959-04-20,1959-08-31,1143,20
+97,Petite Fleur (Little Flower),Chris Barber's Jazz Band,5,1959-01-12,1959-04-20,1142,15
+98,Only You,Franck Pourcel's French Fiddles,9,1959-04-06,1959-07-20,1141,16
+99,(All of a Sudden) My Heart Sings,Paul Anka,15,1958-12-22,1959-04-13,1138,17
+100,Near You,Roger Williams,10,1958-08-18,1958-12-08,1135,17
+101,(Seven Little Girls) Sitting In The Back Seat,Paul Evans and the Curls,9,1959-09-14,1959-12-28,1128,16
+102,We Got Love,Bobby Rydell,6,1959-10-12,1959-12-28,1124,12
+103,So Many Ways,Brook Benton,6,1959-10-19,1959-12-28,1120,11
+104,Makin' Love,Floyd Robinson,20,1959-07-20,1959-11-16,1113,18
+105,Frankie,Connie Francis,9,1959-05-18,1959-08-24,1111,15
+106,Forty Miles Of Bad Road,Duane Eddy And The Rebels,9,1959-06-15,1959-09-21,1109,15
+107,Since I Don't Have You,The Skyliners,12,1959-02-16,1959-06-22,1098,19
+108,Bimbombey,Jimmie Rodgers,11,1958-11-10,1959-02-23,1096,16
+109,So Fine,The Fiestas,11,1959-04-06,1959-07-20,1090,16
+110,May You Always,The McGuire Sisters,11,1959-01-05,1959-04-20,1074,16
+111,Tall Paul,Annette With The Afterbeats,7,1959-01-05,1959-04-13,1067,15
+112,I Want To Walk You Home,Fats Domino,8,1959-08-10,1959-11-02,1059,13
+113,Turn Me Loose,Fabian,9,1959-03-30,1959-06-22,1058,13
+114,Poor Boy,The Royaltones,17,1958-10-20,1959-02-09,1057,17
+115,Danny Boy,Conway Twitty,10,1959-09-28,1959-12-28,1053,14
+116,Devoted To You,The Everly Brothers,10,1958-08-11,1958-11-10,1049,14
+117,Morgen,Ivo Robic and The Song-Masters,13,1959-08-17,1959-12-07,1048,17
+118,Sea Cruise,Frankie Ford,14,1959-02-09,1959-06-01,1039,17
+119,Battle Hymn Of The Republic,The Mormon Tabernacle Choir,13,1959-09-07,1959-12-21,1028,16
+120,I'll Wait For You,Frankie Avalon,15,1958-10-13,1959-02-09,1021,17
+121,Bobby Sox To Stockings,Frankie Avalon,8,1959-05-25,1959-08-17,1001,13
+122,Love Is All We Need,Tommy Edwards,15,1958-10-27,1959-02-09,998,16
+123,Enchanted,The Platters,12,1959-03-23,1959-06-29,997,15
+124,It Was I,Skip And Flip,11,1959-06-22,1959-10-05,974,16
+125,Tell Him No,Travis & Bob,8,1959-03-23,1959-06-15,967,13
+126,You Were Mine,Fireflies,21,1959-09-07,1959-12-21,967,16
+127,Misty,Johnny Mathis,12,1959-10-05,1959-12-28,966,13
+128,How The Time Flies,Jerry Wallace,11,1958-08-18,1958-12-01,965,16
+129,I Only Have Eyes For You,The Flamingos,11,1959-06-01,1959-08-24,959,13
+130,It's Late,Ricky Nelson,9,1959-03-02,1959-05-25,957,13
+131,The Day The Rains Came,Jane Morgan,21,1958-09-22,1958-12-29,957,15
+132,Just Keep It Up,Dee Clark,18,1959-05-04,1959-08-10,950,15
+133,Oh! Carol,Neil Sedaka,9,1959-10-12,1959-12-28,945,12
+134,Pussy Cat,The Ames Brothers,17,1958-09-29,1959-01-05,941,15
+135,Western Movies,The Olympics,8,1958-08-04,1958-10-20,939,12
+136,The Diary,Neil Sedaka,14,1958-12-08,1959-03-16,937,15
+137,"I Loves You, Porgy",Nina Simone,18,1959-08-03,1959-11-09,937,15
+138,Fever,Peggy Lee,8,1958-08-04,1958-10-20,936,12
+139,Kissin' Time,Bobby Rydell,11,1959-06-29,1959-10-19,935,17
+140,Just As Much As Ever,Bob Beckham,32,1959-08-10,1959-12-28,929,20
+141,Mexican Hat Rock,The Applejacks,16,1958-09-15,1958-12-22,926,15
+142,Thank You Pretty Baby,Brook Benton,16,1959-07-13,1959-10-12,920,14
+143,Just A Little Too Much,Ricky Nelson,9,1959-06-29,1959-09-21,913,13
+144,"Goodbye Jimmy, Goodbye",Kathy Linden,11,1959-04-13,1959-07-13,905,14
+145,You Cheated,The Shields,15,1958-08-25,1958-12-08,904,16
+146,The Children's Marching Song (Nick Nack Paddy Whack),"Mitch Miller and his ""Sing Along With Mitch"" Chorus",16,1959-01-12,1959-04-13,903,14
+147,A Boy Without A Girl,Frankie Avalon,10,1959-05-25,1959-08-24,897,14
+148,Nobody But You,Dee Clark,21,1958-12-01,1959-03-23,897,17
+149,She Say (Oom Dooby Doom),The Diamonds,18,1959-01-26,1959-04-27,894,14
+150,Hey Little Girl,Dee Clark,20,1959-08-24,1959-11-30,889,15
+151,The Children's Marching Song (Nick Nack Taddy Whack),Cyril Stapleton And His Orchestra,13,1959-01-12,1959-04-13,887,14
+152,Hushabye,The Mystics,20,1959-05-25,1959-08-31,885,15
+153,Call Me,Johnny Mathis,21,1958-09-29,1959-01-05,883,15
+154,There Goes My Heart,Joni James,19,1958-09-15,1958-12-29,880,16
+155,The Tijuana Jail,The Kingston Trio,12,1959-03-23,1959-06-15,879,13
+156,Baby Talk,Jan & Dean,10,1959-08-03,1959-10-19,874,12
+157,It Doesn't Matter Anymore,Buddy Holly,13,1959-02-23,1959-05-25,873,14
+158,Are You Really Mine,Jimmie Rodgers,10,1958-08-04,1958-10-27,871,13
+159,When,Kalin Twins,5,1958-08-04,1958-09-29,863,9
+160,Everybody Loves A Lover,Doris Day,14,1958-08-04,1958-10-20,863,12
+161,Bongo Rock,Preston Epps,14,1959-05-18,1959-08-10,862,13
+162,Endlessly,Brook Benton,12,1959-04-20,1959-07-13,858,13
+163,Hideaway,The Four Esquires,21,1958-09-22,1959-01-12,856,17
+164,Sweeter Than You,Ricky Nelson,9,1959-07-06,1959-09-21,853,12
+165,Mona Lisa,Carl Mann,25,1959-06-01,1959-09-14,853,16
+166,Forget Me Not,Kalin Twins,12,1958-09-29,1959-01-05,851,15
+167,La Bamba,Ritchie Valens,22,1958-12-29,1959-04-06,847,15
+168,Somebody Touched Me,Buddy Knox with the Rhythm Orchids,22,1958-08-04,1958-11-03,846,14
+169,Stupid Cupid,Connie Francis,17,1958-08-04,1958-10-27,845,13
+170,No One Knows,Dion & The Belmonts,24,1958-08-25,1958-12-08,842,16
+171,Please Mr. Sun,Tommy Edwards,11,1959-02-16,1959-05-11,839,13
+172,My Wish Came True,Elvis Presley With The Jordanaires,12,1959-07-13,1959-09-21,839,11
+173,The Angels Listened In,The Crests,22,1959-08-17,1959-11-30,835,16
+174,Along Came Jones,The Coasters,9,1959-05-18,1959-08-03,834,12
+175,Take A Message To Mary,The Everly Brothers,16,1959-03-30,1959-06-22,832,13
+176,Love You Most Of All,Sam Cooke,26,1958-11-17,1959-03-02,831,16
+177,The Wonder Of You,Ray Peterson,25,1959-05-18,1959-08-31,828,16
+178,What Is Love?,The Playmates,15,1959-07-06,1959-09-28,825,13
+179,I'm Gonna Be A Wheel Some Day,Fats Domino,17,1959-07-27,1959-10-19,818,13
+180,Love Potion No. 9,The Clovers,23,1959-09-14,1959-12-28,815,16
+181,Ginger Bread,Frankie Avalon,9,1958-08-04,1958-10-13,810,11
+182,Woo-Hoo,Rock-A-Teens,16,1959-10-05,1959-12-21,809,12
+183,Need You,Donnie Owens,25,1958-10-06,1959-01-12,807,15
+184,Here Comes Summer,Jerry Keller,14,1959-06-29,1959-09-21,804,13
+185,Be My Guest,Fats Domino,8,1959-10-26,1959-12-28,802,10
+186,Win Your Love For Me,Sam Cooke,33,1958-08-04,1958-11-24,798,17
+187,Mary Lou,Ronnie Hawkins and The Hawks,26,1959-08-17,1959-11-30,794,16
+188,Three Stars,Tommy Dee with Carol Kay and the Teen-Aires,11,1959-03-30,1959-06-15,793,12
+189,That's Why (I Love You So),Jackie Wilson,13,1959-03-23,1959-06-15,792,13
+190,Lucky Ladybug,Billy & Lillie,14,1958-12-22,1959-03-16,789,13
+191,Willie And The Hand Jive,The Johnny Otis Show,9,1958-08-04,1958-10-06,787,10
+192,Unforgettable,Dinah Washington,17,1959-10-05,1959-12-28,787,13
+193,Cannonball,Duane Eddy His Twangy Guitar And The Rebels,15,1958-11-03,1959-01-19,781,12
+194,Firefly,Tony Bennett,20,1958-09-08,1958-12-01,774,13
+195,This Should Go On Forever,Rod Bernard,20,1959-03-09,1959-05-25,772,12
+196,Ten Commandments Of Love,Harvey & The Moonglows,22,1958-09-15,1958-12-29,770,16
+197,Small World,Johnny Mathis,20,1959-06-15,1959-09-21,768,15
+198,Dance With Me,The Drifters,15,1959-10-12,1959-12-28,767,12
+199,Volare (Nel Blu Dipinto Di Blu),Dean Martin,15,1958-08-04,1958-10-27,764,13
+200,Guess Who,Jesse Belvin,31,1959-03-30,1959-06-22,761,13
+201,Rebel-'rouser,Duane Eddy His Twangy Guitar And The Rebels,6,1958-08-04,1958-09-22,760,8
+202,With The Wind And The Rain In Your Hair,Pat Boone,21,1959-01-12,1959-04-13,759,14
+203,The Enchanted Sea,The Islanders,15,1959-09-28,1959-12-21,751,13
+204,Splish Splash,Bobby Darin,3,1958-08-04,1958-09-22,742,8
+205,Crossfire,Johnny And The Hurricanes,23,1959-04-27,1959-07-27,742,14
+206,The Lonely One,Duane Eddy His Twangy Guitar And The Rebels,23,1959-01-19,1959-04-13,741,13
+207,I Ain't Never,Webb Pierce,24,1959-08-10,1959-11-09,740,14
+208,I Got A Wife,The Mark IV,24,1959-01-26,1959-04-13,737,12
+209,Itchy Twitchy Feeling,Bobby Hendricks,25,1958-08-04,1958-11-03,736,14
+210,Say Man,Bo Diddley,20,1959-09-21,1959-12-07,732,12
+211,High Hopes,"Frank Sinatra ""and a bunch of kids""",30,1959-06-15,1959-10-05,727,17
+212,Caribbean,Mitchell Torok,27,1959-08-03,1959-11-02,726,14
+213,The Big Hurt,Miss Toni Fisher,3,1959-11-16,1959-12-28,724,7
+214,I've Come Of Age,Billy Storm,28,1959-04-13,1959-07-13,714,14
+215,Come To Me,Marv Johnson,30,1959-03-16,1959-06-22,712,15
+216,That Old Black Magic,Louis Prima And Keely Smith,18,1958-11-03,1959-01-26,711,13
+217,El Paso,Marty Robbins,2,1959-11-09,1959-12-28,708,8
+218,Everybody Likes To Cha Cha Cha,Sam Cooke,31,1959-03-09,1959-06-01,700,13
+219,A Worried Man,The Kingston Trio,20,1959-09-14,1959-11-23,693,11
+220,M.T.A.,The Kingston Trio,15,1959-06-15,1959-08-24,689,11
+221,Poor Jenny,The Everly Brothers,22,1959-03-30,1959-06-15,689,12
+222,Lonely For You,Gary Stites,24,1959-04-13,1959-07-13,688,14
+223,I'm Ready,Fats Domino,16,1959-05-11,1959-07-20,679,11
+224,Why,Frankie Avalon,1,1959-11-23,1959-12-28,676,6
+225,This I Swear,The Skyliners,26,1959-06-01,1959-08-17,673,12
+226,The Little Drummer Boy,The Harry Simeone Chorale,13,1958-12-22,1959-12-28,672,12
+227,A Letter To An Angel,Jimmy Clanton,25,1958-10-20,1959-01-05,672,12
+228,The Battle Of Kookamonga,Homer And Jethro,14,1959-09-07,1959-11-09,671,10
+229,The Secret,Gordon MacRae,18,1958-09-15,1958-12-08,670,13
+230,"Promise Me, Love",Andy Williams,17,1958-09-01,1958-11-17,665,12
+231,Living Doll,Cliff Richard and The Drifters,30,1959-09-28,1959-12-21,665,13
+232,The Little Space Girl,Jesse Lee Turner,20,1959-01-05,1959-03-23,662,12
+233,I'll Be Satisfied,Jackie Wilson,20,1959-06-22,1959-09-07,661,12
+234,Treasure Of Your Love,Eileen Rodgers,26,1958-08-25,1958-12-01,661,15
+235,For A Penny,Pat Boone,23,1959-03-23,1959-06-01,660,11
+236,See You In September,The Tempos,23,1959-06-29,1959-09-28,658,14
+237,Down The Aisle Of Love,The Quin-Tones,20,1958-08-18,1958-11-03,655,12
+238,Till There Was You,Anita Bryant,30,1959-06-29,1959-09-21,655,13
+239,Twixt Twelve And Twenty,Pat Boone,17,1959-06-15,1959-08-24,650,11
+240,Six Nights A Week,The Crests,28,1959-03-23,1959-06-15,646,13
+241,Philadelphia U.S.A.,The Nu Tornados,26,1958-11-17,1959-02-02,643,12
+242,Almost Grown,Chuck Berry,32,1959-03-30,1959-06-22,636,13
+243,Pretty Girls Everywhere,Eugene Church and The Fellows,36,1958-12-15,1959-04-06,631,15
+244,The World Outside,The Four Coins,21,1958-11-10,1959-01-19,624,11
+245,Hard Headed Woman,Elvis Presley With The Jordanaires,4,1958-08-04,1958-09-22,619,8
+246,Believe Me,Royal Teens,26,1959-10-26,1959-12-28,619,10
+247,My Own True Love,Jimmy Clanton,33,1959-08-03,1959-10-19,612,12
+248,Carol,Chuck Berry,18,1958-08-25,1958-10-27,610,10
+249,For My Good Fortune,Pat Boone,23,1958-09-22,1958-12-01,610,11
+250,"No Other Arms, No Other Lips",The Chordettes,27,1959-03-02,1959-05-11,610,11
+251,Torquay,Fireballs,39,1959-09-28,1959-12-21,610,13
+252,Come Into My Heart,Lloyd Price and His Orchestra,20,1959-10-26,1959-12-28,609,10
+253,The Morning Side Of The Mountain,Tommy Edwards,27,1959-03-02,1959-05-18,609,12
+254,Don't Take Your Guns To Town,Johnny Cash,32,1959-01-19,1959-04-06,607,12
+255,If Dreams Came True,Pat Boone,12,1958-08-04,1958-10-06,604,10
+256,She Was Only Seventeen (He Was One Year More),Marty Robbins,27,1958-08-04,1958-10-27,602,13
+257,If I Give My Heart To You,Kitty Kallen,34,1959-10-05,1959-12-21,599,12
+258,Where Were You (On Our Wedding Day)?,Lloyd Price,23,1959-03-02,1959-05-11,598,11
+259,The Story Of My Love,Conway Twitty,28,1959-01-26,1959-04-13,597,12
+260,Since You've Been Gone,Clyde McPhatter,38,1959-06-15,1959-09-07,597,13
+261,It's Time To Cry,Paul Anka,4,1959-11-23,1959-12-28,595,6
+262,Raw-Hide,Link Wray And The Wraymen,23,1959-01-26,1959-04-20,591,13
+263,Walking Along,The Diamonds,29,1958-10-27,1959-01-12,590,12
+264,If I Didn't Care,Connie Francis,22,1959-03-02,1959-05-11,585,11
+265,Someone,Johnny Mathis,35,1959-03-23,1959-06-15,583,13
+266,Always,Sammy Turner,19,1959-11-02,1959-12-28,582,9
+267,Scarlet Ribbons (For Her Hair),The Browns,13,1959-11-02,1959-12-28,580,9
+268,Ragtime Cowboy Joe,David Seville And The Chipmunks,16,1959-07-06,1959-08-31,578,9
+269,Lazy Summer Night,The Four Preps,21,1958-08-18,1958-10-20,575,10
+270,(I'll Be With You In) Apple Blossom Time,Tab Hunter,31,1959-02-02,1959-04-13,573,11
+271,High School U.S.A.,Tommy Facenda,28,1959-10-19,1959-12-28,571,11
+272,Don't Pity Me,Dion & The Belmonts,40,1958-12-22,1959-03-09,570,12
+273,Tall Cool One,The Wailers,36,1959-05-18,1959-08-10,569,13
+274,"Ciao, Ciao Bambina",Jacky Noguez And His Musette Orchestra,24,1959-06-22,1959-09-07,563,12
+275,The Way I Walk,Jack Scott,35,1959-06-29,1959-09-28,563,14
+276,One Summer Night,The Danleers,16,1958-08-04,1958-09-22,559,8
+277,Topsy I,Cozy Cole,27,1958-09-15,1958-12-08,558,13
+278,Reveille Rock,Johnny And The Hurricanes,25,1959-11-02,1959-12-28,557,9
+279,Peek-A-Boo,The Cadillacs,28,1958-12-08,1959-02-09,547,10
+280,I'll Remember Tonight,Pat Boone,34,1958-10-27,1959-01-05,547,11
+281,Nola,Billy Williams,39,1959-01-12,1959-04-13,542,12
+282,Way Down Yonder In New Orleans,Freddie Cannon,5,1959-11-23,1959-12-28,540,6
+283,Mona Lisa,Conway Twitty,29,1959-07-20,1959-10-05,538,12
+284,Little Dipper,The Mickey Mozart Quintet,30,1959-05-11,1959-07-27,527,10
+285,Hound Dog Man,Fabian,9,1959-11-16,1959-12-28,526,7
+286,"Summertime, Summertime",The Jamies,26,1958-08-18,1958-10-27,526,11
+287,A Certain Smile,Johnny Mathis,22,1958-08-04,1958-09-29,523,9
+288,Only Sixteen,Sam Cooke,28,1959-06-08,1959-08-10,523,10
+289,There Is Something On Your Mind,Big Jay McNeely And Band,44,1959-05-25,1959-09-07,521,16
+290,First Anniversary,Cathy Carr,42,1959-01-26,1959-04-13,520,12
+291,Talk To Me,Frank Sinatra,38,1959-10-19,1959-12-28,519,11
+292,Gidget,Jimmy Darren,41,1959-04-27,1959-07-13,517,12
+293,Try Me,James Brown And The Famous Flames,48,1958-12-15,1959-03-09,514,13
+294,Uh! Oh! Part 2,The Nutty Squirrels,14,1959-11-09,1959-12-28,511,8
+295,Moon Talk,Perry Como,29,1958-08-04,1958-09-29,509,9
+296,I'm A Man,Fabian,31,1959-01-12,1959-03-16,507,10
+297,You're Gonna Miss Me,Connie Francis,34,1959-08-31,1959-11-02,507,10
+298,You Got What It Takes,Marv Johnson,25,1959-11-02,1959-12-28,505,9
+299,Fools Hall Of Fame,Pat Boone,29,1959-09-14,1959-11-09,505,9
+300,"(If You Cry) True Love, True Love",The Drifters,33,1959-11-02,1959-12-28,504,9
+301,C'mon Everybody,Eddie Cochran,35,1958-11-24,1959-02-09,504,12
+302,Red River Rose,The Ames Brothers,37,1958-12-29,1959-03-02,500,10
+303,La-Do-Dada,Dale Hawkins,32,1958-09-01,1958-11-17,486,12
+304,The Wedding,June Valli,43,1958-11-24,1959-02-16,485,13
+305,Put A Ring On My Finger,Les Paul And Mary Ford,32,1958-08-18,1958-10-20,478,10
+306,La Paloma,Billy Vaughn And His Orchestra,26,1958-08-11,1958-10-13,477,10
+307,I Waited Too Long,LaVern Baker,33,1959-04-20,1959-06-29,477,11
+308,As Time Goes By,Johnny Nash,43,1959-03-16,1959-05-25,476,11
+309,Yakety Yak,The Coasters,7,1958-08-04,1958-09-15,475,7
+310,The Mocking Bird,The Four Lads,32,1958-11-03,1959-01-05,475,10
+311,There Must Be A Way,Joni James,33,1959-01-19,1959-04-06,475,12
+312,Tomboy,Perry Como,29,1959-02-23,1959-04-20,474,9
+313,With Your Love,Jack Scott,28,1958-09-29,1958-12-01,472,10
+314,First Name Initial,Annette With The Afterbeats,29,1959-10-26,1959-12-28,471,10
+315,Marina,Rocco Granata and the International Quintet,31,1959-11-09,1959-12-28,470,8
+316,I'm Never Gonna Tell,Jimmie Rodgers,36,1959-02-23,1959-05-04,470,11
+317,Pledging My Love,Roy Hamilton,45,1958-11-17,1959-02-02,470,12
+318,Matilda,Cookie And His Cupcakes,47,1959-01-19,1959-04-27,469,15
+319,Early In The Morning,The Rinky-Dinks,24,1958-08-04,1958-09-29,467,9
+320,Left Right Out Of Your Heart (Hi Lee Hi Lo Hi Lup Up Up),Patti Page,13,1958-08-04,1958-09-15,466,7
+321,Blue Hawaii,Billy Vaughn And His Orchestra,37,1958-12-29,1959-03-02,464,10
+322,The Ways Of A Woman In Love,Johnny Cash And The Tennessee Two,24,1958-08-25,1958-11-03,461,11
+323,Among My Souvenirs,Connie Francis,7,1959-11-23,1959-12-28,459,6
+324,The Clouds,The Spacemen,41,1959-10-19,1959-12-28,458,11
+325,My Melancholy Baby,Tommy Edwards,26,1959-05-18,1959-07-06,455,8
+326,The Hanging Tree,Marty Robbins,38,1959-02-02,1959-04-27,454,13
+327,Non Dimenticar (Don't Forget),Nat King Cole,45,1958-10-13,1958-12-22,454,11
+328,Joey's Song,Bill Haley And His Comets,46,1959-10-05,1959-12-21,454,12
+329,Over And Over,Bobby Day,41,1958-08-04,1958-10-13,452,11
+330,Running Bear,Johnny Preston,11,1959-10-12,1959-12-28,447,11
+331,The Teen Commandments,Paul Anka-Geo. Hamilton IV-Johnny Nash,29,1958-12-01,1959-01-19,444,8
+332,Come Closer To Me (Acercate Mas),Nat King Cole,41,1958-08-04,1958-09-29,444,9
+333,You Better Know It,Jackie Wilson,37,1959-09-07,1959-11-09,443,10
+334,The Three Bells (The Jimmy Brown Story),Dick Flood,23,1959-08-31,1959-10-19,442,8
+335,Rocka-Conga,The Applejacks,38,1958-12-22,1959-02-23,442,10
+336,The Day The Rains Came,Raymond Lefevre and His Orchestra,30,1958-10-27,1958-12-22,438,9
+337,Mr. Success,Frank Sinatra,41,1958-10-27,1959-01-05,436,11
+338,This Little Girl's Gone Rockin',Ruth Brown,24,1958-09-22,1958-11-24,434,10
+339,Love Makes The World Go 'round,Perry Como,33,1958-10-13,1958-12-15,433,10
+340,I Got Stripes,Johnny Cash,43,1959-08-03,1959-10-12,432,11
+341,Teasin',Quaker City Boys,39,1958-12-22,1959-02-16,428,9
+342,Ring-A-Ling-A-Lario,Jimmie Rodgers,32,1959-06-01,1959-07-20,426,8
+343,The Blob,The Five Blobs,33,1958-10-06,1958-12-08,426,10
+344,Early In The Morning,Buddy Holly,32,1958-08-04,1958-09-15,422,7
+345,This Friendly World,Fabian,12,1959-11-23,1959-12-28,420,6
+346,Like Young,Andre Previn With David Rose,46,1959-06-01,1959-08-31,420,12
+347,Think It Over,The Crickets,27,1958-08-04,1958-09-15,419,7
+348,Tucumcari,Jimmie Rodgers,32,1959-09-21,1959-11-16,418,9
+349,Fibbin',Patti Page,39,1958-09-22,1958-11-17,413,9
+350,"Wiggle, Wiggle",The Accents,51,1958-12-22,1959-03-16,411,12
+351,Blue Blue Day,Don Gibson,32,1958-08-04,1958-09-22,410,8
+352,I've Been Around,Fats Domino,33,1959-10-26,1959-12-21,407,9
+353,Baby Face,Little Richard,41,1958-09-15,1958-11-17,407,10
+354,"Gee, But It's Lonely",Pat Boone,31,1958-09-22,1958-11-17,405,9
+355,All Over Again,Johnny Cash,38,1958-10-06,1958-12-15,404,11
+356,Fallin',Connie Francis,30,1958-10-13,1958-12-15,403,10
+357,I Miss You So,Paul Anka,33,1959-03-30,1959-05-25,403,9
+358,"""Yep!""",Duane Eddy His Twangy Guitar And The Rebels,30,1959-03-30,1959-05-25,402,9
+359,Betty Lou Got A New Pair Of Shoes,Bobby Freeman,37,1958-08-04,1958-09-29,400,9
+360,Remember When,The Platters,41,1959-06-22,1959-08-17,400,9
+361,With Open Arms,Jane Morgan,39,1959-07-27,1959-10-05,399,11
+362,Ramrod,Duane Eddy His Twangy Guitar And The Rebels,28,1958-08-25,1958-10-13,397,8
+363,Some Kind-A Earthquake,Duane Eddy His Twangy Guitar And The Rebels,37,1959-10-05,1959-11-23,397,8
+364,Pretty Blue Eyes,Steve Lawrence,10,1959-11-23,1959-12-28,389,6
+365,It's Only The Beginning,The Kalin Twins,42,1959-01-12,1959-03-16,389,10
+366,Plain Jane,Bobby Darin,38,1959-01-26,1959-03-23,387,9
+367,Turvy II,Cozy Cole,36,1958-12-01,1959-01-19,384,8
+368,The Enchanted Sea,The Exotic Sounds of Martin Denny,28,1959-10-26,1959-12-14,379,8
+369,Like I Love You,Edd Byrnes and Friend,42,1959-08-10,1959-10-05,379,9
+370,Come On And Get Me,Fabian,29,1959-09-07,1959-10-26,376,8
+371,So High So Low,LaVern Baker,52,1959-07-27,1959-09-28,369,10
+372,Guess Things Happen That Way,Johnny Cash And The Tennessee Two,21,1958-08-04,1958-09-15,368,7
+373,Lovers Never Say Goodbye,The Flamingos,52,1959-01-19,1959-03-23,365,10
+374,Shout - Part 1,The Isley Brothers,47,1959-09-21,1959-11-16,362,9
+375,Let's Love,Johnny Mathis,44,1959-01-05,1959-03-02,361,9
+376,Lonely Guitar,Annette,50,1959-07-06,1959-09-14,360,11
+377,Midnight Stroll,The Revels,35,1959-10-19,1959-12-21,359,10
+378,The Green Mosquito,The Tune Rockers,44,1958-08-25,1958-10-27,359,10
+379,Midnight Flyer,Nat King Cole,51,1959-08-03,1959-10-19,359,12
+380,Sweet Little Rock And Roller,Chuck Berry,47,1958-11-10,1959-01-05,354,9
+381,I Go Ape,Neil Sedaka,42,1959-03-09,1959-04-27,352,8
+382,Tennessee Stud,Eddy Arnold,48,1959-07-13,1959-09-14,352,10
+383,Back In The U.S.A.,Chuck Berry,37,1959-06-22,1959-08-10,350,8
+384,Look Who's Blue,Don Gibson,58,1958-09-29,1958-12-01,350,10
+385,I'm A Hog For You,The Coasters,38,1959-09-07,1959-10-26,348,8
+386,I've Been There,Tommy Edwards,53,1959-08-10,1959-10-12,348,10
+387,Linda Lu,Ray Sharpe,46,1959-07-20,1959-10-12,347,13
+388,Poco-Loco,Gene & Eunice,48,1959-08-24,1959-11-30,347,13
+389,I Wanna Be Loved,Ricky Nelson,20,1959-11-30,1959-12-28,346,5
+390,Big Bopper's Wedding,Big Bopper,38,1958-12-08,1959-01-19,344,7
+391,Cimarron (Roll On),Billy Vaughn And His Orchestra,44,1958-10-20,1958-12-22,344,10
+392,What Am I Living For,Chuck Willis,25,1958-08-04,1958-09-15,341,7
+393,"Come On, Let's Go",Ritchie Valens,42,1958-09-22,1958-12-15,341,13
+394,The Quiet Three,Duane Eddy His Twangy Guitar And The Rebels,46,1959-06-29,1959-08-17,341,8
+395,For Your Precious Love,Jerry Butler and The Impressions,15,1958-08-04,1958-09-01,340,5
+396,Sandy,Larry Hall,16,1959-11-23,1959-12-28,340,6
+397,No One But You (In My Heart),The Ames Brothers,45,1958-09-29,1958-11-24,340,9
+398,The Mummy,Bob McFadden And Dor,39,1959-08-24,1959-10-12,338,8
+399,Where,The Platters,44,1959-09-07,1959-11-02,338,9
+400,I'm Movin' On,Ray Charles and his Orchestra,40,1959-11-09,1959-12-28,336,8
+401,Ten Thousand Drums,Carl Smith,43,1959-07-06,1959-08-31,336,9
+402,On An Evening In Roma,Dean Martin,59,1959-07-13,1959-10-05,335,13
+403,Telling Lies,Fats Domino,50,1959-02-16,1959-04-13,334,9
+404,You Made Me Love You,Nat King Cole,45,1959-05-04,1959-06-29,333,9
+405,Trust In Me,Patti Page,43,1959-01-12,1959-03-09,332,9
+406,Enchanted Island,The Four Lads,29,1958-08-04,1958-09-15,330,7
+407,Dance Everyone Dance,Betty Madigan,34,1958-08-18,1958-10-13,330,9
+408,You Cheated,The Slades,42,1958-08-04,1958-11-03,326,12
+409,Every Little Thing I Do,Dion & The Belmonts,48,1959-09-14,1959-11-02,324,8
+410,Okefenokee,Freddie Cannon,43,1959-08-24,1959-10-19,323,9
+411,Give Myself A Party,Don Gibson,46,1958-09-29,1958-12-01,320,10
+412,Tell Him No,Dean & Marc,42,1959-03-23,1959-05-18,319,8
+413,The Girl On Page 44,The Four Lads,52,1959-01-05,1959-03-09,319,10
+414,Heavenly Lover,Teresa Brewer,40,1959-03-16,1959-05-04,316,8
+415,Mandolins In The Moonlight,Perry Como,47,1958-10-27,1958-12-29,314,10
+416,God Bless America,Connie Francis,36,1959-11-16,1959-12-28,313,7
+417,Rockin' Crickets,Hot-Toddys featuring Bill Pennell,57,1959-03-30,1959-07-06,312,11
+418,Angel Face,Jimmy Darren,47,1959-08-03,1959-09-21,309,8
+419,Leave Me Alone (Let Me Cry),Dicky Doo And The Don'ts,44,1958-09-29,1958-11-24,308,9
+420,The Wizard,Jimmie Rodgers,45,1958-08-11,1958-09-22,308,7
+421,Ambrose (Part Five),Linda Laurie,52,1959-01-26,1959-03-23,308,9
+422,Moonlight Serenade,The Rivieras,47,1959-02-09,1959-04-20,306,11
+423,Graduation's Here,The Fleetwoods,39,1959-05-18,1959-07-06,305,8
+424,Wont'cha Come Home,Lloyd Price and His Orchestra,43,1959-11-09,1959-12-28,303,8
+425,Tunnel Of Love,Doris Day,43,1958-10-27,1958-12-15,303,8
+426,Margie,Fats Domino,51,1959-05-11,1959-06-29,302,8
+427,Velvet Waters,The Megatrons,51,1959-06-01,1959-07-27,301,9
+428,Danny Boy,Sil Austin,59,1959-06-01,1959-08-17,300,12
+429,When The Saints Go Marching In,Fats Domino,50,1959-02-16,1959-04-06,297,8
+430,Bonaparte's Retreat,Billy Grammer,50,1959-04-13,1959-06-08,297,9
+431,Smooth Operator,Sarah Vaughan,44,1959-11-02,1959-12-28,296,9
+432,Tear Drop,Santo & Johnny,23,1959-11-30,1959-12-28,294,5
+433,Do You Want To Dance,Bobby Freeman,20,1958-08-04,1958-09-01,293,5
+434,The Class,Chubby Checker,38,1959-05-18,1959-06-29,293,7
+435,By The Light Of The Silvery Moon,Jimmy Bowen with the Rhythm Orchids,50,1958-08-04,1958-09-22,293,8
+436,I Know,Perry Como,47,1959-06-08,1959-08-03,292,9
+437,A Part Of Me,Jimmy Clanton,38,1958-11-03,1958-12-15,291,7
+438,Wonderful You,Jimmie Rodgers,40,1959-06-15,1959-07-27,290,7
+439,So Close,Brook Benton,38,1959-05-18,1959-06-29,289,7
+440,Boo Boo Stick Beat,Chet Atkins,49,1959-09-28,1959-11-16,289,8
+441,I Wish,The Platters,42,1958-09-15,1958-11-17,288,10
+442,Sing Sing Sing,Bernie Lowe Orchestra,46,1958-11-24,1959-01-05,287,7
+443,I Can't Get You Out Of My Heart,Al Martino,44,1959-05-18,1959-07-13,284,9
+444,"Nine More Miles (The ""Faster-Faster"" Song)",Georgie Young,58,1958-09-22,1958-11-17,281,9
+445,Lovey Dovey,Clyde McPhatter,49,1959-04-06,1959-05-25,280,8
+446,Endless Sleep,Jody Reynolds,17,1958-08-04,1958-09-08,277,6
+447,Guaglione,Perez Prado And His Orchestra,53,1958-10-13,1958-12-08,277,9
+448,Forty Days,Ronnie Hawkins,45,1959-06-08,1959-07-27,275,8
+449,It's Just About Time,Johnny Cash And The Tennessee Two,47,1958-12-15,1959-01-26,275,7
+450,The Shag (Is Totally Cool),Billy Graves,53,1959-01-26,1959-03-23,274,9
+451,Who Cares,Don Gibson,43,1959-01-19,1959-03-16,266,9
+452,I Want To Be Happy Cha Cha,Enoch Light & The Light Brigade,48,1958-11-10,1958-12-22,259,7
+453,Ski King,E.C. Beatty,50,1959-09-21,1959-10-26,259,6
+454,Jealous Heart,Tab Hunter,62,1958-10-20,1958-12-22,255,10
+455,What Do I Care,Johnny Cash,52,1958-10-20,1958-12-08,253,8
+456,Johnny Reb,Johnny Horton,54,1959-08-24,1959-10-12,252,8
+457,Come Softly To Me,Ronnie Height,45,1959-03-23,1959-04-27,251,6
+458,Nola,The Morgan Brothers,50,1959-02-09,1959-03-30,251,8
+459,Angel Baby,Dean Martin,30,1958-08-04,1958-09-08,250,6
+460,Cry,The Knightsbridge Strings,53,1959-07-20,1959-08-31,249,7
+461,That's My Little Suzie,Ritchie Valens,55,1959-04-06,1959-05-25,247,8
+462,Leave My Kitten Alone,Little Willie John,60,1959-08-03,1959-09-28,247,9
+463,Somethin Else,Eddie Cochran,58,1959-08-31,1959-10-26,246,9
+464,Smokie - Part 2,Bill Black's Combo,23,1959-11-30,1959-12-28,243,5
+465,Kathy-O,The Diamonds,45,1958-08-04,1958-09-15,243,7
+466,A String Of Trumpets,The Trumpeteers,64,1959-04-27,1959-06-22,243,9
+467,"First Love, First Tears",Duane Eddy His Twangy Guitar And The Rebels,59,1959-09-28,1959-11-23,240,9
+468,Don't Ask Me Why,Elvis Presley With The Jordanaires,34,1958-08-04,1958-09-01,238,5
+469,With My Eyes Wide Open I'm Dreaming,Patti Page,59,1959-06-15,1959-07-27,238,7
+470,I Still Get A Thrill (Thinking Of You),Joni James,51,1959-04-13,1959-05-25,237,7
+471,The Freeze,Tony And Joe,33,1958-08-04,1958-09-08,234,6
+472,The Hula Hoop Song,Georgia Gibbs,32,1958-10-06,1958-11-03,233,5
+473,Tennessee Waltz,Bobby Comstock,52,1959-10-26,1959-12-07,231,7
+474,Marina,Willy Alberti,42,1959-11-30,1959-12-28,230,5
+475,True True Happiness,Johnny Tillotson,54,1959-08-24,1959-10-19,230,9
+476,Pretend,Carl Mann,57,1959-10-26,1959-12-07,230,7
+477,Cerveza,Boots Brown And His Blockbusters,62,1958-08-11,1958-09-29,230,8
+478,That's How Much I Love You,Pat Boone,39,1958-08-04,1958-09-08,228,6
+479,Yea - Yea (Class Cutter),Dale Hawkins,52,1959-03-16,1959-04-20,226,6
+480,I Dig Girls,Bobby Rydell,46,1959-10-12,1959-11-30,225,6
+481,Talk That Talk,Jackie Wilson,43,1959-11-23,1959-12-28,221,6
+482,Mighty Good,Ricky Nelson,38,1959-11-30,1959-12-28,220,5
+483,Blue Ribbon Baby,Tommy Sands And The Raiders,50,1958-09-01,1958-11-10,218,11
+484,Good Rockin' Tonight,Pat Boone,49,1959-01-12,1959-03-02,217,8
+485,The Beat,The Rockin R's,57,1959-03-23,1959-05-11,215,8
+486,Midnight Oil,Charlie Blackwell,55,1959-02-09,1959-04-06,210,9
+487,Tiny Tim,LaVern Baker,63,1959-11-02,1959-12-28,210,9
+488,Summer Dreams,The McGuire Sisters,55,1959-04-27,1959-06-08,207,7
+489,"Frankie's Man, Johnny",Johnny Cash,57,1959-04-27,1959-06-08,207,7
+490,Gazachstahagen,The Wild-Cats,57,1959-01-05,1959-02-23,204,8
+491,Love Of My Life,The Everly Brothers,40,1958-11-24,1958-12-29,202,6
+492,The Whistling Organ,"Dave ""Baby"" Cortez",61,1959-06-08,1959-07-27,202,8
+493,It Happened Today,The Skyliners,59,1959-09-28,1959-11-16,200,8
+494,Castin' My Spell,The Johnny Otis Show,52,1959-04-27,1959-05-25,199,5
+495,(New In) The Ways Of Love,Tommy Edwards,53,1959-11-16,1959-12-28,199,7
+496,"Blah, Blah, Blah",Nicola Paone,57,1959-02-09,1959-03-23,199,7
+497,The Kissing Tree,Billy Grammer,60,1959-04-13,1959-05-25,198,7
+498,Jingle Bell Rock,Bobby Helms,35,1958-12-22,1959-01-12,197,4
+499,I'll Be Seeing You,Tommy Sands,51,1959-09-28,1959-10-26,197,5
+500,Chariot Rock,The Champs,59,1958-08-11,1958-09-22,192,7
+501,¿Dònde Està Santa Claus? (Where Is Santa Claus?),Augie Rios,47,1958-12-15,1959-01-05,191,4
+502,Got The Feeling,Fabian,54,1959-09-21,1959-10-19,190,5
+503,Katy Too,Johnny Cash And The Tennessee Two,66,1959-07-13,1959-08-31,190,8
+504,When I Grow Too Old To Dream,Ed Townsend,59,1958-09-29,1958-11-10,187,7
+505,To A Soldier Boy,The Tassels,55,1959-07-13,1959-08-24,186,7
+506,"Darling, I Love You",Al Martino,63,1959-09-28,1959-11-02,186,6
+507,The Worryin' Kind,Tommy Sands And The Raiders,69,1958-12-29,1959-03-02,186,9
+508,You Are Beautiful,Johnny Mathis,60,1959-01-05,1959-02-09,184,6
+509,The Ballad Of Thunder Road,Robert Mitchum,62,1958-09-08,1958-11-24,184,11
+510,Taboo,Arthur Lyman,55,1959-06-15,1959-07-20,181,6
+511,Evening Rain,Earl Grant,63,1959-01-26,1959-03-09,179,7
+512,"Go, Jimmy, Go",Jimmy Clanton,19,1959-12-07,1959-12-28,178,4
+513,Don't You Know Yockomo,"Huey ""piano"" Smith With His Clowns",56,1958-12-08,1959-02-02,177,6
+514,Cap And Gown,Marty Robbins,45,1959-06-15,1959-07-20,176,6
+515,I Think I'm Gonna Kill Myself,Buddy Knox,55,1959-04-13,1959-05-18,172,6
+516,The Best Of Everything,Johnny Mathis,62,1959-11-16,1959-12-14,172,5
+517,Need Your Love,Bobby Freeman,54,1958-11-24,1958-12-22,170,5
+518,"The Bluebird, The Buzzard & The Oriole",Bobby Day,54,1958-12-29,1959-02-02,170,6
+519,Honestly And Truly,Tommy Edwards,65,1959-11-02,1959-12-21,170,8
+520,Six Boys And Seven Girls,Anita Bryant,62,1959-09-21,1959-10-26,169,6
+521,The Caterpillar Crawl,The Strangers,49,1959-08-31,1959-10-12,167,7
+522,Dreamy Eyes,Johnny Tillotson,63,1958-11-03,1959-01-26,166,9
+523,Goodnight My Love (Pleasant Dreams),Ray Peterson,64,1959-11-16,1959-12-21,166,6
+524,Blue Boy,Jim Reeves,45,1958-08-04,1958-09-15,165,6
+525,One More Chance,Rod Bernard,74,1959-11-09,1959-12-28,164,8
+526,Come Prima,Tony Dallara,60,1958-12-08,1959-01-19,162,7
+527,I Need Your Lovin',Roy Hamilton,62,1959-04-20,1959-05-18,162,5
+528,I Love An Angel,Little Bill and The Bluenotes,66,1959-06-22,1959-07-27,162,6
+529,I'll Walk The Line,Don Costa And His Orchestra And Chorus,59,1959-11-16,1959-12-21,161,6
+530,Light Of Love,Peggy Lee,63,1958-11-03,1958-12-08,161,6
+531,The Purple People Eater,Sheb Wooley,24,1958-08-04,1958-08-25,159,4
+532,A Year Ago Tonight,The Crests,52,1959-12-07,1959-12-28,159,4
+533,Two Fools,Frankie Avalon,54,1959-09-21,1959-10-19,159,5
+534,I Still Get Jealous,Joni James,63,1959-07-13,1959-08-17,159,6
+535,Come What May,Clyde McPhatter,43,1958-08-04,1958-08-18,158,3
+536,Gotta Have Rain,Eydie Gorme,63,1958-08-04,1958-09-15,158,7
+537,Secretly,Jimmie Rodgers,28,1958-08-04,1958-08-18,157,3
+538,"Raspberries, Strawberries",The Kingston Trio,70,1959-01-12,1959-03-02,155,8
+539,Alone With You,Faron Young,51,1958-08-11,1958-09-15,154,5
+540,Teardrops Will Fall,Dicky Doo And The Don'ts,61,1959-02-02,1959-03-09,152,6
+541,Half-Breed,Marvin Rainwater,66,1959-07-27,1959-09-07,152,7
+542,There's No Fool Like A Young Fool,Tab Hunter,68,1959-04-27,1959-05-25,151,5
+543,The Village Of St. Bernadette,Andy Williams,28,1959-12-14,1959-12-28,149,3
+544,Are You Lonesome Tonight,Jaye P. Morgan,65,1959-02-09,1959-03-16,149,6
+545,The Hula Hoop Song,Teresa Brewer,38,1958-10-06,1958-11-03,148,5
+546,"Alright, Okay, You Win",Peggy Lee,68,1959-01-26,1959-03-02,148,6
+547,Hoopa Hoola,Betty Johnson,56,1958-10-06,1958-11-03,147,5
+548,What About Us,The Coasters,51,1959-12-07,1959-12-28,144,4
+549,My Life,Chuck Willis,56,1958-08-18,1958-09-15,144,5
+550,Anthony Boy,Chuck Berry,60,1959-02-16,1959-03-16,144,5
+551,Padre,Toni Arden,63,1958-08-04,1958-08-25,142,4
+552,Bei Mir Bist Du Schön,Louis Prima And Keely Smith,69,1959-07-06,1959-08-10,141,6
+553,Plenty Good Lovin',Connie Francis,69,1959-09-21,1959-11-02,141,7
+554,Just To Be With You,The Passions,69,1959-10-05,1959-12-14,141,10
+555,Uh! Oh! Part 1,The Nutty Squirrels,45,1959-12-07,1959-12-28,140,4
+556,Crazy Eyes For You,Bobby Hamilton,40,1958-08-04,1958-08-18,139,3
+557,Not One Minute More,Della Reese,32,1959-12-14,1959-12-28,138,3
+558,"No Chemise, Please",Gerry Granahan,36,1958-08-04,1958-08-18,138,3
+559,I Don't Know,Ruth Brown,64,1959-10-12,1959-11-16,138,6
+560,The Hunch,Bobby Peterson Quintet,71,1959-10-26,1959-12-07,138,7
+561,Kansas City,Hank Ballard And The Midnighters,72,1959-05-04,1959-06-22,138,7
+562,Break-Up,Jerry Lee Lewis And His Pumping Piano,52,1958-09-15,1958-10-13,137,5
+563,Over The Weekend,The Playboys,62,1958-09-01,1958-10-06,136,6
+564,Wish It Were Me,The Platters,61,1959-09-14,1959-10-26,134,7
+565,Go Chase A Moonbeam,Jerry Vale,60,1958-10-13,1958-11-24,133,7
+566,I'm Gonna Change Him,Cathy Carr,63,1959-06-08,1959-06-29,132,4
+567,The Happy Reindeer,"Dancer, Prancer And Nervous",34,1959-12-07,1959-12-28,131,4
+568,Happy Anniversary,Jane Morgan,57,1959-11-09,1959-12-28,131,8
+569,Sweet Chile,Sheb Wooley,70,1959-06-01,1959-07-06,130,6
+570,French Foreign Legion,Frank Sinatra,61,1959-03-30,1959-05-11,129,7
+571,The Hunch,Paul Gayten,68,1959-10-26,1959-12-07,129,7
+572,Yellow Bird,The Mills Brothers,70,1959-01-05,1959-02-02,129,5
+573,Beach Time,Roger Smith,64,1959-06-29,1959-08-17,127,8
+574,Tennessee Waltz,Jerry Fuller,63,1959-10-19,1959-11-23,125,6
+575,Leroy,Jack Scott,56,1958-08-04,1958-09-08,123,5
+576,Cinderella,The Four Preps,69,1958-11-17,1959-01-05,121,7
+577,Gee,George Hamilton IV,73,1959-08-03,1959-09-14,120,7
+578,The Wang Dang Taffy-Apple Tango (Mambo Cha Cha Cha),Pat Boone,62,1959-04-20,1959-05-11,119,4
+579,Who's That Knocking,The Genies,71,1959-03-30,1959-05-04,118,6
+580,I'll Never Fall In Love Again,Johnnie Ray,75,1959-09-14,1959-10-19,117,6
+581,Come Prima (Koma Preema),Polly Bergen,67,1958-12-15,1959-01-19,116,6
+582,Young Ideas,Chico Holiday,74,1959-05-04,1959-06-08,116,6
+583,Starry Eyed,Gary Stites,77,1959-11-02,1959-12-14,116,7
+584,Cherrystone,Addrisi Brothers,62,1959-06-01,1959-07-13,115,6
+585,Hey Girl - Hey Boy,Oscar McLollie and Jeanette Baker,61,1958-08-04,1958-09-08,114,5
+586,Intermission Riff,Bernie Lowe Orchestra,61,1958-11-24,1958-12-15,112,4
+587,Smile,Tony Bennett,73,1959-08-17,1959-09-21,112,6
+588,Midnight,Paul Anka,69,1958-08-04,1958-08-25,109,4
+589,How About That,Dee Clark,49,1959-12-07,1959-12-28,107,4
+590,Mau-Mau,The Wailers,68,1959-08-17,1959-09-14,106,5
+591,Just Young,Andy Rose,69,1958-10-06,1958-11-17,106,7
+592,White Lightning,George Jones,73,1959-05-04,1959-06-08,106,5
+593,The Chipmunk Song (Christmas Don't Be Late),David Seville And The Chipmunks,41,1959-12-14,1959-12-28,105,3
+594,Green Chri$tma$,Stan Freberg,44,1958-12-29,1959-01-05,105,2
+595,Return To Me,Dean Martin,48,1958-08-04,1958-08-25,105,4
+596,Kansas City,Rocky Olson,60,1959-05-04,1959-05-25,105,4
+597,The Fool And The Angel,Bobby Helms,75,1958-12-08,1959-01-12,104,6
+598,The One Rose (That's Left In My Heart),Teresa Brewer,75,1959-01-05,1959-02-02,102,5
+599,"No Other Arms, No Other Lips",The Four Aces,74,1959-03-02,1959-04-06,101,5
+600,Miami,Eugene Church,67,1959-08-03,1959-08-31,100,5
+601,I Must Be Dreaming,Nat King Cole,69,1959-05-25,1959-06-22,100,4
+602,Count Every Star,The Rivieras,73,1958-08-25,1958-09-15,98,4
+603,Because You're Young,Jimmie Rodgers,62,1959-03-09,1959-04-06,97,5
+604,When Will I Know,George Hamilton IV,65,1958-08-25,1958-09-22,97,4
+605,The Answer To A Maiden's Prayer,June Valli,71,1959-03-02,1959-03-30,97,5
+606,Happy Years,The Diamonds,73,1958-08-04,1958-08-25,97,4
+607,Flower Of Love,The Crests featuring Johnny Mastro,79,1959-06-08,1959-07-13,97,6
+608,I Wonder Why,Dion & The Belmonts,47,1958-08-04,1958-08-11,95,2
+609,Old Spanish Town,The Bell Notes,76,1959-05-04,1959-06-29,95,7
+610,Please Don't Do It,Dale Wright And The Wright Guys With the Dons,77,1958-09-01,1958-09-29,95,5
+611,"Baubles, Bangles And Beads",The Kirby Stone Four,50,1958-08-04,1958-08-18,94,3
+612,Let's Go Steady For The Summer,The Three G's,55,1958-08-04,1958-08-18,93,3
+613,White Christmas,Bing Crosby,59,1958-12-22,1959-12-28,92,3
+614,There Comes A Time,Jack Scott,71,1959-10-12,1959-11-09,90,5
+615,77 Sunset Strip,The Big Sound Of Don Ralke,69,1959-04-06,1959-05-04,89,5
+616,Crackin Up,Bo Diddley,62,1959-07-06,1959-08-03,88,5
+617,Breaking Up Is Hard To Do,Jivin' Gene And The Jokers,69,1959-09-07,1959-11-02,88,4
+618,City Lights,Ray Price,71,1958-08-25,1958-09-08,88,3
+619,The World Outside,The Four Aces,63,1958-11-24,1958-12-15,87,4
+620,Beyond The Sunset,Pat Boone,71,1959-11-30,1959-12-28,87,5
+621,Jo-Jo The Dog-Faced Boy,Annette,73,1959-04-13,1959-05-04,86,4
+622,(I Don't Care) Only Love Me,Steve Lawrence,62,1959-05-18,1959-06-08,85,4
+623,You're Making A Mistake,The Platters,65,1958-08-04,1958-08-18,85,3
+624,Real Wild Child,Ivan,68,1958-09-22,1958-10-20,85,5
+625,Bunny Hop,The Applejacks,70,1959-02-23,1959-03-16,84,4
+626,Fire Of Love,Jody Reynolds,66,1958-08-18,1958-09-22,83,5
+627,I Talk To The Trees,Edmundo Ros and His Orchestra,77,1959-01-05,1959-01-26,83,4
+628,Jennie Lee,Jan & Arnie,44,1958-08-04,1958-08-11,81,2
+629,You Need Hands,Eydie Gorme,57,1958-08-04,1958-08-11,81,2
+630,My Lucky Love,Doug Franklin With The Bluenotes,73,1958-09-08,1958-10-20,80,4
+631,Wicked Ruby,Danny Zella and his Zell Rocks,71,1959-01-26,1959-02-23,79,5
+632,Run Rudolph Run,Chuck Berry,69,1958-12-15,1958-12-29,78,3
+633,If You Don't Want My Lovin',"Carl Dobkins, Jr.",67,1959-10-12,1959-10-26,77,3
+634,Fancy Nancy,Skip And Flip,71,1959-11-02,1959-11-30,77,5
+635,You Went Back On Your Word,Clyde McPhatter,72,1959-11-02,1959-11-16,77,3
+636,Teach Me Tonight Cha Cha,The DeCastro Sisters,76,1959-01-05,1959-01-26,77,4
+637,Fried Eggs,The Intruders,73,1959-03-23,1959-04-06,76,3
+638,Just Come Home,Hugo & Luigi,55,1959-12-14,1959-12-28,75,3
+639,Please Love Me Forever,Tommy Edwards,61,1958-10-20,1958-11-03,75,3
+640,Miss You,Jaye P. Morgan,78,1959-02-16,1959-03-16,75,5
+641,Lonesome Old House,Don Gibson,71,1959-05-04,1959-05-18,74,3
+642,A Lover's Prayer,Dion & The Belmonts,73,1959-10-19,1959-11-02,74,3
+643,Boogie Bear,Boyd Bennett,73,1959-09-21,1959-10-12,74,4
+644,Where The Blue Of The Night,Tommy Mara,76,1958-08-18,1958-09-15,74,4
+645,High School Confidential,Jerry Lee Lewis And His Pumping Piano,63,1958-08-04,1958-08-11,73,2
+646,Nothin' Shakin',Eddie Fontaine,64,1958-09-22,1958-10-06,73,3
+647,Hurtin' Inside,Brook Benton,78,1959-02-23,1959-03-23,73,4
+648,I Told Myself A Lie,Clyde McPhatter,70,1959-04-20,1959-05-18,72,5
+649,"Wendy, Wendy",The Four Coins,72,1958-09-22,1958-10-06,72,3
+650,A Girl Like You,Gary Stites,80,1959-07-20,1959-08-17,72,5
+651,(I Wanna) Dance With The Teacher,The Olympics,71,1958-12-08,1959-01-19,68,5
+652,The Walls Have Ears,Patti Page,77,1959-04-13,1959-05-11,67,4
+653,Here I Stand,Wade Flemons and the Newcomers,80,1958-12-22,1959-02-09,67,5
+654,Do-Re-Mi,Mitch Miller,70,1959-12-14,1959-12-28,66,3
+655,You're A Sweetheart,Little Willie John,66,1958-08-11,1958-09-08,65,4
+656,Little Red Riding Hood,Big Bopper,72,1958-12-01,1958-12-29,65,4
+657,Diamond Ring,Jerry Wallace,78,1958-12-08,1958-12-29,65,4
+658,"There, I've Said It Again",Sam Cooke,81,1959-11-09,1959-12-07,65,5
+659,Just Young,Paul Anka,80,1958-10-06,1958-11-03,64,5
+660,We Told You Not To Marry,Titus Turner,83,1959-11-23,1959-12-28,64,6
+661,Merry Christmas Baby,Chuck Berry,71,1958-12-15,1958-12-29,63,3
+662,Ballad Of A Girl And Boy,Graduates,74,1959-03-09,1959-03-23,63,3
+663,All I Have To Do Is Dream,The Everly Brothers,49,1958-08-04,1958-08-11,62,2
+664,Young And Warm And Wonderful,Tony Bennett,59,1958-08-04,1958-08-11,62,2
+665,Your Cheatin' Heart,Billy Vaughn And His Orchestra,82,1959-04-27,1959-05-25,62,5
+666,Shirley,John Fred And The Playboys,82,1959-02-23,1959-03-23,62,5
+667,Swingin' On A Rainbow,Frankie Avalon,48,1959-12-21,1959-12-28,61,2
+668,Suzie Baby,Bobby Vee and The Shadows,77,1959-08-31,1959-09-21,61,4
+669,My Man,Peggy Lee,81,1959-01-19,1959-03-02,61,6
+670,I Want To Be Happy Cha Cha,The Tommy Dorsey Orchestra Starring Warren Covington,70,1958-12-01,1958-12-15,60,3
+671,White Bucks And Saddle Shoes,"Bobby Pedrick, Jr.",74,1958-11-10,1958-12-01,60,4
+672,Star Love,The Playmates,75,1959-03-30,1959-04-20,60,4
+673,Lucky Devil,"Carl Dobkins, Jr.",82,1959-12-07,1959-12-28,60,4
+674,Drip Drop,The Drifters,58,1958-08-11,1958-08-25,59,2
+675,Lonely Saturday Night,Don French,72,1959-05-25,1959-06-08,59,3
+676,Chapel Of Dreams,The Dubs,74,1959-08-24,1959-09-28,59,6
+677,Happy Anniversary,The Four Lads,77,1959-11-09,1959-12-07,59,5
+678,Borrowed Dreams,Bobby Helms,60,1958-08-18,1958-08-25,58,2
+679,Delicious!,Jim Backus & Friend,66,1958-08-04,1958-08-18,57,2
+680,Strange Are The Ways Of Love,Gogi Grant,80,1958-08-25,1958-09-08,57,3
+681,My Heart Became Of Age,Annette With The Afterbeats,74,1959-10-26,1959-11-09,56,3
+682,I'm Coming Home,Marv Johnson,82,1959-07-13,1959-08-03,56,4
+683,(It's Been A Long Time) Pretty Baby,Gino & Gina,46,1958-08-04,1958-08-04,55,1
+684,Your Cheatin' Heart,George Hamilton IV,72,1958-09-08,1958-09-29,55,4
+685,"One Love, One Heart",The Four Coins,82,1959-06-08,1959-07-06,55,4
+686,Save My Soul,Jack Scott,73,1958-12-29,1959-01-26,54,3
+687,Five Feet High And Rising,Johnny Cash,76,1959-08-24,1959-09-21,54,3
+688,Sal's Got A Sugar Lip,Johnny Horton,81,1959-08-17,1959-09-28,54,7
+689,Gilee,Sonny Spencer,82,1959-11-16,1959-12-07,54,4
+690,Dedicated To The One I Love,The Shirelles,83,1959-07-13,1959-08-03,54,4
+691,Sweet Someone,Eddie and Betty,87,1959-06-29,1959-08-03,54,4
+692,Straighten Up & Fly Right,DeJohn Sisters,73,1958-08-18,1958-08-25,53,2
+693,Teen Angel,Mark Dinning,50,1959-12-21,1959-12-28,52,2
+694,"Shimmy, Shimmy, Ko-Ko-Bop",Little Anthony And The Imperials,76,1959-12-07,1959-12-28,52,4
+695,Little Queenie,Chuck Berry,80,1959-04-13,1959-05-11,52,4
+696,The World Outside,Roger Williams,71,1958-12-08,1958-12-29,50,3
+697,Sugaree,Rusty York,77,1959-07-20,1959-08-03,50,3
+698,Joe Joe Gunne,Chuck Berry,83,1958-11-17,1958-12-22,50,5
+699,La Plume De Ma Tante,Hugo & Luigi,86,1959-06-08,1959-07-06,50,5
+700,Try The Impossible,Lee Andrews And The Hearts,70,1958-08-04,1958-08-11,49,2
+701,Someone To Come Home To,The Ames Brothers,78,1959-05-18,1959-06-08,49,4
+702,The Little Drummer Boy,Johnny Cash,63,1959-12-21,1959-12-28,48,2
+703,Just Like In The Movies,The Upbeats,75,1958-08-04,1958-08-25,48,3
+704,Give Me Your Love,Nat King Cole,82,1959-02-02,1959-02-23,48,4
+705,The Shape I'm In,Johnny Restivo,80,1959-09-07,1959-09-21,47,3
+706,Devotion,Janice Harper,82,1958-08-18,1958-09-01,46,3
+707,I Never Felt Like This,Jack Scott,78,1959-04-06,1959-04-27,45,4
+708,Jupiter-C,Pat and the Satellites,81,1959-02-09,1959-03-02,45,4
+709,Baciare Baciare (Kissing Kissing),Dorothy Collins,73,1959-12-21,1959-12-28,44,2
+710,Almost In Your Arms,Johnny Nash,78,1958-11-10,1958-12-01,44,4
+711,He'll Have To Go,Jim Reeves,58,1959-12-28,1959-12-28,43,1
+712,Fool's Paradise,The Crickets,58,1958-08-04,1958-08-04,43,1
+713,Boom-A-Dip-Dip,Stan Robinson,83,1959-03-30,1959-04-20,43,4
+714,I Kneel At Your Throne,Joe Medlin,85,1959-03-09,1959-04-20,43,4
+715,If I Had A Girl,Rod Lauren,62,1959-12-21,1959-12-28,42,2
+716,Don't Go Home,The Playmates,70,1958-08-04,1958-08-11,42,2
+717,Symphony,Sammy Turner,82,1959-11-30,1959-12-14,42,3
+718,Time Marches On,Roy Hamilton,84,1959-08-03,1959-08-17,42,3
+719,What Little Girl,Frankie Avalon,79,1958-10-13,1958-10-20,41,2
+720,Yes - Sir - ee,Dodie Stevens,79,1959-06-01,1959-07-06,41,3
+721,A Prayer And A Juke Box,Little Anthony And The Imperials,81,1959-06-15,1959-07-06,41,4
+722,"Oh, What A Fool",The Impalas,86,1959-06-22,1959-07-20,41,5
+723,Mary Don't You Weep,Stonewall Jackson,61,1959-12-28,1959-12-28,40,1
+724,"Hallelujah, I Love Him So",Peggy Lee,77,1959-05-18,1959-05-25,40,2
+725,Heartbeat,Buddy Holly,82,1958-12-29,1959-01-19,40,4
+726,O' Falling Star,The Four Knights,83,1959-01-12,1959-01-26,40,3
+727,"Bells, Bells, Bells (The Bell Song)",Billy & Lillie,88,1959-07-13,1959-08-24,40,6
+728,For Your Love,Ed Townsend,62,1958-08-04,1958-08-04,39,1
+729,Climb Ev'ry Mountain,Tony Bennett,81,1959-12-21,1959-12-28,39,2
+730,Funny,Jesse Belvin,81,1958-12-29,1959-01-19,39,4
+731,Harvey's Got A Girl Friend,Royal Teens,78,1958-08-11,1958-08-18,38,2
+732,I Don't Know What It Is,The Bluenotes,80,1959-12-14,1959-12-28,38,3
+733,"A House, A Car And A Wedding Ring",Dale Hawkins,88,1958-11-10,1958-12-15,38,5
+734,You Can't Be True Dear,The Mary Kaye Trio,75,1959-04-13,1959-04-27,37,3
+735,Week End,The Kingsmen,84,1958-09-01,1958-09-15,37,3
+736,Don't Tell Me Your Troubles,Don Gibson,85,1959-08-10,1959-09-14,37,3
+737,Rockin' In The Jungle,The Eternals,78,1959-07-13,1959-07-27,36,3
+738,Gas Money,Jan & Arnie,81,1958-08-18,1958-09-15,36,2
+739,Blip Blop,Bill Doggett,82,1958-08-04,1958-08-18,36,2
+740,Peace,The McGuire Sisters,85,1959-05-04,1959-05-18,36,3
+741,Little Mary,Fats Domino,72,1958-08-04,1958-08-11,35,2
+742,I'll Be Seeing You,Poni-Tails,87,1959-10-26,1959-11-16,35,3
+743,No Love Have I,Webb Pierce,67,1959-12-28,1959-12-28,34,1
+744,Big Man,The Four Preps,67,1958-08-04,1958-08-04,34,1
+745,Lean Jean,Bill Haley And His Comets,67,1958-08-11,1958-08-11,34,1
+746,Let's Try Again,Clyde McPhatter,74,1959-12-21,1959-12-28,34,2
+747,The Day I Died,The Playmates,81,1958-09-29,1958-10-06,34,2
+748,Talk Of The School,Sonny James,85,1959-05-04,1959-06-01,33,5
+749,Op,The Honeycones,69,1958-08-04,1958-08-04,32,1
+750,Jealousy,Kitty Wells,83,1958-08-04,1958-08-11,32,2
+751,Prisoner's Song,Warren Storm,81,1958-08-25,1958-09-01,31,2
+752,Crazy Country Hop,Johnny Otis,87,1958-11-10,1958-12-08,31,4
+753,Little Boy Blue,Huelyn Duvall,88,1959-06-15,1959-06-29,31,3
+754,Got A Match?,Frank Gallup,71,1958-08-04,1958-08-04,30,1
+755,Run Red Run,The Coasters,84,1959-12-21,1959-12-28,30,2
+756,Where Or When,Dion & The Belmonts,72,1959-12-28,1959-12-28,29,1
+757,This Time Of The Year,Brook Benton,77,1959-12-21,1959-12-28,29,2
+758,Wishful Thinking,Little Anthony And The Imperials,79,1959-03-23,1959-03-30,29,2
+759,Up Until Now,Johnnie Ray,81,1958-09-01,1958-09-15,29,3
+760,Big Brown Eyes,The Redjacks,84,1958-09-15,1958-09-22,29,2
+761,Philadelphia U.S.A.,Art Lund,89,1958-12-15,1958-12-29,29,3
+762,Goodbye Charlie,Patti Page,90,1959-10-12,1959-10-26,29,3
+763,Rockhouse (Part 2),Ray Charles and his Orchestra,79,1958-12-22,1958-12-29,28,2
+764,Bullwhip Rock,Cyclones,83,1958-09-29,1958-10-06,28,2
+765,Teardrops On Your Letter,Hank Ballard And The Midnighters,87,1959-03-09,1959-03-23,28,3
+766,Little Brass Band,David Seville,78,1958-08-25,1958-09-01,27,2
+767,Shadows,5 Satins,87,1959-11-30,1959-12-14,27,3
+768,Marina,Jacky Noguez And His Orchestra,87,1959-11-16,1959-11-30,27,3
+769,Goodnight Irene,Billy Williams,75,1959-04-20,1959-04-20,26,1
+770,You Mean Everything To Me,The Fleetwoods,84,1959-10-26,1959-11-02,26,2
+771,"Teasable, Pleasable You",Buddy Knox,85,1959-01-19,1959-01-26,26,2
+772,It's Only The Good Times,Tommy Edwards,86,1959-06-01,1959-06-15,26,3
+773,Just Married,Marty Robbins,76,1958-08-11,1958-08-11,25,1
+774,If You Love Me,LaVern Baker,79,1959-08-17,1959-08-24,25,2
+775,Wheel Of Fortune,The Knightsbridge Strings,88,1959-11-02,1959-11-16,24,3
+776,Straight Flush,The Frantics,91,1959-05-25,1959-06-08,24,3
+777,Down By The Station,The Four Preps,78,1959-12-28,1959-12-28,23,1
+778,I Ain't Never,The Four Preps,79,1959-09-14,1959-09-28,23,2
+779,Teach Me Tiger,April Stevens,86,1959-11-30,1959-12-14,23,3
+780,Soldier's Joy,Hawkshaw Hawkins,87,1959-08-03,1959-08-10,23,2
+781,The Bird On My Head,David Seville,79,1958-08-04,1958-08-04,22,1
+782,The Purple People Eater Meets The Witch Doctor,Joe South,89,1958-08-04,1958-08-11,22,2
+783,A Girl's Work Is Never Done,The Chordettes,89,1959-08-17,1959-08-31,22,3
+784,Johnny B. Goode,Chuck Berry,80,1958-08-04,1958-08-04,21,1
+785,"Volare (Nel Blu, Dipinto Di Blu)",The McGuire Sisters,80,1958-09-01,1958-09-01,21,1
+786,Seven Minutes In Heaven,Poni-Tails,85,1958-12-01,1958-12-22,21,3
+787,Hey Little Lucy! (Don'tcha Put No Lipstick On),Conway Twitty,87,1959-05-18,1959-06-01,21,2
+788,Martinique,The Exotic Sounds of Martin Denny,88,1959-07-20,1959-07-27,21,2
+789,No Regrets,Jimmy Barnes,90,1959-03-09,1959-03-16,21,2
+790,Beautiful Delilah,Chuck Berry,81,1958-08-04,1958-08-04,20,1
+791,Looking Back,Nat King Cole,81,1958-08-11,1958-08-11,20,1
+792,Pipe Dreams,Jimmy Beck & His Orchestra,82,1959-04-20,1959-04-27,20,2
+793,The Battle Of New Orleans,Vaughn Monroe,87,1959-05-25,1959-06-15,20,2
+794,The Fountain Of Youth,The Four Lads,90,1959-05-04,1959-05-11,20,2
+795,I Cried,Joe Damiano,91,1959-08-31,1959-09-28,20,3
+796,With All Of My Heart,Brook Benton,82,1959-07-20,1959-07-20,19,1
+797,Gotta New Girl,Bobby Day,82,1959-06-22,1959-06-22,19,1
+798,Record Hop Blues,The Quarter Notes,82,1959-03-23,1959-03-23,19,1
+799,Madrid,Nat King Cole,85,1959-02-02,1959-02-16,19,3
+800,That's Why I Cry,Buddy Knox,88,1959-01-05,1959-01-12,19,2
+801,Raining In My Heart,Buddy Holly,88,1959-03-30,1959-04-06,19,2
+802,Mary Ann Thomas,Bobby Freeman,90,1959-06-01,1959-06-08,19,2
+803,You Don't Know Girls,Kathy Linden,92,1959-07-27,1959-08-10,19,3
+804,Bonnie Came Back,Duane Eddy His Twangy Guitar And The Rebels,83,1959-12-28,1959-12-28,18,1
+805,So Much,Little Anthony And The Imperials,87,1958-12-22,1958-12-29,18,2
+806,It Don't Hurt No More,Nappy Brown,89,1958-11-10,1958-11-24,18,2
+807,Well I'm Your Man,Johnny Tillotson,87,1958-10-06,1958-10-20,17,3
+808,Twice As Nice,Clyde McPhatter,91,1959-08-24,1959-08-31,17,2
+809,Living Doll,David Hill,92,1959-10-19,1959-10-26,17,2
+810,A Touch Of Pink,Jerry Wallace,92,1959-04-20,1959-04-27,17,2
+811,I Just Thought You'd Like To Know,Johnny Cash And The Tennessee Two,85,1958-12-15,1958-12-15,16,1
+812,Got A Match?,The Daddy-O's,85,1958-08-04,1958-08-04,16,1
+813,I'll Make It All Up To You,Jerry Lee Lewis And His Pumping Piano,85,1958-09-08,1958-09-08,16,1
+814,Love Walked In,The Flamingos,88,1959-10-05,1959-10-19,16,3
+815,To Be Loved,Jackie Wilson,86,1958-08-04,1958-08-04,15,1
+816,Moonlight Bay,The Drifters,86,1958-08-11,1958-08-11,15,1
+817,Judy,David Seville,86,1959-05-18,1959-05-18,15,1
+818,Furry Murray,The Tradewinds,91,1959-08-10,1959-08-17,15,2
+819,Come In Stranger,Johnny Cash And The Tennessee Two,87,1958-08-11,1958-08-11,14,1
+820,Handy Man,Jimmy Jones,87,1959-12-28,1959-12-28,14,1
+821,Russian Band Stand,Spencer & Spencer with the Sonia Pryor Choir,91,1959-05-18,1959-05-25,14,2
+822,The Voice In My Heart,Eydie Gorme,88,1958-12-29,1958-12-29,13,1
+823,Promise Me A Rose (A Slight Detail),Anita Bryant,88,1959-12-28,1959-12-28,13,1
+824,Betty My Angel,Jerry Fuller,90,1959-08-31,1959-09-07,13,2
+825,Two Brothers,David Hill,90,1959-04-20,1959-04-27,13,2
+826,Sweet Nothin's,Brenda Lee,90,1959-12-21,1959-12-28,13,2
+827,Old Shep,Ralph DeMarco,91,1959-11-09,1959-11-16,13,2
+828,Little Girl,Ritchie Valens,92,1959-07-13,1959-07-20,13,2
+829,Down In Virginia,Jimmy Reed,93,1958-08-11,1958-08-18,13,2
+830,We Have Love,Jackie Wilson,93,1958-09-22,1958-09-29,13,2
+831,It's Raining Outside,The Platters,93,1958-10-06,1958-11-03,13,2
+832,Lonely Blue Boy,Conway Twitty,89,1959-12-28,1959-12-28,12,1
+833,Hawaiian War Chant,Billy Vaughn And His Orchestra,89,1959-03-30,1959-03-30,12,1
+834,The Five Pennies,Dodie Stevens,89,1959-06-29,1959-06-29,12,1
+835,City Lights,Ivory Joe Hunter,92,1959-03-02,1959-03-09,12,2
+836,Pointed Toe Shoes,Carl Perkins,93,1959-06-01,1959-06-08,12,2
+837,I Believe In You,Robert & Johnny,93,1958-08-04,1958-08-11,12,2
+838,Who Shot Sam,George Jones,93,1959-07-27,1959-08-10,12,3
+839,I Can't Sit Down,Marie & Rex,94,1959-03-09,1959-03-16,12,2
+840,Stay,The Ames Brothers,90,1958-08-04,1958-08-04,11,1
+841,Oh Why,The Teddy Bears,91,1959-03-09,1959-03-16,11,2
+842,The Story Of Our Love,Johnny Mathis,93,1959-10-12,1959-11-23,11,2
+843,Bad Girl,The Miracles,93,1959-10-05,1959-10-12,11,2
+844,You Got That Touch,Sonny James,94,1958-09-22,1958-09-29,11,2
+845,Igmoo (The Pride Of South Central High),Stonewall Jackson,95,1959-10-19,1959-10-26,11,2
+846,Honey Hush,Joe Turner,91,1959-12-28,1959-12-28,10,1
+847,I've Got You Under My Skin,Louis Prima And Keely Smith,95,1959-02-23,1959-03-02,10,2
+848,Kansas City (Hey-Hey-Hey-Hey),Little Richard,95,1959-05-11,1959-05-18,10,2
+849,Everyone Was There,Bob Kayli,96,1958-11-17,1958-11-24,10,2
+850,Sweet Bird Of Youth,Nat King Cole,96,1959-08-31,1959-09-07,10,2
+851,A House Of Love,Scott Garrett,92,1959-03-30,1959-03-30,9,1
+852,Hold It,Bill Doggett,92,1958-11-10,1958-11-10,9,1
+853,Young School Girl,Fats Domino,92,1958-09-22,1958-09-22,9,1
+854,Invitation To The Blues,Ray Price,92,1958-09-08,1958-09-08,9,1
+855,Tic Toc,Lee Allen And His Band,92,1958-09-29,1958-09-29,9,1
+856,Eternally,Thomas Wayne With the Delons,92,1959-05-11,1959-05-11,9,1
+857,Coquette,Fats Domino,92,1958-11-17,1958-11-17,9,1
+858,Summer's Love,Richard Barrett With The Chantels,93,1959-07-20,1959-07-27,9,2
+859,There's A Girl,Jan & Dean,97,1959-10-26,1959-11-09,9,3
+860,Ebb Tide,Bobby Freeman,93,1959-12-14,1959-12-14,8,1
+861,Little Things Mean A Lot,Joni James,93,1959-12-28,1959-12-28,8,1
+862,I'll Sail My Ship Alone,Jerry Lee Lewis And His Pumping Piano,93,1959-01-19,1959-01-19,8,1
+863,Fog Cutter,The Frantics,93,1959-09-14,1959-09-14,8,1
+864,"A House, A Car And A Wedding Ring",Mike Preston,93,1958-12-01,1958-12-01,8,1
+865,Guess I've Been Around Too Long,Carl Smith,93,1958-09-08,1958-09-08,8,1
+866,Happy Vacation,Jackie Lee,95,1959-06-29,1959-07-06,8,2
+867,Candy Apple Red,Bonnie Guitar,97,1959-12-14,1959-12-21,8,2
+868,Jealous Heart,The Fontane Sisters,94,1958-11-10,1958-11-10,7,1
+869,Yes I Want You,Ivory Joe Hunter,94,1958-09-08,1958-09-08,7,1
+870,Don't Destroy Me,Crash Craddock,94,1959-11-09,1959-11-09,7,1
+871,Midnighter,The Champs,94,1958-08-11,1958-08-11,7,1
+872,Bluebell,Mitch Miller and his Orchestra and Chorus,94,1958-10-13,1958-10-13,7,1
+873,Do-Re-Mi,Anita Bryant,94,1959-12-28,1959-12-28,7,1
+874,Many A Time,Steve Lawrence,97,1958-09-22,1958-09-29,7,2
+875,Someday (You'll Want Me To Want You),Jodie Sands,95,1958-10-27,1958-10-27,6,1
+876,Private Eye,The Olympics,95,1959-09-14,1959-09-14,6,1
+877,(Night Time Is) The Right Time,Ray Charles with the Raylettes,95,1959-02-09,1959-02-09,6,1
+878,Billy Bayou,Jim Reeves,95,1958-12-08,1958-12-08,6,1
+879,Jimmy Kiss And Run,Diane Maxwell,95,1959-03-23,1959-03-23,6,1
+880,Paris,Perez Prado And His Orchestra,95,1958-10-20,1958-10-20,6,1
+881,Old MacDonald,The Chargers,95,1958-09-01,1958-09-01,6,1
+882,Jack O'Diamonds,Ruth Brown,96,1959-06-01,1959-06-08,6,2
+883,Big Daddy,Jill Corey,96,1958-09-01,1958-10-27,6,2
+884,Chip Off The Old Block,Eddy Arnold,97,1959-03-09,1959-03-16,6,2
+885,Walkin' To Mother's,Ray Anthony and His Orchestra,96,1959-04-20,1959-04-20,5,1
+886,Fried Onions,Lord Rockingham's XI,96,1958-10-06,1958-10-06,5,1
+887,The Search,Dean Reed,96,1959-03-02,1959-03-02,5,1
+888,Geraldine,Jack Scott,96,1958-10-13,1958-10-13,5,1
+889,Separate Ways,Sarah Vaughan,96,1959-05-04,1959-05-04,5,1
+890,Over And Over,Thurston Harris,96,1958-08-04,1958-08-04,5,1
+891,Alimony,Frankie Ford,97,1959-08-03,1959-08-10,5,2
+892,Sunday Barbecue,Tennessee Ernie Ford,97,1958-08-11,1958-08-11,4,1
+893,Ma Ma Ma Marie,The Gaylords,97,1958-08-18,1958-08-18,4,1
+894,"Piove (Ciao, Ciao Bambina)",Domenico Modugno,97,1959-03-09,1959-03-09,4,1
+895,Sweet Sugar Lips,The Kalin Twins,97,1959-07-06,1959-07-06,4,1
+896,Don't Take The Stars,The Mystics,98,1959-10-19,1959-10-26,4,2
+897,Sweetheart,Peggy Lee,98,1958-11-24,1958-12-01,4,2
+898,Harlem Nocturne,The Viscounts,98,1959-12-28,1959-12-28,3,1
+899,CooCoo-U,The Kingston Trio,98,1959-12-14,1959-12-14,3,1
+900,I Don't Need You Anymore,The Teddy Bears,98,1959-02-16,1959-02-16,3,1
+901,Little Serenade,The Ames Brothers,98,1958-08-04,1958-08-04,3,1
+902,Flamingo L'Amore,The Gaylords,98,1958-11-10,1958-11-10,3,1
+903,That's All I Want,Bobby Day,98,1959-04-20,1959-04-20,3,1
+904,The Reason,The 5 Chanels,98,1958-12-22,1958-12-22,3,1
+905,One More Sunrise (Morgen),Leslie Uggams,98,1959-09-14,1959-09-14,3,1
+906,So Young,Clyde Stacy,99,1959-11-16,1959-11-23,3,2
+907,Who Are They To Say,The DeCastro Sisters,99,1958-08-18,1958-08-18,2,1
+908,With My Eyes Wide Open I'm Dreaming,Enoch Light & The Light Brigade,99,1959-06-15,1959-06-15,2,1
+909,The Sound Of Music,Patti Page,99,1959-12-28,1959-12-28,2,1
+910,Three Stars,Ruby Wright,99,1959-05-04,1959-05-04,2,1
+911,I'll Get By (As Long As I Have You),Billy Williams,99,1958-08-04,1958-08-04,2,1
+912,Sermonette,Della Reese,99,1959-01-05,1959-01-05,2,1
+913,Pickle Up A Doodle,Teresa Brewer,99,1958-09-01,1958-09-01,2,1
+914,Nothing In The World,Nat King Cole,99,1958-08-11,1958-08-11,2,1
+915,You Can't Get To Heaven On Roller Skates,Betty Johnson,99,1959-01-12,1959-01-12,2,1
+916,Teenage Heaven,Eddie Cochran,99,1959-03-16,1959-03-16,2,1
+917,The Chick,Lee and Paul,100,1959-03-30,1959-03-30,1,1
+918,Sweet Annie Laurie,Sammy Turner and The Twisters,100,1959-03-23,1959-03-23,1,1
+919,I Looked At Heaven,Tommy Edwards,100,1959-08-24,1959-08-24,1,1
+920,Going To Chicago Blues,Count Basie & His Orch.,100,1958-08-18,1958-08-18,1,1
+921,Itchy Twitchy Feeling,The Swallows,100,1958-09-22,1958-09-22,1,1
+922,Love Me In The Daytime,Doris Day,100,1959-05-11,1959-05-11,1,1
+923,Glad Rags,Tennessee Ernie Ford,100,1959-02-23,1959-02-23,1,1
+924,Judy,Frankie Vaughan,100,1958-08-04,1958-08-04,1,1
+925,Darling Lorraine,The Knockouts,100,1959-12-28,1959-12-28,1,1

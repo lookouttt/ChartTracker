@@ -1,0 +1,63 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Sweet Child O' Mine,Guns N' Roses,1,2020-06-13,2022-11-05,3039,126
+2,Bohemian Rhapsody,Queen,1,2020-06-13,2022-11-05,2975,126
+3,Thunderstruck,AC/DC,1,2020-06-13,2022-11-05,2852,126
+4,Another One Bites The Dust,Queen,3,2020-06-13,2022-11-05,2588,126
+5,Back In Black,AC/DC,3,2020-06-13,2022-11-05,2448,126
+6,Dream On,Aerosmith,2,2020-06-13,2022-11-05,2332,126
+7,Kryptonite,3 Doors Down,4,2020-06-13,2022-11-05,2185,126
+8,Livin' On A Prayer,Bon Jovi,4,2020-06-13,2022-11-05,2156,126
+9,In The End,Linkin Park,4,2020-06-13,2022-11-05,2062,126
+10,You Shook Me All Night Long,AC/DC,5,2020-06-13,2022-11-05,2025,126
+11,Enter Sandman,Metallica,4,2020-06-13,2022-11-05,1708,126
+12,Carry On Wayward Son,Kansas,5,2020-06-13,2022-11-05,1556,126
+13,Under Pressure,Queen & David Bowie,9,2020-06-13,2022-11-05,1424,126
+14,Highway To Hell,AC/DC,1,2020-06-13,2022-11-05,1391,126
+15,Numb,Linkin Park,13,2020-06-13,2022-11-05,1147,126
+16,We Will Rock You,Queen,7,2020-06-13,2022-07-09,1111,103
+17,Everlong,Foo Fighters,1,2020-07-04,2022-11-05,1025,106
+18,Pour Some Sugar On Me,Def Leppard,12,2020-06-13,2022-11-05,954,124
+19,Welcome To The Jungle,Guns N' Roses,14,2020-06-13,2022-11-05,854,126
+20,Bring Me To Life,Evanescence Featuring Paul McCoy,11,2020-06-13,2022-11-05,650,124
+21,The Sound Of Silence,Disturbed,16,2020-06-13,2022-04-30,572,89
+22,Crazy Train,Ozzy Osbourne,17,2020-06-13,2022-11-05,444,112
+23,Sweet Emotion,Aerosmith,12,2020-06-13,2022-07-16,442,69
+24,I Wanna Be Your Slave,Maneskin,1,2021-07-03,2021-11-06,356,19
+25,Master Of Puppets,Metallica,1,2022-07-16,2022-11-05,346,17
+26,Chop Suey,System Of A Down,16,2021-10-16,2022-11-05,276,52
+27,Mary On A Cross,Ghost,1,2022-08-27,2022-11-05,263,11
+28,Christmas Eve (Sarajevo 12/24),Trans-Siberian Orchestra,1,2020-12-05,2022-01-08,260,11
+29,Zombie,Bad Wolves,16,2020-06-13,2021-07-24,232,49
+30,King For A Day,Pierce The Veil Featuring Kellin Quinn,1,2022-08-13,2022-11-05,202,13
+31,Can You Feel My Heart,Bring Me The Horizon,1,2021-01-23,2021-03-27,172,10
+32,How You Remind Me,Nickelback,18,2021-09-04,2022-10-29,158,51
+33,Paradise City,Guns N' Roses,19,2020-06-13,2022-09-03,149,60
+34,The Rumbling,SiM,1,2022-01-29,2022-03-26,115,9
+35,Jump,Van Halen,1,2020-10-17,2020-11-07,63,4
+36,Stairway To Heaven,Led Zeppelin,22,2020-06-13,2022-05-21,57,23
+37,Popular Monster,Falling In Reverse,18,2020-09-26,2021-01-16,43,14
+38,Panama,Van Halen,5,2020-10-17,2020-10-24,38,2
+39,Last Resort,Papa Roach,23,2020-12-26,2022-03-12,32,19
+40,The Foundations Of Decay,My Chemical Romance,1,2022-05-28,2022-05-28,25,1
+41,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1,2022-02-05,2022-02-05,25,1
+42,Paradise By The Dashboard Light,Meat Loaf,2,2022-02-05,2022-02-05,24,1
+43,Jack,HARDY,10,2022-10-15,2022-10-22,22,2
+44,Runnin' With The Devil,Van Halen,10,2020-10-17,2020-10-24,19,2
+45,For Whom The Bell Tolls,Metallica,17,2022-07-16,2022-08-13,18,5
+46,Protect The Land,System Of A Down,10,2020-11-21,2020-11-21,16,1
+47,Dragula,Rob Zombie,15,2021-11-13,2022-11-05,13,2
+48,Zombified,Falling In Reverse,14,2022-01-22,2022-01-22,12,1
+49,(I Hate) Everything About You,Three Days Grace,23,2021-12-11,2022-02-26,9,5
+50,My Hero,Foo Fighters,18,2022-04-09,2022-04-09,8,1
+51,Parasite Eve,Bring Me The Horizon,18,2020-07-11,2020-07-11,8,1
+52,Down With The Sickness,Disturbed,24,2022-03-26,2022-04-23,7,4
+53,Sold Out,HARDY,20,2022-04-02,2022-04-02,6,1
+54,Pass The Nirvana,Pierce The Veil,20,2022-09-17,2022-09-17,6,1
+55,Rockstar,Nickelback,23,2022-03-12,2022-03-26,6,3
+56,Kickstart My Heart,Motley Crue,24,2022-07-23,2022-08-20,6,4
+57,Killing In The Name,Rage Against The Machine,21,2020-06-20,2020-06-20,5,1
+58,Don't Stop Me Now,Queen,23,2020-07-18,2021-01-16,5,2
+59,Hot For Teacher,Van Halen,22,2020-10-17,2020-10-17,4,1
+60,Wizards In Winter,Trans-Siberian Orchestra,24,2021-01-02,2021-01-02,2,1
+61,O Come All Ye Faithful / O Holy Night,Trans-Siberian Orchestra,25,2021-01-02,2021-01-02,1,1
+62,The Pretender,Foo Fighters,25,2022-04-09,2022-04-09,1,1

@@ -1,0 +1,589 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,"Hey, Soul Sister",Train,3,2010-01-02,2010-10-23,4843,43
+2,Need You Now,Lady Antebellum,2,2010-01-02,2010-10-16,4750,42
+3,OMG,Usher Featuring will.i.am,1,2010-04-17,2010-11-06,3890,30
+4,Airplanes,B.o.B Featuring Hayley Williams,2,2010-05-01,2010-11-20,3872,30
+5,California Gurls,Katy Perry Featuring Snoop Dogg,1,2010-05-29,2010-11-27,3818,27
+6,Dynamite,Taio Cruz,2,2010-06-19,2010-12-25,3710,28
+7,TiK ToK,Ke$ha,1,2010-01-02,2010-07-10,3676,28
+8,Love The Way You Lie,Eminem Featuring Rihanna,1,2010-07-10,2010-12-25,3664,25
+9,Break Your Heart,Taio Cruz Featuring Ludacris,1,2010-03-13,2010-09-25,3572,29
+10,Nothin' On You,B.o.B Featuring Bruno Mars,1,2010-02-13,2010-08-21,3374,28
+11,I Like It,Enrique Iglesias Featuring Pitbull,4,2010-05-29,2010-12-25,3214,31
+12,Bad Romance,Lady Gaga,2,2010-01-02,2010-07-03,3186,27
+13,Just The Way You Are,Bruno Mars,1,2010-08-07,2010-12-25,3182,21
+14,In My Head,Jason Derulo,5,2010-01-02,2010-08-14,3007,33
+15,Breakeven,The Script,12,2010-01-02,2010-10-09,2979,41
+16,Teenage Dream,Katy Perry,1,2010-08-07,2010-12-25,2869,21
+17,Rude Boy,Rihanna,1,2010-02-27,2010-07-24,2868,22
+18,Cooler Than Me,Mike Posner,6,2010-05-15,2010-11-27,2814,29
+19,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,4,2010-07-31,2010-12-25,2806,22
+20,Telephone,Lady Gaga Featuring Beyonce,3,2010-01-02,2010-07-24,2805,30
+21,Imma Be,The Black Eyed Peas,1,2010-01-02,2010-06-19,2771,25
+22,BedRock,Young Money Featuring Lloyd,2,2010-01-02,2010-05-29,2693,22
+23,Billionaire,Travie McCoy Featuring Bruno Mars,4,2010-04-17,2010-10-16,2686,27
+24,Your Love Is My Drug,Ke$ha,4,2010-01-23,2010-09-04,2527,28
+25,Not Afraid,Eminem,1,2010-05-22,2010-11-06,2435,25
+26,Like A G6,Far*East Movement Featuring Cataracs & Dev,1,2010-08-28,2010-12-25,2359,18
+27,Just A Dream,Nelly,3,2010-09-04,2010-12-25,2330,17
+28,Haven't Met You Yet,Michael Buble,24,2010-01-02,2010-08-14,2303,33
+29,I Gotta Feeling,The Black Eyed Peas,9,2010-01-02,2010-07-17,2185,29
+30,Alejandro,Lady Gaga,5,2010-04-17,2010-09-18,2132,23
+31,Only Girl (In The World),Rihanna,1,2010-09-25,2010-12-25,2131,14
+32,Sexy Chick,David Guetta Featuring Akon,5,2010-01-02,2010-05-22,2101,21
+33,Whataya Want From Me,Adam Lambert,10,2010-01-02,2010-07-24,2055,30
+34,Find Your Love,Drake,5,2010-05-22,2010-10-09,1978,21
+35,Say Aah,Trey Songz Featuring Fabolous,9,2010-01-02,2010-06-12,1972,24
+36,Ridin' Solo,Jason Derulo,9,2010-03-20,2010-10-23,1970,28
+37,Club Can't Handle Me,Flo Rida Featuring David Guetta,9,2010-07-17,2010-12-25,1957,24
+38,Bulletproof,La Roux,8,2010-03-20,2010-09-18,1954,27
+39,Replay,Iyaz,2,2010-01-02,2010-04-24,1897,17
+40,How Low,Ludacris,6,2010-01-02,2010-05-15,1879,20
+41,Carry Out,Timbaland Featuring Justin Timberlake,11,2010-01-02,2010-06-12,1827,24
+42,Mine,Taylor Swift,3,2010-08-21,2010-12-25,1745,19
+43,Bottoms Up,Trey Songz Featuring Nicki Minaj,6,2010-08-28,2010-12-25,1743,18
+44,Animal,Neon Trees,13,2010-06-19,2010-12-25,1743,28
+45,Empire State Of Mind,Jay-Z + Alicia Keys,2,2010-01-02,2010-04-17,1738,16
+46,Baby,Justin Bieber Featuring Ludacris,5,2010-02-06,2010-06-19,1735,20
+47,Secrets,OneRepublic,21,2010-06-26,2010-12-25,1638,25
+48,Live Like We're Dying,Kris Allen,18,2010-01-02,2010-05-29,1611,22
+49,Deuces,Chris Brown Featuring Tyga & Kevin McCall,14,2010-07-17,2010-12-25,1559,24
+50,All The Right Moves,OneRepublic,18,2010-01-02,2010-06-12,1553,24
+51,Stuck Like Glue,Sugarland,17,2010-08-14,2010-12-25,1488,20
+52,Misery,Maroon 5,14,2010-07-10,2010-11-20,1465,20
+53,Young Forever,Jay-Z + Mr. Hudson,10,2010-03-06,2010-07-17,1457,20
+54,Over,Drake,14,2010-03-27,2010-08-07,1452,20
+55,Take It Off,Ke$ha,8,2010-01-23,2010-12-11,1446,20
+56,My Chick Bad,Ludacris Featuring Nicki Minaj,11,2010-03-13,2010-07-24,1441,20
+57,According To You,Orianthi,17,2010-01-02,2010-05-08,1417,19
+58,Fireflies,Owl City,4,2010-01-02,2010-04-03,1401,14
+59,If I Die Young,The Band Perry,19,2010-07-24,2010-12-25,1395,23
+60,Raise Your Glass,P!nk,1,2010-10-23,2010-12-25,1388,10
+61,Blah Blah Blah,Ke$ha Featuring 3OH!3,7,2010-01-23,2010-06-05,1380,20
+62,Your Love,Nicki Minaj,14,2010-06-19,2010-10-30,1372,20
+63,Down,Jay Sean Featuring Lil Wayne,7,2010-01-02,2010-04-17,1336,16
+64,Right Above It,Lil Wayne Featuring Drake,6,2010-09-04,2010-12-25,1332,17
+65,Impossible,Shontelle,13,2010-05-08,2010-09-18,1326,20
+66,Magic,B.o.B Featuring Rivers Cuomo,10,2010-05-15,2010-11-06,1273,20
+67,Naturally,Selena Gomez & The Scene,29,2010-01-09,2010-05-29,1268,21
+68,Un-Thinkable (I'm Ready),Alicia Keys,21,2010-04-24,2010-09-04,1263,20
+69,All I Do Is Win,"DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",24,2010-03-06,2010-08-14,1259,24
+70,I Made It (Cash Money Heroes),"Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne",21,2010-02-20,2010-07-03,1231,20
+71,There Goes My Baby,Usher,25,2010-03-06,2010-09-18,1225,25
+72,Hard,Rihanna Featuring Jeezy,8,2010-01-02,2010-04-17,1213,16
+73,Tie Me Down,New Boyz Featuring Ray J,22,2010-01-02,2010-04-24,1212,17
+74,My First Kiss,3OH!3 Featuring Ke$ha,9,2010-05-22,2010-09-18,1203,18
+75,F**k You! (Forget You),CeeLo Green,9,2010-09-11,2010-12-25,1195,16
+76,Hey Daddy (Daddy's Home),Usher Featuring Plies,24,2010-01-02,2010-06-19,1180,21
+77,Whatcha Say,Jason Derulo,6,2010-01-02,2010-04-03,1164,14
+78,King Of Anything,Sara Bareilles,32,2010-07-10,2010-12-04,1164,22
+79,Say Something,Timbaland Featuring Drake,23,2010-01-23,2010-06-05,1133,20
+80,You Belong With Me,Taylor Swift,16,2010-01-02,2010-04-17,1128,16
+81,Undo It,Carrie Underwood,23,2010-05-22,2010-09-25,1114,19
+82,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,10,2010-01-02,2010-04-03,1106,14
+83,We R Who We R,Ke$ha,1,2010-11-13,2010-12-25,1092,7
+84,Rock That Body,The Black Eyed Peas,9,2010-05-15,2010-09-11,1092,18
+85,The House That Built Me,Miranda Lambert,28,2010-04-10,2010-08-21,1087,20
+86,Today Was A Fairytale,Taylor Swift,2,2010-02-06,2010-06-05,1070,18
+87,The Only Exception,Paramore,24,2010-06-12,2010-10-23,1064,20
+88,Firework,Katy Perry,1,2010-11-06,2010-12-25,1063,8
+89,What's My Name?,Rihanna Featuring Drake,1,2010-11-06,2010-12-25,1039,8
+90,Teach Me How To Dougie,Cali Swag District,28,2010-06-12,2010-10-23,1023,20
+91,No Hands,Waka Flocka Flame Featuring Roscoe Dash & Wale,16,2010-09-25,2010-12-25,1021,14
+92,Letting Go (Dutty Love),Sean Kingston Featuring Nicki Minaj,36,2010-08-21,2010-12-25,992,19
+93,Eenie Meenie,Sean Kingston & Justin Bieber,15,2010-04-10,2010-08-07,985,18
+94,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,18,2010-01-02,2010-03-27,978,13
+95,American Honey,Lady Antebellum,25,2010-01-09,2010-06-12,970,20
+96,"Lover, Lover",Jerrod Niemann,29,2010-05-15,2010-09-25,959,20
+97,If I Had You,Adam Lambert,30,2010-07-10,2010-11-20,954,20
+98,Hot Tottie,Usher Featuring Jay-Z,21,2010-08-28,2010-12-11,945,16
+99,If It's Love,Train,34,2010-06-26,2010-11-06,940,20
+100,Life After You,Daughtry,36,2010-01-02,2010-05-01,940,18
+101,Miss Me,Drake Featuring Lil Wayne,15,2010-06-19,2010-10-30,930,20
+102,Pray For You,Jaron And The Long Road To Love,34,2010-04-10,2010-08-21,926,20
+103,The Boys of Fall,Kenny Chesney,18,2010-08-14,2010-12-11,923,18
+104,Love Like Woe,The Ready Set,27,2010-08-28,2010-12-25,902,18
+105,This Afternoon,Nickelback,34,2010-04-24,2010-09-04,899,20
+106,Rain Is A Good Thing,Luke Bryan,37,2010-04-10,2010-08-21,898,20
+107,Got Your Back,T.I. Featuring Keri Hilson,38,2010-06-19,2010-11-06,879,20
+108,Heartbreak Warfare,John Mayer,34,2010-01-02,2010-05-08,876,19
+109,Free,Zac Brown Band,34,2010-06-05,2010-10-09,875,19
+110,Hello Good Morning,Diddy - Dirty Money Featuring T.I.,27,2010-04-17,2010-08-28,867,20
+111,Pretty Good At Drinkin' Beer,Billy Currington,41,2010-06-19,2010-10-30,861,20
+112,As She's Walking Away,Zac Brown Band Featuring Alan Jackson,32,2010-08-28,2010-12-25,858,18
+113,Fancy,Drake Featuring T.I. & Swizz Beatz,25,2010-07-03,2010-12-25,852,20
+114,Smile,Uncle Kracker,31,2010-01-02,2010-10-02,851,14
+115,Gimmie That Girl,Joe Nichols,34,2010-03-13,2010-07-24,846,20
+116,Love Like Crazy,Lee Brice,45,2010-05-22,2010-10-02,830,20
+117,Half Of My Heart,John Mayer,34,2010-06-26,2010-10-23,825,18
+118,Meet Me Halfway,The Black Eyed Peas,9,2010-01-02,2010-03-13,821,11
+119,Please Don't Go,Mike Posner,16,2010-10-09,2010-12-25,815,12
+120,Forever,"Drake Featuring Kanye West, Lil Wayne & Eminem",16,2010-01-02,2010-03-13,813,11
+121,Gettin' Over You,David Guetta & Chris Willis Featuring Fergie & LMFAO,31,2010-05-15,2010-09-25,812,20
+122,Paparazzi,Lady Gaga,14,2010-01-02,2010-03-13,797,11
+123,Solo,Iyaz,32,2010-02-27,2010-07-03,795,18
+124,If We Ever Meet Again,Timbaland Featuring Katy Perry,37,2010-04-10,2010-07-31,784,17
+125,Come Back Song,Darius Rucker,37,2010-07-31,2010-12-11,782,20
+126,Grenade,Bruno Mars,3,2010-10-16,2010-12-25,773,11
+127,Try Sleeping With A Broken Heart,Alicia Keys,27,2010-01-02,2010-04-17,768,16
+128,Already Gone,Kelly Clarkson,18,2010-01-02,2010-03-13,765,11
+129,Party In The U.S.A.,Miley Cyrus,8,2010-01-02,2010-03-06,763,10
+130,September,Daughtry,36,2010-08-21,2010-12-25,762,19
+131,My Kinda Party,Jason Aldean,39,2010-09-11,2010-12-25,759,16
+132,Hillbilly Bone,Blake Shelton Featuring Trace Adkins,40,2010-01-09,2010-05-22,745,20
+133,Somebody To Love,Justin Bieber Featuring Usher,15,2010-05-29,2010-10-02,744,18
+134,Why Don't We Just Dance,Josh Turner,35,2010-01-02,2010-04-10,742,15
+135,Highway 20 Ride,Zac Brown Band,40,2010-01-30,2010-06-12,742,20
+136,Use Somebody,Kings Of Leon,25,2010-01-02,2010-03-13,739,11
+137,Lil Freak,Usher Featuring Nicki Minaj,40,2010-03-20,2010-07-03,733,16
+138,No Love,Eminem Featuring Lil Wayne,23,2010-07-10,2010-12-25,711,15
+139,Ride,Ciara Featuring Ludacris,42,2010-05-08,2010-09-18,710,20
+140,2012 (It Ain't The End),Jay Sean Featuring Nicki Minaj,31,2010-08-21,2010-11-20,706,14
+141,Can't Be Tamed,Miley Cyrus,8,2010-06-05,2010-08-07,698,10
+142,Drop The World,Lil Wayne Featuring Eminem,18,2010-01-16,2010-05-29,696,20
+143,We No Speak Americano,Yolanda Be Cool & Dcup,29,2010-10-02,2010-12-25,691,13
+144,The Truth,Jason Aldean,40,2010-01-02,2010-04-03,686,14
+145,Check It Out,will.i.am & Nicki Minaj,24,2010-09-25,2010-12-18,685,13
+146,Temporary Home,Carrie Underwood,41,2010-01-16,2010-05-22,684,19
+147,3,Britney Spears,10,2010-01-02,2010-03-06,680,10
+148,Halfway Gone,Lifehouse,50,2010-01-02,2010-05-08,676,19
+149,Water,Brad Paisley,42,2010-05-01,2010-09-04,675,19
+150,Neighbors Know My Name,Trey Songz,43,2010-03-13,2010-07-24,675,20
+151,It Kills Me,Melanie Fiona,43,2010-01-02,2010-04-17,670,16
+152,Pretty Boy Swag,Soulja Boy Tell'em,34,2010-07-03,2010-10-16,665,16
+153,I Never Told You,Colbie Caillat,48,2010-04-10,2010-08-21,665,20
+154,Lose My Mind,Young Jeezy Featuring Plies,35,2010-05-22,2010-08-28,651,15
+155,Everything To Me,Monica,44,2010-02-27,2010-06-26,650,18
+156,Our Kind Of Love,Lady Antebellum,51,2010-02-06,2010-11-06,650,20
+157,Farmer's Daughter,Rodney Atkins,47,2010-07-03,2010-11-20,634,21
+158,Waka Waka (This Time For Africa),Shakira Featuring Freshlyground,38,2010-06-26,2010-11-06,633,18
+159,The Man I Want To Be,Chris Young,48,2010-03-20,2010-07-31,633,20
+160,Can't Be Friends,Trey Songz,43,2010-10-02,2010-12-25,627,13
+161,Black And Yellow,Wiz Khalifa,11,2010-10-02,2010-12-25,625,10
+162,Winner,Jamie Foxx Featuring Justin Timberlake & T .I.,28,2010-04-24,2010-07-03,624,11
+163,If You Only Knew,Shinedown,42,2010-01-02,2010-03-27,624,13
+164,Why Wait,Rascal Flatts,48,2010-09-04,2010-12-25,620,17
+165,I Am,Mary J. Blige,55,2010-01-02,2010-05-08,617,19
+166,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,32,2010-10-16,2010-12-25,616,11
+167,Right Thru Me,Nicki Minaj,26,2010-10-16,2010-12-25,599,11
+168,Whip My Hair,WILLOW,11,2010-11-06,2010-12-25,589,8
+169,The Time (Dirty Bit),The Black Eyed Peas,4,2010-11-27,2010-12-25,579,5
+170,On To The Next One,Jay-Z + Swizz Beatz,37,2010-01-30,2010-05-01,573,14
+171,Round & Round,Selena Gomez & The Scene,24,2010-07-10,2010-10-09,563,14
+172,A Little More Country Than That,Easton Corbin,42,2010-01-23,2010-06-05,560,20
+173,Sweet Dreams,Beyonce,17,2010-01-02,2010-02-20,543,8
+174,Little White Church,Little Big Town,59,2010-06-19,2010-10-30,543,20
+175,She Won't Be Lonely Long,Clay Walker,53,2010-04-17,2010-08-14,542,18
+176,Money To Blow,Birdman Featuring Lil Wayne & Drake,26,2010-01-02,2010-03-06,541,10
+177,Aston Martin Music,Rick Ross Featuring Drake & Chrisette Michele,33,2010-08-07,2010-12-25,538,11
+178,Runaway,Kanye West Featuring Pusha T,12,2010-10-23,2010-12-25,537,10
+179,Evacuate The Dancefloor,Cascada,27,2010-01-02,2010-02-20,535,8
+180,Steady Mobbin',Young Money Featuring Gucci Mane,48,2010-01-09,2010-06-05,535,20
+181,Stereo Love,Edward Maya & Vika Jigulina,19,2010-10-23,2010-12-25,530,10
+182,I'm Back,T.I.,44,2010-04-03,2010-07-10,520,15
+183,Crazy Town,Jason Aldean,51,2010-05-01,2010-08-21,518,17
+184,Sex Therapy,Robin Thicke,54,2010-01-02,2010-05-08,517,19
+185,Roll With It,Easton Corbin,55,2010-07-31,2010-12-04,509,19
+186,Unstoppable,Rascal Flatts,52,2010-02-27,2010-06-19,506,17
+187,"Beamer, Benz, Or Bentley",Lloyd Banks Featuring Juelz Santana,49,2010-02-27,2010-06-26,501,16
+188,La La La,Auburn Featuring Iyaz,51,2010-07-31,2010-10-23,500,13
+189,POWER,Kanye West,22,2010-07-17,2010-10-30,498,16
+190,Anything Like Me,Brad Paisley,48,2010-09-18,2010-12-25,497,15
+191,Gangsta Luv,Snoop Dogg Featuring The-Dream,35,2010-01-02,2010-03-13,486,11
+192,When I Look At You,Miley Cyrus,16,2010-01-30,2010-05-22,481,13
+193,White Liar,Miranda Lambert,47,2010-01-02,2010-03-13,476,11
+194,Ain't Back Yet,Kenny Chesney,50,2010-03-20,2010-06-12,467,13
+195,Back To December,Taylor Swift,6,2010-10-30,2010-12-25,456,7
+196,All About Tonight,Blake Shelton,37,2010-07-03,2010-11-06,450,19
+197,I'm In,Keith Urban,60,2010-06-19,2010-09-25,449,15
+198,Little Lion Man,Mumford & Sons,61,2010-08-28,2010-12-25,448,18
+199,Love All Over Me,Monica,58,2010-07-31,2010-11-20,446,17
+200,We Are The World 25: For Haiti,Artists For Haiti,2,2010-02-27,2010-03-27,439,5
+201,B.M.F. (Blowin' Money Fast),Rick Ross Featuring Styles P,60,2010-07-24,2010-11-06,439,16
+202,Glitter In The Air,P!nk,18,2010-02-20,2010-10-02,437,18
+203,All Over Me,Josh Turner,59,2010-07-17,2010-11-13,436,18
+204,'Til Summer Comes Around,Keith Urban,58,2010-01-30,2010-05-15,419,16
+205,Yeah 3X,Chris Brown,22,2010-11-13,2010-12-25,415,7
+206,Fallin' For You,Colbie Caillat,38,2010-01-02,2010-02-13,415,7
+207,History In The Making,Darius Rucker,61,2010-01-02,2010-03-27,413,13
+208,Fifteen,Taylor Swift,25,2010-01-02,2010-02-06,410,6
+209,Someday,Rob Thomas,59,2010-01-02,2010-04-17,408,16
+210,Dog Days Are Over,Florence + The Machine,21,2010-09-25,2010-12-25,405,13
+211,Jar Of Hearts,Christina Perri,34,2010-07-17,2010-12-25,405,11
+212,Shut It Down,Pitbull Featuring Akon,42,2010-01-02,2010-03-20,404,12
+213,Memories,David Guetta Featuring Kid Cudi,46,2010-10-23,2010-12-25,401,10
+214,Cowboy Casanova,Carrie Underwood,29,2010-01-02,2010-02-13,400,7
+215,Lemonade,Gucci Mane,53,2010-02-20,2010-05-08,400,12
+216,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,21,2010-01-02,2010-02-27,398,9
+217,I Wanna Rock,Snoop Dogg,41,2010-01-02,2010-04-10,394,14
+218,I'm Awesome,Spose,37,2010-04-03,2010-05-29,391,9
+219,I Invented Sex,Trey Songz Featuring Drake,42,2010-01-02,2010-03-20,385,12
+220,That's How Country Boys Roll,Billy Currington,57,2010-01-02,2010-05-01,384,17
+221,Mama's Song,Carrie Underwood,56,2010-10-16,2010-12-25,381,11
+222,The Breath You Take,George Strait,63,2010-09-18,2010-12-25,371,15
+223,Felt Good On My Lips,Tim McGraw,26,2010-11-20,2010-12-25,365,6
+224,All I Want Is You,Miguel Featuring J. Cole,58,2010-10-02,2010-12-25,358,13
+225,Southern Voice,Tim McGraw,50,2010-01-02,2010-03-06,347,10
+226,Not Myself Tonight,Christina Aguilera,23,2010-05-01,2010-06-26,345,8
+227,All The Way Turnt Up,Roscoe Dash Featuring Soulja Boy Tell'em,46,2010-02-13,2010-05-01,340,12
+228,Only Prettier,Miranda Lambert,61,2010-09-18,2010-12-25,334,15
+229,Turn On The Radio,Reba,53,2010-10-02,2010-12-25,332,13
+230,Beautiful Monster,Ne-Yo,53,2010-06-26,2010-08-21,328,9
+231,One Less Lonely Girl,Justin Bieber,30,2010-01-02,2010-02-13,324,7
+232,Never Gonna Be Alone,Nickelback,58,2010-01-02,2010-03-06,318,10
+233,Soldier Of Love,Sade,52,2010-01-30,2010-04-10,311,11
+234,Somewhere With You,Kenny Chesney,37,2010-11-20,2010-12-25,309,6
+235,Holding You Down (Goin In Circles),Jazmine Sullivan,60,2010-09-11,2010-11-27,308,12
+236,Keep On Lovin' You,Steel Magnolia,68,2010-03-20,2010-06-26,305,15
+237,Kissin U,Miranda Cosgrove,54,2010-04-24,2010-09-18,303,15
+238,The Catalyst,Linkin Park,27,2010-08-21,2010-10-30,302,10
+239,Rhythm of Love,Plain White T's,55,2010-08-28,2010-12-25,296,13
+240,Shake,Jesse McCartney,54,2010-10-09,2010-12-25,290,10
+241,Put You In A Song,Keith Urban,60,2010-10-02,2010-12-25,290,11
+242,American Saturday Night,Brad Paisley,67,2010-01-02,2010-04-03,290,13
+243,Roger That,Young Money,56,2010-04-10,2010-06-19,287,11
+244,One Time,Justin Bieber,17,2010-01-02,2010-01-23,274,4
+245,I Wanna Make You Close Your Eyes,Dierks Bentley,57,2010-01-02,2010-02-27,270,9
+246,Spotlight,Gucci Mane Featuring Usher,51,2010-01-02,2010-02-27,269,9
+247,Hell On The Heart,Eric Church,67,2010-03-20,2010-06-05,264,12
+248,Break My Bank,New Boyz Featuring Iyaz,68,2010-07-31,2010-10-09,263,11
+249,Consider Me Gone,Reba,45,2010-01-02,2010-02-20,259,8
+250,Wrong Baby Wrong,Martina McBride,74,2010-04-10,2010-07-17,251,15
+251,Tonight (I'm Lovin' You),Enrique Iglesias Featuring Ludacris & DJ Frank E,15,2010-12-11,2010-12-25,250,3
+252,Toot It And Boot It,YG,67,2010-09-11,2010-11-20,248,11
+253,Give It Up To Me,Shakira Featuring Lil Wayne,40,2010-01-02,2010-02-06,246,6
+254,Baby By Me,50 Cent Featuring Ne-Yo,36,2010-01-02,2010-02-06,242,6
+255,Uprising,Muse,51,2010-01-02,2010-02-06,239,6
+256,Shots,LMFAO Featuring Lil Jon,68,2010-01-09,2010-04-24,234,16
+257,Loca,Shakira Featuring El Cata or Dizzee Rascal,32,2010-10-23,2010-12-25,224,10
+258,Sex Room,Ludacris Featuring Trey Songz,69,2010-06-12,2010-08-21,223,11
+259,Backwoods,Justin Moore,69,2010-03-13,2010-06-05,220,13
+260,I Gotta Get To You,George Strait,70,2010-04-03,2010-06-26,220,13
+261,Do I,Luke Bryan,43,2010-01-02,2010-01-30,216,5
+262,Monster,"Kanye West Featuring Jay-Z, Rick Ross, Bon Iver & Nicki Minaj",18,2010-11-06,2010-12-25,214,7
+263,Kush,Dr. Dre Featuring Snoop Dogg & Akon,34,2010-12-04,2010-12-25,211,4
+264,Teenage Dream,Glee Cast,8,2010-11-27,2010-12-11,209,3
+265,O Let's Do It,Waka Flocka Flame,62,2010-02-27,2010-05-08,209,11
+266,Forget You,Glee Cast Featuring Gwyneth Paltrow,11,2010-12-04,2010-12-25,206,4
+267,Run This Town,"Jay-Z, Rihanna & Kanye West",31,2010-01-02,2010-01-16,201,3
+268,Lay It Down,Lloyd,64,2010-11-06,2010-12-25,199,8
+269,Speak Now,Taylor Swift,8,2010-10-23,2010-11-06,194,3
+270,Hold You (Hold Yuh),Gyptian,77,2010-06-05,2010-10-02,192,15
+271,Cryin' For Me (Wayman's Song),Toby Keith,73,2010-01-02,2010-03-13,191,10
+272,Russian Roulette,Rihanna,43,2010-01-02,2010-02-06,185,6
+273,A Year Without Rain,Selena Gomez & The Scene,35,2010-09-25,2010-10-30,180,6
+274,Erase Me,Kid Cudi Featuring Kanye West,22,2010-09-11,2010-10-09,177,5
+275,Bittersweet,Fantasia,74,2010-07-24,2010-10-09,169,12
+276,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,24,2010-12-11,2010-12-25,167,3
+277,Crawl,Chris Brown,53,2010-01-02,2010-02-06,165,6
+278,Fearless,Taylor Swift,76,2010-02-20,2010-05-01,165,10
+279,Who Are You When I'm Not Looking,Blake Shelton,54,2010-11-20,2010-12-25,161,6
+280,Just Breathe,Pearl Jam,78,2010-01-30,2010-05-01,157,14
+281,Hallelujah,Justin Timberlake & Matt Morris Featuring Charlie Sexton,13,2010-02-06,2010-02-20,156,3
+282,Angel,Akon,56,2010-10-09,2010-12-25,154,8
+283,This Ain't Nothin',Craig Morgan,83,2010-07-03,2010-09-25,154,13
+284,Down On Me,Jeremih Featuring 50 Cent,62,2010-11-27,2010-12-25,152,5
+285,Eight Second Ride,Jake Owen,72,2010-01-02,2010-02-13,148,7
+286,Knockout,Lil Wayne Featuring Nicki Minaj,44,2010-02-20,2010-03-20,143,5
+287,Christmas Lights,Coldplay,25,2010-12-18,2010-12-25,142,2
+288,I Keep On Loving You,Reba,78,2010-05-08,2010-07-10,142,10
+289,You And Your Heart,Jack Johnson,20,2010-04-24,2010-06-19,140,4
+290,Hold My Hand,Michael Jackson Duet With Akon,50,2010-12-04,2010-12-25,139,4
+291,143,Bobby Brackins Featuring Ray J,76,2010-07-03,2010-09-11,137,11
+292,Singing In The Rain / Umbrella,Glee Cast Featuring Gwyneth Paltrow,18,2010-12-04,2010-12-18,130,3
+293,Set The Fire To The Third Bar,Snow Patrol Featuring Martha Wainwright,54,2010-01-30,2010-02-27,130,5
+294,Champagne Life,Ne-Yo,75,2010-08-07,2010-09-25,130,8
+295,Gonorrhea,Lil Wayne Featuring Drake,17,2010-10-16,2010-10-30,126,3
+296,Don't You Wanna Stay,Jason Aldean With Kelly Clarkson,56,2010-11-20,2010-12-25,126,6
+297,Pretty Girl Rock,Keri Hilson,45,2010-12-11,2010-12-25,124,3
+298,Never Say Never,Justin Bieber Featuring Jaden Smith,33,2010-06-26,2010-07-24,123,5
+299,Shark In The Water,V V Brown,67,2010-06-19,2010-07-24,122,6
+300,Smoke A Little Smoke,Eric Church,78,2010-10-02,2010-12-25,122,13
+301,Radioactive,Kings Of Leon,37,2010-10-02,2010-11-20,121,5
+302,Poker Face,Glee Cast,20,2010-06-05,2010-06-26,120,4
+303,Waiting For The End,Linkin Park,74,2010-10-02,2010-12-25,120,10
+304,Jessie's Girl,Glee Cast,23,2010-05-29,2010-06-12,119,3
+305,Papers,Usher,61,2010-01-02,2010-02-13,118,7
+306,Voices,Chris Young,69,2010-11-20,2010-12-25,118,6
+307,Total Eclipse Of The Heart,Glee Cast Featuring Jonathan Groff,16,2010-05-22,2010-05-29,114,2
+308,Body Language,Jesse McCartney Featuring T-Pain,45,2010-01-02,2010-01-23,114,4
+309,I Will Not Bow,Breaking Benjamin,64,2010-01-02,2010-01-30,114,5
+310,Someone Else Calling You Baby,Luke Bryan,75,2010-11-13,2010-12-25,114,7
+311,Marry You,Glee Cast,32,2010-12-11,2010-12-18,113,2
+312,Pants On The Ground,General Larry Platt,46,2010-02-27,2010-03-13,112,3
+313,Hello World,Lady Antebellum,70,2010-11-27,2010-12-25,111,5
+314,Rockstar 101,Rihanna Featuring Slash,64,2010-08-14,2010-09-25,109,5
+315,Sparks Fly,Taylor Swift,17,2010-11-13,2010-11-20,107,2
+316,Beautiful Day,Lee DeWyze,24,2010-06-12,2010-06-19,106,2
+317,1901,Phoenix,84,2010-01-02,2010-04-03,106,11
+318,We'll Be A Dream,WE the Kings Featuring Demi Lovato,76,2010-07-17,2010-08-21,103,6
+319,Stranded (Haiti Mon Amour),"Jay-Z, Bono, The Edge & Rihanna",16,2010-02-06,2010-02-13,101,2
+320,Red Light,David Nail,63,2010-01-02,2010-01-23,99,4
+321,"Women Lie, Men Lie",Yo Gotti Featuring Lil Wayne,81,2010-03-13,2010-04-24,99,7
+322,Break,Three Days Grace,73,2010-01-02,2010-02-06,96,6
+323,Mean,Taylor Swift,11,2010-11-06,2010-11-06,90,1
+324,Empire State Of Mind,Glee Cast,21,2010-10-09,2010-10-16,87,2
+325,Never Let You Go,Justin Bieber,21,2010-03-20,2010-03-27,87,2
+326,Toxic,Glee Cast,16,2010-10-16,2010-10-16,85,1
+327,Dream On,Glee Cast Featuring Neil Patrick Harris,26,2010-06-05,2010-06-12,84,2
+328,Way Out Here,Josh Thompson,85,2010-09-11,2010-11-06,84,9
+329,That's All She Wrote,T.I. Featuring Eminem,18,2010-12-25,2010-12-25,83,1
+330,Hallelujah,Lee DeWyze,44,2010-06-12,2010-06-19,82,2
+331,U Smile,Justin Bieber,27,2010-04-03,2010-10-02,80,2
+332,Who Dat Girl,Flo Rida Featuring Akon,55,2010-12-18,2010-12-25,80,2
+333,Dog Days Are Over,Glee Cast,22,2010-12-18,2010-12-18,79,1
+334,Like A Prayer,Glee Cast Featuring Jonathan Groff,27,2010-05-08,2010-05-15,79,2
+335,Telephone,Glee Cast,23,2010-10-09,2010-10-09,78,1
+336,Gives You Hell,Glee Cast,32,2010-05-01,2010-05-08,78,2
+337,Wavin' Flag,K'Naan,82,2010-06-26,2010-07-31,77,6
+338,The Only Exception,Glee Cast,26,2010-10-16,2010-10-16,75,1
+339,I Dreamed A Dream,Glee Cast Featuring Idina Menzel,31,2010-06-05,2010-06-12,75,2
+340,Nightmare,Avenged Sevenfold,51,2010-06-05,2010-08-14,75,3
+341,Innocent,Taylor Swift,27,2010-11-13,2010-11-13,74,1
+342,Lucky,Glee Cast,27,2010-10-30,2010-10-30,74,1
+343,Wasted,Gucci Mane Featuring Plies Or OJ Da Juiceman,77,2010-01-02,2010-01-23,74,4
+344,Billionaire,Glee Cast,28,2010-10-09,2010-10-09,73,1
+345,Hell Breaks Loose,Eminem Featuring Dr. Dre,29,2010-01-02,2010-01-02,72,1
+346,"Hey, Soul Sister",Glee Cast,29,2010-12-18,2010-12-18,72,1
+347,"Bon, Bon",Pitbull,61,2010-11-20,2010-12-25,72,5
+348,Start Me Up / Livin' On A Prayer,Glee Cast,31,2010-11-27,2010-11-27,70,1
+349,Hey,Lil Jon Featuring 3OH!3,62,2010-06-26,2010-07-03,70,2
+350,Let It Be,Kris Allen,63,2010-03-13,2010-03-20,69,2
+351,Hello,Glee Cast Featuring Jonathan Groff,35,2010-05-01,2010-05-01,66,1
+352,Alice,Avril Lavigne,71,2010-03-20,2010-04-03,66,3
+353,I Want To Hold Your Hand,Glee Cast,36,2010-10-23,2010-10-23,65,1
+354,One Day,Matisyahu,85,2010-03-13,2010-04-17,65,6
+355,One Of Us,Glee Cast,37,2010-10-23,2010-10-23,64,1
+356,Faithfully,Glee Cast,37,2010-06-26,2010-06-26,64,1
+357,Touchin On My,3OH!3,49,2010-06-05,2010-06-12,64,2
+358,Stop! In The Name Of Love / Free Your Mind,Glee Cast,38,2010-11-27,2010-11-27,63,1
+359,(I've Had) The Time Of My Life,Glee Cast,38,2010-12-18,2010-12-18,63,1
+360,Listen,Glee Cast,38,2010-10-09,2010-10-09,63,1
+361,Up All Night,Drake Featuring Nicki Minaj,49,2010-07-03,2010-07-10,63,2
+362,Bad Romance,Glee Cast,54,2010-06-05,2010-06-12,62,2
+363,Just The Way You Are,Glee Cast,40,2010-12-11,2010-12-11,61,1
+364,The Story Of Us,Taylor Swift,41,2010-11-13,2010-11-13,60,1
+365,"River Deep, Mountain High",Glee Cast,41,2010-10-30,2010-10-30,60,1
+366,One Love (People Get Ready),Glee Cast,41,2010-11-27,2010-11-27,60,1
+367,What's Wrong With Them,Lil Wayne Featuring Nicki Minaj,42,2010-10-16,2010-10-16,59,1
+368,E.T.,Katy Perry Featuring Kanye West,42,2010-09-04,2010-09-04,59,1
+369,The Show Goes On,Lupe Fiasco,57,2010-11-27,2010-12-04,59,2
+370,Yeah Ya Know (Takers),T.I.,44,2010-06-19,2010-06-26,58,2
+371,Over The Rainbow,Glee Cast,44,2010-06-26,2010-06-26,57,1
+372,Hollywood,Michael Buble,55,2010-09-25,2010-11-13,57,2
+373,Gypsy,Shakira,65,2010-05-15,2010-05-29,57,3
+374,I'm Going In,Drake Featuring Lil Wayne & Young Jeezy,69,2010-01-02,2010-01-23,57,4
+375,Falling Slowly,Lee DeWyze & Crystal Bowersox,66,2010-06-12,2010-06-19,56,2
+376,The Man Who Can't Be Moved,The Script,86,2010-08-21,2010-09-25,55,6
+377,Lean On Me,"Sheryl Crow, Kid Rock & Keith Urban",47,2010-02-13,2010-02-13,54,1
+378,Happy Days Are Here Again / Get Happy,Glee Cast,48,2010-10-30,2010-10-30,53,1
+379,Pyramid,Charice Featuring Iyaz,56,2010-05-29,2010-06-05,53,2
+380,Make A Movie,Twista Featuring Chris Brown,80,2010-11-27,2010-12-25,53,5
+381,Hello Goodbye,Glee Cast,49,2010-05-01,2010-05-01,52,1
+382,Don't Go Breaking My Heart,Glee Cast,50,2010-10-30,2010-10-30,51,1
+383,Only The Good Die Young,Glee Cast,50,2010-10-23,2010-10-23,51,1
+384,One In A Million,Ne-Yo,87,2010-11-13,2010-12-25,51,7
+385,Sleazy Remix 2.0 Get Sleazier,"Ke$ha Featuring Lil Wayne, Wiz Khalifa, T.I. & Andre 3000",51,2010-11-20,2010-11-20,50,1
+386,What I Did For Love,Glee Cast,51,2010-10-09,2010-10-09,50,1
+387,I'm A Slave 4 U,Glee Cast,52,2010-10-16,2010-10-16,49,1
+388,Rocketeer,Far*East Movement Featuring Ryan Tedder,60,2010-12-18,2010-12-25,49,2
+389,Double Vision,3OH!3,87,2010-07-03,2010-11-20,49,4
+390,S&M,Rihanna Featuring Britney Spears,53,2010-12-04,2010-12-04,48,1
+391,Stronger,Glee Cast,53,2010-10-16,2010-10-16,48,1
+392,Not Like The Movies,Katy Perry,53,2010-08-21,2010-08-21,48,1
+393,One Less Bell To Answer / A House Is Not A Home,Glee Cast Featuring Kristin Chenoweth,53,2010-05-15,2010-05-15,48,1
+394,Move That Body,Nelly Featuring T-Pain & Akon,54,2010-10-30,2010-10-30,47,1
+395,Valerie,Glee Cast,54,2010-12-18,2010-12-18,47,1
+396,Dear John,Taylor Swift,54,2010-11-13,2010-11-13,47,1
+397,Marijuana,Kid Cudi,54,2010-11-27,2010-11-27,47,1
+398,Baby One More Time,Glee Cast,54,2010-10-16,2010-10-16,47,1
+399,You And Me,Dave Matthews Band,57,2010-02-20,2010-02-27,47,2
+400,Let Me Down Easy,Billy Currington,71,2010-12-11,2010-12-25,47,3
+401,Empire State Of Mind (Part II) Broken Down,Alicia Keys,55,2010-01-02,2010-01-02,46,1
+402,Bullets In The Gun,Toby Keith,84,2010-11-20,2010-12-25,46,6
+403,Roman's Revenge,Nicki Minaj Featuring Eminem,56,2010-11-20,2010-11-20,45,1
+404,Me Against The Music,Glee Cast,56,2010-10-16,2010-10-16,45,1
+405,Better Than Revenge,Taylor Swift,56,2010-11-13,2010-11-13,45,1
+406,Vanilla Twilight,Owl City,72,2010-01-09,2010-03-27,45,4
+407,Hero,Christopher Wilde,57,2010-03-06,2010-03-06,44,1
+408,"Baby, It's Cold Outside",Glee Cast,57,2010-12-25,2010-12-25,44,1
+409,Up To The Mountain,Crystal Bowersox,57,2010-06-12,2010-06-12,44,1
+410,9 AM In Dallas,Drake,57,2010-07-03,2010-07-03,44,1
+411,Marry Me,Train,85,2010-12-04,2010-12-25,44,4
+412,Any Way You Want It/Lovin' Touchin' Squeezin',Glee Cast,58,2010-06-26,2010-06-26,43,1
+413,Circle The Drain,Katy Perry,58,2010-08-28,2010-08-28,43,1
+414,Don't Stop Believin',Glee Cast,59,2010-06-26,2010-06-26,42,1
+415,Welcome Christmas,Glee Cast,59,2010-12-25,2010-12-25,42,1
+416,One,Glee Cast,60,2010-05-29,2010-05-29,41,1
+417,Dark Fantasy,"Kanye West Featuring Teyana Taylor, Nicki Minaj & Bon Iver",60,2010-12-11,2010-12-11,41,1
+418,Losing My Religion,Glee Cast,60,2010-10-23,2010-10-23,41,1
+419,Cryin' Like A Bitch!,Godsmack,74,2010-03-20,2010-04-03,41,3
+420,Maybe,Sick Puppies,76,2010-12-11,2010-12-25,41,3
+421,Drop It Low,Ester Dean Featuring Chris Brown,77,2010-01-02,2010-01-16,41,3
+422,This Ain't No Love Song,Trace Adkins,88,2010-10-30,2010-12-04,41,6
+423,Beautiful,Glee Cast,61,2010-05-15,2010-05-15,40,1
+424,Hallelujah (Vancouver Winter 2010 Version),k.d. lang,61,2010-03-06,2010-03-06,40,1
+425,Run Joey Run,Glee Cast Featuring Jonathan Groff,61,2010-05-22,2010-05-22,40,1
+426,Funhouse,P!nk,79,2010-01-09,2010-01-16,40,2
+427,Won't Back Down,Eminem Featuring P!nk,62,2010-07-10,2010-07-10,39,1
+428,Haunted,Taylor Swift,63,2010-11-13,2010-11-13,38,1
+429,Fire,Glee Cast Featuring Kristin Chenoweth,64,2010-05-15,2010-05-15,37,1
+430,Papa Can You Hear Me?,Glee Cast,65,2010-10-23,2010-10-23,36,1
+431,I Am Not A Human Being,Lil Wayne,65,2010-10-16,2010-10-16,36,1
+432,Fire Flame,Birdman Featuring Lil Wayne,82,2010-12-18,2010-12-25,36,2
+433,Sick,New Hollow,86,2010-11-20,2010-12-04,36,3
+434,Gonna Get This,Hannah Montana Featuring Iyaz,66,2010-11-06,2010-11-06,35,1
+435,"Hello, I Love You",Glee Cast,66,2010-05-01,2010-05-01,35,1
+436,Bionic,Christina Aguilera,66,2010-06-26,2010-06-26,35,1
+437,Hot Mess,Cobra Starship,88,2010-01-09,2010-01-30,35,4
+438,Don't Let Me Fall,B.o.B,67,2010-04-24,2010-04-24,34,1
+439,Elevator,Eminem,67,2010-01-02,2010-01-02,34,1
+440,Last Friday Night (T.G.I.F.),Katy Perry,67,2010-09-11,2010-09-11,34,1
+441,Rolling In The Deep,Adele,68,2010-12-25,2010-12-25,33,1
+442,Good Vibrations,Glee Cast,69,2010-06-19,2010-06-19,32,1
+443,Porn Star Dancing,My Darkest Days Featuring Zakk Wylde,90,2010-11-06,2010-12-25,32,6
+444,A House Is Not A Home,Glee Cast,70,2010-05-15,2010-05-15,31,1
+445,Show Me How You Burlesque,Christina Aguilera,70,2010-12-11,2010-12-11,31,1
+446,Get Back Up,T.I. Featuring Chris Brown,70,2010-11-20,2010-11-20,31,1
+447,Bonfire,Craig Morgan,76,2010-01-02,2010-01-09,31,2
+448,Feel It,Three 6 Mafia Vs. Tiesto With Sean Kingston & Flo Rida,78,2010-03-20,2010-03-27,31,2
+449,Last Kiss,Taylor Swift,71,2010-11-13,2010-11-13,30,1
+450,Fireworks,Drake Featuring Alicia Keys,71,2010-07-03,2010-07-03,30,1
+451,Cold Wind Blows,Eminem,71,2010-07-10,2010-07-10,30,1
+452,What If,Jason Derulo,76,2010-11-27,2010-12-04,30,2
+453,Ready To Love Again,Lady Antebellum,72,2010-01-30,2010-01-30,29,1
+454,Bet I,B.o.B Featuring T.I. & Playboy Tre,72,2010-05-08,2010-05-08,29,1
+455,Beth,Glee Cast,72,2010-06-12,2010-06-12,29,1
+456,Breathless,Taylor Swift,72,2010-02-13,2010-02-13,29,1
+457,I Won't Let Go,Rascal Flatts,72,2010-11-13,2010-11-13,29,1
+458,Lay Me Down,The Dirty Heads Featuring Rome,93,2010-07-03,2010-08-28,29,8
+459,Who's That Chick?,David Guetta Featuring Rihanna,73,2010-12-11,2010-12-11,28,1
+460,Bridge Over Troubled Water,Glee Cast,73,2010-10-23,2010-10-23,28,1
+461,Bed Intruder Song,Antoine Dodson & The Gregory Brothers Featuring Kelly Dodson,89,2010-08-28,2010-09-18,28,3
+462,Cuando Me Enamoro,Enrique Iglesias Featuring Juan Luis Guerra,89,2010-07-17,2010-08-14,28,5
+463,Lo Mejor De Mi Vida Eres Tu,Ricky Martin Featuring Natalia Jimenez,74,2010-11-20,2010-11-20,27,1
+464,I Look To You,Glee Cast,74,2010-10-23,2010-10-23,27,1
+465,Ice Ice Baby,Glee Cast,74,2010-05-22,2010-05-22,27,1
+466,Bridge Over Troubled Water,Mary J. Blige & Andrea Bocelli,75,2010-02-20,2010-02-20,26,1
+467,Deja Vu,3OH!3,75,2010-06-19,2010-06-19,26,1
+468,Enchanted,Taylor Swift,75,2010-11-13,2010-11-13,26,1
+469,Liv Tonight,Nelly Featuring Keri Hilson,75,2010-12-04,2010-12-04,26,1
+470,Stay,Miley Cyrus,75,2010-07-10,2010-07-10,26,1
+471,Bill Gates,Lil Wayne,75,2010-10-16,2010-10-16,26,1
+472,To Sir With Love,Glee Cast,75,2010-06-26,2010-06-26,26,1
+473,Reverse Cowgirl,T-Pain,75,2010-04-10,2010-04-10,26,1
+474,F**k Today,Lil Wayne Featuring Gudda,76,2010-02-20,2010-02-20,25,1
+475,More,Usher,76,2010-04-03,2010-04-03,25,1
+476,The Boy Is Mine,Glee Cast,76,2010-05-29,2010-05-29,25,1
+477,Fly,Nicki Minaj Featuring Rihanna,76,2010-12-11,2010-12-11,25,1
+478,StarStruck,Christopher Wilde,77,2010-03-06,2010-03-06,24,1
+479,Na Na Na (Na Na Na Na Na Na Na Na Na),My Chemical Romance,77,2010-10-16,2010-10-16,24,1
+480,Cannibal,Ke$ha,77,2010-11-27,2010-11-27,24,1
+481,Neutron Star Collision (Love Is Forever),Muse,77,2010-06-05,2010-06-05,24,1
+482,Mr. Rager,Kid Cudi,77,2010-11-13,2010-11-13,24,1
+483,Woohoo,Christina Aguilera Featuring Nicki Minaj,79,2010-06-05,2010-06-26,24,2
+484,Follow Me Down,3OH!3 Featuring Neon Hitch,89,2010-03-06,2010-03-20,24,2
+485,Marry You,Bruno Mars,90,2010-12-11,2010-12-25,24,3
+486,Borderline / Open Your Heart,Glee Cast,78,2010-05-08,2010-05-08,23,1
+487,Freak The Freak Out,Victorious Cast Featuring Victoria Justice,78,2010-12-18,2010-12-18,23,1
+488,G.R.I.N.D. (Get Ready It's A New Day),Asher Roth,79,2010-08-14,2010-08-14,22,1
+489,Boots,The Killers,79,2010-12-18,2010-12-18,22,1
+490,Another One Bites The Dust,Glee Cast,79,2010-06-19,2010-06-19,22,1
+491,Little Miss,Sugarland,80,2010-10-30,2010-10-30,21,1
+492,Something About The Sunshine,Christopher Wilde & Anna Margaret,81,2010-03-06,2010-03-06,20,1
+493,Redemption Song,Rihanna,81,2010-02-06,2010-02-06,20,1
+494,Safety Dance,Glee Cast,81,2010-06-05,2010-06-05,20,1
+495,Another Way To Die,Disturbed,81,2010-07-03,2010-07-03,20,1
+496,Lady Is A Tramp,Glee Cast,81,2010-05-29,2010-05-29,20,1
+497,Leave Right Now,Will Young,81,2010-06-12,2010-06-12,20,1
+498,Bad Habits,Maxwell,83,2010-01-02,2010-01-23,20,2
+499,Ordinary Girl,Hannah Montana,91,2010-07-31,2010-08-07,20,2
+500,All I Ever Wanted,Kelly Clarkson,96,2010-04-24,2010-05-29,20,6
+501,Music Box,Eminem,82,2010-01-09,2010-01-09,19,1
+502,The Lazy Song,Bruno Mars,82,2010-10-23,2010-10-23,19,1
+503,I'm Single,Lil Wayne,82,2010-05-29,2010-05-29,19,1
+504,The End,Kings Of Leon,82,2010-11-06,2010-11-06,19,1
+505,My Best Days Are Ahead Of Me,Danny Gokey,82,2010-03-20,2010-03-20,19,1
+506,Strip Me,Natasha Bedingfield,91,2010-11-06,2010-12-25,19,4
+507,This,Darius Rucker,83,2010-10-30,2010-10-30,18,1
+508,On Fire,Lil Wayne,84,2010-01-02,2010-01-02,17,1
+509,Dumb Love,Sean Kingston,84,2010-09-25,2010-09-25,17,1
+510,Outta Your Mind,Lil Jon Featuring LMFAO,84,2010-07-17,2010-07-17,17,1
+511,Make A Wave,Disney's Friends For Change,84,2010-04-03,2010-04-03,17,1
+512,Bohemian Rhapsody,Glee Cast Featuring Jonathan Groff,84,2010-06-26,2010-06-26,17,1
+513,Stutter,Maroon 5,84,2010-10-09,2010-10-09,17,1
+514,Never Grow Up,Taylor Swift,84,2010-11-13,2010-11-13,17,1
+515,Ain't Leavin Without You,Jaheim,93,2010-02-13,2010-04-03,17,4
+516,Long Live,Taylor Swift,85,2010-11-13,2010-11-13,16,1
+517,Gettin' You Home,Chris Young,92,2010-01-02,2010-01-16,16,2
+518,Love Me,Justin Bieber,86,2010-01-09,2010-01-09,15,1
+519,Give A Little More,Maroon 5,86,2010-09-04,2010-09-04,15,1
+520,Rain,Creed,91,2010-01-09,2010-03-13,15,2
+521,Love King,The-Dream,92,2010-04-03,2010-05-15,15,3
+522,Fistful Of Tears,Maxwell,94,2010-04-03,2010-05-29,15,4
+523,Give Me A Sign (Forever And Ever),Breaking Benjamin,97,2010-04-24,2010-05-22,15,5
+524,Tell Me Something Good,Glee Cast,87,2010-06-19,2010-06-19,14,1
+525,Sing!,Glee Cast,87,2010-10-30,2010-10-30,14,1
+526,Like A Virgin,Glee Cast,87,2010-05-08,2010-05-08,14,1
+527,Hope She Cheats On You (With A Basketball Player),Marsha Ambrosius,88,2010-10-16,2010-10-16,13,1
+528,Talkin' 2 Myself,Eminem Featuring Kobe,88,2010-07-10,2010-07-10,13,1
+529,The Boxer,Lee DeWyze,88,2010-06-12,2010-06-12,13,1
+530,Who I Am,Nick Jonas & The Administration,88,2010-02-20,2010-02-20,13,1
+531,Trailerhood,Toby Keith,97,2010-09-11,2010-10-02,13,4
+532,Time Warp,Glee Cast,89,2010-11-13,2010-11-13,12,1
+533,Rap Song,T-Pain Featuring Rick Ross,89,2010-11-06,2010-11-06,12,1
+534,Physical,Glee Cast Featuring Olivia Newton-John,89,2010-05-22,2010-05-22,12,1
+535,No BS,Chris Brown,89,2010-12-25,2010-12-25,12,1
+536,4 Minutes,Glee Cast,89,2010-05-08,2010-05-08,12,1
+537,Driving Me Crazy,Sam Adams,90,2010-03-27,2010-03-27,11,1
+538,Opposite Of Adults,Chiddy Bang,90,2010-07-31,2010-07-31,11,1
+539,Home,Glee Cast Featuring Kristin Chenoweth,90,2010-05-15,2010-05-15,11,1
+540,Like We Used To,A Rocket To The Moon,91,2010-10-23,2010-10-23,10,1
+541,Still,Tim McGraw,91,2010-05-08,2010-05-08,10,1
+542,American Star,Lil Wayne Featuring Shanell AKA SNL,91,2010-02-20,2010-02-20,10,1
+543,Loving You No More,Diddy - Dirty Money Featuring Drake,91,2010-10-09,2010-10-09,10,1
+544,Window Seat,Erykah Badu,95,2010-04-17,2010-06-05,10,3
+545,Mockingbird,Rob Thomas,95,2010-07-31,2010-09-11,10,4
+546,That Should Be Me,Justin Bieber,92,2010-04-10,2010-04-10,9,1
+547,U Can't Touch This,Glee Cast,92,2010-05-22,2010-05-22,9,1
+548,Scott Mescudi Vs. The World,Kid Cudi Featuring Cee-Lo,92,2010-11-27,2010-11-27,9,1
+549,25 To Life,Eminem,92,2010-07-10,2010-07-10,9,1
+550,My City Of Ruins (Live From The Kennedy Center Honors),Eddie Vedder,92,2010-02-13,2010-02-13,9,1
+551,All Of The Lights,Kanye West,92,2010-12-11,2010-12-11,9,1
+552,Introducing Me,Nick Jonas,92,2010-09-25,2010-09-25,9,1
+553,Falling Down,Selena Gomez & The Scene,92,2010-01-09,2010-01-09,9,1
+554,Halfway There,Big Time Rush,93,2010-05-15,2010-05-15,8,1
+555,Who Dat,J. Cole,93,2010-06-12,2010-06-12,8,1
+556,Rose's Turn,Glee Cast,93,2010-05-29,2010-05-29,8,1
+557,Love This Pain,Lady Antebellum,93,2010-01-23,2010-01-23,8,1
+558,Crazy Beautiful Life,Ke$ha,93,2010-12-11,2010-12-11,8,1
+559,Tighten Up,The Black Keys,93,2010-11-06,2010-11-06,8,1
+560,Loser,Glee Cast,93,2010-06-19,2010-06-19,8,1
+561,Le Jazz Hot,Glee Cast,94,2010-10-30,2010-10-30,7,1
+562,Bass Down Low,Dev Featuring The Cataracs,94,2010-12-25,2010-12-25,7,1
+563,(If You're Wondering If I Want You To) I Want You To,Weezer,95,2010-01-02,2010-01-16,7,2
+564,4 My Town (Play Ball),Birdman Featuring Drake & Lil Wayne,97,2010-04-10,2010-04-24,7,2
+565,Finding My Way Back,Jaheim,95,2010-07-03,2010-07-03,6,1
+566,Fall For Your Type,Jamie Foxx Featuring Drake,95,2010-12-25,2010-12-25,6,1
+567,Ooh Baby,Mario,95,2010-03-27,2010-03-27,6,1
+568,"It's A Man's, Man's Man's World",Glee Cast,95,2010-06-19,2010-06-19,6,1
+569,Kings And Queens,Thirty Seconds To Mars,96,2010-01-02,2010-01-09,6,2
+570,Didn't You Know How Much I Loved You,Kellie Pickler,97,2010-02-27,2010-03-13,6,2
+571,Dirty Picture,Taio Cruz Featuring Ke$ha,96,2010-06-19,2010-06-19,5,1
+572,Black Rain,Soundgarden,96,2010-09-04,2010-09-04,5,1
+573,The Crow & The Butterfly,Shinedown,97,2010-08-14,2010-08-14,4,1
+574,Don't Cry For Me Argentina (Lea Michele Version),Glee Cast,97,2010-12-18,2010-12-18,4,1
+575,Blow,Ke$ha,97,2010-12-04,2010-12-04,4,1
+576,Major Tom,Shiny Toy Guns,97,2010-02-20,2010-02-20,4,1
+577,Video Phone,Beyonce Featuring Lady Gaga,98,2010-01-02,2010-01-09,4,2
+578,The Big Bang,ROCKMAFIA,98,2010-11-20,2010-11-20,3,1
+579,Turn Around (5 4 3 2 1),Flo Rida,98,2010-12-04,2010-12-04,3,1
+580,Let It Be,Jennifer Hudson Featuring The Roots,98,2010-02-13,2010-02-13,3,1
+581,I Get It In,Omarion Featuring Gucci Mane,98,2010-01-02,2010-01-02,3,1
+582,Up On The Ridge,Dierks Bentley,99,2010-07-24,2010-07-24,2,1
+583,All Or Nothing,Theory Of A Deadman,99,2010-05-22,2010-05-22,2,1
+584,Hurry Home,Jason Michael Carroll,99,2010-02-13,2010-02-13,2,1
+585,I Can Do Anything,3OH!3,100,2010-07-17,2010-07-17,1,1
+586,Up Out My Face,Mariah Carey Featuring Nicki Minaj,100,2010-03-06,2010-03-06,1,1
+587,New Morning,Alpha Rev,100,2010-05-15,2010-05-15,1,1
+588,Super High,Rick Ross Featuring Ne-Yo,100,2010-06-12,2010-06-12,1,1

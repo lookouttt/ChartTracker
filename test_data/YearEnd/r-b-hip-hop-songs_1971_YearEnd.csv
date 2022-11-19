@@ -1,0 +1,377 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,What's Going On,Marvin Gaye,1,1971-02-20,1971-05-29,1559,15
+2,Mr. Big Stuff,Jean Knight,1,1971-05-22,1971-09-04,1552,16
+3,Just My Imagination (Running Away With Me),The Temptations,1,1971-02-13,1971-05-15,1475,14
+4,Bridge Over Troubled Water,Aretha Franklin,1,1971-04-24,1971-07-24,1471,14
+5,Don't Knock My Love - Pt. 1,Wilson Pickett,1,1971-05-01,1971-07-31,1344,14
+6,Spanish Harlem,Aretha Franklin,1,1971-08-07,1971-10-30,1316,13
+7,Want Ads,The Honey Cone,1,1971-04-17,1971-07-17,1282,14
+8,Never Can Say Goodbye,Jackson 5,1,1971-04-10,1971-07-03,1236,13
+9,(Do The) Push And Pull Part I,Rufus Thomas,1,1971-01-02,1971-03-20,1218,12
+10,Tired Of Being Alone,Al Green,7,1971-07-10,1971-11-20,1189,20
+11,Mercy Mercy Me (The Ecology),Marvin Gaye,1,1971-07-03,1971-09-25,1174,13
+12,Thin Line Between Love & Hate,The Persuaders,1,1971-08-14,1971-11-27,1170,16
+13,Don't Let The Green Grass Fool You,Wilson Pickett,2,1971-01-23,1971-04-17,1137,13
+14,Make It Funky,James Brown,1,1971-08-28,1971-11-13,1117,12
+15,Trapped By A Thing Called Love,Denise LaSalle,1,1971-08-21,1971-12-04,1105,16
+16,She's Not Just Another Woman,The 8th Day,3,1971-05-01,1971-07-31,1096,14
+17,Respect Yourself,The Staple Singers,2,1971-10-09,1971-12-25,1086,12
+18,Jody's Got Your Girl And Gone,Johnnie Taylor,1,1971-01-09,1971-04-03,1081,13
+19,Stick-Up,The Honey Cone,1,1971-08-14,1971-11-06,1080,13
+20,Smiling Faces Sometimes,The Undisputed Truth,2,1971-06-26,1971-10-16,1076,17
+21,I Don't Want To Do Wrong,Gladys Knight And The Pips,2,1971-06-05,1971-08-21,1054,12
+22,Whatcha See Is Whatcha Get,The Dramatics,3,1971-07-03,1971-10-09,1030,15
+23,Groove Me,King Floyd,1,1971-01-02,1971-03-06,1026,10
+24,If I Were Your Woman,Gladys Knight And The Pips,1,1971-01-02,1971-03-06,1019,10
+25,The Breakdown (Part I),Rufus Thomas,2,1971-08-14,1971-10-30,990,12
+26,"Hot Pants (She Got To Use What She Got, To Get What She Want",James Brown,1,1971-07-10,1971-09-18,972,11
+27,Mama's Pearl,Jackson 5,2,1971-02-06,1971-04-17,962,11
+28,Inner City Blues (Make Me Wanna Holler),Marvin Gaye,1,1971-10-09,1971-12-25,954,12
+29,Have You Seen Her,The Chi-lites,1,1971-10-23,1971-12-25,943,10
+30,We Can Work It Out,Stevie Wonder,3,1971-03-20,1971-06-05,908,12
+31,Love The One You're With,The Isley Brothers,3,1971-06-19,1971-09-11,898,13
+32,Your Time To Cry,Joe Simon,3,1971-01-02,1971-03-13,881,11
+33,If You Really Love Me,Stevie Wonder,4,1971-08-21,1971-11-06,871,12
+34,Rock Steady,Aretha Franklin,2,1971-11-06,1971-12-25,868,8
+35,(For God's Sake) Give More Power To The People,The Chi-lites,4,1971-04-03,1971-06-19,857,12
+36,Soul Power (Pt. 1),James Brown,3,1971-03-06,1971-05-15,840,11
+37,Family Affair,Sly & The Family Stone,1,1971-11-13,1971-12-25,825,7
+38,You've Got To Crawl (Before You Walk),The 8th Day,3,1971-09-11,1971-12-11,811,14
+39,Bring The Boys Home,Freda Payne,3,1971-06-05,1971-08-28,803,13
+40,Theme From Shaft,Isaac Hayes,2,1971-10-16,1971-12-25,760,11
+41,Ain't No Sunshine,Bill Withers,6,1971-07-10,1971-10-23,734,16
+42,The Love We Had (Stays On My Mind),The Dells,8,1971-08-07,1971-11-13,715,15
+43,You're All I Need To Get By,Aretha Franklin,3,1971-03-06,1971-05-01,706,9
+44,"Get Up, Get Into It, Get Involved (Pt. 1)",James Brown,4,1971-01-09,1971-03-06,633,9
+45,Got To Be There,Michael Jackson,4,1971-11-06,1971-12-25,630,8
+46,Where Did Our Love Go,Donnie Elbert,6,1971-10-16,1971-12-25,613,11
+47,Never Can Say Goodbye,Isaac Hayes,5,1971-05-22,1971-07-17,607,9
+48,Stop The War Now,Edwin Starr,5,1971-01-02,1971-02-20,583,8
+49,You're A Big Girl Now,The Stylistics,7,1971-01-02,1971-04-10,579,15
+50,Baby Let Me Kiss You,King Floyd,5,1971-03-27,1971-05-22,575,9
+51,Proud Mary,Ike & Tina Turner,5,1971-02-27,1971-04-24,573,9
+52,You've Got A Friend,Roberta Flack & Donny Hathaway,8,1971-06-12,1971-09-04,568,13
+53,Do Me Right,Detroit Emeralds,7,1971-02-20,1971-05-08,563,12
+54,One Less Bell To Answer,The 5th Dimension,4,1971-01-02,1971-02-27,560,9
+55,One Bad Apple,The Osmonds,6,1971-02-06,1971-04-10,558,10
+56,Maybe Tomorrow,Jackson 5,3,1971-07-24,1971-09-11,543,8
+57,(Don't Worry) If There's A Hell Below We're All Going To Go,Curtis Mayfield,3,1971-01-02,1971-02-20,534,8
+58,Heavy Makes You Happy (Sha-Na-Boom Boom),The Staple Singers,6,1971-02-06,1971-05-01,531,13
+59,She's All I Got,Freddie North,10,1971-08-21,1971-12-11,522,17
+60,Funky Nassau-Part I,The Beginning Of The End,7,1971-05-08,1971-08-07,511,14
+61,"Stop, Look, Listen (To Your Heart)",The Stylistics,6,1971-05-29,1971-08-14,486,12
+62,Women's Love Rights,Laura Lee,11,1971-08-07,1971-11-20,479,16
+63,I Don't Blame You At All,Smokey Robinson & The Miracles,7,1971-03-27,1971-05-29,474,10
+64,Funky Music Sho Nuff Turns Me On,Edwin Starr,6,1971-05-01,1971-06-26,456,9
+65,Spinning Around (I Must Be Falling In Love),The Main Ingredient,7,1971-04-24,1971-07-10,455,12
+66,I Likes To Do It,The People's Choice,9,1971-07-03,1971-09-18,444,12
+67,Right On The Tip Of My Tongue,Brenda & The Tabulations,10,1971-03-27,1971-06-19,421,13
+68,Escape-ism (Part 1),James Brown,6,1971-06-12,1971-08-07,419,9
+69,I Know I'm In Love,Chee-Chee & Peppy,12,1971-05-08,1971-08-07,400,14
+70,Drowning In The Sea Of Love,Joe Simon,4,1971-11-20,1971-12-25,393,6
+71,Scorpio,Dennis Coffey & The Detroit Guitar Band,9,1971-10-30,1971-12-25,392,9
+72,He Called Me Baby,Candi Staton,9,1971-01-02,1971-03-13,388,11
+73,I'm A Greedy Man - Part I,James Brown,7,1971-11-13,1971-12-25,378,7
+74,It's Impossible,The New Birth,12,1971-09-18,1971-12-18,378,14
+75,If It's Real What I Feel,Jerry Butler Featuring Brenda Lee Eager,8,1971-03-06,1971-05-15,377,11
+76,I Love You For All Seasons,The Fuzz,10,1971-01-02,1971-03-20,373,12
+77,Superstar (Remember How You Got Where You Are),The Temptations,8,1971-11-13,1971-12-25,371,7
+78,(I Can Feel Those Vibrations) This Love Is Real,Jackie Wilson,9,1971-01-02,1971-02-27,369,9
+79,"Precious, Precious",Jackie Moore,12,1971-01-02,1971-03-13,368,11
+80,Nathan Jones,The Supremes,8,1971-05-22,1971-07-17,363,9
+81,Clean Up Woman,Betty Wright,2,1971-11-20,1971-12-25,357,6
+82,Your Love (Means Everything to Me),Charles Wright And The Watts 103rd Street Rhythm Band,9,1971-04-24,1971-06-26,355,10
+83,I'm So Proud,The Main Ingredient,13,1971-01-02,1971-03-20,355,12
+84,Booty Butt,The Ray Charles Orchestra,13,1971-03-27,1971-06-12,351,12
+85,Hijackin' Love,Johnnie Taylor (The Soul Philosopher),10,1971-08-28,1971-10-30,347,10
+86,You're The Reason Why,The Ebonys,10,1971-05-22,1971-07-31,336,11
+87,Somebody's Watching You,Little Sister,8,1971-01-02,1971-02-27,334,9
+88,Just Seven Numbers (Can Straighten Out My Life),Four Tops,9,1971-01-30,1971-03-27,325,9
+89,Stoned Love,The Supremes,3,1971-01-02,1971-02-13,324,7
+90,Could I Forget You,Tyrone Davis,10,1971-03-20,1971-05-15,323,9
+91,You Send Me,Ponderosa Twins + One,12,1971-09-04,1971-11-20,321,12
+92,"Call My Name, I'll Be There",Wilson Pickett,10,1971-08-28,1971-10-23,319,9
+93,I Don't Wanna Lose You,Johnnie Taylor,13,1971-05-22,1971-07-31,317,11
+94,Get Your Lie Straight,Bill Coday,14,1971-02-06,1971-04-24,314,12
+95,Ain't Got Time,The Impressions,12,1971-02-20,1971-04-24,302,10
+96,God Bless Whoever Sent You,The Originals,14,1971-01-02,1971-03-20,300,12
+97,Pay To The Piper,Chairman Of The Board,4,1971-01-02,1971-02-06,299,6
+98,You've Got To Earn It,The Staple Singers,11,1971-07-03,1971-08-28,299,9
+99,YOU ARE EVERYTHING,The Stylistics,12,1971-10-30,1971-12-25,299,9
+100,K-Jee,The Nite-Liters,17,1971-07-03,1971-09-25,296,13
+101,You're The One For Me,Joe Simon,12,1971-07-17,1971-09-11,295,9
+102,Chairman Of The Board,Chairman Of The Board,10,1971-02-20,1971-04-10,291,8
+103,Are You My Woman? (Tell Me So),The Chi-lites,8,1971-01-02,1971-02-06,288,6
+104,River Deep - Mountain High,The Supremes & Four Tops,7,1971-01-02,1971-02-06,285,6
+105,Plain And Simple Girl,Garland Green,17,1971-03-13,1971-05-22,270,11
+106,Get Down,Curtis Mayfield,13,1971-11-06,1971-12-25,266,8
+107,Walk Right Up To The Sun,The Delfonics,13,1971-10-30,1971-12-18,261,8
+108,A Natural Man,Lou Rawls,17,1971-08-28,1971-11-20,259,13
+109,Cool Aid,Paul Humphrey & His Cool Aid Chemists,14,1971-03-06,1971-05-15,258,11
+110,Over And Over/Hey! Love,The Delfonics,9,1971-07-10,1971-08-14,257,6
+111,Remember Me,Diana Ross,10,1971-01-09,1971-02-27,257,8
+112,I Bet He Don't Love You (Like I Love You),The Intruders,20,1971-09-25,1971-12-18,252,13
+113,Freedom,The Isley Brothers,16,1971-01-02,1971-03-06,248,10
+114,Don't Change On Me,Ray Charles,13,1971-03-20,1971-05-22,246,10
+115,You're A Lady,Gene Chandler,14,1971-06-05,1971-08-07,246,10
+116,It's The Real Thing - Pt. I,The Electric Express,15,1971-07-17,1971-09-11,242,9
+117,Girls In The City,The Esquires,18,1971-02-27,1971-05-01,239,10
+118,I'll Erase Away Your Pain,Whatnauts,14,1971-04-03,1971-06-05,237,10
+119,A Nickel And A Nail,O.V. Wright,19,1971-08-28,1971-11-06,235,11
+120,Spill The Wine,The Isley Brothers,14,1971-10-02,1971-11-20,233,8
+121,Feel So Bad,Ray Charles,16,1971-09-04,1971-10-30,230,9
+122,Let's Stay Together,Al Green,6,1971-12-04,1971-12-25,224,4
+123,Help Me Make It Through The Night,Joe Simon,13,1971-05-01,1971-06-19,224,8
+124,There It Goes Again,Barbara And The Uniques,16,1971-01-02,1971-02-20,224,8
+125,I'm Girl Scoutin',The Intruders,16,1971-02-27,1971-04-24,224,9
+126,One Monkey Don't Stop No Show Part I,The Honey Cone,8,1971-11-27,1971-12-25,221,5
+127,Wear This Ring (With Love),Detroit Emeralds,18,1971-07-24,1971-09-25,220,10
+128,Are You Lonely?,Sisters,20,1971-05-29,1971-08-21,220,11
+129,Like An Open Door,The Fuzz,14,1971-07-03,1971-08-14,219,7
+130,Cherish What Is Dear To You (While It's Near to You),Freda Payne,11,1971-02-27,1971-04-10,218,7
+131,A Part Of You,Brenda & The Tabulations,14,1971-08-21,1971-10-16,215,9
+132,The Court Room,Clarence Carter,12,1971-05-08,1971-06-26,214,8
+133,I'm Sorry,Bobby Bland,18,1971-05-08,1971-06-26,213,8
+134,Ask Me No Questions,B.B. King,18,1971-02-27,1971-04-24,211,9
+135,Grandma's Hands,Bill Withers,18,1971-11-06,1971-12-25,210,8
+136,One-Way Ticket,Tyrone Davis,18,1971-07-03,1971-08-21,209,8
+137,Black Seeds Keep On Growing,The Main Ingredient,15,1971-09-04,1971-10-30,207,9
+138,When You Took Your Love From Me,O.V. Wright,21,1971-03-06,1971-05-01,206,9
+139,"Take Me Girl, I'm Ready",Jr. Walker & The All Stars,18,1971-08-14,1971-10-09,201,9
+140,Shoes,Brook Benton,18,1971-01-02,1971-02-20,200,8
+141,All I Have,The Moments,9,1971-01-02,1971-01-30,197,5
+142,You Keep Me Holding On,Tyrone Davis,15,1971-10-30,1971-12-11,197,7
+143,Don't Make Me Pay For His Mistakes,Z.Z. Hill,17,1971-02-13,1971-04-03,195,8
+144,We Are Neighbors,The Chi-lites,17,1971-07-17,1971-08-28,193,7
+145,The Tears Of A Clown,Smokey Robinson & The Miracles,6,1971-01-02,1971-01-23,188,4
+146,I'm Still Here,Notations,26,1971-01-02,1971-03-13,186,11
+147,Give The Baby Anything The Baby Wants,Joe Tex,20,1971-09-11,1971-11-06,185,9
+148,Show Me How,The Emotions,16,1971-10-16,1971-12-25,184,11
+149,Melting Pot,Booker T. & The MG's,21,1971-04-03,1971-05-29,179,9
+150,I Pity The Fool,Ann Peebles,18,1971-03-06,1971-04-17,176,7
+151,Pin The Tail On The Donkey,The Newcomers,28,1971-09-11,1971-11-06,172,9
+152,Border Song (Holy Moses)/You And Me,Aretha Franklin,5,1971-01-02,1971-01-16,170,3
+153,You Think You're Hot Stuff,Jean Knight,19,1971-10-16,1971-11-27,167,7
+154,A Child Of God (It's Hard To Believe),Millie Jackson,22,1971-11-06,1971-12-18,165,7
+155,Be Good To Me Baby,Luther Ingram,21,1971-05-08,1971-06-26,164,8
+156,It's A Sad Thing,Ollie Nightingale,23,1971-05-08,1971-07-03,164,9
+157,Everybody Knows About My Good Thing Pt. 1,Little Johnny Taylor,11,1971-11-20,1971-12-25,162,6
+158,All Day Music,War,18,1971-09-25,1971-10-30,162,6
+159,Love Is Funny That Way,Jackie Wilson,18,1971-11-13,1971-12-25,162,7
+160,Crazy About The La La La,Smokey Robinson & The Miracles,20,1971-07-17,1971-08-28,162,7
+161,The Language Of Love,The Intrigues,21,1971-05-22,1971-07-10,162,8
+162,Warpath,The Isley Brothers,17,1971-04-03,1971-05-08,161,6
+163,Ghetto Woman,B.B. King,25,1971-09-11,1971-10-23,160,7
+164,I've Found Someone Of My Own,The Free Movement,20,1971-05-22,1971-07-17,159,9
+165,You're The One,The Three Degrees,19,1971-01-16,1971-02-27,158,7
+166,We'll Have It Made,The Spinners,20,1971-01-30,1971-03-13,156,7
+167,Too Many Lovers,Shack,23,1971-01-16,1971-03-13,154,9
+168,Suspicious Minds,Dee Dee Warwick,24,1971-05-08,1971-07-31,151,8
+169,Look What We've Done To Love,The Glass House,31,1971-10-02,1971-11-27,150,9
+170,Treat Her Like A Lady,Cornelius Brothers & Sister Rose,20,1971-06-12,1971-07-31,148,8
+171,Groovin' Out On Life,Frederick II,25,1971-10-02,1971-12-04,147,10
+172,Make It With You,Ralfi Pagan,32,1971-07-10,1971-09-18,147,11
+173,I Cried,James Brown,15,1971-05-15,1971-06-12,145,5
+174,"Slipped, Tripped And Fell In Love",Clarence Carter,25,1971-08-14,1971-09-25,144,7
+175,Reach Out I'll Be There,Diana Ross,17,1971-05-08,1971-06-12,143,6
+176,Your Love Is So Doggone Good,The Whispers,19,1971-05-01,1971-06-05,143,6
+177,Sometimes It's Got To Rain (In Your Love Life),Jackie Moore,19,1971-05-22,1971-06-26,143,6
+178,"The Electronic Magnetism (That's Heavy, Baby)",Solomon Burke,26,1971-03-20,1971-05-15,143,9
+179,Day By Day (Every Minute of The Hour),The Continental 4,19,1971-05-29,1971-07-17,141,8
+180,My Sweet Lord,Billy Preston,23,1971-01-16,1971-03-06,139,8
+181,Triangle Of Love (Hey Diddle Diddle),The Presidents,16,1971-02-06,1971-03-20,138,7
+182,Satisfaction,Smokey Robinson & The Miracles,21,1971-11-27,1971-12-25,137,5
+183,I Can't Get Next To You,Al Green,11,1971-01-02,1971-01-30,136,5
+184,You Brought The Joy,Freda Payne,21,1971-10-16,1971-11-20,133,6
+185,MacArthur Park (Part II),Four Tops,27,1971-09-18,1971-10-30,132,7
+186,Baby Show It,Festival,29,1971-03-27,1971-05-22,132,9
+187,Surrender,Diana Ross,16,1971-09-11,1971-10-09,130,5
+188,Gotta' Get Over The Hump,Simtec & Wylie,29,1971-07-24,1971-09-18,128,9
+189,I Got To Tell Somebody,Betty Everett,22,1971-01-02,1971-01-30,119,5
+190,Love Makes The World Go Round,Odds & Ends,28,1971-03-06,1971-04-24,118,8
+191,Mr. And Mrs. Untrue/Too Hurt To Cry,Candi Staton,20,1971-05-15,1971-06-05,114,4
+192,My Conscience,The Lovelites,36,1971-01-16,1971-04-10,113,12
+193,I Need You,The Friends Of Distinction,28,1971-01-30,1971-03-13,112,7
+194,It's Summer,The Temptations,29,1971-07-24,1971-09-04,111,7
+195,What Time It Is (Part I),General Crook,31,1971-11-06,1971-12-25,109,8
+196,Lucky Me,Moments,31,1971-08-14,1971-09-25,106,7
+197,In These Changing Times,Four Tops,28,1971-07-03,1971-08-14,105,7
+198,Love Me,The Impressions,25,1971-07-24,1971-08-21,102,5
+199,I Need Someone (To Love Me),Z.Z. Hill,30,1971-05-22,1971-07-03,102,7
+200,Who's Gonna Take The Weight (Part One),Kool & The Gang,28,1971-01-23,1971-02-20,101,5
+201,Chokin' Kind,Z.Z. Hill,30,1971-10-09,1971-11-27,101,8
+202,Chicken Heads,Bobby Rush,34,1971-07-10,1971-08-28,101,8
+203,(Until Then) I'll Suffer,Barbara Lynn,31,1971-07-31,1971-09-25,100,9
+204,Pray For Me,The Intruders,25,1971-06-26,1971-07-31,99,6
+205,The Glory Of Love,The Dells,30,1971-01-09,1971-02-13,99,6
+206,Be My Baby,Cissy Houston,31,1971-03-13,1971-05-01,99,8
+207,Hanging On (To) A Memory,Chairmen Of The Board,28,1971-05-08,1971-06-12,97,6
+208,I Know You Got Soul,Bobby Byrd,30,1971-06-12,1971-07-24,96,7
+209,Keep On Loving Me (You'll See The Change),Bobby Bland,23,1971-01-02,1971-01-23,94,4
+210,I Can't Help It,The Moments,27,1971-02-27,1971-04-03,94,6
+211,You've Lost That Lovin' Feelin',Roberta Flack & Donny Hathaway,30,1971-10-30,1971-12-04,94,6
+212,That's The Way I Feel About Cha,Bobby Womack & Peace,23,1971-12-04,1971-12-25,93,4
+213,Walk Easy My Son,Jerry Butler,33,1971-09-25,1971-11-13,93,8
+214,Way Back Home,Jr. Walker & The All Stars,24,1971-12-04,1971-12-25,92,4
+215,There's A Love For Everyone,The Whispers,31,1971-01-02,1971-01-30,91,5
+216,I Want To Pay You Back (For Loving Me),The Chi-lites,35,1971-10-16,1971-12-11,91,9
+217,Teddy Bear,Reggie,30,1971-04-10,1971-05-22,86,7
+218,Didn't It Look So Easy,The Stairsteps,32,1971-02-13,1971-03-20,86,6
+219,Breakdown,Parliament,30,1971-08-07,1971-09-04,85,5
+220,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,20,1971-12-11,1971-12-25,83,3
+221,I Just Want To Celebrate,Rare Earth,30,1971-09-04,1971-10-02,83,5
+222,Must Be Love Coming Down,Major Lance,31,1971-01-02,1971-02-06,83,6
+223,You Wants To Play,Oscar Weathers,35,1971-02-27,1971-04-03,83,6
+224,Oye Como Va,Santana,32,1971-03-27,1971-05-01,79,6
+225,Ain't Nobody Home,B.B. King,32,1971-11-27,1971-12-25,78,5
+226,Blood Is Thicker Than Water,Eddie Floyd,33,1971-09-11,1971-10-16,77,6
+227,Lay Lady Lay,The Isley Brothers,29,1971-12-04,1971-12-25,76,4
+228,"Hot Pants - I'm Coming, Coming, I'm Coming",Bobby Byrd,34,1971-09-25,1971-10-23,76,5
+229,Mr. And Mrs. Untrue,Candi Staton,25,1971-04-17,1971-05-08,75,4
+230,That Evil Child,B.B. King,34,1971-03-27,1971-05-08,74,7
+231,We're Friends By Day (And Lovers By Night),Whatnauts,37,1971-08-07,1971-09-18,74,7
+232,Georgia Blue/All My Hard Times,Joe Simon,19,1971-09-25,1971-10-09,73,3
+233,Bless You,Martha Reeves & The Vandellas,29,1971-10-23,1971-11-20,73,5
+234,Ooh Poo Pah Doo,Ike & Tina Turner,31,1971-05-29,1971-07-03,73,6
+235,"Love's Lines, Angles And Rhymes",The 5th Dimension,28,1971-03-13,1971-04-10,72,5
+236,The Preacher (Part 2)/More Than I Can Stand,Bobby Womack,30,1971-05-15,1971-06-12,70,5
+237,Ain't Nothing Gonna Change Me,Betty Everett,32,1971-04-17,1971-05-22,70,6
+238,Hey! Love/Over And Over,The Delfonics,17,1971-06-19,1971-07-03,69,3
+239,There's So Much Love All Around Me,The Three Degrees,33,1971-05-08,1971-06-05,69,5
+240,I'm So Glad,The Fuzz,35,1971-10-02,1971-11-06,69,6
+241,Driveway,100 Proof Aged in Soul,33,1971-06-26,1971-07-17,65,4
+242,I Want To Take You Higher,Kool & The Gang,35,1971-06-12,1971-07-10,65,5
+243,"What The World Needs Now Is Love/Abraham, Martin and John",Tom Clay,32,1971-08-07,1971-08-28,62,4
+244,It's So Hard For Me To Say Good-Bye,Eddie Kendricks,37,1971-05-15,1971-06-26,62,6
+245,Help Me Make It Through The Night,O.C. Smith,38,1971-10-23,1971-12-18,62,8
+246,Heaven Help Us All,Stevie Wonder,16,1971-01-02,1971-01-09,60,2
+247,Get Ready,Syl Johnson,34,1971-04-17,1971-05-15,60,5
+248,To You With Love,The Moments,36,1971-11-27,1971-12-25,59,5
+249,I Like What You Give,Nolan,40,1971-07-10,1971-09-11,57,8
+250,Step Into My World (Part 2),The Magic Touch,36,1971-06-19,1971-07-31,56,6
+251,When You Get Right Down To It,Ronnie Dyson,37,1971-07-03,1971-08-07,56,6
+252,Help Me Find A Way (To Say I Love You),Little Anthony And The Imperials,32,1971-01-02,1971-01-23,54,4
+253,The Sweetest Thing This Side Of Heaven,The Presidents,30,1971-05-22,1971-06-05,52,3
+254,Let One Hurt Do,L.J. Reynolds,31,1971-11-13,1971-12-25,52,7
+255,90 Day Freeze (On Her Love),100 Proof Aged in Soul,34,1971-11-06,1971-11-27,52,4
+256,Don't Turn Around,Black Ivory,39,1971-11-06,1971-12-25,52,8
+257,It's All In Your Mind,Clarence Carter,24,1971-01-02,1971-01-09,51,2
+258,Can't Get Over Losing You,Donnie Elbert,29,1971-01-02,1971-01-16,51,3
+259,Love Vibrations,David T Walker,35,1971-01-02,1971-01-23,51,4
+260,Don't Pull Your Love,Sam & Dave,36,1971-11-13,1971-12-04,51,4
+261,Everybody Wants To Go To Heaven,Albert King,38,1971-10-02,1971-11-06,50,6
+262,Get Up And Get Down,The Dramatics,25,1971-12-18,1971-12-25,48,2
+263,I'll Love You Until The End,Luther Ingram,39,1971-09-25,1971-10-23,48,5
+264,I Don't Want To Lose You,Billy Butler & Infinity,37,1971-05-29,1971-07-03,47,6
+265,Make Me The Woman That You Go Home To,Gladys Knight And The Pips,22,1971-12-18,1971-12-25,46,2
+266,You Just Can't Win (By Making The Same Mistake),Gene Chandler & Jerry Butler,32,1971-01-09,1971-01-30,46,4
+267,Men Are Getting Scarce,Chairmen Of The Board,33,1971-11-27,1971-12-25,46,5
+268,Talking The Teenage Language,The Lost Generation,35,1971-07-03,1971-08-07,46,6
+269,Hey Ruby (Shut Your Mouth),Ruby & The Party Gang,29,1971-12-11,1971-12-25,45,3
+270,One Man's Leftovers (Is Another Man's Feast),100 Proof Aged in Soul,37,1971-03-13,1971-04-03,45,4
+271,Holly Holy,Jr. Walker & The All Stars,33,1971-01-09,1971-01-30,44,4
+272,That's How It Feels,The Moments,34,1971-05-22,1971-06-12,44,4
+273,Funky,Chambers Brothers,40,1971-01-09,1971-02-13,44,5
+274,Go On Fool,Marion,39,1971-02-13,1971-04-10,43,8
+275,Funky Rubber Band,Popcorn Wylie,40,1971-09-18,1971-10-23,43,6
+276,What You See Is What You Get,Stoney & Meatloaf,36,1971-05-29,1971-06-12,42,3
+277,Bad Water,The Raeletts,40,1971-01-02,1971-02-13,42,5
+278,Got To Have Your Lovin',King Floyd,35,1971-08-07,1971-09-04,41,5
+279,The World Is Round,Rufus Thomas,34,1971-05-15,1971-06-05,40,4
+280,Everybody's Everything,Santana,39,1971-11-20,1971-12-18,39,5
+281,All My Hard Times,Joe Simon,26,1971-10-16,1971-10-23,38,2
+282,Confessin' A Feeling,Tony Owens,39,1971-01-30,1971-02-20,38,4
+283,Sugar Daddy,Jackson 5,19,1971-12-18,1971-12-25,37,2
+284,All Day Music/Get Down,War,39,1971-08-21,1971-09-18,36,5
+285,Help The Poor,B.B. King,36,1971-06-12,1971-06-26,35,3
+286,Do It For Me,General Crook,37,1971-01-02,1971-01-16,35,3
+287,Love Is Plentiful,The Staple Singers,31,1971-01-02,1971-01-09,33,2
+288,Wedlock Is A Padlock,Laura Lee,37,1971-01-09,1971-01-23,32,3
+289,Ace Of Spade,O.V. Wright,20,1971-01-02,1971-01-02,31,1
+290,Can I,Eddie Kendricks,37,1971-12-04,1971-12-18,31,3
+291,Lonely Feelin',War,38,1971-04-24,1971-05-08,31,3
+292,I Play Dirty,Little Milton,37,1971-05-01,1971-05-15,30,3
+293,How Did We Lose It Baby,Jerry Butler,38,1971-07-10,1971-08-14,30,4
+294,Pain (Part I),Ohio Players,41,1971-12-04,1971-12-25,30,4
+295,Super Bad (Part 1 & Part 2),James Brown,22,1971-01-02,1971-01-02,29,1
+296,I'm Still Waiting,Diana Ross,40,1971-11-27,1971-12-11,29,3
+297,1-2-3-4,Lucky Peterson,40,1971-08-21,1971-09-11,29,4
+298,I Love The Way You Love,Betty Wright,44,1971-07-31,1971-09-04,29,6
+299,Stop! In The Name Of Love,Margie Joseph,38,1971-04-10,1971-04-17,26,2
+300,5-10-15-20 (25-30 Years Of Love),The Presidents,26,1971-01-02,1971-01-02,25,1
+301,Communication,Bobby Womack & Peace,40,1971-09-25,1971-10-09,25,3
+302,"You And Your Folks, Me And My Folks",Funkadelic,42,1971-05-01,1971-05-15,25,3
+303,Stop The World And Let Me Off,The Flaming Ember,43,1971-02-20,1971-03-20,25,5
+304,Can You Get To That,Funkadelic,44,1971-09-04,1971-10-02,25,5
+305,Ack-A-Fool,The Sister & Brothers Featuring Sister Geri,43,1971-04-17,1971-05-01,24,3
+306,Breezin',Gabor Szabo,43,1971-09-18,1971-10-23,24,6
+307,Cold Night In Georgia,Dee Dee Warwick,44,1971-02-20,1971-03-13,24,4
+308,The Bells,Bobby Powell,45,1971-03-13,1971-04-10,24,5
+309,Chains And Things,B.B. King,28,1971-01-02,1971-01-02,23,1
+310,Scratch My Back <P6>(And Mumble In My Ear),Clarence Carter,41,1971-12-11,1971-12-25,23,3
+311,Stretch Your Rubber Band,The Meters,42,1971-02-06,1971-02-20,23,3
+312,Whole Lotta Love,King Curtis & The Kingpins,43,1971-02-06,1971-02-27,23,4
+313,You Gotta Have Love In Your Heart,The Supremes & Four Tops,41,1971-06-19,1971-07-10,22,4
+314,Big Leg Woman (With A Short Short Mini Skirt),"Israel ""Popper Stopper"" Tolbert",30,1971-01-02,1971-01-02,21,1
+315,Son Of Shaft,The Bar-Kays,30,1971-12-25,1971-12-25,21,1
+316,Who Gets The Guy,Dionne Warwick,41,1971-04-10,1971-04-17,20,2
+317,If That Ain't A Reason (For Your Woman To Leave You),Little Milton,41,1971-10-02,1971-10-09,20,2
+318,Love Is Life,"Earth, Wind & Fire",43,1971-07-10,1971-08-07,20,5
+319,Got To Get Enough (Of Your Sweet Love Stuff),"Roy ""C""",45,1971-06-12,1971-07-03,20,4
+320,Funky L.A.,Paul Humphrey & His Cool Aid Chemists,45,1971-08-07,1971-08-28,20,4
+321,Driving Wheel,Al Green,46,1971-03-27,1971-04-24,20,5
+322,A Child No One Wanted,Brenda & The Tabulations,42,1971-01-09,1971-01-23,19,3
+323,Engine Number 9,Wilson Pickett,33,1971-01-02,1971-01-02,18,1
+324,Love Gonna Pack Up (And Walk Out),The Persuaders,34,1971-12-18,1971-12-25,18,2
+325,She's A Lady,Tom Jones,42,1971-03-20,1971-03-27,18,2
+326,Never My Love,The 5th Dimension,45,1971-10-30,1971-11-27,18,5
+327,"Slipped, Tripped And Fell In Love",Ann Peebles,42,1971-09-18,1971-09-25,17,2
+328,At Last,Jesse James,42,1971-12-04,1971-12-25,17,4
+329,Love And Liberty,Laura Lee,35,1971-12-25,1971-12-25,16,1
+330,Save My Love For A Rainy Day,The Undisputed Truth,43,1971-03-20,1971-03-27,16,2
+331,Do The Funky Penguin Part I,Rufus Thomas,37,1971-12-25,1971-12-25,14,1
+332,You Make Your Own Heaven And Hell Right Here On Earth,The Undisputed Truth,43,1971-12-18,1971-12-25,14,2
+333,Evidence,The Sweet Inspirations,44,1971-04-17,1971-04-24,14,2
+334,Who Are You Gonna Love (Your Woman Or Your Wife),Rozetta Johnson,45,1971-04-17,1971-05-01,14,3
+335,Ten And Two <P6>(Take This Woman Off The Corner),Gene Chandler,44,1971-06-19,1971-06-26,13,2
+336,How's Your Love Life Baby,Ted Taylor,44,1971-08-14,1971-08-21,13,2
+337,Never Never Never,Chee-Chee & Peppy,46,1971-10-30,1971-11-13,13,3
+338,Determination,The Ebonys,46,1971-11-13,1971-11-27,13,3
+339,A Womans' Way,Rozetta Johnson,39,1971-01-02,1971-01-02,12,1
+340,Sweet Womans Love,Geater Davis,45,1971-01-02,1971-01-09,12,2
+341,'Bout Love,Clydie King,45,1971-05-01,1971-05-22,11,4
+342,(The World Is A Bit Under The Weather) Doodle-Oop,The Meters,47,1971-06-12,1971-07-03,11,4
+343,Now I'm A Woman,Nancy Wilson,41,1971-01-02,1971-01-02,10,1
+344,You Make Me Want To Love You,The Emotions,47,1971-05-01,1971-05-15,10,3
+345,I Need You Baby,Jesse James,47,1971-04-10,1971-05-01,10,4
+346,Stealing Moments From Another Woman's Life,The Glass House,42,1971-01-02,1971-01-02,9,1
+347,Let Me Be Your Man,Tyrone Ashley & The Funky Music Machine,46,1971-01-02,1971-01-09,9,2
+348,Keep On Keeping On,N.F. Porter,47,1971-12-11,1971-12-25,9,3
+349,We Got To Live Together - Part I,Buddy Miles,47,1971-01-16,1971-01-23,8,2
+350,Stay With Me Forever,Linda Jones,47,1971-06-19,1971-06-26,8,2
+351,You Ole Boo Boo You,Ruby Andrews,47,1971-02-06,1971-02-13,8,2
+352,Why Didn't I Think Of That,Brenda & The Tabulations,44,1971-12-25,1971-12-25,7,1
+353,Joy To The World,Three Dog Night,46,1971-04-24,1971-05-01,7,2
+354,(I Want You To) Make My Life Over,The Artistics,48,1971-01-30,1971-02-13,7,3
+355,S.O.S. (Stop Her On Sight),Winfield Parker,48,1971-09-04,1971-09-18,7,3
+356,"Lady, Lady, Lady",Barbara Acklin,45,1971-12-25,1971-12-25,6,1
+357,I'm Yours (Use Me Anyway You Wanna),Ike & Tina Turner,47,1971-11-27,1971-12-11,6,3
+358,Try On My Love For Size,Chairmen Of The Board,48,1971-10-02,1971-10-09,6,2
+359,Someday,The Lost Generation,48,1971-02-20,1971-02-27,6,2
+360,Drownin' On Dry Land,Junior Parker,48,1971-01-23,1971-01-30,6,2
+361,When You Find A Fool Bump His Head,Bill Coday,48,1971-07-17,1971-07-31,6,3
+362,Wholesale Love,Buddy Miles,49,1971-05-29,1971-06-19,6,4
+363,Born To Wander,Rare Earth,48,1971-02-06,1971-02-13,5,2
+364,Hey Big Brother,Rare Earth,48,1971-12-18,1971-12-25,5,2
+365,I Can Feel It/You've Got So Much <P6>(To Learn About Love),Carl Carlton,47,1971-01-30,1971-01-30,4,1
+366,I'd Rather Stay A Child,Richie's Room 222 Gang,48,1971-03-20,1971-03-27,4,2
+367,Wanted Dead Or Alive,Krystal,49,1971-09-25,1971-10-02,4,2
+368,I Can Feel It,Carl Carlton,49,1971-01-16,1971-01-23,3,2
+369,I Don't Have You,The Continental 4,49,1971-03-13,1971-03-20,3,2
+370,Georgia Blue,Joe Simon,49,1971-09-18,1971-09-18,2,1
+371,After All This Time,Merry Clayton,49,1971-12-25,1971-12-25,2,1
+372,Do It,Billy Sha-Rae,50,1971-04-17,1971-04-24,2,2
+373,Act Like A Shotgun,G.C.Cameron,50,1971-10-30,1971-11-06,2,2
+374,You Shouldn't Have Set My Soul On Fire,Inez Foxx,50,1971-01-23,1971-01-30,2,2
+375,Carry Your Own Load,Jr. Walker,50,1971-02-27,1971-02-27,1,1
+376,"See What You Done, Done (Hymn #9)",Delia Gartrell,50,1971-12-25,1971-12-25,1,1

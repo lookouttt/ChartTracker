@@ -1,0 +1,931 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Heaven,Los Lonely Boys,1,2004-06-26,2005-12-10,2524,77
+2,Lonely No More,Rob Thomas,1,2005-02-26,2006-06-24,2415,70
+3,I Knew I Loved You,Savage Garden,1,2000-01-01,2002-02-23,2399,113
+4,Drift Away,Uncle Kracker Featuring Dobie Gray,1,2003-03-22,2004-12-11,2287,91
+5,Home,Michael Buble,1,2005-02-05,2006-04-22,2273,64
+6,If You're Gone,matchbox twenty,1,2000-12-23,2002-10-12,2260,95
+7,I Hope You Dance,Lee Ann Womack,1,2000-11-11,2002-09-07,2209,94
+8,You And Me,Lifehouse,1,2005-07-09,2006-11-18,2187,72
+9,Breakaway,Kelly Clarkson,1,2004-09-18,2005-12-10,2136,64
+10,Hero,Enrique Iglesias,1,2001-10-13,2003-06-14,2097,88
+11,I Need You,LeAnn Rimes,2,2000-04-08,2002-03-30,2061,104
+12,Bad Day,Daniel Powter,1,2006-01-14,2007-03-31,1982,64
+13,Superman (It's Not Easy),Five For Fighting,2,2001-11-24,2003-07-19,1978,87
+14,You're Beautiful,James Blunt,1,2005-08-27,2006-11-25,1887,66
+15,Thank You,Dido,1,2001-03-17,2002-09-28,1828,81
+16,Forever And For Always,Shania Twain,1,2003-05-10,2004-10-23,1802,77
+17,She Will Be Loved,Maroon 5,4,2004-10-09,2005-11-12,1769,58
+18,Amazed,Lonestar,2,2000-01-01,2001-06-16,1754,77
+19,Unwell,matchbox twenty,1,2003-05-24,2004-11-13,1753,78
+20,Only Time,Enya,1,2001-02-17,2002-07-06,1718,73
+21,This Love,Maroon 5,3,2004-04-24,2005-07-09,1693,64
+22,Because Of You,Kelly Clarkson,3,2005-10-29,2006-12-09,1684,59
+23,Breathe,Faith Hill,1,2000-02-05,2001-06-02,1676,70
+24,Unwritten,Natasha Bedingfield,1,2006-03-18,2007-03-31,1674,55
+25,You'll Think Of Me,Keith Urban,2,2004-06-05,2005-08-13,1669,63
+26,A Thousand Miles,Vanessa Carlton,1,2002-05-04,2003-09-27,1663,74
+27,Taking You Home,Don Henley,1,2000-05-13,2001-11-10,1653,79
+28,Daughters,John Mayer,2,2004-10-09,2005-10-22,1633,55
+29,Live Like You Were Dying,Tim McGraw,4,2004-10-09,2005-10-15,1630,54
+30,That's The Way It Is,Celine Dion,2,2000-01-01,2001-06-09,1595,76
+31,White Flag,Dido,2,2003-09-06,2004-12-11,1564,66
+32,The Game Of Love,Santana Featuring Michelle Branch,1,2002-10-12,2003-12-06,1527,61
+33,In My Daughter's Eyes,Martina McBride,3,2004-09-18,2005-08-27,1519,50
+34,The First Cut Is The Deepest,Sheryl Crow,1,2003-10-18,2004-12-04,1512,60
+35,Give A Little Bit,Goo Goo Dolls,5,2004-12-18,2005-12-10,1511,51
+36,Can't Stop Loving You,Phil Collins,1,2002-10-05,2003-11-22,1506,60
+37,This I Promise You,'N Sync,1,2000-10-07,2001-12-15,1496,63
+38,I'm Yours,Jason Mraz,1,2008-08-23,2009-10-03,1488,59
+39,100 Years,Five For Fighting,1,2004-01-03,2004-12-25,1428,52
+40,Love Song,Sara Bareilles,1,2008-01-12,2009-02-14,1410,56
+41,Calling All Angels,Train,1,2003-07-19,2004-09-11,1377,61
+42,The Time Of My Life,David Cook,1,2008-06-07,2009-05-30,1358,52
+43,Big Girls Don't Cry,Fergie,1,2007-07-14,2008-07-05,1346,52
+44,Ever The Same,Rob Thomas,4,2005-12-24,2006-12-23,1346,52
+45,Home,Daughtry,1,2007-05-26,2008-05-17,1343,52
+46,I'll Be Around,Daryl Hall John Oates,6,2004-09-18,2005-08-20,1342,49
+47,Bleeding Love,Leona Lewis,1,2008-04-26,2009-04-18,1327,52
+48,Viva La Vida,Coldplay,1,2008-08-02,2009-07-25,1307,52
+49,Waiting On The World To Change,John Mayer,1,2006-08-12,2007-10-06,1294,56
+50,You Sang To Me,Marc Anthony,1,2000-03-11,2001-03-31,1288,56
+51,I'm Already There,Lonestar,2,2001-09-08,2002-10-12,1268,58
+52,Bubbly,Colbie Caillat,1,2007-08-18,2008-08-09,1267,52
+53,The Riddle,Five For Fighting,4,2006-06-03,2007-05-26,1259,52
+54,What Hurts The Most,Rascal Flatts,1,2006-04-08,2007-05-12,1258,53
+55,Ain't No Mountain High Enough,Michael McDonald,5,2003-11-08,2004-12-11,1257,58
+56,Love Story,Taylor Swift,1,2008-11-08,2009-10-31,1240,52
+57,Pocketful Of Sunshine,Natasha Bedingfield,3,2008-07-05,2009-06-27,1219,52
+58,There You'll Be,Faith Hill,1,2001-06-02,2002-05-11,1212,50
+59,This One's For The Girls,Martina McBride,1,2004-01-31,2004-12-04,1203,45
+60,Soak Up The Sun,Sheryl Crow,5,2002-05-18,2003-07-05,1200,60
+61,Cry,Faith Hill,1,2002-09-14,2003-08-02,1182,47
+62,Back Here,BBMak,1,2000-08-12,2001-08-04,1176,52
+63,The Way You Love Me,Faith Hill,3,2000-09-09,2001-09-22,1176,55
+64,Apologize,Timbaland Featuring OneRepublic,4,2007-11-17,2008-11-08,1166,52
+65,Chasing Cars,Snow Patrol,1,2006-10-28,2007-10-20,1160,52
+66,Better In Time,Leona Lewis,4,2008-10-25,2009-10-24,1154,52
+67,Big Yellow Taxi,Counting Crows Featuring Vanessa Carlton,5,2003-05-17,2004-06-12,1152,57
+68,A New Day Has Come,Celine Dion,1,2002-02-23,2002-12-21,1150,44
+69,Don't Know Why,Norah Jones,4,2002-08-10,2003-11-29,1134,66
+70,Show Me The Meaning Of Being Lonely,Backstreet Boys,2,2000-02-05,2001-02-17,1131,55
+71,Black Horse & The Cherry Tree,KT Tunstall,4,2006-05-20,2007-04-28,1125,50
+72,How To Save A Life,The Fray,1,2006-11-04,2007-10-27,1123,52
+73,What About Now,Daughtry,3,2008-10-04,2009-09-26,1122,52
+74,Save The Last Dance For Me,Michael Buble,5,2006-01-28,2006-09-23,1064,35
+75,Cruisin',Huey Lewis & Gwyneth Paltrow,1,2000-09-30,2001-09-08,1062,50
+76,Making Memories Of Us,Keith Urban,5,2006-01-14,2006-09-23,1061,37
+77,Love's Divine,Seal,3,2004-02-14,2004-12-11,1050,44
+78,Breathe (2 AM),Anna Nalick,4,2005-03-19,2005-12-31,1046,40
+79,I'm Feeling You,Santana Featuring Michelle Branch & The Wreckers,5,2005-10-01,2006-06-03,1046,36
+80,Feels Like Tonight,Daughtry,5,2008-03-15,2009-02-28,1034,51
+81,You'll Be In My Heart,Phil Collins,7,2000-01-01,2000-12-30,1034,53
+82,You Raise Me Up,Josh Groban,1,2003-11-01,2004-09-04,1024,45
+83,Back At One,Brian McKnight,4,2000-01-01,2000-12-16,1014,51
+84,Like We Never Loved At All,Faith Hill,9,2005-09-10,2006-09-09,999,48
+85,The Climb,Miley Cyrus,1,2009-03-28,2009-12-26,989,40
+86,Shape Of My Heart,Backstreet Boys,2,2000-10-21,2001-08-25,983,45
+87,You Found Me,The Fray,2,2009-01-24,2009-12-19,952,46
+88,Incomplete,Backstreet Boys,4,2005-04-30,2005-12-03,938,32
+89,What's Left Of Me,Nick Lachey,3,2006-04-08,2006-12-09,935,36
+90,Beautiful,Christina Aguilera,1,2002-12-28,2003-10-11,928,42
+91,Who Says You Can't Go Home,Bon Jovi,8,2006-02-25,2006-12-23,924,44
+92,Love Remains The Same,Gavin Rossdale,6,2008-10-18,2009-09-26,918,47
+93,Don't Let Him Steal Your Heart Away,Phil Collins,5,2004-10-09,2005-05-07,901,31
+94,Everything,Michael Buble,1,2007-04-14,2007-12-08,889,35
+95,Teardrops On My Guitar,Taylor Swift,5,2008-01-12,2008-10-18,889,41
+96,Come On Get Higher,Matt Nathanson,3,2009-02-28,2009-12-26,880,44
+97,True,Ryan Cabrera,9,2005-01-29,2005-09-10,880,33
+98,Have You Ever Been In Love,Celine Dion,2,2003-05-03,2003-12-20,869,34
+99,Hey There Delilah,Plain White T's,3,2007-07-28,2008-04-12,864,38
+100,Wait For You,Elliott Yamin,4,2007-07-21,2008-04-26,861,41
+101,When Did You Fall (In Love With Me),Chris Rice,9,2006-02-25,2006-10-21,852,35
+102,Who Knew,P!nk,4,2007-08-25,2008-06-14,849,43
+103,Drops Of Jupiter (Tell Me),Train,8,2001-07-28,2002-08-03,833,54
+104,Put Your Records On,Corinne Bailey Rae,6,2006-07-08,2007-06-30,830,52
+105,Follow Me,Uncle Kracker,7,2001-05-26,2002-04-13,825,47
+106,Far Away,Nickelback,5,2006-09-16,2007-08-11,823,48
+107,One More Day,Diamond Rio,6,2001-04-28,2002-02-23,822,43
+108,Say,John Mayer,3,2008-03-22,2008-12-13,821,39
+109,One Love,Hootie & The Blowfish,5,2005-07-30,2006-03-18,805,31
+110,To Where You Are,Josh Groban,1,2002-04-13,2002-12-14,803,36
+111,We Belong Together,Mariah Carey,3,2005-06-04,2005-12-10,798,28
+112,Window To My Heart,Jon Secada,6,2005-09-03,2006-04-01,781,31
+113,I Turn To You,Christina Aguilera,5,2000-05-13,2001-02-24,780,42
+114,If You're Not The One,Daniel Bedingfield,3,2003-04-19,2003-12-06,778,34
+115,Streetcorner Symphony,Rob Thomas,4,2006-10-21,2007-08-25,768,45
+116,No More Cloudy Days,Eagles,3,2005-07-09,2005-12-31,761,26
+117,All Or Nothing,O-Town,4,2001-07-14,2002-04-13,760,40
+118,The Sweet Escape,Gwen Stefani Featuring Akon,3,2007-05-05,2007-12-15,758,33
+119,Lost,Michael Buble,2,2008-01-26,2008-08-23,751,31
+120,Beautiful,Jim Brickman Featuring Wayne Brady,2,2005-10-01,2006-04-01,738,27
+121,Angel,Lionel Richie,4,2001-03-03,2001-11-03,729,36
+122,Collide,Howie Day,14,2005-02-19,2005-10-01,728,33
+123,Smooth,Santana Featuring Rob Thomas,11,2000-01-01,2000-12-02,721,49
+124,Crush,David Archuleta,6,2008-08-30,2009-05-16,719,38
+125,Probably Wouldn't Be This Way,LeAnn Rimes,8,2006-01-28,2006-07-15,719,25
+126,I Need You,Marc Anthony,4,2002-03-02,2002-09-28,706,31
+127,Before He Cheats,Carrie Underwood,6,2007-05-05,2007-12-15,697,33
+128,Her Diamonds,Rob Thomas,2,2009-05-30,2009-12-26,670,31
+129,Tattoo,Jordin Sparks,7,2008-01-19,2008-09-20,670,36
+130,I Could,Kimberley Locke,8,2005-06-04,2005-12-03,670,27
+131,Homesick,MercyMe,9,2005-02-12,2005-08-06,668,26
+132,My Baby You,Marc Anthony,7,2000-09-16,2001-05-19,663,36
+133,I Want It That Way,Backstreet Boys,3,2000-01-01,2000-08-26,645,35
+134,Answer In The Sky,Elton John,7,2004-09-25,2005-03-19,641,26
+135,Simple Things,Jim Brickman Featuring Rebecca Lynn Howard,1,2001-08-18,2002-04-13,640,35
+136,I Do (Cherish You),98 Degrees,4,2000-01-01,2000-07-29,637,31
+137,Do It For Love,Daryl Hall John Oates,1,2002-06-01,2002-12-07,636,28
+138,I Will Remember You (Live),Sarah McLachlan,11,2000-01-01,2000-09-30,626,40
+139,A Moment Like This,Kelly Clarkson,4,2002-10-05,2003-04-12,617,28
+140,8th World Wonder,Kimberley Locke,6,2004-04-17,2004-11-27,617,33
+141,Sunrise,Simply Red,5,2003-08-09,2004-03-13,610,32
+142,Listen To Your Heart,D.H.T.,6,2005-07-23,2005-12-24,601,23
+143,Bring On The Rain,Jo Dee Messina,6,2002-02-23,2002-10-05,594,33
+144,Never Had A Dream Come True,S Club 7,8,2001-06-16,2002-03-16,594,40
+145,Crazy,Gnarls Barkley,7,2006-08-12,2007-03-31,593,34
+146,Hurt,Christina Aguilera,6,2006-10-28,2007-06-30,581,36
+147,Look Through My Eyes,Phil Collins,5,2003-09-27,2004-04-03,573,28
+148,Forever For You,Daryl Hall John Oates,7,2002-11-09,2003-05-24,565,29
+149,Nobody Wants To Be Lonely,Ricky Martin Duet With Christina Aguilera,3,2001-02-10,2001-08-11,560,27
+150,Dance With My Father,Luther Vandross,4,2003-06-21,2003-12-20,559,27
+151,Drowning,Backstreet Boys,6,2001-10-20,2002-05-11,558,30
+152,Someday Out Of The Blue,Elton John,5,2000-03-04,2000-09-09,551,28
+153,Have You Ever Seen The Rain,Rod Stewart,6,2006-09-09,2007-03-31,543,30
+154,Hot N Cold,Katy Perry,9,2009-01-17,2009-10-17,540,40
+155,Hole In The World,Eagles,5,2003-06-07,2003-11-29,536,26
+156,Change,Kimberley Locke,6,2007-02-03,2007-08-18,531,29
+157,Sunday Morning,Maroon 5,15,2005-02-05,2005-07-30,528,26
+158,I Call It Love,Lionel Richie,9,2006-07-01,2007-02-10,525,33
+159,You Belong With Me,Taylor Swift,1,2009-08-01,2009-12-26,524,22
+160,Landslide,Dixie Chicks,1,2002-11-09,2003-05-03,523,26
+161,Just For You,Lionel Richie,6,2004-03-20,2004-09-25,521,28
+162,What A Wonderful World,Rod Stewart Featuring Stevie Wonder,13,2004-10-30,2005-04-23,517,26
+163,Taking Chances,Celine Dion,6,2007-10-06,2008-03-29,514,26
+164,More Than That,Backstreet Boys,6,2001-05-19,2001-11-17,514,27
+165,"Reach Out, I'll Be There",Michael McDonald,12,2004-10-16,2005-04-09,512,26
+166,Some Hearts,Carrie Underwood,12,2006-02-25,2006-07-08,509,20
+167,No One,Alicia Keys,9,2008-01-12,2008-07-12,502,27
+168,How Long,Eagles,7,2007-09-08,2008-03-01,501,26
+169,(You Want To) Make A Memory,Bon Jovi,5,2007-06-30,2007-12-22,498,26
+170,Inside Your Heaven,Carrie Underwood,12,2005-07-09,2005-11-26,497,21
+171,Whatever It Takes,Lifehouse,10,2008-04-26,2008-12-06,489,33
+172,Here I Am,Bryan Adams,5,2002-06-08,2002-11-30,488,26
+173,Always On Your Side,Sheryl Crow & Sting,12,2006-03-04,2006-07-15,487,20
+174,If You Don't Know Me By Now,Seal,8,2009-02-21,2009-08-15,486,26
+175,Only A Woman Like You,Michael Bolton,5,2002-03-16,2002-09-07,483,26
+176,I Can Only Imagine,MercyMe,5,2003-05-24,2003-12-13,480,30
+177,Breathless,The Corrs,14,2000-10-14,2001-07-07,480,39
+178,I Could Not Ask For More,Edwin McCain,5,2000-01-01,2000-07-01,476,27
+179,In My Arms,Plumb,10,2008-02-16,2008-08-23,474,28
+180,The Way You Move,"Kenny G Featuring Earth, Wind & Fire",12,2005-01-29,2005-07-23,472,26
+181,If I Ain't Got You,Alicia Keys,12,2004-08-28,2005-02-19,472,26
+182,Here Without You,3 Doors Down,14,2003-12-27,2004-08-21,470,33
+183,Say What You Will,Eric Clapton,9,2005-09-17,2006-02-04,468,21
+184,Where Is Your Heart Tonight,Jordan Knight,12,2005-10-29,2006-04-08,464,23
+185,Crazy In Love,Nicol Sponberg,13,2006-04-22,2006-09-30,463,24
+186,Realize,Colbie Caillat,8,2008-05-17,2008-12-06,459,30
+187,Remember When It Rained,Josh Groban,15,2004-08-14,2005-02-26,454,26
+188,Music Of My Heart,'N Sync & Gloria Estefan,4,2000-01-01,2000-05-27,450,22
+189,Photograph,Nickelback,16,2005-12-03,2006-05-27,448,26
+190,Please Don't Leave Me,P!nk,5,2009-07-11,2009-12-26,447,25
+191,I Run For Life,Melissa Etheridge,10,2005-10-22,2006-03-11,446,21
+192,Invisible,Clay Aiken,8,2003-10-25,2004-04-17,444,26
+193,I'm  Alive,Celine Dion,6,2002-06-29,2002-12-21,437,26
+194,I Want Love,Elton John,6,2001-09-08,2002-03-02,436,26
+195,"1, 2, 3, 4",Plain White T's,10,2009-05-09,2009-10-31,435,26
+196,Can't Fight The Moonlight,LeAnn Rimes,15,2000-10-14,2002-08-31,435,45
+197,Better Days,Goo Goo Dolls,17,2005-12-10,2006-04-29,435,21
+198,Makes Me Wonder,Maroon 5,9,2007-06-02,2007-11-24,434,26
+199,Just Go,Lionel Richie,11,2009-02-21,2009-08-15,432,26
+200,One,Faith Hill,7,2003-04-26,2003-10-18,431,26
+201,No Surprise,Daughtry,7,2009-06-27,2009-12-26,429,27
+202,Irreplaceable,Beyonce,10,2007-01-27,2007-08-04,429,28
+203,Behind These Hazel Eyes,Kelly Clarkson,13,2005-08-13,2005-12-24,427,20
+204,Suddenly I See,KT Tunstall,10,2007-01-20,2007-07-14,423,26
+205,After All These Years,Journey,9,2008-05-24,2008-11-15,416,26
+206,Life Goes On,LeAnn Rimes,9,2002-09-07,2003-03-01,414,26
+207,Crash And Burn,Savage Garden,10,2000-04-08,2000-09-30,412,26
+208,Here With Me,MercyMe,12,2004-05-15,2004-11-06,412,26
+209,Bless The Broken Road,Rascal Flatts,20,2005-03-26,2005-09-17,412,26
+210,Raincoat,Kelly Sweet,10,2007-02-10,2007-08-04,410,26
+211,Fallin' For You,Colbie Caillat,2,2009-08-22,2009-12-26,409,19
+212,You,Jim Brickman Featuring Jane Krakowski,4,2002-08-24,2003-02-15,409,26
+213,Where I Stood,Missy Higgins,10,2008-09-06,2009-03-21,409,28
+214,Band Of Gold,Kimberley Locke,9,2007-09-01,2008-02-23,408,26
+215,Busy Being Fabulous,Eagles,12,2008-02-23,2008-08-16,407,26
+216,(Your Love Keeps Lifting Me) Higher And Higher,Michael McDonald,9,2008-01-26,2008-06-14,405,21
+217,Ooh Child,Daryl Hall John Oates,19,2005-05-21,2005-11-05,404,25
+218,Could I Have This Kiss Forever,Whitney Houston & Enrique Iglesias,10,2000-06-03,2000-11-25,399,26
+219,Open Arms,Tina Turner,15,2005-01-29,2005-05-28,396,18
+220,No Air,Jordin Sparks Duet With Chris Brown,11,2008-05-24,2008-11-22,392,27
+221,Light On,David Cook,10,2009-01-24,2009-08-01,391,28
+222,You Are Everything,Vanessa Williams,16,2005-02-26,2005-08-13,390,24
+223,When The Stars Go Blue,Tim McGraw,12,2006-08-05,2007-01-27,389,26
+224,Amarantine,Enya,12,2005-11-12,2006-04-01,387,20
+225,Held,Natalie Grant,11,2005-09-03,2006-01-28,383,22
+226,You Are Loved (Don't Give Up),Josh Groban,9,2006-09-30,2007-03-31,382,27
+227,I Drove All Night,Celine Dion,7,2003-02-01,2003-07-26,380,26
+228,Ghost Of You And Me,BBMak,8,2001-05-12,2001-11-03,377,26
+229,I'm Gonna Getcha Good!,Shania Twain,10,2002-11-16,2003-05-10,376,26
+230,The Reason,Hoobastank,17,2004-07-10,2005-01-01,375,26
+231,The Real Thing,Bo Bice,17,2006-04-29,2006-09-09,373,20
+232,Little Wonders,Rob Thomas,11,2007-04-28,2007-10-20,372,26
+233,Over My Head (Cable Car),The Fray,15,2006-05-06,2006-11-18,368,29
+234,So Long Self,MercyMe,16,2006-05-06,2006-09-16,363,20
+235,Lost Without You,Delta Goodrem,18,2005-07-30,2005-12-10,361,20
+236,Won't Go Home Without You,Maroon 5,14,2008-04-12,2008-11-15,360,32
+237,Walk Away,Kelly Clarkson,19,2006-04-08,2006-09-02,353,22
+238,Fire And Rain,"Kenny ""Babyface"" Edmonds",10,2007-09-08,2008-03-01,346,26
+239,I Will Love Again,Lara Fabian,10,2000-06-10,2000-12-02,344,26
+240,One Thing,Finger Eleven,23,2004-12-11,2005-06-18,344,27
+241,Haven't Met You Yet,Michael Buble,3,2009-09-19,2009-12-26,340,15
+242,Fallen,Sarah McLachlan,12,2003-10-11,2004-04-03,340,26
+243,Summer Breeze,Seals & Crofts,15,2004-06-19,2004-12-04,340,25
+244,No Such Thing,John Mayer,11,2002-06-15,2002-12-07,339,26
+245,Buy Me A Rose,Luther Vandross,13,2004-03-13,2004-09-04,337,26
+246,My Wish,Rascal Flatts,13,2007-06-02,2007-11-10,336,24
+247,Drive,Katrina Carlson,18,2004-10-09,2005-04-16,335,26
+248,Sunset Blvd,Scott Grimes,18,2005-02-12,2005-06-25,334,20
+249,It's Growing,James Taylor,11,2008-10-18,2009-04-25,333,25
+250,Never Far Away,Jim Brickman Featuring Rush Of Fools,11,2009-01-31,2009-06-13,331,20
+251,Believe,Josh Groban,1,2004-11-27,2005-02-19,326,13
+252,Angel,Sarah McLachlan,14,2000-01-01,2000-06-10,326,24
+253,Wait For Me,Bob Seger,16,2006-07-29,2007-02-03,326,28
+254,Anyway,Martina McBride,14,2007-04-07,2007-10-06,325,27
+255,You Make Me Feel Brand New,Simply Red,10,2004-01-31,2004-07-17,320,25
+256,Shattered (Turn The Car Around),O.A.R.,14,2008-11-22,2009-05-09,314,25
+257,Cab,Train,19,2006-02-18,2006-06-24,314,19
+258,Hear Me (Tears Into Wine),Jim Brickman Featuring Michael Bolton,20,2005-05-07,2005-09-17,314,20
+259,Angels,Robbie Williams,10,2000-01-01,2000-06-10,308,24
+260,Wild Child,Enya,12,2002-03-09,2002-08-17,308,24
+261,Falling In Love At A Coffee Shop,Landon Pigg,13,2008-03-01,2008-07-19,308,21
+262,Try It On My Own,Whitney Houston,10,2003-03-01,2003-07-26,306,22
+263,Wake Me Up When September Ends,Green Day,13,2005-11-05,2006-04-01,306,20
+264,Get Out Of My Mind,Hootie & The Blowfish,17,2006-03-25,2006-07-22,303,18
+265,Complicated,Avril Lavigne,13,2002-08-31,2003-02-22,302,26
+266,She's All I Ever Had,Ricky Martin,8,2000-01-01,2000-04-22,299,17
+267,Why Don't You & I,Santana Featuring Alex Band Or Chad Kroeger,16,2003-11-22,2004-05-15,299,26
+268,Unconditional,Simon Collins,12,2008-09-13,2009-02-21,296,23
+269,Time After Time,Cyndi Lauper Featuring Sarah McLachlan,14,2005-10-22,2006-03-11,291,20
+270,When You Lie Next To Me,Kellie Coffey,14,2002-09-14,2003-03-01,291,25
+271,If God Made You,Five For Fighting,20,2005-02-19,2005-07-02,290,19
+272,Truly Madly Deeply,Savage Garden,13,2000-01-01,2000-05-20,288,21
+273,Lucky,Jason Mraz & Colbie Caillat,10,2009-04-25,2009-09-05,286,20
+274,Perfect Love,Simply Red,16,2005-09-17,2006-02-18,285,20
+275,February Song,Josh Groban,13,2007-03-31,2007-08-25,284,22
+276,Don't!,Shania Twain,18,2005-04-16,2005-07-30,284,16
+277,Lost In This Moment,Big & Rich,12,2007-08-18,2008-02-02,280,21
+278,So Complicated,Carolyn Dawn Johnson,15,2002-03-30,2002-09-07,279,24
+279,Peace (Where The Heart Is),Jim Brickman Featuring Collin Raye,15,2003-08-16,2004-02-07,279,25
+280,"Jesus, Take The Wheel",Carrie Underwood,23,2006-02-04,2006-08-05,277,20
+281,Fooled Around And Fell In Love,Rod Stewart,13,2007-03-10,2007-07-21,276,20
+282,Soon,LeAnn Rimes,14,2001-09-15,2002-03-09,275,26
+283,Do I Make You Proud,Taylor Hicks,14,2006-06-10,2006-09-23,274,16
+284,Strangers Like Me,Phil Collins,10,2000-01-01,2000-05-06,272,19
+285,You're Still You,Josh Groban,10,2003-02-08,2003-07-05,272,22
+286,I Want You To Need Me,Celine Dion,12,2000-05-06,2000-09-30,272,22
+287,Good Is Good,Sheryl Crow,16,2005-10-08,2006-02-18,271,20
+288,Awake,Josh Groban,13,2008-04-26,2008-09-06,269,20
+289,Here Comes Goodbye,Rascal Flatts,13,2009-04-25,2009-09-12,269,21
+290,Accidentally In Love,Counting Crows,23,2004-08-07,2005-03-05,269,26
+291,Lost,Faith Hill,11,2007-10-13,2008-03-08,268,21
+292,Kiss Me,Sixpence None The Richer,14,2000-01-01,2000-05-13,265,20
+293,Since U Been Gone,Kelly Clarkson,22,2005-04-23,2005-11-26,264,23
+294,Forever,Vertical Horizon,17,2005-09-03,2006-01-21,263,20
+295,Dreaming With A Broken Heart,John Mayer,13,2007-11-03,2008-03-15,260,20
+296,Peacekeeper,Fleetwood Mac,10,2003-03-29,2003-07-12,259,16
+297,All Summer Long,Kid Rock,14,2008-07-12,2008-11-22,259,20
+298,Never Alone,Jim Brickman Featuring Lady Antebellum,14,2007-03-17,2007-07-28,259,20
+299,Party For Two,Shania Twain With Billy Currington Or Mark McGrath,16,2004-11-20,2005-03-26,257,18
+300,Beautiful Boy,Celine Dion,18,2004-10-30,2005-03-12,257,18
+301,Kiss A Girl,Keith Urban,11,2009-09-05,2009-12-26,255,17
+302,Colour Everywhere,Dian Diaz,23,2006-02-11,2006-06-24,249,20
+303,Last Thing On My Mind,LeAnn Rimes & Ronan Keating,16,2004-07-03,2005-01-22,248,24
+304,Closer To Love,Mat Kearney,13,2009-08-01,2009-12-12,246,20
+305,These Foolish Things,Rod Stewart,13,2002-11-30,2003-04-26,246,22
+306,Picture,Kid Rock Featuring Sheryl Crow,17,2003-02-22,2003-08-16,243,26
+307,Your Body Is A Wonderland,John Mayer,17,2002-12-07,2003-06-14,243,26
+308,This Is The Night,Clay Aiken,13,2003-07-05,2004-02-21,242,24
+309,I Want To Know What Love Is,Mariah Carey,10,2009-10-03,2009-12-26,240,13
+310,This Train Don't Stop There Anymore,Elton John,10,2002-02-09,2002-06-01,240,17
+311,Go Your Own Way,Wilson Phillips,13,2004-05-08,2004-09-11,237,19
+312,Fall,Kimberley Locke,17,2008-03-22,2008-08-02,236,20
+313,Beautiful World (We're All Here),Jim Brickman & Adam Crossley,4,2009-08-22,2009-12-26,234,19
+314,If Today Was Your Last Day,Nickelback,14,2009-05-23,2009-10-10,234,21
+315,My Little Girl,Tim McGraw,15,2007-02-17,2007-06-30,234,20
+316,My Immortal,Evanescence,19,2004-05-01,2004-10-23,234,26
+317,One Step At A Time,Jordin Sparks,13,2008-11-08,2009-04-18,231,20
+318,You Don't Know Me,Ray Charles With Diana Krall,21,2005-01-15,2005-04-23,229,15
+319,Don't Dream It's Over,Sixpence None The Richer,12,2003-03-08,2003-08-09,228,22
+320,Ready To Fly,Richard Marx,22,2004-11-20,2005-04-09,228,18
+321,Chances,Five For Fighting,11,2009-09-19,2009-12-26,226,15
+322,In God's Hands,Nelly Furtado Featuring Keith Urban,15,2008-04-26,2008-09-13,226,21
+323,Love Will Come Back,Chicago,21,2006-05-13,2006-08-19,223,15
+324,What Do I Do With My Heart,Eagles,13,2008-09-27,2009-02-07,222,20
+325,Beautiful Soul,Jesse McCartney,23,2005-03-05,2005-08-27,220,26
+326,Second Chance,Shinedown,16,2009-06-20,2009-11-21,217,23
+327,Unchained Melody,Barry Manilow,20,2006-02-04,2006-04-29,216,13
+328,Tiny Dancer,Tim McGraw,13,2003-11-01,2004-03-13,215,20
+329,Forgive Me,Cnote,15,2008-03-08,2008-07-19,215,20
+330,This Is How A Heart Breaks,Rob Thomas,25,2006-01-14,2006-05-13,214,18
+331,Believe In Life,Eric Clapton,11,2001-07-07,2001-10-27,213,17
+332,I Can't Help You Now,Bonnie Raitt,15,2002-04-06,2002-08-03,213,18
+333,My Love,Celine Dion,15,2008-10-18,2009-03-14,213,20
+334,It Only Hurts When I'm Breathing,Shania Twain,16,2004-04-10,2004-08-14,212,19
+335,There You Are,Martina McBride,15,2000-08-05,2000-12-09,211,19
+336,Gotta Be Somebody,Nickelback,18,2008-12-06,2009-05-23,211,20
+337,This Side Of Paradise,Bryan Adams,20,2005-04-30,2005-08-13,211,16
+338,Upside Down,Jack Johnson,23,2006-05-27,2006-10-07,211,20
+339,Come Back To Me,David Cook,15,2009-06-06,2009-10-17,208,20
+340,Song For The Lonely,Cher,11,2002-02-02,2002-05-11,207,15
+341,I'm With You,Avril Lavigne,18,2003-02-08,2003-08-02,207,26
+342,Up On The Housetop,Kimberley Locke,1,2005-12-03,2006-01-07,206,6
+343,The Voice Within,Christina Aguilera,16,2003-12-06,2004-04-10,198,19
+344,Finally Home,MercyMe,16,2009-04-04,2009-08-15,197,20
+345,My Life Would Suck Without You,Kelly Clarkson,16,2009-03-07,2009-08-08,195,21
+346,You And I,Celine Dion,16,2004-06-19,2005-02-05,195,23
+347,Over You,Daughtry,16,2007-11-10,2008-04-26,194,20
+348,New York City Girl,John Waite,23,2005-05-14,2005-08-20,193,15
+349,My Everything,98 Degrees,13,2001-02-17,2001-07-07,192,21
+350,Angel On My Shoulder,Natalie Cole,14,2000-11-18,2001-03-03,192,16
+351,Free,Jon Secada,21,2006-07-01,2006-11-11,192,20
+352,I Try,Macy Gray,21,2000-04-22,2000-10-14,192,26
+353,Use Somebody,Kings Of Leon,13,2009-09-19,2009-12-26,191,15
+354,The One,Backstreet Boys,15,2000-07-01,2000-11-04,190,19
+355,Standing Still,Jewel,19,2001-11-17,2002-05-11,190,26
+356,Somebody's Me,Enrique Iglesias,15,2007-09-29,2008-02-16,189,20
+357,If I Were A Boy,Beyonce,16,2009-01-17,2009-05-30,189,19
+358,Silent Night,Five For Fighting,2,2004-12-04,2005-01-08,188,6
+359,Our Country,John Mellencamp,16,2007-01-20,2007-04-28,188,15
+360,Stop And Stare,OneRepublic,19,2008-06-28,2008-11-22,188,22
+361,Lady,Lenny Kravitz,26,2005-01-22,2005-07-02,187,24
+362,I Will Not Be Broken,Bonnie Raitt,27,2005-08-27,2006-01-28,186,18
+363,We Can,LeAnn Rimes,16,2003-07-12,2003-11-01,185,17
+364,The Bridge,Elton John,19,2006-09-02,2007-02-10,185,20
+365,My Love Is Here,Jim Brickman Featuring Roch Voisine,21,2004-11-13,2005-03-26,185,15
+366,Original Sin,Elton John,18,2002-06-15,2003-01-25,181,24
+367,Blue Moon,Rod Stewart Featuring Eric Clapton,23,2005-03-12,2005-06-04,181,13
+368,It's Not Over,Daughtry,18,2007-03-10,2007-07-21,179,20
+369,First Time,Lifehouse,17,2007-09-01,2008-03-08,176,20
+370,Cool,Gwen Stefani,23,2005-09-10,2006-02-25,176,20
+371,Every Day,Stevie Nicks,17,2001-04-28,2001-08-18,175,17
+372,Wherever You Will Go,The Calling,21,2002-04-06,2002-09-28,175,26
+373,So Beautiful,Darren Hayes,27,2006-02-04,2006-07-22,175,20
+374,Rockin' Around The Christmas Tree,LeAnn Rimes,3,2004-12-04,2005-01-08,174,6
+375,God Bless America,Celine Dion,14,2001-10-13,2002-02-23,174,19
+376,Roots Before Branches,Room For Two,17,2008-05-31,2008-10-11,173,20
+377,Chariot,Gavin DeGraw,27,2005-07-23,2006-02-04,173,20
+378,If Everyone Cared,Nickelback,17,2007-06-02,2007-10-27,172,21
+379,"Baby, It's Cold Outside",Rod Stewart Featuring Dolly Parton,2,2004-12-11,2005-01-08,170,5
+380,Silver And Gold,Vanessa Williams,4,2004-12-04,2005-01-08,170,6
+381,Through The Rain,Mariah Carey,17,2002-10-19,2003-02-15,170,17
+382,The Hardest Thing,98 Degrees,12,2000-01-01,2000-03-04,167,10
+383,I Want To Know What Love Is,Wynonna,14,2004-03-06,2004-06-26,167,17
+384,Ever Present Past,Paul McCartney,16,2007-06-23,2007-10-06,167,16
+385,Thank You For Loving Me,Bon Jovi,15,2001-01-20,2001-05-12,166,17
+386,By Your Side,Sade,18,2000-11-18,2001-04-21,166,23
+387,Look What You've Done,Jet,26,2005-04-02,2005-08-06,165,18
+388,Man On A Mission,Daryl Hall John Oates,16,2003-05-31,2003-08-30,163,14
+389,On The 4th Of July,James Taylor,16,2002-07-13,2002-10-19,161,15
+390,Stand By Your Side,Celine Dion,17,2003-10-18,2004-03-06,159,18
+391,Long Way To Go,Lionel Richie,20,2004-11-06,2005-02-19,159,14
+392,Burn,Jo Dee Messina,17,2001-06-23,2001-10-20,158,18
+393,Feel,Chicago,19,2006-03-25,2006-05-27,157,10
+394,Dreamland,Bruce Hornsby Featuring Elton John,23,2005-10-29,2006-02-18,157,16
+395,Insatiable,Darren Hayes,16,2002-02-02,2002-05-11,156,15
+396,Babies,Regie Hamm,16,2003-01-18,2003-05-31,156,19
+397,Frosty The Snowman,Kimberley Locke,1,2007-12-01,2008-01-12,155,7
+398,The Love I Found In You,Jim Brickman,15,2000-08-19,2000-11-25,155,15
+399,I'll Be Home For Christmas,Josh Groban,1,2007-12-08,2008-01-12,154,6
+400,A Baby Changes Everything,Faith Hill,1,2008-11-29,2009-01-10,154,7
+401,Do You Hear What I Hear,Carrie Underwood,2,2007-12-01,2008-01-12,152,7
+402,I Thought I'd Seen Everything,Bryan Adams,21,2008-05-10,2008-09-06,151,18
+403,Remembering You,Steven Curtis Chapman,22,2005-10-22,2006-04-01,150,18
+404,Boulevard Of Broken Dreams,Green Day,30,2005-03-12,2005-09-24,150,26
+405,Let It Snow! Let It Snow! Let It Snow!,Carly Simon,6,2005-12-10,2006-01-07,149,5
+406,Say It Right,Nelly Furtado,19,2007-04-07,2007-08-18,149,20
+407,Where Did I Lose Your Love,Journey,19,2009-03-14,2009-07-25,149,20
+408,I'd Rather,Luther Vandross,17,2002-04-20,2002-08-17,147,18
+409,Deck The Halls,Brian Wilson,8,2005-12-10,2006-01-07,146,5
+410,Nothin' Better To Do,LeAnn Rimes,16,2007-10-06,2008-02-16,145,18
+411,Thinking Over,Dana Glover,17,2003-02-08,2003-05-17,144,15
+412,Take A Bow,Rihanna,21,2008-08-16,2009-02-07,143,22
+413,Say You Will,Fleetwood Mac,17,2003-07-12,2003-10-04,141,13
+414,Dream On,Kelly Sweet,17,2007-10-20,2008-03-08,139,17
+415,She Is Love,Parachute,17,2009-08-01,2009-11-14,138,16
+416,I've Got A Crush On You,Rod Stewart Featuring Diana Ross,19,2005-11-12,2006-02-25,138,11
+417,Everytime We Touch,Cascada,28,2006-04-29,2006-07-29,138,14
+418,Deck The Halls,James Taylor,5,2004-12-18,2005-01-08,137,4
+419,Feliz Navidad,Jon Secada,3,2005-12-17,2006-01-07,136,4
+420,Just To Feel That Way,Taylor Hicks,20,2007-02-24,2007-06-23,136,18
+421,Jingle Bells,Kimberley Locke,1,2006-12-09,2007-01-13,135,6
+422,Little Drummer Boy,deSoL,4,2005-12-17,2006-01-07,135,4
+423,U Want Me 2,Sarah McLachlan,18,2008-10-04,2009-02-28,134,20
+424,What Christmas Means To Me,Jessica Simpson,8,2004-12-11,2005-01-08,133,5
+425,It Came Upon A Midnight Clear,Daryl Hall John Oates,1,2006-12-09,2007-01-13,132,6
+426,Already Gone,Kelly Clarkson,14,2009-10-24,2009-12-26,131,10
+427,Electricity,Elton John,17,2009-07-04,2009-10-03,131,14
+428,Feels Like Love,Chantal Chamandy,25,2006-05-06,2006-08-19,131,15
+429,Silent Night,MercyMe,6,2005-12-10,2006-01-07,130,5
+430,I Can't Deny It,Rod Stewart,18,2001-02-10,2001-05-05,130,13
+431,All That I'm Allowed,Elton John,24,2005-03-05,2005-05-07,129,10
+432,From The Bottom Of My Heart,Stevie Wonder,25,2005-07-02,2005-10-01,129,14
+433,Never Too Far/Hero Medley,Mariah Carey,17,2001-08-25,2001-12-01,126,15
+434,Come With Me (Lullaby),Phil Collins,16,2003-03-15,2003-06-07,123,13
+435,Alive,Jennifer Lopez,18,2002-05-25,2002-08-24,123,14
+436,O Holy Night,Josh Groban,1,2002-12-14,2003-01-11,122,5
+437,Sending You A Little Christmas,Jim Brickman With Kristy Starling,1,2003-12-06,2004-01-10,122,6
+438,Waiting For You,Seal,20,2003-09-20,2004-02-14,122,20
+439,Savin' Me,Nickelback,29,2006-05-20,2006-08-12,122,13
+440,Walk Tall,John Mellencamp,25,2004-10-23,2005-02-12,121,15
+441,At Last,Celine Dion,16,2002-12-28,2003-03-15,120,12
+442,Whenever You're Ready,James Taylor,21,2002-10-19,2003-02-08,120,17
+443,Angel,The Jones Gang,21,2005-10-15,2006-01-28,118,13
+444,You Touch My Heart,Phil Collins,25,2005-06-25,2005-08-27,117,10
+445,'Til I See You Again,Jim Brickman Featuring Mark Schultz,21,2004-05-29,2004-09-11,116,16
+446,Santa Claus Is Coming To Town,Wynonna,3,2006-12-09,2007-01-13,115,6
+447,So Not Over You,Simply Red,22,2007-02-17,2007-06-16,115,18
+448,Coming Home For Christmas,Jim Brickman With Richie McDonald,4,2007-12-08,2008-01-12,114,6
+449,"Bewitched, Bothered & Bewildered",Rod Stewart & Cher,17,2003-11-08,2004-02-28,112,16
+450,Nothing Left To Lose,Mat Kearney,21,2007-01-13,2007-06-02,112,21
+451,When I Fall In Love,Michael Bolton,17,2003-09-27,2004-01-31,111,14
+452,There She Goes,Sixpence None The Richer,19,2000-01-01,2000-04-01,111,14
+453,The Way I Am,Ingrid Michaelson,20,2008-02-09,2008-05-31,111,17
+454,Enemy Within,Michael McDonald,18,2008-08-09,2008-11-01,110,13
+455,Santa Claus Is Coming To Town,Natalie Grant,9,2005-12-10,2006-01-07,108,5
+456,Into The Night,Santana Featuring Chad Kroeger,20,2007-11-10,2008-04-12,108,18
+457,Heaven,DJ Sammy & Yanou Featuring Do,21,2002-10-26,2003-03-15,108,17
+458,Bridge Over Troubled Water,Michael W. Smith,28,2005-04-16,2005-07-02,106,12
+459,Hideaway (When It Snows),Jim Brickman Featuring Geoff Byrd,3,2006-11-18,2007-01-20,105,10
+460,Lips Of An Angel,Hinder,18,2006-11-25,2007-03-24,105,14
+461,Just Feel Better,Santana Featuring Steven Tyler,28,2006-02-11,2006-05-27,105,16
+462,Pieces Of Me,Ashlee Simpson,30,2004-10-09,2005-01-29,105,14
+463,Brave,Idina Menzel,19,2008-02-23,2008-05-10,104,12
+464,The 12 Days Of Christmas,Straight No Chaser,5,2008-12-13,2009-01-10,102,5
+465,Joy To The World (A Christmas Prayer),Nicholas Jonas,14,2004-12-11,2005-01-08,102,5
+466,Cab Driver,Daryl Hall,21,2003-08-02,2003-10-25,102,13
+467,Man! I Feel Like A Woman!,Shania Twain,17,2000-01-01,2000-03-25,101,13
+468,I Wish You,Gloria Estefan,18,2004-04-24,2004-07-24,101,13
+469,Heaven Knows,Taylor Hicks,19,2007-06-30,2007-09-22,101,13
+470,Sorcerer,Stevie Nicks,21,2001-10-27,2002-01-26,101,14
+471,Home,Simply Red,24,2004-11-06,2005-02-12,101,10
+472,The Secret of Movin' On (Travelin' Light),David Pack,25,2005-08-20,2005-10-08,101,8
+473,Winter Wonderland,Clay Aiken,13,2004-12-11,2005-01-08,100,5
+474,I Need To Know,Marc Anthony,21,2000-01-01,2000-03-25,99,13
+475,Happy Xmas (War Is Over),Sarah McLachlan,5,2006-12-09,2007-01-06,98,5
+476,Battlefield,Jordin Sparks,16,2009-09-12,2009-12-12,98,11
+477,Let It Snow Let It Snow Let It Snow,Jessica Simpson,20,2004-12-11,2005-01-08,98,5
+478,Getaway Car,Daryl Hall John Oates,21,2003-11-01,2004-03-06,98,15
+479,Father And Daughter,Paul Simon,20,2002-11-30,2003-03-15,97,14
+480,Spanish Guitar,Toni Braxton,20,2000-12-02,2001-03-10,97,14
+481,Older Than My Years,Cherie,21,2004-08-21,2004-10-30,97,11
+482,Pure Gold,"Earth, Wind & Fire",23,2005-08-06,2005-10-15,97,11
+483,Winter Wonderland,Wynonna,8,2007-12-08,2008-01-05,96,5
+484,We Weren't Born To Follow,Bon Jovi,16,2009-11-07,2009-12-26,96,8
+485,No Boundaries,Kris Allen,19,2009-06-06,2009-08-29,96,13
+486,Wake Up Call,Maroon 5,19,2007-12-08,2008-05-03,96,18
+487,I Heard It Through The Grapevine,Michael McDonald,20,2003-06-21,2004-02-07,96,14
+488,You Can't Walk Away From Love,Gloria Estefan,21,2001-02-10,2001-05-05,96,13
+489,When She Loved Me,John Tesh Featuring Richard Page,21,2000-04-01,2000-07-08,96,15
+490,One More Time,Kenny G Featuring Chante Moore,19,2002-08-24,2002-11-23,95,13
+491,Desert Rose,Sting Featuring Cheb Mami,22,2000-08-26,2000-12-16,95,17
+492,Heart On My Sleeve,Michael Johns,22,2009-05-23,2009-10-03,95,20
+493,Suddenly Beautiful,Katrina Carlson,30,2005-06-11,2005-09-03,95,13
+494,Freedom,Paul McCartney,20,2001-11-24,2002-02-02,93,11
+495,I Wanna Know,Joe,21,2000-07-29,2000-11-04,93,15
+496,Jingle Bells,Diana Krall Featuring The Clayton/Hamilton Jazz Orchestra,5,2005-12-24,2006-01-07,92,3
+497,Ordinary Miracle,Sarah McLachlan,18,2007-02-10,2007-04-14,91,10
+498,It's My Life,No Doubt,20,2004-02-14,2004-06-05,91,14
+499,Private Emotion,Ricky Martin Featuring Meja,21,2000-02-26,2000-05-27,91,14
+500,No One Is To Blame,Katrina Carlson With Howard Jones,20,2007-08-04,2007-11-03,90,14
+501,The Christmas Song,Michael Buble,6,2003-12-13,2004-01-10,89,5
+502,Sober,P!nk,22,2009-05-02,2009-08-01,89,14
+503,We Wish You A Merry Christmas,Kenny G,15,2005-12-10,2006-01-07,88,5
+504,I Learned From The Best,Whitney Houston,20,2000-01-08,2000-03-25,88,12
+505,Need To Be Next To You,Leigh Nash,21,2000-11-04,2001-02-03,88,14
+506,I Look To You,Whitney Houston,22,2009-08-22,2009-11-21,88,14
+507,Didn't We Love,Tamara Walker,21,2001-04-21,2001-08-18,86,18
+508,It Wouldn't Be Christmas (Without You),John Tesh,7,2002-12-14,2003-01-11,85,5
+509,Perfect World,Peter Cetera,21,2001-04-07,2001-06-16,85,11
+510,Still,Brian McKnight,22,2002-02-02,2002-04-20,85,12
+511,It's The Most Wonderful Time Of The Year,"Harry Connick, Jr.",9,2008-12-13,2009-01-10,84,5
+512,The First Noel,Clay Aiken,9,2003-12-13,2004-01-10,84,5
+513,Fallin',Alicia Keys,24,2001-11-17,2002-06-08,84,26
+514,Fine Line,Paul McCartney,31,2005-08-27,2006-01-14,84,11
+515,Everything Is Different Now,Don Henley,21,2000-12-30,2001-03-31,83,14
+516,Swear It Again,Westlife,22,2000-05-20,2000-08-05,83,12
+517,Stickwitu,The Pussycat Dolls,29,2006-04-08,2006-06-03,83,9
+518,Have Yourself A Merry Little Christmas,James Taylor,4,2001-12-15,2002-01-12,81,5
+519,Smile,Uncle Kracker,20,2009-10-17,2009-12-26,81,11
+520,Emotion,Destiny's Child,23,2001-11-10,2002-02-09,81,14
+521,Friend,Christine McVie,29,2004-10-09,2005-01-29,81,10
+522,Mistletoe,Colbie Caillat,7,2007-12-15,2008-01-12,80,5
+523,If You Believe,Sasha Alexander,23,2000-06-03,2000-09-02,80,14
+524,You Are Christmas,Katrina Carlson,14,2005-12-17,2006-01-07,79,4
+525,Then,Brad Paisley,19,2009-08-15,2009-12-05,79,16
+526,Away From The Sun,3 Doors Down,29,2004-10-09,2005-03-19,79,14
+527,Crawling Back To You,Backstreet Boys,30,2006-01-14,2006-04-01,79,12
+528,Go Now,Simply Red,21,2009-02-14,2009-04-25,78,11
+529,I Believe I Can Fly,Kenny G Featuring Yolanda Adams,28,2005-06-25,2005-08-20,78,9
+530,Merry Christmas Darling,Vanessa Williams,18,2004-12-11,2005-01-08,77,5
+531,This Is It,Michael Jackson Featuring The Jacksons,18,2009-10-31,2009-12-12,77,7
+532,Your Loving Flame,Paul McCartney,19,2002-04-20,2002-06-15,77,9
+533,In Some Small Way,Celine Dion,28,2005-03-26,2005-05-14,77,8
+534,I Will Carry You,Clay Aiken,25,2004-09-11,2004-11-13,76,10
+535,Broken Wings,Rick Springfield Featuring Richard Page,29,2005-05-07,2005-07-09,76,10
+536,Over And Over,Nelly Featuring Tim McGraw,34,2005-01-29,2005-05-14,76,16
+537,Let Me Down Easy,Chris Isaak,18,2002-03-16,2002-05-11,75,9
+538,She Says,Howie Day,31,2006-01-28,2006-05-20,75,16
+539,When The Heartache Is Over,Tina Turner,23,2000-01-22,2000-04-08,74,12
+540,Find Your Own Way Home,REO Speedwagon,23,2008-04-12,2008-07-26,74,16
+541,Hark! The Herald Angels Sing,Carrie Underwood,14,2008-12-13,2009-01-10,73,5
+542,Just Stand Up!,Artists Stand Up To Cancer,17,2008-09-13,2008-11-01,73,8
+543,Friends Never Say Goodbye,Elton John,21,2000-09-09,2000-11-11,72,10
+544,With This Ring,Kenny Loggins,22,2003-08-16,2003-11-29,72,16
+545,The Christmas Shoes,NewSong,1,2000-12-23,2001-01-13,71,4
+546,Auld Lang Syne,Kenny G,3,2000-01-01,2000-01-15,71,3
+547,Time After Time,Rod Stewart,21,2004-03-13,2004-05-08,71,9
+548,Diamonds,Los Lonely Boys,28,2006-06-03,2006-08-26,71,8
+549,White Is In The Winter Night,Enya,8,2008-12-13,2009-01-10,70,5
+550,I Miss Us,Kenny Loggins,18,2004-02-28,2004-05-22,70,11
+551,Silver Lining,Bonnie Raitt,21,2002-08-10,2002-10-19,70,11
+552,Jump,Madonna,21,2006-10-07,2007-02-03,70,13
+553,Santa Claus Is Coming To Town,Chris Isaak Featuring Stevie Nicks,25,2004-12-11,2005-01-08,70,5
+554,Delirious Love,Neil Diamond Featuring Brian Wilson,27,2006-01-28,2006-03-11,70,7
+555,Simple Things,Amy Grant,23,2003-08-09,2003-10-11,69,10
+556,All Because Of You,Chris Emerson,23,2002-10-05,2003-02-01,69,14
+557,I Believe In You (Je Crois En Toi),Il Divo & Celine Dion,31,2006-02-11,2006-04-15,69,10
+558,Biggest Part Of Me,Ambrosia,31,2005-04-30,2005-07-23,69,13
+559,Say Hey (I Love You),Michael Franti & Spearhead,18,2009-10-24,2009-12-26,68,10
+560,Too Little Too Late,JoJo,21,2007-01-20,2007-04-07,68,12
+561,All The Way,Journey,22,2001-04-07,2001-06-30,68,13
+562,Run To Me,Oscar De La Hoya,23,2000-10-21,2001-01-20,67,13
+563,Just In Time,Tony Bennett Duet With Michael Buble,22,2006-09-30,2007-01-27,66,13
+564,Chasing Pavements,Adele,23,2009-01-17,2009-04-11,66,13
+565,This Never Happened Before,Paul McCartney,27,2006-03-04,2006-04-15,66,7
+566,Beautiful As U,All-4-One,21,2002-04-27,2002-06-29,65,10
+567,Say Goodbye,Jordan Knight Duet With Deborah Gibson,24,2006-08-05,2006-12-02,65,16
+568,Christmas Is Just Around The Corner,Barry Manilow,16,2008-12-06,2009-01-10,64,6
+569,Lemonade,Chris Rice,22,2007-06-23,2007-09-01,64,11
+570,Santa Claus Is Coming To Town,James Taylor,7,2005-01-01,2005-01-08,63,2
+571,"Baby, It's Cold Outside",Dean Martin & Martina McBride,7,2006-12-16,2007-01-13,63,5
+572,Winter Wonderland,James Taylor,8,2005-01-01,2005-01-08,63,2
+573,Have Yourself A Merry Little Christmas,Barry Manilow,11,2007-12-15,2008-01-05,63,4
+574,I Gotta Feeling,The Black Eyed Peas,19,2009-10-17,2009-12-26,63,11
+575,When It Comes To Love,Foreigner,20,2009-10-17,2009-12-26,63,10
+576,American Pie,Madonna,21,2000-02-26,2000-04-15,62,8
+577,He's My Son,Mark Schultz,22,2000-06-24,2000-09-09,62,12
+578,Breathe,Melissa Etheridge,22,2004-02-28,2004-05-15,62,12
+579,Let Her Go And Start Over,Huey Lewis & The News,23,2001-08-18,2001-10-20,62,10
+580,I've Got You,Marc Anthony,23,2002-07-06,2002-09-28,62,13
+581,What's Right Is Right,Taylor Hicks,24,2009-02-21,2009-05-09,62,12
+582,Ordinary People,John Legend,32,2006-03-11,2006-05-13,62,10
+583,I'll Be Home For Christmas (Live),Josh Groban,4,2006-12-23,2007-01-06,61,3
+584,River,Sarah McLachlan,8,2006-12-09,2007-01-13,61,6
+585,Ordinary,Wayne Brady,22,2008-10-25,2009-02-14,61,14
+586,Hips Don't Lie,Shakira Featuring Wyclef Jean,24,2006-10-07,2007-05-12,61,20
+587,Cherry Cherry Christmas,Neil Diamond,8,2009-12-05,2009-12-26,60,4
+588,Therapy,India.Arie Featuring Gramps Morgan,22,2009-05-02,2009-07-04,60,10
+589,Wall In Your Heart,Shelby Lynne,22,2001-11-10,2002-01-26,60,12
+590,One,Joe Cocker,31,2005-02-26,2005-04-23,60,9
+591,O Holy Night,LeAnn Rimes,14,2003-12-13,2004-01-10,58,5
+592,Silver Bells,Clay Aiken & Kimberley Locke,16,2003-12-13,2004-01-10,58,5
+593,Every Day (When Will You Be Mine),Hilary McRae,22,2008-07-19,2008-09-27,58,11
+594,If Only,Tamara Walker,23,2002-11-30,2003-03-01,58,10
+595,Wrapped,Gloria Estefan,23,2003-08-16,2003-10-25,58,11
+596,Don't Wanna Try,Frankie J,23,2003-06-14,2003-08-23,58,11
+597,Not Ready To Make Nice,Dixie Chicks,32,2006-04-08,2006-07-08,58,12
+598,I'll Be Home For Christmas,Brian McKnight,14,2008-12-13,2009-01-03,57,4
+599,My Grown Up Christmas List,Kelly Clarkson,17,2003-12-13,2004-01-10,57,5
+600,Walking In My Blue Jeans,Sophie B. Hawkins,23,2001-05-05,2001-08-11,57,14
+601,Who I Am,Jessica Andrews,24,2001-08-11,2001-11-03,57,13
+602,Santa Claus Is Coming To Town,Steve Tyrell,11,2002-12-21,2003-01-11,56,4
+603,Best Of Me,Chrisette Michele,21,2007-07-21,2007-09-29,56,11
+604,This Could Be Heaven,Seal,23,2001-01-27,2001-04-07,56,11
+605,Have Yourself A Merry Little Christmas,Sarah McLachlan,6,2006-12-09,2007-01-06,55,5
+606,Still,Cnote,23,2008-08-30,2008-11-08,55,11
+607,Til The End Of Forever,Michael Bolton,32,2005-09-24,2006-01-21,55,12
+608,White Christmas,Dave Koz & Kelly Sweet,14,2007-12-15,2008-01-05,54,4
+609,Inconsolable,Backstreet Boys,21,2007-09-29,2008-01-19,54,11
+610,The Look Of Love,Diana Krall,22,2001-12-08,2002-03-09,54,10
+611,Cinderella,Steven Curtis Chapman,23,2008-03-15,2008-05-17,54,10
+612,Lay Me Down,Jade,32,2006-04-22,2006-07-01,54,11
+613,Someone Is Missing At Christmas,Anne Cochran,11,2005-12-31,2006-01-07,53,2
+614,Let It All Come Down,Burke Roney,22,2003-11-29,2004-01-31,53,9
+615,Whole New You,Shawn Colvin,24,2001-03-24,2001-06-09,53,12
+616,This Is Where I Came In,Bee Gees,23,2001-04-07,2001-06-09,52,10
+617,I Don't Want To Hear Anymore,Eagles,23,2009-08-29,2009-11-07,52,11
+618,From A Distance (Christmas Version),Bette Midler,13,2006-12-16,2007-01-06,51,4
+619,How Can You Mend A Broken Heart,Michael Buble,22,2003-09-20,2003-11-15,51,9
+620,Not My Problem,Dana Parish,23,2008-01-26,2008-04-05,51,11
+621,When I Look To The Sky,Train,24,2004-03-06,2004-05-29,51,12
+622,Bye Bye Bye,'N Sync,25,2000-04-22,2000-07-22,51,14
+623,Livin' on the Run,Scott Grimes,34,2005-08-20,2005-10-22,51,10
+624,September Grass,James Taylor,25,2003-03-15,2003-05-24,50,11
+625,God Bless The USA,Lee Greenwood,12,2001-09-29,2001-11-24,49,8
+626,Chasing Pirates,Norah Jones,18,2009-11-21,2009-12-26,49,6
+627,Christmas In New York,The Pointer Sisters,21,2005-12-17,2006-01-07,49,4
+628,I've Got My Love To Keep Me Warm,Rod Stewart,22,2005-12-17,2006-01-07,49,4
+629,Christmas Is,Jim Brickman Featuring Mark Masri,18,2008-12-13,2009-01-10,48,5
+630,This Is Your Gift,John Tesh,19,2002-12-14,2003-01-11,48,5
+631,Take My Breath Away,Jessica Simpson,23,2004-04-24,2004-06-19,48,9
+632,Turn The Radio Up,Barry Manilow,25,2001-12-22,2002-03-23,48,13
+633,Hark The Hearld Angels Sing/O' Come All Ye Faithful,Clay Aiken,27,2004-12-18,2005-01-08,48,4
+634,White Christmas,Bette Midler,15,2003-12-20,2004-01-10,47,4
+635,I Know You By Heart,Katrina Carlson With Benny Mardones,25,2003-08-02,2003-10-25,47,12
+636,Where Are You Christmas?,Faith Hill,10,2000-12-16,2001-01-13,45,5
+637,Stop,Jon Secada,23,2000-07-15,2000-09-09,45,9
+638,Almost Lover,A Fine Frenzy,23,2007-10-27,2008-01-26,45,9
+639,Sway,Michael Buble,24,2004-02-28,2004-05-01,45,10
+640,The Real Me,Natalie Grant,30,2006-07-08,2006-08-12,45,6
+641,No Sign Of It,Natalie Grant,25,2003-03-22,2003-06-21,44,14
+642,For You I Will (Confidence),Teddy Geiger,29,2006-07-01,2006-08-12,44,7
+643,Landing In London (All I Think About Is You),3 Doors Down Featuring Bob Seger,32,2006-01-14,2006-02-25,44,7
+644,We Need A Little Christmas,Kimberley Locke,19,2008-12-20,2009-01-10,43,4
+645,Your Love,Jim Brickman Featuring Michelle Wright,19,2000-01-01,2000-01-29,43,5
+646,Dance With Me,Michael Bolton,21,2002-09-14,2002-11-02,43,8
+647,Where You Are,Jessica Simpson Featuring Nick Lachey,23,2000-04-01,2000-05-13,43,7
+648,The Kiss,Karmina,24,2008-07-26,2008-10-11,43,12
+649,Love By Grace,Lara Fabian,25,2000-12-09,2001-03-03,43,13
+650,Poetry Man,Queen Latifah,23,2008-03-08,2008-04-26,42,8
+651,Days In Avalon,Richard Marx,25,2000-11-11,2001-02-03,42,12
+652,My Funny Friend And Me,Sting,24,2000-12-16,2001-02-10,41,9
+653,Whisper That Way,Jeff Timmons,23,2004-09-11,2004-10-23,40,7
+654,Stepping Stone,Duffy,25,2009-02-07,2009-04-11,40,10
+655,I Needed To Fall,REO Speedwagon,25,2007-05-19,2007-09-01,40,14
+656,Christmas Day,Michael W. Smith Featuring Mandisa,18,2007-12-15,2008-01-05,39,4
+657,Silent Night,Susan Boyle,10,2009-12-12,2009-12-26,38,3
+658,The Rising,Bruce Springsteen,26,2002-08-10,2002-10-19,38,11
+659,More Than Love,Los Lonely Boys,31,2005-01-15,2005-04-09,38,8
+660,Nutrocker,Trans-Siberian Orchestra,14,2009-12-12,2009-12-26,37,3
+661,All The Love In The World,The Corrs,24,2001-08-11,2001-09-29,37,8
+662,Get It Together,Seal,29,2004-09-11,2004-10-30,37,8
+663,I Wanna Love You Forever,Jessica Simpson,25,2000-01-01,2000-02-19,36,8
+664,Escape,Enrique Iglesias,25,2002-05-18,2002-08-03,36,12
+665,Hurricane,Eric Benet,33,2005-08-06,2005-09-10,36,6
+666,I Don't Wanna Sing That Song,Kelly King,24,2007-09-29,2008-02-16,35,10
+667,Keep Holding On,Avril Lavigne,27,2007-01-27,2007-07-07,35,13
+668,You've Got A Way,Shania Twain,20,2000-01-15,2000-02-05,34,4
+669,Innocence,Hootie & The Blowfish,25,2003-03-08,2003-05-03,34,9
+670,Bailamos,Enrique Iglesias,26,2000-01-15,2000-03-04,34,8
+671,The Gift,Aselin Debison,13,2002-12-21,2003-01-04,33,3
+672,River,Barry Manilow,17,2002-12-14,2003-01-11,33,5
+673,Right To Dream,Mariah Carey,24,2008-11-29,2009-02-14,33,7
+674,You,Jim Brickman & Tara MacLean,32,2004-12-11,2005-01-08,33,4
+675,Stay With You,Goo Goo Dolls,32,2006-06-24,2006-07-29,33,6
+676,Little Drummer Boy,Josh Groban Featuring Andy McKee,18,2007-12-22,2008-01-05,32,3
+677,Blue Eyes Blue,Eric Clapton,22,2000-01-01,2000-02-12,32,7
+678,Silent Night,Peter Cetera,24,2005-01-01,2005-01-08,32,2
+679,The Color Of Love,Boyz II Men,24,2002-05-18,2002-06-22,32,6
+680,I Just Love You,Five For Fighting,24,2007-11-10,2008-02-09,31,8
+681,Peaceful World,John Mellencamp Featuring India.Arie,27,2001-12-15,2002-03-23,31,12
+682,Trying To Love You,Trisha Yearwood,28,2006-03-25,2006-05-06,31,7
+683,A Joyful Noise,Jo Dee Messina,16,2002-12-28,2003-01-11,30,3
+684,Deck The Halls/Jingle Bells,Michael McDonald,19,2005-12-31,2006-01-07,30,2
+685,I'm Like A Bird,Nelly Furtado,26,2001-06-16,2001-09-01,30,10
+686,Hung Up,Madonna,29,2006-05-06,2006-05-27,30,4
+687,All I Want For Christmas Is You,Mariah Carey,10,2000-01-01,2000-01-08,29,2
+688,The Heart Of Every Girl,Elton John,24,2004-01-17,2004-02-21,29,6
+689,Know You By Heart,Dave Koz,26,2000-06-03,2000-08-05,29,9
+690,I Want It All,Benny Mardones,25,2002-11-16,2003-02-01,28,7
+691,This Is Your Time,Michael W. Smith,25,2000-04-15,2000-05-27,28,7
+692,Wizards In Winter,Trans-Siberian Orchestra,18,2005-12-31,2006-01-07,27,2
+693,Beautiful,Taylor Dayne,23,2008-02-23,2008-04-05,27,7
+694,Goodbye Girl,Hootie & The Blowfish,24,2004-04-03,2004-05-15,27,7
+695,Changes,Lareau,25,2007-07-07,2007-09-08,27,9
+696,Sorry,Buckcherry,26,2008-03-29,2008-06-14,27,10
+697,Fly,John Waite,27,2001-12-01,2002-01-26,27,9
+698,I Think I'm In Love With You,Jessica Simpson,26,2000-08-05,2000-09-23,26,8
+699,The First Noel,Josh Groban Duet With Faith Hill,20,2007-12-22,2008-01-05,25,3
+700,Babylon,David Gray,26,2001-03-03,2001-04-07,25,6
+701,Waking Up In Vegas,Katy Perry,26,2009-08-29,2009-11-14,25,9
+702,Free Loop (One Night Stand),Daniel Powter,29,2006-07-29,2006-10-07,25,5
+703,One Wish (For Christmas),Whitney Houston,20,2003-12-27,2004-01-10,24,3
+704,This Christmas,Elliott Yamin,21,2007-12-15,2008-01-05,24,4
+705,Angel Eyes,Tamara Walker,24,2002-07-13,2002-08-31,24,8
+706,Once In A Lifetime,Keith Urban,26,2007-04-07,2007-05-26,24,8
+707,Thinking Of You,Katy Perry,26,2009-04-18,2009-06-13,24,9
+708,What It Feels Like For A Girl,Madonna,27,2001-06-16,2001-07-28,24,7
+709,Love Is A Many Splendored Thing,Barry Manilow,32,2006-04-29,2006-05-13,24,3
+710,My Favorite Things,Kenny G,22,2005-12-31,2006-01-07,23,2
+711,Somewhere Over The Rainbow,"Israel ""IZ"" Kamakawiwo'Ole",22,2004-03-20,2004-04-17,23,4
+712,When God Made You,NewSong Duet With Natalie Grant,33,2004-11-13,2005-01-22,23,5
+713,Light In Your Eyes,Sheryl Crow,36,2004-10-09,2005-01-22,23,6
+714,Have Yourself A Merry Little Christmas,Colbie Caillat,17,2009-12-19,2009-12-26,22,2
+715,The Christmas Can-Can,Straight No Chaser,21,2009-12-12,2009-12-26,22,3
+716,The Tracks Of My Tears,Boyz II Men,23,2007-12-01,2008-02-02,22,5
+717,Love Grows,Freedy Johnston,25,2001-08-11,2001-09-08,22,5
+718,Sweet Dreams,Beyonce,25,2009-11-21,2009-12-26,22,6
+719,Everything I Own,Greg London,26,2009-03-21,2009-05-02,22,7
+720,Hold Fast,MercyMe,27,2007-04-07,2007-05-26,22,8
+721,Someone Said Goodbye,Enya,29,2006-07-29,2006-09-30,22,7
+722,I've Got A Life (It's The Only Thing That's Mine),Eurythmics,31,2006-01-14,2006-01-28,22,3
+723,Come Be With Me,Amy Grant,32,2004-11-27,2005-01-29,22,5
+724,This Gift,98 Degrees,14,2000-01-01,2000-01-08,21,2
+725,Candy Cane Christmas,Darius Rucker,16,2009-12-19,2009-12-26,21,2
+726,Fireflies,Owl City,22,2009-12-12,2009-12-26,21,3
+727,Message To Myself,Melissa Etheridge,25,2007-08-25,2007-09-22,21,5
+728,Solitaire,Clay Aiken,27,2004-05-22,2004-07-03,21,7
+729,The Road,TrueHeart,27,2007-08-11,2007-09-29,21,8
+730,What's In Your World,Daryl Hall,27,2004-06-12,2004-07-31,21,8
+731,Take Christmas Back,Daryl Hall John Oates,22,2007-12-22,2008-01-05,20,3
+732,Blue Christmas,Elvis Presley With Martina McBride,22,2008-12-27,2009-01-10,20,3
+733,4 In The Morning,Gwen Stefani,25,2007-09-15,2007-11-10,20,6
+734,The Night Inside Me,Jackson Browne,25,2002-10-12,2002-11-16,20,6
+735,My Sweet Love,John Mellencamp,25,2008-08-16,2008-09-27,20,7
+736,In A Little While,Uncle Kracker,26,2003-01-18,2003-03-22,20,8
+737,Flying Without Wings,Ruben Studdard,27,2003-06-21,2003-08-09,20,8
+738,Crazy For This Girl,Evan And Jaron,27,2001-01-20,2001-04-14,20,10
+739,Just Want You To Know,Backstreet Boys,35,2006-01-14,2006-03-04,20,7
+740,Feliz Navidad,Jose Feliciano,12,2000-01-08,2000-01-08,19,1
+741,From A Lover To A Friend,Paul McCartney,24,2001-10-27,2001-11-17,19,4
+742,Just To Be Loved,Al Jarreau,26,2000-04-01,2000-05-06,19,6
+743,On My Way Here,Clay Aiken,26,2008-06-21,2008-08-02,19,7
+744,Sunrise,Norah Jones,26,2004-03-13,2004-06-12,19,9
+745,Hearts Fall,Edwin McCain,27,2001-06-23,2001-08-04,19,7
+746,To Remember,Josh Kelley,27,2008-09-27,2009-01-24,19,9
+747,In The Deep,Bird York,35,2006-04-08,2006-04-29,19,4
+748,Gonna Be Some Changes Made,Bruce Hornsby,35,2004-10-09,2004-11-06,19,5
+749,A Mother's Day,Jim Brickman,18,2002-05-18,2002-05-25,18,2
+750,Rockin' Around The Christmas Tree,MercyMe,25,2005-12-31,2006-01-07,18,2
+751,Be With You,Enrique Iglesias,27,2000-06-17,2000-09-02,18,8
+752,I Need An Angel,Ruben Studdard,32,2005-01-15,2005-01-29,18,3
+753,Just The Girl,The Click Five,37,2006-01-14,2006-04-22,18,7
+754,Out Of My Heart (Into Your Head),BBMak,25,2002-10-05,2002-10-26,17,4
+755,Never Say Never,The Fray,26,2009-10-31,2009-11-28,17,5
+756,You Are The Best Part Of Me,Neil Diamond,28,2001-08-25,2001-10-13,17,8
+757,Just Dance,Lady Gaga Featuring Colby O'Donis,28,2009-06-06,2009-08-22,17,9
+758,Proud,Heather Small,34,2006-06-17,2006-07-01,17,3
+759,Have Yourself A Merry Little Christmas,David Archuleta,22,2009-12-19,2009-12-26,16,2
+760,The Christmas Song (Chestnuts Roasting On An Open Fire),Sheryl Crow,24,2008-12-27,2009-01-10,16,3
+761,Gabriel,Suzy K,25,2004-02-21,2004-03-06,16,3
+762,All In The Way,"Earth, Wind & Fire",25,2003-07-26,2003-08-09,16,3
+763,Shake My Soul,Beth Nielsen Chapman,26,2000-06-24,2000-07-15,16,4
+764,When It's Over,Sugar Ray,28,2001-09-29,2001-12-08,16,8
+765,Merry Christmas Darling,Cherie,33,2005-01-01,2005-01-08,16,2
+766,"Mary, Did You Know",Clay Aiken,35,2004-12-25,2005-01-08,16,3
+767,Let Me Go,3 Doors Down,37,2005-08-20,2006-01-21,16,6
+768,How Far We've Come,matchbox twenty,22,2007-11-24,2008-03-15,15,4
+769,Silver Bells,Plumb,24,2008-12-20,2009-01-03,15,3
+770,Mr. Too Damn Good,Gerald Levert,25,2000-06-03,2000-06-24,15,4
+771,They Can't Take That Away From Me,Rod Stewart,27,2003-05-10,2003-06-14,15,6
+772,Have Yourself A Merry Little Christmas,Clay Aiken,32,2005-01-01,2005-01-08,15,2
+773,Dirty Laundry,Lisa Marie Presley,36,2005-05-14,2005-06-18,15,6
+774,Believe,Cher,17,2000-01-01,2000-01-01,14,1
+775,Silent Night,Josh Groban,19,2007-12-22,2008-01-05,14,2
+776,Home For Christmas,Daryl Hall John Oates,20,2006-12-16,2007-01-06,14,3
+777,Deck The Halls/The Twelve Days Of Christmas,Kenny G,22,2002-12-21,2003-01-04,14,2
+778,Have Yourself A Merry Little Christmas,Ruben Studdard & Tamyra Gray,25,2003-12-20,2004-01-03,14,3
+779,That's The Way I Remember It,Garth Brooks as Chris Gaines,26,2000-03-04,2000-04-01,14,5
+780,Gotta Get Back,Shelby Lynne,26,2000-09-16,2000-10-28,14,7
+781,Wish I Could Fly,Roxette,27,2000-09-16,2000-10-14,14,5
+782,Vienna,Linda Eder,27,2000-05-20,2000-06-17,14,5
+783,The Happy Elf,"Harry Connick, Jr.",35,2005-12-17,2006-01-07,14,3
+784,On The Way Down,Ryan Cabrera,35,2005-02-05,2005-02-26,14,3
+785,Count On Me,Katrina Carlson,26,2004-05-08,2004-05-29,13,4
+786,Breathe,Michelle Branch,27,2004-01-24,2004-03-06,13,6
+787,Halo,Beyonce,27,2009-06-20,2009-08-29,13,7
+788,Joy To The World,B.E. Taylor Group,28,2005-01-08,2005-01-08,13,1
+789,Again And Again,Jewel,37,2006-04-15,2006-06-17,13,5
+790,Christmas In America,Pat Benatar,22,2001-12-29,2002-01-05,12,2
+791,Something That You Said,The Bangles,26,2004-01-17,2004-01-31,12,3
+792,Don't Let Love Get Away,Marilyn Scott,27,2002-05-18,2002-06-08,12,4
+793,Time Of Our Lives,Bonnie Raitt,27,2003-03-22,2003-04-19,12,5
+794,Bigger Than My Body,John Mayer,27,2003-12-06,2004-02-21,12,6
+795,We Are Free,Jon Secada,29,2006-04-15,2006-04-15,12,1
+796,We Wish You A Merry Christmas,Brian Wilson,29,2006-01-07,2006-01-07,12,1
+797,Coming Home For Christmas,Kristy Starling,32,2005-12-31,2006-01-07,12,2
+798,No More Tears,Dian Diaz,35,2006-07-22,2006-08-05,12,3
+799,(God Must Have Spent) A Little More Time On You,'N Sync,20,2000-01-01,2000-01-01,11,1
+800,Stuck Inside A Cloud,George Harrison,27,2003-02-15,2003-03-08,11,4
+801,How Do I Love Her,Steven Curtis Chapman,27,2003-08-23,2003-09-20,11,5
+802,Trains And Winter Rains,Enya,27,2008-11-22,2009-01-31,11,5
+803,Beautiful You,Rick Springfield,28,2004-07-24,2004-08-14,11,4
+804,Sexual Healing,Michael Bolton,28,2000-01-22,2000-02-19,11,5
+805,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,29,2008-04-05,2008-05-24,11,6
+806,My Happy Ending,Avril Lavigne,37,2005-01-15,2005-01-29,11,3
+807,I Don't Want Anything To Change,Bonnie Raitt,38,2006-02-25,2006-03-25,11,5
+808,Blue Christmas,"Harry Connick, Jr.",21,2004-01-03,2004-01-03,10,1
+809,"Let It Snow, Let It Snow, Let It Snow",Mannheim Steamroller,26,2007-12-29,2008-01-05,10,2
+810,I Heard The Bells On Christmas Day,Casting Crowns,26,2008-12-27,2009-01-03,10,2
+811,Someday,Sugar Ray,29,2000-01-15,2000-04-15,10,7
+812,Knock Down The Walls,Chubby Checker,26,2007-08-11,2007-11-03,9,4
+813,I Believe,Fantasia,27,2004-08-14,2004-09-04,9,4
+814,You'll Never Be Alone,Anastacia,28,2002-11-02,2002-11-30,9,5
+815,A Thousand Days,Clay Aiken,28,2007-02-03,2007-03-03,9,5
+816,Not Meant To Be,Theory Of A Deadman,28,2009-10-10,2009-11-28,9,5
+817,Breeze On By,Donny Osmond,37,2005-02-19,2005-03-05,9,3
+818,Had It All,Katharine McPhee,27,2009-11-28,2009-12-05,8,2
+819,Let Love In,Goo Goo Dolls,28,2007-01-20,2007-02-17,8,5
+820,Unbreak My Heart (Regresa A Mi),Il Divo,33,2005-04-23,2005-04-23,8,1
+821,Joseph's Lullaby,MercyMe,33,2006-01-07,2006-01-07,8,1
+822,I Don't Wanna Spend One More Christmas Without You,'N Sync,24,2001-01-06,2001-01-06,7,1
+823,Sometimes,Britney Spears,24,2000-01-01,2000-01-01,7,1
+824,Rudolph The Red-Nosed Reindeer,Gene Autry,24,2000-01-08,2000-01-08,7,1
+825,Little Drummer Boy,Gloria Gaynor,26,2002-12-28,2003-01-04,7,2
+826,The Christmas Waltz,"Harry Connick, Jr.",26,2004-01-03,2004-01-10,7,2
+827,That Time Of Year,Kelly King,27,2007-12-29,2008-01-05,7,2
+828,God Rest Ye Merry Gentlemen,MercyMe,34,2006-01-07,2006-01-07,7,1
+829,One,Mary J. Blige And U2,36,2006-07-15,2006-07-22,7,2
+830,Anti Hero,Rin With Lisa Loeb,36,2006-05-20,2006-06-24,7,3
+831,The Hardest Part,Coldplay,37,2006-07-15,2006-07-22,7,2
+832,O Holy Night,Clay Aiken,37,2004-12-25,2005-01-08,7,3
+833,Dare You To Move,Switchfoot,38,2005-01-15,2005-03-12,7,4
+834,Snowflakes Of Love,Toni Braxton,25,2002-01-05,2002-01-05,6,1
+835,Miss Independent,Kelly Clarkson,28,2003-08-30,2003-09-13,6,3
+836,Stay,Alison Krauss,28,2000-02-26,2000-03-25,6,4
+837,Do You Believe Me Now,Jimmy Wayne,29,2009-05-16,2009-05-30,6,3
+838,With You,Chris Brown,29,2008-07-26,2008-08-16,6,3
+839,Jingle Bell Rock,Kenny G,35,2006-01-07,2006-01-07,6,1
+840,High,James Blunt,37,2006-07-29,2006-08-12,6,2
+841,Big City Concrete Wildflowers,The Terms,38,2006-07-29,2006-08-12,6,3
+842,Ding Dong Merrily On High,Anuna,26,2008-12-20,2008-12-20,5,1
+843,Underneath It All,No Doubt,27,2003-03-01,2003-03-08,5,2
+844,Gone,'N Sync,27,2001-11-10,2001-11-17,5,2
+845,For You,Jack Russell,29,2002-10-26,2002-11-09,5,3
+846,With Arms Wide Open,Creed,29,2000-12-09,2001-03-17,5,3
+847,Someone To Call My Lover,Janet,29,2001-09-01,2001-10-06,5,4
+848,"I'm Not A Girl, Not Yet A Woman",Britney Spears,29,2002-03-02,2002-03-23,5,4
+849,Stars,Mindi Abair,29,2008-08-02,2008-08-30,5,4
+850,When You're Gone,Avril Lavigne,30,2007-09-22,2007-11-17,5,5
+851,All I Really Want For Christmas,Steven Curtis Chapman,36,2006-01-07,2006-01-07,5,1
+852,Something That Santa Claus Left Behind,Peter Cetera,37,2005-01-01,2005-01-08,5,2
+853,Best Of Friends,Livingston Taylor Featuring Carly Simon,39,2006-06-10,2006-07-22,5,3
+854,Stranger In A Strange Land,Barbra Streisand,39,2005-10-01,2005-10-22,5,3
+855,Last Christmas,Glee Cast,27,2009-12-26,2009-12-26,4,1
+856,Santa Claus Is Coming To Town,"Harry Connick, Jr.",27,2004-01-03,2004-01-03,4,1
+857,Carol Of The Bells,Celtic Woman,27,2008-01-05,2008-01-05,4,1
+858,Goodbye's (The Saddest Word),Celine Dion,27,2002-11-23,2002-11-23,4,1
+859,Rock On (2009),Michael Damian,28,2009-05-16,2009-05-23,4,2
+860,These Hard Times,matchbox twenty,28,2008-06-21,2008-06-28,4,2
+861,Without You,Clay Aiken,28,2006-10-21,2006-10-28,4,2
+862,Change My World,Lareau,28,2008-04-12,2008-04-19,4,2
+863,Lost Melody,Greg Medoro,28,2008-11-29,2009-01-17,4,2
+864,Angels We Have Heard On High,Josh Groban Duet With Brian McKnight,29,2007-12-29,2008-01-05,4,2
+865,Ordinary Man,The Doobie Brothers,29,2001-07-14,2001-07-21,4,2
+866,Feels Like,Raquel Aurilia,29,2007-10-27,2007-11-03,4,2
+867,Summer Sunshine,The Corrs,29,2004-07-31,2004-08-07,4,2
+868,I'll Try,Jonatha Brooke,29,2002-03-30,2002-04-06,4,2
+869,Let Me Be The One,Sasha Alexander,29,2001-04-14,2001-04-21,4,2
+870,Now I Know,Suzy K With Donny Osmond,30,2000-07-22,2000-08-19,4,4
+871,A Different Kind Of Love Song,Cher,30,2002-08-31,2002-09-21,4,4
+872,Somewhere Only We Know,Keane,37,2005-03-19,2005-03-19,4,1
+873,It Must Have Been The Mistletoe,Barbra Streisand,28,2002-01-05,2002-01-05,3,1
+874,It's All Right,Aaron Neville,28,2006-10-14,2006-10-14,3,1
+875,Silent Night,Sarah Brightman,28,2009-01-03,2009-01-03,3,1
+876,I'll Be There For You,Graham Nash,28,2002-11-02,2002-11-02,3,1
+877,Day Dreaming,Natalie Cole,29,2006-12-02,2007-01-20,3,2
+878,Don't Let Me Go,Lareau,29,2009-11-28,2009-12-05,3,2
+879,Mambo No. 5 (A Little Bit Of...),Lou Bega,29,2000-01-15,2000-01-22,3,2
+880,Bridge Over Troubled Water,Clay Aiken,29,2003-06-28,2003-07-19,3,2
+881,Don't Come Around Here,Rod Stewart With Helicopter Girl,30,2001-07-14,2001-08-04,3,3
+882,Stop The Cavalry,The Cory Band With The Gwalia Singers,38,2005-01-08,2005-01-08,3,1
+883,Christmas Eve,Blackmore's Night,38,2006-01-07,2006-01-07,3,1
+884,Nobody's Home,Avril Lavigne,38,2005-03-26,2005-03-26,3,1
+885,Kissing A Fool,Michael Buble,29,2003-08-09,2003-08-09,2,1
+886,For All Time,Soluna,29,2002-10-05,2002-10-05,2,1
+887,Frosty The Snowman,Johnny Mathis,29,2003-01-04,2003-01-04,2,1
+888,It's Your Love,Melinda Doolittle,29,2009-03-07,2009-03-07,2,1
+889,One Voice,Billy Gilman,29,2000-10-07,2000-10-07,2,1
+890,Up Against All Odds,Tarralyn Ramsey,29,2004-01-17,2004-01-17,2,1
+891,I Need A Silent Night,Amy Grant,29,2009-01-03,2009-01-03,2,1
+892,Sing,Annie Lennox,29,2008-01-19,2008-01-19,2,1
+893,When You Come Back To Me Again,Garth Brooks,29,2002-07-06,2002-07-06,2,1
+894,Cousin Dupree,Steely Dan,30,2000-04-29,2000-05-27,2,2
+895,Jingle Bell Rock,Rascal Flatts,30,2008-12-27,2009-01-03,2,2
+896,No Matter What,Boyzone,30,2000-01-29,2000-02-19,2,2
+897,Bounce,Art Garfunkel,30,2003-02-22,2003-03-08,2,2
+898,Wrong Impression,Natalie Imbruglia,30,2002-03-30,2002-04-20,2,2
+899,All You Wanted,Michelle Branch,30,2002-06-22,2002-06-29,2,2
+900,Because We Believe,Andrea Bocelli,39,2006-03-18,2006-03-18,2,1
+901,What Happens Tomorrow,Duran Duran,39,2005-04-09,2005-04-09,2,1
+902,Man Like Me,"Robert Downey, Jr.",39,2005-02-26,2005-02-26,2,1
+903,Come Together Now,Various Artists,39,2005-12-10,2005-12-10,2,1
+904,Dreamer,Bethany Dillon,39,2006-01-21,2006-01-21,2,1
+905,United We Stand (The Battle Cry),Stryke5,39,2005-09-24,2005-09-24,2,1
+906,American Baby,Dave Matthews Band,39,2005-07-16,2005-07-16,2,1
+907,You Just Gotta Love Christmas,Peter Cetera,39,2005-01-08,2005-01-08,2,1
+908,So What The Fuss,Stevie Wonder,40,2005-04-16,2005-04-30,2,2
+909,Can't Keep On Loving You,Elliott Yamin,30,2009-10-10,2009-10-10,1,1
+910,I Need An Angel,Daniel DeBourg,30,2002-04-27,2002-04-27,1,1
+911,Careless Whisper,Dave Koz Featuring Montell Jordan,30,2000-10-07,2000-10-07,1,1
+912,Would You Be Happier?,The Corrs,30,2002-05-18,2002-05-18,1,1
+913,Sand On My Feet,Donna Summer,30,2008-09-20,2008-09-20,1,1
+914,I Never Knew,Gloria Gaynor,30,2002-10-26,2002-10-26,1,1
+915,Pretty Amazing Grace,Neil Diamond,30,2008-06-21,2008-06-21,1,1
+916,Looking For A Place To Land,Dakota Moon,30,2002-02-16,2002-02-16,1,1
+917,Baby You Got That Something,Sam Mizell,30,2009-12-05,2009-12-05,1,1
+918,Find Your Wings,Mark Harris,30,2006-10-14,2006-10-14,1,1
+919,Instrument Of Peace,Olivia Newton-John,30,2007-01-06,2007-01-06,1,1
+920,I Need A Miracle,Benny Mardones,30,2002-09-28,2002-09-28,1,1
+921,SOS,Rihanna,40,2006-07-01,2006-07-01,1,1
+922,Shot Of Laughter,Sugar Ray,40,2005-07-16,2005-07-16,1,1
+923,Right Here,Staind,40,2006-06-10,2006-06-10,1,1
+924,Love Words,Tommy James,40,2006-07-15,2006-07-15,1,1
+925,Broken,Seether Featuring Amy Lee,40,2005-04-02,2005-04-02,1,1
+926,Just Like Heaven,Katie Melua,40,2006-08-05,2006-08-05,1,1
+927,State Of My Heart,LaToya London,40,2006-05-27,2006-05-27,1,1
+928,Make Someone Happy,Chris Botti,40,2005-03-05,2005-03-05,1,1
+929,You're My Everything,Anita Baker,40,2004-11-20,2004-11-20,1,1
+930,It's You '05,Troy Johnson,40,2005-04-09,2005-04-09,1,1

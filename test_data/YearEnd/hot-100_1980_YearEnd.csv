@@ -1,0 +1,548 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Call Me,Blondie,1,1980-02-16,1980-08-02,2997,25
+2,Another One Bites The Dust,Queen,1,1980-08-16,1980-12-27,2932,20
+3,Upside Down,Diana Ross,1,1980-07-12,1980-12-27,2918,25
+4,Another Brick In The Wall (Part II),Pink Floyd,1,1980-01-19,1980-07-05,2749,25
+5,All Out Of Love,Air Supply,2,1980-06-14,1980-12-13,2612,27
+6,Crazy Little Thing Called Love,Queen,1,1980-01-05,1980-05-17,2554,20
+7,It's Still Rock And Roll To Me,Billy Joel,1,1980-05-24,1980-10-11,2511,21
+8,Coming Up (Live At Glasgow),Paul McCartney And Wings,1,1980-04-26,1980-09-13,2491,21
+9,Woman In Love,Barbra Streisand,1,1980-09-06,1980-12-27,2421,17
+10,Magic,Olivia Newton-John,1,1980-05-24,1980-10-25,2342,23
+11,Funkytown,"Lipps, Inc.",1,1980-03-29,1980-08-30,2329,23
+12,Little Jeannie,Elton John,3,1980-05-03,1980-09-20,2246,21
+13,Ride Like The Wind,Christopher Cross,2,1980-02-16,1980-07-05,2225,21
+14,The Rose,Bette Midler,3,1980-03-22,1980-09-06,2199,25
+15,Do That To Me One More Time,Captain & Tennille,1,1980-01-05,1980-04-19,2159,16
+16,Lady,Kenny Rogers,1,1980-10-04,1980-12-27,2095,13
+17,Lost In Love,Air Supply,3,1980-02-09,1980-07-12,2073,23
+18,"Working My Way Back To You/Forgive Me, Girl",The Spinners,2,1980-01-05,1980-05-31,2044,22
+19,He's So Shy,The Pointer Sisters,3,1980-07-26,1980-12-27,1969,23
+20,Rock With You,Michael Jackson,1,1980-01-05,1980-04-12,1949,15
+21,With You I'm Born Again,Billy Preston & Syreeta,4,1980-01-05,1980-06-21,1949,25
+22,Biggest Part Of Me,Ambrosia,3,1980-04-05,1980-08-09,1859,19
+23,Sailing,Christopher Cross,1,1980-06-14,1980-11-01,1858,21
+24,Drivin' My Life Away,Eddie Rabbitt,5,1980-06-21,1980-12-06,1845,25
+25,Fame,Irene Cara,4,1980-06-14,1980-12-06,1844,26
+26,Shining Star,The Manhattans,5,1980-04-26,1980-10-11,1844,25
+27,Emotional Rescue,The Rolling Stones,3,1980-07-05,1980-11-08,1823,19
+28,Give Me The Night,George Benson,4,1980-07-05,1980-12-06,1815,23
+29,Take Your Time (Do It Right) Part 1,The S.O.S. Band,3,1980-05-31,1980-10-18,1789,21
+30,Steal Away,Robbie Dupree,6,1980-04-12,1980-09-13,1776,23
+31,Cars,Gary Numan,9,1980-02-16,1980-08-02,1768,25
+32,Cupid/I've Loved You For A Long Time,The Spinners,4,1980-05-17,1980-09-20,1766,19
+33,Sexy Eyes,Dr. Hook,5,1980-02-16,1980-07-05,1745,21
+34,Longer,Dan Fogelberg,2,1980-01-05,1980-05-10,1741,19
+35,"Yes, I'm Ready",Teri DeSario With K.C.,2,1980-01-05,1980-04-19,1699,16
+36,Never Knew Love Like This Before,Stephanie Mills,6,1980-08-09,1980-12-27,1687,21
+37,Don't Fall In Love With A Dreamer,Kenny Rogers With Kim Carnes,4,1980-03-29,1980-08-02,1660,19
+38,The Wanderer,Donna Summer,3,1980-09-20,1980-12-27,1609,15
+39,More Than I Can Say,Leo Sayer,2,1980-09-27,1980-12-27,1561,14
+40,Master Blaster (Jammin'),Stevie Wonder,5,1980-09-20,1980-12-27,1555,15
+41,Lookin' For Love,Johnny Lee,5,1980-07-12,1980-11-29,1552,21
+42,Desire,Andy Gibb,4,1980-01-26,1980-05-03,1547,15
+43,I'm Alright,Kenny Loggins,7,1980-07-12,1980-12-06,1533,22
+44,I'm Coming Out,Diana Ross,5,1980-09-06,1980-12-27,1524,17
+45,Too Hot,Kool & The Gang,5,1980-01-19,1980-05-17,1521,18
+46,Late In The Evening,Paul Simon,6,1980-08-09,1980-11-22,1497,16
+47,Let's Get Serious,Jermaine Jackson,9,1980-03-29,1980-08-30,1480,23
+48,Against The Wind,Bob Seger,5,1980-05-03,1980-08-23,1479,17
+49,Special Lady,"Ray, Goodman & Brown",5,1980-01-26,1980-05-24,1476,18
+50,On The Radio,Donna Summer,5,1980-01-12,1980-05-03,1467,17
+51,Coward Of The County,Kenny Rogers,3,1980-01-05,1980-03-22,1435,12
+52,Cruisin',Smokey Robinson,4,1980-01-05,1980-03-22,1407,12
+53,Him,Rupert Holmes,6,1980-01-19,1980-05-10,1379,17
+54,More Love,Kim Carnes,10,1980-05-31,1980-10-04,1350,19
+55,Stomp!,The Brothers Johnson,7,1980-03-15,1980-07-19,1335,19
+56,The Second Time Around,Shalamar,8,1980-01-05,1980-05-10,1331,19
+57,Brass In Pocket (I'm Special),Pretenders,14,1980-02-16,1980-07-12,1299,22
+58,Jesse,Carly Simon,11,1980-08-02,1980-12-27,1293,22
+59,Fire Lake,Bob Seger,6,1980-02-23,1980-06-07,1290,16
+60,Tired Of Toein' The Line,Rocky Burnette,8,1980-05-10,1980-09-13,1289,19
+61,Real Love,The Doobie Brothers,5,1980-09-06,1980-12-20,1288,16
+62,Let My Love Open The Door,Pete Townshend,9,1980-06-14,1980-10-18,1244,19
+63,Whip It,Devo,14,1980-08-30,1980-12-27,1236,18
+64,I Can't Tell You Why,Eagles,8,1980-02-23,1980-06-07,1234,16
+65,Dreaming,Cliff Richard,10,1980-09-13,1980-12-27,1207,16
+66,You May Be Right,Billy Joel,7,1980-03-15,1980-06-21,1199,15
+67,Into The Night,Benny Mardones,11,1980-06-14,1980-10-25,1192,20
+68,Hot Rod Hearts,Robbie Dupree,15,1980-07-19,1980-11-15,1182,18
+69,Xanadu,Olivia Newton-John And The Electric Light Orchestra,8,1980-08-09,1980-11-29,1159,17
+70,(Just Like) Starting Over,John Lennon,1,1980-11-01,1980-12-27,1158,9
+71,Escape (The Pina Colada Song),Rupert Holmes,1,1980-01-05,1980-03-08,1158,10
+72,One In A Million You,Larry Graham,9,1980-06-28,1980-11-08,1145,20
+73,How Do I Make You,Linda Ronstadt,10,1980-02-02,1980-05-17,1138,16
+74,She's Out Of My Life,Michael Jackson,10,1980-04-19,1980-08-02,1132,16
+75,Let Me Love You Tonight,Pure Prairie League,10,1980-05-10,1980-08-30,1121,17
+76,Hurt So Bad,Linda Ronstadt,8,1980-04-12,1980-07-12,1116,14
+77,Misunderstanding,Genesis,14,1980-05-24,1980-09-20,1101,18
+78,Let Me Be Your Angel,Stacy Lattisaw,21,1980-08-09,1980-12-27,1094,21
+79,Daydream Believer,Anne Murray,12,1980-01-05,1980-04-12,1093,15
+80,You've Lost That Lovin' Feeling,Daryl Hall John Oates,12,1980-09-27,1980-12-27,1080,14
+81,One Fine Day,Carole King,12,1980-05-17,1980-09-06,1080,17
+82,Someone That I Used To Love,Natalie Cole,21,1980-06-21,1980-11-08,1068,21
+83,Love On The Rocks,Neil Diamond,3,1980-11-01,1980-12-27,1057,9
+84,Look What You've Done To Me,Boz Scaggs,14,1980-08-23,1980-12-13,1050,17
+85,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,19,1980-03-29,1980-08-02,1046,19
+86,Out Here On My Own,Irene Cara,19,1980-08-16,1980-12-27,1042,20
+87,Pilot Of The Airwaves,Charlie Dore,13,1980-02-23,1980-06-14,1038,17
+88,You're The Only Woman (You & I),Ambrosia,13,1980-07-12,1980-11-08,1036,18
+89,Hit Me With Your Best Shot,Pat Benatar,9,1980-10-04,1980-12-27,1035,13
+90,An American Dream,The Dirt Band,13,1980-01-05,1980-04-12,1032,15
+91,Off The Wall,Michael Jackson,10,1980-02-16,1980-06-07,1029,17
+92,I Pledge My Love,Peaches & Herb,19,1980-01-19,1980-05-24,1001,19
+93,Romeo's Tune,Steve Forbert,11,1980-01-05,1980-04-05,985,14
+94,Stand By Me,Mickey Gilley,22,1980-05-17,1980-09-13,982,18
+95,Sara,Fleetwood Mac,7,1980-01-05,1980-03-15,979,11
+96,On The Road Again,Willie Nelson,20,1980-09-06,1980-12-27,968,17
+97,All Over The World,Electric Light Orchestra,13,1980-08-02,1980-11-15,965,16
+98,JoJo,Boz Scaggs,17,1980-06-14,1980-10-04,949,17
+99,You'll Accomp'ny Me,Bob Seger,14,1980-07-26,1980-11-08,948,16
+100,Heartbreaker,Pat Benatar,23,1980-01-05,1980-04-19,945,16
+101,Boulevard,Jackson Browne,19,1980-07-05,1980-10-18,938,16
+102,Hold On To My Love,Jimmy Ruffin,10,1980-03-01,1980-05-31,937,14
+103,Old-Fashion Love,Commodores,20,1980-06-21,1980-10-04,926,16
+104,In America,The Charlie Daniels Band,11,1980-05-31,1980-09-06,925,15
+105,Breakdown Dead Ahead,Boz Scaggs,15,1980-03-29,1980-06-28,925,14
+106,Refugee,Tom Petty And The Heartbreakers,15,1980-01-26,1980-04-26,921,14
+107,All Night Long,Joe Walsh,19,1980-05-17,1980-08-30,921,16
+108,Take A Little Rhythm,Ali Thomson,15,1980-06-14,1980-10-04,916,17
+109,Wondering Where The Lions Are,Bruce Cockburn,21,1980-03-22,1980-07-12,912,17
+110,September Morn',Neil Diamond,17,1980-01-05,1980-04-05,906,14
+111,Without Your Love,Roger Daltrey,20,1980-09-13,1980-12-27,902,16
+112,Lovely One,The Jacksons,12,1980-09-27,1980-12-27,897,14
+113,Give It All You Got,Chuck Mangione,18,1980-01-19,1980-05-03,896,16
+114,Hungry Heart,Bruce Springsteen,5,1980-11-08,1980-12-27,882,8
+115,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,21,1980-09-13,1980-12-27,879,16
+116,Three Times In Love,Tommy James,19,1980-01-26,1980-05-10,870,16
+117,This Is It,Kenny Loggins,11,1980-01-05,1980-03-22,866,12
+118,I Can't Help It,Andy Gibb & Olivia Newton-John,12,1980-03-29,1980-06-21,859,13
+119,Don't Ask Me Why,Billy Joel,19,1980-08-02,1980-11-08,855,15
+120,Never Be The Same,Christopher Cross,15,1980-10-11,1980-12-27,846,12
+121,Make A Little Magic,The Dirt Band,25,1980-06-21,1980-10-04,845,16
+122,The Long Run,Eagles,8,1980-01-05,1980-03-15,844,11
+123,Dreamer,Supertramp,15,1980-09-20,1980-12-20,844,14
+124,99,Toto,26,1980-01-05,1980-04-12,842,15
+125,And The Beat Goes On,The Whispers,19,1980-02-09,1980-05-17,839,15
+126,Send One Your Love,Stevie Wonder,4,1980-01-05,1980-03-01,838,9
+127,I'm Alive,Electric Light Orchestra,16,1980-05-24,1980-08-30,838,15
+128,Empire Strikes Back (Medley),Meco,18,1980-06-14,1980-09-13,825,14
+129,Gimme Some Lovin',Blues Brothers,18,1980-05-31,1980-08-30,823,14
+130,Don't Do Me Like That,Tom Petty And The Heartbreakers,10,1980-01-05,1980-03-15,810,11
+131,Love The World Away,Kenny Rogers,14,1980-06-21,1980-09-06,800,12
+132,No Night So Long,Dionne Warwick,23,1980-07-26,1980-11-08,798,16
+133,Why Not Me,Fred Knoblock,18,1980-06-28,1980-09-27,790,14
+134,Guilty,Barbra Streisand & Barry Gibb,7,1980-11-01,1980-12-27,785,9
+135,How Do I Survive,Amy Holland,22,1980-08-09,1980-11-22,782,16
+136,This Time,John Cougar,27,1980-09-27,1980-12-27,773,14
+137,Everybody's Got To Learn Sometime,The Korgis,18,1980-10-11,1980-12-27,757,12
+138,We Don't Talk Anymore,Cliff Richard,7,1980-01-05,1980-03-01,755,9
+139,When I Wanted You,Barry Manilow,20,1980-01-05,1980-03-29,742,13
+140,Every Woman In The World,Air Supply,6,1980-10-25,1980-12-27,739,10
+141,Train In Vain (Stand By Me),The Clash,23,1980-03-22,1980-06-21,736,14
+142,I Believe In You,Don Williams,24,1980-09-27,1980-12-27,726,14
+143,Do Right,Paul Davis,23,1980-03-08,1980-06-07,720,14
+144,Tulsa Time/Cocaine,Eric Clapton And His Band,30,1980-06-21,1980-09-20,719,14
+145,Midnight Rocks,Al Stewart,24,1980-08-30,1980-11-22,708,13
+146,Any Way You Want It,Journey,23,1980-03-01,1980-06-07,707,15
+147,You Shook Me All Night Long,AC/DC,35,1980-09-06,1980-12-20,705,16
+148,Think About Me,Fleetwood Mac,20,1980-03-08,1980-05-31,693,13
+149,Fool In The Rain,Led Zeppelin,21,1980-01-05,1980-03-15,691,11
+150,We Live For Love,Pat Benatar,27,1980-04-05,1980-07-05,691,14
+151,Heart Hotels,Dan Fogelberg,21,1980-03-22,1980-06-14,687,13
+152,Ladies Night,Kool & The Gang,8,1980-01-05,1980-03-15,683,11
+153,I Wanna Be Your Lover,Prince,11,1980-01-05,1980-03-08,673,10
+154,She's So Cold,The Rolling Stones,26,1980-09-27,1980-12-20,671,13
+155,Two Places At The Same Time,Ray Parker Jr. & Raydio,30,1980-04-19,1980-07-19,670,14
+156,"De Do Do Do, De Da Da Da",The Police,12,1980-10-25,1980-12-27,660,10
+157,Deep Inside My Heart,Randy Meisner,22,1980-10-18,1980-12-27,659,11
+158,Don't Let Go,Isaac Hayes,18,1980-01-05,1980-03-15,658,11
+159,That Girl Could Sing,Jackson Browne,22,1980-09-20,1980-12-13,648,13
+160,Wonderland,Commodores,25,1980-01-05,1980-03-22,648,12
+161,Turning Japanese,The Vapors,36,1980-09-27,1980-12-27,648,14
+162,It's My Turn,Diana Ross,15,1980-10-25,1980-12-27,646,10
+163,Who'll Be The Fool Tonight,Larsen-Feiten Band,29,1980-08-16,1980-11-15,646,14
+164,The Seduction (Love Theme),James Last Band,28,1980-03-29,1980-06-21,643,13
+165,Deja Vu,Dionne Warwick,15,1980-01-05,1980-03-15,642,11
+166,Could I Have This Dance,Anne Murray,33,1980-09-06,1980-12-06,636,14
+167,We Were Meant To Be Lovers,Photoglo,31,1980-03-29,1980-06-28,631,14
+168,The Legend Of Wooley Swamp,The Charlie Daniels Band,31,1980-08-16,1980-11-15,621,14
+169,Switchin' To Glide/This Beat Goes On,The Kings,43,1980-08-23,1980-12-27,621,19
+170,Please Don't Go,KC And The Sunshine Band,1,1980-01-05,1980-02-16,619,7
+171,"Theme From New York, New York",Frank Sinatra,32,1980-05-03,1980-07-19,619,12
+172,Gee Whiz,Bernadette Peters,31,1980-03-29,1980-06-21,609,13
+173,Walks Like A Lady,Journey,32,1980-05-24,1980-08-16,606,13
+174,I'm Almost Ready,Pure Prairie League,34,1980-08-23,1980-11-15,605,13
+175,I'm Happy That Love Has Found You,Jimmy Hall,27,1980-09-27,1980-12-27,602,14
+176,Fire In The Morning,Melissa Manchester,32,1980-02-23,1980-05-17,601,13
+177,Let Me Be The Clock,Smokey Robinson,31,1980-03-15,1980-06-14,599,14
+178,King Of The Hill,Rick Pinette & Oak,36,1980-05-10,1980-08-09,597,14
+179,Set Me Free,Utopia,27,1980-02-23,1980-05-10,588,12
+180,Come Back,The J. Geils Band,32,1980-02-02,1980-04-19,581,12
+181,You're Supposed To Keep Your Love For Me,Jermaine Jackson,34,1980-07-12,1980-10-04,581,13
+182,Celebration,Kool & The Gang,17,1980-10-25,1980-12-27,580,10
+183,Suddenly,Olivia Newton-John & Cliff Richard,23,1980-10-25,1980-12-27,576,10
+184,If You Should Sail,Nielsen/Pearson,38,1980-09-13,1980-12-13,570,14
+185,Sequel,Harry Chapin,23,1980-11-01,1980-12-27,567,9
+186,Even It Up,Heart,33,1980-02-09,1980-04-26,567,12
+187,Twilight Zone/Twilight Tone,The Manhattan Transfer,30,1980-04-19,1980-07-05,563,12
+188,How Does It Feel To Be Back,Daryl Hall John Oates,30,1980-07-19,1980-10-11,562,13
+189,A Lover's Holiday,Change,40,1980-05-17,1980-08-09,562,13
+190,Years,Wayne Newton,35,1980-02-02,1980-04-26,558,13
+191,Hey There Lonely Girl,Robert John,31,1980-07-19,1980-10-11,540,13
+192,Why Me,Styx,26,1980-01-05,1980-03-08,539,10
+193,Lady,The Whispers,28,1980-04-19,1980-06-28,539,11
+194,I Can't Let Go,Linda Ronstadt,31,1980-06-28,1980-09-13,537,12
+195,Back On My Feet Again,The Babys,33,1980-01-19,1980-04-05,536,12
+196,Third Time Lucky (First Time I Was A Fool),Foghat,23,1980-01-05,1980-02-23,523,8
+197,Touch And Go,The Cars,37,1980-09-06,1980-11-15,504,11
+198,Keep The Fire,Kenny Loggins,36,1980-02-23,1980-05-17,503,13
+199,Better Love Next Time,Dr. Hook,12,1980-01-05,1980-02-16,495,7
+200,Wait For Me,Daryl Hall John Oates,18,1980-01-05,1980-03-01,494,9
+201,I Don't Want To Walk Without You,Barry Manilow,36,1980-04-12,1980-06-21,494,11
+202,Answering Machine,Rupert Holmes,32,1980-05-03,1980-07-12,491,11
+203,Carrie,Cliff Richard,34,1980-02-23,1980-05-03,490,11
+204,(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,39,1980-08-09,1980-10-25,490,12
+205,The Tide Is High,Blondie,8,1980-11-15,1980-12-27,489,7
+206,Tell It Like It Is,Heart,10,1980-11-22,1980-12-27,489,6
+207,Love Stinks,The J. Geils Band,38,1980-04-12,1980-06-28,489,12
+208,I Thank You,ZZ Top,34,1980-01-19,1980-03-29,487,11
+209,New Romance (It's A Mystery),Spider,39,1980-04-19,1980-06-28,481,11
+210,Girls Can Get It,Dr. Hook,34,1980-11-01,1980-12-27,476,9
+211,Only A Lonely Heart Sees,Felix Cavaliere,36,1980-03-01,1980-05-10,476,11
+212,Cool Change,Little River Band,10,1980-01-05,1980-02-16,473,7
+213,Walk Away,Donna Summer,36,1980-09-13,1980-11-22,469,11
+214,When A Man Loves A Woman,Bette Midler,35,1980-01-19,1980-03-22,466,10
+215,"Let Me Go, Love",Nicolette Larson & Michael McDonald,35,1980-01-12,1980-03-22,464,11
+216,Lost Her In The Sun,John Stewart,34,1980-01-05,1980-03-01,447,9
+217,Ashes By Now,Rodney Crowell,37,1980-05-10,1980-07-19,446,11
+218,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Bonnie Pointer,40,1980-01-05,1980-03-15,446,11
+219,Kiss Me In The Rain,Barbra Streisand,37,1980-01-12,1980-03-22,444,11
+220,Do You Love What You Feel,Rufus And Chaka Khan,30,1980-01-05,1980-03-01,439,9
+221,Passion,Rod Stewart,11,1980-11-22,1980-12-27,437,6
+222,Still,Commodores,6,1980-01-05,1980-02-09,431,6
+223,Hold On,Kansas,40,1980-09-20,1980-11-29,428,11
+224,First Time Love,Livingston Taylor,38,1980-07-26,1980-09-27,427,10
+225,Live Every Minute,Ali Thomson,42,1980-09-13,1980-11-22,424,11
+226,Atomic,Blondie,39,1980-05-17,1980-07-12,422,9
+227,Starting Over Again,Dolly Parton,36,1980-03-29,1980-05-31,415,10
+228,All Night Thing,The Invisible Man's Band,45,1980-05-17,1980-07-19,413,10
+229,You Better Run,Pat Benatar,42,1980-07-26,1980-10-04,411,11
+230,Flirtin' With Disaster,Molly Hatchet,42,1980-01-05,1980-03-08,410,10
+231,I Love A Rainy Night,Eddie Rabbitt,19,1980-11-08,1980-12-27,409,8
+232,Together,Tierra,29,1980-11-08,1980-12-27,407,8
+233,Forever Mine,The O'Jays,28,1980-01-05,1980-02-16,406,7
+234,Babe,Styx,6,1980-01-05,1980-02-09,402,6
+235,Coming Down From Love,Bobby Caldwell,42,1980-04-19,1980-06-21,402,10
+236,Headed For A Fall,Firefall,35,1980-04-12,1980-06-07,401,9
+237,Sometimes A Fantasy,Billy Joel,36,1980-10-11,1980-12-06,398,9
+238,One-Trick Pony,Paul Simon,40,1980-10-25,1980-12-27,397,10
+239,Clones (We're All),Alice Cooper,40,1980-05-17,1980-07-12,394,9
+240,Play The Game,Queen,42,1980-06-28,1980-08-23,394,9
+241,Jane,Jefferson Starship,14,1980-01-05,1980-02-09,392,6
+242,I Made It Through The Rain,Barry Manilow,16,1980-11-22,1980-12-27,392,6
+243,One Step Closer,The Doobie Brothers,26,1980-11-22,1980-12-27,392,6
+244,My Heroes Have Always Been Cowboys,Willie Nelson,44,1980-02-09,1980-04-12,385,10
+245,Looks Like Love Again,Dann Rogers,41,1980-01-05,1980-02-23,384,8
+246,My Prayer,"Ray, Goodman & Brown",47,1980-08-23,1980-10-25,384,10
+247,Don't Say Goodnight (It's Time For Love) (Parts 1 & 2),The Isley Brothers,39,1980-04-19,1980-06-14,381,9
+248,Red Light,Linda Clifford,41,1980-08-09,1980-10-18,381,11
+249,Let Me Talk,"Earth, Wind & Fire",44,1980-09-20,1980-11-15,376,9
+250,Haven't You Heard,Patrice Rushen,42,1980-01-26,1980-03-22,374,9
+251,Time Is Time,Andy Gibb,21,1980-11-22,1980-12-27,370,6
+252,Everything Works If You Let It,Cheap Trick,44,1980-05-24,1980-07-26,370,10
+253,Voices,Cheap Trick,32,1980-01-05,1980-02-16,369,7
+254,Women,Foreigner,41,1980-02-16,1980-04-12,366,9
+255,You Know That I Love You,Santana,35,1980-01-05,1980-02-16,358,7
+256,It's Hard To Be Humble,Mac Davis,43,1980-03-22,1980-06-07,355,12
+257,Autograph,John Denver,52,1980-02-23,1980-04-26,354,10
+258,Rockin' Into The Night,38 Special,43,1980-02-02,1980-03-29,346,9
+259,Don't Push It Don't Force It,Leon Haywood,49,1980-04-05,1980-06-14,345,11
+260,Can't We Try,Teddy Pendergrass,52,1980-08-30,1980-11-15,345,12
+261,Baby Talks Dirty,The Knack,38,1980-02-09,1980-03-29,342,8
+262,Somethin' 'Bout You Baby I Like,Glen Campbell & Rita Coolidge,42,1980-05-17,1980-07-19,341,10
+263,Shandi,KISS,47,1980-06-21,1980-08-23,340,10
+264,Cry Like A Baby,Kim Carnes,44,1980-10-04,1980-11-22,339,8
+265,Games Without Frontiers,Peter Gabriel,48,1980-08-16,1980-10-25,335,11
+266,Under The Gun,Poco,48,1980-07-19,1980-09-20,333,10
+267,Landlord,Gladys Knight And The Pips,46,1980-06-14,1980-08-09,332,9
+268,"Girl, Don't Let It Get You Down",The O'Jays,55,1980-08-23,1980-11-01,326,11
+269,Power,The Temptations,43,1980-05-10,1980-07-05,324,9
+270,Angel Say No,Tommy Tutone,38,1980-05-24,1980-07-12,321,8
+271,Lonely Eyes,Robert John,41,1980-01-05,1980-02-16,321,7
+272,Turn And Walk Away,The Babys,42,1980-11-15,1980-12-27,321,7
+273,Rotation,Herb Alpert,30,1980-01-05,1980-02-09,319,6
+274,The Horizontal Bop,Bob Seger,42,1980-11-08,1980-12-27,318,8
+275,Lucky Me,Anne Murray,42,1980-04-05,1980-05-24,318,8
+276,Last Train To London,Electric Light Orchestra,39,1980-01-05,1980-02-16,317,7
+277,Where Does The Lovin' Go,David Gates,46,1980-02-09,1980-03-29,317,8
+278,I Wish I Was Eighteen Again,George Burns,49,1980-01-19,1980-03-22,317,10
+279,Let Me Be,Korona,43,1980-03-22,1980-05-10,316,8
+280,Us And Love (We Go Together),Kenny Nolan,44,1980-02-02,1980-03-22,315,8
+281,Hey Nineteen,Steely Dan,20,1980-11-29,1980-12-27,313,5
+282,You Are My Heaven,Roberta Flack With Donny Hathaway,47,1980-02-16,1980-04-26,313,11
+283,I Got You,Split Enz,53,1980-08-23,1980-11-01,313,11
+284,Could I Be Dreaming,The Pointer Sisters,52,1980-11-08,1980-12-27,305,8
+285,Head Games,Foreigner,14,1980-01-05,1980-02-09,304,6
+286,One More Time For Love,Billy Preston & Syreeta,52,1980-06-14,1980-08-16,302,10
+287,"Honey, Honey",David Hudson,59,1980-06-28,1980-09-06,302,11
+288,When The Feeling Comes Around,Jennifer Warnes,45,1980-04-05,1980-05-24,301,8
+289,It's For You,Player,46,1980-06-07,1980-07-26,301,8
+290,Dig The Gold,Joyce Cobb,42,1980-01-05,1980-02-09,297,6
+291,Free Me,Roger Daltrey,53,1980-07-05,1980-09-06,297,10
+292,Texas In My Rear View Mirror,Mac Davis,51,1980-10-18,1980-12-13,295,9
+293,I Don't Want To Talk About It,Rod Stewart,46,1980-01-05,1980-03-01,293,9
+294,Love That Got Away,Firefall,50,1980-06-28,1980-08-23,291,9
+295,Gotta Have More Love,Climax Blues Band,47,1980-11-15,1980-12-27,280,7
+296,Don't Misunderstand Me,Rossington Collins Band,55,1980-07-26,1980-09-20,280,9
+297,What I Like About You,The Romantics,49,1980-02-16,1980-04-05,275,8
+298,Stop This Game,Cheap Trick,48,1980-11-08,1980-12-27,272,8
+299,Bad Times,Tavares,47,1980-01-05,1980-03-08,270,10
+300,The Spirit Of Radio,Rush,51,1980-02-23,1980-04-12,268,8
+301,Fool For Your Loving,Whitesnake,53,1980-08-02,1980-09-20,268,8
+302,Beyond,Herb Alpert,50,1980-06-28,1980-08-16,267,8
+303,Heroes,Commodores,54,1980-09-20,1980-11-15,267,9
+304,The Winner Takes It All,ABBA,36,1980-11-22,1980-12-27,261,6
+305,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,60,1980-02-02,1980-03-29,261,9
+306,Years From Now,Dr. Hook,51,1980-07-05,1980-08-30,260,9
+307,Shine On,L.T.D.,46,1980-11-15,1980-12-27,259,7
+308,Somewhere In America,Survivor,70,1980-02-23,1980-05-10,257,12
+309,9 To 5,Dolly Parton,33,1980-11-29,1980-12-27,255,5
+310,First...Be A Woman,Lenore O'malley,53,1980-07-26,1980-09-13,255,8
+311,Let's Go 'round Again,Average White Band,53,1980-06-21,1980-08-09,252,8
+312,You,"Earth, Wind & Fire",48,1980-11-22,1980-12-27,250,6
+313,Who Were You Thinkin' Of,The Doolittle Band,49,1980-10-11,1980-11-22,246,7
+314,Back Together Again,Roberta Flack With Donny Hathaway,56,1980-05-17,1980-07-05,246,8
+315,Help Me!,Marcy Levy & Robin Gibb,50,1980-11-08,1980-12-27,242,8
+316,Can We Still Be Friends,Robert Palmer,52,1980-01-05,1980-02-16,242,7
+317,He Can't Love You,Michael Stanley Band,43,1980-11-22,1980-12-27,241,6
+318,That Lovin' You Feelin' Again,Roy Orbison & Emmylou Harris,55,1980-06-28,1980-08-16,241,8
+319,Outside My Window,Stevie Wonder,52,1980-03-01,1980-04-12,240,7
+320,Fool For A Pretty Face (Hurt By Love),Humble Pie,52,1980-04-26,1980-06-07,237,7
+321,Good Morning Girl/stay Awhile,Journey,55,1980-08-23,1980-10-11,236,8
+322,She's In Love With You,Suzi Quatro,41,1980-01-05,1980-02-02,234,5
+323,On The Rebound,Russ Ballard,58,1980-06-14,1980-08-02,234,8
+324,Thunder And Lightning,Chicago,56,1980-08-23,1980-10-18,233,9
+325,Killin' Time,Fred Knoblock & Susan Anton,40,1980-11-22,1980-12-27,232,6
+326,Is This Love,Pat Travers Band,50,1980-05-17,1980-06-28,232,7
+327,White Hot,Red Rider,48,1980-04-05,1980-05-17,230,7
+328,The Royal Mile (Sweet Darlin'),Gerry Rafferty,54,1980-07-19,1980-09-06,228,8
+329,Turn It On Again,Genesis,58,1980-09-06,1980-10-25,228,8
+330,No More Tears (Enough Is Enough),Barbra Streisand/Donna Summer,21,1980-01-05,1980-01-26,227,4
+331,My Mother's Eyes,Bette Midler,45,1980-11-22,1980-12-27,227,6
+332,And The Cradle Will Rock...,Van Halen,55,1980-05-24,1980-07-05,224,7
+333,You're Only Lonely,J.D. Souther,20,1980-01-05,1980-01-26,219,4
+334,I Could Be Good For You,707,52,1980-10-11,1980-12-06,219,9
+335,Teacher Teacher,Rockpile,53,1980-11-22,1980-12-27,219,6
+336,Glide,Pleasure,55,1980-01-05,1980-02-09,217,6
+337,Savannah Nights,Tom Johnston,34,1980-01-05,1980-02-02,214,5
+338,Stay In Time,Off Broadway USA,51,1980-03-22,1980-05-03,214,7
+339,You Might Need Somebody,Turley Richards,54,1980-01-26,1980-03-08,214,7
+340,Angeline,The Allman Brothers Band,58,1980-09-13,1980-11-01,214,8
+341,Rock Lobster,The B-52s,56,1980-04-19,1980-06-07,213,8
+342,Love On A Shoestring,Captain & Tennille,55,1980-03-08,1980-04-19,212,7
+343,Need Your Loving Tonight,Queen,44,1980-11-29,1980-12-27,208,5
+344,Dirty Water,The Inmates,51,1980-01-05,1980-02-09,206,6
+345,I Want You Tonight,Pablo Cruise,19,1980-01-05,1980-01-26,205,4
+346,Miss Sun,Boz Scaggs,30,1980-11-29,1980-12-27,202,5
+347,I Need Your Lovin',Teena Marie,49,1980-11-22,1980-12-27,198,6
+348,It's Not A Wonder,Little River Band,51,1980-05-03,1980-06-07,198,6
+349,Sweet Sensation,Stephanie Mills,52,1980-06-14,1980-07-19,198,6
+350,A Certain Girl,Warren Zevon,57,1980-03-08,1980-04-19,197,7
+351,My Guy/My Girl,Amii Stewart & Johnny Bristol,63,1980-08-30,1980-10-18,197,8
+352,Cold Love,Donna Summer,41,1980-11-29,1980-12-27,196,5
+353,Solitaire,Peter McIan,52,1980-04-05,1980-05-17,195,7
+354,Love X Love,George Benson,61,1980-10-18,1980-11-22,194,6
+355,Happy Together (A Fantasy),Captain & Tennille,53,1980-05-10,1980-06-14,189,6
+356,Here Comes My Girl,Tom Petty And The Heartbreakers,59,1980-04-26,1980-06-07,187,7
+357,Memorize Your Number,Leif Garrett,60,1980-01-05,1980-02-09,183,6
+358,Goodnight My Love,Mike Pinera,70,1980-01-05,1980-02-23,182,8
+359,Chiquitita,ABBA,29,1980-01-05,1980-01-26,181,4
+360,Girl With The Hungry Eyes,Jefferson Starship,55,1980-02-23,1980-03-29,180,6
+361,Giving It Up For Your Love,Delbert McClinton,28,1980-12-06,1980-12-27,179,4
+362,Keep On Loving You,REO Speedwagon,39,1980-11-29,1980-12-27,179,5
+363,Run Like Hell,Pink Floyd,53,1980-05-10,1980-06-14,179,6
+364,Late At Night,England Dan Seals,57,1980-08-16,1980-09-20,176,6
+365,Smoky Mountain Rain,Ronnie Milsap,50,1980-11-29,1980-12-27,175,5
+366,Baby Don't Go,Karla Bonoff,69,1980-03-01,1980-04-12,173,7
+367,I Hear You Now,Jon & Vangelis,58,1980-08-16,1980-09-20,172,6
+368,Easy Love,Dionne Warwick,62,1980-11-22,1980-12-27,172,6
+369,Love T.K.O.,Teddy Pendergrass,52,1980-11-29,1980-12-27,168,5
+370,Money,The Flying Lizards,50,1980-01-05,1980-02-02,161,5
+371,Can't Put A Price On Love,The Knack,62,1980-04-05,1980-05-10,160,6
+372,Let's Be Lovers Again,Eddie Money (with Valerie Carter),65,1980-10-18,1980-11-22,159,6
+373,Morning Man,Rupert Holmes,68,1980-11-08,1980-12-20,159,7
+374,Half Moon Silver,Hotel,72,1980-07-12,1980-08-23,157,7
+375,After You,Dionne Warwick,65,1980-03-29,1980-05-03,154,6
+376,I'm Alive,Gamma,60,1980-01-05,1980-02-09,153,6
+377,Rebels Are We,Chic,61,1980-08-30,1980-10-04,152,6
+378,Case Of You,Frank Stallone,67,1980-09-27,1980-11-01,151,6
+379,Take The Long Way Home,Supertramp,26,1980-01-05,1980-01-19,148,3
+380,It's Like We Never Said Goodbye,Crystal Gayle,63,1980-02-23,1980-03-29,147,6
+381,Brite Eyes,Robbin Thompson Band,66,1980-10-18,1980-12-13,143,9
+382,Remember (Walking In The Sand),Aerosmith,67,1980-01-12,1980-02-16,143,6
+383,Rock It,"Lipps, Inc.",64,1980-08-02,1980-09-13,139,7
+384,True Love Ways,Mickey Gilley,66,1980-08-16,1980-09-27,139,7
+385,Heartbreak Hotel,The Jacksons,51,1980-12-06,1980-12-27,138,4
+386,Today Is The Day,Bar-Kays,60,1980-03-22,1980-04-19,138,5
+387,Dancin' In The Streets,Teri DeSario With K.C.,66,1980-06-28,1980-08-02,138,6
+388,Take You Tonight,Ozark Mountain Daredevils,67,1980-05-24,1980-06-21,137,5
+389,Rapper's Delight,Sugarhill Gang,36,1980-01-05,1980-01-26,136,4
+390,Alabama Getaway,Grateful Dead,68,1980-06-21,1980-07-26,134,6
+391,Borrowed Time,Styx,64,1980-03-29,1980-05-03,133,6
+392,Damned If I Do,The Alan Parsons Project,27,1980-01-05,1980-01-19,132,3
+393,Same Old Lang Syne,Dan Fogelberg,37,1980-12-13,1980-12-27,132,3
+394,Games People Play,The Alan Parsons Project,54,1980-12-06,1980-12-27,131,4
+395,Stargazer,Peter Brown,59,1980-01-05,1980-02-02,131,5
+396,I'd Rather Leave While I'm In Love,Rita Coolidge,38,1980-01-05,1980-01-19,130,3
+397,"Train, Train",Blackfoot,38,1980-01-05,1980-01-19,127,3
+398,I'm Happy Just To Dance With You,Anne Murray,64,1980-06-14,1980-07-19,127,6
+399,The Good Lord Loves You,Neil Diamond,67,1980-04-05,1980-05-10,127,6
+400,Shotgun Rider,Joe Sun,71,1980-05-31,1980-07-05,126,6
+401,Volcano,Jimmy Buffett,66,1980-01-05,1980-02-02,125,5
+402,Who Shot J.R.?,Gary Burbank With Band McNally,67,1980-06-28,1980-07-26,125,5
+403,The Blue Side,Crystal Gayle,81,1980-06-07,1980-07-26,123,8
+404,Stop Your Sobbing,Pretenders,65,1980-06-21,1980-07-19,121,5
+405,Loving You With My Eyes,Starland Vocal Band,71,1980-02-23,1980-03-29,121,6
+406,Desire,Rockets,70,1980-02-16,1980-03-22,120,6
+407,Don't Make Me Over,Jennifer Warnes,67,1980-01-05,1980-02-02,119,5
+408,Don't Cry For Me Argentina,Festival,72,1980-03-08,1980-04-26,119,8
+409,Don't Say No,Billy Burnette,68,1980-11-01,1980-11-29,118,5
+410,Got To Love Somebody,Sister Sledge,64,1980-01-19,1980-02-16,117,5
+411,I Shoulda Loved Ya,Narada Michael Walden,66,1980-02-09,1980-03-15,117,6
+412,Catching The Sun,Spyro Gyra,68,1980-04-19,1980-05-17,117,5
+413,Sherry,Robert John,70,1980-10-25,1980-11-22,115,5
+414,My Mistake,The Kingbees,81,1980-06-28,1980-08-16,113,8
+415,Pop Muzik,M,32,1980-01-05,1980-01-19,112,3
+416,Leaving L.A.,Deliverance,71,1980-08-30,1980-09-27,112,5
+417,Private Idaho,The B-52s,74,1980-10-18,1980-11-15,112,5
+418,Trickle Trickle,The Manhattan Transfer,73,1980-11-29,1980-12-27,110,5
+419,Time For Me To Fly,REO Speedwagon,77,1980-05-31,1980-07-05,106,6
+420,Star,"Earth, Wind & Fire",64,1980-01-05,1980-01-26,105,4
+421,(Call Me) When The Spirit Moves You,Touch,65,1980-07-26,1980-08-23,103,5
+422,Darlin',Yipes!!,68,1980-08-02,1980-08-30,102,5
+423,I Ain't Gonna Stand For It,Stevie Wonder,56,1980-12-13,1980-12-27,101,3
+424,Lola,The Kinks,81,1980-08-30,1980-10-04,101,6
+425,Holdin' On For Dear Love,Lobo,75,1980-01-05,1980-02-09,100,6
+426,It's A Night For Beautiful Girls,The Fools,67,1980-04-19,1980-05-10,97,4
+427,High On Your Love,Debbie Jacobs,70,1980-03-15,1980-04-05,94,4
+428,Slipstream,Allan Clarke,70,1980-05-24,1980-06-14,94,4
+429,If I Were You,Toby Beau,70,1980-07-05,1980-07-26,94,4
+430,Fashion,David Bowie,72,1980-12-06,1980-12-27,94,4
+431,I Don't Like Mondays,The Boomtown Rats,73,1980-02-02,1980-03-01,94,5
+432,A Lesson In Leavin',Dottie West,73,1980-03-08,1980-04-05,93,5
+433,Move Your Boogie Body,Bar-Kays,57,1980-01-05,1980-01-19,91,3
+434,Fool That I Am,Rita Coolidge,61,1980-12-13,1980-12-27,90,3
+435,Love Theme From Shogun (Mariko's Theme),Meco,70,1980-10-11,1980-11-01,90,4
+436,Shooting Star,Dollar,74,1980-01-05,1980-01-26,90,4
+437,Breakfast In America,Supertramp,62,1980-12-13,1980-12-27,87,3
+438,Too Late,Journey,70,1980-01-12,1980-02-02,87,4
+439,Dancin' Like Lovers,Mary Macgregor,72,1980-05-17,1980-06-07,87,4
+440,When We Get Married,Larry Graham,76,1980-10-25,1980-11-15,86,4
+441,Half The Way,Crystal Gayle,33,1980-01-05,1980-01-12,84,2
+442,Save Me,Dave Mason,71,1980-07-12,1980-07-26,84,3
+443,A Little Is Enough,Pete Townshend,72,1980-10-11,1980-11-01,84,4
+444,Seven Bridges Road,Eagles,55,1980-12-20,1980-12-27,83,2
+445,Love And Loneliness,The Motors,78,1980-05-17,1980-06-14,82,5
+446,Treasure,The Brothers Johnson,73,1980-08-16,1980-09-06,80,4
+447,I Call Your Name,Switch,83,1980-01-05,1980-02-09,80,6
+448,In It For Love,England Dan & John Ford Coley,75,1980-03-08,1980-03-29,75,4
+449,I Get Off On It,Tony Joe White,79,1980-06-28,1980-07-26,75,5
+450,I Can't Stop The Feelin',Pure Prairie League,77,1980-12-06,1980-12-27,73,4
+451,A Little In Love,Cliff Richard,65,1980-12-13,1980-12-27,72,3
+452,You've Got What I Need,Shooting Star,76,1980-04-12,1980-05-03,72,4
+453,Real Love,The Cretones,79,1980-05-03,1980-06-07,72,6
+454,Blues Power,Eric Clapton And His Band,76,1980-11-08,1980-12-06,71,5
+455,I Was Looking For Someone To Love,Leif Garrett,78,1980-04-12,1980-05-10,71,5
+456,Midnight Rendezvous,The Babys,72,1980-05-03,1980-05-24,70,4
+457,Set The Night On Fire,Oak,73,1980-12-13,1980-12-27,70,3
+458,Heartache Tonight,Eagles,34,1980-01-05,1980-01-12,69,2
+459,Inside Of You,"Ray, Goodman & Brown",76,1980-05-10,1980-05-31,69,4
+460,Just Can't Wait,The J. Geils Band,78,1980-07-12,1980-08-09,69,5
+461,Midnight Rain,Poco,74,1980-10-11,1980-11-01,68,4
+462,Survive,Jimmy Buffett,77,1980-03-08,1980-04-05,68,5
+463,Running Back,Eddie Money,78,1980-09-13,1980-10-04,67,4
+464,Cry Just A Little,Paul Davis,78,1980-07-19,1980-08-09,67,4
+465,Voice Of Freedom,Jim Kirk And The Tm Singers,71,1980-02-16,1980-03-01,66,3
+466,Make Believe It's Your First Time,Bobby Vinton,78,1980-01-05,1980-01-26,65,4
+467,I Need A Lover,John Cougar,69,1980-01-05,1980-01-12,64,2
+468,Ah! Leah!,Donnie Iris,70,1980-12-13,1980-12-27,63,3
+469,The Very Last Time,Utopia,76,1980-06-07,1980-06-21,63,3
+470,Shiver And Shake,The Silencers,81,1980-07-26,1980-08-23,63,5
+471,Who's Making Love,Blues Brothers,64,1980-12-20,1980-12-27,62,2
+472,What Can You Get A Wookiee For Christmas (When He Already Owns A Comb?),The Star Wars Intergalactic Droid Choir & Chorale,69,1980-12-13,1980-12-27,62,3
+473,Whatever You Decide,Randy VanWarmer,77,1980-08-02,1980-08-16,62,3
+474,Gone Too Far,Eddie Rabbitt,82,1980-05-03,1980-05-24,61,4
+475,Remote Control,The Reddings,89,1980-11-15,1980-12-27,61,7
+476,You're My Blessing,Lou Rawls,77,1980-04-26,1980-05-10,60,3
+477,You And Me,Rockie Robbins,80,1980-07-19,1980-08-09,59,4
+478,I Don't Want To Be Lonely,Dana Valery,87,1980-01-19,1980-02-16,57,5
+479,I've Just Begun To Love You,Dynasty,87,1980-09-13,1980-10-18,57,6
+480,It Takes Time,The Marshall Tucker Band,79,1980-04-26,1980-05-10,56,3
+481,Real People/Chip Off The Old Block,Chic,79,1980-11-15,1980-11-29,56,3
+482,I Only Want To Be With You,The Tourists,83,1980-05-17,1980-06-07,55,4
+483,The Breaks (Part 1),Kurtis Blow,87,1980-09-06,1980-10-11,55,6
+484,You're Gonna Get What's Coming,Bonnie Raitt,73,1980-01-05,1980-01-12,54,2
+485,I Don't Need You Anymore,Together? (Soundtrack) Featuring Jackie DeShannon,86,1980-03-08,1980-04-05,53,5
+486,More Bounce To The Ounce Part I,Zapp,86,1980-10-04,1980-11-15,53,7
+487,Mistrusted Love,Mistress,49,1980-01-05,1980-01-05,52,1
+488,Peanut Butter,Twennynine Featuring Lenny White,83,1980-02-02,1980-02-23,51,4
+489,It Hurts Too Much,Eric Carmen,75,1980-07-12,1980-07-19,50,2
+490,Just For The Moment,Ray Kennedy,82,1980-05-03,1980-05-17,50,3
+491,Back In Black,AC/DC,71,1980-12-20,1980-12-27,49,2
+492,Over You,Roxy Music,80,1980-08-09,1980-08-30,48,4
+493,"Bounce, Rock, Skate, Roll Pt. 1",Vaughan Mason And Crew,81,1980-03-22,1980-04-05,48,3
+494,The Hardest Part,Blondie,84,1980-02-02,1980-02-16,47,3
+495,What's Your Hurry Darlin',Ironhorse,89,1980-04-26,1980-05-31,47,6
+496,Let's Do Something Cheap And Superficial,Burt Reynolds,88,1980-10-18,1980-11-15,44,5
+497,Rough Boys,Pete Townshend,89,1980-11-15,1980-12-06,43,4
+498,You Can Call Me Blue,Michael Johnson,86,1980-08-23,1980-09-06,41,3
+499,Goin' On,The Beach Boys,83,1980-04-12,1980-04-26,40,3
+500,Wango Tango,Ted Nugent,86,1980-07-26,1980-08-16,40,4
+501,Ships,Barry Manilow,64,1980-01-05,1980-01-12,38,2
+502,Stranger In My Home Town,Foghat,81,1980-08-02,1980-08-16,37,3
+503,Sisters Of The Moon,Fleetwood Mac,86,1980-06-07,1980-06-21,37,3
+504,Gypsy Spirit,Pendulum,89,1980-11-29,1980-12-27,36,5
+505,Video Killed The Radio Star,The Buggles,83,1980-01-05,1980-01-12,35,2
+506,Love's Only Love,Engelbert,83,1980-03-15,1980-03-22,35,2
+507,Full Of Fire,Shalamar,79,1980-12-20,1980-12-27,34,2
+508,Where Did We Go Wrong,Frankie Valli & Chris Forde,90,1980-07-19,1980-08-09,34,4
+509,Holiday,Nazareth,87,1980-03-29,1980-04-12,33,3
+510,Skateaway,Dire Straits,80,1980-12-20,1980-12-27,32,2
+511,Back Of My Hand (I've Got Your Number),The Jags,84,1980-06-07,1980-06-14,32,2
+512,Say Goodbye To Little Jo,Steve Forbert,85,1980-04-12,1980-04-26,32,3
+513,Small Paradise,John Cougar,87,1980-02-16,1980-03-01,32,3
+514,When Things Go Wrong,Robin Lane & The Chartbusters,87,1980-07-12,1980-07-26,32,3
+515,I Love Women,Jim Hurt,90,1980-10-11,1980-11-01,32,4
+516,I Like To Rock,April Wine,86,1980-02-09,1980-02-23,30,3
+517,Everything Is Alright,Spider,86,1980-08-02,1980-08-16,30,3
+518,Trust Me,Cindy Bullens,90,1980-01-12,1980-01-26,29,3
+519,Broken Hearted Me,Anne Murray,82,1980-01-05,1980-01-12,28,2
+520,Love On The Phone,Suzanne Fellini,87,1980-03-15,1980-03-22,26,2
+521,Takin' It Back,Breathless,92,1980-01-12,1980-02-02,25,4
+522,Let Me Sleep Alone,Cugini,88,1980-01-05,1980-01-12,24,2
+523,Cheap Sunglasses,ZZ Top,89,1980-07-12,1980-07-19,24,2
+524,Spend The Night In Love,The 4 Seasons,91,1980-12-13,1980-12-27,23,3
+525,United Together,Aretha Franklin,81,1980-12-27,1980-12-27,20,1
+526,I Can Survive,Triumph,91,1980-06-07,1980-06-14,20,2
+527,Merry Christmas In The NFL,"Willis ""The Guard"" & Vigorish",82,1980-12-27,1980-12-27,19,1
+528,(Ghost) Riders In The Sky,Outlaws,83,1980-12-27,1980-12-27,18,1
+529,Only The Lonely (Have A Reason To Be Sad),La Flavour,91,1980-06-14,1980-06-21,18,2
+530,Mirage,Eric Troyer,92,1980-07-26,1980-08-02,18,2
+531,One Life To Live,Wayne Massey,92,1980-10-11,1980-10-18,17,2
+532,I Still Have Dreams,Richie Furay,87,1980-01-05,1980-01-05,14,1
+533,Scandal,RCR,94,1980-04-05,1980-04-12,14,2
+534,Don't Want No-Body,J.D. Drews,88,1980-12-27,1980-12-27,13,1
+535,Love Pains,Yvonne Elliman,88,1980-01-05,1980-01-05,13,1
+536,Rise,Herb Alpert,94,1980-01-05,1980-01-12,12,2
+537,Got To Rock On,Kansas,90,1980-12-27,1980-12-27,11,1
+538,Dancing With The Mountains,John Denver,97,1980-06-21,1980-07-05,10,3
+539,The Part Of Me That Needs You Most,Jay Black,98,1980-09-20,1980-10-11,10,4
+540,Seasons,Grace Slick,95,1980-04-19,1980-04-26,9,2
+541,Once A Night,Jackie English,96,1980-12-20,1980-12-27,9,2
+542,Since You Been Gone,Rainbow,94,1980-01-05,1980-01-05,7,1
+543,Rainbow Connection,Kermit (Jim Henson),95,1980-01-05,1980-01-05,6,1
+544,TUSK,Fleetwood Mac,97,1980-01-05,1980-01-12,6,2
+545,Dim All The Lights,Donna Summer,98,1980-01-05,1980-01-12,6,2
+546,You Decorated My Life,Kenny Rogers,97,1980-01-05,1980-01-05,4,1
+547,Message In A Bottle,The Police,100,1980-01-05,1980-01-05,1,1

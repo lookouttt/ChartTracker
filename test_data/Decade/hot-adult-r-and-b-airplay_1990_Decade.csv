@@ -1,0 +1,942 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,For You,Kenny Lattimore,1,1997-02-15,1998-02-07,1711,52
+2,The Only One For Me,Brian McKnight,1,1998-05-02,1999-03-06,1479,45
+3,Fortunate,Maxwell,1,1999-03-27,1999-12-25,1442,40
+4,You,Jesse Powell,1,1998-12-19,1999-10-23,1416,45
+5,Anytime,Brian McKnight,1,1997-11-29,1998-09-19,1376,43
+6,"All The Things (Your Man Won't Do) (From ""Don't Be A Menace..."")",Joe,1,1996-02-03,1996-10-26,1335,39
+7,I Can Make It Better,Luther Vandross,1,1996-11-16,1997-09-13,1333,44
+8,I Apologize,Anita Baker,1,1994-11-26,1995-08-12,1303,38
+9,What Kind Of Man Would I Be,Mint Condition,1,1996-08-31,1997-05-31,1288,40
+10,Every Time I Close My Eyes,Babyface,1,1996-12-14,1997-09-20,1272,41
+11,Thinking Of You,Tony Toni Tone,3,1996-12-07,1997-11-01,1269,48
+12,Stay,The Temptations,1,1998-08-01,1999-04-03,1229,36
+13,Someone To Love,Jon B. Featuring Babyface,1,1995-04-29,1995-12-23,1176,35
+14,All My Life,K-Ci & JoJo,1,1998-01-24,1998-10-10,1170,38
+15,'Til You Do Me Right,After 7,1,1995-07-01,1996-02-10,1154,33
+16,Nobody's Supposed To Be Here,Deborah Cox,1,1998-09-19,1999-04-24,1136,32
+17,A Rose Is Still A Rose,Aretha Franklin,1,1998-02-14,1998-10-10,1112,35
+18,Spend My Life With You,Eric Benet Featuring Tamia,1,1999-05-29,1999-12-25,1092,31
+19,Tears,The Isley Brothers,1,1996-08-10,1997-05-24,1087,42
+20,They Don't Know,Jon B,3,1998-03-21,1998-12-12,1086,39
+21,Ascension (Don't Ever Wonder),Maxwell,2,1996-04-20,1997-01-25,1084,36
+22,Hopeless,Dionne Farris,3,1997-03-29,1997-11-22,1082,35
+23,Your Secret Love,Luther Vandross,1,1996-08-24,1997-04-05,1081,33
+24,For Your Love,Stevie Wonder,1,1995-02-25,1995-09-16,1074,30
+25,Practice What You Preach,Barry White,1,1994-10-01,1995-04-29,1055,31
+26,This Is My Promise,The Temptations,3,1998-11-14,1999-06-26,1047,33
+27,Hold On (Change Is Comin'),The Sounds Of Blackness,4,1997-11-08,1998-07-11,1045,36
+28,You're Makin' Me High,Toni Braxton,1,1996-05-25,1996-11-30,1027,28
+29,"Exhale (Shoop Shoop) (From ""Waiting To Exhale"")",Whitney Houston,1,1995-11-04,1996-05-11,1000,28
+30,Water Runs Dry,Boyz II Men,1,1995-05-06,1995-11-11,999,28
+31,The Love Scene,Joe,2,1997-07-26,1998-03-07,996,33
+32,I Care `Bout You,Milestone,1,1997-08-23,1998-04-11,992,34
+33,Lean On Me,"Kirk Franklin Featuring Mary J. Blige, Bono, R. Kelly, Crystal Lewis & The Family",2,1998-09-26,1999-04-17,990,30
+34,Missing You,"Brandy, Tamia, Gladys Knight & Chaka Khan",2,1996-08-17,1997-03-22,976,32
+35,Already Missing You,"Gerald Levert & Eddie Levert, Sr.",2,1995-09-23,1996-04-06,957,29
+36,Lady,D'Angelo,3,1996-01-27,1996-08-24,954,31
+37,A Song For Mama,Boyz II Men,1,1997-11-01,1998-05-09,952,28
+38,Shoe Was On The Other Foot,Patti LaBelle,2,1997-09-06,1998-03-28,952,30
+39,Crazy Love,Brian McKnight,3,1995-03-11,1995-10-07,945,31
+40,Stomp,"God's Property From Kirk Franklin's Nu Nation With Special Guest Sheryl ""Salt"" James",2,1997-05-24,1997-12-13,933,30
+41,Let It Flow,Toni Braxton,2,1996-01-13,1996-08-10,932,31
+42,You Put A Move On My Heart,Quincy Jones Introducing Tamia,3,1995-10-14,1996-05-11,930,31
+43,Friend Of Mine,Kelly Price,1,1998-06-06,1998-12-12,923,28
+44,Un-Break My Heart,Toni Braxton,3,1996-10-05,1997-04-19,916,29
+45,Heaven,Solo,1,1995-08-05,1996-02-17,914,29
+46,If You Love Me,Brownstone,1,1994-11-19,1995-06-10,914,30
+47,My Body,LSG,3,1997-10-11,1998-05-02,906,30
+48,When A Woman's Fed Up,R. Kelly,1,1998-12-26,1999-06-26,903,27
+49,Can We Talk,Tevin Campbell,1,1993-10-16,1994-04-09,902,26
+50,Never Too Busy,Kenny Lattimore,2,1996-04-27,1996-11-23,900,31
+51,Next Lifetime,Erykah Badu,1,1997-04-12,1997-10-18,895,28
+52,Count On Me,Whitney Houston & CeCe Winans,1,1996-03-02,1996-08-31,892,27
+53,Happily Ever After,Case,4,1999-06-05,1999-12-18,886,29
+54,"For You I Will (From ""Space Jam"")",Monica,1,1997-02-01,1997-08-16,885,29
+55,Willing To Forgive,Aretha Franklin,1,1994-04-23,1994-10-22,878,27
+56,I Love Me Some Him/I Don't Want To,Toni Braxton,8,1996-10-05,1997-10-04,878,47
+57,Thinkin' Bout It,Gerald Levert,2,1998-07-11,1999-01-16,877,28
+58,One Sweet Day,Mariah Carey & Boyz II Men,2,1995-11-04,1996-04-27,872,26
+59,Never Keeping Secrets,Babyface,1,1993-10-16,1994-04-09,863,26
+60,Come On,Barry White,2,1995-03-04,1995-09-02,861,27
+61,Grapevyne,Brownstone,1,1995-04-01,1995-09-23,850,26
+62,When You Talk About Love,Patti LaBelle,1,1997-06-07,1997-11-29,844,26
+63,On Bended Knee,Boyz II Men,1,1994-11-12,1995-05-06,843,26
+64,It's Been You,Anita Baker,5,1995-04-01,1995-10-07,840,28
+65,We're Not Making Love No More,Dru Hill,3,1997-11-08,1998-05-16,838,28
+66,Before I Let You Go,BLACKstreet,2,1994-10-08,1995-04-01,837,26
+67,Who Can I Run To,Xscape,2,1995-09-09,1996-03-16,836,28
+68,The Right Kinda Lover,Patti LaBelle,1,1994-05-28,1994-11-19,831,26
+69,I Believe I Can Fly,R. Kelly,1,1996-11-02,1997-04-26,829,26
+70,Sweet Lady,Tyrese,2,1999-01-30,1999-07-24,827,26
+71,You Are Not Alone,Michael Jackson,1,1995-07-22,1996-01-13,826,26
+72,"I Believe In You And Me (From ""The Preacher's Wife"")",Whitney Houston,1,1996-12-07,1997-05-31,826,26
+73,Your Body's Callin',R. Kelly,3,1994-02-26,1994-08-27,824,27
+74,I Get Lonely,Janet Featuring BLACKstreet,1,1998-02-21,1998-08-29,820,28
+75,Down Low (Nobody Has To Know),R. Kelly Featuring Ronald Isley,3,1995-12-23,1996-06-22,820,27
+76,These Are The Times,Dru Hill,3,1998-11-28,1999-06-05,818,28
+77,Body & Soul,Anita Baker,1,1994-08-27,1995-02-18,817,26
+78,Chante's Got A Man,Chante Moore,2,1999-04-10,1999-10-02,814,26
+79,Seven Days,Mary J. Blige,3,1998-01-24,1998-07-18,813,26
+80,Always Be My Baby,Mariah Carey,3,1996-03-16,1996-09-07,812,26
+81,Breathe Again,Toni Braxton,1,1993-10-09,1994-04-02,804,26
+82,Almost Doesn't Count,Brandy,2,1999-05-01,1999-10-30,799,27
+83,You Mean The World To Me,Toni Braxton,1,1994-04-09,1994-10-01,798,26
+84,I Can't Sleep Baby (If I),R. Kelly,2,1996-06-01,1996-11-23,797,26
+85,Let's Lay Together,The Isley Brothers,4,1996-03-23,1996-09-28,797,28
+86,Heartbreak Hotel,Whitney Houston Feat. Faith Evans & Kelly Price,2,1998-12-26,1999-06-19,795,26
+87,Don't Leave Me,BLACKstreet,2,1997-03-08,1997-08-30,793,26
+88,When Can I See You,Babyface,1,1994-06-18,1994-12-10,791,26
+89,I'm Still Wearing Your Name,Ann Nesby,1,1996-09-07,1997-03-01,790,26
+90,Not Gon' Cry,Mary J. Blige,1,1995-12-30,1996-06-22,789,26
+91,Tyrone,Erykah Badu,1,1997-11-08,1998-05-02,782,26
+92,Lately,Tyrese,2,1999-05-22,1999-11-20,782,27
+93,In My Bed,Dru Hill,3,1997-01-25,1997-08-02,782,28
+94,Ex-Factor,Lauryn Hill,4,1999-01-02,1999-06-26,779,26
+95,Seven Whole Days,Toni Braxton,1,1993-11-13,1994-05-07,773,26
+96,I Will Survive,Chantay Savage,5,1996-02-10,1996-08-03,772,26
+97,I'll Make Love To You,Boyz II Men,1,1994-08-13,1995-02-04,771,26
+98,Let's Get The Mood Right,Johnny Gill,3,1996-08-17,1997-02-08,771,26
+99,4 Seasons Of Loneliness,Boyz II Men,1,1997-09-06,1998-02-28,764,26
+100,God's Grace,Trin-i-tee 5:7,6,1998-08-29,1999-03-13,760,29
+101,Be Careful,Sparkle,1,1998-05-09,1998-11-07,746,26
+102,I Don't Ever Want To See You Again,Uncle Sam,5,1997-11-15,1998-05-16,745,27
+103,I'm Ready,Tevin Campbell,1,1994-03-12,1994-09-03,744,26
+104,When You Call On Me/Baby That's When I Come Runnin',Luther Vandross,4,1997-09-13,1998-03-07,742,26
+105,Nobody,Keith Sweat Featuring Athena Cage,7,1996-09-28,1997-03-29,741,27
+106,Anniversary,Tony Toni Tone,1,1993-10-02,1994-04-09,729,26
+107,I'd Give Anything,Gerald Levert,3,1994-08-06,1995-01-28,727,26
+108,Waterfalls,TLC,5,1995-06-03,1995-11-25,723,26
+109,We Can't Be Friends,Deborah Cox With R.L.,5,1999-07-03,1999-12-25,722,26
+110,Bump N' Grind,R. Kelly,1,1994-02-05,1994-07-30,714,26
+111,On & On,Erykah Badu,2,1997-01-18,1997-07-12,711,26
+112,I Miss You,Aaron Hall,2,1994-05-14,1994-11-05,707,26
+113,Life,K-Ci & JoJo,4,1999-03-13,1999-08-28,697,25
+114,So Into You,Tamia,5,1998-08-01,1999-01-23,697,26
+115,Last Night,Az Yet,6,1996-09-07,1997-03-08,694,26
+116,Answering Service,Gerald Levert,2,1995-02-11,1995-09-30,693,26
+117,The Sweetest Thing,Refugee Camp All-Stars Featuring Lauryn Hill,6,1997-04-26,1997-10-25,691,27
+118,Sittin' Up In My Room,Brandy,4,1995-12-30,1996-06-22,689,26
+119,Where Ever You Are,Terry Ellis,4,1995-10-14,1996-04-06,685,26
+120,In Harm's Way,BeBe Winans,6,1997-10-25,1998-04-18,684,26
+121,Soon As I Get Home,Faith Evans,5,1995-11-18,1996-05-11,683,26
+122,Staying Power,Barry White,2,1999-07-17,1999-12-25,682,24
+123,Have You Ever?,Brandy,4,1998-10-31,1999-04-24,682,26
+124,Days Like This,Kenny Lattimore,4,1998-08-22,1999-02-13,681,26
+125,Cry For You,Jodeci,2,1993-12-04,1994-05-21,674,25
+126,I'll Do Anything For You,Ann Nesby,5,1996-06-08,1996-11-30,673,26
+127,My Love Is Your Love,Whitney Houston,4,1999-08-07,1999-12-25,670,21
+128,I Wanna Be Down,Brandy,5,1994-09-17,1995-03-11,670,26
+129,Georgy Porgy,Eric Benet Featuring Faith Evans,4,1999-02-20,1999-08-14,665,26
+130,Why Does It Hurt So Bad,Whitney Houston,5,1996-07-13,1997-01-04,662,26
+131,G.H.E.T.T.O.U.T.,Changing Faces,7,1997-05-03,1997-10-25,659,26
+132,Luxury: Cococure,Maxwell,2,1998-06-13,1998-11-14,658,23
+133,Never Make A Promise,Dru Hill,7,1997-08-09,1998-01-31,658,26
+134,Get On Up,Jodeci,9,1996-05-04,1996-11-09,655,28
+135,The Most Beautiful Girl In The World,Prince,4,1994-03-12,1994-09-03,652,26
+136,Tell Me It's Real,K-Ci & JoJo,8,1999-06-05,1999-11-27,650,26
+137,"Any Time, Any Place",Janet Jackson,2,1994-05-28,1994-10-29,649,23
+138,At Your Best (You Are Love),Aaliyah,4,1994-08-06,1995-01-14,648,23
+139,Creep,TLC,5,1994-11-19,1995-05-13,648,26
+140,We Must Be In Love,Pure Soul,6,1995-07-29,1996-01-20,644,26
+141,Be Encouraged,William Becton And Friends,10,1995-07-22,1996-01-13,644,26
+142,Tell Me,Groove Theory,9,1995-08-26,1996-02-17,639,26
+143,How Could He Hurt You,The Temptations,5,1999-05-01,1999-10-23,635,26
+144,Back At One,Brian McKnight,1,1999-08-28,1999-12-25,631,18
+145,Don't Let Go (Love),En Vogue,7,1996-11-09,1997-05-03,628,26
+146,Don't Wanna Lose You,Lionel Richie,2,1996-03-23,1996-08-17,624,22
+147,Treat U Rite,Angela Winbush,2,1994-03-05,1994-08-20,624,25
+148,Nobody Knows,The Tony Rich Project,11,1995-12-23,1996-07-13,624,29
+149,Joy,BLACKstreet,4,1995-03-25,1995-09-16,623,26
+150,What's Stopping You,The O'Jays,6,1997-06-07,1997-11-29,623,26
+151,Sentimental,Deborah Cox,6,1995-08-26,1996-02-17,623,26
+152,Faded Pictures,Case & Joe,8,1999-01-16,1999-07-10,623,26
+153,Something Beautiful Remains,Tina Turner,6,1996-08-10,1997-02-01,620,26
+154,This Weekend,Ann Nesby,6,1997-02-15,1997-08-09,619,26
+155,Dreamlover,Mariah Carey,2,1993-09-18,1994-03-12,616,26
+156,Love Don't Love Nobody,Phil Perry,6,1995-07-08,1995-12-30,615,26
+157,The Morning After,Maze Featuring Frankie Beverly,4,1993-11-13,1994-05-07,614,26
+158,Where Do U Want Me To Put It,Solo,7,1995-12-16,1996-06-08,613,26
+159,If You Think You're Lonely Now,K-Ci Hailey,4,1994-11-05,1995-03-25,612,21
+160,I'm Not Over You,CeCe Peniston,6,1994-05-21,1994-10-22,612,23
+161,I Won't Let You Do That To Me,Luther Vandross,4,1997-12-20,1998-06-13,611,26
+162,Before You Walk Out Of My Life,Monica,10,1995-12-16,1996-06-08,610,26
+163,U Send Me Swingin',Mint Condition,1,1994-01-15,1994-06-18,609,22
+164,Everything,Mary J. Blige,7,1997-09-06,1998-02-28,608,26
+165,(Lay Your Head On My) Pillow,Tony Toni Tone,3,1993-12-18,1994-05-28,604,24
+166,It's Not Right But It's Okay,Whitney Houston,5,1999-05-01,1999-11-06,604,26
+167,Can I Stay With You,Karyn White,7,1994-12-03,1995-05-27,600,26
+168,Doin' Just Fine,Boyz II Men,9,1998-08-01,1999-01-23,598,26
+169,Sara Smile,After 7,5,1997-02-08,1997-08-02,597,26
+170,Lately,Divine,4,1998-10-10,1999-04-03,593,25
+171,Otherside Of The Game,Erykah Badu,2,1997-08-30,1998-02-21,587,26
+172,Good Love,Johnnie Taylor Featuring Andia,9,1996-07-20,1997-01-11,584,26
+173,Door #1,LSG,5,1998-04-25,1998-11-07,581,26
+174,5 Miles To Empty,Brownstone,10,1997-04-26,1997-10-18,581,26
+175,Am I Dreaming,Ol Skool [Featuring Keith Sweat & Xscape],6,1998-02-07,1998-07-25,577,25
+176,Taking Everything,Gerald Levert,9,1998-11-14,1999-05-08,576,26
+177,Can't Take My Eyes Off Of You,Lauryn Hill,8,1998-10-10,1999-04-03,572,26
+178,Sumthin' Sumthin',Maxwell,10,1996-11-23,1997-05-17,568,26
+179,Always In My Heart,Tevin Campbell,4,1994-06-11,1994-11-05,566,22
+180,Baby Come Home,Glenn Jones,11,1999-03-13,1999-09-04,566,26
+181,Nights In Harlem,Luther Vandross (Featuring Precise),4,1998-07-18,1998-11-21,563,19
+182,Cruisin',D'Angelo,7,1995-10-07,1996-03-30,563,26
+183,Just Kickin' It,Xscape,4,1993-10-09,1994-03-05,559,22
+184,Groove Thang,Zhane,4,1994-01-29,1994-06-18,557,21
+185,Bye Bye,Randy Crawford,6,1998-02-14,1998-08-08,556,26
+186,Ask Of You,Raphael Saadiq,3,1995-04-01,1995-10-07,554,26
+187,Slow Jams,Quincy Jones Feat. Babyface & Tamia With Portrai,6,1996-02-24,1996-08-24,553,26
+188,U Will Know,B.M.U. (Black Men United),4,1994-10-08,1995-04-01,551,23
+189,Angel Of Mine,Monica,10,1998-12-12,1999-06-12,549,26
+190,Never Gonna Let You Go,Faith Evans,14,1999-05-29,1999-11-20,549,26
+191,Always And Forever,Luther Vandross,8,1994-11-19,1995-05-27,548,26
+192,Why We Sing,Kirk Franklin And The Family,9,1994-12-24,1995-06-17,548,26
+193,I'm Only Human,Luther Vandross Featuring Cassandra Wilson & Bob James,10,1998-11-14,1999-05-15,545,26
+194,If I Could Turn Back The Hands Of Time,R. Kelly,3,1999-08-21,1999-12-25,543,19
+195,I Belong To You (Every Time I See Your Face),Rome,9,1997-04-19,1997-10-18,534,26
+196,No More Rain (In This Cloud),Angie Stone,1,1999-09-04,1999-12-25,530,17
+197,Easy To Love,Smokey Robinson,6,1999-08-21,1999-12-25,530,19
+198,Honey,Mariah Carey,6,1997-08-23,1998-02-07,530,25
+199,Never Should've Let You Go,Hi-Five,6,1993-11-06,1994-04-02,529,22
+200,Brokenhearted,Brandy,7,1995-09-02,1996-02-24,525,26
+201,Best Friend,Brandy,9,1995-05-13,1995-11-25,524,26
+202,Betcha By Golly Wow!,Prince,1,1996-11-30,1997-03-29,523,18
+203,I Know,Luther Vandross,6,1998-10-10,1999-03-06,522,22
+204,Love Like This,Faith Evans,8,1998-10-24,1999-04-17,520,26
+205,Hero,Mariah Carey,4,1993-11-13,1994-04-02,518,21
+206,Butterfly,Mariah Carey,7,1997-11-01,1998-04-18,515,24
+207,Bring It On,Keith Washington,6,1998-02-28,1998-08-01,512,22
+208,Another Sad Love Song,Toni Braxton,1,1993-09-18,1994-02-19,509,22
+209,Something In Your Eyes,Bell Biv DeVoe,4,1993-09-18,1994-01-22,509,19
+210,All That I Can Say,Mary J. Blige,5,1999-07-24,1999-12-25,508,23
+211,I Don't Want To Know,Gladys Knight,10,1994-09-10,1995-03-04,508,26
+212,Killing Me Softly,Fugees Featuring Bounty Killer,8,1996-04-20,1996-08-24,506,19
+213,House Keeper,Men Of Vizion,12,1996-04-27,1996-10-19,506,26
+214,I'm Goin' Down,Mary J. Blige,3,1995-01-28,1995-06-17,505,21
+215,I Belong To You,Toni Braxton,5,1994-12-03,1995-04-01,503,18
+216,Going In Circles/Love The One You're With,Luther Vandross,5,1994-11-12,1995-06-03,503,29
+217,24/7,Kevon Edmonds,1,1999-09-18,1999-12-25,501,15
+218,Baby,Brandy,2,1995-02-11,1995-06-24,501,20
+219,And Our Feelings,Babyface,4,1994-03-05,1994-08-20,497,21
+220,I Believe,The Sounds Of Blackness,6,1994-04-23,1994-09-17,497,22
+221,On The Down Low,Brian McKnight,7,1995-08-05,1996-02-17,496,24
+222,I Love You,Keith Washington,8,1998-07-04,1998-12-05,496,22
+223,Understanding,Xscape,3,1994-01-01,1994-05-14,495,20
+224,Twisted,Keith Sweat,9,1996-06-15,1996-12-07,491,26
+225,Sending My Love,Zhane,5,1994-06-04,1994-10-15,489,20
+226,Can't Help Myself,Gerald Levert,9,1994-11-12,1995-07-01,487,23
+227,Back & Forth,Aaliyah,6,1994-05-14,1994-09-24,486,20
+228,Ever Since You Went Away,Art N' Soul,12,1996-03-23,1996-09-21,483,26
+229,The Boy Is Mine,Brandy & Monica,11,1998-05-23,1998-12-05,481,25
+230,All About You,Will Downing,11,1997-10-25,1998-03-28,479,23
+231,Fantasy,Mariah Carey,10,1995-09-16,1996-02-03,477,21
+232,You Make Me Wanna...,Usher,17,1997-09-27,1998-03-21,477,26
+233,Baby Can't Leave It Alone,OLU,10,1999-04-24,1999-09-18,474,22
+234,Say You Love Me,Natalie Cole,7,1999-06-12,1999-10-16,470,19
+235,If She Knew,Will Downing,11,1998-04-18,1998-09-26,469,24
+236,The Way That You Love,Vanessa Williams,3,1995-04-15,1995-08-05,467,17
+237,I'm Still In Love With You,New Edition,15,1996-10-12,1997-04-05,467,26
+238,Anything,SWV,5,1994-04-23,1994-09-24,464,23
+239,Red Light Special,TLC,4,1995-02-25,1995-07-15,463,21
+240,Forever More,Puff Johnson,8,1996-05-11,1996-11-02,462,26
+241,Don't Let Go,Regina Belle,7,1998-05-02,1998-09-05,457,19
+242,Voodoo,Teddy Pendergrass,8,1993-09-18,1994-01-22,451,19
+243,Someone Like You,Patti LaBelle,9,1998-01-31,1998-06-06,449,19
+244,All I Do,Kirk Whalum,18,1999-06-19,1999-12-11,449,26
+245,All The Places (I Will Kiss You),Aaron Hall,10,1998-10-17,1999-03-13,446,22
+246,The Arms Of The One Who Loves You,Xscape,14,1998-04-25,1998-10-17,444,26
+247,5 Steps,Dru Hill,11,1997-12-13,1998-06-06,443,24
+248,Nothing Even Matters,Lauryn Hill Featuring D'Angelo,15,1998-12-19,1999-06-26,443,26
+249,If You Love Me,Mint Condition,4,1999-08-28,1999-12-25,442,18
+250,Be Happy,Mary J. Blige,8,1994-11-12,1995-03-04,442,17
+251,One Heart One Love,Phil Perry,9,1998-02-14,1998-07-25,439,22
+252,Floatin' On Your Love,The Isley Brothers Featuring Angela Winbush,11,1996-07-06,1996-12-07,439,22
+253,Again,Janet Jackson,6,1993-10-23,1994-02-12,438,17
+254,Believe In Love,Teddy Pendergrass,12,1994-02-19,1994-08-27,435,26
+255,Hey Mr. D.J.,Zhane,12,1993-09-18,1994-02-19,434,23
+256,Feenin',Jodeci,7,1994-03-12,1994-07-30,431,20
+257,Never Gonna Let You Go,BLACKstreet,11,1996-12-21,1997-07-05,426,25
+258,Make Love Easy,Freddie Jackson,8,1993-11-13,1994-02-26,423,16
+259,Right Here/Human Nature,SWV,5,1993-09-18,1994-01-29,419,20
+260,Time And Chance,Color Me Badd,7,1993-11-20,1994-03-12,419,17
+261,Make Sweet Love To Me,The Whispers,9,1995-03-11,1995-07-08,419,18
+262,Did You Ever Know,Peabo Bryson,9,1999-04-17,1999-09-11,415,22
+263,How Many Ways,Toni Braxton,5,1994-09-17,1995-01-14,413,18
+264,Next Time,Gladys Knight,10,1995-03-25,1995-08-19,410,21
+265,When You Believe,Whitney Houston & Mariah Carey,3,1998-11-14,1999-02-27,409,16
+266,What's On Tonight,Montell Jordan,18,1997-03-08,1997-08-30,409,26
+267,Matrimony: Maybe You,Maxwell,14,1998-10-03,1999-02-20,408,21
+268,Runaway Love,En Vogue Featuring FMOB,9,1993-09-18,1994-01-15,407,18
+269,I Hate U,Prince,6,1995-09-09,1995-12-23,406,16
+270,Somebody's Somebody,Prince,6,1997-02-01,1997-05-24,403,17
+271,Can't Get Enough,El DeBarge,10,1994-05-07,1994-09-10,400,19
+272,"Sorry, I",Will Downing,13,1995-11-04,1996-04-06,399,23
+273,Candy Rain,Soul For Real,9,1995-01-28,1995-06-24,398,21
+274,Still In Love,Brian McKnight,14,1995-11-25,1996-04-27,398,23
+275,Wind Beneath My Wings,"Gerald Levert & Eddie Levert, Sr.",12,1996-02-03,1996-06-29,397,22
+276,Tell Me,Dru Hill,17,1996-09-07,1997-03-01,397,26
+277,Makeda,Les Nubians,17,1998-12-05,1999-05-29,397,26
+278,I'm In The Mood,CeCe Peniston,7,1994-01-29,1994-05-28,395,18
+279,The One,The Artist & The New Power Generation,8,1998-06-20,1998-10-10,394,17
+280,Do You Love Me?,Jonathan Butler,12,1997-09-13,1998-03-07,393,24
+281,My Heart Belongs To You,Peabo Bryson,10,1998-08-01,1998-12-05,391,19
+282,Laid Back Girl,Maze Featuring Frankie Beverly,3,1993-09-18,1994-01-01,384,16
+283,If I Lose My Woman,Kenny Lattimore,10,1999-02-13,1999-06-19,373,19
+284,I've Had Enough,Regina Belle,12,1998-10-03,1999-02-06,373,19
+285,U Know What's Up,Donell Jones,5,1999-09-11,1999-12-25,371,16
+286,Never Let Me Go,Luther Vandross,8,1993-11-13,1994-03-19,368,19
+287,Stroke You Up,Changing Faces,8,1994-08-13,1994-11-26,367,16
+288,This Is How We Do It,Montell Jordan,8,1995-03-18,1995-08-26,365,24
+289,Runaway,Janet Jackson,9,1995-09-09,1996-01-27,364,19
+290,All That I Am,Joe,10,1998-04-18,1998-08-01,362,16
+291,No Scrubs,TLC,11,1999-02-27,1999-07-31,362,23
+292,Rain,SWV,15,1998-01-31,1998-06-13,359,20
+293,Femininity,Eric Benet,12,1997-04-05,1997-08-16,357,20
+294,"Well, Alright",CeCe Winans,12,1998-03-07,1998-06-27,355,17
+295,Love T.K.O.,Regina Belle,13,1995-09-02,1996-01-27,355,17
+296,You Can't Run,Vanessa Williams,13,1995-07-29,1995-11-18,354,17
+297,Here Comes The Hotstepper,Ini Kamoze,9,1994-11-05,1995-02-11,353,15
+298,Something In  Common,Bobby Brown (Duet With Whitney Houston),12,1993-11-27,1994-03-12,353,16
+299,Because Of Love,Janet Jackson,11,1994-02-05,1994-05-28,352,17
+300,Gonna Love You Right,After 7,9,1994-03-12,1994-09-10,351,22
+301,Yesterday,Shanice,11,1999-05-08,1999-09-04,348,18
+302,Ribbon In The Sky,Intro,6,1993-10-30,1994-05-28,345,19
+303,Gangsta Lean,DRS,7,1993-11-06,1994-02-05,342,14
+304,New World Order,Curtis Mayfield,14,1996-10-19,1997-02-08,341,17
+305,Treat You Like A Queen,Rahsaan Patterson,10,1999-09-25,1999-12-25,339,14
+306,Someone To Love,Mint Condition,14,1994-06-11,1994-10-08,332,18
+307,It's Gonna Rain,Kelly Price,10,1999-05-22,1999-10-23,331,21
+308,What Goes Up,Maze Featuring Frankie Beverly,7,1994-04-09,1994-07-30,329,17
+309,I'm Yours,Quincy Jones Featuring Siedah Garrett & El DeBarge,14,1999-02-20,1999-06-19,328,18
+310,Why I Love You So Much,Monica,13,1996-06-22,1996-10-26,325,18
+311,Where Is My Love?,El DeBarge Featuring Babyface,8,1994-09-10,1994-12-17,324,15
+312,Slow Wine,Tony Toni Tone,10,1994-07-16,1994-10-29,324,16
+313,Brown Sugar,D'Angelo,14,1995-07-15,1995-10-28,323,16
+314,Melodies From Heaven,Kirk Franklin And The Family,21,1996-06-01,1996-12-07,322,26
+315,Heaven Knows,Luther Vandross,11,1993-09-18,1993-12-25,320,15
+316,Give Me The Night,Randy Crawford,14,1996-02-03,1996-06-22,320,21
+317,Back To The World,Tevin Campbell,6,1996-06-08,1996-08-31,318,13
+318,Off The Hook,Jody Watley,13,1998-01-31,1998-05-23,318,17
+319,Old School Lovin',Chante Moore,13,1994-11-12,1995-02-18,317,15
+320,Somebody For Me,Vesta,9,1998-09-05,1998-12-12,316,15
+321,My All,Mariah Carey,13,1998-05-02,1998-09-05,316,19
+322,Holdin' On,George Benson,14,1996-07-27,1996-11-16,315,17
+323,Biggest Part Of Me,Take 6,10,1994-07-02,1994-10-08,314,15
+324,Never Forget You,Mariah Carey,14,1994-02-26,1994-06-11,314,16
+325,You're The One,SWV,15,1996-04-13,1996-08-03,313,17
+326,Endless Love,Luther Vandross & Mariah Carey,5,1994-09-10,1994-11-19,310,11
+327,I Refuse To Be Lonely,Phyllis Hyman,14,1995-11-25,1996-04-13,310,21
+328,Everything Is Gonna Be Alright,The Sounds Of Blackness,11,1994-08-06,1994-11-05,309,14
+329,I'll Always Love You,Boney James,14,1999-03-20,1999-08-07,309,20
+330,In Your Wildest Dreams,Tina Turner Featuring Barry White,14,1996-11-30,1997-03-08,308,15
+331,Lost To Love,Jonathan Butler,14,1998-02-28,1998-06-27,308,18
+332,Beautiful,Mary J. Blige,16,1998-10-10,1999-02-20,308,19
+333,Standing Together,George Benson,10,1998-06-27,1998-09-26,307,14
+334,Together Again,Janet,14,1997-12-13,1998-04-04,303,17
+335,Touch Me,Solo,14,1998-08-22,1998-12-05,302,16
+336,You Don't Have To Hurt No More,Mint Condition,11,1997-02-08,1997-06-14,301,19
+337,Stairway To Heaven,Pure Soul,15,1996-02-17,1996-06-15,299,16
+338,For The Cool In You,Babyface,2,1993-09-18,1993-12-04,297,12
+339,Do You Like This,Rome,15,1997-07-26,1997-11-15,294,17
+340,When A Man Loves A Woman,Jody Watley,7,1994-02-05,1994-04-30,293,13
+341,You Want This,Janet Jackson,15,1994-10-29,1995-02-04,293,15
+342,Nice & Slow,Usher,20,1998-01-31,1998-06-20,293,21
+343,Lately,Jodeci,4,1993-09-18,1993-11-27,289,11
+344,"My, My, My",The Whispers,12,1997-12-06,1998-02-28,287,13
+345,One Last Cry,Brian McKnight,6,1993-09-18,1993-12-04,285,12
+346,When I Close My Eyes,Shanice,15,1999-02-06,1999-05-15,282,15
+347,How Do You Like It?,Keith Sweat,9,1994-04-02,1994-06-25,280,13
+348,Come Inside,Intro,14,1993-10-23,1994-01-29,280,15
+349,Every Little Thing I Do,Soul For Real,16,1995-05-27,1995-08-26,280,14
+350,Got 'til It's Gone,Janet (Featuring Q-Tip And Joni Mitchell),9,1997-09-20,1997-12-27,279,15
+351,Letitgo,Prince,6,1994-08-27,1994-11-12,278,12
+352,Slow And Easy,Zapp & Roger,13,1993-11-27,1994-02-19,278,13
+353,Whenever Wherever Whatever,Maxwell,19,1997-08-23,1998-01-03,277,20
+354,Every Day Of The Week,Jade,13,1994-12-10,1995-03-18,275,15
+355,And On And On,Janet Jackson,10,1994-07-09,1994-10-01,274,13
+356,My Funny Valentine,Chaka Khan,22,1996-02-17,1996-09-07,274,25
+357,A Thin Line Between Love & Hate,H-Town,16,1996-03-02,1996-07-13,273,20
+358,5-4-3-2 (Yo! Time Is Up),Jade,10,1994-09-17,1994-12-03,269,12
+359,Don't Give Up,Island Inspirational All Stars,17,1996-01-20,1996-05-25,269,19
+360,Shame,Zhane,13,1994-11-26,1995-02-18,268,13
+361,Go Deep,Janet,14,1998-07-04,1998-10-03,268,14
+362,Sunday Morning,"Earth, Wind & Fire",10,1993-09-18,1993-12-04,266,12
+363,What About Us,Jodeci,12,1994-06-25,1994-09-17,266,13
+364,How Do I Say I'm Sorry,Tami Davis,14,1998-06-20,1998-10-03,265,16
+365,He's Mine,MoKenStef,20,1995-07-01,1995-10-28,264,18
+366,Love Is All We Need,Mary J. Blige Featuring Foxy Brown,13,1997-04-19,1997-07-19,263,14
+367,I Will Get There,Boyz II Men,13,1998-12-19,1999-03-20,262,14
+368,Use Your Heart,SWV,16,1996-08-17,1996-12-14,261,17
+369,I Don't Want To,Toni Braxton,16,1997-02-22,1997-06-21,261,18
+370,"How Come, How Long",Babyface,15,1997-06-21,1997-09-13,260,13
+371,Summer Madness,Jerald Daemyon,20,1995-12-02,1996-04-27,260,22
+372,Don't Take It Personal (Just One Of Dem Days),Monica,17,1995-05-27,1995-10-14,258,21
+373,Turn Down The Lights,Shanice,10,1994-08-20,1994-11-12,257,13
+374,Quiet Time To Play,Johnny Gill,16,1993-12-04,1994-05-14,257,20
+375,You Remind Me Of Something,R. Kelly,17,1995-10-28,1996-02-17,254,17
+376,Scream,Michael Jackson & Janet Jackson,7,1995-06-03,1995-08-05,252,10
+377,Part Time Lover,H-Town/Al B. Sure!,14,1994-04-23,1994-08-06,251,16
+378,Pink Cashmere,Prince,8,1993-09-25,1993-12-04,247,11
+379,Pretty Girl,Jon B,18,1995-09-23,1996-01-13,247,17
+380,If Only You Knew,Phil Perry,19,1995-02-25,1995-07-08,247,20
+381,Round And Round,Glenn Jones,9,1994-03-26,1994-07-02,246,15
+382,Secrets,Glenn Jones,11,1999-10-09,1999-12-25,246,12
+383,Good Girls,Joe,21,1997-12-06,1998-04-11,244,19
+384,Anytime You Need A Friend,Mariah Carey,15,1994-06-04,1994-09-03,243,14
+385,Your Love Keeps Working On Me,Jody Watley,15,1993-11-06,1994-02-12,241,15
+386,Hungah,Karyn White,7,1994-09-17,1994-11-26,240,11
+387,Diggin' On You,TLC,14,1995-10-28,1996-02-24,238,18
+388,I'm What You Need,Chante Moore,14,1995-06-10,1995-08-26,237,12
+389,Love Don't Love You Anymore,Luther Vandross,17,1997-04-05,1997-06-28,237,13
+390,Always On My Mind,SWV,14,1994-01-08,1994-05-07,236,16
+391,Me And Those Dreamin' Eyes Of Mine,D'Angelo,19,1996-06-29,1996-10-05,236,15
+392,Meeting In My Bedroom,Silk,20,1999-07-24,1999-11-13,236,17
+393,This Lil' Game We Play,Subway (Featuring 702),8,1995-02-11,1995-04-22,235,11
+394,Shhh,Tevin Campbell,12,1994-02-12,1994-05-07,231,13
+395,Foolin' Around,Changing Faces,15,1994-12-03,1995-03-11,231,15
+396,Feels Like Heaven (With You),BeBe & CeCe Winans,13,1996-11-02,1997-01-25,230,13
+397,One More Try,Divine,13,1999-02-27,1999-05-22,230,13
+398,Should I,Grenique,16,1999-06-26,1999-09-11,227,12
+399,Somebody Else Will,The O'Jays,5,1993-09-18,1993-11-27,225,11
+400,Come On Home,The Whispers,13,1995-07-15,1995-09-30,225,12
+401,Nothin' To Somethin',Gerald Levert,15,1999-09-18,1999-12-25,225,15
+402,No Diggity,BLACKstreet (Featuring Dr. Dre),19,1996-10-12,1997-02-22,225,20
+403,When A Man Cries,Tony Terry,11,1994-10-15,1994-12-31,224,12
+404,Gotham City,R. Kelly,12,1997-07-05,1997-09-27,224,13
+405,Spend The Night,Rahsaan Patterson,13,1997-10-04,1998-01-03,224,14
+406,Shy Guy,Diana King,20,1995-04-29,1995-10-07,224,19
+407,You Used To Love Me,Faith Evans,20,1995-07-22,1995-11-04,222,16
+408,If You (Lovin' Me),Silk,22,1999-03-27,1999-08-14,220,20
+409,It's All About You,Luther Vandross,16,1998-05-09,1998-08-15,219,15
+410,Here We Go Again,Aretha Franklin,18,1998-06-13,1998-08-29,218,12
+411,It's Over Now,Deborah Cox,14,1999-04-10,1999-07-10,217,14
+412,Everything Is Everything,Lauryn Hill,15,1999-07-03,1999-11-06,217,19
+413,Dream On Dreamer,The Brand New Heavies,14,1994-03-26,1994-06-18,216,13
+414,Good Old Fashion Lovin',The Gap Band,18,1999-08-21,1999-12-04,216,14
+415,Get'n Over You,Brian Culbertson Featuring Lori Perry,19,1999-10-02,1999-12-25,216,13
+416,Half On A Baby,R. Kelly,19,1998-09-12,1998-12-26,216,15
+417,Let It Rain,Glenn Jones,18,1998-10-03,1998-12-26,215,13
+418,Thank You,Boyz II Men,10,1995-02-18,1995-04-29,214,11
+419,Stay In My Corner,Keith Washington,19,1993-10-16,1994-02-05,214,17
+420,Honey,Aretha Franklin,17,1994-09-10,1994-12-03,213,13
+421,Affection,Jody Watley,15,1995-06-24,1995-09-16,212,13
+422,If Anything Ever Happened To You,BeBe & CeCe Winans,19,1994-09-10,1994-12-24,212,16
+423,One In A Million,Aaliyah,21,1997-01-18,1997-05-24,212,19
+424,If,Janet Jackson,8,1993-09-18,1993-11-20,209,10
+425,Looking For Mr. Do Right,Jade,20,1993-10-30,1994-02-05,208,15
+426,When Your Life Was Low,Joe Sample Featuring Lalah Hathaway,20,1999-05-22,1999-10-02,207,18
+427,Let Me Love You,Lalah Hathaway,13,1994-06-18,1994-09-03,205,12
+428,For Your Love,Tevin Campbell,21,1999-05-01,1999-08-21,203,17
+429,The Greatest Romance Ever Sold,Prince,8,1999-11-06,1999-12-25,202,8
+430,Too Close,Next,27,1998-04-25,1998-12-12,202,26
+431,Come And Get With Me,Keith Sweat Featuring Snoop Dogg,21,1998-09-12,1999-04-17,201,21
+432,I Like,Kut Klose,18,1995-05-13,1995-10-14,200,18
+433,abc-123,Levert,10,1993-09-18,1993-12-11,199,13
+434,You Sure Love To Ball,Will Downing,19,1999-05-29,1999-08-21,199,13
+435,Hooked On You,Silk,20,1995-10-28,1996-02-10,198,16
+436,It's All About You (Not About Me),Tracie Spencer,21,1999-06-26,1999-10-09,198,16
+437,Come Over To My Place,Davina,18,1998-03-28,1998-06-20,197,13
+438,Show Me,Billy Porter,15,1997-07-19,1997-10-11,196,13
+439,Where You Are,Rahsaan Patterson,18,1997-07-12,1997-10-18,195,14
+440,It's Your Body,Johnny Gill Featuring Roger Troutman,21,1996-11-30,1997-03-08,194,15
+441,"Where Is The Love (From ""Dead Presidents"")",Jesse & Trina,19,1995-10-21,1996-01-20,193,14
+442,Never Miss The Water,Chaka Khan Featuring Me'Shell Ndegeocello,22,1996-11-16,1997-02-15,193,14
+443,Cry No More,II D Extreme,8,1993-09-18,1993-11-06,192,8
+444,Whatever,En Vogue,19,1997-06-21,1997-08-30,192,11
+445,Sometimes,The Brand New Heavies,21,1997-04-26,1997-08-16,192,17
+446,You Will Rise,Sweetback Featuring Amel Larrieux,20,1997-01-18,1997-04-19,191,14
+447,Kissin' You,Total,22,1996-05-11,1996-09-21,190,17
+448,Deep Inside,Mary J. Blige,14,1999-10-30,1999-12-25,189,9
+449,Who Is He And What Is He To You,MeShell Ndegeocello,20,1996-09-14,1996-12-14,189,14
+450,Return Of The Mack,Mark Morrison,28,1997-05-10,1997-10-25,189,23
+451,Still In My Heart,Tracie Spencer,8,1999-11-06,1999-12-25,187,8
+452,So Much In Love,All-4-One,17,1994-03-19,1994-05-21,187,10
+453,Baby I'm Yours,Shai,16,1993-09-18,1993-12-04,186,12
+454,I Miss You,N2U,14,1995-01-07,1995-03-18,184,11
+455,How Could An Angel Break My Heart,Toni Braxton With Kenny G,24,1997-11-08,1998-02-07,183,14
+456,So Many Ways,The Braxtons,15,1996-07-20,1996-10-05,182,12
+457,Say It,Voices Of Theory,25,1998-04-11,1998-09-05,178,20
+458,Through The Rain,Tanya Blount,21,1994-08-20,1994-11-05,177,12
+459,It's All Good,Boney James,22,1998-04-11,1998-06-27,175,12
+460,Emotions,H-Town,20,1995-04-15,1995-07-08,173,13
+461,No One Knows About A Good Thing (You Don't Have To Cry),Curtis Mayfield,21,1997-03-01,1997-06-14,173,16
+462,I Still Love You,Next,22,1998-10-17,1999-02-06,172,17
+463,My Favorite Girl,Dave Hollister,20,1999-04-10,1999-06-26,171,12
+464,Freak Like Me,Adina Howard,20,1995-02-18,1995-06-10,170,17
+465,Hit Me Off,New Edition,18,1996-08-03,1996-11-23,169,14
+466,Who Do U Love,Deborah Cox,26,1996-01-27,1996-05-25,169,18
+467,Dance 4 Me,Christopher Williams,18,1995-02-11,1995-04-22,168,11
+468,Falling,Montell Jordan,19,1996-10-12,1997-01-25,167,16
+469,Say What's In My Heart,Aaron Neville,22,1997-11-01,1998-03-14,167,16
+470,When I Give My Love,Keith Sweat,16,1994-07-02,1994-09-03,165,10
+471,I Can Call You,Portrait,21,1995-02-25,1995-05-13,165,12
+472,This Is For The Lover In You,"Babyface Featuring LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels",21,1996-10-26,1997-02-08,164,16
+473,Can't Stay,Dave Hollister,13,1999-11-06,1999-12-25,163,8
+474,Suitelady The Proposal Jam,Maxwell,20,1997-05-10,1997-08-09,163,14
+475,Stay With Me,BeBe & CeCe Winans,22,1995-08-19,1995-12-02,163,16
+476,Get Gone,Ideal,21,1999-10-09,1999-12-25,162,12
+477,This Love Is Forever,Howard Hewett,24,1994-11-12,1995-02-04,161,13
+478,You Don't Have To Worry,Mary J. Blige,20,1994-01-15,1994-03-26,160,11
+479,Reasons,Reel Tight,22,1999-07-31,1999-10-23,158,13
+480,Stop By,Rahsaan Patterson,23,1997-02-15,1997-05-10,158,13
+481,Lift Off,Groove Collective,24,1996-09-14,1997-01-18,158,17
+482,Let It Snow,Boyz II Men Featuring Brian McKnight,9,1993-12-25,1999-01-09,157,10
+483,Don't Keep Wasting My Time,Teddy Pendergrass,25,1997-03-29,1997-07-12,157,16
+484,I'm In Luv,Joe,17,1993-09-18,1993-11-20,156,10
+485,Baby Luv,Groove Theory,22,1996-07-06,1996-09-21,152,12
+486,Silent Night,The Temptations,7,1995-12-30,1997-01-11,151,7
+487,Missing You,Mary J. Blige,21,1998-08-01,1998-10-03,151,10
+488,Something I Cannot Have,Quincy Jones Featuring Catero,17,1999-10-23,1999-12-25,150,10
+489,Love Tonight,Chris Walker,18,1993-12-11,1994-02-19,150,11
+490,Stay,Eternal,22,1994-02-26,1994-05-14,150,12
+491,When U Cry I Cry,Jesse,17,1995-04-29,1995-06-24,149,9
+492,Never Lie,Immature,22,1994-09-10,1994-11-19,149,11
+493,I Still Believe,Mariah Carey,22,1999-02-06,1999-05-15,149,12
+494,Happiness,Vanessa Williams,25,1997-08-23,1997-11-08,149,12
+495,"Too Gone, Too Long",En Vogue,19,1997-09-27,1997-11-22,148,9
+496,Hold Me,Brian McKnight Featuring Tone & Kobe Bryant,27,1998-10-24,1999-01-23,148,14
+497,Doo Wop (That Thing),Lauryn Hill,28,1998-11-28,1999-03-20,148,17
+498,I Wanna Love Like That,Tony Thompson,16,1995-06-03,1995-08-19,147,12
+499,Feels So Good,Xscape,17,1995-07-22,1995-09-30,147,11
+500,Can't Let Go,Laurnea,18,1997-07-12,1997-09-13,147,10
+501,Love Letters,Ali,22,1998-03-07,1998-05-16,147,11
+502,Crush,Zhane,22,1997-05-24,1997-08-30,147,15
+503,Something's Goin' On,U.N.V.,8,1993-09-18,1993-11-06,146,8
+504,He's Not Good Enough,Solo,20,1996-05-11,1996-07-20,144,11
+505,Rub Up Against You,Freddie Jackson,18,1995-03-11,1995-05-20,142,11
+506,Get Up On It,Keith Sweat (Featuring Kut Klose),19,1994-09-24,1994-12-03,140,11
+507,I Can't Tell You Why,Brownstone,21,1995-07-29,1995-09-30,140,10
+508,Let's Talk About It,Men At Large,23,1994-11-05,1995-01-21,139,12
+509,Your Heart's In Good Hands,Al Green,23,1995-12-16,1996-03-02,139,12
+510,It's For You,Shanice,13,1993-09-18,1993-11-06,138,8
+511,Slide,El DeBarge,22,1994-12-10,1995-02-25,137,12
+512,90's Girl,Blackgirl,21,1994-06-25,1994-09-03,135,11
+513,Inside My Love,Trina Broussard,22,1997-08-09,1997-10-18,135,11
+514,End Of The Road Medley,Gladys Knight,24,1994-12-03,1995-02-11,135,11
+515,My Heart Is Calling,Whitney Houston,25,1997-05-10,1997-08-02,135,13
+516,Tonight's The Night,BLACKstreet,22,1995-08-12,1995-10-14,134,10
+517,Love Today,Vertical Hold,17,1995-05-20,1995-07-15,133,9
+518,What About Our Love?,Maysa,21,1995-09-16,1995-11-25,133,11
+519,Don't Say Goodbye Girl,Tevin Campbell,20,1994-12-24,1995-02-18,132,9
+520,Never Knew Love,Oleta Adams,24,1996-02-10,1996-05-04,132,13
+521,Love On My Mind,Xscape,21,1994-05-07,1994-06-25,131,8
+522,Give It To Me,Teddy Pendergrass,22,1997-08-23,1997-10-18,131,9
+523,Silence,Randy Crawford,21,1998-06-27,1998-08-22,130,9
+524,All I Can Do,Tina Moore,20,1995-09-30,1995-12-09,128,11
+525,Strayed Away,Terry Dexter,15,1999-11-13,1999-12-25,127,7
+526,Why Not Take All Of Me,Casserine Featuring Cato,19,1994-10-29,1994-12-17,126,8
+527,Fire,Brigette McWilliams,21,1997-06-14,1997-08-23,125,11
+528,Morning,Brigette McWilliams,22,1997-11-15,1998-01-24,125,11
+529,I'm Going All The Way,The Sounds Of Blackness,21,1995-02-04,1995-04-08,123,10
+530,Thank You,BeBe Winans,23,1998-05-16,1998-07-25,123,10
+531,Damn Thing Called Love,After 7,26,1995-10-21,1996-02-10,123,17
+532,Twenty Foreplay,Janet Jackson,20,1996-01-06,1996-03-09,122,10
+533,Where I Wanna Be Boy,Missjones,20,1995-01-21,1995-03-25,121,10
+534,All Thru The Night,P.O.V. (Duet With Jade),22,1993-09-18,1993-11-13,121,9
+535,Anything,3T,28,1995-10-21,1996-01-27,121,15
+536,Somewhere,Shanice,18,1994-06-18,1994-08-06,120,8
+537,You Should Be Mine (Don't Waste Your Time),Brian McKnight Featuring Mase,23,1997-09-20,1997-11-29,118,11
+538,Cupid,112,24,1997-05-10,1997-07-19,117,11
+539,Bill,Peggy Scott-Adams,20,1997-01-25,1997-03-22,116,9
+540,Come With Me,Keith Sweat (Featuring Ronald Isley),22,1997-05-31,1997-08-09,115,11
+541,You Can Always Call His Name,Trin-i-tee 5:7,24,1998-12-19,1999-02-20,115,10
+542,Believe That,Keith Washington,14,1994-01-29,1994-03-26,114,9
+543,Downtown,SWV,23,1993-09-18,1993-11-13,114,9
+544,Apple Tree,Erykah Badu,23,1998-05-09,1998-07-11,114,10
+545,Lately I,Faith Evans,25,1999-10-30,1999-12-25,114,9
+546,Try Love Again,The Dramatics,25,1996-09-14,1996-11-23,114,11
+547,My Little Secret,Xscape,21,1998-08-22,1998-11-07,111,11
+548,Tell Me [If You Still Care About Me],Eddie M.,24,1998-04-04,1998-06-06,111,10
+549,Knocks Me Off My Feet,Donell Jones,23,1996-12-28,1997-03-01,110,10
+550,Mind Blowah,Phil Perry,18,1998-08-15,1998-10-10,109,9
+551,You Are The Only One,God's Property,25,1997-09-27,1998-01-24,107,13
+552,Another Way,Tevin Campbell,25,1999-01-23,1999-03-20,106,9
+553,I'm Truly Yours,Phyllis Hyman,27,1996-05-18,1996-10-19,106,17
+554,Moody's Mood For Love,Quincy Jones / B.McKnight / R. Ferrell / Take 6 / J. Moody,23,1996-07-20,1996-10-26,105,15
+555,Constantly,Immature,21,1995-01-14,1995-03-25,104,10
+556,Bring It On,N'Dea Davenport,24,1998-06-06,1998-08-15,104,9
+557,Heaven Must Be Like This,D'Angelo,29,1999-03-13,1999-06-05,103,13
+558,Leavin',Tony Toni Tone,19,1994-05-21,1994-07-02,102,7
+559,Coming Home To Love,Coming Of Age,21,1993-10-09,1993-12-11,102,9
+560,Love Of My Life,BeBe & CeCe Winans,26,1995-02-04,1995-04-22,102,12
+561,Tabou,Les Nubians Featuring Casey,28,1999-06-19,1999-09-11,102,13
+562,I Swear,All-4-One,22,1994-06-04,1994-07-30,101,9
+563,Extraordinary,Prince,23,1999-09-11,1999-10-23,101,7
+564,Dancin',Guy,14,1999-11-13,1999-12-25,100,7
+565,The Longer We Make Love,Barry White,20,1999-11-20,1999-12-25,100,6
+566,I See You In A Different Light,Chante Moore Featuring JoJo,25,1999-09-18,1999-11-20,100,10
+567,The Secret Garden,Pamela Williams,24,1996-04-13,1996-06-01,99,8
+568,Can U Get Wit It,Usher,24,1994-09-03,1994-11-26,99,13
+569,There It Is,Barry White,27,1995-07-08,1995-09-23,99,11
+570,That's The Way Love Goes,Janet Jackson,18,1993-09-18,1993-10-23,98,6
+571,Who's The Mack,Ralph Tresvant,24,1993-12-25,1994-02-26,97,10
+572,Let's Do It Again,Blackgirl,26,1995-02-11,1995-04-15,97,10
+573,My Life,Mary J. Blige,27,1995-04-08,1995-06-24,97,11
+574,First Thing On Your Mind,Vanessa Williams,28,1997-12-20,1998-02-21,97,10
+575,Think Of You,Case,18,1999-11-20,1999-12-25,96,6
+576,Ease My Mind,Arrested Development,23,1994-05-28,1994-07-23,96,9
+577,Let Me Be The One,Mint Condition,25,1997-08-02,1997-09-27,96,9
+578,Let's Stay Together,Eric Benet,20,1996-07-27,1996-09-14,95,8
+579,My Oh My,Chantay Savage,21,1999-10-23,1999-12-04,93,7
+580,I Got It Bad,Tevin Campbell,26,1996-09-14,1996-11-23,92,10
+581,Betcha'll Never Find,Chantay Savage,23,1994-02-12,1994-04-09,90,9
+582,Be Thankful For What You've Got,Portrait,25,1994-03-19,1994-04-30,90,7
+583,In Case You Forgot,Aretha Franklin,20,1998-09-19,1998-10-31,89,7
+584,Love Is All Around,Adriana Evans,27,1997-08-16,1997-10-18,88,10
+585,Tenderness,Colour Club,28,1997-10-18,1997-12-13,88,9
+586,Look What You've Done,Asante,20,1995-10-14,1996-01-20,87,12
+587,Spirit,Sounds Of Blackness Featuring Craig Mack,24,1997-04-26,1997-07-05,87,9
+588,Sweetest Taboo,Patrice Rushen,26,1998-03-21,1998-05-23,86,10
+589,Inner City Blues,Angela Winbush,23,1994-07-02,1994-08-13,85,7
+590,Age Ain't Nothing But A Number,Aaliyah,26,1994-12-17,1995-02-04,85,8
+591,Get It Together,702,29,1997-03-01,1997-05-03,85,10
+592,Do You Want To,Xscape Featuring MC Lyte,29,1996-02-24,1996-05-25,85,13
+593,Do You Wanna Get Funky,C+C Music Factory,25,1994-08-20,1994-10-22,83,10
+594,Nothing Without You,Karen Clark-Sheard Featuring Faith Evans,27,1997-12-27,1998-03-14,83,11
+595,Get Up,Amel Larrieux,18,1999-11-27,1999-12-25,81,5
+596,If I Could,Regina Belle,22,1993-09-18,1993-10-23,81,6
+597,When You Need Me,Aaron Hall,27,1994-10-22,1994-12-31,81,10
+598,Nothing Has Ever Felt Like This,Rachelle Ferrell,25,1994-05-14,1994-07-09,79,9
+599,For The Cool In You,The Whispers,26,1998-02-28,1998-04-18,79,8
+600,"Stop, Look, Listen To Your Heart",Will Downing & Gerald Albright,26,1998-10-17,1998-12-12,79,8
+601,Like A Woman,The Tony Rich Project,29,1996-06-29,1996-08-31,79,10
+602,Keep Tryin',Groove Theory,28,1996-02-24,1996-05-04,78,9
+603,All Night Long,Faith Evans Featuring Puff Daddy,29,1999-03-13,1999-06-12,78,13
+604,(I Want To) Thank You,Freddie Jackson,22,1995-06-17,1995-07-29,77,7
+605,Request Line,Zhane,27,1997-03-15,1997-05-03,77,8
+606,Cajun Moon,Randy Crawford,25,1996-05-18,1996-07-06,75,8
+607,When You Love Someone,Anita Baker & James Ingram,20,1995-07-08,1995-08-19,74,7
+608,In & Out Of Love,Patti Austin,26,1999-07-10,1999-09-11,74,9
+609,All Or Nothing,Joe,27,1994-04-16,1994-05-28,74,7
+610,Lose Control,Silk,22,1993-09-18,1993-10-23,73,6
+611,The One For Me,Joe,25,1994-01-15,1994-03-05,73,8
+612,How Do You Tell The One,After 7,26,1996-04-20,1996-06-08,73,8
+613,Curious,"LSG Feat. LL Cool J, Busta Rhymes & MC Lyte",27,1998-02-21,1998-04-18,73,9
+614,Long Way From Home,Johnny Gill,24,1993-12-11,1994-01-22,72,7
+615,Can We,SWV,28,1997-03-29,1997-05-31,71,10
+616,No Fool No More,En Vogue,23,1998-08-29,1998-10-03,70,6
+617,Funny How Love Goes,Phyllis Hyman Introducing Damon Williams,25,1998-08-29,1998-10-17,70,8
+618,I'm On My Knees,Jonathan Butler,25,1994-09-10,1994-11-12,70,9
+619,Imagination,Tamia,30,1998-03-14,1998-05-30,70,10
+620,Gotta Be,Jagged Edge,32,1998-04-11,1999-03-06,70,16
+621,Don't Rush (Take Love Slowly),K-Ci & JoJo,31,1998-07-11,1998-09-05,69,9
+622,Things Just Ain't The Same,Deborah Cox,27,1997-06-28,1997-08-23,68,9
+623,Bring It On,Kino Watson,28,1996-04-13,1996-06-15,67,9
+624,Movin' On,CeCe Peniston,29,1996-08-24,1996-10-19,67,9
+625,Process Of Elimination,Eric Gable,24,1994-01-15,1994-02-26,66,7
+626,Your Precious Love,Erykah Badu & D'Angelo,26,1999-08-14,1999-09-18,66,6
+627,Always,Vesta,27,1993-09-18,1993-10-30,66,7
+628,Loving You Still,Tamia,28,1999-02-27,1999-04-10,66,7
+629,No Guarantee,Chico DeBarge,27,1998-04-11,1998-08-29,65,15
+630,Visions Of A Sunset,Shawn Stockman,28,1996-01-27,1996-03-16,64,8
+631,The Thinker,George Benson,30,1996-12-07,1997-02-08,64,10
+632,Can't You See,Total Featuring The Notorious B.I.G.,23,1995-05-13,1995-09-02,63,10
+633,Woman To Woman,Jewell,26,1995-01-14,1995-02-25,63,7
+634,Do The Thangs,Levert,29,1993-09-18,1993-11-06,62,8
+635,Let's Make Love,Aaron Hall,23,1994-01-29,1994-03-12,61,7
+636,Infatuation,Jamie Foxx,28,1994-07-09,1994-08-20,61,7
+637,Baby You Know,The O'Jays,32,1997-11-29,1998-01-31,61,10
+638,Get Your Thing Off,"Gerald Levert & Eddie Levert, Sr.",25,1996-05-25,1996-06-29,60,6
+639,Angel In Disguise,Brandy,27,1999-02-20,1999-03-27,60,6
+640,More Of Myself,Incognito,28,1999-10-16,1999-11-27,60,7
+641,You're Sorry Now,Zhane,23,1995-04-08,1995-05-13,59,6
+642,You Came Along,Beverly,27,1999-11-20,1999-12-25,59,6
+643,Just What It Takes,Kenny Lattimore,29,1996-10-05,1996-11-23,59,7
+644,Body Bumpin' Yippie-Yi-Yo,Public Announcement,31,1998-04-11,1998-06-06,59,9
+645,It's About Time,Public Announcement,31,1998-07-25,1998-09-12,58,8
+646,Think Of You,Usher,29,1995-03-11,1995-05-20,57,7
+647,Spiritual Thang,Eric Benet,31,1996-12-14,1997-02-15,57,10
+648,All Cried Out,Allure Featuring 112,31,1997-10-25,1998-01-17,56,9
+649,One Woman,Jade,20,1993-09-18,1993-10-09,55,4
+650,What Did I Do To You?,Terry Ellis,25,1996-04-06,1996-05-11,55,6
+651,Do You Wanna,Freddie Jackson,28,1999-09-18,1999-10-23,55,6
+652,Come Around,Chantay Savage,27,1999-06-19,1999-07-31,54,7
+653,Knockin',Angel Grant,28,1998-08-08,1998-10-03,53,9
+654,Maybe,Johnny Gill,33,1998-01-03,1998-03-07,53,10
+655,Use Me,Aaron Neville,34,1995-11-04,1996-01-20,53,12
+656,Ordinary Girl,Lionel Richie,29,1996-08-10,1996-09-14,52,6
+657,First Lover,The Gap Band,30,1995-05-20,1995-06-24,52,6
+658,You Are Everything,Dru Hill,27,1999-07-03,1999-08-07,51,5
+659,Touch Me Tease Me,Case Featuring Foxxy Brown,27,1996-06-29,1996-08-10,51,7
+660,Secret Love,Kelly Price,29,1999-01-09,1999-02-20,51,7
+661,(Money Can't) Buy Me Love,BLACKstreet,30,1997-11-08,1997-12-13,51,6
+662,Sorry Is,Levert,29,1997-06-07,1997-07-12,50,6
+663,"Never, Never Gonna Give You Up",Lisa Stansfield,27,1997-09-06,1997-10-25,49,6
+664,Your Love Is A...,Whitehead Bros.,30,1994-10-01,1994-11-05,49,6
+665,Why You Wanna Play Me Out?,Trisha Covington,31,1995-01-28,1995-03-11,49,7
+666,Pleasures Of The Night,Will Downing & Gerald Albright,30,1999-04-03,1999-05-22,48,7
+667,The Sweetest Days,Vanessa Williams,32,1994-11-26,1995-01-21,48,8
+668,Love Can Be So Cold,George Duke,24,1995-04-08,1995-05-06,47,5
+669,How Deep Is Your Love,Portrait,27,1995-06-24,1995-07-29,47,6
+670,Seems You're Much Too Busy,Vertical Hold,29,1993-09-18,1993-10-30,47,6
+671,Light Of Love,Angie And Debbie,30,1993-09-25,1993-10-30,47,6
+672,True To Myself,Eric Benet,30,1997-10-18,1997-12-06,47,8
+673,Break Me Off,Men Of Vizion,32,1999-04-24,1999-07-10,47,12
+674,Fix,BLACKstreet With Special Guests Ol' Dirty Bastard & Slash,26,1997-08-09,1997-09-06,46,5
+675,Love Won't Let Me Wait,Nancy Wilson,31,1994-06-25,1994-07-23,45,5
+676,I Learned From The Best,Whitney Houston,17,1999-12-11,1999-12-25,44,3
+677,Aphrodisia,Alexander O'Neal,23,1993-09-18,1993-10-02,44,3
+678,You Bring Me Joy,Mary J. Blige,25,1995-07-01,1995-08-05,44,5
+679,Make It Right,Lisa Stansfield,27,1994-10-08,1994-11-12,44,6
+680,Krazy,Blackgirl,28,1994-03-05,1994-04-16,44,6
+681,Yeah! Yeah! Yeah!,Simone Hines,29,1997-09-27,1997-11-01,44,6
+682,If Anybody Gets Funked Up (It's Gonna Be You),George Clinton & The P-Funk Allstars,30,1996-06-01,1996-07-20,44,8
+683,Slyde,Cameo,32,1994-12-24,1995-02-04,44,7
+684,Deep Waters,Incognito,30,1995-04-08,1995-09-09,43,8
+685,"So Long (Well, Well, Well)",Phajja,32,1998-02-14,1998-03-28,43,7
+686,You Ain't Woman Enough To Take My Man,Shirley Brown,30,1995-05-06,1995-07-01,42,9
+687,Borrowed Time,Billy Porter,31,1998-03-14,1998-04-25,42,7
+688,Softest Place On Earth,Xscape,32,1999-02-06,1999-03-20,42,7
+689,Tasty,Lo-Key?,31,1994-12-24,1995-02-04,41,7
+690,Sweet Thing,Boney James,32,1997-09-20,1997-11-01,41,7
+691,2 Way Street,Missjones,32,1998-06-27,1998-08-15,41,7
+692,Get It On Tonite,Montell Jordan,21,1999-12-11,1999-12-25,40,3
+693,It Hurts Like Hell,Aretha Franklin,30,1996-07-13,1996-08-10,40,5
+694,All This Love,Patti LaBelle,30,1994-10-29,1994-12-17,40,8
+695,Where Would I Be,The Leverts,32,1998-12-19,1999-01-30,40,7
+696,Whatta Man,Salt-N-Pepa Featuring En Vogue,31,1994-02-19,1994-04-30,39,7
+697,Sex Me (Parts I & II),R. Kelly,29,1993-12-18,1994-01-08,38,4
+698,So Fine,Mint Condition,32,1995-03-04,1995-04-22,38,8
+699,The Love We Had (Stays On My Mind),Dru Hill,34,1999-07-17,1999-09-25,37,9
+700,The Best Man I Can Be,"Ginuwine, R.L., Tyrese, Case",27,1999-11-27,1999-12-25,36,5
+701,Yeah,Yolanda Adams,29,1999-11-06,1999-12-25,36,6
+702,Little Miracles,Luther Vandross,30,1993-09-18,1993-10-16,36,5
+703,Do Something,Macy Gray,31,1999-08-07,1999-09-25,36,5
+704,Black Butterfly,The Sounds Of Blackness,32,1995-09-02,1995-09-30,36,5
+705,A Deeper Love,Aretha Franklin,33,1994-02-26,1994-04-09,36,7
+706,There's No Living Without You,Will Downing,24,1993-09-18,1993-10-02,35,3
+707,Freek'n You,Jodeci,26,1995-08-12,1995-09-02,35,4
+708,"Step By Step (From ""The Preacher's Wife"")",Whitney Houston,30,1997-03-29,1997-04-26,35,5
+709,After The Love,Brian McKnight,31,1993-12-11,1994-02-12,35,7
+710,Come With Me,Shai,32,1995-10-21,1995-11-18,35,5
+711,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,33,1997-03-15,1997-04-19,35,6
+712,I'm Not Ready,Keith Sweat,33,1999-02-13,1999-04-10,35,9
+713,You Still Do It,Vesta,31,1999-02-27,1999-04-17,34,6
+714,...Til The Cops Come Knockin',Maxwell,32,1996-05-18,1996-07-13,33,6
+715,My World,OLU,32,1999-10-30,1999-12-25,33,7
+716,In The Game Of Love,Brownstone,30,1997-12-27,1998-01-31,32,6
+717,Never Gonna Let You Go,Tina Moore,31,1995-06-10,1995-08-05,32,6
+718,I Tried,4KaST,32,1998-10-31,1998-11-28,31,5
+719,Give Love On Christmas Day,Johnny Gill,24,1997-12-27,1998-01-10,30,3
+720,Vibe,Zhane,28,1994-10-01,1994-10-29,30,5
+721,Revolution,Kirk Franklin,30,1999-03-06,1999-04-24,30,5
+722,Love Hurts,Juanita Dailey,30,1998-06-13,1998-08-01,30,7
+723,Baby You Are,Uncle Sam,32,1998-06-06,1998-07-18,30,6
+724,The Place Where You Belong,Shai,32,1994-07-09,1994-08-13,30,6
+725,Isn't It Scary,Jon B,33,1996-03-02,1996-04-06,30,6
+726,Gloria,Jesse Powell,33,1996-07-20,1996-08-24,30,6
+727,The One I Gave My Heart To,Aaliyah,34,1997-11-01,1998-01-17,30,7
+728,So High,7669,29,1993-11-20,1993-12-25,29,6
+729,Don't Waste Your Time,Mary J. Blige With Aretha Franklin,30,1999-11-13,1999-12-25,29,5
+730,You Make Me Feel Brand New,Regina Belle,34,1996-02-03,1996-03-09,29,6
+731,You Don't Wanna Miss,For Real,29,1994-04-30,1994-05-28,28,5
+732,Ooh Wee Wee,Cherokee,30,1999-04-03,1999-04-24,28,4
+733,Lil' Red Boat,Angel Grant,32,1998-05-23,1998-06-13,28,4
+734,Sweet Love,Nancy Wilson,34,1997-07-19,1997-09-13,28,9
+735,Lovers Again,Alexander O'Neal,29,1998-09-19,1998-10-10,27,4
+736,Somebody In Your Life,Peabo Bryson,30,1999-12-11,1999-12-25,27,3
+737,Spend The Night,N-Phase,30,1994-08-27,1994-09-17,27,4
+738,Can I Touch You...There?,Michael Bolton,32,1995-10-07,1995-12-09,27,4
+739,I Do (Whatcha Say Boo),Jon B,34,1998-10-24,1998-12-05,27,7
+740,"Every Year, Every Christmas",Luther Vandross,24,1995-12-30,1998-01-10,26,4
+741,Heartbreaker,Mariah Carey Featuring Jay-Z,32,1999-10-09,1999-11-06,26,4
+742,I Can Love You,Mary J. Blige,30,1997-07-26,1997-08-23,25,5
+743,Crave,Marc Dorsey,31,1999-09-18,1999-10-30,25,5
+744,Booti Call,BLACKstreet,33,1994-07-23,1994-08-13,25,4
+745,How Deep Is Your Love/Love Dont Love Nobody,Luther Vandross,34,1993-12-11,1994-01-22,25,5
+746,Give You What You Want (Fa Sure),Chico DeBarge,34,1999-11-13,1999-12-25,25,5
+747,The Christmas Song,Toni Braxton,27,1994-01-08,1995-01-07,24,2
+748,Here With Me,Philip Bailey,33,1994-04-02,1994-04-23,24,4
+749,Turn It Up,Raja-Nee,33,1994-11-26,1994-12-31,24,5
+750,I Wish,Gabrielle,33,1994-06-04,1994-07-02,24,5
+751,If I Had My Way,Nancy Wilson,34,1998-06-13,1998-07-18,24,6
+752,Don't Rush,Silk,31,1996-04-06,1996-04-27,23,4
+753,Vibin',Boyz II Men,31,1995-08-12,1995-10-07,23,4
+754,Don't Wanna Be A Player,Joe,32,1997-05-17,1997-06-28,23,6
+755,Weak,SWV,33,1993-09-18,1993-10-09,23,4
+756,You Don't Have To Worry,New Edition,35,1997-02-01,1997-03-01,23,5
+757,"Bills, Bills, Bills",Destiny's Child,27,1999-08-07,1999-08-28,22,4
+758,I Like,Montell Jordan Featuring Slick Rick,31,1996-06-29,1996-07-13,22,3
+759,I Wanna Be Yours,Trellini,31,1994-07-23,1994-08-13,22,4
+760,Time To Move On,Sparkle,32,1998-09-12,1998-10-03,22,4
+761,Summer Bunnies,R. Kelly,33,1994-09-03,1994-09-24,22,4
+762,If You Play Your Cards Right,LaTanya,34,1997-02-22,1997-04-12,22,7
+763,Just A Touch,Keith Sweat,36,1997-03-15,1997-04-19,22,6
+764,Sadie,R. Kelly,31,1994-05-21,1994-06-11,21,4
+765,Silly,Taral,33,1997-12-13,1998-01-24,21,6
+766,Just Roll,Fabu,34,1995-04-29,1995-05-20,21,4
+767,One More Chance,Art Porter Featuring Lalah Hathaway,36,1996-11-16,1997-01-18,21,6
+768,Do It Again,Bob James Featuring Rasheeda,35,1998-08-08,1998-09-12,20,6
+769,As,George Michael With Mary J. Blige,32,1999-04-24,1999-05-08,19,3
+770,Seein' Is Believeing,Adriana Evans,32,1997-05-31,1997-06-14,19,3
+771,Nobody Does It Betta,Mint Condition,33,1993-11-13,1993-11-27,19,3
+772,Everytime,Shae Jones,33,1999-10-09,1999-11-13,19,5
+773,I Can Love You Like That,All-4-One,33,1995-08-12,1995-09-23,19,5
+774,I've Been Having An Affair,Tonya,34,1997-07-19,1997-09-06,19,4
+775,So Anxious,Ginuwine,35,1999-09-25,1999-10-30,19,6
+776,Silver Bells,A Few Good Men,26,1994-01-08,1995-01-07,18,2
+777,Where You Are,El DeBarge,31,1995-04-01,1995-04-15,18,3
+778,I Got You,Johnny Gill,32,1993-09-25,1993-10-09,18,3
+779,Shu-B,Guesss,33,1993-10-16,1993-11-06,18,4
+780,One For The Money,Horace Brown,35,1996-04-13,1996-06-01,18,6
+781,One More Day,New Edition,36,1997-06-21,1997-07-19,18,5
+782,I'm So Proud,The Isley Brothers,36,1994-07-09,1994-08-20,18,6
+783,Love Sign,Nona Gaye & *Prince Symbol*,31,1994-08-20,1994-09-03,17,3
+784,The Gift,Peabo Bryson & Roberta Flack,35,1998-12-26,1999-01-09,17,3
+785,Back To Living Again,Curtis Mayfield,36,1997-09-06,1997-10-04,17,4
+786,Treat Myself,Stevie Wonder,35,1995-10-14,1995-10-28,16,3
+787,Cantaloop (Flip Fantasia),US3,35,1994-04-16,1994-05-07,16,4
+788,Colors Of The Wind,Vanessa Williams,30,1995-07-15,1995-07-22,15,2
+789,I'm Your Angel,R. Kelly & Celine Dion,31,1998-12-12,1998-12-19,15,2
+790,Think About You,BLACKstreet,31,1999-08-21,1999-09-04,15,3
+791,How Could You,K-Ci & JoJo,31,1996-11-30,1996-12-21,15,4
+792,Let Me Be The One,Intro,32,1993-09-18,1993-09-25,15,2
+793,They Like It Slow,H-Town,32,1997-11-15,1997-12-20,15,4
+794,What'd You Come Here For?,Trina & Tamara,33,1999-05-15,1999-06-05,15,3
+795,Wherever You Go,Voices Of Theory,33,1998-10-31,1998-11-21,15,4
+796,Freedom,Various Artists,34,1995-05-27,1995-06-10,15,3
+797,Pick Up The Phone,Levi Little,34,1998-07-18,1998-08-08,15,3
+798,Weekend Thang,Alfonzo Hunter,34,1997-02-22,1997-03-15,15,4
+799,Love No Limit,Mary J. Blige,34,1993-09-18,1993-10-16,15,4
+800,Tranquility,Al Johnson,35,1999-06-26,1999-07-24,15,5
+801,Let's Not Play The Game,Maxwell,36,1999-11-27,1999-12-25,15,4
+802,The Moon,Eric Roberson,31,1994-08-06,1994-08-13,14,2
+803,Pony,Ginuwine,33,1996-11-30,1996-12-07,14,2
+804,If I Had No Loot,Tony Toni Tone,33,1993-09-18,1993-10-02,14,3
+805,Have A Little Mercy,4.0,34,1997-10-25,1997-11-08,14,3
+806,I Can't Help It,Davina,35,1999-01-30,1999-02-13,14,3
+807,It's In God's Hands Now,Anointed,35,1995-10-21,1995-12-09,14,5
+808,Look Into Your Heart,Whitney Houston,36,1994-05-21,1994-06-04,14,3
+809,Spoon,Chaka Khan,38,1998-11-07,1998-12-19,14,6
+810,Never Find Someone Like You,Keith Martin,33,1995-04-22,1995-05-06,13,3
+811,Ain't It Good To Know,JK,34,1998-10-17,1998-10-31,13,3
+812,Infatuation,Laurnea,36,1997-11-22,1997-12-20,13,4
+813,Girlfriend/Boyfriend,BLACKstreet With Janet,36,1999-04-10,1999-05-08,13,5
+814,Are You That Somebody?,Aaliyah,33,1998-09-05,1998-09-26,12,3
+815,For The Love Of You,Jordan Hill,34,1996-07-06,1996-07-13,12,2
+816,How Many Times,Gerald Levert,34,1995-06-17,1995-06-24,12,2
+817,Been Found,Ashford & Simpson With Maya Angelou,35,1996-12-21,1996-12-28,12,2
+818,Got Me Waiting,Heavy D & The Boyz,35,1994-05-14,1994-05-28,12,3
+819,We Got It,Immature (Featuring Smooth),35,1996-01-20,1996-02-03,12,3
+820,Are You Ready,Boney James,36,1999-10-02,1999-10-16,12,3
+821,Regulate,Warren G & Nate Dogg,34,1994-06-04,1994-06-11,11,2
+822,I'm Gonna Make You Mine,Tanya Blount,34,1994-05-07,1994-05-14,11,2
+823,Sexual Healing,Fourplay Featuring El DeBarge,35,1998-10-17,1998-10-24,11,2
+824,This Crazy Life Of Mine,Chaka Khan,35,1999-05-01,1999-05-15,11,2
+825,I'm Still In Love With You,Al B. Sure!,36,1994-04-16,1994-04-30,11,3
+826,"After 12, Before 6",Sam Salter,36,1997-09-20,1997-10-11,11,4
+827,"No, No, No",Destiny's Child,36,1998-03-21,1998-05-02,11,4
+828,Can You Stop The Rain,"Grover Washington, Jr.",37,1996-10-12,1996-11-02,11,3
+829,What Would You Do For Love,Jonathan Butler,37,1999-09-11,1999-10-02,11,4
+830,Just The Way (Playas Play),Alfonzo Hunter,37,1996-10-26,1996-12-14,11,5
+831,Special Gift,The Isley Brothers,31,1998-01-10,1998-01-10,10,1
+832,Run To You,Whitney Houston,31,1993-09-18,1993-09-18,10,1
+833,It's You That I Need,Guesss,33,1994-07-09,1994-07-16,10,2
+834,When Love Goes Wrong,"Earth, Wind & Fire",33,1997-10-25,1997-11-08,10,3
+835,Better Than Me,Terry Dexter,36,1999-07-03,1999-07-17,10,3
+836,Outside Your Door,MeShell Ndegeocello,36,1994-06-04,1994-06-25,10,4
+837,Because You Loved Me,James Grear & Company,37,1999-03-27,1999-04-24,10,3
+838,Smile,Day Ta Day,37,1997-01-11,1997-02-01,10,4
+839,1999,Prince,32,1999-01-16,1999-01-16,9,1
+840,I'll Be Around,Russ Freeman/Rippintons Featuring Jeffrey Osborne,33,1994-09-24,1994-10-01,9,2
+841,Underneath The Stars,Mariah Carey,35,1996-08-17,1996-08-31,9,3
+842,Did You Ever Think,R. Kelly,36,1999-07-10,1999-07-17,9,2
+843,Tears On My Pillow,Velvet 4,37,1999-11-27,1999-12-11,9,3
+844,I've Had Enough,Cindy Mizelle,38,1994-10-15,1994-11-19,9,4
+845,Feels Like The First Time,Intro,38,1996-03-16,1996-04-13,9,5
+846,Someday At Christmas,Stevie Wonder,33,1998-01-10,1998-01-10,8,1
+847,If You Want It,Soul For Real,35,1995-10-07,1995-10-14,8,2
+848,Straight From My Heart,U.N.V.,36,1993-12-04,1993-12-18,8,3
+849,This Time Around,Michael Jackson,37,1996-01-20,1996-01-27,8,2
+850,Now Love Has No End,Michael Franks,37,1999-07-31,1999-08-14,8,3
+851,Blackberry Molasses,Mista,38,1996-08-03,1996-08-31,8,3
+852,Tomorrow Robins Will Sing,Stevie Wonder,38,1995-07-01,1995-07-22,8,4
+853,No One Else,Total,39,1996-02-24,1996-03-23,8,4
+854,Get Involved,Raphael Saadiq & Q-Tip,34,1999-05-22,1999-05-22,7,1
+855,Thank God I Found You,Mariah Carey Featuring Joe & 98 Degrees,35,1999-12-18,1999-12-25,7,2
+856,Not Enough Hours In The Night,After 7,36,1995-01-21,1995-01-28,7,2
+857,That Girl,Maxi Priest Featuring Shaggy,37,1996-09-21,1996-09-28,7,2
+858,Can't Let Her Go,Boyz II Men,37,1998-05-23,1998-05-30,7,2
+859,A Dream,Mary J. Blige,37,1998-02-07,1998-02-14,7,2
+860,Ain't Nobody,Faith Evans,37,1996-05-04,1996-05-18,7,2
+861,Let's Get It On,Shabba Ranks,37,1995-03-18,1995-04-01,7,3
+862,Lessons Learned,Funky Poets,38,1994-03-26,1994-04-09,7,3
+863,Tell Me Where It Hurts,Guesss,35,1994-04-16,1994-04-16,6,1
+864,Warm Summer Daze,Vybe,35,1995-08-26,1995-08-26,6,1
+865,Natural Woman,H-Town,35,1998-04-04,1998-04-04,6,1
+866,Tell Me Something,Inner Shade,36,1999-05-22,1999-05-29,6,2
+867,Spend The Night,"Earth, Wind & Fire",36,1994-01-01,1994-01-22,6,2
+868,All Out Of Love,Cozette Morgan,36,1995-09-09,1995-09-16,6,2
+869,Sugarfree,Diana Ross,36,1999-08-14,1999-08-28,6,2
+870,Home,4U,36,1996-07-27,1996-08-03,6,2
+871,Jingle Bells,BeBe & CeCe Winans,36,1994-01-08,1995-01-07,6,2
+872,A Shade Of Blue,Incognito,37,1997-05-03,1997-06-07,6,3
+873,The Moment,Kenny G,37,1996-11-02,1996-11-16,6,3
+874,Jesus To A Child,George Michael,37,1996-02-24,1996-03-09,6,3
+875,They Don't Care About Us,Michael Jackson,38,1996-06-22,1996-07-06,6,3
+876,Take Me Higher,Diana Ross,36,1995-10-14,1995-10-14,5,1
+877,Blood On The Dance Floor,Michael Jackson,36,1997-05-03,1997-05-03,5,1
+878,You Don't Have To Cry,N2U,36,1994-09-03,1994-09-03,5,1
+879,Breathless,All-4-One,36,1994-10-29,1994-10-29,5,1
+880,Got To Be Love,Paul Hardcastle,37,1997-03-08,1997-03-15,5,2
+881,That Was Then This Is Now,Vanessa Rubin,38,1997-11-01,1997-11-15,5,2
+882,Happiness,Billy Lawrence,38,1994-08-20,1994-08-27,5,2
+883,There You Are,Sam Salter,38,1998-06-27,1998-07-04,5,2
+884,When I Need Somebody,Ralph Tresvant,39,1994-05-07,1994-05-21,5,3
+885,You Were There,Babyface,39,1998-10-10,1998-10-24,5,3
+886,Beautiful Black People,James Grear & Company,39,1998-03-14,1998-04-04,5,3
+887,It's On Tonight,Sam Salter,39,1998-01-24,1998-02-21,5,4
+888,Only Love,The Braxtons,37,1997-02-15,1997-02-15,4,1
+889,U Don't Know Me (Like U Used To),Brandy,37,1999-11-20,1999-11-20,4,1
+890,Sara Smile,Lenny Williams,37,1995-05-20,1995-05-20,4,1
+891,If Your Girl Only Knew,Aaliyah,38,1996-09-28,1996-10-26,4,2
+892,If That's Your Boyfriend (He Wasn't Last Night),MeShell Ndegeocello,38,1994-04-16,1994-04-30,4,2
+893,Summer Love,George Benson,38,1997-08-16,1997-08-30,4,2
+894,Up On The Roof,II D Extreme,39,1993-12-18,1993-12-25,4,2
+895,So In Love With You,U.N.V.,38,1995-07-15,1995-07-15,3,1
+896,Last Night's Letter,K-Ci & JoJo,38,1997-10-25,1997-10-25,3,1
+897,Lick U Up,H-Town,38,1993-09-18,1993-09-18,3,1
+898,I Promise You,Dionne Warwick,38,1998-12-12,1998-12-12,3,1
+899,Satisfy You,"Damion ""Crazy Legs"" Hall With Chante Moore",38,1994-06-04,1994-06-04,3,1
+900,My Love Is The Shhh!,Somethin' For The People Featuring Trina & Tamara,38,1998-01-17,1998-01-17,3,1
+901,Same One,Sean Levert,38,1995-09-02,1995-09-02,3,1
+902,Here I Am,Glenn Jones,38,1994-08-27,1994-08-27,3,1
+903,Crazy For You,Eboni Foster,38,1998-04-25,1998-04-25,3,1
+904,All I Need,Jesse Powell,38,1996-04-27,1996-04-27,3,1
+905,Somethin' 4 Da Honeyz,Montell Jordan,39,1995-09-23,1995-09-30,3,2
+906,Mind Blowing (Phatt),David Josias,39,1995-12-02,1995-12-09,3,2
+907,Thinking Of You,Lenny Kravitz,39,1998-10-17,1998-10-17,2,1
+908,Stay,MeShell Ndegeocello,39,1997-03-22,1997-03-22,2,1
+909,Butta Love,Next,39,1998-01-17,1998-01-17,2,1
+910,Do Your Thing,7 Mile,39,1998-07-18,1998-07-18,2,1
+911,Funny How Time Flies,Intro,39,1995-12-16,1995-12-16,2,1
+912,Somebody To Love,Levi Little,39,1998-11-21,1998-11-21,2,1
+913,Yours Faithfully,Rebbie Jackson,39,1998-03-21,1998-03-21,2,1
+914,I Just Can't,Faith Evans,39,1996-12-21,1996-12-21,2,1
+915,Caravan Of Love,Russ Freeman & The Rippingtons Featuring The Whispers & Phil Perry,39,1996-05-18,1996-05-18,2,1
+916,If You Really Wanna Know,Marc Dorsey,39,1999-06-12,1999-06-12,2,1
+917,Want U Back,ME-2-U,39,1993-09-18,1993-09-18,2,1
+918,The Christmas Song (Merry Christmas To You),Nat King Cole,40,1997-01-04,1997-01-11,2,2
+919,Can We Try Again,The Braxton Brothers,40,1999-09-04,1999-10-16,2,2
+920,Some Enchanted Evening,The Temptations,40,1995-10-21,1995-11-18,2,2
+921,Sweet Funky Thing,Eternal,40,1994-08-13,1994-09-10,2,2
+922,Baby I'm Back,JT Taylor,40,1993-12-18,1993-12-25,2,2
+923,Fly Away,Jaze,40,1999-07-17,1999-07-17,1,1
+924,How Deep Is Your Love,Dru Hill Featuring Redman,40,1999-01-02,1999-01-02,1,1
+925,That's All I Want,Az Yet,40,1997-07-26,1997-07-26,1,1
+926,Love Enuff,Soul II Soul,40,1995-10-14,1995-10-14,1,1
+927,(You Make Me Feel Like) A Natural Woman,Mary J. Blige,40,1995-10-07,1995-10-07,1,1
+928,Beauty,Dru Hill,40,1999-10-30,1999-10-30,1,1
+929,Settle Down,Big Bub,40,1998-05-16,1998-05-16,1,1
+930,Let It Go,Ray J,40,1997-04-12,1997-04-12,1,1
+931,Have I Never,A Few Good Men,40,1996-04-20,1996-04-20,1,1
+932,I Can Go Deep,Silk,40,1994-12-10,1994-12-10,1,1
+933,I Wanna Know You,Howard Hewett,40,1995-06-17,1995-06-17,1,1
+934,Girl U For Me,Silk,40,1993-09-25,1993-09-25,1,1
+935,This Could Be Real,Richard Elliot Featuring Siedah Garrett,40,1999-07-31,1999-07-31,1,1
+936,Shorty (Got Her Eyes On Me),Donell Jones,40,1999-07-03,1999-07-03,1,1
+937,Back To Love,George Benson,40,1999-01-30,1999-01-30,1,1
+938,"Baby, Baby, Baby, Baby, Baby...",R. Kelly,40,1996-03-16,1996-03-16,1,1
+939,If You're Not Gonna Love Me Right,Diana Ross,40,1996-03-30,1996-03-30,1,1
+940,Only You,Tami Davis,40,1998-12-19,1998-12-19,1,1
+941,True Dat,Levert,40,1997-03-22,1997-03-22,1,1

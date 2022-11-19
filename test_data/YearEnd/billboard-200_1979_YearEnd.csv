@@ -1,0 +1,800 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Minute By Minute,The Doobie Brothers,1,1979-01-06,1979-12-29,9743,52
+2,Breakfast In America,Supertramp,1,1979-03-31,1979-12-29,9687,40
+3,The Cars,The Cars,18,1979-01-06,1979-12-29,8028,52
+4,The Gambler,Kenny Rogers,12,1979-01-06,1979-12-29,8005,52
+5,Cheap Trick At Budokan,Cheap Trick,4,1979-02-24,1979-12-29,7940,45
+6,Spirits Having Flown,Bee Gees,1,1979-02-17,1979-12-29,7806,46
+7,Pieces Of Eight,Styx,19,1979-01-06,1979-12-29,7404,52
+8,Parallel Lines,Blondie,6,1979-01-06,1979-12-29,7218,52
+9,52nd Street,Billy Joel,1,1979-01-06,1979-10-27,7212,43
+10,Bad Girls,Donna Summer,1,1979-05-12,1979-12-29,7188,34
+11,2-hot,Peaches & Herb,2,1979-01-06,1979-10-06,6910,40
+12,Live And More,Donna Summer,12,1979-01-06,1979-12-29,6795,52
+13,Dire Straits,Dire Straits,2,1979-01-06,1979-10-13,6660,41
+14,Blondes Have More Fun,Rod Stewart,1,1979-01-06,1979-09-01,6571,35
+15,Desolation Angels,Bad Company,3,1979-03-31,1979-12-08,6515,37
+16,Rickie Lee Jones,Rickie Lee Jones,3,1979-04-07,1979-12-08,6180,36
+17,Van Halen II,Van Halen,6,1979-04-14,1979-12-29,6106,38
+18,Get The Knack,The Knack,1,1979-06-30,1979-12-29,6029,27
+19,Evolution,Journey,20,1979-04-14,1979-12-29,5977,38
+20,Legend,Poco,14,1979-01-06,1979-11-17,5915,46
+21,"The Best Of Earth, Wind & Fire, Vol. I","Earth, Wind & Fire",6,1979-01-06,1979-12-29,5810,52
+22,I Am,"Earth, Wind & Fire",3,1979-06-16,1979-12-29,5701,29
+23,Candy-O,The Cars,3,1979-06-30,1979-12-29,5596,27
+24,Van Halen,Van Halen,33,1979-01-06,1979-12-29,5516,50
+25,Disco Nights,GQ,13,1979-04-07,1979-12-01,5382,35
+26,Cruisin',Village People,3,1979-01-06,1979-08-25,5365,34
+27,Morning Dance,Spyro Gyra,27,1979-04-07,1979-12-29,5341,39
+28,We Are Family,Sister Sledge,3,1979-02-24,1979-10-06,5300,33
+29,Million Mile Reflections,The Charlie Daniels Band,5,1979-05-12,1979-12-29,5286,34
+30,Destiny,The Jacksons,11,1979-01-06,1979-09-22,5083,38
+31,Discovery,Electric Light Orchestra,5,1979-06-23,1979-12-29,5056,28
+32,Toto,Toto,9,1979-01-06,1979-09-15,5021,37
+33,Love Tracks,Gloria Gaynor,4,1979-01-06,1979-08-25,4968,34
+34,Brief Case Full Of Blues,Blues Brothers,1,1979-01-06,1979-07-07,4960,27
+35,C'est Chic,Chic,4,1979-01-06,1979-10-27,4947,43
+36,Move It On Over,George Thorogood & The Destroyers,33,1979-01-06,1979-10-27,4843,43
+37,Greatest Hits,Barry Manilow,7,1979-01-06,1979-12-29,4801,43
+38,Totally Hot,Olivia Newton-John,7,1979-01-06,1979-09-22,4766,35
+39,In Through The Out Door,Led Zeppelin,1,1979-09-08,1979-12-29,4715,17
+40,Stranger In Town,Bob Seger,22,1979-01-06,1979-12-08,4601,49
+41,Street Life,The Crusaders,18,1979-06-09,1979-12-29,4544,30
+42,Midnight Magic,Commodores,3,1979-08-18,1979-12-29,4497,20
+43,Dionne,Dionne Warwick,12,1979-06-09,1979-12-29,4464,30
+44,The Stranger,Billy Joel,28,1979-01-06,1979-10-13,4378,41
+45,Greatest Hits,Waylon Jennings,28,1979-05-05,1979-12-29,4361,35
+46,Look Sharp,Joe Jackson,20,1979-04-07,1979-12-29,4309,39
+47,The Boss,Diana Ross,14,1979-06-16,1979-12-29,4195,29
+48,Saturday Night Fever,Soundtrack,36,1979-01-06,1979-12-29,4184,52
+49,Rust Never Sleeps,Neil Young,8,1979-07-21,1979-12-29,4084,24
+50,Teddy,Teddy Pendergrass,5,1979-06-23,1979-12-29,4076,28
+51,Some Girls,The Rolling Stones,19,1979-01-06,1979-09-29,4037,39
+52,Bombs Away Dream Babies,Jon Stewart,10,1979-05-19,1979-11-24,3980,28
+53,"Barbra Streisand's Greatest Hits, Volume 2",Barbra Streisand,1,1979-01-06,1979-10-13,3974,41
+54,Backless,Eric Clapton,8,1979-01-06,1979-08-11,3890,32
+55,Livin' Inside Your Love,George Benson,7,1979-03-17,1979-09-08,3812,26
+56,Bustin' Out Of L.seven,Rick James,16,1979-02-10,1979-08-11,3797,27
+57,Double Vision,Foreigner,9,1979-01-06,1979-11-24,3796,47
+58,Off The Wall,Michael Jackson,5,1979-09-01,1979-12-29,3737,18
+59,What Cha Gonna Do With My Lovin',Stephanie Mills,22,1979-05-19,1979-12-29,3691,33
+60,Rock On,Raydio,45,1979-04-14,1979-11-03,3683,30
+61,Nicolette,Nicolette Larson,15,1979-01-06,1979-07-28,3664,30
+62,Grease,Soundtrack,5,1979-01-06,1979-11-03,3660,39
+63,You Don't Bring Me Flowers,Neil Diamond,4,1979-01-06,1979-06-30,3640,26
+64,The Kids Are Alright (Soundtrack),The Who,8,1979-06-30,1979-12-15,3555,25
+65,Strikes,Blackfoot,42,1979-05-12,1979-12-29,3525,34
+66,First Under The Wire,Little River Band,10,1979-08-04,1979-12-29,3515,22
+67,Life For The Taking,Eddie Money,17,1979-01-27,1979-07-21,3453,26
+68,Enlightened Rogues,The Allman Brothers Band,9,1979-03-17,1979-08-25,3445,24
+69,Outlandos D'amour,The Police,23,1979-03-03,1979-09-01,3424,27
+70,Energy,The Pointer Sisters,13,1979-01-06,1979-07-07,3408,27
+71,Dynasty,KISS,9,1979-06-23,1979-12-08,3367,25
+72,Slow Train Coming,Bob Dylan,3,1979-09-08,1979-12-29,3342,17
+73,Armed Forces,Elvis Costello,10,1979-01-27,1979-07-14,3340,25
+74,Voulez-Vous,ABBA,19,1979-07-07,1979-12-29,3320,26
+75,Flag,James Taylor,10,1979-05-12,1979-10-13,3309,23
+76,Dog And Butterfly,Heart,17,1979-01-06,1979-06-09,3305,23
+77,Secrets,Robert Palmer,19,1979-07-21,1979-12-29,3287,24
+78,The Long Run,Eagles,1,1979-10-20,1979-12-29,3278,11
+79,Willie Nelson And Family Live,Willie Nelson,32,1979-01-06,1979-09-08,3253,36
+80,Instank Funk,Instant Funk,12,1979-02-17,1979-07-14,3252,22
+81,Back To The Egg,Wings,8,1979-06-30,1979-12-08,3215,24
+82,Head First,The Babys,22,1979-01-27,1979-07-14,3214,25
+83,Go West,Village People,8,1979-04-14,1979-09-01,3178,21
+84,You're Never Alone With A Schizophrenic,Ian Hunter,35,1979-04-28,1979-10-06,3129,24
+85,Cornerstone,Styx,2,1979-10-13,1979-12-29,3106,12
+86,Switch Ii,Switch,37,1979-06-02,1979-12-29,3098,31
+87,Highway To Hell,AC/DC,17,1979-08-25,1979-12-29,3081,19
+88,Reality... What A Concept,Robin Williams,10,1979-07-21,1979-12-15,3078,22
+89,Bobby Caldwell,Bobby Caldwell,21,1979-01-06,1979-06-16,3060,24
+90,Risque,Chic,5,1979-08-25,1979-12-15,3022,17
+91,Minnie,Minnie Riperton,29,1979-05-19,1979-11-17,3012,27
+92,Touch Down,Bob James,37,1979-01-06,1979-06-30,3005,26
+93,Monolith,Kansas,10,1979-06-09,1979-11-17,2995,24
+94,Just A Game,Triumph,48,1979-05-05,1979-11-10,2991,28
+95,Sheik Yer Bouti,Frank Zappa,21,1979-03-24,1979-08-25,2985,23
+96,Head Games,Foreigner,5,1979-09-29,1979-12-29,2973,14
+97,An Evening Of Magic - Chuck Mangione Live At The Hollywood Bowl,Chuck Mangione,27,1979-06-30,1979-12-01,2958,23
+98,Knock On Wood,Amii Stewart,19,1979-03-17,1979-08-18,2932,23
+99,New Kind Of Feeling,Anne Murray,23,1979-02-17,1979-09-01,2919,29
+100,Macho Man,Village People,44,1979-01-06,1979-07-14,2908,28
+101,"Here,my Dear",Marvin Gaye,26,1979-01-06,1979-05-26,2874,21
+102,Songs Of Love,Anita Ward,8,1979-05-26,1979-09-29,2870,19
+103,Labour Of Lust,Nick Lowe,31,1979-07-14,1979-12-08,2867,22
+104,Cheryl Lynn,Cheryl Lynn,23,1979-01-06,1979-06-09,2851,23
+105,The Muppet Movie: Original Soundtrack Recording,Soundtrack,32,1979-07-21,1979-12-29,2794,24
+106,Communique,Dire Straits,11,1979-06-30,1979-11-03,2775,19
+107,Underdog,The Atlanta Rhythm Section,26,1979-06-23,1979-11-10,2764,21
+108,Sooner Or Later,Rex Smith,19,1979-04-28,1979-09-01,2742,19
+109,A Night At Studio 54,Various Artists,21,1979-07-28,1979-12-29,2737,23
+110,Low Budget,The Kinks,11,1979-07-28,1979-11-24,2725,18
+111,Fear Of Music,Talking Heads,21,1979-09-01,1979-12-29,2691,18
+112,Do You Wanna Go Party,KC And The Sunshine Band,50,1979-07-07,1979-12-29,2668,26
+113,Night Owl,Gerry Rafferty,29,1979-06-16,1979-11-03,2665,21
+114,Take Me Home,Cher,25,1979-02-24,1979-07-14,2654,21
+115,A Wild And Crazy Guy,Steve Martin,2,1979-01-06,1979-04-28,2651,17
+116,Eve,The Alan Parsons Project,13,1979-09-15,1979-12-29,2626,16
+117,Mingus,Joni Mitchell,17,1979-07-07,1979-11-03,2626,18
+118,Pat Travers Band Live! Go For What You Know,Pat Travers,29,1979-07-21,1979-12-15,2623,22
+119,Running Like The Wind,The Marshall Tucker Band,30,1979-05-05,1979-09-29,2621,22
+120,Angie,Angela Bofill,47,1979-02-17,1979-08-11,2619,26
+121,Squeezing Out Sparks,Graham Parker,40,1979-04-14,1979-09-22,2616,24
+122,Inner Secrets,Santana,53,1979-01-06,1979-06-16,2588,24
+123,Volcano,Jimmy Buffett,14,1979-09-15,1979-12-29,2582,16
+124,Devotion,LTD,29,1979-07-21,1979-12-29,2566,24
+125,Crosswinds,Peabo Bryson,35,1979-01-06,1979-06-02,2557,22
+126,Winner Takes All,The Isley Brothers,14,1979-06-16,1979-10-27,2554,20
+127,Stay Free,Ashford & Simpson,23,1979-09-01,1979-12-29,2553,18
+128,Don't Cry Out Loud,Melissa Manchester,33,1979-01-06,1979-06-09,2548,23
+129,Bob Dylan At Budokan,Bob Dylan,13,1979-05-12,1979-10-27,2537,25
+130,Fly Away,Voyage,47,1979-01-06,1979-06-16,2536,24
+131,The Main Event,Barbra Streisand,20,1979-07-07,1979-11-03,2523,18
+132,Candy,ConFunkShun,46,1979-06-02,1979-10-27,2517,22
+133,Wave,Patti Smith,18,1979-05-19,1979-09-22,2514,19
+134,Rise,Herb Alpert,6,1979-10-13,1979-12-29,2497,12
+135,Kenny,Kenny Rogers,11,1979-09-29,1979-12-29,2494,14
+136,Dream Police,Cheap Trick,6,1979-10-06,1979-12-29,2450,13
+137,George Harrison,George Harrison,14,1979-03-17,1979-07-14,2445,18
+138,Ladies' Night,Kool & The Gang,13,1979-09-22,1979-12-29,2418,15
+139,Living In The U.S.A.,Linda Ronstadt,17,1979-01-06,1979-05-12,2375,19
+140,Inspiration,Maze,33,1979-04-07,1979-09-01,2365,22
+141,Identify Yourself,The O'Jays,16,1979-09-15,1979-12-29,2361,16
+142,Rockets,Rockats,56,1979-04-14,1979-10-06,2359,26
+143,Paradise,"Grover Washington, Jr.",24,1979-04-28,1979-09-01,2339,19
+144,Flirtin' With Disaster,Molly Hatchet,19,1979-09-29,1979-12-29,2338,14
+145,Children Of The Sun,Billy Thorpe,39,1979-05-05,1979-11-03,2332,23
+146,On The Radio: Greatest Hits: Volumes I & II,Donna Summer,2,1979-11-03,1979-12-29,2328,9
+147,Bell + James,Bell And James,31,1979-02-03,1979-06-09,2325,19
+148,More Songs About Buildings And Food,Talking Heads,42,1979-01-06,1979-05-26,2323,21
+149,Sleeper Catcher,Little River Band,60,1979-01-06,1979-08-11,2320,32
+150,Nine Lives,REO Speedwagon,33,1979-08-11,1979-12-15,2313,19
+151,If You Knew Suzi,Suzi Quatro,37,1979-03-24,1979-08-04,2308,20
+152,Heartstrings,Earl Klugh,49,1979-05-19,1979-10-06,2293,21
+153,"Mcguinn,clark + Hillman","McGuinn, Clark & Hillman",39,1979-02-24,1979-06-30,2264,19
+154,Brother To Brother,Gino Vannelli,23,1979-01-06,1979-05-26,2259,21
+155,State Of Shock,Ted Nugent,18,1979-06-02,1979-09-29,2224,18
+156,Manifesto,Roxy Music,23,1979-03-31,1979-07-14,2195,16
+157,Secret Omen,Cameo,46,1979-07-28,1979-12-15,2193,21
+158,Let Me Be Your Woman,Linda Clifford,26,1979-04-07,1979-07-28,2188,17
+159,Tusk,Fleetwood Mac,4,1979-11-03,1979-12-29,2172,9
+160,Future Now,Pleasure,67,1979-08-11,1979-12-29,2163,21
+161,Carmel,Joe Sample,56,1979-02-10,1979-08-04,2161,26
+162,Wanted,Richard Pryor,32,1979-01-06,1979-04-28,2160,17
+163,Mcfadden + Whitehead,McFadden And Whitehead,23,1979-06-02,1979-09-22,2159,17
+164,Restless Nights,Karla Bonoff,31,1979-09-29,1979-12-29,2154,14
+165,Blue Kentucky Girl,Emmylou Harris,43,1979-05-05,1979-09-29,2116,22
+166,One Voice,Barry Manilow,9,1979-10-20,1979-12-29,2112,11
+167,Where I Should Be,Peter Frampton,19,1979-06-23,1979-10-06,2107,16
+168,Lodger,David Bowie,20,1979-06-16,1979-09-22,2104,15
+169,Feets Don't Fail Me Now,Herbie Hancock,38,1979-03-17,1979-08-11,2103,22
+170,Where There's Smoke,Smokey Robinson,55,1979-06-30,1979-12-29,2099,27
+171,Comes A Time,Neil Young,38,1979-01-06,1979-05-12,2096,19
+172,Time Passages,Al Stewart,24,1979-01-06,1979-05-05,2094,18
+173,"Strange Man,changed Man",Bram Tchaikovsky,36,1979-06-30,1979-10-27,2089,18
+174,Jazz,Queen,6,1979-01-06,1979-04-07,2085,14
+175,Let's Keep It That Way,Anne Murray,62,1979-01-06,1979-05-26,2081,21
+176,Hot Streets,Chicago,55,1979-01-06,1979-05-05,2078,18
+177,Fickle Heart,Sniff N The Tears,35,1979-07-28,1979-11-17,2041,17
+178,Molly Hatchet,Molly Hatchet,64,1979-04-28,1979-12-29,2040,30
+179,Motor Booty Affair,Parliament,23,1979-01-06,1979-04-14,2024,15
+180,Music Box Dancer,Frank Mills,21,1979-03-17,1979-06-30,2010,16
+181,New Chautauqua,Pat Metheny Group,44,1979-05-05,1979-09-29,1996,22
+182,Midnight Express,Soundtrack,59,1979-01-06,1979-05-19,1996,20
+183,Three Hearts,Bob Welch,20,1979-03-10,1979-06-30,1991,17
+184,Sanctuary,The J. Geils Band,49,1979-01-06,1979-05-12,1983,19
+185,Twin Sons Of Different Mothers,Fogelberg And Weisberg,48,1979-01-06,1979-05-12,1979,19
+186,Wet,Barbra Streisand,7,1979-11-03,1979-12-29,1967,9
+187,Children Of Sanchez,Chuck Mangione,59,1979-01-06,1979-07-21,1965,29
+188,One For The Road,Willie Nelson And Leon Russell,25,1979-06-30,1979-10-27,1951,18
+189,Queen Live Killer,Queen,16,1979-07-07,1979-10-06,1949,14
+190,John Denver,John Denver,25,1979-01-27,1979-05-05,1943,15
+191,The Thom Bell Sessions,Elton John,51,1979-06-30,1979-10-27,1940,18
+192,Mirrors,Blue Oyster Cult,44,1979-07-07,1979-10-27,1930,17
+193,Miss The Mississippi,Crystal Gayle,36,1979-09-29,1979-12-29,1926,14
+194,Hot Numbers,Foxy,29,1979-04-14,1979-07-28,1920,16
+195,Eat To The Beat,Blondie,17,1979-10-20,1979-12-29,1917,11
+196,France Joli,France Joli,26,1979-09-08,1979-12-29,1917,17
+197,Keep The Fire,Kenny Loggins,18,1979-10-20,1979-12-29,1900,11
+198,Greatest Hits 1974-78,The Steve Miller Band,18,1979-01-06,1979-04-07,1900,14
+199,Shakedown Street,Grateful Dead,41,1979-01-06,1979-04-14,1895,15
+200,Music Box,"Evelyn ""Champagne"" King",35,1979-04-14,1979-08-04,1891,17
+201,Bat Out Of Hell,Meat Loaf,43,1979-01-06,1979-10-27,1874,20
+202,Stormwatch ... The 40th Anniversary Forced Edition,Jethro Tull,22,1979-10-06,1979-12-29,1867,13
+203,Love Drive,Scorpions,55,1979-07-28,1979-12-29,1862,23
+204,Journey To Addis,Third World,55,1979-01-06,1979-05-05,1851,18
+205,Gold,Jefferson Starship,20,1979-02-17,1979-05-19,1838,14
+206,Fearless,Tim Curry,53,1979-09-08,1979-12-29,1838,17
+207,Pleasure + Pain,Dr. Hook,66,1979-01-06,1979-10-06,1836,27
+208,The B-52's,The B-52s,65,1979-08-11,1979-12-15,1831,19
+209,Bustin' Loose,Chuck Brown & The Soul Searchers,31,1979-02-17,1979-05-19,1816,14
+210,Joe's Garage,Frank Zappa,27,1979-09-22,1979-12-29,1805,15
+211,The Jones Girls,The Jones Girls,50,1979-06-09,1979-09-22,1800,16
+212,Comedy Is Not Pretty,Steve Martin,25,1979-10-06,1979-12-29,1796,13
+213,Alicia Bridges,Alicia Bridges,33,1979-01-06,1979-05-05,1796,18
+214,Live Bootleg,Aerosmith,13,1979-01-06,1979-04-07,1787,14
+215,Greatest Hits,Steely Dan,30,1979-01-06,1979-04-14,1784,15
+216,Every 1's A Winner,Hot Chocolate,31,1979-01-06,1979-04-21,1779,16
+217,The Music Band,War,41,1979-04-14,1979-07-28,1777,16
+218,The Glow,Bonnie Raitt,30,1979-10-13,1979-12-29,1763,12
+219,Tnt,Tanya Tucker,54,1979-01-06,1979-04-28,1754,17
+220,In The Purest Form,Mass Production,43,1979-07-21,1979-11-10,1733,17
+221,Strangers In The Night,UFO,42,1979-02-03,1979-05-12,1725,15
+222,T-connection,T-Connection,51,1979-01-27,1979-06-02,1724,19
+223,Tycoon,Tycoon,41,1979-03-31,1979-07-21,1716,17
+224,Bop Till You Drop,Ry Cooder,62,1979-08-11,1979-11-17,1716,15
+225,Into The Music,Van Morrison,43,1979-09-08,1979-12-01,1713,13
+226,Live And Sleazy,Village People,32,1979-10-20,1979-12-29,1712,11
+227,Feel The Need,Leif Garrett,34,1979-01-06,1979-03-31,1700,13
+228,Heartbeat,Curtis Mayfield,42,1979-08-11,1979-11-24,1698,16
+229,Remote Control,The Tubes,46,1979-03-31,1979-07-28,1695,18
+230,Lead Me On,Maxine Nightingale,45,1979-07-21,1979-11-17,1688,18
+231,You're Only Lonely,J.D. Souther,41,1979-09-22,1979-12-29,1682,15
+232,Get Down,Gene Chandler,47,1979-01-06,1979-04-07,1675,14
+233,I'm The Man,Joe Jackson,22,1979-10-27,1979-12-29,1672,10
+234,Marathon,Santana,25,1979-10-20,1979-12-29,1670,11
+235,Don't Look Back,Boston,50,1979-01-06,1979-04-28,1661,17
+236,The Records,The Records,41,1979-08-25,1979-11-24,1657,14
+237,Don't Let Go,Isaac Hayes,42,1979-09-29,1979-12-29,1656,14
+238,Thighs And Whispers,Bette Midler,65,1979-09-22,1979-12-29,1638,15
+239,The Jukes,Southside Johnny & The Asbury Jukes,48,1979-08-18,1979-11-17,1637,14
+240,Shot Of Love,Lakeside,74,1979-01-06,1979-05-12,1629,19
+241,Bee Gee's Greatest,Bee Gees,5,1979-11-17,1979-12-29,1616,7
+242,Ten Years Of Gold,Kenny Rogers,97,1979-05-26,1979-12-29,1611,28
+243,New England,New England,50,1979-05-19,1979-09-08,1603,17
+244,Nils,Nils Lofgren,54,1979-07-21,1979-10-20,1603,14
+245,Tiger In The Rain,Michael Franks,68,1979-03-17,1979-06-30,1603,16
+246,Hard Times For Lovers,Judy Collins,54,1979-03-17,1979-06-30,1597,16
+247,Brenda Russell,Brenda Russell,65,1979-09-22,1979-12-29,1597,15
+248,Let Me Be Good To You,Lou Rawls,49,1979-06-02,1979-09-08,1594,15
+249,I Love You So,Natalie Cole,52,1979-04-07,1979-07-14,1585,15
+250,X-static,Daryl Hall John Oates,33,1979-10-27,1979-12-29,1579,10
+251,Journey Through The Secret Life Of Plants,Stevie Wonder,4,1979-11-24,1979-12-29,1569,6
+252,Mirror Stars,The Fabulous Poodles,61,1979-02-10,1979-06-02,1567,17
+253,Stars,Sylvester,63,1979-04-28,1979-08-04,1561,15
+254,Repeat When Necessary,Dave Edmunds,54,1979-08-04,1979-11-10,1560,15
+255,Wings Greatest,Wings,29,1979-01-06,1979-04-07,1553,14
+256,Commodores' Greatest Hits,Commodores,23,1979-01-06,1979-04-07,1549,14
+257,Great Balls Of Fire,Dolly Parton,40,1979-06-23,1979-10-13,1543,17
+258,Uncle Jam Wants You,Funkadelic,18,1979-10-13,1979-12-29,1541,12
+259,Barry White The Man,Barry White,65,1979-01-06,1979-05-05,1533,18
+260,Rumours,Fleetwood Mac,105,1979-01-06,1979-12-29,1523,21
+261,Darkness On The Edge Of Town,Bruce Springsteen,119,1979-01-06,1979-06-30,1517,26
+262,Born To Be Alive,Patrick Hernandez,61,1979-07-28,1979-11-03,1509,15
+263,Hot Property,Heatwave,38,1979-05-12,1979-08-11,1503,14
+264,Somewhere In My Lifetime,Phyllis Hyman,70,1979-02-03,1979-05-26,1491,17
+265,Reggatta De Blanc,The Police,25,1979-11-03,1979-12-29,1483,9
+266,Superman - The Movie,Soundtrack,44,1979-01-13,1979-04-07,1473,13
+267,Ace Frehley,Ace Frehley,26,1979-01-06,1979-03-17,1472,11
+268,Damn The Torpedoes,Tom Petty And The Heartbreakers,9,1979-11-10,1979-12-29,1457,8
+269,Wild + Peaceful,Teena Marie,94,1979-05-05,1979-09-15,1453,20
+270,Shot Through The Heart,Jennifer Warnes,94,1979-06-09,1979-12-15,1450,23
+271,Boogie Motel,Foghat,35,1979-10-13,1979-12-29,1448,12
+272,The Gap Band,The Gap Band,77,1979-05-19,1979-09-15,1446,18
+273,Smooth Talk,"Evelyn ""Champagne"" King",60,1979-02-17,1979-06-16,1445,18
+274,Classics,Kenny Rogers And Dottie West,82,1979-04-14,1979-12-29,1439,21
+275,Fever,Roy Ayers,67,1979-05-26,1979-09-01,1430,15
+276,Spy,Carly Simon,45,1979-06-30,1979-09-22,1406,13
+277,Worlds Away,Pablo Cruise,61,1979-01-06,1979-04-07,1393,14
+278,Feel No Fret,Average White Band,32,1979-04-07,1979-07-14,1375,15
+279,Infinity,Journey,119,1979-01-06,1979-12-29,1370,22
+280,Back To Earth,Cat Stevens,33,1979-01-06,1979-03-31,1369,13
+281,One On One,Bob James And Earl Klugh,23,1979-11-03,1979-12-29,1365,9
+282,Loveline,Eddie Rabbitt,91,1979-06-09,1979-10-20,1365,20
+283,Flash In The Pan,Flash & The Pan,80,1979-05-26,1979-09-08,1364,16
+284,Another Taste,A Taste Of Honey,59,1979-07-14,1979-10-06,1363,13
+285,Fire It Up,Rick James,34,1979-11-03,1979-12-29,1360,9
+286,Quadrophenia,The Who,46,1979-10-13,1979-12-29,1351,12
+287,Lucky Seven,Bob James,42,1979-08-25,1979-11-24,1349,14
+288,Let The Music Play,Arpeggio,75,1979-02-10,1979-05-26,1347,16
+289,Step II,Sylvester,94,1979-01-06,1979-05-19,1342,20
+290,Chaka,Chaka Khan,32,1979-01-06,1979-03-24,1334,12
+291,Instant Replay,Dan Hartman,80,1979-01-06,1979-04-21,1324,16
+292,Shadow Dancing,Andy Gibb,58,1979-01-06,1979-04-07,1318,14
+293,I'll Always Love You,Anne Murray,29,1979-11-03,1979-12-29,1311,9
+294,Street Machine,Sammy Hagar,71,1979-09-08,1979-12-01,1309,13
+295,John Cougar,John Cougar,66,1979-08-18,1979-12-29,1308,20
+296,Elan,Firefall,27,1979-01-06,1979-04-07,1302,14
+297,Danger Money,Uk,45,1979-03-24,1979-06-02,1301,11
+298,Hair,Soundtrack,65,1979-04-07,1979-07-21,1298,16
+299,Chicago 13,Chicago,21,1979-09-01,1979-11-03,1297,10
+300,Angel Of The Night,Angela Bofill,40,1979-11-03,1979-12-29,1297,9
+301,Born Again,Randy Newman,41,1979-09-01,1979-11-10,1297,11
+302,A Taste For Passion,Jean Luc Ponty,54,1979-10-27,1979-12-29,1289,10
+303,Oasis,Jim Messina,58,1979-10-20,1979-12-29,1289,11
+304,Heat East Live,Head East,65,1979-02-03,1979-05-05,1289,14
+305,Down To Earth,Rainbow,66,1979-08-25,1979-12-01,1280,15
+306,I Wanna' Play For You,Stanley Clarke,62,1979-07-21,1979-10-20,1276,14
+307,Gimmie Some Neck,Ronnie Wood,45,1979-05-12,1979-08-04,1275,13
+308,Victim Of Love,Elton John,35,1979-10-27,1979-12-29,1266,10
+309,All Fly Home,Jarreau,90,1979-01-06,1979-04-21,1263,16
+310,Led Zeppelin IV,Led Zeppelin,89,1979-09-22,1979-12-29,1252,15
+311,Village People,Village People,100,1979-01-06,1979-05-19,1252,20
+312,Promise Of Love,Delegation,84,1979-02-17,1979-06-02,1246,16
+313,In The Heat Of The Night,Pat Benatar,45,1979-10-20,1979-12-29,1234,11
+314,Light Of Life,Barkays,86,1979-01-06,1979-04-14,1230,15
+315,8:30,Weather Report,47,1979-10-06,1979-12-15,1215,11
+316,Injoy,Barkays,35,1979-11-10,1979-12-29,1208,8
+317,Two For The Show,Kansas,32,1979-01-06,1979-03-24,1203,12
+318,Weekend Warriors,Ted Nugent,37,1979-01-06,1979-03-24,1202,12
+319,Masterjam,Rufus And Chaka Khan,14,1979-11-17,1979-12-29,1183,7
+320,Alton Mc Clain + Destiny,Alton McClain & Destiny,88,1979-03-31,1979-07-14,1183,16
+321,Heartbreaker,Dolly Parton,80,1979-01-06,1979-03-31,1179,13
+322,Twice The Fire,Peaches & Herb,31,1979-11-10,1979-12-29,1173,8
+323,Every Which Way But Loose,Soundtrack,78,1979-01-20,1979-04-28,1172,15
+324,Robert John,Robert John,68,1979-08-25,1979-11-24,1164,14
+325,Misplaced Ideals,Sad Cafe,94,1979-01-27,1979-04-28,1160,14
+326,Everybody Up,Ohio Players,80,1979-04-14,1979-07-14,1153,14
+327,Unleashed In The East (Live In Japan),Judas Priest,70,1979-10-06,1979-12-15,1151,11
+328,Outline,Gino Soccio,79,1979-04-21,1979-07-14,1145,13
+329,Clean,Edwin Starr,80,1979-01-20,1979-04-21,1140,14
+330,Hemispheres,Rush,47,1979-01-06,1979-04-07,1137,14
+331,The Grand Illusion,Styx,129,1979-01-06,1979-12-29,1133,27
+332,Do It All,Michael Henderson,64,1979-08-04,1979-10-20,1123,12
+333,Super Mann,Herbie Mann,77,1979-02-24,1979-05-19,1122,13
+334,Is It Still Good To Ya,Ashford & Simpson,57,1979-01-06,1979-03-17,1120,11
+335,In The Nick Of Time,Nicolette Larson,47,1979-11-03,1979-12-29,1113,9
+336,Keep On Dancin',Gary's Gang,42,1979-03-31,1979-06-02,1111,10
+337,This Boot Is Made For Fonk-n,Bootsy's Rubber Band,52,1979-07-21,1979-09-15,1109,9
+338,Greatest Hit's,The Marshall Tucker Band,92,1979-01-06,1979-04-21,1109,16
+339,In The Eye Of The Storm,The Outlaws,55,1979-11-03,1979-12-29,1106,9
+340,Forever,Orleans,76,1979-05-05,1979-07-28,1104,13
+341,Awakening,Narada,103,1979-03-10,1979-06-23,1101,16
+342,The Lord Of The Rings,Soundtrack,39,1979-01-06,1979-02-24,1098,8
+343,Shipwrecked,Gonzalez,67,1979-01-20,1979-04-21,1080,14
+344,I Have A Right,Gloria Gaynor,58,1979-10-20,1979-12-29,1078,11
+345,Royal Rappin's,Millie Jackson And Issac Hayes,80,1979-10-20,1979-12-29,1069,11
+346,Part Of The Game,Pablo Cruise,39,1979-11-17,1979-12-29,1066,7
+347,Present Tense,Shoes,50,1979-10-13,1979-12-29,1065,12
+348,Stealin' Home,Ian Matthews,80,1979-01-06,1979-04-21,1058,16
+349,Gene Simmons,Gene Simmons,22,1979-01-06,1979-03-10,1045,10
+350,Fight Dirty,Charlie,60,1979-09-01,1979-11-03,1044,10
+351,Follow The Rainbow,George Duke,56,1979-03-17,1979-05-26,1042,11
+352,Melissa Manchester,Melissa Manchester,63,1979-11-03,1979-12-29,1029,9
+353,Babylon By Bus,Bob Marley And The Wailers,102,1979-01-06,1979-03-31,1029,13
+354,Prince,Prince,27,1979-11-17,1979-12-29,1027,7
+355,Exposure,Robert Fripp,79,1979-05-26,1979-08-25,1023,14
+356,The Roches,The Roches,58,1979-06-16,1979-08-25,1022,11
+357,Alive On Arrival,Steve Forbert,82,1979-02-10,1979-05-19,1022,15
+358,Willie Nelson Sings Kristofferson,Willie Nelson,47,1979-11-17,1979-12-29,1013,7
+359,Bush Doctor,Peter Tosh,104,1979-01-06,1979-04-21,1005,16
+360,Are You Ready,The Atlanta Rhythm Section,51,1979-11-10,1979-12-29,1004,8
+361,What Goes Around Comes Around,Waylon Jennings,49,1979-11-10,1979-12-29,1003,8
+362,Rod Stewart Greatest Hits,Rod Stewart,24,1979-11-24,1979-12-29,997,6
+363,Harder-faster,April Wine,64,1979-11-10,1979-12-29,989,8
+364,Hydra,Toto,37,1979-11-17,1979-12-29,988,7
+365,Tonic For The Troops,The Boomtown Rats,112,1979-03-03,1979-05-26,978,13
+366,Rock Billy Boogie,Robert Gordon,106,1979-03-24,1979-06-09,968,12
+367,For The Sake Of Love,Isaac Hayes,75,1979-01-06,1979-03-17,965,11
+368,Flame,Ronnie Laws,51,1979-01-06,1979-03-31,959,13
+369,Wavelength,Van Morrison,84,1979-01-06,1979-03-17,958,11
+370,Belle De Jour,Saint Tropez,65,1979-05-05,1979-07-14,947,11
+371,Real Life Ain't This Way,Jay Ferguson,86,1979-04-21,1979-08-04,939,16
+372,Running On Empty,Jackson Browne,93,1979-01-06,1979-03-31,938,13
+373,Crime Of The Century,Supertramp,125,1979-09-15,1979-12-29,936,16
+374,Chanson,Chanson,41,1979-01-06,1979-03-03,934,9
+375,Sweeney Todd-The Demon Barber Of Fleet Street,Original Cast,78,1979-06-09,1979-08-18,932,11
+376,Herman Brood & His Wild Romance,Herman Brood,122,1979-05-26,1979-09-29,932,19
+377,Kid Blue,Louise Goffin,87,1979-08-04,1979-10-27,930,13
+378,Fate For Breakfast,Art Garfunkel,67,1979-04-07,1979-07-14,928,14
+379,Partners In Crime,Rupert Holmes,46,1979-11-10,1979-12-29,925,8
+380,L.a. Light Album,The Beach Boys,100,1979-04-07,1979-06-30,925,13
+381,No Mean City,Nazareth,88,1979-02-03,1979-05-05,924,14
+382,David Werner,David Werner,65,1979-09-01,1979-11-10,921,11
+383,Classic Crystal,Crystal Gayle,65,1979-11-17,1979-12-29,915,7
+384,Back To The Bars,Todd Rundgren,75,1979-01-06,1979-03-10,898,10
+385,Together,McCoy Tyner,66,1979-05-26,1979-08-04,896,11
+386,Freedom At Point Zero,Jefferson Starship,15,1979-12-01,1979-12-29,893,5
+387,Jackrabbit Slim,Steve Forbert,67,1979-11-10,1979-12-29,891,8
+388,Dr.heckle + Mr.jive,England Dan & John Ford Coley,106,1979-04-14,1979-06-30,886,12
+389,Gomm With The Wind,Ian Gomm,104,1979-09-22,1979-12-08,861,12
+390,Houses Of The Holy,Led Zeppelin,91,1979-09-22,1979-12-01,846,11
+391,Better Than The Rest,George Thorogood,78,1979-09-01,1979-11-03,842,10
+392,The Message Is Love,Barry White,67,1979-04-28,1979-06-23,840,9
+393,Mistress,Mistress,100,1979-09-15,1979-12-15,836,14
+394,A Single Man,Elton John,43,1979-01-06,1979-03-10,833,10
+395,Jean-Luc Ponty: Live,Jean Luc Ponty,68,1979-05-19,1979-07-21,830,10
+396,Black Rose/A Rock Legend,Thin Lizzy,81,1979-06-02,1979-08-18,822,12
+397,Manhattan,Soundtrack,94,1979-07-28,1979-10-06,821,11
+398,Grey Ghost,The Henry Paul Band,107,1979-06-02,1979-08-18,821,12
+399,A Christmas Together,John Denver & The Muppets,34,1979-11-10,1979-12-29,817,8
+400,Hearts Of Stone,Southside Johnny & The Asbury Jukes,112,1979-01-06,1979-03-17,812,11
+401,Peter Criss,Peter Criss,66,1979-01-06,1979-02-24,809,8
+402,Duty Now For The Future,Devo,73,1979-06-30,1979-09-01,804,10
+403,Who Are You,The Who,86,1979-01-06,1979-03-31,804,13
+404,Numbers,Rufus,81,1979-02-10,1979-04-07,801,9
+405,Fatback XII,The Fatback Band,89,1979-09-29,1979-12-15,801,12
+406,Images,Ronnie Milsap,98,1979-06-16,1979-11-17,801,15
+407,Take It Home,B.B. King,112,1979-08-25,1979-11-10,801,12
+408,Thanks I'll Eat It Here,Lowell George,71,1979-04-14,1979-06-09,794,9
+409,The Dark Side Of The Moon,Pink Floyd,153,1979-01-06,1979-12-29,790,52
+410,Night In The Ruts,Aerosmith,19,1979-12-01,1979-12-29,785,5
+411,Bonnie Pointer,Bonnie Pointer,96,1979-01-06,1979-03-24,785,12
+412,Night Rider,Tim Weisberg,114,1979-04-14,1979-06-23,779,11
+413,Suzi And Other Four Letter Words,Suzi Quatro,117,1979-10-06,1979-12-29,779,13
+414,Escape From Domination,Moon Martin,80,1979-09-08,1979-11-17,775,11
+415,Survival,Bob Marley And The Wailers,70,1979-11-17,1979-12-29,772,7
+416,An American Prayer,Jim Morrison / The Doors,54,1979-01-06,1979-03-10,769,10
+417,Oneness/Silver Dreams-Golden Reality,Devadip Carlos Santana,87,1979-03-31,1979-05-26,764,9
+418,Make Your Move,Captain & Tennille,50,1979-11-17,1979-12-29,763,7
+419,Stardust,Willie Nelson,135,1979-01-06,1979-04-14,761,15
+420,More American Graffiti,Soundtrack,84,1979-08-11,1979-10-27,757,12
+421,In The Mood With Tyrone Davis,Tyrone Davis,115,1979-04-07,1979-06-23,757,12
+422,Deguello,ZZ Top,39,1979-11-24,1979-12-29,755,6
+423,Everything You've Heard Is True,Tom Johnston,100,1979-10-20,1979-12-29,750,11
+424,Night Of The Living Dreggs,Dixie Dregs,111,1979-05-19,1979-08-11,740,13
+425,Back On The Streets,Tower Of Power,106,1979-08-11,1979-10-27,739,12
+426,Priority,The Pointer Sisters,72,1979-09-22,1979-11-10,736,8
+427,From The Inside,Alice Cooper,60,1979-01-06,1979-02-24,732,8
+428,Warmer,Randy VanWarmer,81,1979-06-02,1979-08-04,720,10
+429,Life Beyond L.a.,Ambrosia,45,1979-01-06,1979-02-24,717,8
+430,Madame Butterfly,Tavares,92,1979-02-03,1979-04-14,712,11
+431,You Had To Be There,Jimmy Buffett,96,1979-01-06,1979-03-10,709,10
+432,Satisfied,Rita Coolidge,95,1979-09-22,1979-12-01,706,11
+433,Boogie Woogie Dancin' Shoes,Claudja Barry,101,1979-06-02,1979-08-04,703,10
+434,I've Always Been Crazy,Waylon Jennings,108,1979-01-06,1979-03-31,702,13
+435,Melba,Melba Moore,114,1979-01-06,1979-03-17,700,11
+436,Fool Around,Rachel Sweet,97,1979-08-04,1979-09-29,696,9
+437,Phoenix,Dan Fogelberg,17,1979-12-08,1979-12-29,690,4
+438,Paul Stanley,Paul Stanley,49,1979-01-06,1979-02-10,688,6
+439,Love Current,Lenny Williams,108,1979-07-07,1979-09-01,681,9
+440,Destination: Sun,Sun,85,1979-07-21,1979-09-22,678,10
+441,When Love Comes Calling,Deniece Williams,96,1979-08-18,1979-10-06,677,8
+442,Profile,Emmylou Harris,81,1979-01-06,1979-03-24,659,12
+443,Bad Company,Bad Company,121,1979-06-02,1979-09-08,658,15
+444,Money Talks,Barkays,72,1979-01-06,1979-02-17,657,7
+445,Live Rust,Neil Young With Crazy Horse,22,1979-12-08,1979-12-29,656,4
+446,Reed Seed,"Grover Washington, Jr.",91,1979-01-06,1979-03-24,655,12
+447,If You Want Blood You've Got It,AC/DC,113,1979-01-06,1979-03-24,647,12
+448,Rose Royce IV/Rainbow Connection,Rose Royce,74,1979-09-08,1979-10-27,646,8
+449,In The Beginning,Nature's Divine,91,1979-11-10,1979-12-29,644,8
+450,A Different Kind Of Crazy,Head East,96,1979-11-17,1979-12-29,644,7
+451,American Garage,Pat Metheny Group,61,1979-11-24,1979-12-29,643,6
+452,You Fooled Me,Grey And Hanks,97,1979-02-03,1979-04-14,641,11
+453,With The Naked Eye,Greg Kihn Band,114,1979-08-11,1979-10-13,641,10
+454,ELO's Greatest Hits,Electric Light Orchestra,32,1979-12-08,1979-12-29,638,4
+455,Down To The Farm,Little Feat,30,1979-12-08,1979-12-29,634,4
+456,Five Special,5 Special,118,1979-08-11,1979-10-20,634,11
+457,When I Dream,Crystal Gayle,134,1979-01-06,1979-04-07,633,14
+458,First Glance,April Wine,114,1979-04-21,1979-06-30,615,11
+459,Rose Royce III/Strikes Again!,Rose Royce,87,1979-01-06,1979-02-17,614,7
+460,Water Sign,Jeff Lorber Fusion,119,1979-09-08,1979-12-08,613,14
+461,Touch The Sky,Carole King,104,1979-06-23,1979-08-18,608,9
+462,Playin' To Win,The Outlaws,60,1979-01-06,1979-03-24,607,12
+463,Here At Last...Bee Gees...Live,Bee Gees,136,1979-03-24,1979-06-16,607,13
+464,Night,Night,113,1979-08-11,1979-10-13,604,10
+465,It's Alright With Me,Patti LaBelle,145,1979-03-31,1979-07-14,597,16
+466,Counterpoint,Ralph MacDonald,110,1979-07-14,1979-09-15,594,10
+467,Land Of Passion,Hubert Laws,93,1979-04-28,1979-06-16,593,8
+468,"Emerson, Lake & Palmer In Concert","Emerson, Lake & Palmer",73,1979-12-01,1979-12-29,591,5
+469,Stoneheart,Brick,100,1979-05-19,1979-07-07,583,8
+470,Euphoria,Gato Barbieri,116,1979-08-11,1979-10-06,582,9
+471,Physical Graffiti,Led Zeppelin,129,1979-09-15,1979-12-08,580,13
+472,Q: Are We Not Men? A: We Are Devo!,Devo,88,1979-01-06,1979-02-24,579,8
+473,Love Is In The Air,John Paul Young,119,1979-01-06,1979-03-10,579,10
+474,Replicas,Gary Numan & Tubeway Army,124,1979-09-15,1979-11-17,579,10
+475,Foreigner,Foreigner,132,1979-01-06,1979-11-10,569,14
+476,"Elvis:legendary Performer,volume 3",Elvis Presley,113,1979-01-06,1979-03-17,566,11
+477,Even Now,Barry Manilow,149,1979-01-06,1979-03-31,559,13
+478,Sometimes You Win,Dr. Hook,88,1979-11-24,1979-12-29,557,6
+479,Indecent Exposure (Some Of The Best Of George Carlin),George Carlin,112,1979-01-06,1979-02-24,553,8
+480,Light The Light,Seawind,143,1979-03-24,1979-06-23,548,14
+481,Live From New York,Gilda Radner,81,1979-12-01,1979-12-29,546,5
+482,An Evening With Herbie Hancock And Chick Corea,Herbie Hancock And Chick Corea,100,1979-03-31,1979-05-19,542,8
+483,Switch,Switch,116,1979-01-06,1979-04-14,542,15
+484,Love Beach,"Emerson, Lake & Palmer",55,1979-01-06,1979-02-03,528,5
+485,Pretty Paper,Willie Nelson,83,1979-12-01,1979-12-29,521,5
+486,The Headboys,The Headboys,113,1979-11-10,1979-12-29,519,8
+487,H.a.p.p.y. Radio,Edwin Starr,115,1979-07-28,1979-09-15,519,8
+488,The Wall,Pink Floyd,20,1979-12-15,1979-12-29,512,3
+489,Natural Act,Kris Kristofferson And Rita Coolidge,106,1979-02-03,1979-03-31,512,9
+490,Mystic Man,Peter Tosh,123,1979-08-04,1979-10-06,504,10
+491,Come Get It,Rick James,125,1979-01-06,1979-02-24,503,8
+492,Straight Ahead,Larry Gatlin & The Gatlin Brothers,104,1979-11-17,1979-12-29,501,7
+493,Tales Of The Unexpected,Frank Marino And Mahogany Rush,129,1979-05-12,1979-07-14,499,10
+494,Gamma,Gamma,131,1979-09-22,1979-11-24,495,10
+495,Twilley,Dwight Twilley Band,113,1979-03-24,1979-05-19,490,9
+496,Cosmic Messenger,Jean Luc Ponty,133,1979-01-06,1979-03-10,490,10
+497,One Nation Under A Groove,Funkadelic,85,1979-01-06,1979-03-03,484,9
+498,Airwaves,Badfinger,125,1979-03-24,1979-05-12,479,8
+499,Hold Your Horses,First Choice,135,1979-03-31,1979-06-16,475,12
+500,The Warriors,Soundtrack,125,1979-05-05,1979-06-23,474,8
+501,You Know How To Love Me,Phyllis Hyman,75,1979-12-08,1979-12-29,473,4
+502,I've Always Wanted To Sing Not Just Write Songs,Bunny Sigler,119,1979-04-07,1979-06-02,471,9
+503,5,J.J. Cale,136,1979-09-08,1979-11-03,470,9
+504,Breathless,Camel,134,1979-02-10,1979-04-14,462,10
+505,Rainbow Visions,Side Effect,135,1979-01-20,1979-03-10,459,8
+506,Nightwatch,Kenny Loggins,78,1979-01-06,1979-02-17,457,7
+507,Give 'em Enough Rope,The Clash,128,1979-02-24,1979-04-28,455,10
+508,Carrie Lucas In Danceland,Carrie Lucas,119,1979-05-19,1979-07-21,451,10
+509,Sgt. Peppers Lonely Hearts Club Band,Soundtrack,90,1979-01-06,1979-02-17,449,7
+510,Angel Station,Manfred Mann,144,1979-05-12,1979-08-04,448,13
+511,Alien,Soundtrack,113,1979-07-07,1979-08-25,447,8
+512,Pizzazz,Patrice Rushen,112,1979-11-24,1979-12-29,446,6
+513,Night After Night,Uk,109,1979-10-20,1979-11-24,444,6
+514,Honest Lullaby,Joan Baez,113,1979-08-04,1979-09-15,443,7
+515,Danger Zone,Player,106,1979-01-06,1979-02-10,439,6
+516,20/20,20/20,138,1979-11-03,1979-12-29,437,9
+517,Patrice,Patrice Rushen,98,1979-02-17,1979-03-24,432,6
+518,Skyy,Skyy,117,1979-05-19,1979-07-14,428,9
+519,We Should Be Together,Crystal Gayle,128,1979-08-11,1979-09-29,425,8
+520,Rough Riders,Lakeside,141,1979-11-03,1979-12-29,424,9
+521,Joy Of Flying,Tony Williams,113,1979-05-12,1979-06-23,423,7
+522,And I Mean It,Genya Ravan,106,1979-09-29,1979-11-03,414,6
+523,The Clash,The Clash,126,1979-09-08,1979-10-13,414,6
+524,Moods,Barbara Mandrell,132,1979-05-26,1979-07-21,412,9
+525,The Fine Art Of Surfacing,The Boomtown Rats,113,1979-12-01,1979-12-29,410,5
+526,Milestone Jazzstars In Concert,Various Artists,122,1979-01-27,1979-03-17,410,8
+527,Cerrone IV - The Golden Touch,Cerrone,118,1979-01-06,1979-02-10,408,6
+528,Blackjack,Blackjack,127,1979-07-21,1979-09-01,407,7
+529,Hell Bent For Leather,Judas Priest,128,1979-03-31,1979-05-12,406,7
+530,Gold + Platinum,Lynyrd Skynyrd,48,1979-12-15,1979-12-29,402,3
+531,Here's My Love,Linda Clifford,117,1979-12-01,1979-12-29,402,5
+532,Asue D'or,Renaissance,125,1979-06-16,1979-08-11,397,9
+533,Equinox,Jean Michel Jarre,126,1979-02-03,1979-03-24,394,8
+534,The Other One,Bob Welch,105,1979-12-01,1979-12-29,384,5
+535,Photo-Finish,Rory Gallagher,116,1979-01-06,1979-02-10,384,6
+536,The Wiz,Soundtrack,107,1979-01-06,1979-02-10,383,6
+537,The Best Years Of My Life,Johnny Mathis,122,1979-02-24,1979-04-07,379,7
+538,Chance,Candi Staton,129,1979-07-28,1979-09-01,378,6
+539,Exotic Mysteries,Lonnie Liston Smith,123,1979-02-17,1979-04-07,375,8
+540,Frequency,Nick Gilder,127,1979-07-07,1979-08-25,375,8
+541,When I Need You,Roger Whittaker,115,1979-05-05,1979-06-02,374,5
+542,Bout Love,Bill Withers,134,1979-03-17,1979-05-12,373,9
+543,Come Into My World,The Emotions,96,1979-12-08,1979-12-29,371,4
+544,Going Through The Motions,Hot Chocolate,112,1979-07-28,1979-09-01,369,6
+545,Life Is A Song Worth Singing,Teddy Pendergrass,144,1979-01-06,1979-02-24,368,8
+546,Joe's Garage Acts Ii+iii,Frank Zappa,69,1979-12-15,1979-12-29,366,3
+547,Mixed Emotion,Exile,116,1979-01-06,1979-02-10,366,6
+548,The Adventures Of Captain Sky,Captain Sky,157,1979-01-27,1979-07-28,364,12
+549,Stateless,Lene Lovich,137,1979-08-04,1979-10-27,361,10
+550,Ultimate,Ultimate,157,1979-03-03,1979-05-12,361,11
+551,Just A Touch Of Love,Slave,99,1979-12-08,1979-12-29,359,4
+552,Invitation,Norman Connors,137,1979-07-21,1979-09-01,358,7
+553,Feel It,Noel Pointer,138,1979-09-01,1979-10-13,358,7
+554,Led Zeppelin II,Led Zeppelin,144,1979-09-15,1979-11-24,358,11
+555,Mr.gone,Weather Report,82,1979-01-06,1979-01-27,354,4
+556,City Nights,Nick Gilder,70,1979-01-06,1979-02-03,351,5
+557,The Rocky Horror Picture Show,Soundtrack,163,1979-01-06,1979-05-19,350,20
+558,We're The Best Of Friends,Natalie Cole And Peabo Bryson,77,1979-12-15,1979-12-29,348,3
+559,I Love To Sing The Songs I Sing,Barry White,132,1979-08-18,1979-09-22,344,6
+560,Feels So Good,Chuck Mangione,153,1979-01-06,1979-05-05,343,18
+561,Master Of The Game,George Duke,129,1979-11-24,1979-12-29,342,6
+562,The Man Who Built America,Horslips,155,1979-03-10,1979-05-05,341,9
+563,Journey To The Land Of Enchantment,Enchantment,145,1979-03-17,1979-05-05,338,8
+564,Long Stroke,ADC Band,139,1979-01-06,1979-02-10,336,6
+565,Silent Letter,America,110,1979-07-07,1979-08-11,329,6
+566,Intimate Strangers,Tom Scott,123,1979-01-06,1979-02-10,325,6
+567,The Music Band 2,War,111,1979-12-08,1979-12-29,323,4
+568,Groovin' You,Harvey Mason,149,1979-04-28,1979-06-16,322,8
+569,Our Memories Of Elvis,Elvis Presley,132,1979-03-10,1979-04-21,321,7
+570,High Gear,Neil Larsen,139,1979-09-01,1979-10-13,319,7
+571,Living Proof,Sylvester,127,1979-11-24,1979-12-29,317,6
+572,O Sole Mio - Favorite Neapolitan Songs,Luciano Pavarotti,125,1979-11-24,1979-12-29,312,6
+573,First Offence,The Inmates,122,1979-12-01,1979-12-29,309,5
+574,Dialogue,Michael Johnson,157,1979-09-15,1979-12-01,309,12
+575,Tear Me Apart,Tanya Tucker,121,1979-12-01,1979-12-29,308,5
+576,Rock 'n' Roll High School,Soundtrack,118,1979-06-02,1979-07-07,307,6
+577,Whisper In Your Ear,The Whispers,146,1979-04-14,1979-06-09,307,9
+578,Maureen Mcgovern,Maureen Mc Govern,162,1979-09-08,1979-11-10,306,10
+579,Slowhand,Eric Clapton,143,1979-01-06,1979-04-21,305,16
+580,Infinity Rider On The Big Dogma,Michael Nesmith,151,1979-08-04,1979-09-29,305,9
+581,Do It Yourself,Ian Dury And The Blockheads,126,1979-07-21,1979-08-25,302,6
+582,No Escape,The Marc Tanner Band,140,1979-03-03,1979-04-21,302,8
+583,Jethro Tull Live - Bursting Out,Jethro Tull,80,1979-01-06,1979-01-27,290,4
+584,Straight To The Point,Atlantic Starr,142,1979-06-02,1979-07-14,288,7
+585,Only Make Believe,Bell And James,125,1979-11-03,1979-11-24,286,4
+586,Nightout,Ellen Folly,137,1979-09-29,1979-11-03,285,6
+587,Can't Hold Back,Pure Prairie League,124,1979-06-23,1979-07-28,284,6
+588,Best Of The J. Geils Band Two,The J. Geils Band,129,1979-07-21,1979-08-18,282,5
+589,Feel The Night,Lee Ritenour,136,1979-06-16,1979-07-21,279,6
+590,One Of A Kind,Bill Bruford,123,1979-07-07,1979-08-04,273,5
+591,A Moment's Pleasure,Millie Jackson,144,1979-04-21,1979-05-26,273,6
+592,Mick Taylor,Mick Taylor,119,1979-07-21,1979-08-18,272,5
+593,Pink Cadillac,John Prine,152,1979-09-08,1979-10-20,272,7
+594,Ironhorse,Ironhorse,153,1979-04-07,1979-06-09,270,10
+595,Amazing Rhythm Aces,Amazing Rhythm Aces,144,1979-02-17,1979-03-31,268,7
+596,Love Talk,The Manhattans,141,1979-04-14,1979-05-26,261,7
+597,Betty Travelin'in The Wright Circle,Betty Wright,138,1979-06-02,1979-07-07,259,6
+598,Phantom Of The Night,Kayak,145,1979-03-03,1979-04-14,259,7
+599,Pipe John Paul Ii Sings At The Festival Of Sacroso,Pope John Paul II,126,1979-11-03,1979-11-24,252,4
+600,Undercover Lover,Debbie Jacobs-Rock,153,1979-09-01,1979-10-20,252,8
+601,La Diva,Aretha Franklin,146,1979-10-13,1979-11-17,250,6
+602,Ross,Diana Ross,122,1979-01-06,1979-02-10,246,6
+603,"Bad,bad Boy",Theo Vaness,145,1979-06-16,1979-07-21,244,6
+604,Saturday Night Fiedler,Boston Pops Orchestra,147,1979-09-08,1979-10-13,243,6
+605,The Best Of Eddie Rabbitt,Eddie Rabbitt,153,1979-11-24,1979-12-29,243,6
+606,Muse,Grace Jones,156,1979-09-01,1979-10-13,242,7
+607,Big Fun,Shalamar,123,1979-11-10,1979-12-29,240,5
+608,The Song Remains The Same (Soundtrack),Led Zeppelin,150,1979-09-29,1979-11-17,237,8
+609,Bloody Tourists,10cc,139,1979-01-06,1979-02-03,236,5
+610,City To City,Gerry Rafferty,166,1979-01-06,1979-04-07,235,14
+611,Sunday Morning Suite,Frank Mills,151,1979-11-24,1979-12-29,233,6
+612,The Bermuda Triangle,Isao Tomita,152,1979-03-03,1979-04-07,232,6
+613,Diamond Cut,Bonnie Tyler,145,1979-02-17,1979-03-17,227,5
+614,We All Have A Star,Wilton Felder,173,1979-01-06,1979-03-10,227,10
+615,The Bells,Lou Reed,130,1979-06-02,1979-06-23,226,4
+616,Boston,Boston,158,1979-01-06,1979-02-17,223,7
+617,Shoulda Gone Dancin',High Inergy,147,1979-05-26,1979-06-23,220,5
+618,Sleepless Nights,Brooklyn Dreams,151,1979-03-24,1979-05-05,218,7
+619,Teddy Live! Coast To Coast,Teddy Pendergrass,93,1979-12-22,1979-12-29,216,2
+620,Greatest Hits Vol.2,ABBA,95,1979-12-22,1979-12-29,212,2
+621,Browne Sugar,Tom Browne,147,1979-08-11,1979-09-15,211,6
+622,Even In The Quietest Moments,Supertramp,162,1979-11-03,1979-12-29,211,9
+623,Nigel,Nigel Olsson,140,1979-03-24,1979-04-21,209,5
+624,Les Plus Grands Succes De Chic - Chic's Greatest Hits,Chic,97,1979-12-22,1979-12-29,208,2
+625,Star Walk,Larry Graham And Graham Central Station,136,1979-07-14,1979-08-04,208,4
+626,Expressions,Don Williams,161,1979-01-27,1979-03-10,208,7
+627,The Essential Jimi Hendrix Vol.II,Jimi Hendrix,156,1979-08-18,1979-09-29,206,7
+628,Top Priority,Rory Gallagher,140,1979-10-06,1979-10-27,205,4
+629,Keeper Of The Flame,Delbert McClinton,146,1979-06-30,1979-08-04,203,6
+630,Rocky II,Soundtrack,147,1979-08-25,1979-09-22,203,5
+631,Headin' Home,Gary Wright,147,1979-03-17,1979-04-14,201,5
+632,No Nukes/The MUSE Concerts For A Non-Nuclear Future,Various Artists,103,1979-12-22,1979-12-29,196,2
+633,Greatest Hits,ABBA,148,1979-10-13,1979-11-17,195,6
+634,Equinox,Styx,156,1979-12-01,1979-12-29,195,5
+635,Spectral Mornings,Steve Hackett,138,1979-07-07,1979-07-28,193,4
+636,American Boy + Girl,Garland Jeffreys,151,1979-09-22,1979-10-20,193,5
+637,New Worlds,Mandrill,154,1979-01-13,1979-02-10,193,5
+638,Hotel California,Eagles,161,1979-12-01,1979-12-29,192,5
+639,Electric Dreams,John Mclaughin With The One Truth Band,147,1979-04-28,1979-05-26,191,5
+640,Cut Above The Rest,Sweet,151,1979-05-12,1979-06-09,190,5
+641,The Original Disco Man,James Brown,152,1979-08-11,1979-09-15,189,6
+642,Night Grooves,The Blackbyrds,159,1979-01-06,1979-02-17,189,7
+643,Led Zeppelin,Led Zeppelin,160,1979-09-29,1979-12-01,186,10
+644,We Don't Talk Anymore,Cliff Richard,145,1979-12-08,1979-12-29,185,4
+645,Which One's Willie,Wet Willie,172,1979-06-09,1979-08-18,184,11
+646,Desmond Child+rouge,Desmond Child And Rouge,157,1979-03-24,1979-04-28,182,6
+647,Larry Gatlin's Greatest Hits Vol.1,Larry Gatlin & The Gatlin Brothers,171,1979-01-06,1979-02-17,182,7
+648,Travolta Fever,John Travolta,161,1979-01-06,1979-02-03,180,5
+649,Our Memories Of Elvis Vol.ii,Elvis Presley,157,1979-08-25,1979-09-22,179,5
+650,Witch Doctor,Instant Funk,149,1979-12-08,1979-12-29,176,4
+651,Milky Way,Chocolate Milk,161,1979-04-14,1979-05-19,173,6
+652,Best Of Friends,Twennynine Featuring Lenny White,146,1979-12-08,1979-12-29,170,4
+653,Keep On Jumpin,Musique,110,1979-01-06,1979-01-20,165,3
+654,Part Of You,Eric Gale,154,1979-07-21,1979-08-18,163,5
+655,TRB Two,Tom Robinson,163,1979-05-12,1979-06-23,163,7
+656,Greatest Hints,Michael Stanley Band,148,1979-08-04,1979-09-01,160,5
+657,Try My Love,Tata Vega,170,1979-04-21,1979-06-09,160,8
+658,Mother Factor,Mother's Finest,156,1979-01-06,1979-02-17,159,7
+659,How Cruel,Joan Armatrading,148,1979-12-08,1979-12-29,158,4
+660,My Own House,David Bromberg,152,1979-02-24,1979-03-17,157,4
+661,Sweet Memories,Willie Nelson,154,1979-03-03,1979-03-31,157,5
+662,Witch Queen,Witch Queen,158,1979-04-28,1979-06-02,157,6
+663,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,140,1979-01-06,1979-02-03,156,5
+664,Headlights,The Whispers,151,1979-01-06,1979-01-27,155,4
+665,Facades,Sad Cafe,146,1979-09-15,1979-10-13,154,5
+666,New Dimensions,The Three Degrees,169,1979-01-06,1979-02-10,153,6
+667,"Disco Spectacular Inspired By The Film ""Hair""",Various Artists,159,1979-04-28,1979-05-26,152,5
+668,Brazilia,John Klemmer,172,1979-06-02,1979-07-28,150,9
+669,Annie's Song And Other Galway Favorites,James Galway,153,1979-03-03,1979-03-31,149,5
+670,Dancin' Up A Storm,The Raes,161,1979-03-24,1979-04-21,149,5
+671,The Story's Been Told,Third World,157,1979-07-21,1979-08-18,148,5
+672,Take It To The Max,Max Demian Band,159,1979-03-03,1979-03-31,148,5
+673,The War Of The Worlds,Jeff Wayne/Various Artists,154,1979-01-06,1979-01-27,147,4
+674,Real To Real,The Climax Blues Band,170,1979-06-16,1979-07-21,146,6
+675,Return To Forever Live,Return To Forever,155,1979-03-03,1979-03-24,145,4
+676,Ride On,Alvin Lee,158,1979-05-26,1979-06-23,143,5
+677,Smokin',Smokey Robinson,165,1979-01-20,1979-02-24,143,6
+678,Brass Construction 5,Brass Construction,147,1979-12-15,1979-12-29,142,3
+679,Airplay,Point Blank,175,1979-08-18,1979-11-24,141,9
+680,Close Personal Friend,Robert Johnson,174,1979-01-13,1979-03-03,140,8
+681,Just For The Record,Barbara Mandrell,166,1979-10-13,1979-11-10,138,5
+682,Sinful,Angel,159,1979-03-03,1979-03-31,137,5
+683,Christmas Portrait,Carpenters,145,1979-01-06,1979-01-20,135,3
+684,The World Within,Stix Hooper,166,1979-11-10,1979-12-08,135,5
+685,When Your # 1,Gene Chandler,153,1979-08-25,1979-09-08,134,3
+686,Moonraker,Soundtrack,159,1979-08-18,1979-09-08,134,4
+687,Never Say Die,Black Sabbath,162,1979-01-06,1979-01-27,130,4
+688,Dream,Captain & Tennille,171,1979-01-06,1979-02-10,129,6
+689,Back On The Right Track,Sly & The Family Stone,152,1979-11-10,1979-11-24,128,3
+690,Get Off,Foxy,139,1979-01-06,1979-01-20,123,3
+691,Breakwater,Breakwater,173,1979-04-21,1979-05-19,119,5
+692,Shotgun Iii,Shotgun,163,1979-05-05,1979-05-26,118,4
+693,They're Playing Our Song,Original Cast,167,1979-03-24,1979-04-28,118,6
+694,Betty Wright Live,Betty Wright,167,1979-01-06,1979-02-17,118,7
+695,Fleetwood Mac,Fleetwood Mac,159,1979-12-08,1979-12-29,117,4
+696,Ugly Ego,Cameo,159,1979-01-06,1979-02-10,116,6
+697,Keep The Fire Burning,LeRoux,162,1979-06-09,1979-06-30,116,4
+698,Product,Brand X,165,1979-11-03,1979-12-29,116,6
+699,Yvonne,Yvonne Elliman,174,1979-11-10,1979-12-15,116,6
+700,Rock + Roll Nights,Bachman-Turner Overdrive,165,1979-04-07,1979-04-28,114,4
+701,Hot Rocks 1964-1971,The Rolling Stones,156,1979-12-15,1979-12-29,113,3
+702,Presence,Led Zeppelin,169,1979-10-06,1979-11-03,112,5
+703,The Wild Places,Duncan,174,1979-05-19,1979-06-16,112,5
+704,"Frogs,sprouts,clogs,and Krauts",The Rumour,160,1979-08-04,1979-08-18,111,3
+705,Street Beat,Tom Scott,162,1979-12-15,1979-12-29,107,3
+706,This Moment In Time,Engelbert Humperdinck,164,1979-05-19,1979-06-09,107,4
+707,Falling In Love Again,Susan,169,1979-05-05,1979-06-02,107,5
+708,No Stranger To Love,Roy Ayers,154,1979-12-15,1979-12-29,105,3
+709,Best Of Norman Connors + Friends,Norman Connors,175,1979-01-13,1979-02-10,105,5
+710,Legends Of The Lost And Found - New Greatest Stories Live,Harry Chapin,163,1979-10-27,1979-11-10,103,3
+711,From Here To Eternally,The Spinners,165,1979-05-26,1979-06-16,103,4
+712,Secrets,Gil Scott-Heron,166,1979-01-06,1979-01-27,103,4
+713,Couchois,Couchois,170,1979-04-21,1979-05-12,103,4
+714,Rhapsodies,Rick Wakeman,170,1979-07-21,1979-08-18,103,5
+715,Ice Castles,Soundtrack,174,1979-04-21,1979-05-19,101,5
+716,Nothing Says I Love You Like I Love You,Jerry Butler,160,1979-01-13,1979-02-03,100,4
+717,Runner,Runner,167,1979-06-23,1979-07-14,100,4
+718,Octave,The Moody Blues,166,1979-01-06,1979-01-20,97,3
+719,The Best Of Barbara Mandrell,Barbara Mandrell,170,1979-02-24,1979-03-17,96,4
+720,Taka Boom,Taka Boom,171,1979-06-09,1979-06-30,96,4
+721,Smile!/The Best Of Tim Weisberg,Tim Weisberg,169,1979-06-09,1979-06-30,95,4
+722,Sarah Dash,Sarah Dash,182,1979-01-20,1979-03-03,95,7
+723,Orchestral Favorites,Frank Zappa,168,1979-06-02,1979-06-23,94,4
+724,Meatballs,Soundtrack,170,1979-08-18,1979-09-15,94,5
+725,The Music For UNICEF Concert/A Gift Of Song,Various Artists,171,1979-08-18,1979-09-08,93,4
+726,Cory + Me,Cory Daye,171,1979-10-13,1979-11-10,93,5
+727,Life Of Brian,Monty Python,155,1979-11-10,1979-11-17,91,2
+728,'Live' Bullet,Bob Seger & The Silver Bullet Band,169,1979-01-06,1979-01-27,89,4
+729,On The Edge,Sea Level,185,1979-01-06,1979-02-10,89,6
+730,Gloryhallastoopid(pin The Tail On The Funky),Parliament,157,1979-12-22,1979-12-29,88,2
+731,Sleep Dirt,Frank Zappa,175,1979-02-17,1979-03-10,87,4
+732,Outrageous,Richard Pryor,176,1979-09-08,1979-09-29,85,4
+733,Same Goes For You,Leif Garrett,170,1979-12-15,1979-12-29,83,3
+734,In Style,David Johansen,177,1979-09-29,1979-10-20,81,4
+735,Radio Dream,Roger Voudoris,171,1979-07-07,1979-07-21,80,3
+736,Welcome Two Missouri,Missouri,174,1979-06-23,1979-07-14,78,4
+737,Best Of Scorpions,Scorpions,180,1979-11-17,1979-12-08,74,4
+738,Yipes,Yipes,177,1979-10-06,1979-10-27,73,4
+739,Bonnie Pointer (II),Bonnie Pointer,166,1979-12-22,1979-12-29,70,2
+740,A Curious Feeling,Tony Banks,175,1979-12-15,1979-12-29,68,3
+741,New Values,Iggy Pop,180,1979-10-06,1979-10-27,63,4
+742,I Could Have Been A Sailor,Peter Allen,171,1979-04-21,1979-05-05,61,3
+743,Dance Forever,Cheryl Ladd,179,1979-04-28,1979-05-12,61,3
+744,Midnight Diamond,Dobie Gray,174,1979-02-17,1979-03-10,60,4
+745,Along The Red Ledge,Daryl Hall John Oates,177,1979-01-06,1979-02-03,58,5
+746,One Way Featuring Al Hudson,One Way Featuring Al Hudson,181,1979-11-17,1979-12-01,58,3
+747,Run For Your Life,The Tarney/Spencer Band,181,1979-05-12,1979-06-02,58,4
+748,Carolyne Mas,Carolyne Mas,172,1979-09-22,1979-10-06,57,3
+749,S.o.s.,Yachts,179,1979-10-20,1979-11-03,55,3
+750,Extensions,The Manhattan Transfer,181,1979-12-08,1979-12-29,55,4
+751,Led Zeppelin III,Led Zeppelin,185,1979-10-27,1979-12-01,55,6
+752,Heat In The Street,Pat Travers,187,1979-01-06,1979-02-03,53,5
+753,Blam,The Brothers Johnson,181,1979-01-06,1979-01-20,52,3
+754,Basic,Glen Campbell,164,1979-01-06,1979-01-13,51,2
+755,K-scope,Phil Manzanera,176,1979-02-10,1979-02-24,49,3
+756,An Evening With Chick Corea & Herbie Hancock,Chick Corea,175,1979-11-24,1979-12-01,48,2
+757,The Gap Band Ii,The Gap Band,177,1979-12-22,1979-12-29,48,2
+758,Lets Get Small,Steve Martin,178,1979-01-06,1979-01-20,47,3
+759,Bad For Me,Dee Dee Bridgewater,182,1979-05-26,1979-06-16,47,4
+760,The Motels,The Motels,175,1979-12-01,1979-12-08,46,2
+761,Up In Smoke (Soundtrack),Cheech & Chong,162,1979-01-06,1979-01-13,45,2
+762,Their Greatest Hits 1971-1975,Eagles,180,1979-12-22,1979-12-29,42,2
+763,Think Pink,The Fabulous Poodles,185,1979-12-01,1979-12-15,42,3
+764,Jerry Lee Lewis,Jerry Lee Lewis,186,1979-04-28,1979-05-12,41,3
+765,Let It Roll,Tko,181,1979-04-21,1979-04-28,40,2
+766,Totally Connected,T-Connection,188,1979-11-24,1979-12-08,39,3
+767,Dreams Of Tomorrow,Marilyn Scott,189,1979-04-21,1979-05-12,37,4
+768,"New York,london,paris,munich",M,183,1979-12-22,1979-12-29,36,2
+769,The Originals,The Statler Brothers,183,1979-07-14,1979-07-21,36,2
+770,Hot,Maynard Ferguson,188,1979-09-01,1979-09-15,35,3
+771,Tormato,Yes,169,1979-01-06,1979-01-13,33,2
+772,Daytime Friends,Kenny Rogers,188,1979-06-09,1979-06-23,33,3
+773,Rock + Roll Machine,Triumph,185,1979-05-19,1979-05-26,32,2
+774,Cuba,The Gibson Brothers,185,1979-07-28,1979-08-04,32,2
+775,Mirrors Of My Mind,Roger Whittaker,188,1979-12-08,1979-12-29,31,4
+776,The Rose,Bette Midler,186,1979-12-22,1979-12-29,30,2
+777,The Whole World's Dancing,The Trammps,184,1979-05-26,1979-06-02,28,2
+778,"I Feel Good,i Feel Fine",Bobby Bland,187,1979-10-27,1979-11-03,28,2
+779,Live And Uncensored,Millie Jackson,187,1979-12-22,1979-12-29,28,2
+780,The Best Of John Klemmer-volume I/mosaic,John Klemmer,187,1979-11-24,1979-12-01,28,2
+781,Skynyrd's First And...last,Lynyrd Skynyrd,191,1979-01-06,1979-01-20,28,3
+782,Classic Rock - Volume One,London Symphony Orchestra,185,1979-04-21,1979-04-28,27,2
+783,Flow,Snail,186,1979-11-10,1979-11-17,26,2
+784,Stage,David Bowie,189,1979-01-06,1979-01-13,24,2
+785,Greatest Hits 1972-1978,10cc,190,1979-12-22,1979-12-29,22,2
+786,To The Limit,Joan Armatrading,193,1979-01-06,1979-01-27,22,4
+787,Funk Or Walk,Brides Of Funkenstein,196,1979-01-06,1979-01-27,20,4
+788,I'm A Man,Banda Machos,182,1979-01-06,1979-01-06,19,1
+789,Nothing Is Sacred,Godz,189,1979-02-17,1979-02-24,19,2
+790,The Statler Brothers Christmas Card,The Statler Brothers,183,1979-01-06,1979-01-06,18,1
+791,Listen To Your Heart,Paul Anka,185,1979-01-06,1979-01-06,16,1
+792,Spark Of Love,Lenny Williams,187,1979-01-06,1979-01-06,14,1
+793,Baby I Want You,FCC,192,1979-09-08,1979-09-15,14,2
+794,Change Of Heart,Eric Carmen,193,1979-01-06,1979-01-13,14,2
+795,Don't Throw Stones,The Sports,194,1979-11-24,1979-12-01,14,2
+796,Bish,Stephen Bishop,198,1979-01-06,1979-01-20,9,3
+797,Hiroshima,Hiroshima,197,1979-12-22,1979-12-29,8,2
+798,In The Night Time,Michael Henderson,199,1979-01-06,1979-01-13,4,2
+799,Natural High,Commodores,200,1979-01-06,1979-01-06,1,1

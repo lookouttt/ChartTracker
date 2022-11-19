@@ -1,0 +1,234 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Plush,Stone Temple Pilots,1,1993-03-20,1993-10-16,982,31
+2,Are You Gonna Go My Way,Lenny Kravitz,1,1993-03-20,1993-09-25,917,28
+3,Two Princes,Spin Doctors,2,1993-01-23,1993-06-12,704,21
+4,Black,Pearl Jam,3,1993-01-02,1993-06-12,698,24
+5,Livin' On The Edge,Aerosmith,1,1993-04-10,1993-08-21,661,20
+6,Cryin',Aerosmith,1,1993-06-05,1993-10-16,633,20
+7,Peace Pipe,Cry Of Love,1,1993-07-10,1993-11-20,633,20
+8,Got No Shame,Brother Cane,2,1993-06-05,1993-10-30,631,22
+9,No Rain,Blind Melon,1,1993-08-07,1993-12-18,599,20
+10,Big Gun,AC/DC,1,1993-06-05,1993-10-16,577,20
+11,Runaway Train,Soul Asylum,3,1993-06-12,1993-10-23,552,20
+12,Hey Jealousy,Gin Blossoms,4,1993-07-10,1993-11-20,517,20
+13,Rooster,Alice In Chains,7,1993-03-13,1993-07-24,484,20
+14,Black Gold,Soul Asylum,4,1993-03-20,1993-07-31,478,20
+15,Pride And Joy,Coverdale/Page,1,1993-02-27,1993-06-05,474,15
+16,If I Ever Lose My Faith In You,Sting,5,1993-02-13,1993-05-29,465,16
+17,29 Palms,Robert Plant,4,1993-06-26,1993-10-23,457,18
+18,Heart-Shaped Box,Nirvana,4,1993-09-18,1993-12-25,451,15
+19,Eat The Rich,Aerosmith,5,1993-05-01,1993-08-28,433,18
+20,What If I Came Knocking,John Mellencamp,1,1993-07-24,1993-10-23,432,14
+21,Don't Tear Me Up,Mick Jagger,1,1993-01-30,1993-05-29,432,18
+22,Shake My Tree,Coverdale/Page,3,1993-03-27,1993-07-17,424,17
+23,Real World,Queensryche,3,1993-06-12,1993-09-11,418,14
+24,Man On The Moon,R.E.M.,4,1993-01-30,1993-05-15,411,16
+25,Human Wheels,John Mellencamp,2,1993-09-18,1993-12-25,407,15
+26,Hocus Pocus,Gary Hoey,5,1993-08-28,1993-12-25,406,18
+27,Down On Me,Jackyl,10,1993-02-13,1993-06-26,400,20
+28,Pull Me Under,Dream Theater,10,1993-01-02,1993-04-24,392,17
+29,Mister Please,Damn Yankees,3,1993-01-02,1993-04-17,385,16
+30,Soul To Squeeze,Red Hot Chili Peppers,7,1993-08-21,1993-12-25,385,19
+31,Broken Hearted Savior,Big Head Todd And The Monsters,9,1993-03-20,1993-07-31,368,19
+32,Wicked Garden,Stone Temple Pilots,11,1993-07-31,1993-12-11,368,20
+33,Cat's In The Cradle,Ugly Kid Joe,3,1993-02-06,1993-05-08,360,14
+34,When Will It Rain,Jackyl,11,1993-05-29,1993-09-25,359,18
+35,Sister Havana,Urge Overkill,10,1993-07-31,1993-11-27,358,17
+36,Wired All Night,Mick Jagger,3,1993-03-13,1993-06-19,348,15
+37,In Bloom,Nirvana,5,1993-01-02,1993-04-17,339,16
+38,Everybody Lay Down,Pat Benatar,3,1993-05-29,1993-08-07,336,11
+39,Stick It Out,Rush,1,1993-10-23,1993-12-25,333,10
+40,Get A Haircut,George Thorogood & The Destroyers,2,1993-07-24,1993-10-02,331,11
+41,Too Many Ways To Fall,Arc Angels,2,1993-01-02,1993-03-20,327,12
+42,Stand Up (Kick Love Into Motion),Def Leppard,1,1993-01-02,1993-03-06,321,10
+43,Down In A Hole,Alice In Chains,10,1993-10-02,1993-12-25,310,13
+44,Mary Jane's Last Dance,Tom Petty And The Heartbreakers,1,1993-11-06,1993-12-25,308,8
+45,Daughter/Yellow Ledbetter,Pearl Jam,1,1993-10-30,1993-12-25,305,9
+46,Say Hello 2 Heaven,Temple Of The Dog,5,1993-01-02,1993-03-20,303,12
+47,I'm The Only One,Melissa Etheridge,10,1993-09-18,1993-12-18,303,14
+48,Calling To You,Robert Plant,3,1993-05-15,1993-07-17,301,10
+49,Steam,Peter Gabriel,2,1993-01-02,1993-03-20,299,12
+50,Two Steps Behind,Def Leppard,5,1993-07-24,1993-10-23,296,14
+51,Without A Trace,Soul Asylum,6,1993-09-25,1993-12-11,295,12
+52,Changes,Ozzy Osbourne,9,1993-06-05,1993-08-21,295,12
+53,Amazing,Aerosmith,3,1993-10-30,1993-12-25,294,9
+54,The Hunter,Paul Rodgers,6,1993-04-24,1993-06-26,289,10
+55,Down Incognito,Winger,15,1993-05-08,1993-08-14,286,15
+56,Fever,Aerosmith,5,1993-09-04,1993-11-06,280,10
+57,Bad Thing,Cry Of Love,4,1993-10-30,1993-12-25,272,9
+58,She Got Me,Masters Of Reality,8,1993-02-20,1993-05-08,268,12
+59,That Don't Satisfy Me,Brother Cane,6,1993-10-23,1993-12-25,260,10
+60,Zooropa,U2,8,1993-07-24,1993-09-25,258,10
+61,Won't Get Fooled Again,Van Halen,1,1993-02-13,1993-04-10,257,9
+62,Stone Free,Eric Clapton,4,1993-11-13,1993-12-25,248,7
+63,Good Lovin's Hard To Find,Lynyrd Skynyrd,6,1993-02-27,1993-04-24,248,9
+64,Wide River,The Steve Miller Band,7,1993-06-19,1993-08-21,248,10
+65,Sometimes Salvation,The Black Crowes,7,1993-01-23,1993-03-27,245,10
+66,Truganini,Midnight Oil,10,1993-04-24,1993-07-03,244,11
+67,Black On Black II,Heart,4,1993-10-30,1993-12-18,243,8
+68,Driven By You,Brian May,9,1993-02-27,1993-04-24,238,9
+69,Somebody To Shove,Soul Asylum,9,1993-01-02,1993-04-03,238,14
+70,Stop The World,Extreme,9,1993-01-02,1993-03-06,237,10
+71,Shakin' The Blues,The Screamin' Cheetah Wheelies,9,1993-10-23,1993-12-25,235,10
+72,I'd Do Anything For Love,Meat Loaf,10,1993-09-11,1993-11-20,232,11
+73,Tonight,Def Leppard,13,1993-03-13,1993-05-29,231,12
+74,Hotel Illness,The Black Crowes,1,1993-01-02,1993-02-20,226,8
+75,Leave It Alone,Living Colour,14,1993-03-06,1993-05-08,226,10
+76,Shock To The System,Billy Idol,7,1993-06-19,1993-08-07,225,8
+77,Go,Pearl Jam,3,1993-10-16,1993-12-04,223,8
+78,Sister Of Pain,Vince Neil,12,1993-05-01,1993-07-03,221,10
+79,Alien Nation,Scorpions,10,1993-09-11,1993-11-13,218,10
+80,Sober,Tool,13,1993-10-09,1993-12-25,217,12
+81,Ignoreland,R.E.M.,4,1993-01-02,1993-02-20,215,8
+82,Believe,Lenny Kravitz,15,1993-07-03,1993-09-11,211,11
+83,Shape I'm In,Arc Angels,13,1993-03-20,1993-05-22,205,10
+84,Running On Faith,Eric Clapton,15,1993-03-06,1993-05-29,205,13
+85,Am I Ever Gonna Change,Extreme,10,1993-04-10,1993-07-17,203,13
+86,Turn It Up Or Turn It Off,Drivin' N' Cryin',11,1993-02-20,1993-04-10,199,8
+87,What The Hell Have I,Alice In Chains,19,1993-07-03,1993-09-18,198,12
+88,Nearly Lost You,Screaming Trees,12,1993-01-02,1993-03-06,197,10
+89,What's Up,4 Non Blondes,16,1993-04-10,1993-07-10,192,14
+90,Sad But True,Metallica,15,1993-01-02,1993-04-17,187,15
+91,I Believe,Robert Plant,9,1993-10-09,1993-12-04,186,9
+92,Baby Come On Home,Led Zeppelin,4,1993-09-25,1993-11-06,184,7
+93,Change,Candlebox,18,1993-08-14,1993-12-11,183,16
+94,Take Me For A Little While,Coverdale/Page,15,1993-06-19,1993-08-14,178,9
+95,Found Out About You,Gin Blossoms,7,1993-11-06,1993-12-25,173,8
+96,Ain't It Fun,Guns N' Roses,8,1993-11-13,1993-12-25,170,7
+97,I've Always Got You,Robin Zander,13,1993-07-03,1993-08-28,170,9
+98,Wicked As It Seems,Keith Richards,3,1993-01-02,1993-02-27,168,9
+99,How Does It Feel,Ian Moore,15,1993-08-21,1993-11-06,168,12
+100,Somebody Knockin',Izzy Stradlin/The Ju Ju Hounds,13,1993-02-06,1993-03-27,167,8
+101,Jimmy Olsen's Blues,Spin Doctors,9,1993-01-02,1993-02-13,161,7
+102,Cruel Little Number,The Jeff Healey Band,3,1993-01-02,1993-01-30,159,5
+103,All I Want,Saigon Kick,15,1993-01-02,1993-02-27,158,9
+104,Waiting For The Sun,The Jayhawks,20,1993-01-09,1993-03-13,156,10
+105,Angry Again,Megadeth,18,1993-06-26,1993-08-21,153,9
+106,Is There Any Love In Your Heart,Lenny Kravitz,19,1993-10-09,1993-12-04,153,9
+107,Cold Fire,Rush,5,1993-11-20,1993-12-25,151,6
+108,Desert Song,Def Leppard,12,1993-10-23,1993-12-04,151,7
+109,Kiss That Frog,Peter Gabriel,18,1993-03-06,1993-05-01,151,9
+110,Howlin' For My Baby,George Thorogood & The Destroyers,12,1993-10-02,1993-11-20,149,8
+111,The One I Am,Dan Baird,13,1993-01-23,1993-03-13,149,8
+112,Creep,Stone Temple Pilots,9,1993-11-13,1993-12-25,148,7
+113,Courage,The Tragically Hip,16,1993-02-20,1993-04-10,144,8
+114,Perfectly Good Guitar,John Hiatt,16,1993-09-25,1993-11-20,144,9
+115,Silence Is Broken,Damn Yankees,20,1993-03-27,1993-05-15,143,8
+116,Eileen,Keith Richards,17,1993-01-30,1993-03-20,139,8
+117,Dream All Day,The Posies,17,1993-07-03,1993-09-04,136,10
+118,Circle,Big Head Todd And The Monsters,21,1993-08-07,1993-10-02,136,9
+119,I'm Alive,Jackson Browne,18,1993-10-30,1993-12-25,134,9
+120,Thunder Kiss '65,White Zombie,26,1993-10-02,1993-12-25,132,13
+121,Return To Serenity,Testament,22,1993-02-06,1993-04-10,130,10
+122,Stand,Poison,15,1993-01-30,1993-03-13,128,7
+123,Anywhere But Here,Raging Slab,18,1993-05-15,1993-07-03,122,8
+124,Creep,Radiohead,20,1993-08-14,1993-10-09,120,9
+125,Cryin',Joe Satriani,24,1993-03-27,1993-05-29,120,10
+126,Cherub Rock,The Smashing Pumpkins,23,1993-08-28,1993-11-13,119,12
+127,Angry,Billy Squier,15,1993-04-17,1993-05-22,118,6
+128,Heart Of An Angel,The Jeff Healey Band,20,1993-02-06,1993-03-20,117,7
+129,English Boy,Pete Townshend,19,1993-06-05,1993-07-10,115,6
+130,Cut Across Shorty,Rod Stewart,16,1993-05-15,1993-06-26,114,7
+131,It Comes Around,Jude Cole,19,1993-01-02,1993-02-13,114,7
+132,"Stay (Faraway, So Close!)",U2,12,1993-07-31,1993-12-25,113,6
+133,Bittersweet,Big Head Todd And The Monsters,14,1993-11-20,1993-12-25,105,6
+134,Hatred (A Duet),The Kinks,19,1993-04-24,1993-06-05,102,7
+135,Honest To God,Brad Gillis,20,1993-05-01,1993-06-19,102,8
+136,Time After Time,Ozzy Osbourne,12,1993-01-02,1993-02-13,101,7
+137,Old Rose Motel,Great White,23,1993-01-02,1993-02-20,97,8
+138,Guilty,Poorboys,16,1993-01-02,1993-02-06,96,6
+139,If You're Gonna Love Me,Sass Jordan,17,1993-01-02,1993-01-30,95,5
+140,All Alone,Joe Satriani,21,1993-11-13,1993-12-25,95,7
+141,Fields Of Gold,Sting,24,1993-06-12,1993-08-07,95,9
+142,No Man's Land,Billy Joel,18,1993-08-07,1993-09-11,93,6
+143,Rest In Peace,Extreme,14,1993-01-02,1993-01-23,92,4
+144,Shuffle It All,Izzy Stradlin And The Ju Ju Hounds,10,1993-01-02,1993-02-06,90,6
+145,Drive,R.E.M.,14,1993-01-02,1993-04-03,90,7
+146,Friends,Joe Satriani,13,1993-01-02,1993-01-23,88,4
+147,Busy Bee,Ugly Kid Joe,22,1993-05-15,1993-06-19,88,6
+148,War Of Man,Neil Young,11,1993-01-02,1993-01-23,87,4
+149,Only,Anthrax,26,1993-05-22,1993-07-17,85,9
+150,Woman,Scorpions,15,1993-11-27,1993-12-25,82,5
+151,Tomorrow's Girls,Donald Fagen,20,1993-06-05,1993-07-24,82,8
+152,Sex Type Thing,Stone Temple Pilots,23,1993-01-02,1993-02-20,82,8
+153,Sweating Bullets,Megadeth,27,1993-02-27,1993-04-24,82,9
+154,I Love It Loud,KISS,22,1993-05-29,1993-07-03,79,6
+155,Pets,Porno For Pyros,25,1993-07-10,1993-08-14,79,6
+156,Little Miss Can't Be Wrong,Spin Doctors,12,1993-01-02,1993-01-16,76,3
+157,My Back Pages,Bob Dylan,26,1993-08-21,1993-10-02,76,7
+158,The Battle Rages On,Deep Purple,22,1993-08-14,1993-09-18,74,6
+159,99 Ways To Die,Megadeth,23,1993-11-27,1993-12-25,73,5
+160,Another Day,Dream Theater,22,1993-06-19,1993-07-24,72,6
+161,Bed Of Roses,Bon Jovi,25,1993-01-30,1993-03-13,72,7
+162,Over Now,Coverdale/Page,24,1993-08-28,1993-10-02,71,6
+163,What Time Is It?,Spin Doctors,26,1993-05-22,1993-06-26,70,6
+164,Mother,Danzig,21,1993-11-20,1993-12-25,66,6
+165,Both Sides Of The Story,Phil Collins,24,1993-11-06,1993-12-04,65,5
+166,Edge Of Thorns,Savatage,26,1993-07-24,1993-09-11,65,8
+167,I'll Sleep When I'm Dead,Bon Jovi,29,1993-07-10,1993-08-14,65,6
+168,Little Crazy,Fight,24,1993-11-27,1993-12-25,59,5
+169,How Could You Want Him,Spin Doctors,28,1993-08-14,1993-09-25,57,7
+170,Nothin' To Lose,Arcade,29,1993-04-17,1993-05-22,57,6
+171,Life Is A Lemon And I Want My Money Back,Meat Loaf,17,1993-12-11,1993-12-25,56,3
+172,Take A Hold,Raging Slab,27,1993-09-25,1993-10-30,56,6
+173,Cry No More,Arcade,27,1993-07-31,1993-09-04,56,6
+174,Smoke,Drivin' N' Cryin',23,1993-05-01,1993-06-12,53,7
+175,Tones Of Home,Blind Melon,18,1993-12-11,1993-12-25,51,3
+176,Everybody,Animal Bag,29,1993-04-17,1993-05-29,50,7
+177,Numb,U2,18,1993-07-10,1993-07-24,48,3
+178,The Sidewinder Sleeps Tonite,R.E.M.,28,1993-05-08,1993-06-05,47,5
+179,You,Candlebox,20,1993-12-04,1993-12-25,45,4
+180,Who's Gonna Ride Your Wild Horses,U2,26,1993-01-02,1993-01-23,45,4
+181,Here Comes Trouble,Bad Company,28,1993-02-13,1993-03-13,44,5
+182,Keep The Faith,Bon Jovi,26,1993-01-02,1993-01-23,43,4
+183,Low,Cracker,27,1993-11-27,1993-12-25,43,5
+184,Take The Time,Dream Theater,29,1993-03-27,1993-04-24,40,5
+185,In These Arms,Bon Jovi,32,1993-04-17,1993-05-22,40,6
+186,All Apologies,Nirvana,13,1993-12-18,1993-12-25,39,2
+187,Crazy Mary,Pearl Jam,26,1993-09-18,1993-10-16,39,5
+188,The Lumberjack,Jackyl,27,1993-01-02,1993-01-23,35,4
+189,Paralyzed,The Eric Gales Band,31,1993-08-21,1993-09-18,33,5
+190,Thing Of Beauty,Hothouse Flowers,32,1993-03-27,1993-05-01,33,6
+191,Hair Of The Dog,Guns N' Roses,19,1993-12-11,1993-12-25,31,3
+192,The One I Love,Big Country,34,1993-08-28,1993-10-02,29,6
+193,Estranged,Guns N' Roses,24,1993-12-11,1993-12-25,28,3
+194,Natural Thing,Journey,32,1993-01-02,1993-01-30,28,5
+195,Child Of The City,Triumph,30,1993-01-09,1993-02-13,26,6
+196,Angry Chair,Alice In Chains,34,1993-01-30,1993-02-27,26,5
+197,Where You Goin' Now,Damn Yankees,30,1993-01-02,1993-01-23,25,4
+198,Wild World,Mr. Big,33,1993-10-09,1993-10-30,25,4
+199,Yesterdays,Guns N' Roses,31,1993-01-02,1993-01-16,24,3
+200,The Ugly Truth,Matthew Sweet,35,1993-08-21,1993-09-11,22,4
+201,I'll Hate You Better,Suicidal Tendencies,34,1993-02-20,1993-03-20,21,5
+202,Secret World,Peter Gabriel,34,1993-07-17,1993-08-07,20,4
+203,This Could Be The One,Bad Company,33,1993-01-02,1993-01-16,19,3
+204,Dirty Little Mind,Jackyl,35,1993-09-04,1993-10-02,19,5
+205,That's Love,April Wine,35,1993-11-06,1993-12-18,19,7
+206,Can't Have Your Cake,Vince Neil,34,1993-07-24,1993-08-14,18,4
+207,Jeremy,Pearl Jam,24,1993-01-02,1993-01-02,17,1
+208,Long May You Run,Neil Young,34,1993-07-03,1993-07-24,15,4
+209,Paper Doll,Fleetwood Mac,27,1993-01-02,1993-01-02,14,1
+210,Foreclosure Of A Dream,Megadeth,36,1993-01-09,1993-01-30,14,4
+211,In My Dreams With You,Vai,36,1993-10-09,1993-10-23,13,3
+212,Gloria,Van Morrison,36,1993-06-19,1993-07-17,13,5
+213,Nothing,Ian Moore,32,1993-12-18,1993-12-25,12,2
+214,Conquer Me,Blues Traveler,34,1993-05-29,1993-06-26,12,4
+215,Manic Depression,Jeff Beck And Seal,31,1993-12-25,1993-12-25,10,1
+216,Mrs. Rita,Gin Blossoms,36,1993-04-03,1993-04-10,10,2
+217,Harbor Lights,Bruce Hornsby,38,1993-04-17,1993-05-15,10,5
+218,Unknown Legend,Neil Young,38,1993-03-20,1993-04-03,9,3
+219,Sweet Thing,Mick Jagger,34,1993-01-30,1993-02-06,8,2
+220,When Jesus Left Birmingham,John Mellencamp,35,1993-12-18,1993-12-25,8,2
+221,Born To Run,Lynyrd Skynyrd,37,1993-05-22,1993-05-29,8,2
+222,Spaceman,4 Non Blondes,39,1993-10-09,1993-10-30,8,4
+223,Animal,Pearl Jam,36,1993-10-30,1993-10-30,5,1
+224,Is It Like Today?,World Party,38,1993-06-05,1993-06-12,5,2
+225,Black Lodge,Anthrax,38,1993-10-09,1993-10-23,5,3
+226,Feed The Fire,BoDeans,37,1993-12-25,1993-12-25,4,1
+227,I Love You Period,Dan Baird,38,1993-01-02,1993-01-02,3,1
+228,King Of Nothing,Ghost Of An American Airman,38,1993-11-06,1993-11-06,3,1
+229,Blue Eyes,The Steve Miller Band,39,1993-09-18,1993-10-02,3,2
+230,Gone Dead Train,George Thorogood & The Destroyers,39,1993-12-25,1993-12-25,2,1
+231,Bad Luck Blue Eyes Goodbye,The Black Crowes,40,1993-05-01,1993-05-08,2,2
+232,Dollar Bill,Screaming Trees,40,1993-07-03,1993-07-03,1,1
+233,Positive Bleeding,Urge Overkill,40,1993-12-25,1993-12-25,1,1

@@ -1,0 +1,474 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,D-I-V-O-R-C-E,Tammy Wynette,1,1968-05-18,1968-09-07,1859,17
+2,Skip A Rope,Henson Cargill,1,1968-01-06,1968-04-13,1856,15
+3,Only Daddy That'll Walk The Line,Waylon Jennings,2,1968-07-13,1968-11-09,1817,18
+4,Folsom Prison Blues,Johnny Cash,1,1968-06-01,1968-09-28,1808,18
+5,A World Of Our Own,Sonny James,1,1968-01-20,1968-05-11,1803,17
+6,Mama Tried,Merle Haggard,1,1968-07-27,1968-11-02,1688,15
+7,I Wanna Live,Glen Campbell,1,1968-04-13,1968-07-27,1653,16
+8,Heaven Says Hello,Sonny James,1,1968-06-01,1968-09-21,1615,17
+9,Harper Valley P.T.A.,Jeannie C. Riley,1,1968-08-24,1968-11-23,1602,14
+10,You've Just Stepped In (From Stepping Out On Me),Loretta Lynn,2,1968-06-15,1968-09-28,1596,16
+11,Wild Week-End,Bill Anderson,2,1968-03-16,1968-07-13,1579,18
+12,Sing Me Back Home,Merle Haggard,1,1968-01-06,1968-03-30,1574,13
+13,Take Me To Your World,Tammy Wynette,1,1968-01-06,1968-04-27,1542,17
+14,Honey,Bobby Goldsboro,1,1968-03-30,1968-07-06,1524,15
+15,The Legend Of Bonnie And Clyde,Merle Haggard,1,1968-03-09,1968-06-15,1518,15
+16,Fist City,Loretta Lynn,1,1968-02-24,1968-06-15,1508,17
+17,Happy State Of Mind,Bill Anderson,2,1968-08-17,1968-11-30,1474,16
+18,What's Made Milwaukee Famous (Has Made A Loser Out Of Me),Jerry Lee Lewis,2,1968-06-08,1968-09-21,1463,16
+19,Already It's Heaven,David Houston,1,1968-06-15,1968-09-28,1370,16
+20,Born To Be With You,Sonny James,1,1968-10-12,1968-12-28,1358,12
+21,I Walk Alone,Marty Robbins,1,1968-10-05,1968-12-28,1353,13
+22,Next In Line,Conway Twitty,1,1968-08-17,1968-12-07,1350,17
+23,How Long Will My Baby Be Gone,Buck Owens,1,1968-01-27,1968-05-04,1337,15
+24,The Image Of Me,Conway Twitty,5,1968-03-23,1968-07-20,1330,18
+25,Then You Can Tell Me Goodbye,Eddy Arnold,1,1968-08-31,1968-11-30,1320,14
+26,With Pen In Hand,Johnny Darrell,3,1968-04-27,1968-08-24,1310,18
+27,Love Takes Care Of Me,Jack Greene,4,1968-07-20,1968-11-02,1302,16
+28,The Easy Part's Over,Charley Pride,2,1968-05-18,1968-08-24,1300,15
+29,Rosanna's Going Wild,Johnny Cash,2,1968-01-06,1968-03-30,1296,13
+30,Have A Little Faith,David Houston,1,1968-03-09,1968-06-08,1294,14
+31,Sweet Rosie Jones,Buck Owens,2,1968-04-20,1968-07-27,1292,15
+32,The Day The World Stood Still,Charley Pride,4,1968-01-06,1968-04-27,1274,17
+33,Just For You,Ferlin Husky,4,1968-01-06,1968-04-20,1261,16
+34,Another Place Another Time,Jerry Lee Lewis,4,1968-03-09,1968-06-29,1257,17
+35,Stand By Your Man,Tammy Wynette,1,1968-10-19,1968-12-28,1256,11
+36,Dreams Of The Everyday Housewife,Glen Campbell,3,1968-07-06,1968-10-12,1231,15
+37,You Are My Treasure,Jack Greene,1,1968-02-17,1968-05-25,1227,15
+38,I'm Gonna Move On,Warner Mack,7,1968-05-18,1968-08-31,1203,16
+39,It's All Over But The Crying,Hank Williams Jr.,3,1968-08-31,1968-12-14,1173,16
+40,Here Comes Heaven,Eddy Arnold,2,1968-01-06,1968-03-09,1171,10
+41,Where Love Used To Live,David Houston,2,1968-10-19,1968-12-28,1171,11
+42,Let The Chips Fall,Charley Pride,4,1968-10-05,1968-12-28,1135,13
+43,As Long As I Live,George Jones,3,1968-07-06,1968-09-28,1134,13
+44,It's Over,Eddy Arnold,4,1968-06-01,1968-08-17,1125,12
+45,"Promises, Promises",Lynn Anderson,4,1968-01-06,1968-03-30,1108,13
+46,Looking At The World Through A Windshield,Del Reeves,5,1968-08-17,1968-11-16,1086,14
+47,For Loving You,Bill Anderson,1,1968-01-06,1968-03-09,1083,10
+48,"Here Comes The Rain, Baby",Eddy Arnold,4,1968-02-17,1968-05-18,1066,14
+49,Let The World Keep On A Turnin',Buck Owens,7,1968-07-27,1968-11-02,1058,15
+50,Your Squaw Is On The Warpath,Loretta Lynn,3,1968-10-26,1968-12-28,1052,10
+51,Walk On Out Of My Mind,Waylon Jennings,5,1968-01-27,1968-05-11,1051,16
+52,I Got You,Waylon Jennings & Anita Carter,4,1968-03-30,1968-07-06,1018,15
+53,I've Got You On My Mind Again,Buck Owens,5,1968-10-26,1968-12-28,953,10
+54,She Wears My Ring,Ray Price,6,1968-10-05,1968-12-28,945,13
+55,"On Tap, In The Can, Or In The Bottle",Hank Thompson,7,1968-07-13,1968-10-19,923,15
+56,By The Time I Get To Phoenix,Glen Campbell,2,1968-01-06,1968-02-24,907,8
+57,Flower Of Love,Leon Ashley,8,1968-07-27,1968-11-02,891,15
+58,When You Are Gone,Jim Reeves,7,1968-09-21,1968-12-28,875,15
+59,Take Me As I Am (Or Let Me Go),Ray Price,8,1968-01-06,1968-04-06,875,14
+60,Little Green Apples,Roger Miller,6,1968-03-09,1968-06-01,872,13
+61,She Still Comes Around (To Love What's Left Of Me),Jerry Lee Lewis,2,1968-09-28,1968-12-14,849,12
+62,Run Away Little Tears,Connie Smith,10,1968-05-18,1968-08-24,840,15
+63,Holding On To Nothin',Porter Wagoner And Dolly Parton,7,1968-04-13,1968-07-27,833,16
+64,Love Is In The Air,Marty Robbins,10,1968-05-04,1968-08-10,829,15
+65,I Just Came To Get My Baby,Faron Young,8,1968-08-03,1968-11-16,822,16
+66,The Last Thing On My Mind,Porter Wagoner And Dolly Parton,7,1968-01-06,1968-03-23,806,12
+67,We'll Get Ahead Someday,Porter Wagoner And Dolly Parton,5,1968-07-27,1968-10-19,798,13
+68,Baby's Back Again,Connie Smith,7,1968-01-27,1968-04-27,770,14
+69,She Went A Little Bit Farther,Faron Young,14,1968-03-09,1968-06-22,761,16
+70,Say It's Not You,George Jones,8,1968-02-03,1968-05-04,739,14
+71,I Take A Lot Of Pride In What I Am,Merle Haggard,4,1968-11-09,1968-12-28,738,8
+72,I've Been There Before,Ray Price,11,1968-05-04,1968-08-17,738,16
+73,I Believe In Love,Bonnie Guitar,10,1968-06-08,1968-09-07,736,14
+74,Wichita Lineman,Glen Campbell,1,1968-11-02,1968-12-28,733,9
+75,Undo The Right,Johnny Bush,10,1968-08-03,1968-11-16,733,16
+76,Repeat After Me,Jack Reno,10,1968-01-06,1968-03-30,731,13
+77,That's When I See The Blues (In Your Pretty Brown Eyes),Jim Reeves,9,1968-03-09,1968-06-01,726,13
+78,There Ain't No Easy Run,Dave Dudley,10,1968-03-02,1968-05-25,721,13
+79,No Another Time,Lynn Anderson,8,1968-03-30,1968-06-29,716,14
+80,From Heaven To Heartache,Bobby Lewis,10,1968-07-27,1968-11-09,701,16
+81,It's All Over,David Houston & Tammy Wynette,11,1968-01-20,1968-04-20,697,14
+82,Smoky The Bar,Hank Thompson,6,1968-10-26,1968-12-28,686,10
+83,Remembering,Jerry Reed,14,1968-04-13,1968-07-20,683,15
+84,Just Because I'm A Woman,Dolly Parton,17,1968-06-29,1968-09-28,675,14
+85,Ramona,Billy Walker,8,1968-07-13,1968-09-14,670,10
+86,Stop The Sun,Bonnie Guitar,13,1968-01-06,1968-04-06,667,14
+87,Big Girls Don't Cry,Lynn Anderson,12,1968-08-03,1968-11-02,653,14
+88,Mental Journey,Leon Ashley,14,1968-03-30,1968-06-29,652,14
+89,"It's A Long, Long Way To Georgia",Don Gibson,12,1968-07-13,1968-10-12,651,14
+90,Be Proud Of Your Man,Porter Wagoner,16,1968-06-08,1968-09-07,650,14
+91,Plastic Saddle,Nat Stuckey,9,1968-10-12,1968-12-28,643,12
+92,The Country Hall Of Fame,Hank Locklin,8,1968-01-06,1968-03-02,634,9
+93,Something Pretty,Wynn Stewart,10,1968-04-20,1968-07-13,626,13
+94,Something Special,Mel Tillis,17,1968-05-11,1968-08-17,624,15
+95,A Little Bit Later On Down The Line,Bobby Bare,14,1968-07-27,1968-10-19,623,13
+96,My Goal For Today,Kenny Price,11,1968-01-06,1968-03-23,619,12
+97,Little Arrows,Leapy Lee,11,1968-10-19,1968-12-28,612,11
+98,The Late And Great Love (Of My Heart),Hank Snow,20,1968-06-08,1968-08-31,610,13
+99,Row Row Row,Henson Cargill,11,1968-04-27,1968-07-13,606,12
+100,The Enemy,Jim Ed Brown,13,1968-05-25,1968-08-10,594,12
+101,A Thing Called Love,Jimmy Dean,21,1968-03-09,1968-06-08,594,14
+102,Rainbows Are Back In Style,Slim Whitman,17,1968-03-16,1968-06-15,590,14
+103,Sundown Mary,Billy Walker,18,1968-03-02,1968-06-01,584,14
+104,Country Girl,Dottie West,15,1968-04-27,1968-07-13,581,12
+105,Will You Visit Me On Sundays?,Charlie Louvin,20,1968-03-09,1968-06-08,579,14
+106,Love's Gonna Happen To Me,Wynn Stewart,7,1968-01-06,1968-02-24,576,8
+107,I Keep Coming Back For More,Dave Dudley,14,1968-07-13,1968-09-21,575,11
+108,Ain't Got Time To Be Unhappy,Bob Luman,19,1968-05-11,1968-08-10,575,14
+109,Born To Love You,Jimmy Newman,20,1968-08-31,1968-11-23,574,13
+110,Angry Words,Stonewall Jackson,16,1968-09-28,1968-12-28,567,14
+111,"Count Your Blessings, Woman",Jan Howard,16,1968-03-09,1968-06-01,558,13
+112,Hey Daddy,Charlie Louvin,15,1968-08-17,1968-11-02,556,12
+113,"Milwaukee, Here I Come",George Jones & Brenda Carter,12,1968-09-28,1968-12-14,553,12
+114,What Locks The Door,Jack Greene,4,1968-01-06,1968-02-10,551,6
+115,My Can Do Can't Keep Up With My Want To,Nat Stuckey,17,1968-01-06,1968-03-23,546,12
+116,"Love Me, Love Me",Bobby Barnett,14,1968-08-10,1968-11-09,535,14
+117,Wild Blood,Del Reeves,18,1968-03-30,1968-06-22,534,13
+118,Autumn Of My Life,Bobby Goldsboro,15,1968-07-13,1968-09-21,525,11
+119,The Dark End Of The Street,Archie,24,1968-01-06,1968-04-13,518,15
+120,Born A Fool,Freddie Hart,21,1968-06-08,1968-09-14,514,15
+121,Tie A Tiger Down,Sheb Wooley,22,1968-06-29,1968-09-14,514,12
+122,It Takes People Like You (To Make People Like Me),Buck Owens,2,1968-01-06,1968-02-10,510,6
+123,I Heard A Heart Break Last Night,Jim Reeves,9,1968-01-06,1968-02-24,510,8
+124,In Love,Wynn Stewart,16,1968-08-24,1968-11-02,509,11
+125,Reno,Dottie West,19,1968-09-07,1968-11-23,508,12
+126,Hey Little One,Glen Campbell,13,1968-02-03,1968-04-20,505,12
+127,Little World Girl,George Hamilton IV,18,1968-01-06,1968-03-16,503,11
+128,Find Out What's Happening,Bobby Bare,15,1968-03-02,1968-05-11,495,11
+129,Luzianna,Webb Pierce,24,1968-01-27,1968-04-20,491,13
+130,"Mother, May I",Liz Anderson,21,1968-02-24,1968-05-11,487,12
+131,The Carroll County Accident,Porter Wagoner,7,1968-11-09,1968-12-28,479,8
+132,Togetherness,Freddie Hart,24,1968-01-06,1968-04-06,472,14
+133,I Still Believe In Love,Jan Howard,27,1968-08-10,1968-10-19,467,11
+134,There's A Fool Born Every Minute,Skeeter Davis,16,1968-06-22,1968-08-24,466,10
+135,Jody And The Kid,Roy Drusky,24,1968-07-20,1968-09-28,465,11
+136,Welcome Home To Nothing,Jeannie Seely,24,1968-02-24,1968-05-11,448,12
+137,The Last Goodbye,Dick Miles,17,1968-03-16,1968-05-18,439,10
+138,Your Lily White Hands,Johnny Carver,21,1968-01-06,1968-03-16,435,11
+139,Ballad Of Two Brothers,Autry Inman,14,1968-11-02,1968-12-28,428,9
+140,Happy Street,Slim Whitman,22,1968-08-10,1968-10-19,424,11
+141,All Right (I'll Sign The Papers),Mel Tillis,26,1968-01-13,1968-03-30,419,12
+142,The Cajun Stripper,Jim Ed Brown,23,1968-02-10,1968-04-20,417,11
+143,Little Things,Willie Nelson,22,1968-02-10,1968-04-20,416,11
+144,I'd Give The World (To Be Back Loving You),Warner Mack,11,1968-01-06,1968-02-24,415,8
+145,Weakness In A Man,Roy Drusky,18,1968-01-06,1968-02-24,413,8
+146,Saturday Night,Webb Pierce,22,1968-10-26,1968-12-28,412,10
+147,Blue Lonely Winter,Jimmy Newman,11,1968-01-06,1968-02-17,410,7
+148,"Cry, Cry, Cry",Connie Smith,20,1968-09-28,1968-12-07,408,11
+149,Foggy River,Carl Smith,18,1968-01-13,1968-03-23,406,11
+150,The Town That Broke My Heart,Bobby Bare,16,1968-10-26,1968-12-28,403,10
+151,I Promised You The World,Ferlin Husky,26,1968-05-25,1968-07-27,403,10
+152,How Is He?,Jeannie Seely,23,1968-06-22,1968-08-24,401,10
+153,Woman Hungry,Porter Wagoner,24,1968-01-06,1968-03-02,398,9
+154,White Fences And Evergreen Trees,Ferlin Husky,25,1968-10-19,1968-12-21,398,10
+155,What A Way To Live,Johnny Bush,29,1968-03-16,1968-06-08,395,13
+156,Sweet Child Of Sunshine,Jerry Wallace,22,1968-09-14,1968-11-16,391,10
+157,Age Of Worry,Billy Walker,20,1968-11-02,1968-12-28,388,9
+158,You Better Sit Down Kids,Roy Drusky,28,1968-03-30,1968-06-01,383,10
+159,Night Life,Claude Gray,31,1968-05-18,1968-08-03,382,12
+160,Take Me Along With You,Van Trevor,31,1968-04-27,1968-07-06,377,11
+161,San Diego,Charlie,31,1968-08-03,1968-10-12,375,11
+162,Ordinary Miracle,Bobby Lewis,29,1968-03-23,1968-05-25,374,10
+163,A Hammer And Nails,Jimmy Dean,22,1968-11-09,1968-12-28,369,8
+164,Jackson Ain't A Very Big Town,Johnny Duncan,21,1968-10-19,1968-12-07,366,8
+165,Louisville,Leroy Van Dyke,23,1968-01-06,1968-03-16,365,11
+166,The Jimmie Rodgers Blues,Elton Britt,26,1968-05-04,1968-07-06,365,10
+167,Punish Me Tomorrow,Carl Butler & Pearl,28,1968-08-17,1968-11-02,364,12
+168,Small Time Laboring Man,George Jones,35,1968-04-13,1968-06-22,364,11
+169,Burning A Hole In My Mind,Connie Smith,6,1968-01-06,1968-02-03,363,5
+170,Anything Leaving Town Today,Dave Dudley,12,1968-01-06,1968-02-17,362,7
+171,He's A Good Ole Boy,Arlene,32,1968-04-06,1968-06-15,356,11
+172,Childhood Places,Dottie West,24,1968-01-06,1968-03-02,347,9
+173,When The Grass Grows Over Me,George Jones,13,1968-11-23,1968-12-28,341,6
+174,Ballad Of Forty Dollars,Tom T. Hall,12,1968-11-16,1968-12-28,340,7
+175,I Ain't Buying,Johnny Darrell,27,1968-09-21,1968-11-23,339,10
+176,Tell It Like It Is,Lorene Mann & Archie Campbell,31,1968-06-29,1968-08-31,339,10
+177,Tell Maude I Slipped,Red Sovine,33,1968-01-06,1968-03-02,338,9
+178,Wonderful World Of Women,Faron Young,14,1968-01-06,1968-02-10,335,6
+179,You Changed Everything About Me But My Name,Norma Jean,35,1968-07-20,1968-09-21,331,10
+180,Heaven Help The Working Girl,Norma Jean,18,1968-01-06,1968-02-17,329,7
+181,My Baby Walked Right Out On Me,Wanda Jackson,34,1968-05-04,1968-07-06,321,10
+182,Yours Love,Waylon Jennings,17,1968-11-16,1968-12-28,320,7
+183,"Stranger In A Strange, Strange City",Webb Pierce,26,1968-07-06,1968-08-31,319,9
+184,"Three Six Packs, Two Arms And A Juke Box",Johnny Sea,32,1968-10-19,1968-12-28,316,11
+185,I Wouldn't Change A Thing About You (But Your Name),Hank Williams Jr.,31,1968-01-13,1968-03-23,311,11
+186,Please Let Me Prove (My Love For You),Dave Dudley,15,1968-11-16,1968-12-28,309,7
+187,Sounds Of Goodbye,George Morgan,31,1968-08-31,1968-11-02,306,10
+188,"Anna, I'm Taking You Home",Leon Ashley,28,1968-01-06,1968-02-17,304,7
+189,I'm In Love With My Wife,David Rogers,38,1968-07-20,1968-09-28,304,11
+190,Going Home For The Last Time,Kenny Price,31,1968-04-27,1968-06-15,301,8
+191,Tupelo Mississippi Flash,Jerry Reed,15,1968-01-06,1968-02-10,293,6
+192,I Believe In Love,Stonewall Jackson,31,1968-06-08,1968-08-03,293,9
+193,"Smoke, Smoke, Smoke - '68",Tex Williams,32,1968-02-17,1968-04-20,292,10
+194,Harper Valley P.T.A. (Later That Same Day),Ben Colder,24,1968-10-26,1968-11-30,291,6
+195,The Straight Life,Bobby Goldsboro,37,1968-10-26,1968-12-28,290,10
+196,One Of These Days,The Glaser Brothers,36,1968-07-27,1968-09-28,288,10
+197,I'm Coming Back Home To Stay,The Buckaroos,38,1968-06-08,1968-08-03,288,9
+198,I Want One,Jack Reno,23,1968-11-16,1968-12-28,285,7
+199,In The Good Old Days (When Times Were Bad),Dolly Parton,25,1968-11-16,1968-12-28,284,7
+200,Evolution And The Bible,Hugh X. Lewis,36,1968-03-23,1968-05-25,279,10
+201,God Help You Woman,Jim Glaser,32,1968-08-31,1968-10-19,276,8
+202,Rocky Top,The Osborne Brothers,33,1968-02-03,1968-04-06,275,10
+203,Destroyed By Man,Mel Tillis,31,1968-10-05,1968-11-16,272,7
+204,My Big Truck Drivin' Man,Kitty Wells,35,1968-01-27,1968-03-30,272,10
+205,Phone Call To Mama,Joyce Paul,36,1968-06-22,1968-08-24,271,10
+206,How Sweet It Is (To Be In Love With You),Jack Reno,41,1968-05-11,1968-07-20,270,11
+207,If My Heart Had Windows,George Jones,9,1968-01-06,1968-02-03,267,5
+208,Drinking Champagne,Cal Smith,35,1968-10-05,1968-11-16,265,7
+209,Three Playing Love,Cheryl,39,1968-08-10,1968-10-12,264,10
+210,The Sounds Of Goodbye,Tommy Cash,41,1968-08-31,1968-10-26,260,9
+211,Leaves Are The Tears Of Autumn,Bonnie Guitar,41,1968-09-28,1968-11-30,258,10
+212,Nothing Takes The Place Of Loving You,Stonewall Jackson,39,1968-02-17,1968-04-20,256,10
+213,A Real Good Woman,Jean Shepard,36,1968-06-15,1968-08-03,254,8
+214,Atlanta Georgia Stray,Sonny Curtis,36,1968-02-24,1968-05-04,254,11
+215,Empty House,June Stearns,47,1968-04-27,1968-07-13,253,12
+216,Thanks A Lot For Tryin' Anyway,Liz Anderson,40,1968-01-06,1968-03-09,249,10
+217,Don't Worry 'Bout The Mule (Just Load The Wagon),Glenn Barber,41,1968-11-09,1968-12-28,249,8
+218,Live Your Life Out Loud,Bobby Lord,44,1968-04-06,1968-06-15,249,11
+219,They Don't Make Love Like They Used To,Eddy Arnold,20,1968-11-23,1968-12-28,246,6
+220,Take My Hand For Awhile,George Hamilton IV,38,1968-10-19,1968-12-21,246,10
+221,Everybody's Got To Be Somewhere,Johnny Dollar,42,1968-01-13,1968-03-30,243,12
+222,I'll Love You More (Than You Need),Jeannie Seely,10,1968-01-06,1968-02-03,242,5
+223,The Moods Of Mary,The Glaser Brothers,42,1968-02-24,1968-04-20,242,9
+224,Mama Sez,Marion Worth,45,1968-03-30,1968-06-01,241,10
+225,This One's On The House,Jerry Wallace,36,1968-01-06,1968-02-17,239,7
+226,A Dime At A Time,Del Reeves,24,1968-01-06,1968-02-03,237,5
+227,Don't Monkey With Another Monkey's Monkey,Johnny Paycheck,41,1968-01-06,1968-03-02,237,9
+228,We Need A Lot More Happiness,Wilburn Brothers,43,1968-10-26,1968-12-14,234,8
+229,My Son,Jan Howard,18,1968-11-23,1968-12-28,231,6
+230,Ashes Of Love,Don Gibson,37,1968-03-23,1968-05-04,225,7
+231,I Ain't Got Nobody,Dick Curless,34,1968-06-15,1968-08-10,221,9
+232,What Can I Say,Arlene,41,1968-08-17,1968-10-12,218,9
+233,A Girl Don't Have To Drink To Have Fun,Wanda Jackson,22,1968-01-06,1968-02-10,216,6
+234,I Was With Red Foley (The Night He Passed Away),"Luke The Drifter, Jr",39,1968-11-09,1968-12-28,216,8
+235,Love Song For You,Hank Locklin,40,1968-03-30,1968-05-18,212,8
+236,Like A Merry-Go-Round,Liz Anderson,43,1968-05-11,1968-07-06,212,9
+237,Christopher Robin,Stonemans,41,1968-07-20,1968-09-07,207,8
+238,Southern Bound,Kenny Price,37,1968-09-07,1968-10-26,203,8
+239,Ever Changing Mind,Don Gibson,32,1968-11-23,1968-12-28,202,6
+240,The Sunshine Of My World,Dallas Frazier,43,1968-04-13,1968-06-01,201,8
+241,Good Times,Willie Nelson,44,1968-06-15,1968-08-03,198,8
+242,You Ought To Hear Me Cry,Carl Smith,43,1968-05-18,1968-07-13,197,9
+243,Set Me Free,Charlie Rich,44,1968-03-09,1968-04-27,197,8
+244,She Thinks I'm On That Train,Henson Cargill,39,1968-08-10,1968-09-28,195,8
+245,Love's Dead End,Bill Phillips,25,1968-01-06,1968-02-10,192,6
+246,Don't Wake Me I'm Dreaming,Warner Mack,33,1968-11-23,1968-12-28,189,6
+247,Roses To Reno,Bob Bishop,42,1968-11-09,1968-12-14,186,6
+248,Here's To You And Me,Tex Williams,45,1968-06-29,1968-08-10,186,7
+249,Jack And Jill,Jim Ed Brown,49,1968-09-28,1968-11-16,185,8
+250,Woman Without Love,Johnny Darrell,28,1968-11-30,1968-12-28,184,5
+251,The Great Pretender,Lamar Morris,46,1968-01-13,1968-03-16,184,10
+252,To My Sorrow,Johnny Duncan,47,1968-08-17,1968-10-12,184,9
+253,Johnny One Time,Willie Nelson,36,1968-09-07,1968-10-19,182,7
+254,Raggedy Ann,Charlie Rich,45,1968-08-24,1968-10-12,182,8
+255,Down In The Flood,Flatt & Scruggs,45,1968-01-13,1968-03-02,182,8
+256,Daddy Sang Bass,Johnny Cash,19,1968-12-07,1968-12-28,177,4
+257,Alabama Wild Man,Jerry Reed,48,1968-09-28,1968-11-30,177,10
+258,Flattery Will Get You Everywhere,Lynn Anderson,30,1968-11-30,1968-12-28,176,5
+259,The Straight Life,Sonny Curtis,45,1968-07-20,1968-09-14,168,9
+260,Sunshine And Bluebirds,Jimmy Newman,47,1968-04-13,1968-06-01,168,8
+261,I Still Didn't Have The Sense To Go,Johnny Carver,48,1968-06-01,1968-07-20,168,8
+262,"Your Time Hasn't Come Yet, Baby",Elvis Presley With The Jordanaires,50,1968-06-29,1968-08-17,165,8
+263,Less Of Me,Bobbie Gentry & Glen Campbell,44,1968-11-23,1968-12-28,164,6
+264,"Culman, Alabam",Roger S.,47,1968-05-04,1968-06-22,163,8
+265,If I Don't Like The Way You Love Me,Mary Taylor,44,1968-06-22,1968-08-10,160,8
+266,A New Heart,Ernie Ashworth,39,1968-05-25,1968-07-13,158,8
+267,Happiness Hill,Kitty Wells,47,1968-11-16,1968-12-28,157,7
+268,It's My Time,George Hamilton IV,50,1968-06-01,1968-07-20,157,8
+269,I Like Trains,Bob Luman,50,1968-09-28,1968-11-09,156,7
+270,Born To Be By Your Side,Jimmy Dean,52,1968-08-10,1968-09-28,155,8
+271,The Sugar From My Candy,Ray Griff,50,1968-04-27,1968-06-08,147,7
+272,Everybody Wants To Be Somebody Else,The Harden Trio,47,1968-06-29,1968-08-10,145,7
+273,Big Rig Rollin' Man,Johnny Dollar,48,1968-11-16,1968-12-28,139,7
+274,"I Feel You, I Love You",Bobby Helms,53,1968-04-20,1968-06-15,137,9
+275,Warm And Tender Love,Archie,57,1968-09-28,1968-11-16,136,8
+276,Everybody Oughta Sing A Song,Dallas Frazier,28,1968-01-06,1968-01-20,134,3
+277,He Ain't Country,James Bell,51,1968-05-04,1968-06-15,133,7
+278,I'll Be Your Baby Tonight,Glen Garrison,48,1968-06-22,1968-07-27,131,6
+279,Greenwich Village Folk Song Salesman,Jim & Jesse,49,1968-01-27,1968-03-02,130,6
+280,Gypsy King,Kitty Wells,52,1968-07-27,1968-09-14,129,8
+281,I'm A Swinger,Jimmy Dean,30,1968-01-06,1968-01-20,128,3
+282,"Baby, Ain't That Love",Jack Barlow,40,1968-10-26,1968-11-16,128,4
+283,Little Boy Soldier,Wanda Jackson,46,1968-09-07,1968-10-12,126,6
+284,Wonderful Day,Ray Pillow,51,1968-09-14,1968-11-02,125,8
+285,Why Do You Do Me Like You Do,Sammi Smith,53,1968-06-08,1968-07-20,124,7
+286,The Auctioneer,Brenda,51,1968-10-26,1968-12-21,122,9
+287,The Power Of Your Sweet Love,Claude King,48,1968-10-19,1968-11-23,121,6
+288,Do You Believe This Town,Roy Clark,53,1968-08-03,1968-09-21,121,8
+289,I Wish I Was Your Friend,Wanda Jackson,55,1968-11-16,1968-12-28,121,7
+290,Texas Tea,Dee Mullins,51,1968-07-13,1968-08-24,119,7
+291,Before The Next Teardrop Falls,Duane Dee,44,1968-01-06,1968-01-27,117,4
+292,Instinct For Survival,Skeeter Davis,54,1968-03-23,1968-05-04,117,7
+293,By The Time You Get To Phoenix,Wanda Jackson,46,1968-01-27,1968-03-02,116,6
+294,I'm Goin' Back Home Where I Belong,The Buckaroos,50,1968-09-21,1968-11-09,115,8
+295,Wandering Mind,Margie,52,1968-03-02,1968-04-20,115,8
+296,Truck Driving Woman,Norma Jean,53,1968-03-30,1968-05-04,115,6
+297,Got Leavin' On Her Mind,Mac Wiseman,54,1968-11-09,1968-12-21,115,7
+298,Wrong Side Of The World,Hugh X. Lewis,49,1968-01-06,1968-02-03,114,5
+299,Feed Me One More Lie,Mary Taylor,51,1968-11-23,1968-12-28,113,6
+300,An Old Bridge,Jean Shepard,52,1968-02-10,1968-03-16,113,6
+301,Love Is Ending,Liz Anderson,51,1968-11-23,1968-12-21,112,5
+302,There's No More Love,Carl Smith,48,1968-09-21,1968-10-19,111,5
+303,When I Turn Twenty-One,Buddy Alan,54,1968-11-23,1968-12-28,110,6
+304,Living,George Morgan,56,1968-04-27,1968-06-08,108,7
+305,(It Won't Be Long) And I'll Be Hating You,Johnny Paycheck,59,1968-04-27,1968-06-08,108,7
+306,The Top Of The World,Stu Phillips,53,1968-07-13,1968-08-24,105,7
+307,Bury The Bottle With Me,Dick Curless,55,1968-03-23,1968-05-04,105,7
+308,The Only Way Out (Is To Walk Over Me),Charlie Louvin,36,1968-01-06,1968-01-20,104,3
+309,You Touched My Heart,David Rogers,45,1968-11-16,1968-12-28,104,7
+310,Jeannie's Afraid Of The Dark,Porter Wagoner And Dolly Parton,51,1968-10-05,1968-11-09,104,6
+311,Vance,Roger Miller,31,1968-12-14,1968-12-28,103,3
+312,The Girl Most Likely,Jeannie C. Riley,26,1968-12-07,1968-12-28,99,4
+313,Your Lily White Hands,Ray Griff,49,1968-01-06,1968-02-17,99,7
+314,Painted Girls And Wine,Ed Bruce,52,1968-07-13,1968-08-10,99,5
+315,We'll Stick Together,Kitty Wells,54,1968-05-11,1968-06-29,99,8
+316,The Sunshine Man,Mac Curtis,54,1968-10-19,1968-11-30,98,7
+317,Jacksonville,Cal Smith,58,1968-06-22,1968-08-03,98,7
+318,The True And Lasting Kind,Bobby Lord,49,1968-09-14,1968-10-12,97,5
+319,I'm Easy To Love,Stan Hitchcock With Sue Richards,57,1968-05-18,1968-07-06,96,8
+320,Let's Wait A Little Longer,The Canadian Sweethearts,51,1968-02-10,1968-03-09,95,5
+321,Mr. & Mrs. John Smith,Johnny A.,53,1968-02-17,1968-03-23,95,6
+322,Yonder Comes A Freight Train,Jim & Jesse,56,1968-09-07,1968-10-12,94,6
+323,Gentle On My Mind,Glen Campbell,44,1968-10-19,1968-11-02,93,3
+324,Son Of A Sawmill Man,The Osborne Brothers,58,1968-10-19,1968-11-23,93,6
+325,Truck Drivin' Cat With Nine Wives,Charlie,54,1968-03-30,1968-05-11,90,7
+326,Like A Rolling Stone,Flatt & Scruggs,58,1968-09-14,1968-11-02,90,8
+327,Wall Of Pictures,Darrell Mccall,60,1968-08-17,1968-10-05,90,8
+328,You Mean The World To Me,David Houston,24,1968-01-06,1968-01-13,89,2
+329,Look At The Laughter,Wilma Burgess,59,1968-08-17,1968-10-12,88,9
+330,The Two Sides Of Me,Harold Lee,56,1968-04-06,1968-05-11,87,6
+331,You'll Never Be Lonely Again,Leon Ashley,55,1968-05-11,1968-06-15,86,6
+332,Big Daddy,The Browns,52,1968-01-06,1968-01-27,83,4
+333,"Cut The Cornbread, Mama",The Osborne Brothers,60,1968-06-15,1968-08-10,83,7
+334,Livin' On Lovin' (And Lovin' Livin' With You),Slim Whitman,46,1968-11-30,1968-12-28,82,5
+335,I'm Not Ready Yet,The Blue Boys,58,1968-02-03,1968-03-09,81,6
+336,Set Him Free,Skeeter Davis,52,1968-01-06,1968-01-27,79,4
+337,What Kind Of A Girl (Do You Think I Am?),Loretta Lynn,28,1968-01-06,1968-01-13,77,2
+338,Foggy Mountain Breakdown,Flatt & Scruggs,58,1968-04-06,1968-05-11,77,6
+339,Hold What You've Got,Diana Trask,59,1968-11-23,1968-12-28,77,6
+340,What Are Those Things (With Big Black Wings),Charlie Louvin,34,1968-12-21,1968-12-28,76,2
+341,U.S. Male,Elvis Presley With The Jordanaires,55,1968-04-06,1968-05-11,76,6
+342,Everlasting Love,Hank Locklin,57,1968-08-24,1968-09-21,76,5
+343,Bring Me Sunshine,Willie Nelson,35,1968-12-21,1968-12-28,74,2
+344,You're Easy To Love,Arlene,49,1968-01-06,1968-01-20,72,3
+345,The Old Ryman,Hank Williams Jr.,51,1968-06-01,1968-07-06,72,6
+346,Our Golden Wedding Day,Johnny A.,58,1968-06-22,1968-07-20,71,5
+347,Where He Stops Nobody Knows,June Stearns,57,1968-09-14,1968-10-12,69,5
+348,Everyday's A Happy Day For Fools,Jean Shepard,62,1968-10-05,1968-12-07,69,8
+349,He's Got More Love In His Little Finger,Billie Jo Spears,56,1968-11-30,1968-12-28,68,5
+350,Walking Through The Memories Of My Mind,Billy Mize,58,1968-09-28,1968-11-09,68,7
+351,"Normally, Norma Loves Me",Red Sovine,61,1968-10-12,1968-11-16,68,6
+352,1432 Franklin Pike Circle Hero,Bobby Russell,64,1968-11-09,1968-12-28,68,8
+353,Until My Dreams Come True,Jack Greene,43,1968-12-14,1968-12-28,67,3
+354,Too Much Of Not Enough,Ernest Tubb,55,1968-02-03,1968-03-02,60,5
+355,"Cry, Cry Again",Liz Anderson,58,1968-08-31,1968-09-21,59,4
+356,Only A Fool,Ned Miller,61,1968-02-17,1968-03-16,58,5
+357,Lovin' You (The Way I Do),Hank Locklin,62,1968-11-02,1968-12-07,57,6
+358,Destination Atlanta G.A.,Cal Smith,60,1968-02-24,1968-03-23,56,5
+359,The Phoenix Flash,Stan Hitchcock With Sue Richards,60,1968-10-19,1968-11-09,55,4
+360,Kay,John Wesley Ryles,52,1968-12-07,1968-12-28,54,4
+361,Barbara,George Morgan,55,1968-01-13,1968-02-17,54,6
+362,The Day You Stop Loving Me,Bobby Helms,60,1968-01-06,1968-02-03,54,5
+363,One Man Band,Norma Jean,61,1968-11-30,1968-12-28,53,5
+364,Everybody Needs Somebody,Compton Brothers,62,1968-11-23,1968-12-21,53,5
+365,You're The Reason,Johnny Tillotson,48,1968-01-06,1968-01-13,52,2
+366,He Looks A Lot Like You,The Harden Trio,56,1968-02-10,1968-03-02,52,4
+367,I Hope I Like Mexico Blues,Dallas Frazier,59,1968-09-21,1968-10-19,52,5
+368,Alabam,Guy Mitchell,61,1968-02-24,1968-03-23,52,5
+369,"Bottle, Bottle",Jim Ed Brown,23,1968-01-06,1968-01-06,51,1
+370,Leave This One Alone,Nat Stuckey,63,1968-05-18,1968-06-15,51,5
+371,I Just Wasted The Rest,Del Reeves,56,1968-03-09,1968-04-06,50,5
+372,The Note In Box Number 9,Stu Phillips,62,1968-04-20,1968-05-25,50,6
+373,I Can Spot A Cheater,Johnny Tillotson,63,1968-02-17,1968-03-23,50,6
+374,Truck Drivin' Cat With Nine Wives,Jim Nesbitt,63,1968-03-16,1968-04-27,50,7
+375,Longest Beer Of The Night,Jim Ed Brown,50,1968-12-14,1968-12-28,49,3
+376,I Made The Prison Band,Tommy Collins,64,1968-01-13,1968-02-17,49,6
+377,"Me, Me, Me, Me, Me",Liz Anderson,65,1968-08-24,1968-10-05,49,7
+378,Is It Love?,Lucille Starr,63,1968-06-08,1968-07-06,48,5
+379,Strings,Wynn Stewart,49,1968-12-14,1968-12-28,47,3
+380,Buffalo Nickel,Rusty Draper,58,1968-08-03,1968-08-17,47,3
+381,I Ain't The Worryin' Kind,Billy Edd Wheeler,63,1968-08-24,1968-09-21,47,5
+382,The Quiet Kind,Mac Curtis,64,1968-06-15,1968-07-13,45,5
+383,Gypsy Man,Buddy Knox,64,1968-06-22,1968-07-27,44,6
+384,Juanita Jones,Stu Phillips,31,1968-01-06,1968-01-06,43,1
+385,To Be A Child Again,Anita Carter,65,1968-11-09,1968-12-07,43,5
+386,The Marriage Bit,Lefty Frizzell,59,1968-08-10,1968-08-24,41,3
+387,Jump For Joy,The Statler Brothers,60,1968-04-27,1968-05-11,40,3
+388,(They Always Come Out) Smellin' Like A Rose,Johnny Wright,66,1968-11-30,1968-12-28,40,5
+389,Does My Ring Hurt Your Finger,Country Charley Pride,35,1968-01-06,1968-01-06,39,1
+390,Honey,The Compton Brothers,64,1968-03-23,1968-04-20,39,5
+391,Standing In The Rain,Chaparral Brothers,65,1968-05-11,1968-06-01,39,4
+392,I Don't Wanna Play House,Tammy Wynette,36,1968-01-06,1968-01-06,38,1
+393,The Ballad Of Waterhole #3 (Code Of The West),Roger Miller,40,1968-01-06,1968-01-06,34,1
+394,It Don't Mean A Thing To Me,Kenny Price,59,1968-12-07,1968-12-28,34,4
+395,My Heart Keeps Running To You,Johnny Paycheck,66,1968-08-17,1968-09-07,34,4
+396,The Lovers,Bill Wilbourne & Kathy Morrison,65,1968-07-20,1968-08-17,33,5
+397,Living As Strangers,Kitty Wells,63,1968-01-06,1968-01-20,32,3
+398,I Am The Grass,Dee Mullins,64,1968-02-10,1968-02-24,32,3
+399,Storybook Children,Virgil Warner & Suzi Jane Hokum,65,1968-02-24,1968-03-16,30,4
+400,She Gets The Roses (I Get The Tears),Donna Odom,65,1968-01-20,1968-02-17,30,5
+401,I'd Love To Live With You Again,Darrell Mccall,67,1968-04-27,1968-05-25,30,5
+402,Now I Can Live Again,Mickey Gilley,68,1968-10-19,1968-11-23,29,6
+403,I Will Bring You Water,The Browns,64,1968-01-06,1968-01-20,28,3
+404,"Good Morning, Dear",Frank Ifield,67,1968-10-05,1968-10-19,27,3
+405,Ain't Got The Time,Tom T. Hall,68,1968-09-14,1968-10-05,27,4
+406,Loser Making Good,Red Sovine,63,1968-07-20,1968-07-27,26,2
+407,The World The Way I Want It,Tom T. Hall,66,1968-05-11,1968-05-25,25,3
+408,I Just Wanted To Know (How The Wind Was Blowing),Hank Snow,70,1968-04-06,1968-05-04,24,5
+409,I Wouldn't Take Her To A Dogfight,Charlie,51,1968-01-06,1968-01-06,23,1
+410,Come On Home,Debbie Lori Kaye,68,1968-06-22,1968-07-06,23,3
+411,How To Catch An African Skeeter Alive,Jimmy Dickens,69,1968-07-06,1968-08-03,22,5
+412,"You May Be Too Much For Memphis, Baby",Leroy Van Dyke,69,1968-08-31,1968-09-28,22,5
+413,Texas,Tex Ritter,69,1968-08-17,1968-09-07,21,4
+414,Parchman Farm Blues,Claude King,67,1968-06-08,1968-06-22,20,3
+415,"Another Time, Another Place, Another World",Jerry Wallace,69,1968-05-18,1968-06-01,20,3
+416,Who's Julie,Mel Tillis,62,1968-12-21,1968-12-28,19,2
+417,Tender And True,Ernie Ashworth,56,1968-01-06,1968-01-06,18,1
+418,The Name Of The Game Was Love,Hank Snow,57,1968-12-28,1968-12-28,18,1
+419,Gonna Miss Me,The Homesteaders,67,1968-08-03,1968-08-10,18,2
+420,This Song Is Just For You,Bobby Austin,68,1968-01-06,1968-01-27,18,4
+421,To Make Love Sweeter For You,Jerry Lee Lewis,58,1968-12-28,1968-12-28,17,1
+422,I Just Ain't Got (As Much As He's Got Going For Me),Gene Wyatt,69,1968-08-17,1968-08-31,17,3
+423,"Lock, Stock And Tear Drops",Diana Trask,70,1968-06-22,1968-07-13,17,4
+424,Stranger On The Run,Bill Anderson,58,1968-01-06,1968-01-06,16,1
+425,True Love Travels On A Gravel Road,Duane Dee,67,1968-12-21,1968-12-28,16,2
+426,The Love Of A Woman,Claude Gray,68,1968-11-09,1968-11-16,16,2
+427,Who Will Answer? (Aleluya No. 1),Hank Snow,69,1968-02-24,1968-03-09,16,3
+428,I Doubt It,Bobby Lewis,59,1968-01-06,1968-01-06,15,1
+429,Good Time Charlie's,Del Reeves,60,1968-12-28,1968-12-28,15,1
+430,Going Out To Tulsa,Johnny Sea,68,1968-03-30,1968-04-06,15,2
+431,I'd Be Your Fool Again,David Rogers,69,1968-03-02,1968-04-06,15,5
+432,The Ballad Of John Dillinger,Billy Grammer,70,1968-08-31,1968-09-21,15,4
+433,"Good Morning, Dear",Don Gibson,71,1968-06-01,1968-06-15,15,3
+434,Tiny Bubbles,Rex Allen,71,1968-06-22,1968-07-20,15,5
+435,Baby Me Baby,Johnny Duncan,67,1968-01-13,1968-01-27,14,3
+436,I'm Gonna Make Like A Snake,Ernest Tubb,69,1968-07-20,1968-07-27,14,2
+437,Who Loves You,The Hardens,69,1968-12-07,1968-12-28,14,4
+438,California Sunshine,Rusty Draper,70,1968-03-02,1968-03-23,14,4
+439,Mary's Little Lamb,Carl Belew,68,1968-03-16,1968-03-23,13,2
+440,Too Rough On Me,Earl Scott,71,1968-11-23,1968-12-07,13,3
+441,Each And Every Part Of Me,Bobby Lewis,63,1968-12-28,1968-12-28,12,1
+442,"Oh, Such A Stranger",Frank Ifield,68,1968-01-06,1968-01-13,12,2
+443,"So Long, Charlie Brown, Don't Look For Me Around",Sammi Smith,69,1968-01-27,1968-02-03,12,2
+444,Each Time,Johnny Bush,64,1968-12-28,1968-12-28,11,1
+445,Don't Cry Baby,Freddie Hart,70,1968-11-23,1968-11-30,11,2
+446,Old Before My Time,Bobby Wright,70,1968-10-05,1968-10-26,11,4
+447,Frisco Line,Guy Mitchell,71,1968-12-14,1968-12-28,11,3
+448,Since They Fired The Band Director (At Murphy High),Linda Manning,65,1968-12-28,1968-12-28,10,1
+449,Take A Message To Mary,Don Cherry,71,1968-10-05,1968-10-12,9,2
+450,Pick A Little Happy Song,Bob Gallion,71,1968-07-20,1968-07-27,9,2
+451,Louisiana Man,Bobbie Gentry,72,1968-06-01,1968-06-22,9,4
+452,Tennessee,Jimmy Martin,72,1968-05-18,1968-05-25,8,2
+453,Every Day,Sleepy LaBeef,73,1968-04-13,1968-04-27,8,3
+454,Sugar Cane County,Maxine Brown,71,1968-12-14,1968-12-28,6,3
+455,Warm Red Wine,Wes Buchanan,72,1968-12-07,1968-12-21,6,3
+456,Music To Cry By,Johnny Wright,69,1968-01-06,1968-01-06,5,1
+457,For Loving You,Skeeter Davis,72,1968-02-24,1968-03-02,5,2
+458,Lovable Fool,Goldie,73,1968-04-06,1968-04-13,5,2
+459,Honey (I Miss You Too),Margaret Lewis,74,1968-06-29,1968-07-13,5,3
+460,Long Black Limousine,Jody Miller,73,1968-11-09,1968-11-16,4,2
+461,If I'm Gonna Sink,Johnny Paycheck,73,1968-12-14,1968-12-28,4,3
+462,If Loving You Means Anything,Dale Ward,74,1968-11-09,1968-11-16,4,2
+463,Folsom Prison Blues #2,Don Bowman,74,1968-10-05,1968-10-12,4,2
+464,In Another World,Webb Pierce,74,1968-08-03,1968-08-10,4,2
+465,Your Old Handy Man,Priscilla,73,1968-02-03,1968-02-17,2,3
+466,Helpless,Dal Perkins,73,1968-01-13,1968-02-10,2,3
+467,I Stole The Flowers From Your Garden,Gene Wyatt,74,1968-03-23,1968-03-30,2,2
+468,Sissy,The Statler Brothers,75,1968-10-19,1968-10-26,2,2
+469,Hard Times,Larry Steele,75,1968-04-06,1968-04-13,2,2
+470,Two Little Hearts,The Compton Brothers,75,1968-08-03,1968-08-10,2,2
+471,Only Daddy That'll Walk The Line,Jim Alley,73,1968-01-20,1968-01-27,1,2
+472,Bring Love Back Into Our World,Stu Phillips,74,1968-12-21,1968-12-28,1,2
+473,"Darling, You Know I Wouldn't Lie",Conway Twitty,75,1968-12-28,1968-12-28,0,1

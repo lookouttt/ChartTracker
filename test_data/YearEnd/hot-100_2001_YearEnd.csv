@@ -1,0 +1,388 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Hanging By A Moment,Lifehouse,2,2001-02-10,2001-12-29,5449,47
+2,Drops Of Jupiter (Tell Me),Train,5,2001-03-17,2001-12-29,4095,42
+3,I'm Real,Jennifer Lopez Featuring Ja Rule,1,2001-07-07,2001-12-29,3896,26
+4,Fallin',Alicia Keys,1,2001-06-16,2001-12-29,3832,29
+5,Thank You,Dido,3,2001-01-13,2001-10-06,3758,39
+6,Let Me Blow Ya Mind,Eve Featuring Gwen Stefani,2,2001-04-28,2001-12-08,3748,33
+7,Hit 'Em Up Style (Oops!),Blu Cantrell,2,2001-05-05,2001-12-22,3697,34
+8,It's Been Awhile,Staind,5,2001-04-14,2001-12-29,3603,38
+9,Family Affair,Mary J. Blige,1,2001-07-28,2001-12-29,3211,23
+10,Where The Party At,Jagged Edge With Nelly,3,2001-06-02,2001-12-15,3207,29
+11,Angel,Shaggy Featuring Rayvon,1,2001-01-06,2001-07-07,3178,27
+12,All For You,Janet,1,2001-03-17,2001-08-11,3142,22
+13,Ride Wit Me,Nelly Featuring City Spud,3,2001-02-24,2001-09-08,3121,29
+14,U Remind Me,Usher,1,2001-06-16,2001-11-24,3096,24
+15,Stutter,Joe Featuring Mystikal,1,2001-01-06,2001-06-30,3078,26
+16,Again,Lenny Kravitz,4,2001-01-06,2001-06-23,3017,25
+17,Follow Me,Uncle Kracker,5,2001-03-10,2001-10-20,2955,33
+18,Drive,Incubus,9,2001-02-17,2001-11-10,2832,39
+19,If You're Gone,matchbox twenty,5,2001-01-06,2001-08-04,2827,31
+20,Peaches & Cream,112,4,2001-04-14,2001-10-27,2760,29
+21,Lady Marmalade,"Christina Aguilera, Lil' Kim, Mya & P!nk",1,2001-04-14,2001-08-25,2619,20
+22,Survivor,Destiny's Child,2,2001-03-17,2001-07-28,2435,20
+23,Butterfly,Crazy Town,1,2001-01-06,2001-06-09,2429,23
+24,It Wasn't Me,"Shaggy Feat. Ricardo ""RikRok"" Ducent",1,2001-01-06,2001-04-21,2350,16
+25,Differences,Ginuwine,4,2001-07-28,2001-12-29,2331,23
+26,What Would You Do?,City High,8,2001-03-24,2001-09-29,2292,28
+27,Fill Me In,Craig David,15,2001-06-09,2001-12-08,2160,27
+28,I Hope You Dance,Lee Ann Womack,14,2001-01-27,2001-08-04,2154,28
+29,Put It On Me,Ja Rule Featuring Lil' Mo & Vita,8,2001-01-06,2001-06-23,2136,25
+30,Love Don't Cost A Thing,Jennifer Lopez,3,2001-01-06,2001-04-28,2093,17
+31,South Side,Moby Featuring Gwen Stefani,14,2001-01-06,2001-07-07,2063,27
+32,Get Ur Freak On,"Missy ""Misdemeanor"" Elliott",7,2001-03-24,2001-09-01,2051,24
+33,Turn Off The Light,Nelly Furtado,5,2001-08-18,2001-12-29,1966,20
+34,Someone To Call My Lover,Janet,3,2001-06-23,2001-11-03,1944,20
+35,I Do!!,Toya,16,2001-06-02,2001-12-29,1935,31
+36,Hero,Enrique Iglesias,3,2001-09-29,2001-12-29,1925,14
+37,U Got It Bad,Usher,1,2001-09-22,2001-12-29,1867,15
+38,Ms. Jackson,OutKast,1,2001-01-06,2001-04-14,1864,15
+39,All Or Nothing,O-Town,3,2001-06-09,2001-10-20,1857,20
+40,Only Time,Enya,10,2001-07-14,2001-12-29,1837,25
+41,Don't Tell Me,Madonna,4,2001-01-06,2001-04-28,1827,17
+42,Independent Women Part I,Destiny's Child,1,2001-01-06,2001-03-31,1798,13
+43,The Way You Love Me,Faith Hill,6,2001-01-06,2001-05-26,1779,21
+44,How You Remind Me,Nickelback,1,2001-09-08,2001-12-29,1758,17
+45,Fiesta,R. Kelly Featuring Jay-Z,6,2001-03-31,2001-08-18,1747,21
+46,I'm Like A Bird,Nelly Furtado,9,2001-03-03,2001-08-11,1710,24
+47,Livin' It Up,Ja Rule Featuring Case,6,2001-09-01,2001-12-29,1708,18
+48,Crazy,K-Ci & JoJo,11,2001-01-06,2001-05-26,1697,21
+49,Missing You,Case,4,2001-02-10,2001-07-07,1651,22
+50,When It's Over,Sugar Ray,13,2001-06-02,2001-10-27,1640,22
+51,Jaded,Aerosmith,7,2001-01-27,2001-06-09,1631,20
+52,Bootylicious,Destiny's Child,1,2001-06-09,2001-10-13,1629,19
+53,Izzo (H.O.V.A.),JAY-Z,8,2001-07-28,2001-12-08,1626,20
+54,He Loves U Not,Dream,2,2001-01-06,2001-04-07,1612,14
+55,One Minute Man,"Missy ""Misdemeanor"" Elliott",15,2001-07-14,2001-12-01,1479,21
+56,Promise,Jagged Edge,9,2001-01-06,2001-05-12,1478,19
+57,Superwoman Pt. II,Lil' Mo Featuring Fabolous,11,2001-03-31,2001-08-25,1427,22
+58,Never Had A Dream Come True,S Club 7,10,2001-03-03,2001-07-14,1356,20
+59,The Space Between,Dave Matthews Band,22,2001-05-19,2001-10-20,1334,23
+60,Rock The Boat,Aaliyah,14,2001-09-08,2001-12-29,1316,17
+61,Heard It All Before,Sunshine Anderson,18,2001-03-10,2001-07-21,1307,20
+62,Stranger In My House,Tamia,10,2001-01-13,2001-06-02,1303,21
+63,Love,Musiq Soulchild,24,2001-02-17,2001-07-07,1303,21
+64,Irresistible,Jessica Simpson,15,2001-05-19,2001-09-29,1292,20
+65,Nobody Wants To Be Lonely,Ricky Martin Duet With Christina Aguilera,13,2001-01-27,2001-06-09,1287,20
+66,With Arms Wide Open,Creed,5,2001-01-06,2001-03-31,1280,13
+67,Everywhere,Michelle Branch,12,2001-09-01,2001-12-29,1259,18
+68,Be Like That,3 Doors Down,24,2001-07-28,2001-12-15,1232,21
+69,Danger (Been So Long),Mystikal Featuring Nivea,14,2001-01-06,2001-04-28,1224,17
+70,Ain't Nothing 'Bout You,Brooks & Dunn,25,2001-03-10,2001-07-21,1221,20
+71,I'm Already There,Lonestar,24,2001-05-05,2001-09-15,1217,20
+72,My Baby,Lil' Romeo,3,2001-05-19,2001-08-18,1180,14
+73,Superman (It's Not Easy),Five For Fighting,14,2001-09-01,2001-12-29,1159,18
+74,There You'll Be,Faith Hill,10,2001-05-26,2001-10-06,1152,20
+75,Crazy For This Girl,Evan And Jaron,15,2001-01-06,2001-04-07,1136,14
+76,It's Over Now,112,6,2001-01-06,2001-04-21,1134,16
+77,Play,Jennifer Lopez,18,2001-04-07,2001-08-18,1109,20
+78,Grown Men Don't Cry,Tim McGraw,25,2001-03-31,2001-08-11,1109,20
+79,No More (Baby I'ma Do Right),3LW,23,2001-01-06,2001-04-21,1107,16
+80,Case Of The Ex (Whatcha Gonna Do),Mya,4,2001-01-06,2001-03-10,1103,10
+81,Raise Up,Petey Pablo,25,2001-08-11,2001-12-29,1103,21
+82,Southern Hospitality,Ludacris,23,2001-01-20,2001-06-02,1095,20
+83,Who I Am,Jessica Andrews,28,2001-01-27,2001-06-09,1091,20
+84,Austin,Blake Shelton,18,2001-05-26,2001-10-06,1087,20
+85,One More Day,Diamond Rio,29,2001-01-20,2001-06-02,1084,20
+86,Gone,'N Sync,11,2001-09-22,2001-12-29,1083,15
+87,Contagious,The Isley Brothers Featuring Ronald Isley,19,2001-07-14,2001-11-17,1083,19
+88,Don't Happen Twice,Kenny Chesney,26,2001-03-10,2001-07-21,1083,20
+89,Only In America,Brooks & Dunn,33,2001-07-21,2001-12-01,1073,20
+90,Smooth Criminal,Alien Ant Farm,23,2001-08-25,2001-12-29,1066,19
+91,Emotion,Destiny's Child,10,2001-09-29,2001-12-29,1065,14
+92,Here's To The Night,Eve 6,30,2001-06-09,2001-10-20,1065,20
+93,Kryptonite,3 Doors Down,13,2001-01-06,2001-04-07,1064,14
+94,It's A Great Day To Be Alive,Travis Tritt,33,2001-03-03,2001-07-14,1062,20
+95,I Wanna Be Bad,Willa Ford,22,2001-06-09,2001-10-20,1059,20
+96,I'm A Thug,Trick Daddy,17,2001-07-21,2001-12-01,1055,20
+97,Music,Erick Sermon Featuring Marvin Gaye,22,2001-06-02,2001-10-13,1045,20
+98,I'm Just Talkin' About Tonight,Toby Keith,27,2001-06-16,2001-10-27,1017,20
+99,You Shouldn't Kiss Me Like This,Toby Keith,32,2001-01-06,2001-05-12,1015,19
+100,Can't Deny It,Fabolous Featuring Nate Dogg,25,2001-07-21,2001-12-01,1014,20
+101,Ugly,Bubba Sparxxx,15,2001-09-01,2001-12-29,1008,18
+102,Lifetime,Maxwell,22,2001-09-08,2001-12-29,988,17
+103,"So Fresh, So Clean",OutKast,30,2001-03-03,2001-07-14,986,20
+104,Get The Party Started,P!nk,4,2001-10-27,2001-12-29,985,10
+105,Breathless,The Corrs,34,2001-01-27,2001-06-09,954,20
+106,Oochie Wally,QB Finest Featuring Nas & Bravehearts,26,2001-03-03,2001-07-14,952,20
+107,She Couldn't Change Me,Montgomery Gentry,37,2001-04-07,2001-08-25,948,21
+108,Angry All The Time,Tim McGraw,38,2001-08-18,2001-12-29,945,20
+109,Get Over Yourself,Eden's Crush,8,2001-03-31,2001-06-30,934,14
+110,This I Promise You,'N Sync,9,2001-01-06,2001-03-24,932,12
+111,More Than That,Backstreet Boys,27,2001-05-26,2001-10-06,931,20
+112,You Rock My World,Michael Jackson,10,2001-09-08,2001-12-29,910,17
+113,What I Really Meant To Say,Cyndi Thomson,26,2001-06-02,2001-10-13,909,20
+114,When I Think About Angels,Jamie O'Neal,35,2001-06-09,2001-10-20,899,20
+115,Loverboy,Mariah Carey Featuring Cameo,2,2001-06-23,2001-09-22,882,14
+116,I Just Wanna Love U (Give It 2 Me),JAY-Z,12,2001-01-06,2001-03-17,875,11
+117,Beautiful Day,U2,21,2001-01-06,2001-03-24,871,12
+118,I'm A Believer,Smash Mouth,25,2001-07-21,2001-12-01,865,20
+119,Where I Come From,Alan Jackson,34,2001-08-25,2001-12-29,858,19
+120,Area Codes,Ludacris Featuring Nate Dogg,24,2001-07-14,2001-11-03,846,17
+121,Could It Be,Jaheim,26,2001-01-06,2001-04-28,836,17
+122,Around The World (La La La La La),ATC,28,2001-02-10,2001-06-09,834,18
+123,I Could Not Ask For More,Sara Evans,35,2001-04-21,2001-09-01,828,20
+124,Purple Hills,D12,19,2001-06-23,2001-09-29,822,15
+125,Where The Blacktop Ends,Keith Urban,35,2001-06-16,2001-10-27,814,20
+126,Hemorrhage (In My Hands),Fuel,30,2001-01-06,2001-03-24,809,12
+127,Caramel,City High Featuring Eve,19,2001-10-13,2001-12-29,806,12
+128,Pop,'N Sync,19,2001-06-02,2001-09-08,798,15
+129,But For The Grace Of God,Keith Urban,37,2001-01-06,2001-05-05,792,18
+130,Wait A Minute,Ray J Featuring Lil' Kim,30,2001-05-26,2001-09-15,784,17
+131,Maybe I Deserve,Tank,38,2001-03-17,2001-07-28,782,20
+132,"Girls, Girls, Girls",JAY-Z,17,2001-10-13,2001-12-29,780,12
+133,Flavor Of The Weak,American Hi-Fi,41,2001-06-23,2001-11-03,780,20
+134,"Whenever, Wherever",Shakira,6,2001-10-27,2001-12-29,763,10
+135,My Sacrifice,Creed,9,2001-10-27,2001-12-29,746,10
+136,AM To PM,Christina Milian,27,2001-08-25,2001-12-29,745,19
+137,Dance With Me,112,39,2001-09-15,2001-12-29,743,16
+138,Where The Stars And Stripes And The Eagle Fly,Aaron Tippin,20,2001-10-20,2001-12-29,742,11
+139,A Long Walk,Jill Scott,43,2001-02-10,2001-06-16,739,19
+140,You Make Me Sick,P!nk,33,2001-01-06,2001-05-12,725,19
+141,If I Fall You're Going Down With Me,Dixie Chicks,38,2001-03-17,2001-07-14,724,18
+142,Liquid Dreams,O-Town,10,2001-01-06,2001-03-10,723,10
+143,Bizounce,Olivia,15,2001-03-17,2001-06-16,723,14
+144,Love Of A Woman,Travis Tritt,39,2001-09-15,2001-12-29,719,16
+145,Feelin' On Yo Booty,R. Kelly,36,2001-08-25,2001-12-29,710,19
+146,Bow Wow (That's My Name),Lil Bow Wow,21,2001-01-06,2001-04-21,709,14
+147,If My Heart Had Wings,Faith Hill,39,2001-02-03,2001-06-02,697,18
+148,I Wanna Talk About Me,Toby Keith,28,2001-10-13,2001-12-29,692,12
+149,She's All I Got,Jimmy Cozier,26,2001-06-16,2001-09-22,688,15
+150,I Would've Loved You Anyway,Trisha Yearwood,44,2001-08-04,2001-12-15,683,20
+151,Stronger,Britney Spears,11,2001-01-06,2001-03-10,678,10
+152,You Gets No Love,Faith Evans,38,2001-10-06,2001-12-29,674,13
+153,This Is Me,Dream,39,2001-05-12,2001-09-22,673,20
+154,#1,Nelly,22,2001-10-20,2001-12-29,669,11
+155,After Party,Koffee Brown,44,2001-01-13,2001-05-26,665,20
+156,Dig In,Lenny Kravitz,31,2001-10-13,2001-12-29,656,12
+157,There Is No Arizona,Jamie O'Neal,40,2001-01-06,2001-05-05,655,18
+158,If You Can Do Anything Else,George Strait,51,2001-04-14,2001-08-11,646,18
+159,Just In Case,Jaheim,52,2001-06-30,2001-11-10,644,20
+160,Take It To Da House,Trick Daddy Featuring The SNS Express,50,2001-03-10,2001-07-21,630,20
+161,Start The Commotion,The Wiseguys,31,2001-08-04,2001-10-20,618,12
+162,Free,Mya,42,2001-02-03,2001-05-19,610,16
+163,On A Night Like This,Trick Pony,47,2001-07-28,2001-12-08,606,20
+164,Two People Fell In Love,Brad Paisley,51,2001-04-28,2001-08-25,606,18
+165,The Star Spangled Banner,Whitney Houston,6,2001-09-29,2001-12-29,600,14
+166,I Like Them Girls,Tyrese,48,2001-04-07,2001-08-11,598,19
+167,Burn,Jo Dee Messina,42,2001-01-06,2001-04-14,596,15
+168,Right Where I Need To Be,Gary Allan,42,2001-04-07,2001-08-18,594,20
+169,I Wish,R. Kelly,14,2001-01-06,2001-02-24,588,8
+170,Drowning,Backstreet Boys,28,2001-10-20,2001-12-29,588,11
+171,Ashes By Now,Lee Ann Womack,45,2001-01-06,2001-03-31,584,13
+172,Who's That Girl?,Eve,47,2001-02-17,2001-06-16,581,18
+173,My Everything,98 Degrees,34,2001-01-06,2001-04-21,577,16
+174,Love Of My Life,Brian McKnight,51,2001-09-15,2001-12-29,577,16
+175,Stuck In A Moment You Can't Get Out Of,U2,52,2001-09-29,2001-12-29,574,14
+176,Bad Boy For Life,"P. Diddy, Black Rob & Mark Curry",33,2001-07-28,2001-10-13,572,12
+177,I'm A Survivor,Reba,49,2001-09-15,2001-12-29,570,16
+178,Every Other Time,LFO,44,2001-08-25,2001-12-22,568,18
+179,We Thuggin',Fat Joe Featuring R. Kelly,22,2001-10-27,2001-12-29,564,10
+180,I'm A Slave 4 U,Britney Spears,27,2001-10-20,2001-12-29,564,11
+181,Yellow,Coldplay,48,2001-03-10,2001-07-21,562,20
+182,Because I Got High,Afroman,13,2001-08-18,2001-10-20,556,10
+183,One Woman Man,Dave Hollister,44,2001-01-06,2001-04-21,551,16
+184,Always On Time,Ja Rule Featuring Ashanti,7,2001-11-17,2001-12-29,547,7
+185,Can't Believe,Faith Evans Featuring Carl Thomas,56,2001-05-05,2001-09-15,545,20
+186,A Woman's Worth,Alicia Keys,11,2001-10-27,2001-12-29,544,10
+187,What's Your Fantasy,Ludacris Featuring Shawnna,24,2001-01-06,2001-02-24,543,8
+188,Mad Season,matchbox twenty,48,2001-05-05,2001-09-15,542,20
+189,Mrs. Steven Rudy,Mark McGuinn,44,2001-03-24,2001-06-30,539,15
+190,Schism,Tool,67,2001-06-23,2001-11-03,538,20
+191,My First Love,Avant Featuring KeKe Wyatt,31,2001-01-06,2001-03-17,535,11
+192,God Bless The USA,Lee Greenwood,16,2001-09-29,2001-12-29,532,14
+193,E.I.,Nelly,15,2001-01-06,2001-02-17,531,7
+194,Downtime,Jo Dee Messina,46,2001-06-16,2001-09-22,530,15
+195,Lay Low,"Snoop Dogg Featuring Master P, Nate Dogg, Butch Cassidy & Tha Eastsidaz",50,2001-03-24,2001-07-28,529,19
+196,When Somebody Loves You,Alan Jackson,52,2001-04-28,2001-08-18,519,17
+197,Outside,Aaron Lewis Of Staind With Fred Durst,56,2001-01-27,2001-06-02,518,19
+198,I Cry,Ja Rule Featuring Lil' Mo,40,2001-05-05,2001-08-04,516,14
+199,Run,George Strait,34,2001-10-27,2001-12-29,512,10
+200,Wherever You Will Go,The Calling,15,2001-11-10,2001-12-29,511,8
+201,Wish You Were Here,Incubus,60,2001-09-22,2001-12-29,506,15
+202,Dance With Me,Debelah Morgan,8,2001-01-06,2001-02-10,505,6
+203,My Next Thirty Years,Tim McGraw,33,2001-01-06,2001-03-03,503,9
+204,What It Feels Like For A Girl,Madonna,23,2001-05-05,2001-07-07,501,10
+205,The Way,Jill Scott,60,2001-07-07,2001-11-17,499,20
+206,Look At Us,Sarina Paris,59,2001-02-24,2001-07-07,498,20
+207,Riding With Private Malone,David Ball,36,2001-10-27,2001-12-29,496,10
+208,Take You Out,Luther Vandross,26,2001-07-21,2001-12-08,490,17
+209,Tell Her,Lonestar,39,2001-01-06,2001-03-31,485,13
+210,Butterflies,Michael Jackson,21,2001-11-17,2001-12-29,456,7
+211,Shape Of My Heart,Backstreet Boys,24,2001-01-06,2001-02-24,451,8
+212,Emotional,Carl Thomas,49,2001-01-06,2001-04-07,450,14
+213,Video,India.Arie,47,2001-03-31,2001-07-21,446,17
+214,Most Girls,P!nk,16,2001-01-06,2001-02-10,440,6
+215,Bad Day,Fuel,64,2001-07-28,2001-12-08,436,20
+216,"Baby, Come Over (This Is Our Night)",Samantha Mumba,49,2001-05-12,2001-09-01,435,17
+217,I'm Tryin',Trace Adkins,44,2001-10-20,2001-12-29,434,11
+218,Just Friends (Sunny),Musiq,34,2001-01-06,2001-02-24,429,8
+219,Wild Horses,Garth Brooks,50,2001-01-06,2001-03-24,426,12
+220,So Complicated,Carolyn Dawn Johnson,59,2001-09-08,2001-12-15,419,15
+221,We Need A Resolution,Aaliyah Featuring Timbaland,59,2001-06-02,2001-10-06,418,16
+222,What's Going On,All Star Tribute,27,2001-10-06,2001-12-08,417,10
+223,"Lights, Camera, Action!",Mr. Cheeks,38,2001-10-13,2001-12-29,411,12
+224,Wrapped Up In You,Garth Brooks,46,2001-10-27,2001-12-29,410,10
+225,Without You,Dixie Chicks,35,2001-01-06,2001-02-17,407,7
+226,In The End,Linkin Park,26,2001-11-03,2001-12-29,405,9
+227,So In Love With Two,Mikaila,25,2001-01-06,2001-03-10,402,10
+228,Best I Ever Had (Grey Sky Morning),Vertical Horizon,58,2001-03-03,2001-06-16,402,16
+229,Until The End Of Time,2Pac,52,2001-04-21,2001-07-21,396,14
+230,Born To Fly,Sara Evans,36,2001-01-06,2001-03-03,389,9
+231,Gotta Tell You,Samantha Mumba,17,2001-01-06,2001-02-03,383,5
+232,Babylon,David Gray,57,2001-01-06,2001-03-31,370,13
+233,Son Of A Gun,"Janet Featuring Missy Elliott, P. Diddy & Carly Simon",28,2001-11-24,2001-12-29,360,6
+234,What It Is,Violator Featuring Busta Rhymes,63,2001-06-30,2001-09-29,360,14
+235,Where Were You (When The World Stopped Turning),Alan Jackson,30,2001-11-24,2001-12-29,356,6
+236,There She Goes,Babyface,31,2001-05-12,2001-08-18,354,15
+237,Alive,P.O.D.,45,2001-11-03,2001-12-29,349,9
+238,Clint Eastwood,Gorillaz,57,2001-08-25,2001-11-03,341,11
+239,Project Chick,Cash Money Millionaires,47,2001-01-06,2001-03-10,339,10
+240,One More Time,Daft Punk,61,2001-02-10,2001-05-26,338,16
+241,Standing Still,Jewel,36,2001-11-17,2001-12-29,331,7
+242,Don't Talk,Jon B,58,2001-02-17,2001-05-19,330,14
+243,She Misses Him,Tim Rushlow,59,2001-03-17,2001-05-26,328,11
+244,This Everyday Love,Rascal Flatts,56,2001-01-06,2001-03-24,323,12
+245,Fade,Staind,62,2001-10-20,2001-12-29,323,11
+246,Set It Off,Juvenile,65,2001-08-11,2001-11-17,318,15
+247,While You Loved Me,Rascal Flatts,60,2001-06-30,2001-09-15,309,12
+248,Laredo,Chris Cagle,60,2001-07-07,2001-09-22,307,12
+249,La Bomba,Azul Azul,70,2001-04-07,2001-08-18,302,20
+250,Who We Be,DMX,60,2001-10-13,2001-12-29,297,12
+251,With Me,Lonestar,63,2001-10-27,2001-12-29,297,10
+252,Roll Out (My Business),Ludacris,34,2001-11-10,2001-12-29,296,8
+253,I Lost It,Kenny Chesney,42,2001-01-06,2001-03-03,296,9
+254,Loser,3 Doors Down,59,2001-01-06,2001-03-03,290,9
+255,Pinch Me,Barenaked Ladies,20,2001-01-06,2001-01-27,285,4
+256,Control,Puddle Of Mudd,68,2001-10-13,2001-12-29,270,12
+257,Six-Pack Summer,Phil Vassar,56,2001-08-11,2001-10-13,269,10
+258,When God-Fearin' Women Get The Blues,Martina McBride,64,2001-09-15,2001-11-17,269,10
+259,One Step Closer,Linkin Park,75,2001-02-10,2001-06-02,267,17
+260,What Am I Gonna Do,Tyrese,71,2001-09-29,2001-12-29,266,14
+261,Pour Me,Trick Pony,71,2001-02-03,2001-05-05,265,14
+262,Still On Your Side,BBMak,54,2001-01-06,2001-02-24,263,8
+263,Crawling,Linkin Park,79,2001-08-11,2001-12-22,263,20
+264,Is That Your Chick,Memphis Bleek Featuring Jay-Z & Missy Elliott,68,2001-01-06,2001-03-10,258,10
+265,Break Ya Neck,Busta Rhymes,41,2001-11-10,2001-12-29,256,8
+266,We Danced,Brad Paisley,53,2001-01-06,2001-02-24,254,8
+267,Between Me And You,Ja Rule Featuring Christina Milian,30,2001-01-06,2001-01-27,249,4
+268,I Did It,Dave Matthews Band,71,2001-01-27,2001-04-07,247,11
+269,Good Morning Beautiful,Steve Holy,39,2001-12-01,2001-12-29,243,5
+270,Just Another Girl,Monica,64,2001-02-24,2001-05-19,241,13
+271,Angel,Lionel Richie,70,2001-05-05,2001-09-01,238,18
+272,Wrapped Around,Brad Paisley,48,2001-11-17,2001-12-29,236,7
+273,Thank You For Loving Me,Bon Jovi,57,2001-02-17,2001-04-21,233,10
+274,Hey Baby,No Doubt Featuring Bounty Killer,27,2001-12-08,2001-12-29,227,4
+275,Mamacita,Public Announcement,39,2001-01-06,2001-02-10,225,6
+276,There It Is,Ginuwine,66,2001-04-07,2001-06-09,224,10
+277,My Way,Limp Bizkit,75,2001-04-28,2001-07-28,224,14
+278,7 Days,Craig David,35,2001-12-08,2001-12-29,223,4
+279,Goodbye,Jagged Edge,58,2001-11-17,2001-12-29,217,7
+280,Lady (Hear Me Tonight),Modjo,81,2001-01-06,2001-05-12,204,19
+281,Music,Madonna,27,2001-01-06,2001-01-20,203,3
+282,Request Line,The Black Eyed Peas Featuring Macy Gray,63,2001-03-31,2001-05-19,203,8
+283,Diddy,P. Diddy Featuring The Neptunes,66,2001-10-27,2001-12-22,201,9
+284,The Call,Backstreet Boys,52,2001-02-17,2001-03-24,200,6
+285,Just Another Day In Paradise,Phil Vassar,58,2001-01-06,2001-02-10,200,6
+286,Fat Lip,Sum 41,66,2001-09-01,2001-12-22,200,12
+287,Brotha,Angie Stone,61,2001-11-10,2001-12-29,184,8
+288,I'll Fly With You (L'amour Toujours),Gigi D'Agostino,78,2001-08-04,2001-11-10,184,13
+289,Soul Sista,Bilal,71,2001-01-27,2001-04-28,182,14
+290,Bent,matchbox twenty,38,2001-01-06,2001-01-20,179,3
+291,A Good Day To Run,Darryl Worley,76,2001-01-20,2001-03-17,171,9
+292,The Rock Show,Blink-182,71,2001-07-28,2001-09-22,167,9
+293,What If,Babyface,80,2001-09-22,2001-12-29,163,15
+294,Let's Get It,"Three The... G. Dep, P. Diddy & Black Rob",80,2001-05-26,2001-07-21,152,9
+295,911,Wyclef Jean Featuring Mary J. Blige,61,2001-01-06,2001-02-10,150,6
+296,Bring On The Rain,Jo Dee Messina With Tim McGraw,56,2001-12-08,2001-12-29,147,4
+297,www.memory,Alan Jackson,63,2001-01-06,2001-02-10,142,6
+298,Angels In Waiting,Tammy Cochran,73,2001-10-06,2001-12-15,142,11
+299,X,Xzibit,76,2001-01-06,2001-03-03,141,9
+300,From Her Mama (Mama Got A**),Juvenile,74,2001-11-10,2001-12-29,134,8
+301,By Your Side,Sade,75,2001-01-20,2001-03-31,133,11
+302,Bouncin' Back (Bumpin' Me Against The Wall),Mystikal,47,2001-12-15,2001-12-29,131,3
+303,She Bangs,Ricky Martin,54,2001-01-06,2001-02-03,131,5
+304,Can't Fight The Moonlight,LeAnn Rimes,57,2001-01-06,2001-12-29,131,7
+305,Puppy Love,Lil Bow Wow Featuring Jagged Edge,75,2001-04-14,2001-05-26,130,7
+306,Why They Call It Falling,Lee Ann Womack,78,2001-07-21,2001-09-01,127,7
+307,Don't Think I'm Not,Kandi,36,2001-01-06,2001-01-13,125,2
+308,Rollin',Limp Bizkit,74,2001-01-06,2001-03-03,125,9
+309,Do U Wanna Roll (Dolittle Theme),"R.L., Snoop Dogg & Lil' Kim",84,2001-10-06,2001-12-29,118,13
+310,Take Away,"Missy ""Misdemeanor"" Elliott Featuring Ginuwine & Tweet",60,2001-12-15,2001-12-29,115,3
+311,No More Drama,Mary J. Blige,53,2001-12-15,2001-12-29,112,3
+312,Dream On,Depeche Mode,85,2001-05-12,2001-07-14,112,10
+313,Cha-Cha Slide,Mr. C The Slide Man,83,2001-01-06,2001-03-10,110,10
+314,Young'n (Holla Back),Fabolous,62,2001-12-01,2001-12-29,109,5
+315,Stan,Eminem Featuring Dido,69,2001-01-06,2001-02-10,109,6
+316,You're A God,Vertical Horizon,48,2001-01-06,2001-01-13,105,2
+317,Best Of Intentions,Travis Tritt,48,2001-01-06,2001-01-13,105,2
+318,My Projects,Coo Coo Cal,81,2001-08-04,2001-09-29,103,9
+319,Guilty Until Proven Innocent,Jay-Z Featuring R. Kelly,82,2001-04-07,2001-05-26,100,8
+320,Oh No,Mos Def & Pharoahe Monch Featuring Nate Dogg,83,2001-01-06,2001-03-10,99,10
+321,Chickenhead,Project Pat,87,2001-03-03,2001-05-19,99,12
+322,Playas Gon' Play,3LW,81,2001-06-02,2001-07-14,98,7
+323,Sandstorm,Darude,83,2001-07-21,2001-09-22,97,10
+324,Change The Game,"Jay-Z, Beanie Sigel And Memphis Bleek",86,2001-02-03,2001-05-05,92,14
+325,Snoop Dogg,Snoop Dogg,77,2001-02-03,2001-03-03,86,5
+326,Everybody Doesn't,Amanda,81,2001-05-12,2001-06-16,84,6
+327,The Whole World,OutKast Featuring Killer Mike,51,2001-12-22,2001-12-29,83,2
+328,Meanwhile Back At The Ranch,The Clark Family Experience,81,2001-01-06,2001-02-03,82,5
+329,Fatty Girl,"Ludacris, LL Cool J & Keith Murray",87,2001-11-03,2001-12-29,82,9
+330,Don't You Forget It,Glenn Lewis,77,2001-12-01,2001-12-29,80,5
+331,Girl Next Door,Musiq Soulchild Featuring Ayana,85,2001-08-25,2001-10-13,77,8
+332,Blurry,Puddle Of Mudd,54,2001-12-22,2001-12-29,76,2
+333,The Itch,Vitamin C,58,2001-01-06,2001-01-27,75,4
+334,The Little Girl,John Michael Montgomery,74,2001-01-06,2001-01-20,72,3
+335,Rose Bouquet,Phil Vassar,78,2001-04-28,2001-05-19,72,4
+336,Oklahoma,Billy Gilman,63,2001-01-06,2001-02-03,66,5
+337,Let's Stay Home Tonight,Joe,68,2001-12-22,2001-12-29,64,2
+338,The Long Goodbye,Brooks & Dunn,66,2001-12-22,2001-12-29,61,2
+339,Miss California,Dante Thomas Featuring Pras,85,2001-07-14,2001-08-18,60,6
+340,The Christmas Shoes,NewSong,42,2001-01-06,2001-01-06,59,1
+341,You Should've Told Me,Kelly Price,85,2001-01-06,2001-02-03,59,5
+342,Lucky 4 You (Tonight I'm Just Me),SHeDAISY,79,2001-03-17,2001-03-31,55,3
+343,Girls Dem Sugar,Beenie Man Featuring Mya,84,2001-01-06,2001-01-27,48,4
+344,Liar,Profyle,81,2001-01-06,2001-01-27,44,4
+345,The World's Greatest,R. Kelly,59,2001-12-29,2001-12-29,42,1
+346,Castles In The Sky,Ian Van Dahl Featuring Marsha,91,2001-08-04,2001-11-24,42,10
+347,Ooohhhwee,Master P Featuring Weebie,63,2001-12-29,2001-12-29,38,1
+348,Imitation Of Life,R.E.M.,83,2001-05-26,2001-06-23,37,5
+349,Where Are You Christmas?,Faith Hill,65,2001-01-06,2001-01-06,36,1
+350,Midwest Swing,St. Lunatics,88,2001-06-30,2001-07-28,36,5
+351,Just A Baby Boy,Snoop Dogg Featuring Tyrese & Mr. Tan,90,2001-07-14,2001-08-04,35,4
+352,My Baby You,Marc Anthony,90,2001-01-06,2001-01-27,35,4
+353,Thank You In Advance,Boyz II Men,80,2001-01-06,2001-01-20,34,3
+354,Part II,Method Man & Redman,85,2001-12-22,2001-12-29,32,2
+355,Welcome To Atlanta,Jermaine Dupri & Ludacris,70,2001-12-29,2001-12-29,31,1
+356,Original Prankster,The Offspring,89,2001-01-06,2001-01-20,31,3
+357,Ain't It Funny,Jennifer Lopez Featuring Ja Rule,74,2001-12-29,2001-12-29,27,1
+358,Don't Mess With The Radio,Nivea,90,2001-08-18,2001-09-01,27,3
+359,Get Crunked Up,Iconz Featuring Tony Manshino,93,2001-02-17,2001-03-17,25,5
+360,Too Little Too Late,Barenaked Ladies,86,2001-04-07,2001-04-28,24,4
+361,Ghetto Girls,Lil Bow Wow,91,2001-08-18,2001-09-08,24,4
+362,Feels Like Love,Vince Gill,89,2001-01-13,2001-01-20,22,2
+363,Never Too Far/Hero Medley,Mariah Carey,81,2001-12-29,2001-12-29,20,1
+364,You All Dat,Baha Men With Imani Coppola,94,2001-02-03,2001-02-24,20,4
+365,Got Ur Self A...,Nas,93,2001-12-15,2001-12-29,18,3
+366,Bouncing Off The Ceiling (Upside Down),A*Teens,93,2001-01-06,2001-01-20,17,3
+367,Ballin' Out Of Control,Jermaine Dupri Featuring Nate Dogg,95,2001-10-20,2001-11-24,16,5
+368,Bia' Bia',"Lil Jon & The East Side Boyz Featuring Ludacris, Too Short, Big Kap & Chyna Whyte",94,2001-08-25,2001-09-08,15,3
+369,How Many Licks?,Lil' Kim Featuring Sisqo,96,2001-01-20,2001-02-03,15,3
+370,John Doe,Public Announcement Featuring LeLe,95,2001-09-29,2001-10-13,13,3
+371,Georgia,Carolyn Dawn Johnson,98,2001-01-27,2001-02-24,13,5
+372,Cross The Border,Philly's Most Wanted,98,2001-03-03,2001-03-31,13,5
+373,Open My Heart,Yolanda Adams,89,2001-01-06,2001-01-06,12,1
+374,Round And Round,Jonell & Method Man,96,2001-12-15,2001-12-29,11,3
+375,Shine,"Lil' Wayne Featuring Baby, Mack 10 & Mickey",96,2001-09-22,2001-10-06,10,3
+376,A Little Gasoline,Terri Clark,96,2001-01-06,2001-01-20,9,3
+377,Freedom,Paul McCartney,97,2001-12-15,2001-12-22,8,2
+378,That's How I Beat Shaq,Aaron Carter,96,2001-04-28,2001-05-05,6,2
+379,Loaded,Ricky Martin,97,2001-06-16,2001-06-23,5,2
+380,Let's Get Dirty (I Can't Get In Da Club),Redman Featuring DJ Kool,97,2001-05-19,2001-05-26,5,2
+381,Go On,George Strait,97,2001-01-13,2001-01-13,4,1
+382,I Know,Sunday,98,2001-01-06,2001-01-06,3,1
+383,Kiss This,Aaron Tippin,99,2001-01-06,2001-01-06,2,1
+384,God Bless America,Daniel Rodriguez,99,2001-12-29,2001-12-29,2,1
+385,"Like, Wow!",Leslie Carter,99,2001-04-28,2001-04-28,2,1
+386,Bounce With Me,Lil Bow Wow Featuring Xscape,100,2001-01-13,2001-01-13,1,1
+387,All Good?,De La Soul Featuring Chaka Khan,100,2001-01-06,2001-01-06,1,1

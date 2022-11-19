@@ -1,0 +1,833 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,96 Tears,? (Question Mark) & The Mysterians,1,1966-09-03,1966-12-10,1894,15
+2,Last Train To Clarksville,The Monkees,1,1966-09-10,1966-12-17,1852,15
+3,The Ballad Of The Green Berets,SSgt Barry Sadler,1,1966-02-05,1966-04-30,1798,13
+4,(You're My) Soul And Inspiration,The Righteous Brothers,1,1966-03-05,1966-05-28,1714,13
+5,These Boots Are Made For Walkin',Nancy Sinatra,1,1966-01-22,1966-04-23,1707,14
+6,Reach Out I'll Be There,Four Tops,1,1966-09-03,1966-12-10,1680,15
+7,Cherish,The Association,1,1966-08-27,1966-11-26,1678,14
+8,You Can't Hurry Love,The Supremes,1,1966-08-13,1966-11-05,1621,13
+9,Poor Side Of Town,Johnny Rivers,1,1966-09-17,1966-12-24,1600,15
+10,Strangers In The Night,Frank Sinatra,1,1966-05-07,1966-08-13,1575,15
+11,Winchester Cathedral,The New Vaudeville Band,1,1966-10-29,1966-12-31,1569,10
+12,Lil' Red Riding Hood,Sam The Sham and the Pharaohs,2,1966-06-11,1966-09-10,1566,14
+13,Good Lovin',The Young Rascals,1,1966-03-12,1966-06-11,1563,14
+14,"Monday, Monday",The Mamas & The Papas,1,1966-04-09,1966-06-25,1562,12
+15,California Dreamin',The Mamas & The Papas,4,1966-01-08,1966-04-30,1555,17
+16,Wild Thing,The Troggs,1,1966-06-25,1966-09-03,1552,11
+17,Summer In The City,The Lovin' Spoonful,1,1966-07-16,1966-09-24,1533,11
+18,We Can Work It Out,The Beatles,1,1966-01-01,1966-03-05,1519,10
+19,Lightnin' Strikes,Lou Christie,1,1966-01-01,1966-04-02,1501,14
+20,Good Vibrations,The Beach Boys,1,1966-10-22,1966-12-31,1490,11
+21,"Paint It, Black",The Rolling Stones,1,1966-05-14,1966-07-23,1483,11
+22,Devil With A Blue Dress On & Good Golly Miss Molly,Mitch Ryder And The Detroit Wheels,4,1966-10-08,1966-12-31,1459,13
+23,Sunshine Superman,Donovan,1,1966-07-30,1966-10-22,1458,13
+24,Hanky Panky,Tommy James And The Shondells,1,1966-06-04,1966-08-20,1430,12
+25,When A Man Loves A Woman,Percy Sledge,1,1966-04-09,1966-07-02,1409,13
+26,Sunny,Bobby Hebb,2,1966-06-25,1966-10-01,1409,15
+27,Kicks,Paul Revere & The Raiders Featuring Mark Lindsay,4,1966-03-19,1966-06-18,1409,14
+28,See You In September,The Happenings,3,1966-07-09,1966-10-08,1402,14
+29,What Becomes Of The Brokenhearted,Jimmy Ruffin,7,1966-08-20,1966-12-10,1390,17
+30,A Groovy Kind Of Love,The Mindbenders,2,1966-04-16,1966-07-09,1376,13
+31,Daydream,The Lovin' Spoonful,2,1966-02-26,1966-05-14,1373,12
+32,Born Free,Roger Williams,7,1966-08-27,1966-12-31,1368,19
+33,My Love,Petula Clark,1,1966-01-01,1966-03-19,1340,12
+34,19th Nervous Breakdown,The Rolling Stones,2,1966-02-26,1966-04-30,1340,10
+35,Red Rubber Ball,The Cyrkle,2,1966-05-21,1966-08-13,1340,13
+36,You Keep Me Hangin' On,The Supremes,1,1966-10-29,1966-12-31,1308,10
+37,You Don't Have To Say You Love Me,Dusty Springfield,4,1966-05-21,1966-08-13,1295,13
+38,Did You Ever Have To Make Up Your Mind?,The Lovin' Spoonful,2,1966-05-07,1966-07-16,1289,11
+39,I Am A Rock,Simon & Garfunkel,3,1966-05-07,1966-07-16,1288,11
+40,Paperback Writer,The Beatles,1,1966-06-11,1966-08-13,1285,10
+41,Bang Bang (My Baby Shot Me Down),Cher,2,1966-03-12,1966-05-21,1214,11
+42,Secret Agent Man,Johnny Rivers,3,1966-03-19,1966-05-28,1213,11
+43,The Pied Piper,Crispian St. Peters,4,1966-06-11,1966-08-27,1168,12
+44,No Matter What Shape (Your Stomach's In),The T-Bones,3,1966-01-01,1966-03-05,1163,10
+45,Bus Stop,The Hollies,5,1966-07-23,1966-10-22,1163,14
+46,Uptight (Everything's Alright),Stevie Wonder,3,1966-01-01,1966-03-19,1157,12
+47,She's Just My Style,Gary Lewis And The Playboys,3,1966-01-01,1966-02-26,1152,9
+48,Sloop John B,The Beach Boys,3,1966-04-02,1966-06-11,1151,11
+49,Cool Jerk,The Capitols,7,1966-04-30,1966-07-30,1149,14
+50,Walk Away Renee,The Left Banke,5,1966-09-10,1966-12-03,1140,13
+51,Yellow Submarine,The Beatles,2,1966-08-20,1966-10-15,1139,9
+52,Elusive Butterfly,Bob Lind,5,1966-01-22,1966-04-16,1139,13
+53,Time Won't Let Me,The Outsiders,5,1966-02-19,1966-05-28,1131,15
+54,Rainy Day Women #12 & 35,Bob Dylan,2,1966-04-16,1966-06-18,1129,10
+55,Barbara Ann,The Beach Boys,2,1966-01-01,1966-03-12,1122,11
+56,I'm Your Puppet,James & Bobby Purify,6,1966-09-24,1966-12-24,1111,14
+57,Nowhere Man,The Beatles,3,1966-03-05,1966-04-30,1096,9
+58,Mellow Yellow,Donovan,2,1966-11-12,1966-12-31,1093,8
+59,The Sound Of Silence,Simon & Garfunkel,1,1966-01-01,1966-02-19,1092,8
+60,Five O'Clock World,The Vogues,4,1966-01-01,1966-02-26,1087,9
+61,Beauty Is Only Skin Deep,The Temptations,3,1966-08-20,1966-11-05,1074,12
+62,Homeward Bound,Simon & Garfunkel,5,1966-02-12,1966-04-30,1069,12
+63,Hooray For Hazel,Tommy Roe,6,1966-09-17,1966-12-10,1047,13
+64,Sweet Pea,Tommy Roe,8,1966-06-11,1966-09-10,1044,14
+65,I'm So Lonesome I Could Cry,B.J. Thomas And The Triumphs,8,1966-02-19,1966-05-14,1031,13
+66,Lady Godiva,Peter And Gordon,6,1966-10-08,1966-12-31,1030,13
+67,Psychotic Reaction,Count Five,5,1966-09-10,1966-11-26,1026,12
+68,Crying Time,Ray Charles,6,1966-01-01,1966-03-19,1016,12
+69,Born A Woman,Sandy Posey,12,1966-07-23,1966-10-22,1009,14
+70,Barefootin',Robert Parker,7,1966-04-23,1966-07-23,1005,14
+71,Dandy,Herman's Hermits,5,1966-10-01,1966-12-10,992,11
+72,Black Is Black,Los Bravos,4,1966-08-13,1966-10-29,986,12
+73,B-A-B-Y,Carla Thomas,14,1966-08-20,1966-12-03,986,16
+74,My World Is Empty Without You,The Supremes,5,1966-01-15,1966-03-26,985,11
+75,Listen People,Herman's Hermits,3,1966-02-19,1966-04-16,948,9
+76,Land Of 1000 Dances,Wilson Pickett,6,1966-07-30,1966-10-08,946,11
+77,Ain't Too Proud To Beg,The Temptations,13,1966-05-28,1966-08-20,937,13
+78,"Cherry, Cherry",Neil Diamond,6,1966-08-20,1966-11-05,936,12
+79,Dirty Water,The Standells,11,1966-04-23,1966-08-06,933,16
+80,If I Were A Carpenter,Bobby Darin,8,1966-09-24,1966-12-03,924,11
+81,I Saw Her Again,The Mamas & The Papas,5,1966-07-02,1966-08-27,920,9
+82,Don't Mess With Bill,The Marvelettes,7,1966-01-01,1966-03-19,919,12
+83,Working In The Coal Mine,Lee Dorsey,8,1966-07-23,1966-10-08,895,12
+84,Message To Michael,Dionne Warwick,8,1966-04-02,1966-06-18,894,12
+85,"Somewhere, My Love",Ray Conniff And The Singers,9,1966-06-18,1966-09-03,891,12
+86,Wipe Out,The Surfaris,16,1966-07-30,1966-10-29,887,14
+87,Hungry,Paul Revere & The Raiders Featuring Mark Lindsay,6,1966-06-18,1966-08-27,875,11
+88,Just Like Me,Paul Revere & The Raiders Featuring Mark Lindsay,11,1966-01-01,1966-03-12,865,11
+89,Love Makes The World Go Round,Deon Jackson,11,1966-01-22,1966-04-23,862,14
+90,Coming On Strong,Brenda Lee,11,1966-10-01,1966-12-24,856,13
+91,Almost Persuaded,David Houston,24,1966-07-16,1966-10-22,848,15
+92,Guantanamera,The Sandpipers,9,1966-07-30,1966-10-08,847,11
+93,Gloria,Shadows Of Knight,10,1966-03-19,1966-06-04,846,12
+94,Love Is A Hurtin' Thing,Lou Rawls,13,1966-09-10,1966-12-10,832,14
+95,I Fought The Law,Bobby Fuller Four,9,1966-01-29,1966-04-09,825,11
+96,Wouldn't It Be Nice,The Beach Boys,8,1966-07-30,1966-10-08,815,11
+97,Oh How Happy,Shades Of Blue,12,1966-05-07,1966-07-23,815,12
+98,The Men In My Little Girl's Life,Mike Douglas,6,1966-01-01,1966-02-19,811,8
+99,Woman,Peter And Gordon,14,1966-02-12,1966-04-30,811,12
+100,You Baby,The Turtles,20,1966-02-05,1966-04-23,809,12
+101,Mothers Little Helper,The Rolling Stones,8,1966-07-09,1966-09-03,797,9
+102,Along Comes Mary,The Association,7,1966-06-04,1966-08-13,796,11
+103,Baby Scratch My Back,Slim Harpo,16,1966-01-29,1966-04-23,793,13
+104,The More I See You,Chris Montez,16,1966-04-16,1966-07-16,785,14
+105,Shapes Of Things,The Yardbirds,11,1966-03-19,1966-05-28,775,11
+106,Zorba The Greek,Herb Alpert & The Tijuana Brass,11,1966-01-01,1966-03-12,774,11
+107,Day Tripper,The Beatles,5,1966-01-01,1966-02-19,771,8
+108,Little Girl,Syndicate Of Sound,8,1966-06-04,1966-08-06,766,10
+109,"634-5789 (Soulsville, U.S.A.)",Wilson Pickett,13,1966-02-12,1966-04-23,766,11
+110,I've Got You Under My Skin,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",9,1966-09-03,1966-11-05,764,10
+111,It's A Man's Man's Man's World,James Brown And The Famous Flames,8,1966-04-30,1966-06-25,760,9
+112,Stop Stop Stop,The Hollies,7,1966-10-29,1966-12-31,753,10
+113,This Old Heart Of Mine (Is Weak For You),The Isley Brothers,12,1966-02-19,1966-05-07,752,12
+114,That's Life,Frank Sinatra,4,1966-11-19,1966-12-31,751,7
+115,A Must To Avoid,Herman's Hermits,8,1966-01-01,1966-02-19,750,8
+116,Blowin In The Wind,Stevie Wonder,9,1966-07-23,1966-09-24,750,10
+117,A Well Respected Man,The Kinks,13,1966-01-01,1966-03-05,749,10
+118,Hold On! I'm A Comin',Sam & Dave,21,1966-04-23,1966-07-16,747,13
+119,Going To A Go-Go,The Miracles,11,1966-01-01,1966-03-12,739,11
+120,Knock On Wood,Eddie Floyd,28,1966-09-10,1966-12-31,728,17
+121,I'm Ready For Love,Martha & The Vandellas,9,1966-10-29,1966-12-31,727,10
+122,Rain On The Roof,The Lovin' Spoonful,10,1966-10-15,1966-12-17,726,10
+123,Don't Bring Me Down,The Animals,12,1966-05-21,1966-07-23,725,10
+124,As Tears Go By,The Rolling Stones,6,1966-01-01,1966-02-19,724,8
+125,Green Grass,Gary Lewis And The Playboys,8,1966-05-14,1966-07-02,721,8
+126,But It's Alright,J.J. Jackson,22,1966-10-01,1966-12-24,721,13
+127,Over Under Sideways Down,The Yardbirds,13,1966-06-25,1966-09-03,719,11
+128,See See Rider,Eric Burdon & The Animals,10,1966-09-17,1966-11-19,718,10
+129,Sweet Talkin' Guy,The Chiffons,10,1966-05-07,1966-07-09,717,10
+130,The Cheater,Bob Kuban And The In-Men,12,1966-01-29,1966-04-09,713,11
+131,I Couldn't Live Without Your Love,Petula Clark,9,1966-07-16,1966-09-10,712,9
+132,The Joker Went Wild,Brian Hyland,20,1966-07-16,1966-09-24,709,11
+133,"How Does That Grab You, Darlin'?",Nancy Sinatra,7,1966-04-23,1966-06-11,708,8
+134,Jenny Take A Ride!,Mitch Ryder And The Detroit Wheels,10,1966-01-01,1966-02-26,708,9
+135,Double Shot (Of My Baby's Love),Swingin' Medallions,17,1966-04-23,1966-07-16,708,13
+136,Sunny Afternoon,The Kinks,14,1966-08-06,1966-10-15,702,11
+137,Mr. Dieingly Sad,The Critters,17,1966-08-13,1966-10-22,696,11
+138,"They're Coming To Take Me Away, Ha-Haaa!",Napoleon XIV,3,1966-07-23,1966-08-27,695,6
+139,Working My Way Back To You,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",9,1966-01-29,1966-03-26,694,9
+140,Sweet Dreams,Tommy McLain,15,1966-06-25,1966-09-03,686,11
+141,Sure Gonna Miss Her,Gary Lewis And The Playboys,9,1966-03-05,1966-04-30,670,9
+142,My Baby Loves Me,Martha & The Vandellas,22,1966-01-22,1966-04-02,666,11
+143,Whispers (Gettin' Louder),Jackie Wilson,11,1966-10-15,1966-12-31,664,11
+144,Wade In The Water,Ramsey Lewis,19,1966-07-09,1966-10-01,662,13
+145,Love Is Like An Itching In My Heart,The Supremes,9,1966-04-30,1966-06-18,656,8
+146,Leaning On The Lamp Post,Herman's Hermits,9,1966-04-09,1966-05-28,653,8
+147,Summertime,Billy Stewart,10,1966-07-16,1966-09-17,653,10
+148,Lies,The Knickerbockers,20,1966-01-01,1966-02-26,652,9
+149,The Duck,Jackie Lee,14,1966-01-01,1966-02-19,640,8
+150,I Love You 1000 Times,The Platters,31,1966-04-30,1966-07-30,632,14
+151,Flowers On The Wall,The Statler Brothers,4,1966-01-01,1966-02-05,625,6
+152,A Hazy Shade Of Winter,Simon & Garfunkel,13,1966-11-05,1966-12-31,625,9
+153,A Place In The Sun,Stevie Wonder,9,1966-11-12,1966-12-31,620,8
+154,When Liking Turns To Loving,Ronnie Dove,18,1966-01-22,1966-03-19,618,9
+155,It Tears Me Up,Percy Sledge,20,1966-10-22,1966-12-31,613,11
+156,Sugar Town,Nancy Sinatra,5,1966-11-19,1966-12-31,612,7
+157,(I'm A) Road Runner,Jr. Walker & The All Stars,20,1966-04-09,1966-06-25,610,12
+158,Spanish Eyes,Al Martino,15,1966-01-01,1966-02-19,607,8
+159,The Sun Ain't Gonna Shine (Anymore),The Walker Bros.,13,1966-04-16,1966-06-11,605,9
+160,Eight Miles High,The Byrds,14,1966-04-09,1966-06-04,605,9
+161,Warm And Tender Love,Percy Sledge,17,1966-07-23,1966-09-17,604,9
+162,Opus 17 (Don't You Worry 'Bout Me),"The 4 Seasons Featuring the ""Sound of Frankie Valli""",13,1966-05-21,1966-07-09,599,8
+163,Popsicle,Jan & Dean,21,1966-06-04,1966-07-30,597,9
+164,"Have You Seen Your Mother, Baby, Standing In The Shadow?",The Rolling Stones,9,1966-10-08,1966-11-19,596,7
+165,I Can Make It With You,Pozo Seco Singers,32,1966-09-10,1966-11-19,592,11
+166,Go Away Little Girl,The Happenings,12,1966-10-01,1966-11-26,586,9
+167,Ebb Tide,The Righteous Brothers,5,1966-01-01,1966-01-29,585,5
+168,Little Latin Lupe Lu,Mitch Ryder And The Detroit Wheels,17,1966-03-05,1966-04-30,583,9
+169,A Sign Of The Times,Petula Clark,11,1966-03-26,1966-05-14,581,8
+170,Open The Door To Your Heart,Darrell Banks,27,1966-07-23,1966-10-08,579,12
+171,Eleanor Rigby,The Beatles,11,1966-08-27,1966-10-15,576,8
+172,You Didn't Have To Be So Nice,The Lovin' Spoonful,10,1966-01-01,1966-02-12,575,7
+173,How Sweet It Is (To Be Loved By You),Jr. Walker & The All Stars,18,1966-07-30,1966-10-08,571,11
+174,Call Me,Chris Montez,22,1966-01-08,1966-03-12,571,10
+175,Magic Town,The Vogues,21,1966-02-26,1966-04-23,566,9
+176,Billy And Sue,B.J. Thomas And The Triumphs,34,1966-06-18,1966-08-27,561,11
+177,I'm A Believer,The Monkees,1,1966-12-10,1966-12-31,558,4
+178,What Now My Love,Sonny & Cher,14,1966-01-29,1966-03-19,558,8
+179,I Got The Feelin' (Oh No No),Neil Diamond,16,1966-11-12,1966-12-31,557,8
+180,The Work Song,Herb Alpert & The Tijuana Brass,18,1966-07-02,1966-08-20,550,8
+181,I See The Light,The Five Americans,26,1966-01-01,1966-03-12,550,11
+182,The Rains Came,Sir Douglas Quintet,31,1966-01-29,1966-04-09,546,11
+183,(I Know) I'm Losing You,The Temptations,8,1966-11-19,1966-12-31,544,7
+184,Girl In Love,The Outsiders,21,1966-05-14,1966-07-09,544,9
+185,Batman Theme,The Marketts,17,1966-02-05,1966-04-02,541,9
+186,The Wheel Of Hurt,Margaret Whiting,26,1966-10-08,1966-12-17,541,11
+187,"Shake Me, Wake Me (When It's Over)",Four Tops,18,1966-02-19,1966-04-16,538,9
+188,This Door Swings Both Ways,Herman's Hermits,12,1966-07-09,1966-08-27,537,8
+189,(Come 'round Here) I'm The One You Need,The Miracles,17,1966-11-05,1966-12-31,536,9
+190,Respectable,The Outsiders,15,1966-08-06,1966-09-24,535,8
+191,Come On Let's Go,The McCoys,22,1966-04-23,1966-06-18,533,9
+192,Over And Over,The Dave Clark Five,5,1966-01-01,1966-01-29,529,5
+193,I Really Don't Want To Know,Ronnie Dove,22,1966-09-03,1966-10-29,528,9
+194,Walkin' My Cat Named Dog,Norma Tanega,22,1966-02-26,1966-04-23,527,9
+195,Michelle,David & Jonathan,18,1966-01-08,1966-03-05,526,9
+196,I Got You (I Feel Good),James Brown And The Famous Flames,3,1966-01-01,1966-01-29,525,5
+197,Turn-Down Day,The Cyrkle,16,1966-08-13,1966-10-01,524,8
+198,(You Don't Have To) Paint Me A Picture,Gary Lewis And The Playboys,15,1966-10-08,1966-11-26,523,8
+199,Searching For My Love,Bobby Moore & The Rhythm Aces,27,1966-06-25,1966-08-27,515,10
+200,Attack,The Toys,18,1966-01-01,1966-02-12,513,7
+201,Try Too Hard,The Dave Clark Five,12,1966-04-02,1966-05-21,511,8
+202,Say I Am (What I Am),Tommy James And The Shondells,21,1966-08-06,1966-09-24,505,8
+203,Like A Baby,Len Barry,27,1966-01-01,1966-02-26,501,9
+204,(I Washed My Hands In) Muddy Water,Johnny Rivers,19,1966-06-11,1966-07-30,497,8
+205,What Now My Love,Herb Alpert & The Tijuana Brass,24,1966-03-19,1966-05-07,496,8
+206,It's Too Late,Bobby Goldsboro,23,1966-02-19,1966-04-09,493,8
+207,He,The Righteous Brothers,18,1966-06-04,1966-07-23,491,8
+208,The Hair On My Chinny Chin Chin,Sam The Sham and the Pharaohs,22,1966-10-01,1966-11-19,491,8
+209,Let's Start All Over Again,Ronnie Dove,20,1966-04-16,1966-06-04,489,8
+210,The Great Airplane Strike,Paul Revere & The Raiders Featuring Mark Lindsay,20,1966-10-01,1966-11-19,486,8
+211,All I See Is You,Dusty Springfield,20,1966-09-17,1966-11-05,486,8
+212,I Want To Go With You,Eddy Arnold,36,1966-02-05,1966-04-16,483,11
+213,My Heart's Symphony,Gary Lewis And The Playboys,13,1966-07-30,1966-09-10,481,7
+214,Who Am I,Petula Clark,21,1966-10-22,1966-12-03,479,7
+215,Mama,B.J. Thomas,22,1966-05-14,1966-07-02,479,8
+216,The Ballad Of Irving,Frank Gallop,34,1966-04-16,1966-06-11,477,9
+217,Frankie And Johnny,Elvis Presley,25,1966-03-19,1966-05-07,476,8
+218,Hey Joe,The Leaves,31,1966-05-21,1966-07-16,476,9
+219,Let's Go Get Stoned,Ray Charles,31,1966-05-28,1966-07-23,476,9
+220,All Strung Out,Nino Tempo & April Stevens,26,1966-09-10,1966-10-29,474,8
+221,I Want To Be With You,Dee Dee Warwick,41,1966-08-27,1966-11-12,471,12
+222,At The Scene,The Dave Clark Five,18,1966-02-05,1966-03-19,470,7
+223,Love Letters,Elvis Presley,19,1966-07-02,1966-08-13,470,7
+224,Holy Cow,Lee Dorsey,23,1966-10-22,1966-12-17,470,9
+225,Where Were You When I Needed You,The Grass Roots,28,1966-06-18,1966-08-13,468,9
+226,Rhapsody In The Rain,Lou Christie,16,1966-03-26,1966-05-14,467,8
+227,Together Again,Ray Charles,19,1966-03-26,1966-05-14,466,8
+228,The Land Of Milk And Honey,The Vogues,29,1966-06-04,1966-07-23,466,8
+229,Somewhere,Len Barry,26,1966-03-19,1966-05-07,465,8
+230,Mame,Herb Alpert & The Tijuana Brass,19,1966-11-19,1966-12-31,463,7
+231,Pretty Flamingo,Manfred Mann,29,1966-07-02,1966-08-20,463,8
+232,7 And 7 Is,Love,33,1966-07-30,1966-10-01,461,10
+233,Rain,The Beatles,23,1966-06-11,1966-07-23,460,7
+234,I Just Don't Know What To Do With Myself,Dionne Warwick,26,1966-10-01,1966-11-19,460,8
+235,Sandy,Ronny And The Daytonas,27,1966-01-01,1966-02-12,459,7
+236,I Hear Trumpets Blow,The Tokens,30,1966-03-19,1966-05-07,459,8
+237,Girl On A Swing,Gerry And The Pacemakers,28,1966-09-10,1966-11-05,458,9
+238,Make Me Belong To You,Barbara Lewis,28,1966-07-23,1966-09-10,457,8
+239,Secret Love,Billy Stewart,29,1966-10-15,1966-12-03,455,8
+240,Peter Rabbit,Dee Jay And The Runaways,45,1966-05-07,1966-07-16,454,11
+241,Think I'll Go Somewhere And Cry Myself To Sleep,Al Martino,30,1966-03-12,1966-04-30,447,8
+242,Backstage,Gene Pitney,25,1966-04-23,1966-06-11,444,8
+243,Happy Summer Days,Ronnie Dove,27,1966-06-18,1966-08-06,443,8
+244,Look Through My Window,The Mamas & The Papas,24,1966-10-22,1966-12-03,442,7
+245,Little Man,Sonny & Cher,21,1966-10-01,1966-11-12,441,7
+246,Summer Samba (So Nice),Walter Wanderley,26,1966-08-27,1966-10-22,441,9
+247,You Better Run,The Young Rascals,20,1966-06-18,1966-07-30,436,7
+248,Somewhere There's A Someone,Dean Martin,32,1966-02-12,1966-04-02,436,8
+249,Satin Pillows,Bobby Vinton,23,1966-01-01,1966-02-05,434,6
+250,It's Only Love,Tommy James And The Shondells,31,1966-11-05,1966-12-31,434,9
+251,Night Time,The Strangeloves,30,1966-01-15,1966-03-05,433,8
+252,It Was A Very Good Year,Frank Sinatra,28,1966-01-01,1966-02-12,432,7
+253,"Run, Run, Look And See",Brian Hyland,25,1966-10-22,1966-12-17,431,9
+254,Breakin' Up Is Breakin' My Heart,Roy Orbison,31,1966-01-22,1966-03-12,431,8
+255,The Phoenix Love Theme (Senza Fine),The Brass Ring featuring Phil Bodner,32,1966-03-12,1966-05-07,431,9
+256,Nothing's Too Good For My Baby,Stevie Wonder,20,1966-04-16,1966-05-28,429,7
+257,Trains And Boats And Planes,Dionne Warwick,22,1966-07-02,1966-08-13,429,7
+258,Talk Talk,The Music Machine,16,1966-11-12,1966-12-31,428,8
+259,With A Girl Like You,The Troggs,29,1966-08-06,1966-09-24,428,8
+260,The Impossible Dream (The Quest),Jack Jones,35,1966-06-04,1966-08-06,427,10
+261,Fa-Fa-Fa-Fa-Fa (Sad Song),Otis Redding,29,1966-10-01,1966-11-19,426,8
+262,Batman Theme,Neal Hefti,35,1966-02-12,1966-04-02,424,8
+263,Distant Shores,Chad & Jeremy,30,1966-07-09,1966-09-03,423,9
+264,I Love You Drops,Vic Dana,30,1966-05-07,1966-06-25,421,8
+265,Satisfaction,Otis Redding,31,1966-03-05,1966-04-23,421,8
+266,Spanish Flea,Herb Alpert & The Tijuana Brass,27,1966-03-19,1966-04-30,420,7
+267,I Can't Grow Peaches On A Cherry Tree,Just Us,34,1966-03-12,1966-05-21,420,11
+268,Turn! Turn! Turn! (To Everything There Is A Season),The Byrds,4,1966-01-01,1966-01-22,419,4
+269,One More Heartache,Marvin Gaye,29,1966-02-19,1966-04-09,419,8
+270,Summer Wind,Frank Sinatra,25,1966-09-03,1966-10-15,417,7
+271,I Want You,Bob Dylan,20,1966-07-02,1966-08-13,416,7
+272,Help Me Girl,The Outsiders,37,1966-10-29,1966-12-31,415,10
+273,Thunderball,Tom Jones,25,1966-01-01,1966-02-05,414,6
+274,Husbands And Wives,Roger Miller,26,1966-02-19,1966-04-02,411,7
+275,"The ""A"" Team",SSgt Barry Sadler,28,1966-04-23,1966-06-04,407,7
+276,Single Girl,Sandy Posey,12,1966-11-19,1966-12-31,406,7
+277,Please Tell Me Why,The Dave Clark Five,28,1966-06-11,1966-07-23,404,7
+278,Misty,"""Groove"" Holmes",44,1966-06-25,1966-09-03,403,11
+279,God Only Knows,The Beach Boys,39,1966-08-13,1966-10-01,401,8
+280,Younger Girl,The Critters,42,1966-05-28,1966-07-23,397,9
+281,Snoopy Vs. The Red Baron,The Royal Guardsmen,2,1966-12-17,1966-12-31,394,3
+282,Second Hand Rose,Barbra Streisand,32,1966-01-01,1966-02-12,394,7
+283,"Louie, Louie",The Sandpipers,30,1966-10-22,1966-12-03,393,7
+284,I'll Take Good Care Of You,Garnet Mimms,30,1966-03-26,1966-05-21,392,9
+285,I Need Somebody,? (Question Mark) & The Mysterians,22,1966-11-19,1966-12-31,386,7
+286,All That I Am,Elvis Presley With The Jordanaires,41,1966-10-08,1966-11-26,385,8
+287,Coming Home Soldier,Bobby Vinton,17,1966-11-19,1966-12-31,384,7
+288,There Will Never Be Another You,Chris Montez,33,1966-08-13,1966-10-01,382,8
+289,Ain't Gonna Lie,Keith,39,1966-09-17,1966-11-19,380,10
+290,Are You There (With Another Girl),Dionne Warwick,39,1966-01-01,1966-02-12,378,7
+291,Let's Hang On!,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",6,1966-01-01,1966-01-22,377,4
+292,Tippy Toeing,The Harden Trio,44,1966-03-12,1966-05-14,377,10
+293,Mustang Sally,Wilson Pickett,23,1966-11-26,1966-12-31,376,6
+294,Crying,Jay & The Americans,25,1966-05-28,1966-07-02,372,6
+295,The Dangling Conversation,Simon & Garfunkel,25,1966-08-06,1966-09-17,372,7
+296,Tar And Cement,Verdelle Smith,38,1966-07-09,1966-08-27,372,8
+297,Fever,The McCoys,7,1966-01-01,1966-01-22,370,4
+298,Tell It Like It Is,Aaron Neville,7,1966-12-03,1966-12-31,370,5
+299,Tell Me Why,Elvis Presley With The Jordanaires,33,1966-01-01,1966-02-12,369,7
+300,Andrea,The Sunrays,41,1966-01-22,1966-03-12,369,8
+301,She Blew A Good Thing,The Poets,45,1966-03-19,1966-05-21,369,10
+302,A Hard Day's Night,Ramsey Lewis Trio,29,1966-01-22,1966-02-26,367,6
+303,Look Through Any Window,The Hollies,32,1966-01-01,1966-02-05,365,6
+304,Flamingo,Herb Alpert & The Tijuana Brass,28,1966-09-03,1966-10-08,364,6
+305,I Chose To Sing The Blues,Ray Charles & The Raelets,32,1966-09-03,1966-10-15,364,7
+306,I Can't Let Go,The Hollies,42,1966-03-19,1966-05-21,362,10
+307,"Get Out Of My Life, Woman",Lee Dorsey,44,1966-01-01,1966-03-05,361,10
+308,Get Ready,The Temptations,29,1966-02-26,1966-04-09,360,7
+309,"Caroline, No",Brian Wilson,32,1966-03-26,1966-05-07,356,7
+310,Cry,Ronnie Dove,18,1966-11-26,1966-12-31,352,6
+311,Money Won't Change You (Part 1),James Brown And The Famous Flames,53,1966-07-30,1966-09-24,351,9
+312,Alfie,Cher,32,1966-07-30,1966-09-03,347,6
+313,Ain't That A Groove (Part 1),James Brown And The Famous Flames,42,1966-03-05,1966-04-16,347,7
+314,Solitary Man,Neil Diamond,55,1966-05-21,1966-07-23,347,10
+315,Please Don't Stop Loving Me,Elvis Presley,45,1966-03-19,1966-05-07,346,8
+316,Band Of Gold,Mel Carter,32,1966-04-09,1966-05-28,345,8
+317,This Can't Be True,Eddie Holman,57,1966-01-15,1966-03-26,345,11
+318,Mas Que Nada,Sergio Mendes & Brasil '66,47,1966-09-24,1966-11-12,342,8
+319,Sugar And Spice,The Cryan' Shames,49,1966-07-23,1966-09-17,342,9
+320,In The Arms Of Love,Andy Williams,49,1966-08-27,1966-10-15,338,8
+321,Lady Jane,The Rolling Stones,24,1966-07-23,1966-08-27,337,6
+322,"I'm Comin' Home, Cindy",Trini Lopez,39,1966-04-09,1966-05-21,337,7
+323,Games That Lovers Play,Eddie Fisher,45,1966-10-29,1966-12-24,335,9
+324,The Tip Of My Fingers,Eddy Arnold,43,1966-07-23,1966-09-03,334,7
+325,Time After Time,Chris Montez,36,1966-10-29,1966-12-17,333,8
+326,Spinout,Elvis Presley With The Jordanaires,40,1966-10-08,1966-11-19,333,7
+327,Under Your Spell Again,Johnny Rivers,35,1966-01-01,1966-02-05,332,6
+328,(When She Needs Good Lovin') She Comes To Me,The Chicago Loop,37,1966-11-05,1966-12-17,332,7
+329,The Last Word In Lonesome Is Me,Eddy Arnold,40,1966-05-14,1966-06-25,332,7
+330,Take This Heart Of Mine,Marvin Gaye,44,1966-05-21,1966-07-09,332,8
+331,Younger Girl,The Hondells,52,1966-05-28,1966-07-23,332,9
+332,Come Running Back,Dean Martin,35,1966-05-07,1966-06-18,329,7
+333,Tijuana Taxi,Herb Alpert & The Tijuana Brass,38,1966-01-01,1966-02-12,329,7
+334,My Little Red Book,Love,52,1966-04-30,1966-07-09,329,11
+335,Heaven Must Have Sent You,The Elgins,50,1966-10-22,1966-12-10,326,8
+336,Love's Made A Fool Of You,Bobby Fuller Four,26,1966-04-16,1966-05-21,325,6
+337,A Sweet Woman Like You,Joe Tex,29,1966-01-01,1966-01-29,324,5
+338,Just Like A Woman,Bob Dylan,33,1966-09-10,1966-10-15,323,6
+339,History Repeats Itself,Buddy Starcher,39,1966-04-09,1966-05-21,322,7
+340,Mr. Spaceman,The Byrds,36,1966-09-24,1966-11-05,320,7
+341,Go Ahead And Cry,The Righteous Brothers,30,1966-08-06,1966-09-10,319,6
+342,Pandora's Golden Heebie Jeebies,The Association,35,1966-11-26,1966-12-31,319,6
+343,Inside-Looking Out,The Animals,34,1966-02-26,1966-04-09,318,7
+344,It's Over,Jimmie Rodgers,37,1966-05-14,1966-06-25,318,7
+345,Please Mr. Sun,The Vogues,48,1966-09-24,1966-11-12,318,8
+346,Twinkle Toes,Roy Orbison,39,1966-04-30,1966-06-04,317,6
+347,A Symphony For Susan,The Arbors,51,1966-10-15,1966-12-17,317,10
+348,Michael,The C.O.D.'s,41,1966-01-01,1966-02-12,316,7
+349,Recovery,Fontella Bass,37,1966-01-01,1966-02-12,315,7
+350,Come On Up,The Young Rascals,43,1966-09-24,1966-11-05,315,7
+351,A Million And One,Dean Martin,41,1966-07-23,1966-09-03,314,7
+352,Ninety-Nine And A Half (Won't Do),Wilson Pickett,53,1966-05-28,1966-07-16,313,8
+353,Whole Lot Of Shakin' In My Heart (Since I Met You),The Miracles,46,1966-06-18,1966-08-06,312,8
+354,Evol-Not Love,The Five Americans,52,1966-04-16,1966-06-11,311,9
+355,Love Is All We Need,Mel Carter,50,1966-01-22,1966-03-12,310,8
+356,Dum-De-Da,Bobby Vinton,40,1966-04-30,1966-06-04,309,6
+357,Oh Yeah,The Shadows Of Knight,39,1966-06-04,1966-07-09,308,6
+358,S.Y.S.L.J.F.M. (The Letter Song),Joe Tex,39,1966-05-14,1966-06-25,307,7
+359,(You're Gonna) Hurt Yourself,Frankie Valli,39,1966-01-15,1966-02-26,307,7
+360,Long Live Our Love,The Shangri-Las,33,1966-02-05,1966-03-12,306,6
+361,Day For Decision,Johnny Sea,35,1966-06-11,1966-07-16,303,6
+362,Sometimes Good Guys Don't Wear White,The Standells,43,1966-08-13,1966-10-01,303,8
+363,Loving You Is Sweeter Than Ever,Four Tops,45,1966-05-28,1966-07-16,301,8
+364,One Track Mind,The Knickerbockers,46,1966-03-19,1966-04-30,300,7
+365,Words Of Love,The Mamas & The Papas,19,1966-12-03,1966-12-31,299,5
+366,Dedicated Follower Of Fashion,The Kinks,36,1966-05-21,1966-06-25,299,6
+367,It's My Life,The Animals,23,1966-01-01,1966-01-22,297,4
+368,Till The End Of The Day,The Kinks,50,1966-03-26,1966-05-14,297,8
+369,The Dedication Song,Freddy Cannon,41,1966-02-19,1966-03-26,295,6
+370,Spread It On Thick,The Gentrys,50,1966-01-01,1966-02-19,294,8
+371,"Wish You Were Here, Buddy",Pat Boone,49,1966-10-22,1966-12-10,290,8
+372,Good Thing,Paul Revere & The Raiders Featuring Mark Lindsay,10,1966-12-03,1966-12-31,289,5
+373,It's Good News Week,Hedgehoppers Anonymous,48,1966-01-01,1966-02-05,289,6
+374,You Wouldn't Listen,The Ides Of March,42,1966-06-25,1966-08-06,286,7
+375,Suspicions,The Sidekicks,55,1966-08-06,1966-10-01,285,9
+376,Stop Her On Sight (S.O.S.),Edwin Starr,48,1966-02-19,1966-04-09,284,8
+377,Blue Side Of Lonesome,Jim Reeves,59,1966-08-27,1966-10-15,284,8
+378,Love Me With All Of Your Heart,The Bachelors,38,1966-04-16,1966-05-21,283,6
+379,World Of Fantasy,The Five Stairsteps,49,1966-08-06,1966-09-24,283,8
+380,Outside The Gates Of Heaven,Lou Christie,45,1966-03-05,1966-04-23,278,8
+381,You You You,Mel Carter,49,1966-07-16,1966-08-27,278,7
+382,A Satisfied Mind,Bobby Hebb,39,1966-10-08,1966-11-12,276,6
+383,"Little Darling, I Need You",Marvin Gaye,47,1966-08-20,1966-10-01,276,7
+384,Mind Excursion,The Trade Winds,51,1966-09-03,1966-11-05,276,9
+385,I (Who Have Nothing),Terry Knight and The Pack,48,1966-11-12,1966-12-31,272,8
+386,The Philly Freeze,Alvin Cash & The Registers,49,1966-07-30,1966-09-24,272,9
+387,You're Gonna Miss Me,The Thirteenth Floor Elevators,55,1966-08-20,1966-10-08,268,8
+388,East West,Herman's Hermits,27,1966-12-03,1966-12-31,265,5
+389,I Fooled You This Time,Gene Chandler,48,1966-11-26,1966-12-31,265,6
+390,I Ain't Gonna Eat Out My Heart Anymore,The Young Rascals,52,1966-01-01,1966-02-19,264,8
+391,Somebody (Somewhere) Needs You,Darrell Banks,55,1966-10-15,1966-12-03,263,8
+392,The Fife Piper,The Dynatones,53,1966-09-03,1966-10-22,262,8
+393,I Can't Control Myself,The Troggs,43,1966-10-15,1966-11-19,261,6
+394,The Love You Save (May Be Your Own),Joe Tex,56,1966-03-05,1966-04-23,260,8
+395,Memories Are Made Of This,The Drifters,48,1966-03-19,1966-04-30,259,7
+396,There's No Living Without Your Loving,Peter And Gordon,50,1966-05-07,1966-06-18,259,7
+397,Dear Lover,Mary Wells,51,1966-02-12,1966-04-02,258,8
+398,Cleo's Mood,Jr. Walker & The All Stars,50,1966-01-15,1966-02-19,257,6
+399,I've Passed This Way Before,Jimmy Ruffin,28,1966-12-03,1966-12-31,256,5
+400,Happenings Ten Years Time Ago,The Yardbirds,30,1966-11-26,1966-12-31,256,6
+401,Got My Mojo Working (Part I),Jimmy Smith,51,1966-04-02,1966-05-14,256,7
+402,England Swings,Roger Miller,9,1966-01-01,1966-01-15,255,3
+403,On This Side Of Goodbye,The Righteous Brothers,47,1966-10-29,1966-12-03,255,6
+404,Make The World Go Away,Eddy Arnold,10,1966-01-01,1966-01-15,254,3
+405,You Can't Roller Skate In A Buffalo Herd,Roger Miller,40,1966-06-25,1966-07-30,254,6
+406,Friday's Child,Nancy Sinatra,36,1966-07-09,1966-08-06,253,5
+407,Distant Drums,Jim Reeves,45,1966-04-09,1966-05-21,253,7
+408,You're The One,The Marvelettes,48,1966-04-23,1966-05-28,252,6
+409,Time,Pozo Seco Singers,47,1966-02-26,1966-04-09,251,7
+410,Bye Bye Blues,Bert Kaempfert And His Orchestra,54,1966-01-22,1966-03-05,249,7
+411,Better Use Your Head,Little Anthony And The Imperials,54,1966-05-14,1966-06-25,249,7
+412,Help Me Girl,Eric Burdon & The Animals,29,1966-11-26,1966-12-31,248,6
+413,Have I Stayed Too Long,Sonny & Cher,49,1966-06-04,1966-07-09,246,6
+414,Mame,Bobby Darin,53,1966-04-30,1966-06-11,245,7
+415,Nineteen Days,The Dave Clark Five,48,1966-10-22,1966-11-26,243,6
+416,Look At Me Girl,Bobby Vee And The Strangers,52,1966-07-09,1966-08-27,243,8
+417,Helpless,Kim Weston,56,1966-03-12,1966-04-23,243,7
+418,Satisfied With You,The Dave Clark Five,50,1966-08-13,1966-09-17,241,6
+419,Young Love,Lesley Gore,50,1966-03-26,1966-04-30,241,6
+420,The One On The Right Is On The Left,Johnny Cash,46,1966-02-26,1966-04-02,239,6
+421,A Day In The Life Of A Fool,Jack Jones,62,1966-10-29,1966-12-17,239,8
+422,In Our Time,Nancy Sinatra,46,1966-09-17,1966-10-22,235,6
+423,Don't Be A Drop-Out,James Brown And The Famous Flames,50,1966-10-08,1966-11-19,235,7
+424,Harlem Nocturne,The Viscounts,39,1966-01-01,1966-01-22,233,4
+425,I've Got To Be Somebody,Billy Joe Royal,38,1966-01-01,1966-01-22,231,4
+426,Up And Down,The McCoys,46,1966-02-12,1966-03-19,231,6
+427,The Eggplant That Ate Chicago,Dr. West's Medicine Show and Junk Band,52,1966-11-26,1966-12-31,230,6
+428,The Wheel Of Hurt,Al Martino,59,1966-10-15,1966-12-03,229,8
+429,One Has My Name (The Other Has My Heart),Barry Young,13,1966-01-01,1966-01-15,228,3
+430,Puppet On A String,Elvis Presley With The Jordanaires,14,1966-01-01,1966-01-15,224,3
+431,Don't Think Twice,The Wonder Who?,17,1966-01-01,1966-01-15,223,3
+432,Up Tight,Ramsey Lewis,49,1966-10-15,1966-11-12,222,5
+433,Broomstick Cowboy,Bobby Goldsboro,53,1966-01-01,1966-01-29,221,5
+434,5 D (Fifth Dimension),The Byrds,44,1966-07-16,1966-08-13,220,5
+435,Why Pick On Me,The Standells,54,1966-10-22,1966-12-03,218,7
+436,Cloudy Summer Afternoon (Raindrops),Barry McGuire,62,1966-05-21,1966-07-02,217,7
+437,Bang Bang,The Joe Cuba Sextet,63,1966-10-22,1966-12-10,217,8
+438,Stay With Me,Lorraine Ellison,64,1966-10-08,1966-11-26,216,8
+439,Secret Agent Man,The Ventures,54,1966-02-26,1966-04-09,215,7
+440,Hide & Seek,The Sheep,58,1966-01-29,1966-03-12,213,7
+441,Try A Little Tenderness,Otis Redding,36,1966-12-03,1966-12-31,212,5
+442,Money (That's What I Want) (Part 1),Jr. Walker & The All Stars,52,1966-11-19,1966-12-24,211,6
+443,Ghost Riders In The Sky,Baja Marimba Band,52,1966-11-26,1966-12-31,210,6
+444,Wang Dang Doodle,Ko Ko Taylor,58,1966-04-23,1966-06-11,210,8
+445,Cast Your Fate To The Wind,Shelby Flint,61,1966-08-13,1966-09-24,210,7
+446,I Guess I'll Always Love You,The Isley Brothers,61,1966-07-16,1966-08-27,210,7
+447,I Love Onions,Susan Christie,63,1966-06-11,1966-07-30,207,8
+448,Hurt,Little Anthony And The Imperials,51,1966-01-01,1966-02-05,206,6
+449,Rumors,Syndicate Of Sound,55,1966-08-20,1966-10-01,206,7
+450,Can't Satisfy,The Impressions,65,1966-09-03,1966-10-15,206,7
+451,Can I Trust You?,The Bachelors,49,1966-07-02,1966-08-06,205,6
+452,I Can Never Go Home Anymore,The Shangri-Las,15,1966-01-01,1966-01-15,203,3
+453,Tell It To The Rain,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",23,1966-12-10,1966-12-31,200,4
+454,A Little Bit Of Soap,The Exciters,58,1966-01-29,1966-03-05,199,6
+455,Georgy Girl,The Seekers,37,1966-12-03,1966-12-31,198,5
+456,Somebody Like Me,Eddy Arnold,53,1966-10-15,1966-11-19,197,6
+457,I'm A Nut,Leroy Pullins,57,1966-06-25,1966-07-30,197,6
+458,Waitin' In Your Welfare Line,Buck Owens,57,1966-01-29,1966-03-12,197,7
+459,Lullaby Of Love,The Poppies,56,1966-03-05,1966-04-09,196,6
+460,There's Got To Be A Word!,The Innocence,42,1966-12-03,1966-12-31,194,5
+461,A Young Girl,Noel Harrison,51,1966-01-01,1966-01-22,192,4
+462,The Little Girl I Once Knew,The Beach Boys,20,1966-01-01,1966-01-15,191,3
+463,In My Room (El Amor),Verdelle Smith,62,1966-02-05,1966-03-19,190,7
+464,Standing In The Shadows Of Love,Four Tops,15,1966-12-17,1966-12-31,188,3
+465,Almost Persuaded No. 2,Ben Colder,58,1966-10-01,1966-11-05,187,6
+466,My Lover's Prayer,Otis Redding,61,1966-06-04,1966-07-16,187,7
+467,Not Responsible,Tom Jones,58,1966-06-18,1966-07-23,184,6
+468,You've Been Cheatin',The Impressions,33,1966-01-01,1966-01-15,183,3
+469,You Can Bring Me All Your Heartaches,Lou Rawls,60,1966-11-26,1966-12-31,182,6
+470,The Cruel War,"Peter, Paul & Mary",52,1966-04-23,1966-05-21,181,5
+471,Changes,Crispian St. Peters,57,1966-09-17,1966-10-29,181,7
+472,Come Back,The Five Stairsteps,61,1966-11-05,1966-12-10,181,6
+473,Please Say You're Fooling,Ray Charles and his Orchestra,64,1966-11-12,1966-12-17,181,6
+474,We Got A Thing That's In The Groove,The Capitols,65,1966-11-12,1966-12-17,181,6
+475,I Know You Better Than That,Bobby Goldsboro,56,1966-05-14,1966-06-11,180,5
+476,Tears,Bobby Vinton,59,1966-02-26,1966-03-26,178,5
+477,He Cried,The Shangri-Las,65,1966-04-09,1966-05-14,178,6
+478,My Uncle Used To Love Me But She Died,Roger Miller,58,1966-09-17,1966-10-15,177,5
+479,Juanita Banana,The Peels,59,1966-03-12,1966-04-16,177,6
+480,Nobody's Baby Again,Dean Martin,60,1966-10-08,1966-11-12,177,6
+481,Break Out,Mitch Ryder And The Detroit Wheels,62,1966-05-28,1966-06-25,174,5
+482,"Past, Present And Future",The Shangri-Las,59,1966-06-25,1966-07-30,172,6
+483,I'll Love You Forever,The Holidays,63,1966-05-07,1966-07-02,170,9
+484,Ashes To Ashes,The Mindbenders,55,1966-08-13,1966-09-17,168,6
+485,Little Boy (In Grown Up Clothes),The 4 Seasons,60,1966-01-01,1966-01-29,168,5
+486,Teenager's Prayer,Joe Simon,66,1966-06-18,1966-07-30,167,7
+487,Don't Answer The Door - Part 1,B.B. King,72,1966-10-22,1966-12-17,167,9
+488,I'm Too Far Gone (To Turn Around),Bobby Bland,62,1966-01-08,1966-02-12,165,6
+489,If You Gotta Make A Fool Of Somebody,Maxine Brown,63,1966-01-01,1966-02-05,165,6
+490,Ain't Nobody Home,Howard Tate,63,1966-08-20,1966-10-01,165,7
+491,The Proud One,Frankie Valli,68,1966-11-12,1966-12-17,164,6
+492,Blue Autumn,Bobby Goldsboro,44,1966-12-10,1966-12-31,163,4
+493,Can You Please Crawl Out Your Window?,Bob Dylan,58,1966-01-01,1966-02-05,163,6
+494,That's Enough,Rosco Robinson,62,1966-08-06,1966-09-24,163,8
+495,(You Make Me Feel) So Good,The McCoys,53,1966-07-30,1966-08-20,162,4
+496,Snow Flake,Jim Reeves,66,1966-01-15,1966-02-19,162,6
+497,Said I Wasn't Gonna Tell Nobody,Sam & Dave,64,1966-09-10,1966-10-15,161,6
+498,Let Me Be Good To You,Carla Thomas,62,1966-04-30,1966-06-04,160,6
+499,Remember The Rain,Bob Lind,64,1966-04-23,1966-05-21,159,5
+500,A Lover's Concerto,Sarah Vaughan,63,1966-04-02,1966-05-07,158,6
+501,Why Can't You Bring Me Home,Jay & The Americans,63,1966-02-19,1966-03-26,158,6
+502,Follow Me,Lyme & Cybelle,65,1966-03-19,1966-04-23,158,6
+503,Please Don't Ever Leave Me,The Cyrkle,59,1966-12-03,1966-12-31,156,5
+504,It Won't Be Wrong,The Byrds,63,1966-02-12,1966-03-12,155,5
+505,Michelle,Bud Shank,65,1966-01-22,1966-02-26,153,6
+506,Get Away,Georgie Fame And The Blue Flames,70,1966-08-20,1966-10-01,152,7
+507,Bad Misunderstanding,The Critters,55,1966-12-03,1966-12-31,151,5
+508,Wiederseh'n,Al Martino,57,1966-05-28,1966-06-18,151,4
+509,I Can Make It With You,Jackie DeShannon,68,1966-09-10,1966-10-15,150,6
+510,Too Soon To Know,Roy Orbison,68,1966-08-06,1966-09-03,148,5
+511,"Baby, Do The Philly Dog",The Olympics,63,1966-10-01,1966-11-05,147,6
+512,(I'm Not Your) Steppin' Stone,The Monkees,32,1966-12-17,1966-12-31,146,3
+513,Sunday And Me,Jay & The Americans,26,1966-01-01,1966-01-08,145,2
+514,Goodnight My Love,The Happenings,56,1966-12-10,1966-12-31,145,4
+515,Please Don't Fight It,"Dino, Desi & Billy",60,1966-01-01,1966-01-22,145,4
+516,Winchester Cathedral,Dana Rollin,71,1966-11-05,1966-12-10,144,6
+517,Jealous Heart,Connie Francis,47,1966-01-01,1966-01-15,143,3
+518,Georgia On My Mind,The Righteous Brothers,62,1966-02-05,1966-03-05,143,5
+519,My Ship Is Comin' In,The Walker Bros.,63,1966-01-29,1966-02-26,143,5
+520,Alvin's Boo-Ga-Loo,Alvin Cash & The Registers,74,1966-11-26,1966-12-31,141,6
+521,Hang On Sloopy,Ramsey Lewis Trio,19,1966-01-01,1966-01-08,140,2
+522,(We Ain't Got) Nothin' Yet,Blues Magoos,41,1966-12-10,1966-12-31,140,4
+523,"Lara's Theme from ""Dr. Zhivago""",Roger Williams,65,1966-06-25,1966-07-30,140,6
+524,Nashville Cats,The Lovin' Spoonful,33,1966-12-17,1966-12-31,139,3
+525,"Neighbor, Neighbor",Jimmy Hughes,65,1966-06-04,1966-07-09,139,6
+526,I Believe I'm Gonna Make It,Joe Tex,67,1966-07-23,1966-08-20,138,5
+527,Baby What Do You Want Me To Do,Barbara Lewis,74,1966-10-29,1966-12-03,138,6
+528,98.6,Keith,47,1966-12-10,1966-12-31,137,4
+529,Crystal Chandelier,Vic Dana,51,1966-01-01,1966-01-15,135,3
+530,I've Got To Do A Little Bit Better,Joe Tex,64,1966-10-08,1966-11-05,135,5
+531,Whenever She Holds You,Patty Duke,64,1966-02-26,1966-03-26,135,5
+532,"Don't Worry Mother, Your Son's Heart Is Pure",The McCoys,67,1966-10-01,1966-10-29,133,5
+533,Darling Baby,The Elgins,72,1966-03-19,1966-05-14,133,8
+534,"Dianne, Dianne",Ronny And The Daytonas,69,1966-09-03,1966-10-01,132,5
+535,Taste Of Honey,Herb Alpert & The Tijuana Brass,31,1966-01-01,1966-01-08,131,2
+536,Hole In The Wall,The Packers,61,1966-01-01,1966-01-22,130,4
+537,Batman,Jan & Dean,66,1966-02-12,1966-03-12,130,5
+538,Hi Heel Sneakers - Pt. 1,Ramsey Lewis Trio,70,1966-03-26,1966-04-23,130,5
+539,When A Woman Loves A Man,Esther Phillips,73,1966-06-04,1966-07-02,129,5
+540,Take Me For What I'm Worth,The Searchers,76,1966-01-29,1966-03-12,129,7
+541,Take Some Time Out For Love,The Isley Brothers,66,1966-05-28,1966-06-18,128,4
+542,Baby What I Mean,The Drifters,62,1966-12-03,1966-12-31,127,5
+543,Let's Call It A Day Girl,The Razor's Edge,77,1966-07-30,1966-09-10,127,7
+544,You've Got My Mind Messed Up,James Carr,63,1966-04-09,1966-05-14,125,6
+545,Please Don't Sell My Daddy No More Wine,The Greenwoods,64,1966-04-30,1966-05-28,125,5
+546,Gloria,Them,71,1966-04-23,1966-05-28,125,6
+547,Lonely Summer,The Shades Of Blue,72,1966-07-30,1966-09-03,125,6
+548,Sippin' 'N Chippin',The T-Bones,62,1966-03-26,1966-04-23,120,5
+549,Lonely Soldier,Mike Williams,69,1966-07-09,1966-08-06,120,5
+550,I Only Have Eyes For You,The Lettermen,72,1966-06-18,1966-07-23,120,6
+551,I Want Someone,The Mad Lads,74,1966-03-05,1966-04-09,117,6
+552,Apple Of My Eye,Roy Head And The Traits,42,1966-01-01,1966-01-08,116,2
+553,"Love Is Me, Love Is You",Connie Francis,66,1966-03-19,1966-04-23,116,6
+554,What Am I Going To Do Without Your Love,Martha & The Vandellas,71,1966-06-11,1966-07-09,114,5
+555,The Girl That Stood Beside Me,Bobby Darin,66,1966-12-10,1966-12-31,113,4
+556,I Surrender,Fontella Bass,78,1966-03-26,1966-04-30,112,6
+557,Truly Julie's Blues (I'll Be There),Bob Lind,65,1966-05-07,1966-06-04,111,5
+558,Livin' Above Your Head,Jay & The Americans,76,1966-07-30,1966-08-27,110,5
+559,Karate,The Emperor's,63,1966-12-03,1966-12-31,107,5
+560,Out Of This World,The Chiffons,67,1966-08-06,1966-08-27,107,4
+561,There's Something On Your Mind,Baby Ray,69,1966-12-03,1966-12-31,105,5
+562,Michelle,Billy Vaughn And His Orchestra,77,1966-01-08,1966-02-12,105,6
+563,Where Will The Words Come From,Gary Lewis And The Playboys,51,1966-12-17,1966-12-31,104,3
+564,My Generation,The Who,74,1966-01-15,1966-02-12,104,5
+565,I Had Too Much To Dream (Last Night),The Electric Prunes,54,1966-12-10,1966-12-31,103,4
+566,Elvira,Dallas Frazier,72,1966-04-30,1966-05-21,103,4
+567,Good Time Charlie,Bobby Bland,75,1966-05-21,1966-06-25,102,6
+568,Love Takes A Long Time Growing,Deon Jackson,77,1966-04-30,1966-05-28,100,5
+569,Communication Breakdown,Roy Orbison,72,1966-12-10,1966-12-31,99,4
+570,Wait A Minute,Tim Tam And The Turn-Ons,76,1966-03-05,1966-04-02,99,5
+571,She Drives Me Out Of My Mind,The Swingin' Medallions,71,1966-08-20,1966-09-17,98,5
+572,Rainbow '65 (Part I),Gene Chandler,69,1966-01-08,1966-01-29,97,4
+573,I Don't Need No Doctor,Ray Charles and his Orchestra,72,1966-11-26,1966-12-17,97,4
+574,Color My World,Petula Clark,38,1966-12-24,1966-12-31,95,2
+575,Melody For An Unknown Girl,The Unknowns,74,1966-09-24,1966-10-15,95,4
+576,Gallant Men,Senator Everett McKinley Dirksen,43,1966-12-24,1966-12-31,94,2
+577,Princess In Rags,Gene Pitney,46,1966-01-01,1966-01-08,93,2
+578,It Hurts Me,Bobby Goldsboro,70,1966-09-03,1966-10-01,92,5
+579,Papa Was Too,Joe Tex,59,1966-12-17,1966-12-31,91,3
+580,I Got To Handle It,The Capitols,74,1966-08-27,1966-09-17,91,4
+581,Bring Back The Time,B.J. Thomas,75,1966-07-30,1966-08-20,91,4
+582,Stop! - Get A Ticket,Clefs Of Lavender Hill,80,1966-06-25,1966-07-30,91,6
+583,Keep On Running,The Spencer Davis Group,76,1966-03-05,1966-03-26,90,4
+584,Poverty,Bobby Bland,65,1966-09-17,1966-10-29,86,5
+585,I Can't Believe You Love Me,Tammi Terrell,72,1966-01-08,1966-02-05,86,5
+586,Baby Toys,The Toys,76,1966-09-03,1966-09-24,86,4
+587,Hey You! Little Boo-Ga-Loo,Chubby Checker,76,1966-07-02,1966-07-30,84,5
+588,Love Bug,Jack Jones,71,1966-01-01,1966-01-15,83,3
+589,Something I Want To Tell You,Johnny and The Expressions,79,1966-01-22,1966-02-19,83,5
+590,Love (Makes Me Do Foolish Things),Martha & The Vandellas,70,1966-01-01,1966-01-22,81,4
+591,Take Good Care Of Her,Mel Carter,78,1966-10-01,1966-10-29,81,5
+592,Batman & His Grandmother,Dickie Goodman,70,1966-05-28,1966-06-11,78,3
+593,The Loop,Johnny Lytle,80,1966-01-22,1966-02-19,78,5
+594,A Million And One,Vic Dana,71,1966-08-06,1966-08-20,75,3
+595,C.C. Rider,Bobby Powell,76,1966-01-01,1966-01-15,75,3
+596,(We'll Be) United,The Intruders,78,1966-07-16,1966-08-20,75,6
+597,Ain't Gonna Cry No More,Brenda Lee,77,1966-07-02,1966-07-23,74,4
+598,Think Of Me,Buck Owens and The Buckaroos,74,1966-05-28,1966-06-25,73,5
+599,Killer Joe,The Kingsmen,77,1966-04-02,1966-04-23,73,4
+600,Real Humdinger,J.J. Barnes,80,1966-04-09,1966-05-07,73,5
+601,(Open Up The Door) Let The Good Times In,Dean Martin,67,1966-12-17,1966-12-31,72,3
+602,The Teaser,Bob Kuban And The In-Men,70,1966-04-30,1966-05-14,72,3
+603,I Hear A Symphony,The Supremes,30,1966-01-01,1966-01-01,71,1
+604,Seesaw,Don Covay & The Goodtimers,53,1966-01-01,1966-01-08,71,2
+605,Happiness,Shades Of Blue,78,1966-10-01,1966-10-22,71,4
+606,Tomorrow Never Comes,B.J. Thomas,80,1966-09-10,1966-10-22,71,5
+607,I Will,Dean Martin,32,1966-01-01,1966-01-01,69,1
+608,Mame,Louis Armstrong,81,1966-05-21,1966-06-11,68,4
+609,Everyday I Have To Cry,The Gentrys,77,1966-05-14,1966-06-11,67,5
+610,My Sweet Potato,Booker T. & The MG's,85,1966-09-03,1966-10-01,67,5
+611,I'm A Man,The Yardbirds,35,1966-01-01,1966-01-01,66,1
+612,Buckaroo,Buck Owens and The Buckaroos,62,1966-01-01,1966-01-08,66,2
+613,Stand By Me,Spyder Turner,58,1966-12-17,1966-12-31,64,3
+614,Try Me,James Brown At The Organ,66,1966-01-01,1966-01-08,64,2
+615,Smokey Joe's La La,Googie Rene Combo,77,1966-02-26,1966-03-12,64,3
+616,Let's Get Together,We Five,38,1966-01-01,1966-01-01,63,1
+617,How Do You Catch A Girl,Sam The Sham and the Pharaohs,61,1966-12-24,1966-12-31,63,2
+618,Wack Wack,The Young Holt Trio,68,1966-12-17,1966-12-31,63,3
+619,We Know We're In Love,Lesley Gore,76,1966-02-05,1966-02-19,63,3
+620,Look What You've Done,Pozo Seco Singers,64,1966-12-17,1966-12-31,62,3
+621,Set You Free This Time,The Byrds,79,1966-02-05,1966-02-26,62,4
+622,1-2-3,Len Barry,41,1966-01-01,1966-01-01,60,1
+623,Come On And See Me,Tammi Terrell,80,1966-05-28,1966-06-25,60,5
+624,Free Again,Barbra Streisand,83,1966-10-15,1966-11-05,60,4
+625,All Or Nothing,Patti LaBelle And The Blue Belles,68,1966-01-01,1966-01-08,59,2
+626,Don't Fight It,Wilson Pickett,70,1966-01-01,1966-01-08,59,2
+627,Just Yesterday,Al Martino,77,1966-08-06,1966-08-27,59,4
+628,I Confess,New Colony Six,80,1966-02-19,1966-03-12,59,4
+629,Grim Reaper Of Love,The Turtles,81,1966-06-18,1966-07-09,59,4
+630,Painter,Lou Christie,81,1966-06-25,1966-07-23,59,5
+631,Uptight (Everything's Alright),Nancy Wilson,84,1966-07-16,1966-08-06,59,4
+632,Promise Her Anything,Tom Jones,74,1966-02-19,1966-03-12,58,4
+633,I Wanna Meet You,The Cryan' Shames,85,1966-11-26,1966-12-17,57,4
+634,Games That Lovers Play,Wayne Newton,86,1966-10-22,1966-11-26,57,6
+635,Downtown,Mrs. Miller,82,1966-04-30,1966-05-21,56,4
+636,Red Hot,Sam The Sham and the Pharaohs,82,1966-02-05,1966-03-05,56,5
+637,Dancing In The Street,The Mamas & The Papas,77,1966-12-17,1966-12-31,55,3
+638,This Golden Ring,The Fortunes,82,1966-02-19,1966-03-12,55,4
+639,A Corner In The Sun,Walter Jackson,83,1966-11-05,1966-11-26,55,4
+640,Another Night,Dionne Warwick,73,1966-12-24,1966-12-31,54,2
+641,Grizzly Bear,The Youngbloods,70,1966-12-17,1966-12-31,53,3
+642,If You Go Away,Damita Jo,79,1966-12-10,1966-12-31,53,4
+643,Heartbreak Hotel,Roger Miller,84,1966-11-05,1966-11-26,53,4
+644,La Bamba - Part I,Trini Lopez,86,1966-06-25,1966-07-23,53,5
+645,"Green, Green Grass Of Home",Tom Jones,74,1966-12-24,1966-12-31,52,2
+646,I'm Gonna Miss You,The Artistics,80,1966-12-17,1966-12-31,52,3
+647,Petticoat White (Summer Sky Blue),Bobby Vinton,81,1966-08-06,1966-08-20,52,3
+648,Come And Get Me,Jackie DeShannon,83,1966-05-28,1966-06-11,52,3
+649,Don't Touch Me,Jeannie Seely,85,1966-05-28,1966-06-25,51,5
+650,Pouring Water On A Drowning Man,James Carr,85,1966-10-22,1966-11-12,48,4
+651,Don't Look Back,The Temptations,83,1966-01-01,1966-01-15,47,3
+652,A Time To Love-A Time To Cry (Petite Fleur),Lou Johnson,73,1966-01-01,1966-01-08,46,2
+653,You Are She,Chad & Jeremy,87,1966-10-08,1966-10-29,46,4
+654,Knight In Rusty Armour,Peter And Gordon,71,1966-12-24,1966-12-31,45,2
+655,Tired Of Being Lonely,Sharpees,79,1966-01-15,1966-01-29,45,3
+656,I'll Go Crazy,James Brown And The Famous Flames,73,1966-02-19,1966-02-26,44,2
+657,Day Tripper,Ramsey Lewis,78,1966-12-24,1966-12-31,44,2
+658,I Put A Spell On You,Alan Price Set,80,1966-07-30,1966-08-13,43,3
+659,Giddyup Go,Red Sovine,82,1966-01-08,1966-01-22,42,3
+660,It's An Uphill Climb To The Bottom,Walter Jackson,88,1966-06-04,1966-07-02,42,5
+661,Pin The Tail On The Donkey,Paul Peek,91,1966-04-16,1966-05-14,41,5
+662,"Let Me Tell You, Babe",Nat King Cole,90,1966-08-06,1966-08-27,40,4
+663,Just One Smile,Gene Pitney,75,1966-12-24,1966-12-31,39,2
+664,Can I Get To Know You Better,The Turtles,89,1966-10-29,1966-11-26,38,5
+665,Marble Breaks And Iron Bends,Drafi,80,1966-05-14,1966-05-28,37,3
+666,May My Heart Be Cast Into Stone,The Toys,85,1966-04-02,1966-04-16,37,3
+667,(He's) Raining In My Sunshine,Jay & The Americans,90,1966-11-26,1966-12-17,37,4
+668,Heart's Desire,Billy Joe Royal,88,1966-05-21,1966-06-04,36,3
+669,Philly Dog,The Mar-Keys,89,1966-03-05,1966-04-16,36,5
+670,Headline News,Edwin Starr,84,1966-05-07,1966-05-28,35,4
+671,You Got Me Hummin',Sam & Dave,82,1966-12-03,1966-12-31,34,4
+672,On The Good Ship Lollipop,The Wonder Who?,87,1966-07-02,1966-07-16,34,3
+673,Hot Shot,The Buena Vistas,87,1966-07-02,1966-07-23,34,4
+674,Tiny Bubbles,Don Ho and the Aliis,87,1966-11-26,1966-12-31,34,4
+675,Georgia Rose,Tony Bennett,89,1966-07-23,1966-08-13,33,4
+676,What Goes On,The Beatles,81,1966-03-12,1966-03-19,32,2
+677,Spanish Harlem,King Curtis,89,1966-01-01,1966-01-22,32,4
+678,It's Now Winters Day,Tommy Roe,84,1966-12-24,1966-12-31,31,2
+679,Just A Little Misunderstanding,The Contours,85,1966-05-28,1966-06-04,31,2
+680,River Deep-Mountain High,Ike & Tina Turner Featuring Tina,88,1966-05-28,1966-06-18,31,4
+681,Constant Rain (Chove Chuva),Sergio Mendes & Brasil '66,83,1966-12-24,1966-12-31,30,2
+682,La La La,Gerry And The Pacemakers,90,1966-04-02,1966-04-16,30,3
+683,I'm Gonna Make You Love Me,Dee Dee Warwick,88,1966-11-26,1966-12-10,28,3
+684,The Answer To My Prayer,Neil Sedaka,89,1966-02-05,1966-02-26,28,4
+685,Count Down,"Dave ""Baby"" Cortez",91,1966-06-04,1966-06-18,28,3
+686,Moulty,The Barbarians,90,1966-02-26,1966-03-19,27,4
+687,It's That Time Of The Year,Len Barry,91,1966-06-18,1966-07-02,27,3
+688,A Man And A Woman,Tamiko Jones with Herbie Mann,88,1966-11-12,1966-11-19,26,2
+689,History Repeats Itself,Cab Calloway,89,1966-04-16,1966-04-30,26,3
+690,The Pain Gets A Little Deeper,Darrow Fletcher,89,1966-01-15,1966-01-29,26,3
+691,Wish Me A Rainbow,The Gunter Kallmann Chorus,81,1966-12-24,1966-12-31,25,2
+692,Too Slow,The Impressions,91,1966-04-02,1966-04-16,25,3
+693,Fiddle Around,Jan & Dean,93,1966-09-03,1966-09-24,25,4
+694,"Look At Granny Run, Run",Howard Tate,87,1966-12-24,1966-12-31,23,2
+695,He Wore The Green Beret,Nancy Ames,89,1966-03-19,1966-04-02,23,3
+696,Pushin' Too Hard,The Seeds,85,1966-12-24,1966-12-31,22,2
+697,Goodnight My Love,Ben E. King,91,1966-01-08,1966-01-22,22,3
+698,Are You Lonely For Me,Freddy Scott,88,1966-12-24,1966-12-31,21,2
+699,You Don't Know Like I Know,Sam & Dave,90,1966-01-15,1966-01-22,21,2
+700,Respect,The Rationals,92,1966-11-12,1966-11-26,21,3
+701,Put Yourself In My Place,The Elgins,92,1966-02-19,1966-03-12,21,4
+702,Drive My Car,Bob Kuban And The In-Men,93,1966-07-16,1966-07-30,21,3
+703,"Stop, Look And Listen",The Chiffons,85,1966-10-01,1966-10-08,20,2
+704,(I'm Just A) Fool For You,Gene Chandler,88,1966-03-19,1966-03-26,20,2
+705,Freddie Feelgood (And His Funky Little Five Piece Band),Ray Stevens,91,1966-07-16,1966-07-23,19,2
+706,High On Love,The Knickerbockers,94,1966-07-02,1966-07-16,19,3
+707,Living For You,Sonny & Cher,87,1966-11-19,1966-11-26,18,2
+708,Black Nights,Lowell Fulsom,91,1966-01-01,1966-01-08,18,2
+709,Campfire Girls,Billy Joe Royal,91,1966-09-03,1966-09-10,18,2
+710,It's Not The Same,Anthony & The Imperials,92,1966-11-12,1966-11-19,18,2
+711,Dear Mrs. Applebee,Flip Cartridge,91,1966-08-20,1966-08-27,17,2
+712,So Much Love,Steve Alaimo,92,1966-05-21,1966-05-28,17,2
+713,One Too Many Mornings,Beau Brummels,95,1966-06-04,1966-06-18,17,3
+714,Since I Lost The One I Love,The Impressions,90,1966-02-05,1966-02-12,16,2
+715,Still,The Sunrays,93,1966-05-07,1966-05-14,16,2
+716,The Boogaloo Party,The Flamingos,93,1966-03-19,1966-03-26,16,2
+717,Can't You See (You're Losing Me),Mary Wells,94,1966-01-22,1966-02-05,16,3
+718,Cry Softly,Nancy Ames,95,1966-10-08,1966-10-29,16,4
+719,Music To Watch Girls By,Bob Crewe Generation,86,1966-12-31,1966-12-31,15,1
+720,Get Back,Roy Head,88,1966-01-15,1966-01-22,15,2
+721,Going Nowhere,Los Bravos,91,1966-12-17,1966-12-24,15,2
+722,Bad Little Woman,The Shadows Of Knight,91,1966-09-10,1966-09-17,15,2
+723,Don't Forget About Me,Barbara Lewis,91,1966-01-29,1966-02-12,15,3
+724,Follow Your Heart,The Manhattans,92,1966-01-01,1966-01-08,14,2
+725,Questions And Answers,The In Crowd,92,1966-12-10,1966-12-17,14,2
+726,The Shadow Of Your Smile,Boots Randolph,94,1966-12-24,1966-12-31,14,2
+727,Lookin' For Love,Ray Conniff And The Singers,94,1966-10-08,1966-10-15,14,2
+728,Off To Dublin In The Green,The Abbey Tavern Singers,94,1966-09-24,1966-10-01,14,2
+729,Harlem Shuffle,The Traits,94,1966-11-12,1966-11-19,14,2
+730,I'm Your Hoochie Cooche Man (Part 1),Jimmy Smith,94,1966-08-27,1966-09-03,14,2
+731,Where Am I Going?,Barbra Streisand,94,1966-02-19,1966-02-26,14,2
+732,You Waited Too Long,The Five Stairsteps,94,1966-05-21,1966-05-28,14,2
+733,Have You Ever Loved Somebody,The Searchers,94,1966-11-26,1966-12-10,14,3
+734,Stand In For Love,The O'Jays,95,1966-10-22,1966-11-05,14,3
+735,Shake Hands (And Come Out Crying),The Newbeats,92,1966-02-26,1966-03-12,13,3
+736,"Dommage, Dommage (Too Bad, Too Bad)",Jerry Vale,93,1966-10-08,1966-10-15,13,2
+737,Superman,"Dino, Desi & Billy",94,1966-03-05,1966-03-12,13,2
+738,Lost Someone,James Brown And The Famous Flames,94,1966-02-05,1966-02-12,13,2
+739,The Big Hurt,Del Shannon,94,1966-05-07,1966-05-14,13,2
+740,Alfie,Cilla Black,95,1966-08-27,1966-09-10,13,3
+741,I Dig Girls,J.J. Jackson,89,1966-12-31,1966-12-31,12,1
+742,You're Just About To Lose Your Clown,Ray Charles,91,1966-03-26,1966-04-02,12,2
+743,I'm Gonna Make You Mine,The Shadows Of Knight,90,1966-12-24,1966-12-24,11,1
+744,Just One More Day,Otis Redding,90,1966-01-01,1966-01-01,11,1
+745,Kind Of A Drag,The Buckinghams,90,1966-12-31,1966-12-31,11,1
+746,Hello Hello,"The Sopwith ""Camel""",91,1966-12-24,1966-12-31,11,2
+747,I'll Be Gone,Pozo Seco Singers,92,1966-06-18,1966-06-25,11,2
+748,No Man Is An Island,The Van Dykes,94,1966-04-02,1966-04-09,11,2
+749,Your Good Thing (Is About To End),Mable John,95,1966-08-06,1966-08-13,11,2
+750,Feel It,Sam Cooke,95,1966-02-19,1966-02-26,11,2
+751,A Lover's Concerto,Mrs. Miller,95,1966-05-07,1966-05-14,11,2
+752,What Now My Love,"""Groove"" Holmes",96,1966-10-01,1966-10-15,11,3
+753,Who Do You Think You Are,The Shindogs,91,1966-09-03,1966-09-03,10,1
+754,He Will Break Your Heart,The Righteous Brothers,91,1966-06-04,1966-06-04,10,1
+755,So Much Love,Ben E. King,96,1966-05-21,1966-05-28,10,2
+756,Bad Eye,Willie Mitchell,92,1966-05-07,1966-05-07,9,1
+757,Roller Coaster,The Ides Of March,92,1966-09-10,1966-09-10,9,1
+758,My Answer,Jimmy McCracklin,92,1966-01-29,1966-01-29,9,1
+759,Let's Fall In Love,Peaches & Herb,92,1966-12-31,1966-12-31,9,1
+760,To Make A Big Man Cry,Roy Head,95,1966-09-17,1966-09-24,9,2
+761,Everybody Loves A Nut,Johnny Cash,96,1966-07-02,1966-07-09,9,2
+762,Philly Dog,Herbie Mann,93,1966-10-01,1966-10-01,8,1
+763,Take Me For A Little While,Patti LaBelle And The Blue Belles,93,1966-12-31,1966-12-31,8,1
+764,It's-A-Happening,The Magic Mushrooms,93,1966-11-12,1966-11-12,8,1
+765,Think Twice,Jackie Wilson And LaVern Baker,93,1966-01-15,1966-01-15,8,1
+766,Come Share The Good Times With Me,Julie Monday,96,1966-08-20,1966-08-27,8,2
+767,Hi Hi Hazel,Gary And The Hornets,96,1966-11-19,1966-11-26,8,2
+768,Only When You're Lonely,The Grass Roots,96,1966-09-10,1966-09-17,8,2
+769,"Dommage, Dommage (Too Bad, Too Bad)",Paul Vance,97,1966-10-08,1966-10-15,8,2
+770,Rib Tip's (Part 1),Andre Williams & His Orch.,94,1966-01-29,1966-01-29,7,1
+771,Yesterday Man,Chris Andrews,94,1966-01-01,1966-01-01,7,1
+772,Baby I Need You,The Manhattans,96,1966-03-19,1966-03-26,7,2
+773,In The Basement - Part 1,Etta James & Sugar Pie DeSanto,97,1966-08-13,1966-08-20,7,2
+774,Sharing You,Mitty Collier,97,1966-03-19,1966-03-26,7,2
+775,I Feel A Sin Coming On,Solomon Burke,97,1966-04-09,1966-04-16,7,2
+776,Blue River,Elvis Presley,95,1966-01-01,1966-01-01,6,1
+777,Uptight (Everything's Alright),The Jazz Crusaders,95,1966-04-02,1966-04-02,6,1
+778,Big Time,Lou Christie,95,1966-03-19,1966-03-19,6,1
+779,"Hey, Leroy, Your Mama's Callin' You",Jimmy Castor,95,1966-12-31,1966-12-31,6,1
+780,Baby Come On Home,Solomon Burke,96,1966-01-08,1966-01-15,6,2
+781,Because I Love You,Billy Stewart,96,1966-01-22,1966-01-29,6,2
+782,Is It Me?,Barbara Mason,97,1966-01-29,1966-02-12,6,2
+783,Louie Louie,The Kingsmen,97,1966-05-14,1966-05-21,6,2
+784,All These Things,The Uniques,97,1966-07-02,1966-07-09,6,2
+785,I'll Be Home,The Platters,97,1966-12-03,1966-12-10,6,2
+786,To Show I Love You,Peter And Gordon,98,1966-07-30,1966-08-06,6,2
+787,You're Nobody Till Somebody Loves You,The Wonder Who?,96,1966-07-16,1966-07-16,5,1
+788,Every Day And Every Night,The Trolls,96,1966-10-22,1966-10-22,5,1
+789,Love Me,Bobby Hebb,96,1966-12-31,1966-12-31,5,1
+790,Try My Love Again,Bobby Moore's Rhythm Aces featuring Chico,97,1966-12-17,1966-12-24,5,2
+791,Peak Of Love,Bobby McClure,97,1966-12-10,1966-12-17,5,2
+792,Tell Her,Dean Parrish,97,1966-07-16,1966-07-23,5,2
+793,Where The Sun Has Never Shone,Jonathan King,97,1966-01-15,1966-01-22,5,2
+794,Let's Go Steady Again,Sam Cooke,97,1966-04-30,1966-04-30,4,1
+795,Look In My Eyes,The Three Degrees,97,1966-01-01,1966-01-01,4,1
+796,Behind The Door,Cher,97,1966-11-26,1966-11-26,4,1
+797,Function At The Junction,Shorty Long,97,1966-09-24,1966-09-24,4,1
+798,I Need Love,Barbara Mason,98,1966-06-11,1966-06-18,4,2
+799,I Spy (For The FBI),Jamo Thomas & His Party Brothers Orchestra,98,1966-03-19,1966-03-26,4,2
+800,Meditation (Meditacao),Claudine Longet,98,1966-11-05,1966-11-12,4,2
+801,I Struck It Rich,Len Barry,98,1966-09-17,1966-09-24,4,2
+802,Spanish Nights And You,Connie Francis,99,1966-11-05,1966-11-12,4,2
+803,"Sam, You Made The Pants Too Long",Barbra Streisand,98,1966-05-21,1966-05-21,3,1
+804,Fly Me To The Moon,Sam & Bill,98,1966-01-29,1966-01-29,3,1
+805,Stop!,The Moody Blues,98,1966-04-02,1966-04-02,3,1
+806,Any Way That You Want Me,Liverpool Five,98,1966-12-24,1966-12-24,3,1
+807,Baby I Love You,Jimmy Holiday,98,1966-09-03,1966-09-03,3,1
+808,I'm Living In Two Worlds,Bonnie Guitar,99,1966-04-02,1966-04-09,3,2
+809,Such A Sweet Thing,Mary Wells,99,1966-07-02,1966-07-09,3,2
+810,For Your Precious Love,Jerry Butler,99,1966-03-26,1966-04-02,3,2
+811,Secret Love,"Richard ""Groove"" Holmes",99,1966-10-01,1966-10-08,3,2
+812,Mine Exclusively,The Olympics,99,1966-04-30,1966-05-07,3,2
+813,It Was A Very Good Year,Della Reese,99,1966-09-10,1966-09-17,3,2
+814,Theme From The Wild Angels,Davie Allan And The Arrows,99,1966-11-12,1966-11-19,3,2
+815,3000 Miles,Brian Hyland,99,1966-04-16,1966-04-16,2,1
+816,My Babe,Roy Head And The Traits,99,1966-03-12,1966-03-12,2,1
+817,Love Attack,James Carr,99,1966-07-30,1966-07-30,2,1
+818,That's The Tune,The Vogues,99,1966-12-24,1966-12-24,2,1
+819,Open Up Your Door,Richard And The Young Lions,99,1966-09-24,1966-09-24,2,1
+820,Fortune Teller,The Hardtimes,99,1966-12-31,1966-12-31,2,1
+821,Safe And Sound,Fontella Bass,100,1966-08-27,1966-08-27,1,1
+822,Hand Jive,The Strangeloves,100,1966-06-18,1966-06-18,1,1
+823,Greetings (This Is Uncle Sam),The Monitors,100,1966-04-16,1966-04-16,1,1
+824,I Can Hear Music,The Ronettes Featuring Veronica,100,1966-10-29,1966-10-29,1,1
+825,The Other Side Of This Life,"Peter, Paul & Mary",100,1966-09-24,1966-09-24,1,1
+826,Takin' All I Can Get,Mitch Ryder And The Detroit Wheels,100,1966-07-30,1966-07-30,1,1
+827,I Can't Give You Anything But Love,Bert Kaempfert And His Orchestra,100,1966-10-15,1966-10-15,1,1
+828,Help Me (Get Myself Back Together Again),The Spellbinders,100,1966-11-19,1966-11-19,1,1
+829,We Got The Winning Hand,Little Milton,100,1966-02-12,1966-02-12,1,1
+830,Gimme Some Lovin',The Spencer Davis Group,100,1966-12-31,1966-12-31,1,1
+831,Day Tripper,The Vontastics,100,1966-09-03,1966-09-03,1,1
+832,Mountain Of Love,Billy Stewart,100,1966-01-01,1966-01-01,1,1

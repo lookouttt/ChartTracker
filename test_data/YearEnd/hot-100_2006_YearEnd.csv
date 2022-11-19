@@ -1,0 +1,472 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Bad Day,Daniel Powter,1,2006-02-25,2006-09-30,3993,32
+2,Temperature,Sean Paul,1,2006-01-21,2006-08-19,3972,31
+3,Unwritten,Natasha Bedingfield,5,2006-01-07,2006-09-23,3759,38
+4,You're Beautiful,James Blunt,1,2006-01-07,2006-07-29,3627,30
+5,Promiscuous,Nelly Furtado Featuring Timbaland,1,2006-05-20,2006-11-11,3617,26
+6,Over My Head (Cable Car),The Fray,8,2006-02-25,2006-12-09,3510,42
+7,Crazy,Gnarls Barkley,2,2006-05-20,2006-12-02,3509,29
+8,Ridin',Chamillionaire Featuring Krayzie Bone,1,2006-03-04,2006-09-30,3350,31
+9,What Hurts The Most,Rascal Flatts,6,2006-02-18,2006-12-30,3242,46
+10,Be Without You,Mary J. Blige,3,2006-01-07,2006-07-08,3217,27
+11,Hips Don't Lie,Shakira Featuring Wyclef Jean,1,2006-04-01,2006-10-28,3212,31
+12,Buttons,The Pussycat Dolls Featuring Snoop Dogg,3,2006-05-27,2006-12-16,3074,30
+13,Me & U,Cassie,3,2006-04-29,2006-10-28,2953,27
+14,How To Save A Life,The Fray,3,2006-04-15,2006-12-30,2900,36
+15,SexyBack,Justin Timberlake,1,2006-07-22,2006-12-30,2892,24
+16,Move Along,The All-American Rejects,15,2006-02-11,2006-11-04,2828,39
+17,I Write Sins Not Tragedies,Panic! At The Disco,7,2006-03-18,2006-11-25,2789,37
+18,Check On It,Beyonce Featuring Slim Thug,1,2006-01-07,2006-05-27,2754,21
+19,Chasing Cars,Snow Patrol,5,2006-06-03,2006-12-30,2686,31
+20,Grillz,"Nelly Featuring Paul Wall, Ali & Gipp",1,2006-01-07,2006-05-27,2685,21
+21,It's Goin' Down,Yung Joc,3,2006-04-15,2006-10-21,2678,28
+22,Lips Of An Angel,Hinder,3,2006-07-29,2006-12-30,2616,23
+23,SOS,Rihanna,1,2006-02-25,2006-09-02,2537,28
+24,London Bridge,Fergie,1,2006-08-05,2006-12-23,2516,21
+25,So Sick,Ne-Yo,1,2006-01-07,2006-05-27,2417,21
+26,Money Maker,Ludacris Featuring Pharrell,1,2006-08-26,2006-12-30,2365,19
+27,Dani California,Red Hot Chili Peppers,6,2006-04-22,2006-10-14,2330,26
+28,Snap Yo Fingers,Lil Jon Featuring E-40 & Sean Paul Of The YoungBloodZ,7,2006-04-08,2006-10-14,2263,28
+29,"Lean Wit It, Rock Wit It",Dem Franchize Boyz Featuring Lil Peanut & Charlay,7,2006-01-21,2006-07-08,2185,25
+30,Smack That,Akon Featuring Eminem,2,2006-10-07,2006-12-30,2120,13
+31,Everytime We Touch,Cascada,10,2006-01-07,2006-07-15,2109,28
+32,Walk Away,Kelly Clarkson,12,2006-01-21,2006-08-05,2061,29
+33,My Love,Justin Timberlake Featuring T.I.,1,2006-09-23,2006-12-30,2014,15
+34,Savin' Me,Nickelback,19,2006-03-18,2006-09-23,2008,28
+35,(When You Gonna) Give It Up To Me,Sean Paul Feat. Keyshia Cole,3,2006-06-10,2006-11-04,1990,22
+36,Run It!,Chris Brown,2,2006-01-07,2006-05-13,1985,19
+37,Unfaithful,Rihanna,6,2006-05-13,2006-09-23,1967,20
+38,Ms. New Booty,Bubba Sparxxx Featuring Ying Yang Twins & Mr. ColliPark,7,2006-02-04,2006-07-15,1960,24
+39,Ain't No Other Man,Christina Aguilera,6,2006-06-24,2006-11-04,1947,20
+40,Far Away,Nickelback,8,2006-08-05,2006-12-30,1944,22
+41,What You Know,T.I.,3,2006-03-18,2006-07-29,1924,20
+42,I'm N Luv (Wit A Stripper),T-Pain Featuring Mike Jones,5,2006-01-07,2006-05-13,1881,19
+43,Where'd You Go,Fort Minor Featuring Holly Brook,4,2006-04-22,2006-09-02,1843,20
+44,Black Horse & The Cherry Tree,KT Tunstall,20,2006-03-25,2006-10-14,1791,30
+45,Yo (Excuse Me Miss),Chris Brown,7,2006-01-07,2006-05-20,1777,20
+46,"Dance, Dance",Fall Out Boy,9,2006-01-07,2006-06-03,1748,22
+47,What's Left Of Me,Nick Lachey,6,2006-03-11,2006-08-26,1743,25
+48,Sexy Love,Ne-Yo,7,2006-06-24,2006-11-18,1715,22
+49,U And Dat,E-40 Featuring T-Pain & Kandi Girl,13,2006-05-27,2006-11-11,1665,25
+50,Waiting On The World To Change,John Mayer,20,2006-07-29,2006-12-30,1603,23
+51,Who Says You Can't Go Home,Bon Jovi,23,2006-01-28,2006-07-22,1567,26
+52,Too Little Too Late,JoJo,3,2006-09-02,2006-12-30,1549,18
+53,Chain Hang Low,Jibbs,7,2006-08-19,2006-12-30,1545,20
+54,Dirty Little Secret,The All-American Rejects,9,2006-01-07,2006-05-06,1519,18
+55,Fergalicious,Fergie,3,2006-10-07,2006-12-30,1509,13
+56,Do It To It,Cherish Featuring Sean Paul Of The YoungBloodZ,12,2006-05-20,2006-10-07,1500,21
+57,Because Of You,Kelly Clarkson,11,2006-01-07,2006-05-13,1490,19
+58,Call Me When You're Sober,Evanescence,10,2006-09-02,2006-12-30,1486,18
+59,So What,Field Mob Featuring Ciara,10,2006-04-22,2006-09-09,1481,21
+60,Stickwitu,The Pussycat Dolls,5,2006-01-07,2006-04-15,1478,15
+61,Shake That,Eminem Featuring Nate Dogg,6,2006-01-07,2006-05-13,1476,19
+62,Say Goodbye,Chris Brown,10,2006-08-26,2006-12-30,1462,19
+63,Hate Me,Blue October,31,2006-04-29,2006-11-04,1450,28
+64,Photograph,Nickelback,3,2006-01-07,2006-04-22,1448,16
+65,Get Up,Ciara Featuring Chamillionaire,7,2006-08-12,2006-12-23,1448,20
+66,Show Stopper,Danity Kane,8,2006-09-02,2006-12-30,1436,18
+67,Rompe,Daddy Yankee,24,2006-01-07,2006-06-10,1435,23
+68,Unpredictable,Jamie Foxx Featuring Ludacris,8,2006-01-07,2006-04-29,1433,17
+69,Pullin' Me Back,Chingy Featuring Tyrese,9,2006-07-01,2006-11-11,1433,20
+70,Shoulder Lean,Young Dro Featuring T.I.,10,2006-06-17,2006-10-28,1396,20
+71,Touch It,Busta Rhymes,16,2006-01-07,2006-05-27,1382,21
+72,Bossy,Kelis Featuring Too $hort,16,2006-05-20,2006-09-30,1376,20
+73,Gold Digger,Kanye West Featuring Jamie Foxx,4,2006-01-07,2006-04-22,1363,16
+74,Gimme That,Chris Brown Featuring Lil Wayne,15,2006-04-22,2006-09-02,1346,20
+75,Irreplaceable,Beyonce,1,2006-11-04,2006-12-30,1337,9
+76,I Wanna Love You,Akon Featuring Snoop Dogg,1,2006-10-14,2006-12-30,1336,12
+77,I Know You See It,Yung Joc Featuring Brandy 'Ms. B.' Hambrick,17,2006-07-15,2006-11-25,1322,20
+78,My Humps,The Black Eyed Peas,6,2006-01-07,2006-04-22,1293,16
+79,Laffy Taffy,D4L,1,2006-01-07,2006-03-25,1238,12
+80,Life Is A Highway,Rascal Flatts,7,2006-06-17,2006-10-28,1232,20
+81,Deja Vu,Beyonce Featuring Jay Z,4,2006-07-01,2006-10-21,1228,17
+82,Pump It,The Black Eyed Peas,18,2006-01-07,2006-05-06,1206,18
+83,"Jesus, Take The Wheel",Carrie Underwood,20,2006-01-07,2006-04-29,1198,17
+84,Beep,The Pussycat Dolls Featuring will.i.am,13,2006-02-04,2006-06-17,1185,20
+85,Don't Forget About Us,Mariah Carey,1,2006-01-07,2006-03-11,1157,10
+86,Come To Me,Diddy Featuring Nicole Scherzinger,9,2006-09-16,2006-12-30,1152,16
+87,When You Were Young,The Killers,14,2006-08-26,2006-12-30,1152,19
+88,Love,Keyshia Cole,19,2006-02-04,2006-06-10,1116,19
+89,Why You Wanna,T.I.,29,2006-04-29,2006-09-09,1116,20
+90,For You I Will (Confidence),Teddy Geiger,29,2006-02-18,2006-07-01,1111,20
+91,When You're Mad,Ne-Yo,15,2006-03-18,2006-07-29,1103,20
+92,There It Go! (The Whistle Song),Juelz Santana,6,2006-01-07,2006-03-25,1096,12
+93,"Sugar, We're Goin' Down",Fall Out Boy,13,2006-01-07,2006-04-15,1055,15
+94,Before He Cheats,Carrie Underwood,16,2006-09-16,2006-12-30,1047,16
+95,Stupid Girls,P!nk,13,2006-02-25,2006-06-10,1042,16
+96,You And Me,Lifehouse,25,2006-01-07,2006-04-22,1040,16
+97,Fresh Azimiz,Bow Wow Featuring J-Kwon & Jermaine Dupri,23,2006-01-07,2006-05-06,1012,18
+98,Leave The Pieces,The Wreckers,34,2006-06-10,2006-10-21,1008,20
+99,Summertime,Kenny Chesney,34,2006-04-29,2006-09-09,987,20
+100,When The Stars Go Blue,Tim McGraw,37,2006-04-15,2006-08-26,970,20
+101,One Wish,Ray J,11,2006-01-07,2006-03-25,964,12
+102,Walk It Out,Unk,13,2006-09-23,2006-12-30,945,15
+103,Shortie Like Mine,Bow Wow Featuring Chris Brown & Johnta Austin,9,2006-10-21,2006-12-30,931,11
+104,Torn,LeToya,31,2006-05-06,2006-09-16,923,20
+105,I Loved Her First,Heartland,34,2006-08-26,2006-12-30,919,19
+106,Miss Murder,AFI,24,2006-05-13,2006-09-30,912,20
+107,Call On Me,Janet & Nelly,25,2006-07-08,2006-11-04,896,18
+108,Girl Next Door,Saving Jane,31,2006-02-25,2006-07-08,883,20
+109,Enough Cryin,Mary J. Blige Featuring Brook-Lyn,32,2006-04-22,2006-09-02,878,20
+110,Gallery,Mario Vazquez,35,2006-07-29,2006-12-16,873,20
+111,If You're Going Through Hell (Before The Devil Even Knows),Rodney Atkins,33,2006-06-03,2006-10-14,869,20
+112,Would You Go With Me,Josh Turner,43,2006-07-15,2006-11-25,867,20
+113,Tonight I Wanna Cry,Keith Urban,36,2006-01-07,2006-05-13,859,19
+114,White & Nerdy,"""Weird Al"" Yankovic",9,2006-10-14,2006-12-30,858,12
+115,Maneater,Nelly Furtado,16,2006-09-30,2006-12-30,856,14
+116,Stuntin' Like My Daddy,Birdman & Lil Wayne,21,2006-09-16,2006-12-30,853,16
+117,We Fly High,Jim Jones,7,2006-10-21,2006-12-30,846,11
+118,Upside Down,Jack Johnson,38,2006-01-28,2006-06-10,842,20
+119,L.O.V.E.,Ashlee Simpson,22,2006-01-07,2006-04-22,840,16
+120,S.E.X.,Lyfe Jennings,37,2006-08-05,2006-12-16,831,20
+121,Ring The Alarm,Beyonce,11,2006-09-23,2006-12-16,829,13
+122,Feel Good Inc,Gorillaz,28,2006-01-07,2006-04-01,821,13
+123,Gettin' Some,Shawnna,31,2006-04-01,2006-08-05,821,19
+124,We Be Burnin',Sean Paul,20,2006-01-07,2006-03-25,800,12
+125,My Wish,Rascal Flatts,28,2006-09-23,2006-12-30,800,15
+126,It Ends Tonight,The All-American Rejects,11,2006-10-14,2006-12-30,796,12
+127,Poppin' My Collar,Three 6 Mafia,21,2006-03-04,2006-06-17,795,16
+128,Welcome To The Black Parade,My Chemical Romance,13,2006-09-30,2006-12-30,774,14
+129,Want To,Sugarland,32,2006-10-07,2006-12-30,771,13
+130,Hurt,Christina Aguilera,19,2006-10-14,2006-12-30,763,12
+131,A Public Affair,Jessica Simpson,14,2006-07-15,2006-09-30,755,12
+132,You Save Me,Kenny Chesney,41,2006-09-16,2006-12-30,755,16
+133,Stars Are Blind,Paris Hilton,18,2006-07-08,2006-09-23,753,12
+134,I Think They Like Me,"Dem Franchize Boyz Featuring Jermaine Dupri, Da Brat & Bow Wow",16,2006-01-07,2006-03-18,746,11
+135,Brand New Girlfriend,Steve Holy,40,2006-07-01,2006-11-11,746,20
+136,The World,Brad Paisley,45,2006-05-06,2006-09-16,736,20
+137,Money In The Bank,Lil Scrappy Featuring Young Buck,28,2006-09-30,2006-12-30,729,14
+138,About Us,Brooke Hogan Featuring Paul Wall,33,2006-08-19,2006-12-16,726,17
+139,Let U Go,Ashley Parker Angel,12,2006-04-29,2006-08-05,722,15
+140,Your Man,Josh Turner,38,2006-01-07,2006-05-13,722,18
+141,When I Get Where I'm Going,Brad Paisley Featuring Dolly Parton,39,2006-01-07,2006-04-15,720,15
+142,Girl,Paul Wall,35,2006-03-18,2006-07-01,707,16
+143,Wind It Up,Gwen Stefani,6,2006-11-18,2006-12-30,704,7
+144,Ever The Same,Rob Thomas,48,2006-01-21,2006-06-03,703,20
+145,Honky Tonk Badonkadonk,Trace Adkins,30,2006-01-07,2006-03-18,701,11
+146,My Little Girl,Tim McGraw,35,2006-09-30,2006-12-30,694,14
+147,Doing Too Much,Paula DeAnda Featuring Baby Bash,41,2006-05-20,2006-09-02,679,16
+148,Settle For A Slowdown,Dierks Bentley,42,2006-04-01,2006-07-29,676,18
+149,Show Me What You Got,JAY-Z,8,2006-10-21,2006-12-30,674,11
+150,Do I Make You Proud,Taylor Hicks,1,2006-07-01,2006-08-19,673,8
+151,When I'm Gone,Eminem,17,2006-01-07,2006-03-18,667,11
+152,Best Friend,50 Cent & Olivia,35,2006-03-11,2006-06-17,667,15
+153,Through Glass,Stone Sour,41,2006-08-19,2006-12-30,665,20
+154,Not Ready To Make Nice,Dixie Chicks,23,2006-05-06,2006-09-23,640,20
+155,Why,Jason Aldean,43,2006-03-18,2006-07-29,638,20
+156,Tim McGraw,Taylor Swift,44,2006-09-23,2006-12-30,622,15
+157,The Riddle,Five For Fighting,40,2006-07-29,2006-12-02,617,18
+158,Once In A Lifetime,Keith Urban,31,2006-09-16,2006-12-16,615,14
+159,Hung Up,Madonna,23,2006-01-07,2006-03-18,600,11
+160,Rodeo,Juvenile,41,2006-01-07,2006-04-15,595,15
+161,Me And My Gang,Rascal Flatts,50,2006-05-27,2006-09-09,583,16
+162,Stay Fly,Three 6 Mafia Featuring Young Buck & Eightball & MJG,18,2006-01-07,2006-02-25,577,8
+163,Perfect Situation,Weezer,51,2006-01-07,2006-04-15,577,15
+164,Don't Forget To Remember Me,Carrie Underwood,49,2006-05-06,2006-08-26,573,17
+165,Say I,Christina Milian Featuring Young Jeezy,21,2006-04-15,2006-07-08,571,13
+166,Walk Away (Remember Me),Paula DeAnda Featuring The DEY,22,2006-10-21,2006-12-30,570,11
+167,MakeDamnSure,Taking Back Sunday,48,2006-05-06,2006-09-02,570,18
+168,Control Myself,LL Cool J Featuring Jennifer Lopez,4,2006-03-11,2006-06-17,565,11
+169,Tell Me When To Go,E-40 Featuring Keak Da Sneak,35,2006-03-04,2006-06-10,565,15
+170,Suddenly I See,KT Tunstall,45,2006-07-29,2006-12-09,562,20
+171,Stay With You,Goo Goo Dolls,51,2006-04-22,2006-09-09,561,20
+172,Crazy Bitch,Buckcherry,59,2006-05-20,2006-09-30,556,20
+173,Get Drunk And Be Somebody,Toby Keith,47,2006-01-21,2006-06-03,555,20
+174,Turn It Up,Chamillionaire Featuring Lil' Flip,41,2006-01-07,2006-03-18,553,11
+175,Kryptonite (I'm On It),Purple Ribbon All-Stars,37,2006-01-07,2006-04-01,552,13
+176,I Love My B****,Busta Rhymes Featuring will.i.am & Kelis,41,2006-06-10,2006-08-26,551,12
+177,Breathe (2 AM),Anna Nalick,45,2006-06-03,2006-09-02,550,14
+178,Something's Gotta Give,LeAnn Rimes,51,2006-03-25,2006-07-22,534,18
+179,Tell Me Baby,Red Hot Chili Peppers,50,2006-09-02,2006-12-16,530,16
+180,Nasty Girl,"The Notorious B.I.G. Featuring Diddy, Nelly, Jagged Edge & Avery Storm",44,2006-01-07,2006-03-25,529,12
+181,Animal I Have Become,Three Days Grace,60,2006-05-06,2006-10-14,527,20
+182,King Without A Crown,Matisyahu,28,2006-02-04,2006-05-06,522,14
+183,Last Day Of My Life,Phil Vassar,47,2006-05-13,2006-08-12,522,14
+184,She's Everything,Brad Paisley,35,2006-10-21,2006-12-30,520,11
+185,A Little Too Late,Toby Keith,53,2006-06-03,2006-09-09,515,15
+186,"Steady, As She Goes",The Raconteurs,54,2006-05-27,2006-10-07,511,20
+187,Every Mile A Memory,Dierks Bentley,48,2006-08-26,2006-12-09,506,16
+188,Say It Right,Nelly Furtado,6,2006-11-25,2006-12-30,498,6
+189,I Call It Love,Lionel Richie,62,2006-08-05,2006-12-16,496,20
+190,Living In Fast Forward,Kenny Chesney,48,2006-01-28,2006-05-20,494,17
+191,DJ Play A Love Song,Jamie Foxx Featuring Twista,45,2006-05-06,2006-08-05,490,14
+192,Bring It On Home,Little Big Town,58,2006-06-10,2006-10-07,487,18
+193,I'm Sprung,T-Pain,20,2006-01-07,2006-02-18,486,7
+194,Give It Away,George Strait,35,2006-08-19,2006-12-23,484,19
+195,Breaking Free,"Zac Efron, Andrew Seeley & Vanessa Anne Hudgens",4,2006-02-04,2006-04-15,478,11
+196,Here It Goes Again,OK Go,38,2006-09-16,2006-12-30,478,16
+197,The Real Thing,Bo Bice,56,2006-03-25,2006-07-08,477,16
+198,That Girl,Frankie J Featuring Mannie Fresh & Chamillionaire,43,2006-08-26,2006-11-25,475,14
+199,Hustlin',Rick Ross,54,2006-05-20,2006-09-09,474,17
+200,Believe,Brooks & Dunn,60,2006-01-07,2006-05-13,472,18
+201,Soul Survivor,Young Jeezy Featuring Akon,14,2006-01-07,2006-02-11,456,6
+202,Fireman,Lil Wayne,37,2006-01-07,2006-03-11,454,10
+203,Must Be Doin' Somethin' Right,Billy Currington,44,2006-01-07,2006-03-04,453,9
+204,Promise,Ciara,11,2006-11-25,2006-12-30,448,6
+205,Everytime Tha Beat Drop,Monica Featuring Dem Franchize Boyz,48,2006-08-19,2006-12-02,441,16
+206,Put Your Records On,Corinne Bailey Rae,64,2006-07-15,2006-11-18,440,19
+207,Every Time I Hear Your Name,Keith Anderson,64,2006-04-22,2006-08-26,438,19
+208,4 Minutes,Avant,52,2006-03-25,2006-06-24,431,14
+209,Unappreciated,Cherish,41,2006-10-14,2006-12-30,426,12
+210,If It's Lovin' That You Want,Rihanna,36,2006-01-07,2006-03-04,425,9
+211,Make It Rain,Fat Joe Featuring Lil Wayne,30,2006-11-18,2006-12-30,417,7
+212,Life Ain't Always Beautiful,Gary Allan,61,2006-05-20,2006-09-02,400,16
+213,Looking For You,Kirk Franklin,61,2006-01-07,2006-04-22,399,16
+214,Push It,Rick Ross,57,2006-09-16,2006-12-16,390,14
+215,Take Me As I Am,Mary J. Blige,58,2006-10-07,2006-12-30,383,13
+216,Luxurious,Gwen Stefani,28,2006-01-07,2006-03-18,381,11
+217,Come Back To Me,Vanessa Hudgens,55,2006-09-30,2006-12-30,380,14
+218,Tell Me,Diddy Featuring Christina Aguilera,47,2006-11-04,2006-12-30,379,9
+219,Beverly Hills,Weezer,15,2006-01-07,2006-02-04,377,5
+220,Need A Boss,Shareefa Featuring Ludacris,62,2006-08-12,2006-12-09,374,18
+221,The Kill (Bury Me),30 Seconds To Mars,65,2006-08-05,2006-12-16,374,20
+222,Here We Go,Trina Featuring Kelly Rowland,27,2006-01-07,2006-02-18,370,7
+223,The Diary Of Jane,Breaking Benjamin,50,2006-08-12,2006-12-23,363,20
+224,Like We Never Loved At All,Faith Hill,50,2006-01-07,2006-02-25,361,8
+225,Boston,Augustana,54,2006-10-21,2006-12-30,361,11
+226,Boondocks,Little Big Town,46,2006-01-07,2006-03-11,358,10
+227,She Don't Tell Me To,Montgomery Gentry,62,2006-01-21,2006-04-29,355,15
+228,The Adventure,Angels & Airwaves,55,2006-04-29,2006-07-29,354,14
+229,Touch The Sky,Kanye West Featuring Lupe Fiasco,42,2006-02-25,2006-04-22,353,9
+230,Kerosene,Miranda Lambert,61,2006-01-07,2006-04-08,349,14
+231,Wake Me Up When September Ends,Green Day,19,2006-01-07,2006-02-04,342,5
+232,Chicken Noodle Soup.,Webstar & Young B Featuring The Voice Of Harlem,45,2006-09-23,2006-12-09,339,12
+233,Right Where You Want Me,Jesse McCartney,33,2006-09-23,2006-11-18,335,9
+234,Rush,Aly & AJ,59,2006-03-04,2006-05-13,334,11
+235,That's That,Snoop Dogg Featuring R. Kelly,20,2006-12-02,2006-12-30,331,5
+236,"A Little Less Sixteen Candles, A Little More Touch Me",Fall Out Boy,65,2006-04-08,2006-07-01,327,13
+237,Don't Cha,The Pussycat Dolls Featuring Busta Rhymes,29,2006-01-07,2006-02-04,326,5
+238,Wait A Minute,The Pussycat Dolls Featuring Timbaland,37,2006-11-25,2006-12-30,319,6
+239,Better Days,Goo Goo Dolls,48,2006-01-07,2006-02-18,319,7
+240,Who I Am Hates Who I've Been,Relient K,58,2006-01-07,2006-03-18,316,11
+241,Georgia,Ludacris & Field Mob Featuring Jamie Foxx,39,2006-01-07,2006-02-25,306,8
+242,Nobody But Me,Blake Shelton,60,2006-01-28,2006-05-13,302,14
+243,Can't Let Go,Anthony Hamilton,71,2006-03-18,2006-07-29,302,19
+244,Lights And Sounds,Yellowcard,50,2006-02-04,2006-04-08,301,10
+245,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,66,2006-08-05,2006-10-21,300,12
+246,Streetcorner Symphony,Rob Thomas,64,2006-10-07,2006-12-30,296,12
+247,Size Matters (Someday),Joe Nichols,71,2006-04-15,2006-07-15,295,14
+248,We Belong Together,Mariah Carey,37,2006-01-07,2006-02-04,293,5
+249,Oh Yes (aka 'Postman'),Juelz Santana,56,2006-01-28,2006-04-08,293,11
+250,Some People Change,Montgomery Gentry,57,2006-10-28,2006-12-30,293,10
+251,Watching You,Rodney Atkins,40,2006-11-18,2006-12-30,291,7
+252,Love Me Or Hate Me (F**k You!!!!),Lady Sovereign,45,2006-10-28,2006-12-09,281,7
+253,Wherever You Are,Jack Ingram,63,2006-03-25,2006-06-17,275,13
+254,Just Might (Make Me Believe),Sugarland,60,2006-01-07,2006-03-18,271,11
+255,Heard 'Em Say,Kanye West Featuring Adam Levine,35,2006-01-07,2006-02-11,266,6
+256,Always On Your Side,Sheryl Crow & Sting,33,2006-03-18,2006-05-06,262,8
+257,She Let Herself Go,George Strait,57,2006-01-07,2006-03-11,251,10
+258,Tequila Makes Her Clothes Fall Off,Joe Nichols,49,2006-01-07,2006-02-18,247,7
+259,Somewhere Over The Rainbow,Katharine McPhee,12,2006-07-15,2006-08-05,246,4
+260,I Luv It,Young Jeezy,14,2006-12-02,2006-12-30,246,5
+261,Keep Holding On,Avril Lavigne,17,2006-12-16,2006-12-30,245,3
+262,Rockstar,Nickelback,72,2006-10-14,2006-12-30,238,12
+263,Invisible,Ashlee Simpson,21,2006-08-05,2006-08-26,237,4
+264,You,Lloyd Featuring Lil Wayne,26,2006-11-25,2006-12-30,233,6
+265,It Just Comes Natural,George Strait,58,2006-11-18,2006-12-30,233,7
+266,Crash,Gwen Stefani,49,2006-02-11,2006-04-01,230,8
+267,Back Like That,Ghostface Killah Featuring Ne-Yo,61,2006-04-15,2006-06-17,227,10
+268,In My Mind,Heather Headley,75,2006-02-18,2006-05-27,225,15
+269,Gotta Go,Trey Songz,70,2006-01-07,2006-04-01,223,13
+270,Runaway Love,Ludacris Featuring Mary J. Blige,31,2006-12-02,2006-12-30,220,5
+271,It's Okay (One Blood),The Game Featuring Junior Reid,71,2006-09-02,2006-12-09,219,15
+272,Come A Little Closer,Dierks Bentley,49,2006-01-07,2006-02-04,217,5
+273,The Lucky One,Faith Hill,69,2006-04-08,2006-06-03,212,9
+274,Sunshine And Summertime,Faith Hill,70,2006-07-29,2006-09-30,203,10
+275,Amarillo Sky,Jason Aldean,65,2006-10-28,2006-12-30,200,10
+276,Single,Natasha Bedingfield,57,2006-06-24,2006-07-29,196,6
+277,Let's Ride,The Game,46,2006-12-02,2006-12-30,195,5
+278,I Should Have Cheated,Keyshia Cole,47,2006-01-07,2006-02-11,195,6
+279,Face Down,The Red Jumpsuit Apparatus,76,2006-08-05,2006-12-30,194,19
+280,It's Not Over,Daughtry,44,2006-12-09,2006-12-30,193,4
+281,Hypnotize,System Of A Down,57,2006-01-07,2006-02-18,189,7
+282,Swing,Trace Adkins,76,2006-07-08,2006-09-09,185,10
+283,Get'cha Head In The Game,Andrew Seeley,23,2006-02-04,2006-03-04,184,5
+284,Boyfriend,Ashlee Simpson,34,2006-01-07,2006-02-04,183,5
+285,The Saints Are Coming,U2 & Green Day,51,2006-12-02,2006-12-30,183,5
+286,Cheatin',Sara Evans,69,2006-01-28,2006-04-15,183,12
+287,Dem Jeans,Chingy Featuring Jermaine Dupri,59,2006-11-18,2006-12-30,182,7
+288,Soul Meets Body,Death Cab For Cutie,63,2006-01-07,2006-02-11,179,6
+289,Shake It Off,Mariah Carey,42,2006-01-07,2006-01-21,172,3
+290,Beautiful Love,The Afters,55,2006-04-08,2006-05-27,172,7
+291,Bat Country,Avenged Sevenfold,60,2006-01-07,2006-02-18,172,7
+292,Upgrade U,Beyonce Featuring Jay Z,59,2006-11-18,2006-12-30,170,7
+293,Here (In Your Arms),Hellogoodbye,62,2006-11-18,2006-12-30,170,7
+294,Hanging On,Cheyenne Kimball,53,2006-07-08,2006-08-19,166,6
+295,Unbreakable,Alicia Keys,55,2006-01-07,2006-02-04,166,5
+296,You Don't Know,"Eminem, 50 Cent, Lloyd Banks & Ca$his",12,2006-12-23,2006-12-30,165,2
+297,We Belong Together,Gavin DeGraw,26,2006-01-28,2006-02-11,164,3
+298,We Run This,Missy Elliott,48,2006-05-06,2006-06-03,162,5
+299,Sorry,Madonna,58,2006-03-11,2006-04-15,151,6
+300,Tu Amor,RBD,65,2006-11-04,2006-12-16,151,7
+301,World Wide Suicide,Pearl Jam,41,2006-04-01,2006-05-27,149,7
+302,Good Luck Charm,Jagged Edge,73,2006-04-22,2006-06-24,145,10
+303,Mountains,Lonestar,77,2006-09-09,2006-12-23,145,11
+304,Remember The Name,Fort Minor Featuring Styles Of Beyond,66,2006-09-30,2006-11-04,144,6
+305,Snow ((Hey Oh)),Red Hot Chili Peppers,49,2006-06-03,2006-12-30,143,5
+306,Betcha Can't Do It Like Me,D4L,72,2006-02-18,2006-04-08,138,8
+307,The Only Difference Between Martyrdom And Suicide Is Press Coverage,Panic! At The Disco,77,2006-04-01,2006-05-20,137,8
+308,My Old Friend,Tim McGraw,79,2006-01-07,2006-03-04,134,8
+309,Start Of Something New,"Zac Efron, Andrew Seeley & Vanessa Anne Hudgens",28,2006-02-11,2006-03-04,132,4
+310,Window Shopper,50 Cent,47,2006-01-07,2006-01-21,132,3
+311,Hate (I Really Don't Like You),Plain White T's,68,2006-11-18,2006-12-16,129,5
+312,Have A Nice Day,Bon Jovi,58,2006-01-07,2006-02-04,127,5
+313,What I've Been Looking For,Lucas Grabeel & Ashley Tisdale,35,2006-02-11,2006-02-25,121,3
+314,Break It Off,Rihanna & Sean Paul,54,2006-12-09,2006-12-30,121,4
+315,We're All In This Together,High School Musical Cast,34,2006-02-11,2006-03-04,117,4
+316,Chemicals React,Aly & AJ,50,2006-09-30,2006-10-21,117,4
+317,Wanted Dead Or Alive,Chris Daughtry,43,2006-06-10,2006-06-24,115,3
+318,Is It Any Wonder?,Keane,78,2006-07-08,2006-09-23,113,9
+319,Girl Tonite,Twista Featuring Trey Songz,52,2006-01-07,2006-01-21,111,3
+320,Twisted Transistor,Korn,66,2006-01-07,2006-02-04,109,5
+321,If We Were A Movie,Hannah Montana,47,2006-11-11,2006-12-02,105,4
+322,My Hood,Young Jeezy,77,2006-01-07,2006-04-01,103,10
+323,Who You'd Be Today,Kenny Chesney,66,2006-01-07,2006-01-28,102,4
+324,Holla At Me,"DJ Khaled Featuring Lil Wayne, Paul Wall, Fat Joe, Rick Ross & Pitbull",59,2006-06-24,2006-07-15,101,4
+325,What Goes Around...Comes Around,Justin Timberlake,38,2006-12-23,2006-12-30,100,2
+326,The Seashores Of Old Mexico,George Strait,85,2006-04-29,2006-06-10,98,7
+327,Ice Box,Omarion,57,2006-12-16,2006-12-30,96,3
+328,Show Me The Money,Petey Pablo,58,2006-09-02,2006-09-16,96,3
+329,Anna-Molly,Incubus,66,2006-12-16,2006-12-30,90,3
+330,Strut,The Cheetah Girls,53,2006-09-09,2006-09-16,89,2
+331,Miss Me Baby,Chris Cagle,78,2006-01-07,2006-02-04,88,5
+332,Stick To The Status Quo,High School Musical Cast,43,2006-02-11,2006-02-18,87,2
+333,Goodbye For Now,P.O.D.,48,2006-02-11,2006-02-18,84,2
+334,Poppin',Chris Brown Featuring Jay Biz,64,2006-12-16,2006-12-30,84,3
+335,Ghetto Story Chapter 2,Cham Featuring Alicia Keys,77,2006-07-01,2006-10-07,84,7
+336,Entourage,Omarion,78,2006-08-26,2006-09-23,84,5
+337,Goodbye My Lover,James Blunt,66,2006-02-18,2006-04-08,80,4
+338,Ridin' Rims,Dem Franchize Boyz,80,2006-06-10,2006-07-15,79,6
+339,Coming Undone,Korn,79,2006-07-08,2006-08-12,77,6
+340,Lost One,Jay-Z Featuring Chrisette Michele,60,2006-12-23,2006-12-30,76,2
+341,Save Room,John Legend,61,2006-11-11,2006-12-09,76,5
+342,Vans,The Pack,58,2006-09-16,2006-09-30,75,3
+343,Zoom,Lil' Boosie Featuring Yung Joc,70,2006-12-16,2006-12-30,74,3
+344,Yee Haw,Jake Owen,83,2006-07-15,2006-08-26,72,7
+345,Bring Out The Freak In You,Lil Rob,85,2006-02-25,2006-04-08,72,7
+346,Hip Hop Is Dead,Nas Featuring will.i.am,56,2006-12-23,2006-12-30,70,2
+347,Soundtrack To Your Life,Ashley Parker Angel,58,2006-06-03,2006-06-10,69,2
+348,DOA,Foo Fighters,78,2006-01-07,2006-01-28,66,4
+349,Seasons Of Love,Cast Of Rent,65,2006-01-07,2006-01-21,65,3
+350,Like Red On A Rose,Alan Jackson,80,2006-10-07,2006-11-04,65,5
+351,My Destiny,Katharine McPhee,60,2006-07-15,2006-07-22,63,2
+352,Takin' It To The Streets,Taylor Hicks,69,2006-06-10,2006-07-08,62,4
+353,Kick Push,Lupe Fiasco,78,2006-06-17,2006-07-15,62,5
+354,Nothing Left To Lose,Mat Kearney,91,2006-10-07,2006-12-30,62,8
+355,Number One,Pharrell Featuring Kanye West,57,2006-08-05,2006-08-19,61,3
+356,Don't Wait,Dashboard Confessional,80,2006-06-10,2006-07-22,58,4
+357,Say Somethin',Mariah Carey Featuring Snoop Dogg,79,2006-04-29,2006-05-27,56,5
+358,Remedy,Seether,70,2006-01-07,2006-01-21,54,3
+359,Bop To The Top,Lucas Grabeel & Ashley Tisdale,62,2006-02-11,2006-02-18,53,2
+360,River,Sarah McLachlan,71,2006-12-23,2006-12-30,53,2
+361,I Can't Hate You Anymore,Nick Lachey,87,2006-09-23,2006-10-28,52,6
+362,Happy Xmas (War Is Over),The Fray,50,2006-12-30,2006-12-30,51,1
+363,Into The Ocean,Blue October,66,2006-12-23,2006-12-30,51,2
+364,Cowboys Are Frequently Secretly (Fond Of Each Other),Willie Nelson,52,2006-03-04,2006-03-04,49,1
+365,Don't Bother,Shakira,73,2006-01-07,2006-01-14,49,2
+366,Scotty Doesn't Know,Lustra,75,2006-07-29,2006-08-05,49,2
+367,Love You,Jack Ingram,87,2006-10-28,2006-12-02,48,6
+368,A Great Big Sled,The Killers Featuring Toni Halliday,54,2006-12-23,2006-12-23,47,1
+369,Sleep On It,Danity Kane,64,2006-09-09,2006-09-16,47,2
+370,Shake,Ying Yang Twins Featuring Pitbull,64,2006-01-07,2006-01-14,47,2
+371,Better Life,Keith Urban,81,2006-01-07,2006-01-21,47,3
+372,Every Day Is Exactly The Same,Nine Inch Nails,56,2006-04-22,2006-04-22,45,1
+373,Hustler Musik,Lil Wayne,87,2006-04-29,2006-06-17,43,6
+374,Feels Just Like It Should,Pat Green,80,2006-09-09,2006-09-23,42,3
+375,Black Sweat,Prince,60,2006-03-11,2006-03-11,41,1
+376,Save Me,Shinedown,82,2006-01-07,2006-01-28,41,4
+377,Hands Up,Lloyd Banks Featuring 50 Cent,84,2006-09-16,2006-10-07,41,4
+378,Conceited (There's Something About Remy),Remy Ma,90,2006-04-01,2006-04-29,40,5
+379,Confessions Of A Broken Heart (Daughter To Father),Lindsay Lohan,62,2006-01-14,2006-01-14,39,1
+380,Pain,Three Days Grace,80,2006-12-16,2006-12-30,39,3
+381,In The Deep,Bird York,64,2006-03-25,2006-03-25,37,1
+382,Good Ride Cowboy,Garth Brooks,84,2006-01-07,2006-01-28,37,3
+383,"Mighty ""O""",OutKast,77,2006-06-24,2006-07-01,36,2
+384,Talk,Coldplay,86,2006-02-25,2006-04-08,35,6
+385,I Got Nerve,Hannah Montana,67,2006-11-11,2006-11-11,34,1
+386,What I've Been Looking For (Reprise),Andrew Seeley & Vanessa Anne Hudgens,67,2006-02-11,2006-02-11,34,1
+387,Skin (Sarabeth),Rascal Flatts,77,2006-01-07,2006-01-21,33,3
+388,Again And Again,Jewel,80,2006-05-20,2006-05-27,33,2
+389,In The Sun,Michael Stipe,69,2006-02-25,2006-02-25,32,1
+390,Top Back,T.I.,83,2006-12-23,2006-12-30,31,2
+391,Down,RKM & Ken-Y,90,2006-06-24,2006-07-29,31,3
+392,Who Said,Hannah Montana,83,2006-08-05,2006-11-18,30,3
+393,When There Was Me And You,Vanessa Anne Hudgens,72,2006-02-11,2006-02-11,29,1
+394,Canadian Idiot,"""Weird Al"" Yankovic",82,2006-10-21,2006-11-04,29,3
+395,How 'Bout You,Eric Church,85,2006-07-22,2006-08-12,28,4
+396,Lo Que Son Las Cosas,Anais,79,2006-04-15,2006-04-29,27,3
+397,Speak,Godsmack,85,2006-04-15,2006-05-13,27,3
+398,Dare,Gorillaz Featuring Shaun Ryder,87,2006-01-07,2006-03-25,27,5
+399,You Know My Name,Chris Cornell,79,2006-12-09,2006-12-16,26,2
+400,Original Fire,Audioslave,79,2006-08-05,2006-08-12,26,2
+401,Gold Lion,Yeah Yeah Yeahs,88,2006-04-01,2006-04-22,26,3
+402,Ay Chico (Lengua Afuera),Pitbull,92,2006-12-09,2006-12-30,26,4
+403,I Can't Unlove You,Kenny Rogers,93,2006-06-17,2006-07-15,26,5
+404,Crowded,Jeannie Ortega Featuring Papoose,93,2006-06-24,2006-08-19,26,5
+405,Stupid Boy,Keith Urban,82,2006-12-23,2006-12-30,25,2
+406,More Than Words,Frankie J,88,2006-01-07,2006-01-14,24,2
+407,The Pick Of Destiny,Tenacious D,78,2006-11-04,2006-11-04,23,1
+408,Ride For You,Danity Kane,78,2006-09-09,2006-09-09,23,1
+409,Labios Compartidos,Mana,82,2006-08-05,2006-09-09,23,3
+410,The Party's Just Begun,The Cheetah Girls,85,2006-09-09,2006-09-16,23,2
+411,Presidential,YoungBloodZ,86,2006-01-07,2006-01-14,23,2
+412,Ladies Love Country Boys,Trace Adkins,90,2006-12-23,2006-12-30,22,2
+413,Pumpin' Up The Party,Hannah Montana,81,2006-11-11,2006-11-11,20,1
+414,The Carpal Tunnel Of Love,Fall Out Boy,81,2006-12-30,2006-12-30,20,1
+415,I Got You,Craig Morgan,92,2006-06-03,2006-06-24,20,4
+416,Lost Without U,Robin Thicke,91,2006-12-23,2006-12-30,19,2
+417,Wings Of A Butterfly,HIM,87,2006-03-11,2006-03-18,18,2
+418,The Ghost Of You,My Chemical Romance,84,2006-01-14,2006-01-14,17,1
+419,Ser O Parecer,RBD,84,2006-12-16,2006-12-16,17,1
+420,The Other Side Of Me,Hannah Montana,84,2006-11-11,2006-11-11,17,1
+421,Tu Recuerdo,Ricky Martin Featuring La Mari De Chambao Y Tommy Torres,89,2006-12-16,2006-12-23,17,2
+422,Why We Thugs,Ice Cube,92,2006-06-24,2006-07-01,17,2
+423,Angelito,Don Omar,93,2006-06-24,2006-07-22,17,4
+424,Dangerous,Ying Yang Twins Featuring Wyclef,85,2006-12-16,2006-12-16,16,1
+425,Throw Some D's,Rich Boy Featuring Polow Da Don,86,2006-12-23,2006-12-30,16,2
+426,I Dare You,Shinedown,88,2006-05-20,2006-05-27,16,2
+427,One,Mary J. Blige And U2,86,2006-06-17,2006-06-17,15,1
+428,So Excited,Janet Featuring Khia,90,2006-10-14,2006-11-11,15,3
+429,Hit The Floor,Twista Featuring Pitbull,94,2006-01-07,2006-01-28,14,3
+430,Love Like Winter,AFI,88,2006-12-30,2006-12-30,13,1
+431,Our Country,John Mellencamp,88,2006-11-11,2006-11-11,13,1
+432,8th Of November,Big & Rich,94,2006-07-22,2006-07-29,13,2
+433,Wasteland,10 Years,94,2006-04-01,2006-04-08,13,2
+434,This Is The Life,Hannah Montana,89,2006-11-11,2006-11-11,12,1
+435,When Your Heart Stops Beating,(+44),89,2006-12-02,2006-12-02,12,1
+436,Comin' To Your City,Big & Rich,89,2006-01-14,2006-01-14,12,1
+437,Little Bit Of Life,Craig Morgan,94,2006-12-16,2006-12-30,12,3
+438,Red High Heels,Kellie Pickler,94,2006-11-18,2006-12-30,12,3
+439,Bojangles,Pitbull,91,2006-07-22,2006-07-22,10,1
+440,Best Of Both Worlds,Hannah Montana,92,2006-08-12,2006-08-12,9,1
+441,The Sweet Escape,Gwen Stefani Featuring Akon,93,2006-12-30,2006-12-30,8,1
+442,Change Me,Ruben Studdard,94,2006-11-18,2006-11-18,7,1
+443,Best I Ever Had,Gary Allan,94,2006-01-14,2006-01-14,7,1
+444,Lo Que Me Gusta A Mi,Juanes,94,2006-04-15,2006-04-15,7,1
+445,One Wing In The Fire,Trent Tomlinson,96,2006-12-23,2006-12-30,7,2
+446,Animals,Nickelback,97,2006-02-25,2006-04-08,7,3
+447,Morris Brown,OutKast Featuring Scar & Sleepy Brown,95,2006-09-09,2006-09-09,6,1
+448,Stricken,Disturbed,95,2006-01-14,2006-01-14,6,1
+449,I'll Be Home For Christmas (Live),Josh Groban,95,2006-12-30,2006-12-30,6,1
+450,Rakata,Wisin & Yandel,96,2006-01-07,2006-01-07,5,1
+451,Greatest Time Of Year,Aly & AJ,96,2006-12-09,2006-12-09,5,1
+452,Crash Here Tonight,Toby Keith,96,2006-11-18,2006-11-18,5,1
+453,Long Way 2 Go,Cassie,97,2006-11-04,2006-11-11,5,2
+454,Fix You,Coldplay,97,2006-01-14,2006-01-14,4,1
+455,High School Never Ends,Bowling For Soup,97,2006-11-25,2006-11-25,4,1
+456,I Am Not My Hair,India.Arie,97,2006-06-03,2006-06-03,4,1
+457,Ni Una Sola Palabra,Paulina Rubio,98,2006-09-30,2006-10-07,4,2
+458,"Why, Why, Why",Billy Currington,99,2006-08-05,2006-08-19,4,3
+459,Fidelity,Regina Spektor,98,2006-12-30,2006-12-30,3,1
+460,Pretty Vegas,INXS,98,2006-01-14,2006-01-14,3,1
+461,Kingdom Come,JAY-Z,98,2006-12-09,2006-12-09,3,1
+462,Just Like You,Hannah Montana,99,2006-11-11,2006-11-11,2,1
+463,Save The Last Dance For Me,Michael Buble,99,2006-04-29,2006-04-29,2,1
+464,Superman,Brown Boy,99,2006-10-07,2006-10-07,2,1
+465,A La Primera Persona,Alejandro Sanz,100,2006-11-25,2006-11-25,1,1
+466,Saving Grace,Tom Petty,100,2006-07-22,2006-07-22,1,1
+467,High,James Blunt,100,2006-06-24,2006-06-24,1,1
+468,Tengo Un Amor,Toby Love Featuring Rakim & Ken-Y,100,2006-11-18,2006-11-18,1,1
+469,The Way I Live,Baby Boy Da Prince Featuring Lil Boosie,100,2006-12-30,2006-12-30,1,1
+470,Llame Pa' Verte,Wisin & Yandel,100,2006-04-08,2006-04-08,1,1
+471,Idlewild Blue (Don'tchu Worry 'Bout Me),OutKast,100,2006-09-16,2006-09-16,1,1

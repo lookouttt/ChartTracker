@@ -1,0 +1,605 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,The Temptations Greatest Hits,The Temptations,1,1966-12-17,1969-02-15,2267,114
+2,Aretha: Lady Soul,Aretha Franklin,1,1968-02-24,1969-02-22,2080,53
+3,Cloud Nine,The Temptations,1,1969-03-15,1969-12-27,1800,42
+4,Hickory Holler Revisited,O.C. Smith,1,1968-07-06,1969-05-31,1764,48
+5,The Ice Man Cometh,Jerry Butler,2,1969-01-04,1969-12-13,1740,50
+6,A Day In The Life,Wes Montgomery,2,1967-10-28,1969-01-04,1705,63
+7,"Live At The Apollo, Volume II",James Brown,2,1968-09-07,1969-07-05,1629,44
+8,The Electrifying Eddie Harris,Eddie Harris,2,1968-03-16,1969-01-18,1607,45
+9,Are You Experienced?,Jimi Hendrix,10,1967-10-14,1969-02-22,1513,69
+10,Aretha Now,Aretha Franklin,1,1968-07-13,1969-03-08,1508,35
+11,Wish It Would Rain,The Temptations,1,1968-05-25,1969-03-01,1489,41
+12,The Temptations In A Mellow Mood,The Temptations,1,1967-12-23,1969-02-22,1462,58
+13,Stand!,Sly & The Family Stone,3,1969-05-03,1969-12-27,1423,35
+14,Diana Ross And The Supremes Greatest Hits,Diana Ross & The Supremes,1,1967-09-30,1969-03-01,1378,58
+15,Feliciano!,Jose Feliciano,3,1968-07-20,1969-03-15,1367,35
+16,There Is,The Dells,4,1968-05-18,1969-02-08,1357,39
+17,The Dock Of The Bay,Otis Redding,1,1968-03-23,1968-11-30,1288,37
+18,Valley Of The Dolls,Dionne Warwick,2,1968-03-09,1968-11-16,1280,37
+19,Memphis Underground,Herbie Mann,2,1969-05-24,1969-12-27,1242,32
+20,History Of Otis Redding,Otis Redding,1,1968-01-06,1968-11-30,1240,48
+21,Aretha Franklin: Soul '69,Aretha Franklin,1,1969-02-15,1969-09-20,1186,32
+22,Hot Buttered Soul,Isaac Hayes,1,1969-07-12,1969-12-27,1183,25
+23,Time Peace/The Rascals' Greatest Hits,The Rascals,4,1968-07-13,1969-02-22,1174,33
+24,I Never Loved A Man The Way I Love You,Aretha Franklin,1,1967-04-08,1968-08-10,1151,66
+25,TCB,Diana Ross & The Supremes With The Temptations,1,1969-01-04,1969-07-12,1135,28
+26,Diana Ross & The Supremes Join The Temptations,Diana Ross & The Supremes,1,1968-12-07,1969-07-12,1096,32
+27,Lou Rawls Live,Lou Rawls,1,1966-04-30,1967-07-08,1093,63
+28,In The Groove,Marvin Gaye,2,1968-10-12,1969-05-03,1090,30
+29,Live At The Copa,The Temptations,2,1969-01-04,1969-07-19,1088,29
+30,Grazin',The Friends Of Distinction,10,1969-05-10,1969-12-27,1056,34
+31,Aretha's Gold,Aretha Franklin,1,1969-07-19,1969-12-27,1051,24
+32,"Promises, Promises",Dionne Warwick,7,1968-12-28,1969-07-12,1041,29
+33,Special Occasion,Smokey Robinson & The Miracles,1,1968-09-28,1969-04-19,1038,30
+34,M.P.G.,Marvin Gaye,1,1969-06-07,1969-12-27,1031,30
+35,The Promise Of A Future,Hugh Masekela,2,1968-06-08,1968-12-07,1009,27
+36,"Greatest Hits, Vol. 2",The Miracles,2,1968-02-24,1969-01-25,1003,48
+37,The Way It Was - The Way It Is,Lou Rawls,6,1969-06-07,1969-12-27,990,30
+38,Soulful Strut,Young-Holt Unlimited,2,1969-01-04,1969-07-05,984,27
+39,The Four Tops Greatest Hits,Four Tops,2,1967-09-30,1968-12-21,970,46
+40,The Immortal Otis Redding,Otis Redding,3,1968-07-13,1969-01-18,951,28
+41,Easy,Nancy Wilson,5,1968-06-01,1968-11-16,917,25
+42,It's Our Thing,The Isley Brothers,2,1969-04-26,1969-10-04,907,24
+43,Uptight,Booker T. & The MG's,7,1969-02-08,1969-10-04,900,31
+44,A Portrait Of Ray,Ray Charles,5,1968-04-20,1968-10-26,892,28
+45,The Time Has Come,The Chambers Brothers,6,1968-02-03,1969-02-22,869,37
+46,"Dionne Warwick's Golden Hits, Part One",Dionne Warwick,3,1967-11-18,1968-12-21,867,58
+47,Soulful,Dionne Warwick,2,1969-04-05,1969-09-20,865,25
+48,Down Here On The Ground,Wes Montgomery,4,1968-05-11,1968-11-30,863,30
+49,Lou Rawls Soulin',Lou Rawls,1,1966-09-03,1967-07-01,849,44
+50,"To Russell, My Brother, Whom I Slept With",Bill Cosby,6,1968-04-13,1968-10-26,841,29
+51,Who's Making Love...,Johnnie Taylor,5,1969-01-25,1969-12-27,836,28
+52,The Age Of Aquarius,The 5th Dimension,2,1969-06-07,1969-10-18,816,20
+53,It's A Mother,James Brown,2,1969-08-30,1969-12-27,803,18
+54,Love Is Blue,The Dells,3,1969-08-23,1969-12-27,803,19
+55,Time Out For Smokey Robinson & The Miracles,The Miracles,3,1969-08-02,1969-12-27,796,22
+56,This Is My Country,The Impressions,5,1968-11-16,1969-05-10,790,26
+57,My Whole World Ended,David Ruffin,1,1969-06-21,1969-11-15,782,22
+58,"Blood, Sweat & Tears","Blood, Sweat & Tears",15,1969-04-26,1969-12-27,769,36
+59,The Temptations Show,The Temptations,2,1969-08-09,1969-12-20,755,20
+60,Greatest Hits,Stevie Wonder,6,1968-05-04,1969-01-11,748,37
+61,Cheap Thrills,Big Brother And The Holding Company,7,1968-10-12,1969-03-15,747,23
+62,The Dells Greatest Hits,The Dells,9,1969-06-14,1969-12-27,743,29
+63,Aretha In Paris,Aretha Franklin,2,1968-11-30,1969-04-19,732,21
+64,Stone Soul,Mongo Santamaria,6,1969-03-08,1969-08-09,732,23
+65,Four Tops Reach Out,Four Tops,3,1967-08-12,1968-09-07,725,52
+66,Aretha Arrives,Aretha Franklin,1,1967-08-26,1968-03-02,722,28
+67,Live & Well,B.B. King,11,1969-06-28,1969-12-27,722,27
+68,The Worm,Jimmy McGriff,10,1968-12-28,1969-06-07,692,24
+69,Look Around,Sergio Mendes,16,1968-06-01,1969-01-18,691,34
+70,Love Child,The Supremes,3,1968-12-07,1969-05-17,686,24
+71,James Brown Plays & Directs The Popcorn,James Brown,4,1969-08-23,1969-12-27,683,19
+72,Groovin' With The Soulful Strings,The Soulful Strings,6,1967-12-02,1968-06-29,679,31
+73,Wheels Of Fire,Cream,11,1968-08-17,1969-02-15,675,26
+74,With A Lot O' Soul,The Temptations,1,1967-08-12,1968-04-13,671,30
+75,Temptations Live!,The Temptations,1,1967-04-01,1967-09-23,663,26
+76,Fool On The Hill,Sergio Mendes,10,1968-12-07,1969-05-24,663,25
+77,You're All I Need,Marvin Gaye & Tammi Terrell,4,1968-09-21,1969-01-25,654,19
+78,We're A Winner,The Impressions,4,1968-03-02,1968-07-13,645,20
+79,Reflections,The Supremes,3,1968-05-04,1968-11-09,632,28
+80,For Once In My Life,Stevie Wonder,4,1969-01-11,1969-05-17,624,19
+81,Say It Loud-I'm Black And I'm Proud,James Brown,6,1969-04-12,1969-08-16,620,19
+82,Mother Nature's Son,Ramsey Lewis,10,1969-03-08,1969-11-08,620,30
+83,Gettin' Ready,The Temptations,1,1966-07-09,1967-02-04,615,31
+84,The Supremes A' Go-Go,The Supremes,1,1966-09-24,1967-06-10,611,35
+85,Here Where There Is Love,Dionne Warwick,1,1967-02-25,1968-03-16,611,49
+86,Four Tops Live!,Four Tops,1,1966-12-17,1967-07-29,595,33
+87,Let Us Go Into The House Of The Lord,The Edwin Hawkins Singers,5,1969-05-17,1969-09-20,595,19
+88,Stoned Soul Picnic,The 5th Dimension,10,1968-08-24,1968-12-21,593,18
+89,Feelin' Bluesy,Gladys Knight And The Pips,12,1968-05-25,1968-10-12,584,21
+90,Maiden Voyage,Ramsey Lewis,14,1968-08-03,1969-01-18,579,25
+91,Love Man,Otis Redding,8,1969-07-26,1969-12-06,575,20
+92,Puzzle People,The Temptations,1,1969-10-11,1969-12-27,574,12
+93,Dionne Warwick's Greatest Motion Picture Hits,Dionne Warwick,10,1969-08-16,1969-12-27,574,20
+94,Sound Of Sexy Soul,The Delfonics,8,1969-02-22,1969-06-28,559,19
+95,Otis Redding In Person At The Whisky A Go Go,Otis Redding,7,1968-12-07,1969-04-05,558,18
+96,"The Good, The Bad And The Ugly",Soundtrack,10,1968-04-06,1968-08-24,553,21
+97,The Best Of Wilson Pickett,Wilson Pickett,9,1967-11-18,1968-05-25,551,28
+98,Silk N' Soul,Gladys Knight And The Pips,11,1969-01-04,1969-06-14,549,24
+99,Lou Rawls Carryin' On!,Lou Rawls,2,1967-01-28,1967-08-05,544,28
+100,The Dells Musical Menu/Always Together,The Dells,9,1969-03-01,1969-07-12,538,20
+101,Plug Me In,Eddie Harris,10,1968-08-03,1969-02-08,537,21
+102,Ice On Ice,Jerry Butler,4,1969-09-27,1969-12-27,531,14
+103,For Once In My Life,O.C. Smith,8,1969-03-22,1969-07-19,531,18
+104,I Can't Stand Myself (When You Touch Me),James Brown,4,1968-03-23,1968-06-29,528,15
+105,Feelin' Good,Lou Rawls,10,1968-03-09,1968-07-06,515,18
+106,Tequila,Wes Montgomery,4,1966-08-27,1967-04-01,514,32
+107,Yesterday's Dreams,Four Tops,7,1968-10-05,1969-02-08,513,19
+108,Live!,The Miracles,6,1969-02-15,1969-06-07,510,17
+109,My Cherie Amour,Stevie Wonder,3,1969-10-11,1969-12-27,508,12
+110,Electric Ladyland,The Jimi Hendrix Experience,5,1968-11-02,1969-03-08,506,19
+111,The Booker T. Set,Booker T. & The MG's,10,1969-06-14,1969-10-18,498,19
+112,Let The Sunshine In,The Supremes,7,1969-06-28,1969-10-18,491,17
+113,The Supremes Sing Holland-Dozier-Holland,The Supremes,1,1967-02-18,1967-08-05,489,25
+114,Can I Change My Mind,Tyrone Davis,12,1969-03-15,1969-07-12,488,18
+115,I Got The Feelin',James Brown,8,1968-05-18,1968-08-24,482,15
+116,Greatest Hits,Jr. Walker & The All Stars,19,1969-07-05,1969-12-06,473,23
+117,Souled,Jose Feliciano,4,1968-12-07,1969-03-15,471,15
+118,Revenge,Bill Cosby,1,1967-06-10,1967-11-11,469,23
+119,The Young Mods' Forgotten Story,The Impressions,21,1969-05-10,1969-11-15,468,25
+120,Let's Fall In Love,Peaches & Herb,4,1967-03-18,1967-09-09,465,26
+121,The Exciting Wilson Pickett,Wilson Pickett,3,1966-08-27,1967-02-25,463,27
+122,King & Queen,Otis Redding,5,1967-04-15,1967-10-21,462,25
+123,Crying Time,Ray Charles,1,1966-03-05,1966-09-17,460,29
+124,Make It Happen,The Miracles,3,1967-09-30,1968-03-02,457,23
+125,Gettin' Down To It,James Brown,14,1969-05-24,1969-09-06,454,16
+126,Hey Jude,Wilson Pickett,15,1969-02-22,1969-06-21,445,18
+127,Once Upon A Dream,The Rascals,7,1968-03-16,1968-08-10,441,22
+128,California Dreaming,Wes Montgomery,4,1967-03-11,1967-09-23,438,29
+129,Four Tops Now!,Four Tops,18,1969-07-19,1969-11-29,436,20
+130,Live At London's Talk Of The Town,The Supremes,22,1968-10-05,1969-02-15,435,20
+131,Temptin' Temptations,The Temptations,1,1965-12-04,1966-07-23,433,34
+132,United,Tammi Terrell,7,1967-10-07,1968-03-02,425,22
+133,Doin' Our Thing,Booker T. & The MG's,17,1968-04-06,1968-09-28,410,26
+134,High Voltage,Eddie Harris,11,1969-08-16,1969-12-06,405,17
+135,Cowboys To Girls,The Intruders,11,1968-07-13,1968-11-02,404,17
+136,Too Much!,Lou Rawls,2,1967-05-20,1967-09-16,399,18
+137,Axis: Bold As Love,The Jimi Hendrix Experience,6,1968-02-17,1968-06-01,398,16
+138,The Sweet Inspirations,The Sweet Inspirations,12,1968-04-06,1968-07-06,398,14
+139,I'm In Love,Wilson Pickett,9,1968-02-17,1968-06-01,397,16
+140,Soul Children,The Soul Children,9,1969-10-11,1969-12-27,396,12
+141,Son Of A Preacher Man,Nancy Wilson,20,1969-07-05,1969-12-06,390,23
+142,Wade In The Water,Ramsey Lewis,2,1966-09-03,1967-01-28,384,22
+143,Up-Tight Everything's Alright,Stevie Wonder,2,1966-05-28,1966-11-05,383,24
+144,"Mercy, Mercy, Mercy!",Cannonball Adderley Quintet,1,1967-02-25,1967-07-08,381,20
+145,Respect,Jimmy Smith,3,1967-10-21,1968-05-25,381,26
+146,The Soul Album,Otis Redding,3,1966-05-07,1966-11-12,373,28
+147,Color Him Father,The Winstons,12,1969-08-09,1969-11-22,366,16
+148,Together,Diana Ross & The Supremes,6,1969-10-25,1969-12-27,365,10
+149,200 M.P.H.,Bill Cosby,18,1968-11-02,1969-02-15,363,16
+150,Everybody Needs Love,Gladys Knight And The Pips,12,1967-10-28,1968-04-20,357,26
+151,Groovin',The Rascals,7,1967-08-19,1967-12-23,347,19
+152,Tighten Up,Archie Bell & The Drells,15,1968-05-25,1968-10-19,345,22
+153,Hip Hug-Her,Booker T. & The MG's,4,1967-06-24,1967-10-21,341,18
+154,The Wicked Pickett,Wilson Pickett,5,1967-01-14,1967-06-03,336,21
+155,You Devil You,FLiP,18,1968-06-01,1968-09-07,336,15
+156,Cowboys & Colored People,FLiP,14,1967-08-26,1968-05-25,335,28
+157,Feliciano/10 To 23,Jose Feliciano,15,1969-07-19,1969-10-04,334,12
+158,The Midnight Mover,Wilson Pickett,10,1968-07-20,1968-09-21,333,10
+159,4 Tops On Top,Four Tops,3,1966-08-27,1966-12-24,331,18
+160,The Chokin' Kind,Joe Simon,18,1969-06-14,1969-09-20,329,15
+161,Away We A Go-Go,The Miracles,3,1966-12-17,1967-04-22,327,19
+162,Collections,The Rascals,5,1967-03-11,1967-09-02,324,25
+163,Soul Limbo,Booker T. & The MG's,14,1968-10-05,1968-12-21,324,12
+164,25 Miles,Edwin Starr,9,1969-05-17,1969-07-19,321,10
+165,It's True! It's True!,Bill Cosby,21,1969-02-15,1969-06-07,320,17
+166,Live At The Garden,James Brown,5,1967-06-17,1967-09-23,318,15
+167,I Have A Dream,"Rev. Martin Luther King, Jr.",10,1968-05-04,1968-07-06,317,10
+168,Super Hits,Various Artists,6,1967-08-19,1968-04-13,314,21
+169,The Best Of The Impressions,The Impressions,23,1968-09-14,1969-02-01,314,15
+170,Nancy-Naturally,Nancy Wilson,4,1967-02-04,1967-06-17,309,20
+171,Got My Mojo Workin',Jimmy Smith,1,1966-03-12,1966-08-27,305,22
+172,Soul Message,"Richard ""Groove"" Holmes",3,1966-05-07,1966-11-19,300,27
+173,O.C. Smith At Home,O.C. Smith,7,1969-10-18,1969-12-27,300,11
+174,The Intruders Greatest Hits,The Intruders,19,1969-02-01,1969-05-10,299,14
+175,Complete & Unbelievable....The Otis Redding Dictionary Of Soul,Otis Redding,5,1966-11-19,1967-04-15,289,22
+176,La La Means I Love You,The Delfonics,15,1968-06-01,1969-02-15,289,14
+177,Going To A Go-Go,Smokey Robinson & The Miracles,1,1965-12-04,1966-06-11,288,28
+178,Smash Hits,The Jimi Hendrix Experience,22,1969-08-23,1969-12-13,283,17
+179,Marvin Gaye And His Girls,Marvin Gaye,16,1969-06-14,1969-08-16,282,10
+180,Sweet Soul Shakin,Young Hearts,13,1969-05-31,1969-08-09,280,11
+181,The Best Of Lou Rawls,Lou Rawls,19,1968-08-17,1968-11-30,279,16
+182,Black And White,Tony Joe White,29,1969-08-09,1969-11-22,279,16
+183,The Supremes Sing Rodgers & Hart,The Supremes,3,1967-06-17,1967-10-14,278,18
+184,The Best Of Nancy Wilson,Nancy Wilson,23,1968-08-31,1968-11-30,274,14
+185,"Dionne Warwick's Golden Hits, Part 2",Dionne Warwick,9,1969-11-01,1969-12-27,271,9
+186,Dance To The Music,Sly & The Family Stone,11,1968-04-27,1968-06-29,265,10
+187,Hold Me Tight,Johnny Nash,23,1968-12-07,1969-03-01,263,13
+188,Up Pops Ramsey Lewis,Ramsey Lewis,25,1968-04-20,1968-10-05,261,22
+189,Ridin' High,Martha & The Vandellas,13,1968-06-01,1968-08-10,260,11
+190,Nitty Gritty,Gladys Knight And The Pips,12,1969-10-25,1969-12-27,256,10
+191,Tender Loving Care,Nancy Wilson,3,1966-08-27,1966-12-31,255,19
+192,Green River,Creedence Clearwater Revival,26,1969-09-27,1969-12-27,255,14
+193,Ray's Moods,Ray Charles,7,1966-10-01,1967-02-11,254,20
+194,Cold Sweat,James Brown,5,1967-09-16,1967-12-16,251,14
+195,The Beat Goes On,Vanilla Fudge,11,1968-03-09,1968-05-25,250,12
+196,In Person,Ike & Tina Turner,19,1969-08-09,1969-10-18,248,11
+197,The Temptations Sing Smokey,The Temptations,1,1965-03-27,1965-10-09,246,29
+198,John W. Anderson Presents KaSandra,K,26,1968-11-23,1969-03-22,244,18
+199,Raw Blues,Johnnie Taylor,24,1969-05-10,1969-07-19,241,11
+200,"Hold On, I'm Comin'",Sam & Dave,1,1966-07-30,1966-12-03,240,19
+201,I Was Made To Love Her,Stevie Wonder,7,1967-09-30,1967-12-23,237,13
+202,Road Runner,Jr. Walker & The All Stars,6,1966-08-27,1966-12-24,236,18
+203,Silver Cycles,Eddie Harris,29,1969-02-22,1969-05-31,236,15
+204,I Got Dem Ol' Kozmic Blues Again Mama!,Janis Joplin,23,1969-10-18,1969-12-27,233,11
+205,The Dynamic Clarence Carter,Clarence Carter,22,1969-02-22,1969-05-31,232,15
+206,Soul Men,Sam & Dave,5,1967-11-18,1968-02-17,228,14
+207,Spotlighting The Man,Bobby Bland,24,1969-09-13,1969-12-13,228,14
+208,Tell Mama,Etta James,21,1968-03-16,1968-05-25,225,11
+209,Goin' Out Of My Head,Wes Montgomery,7,1966-03-26,1966-08-27,223,23
+210,Tom Jones Live In Las Vegas,Tom Jones,6,1969-11-22,1969-12-27,222,6
+211,Bobby Taylor And The Vancouvers,Bobby Taylor & The Vancouvers,20,1968-09-21,1968-11-23,221,10
+212,The Delfonics Super Hits,The Delfonics,10,1969-11-22,1969-12-27,219,6
+213,Highly Distinct,The Friends Of Distinction,14,1969-10-25,1969-12-27,219,10
+214,"The Super Hits, Vol. 3",Various Artists,16,1968-12-28,1969-02-15,219,8
+215,The Meters,The Meters,23,1969-06-21,1969-09-27,217,15
+216,Sam Cooke At The Copa,Sam Cooke,1,1965-01-30,1966-04-02,216,27
+217,I'm All Yours-Baby!,Ray Charles,25,1969-05-10,1969-07-19,215,11
+218,A Touch Of Today,Nancy Wilson,4,1966-05-28,1966-09-24,207,18
+219,River Deep-Mountain High,Ike & Tina Turner,28,1969-10-04,1969-12-27,206,13
+220,James Brown Presents His Show Of Tomorrow,James Brown,13,1968-03-09,1968-05-11,203,10
+221,Pata Pata,Miriam Makeba,10,1967-12-09,1968-05-04,202,16
+222,I Hear A Symphony,The Supremes,1,1966-03-19,1966-07-23,200,19
+223,Gotta Travel On,Ray Bryant,5,1966-06-18,1966-10-22,199,19
+224,Ode To Billie Joe,Bobbie Gentry,5,1967-10-14,1967-12-30,195,12
+225,Living Soul,"Richard ""Groove"" Holmes",3,1966-10-08,1967-01-14,194,15
+226,Double Dynamite,Sam & Dave,7,1967-01-07,1967-04-15,194,15
+227,Otis Redding Live In Europe,Otis Redding,8,1967-08-12,1968-04-06,194,20
+228,Live And Lively,Joe Tex,13,1968-02-17,1968-05-18,194,14
+229,The Five Stairsteps,The Five Stairsteps,8,1967-03-04,1967-05-27,192,13
+230,Wild Is The Wind,Nina Simone,12,1966-09-10,1967-01-14,192,19
+231,A Change Is Gonna Come,Brother Jack McDuff,10,1966-08-20,1966-12-10,189,17
+232,Love's Happening,The Five Stairsteps,22,1969-05-03,1969-07-05,189,10
+233,The Best Of Bill Cosby,Bill Cosby,34,1969-09-06,1969-12-27,189,17
+234,Just For Now,Nancy Wilson,8,1967-06-03,1967-08-19,187,12
+235,When A Man Loves A Woman,Percy Sledge,2,1966-06-04,1966-08-20,186,12
+236,The Best Of Sam & Dave,Sam & Dave,24,1969-03-01,1969-05-24,181,13
+237,On Top,Willie Mitchell,28,1969-03-01,1969-05-10,178,11
+238,"Up, Up And Away",The 5th Dimension,10,1967-07-29,1968-07-20,177,16
+239,The Windows Of The World,Dionne Warwick,11,1967-09-16,1968-02-10,173,22
+240,Home Cookin',Jr. Walker & The All Stars,26,1969-02-15,1969-04-05,171,8
+241,Say It Loud!,Lou Donaldson,27,1969-03-29,1969-06-14,171,11
+242,Carla,Carla Thomas,7,1966-10-22,1967-03-04,169,16
+243,Give It Away,The Chi-lites,16,1969-09-13,1969-10-25,168,7
+244,Jimmy & Wes The Dynamic Duo,Jimmy Smith,10,1967-05-27,1967-08-12,166,12
+245,Soul Serenade,Willie Mitchell,22,1968-05-04,1968-06-22,166,8
+246,A New Time-A New Day,The Chambers Brothers,24,1968-11-02,1968-12-28,166,9
+247,The Best Of Percy Sledge,Percy Sledge,27,1969-03-08,1969-05-10,165,10
+248,On Stage and in The Movies,Dionne Warwick,11,1967-04-15,1967-07-01,164,12
+249,Aretha Franklin's Greatest Hits,Aretha Franklin,10,1967-06-17,1969-11-01,162,11
+250,Ridin' High,The Impressions,4,1966-03-12,1966-08-13,161,15
+251,The Sound Of Wilson Pickett,Wilson Pickett,7,1967-08-12,1967-09-30,160,8
+252,Memphis Queen,Carla Thomas,26,1969-06-28,1969-08-16,160,8
+253,Take Time To Know Her,Percy Sledge,27,1968-05-25,1968-07-27,159,10
+254,The In Crowd,Ramsey Lewis Trio,1,1965-08-14,1965-12-18,158,19
+255,That's Lou,Lou Rawls,5,1967-08-26,1967-11-04,157,11
+256,Greatest Hits From The Beginning,The Miracles,2,1965-04-17,1965-09-25,155,24
+257,The Graduate,Soundtrack,32,1968-05-18,1968-08-24,155,15
+258,Cream Of The Crop,The Supremes,3,1969-11-29,1969-12-27,154,5
+259,Soft And Beautiful,Aretha Franklin,29,1969-04-26,1969-06-21,152,9
+260,This Is Soul,Various Artists,22,1968-03-30,1968-05-25,150,9
+261,The Soul Goes On,Jerry Butler,25,1968-08-24,1968-10-19,150,9
+262,Unbelievable,Billy Stewart,7,1966-03-26,1966-07-23,149,18
+263,Moog - The Electric Eclectics Of Dick Hyman,Dick Hyman,35,1969-07-26,1969-11-15,149,17
+264,The Brothers: Isley,The Isley Brothers,20,1969-11-22,1969-12-27,147,6
+265,The Great March To Freedom,"Rev. Martin Luther King, Jr.",20,1968-05-11,1968-06-22,145,7
+266,Greatest Hits,Martha & The Vandellas,6,1966-06-11,1966-09-03,144,13
+267,Ray Charles Invites You To Listen,Ray Charles,9,1967-07-15,1967-10-14,144,14
+268,Lighthouse '68,The Crusaders,30,1968-08-03,1968-09-28,144,9
+269,James Brown Plays Nothing But Soul,James Brown,20,1968-08-17,1968-09-21,143,6
+270,Soul Bag,Mongo Santamaria,31,1968-06-08,1968-12-14,143,12
+271,Manufacturers Of Soul,Count Basie,18,1968-05-18,1968-06-15,142,5
+272,Dionne Warwick In Paris,Dionne Warwick,3,1966-04-23,1966-07-02,141,11
+273,Four Tops Second Album,Four Tops,3,1965-12-04,1966-04-30,141,20
+274,Doing His Thing,Ray Charles,34,1969-07-12,1969-10-11,141,14
+275,Shotgun,Jr. Walker & The All Stars,1,1965-07-03,1965-11-27,140,22
+276,Mellow Yellow,Odell Brown & The Organ-Izers,13,1967-08-05,1967-10-07,140,10
+277,Moods Of Marvin Gaye,Marvin Gaye,8,1966-06-25,1966-10-15,139,17
+278,Warm & Tender Soul,Percy Sledge,9,1966-11-19,1967-03-11,139,17
+279,Hang On Ramsey!,Ramsey Lewis,4,1966-02-19,1966-05-21,137,14
+280,Four In Blue,The Miracles,5,1969-12-06,1969-12-27,137,4
+281,It's A Man's Man's Man's World,James Brown,11,1966-09-10,1966-12-24,137,15
+282,Bill Cosby Sings/Silver Throat,Bill Cosby,15,1967-09-09,1967-11-25,137,12
+283,The Love You Save,Joe Tex,3,1966-05-07,1966-07-16,135,11
+284,He'll Be Back,The Players,10,1966-11-19,1967-02-18,131,14
+285,I Got You (I Feel Good),James Brown,2,1966-01-29,1966-06-25,130,15
+286,More Hits By The Supremes,The Supremes,2,1965-08-21,1965-12-25,126,19
+287,The Sound Of Nancy Wilson,Nancy Wilson,20,1968-10-12,1968-11-23,126,7
+288,Greatest Hits,The Marvelettes,4,1966-03-19,1966-05-28,125,11
+289,Hugh Masekela Is Alive And Well At The Whisky,Hugh Masekela,7,1968-01-27,1968-03-09,123,7
+290,Raw Soul,James Brown,7,1967-04-29,1967-06-24,123,9
+291,Lush Life,Nancy Wilson,8,1967-09-16,1967-11-11,122,9
+292,4 Tops On Broadway,Four Tops,15,1967-04-08,1967-06-10,122,10
+293,The Supremes At The Copa,The Supremes,2,1965-12-04,1966-08-13,120,20
+294,Alligator Bogaloo,Lou Donaldson,15,1967-11-04,1968-01-06,120,10
+295,"To Sir, With Love",Soundtrack,8,1967-11-18,1968-01-20,119,10
+296,Down To Earth,Stevie Wonder,8,1967-01-21,1967-04-08,117,12
+297,Welcome To My Love,Nancy Wilson,26,1968-03-30,1968-05-18,116,8
+298,You're Good For Me,Lou Rawls,23,1968-08-03,1968-08-31,115,5
+299,Four Tops,Four Tops,1,1965-02-27,1965-09-25,110,18
+300,The Great Memphis Hits,King Curtis,11,1967-06-03,1967-08-12,110,11
+301,Boots With Strings,Boots Randolph,21,1967-04-15,1967-08-05,110,17
+302,On Broadway,Diana Ross & The Supremes,4,1969-12-13,1969-12-27,108,3
+303,"Bill Cosby Is A Very Funny Fellow, Right!",Bill Cosby,18,1967-07-29,1968-05-18,108,20
+304,Wack Wack,Young-Holt Unlimited,10,1967-01-14,1967-03-18,107,10
+305,"History Of Rhythm & Blues, Volume 4/The Big Beat 1958-60",Various Artists,25,1968-04-06,1968-08-24,107,6
+306,Shake,Sam Cooke,1,1965-02-13,1965-05-22,105,15
+307,For Your Love,Peaches & Herb,12,1967-09-09,1967-11-25,105,10
+308,"I Love You 1,000 Times",The Platters,12,1966-06-25,1966-10-15,104,17
+309,Jammed Together,Albert King,23,1969-07-19,1969-08-09,100,4
+310,One Eye Open,The Maskman & The Agents,32,1969-05-10,1969-06-21,99,7
+311,Live At Yankee Stadium,Various Artists,34,1969-11-15,1969-12-27,99,7
+312,No Sad Songs,Joe Simon,22,1968-04-20,1968-12-28,98,6
+313,"16 Original Big Hits, Volume 10",Various Artists,34,1969-05-17,1969-07-05,98,8
+314,Papa's Got A Brand New Bag,James Brown,2,1965-09-11,1966-01-22,97,20
+315,Hot Dog,Lou Donaldson,35,1969-09-27,1969-12-13,97,12
+316,Hoochie Cooche Man,Jimmy Smith,7,1966-08-27,1966-10-29,96,10
+317,Sweet Soul Music,Arthur Conley,10,1967-05-13,1967-06-24,96,7
+318,"History Of Rhythm & Blues, Volume 1/The Roots 1947-52",Various Artists,26,1968-04-06,1968-04-27,95,4
+319,Jimmy Smith's Greatest Hits!,Jimmy Smith,29,1968-06-08,1968-07-27,95,8
+320,People Get Ready,The Impressions,1,1965-03-06,1965-05-29,94,13
+321,Foolish Fool,Dee Dee Warwick,30,1969-06-21,1969-07-19,94,5
+322,Gene Chandler - Live On Stage In '65,Gene Chandler,5,1965-12-25,1966-04-30,93,19
+323,Slow Drag,Donald Byrd,29,1969-03-22,1969-04-26,93,6
+324,"Baby, I'm For Real",The Originals,30,1969-11-22,1969-12-20,93,5
+325,Double-Barrelled Soul,Brother Jack McDuff,32,1968-04-06,1968-05-11,90,6
+326,Fly Me To The Moon,Bobby Womack,34,1969-01-18,1969-03-01,89,7
+327,Nancy,Nancy Wilson,38,1969-02-22,1969-05-03,89,11
+328,"Not On The Outside, But On The Inside, Strong!",The Moments,31,1969-08-23,1969-10-11,87,7
+329,The Queen Alone,Carla Thomas,16,1967-07-01,1967-08-19,86,8
+330,Soulshake,Peggy Scott & Jo Jo Benson,36,1969-03-01,1969-04-12,85,7
+331,Walking In Space,Quincy Jones,9,1969-12-13,1969-12-27,83,3
+332,Watchout!,Martha & The Vandellas,14,1967-01-14,1967-05-20,83,10
+333,Another Voyage,Ramsey Lewis,34,1969-09-20,1969-11-15,81,9
+334,Otis Blue: Otis Redding Sings Soul,Otis Redding,1,1965-10-02,1965-12-25,80,13
+335,Where Did Our Love Go,The Supremes,1,1965-01-30,1965-04-03,79,10
+336,The Marvelettes,The Marvelettes,13,1967-04-08,1967-06-10,79,10
+337,Road Song,Wes Montgomery,39,1968-11-16,1969-01-25,79,10
+338,I Can't Stop Dancing,Archie Bell & The Drells,28,1969-02-08,1969-03-01,78,4
+339,The Impressions Greatest Hits,The Impressions,2,1965-03-13,1965-05-29,77,12
+340,The New Look,Fontella Bass,6,1966-03-12,1966-04-30,76,8
+341,"""Bucket""!",Jimmy Smith,12,1966-12-03,1967-02-04,75,10
+342,Soul Session,Jr. Walker & The All Stars,7,1966-04-02,1966-06-04,74,10
+343,"16 Original Big Hits, Volume 8",Various Artists,13,1967-12-30,1968-02-10,74,7
+344,Why Am I Treated So Bad!,Cannonball Adderley,18,1967-06-10,1967-07-22,74,7
+345,Wildest Organ In Town!,Billy Preston,9,1966-07-02,1966-08-20,73,8
+346,Dancing In The Street,Ramsey Lewis,16,1967-11-18,1968-01-20,72,10
+347,Here I Am,Dionne Warwick,3,1966-01-01,1966-03-19,71,12
+348,Spellbinder,Gabor Szabo,16,1966-12-31,1967-03-11,71,11
+349,Bayou Country,Creedence Clearwater Revival,41,1969-04-05,1969-06-14,71,10
+350,I Do Love You,Billy Stewart,2,1965-07-03,1965-09-11,70,11
+351,The Fabulous Impressions,The Impressions,16,1967-07-15,1967-10-07,70,13
+352,The Johnnie Taylor Philosophy Continues,Johnnie Taylor,31,1969-07-05,1969-08-02,69,5
+353,Damifiknew,Mar-Keys,34,1969-07-12,1969-08-09,69,5
+354,Organ Grinder Swing,Jimmy Smith,2,1965-09-18,1965-11-27,68,11
+355,The Great Otis Redding Sings Soul Ballads,Otis Redding,3,1965-04-10,1965-07-17,67,15
+356,Swiss Movement,Eddie Harris,15,1969-12-13,1969-12-27,67,3
+357,Best Of Moms Mabley,Moms Mabley,28,1968-04-20,1968-05-04,67,3
+358,Sittin' In At The Court Of Love,The Unifics,38,1969-02-01,1969-03-15,67,7
+359,Dance The Cool Jerk,The Capitols,10,1966-07-30,1966-09-10,66,7
+360,Much Les,Les McCann,32,1969-03-22,1969-04-12,66,4
+361,The Drifters' Golden Hits,The Drifters,33,1968-04-20,1968-05-11,66,4
+362,Solid Gold Soul,Various Artists,7,1966-04-23,1966-06-18,65,9
+363,A Man And His Soul,Ray Charles,14,1967-03-25,1968-05-18,65,11
+364,For Love Of Ivy,Soundtrack,28,1968-09-14,1968-09-28,64,3
+365,Soul Sister,Aretha Franklin,8,1966-07-30,1967-01-28,63,8
+366,The New Lee Dorsey,Lee Dorsey,13,1966-10-29,1966-12-17,63,8
+367,Your Good Thing,Lou Rawls,24,1969-11-29,1969-12-27,63,5
+368,Live At The Whisky A Go Go,Herbie Mann,36,1969-11-22,1969-12-27,63,6
+369,Here Come The Judge,Pigmeat Markham,40,1968-07-27,1968-09-14,63,8
+370,Our Family Portrait,The Five Stairsteps,20,1968-01-20,1968-03-09,62,8
+371,Rare Stamps,Johnnie Taylor,33,1969-07-26,1969-08-16,62,4
+372,Art And Soul,Arthur Prysock,15,1967-02-04,1967-03-25,61,8
+373,Slow Freight,Ray Bryant,18,1967-04-15,1967-05-27,61,7
+374,Comfort Me,Carla Thomas,11,1966-03-12,1966-05-14,59,10
+375,The Best Of Wes Montgomery,Wes Montgomery,17,1967-12-30,1968-01-27,58,5
+376,The New Boss,Joe Tex,3,1965-11-20,1966-03-12,57,13
+377,Goin' Latin,Ramsey Lewis,16,1967-03-18,1967-05-06,57,8
+378,Elegant Soul,Gene Harris,36,1969-07-26,1969-08-23,57,5
+379,We're Gonna Make It,Little Milton,3,1965-05-29,1965-08-07,56,11
+380,Powerhouse,The Jazz Crusaders,38,1969-02-22,1969-03-29,56,6
+381,Sophisticated Soul,The Marvelettes,41,1968-09-28,1968-11-23,56,9
+382,Whispers,Jackie Wilson,15,1966-12-31,1967-03-04,55,10
+383,Backlash,Freddie Hubbard,21,1967-07-08,1967-08-19,55,7
+384,Silk & Soul,Nina Simone,24,1967-11-18,1968-07-27,55,10
+385,A Tribute To Courage,Rufus Harley,32,1968-09-14,1968-10-05,55,4
+386,James Brown Plays James Brown - Today & Yesterday,James Brown,3,1965-11-27,1966-02-05,53,11
+387,Odele Brown Plays Otis Redding,Odell Brown & The Organ-Izers,32,1969-06-21,1969-07-05,51,3
+388,I Thank You,Sam & Dave,38,1968-12-07,1969-02-01,51,8
+389,Simon Sings,Joe Simon,41,1969-04-19,1969-05-24,51,6
+390,Search For The New Land,Lee Morgan,16,1966-09-17,1966-10-22,49,6
+391,"Crosby,Stills & Nash","Crosby, Stills & Nash",35,1969-09-06,1969-09-27,49,4
+392,Caramba!,Lee Morgan,42,1969-03-08,1969-04-19,49,7
+393,The Nancy Wilson Show!,Nancy Wilson,4,1965-02-06,1965-04-10,47,10
+394,A Touch Of The Blues,Bobby Bland,38,1968-04-06,1968-04-27,47,4
+395,"Keep The Faith, Baby!",Adam Clayton Powell,13,1967-03-04,1967-04-01,46,5
+396,"""Live!""",Jr. Walker & The All Stars,22,1967-10-07,1967-11-11,46,6
+397,The Prime Of My Life,Billy Eckstine,8,1966-01-15,1966-04-16,45,13
+398,The Soul Of The Man,Bobby Bland,17,1966-10-15,1966-11-26,45,7
+399,Testifyin',Clarence Carter,35,1969-08-09,1969-08-30,45,4
+400,Today-My Way,Nancy Wilson,2,1965-06-19,1965-08-28,44,11
+401,Live Wire/Blues Power,Albert King,40,1968-11-16,1968-12-14,44,5
+402,One By One,The Impressions,4,1965-09-11,1965-11-20,43,11
+403,Stand By Me,Spyder Turner,14,1967-04-08,1967-04-29,43,4
+404,Checkmates Ltd. Live At Caesar's Palace,"The Checkmates, Ltd.",36,1968-04-06,1968-04-20,43,3
+405,The Look Of Love,Stanley Turrentine,38,1968-08-31,1968-09-21,43,4
+406,James Brown Plays New Breed,James Brown,11,1966-05-21,1966-06-25,42,6
+407,"16 Original Big Hits, Volume 5",Various Artists,15,1966-11-19,1966-12-24,42,6
+408,"Motown Winners' Circle/No. 1 Hits, Vol. 2",Various Artists,41,1969-03-01,1969-05-31,42,7
+409,Dry Your Eyes,Brenda & The Tabulations,19,1967-06-24,1967-07-29,41,6
+410,The Best of King Curtis,King Curtis,40,1968-12-07,1968-12-28,41,4
+411,Together,Charles Wright,40,1969-05-03,1969-06-07,41,6
+412,Bigger & Better,David Newman,42,1968-11-02,1968-12-21,41,8
+413,"Up, Up And Away",Johnny Mathis,19,1967-12-30,1968-01-20,40,4
+414,Serenade To A Soul Sister,Stanley Turrentine,41,1968-07-20,1968-09-14,40,5
+415,Wonderfulness,Bill Cosby,21,1967-08-19,1967-09-23,39,6
+416,Livin' It Up!,Jimmy Smith,41,1968-10-26,1968-12-14,39,8
+417,"The Super Hits, Vol. 2",Various Artists,43,1968-12-21,1969-02-22,39,9
+418,Hold What You've Got,Joe Tex,2,1965-01-30,1965-03-06,38,6
+419,Emancipation Of Hugh Masakela,Hugh Masekela,24,1967-04-15,1967-06-10,38,9
+420,"History Of Rhythm & Blues, Volume 2/The Golden Years 1953-55",Various Artists,32,1968-04-06,1968-04-13,38,2
+421,Dr. Martin Luther King; Funeral Services; Ebenezer Baptist Church; 04-09-68,"Rev. Martin Luther King, Jr.",32,1968-06-01,1968-06-08,38,2
+422,8:15 12:15,Bill Cosby,40,1969-07-19,1969-08-16,38,5
+423,Jerry Butler's Golden Hits Live,Jerry Butler,40,1968-04-06,1968-07-06,38,6
+424,Goin' Out Of My Head,Little Anthony And The Imperials,5,1965-02-13,1965-04-10,36,9
+425,"The Magnificent Men ""Live!""",The Magnificent Men,18,1967-09-09,1967-09-23,36,3
+426,In Search Of Freedom,"Rev. Dr. Martin Luther King, Jr.",37,1968-06-01,1968-06-22,36,4
+427,Alfie,Sonny Rollins,17,1966-10-29,1966-11-26,35,5
+428,"Marvin Gaye/Greatest Hits, Vol. 2",Marvin Gaye,19,1967-09-30,1967-10-14,35,3
+429,Irresistible Tammi,Tammi Terrell,39,1969-03-08,1969-03-29,35,4
+430,Outta Season,Ike & Tina Turner,43,1969-06-21,1969-08-02,35,7
+431,You've Lost That Lovin' Feelin',The Righteous Brothers,3,1965-01-30,1965-03-20,34,6
+432,El Chico,Chico Hamilton,14,1966-04-09,1966-05-21,34,7
+433,Barefootin',Robert Parker,16,1966-08-13,1966-10-08,34,9
+434,Are You Lonely For Me,Freddie Scott,21,1967-03-25,1967-05-06,33,6
+435,"In The Jungle, Babe",The Watts 103rd Street Rhythm Band,42,1969-10-18,1969-11-15,33,5
+436,And Now...Booker T. & The MG's,Booker T. & The MG's,18,1966-12-03,1967-01-07,32,6
+437,Bill Cosby Sings/Hooray For The Salvation Army Band!,Bill Cosby,22,1968-02-24,1968-03-23,32,5
+438,"History Of Rhythm & Blues, Volume 3/Rock & Roll 1956-57",Various Artists,35,1968-04-06,1968-04-13,32,2
+439,In The Midnight Hour,Wilson Pickett,3,1965-10-30,1966-01-08,31,7
+440,Soul Explosion,Various Artists,36,1969-05-10,1969-05-24,31,3
+441,In A Silent Way,Miles Davis,40,1969-11-08,1969-12-06,31,5
+442,Tell It Like It Is,"Richard ""Groove"" Holmes",17,1966-08-06,1966-09-03,30,5
+443,Love Is Blue,Johnny Mathis,44,1968-07-06,1968-08-10,30,6
+444,We Remember Sam Cooke,The Supremes,5,1965-05-22,1965-06-26,29,6
+445,The Mad Lads In Action,The Mad Lads,17,1966-07-23,1966-08-20,28,5
+446,Take A Look,Aretha Franklin,22,1967-11-11,1967-12-02,28,4
+447,Eivets Rednow,Stevie Wonder,37,1969-01-25,1969-02-01,28,2
+448,Soundtrack,Charles Lloyd Quartet,39,1969-04-26,1969-05-10,28,3
+449,Blind Faith,Blind Faith,40,1969-09-20,1969-10-04,28,3
+450,This Old Heart Of Mine,The Isley Brothers,15,1966-07-16,1966-08-20,27,6
+451,Tobacco Road,Brother Jack McDuff,20,1967-02-18,1967-07-01,27,8
+452,Sock It To Me!,Mitch Ryder And The Detroit Wheels,24,1967-04-15,1967-06-03,26,7
+453,Paint It Black,The Soulful Strings,25,1967-07-01,1967-08-05,26,6
+454,Instant Groove,King Curtis,40,1969-08-16,1969-08-30,26,3
+455,Gotta Groove,Bar-Kays,40,1969-07-26,1969-08-16,26,4
+456,How Sweet It Is To Be Loved By You,Marvin Gaye,4,1965-02-13,1965-03-27,25,7
+457,Shape Of Things To Come,George Benson,38,1969-04-26,1969-05-03,25,2
+458,Down Home Style,Brother Jack McDuff,38,1969-12-13,1969-12-27,25,3
+459,So I Can Love You,The Emotions,43,1969-07-12,1969-08-02,25,4
+460,'Nuff Said!,Nina Simone,44,1969-02-08,1969-05-03,25,6
+461,Hurt So Bad,Nancy Wilson,41,1969-12-13,1969-12-27,24,3
+462,Funny Girl,The Supremes,45,1968-11-09,1968-12-14,24,6
+463,Karma,Pharoah Sanders,47,1969-10-11,1969-11-29,24,8
+464,Stay Loose...Jimmy Smith Sings Again,Jimmy Smith,40,1968-06-29,1968-07-13,23,3
+465,The Magic Garden,The 5th Dimension,43,1968-06-22,1968-07-13,23,4
+466,Golden Sword,Gerald Wilson Orchestra,18,1966-12-31,1967-01-21,22,4
+467,Soul Spin,Four Tops,39,1969-12-13,1969-12-27,22,3
+468,Freedom Suite,The Rascals,40,1969-04-12,1969-04-19,22,2
+469,Br'er Soul,Melvin Van Peebles,43,1969-03-08,1969-03-22,22,3
+470,A Bit Of Liverpool,The Supremes,5,1965-01-30,1965-02-27,21,5
+471,The Best Of Little Anthony & The Imperials,Little Anthony And The Imperials,9,1966-03-05,1966-03-19,21,3
+472,Grits Ain't Groceries,Little Milton,41,1969-07-26,1969-08-09,21,3
+473,Another Exposure,The Soulful Strings,43,1968-08-03,1968-08-17,21,3
+474,The Best Of Joe Tex,Joe Tex,23,1967-08-19,1967-09-09,20,4
+475,King Size Soul,King Curtis,25,1967-12-23,1968-01-13,20,4
+476,Backstage,Pigmeat Markham,41,1968-04-20,1968-04-27,20,2
+477,Tell It Like It Is,George Benson,43,1969-08-23,1969-09-06,20,3
+478,There'll Come A Time,Betty Everett,44,1969-05-31,1969-06-14,20,3
+479,Monster,Jimmy Smith,5,1965-05-08,1965-06-05,19,5
+480,The Best Of Sam Cooke,Sam Cooke,5,1965-01-30,1965-03-13,19,5
+481,The Most Exciting Organ Ever,Billy Preston,5,1965-06-26,1965-08-07,19,7
+482,Boy Meets Girl,Various Artists,46,1969-08-16,1969-09-13,19,5
+483,Close-Up,Lou Rawls,47,1969-07-26,1969-10-18,19,7
+484,Speak Her Name,Walter Jackson,26,1967-05-13,1967-06-17,18,6
+485,I've Never Found A Girl,Eddie Floyd,42,1969-01-18,1969-01-25,18,2
+486,Soul Country,Joe Tex,45,1968-08-31,1968-09-28,18,5
+487,When The Whistle Blows Anything Goes,Soul Survivors,25,1968-01-13,1968-02-03,17,4
+488,Oh How It Hurts,Barbara Mason,42,1968-05-18,1968-05-25,17,2
+489,Gentle Is My Love,Nancy Wilson,7,1965-09-18,1965-10-23,16,6
+490,Soul Sauce,Cal Tjader,8,1965-04-17,1965-06-12,16,7
+491,Jackie Wilson's Greatest Hits,Jackie Wilson,43,1969-04-19,1969-04-26,16,2
+492,Mr. Shing-A-Ling,Lou Donaldson,44,1968-04-06,1968-08-03,16,4
+493,This Is Tom Jones,Tom Jones,45,1969-08-02,1969-08-16,16,3
+494,"The Mad, Mad, Mad, Mad, Mad Lads",The Mad Lads,46,1969-07-12,1969-09-13,16,5
+495,The Natch'l Blues,Taj Mahal,47,1969-03-22,1969-04-19,16,5
+496,B.B. King: Live At The Regal,B.B. King,6,1965-05-01,1965-05-29,15,5
+497,The Duck,Jackie Lee,8,1966-02-26,1966-03-19,15,4
+498,A Tribute To Rhythm And Blues,Chuck Jackson,21,1966-08-06,1966-08-20,14,3
+499,Take Two,Marvin Gaye,24,1967-04-22,1967-04-29,14,2
+500,Midnight Creeper,Lou Donaldson,45,1968-10-26,1968-11-09,14,3
+501,Keep On Pushing,The Impressions,4,1965-01-30,1965-02-06,13,2
+502,Soul Serenade,Gloria Lynne,7,1965-06-05,1965-06-26,13,4
+503,Pastel Blues,Nina Simone,8,1965-10-16,1965-11-27,13,7
+504,Ted Taylor's Greatest Hits,Ted Taylor,14,1966-03-12,1966-03-19,13,2
+505,Rough 'N Tumble,Stanley Turrentine,20,1966-12-31,1967-01-14,13,3
+506,Sunny,Bobby Hebb,21,1966-09-10,1966-10-01,13,4
+507,The Very Best Of Solomon Burke,Solomon Burke,6,1965-07-10,1965-09-04,12,5
+508,"Baby, I'm Yours",Barbara Lewis,7,1965-10-02,1965-10-30,12,5
+509,Spanish Grease,Willie Bobo,16,1966-04-09,1966-04-30,12,4
+510,Wanted: One Soul Singer,Johnnie Taylor,26,1967-04-22,1967-05-13,12,4
+511,Masekela,Hugh Masekela,45,1969-01-25,1969-02-01,12,2
+512,Workin' On A Groovy Thing,Mongo Santamaria,45,1969-12-20,1969-12-27,12,2
+513,Living The Blues,Canned Heat,45,1969-02-08,1969-02-15,12,2
+514,Blowin' Gold,John Klemmer,46,1969-09-27,1969-10-11,12,3
+515,Just Once In My Life...,The Righteous Brothers,8,1965-08-14,1965-09-04,11,4
+516,Hypnotized,Linda Jones,26,1967-10-28,1967-11-11,11,3
+517,James Brown Plays The Real Thing,James Brown,27,1967-07-08,1967-07-22,11,3
+518,"16 Original Big Hits, Volume 6",Various Artists,27,1967-04-29,1967-05-13,11,3
+519,Completely Well,B.B. King,40,1969-12-27,1969-12-27,11,1
+520,A Higher Plateau,KaSandra,45,1969-03-29,1969-04-05,11,2
+521,Keem-O-Sabe,The Electric Indian,46,1969-11-22,1969-12-27,11,5
+522,Relight My Fire,Rhetta Hughes,47,1969-03-29,1969-04-12,11,3
+523,In Concert/Back By Demand,The Soulful Strings,47,1969-05-31,1969-06-14,11,3
+524,The Tender Gender,Kenny Burrell,21,1966-12-10,1966-12-24,10,3
+525,Della Reese Live,Della Reese,21,1966-10-29,1966-11-12,10,3
+526,The Intruders Are Together,The Intruders,23,1968-01-13,1968-01-27,10,3
+527,I'm Gonna Make You Love Me,Madeline Bell,46,1968-05-11,1968-05-18,10,2
+528,"16 Original Big Hits, Volume 9",Various Artists,46,1969-01-25,1969-02-01,10,2
+529,Vanilla Fudge,Vanilla Fudge,46,1968-12-21,1968-12-28,10,2
+530,Her Young Thing,Moms Mabley,46,1969-04-12,1969-04-26,10,3
+531,Close-Up,Nat King Cole,46,1969-08-23,1969-09-06,10,3
+532,Blues On Top Of Blues,B.B. King,46,1968-08-24,1968-09-07,10,3
+533,Those Were The Days,Johnny Mathis,48,1968-12-28,1969-01-18,10,4
+534,Hole In The Wall,The Packers,7,1966-02-12,1966-02-26,9,3
+535,Song For My Father (Cantiga Para Meu Pai),Horace Silver,8,1965-06-05,1965-06-19,9,3
+536,Hey! Let's Party,Mongo Santamaria,19,1966-07-30,1966-08-06,9,2
+537,74 Miles Away - Walk Tall,Cannonball Adderley,26,1968-02-03,1968-02-10,9,2
+538,Santana,Santana,46,1969-12-20,1969-12-27,9,2
+539,Years Gone By,Albert King,46,1969-05-31,1969-06-07,9,2
+540,Think!,Lonnie Smith,46,1969-03-15,1969-04-05,9,4
+541,Love Makes A Woman,Barbara Acklin,48,1968-10-05,1968-10-26,9,4
+542,"The Best Of Sam Cooke, Volume 2",Sam Cooke,7,1965-08-07,1965-08-14,8,2
+543,L-O-V-E,Nat King Cole,8,1965-03-20,1965-04-10,8,4
+544,Yeah!!!,Aretha Franklin,8,1965-08-07,1965-08-28,8,4
+545,Soul & Inspiration,The Righteous Brothers,18,1966-05-07,1966-06-18,8,5
+546,Introducing The Afro-Blues Quintet Plus One,Afro-Blues Quintet Plus One,23,1966-08-06,1966-08-20,8,3
+547,"16 Original Big Hits, Volume 7",Various Artists,27,1967-10-21,1967-10-28,8,2
+548,Golden Duets,Peaches & Herb,28,1968-02-10,1968-02-24,8,3
+549,Kick Out The Jams,MC5,45,1969-04-12,1969-04-19,8,2
+550,Sweet Soul,King Curtis,47,1968-08-10,1968-08-17,8,2
+551,The Soul View Now!,Bettye Swann,48,1969-06-14,1969-06-28,8,3
+552,Live! The Ike & Tina Turner Show,Ike & Tina Turner,8,1965-02-06,1965-02-20,7,3
+553,For Your Precious Love,"Oscar Toney, Jr.",27,1967-08-05,1967-08-12,7,2
+554,Ray Charles Live In Concert,Ray Charles,9,1965-04-03,1965-04-24,6,4
+555,The Soul Artistry Of Jerry Butler,Jerry Butler,23,1967-02-11,1967-02-18,6,2
+556,Higher And Higher,Jackie Wilson,28,1967-12-02,1967-12-16,6,3
+557,The Boss,Jimmy Smith,48,1969-07-26,1969-08-02,6,2
+558,This Is Howlin' Wolf's New Album,Howlin' Wolf,49,1969-04-12,1969-05-03,6,4
+559,Bound To Happen,William Bell,49,1969-06-21,1969-07-19,6,4
+560,Grits & Soul,James Brown,9,1965-04-17,1965-05-01,5,3
+561,Mean Greens,Eddie Harris,23,1966-11-05,1966-11-12,5,2
+562,Big Brother & The Holding Company,Big Brother And The Holding Company,28,1967-10-14,1967-10-21,5,2
+563,My Man! Wild Man!,Wil,48,1969-12-20,1969-12-27,5,2
+564,...Free At Last,"Rev. Martin Luther King, Jr.",48,1968-07-06,1968-07-20,5,3
+565,Chuck Jackson Arrives!,Chuck Jackson,48,1968-05-25,1968-06-08,5,3
+566,Dedicated To You,The Manhattans,19,1966-03-26,1966-04-02,4,2
+567,Soul Cargo,Leon Haywood,19,1966-07-02,1966-07-09,4,2
+568,Let It All Out,Nina Simone,19,1966-04-09,1966-04-23,4,3
+569,Our Mann Flute,Herbie Mann,24,1966-10-22,1966-10-29,4,2
+570,I've Got To Do A Little Bit Better,Joe Tex,24,1967-01-21,1967-01-28,4,2
+571,But It's Alright/I Dig Girls,J.J. Jackson,24,1967-02-04,1967-02-11,4,2
+572,Handful Of Soul,James Brown,24,1966-11-26,1966-12-10,4,3
+573,Nina Simone Sings The Blues,Nina Simone,29,1967-07-29,1967-08-05,4,2
+574,The High Priestess Of Soul,Nina Simone,29,1967-04-29,1967-05-06,4,2
+575,"Inez & Charlie Foxx's Greatest Hits, Past & Present",Inez & Charlie Foxx,29,1968-03-16,1968-03-23,4,2
+576,Little Richard's Greatest Hits,Little Richard,29,1967-08-12,1967-08-26,4,3
+577,The Best Of Bobby Bland,Bobby Bland,29,1967-07-08,1967-07-22,4,3
+578,Peaches & Herb's Greatest Hits,Peaches & Herb,48,1968-09-28,1968-10-05,4,2
+579,Girl Watcher,The O'Kaysions,49,1968-11-23,1968-11-30,4,2
+580,This Is Clarence Carter,Clarence Carter,49,1968-10-19,1968-10-26,4,2
+581,Mirrors - Reflections Of Today,Dick Hyman,49,1968-04-27,1968-05-04,4,2
+582,Rare Stamps,Eddie Floyd,49,1969-08-16,1969-08-30,4,3
+583,Bill Cosby,Bill Cosby,50,1969-10-25,1969-11-15,4,4
+584,Right Now!,The Righteous Brothers,8,1965-01-30,1965-01-30,3,1
+585,Choice! The Best Of The Ramsey Lewis Trio,Ramsey Lewis,9,1965-11-06,1965-11-13,3,2
+586,The Village Caller!,Johnny Lytle,18,1966-03-12,1966-03-12,3,1
+587,Moms Mabley At The White House,Moms Mabley,24,1966-11-05,1966-11-12,3,2
+588,The Magic Of Believing,Dionne Warwick,49,1968-08-17,1968-08-24,3,2
+589,Runnin' Out Of Fools,Aretha Franklin,9,1965-01-30,1965-01-30,2,1
+590,"The Toys sing ""A Lover's Concerto"" and ""Attack!""",The Toys,9,1966-02-12,1966-02-12,2,1
+591,(If It Is) Only For Tonight,O.V. Wright,10,1965-07-24,1965-07-31,2,2
+592,A Double Header With Arthur Prysock,Arthur Prysock,10,1965-09-04,1965-09-11,2,2
+593,Over The Rainbow,Patti LaBelle,20,1966-05-28,1966-06-04,2,2
+594,Turning Point,Jimmy Holiday,25,1966-12-31,1967-01-07,2,2
+595,You Got My Mind Messed Up,James Carr,25,1967-03-25,1967-04-01,2,2
+596,The New Born Free,The Hesitations,30,1968-02-24,1968-03-02,2,2
+597,What Does It Take To Win Your Love,Jr. Walker & The All Stars,49,1969-12-27,1969-12-27,2,1
+598,Sunshower,Thelma Houston,50,1969-10-04,1969-10-11,2,2
+599,"Motown Winners' Circle/No. 1 Hits, Vol. 1",Various Artists,50,1969-03-01,1969-03-08,2,2
+600,Ruff'N Ready,Jimmy Ruffin,50,1969-06-07,1969-06-14,2,2
+601,The Sidewinder,Lee Morgan,10,1965-01-30,1965-01-30,1,1
+602,Make Way For Dionne Warwick,Dionne Warwick,10,1965-02-06,1965-02-06,1,1
+603,Arthur Prysock/Count Basie,Count Basie,20,1966-03-26,1966-03-26,1,1
+604,The Stax/Volt Revue - Live In London,Various Artists,30,1967-09-02,1967-09-02,1,1

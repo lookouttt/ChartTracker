@@ -1,0 +1,823 @@
+chart_position,album_title,artist,peak,first_date,last_date,points,weeks
+1,Gentle On My Mind,Glen Campbell,1,1967-10-07,1969-06-07,2965,88
+2,The Best Of Eddy Arnold,Eddy Arnold,1,1967-04-29,1969-02-22,2588,96
+3,Johnny Cash At Folsom Prison,Johnny Cash,1,1968-06-15,1969-12-27,2580,81
+4,By The Time I Get To Phoenix,Glen Campbell,1,1967-12-30,1969-03-15,2167,64
+5,Wichita Lineman,Glen Campbell,1,1968-11-16,1969-09-27,1724,46
+6,"Hey, Little One",Glen Campbell,1,1968-03-30,1969-05-03,1517,49
+7,There Goes My Everything,Jack Greene,1,1967-01-14,1967-10-21,1500,41
+8,Honey,Bobby Goldsboro,1,1968-05-11,1969-02-08,1355,40
+9,The Country Way,Charley Pride,1,1967-12-23,1968-10-05,1348,42
+10,Just The Two Of Us,Porter Wagoner And Dolly Parton,5,1968-10-05,1969-09-06,1306,49
+11,Bobbie Gentry & Glen Campbell,Bobbie Gentry & Glen Campbell,1,1968-10-12,1969-07-05,1288,39
+12,Charley Pride: In Person,Charley Pride,2,1969-02-08,1969-09-27,1261,34
+13,Stand By Your Man,Tammy Wynette,2,1969-02-08,1969-10-11,1229,36
+14,All The Time,Jack Greene,1,1967-07-01,1968-03-30,1218,40
+15,A New Place In The Sun,Glen Campbell,1,1968-05-18,1969-03-08,1193,42
+16,Touch My Heart,Ray Price,1,1967-01-28,1967-09-23,1188,35
+17,The Romantic World Of Eddy Arnold,Eddy Arnold,2,1968-06-08,1969-02-22,1169,38
+18,"Johnny Cash's Greatest Hits,volume Iii",Johnny Cash,1,1967-07-22,1968-10-19,1152,51
+19,Loretta Lynn's Greatest Hits,Loretta Lynn,6,1968-07-06,1969-03-08,1121,36
+20,Turn The World Around,Eddy Arnold,1,1967-09-16,1968-03-23,1110,28
+21,Swinging Doors / The Bottle Let Me Down,Merle Haggard And The Strangers,1,1966-10-29,1967-07-01,1110,36
+22,You Ain't Woman Enough,Loretta Lynn,1,1966-10-08,1967-06-24,1108,37
+23,Harper Valley P.T.A.,Jeannie C. Riley,1,1968-10-05,1969-04-26,1102,30
+24,Johnny Cash At San Quentin,Johnny Cash,1,1969-07-05,1969-12-27,1099,26
+25,"Promises, Promises",Lynn Anderson,1,1968-01-27,1968-12-21,1087,48
+26,The Sensational Charley Pride,Charley Pride,2,1969-06-14,1969-12-27,1075,29
+27,Branded Man,Merle Haggard And The Strangers,1,1967-09-30,1968-04-20,1067,30
+28,D-I-V-O-R-C-E,Tammy Wynette,1,1968-08-03,1969-04-26,1051,36
+29,Your Squaw Is On The Warpath,Loretta Lynn,2,1969-03-08,1969-09-13,1036,28
+30,Another Place Another Time,Jerry Lee Lewis,3,1968-06-15,1969-02-08,1012,35
+31,Danny Boy,Ray Price,3,1967-05-27,1968-01-20,1008,35
+32,Somebody Like Me,Eddy Arnold,1,1966-12-24,1967-08-26,997,36
+33,"Same Train, A Different Time",Merle Haggard,1,1969-05-24,1969-12-27,993,32
+34,Mama Tried,Merle Haggard And The Strangers,4,1968-09-28,1969-04-12,978,29
+35,The Everlovin' World Of Eddy Arnold,Eddy Arnold,1,1968-02-03,1968-09-14,974,33
+36,Don't Come Home A'Drinkin' (With Lovin' On Your Mind),Loretta Lynn,1,1967-03-04,1967-09-09,944,28
+37,The Best Of Sonny James,Sonny James,1,1966-12-03,1967-07-22,939,34
+38,I'm A Lonesome Fugitive,Merle Haggard,3,1967-04-29,1967-11-25,935,31
+39,Galveston,Glen Campbell,1,1969-04-05,1969-09-27,932,26
+40,I Walk Alone,Marty Robbins,2,1968-11-16,1969-05-10,924,26
+41,"Yours Sincerely, Jim Reeves",Jim Reeves,3,1966-12-10,1967-07-22,924,33
+42,Lonely Again,Eddy Arnold,1,1967-03-04,1967-09-30,913,31
+43,Your Tender Loving Care,Buck Owens,1,1967-09-02,1968-02-24,886,26
+44,The Carroll County Accident,Porter Wagoner,4,1969-03-01,1969-09-06,878,28
+45,Already It's Heaven,David Houston,9,1968-08-10,1969-03-01,873,30
+46,Make Mine Country,Charley Pride,4,1968-05-25,1968-12-14,856,30
+47,Ode To Billie Joe,Bobbie Gentry,1,1967-09-16,1968-02-24,837,24
+48,Carnegie Hall Concert,Buck Owens,1,1966-08-13,1967-02-25,828,29
+49,Open Up Your Heart,Buck Owens,1,1967-01-21,1967-07-15,817,26
+50,Walkin' In Love Land,Eddy Arnold,2,1968-10-26,1969-04-19,813,26
+51,Queen Of Honky Tonk Street,Kitty Wells,5,1967-11-04,1968-05-04,805,27
+52,My World,Eddy Arnold,1,1965-10-09,1967-07-08,785,44
+53,Tonight Carmen,Marty Robbins,4,1967-09-02,1968-02-17,780,25
+54,It's A Sin,Marty Robbins,6,1969-07-12,1969-12-27,778,25
+55,The Cold Hard Facts Of Life,Porter Wagoner,4,1967-06-10,1967-12-16,775,28
+56,The Best Of The Best Of Merle Haggard,Merle Haggard,3,1968-08-31,1969-06-07,774,36
+57,The Holy Land,Johnny Cash,6,1969-02-08,1969-07-26,772,25
+58,The Legend Of Bonnie & Clyde,Merle Haggard,6,1968-05-04,1968-10-26,771,26
+59,Distant Drums,Jim Reeves,1,1966-05-28,1966-12-31,760,32
+60,Songs Of Pride...Charley That Is,Charley Pride,6,1968-09-21,1969-03-08,755,25
+61,Jim Reeves On Stage,Jim Reeves,5,1968-11-09,1969-04-26,753,25
+62,A Touch Of Sadness,Jim Reeves,3,1968-05-11,1968-11-23,746,29
+63,Love Of The Common People,Waylon Jennings,3,1967-08-26,1968-02-03,740,24
+64,From Elvis In Memphis,Elvis Presley,2,1969-06-21,1969-12-27,737,28
+65,The Last Word In Lonesome,Eddy Arnold,1,1966-07-30,1967-01-21,732,26
+66,Woman Of The World / To Make A Man,Loretta Lynn,2,1969-08-02,1969-12-27,728,22
+67,Sing Me Back Home,Merle Haggard And The Strangers,1,1968-01-20,1968-06-29,725,24
+68,Songs My Father Left Me,Hank Williams Jr.,1,1969-04-12,1969-09-20,719,24
+69,Roll Out The Red Carpet For Buck Owens And His Buckaroos,Buck Owens,1,1966-02-26,1966-09-17,718,30
+70,"The Country Music Hall Of Fame Hits, Vol. 1",Jerry Lee Lewis,2,1969-05-10,1969-10-11,718,23
+71,Fist City,Loretta Lynn,1,1968-05-25,1968-10-26,710,23
+72,I Love You Drops,Bill Anderson,1,1966-08-13,1967-01-28,709,25
+73,Buck Owens And His Buckaroos In Japan!,Buck Owens,1,1967-05-27,1967-10-21,703,22
+74,Another Bridge To Burn,Ray Price,1,1966-09-10,1967-02-18,703,24
+75,It's Such A Pretty World Today,Wynn Stewart,1,1967-06-24,1967-12-16,700,25
+76,Almost Persuaded,David Houston,1,1966-08-13,1967-03-18,700,29
+77,Singin' With Feelin',Loretta Lynn,3,1967-10-28,1968-04-06,700,24
+78,Born To Be With You,Sonny James,2,1968-11-16,1969-04-12,691,22
+79,Best Of Buck Owens Vol. 2,Buck Owens,5,1968-04-27,1968-10-19,691,26
+80,Walk Through This World With Me,George Jones,2,1967-04-08,1967-09-02,690,22
+81,Tammy's Greatest Hits,Tammy Wynette,2,1969-09-06,1969-12-27,683,17
+82,It Takes People Like You To Make People Like Me,Buck Owens,1,1968-01-20,1968-06-01,682,20
+83,The Best Of Jim Reeves,Jim Reeves,1,1964-08-08,1966-03-26,680,48
+84,Take Me To Your World / I Don't Wanna Play House,Tammy Wynette,3,1968-02-10,1968-07-06,669,22
+85,I Like 'Em Country,Loretta Lynn,2,1966-04-23,1966-11-05,667,29
+86,Need You,Sonny James And The Southern Gentlemen,1,1967-04-22,1967-09-09,664,21
+87,Born To Sing,Connie Smith,1,1966-10-29,1967-04-15,659,25
+88,I Love You More Today,Conway Twitty,7,1969-08-02,1969-12-13,652,20
+89,Leavin' Town,Waylon Jennings,3,1966-11-05,1967-05-06,648,27
+90,Blue Side Of Lonesome,Jim Reeves,3,1967-06-17,1967-10-28,646,20
+91,Nashville Rebel,Waylon Jennings,4,1967-01-07,1967-06-24,642,25
+92,I Want To Go With You,Eddy Arnold,1,1966-03-12,1966-10-15,639,32
+93,You Mean The World To Me,David Houston,3,1967-12-16,1968-04-13,633,18
+94,Skip A Rope,Henson Cargill,4,1968-03-09,1968-09-14,631,23
+95,More Nashville Sounds,Danny Davis And The Nashville Brass,6,1969-06-14,1969-11-22,631,24
+96,Buck Owens In London,Buck Owens,5,1969-06-21,1969-11-22,626,23
+97,My Life / But You Know I Love You,Bill Anderson,4,1969-08-02,1969-12-27,618,22
+98,Hits By George,George Jones,9,1967-08-12,1968-02-17,615,28
+99,"Always, Always",Porter Wagoner And Dolly Parton,5,1969-08-02,1969-12-27,613,22
+100,The Best Of Buck Owens,Buck Owens,2,1964-07-11,1965-04-17,609,41
+101,The Drifter,Marty Robbins,6,1966-09-03,1967-03-04,608,26
+102,On The Bandstand,Buck Owens,2,1964-01-11,1964-12-19,606,50
+103,Jewels,Waylon Jennings,6,1969-01-04,1969-05-17,604,20
+104,Sweet Rosie Jones,Buck Owens,2,1968-07-27,1968-11-30,602,19
+105,I'll Never Find Another You,Sonny James,6,1967-09-02,1968-01-06,601,19
+106,She Wears My Ring,Ray Price,6,1969-01-18,1969-06-07,597,21
+107,The Country Touch,War,4,1966-07-16,1966-12-10,594,22
+108,Until My Dreams Come True,Jack Greene,5,1969-03-15,1969-07-26,593,20
+109,"We Found Heaven Right Here On Earth At ""4033""",George Jones,3,1966-11-12,1967-04-08,583,22
+110,Bill Anderson's Greatest Hits,Bill Anderson,6,1967-11-04,1968-03-16,582,20
+111,Nat Stuckey Really Sings,Nat Stuckey,6,1966-10-22,1967-05-06,577,27
+112,Just To Satisfy You,Waylon Jennings,7,1969-04-05,1969-08-09,577,19
+113,Take Me As I Am,Ray Price,5,1968-04-13,1968-08-03,571,17
+114,The Best Of Jim Reeves Volume III,Jim Reeves,12,1969-08-02,1969-12-27,569,22
+115,Together Again / My Heart Skips A Beat,Buck Owens,1,1964-09-05,1965-05-29,568,39
+116,Ring Of Fire (The Best Of Johnny Cash),Johnny Cash,1,1964-01-11,1964-08-15,566,32
+117,I've Got A Tiger By The Tail,Buck Owens,1,1965-03-13,1965-10-23,566,33
+118,"Glen Campbell - ""Live""",Glen Campbell,2,1969-09-20,1969-12-27,562,15
+119,Where Is The Circus And Other Heart Breakin' Hits,Hank Thompson,6,1966-11-19,1967-04-15,557,22
+120,Just Between You And Me,Porter Wagoner And Dolly Parton,8,1968-02-03,1968-09-28,551,27
+121,Little Arrows,Leapy Lee,3,1968-12-28,1969-04-26,548,18
+122,Gems By Jim,Jim Ed Brown,9,1967-11-04,1968-03-02,544,18
+123,Make Way For Willie Nelson,Willie Nelson,9,1967-05-06,1967-09-16,543,20
+124,Dust On Mother's Bible,Buck Owens,1,1966-05-28,1966-10-29,542,23
+125,Golden Hits,Roger Miller,2,1965-11-20,1966-06-25,542,32
+126,Only The Lonely,Sonny James,4,1969-03-29,1969-07-26,539,18
+127,Carryin' On With Johnny Cash & June Carter,Johnny Cash & June Carter,5,1967-09-02,1967-12-23,538,17
+128,You Are My Treasure,Jack Greene,5,1968-04-27,1968-09-07,533,20
+129,"The Country Music Hall Of Fame Hits, Vol. 2",Jerry Lee Lewis,5,1969-05-10,1969-09-20,530,20
+130,"Heart, We Did All That We Could",Jean Shepard,6,1967-04-01,1967-08-05,530,19
+131,She Still Comes Around (To Love What's Left Of Me),Jerry Lee Lewis,12,1969-01-11,1969-06-07,528,22
+132,Behind The Tear,Sonny James,2,1965-11-27,1966-06-25,527,31
+133,"Yesterday, When I Was Young",Roy Clark,8,1969-07-12,1969-12-27,526,25
+134,What Locks The Door,Jack Greene,3,1967-12-09,1968-04-06,524,18
+135,Suffer Time,Dottie West,3,1966-07-30,1966-11-26,524,18
+136,All's Fair In Love 'N' War,Stonewall Jackson,5,1966-11-12,1967-03-25,519,20
+137,Loretta Lynn Sings,Loretta Lynn,2,1964-01-18,1964-09-26,517,37
+138,Cute 'N' Country,Connie Smith,1,1965-10-30,1966-05-21,512,30
+139,Guitar Country,Chet Atkins,1,1964-02-08,1964-09-19,511,33
+140,"Darling, You Know I Wouldn't Lie",Conway Twitty,6,1969-05-17,1969-10-11,510,22
+141,Yearbooks And Yesterdays,Jeannie C. Riley,9,1969-02-15,1969-06-21,509,19
+142,Soul Of Country Music,Connie Smith,7,1968-01-27,1968-05-25,496,18
+143,Soul Of A Convict And Other Great Prison Songs,Porter Wagoner,7,1967-03-04,1967-07-08,495,19
+144,The Best Of Buck Owens Volume 3,Buck Owens,12,1969-03-15,1969-07-26,487,19
+145,The Other Woman,Ray Price,3,1965-10-02,1966-06-18,486,38
+146,I Don't Care,Buck Owens,1,1964-11-28,1965-07-03,485,32
+147,Singin' Again,Ernest Tubb & Loretta Lynn,2,1967-07-22,1967-10-28,485,15
+148,Before You Go / No One But You,Buck Owens,1,1965-08-21,1966-04-02,484,33
+149,Wild Weekend,Bill Anderson,10,1968-06-01,1968-10-26,484,22
+150,A Time To Sing,Hank Williams Jr.,12,1968-09-14,1969-02-22,484,24
+151,A World Of Our Own,Sonny James,8,1968-04-06,1968-07-27,482,17
+152,Two For The Show,Wilburn Brothers,7,1967-02-04,1967-06-17,480,20
+153,My Kind Of Country,Marty Robbins,9,1967-04-22,1967-08-26,480,19
+154,"Original Golden Hits, Volume I",Johnny Cash,4,1969-09-27,1969-12-27,479,14
+155,Next In Line,Conway Twitty,9,1968-10-19,1969-03-01,478,20
+156,By The Time I Get To Phoenix,Marty Robbins,8,1968-06-08,1968-10-12,476,19
+157,I'm A People,George Jones,1,1966-06-25,1966-11-05,473,20
+158,The Jim Reeves Way,Jim Reeves,2,1965-03-06,1965-10-02,464,31
+159,The Return Of Roger Miller,Roger Miller,2,1965-02-27,1965-09-25,461,31
+160,"Original Golden Hits, Volume II",Johnny Cash,3,1969-09-27,1969-12-27,461,14
+161,Connie Smith,Connie Smith,1,1965-05-01,1965-11-20,460,30
+162,Don't Touch Me,Wilma Burgess,3,1966-07-09,1966-11-12,458,19
+163,Buck Owens Sings Tommy Collins,Buck Owens,1,1964-01-11,1964-08-01,454,30
+164,Games People Play / These Are Not My People,Freddy Weller,8,1969-08-09,1969-12-20,454,20
+165,Moonlight And Roses,Jim Reeves,1,1964-06-06,1965-01-02,442,31
+166,Big Girls Don't Cry,Lynn Anderson,11,1968-08-10,1968-12-07,441,18
+167,I'll Help You Forget Her,Dottie West,11,1967-12-09,1968-04-06,438,18
+168,Another Story,Ernest Tubb,6,1967-07-15,1967-11-11,437,18
+169,Till The Last Leaf Shall Fall,Sonny James,6,1966-08-13,1966-12-10,432,18
+170,Changin' Times Featuring Foggy Mountain Breakdown,Flatt & Scruggs,7,1968-03-30,1968-06-29,432,14
+171,I'll Share My World With You,George Jones,5,1969-06-28,1969-09-27,431,14
+172,George Jones Sings The Songs Of Dallas Frazier,George Jones,14,1968-02-24,1968-06-01,430,15
+173,Solid Gold '68,Chet Atkins,18,1968-12-14,1969-05-03,426,21
+174,A Portrait Of Merle Haggard,Merle Haggard,5,1969-10-04,1969-12-27,425,13
+175,Jimmy Dean Is Here!,Jimmy Dean,10,1967-03-25,1967-08-05,424,20
+176,Laura (What's He Got That I Ain't Got),Leon Ashley,10,1967-11-04,1968-03-09,420,19
+177,Miss Smith Goes To Nashville,Connie Smith,2,1966-04-02,1966-08-27,416,20
+178,Night Life,Ray Price,1,1964-01-11,1964-08-01,415,30
+179,The Seely Style,Jeannie Seely,8,1966-10-15,1967-02-25,415,20
+180,Songs Of The Young World,Eddy Arnold,11,1969-03-01,1969-06-07,414,15
+181,Love Life,Ray Price,3,1964-09-05,1965-04-24,411,34
+182,David,David Houston,14,1969-09-06,1969-12-27,407,17
+183,The Party's Over And Other Great Willie Nelson Songs,Willie Nelson,7,1967-10-28,1968-01-27,399,14
+184,Statue Of A Fool,Jack Greene,3,1969-06-28,1969-09-27,398,14
+185,The Buck Owens' Buckaroos Strike Again!,The Buckaroos,11,1967-12-02,1968-03-16,398,16
+186,Jan Howard Sings Evil On Your Mind,Jan Howard,10,1966-08-06,1966-12-17,395,20
+187,I Love Charley Brown,Connie Smith,14,1968-06-08,1968-09-28,395,17
+188,Happiness Is You,Johnny Cash,10,1966-11-12,1967-05-06,394,26
+189,True Love's A Blessing,Sonny James,3,1966-05-21,1966-10-15,392,22
+190,Original Golden Hits - Volume 1,Jerry Lee Lewis,8,1969-10-04,1969-12-27,392,13
+191,America's Most Wanted Band,The Buckaroos,12,1967-05-06,1967-09-02,391,18
+192,Blue Ribbon Country,Various Artists,12,1968-10-05,1969-01-25,389,17
+193,I Walk The Line,Johnny Cash,1,1964-07-11,1964-12-26,388,25
+194,Connie's Country,Connie Smith,14,1969-05-03,1969-08-09,388,15
+195,Original Golden Hits - Volume 2,Jerry Lee Lewis,6,1969-10-04,1969-12-27,387,13
+196,Let's Go Country,Wilburn Brothers,10,1966-08-06,1966-11-19,387,16
+197,Pride In What I Am,Merle Haggard,11,1969-02-22,1969-05-31,387,15
+198,The Best Of George Jones,George Jones,3,1964-01-11,1964-08-01,386,30
+199,Steel Rail Blues,George Hamilton IV,3,1966-09-03,1967-01-14,383,17
+200,Many Happy Hangovers,Jean Shepard,6,1966-07-02,1966-10-29,378,18
+201,Confessions Of A Broken Man,Porter Wagoner,6,1966-10-08,1967-02-11,377,17
+202,For Loving You,Bill Anderson,6,1968-02-24,1968-05-11,373,12
+203,A Tender Look At Love,Roger Miller,14,1968-08-03,1969-01-18,371,18
+204,Jackson Ain't A Very Big Town,Norma Jean,11,1967-09-09,1968-01-06,370,18
+205,More Hank Snow Souvenirs,Hank Snow,1,1964-04-25,1964-10-17,369,26
+206,Downtown Country,Connie Smith,5,1967-03-04,1967-06-10,364,15
+207,The Astrodome Presents In Person Sonny James,Sonny James,4,1969-10-11,1969-12-27,363,12
+208,Put It Off Until Tomorrow,Bill Phillips,11,1966-07-30,1967-04-22,360,20
+209,With All My Heart And Soul,Dottie West,8,1967-02-04,1967-05-27,356,17
+210,The Best Of Charley Pride,Charley Pride,1,1969-11-01,1969-12-27,355,9
+211,Get While The Gettin's Good,Bill Anderson,8,1967-03-18,1967-06-24,354,15
+212,Folk-Country,Waylon Jennings,9,1966-04-09,1966-09-17,354,24
+213,Cool Country,Wilburn Brothers,11,1967-07-08,1967-12-02,352,22
+214,Diesel On My Tail,Jim & Jesse,13,1967-07-15,1967-11-04,351,17
+215,Walkin' In The Sunshine,Roger Miller,15,1967-06-24,1967-10-28,350,19
+216,Alone With You,Jim Edward Brown,6,1966-07-30,1966-11-05,348,15
+217,From Sea To Shining Sea,Johnny Cash,9,1968-02-10,1968-05-11,347,14
+218,Smoky The Bar,Hank Thompson,16,1969-05-17,1969-08-23,347,15
+219,The Fabulous Sound Of Lester Flatt & Earl Scruggs,"Lester Flatt, Earl Scruggs & The Foggy Mountain Boys",2,1965-01-02,1965-06-26,344,26
+220,Wilma Burgess Sings Misty Blue,Wilma Burgess,5,1967-03-18,1967-06-17,340,14
+221,A Loser's Cathedral,David Houston,12,1967-05-06,1967-08-12,339,15
+222,Only The Greatest,Waylon Jennings,12,1968-07-27,1968-11-09,339,16
+223,Golden Hits,George Jones,8,1966-09-24,1967-01-21,334,18
+224,My Elusive Dreams,David Houston & Tammy Wynette,11,1967-09-02,1967-12-30,333,18
+225,"Live At Cobo Hall, Detroit",Hank Williams Jr.,3,1969-10-11,1969-12-27,332,12
+226,R.F.D.,Marty Robbins,4,1964-09-05,1965-03-13,330,28
+227,I'll Take The Dog,Jean Shepard,11,1966-12-03,1967-03-18,330,16
+228,The Streets Of Baltimore,Bobby Bare,7,1966-09-24,1966-12-17,326,13
+229,Things Go Better With Love,Jeannie C. Riley,14,1969-09-13,1969-12-27,325,16
+230,It's A Guitar World,Chet Atkins,19,1967-05-06,1967-09-02,324,18
+231,Roger And Out,Roger Miller,3,1964-08-08,1965-01-16,321,24
+232,Your Good Girl's Gonna Go Bad,Tammy Wynette,7,1967-06-10,1967-08-19,321,11
+233,Country Charley Pride,Charley Pride,16,1966-11-05,1967-04-15,320,23
+234,Country All The Way,Kitty Wells,9,1966-07-16,1966-10-29,319,16
+235,"Hello, I'm Dolly",Dolly Parton,11,1967-11-11,1968-02-10,319,14
+236,My Blue Ridge Mountain Boy,Dolly Parton,6,1969-10-11,1969-12-27,318,12
+237,Apartment No. 9,Bobby Austin,11,1967-07-29,1967-10-28,318,14
+238,Don Gibson With Spanish Guitars,Don Gibson,4,1966-07-02,1966-10-08,316,15
+239,Jukebox Charlie,Johnny Paycheck,10,1967-08-12,1967-11-04,316,13
+240,Patsy Cline's Greatest Hits,Patsy Cline,17,1967-04-22,1967-08-26,315,19
+241,Here's Conway Twitty & His Lonely Blue Boys,Conway Twitty,12,1968-05-04,1968-08-17,314,15
+242,The Instrumental Hits Of Buck Owens And His Buckaroos,Buck Owens,4,1965-09-25,1966-04-09,312,28
+243,Golden Hits Volume 2,George Jones,10,1967-04-08,1967-06-17,308,11
+244,Connie Smith Sings Bill Anderson,Connie Smith,11,1967-06-24,1967-10-14,306,17
+245,Together,Jerry Lee Lewis,12,1969-10-04,1969-12-27,305,13
+246,Love Takes Care Of Me,Jack Greene,21,1968-12-21,1969-04-05,304,16
+247,Giddyup Go,Red Sovine,4,1966-02-05,1966-05-28,303,17
+248,Everybody Loves A Nut,Johnny Cash,5,1966-06-04,1966-08-27,303,13
+249,This Is Jan Howard Country,Jan Howard,9,1967-12-09,1968-02-17,299,11
+250,Mean As Hell! (Ballads From The True West),Johnny Cash,4,1966-04-02,1966-07-30,298,18
+251,Free And Easy,Dave Dudley,10,1966-12-03,1967-04-15,296,19
+252,A Million And One,Billy Walker,13,1966-10-15,1967-01-28,294,16
+253,You're The Only World I Know,Sonny James,2,1965-01-30,1965-06-12,293,20
+254,Jim Reeves And Some Friends,Jim Reeves,18,1969-02-15,1969-05-10,293,13
+255,Ray Price's Greatest Hits Vol. II,Ray Price,17,1967-12-16,1968-04-13,291,18
+256,The Statler Brothers Sing The Big Hits,The Statler Brothers,16,1967-10-07,1967-12-30,285,13
+257,Hangin' On,Waylon Jennings,9,1968-03-02,1968-05-04,284,10
+258,At Home With Lynn,Lynn Anderson,19,1969-08-16,1969-12-06,284,17
+259,One More Mile,Dave Dudley,15,1969-05-03,1969-07-12,281,11
+260,Just Beyond The Moon,Tex Ritter,18,1967-09-09,1967-12-16,279,15
+261,Bitter Tears (Ballads Of The American Indian),Johnny Cash,2,1964-11-14,1965-03-27,278,20
+262,Up Through The Years,Jim Reeves,1,1965-08-28,1966-02-05,276,24
+263,The 3rd Time Around,Roger Miller,1,1965-07-24,1965-12-04,274,20
+264,Ballads Of The Green Berets,SSgt Barry Sadler,1,1966-03-12,1966-05-28,273,12
+265,I Love A Song,Stonewall Jackson,2,1964-01-11,1964-06-27,272,25
+266,Lonesome Is Me,Charlie Louvin,13,1966-07-23,1966-11-12,272,15
+267,Roger Miller,Roger Miller,20,1969-08-30,1969-12-20,272,17
+268,The George Jones Story,George Jones,18,1968-10-05,1968-12-28,267,13
+269,The Story Of Bonnie & Clyde,Flatt & Scruggs,23,1968-05-25,1968-10-05,266,20
+270,Floyd Cramer Plays Country Classics,Floyd Cramer,16,1968-02-10,1968-05-04,262,13
+271,Just Between The Two Of Us,Bonnie Owens,4,1966-04-23,1966-08-06,261,16
+272,Story Songs For Country Folks,Faron Young,7,1964-02-15,1964-09-26,261,33
+273,Singin' Stu Phillips,Stu Phillips,14,1966-09-24,1966-12-24,260,14
+274,David Houston's Greatest Hits,David Houston,20,1968-03-23,1968-06-22,260,14
+275,The Easy Way,Eddy Arnold,1,1965-06-19,1965-10-23,259,19
+276,More Of That Guitar Country,Chet Atkins,4,1965-10-09,1966-03-05,259,22
+277,The Best Of Jim Reeves Volume II,Jim Reeves,4,1966-03-26,1966-07-02,258,15
+278,Pretty Miss Norma Jean,Norma Jean,3,1966-01-08,1966-05-21,257,20
+279,In The Good Old Days (When Times Were Bad),Dolly Parton,15,1969-03-01,1969-05-10,254,11
+280,I've Got You On My Mind Again,Buck Owens,19,1969-02-01,1969-04-12,254,11
+281,Lonelyville,Dave Dudley,6,1966-06-25,1966-10-08,253,16
+282,The Best Of Connie Smith,Connie Smith,22,1967-11-04,1968-02-17,249,16
+283,Talk Me Some Sense,Bobby Bare,6,1966-04-09,1966-07-09,247,14
+284,Don Gibson Sings All-Time Country Gold,Don Gibson,17,1969-08-02,1969-10-25,245,13
+285,Country Hall Of Fame,Hank Locklin,20,1968-03-30,1968-06-22,245,13
+286,Mr. Mel,Mel Tillis,20,1967-08-19,1967-11-18,244,14
+287,Tall Dark Stranger,Buck Owens,5,1969-11-08,1969-12-27,243,8
+288,Country-Folk,Waylon Jennings & The Kimberlys,13,1969-09-13,1969-12-06,243,13
+289,Your Forevers Don't Last Very Long,Jean Shepard,18,1967-09-30,1967-12-23,242,13
+290,George Jones' Greatest Hits,George Jones,16,1967-05-20,1967-08-12,240,13
+291,Heaven Says Hello,Sonny James,16,1968-07-27,1968-10-05,238,11
+292,If My Heart Had Windows,George Jones,12,1968-06-29,1968-09-07,235,11
+293,Chet Atkins Picks On The Beatles,Chet Atkins,6,1966-04-09,1966-07-16,234,15
+294,The One And Only Waylon Jennings,Waylon Jennings,19,1967-12-30,1968-03-09,234,11
+295,Here's What's Happening!,Floyd Cramer,20,1967-02-18,1967-06-03,234,16
+296,Norma Jean Sings Porter Wagoner,Norma Jean,19,1967-04-15,1967-07-01,232,12
+297,George Jones Sings Like The Dickens!,George Jones,6,1964-08-29,1965-03-06,231,24
+298,Dottie & Don,Dottie West,21,1969-05-10,1969-07-26,229,12
+299,Railroad Man,Hank Snow,7,1964-01-18,1964-07-11,228,26
+300,The First Thing Ev'ry Morning,Jimmy Dean,1,1965-10-02,1966-01-29,227,18
+301,A Thing Called Love,Jimmy Dean,20,1968-07-13,1968-09-28,227,12
+302,Travelin' With Dave Dudley,Dave Dudley,8,1964-09-12,1965-02-27,225,25
+303,Back In Baby's Arms,Connie Smith,12,1969-11-01,1969-12-27,225,9
+304,Liz Anderson Sings Her Favorites,Liz Anderson,16,1968-03-23,1968-09-07,225,14
+305,Bad Seed,Jan Howard,13,1966-12-17,1967-03-18,224,14
+306,What I'm Cut Out To Be,Dottie West,18,1968-04-06,1968-06-15,224,11
+307,Kay,"John Wesley Ryles, I",22,1969-04-12,1969-07-05,224,13
+308,The Race Is On,George Jones,3,1965-05-22,1965-09-18,223,18
+309,If The Whole World Stopped Lovin',Roy Drusky,17,1966-12-03,1967-04-22,223,15
+310,Stoneman's Country,Stonemans,13,1967-06-17,1967-09-09,222,13
+311,Dottie West Sings,Dottie West,12,1966-01-22,1966-07-02,221,19
+312,Great Country Songs,Don Gibson,14,1966-12-17,1967-03-04,219,12
+313,Through The Eyes Of Love,Tompall & The Glaser Brothers,18,1968-03-09,1968-05-18,219,11
+314,Close-Up,Merle Haggard,23,1969-08-23,1969-12-06,218,16
+315,Country Favorites: Willie Nelson Style,Willie Nelson,9,1966-04-30,1966-08-20,217,17
+316,Big Ben Strikes Again,Ben Colder,17,1966-12-24,1967-03-11,216,12
+317,All My Love,Don Gibson,19,1967-08-26,1967-11-11,216,12
+318,Marty's Country,Marty Robbins,20,1969-10-11,1969-12-27,216,12
+319,Inspiration,Tammy Wynette,19,1969-05-03,1969-07-05,215,10
+320,Singing What's In Our Heart,George Jones & Melba Montgomery,3,1964-01-11,1964-04-25,212,16
+321,Folk Song Book,Eddy Arnold,4,1964-03-14,1964-08-22,212,24
+322,Undo The Right,Johnny Bush,22,1968-10-12,1969-01-25,212,16
+323,Hello Vietnam,Johnny Wright,5,1965-12-25,1966-04-30,211,19
+324,This I Believe,Bobby Bare,17,1967-02-11,1967-05-06,211,13
+325,In Love The Whitman Way,Slim Whitman,16,1968-04-06,1968-06-08,210,10
+326,George Jones & Gene Pitney,George Jones & Gene Pitney,3,1965-04-03,1965-08-14,206,20
+327,A Little Bit Of Peggy,Peggy Little,22,1969-08-09,1969-11-01,206,13
+328,Tippy Toeing,The Harden Trio,10,1966-07-09,1966-09-17,203,11
+329,Wanda Jackson Salutes The Country Music Hall Of Fame,Wanda Jackson,12,1966-10-29,1966-12-31,203,10
+330,"Saginaw, Michigan",Lefty Frizzell,2,1964-04-18,1964-08-01,202,16
+331,Hymns,Loretta Lynn,10,1966-01-22,1967-09-09,202,19
+332,Cookin' Up Hits,Liz Anderson,18,1967-11-11,1968-01-13,197,10
+333,Orange Blossom Special,Johnny Cash,3,1965-03-20,1965-06-19,196,14
+334,The Warmth Of Eddy,Eddy Arnold,11,1969-11-08,1969-12-27,196,8
+335,Class Of '67,Floyd Cramer,21,1967-11-25,1968-01-27,195,10
+336,My Heart's In The Country,Skeeter Davis,14,1967-01-21,1967-03-25,194,10
+337,"With Love, From Lynn",Lynn Anderson,22,1969-04-05,1969-06-14,193,11
+338,Love's Gonna Happen To Me,Wynn Stewart,13,1968-01-20,1968-03-30,190,11
+339,Country Dance Favorites,Faron Young,7,1964-10-03,1965-02-06,189,19
+340,Please Don't Hurt Me,Norma Jean,8,1966-06-04,1966-08-27,188,13
+341,What Does It Take (To Keep A Man Like You Satisfied),Skeeter Davis,17,1967-11-25,1968-02-10,188,12
+342,The Bottom Of The Bottle,Porter Wagoner,19,1968-06-22,1968-08-24,188,10
+343,Hometown Guitar,Chet Atkins,17,1968-08-24,1968-10-12,186,8
+344,I Remember Johnny Horton,Claude King,24,1969-05-24,1969-07-26,186,10
+345,Burning Memories,Kitty Wells,7,1965-04-17,1965-09-25,184,24
+346,Drifting Apart,War,21,1967-06-10,1967-09-09,184,14
+347,The King Of Country Soul,Don Gibson,21,1968-06-08,1968-08-03,183,9
+348,I'll Keep Holding On (Just To Your Love),Sonny James,2,1965-06-05,1965-09-18,182,16
+349,"Thanks, Hank!",Jeannie Seely,17,1967-07-15,1967-09-30,182,12
+350,This Is My Story,Hank Snow,21,1966-11-19,1967-02-04,182,12
+351,Liz Anderson Sings,Liz Anderson,20,1967-06-03,1967-08-26,181,13
+352,The Many Moods Of Charlie Louvin,Charlie Louvin,9,1966-02-12,1966-05-14,180,14
+353,Love Bug,George Jones,7,1966-03-05,1966-06-04,179,14
+354,Have I Told You Lately That I Love You?,Jim Reeves,5,1964-12-19,1965-04-10,178,17
+355,Bright Lights And Country Music,Bill Anderson,6,1965-12-25,1966-04-09,174,16
+356,Connie Smith Sings Great Sacred Songs,Connie Smith,19,1966-09-10,1966-11-26,174,12
+357,"Lonesome, Sad And Blue",Kitty Wells,7,1965-07-31,1965-12-04,171,19
+358,Thanks A Lot,Ernest Tubb,7,1964-08-08,1964-12-26,171,21
+359,Roll Truck Roll,Red Simpson,7,1966-04-02,1966-06-11,170,11
+360,Porter Wagoner In Person,Porter Wagoner,5,1964-06-20,1964-10-31,169,20
+361,Unmitigated Gall,Faron Young,18,1967-02-25,1967-05-13,169,12
+362,Life Turned Her That Way,Mel Tillis,21,1967-03-25,1967-06-24,169,14
+363,All My Tomorrows,Nat Stuckey,28,1967-07-15,1967-10-21,168,15
+364,Bill Anderson Sings,Bill Anderson,7,1964-04-04,1964-08-29,167,20
+365,The Best Of Lynn Anderson,Lynn Anderson,29,1969-02-15,1969-05-24,167,15
+366,Less And Less / I Don't Love You Anymore,Charlie Louvin,6,1965-02-06,1965-06-12,166,19
+367,Country Girl,Dottie West,18,1968-09-07,1968-10-26,166,8
+368,From Nashville With Love,Chet Atkins,26,1966-11-12,1967-02-18,165,15
+369,Man With A Plan,Carl Smith,18,1966-08-13,1966-10-22,164,11
+370,Southern Bound,Kenny Price,23,1968-12-14,1969-02-15,163,10
+371,Don't Squeeze My Sharmon,Charlie Walker,16,1967-11-18,1968-01-06,160,8
+372,"",Roots Of Country Music (1965),4,1965-06-19,1965-10-02,158,16
+373,I Can Do Nothing Alone,Bill Anderson,23,1967-07-22,1967-10-07,156,12
+374,Your Cheatin' Heart,Hank Williams Jr.,5,1965-02-27,1965-06-12,153,16
+375,Flatt And Scruggs At Carnegie Hall!,Flatt & Scruggs,7,1964-01-25,1964-05-09,153,16
+376,If We Put Our Heads Together,Ernest Tubb,19,1969-07-05,1969-08-23,153,8
+377,Phantom 309,Red Sovine,18,1968-01-13,1968-03-02,152,8
+378,May The Bird Of Paradise Fly Up Your Nose,"""Little"" Jimmy Dickens",4,1965-12-18,1966-03-19,148,14
+379,Just Because I'm A Woman,Dolly Parton,22,1968-05-04,1968-06-29,148,9
+380,Dave Dudley Country,Dave Dudley,29,1967-09-30,1968-01-06,148,15
+381,Let Me Talk To You,Mel Tillis,17,1968-02-17,1968-04-20,146,10
+382,"Bottle, Bottle",Jim Ed Brown,20,1968-04-06,1968-05-25,146,8
+383,Teardrop Lane,Ned Miller,22,1967-01-28,1967-04-08,146,11
+384,Father & Son,Hank Williams,8,1965-07-03,1965-10-02,145,14
+385,Truck Drivin' Son-0f-A-Gun,Dave Dudley,3,1965-09-25,1965-12-18,143,13
+386,New Country Hits,George Jones,5,1965-10-09,1966-01-15,143,15
+387,15th Anniversary Album,Slim Whitman,25,1967-06-10,1967-08-05,143,9
+388,Miss Bonnie Guitar,Bonnie Guitar,21,1966-09-24,1966-12-03,142,11
+389,The Best Of Sonny James Vol. 2,Sonny James,26,1969-02-22,1969-05-03,141,10
+390,Breakin' The Rules,Hank Thompson,22,1966-10-15,1966-12-24,137,11
+391,Keep 'Em Country,Nat Stuckey,27,1969-05-24,1969-07-26,136,10
+392,"Luke The Drifter, Jr.",Hank Williams Jr.,20,1969-02-01,1969-03-08,135,6
+393,Folksy,George Hamilton IV,21,1967-09-09,1967-11-11,135,10
+394,Recorded Live At Vanderbilt University,Flatt & Scruggs,10,1964-04-04,1964-09-05,134,23
+395,Look Into My Teardrops,Conway Twitty,22,1966-12-31,1967-02-25,134,9
+396,The Buck Owens Song Book,The Buckaroos,10,1966-03-12,1966-05-14,133,10
+397,With Pen In Hand,Johnny Darrell,23,1968-08-24,1968-10-12,133,8
+398,From This Pen,Bill Anderson,7,1965-09-18,1965-12-18,132,14
+399,Kitty Wells Showcase,Kitty Wells,22,1968-07-27,1968-09-21,131,9
+400,The English Country Side,Bobby Bare,29,1967-12-23,1968-02-24,130,10
+401,Country Guitar,Phil Baugh,4,1965-08-07,1965-10-23,128,12
+402,Where Love Used To Live / My Woman's Good To Me,David Houston,27,1969-02-22,1969-05-17,128,13
+403,Our Kind Of Country,The Browns,25,1967-01-14,1967-03-18,127,10
+404,Gettin' Any Feed For Your Chickens,Del Reeves,18,1966-09-03,1966-10-22,125,8
+405,Johnny Paycheck At Carnegie Hall,Johnny Paycheck,22,1966-07-30,1966-10-08,125,11
+406,Here's That Man Again,Bob Wills And His Texas Playboys,24,1968-02-24,1968-04-13,125,8
+407,Just For You,Ferlin Husky,19,1968-02-24,1968-04-13,124,8
+408,A Bird Named Yesterday,Bobby Bare,20,1967-10-28,1967-12-09,124,7
+409,You Gave Me A Mountain,Johnny Bush,29,1969-04-12,1969-06-28,124,12
+410,In A New Dimension,Roy Drusky,20,1966-08-06,1966-10-08,123,10
+411,More Country Soul,Don Gibson,26,1968-11-02,1969-02-08,123,10
+412,Flowers On The Wall,The Statler Brothers,10,1966-02-12,1966-04-16,122,10
+413,I'll Remember Always,Charlie Louvin,22,1967-04-15,1967-05-27,122,7
+414,Faded Love And Winter Roses,Carl Smith,23,1969-04-12,1969-05-17,122,6
+415,Best Country Duets,Various Artists,25,1968-12-07,1969-02-22,122,9
+416,Original Theme From Bonnie & Clyde,Flatt & Scruggs,26,1968-05-18,1968-08-17,122,10
+417,Guilty Street,Kitty Wells,29,1969-04-26,1969-07-12,122,12
+418,Artificial Rose,Jimmy Newman,10,1966-04-23,1966-06-18,121,9
+419,You'll Always Have My Love,Wanda Jackson,25,1967-10-21,1967-12-09,120,8
+420,Happy State Of Mind,Bill Anderson,24,1968-10-19,1969-02-08,119,11
+421,The Gentle Country Sound Of George Hamilton IV,George Hamilton IV,25,1968-04-20,1968-06-01,119,7
+422,The Nashville Sound,Danny Davis And The Nashville Brass,33,1968-11-23,1969-05-24,118,17
+423,Songs Of Tragedy,Hank Snow,11,1964-10-17,1965-02-20,117,19
+424,Together Again,Kitty Wells,24,1967-08-19,1967-10-14,117,9
+425,Doodle-Oo-Doo-Doo,Del Reeves,6,1965-12-11,1966-02-19,116,11
+426,Reckless Love Affair,Wanda Jackson,17,1967-05-13,1967-06-10,116,5
+427,Close-Up,Buck Owens,31,1969-08-23,1969-11-08,115,12
+428,Memories Of America / Ode To The Little Brown Shack Out Back,Billy Edd Wheeler,6,1965-03-13,1965-05-29,114,12
+429,The Country Gentleman,Carl Smith,22,1967-02-11,1967-05-06,114,11
+430,Bonnie Guitar,Bonnie Guitar,30,1968-03-09,1968-05-18,114,11
+431,What Can I Say,Arlene,30,1968-09-07,1968-11-02,112,9
+432,The Cockfight And Other Tall Tales,Archie,30,1967-04-01,1967-06-17,112,12
+433,A Devil Like Me Needs An Angel Like You,Dick Curless & Kay Adams,16,1966-05-14,1966-07-30,111,12
+434,There Stands The Glass,Carl Smith,9,1964-06-20,1964-11-21,109,21
+435,Floyd Cramer Plays More Country Classics,Floyd Cramer,20,1969-11-15,1969-12-27,108,7
+436,The Many Country Moods Of Warner Mack,War,21,1968-05-25,1968-07-06,108,7
+437,From The Heart,Diana Trask,32,1969-09-20,1969-11-29,108,11
+438,I Forgot To Cry,Charlie Louvin,25,1967-10-07,1967-11-18,107,7
+439,Truck Drivin' Cat With Nine Wives,Jim Nesbitt,26,1968-03-02,1968-04-20,107,8
+440,That's Why I Love You So Much,Ferlin Husky,24,1969-07-12,1969-09-27,105,9
+441,"Mr. Walker, It's All Over",Billie Jo Spears,26,1969-05-31,1969-07-05,104,6
+442,I'll Love You More,Jeannie Seely,30,1968-03-02,1968-04-27,104,9
+443,Coming On Strong,Henson Cargill,31,1969-01-04,1969-03-29,104,10
+444,Norma Jean Sings A Tribute To Kitty Wells,Norma Jean,23,1966-12-10,1967-02-11,103,10
+445,Golden Country Hits,Hank Thompson,6,1964-08-08,1964-11-21,102,16
+446,Cream Of The Crop,Wanda Jackson,25,1968-10-19,1968-11-16,100,5
+447,Return Of The Gunfighter,Marty Robbins,6,1964-01-11,1964-03-28,99,12
+448,Togetherness,Freddie Hart,32,1968-02-17,1968-05-18,99,14
+449,The Game Of Triangles,Bobby Bare,18,1967-03-04,1967-04-22,97,8
+450,Like A Merry-Go-Round,Liz Anderson,22,1968-09-14,1968-10-12,96,5
+451,What Am I Gonna Do Now?,Ferlin Husky,22,1967-07-08,1967-08-26,96,8
+452,The Glory Of Love,Eddy Arnold,27,1969-07-19,1969-08-23,96,6
+453,It's Another World,Wilburn Brothers,23,1968-03-23,1968-05-04,95,7
+454,Deep Water,Carl Smith,28,1968-05-11,1968-06-22,95,7
+455,Roy Drusky's Greatest Hits,Roy Drusky,7,1965-12-04,1966-02-12,94,11
+456,The Kitty Wells Story,Kitty Wells,7,1964-01-11,1964-07-11,93,15
+457,Together Again,Roy Drusky,14,1966-06-25,1966-09-03,93,10
+458,"Ride, Ride, Ride",Lynn Anderson,25,1967-05-13,1967-06-24,92,7
+459,I Get Lonely In A Hurry,George Jones,10,1964-11-28,1965-02-20,91,13
+460,The 1st Of Sonny Curtis,Sonny Curtis,21,1968-02-24,1968-03-23,91,5
+461,Class Guitar,Chet Atkins,26,1967-11-25,1968-02-03,91,10
+462,Hold Me,Johnny & Jonie Mosby,33,1969-09-27,1969-12-13,91,12
+463,Love Makes The World Go Around,Kitty Wells,28,1967-05-20,1967-07-15,90,9
+464,Loving Arms,Carl Butler & Pearl,10,1964-03-07,1964-07-04,89,15
+465,The Who's Who Of Country & Western Music,Various Artists,23,1966-06-25,1966-09-24,89,14
+466,Good Times,Willie Nelson,29,1968-11-09,1968-12-21,89,7
+467,Faithfully Yours,Eddy Arnold,8,1964-12-26,1965-04-10,88,16
+468,Young Love,Connie Smith & Nat Stuckey,29,1969-08-30,1969-11-15,88,10
+469,Songs That Made Country Girls Famous,Lynn Anderson,10,1969-12-06,1969-12-27,87,4
+470,The Guitar Player,Buck Owens,27,1968-11-09,1968-12-14,87,6
+471,Memory #1,Webb Pierce,6,1965-08-14,1965-10-16,86,10
+472,Burning Memories,Ray Price,8,1965-03-20,1965-05-15,86,9
+473,Story Songs Of The Trains And Rivers,Johnny Cash,14,1969-12-13,1969-12-27,86,3
+474,Carl Smith Sings A Tribute To Roy Acuff,Carl Smith,28,1969-09-06,1969-10-18,86,7
+475,Goin' To Cal's Place,Cal Smith,31,1967-09-09,1967-11-11,86,10
+476,The Many Moods Of Wanda Jackson,Wanda Jackson,28,1969-03-01,1969-04-05,85,6
+477,Wine Me Up,Faron Young,15,1969-12-13,1969-12-27,84,3
+478,Jan Howard,Jan Howard,25,1969-07-12,1969-08-09,83,5
+479,500 Miles Away From Home,Bobby Bare,9,1964-02-01,1964-03-28,82,9
+480,There's A Star-Spangled Banner Waving Somewhere,Dave Dudley,12,1966-02-05,1966-04-16,82,11
+481,I Could Sing All Night,Ferlin Husky,18,1966-07-16,1966-10-01,82,12
+482,Roy Clark Sings Lonesome Love Ballads,Roy Clark,21,1966-03-12,1966-06-25,81,10
+483,Blues In My Heart,Wanda Jackson,9,1965-06-12,1965-10-02,79,14
+484,Jody And The Kid,Roy Drusky,27,1968-08-24,1968-11-02,79,5
+485,Two Worlds,Bonnie Guitar,15,1966-05-28,1966-07-09,78,7
+486,The Best Of Wanda Jackson,Wanda Jackson,29,1968-04-06,1968-07-13,78,7
+487,Red Roses For A Blue Lady,George Morgan,9,1965-06-26,1965-08-21,77,9
+488,Class Of '69,Floyd Cramer,31,1969-06-14,1969-07-19,77,6
+489,Girl On The Billboard,Del Reeves,8,1965-09-25,1965-11-20,76,9
+490,I'm A Nut,Leroy Pullins,27,1966-09-10,1966-10-22,76,7
+491,Country's Best On Record,Jim Ed Brown,28,1968-07-06,1968-08-17,76,7
+492,A Night On The Town With Buck Owens' Buckaroos,The Buckaroos,32,1968-05-11,1968-06-29,75,8
+493,Sunshine And Rain,Connie Smith,32,1968-11-30,1969-02-01,75,10
+494,Movin' On,Danny Davis And The Nashville Brass,16,1969-12-13,1969-12-27,74,3
+495,Struttin' My Stuff,Del Reeves,22,1967-03-18,1967-04-22,74,6
+496,Something Pretty,Wynn Stewart,28,1968-07-06,1968-08-10,74,6
+497,Our Way Of Life,Bobby Goldsboro,28,1967-12-09,1968-01-20,74,7
+498,Get Rhythm,Johnny Cash,30,1969-11-15,1969-12-27,74,7
+499,Alabama Wild Man,Jerry Reed,31,1968-11-02,1968-12-28,74,9
+500,A Six Pack To Go,Hank Thompson,19,1966-04-16,1966-06-04,73,8
+501,Traveling Shoes,Guy Mitchell,23,1967-12-30,1968-02-10,73,7
+502,Yesterday's Gone,Roy Drusky,14,1964-10-24,1965-01-30,71,15
+503,Who's Julie,Mel Tillis,35,1969-04-26,1969-06-21,71,9
+504,Mel Tillis Sings Old Faithful,Mel Tillis,26,1969-08-30,1969-09-20,70,4
+505,Songs From My Heart....,Loretta Lynn,8,1965-04-10,1965-07-10,69,11
+506,Up To Date And Down To Earth,The Osborne Brothers,27,1969-08-16,1969-09-06,69,4
+507,Looking At The World Through A Windshield,Del Reeves,33,1968-12-21,1969-02-01,69,7
+508,Why You Been Gone So Long,Johnny Darrell,33,1969-08-02,1969-10-18,69,10
+509,Tunes For Two,Skeeter Davis,8,1965-04-10,1965-06-05,68,9
+510,The Patsy Cline Story,Patsy Cline,9,1964-01-18,1964-03-07,68,8
+511,"The Tall, Tall Gentleman",Carl Smith,12,1964-01-11,1964-03-21,67,11
+512,Here Comes My Baby,Dottie West,12,1965-07-03,1965-09-18,67,12
+513,Bluegrass Hootenanny,George Jones & Melba Montgomery,12,1964-05-02,1964-08-29,65,12
+514,From The Heart Of Texas,Bob Wills And His Texas Playboys,32,1966-12-10,1967-03-18,62,13
+515,Tear Time,Wilma Burgess,36,1967-12-16,1968-02-10,62,9
+516,Before I'm Over You,Loretta Lynn,11,1964-08-22,1964-10-10,61,8
+517,Jimmy Dean's Greatest Hits,Jimmy Dean,22,1966-06-18,1967-06-10,61,13
+518,"The Geezinslaw Brothers & ""Chubby""",Geezinslaw Brothers,29,1968-05-18,1968-06-08,61,4
+519,Pride Of Country Music,Charley Pride,33,1967-07-01,1967-12-09,61,10
+520,Hits From The Country Hall Of Fame,Floyd Cramer,10,1965-04-24,1965-07-17,60,13
+521,Anywhere U.S.A.,The Buckaroos,35,1969-04-12,1969-05-24,60,7
+522,Meet Darrell McCall,Darrell Mccall,35,1969-02-08,1969-08-02,60,9
+523,Trouble & Me,Stonewall Jackson,15,1965-02-13,1965-10-02,59,16
+524,Nashville Underground,Jerry Reed,31,1968-05-11,1968-06-15,59,6
+525,I'm A Good Man In A Bad Frame Of Mind,Jack Reno,30,1969-08-09,1969-09-06,58,5
+526,Softly,Hank Locklin,32,1969-03-01,1969-04-05,58,6
+527,"Yesterday, Today & The Osborne Brothers",The Osborne Brothers,34,1968-06-01,1968-07-06,57,6
+528,Country Giants,Norma Jean,36,1969-06-07,1969-07-19,57,7
+529,Miss Country Soul,Diana Trask,34,1969-03-08,1969-04-12,56,6
+530,Now Is A Lonely Time,Roy Drusky,31,1967-10-07,1967-12-02,55,9
+531,Travelin' Man,Cal Smith,34,1968-02-17,1968-03-30,55,7
+532,"Count Your Blessings, Woman",Jan Howard,27,1968-07-06,1968-07-27,54,4
+533,Why So Lonely?,Skeeter Davis,33,1968-05-11,1968-06-15,54,6
+534,Drinking Champagne,Cal Smith,33,1969-01-11,1969-02-22,54,7
+535,Greatest Hits Vol. 2,Roy Drusky,33,1968-02-10,1968-03-30,54,8
+536,The Pick Of The Country,Roy Drusky,11,1965-01-09,1965-04-03,53,13
+537,Webb's Choice,Webb Pierce,29,1966-08-06,1966-09-17,53,7
+538,Just Jim,Jim Edward Brown,32,1967-06-03,1967-08-26,53,9
+539,Live Country Music Concert,Willie Nelson,32,1966-12-17,1967-05-06,53,9
+540,Nashville Airplane,Flatt & Scruggs,35,1968-12-21,1969-02-01,53,6
+541,Close Together (As You And Me),George Jones,28,1966-11-26,1967-01-14,52,8
+542,Somethin' For Everyone,Elton Britt,31,1966-09-24,1966-11-05,52,7
+543,Webb Pierce Sings This Thing,Webb Pierce,32,1969-08-09,1969-09-06,52,5
+544,"The Best Of Hank Williams, Jr.",Hank Williams Jr.,33,1967-12-16,1968-01-13,51,5
+545,My Country,George Jones,36,1969-02-22,1969-04-05,51,7
+546,My Grass Is Green,Roy Drusky,37,1969-10-18,1969-11-29,51,7
+547,Too Much Hurt,Don Gibson,13,1965-11-06,1966-01-15,50,10
+548,The Essential Hank Williams,Hank Williams,34,1969-11-08,1969-12-27,50,8
+549,Here's Faron Young,Faron Young,35,1968-08-17,1968-09-21,50,6
+550,Remember Me,Jim Ed Brown,37,1969-04-12,1969-05-31,50,8
+551,Today,Bobby Goldsboro,34,1969-05-31,1969-07-05,49,6
+552,"""Detroit City"" And Other Hits",Bobby Bare,9,1964-01-11,1964-02-15,48,6
+553,Good 'N' Country,Jim Reeves,13,1964-01-11,1964-05-30,48,10
+554,Town And Country,Flatt & Scruggs,15,1966-02-19,1966-04-02,48,7
+555,Conway Twitty Country,Conway Twitty,32,1967-11-18,1967-12-09,48,4
+556,Happy Street,Slim Whitman,34,1968-11-30,1969-01-11,48,7
+557,Hits Covered By Snow,Hank Snow,35,1969-08-02,1969-08-30,48,5
+558,Let's Get Together,George Jones,37,1967-09-02,1968-01-27,48,9
+559,Ten Little Bottles,Johnny Bond,12,1965-05-08,1965-06-26,47,8
+560,The Webb Pierce Story,Webb Pierce,13,1964-08-22,1964-10-10,46,8
+561,A Real Good Woman,Jean Shepard,32,1968-11-02,1968-11-23,46,4
+562,Showtime,Johnny Cash,26,1969-11-29,1969-12-27,45,5
+563,Grassroots Country,Stu Phillips,36,1967-05-13,1967-07-01,45,8
+564,Songs Of The Cities,Roy Drusky,14,1964-02-15,1964-04-25,44,10
+565,Greatest Hits Vol. 2,Faron Young,24,1968-02-24,1968-03-02,44,2
+566,Country Hits By Candlelight,George Morgan,33,1968-01-27,1968-02-17,43,4
+567,Blue & Lonesome,George Jones,11,1964-07-04,1964-08-15,42,7
+568,"Another Time, Another World",Jerry Wallace,31,1968-06-22,1968-07-13,42,4
+569,Carl Perkins' Greatest Hits,Carl Perkins,32,1969-07-12,1969-08-02,42,4
+570,Born A Fool,Freddie Hart,35,1968-10-05,1968-11-30,42,6
+571,Strangers,Merle Haggard,9,1965-10-30,1965-12-04,41,6
+572,The Bridge Washed Out,War,14,1965-10-23,1965-12-25,41,9
+573,Somewhere Between,Bonnie Owens,34,1968-04-27,1968-05-18,41,4
+574,Body And Mind,Norma Jean,37,1968-06-22,1968-08-10,40,8
+575,Country Music Time,Kitty Wells,14,1964-11-28,1965-01-23,39,9
+576,The Kind Of Man I Am,Charlie Louvin,32,1969-08-02,1969-08-16,39,3
+577,The Carl Smith Special: The Country Gentleman Sings His Favorites,Carl Smith,34,1967-09-23,1967-10-14,39,4
+578,"My Dirty, Lowdown, Rotten, Cotton-Pickin' Little Darlin'",Geezinslaw Brothers,36,1967-08-19,1967-09-16,39,5
+579,Nat Stuckey Sings,Nat Stuckey,37,1968-11-16,1969-02-15,38,8
+580,New Country Roads,Nat Stuckey,28,1969-12-13,1969-12-27,37,3
+581,The Best Of Bobby Bare-Volume 2,Bobby Bare,33,1968-06-29,1968-07-13,37,3
+582,The Judy Lynn Show,Judy Lynn,14,1965-02-06,1965-03-13,36,6
+583,Blue Kentucky Girl,Loretta Lynn,14,1965-07-10,1965-09-11,36,8
+584,The Best Of Hank Thompson Vol. 2,Hank Thompson,34,1967-02-25,1967-05-13,36,7
+585,I'm Easy To Love,Stan Hitchcock With Sue Richards,36,1968-09-21,1968-10-19,36,5
+586,Mr. And Mrs. Used To Be,Ernest Tubb And Loretta Lynn,13,1965-10-09,1966-01-01,35,10
+587,Folk Country Classics,George Hamilton IV,33,1967-03-25,1967-04-22,35,5
+588,A Woman Needs Love,Marion Worth,38,1968-01-13,1968-02-17,35,6
+589,Slippin' Around,George Morgan,12,1964-09-26,1964-11-21,34,9
+590,Meanwhile Back At The Ranch,The Buckaroos,34,1968-10-26,1968-11-09,34,3
+591,Portrait Of Roy Drusky,Roy Drusky,33,1969-03-15,1969-03-29,33,3
+592,Dynamite!,Peggy Sue,33,1969-11-08,1969-12-13,33,6
+593,Spanish Fire Ball And Other Great Hank Snow Stylings,Hank Snow,35,1967-12-02,1967-12-23,33,4
+594,Hey Daddy,Charlie Louvin,37,1969-02-01,1969-02-22,33,4
+595,The Son Of Hickory Holler's Tramp,Johnny Darrell,37,1968-03-23,1968-05-04,33,7
+596,We'll Stick Together,Kitty Wells,30,1968-07-20,1968-07-27,32,2
+597,The Sunshine Man,Mac Curtis,35,1968-11-23,1968-12-07,32,3
+598,Tales Of The Yukon,Hank Snow,35,1968-10-12,1968-11-09,32,5
+599,"Ruby, Don't Take Your Love To Town",Johnny Darrell,37,1967-07-29,1967-08-19,32,4
+600,"The Gun, The Gold And The Girl / Cross The Brazos At Waco",Billy Walker,13,1965-06-26,1965-07-31,31,6
+601,Our Man In Trouble,Don Bowman,14,1964-03-21,1964-08-15,31,9
+602,Coast-Country,George Hamilton IV,21,1966-03-12,1966-04-02,31,4
+603,Hank Williams Jr. Sings The Songs Of Hank Williams,Hank Williams Jr.,12,1964-05-02,1964-06-13,30,7
+604,Any News From Nashville?,Homer And Jethro,24,1966-06-04,1966-07-09,30,6
+605,You're In Good Hands With Johnny Carver,Johnny Carver,31,1968-04-20,1968-04-27,30,2
+606,Words And Music,Roger Miller,32,1966-11-26,1966-12-24,30,5
+607,Can You Believe...The Geezinslaw Brothers!,Geezinslaw Brothers,33,1966-11-12,1967-01-14,30,6
+608,The Instrumental Sounds Of Merle Haggard's Strangers,The Strangers,36,1969-03-08,1969-03-29,30,4
+609,The Walker Way,Billy Walker,37,1967-05-13,1967-06-03,30,4
+610,Sweetheart Of The Year,Ray Price,37,1969-07-26,1969-10-04,30,6
+611,Faron Young Aims At The West,Faron Young,11,1964-01-11,1964-02-08,29,4
+612,Mr. Country And Western Music,George Jones,13,1965-06-19,1965-07-17,29,5
+613,This One's On The House,Jerry Wallace,35,1968-02-03,1968-03-02,29,5
+614,Help Stamp Out Loneliness,Stonewall Jackson,36,1967-06-24,1967-07-08,29,3
+615,In The 4th Dimension,George Hamilton IV,36,1969-01-18,1969-02-08,29,4
+616,In The Beginning,Hank Williams,37,1968-09-07,1968-09-28,29,4
+617,Through A Crack In A Boxcar Door,B,37,1968-04-13,1968-05-11,29,5
+618,The Best Of Norma Jean,Norma Jean,30,1969-12-20,1969-12-27,28,2
+619,Waylon Sings Ol' Harlan,Waylon Jennings,32,1967-04-22,1967-05-06,28,3
+620,Nothing Takes The Place Of Loving You,Stonewall Jackson,34,1968-07-20,1968-08-03,28,3
+621,Sweet Child Of Sunshine,Jerry Wallace,35,1968-12-28,1969-01-11,28,3
+622,A World Of Love,Bobby Lewis,35,1968-01-06,1968-01-20,28,3
+623,Hear The Whistles Blow,Flatt & Scruggs,37,1967-10-14,1967-11-11,28,5
+624,(Margie's At) The Lincoln Park Inn (And Other Controversial Country Songs),Bobby Bare,39,1969-06-28,1969-08-02,28,6
+625,Talk Of The Town,Dave Dudley,16,1965-01-23,1965-03-13,27,8
+626,That Man Robert Mitchum...Sings,Robert Mitchum,35,1967-10-21,1967-11-18,27,5
+627,The Hits Of Charley Pride,Tom,36,1969-06-14,1969-06-28,27,3
+628,Close-Up,Sonny James,38,1969-08-23,1969-09-13,27,4
+629,I Believe In Love,Bonnie Guitar,39,1968-07-20,1968-08-17,27,5
+630,Tombstone Every Mile,Dick Curless,12,1965-07-10,1965-08-14,26,6
+631,Funny Way To Make An Album,Don Bowman,14,1966-01-22,1966-03-26,26,7
+632,Cal Smith Sings,Cal Smith,34,1969-08-30,1969-09-13,26,3
+633,Kitty Wells' Greatest Hits,Kitty Wells,37,1968-08-10,1968-08-31,26,4
+634,From Memphis To Vegas / From Vegas To Memphis,Elvis Presley,37,1969-12-06,1969-12-27,26,4
+635,Portrait Of Billy,Billy Walker,40,1969-06-14,1969-07-19,26,6
+636,I Wrote A Song...,Don Gibson,14,1964-01-18,1964-03-14,25,8
+637,Country Shadows,Hank Williams Jr.,33,1966-10-15,1966-11-05,25,4
+638,The Last Goodbye,Dick Miles,38,1968-06-08,1968-06-29,25,4
+639,Sound Of A Heartache,Johnny Bush,38,1968-06-15,1968-07-20,25,6
+640,My Pick Of The Hits,Ernest Tubb,15,1965-11-27,1966-01-01,24,6
+641,The Girls Get Prettier,Hank Locklin,26,1966-07-02,1966-09-17,24,10
+642,Ernest Tubb Sings Hank Williams,Ernest Tubb,34,1968-04-20,1968-04-27,24,2
+643,Do You Believe This Roy Clark,Roy Clark,34,1968-12-07,1968-12-14,24,2
+644,All Country,Jerry Lee Lewis,39,1969-04-12,1969-05-03,24,4
+645,Del Reeves Sings Jim Reeves,Del Reeves,23,1966-04-02,1966-04-16,23,3
+646,Saturday Satan Sunday Saint,Ernest Tubb,34,1969-07-19,1969-07-26,23,2
+647,Award Winner,Bonnie Guitar,38,1967-07-01,1967-07-15,23,3
+648,The Wilburn Brothers Show,Wilburn Brothers,25,1966-03-19,1966-06-04,22,8
+649,Running Wild,Del Reeves,35,1968-05-25,1968-06-01,22,2
+650,Something Special,Mel Tillis,36,1968-09-14,1968-09-28,22,3
+651,Mr. Nashville Sound,Lloyd Green,37,1968-06-15,1968-06-29,22,3
+652,Spring,Clay Hart,38,1969-09-20,1969-10-04,22,3
+653,I Love Flatt & Scruggs,Skeeter Davis,39,1968-10-26,1968-12-28,22,5
+654,This Is My Beat!,Jim Ed Brown,39,1968-11-30,1969-01-04,22,6
+655,"Blue Ribbon Country, Vol. 2",Various Artists,39,1969-06-07,1969-08-23,22,6
+656,"Carl Smith's Greatest Hits, Vol. 2",Carl Smith,40,1969-07-05,1969-08-09,22,6
+657,The Porter Wagoner Show,Porter Wagoner,13,1964-01-11,1964-01-25,21,3
+658,The Travelin' Bare,Bobby Bare,14,1964-11-07,1964-11-28,21,4
+659,Little Things,Jeannie Seely,36,1969-01-11,1969-02-01,21,4
+660,My Own Peculiar Way,Willie Nelson,39,1969-03-15,1969-04-05,21,4
+661,Thanks For All The Miles,Dave Dudley,39,1968-08-10,1968-10-26,21,6
+662,Just Hold My Hand,Johnny & Jonie Mosby,41,1969-03-01,1969-04-05,21,6
+663,The Guitar Stylings Of Hank Snow,Hank Snow,26,1966-06-04,1966-07-09,20,6
+664,Candy Kisses,George Morgan,35,1967-05-13,1967-05-20,20,2
+665,Floyd Cramer Plays MacArthur Park,Floyd Cramer,36,1968-12-28,1969-01-04,20,2
+666,Sounds Of Goodbye,Gosdin Bros,39,1968-11-02,1968-11-23,20,4
+667,Honky Tonkin',Carl Butler & Pearl,41,1969-02-15,1969-03-15,20,5
+668,Kitty Wells Sings Songs Made Famous By Jim Reeves,Kitty Wells,24,1966-04-16,1966-05-07,19,4
+669,I've Got Precious Memories,Faron Young,38,1969-05-17,1969-06-07,19,4
+670,The Best Of Tex Ritter,Tex Ritter,38,1966-11-05,1967-05-20,19,5
+671,If I Lived Here,Glen Garrison,39,1968-05-04,1968-05-18,19,3
+672,Johnny One Time,Johnny Duncan,40,1969-09-13,1969-10-04,19,4
+673,Still,Bill Anderson,10,1964-01-11,1964-02-01,18,3
+674,Faron Young Sings The Best Of Jim Reeves,Faron Young,18,1966-02-26,1966-03-19,18,4
+675,The Man Behind The Badge,Red Simpson,34,1966-10-22,1966-11-12,18,4
+676,All Of Me Belongs To You,Bonnie Owens,35,1967-02-18,1967-03-11,18,4
+677,Nashville Women,Hank Locklin,36,1967-10-21,1967-10-28,18,2
+678,One Hit Follows Another,Kenny Price,36,1967-03-25,1967-04-15,18,4
+679,Greatest Hits,"""Little"" Jimmy Dickens",39,1969-08-16,1969-08-30,18,3
+680,My Love Song For You,Hank Locklin,40,1968-10-12,1968-11-09,18,5
+681,Country On My Mind,Carl Smith,42,1968-09-07,1968-10-12,18,6
+682,I Taught Her Everything She Knows,Billy Walker,38,1968-03-02,1968-03-16,17,3
+683,Bump Tiddil Dee Bum Bum!,Tex Ritter,38,1968-03-30,1968-04-27,17,5
+684,Feminine Fancy,Dottie West,39,1969-02-15,1969-03-01,17,3
+685,My Cathedral,Jim Reeves,39,1967-12-23,1968-01-13,17,4
+686,Affair!,Bonnie Guitar,40,1969-08-16,1969-08-30,17,3
+687,Give Me Five,Buck Trent,40,1968-01-13,1968-02-03,17,4
+688,My Own Way,Hank Williams Jr.,42,1967-07-08,1967-08-12,17,6
+689,Don't Take Advantage Of Me,Bonnie Owens,15,1965-10-30,1965-11-27,16,5
+690,The Great Old Songs,Stonewall Jackson,38,1968-11-02,1968-11-09,16,2
+691,The Terrific Texas Troubadours And Guests,Terrific Texas Troubadors,38,1968-07-20,1968-07-27,16,2
+692,Country Fever,Hugh X. Lewis,39,1968-07-13,1968-07-27,16,3
+693,Dedicated To: Only You,Norro Wilson,40,1969-05-31,1969-06-21,16,4
+694,The Legend Lives Anew,Hank Williams,35,1966-09-03,1966-09-17,15,3
+695,"Ernest Tubb Sings Country Hits, Old & New",Ernest Tubb,35,1966-10-29,1966-11-19,15,4
+696,Me And My Boys,Porter Wagoner,38,1969-10-04,1969-10-11,15,2
+697,The Heart Of Hank,Hank Cochran,41,1968-04-20,1968-05-11,15,4
+698,Back In The Arms Of Love,Jack Greene,41,1969-11-29,1969-12-27,15,5
+699,Seven Lonely Days,Jean Shepard,42,1969-10-18,1969-11-08,15,4
+700,It's Country Time Again!,George Jones,17,1965-10-09,1965-10-30,14,4
+701,Wheels & Tears,Kay Adams,36,1966-11-19,1967-01-07,14,5
+702,The Way You Like It,B,37,1966-10-01,1966-10-22,14,4
+703,Love's A Woman's Job,Norma Jean,39,1969-01-18,1969-01-25,14,2
+704,She's Lookin' Better By The Minute,Jay Lee Webb,41,1969-07-12,1969-07-26,14,3
+705,Flatt & Scruggs' Greatest Hits,Flatt & Scruggs,34,1966-11-26,1966-12-03,13,2
+706,Tale Of Two Cities,Frank Ifield,35,1967-01-21,1967-02-11,13,4
+707,Greatest Hits Vol. 2,Dave Dudley,39,1968-02-17,1968-02-24,13,2
+708,Let The Whole World Sing It With Me,Wynn Stewart,41,1969-05-10,1969-05-24,13,3
+709,Country Soul,Johnny Paycheck,41,1968-06-29,1968-07-20,13,4
+710,From Mexico With Laughs Featuring The Tijuana Drum And Bugle Corps,Don Bowman,42,1967-07-29,1967-08-26,13,5
+711,Conway Twitty Sings,Conway Twitty,25,1966-06-11,1966-06-18,12,2
+712,Two Sides Of Tex Williams,Tex Williams,26,1966-04-30,1966-05-28,12,4
+713,On Top,Carl Perkins,42,1969-11-22,1969-12-06,12,3
+714,Cattle Call,Eddy Arnold,16,1964-01-18,1964-02-08,11,3
+715,Hits Of Today And Tomorrow,Ernest,18,1964-03-21,1964-04-18,11,5
+716,An Ordinary Miracle,Bobby Lewis,40,1968-05-18,1968-06-01,11,3
+717,Touch 'Em With Love,Bobbie Gentry,42,1969-08-09,1969-08-30,11,4
+718,The Country Beat Of Warner Mack,War,42,1969-06-21,1969-07-12,11,4
+719,Heart To Heart,Jean Shepard,43,1968-03-09,1968-03-30,11,4
+720,King Of Western Swing,Bob Wills And His Texas Playboys,43,1967-09-16,1967-12-02,11,5
+721,"Cloudy, With Occasional Tears",Skeeter Davis,11,1964-01-11,1964-01-11,10,1
+722,Thank You For Calling,Billy Walker,18,1965-01-02,1965-01-30,10,5
+723,Heartbreak Trail: A Tribute To The Sons Of The Pioneers,Hank Snow,26,1966-03-12,1966-03-26,10,3
+724,Don Bowman Recorded Almost Live,Don Bowman,36,1967-02-18,1967-02-25,10,2
+725,Johnny Horton On Stage,Johnny Horton,37,1967-03-25,1967-04-08,10,3
+726,How Long Has It Been,Bobby Lewis,39,1967-05-27,1967-06-03,10,2
+727,Meet Jack Reno,Jack Reno,41,1968-08-03,1968-08-10,10,2
+728,Leaving Again,Johnny Carver,41,1969-01-04,1969-01-11,10,2
+729,Jerry Reed Explores Guitar Country,Jerry Reed,41,1969-10-25,1969-11-01,10,2
+730,"Johnny Paycheck's Greatest Hits,volume Ii",Johnny Paycheck,42,1969-07-19,1969-08-02,10,3
+731,Born To Love You,Jimmy Newman,42,1968-12-07,1968-12-21,10,3
+732,"Six Of One, Half A Dozen Of The Other",Del Reeves,42,1967-09-16,1967-09-30,10,3
+733,My Kind Of Country,Hugh X. Lewis,42,1967-10-21,1967-11-11,10,4
+734,"The ""Pops"" Goes Country",Chet Atkins,36,1966-08-13,1966-08-27,9,3
+735,Johnny Dollar Featuring the Wheels Fell Off The Wagon Again,Johnny Dollar,41,1968-01-13,1968-01-20,9,2
+736,Tompall & The Glaser Brothers,Tompall & The Glaser Brothers,41,1967-07-15,1967-07-22,9,2
+737,Down At Good Time Charlie's,Del Reeves,42,1969-05-31,1969-06-14,9,3
+738,Like A Bird,George Morgan,42,1969-06-14,1969-07-05,9,4
+739,"On Tap, In The Can, Or In The Bottle",Hank Thompson,42,1968-11-16,1968-12-14,9,5
+740,Queen Of The House,Jody Miller,17,1965-07-24,1965-08-07,8,3
+741,Tender Lovin' Care,George Morgan,17,1964-02-22,1964-03-14,8,3
+742,Luckiest Heartache In Town,Hank Thompson,17,1966-01-01,1966-01-15,8,3
+743,What God Has Done,Marty Robbins,26,1966-03-19,1966-03-26,8,2
+744,Day For Decision,Johnny Sea,27,1966-07-16,1966-07-23,8,2
+745,History Repeats Itself,Buddy Starcher,37,1966-08-13,1966-08-20,8,2
+746,The Best Of Ferlin Husky,Ferlin Husky,42,1969-04-12,1969-04-19,8,2
+747,All In The Family,Stonemans,42,1968-03-16,1968-03-23,8,2
+748,The Nashville Sound Of Jody Miller,Jody Miller,42,1968-12-28,1969-01-04,8,2
+749,Tennessee,Jimmy Martin,42,1968-07-06,1968-07-13,8,2
+750,A Ray Of Sunshine,Ray Griff,42,1968-08-24,1968-08-31,8,2
+751,Waterhole #3 (Code Of The West),Roger Miller,42,1967-11-18,1967-11-25,8,2
+752,Country Happening,Kenny Vernon,43,1969-10-18,1969-11-01,8,3
+753,Snow In All Seasons,Hank Snow,43,1969-05-31,1969-06-14,8,3
+754,The Long Lonesome Road,Dick Curless,43,1968-04-13,1968-04-27,8,3
+755,The Bill Anderson Story,Bill Anderson,43,1969-05-03,1969-05-24,8,4
+756,Lighthearted And Blue,Jean Shepard,17,1964-12-05,1964-12-12,7,2
+757,The World Of A Country Boy,Johnny Sea,17,1964-10-17,1964-10-24,7,2
+758,Breakin' In Another Heart,Hank Thompson,18,1965-05-15,1965-05-29,7,3
+759,Country Music All Around The World,Roy Drusky,18,1965-06-05,1965-06-19,7,3
+760,The Everlovin' Soul Of Roy Clark,Roy Clark,39,1969-12-27,1969-12-27,7,1
+761,Hank Williams' Greatest Hits,Hank Williams,42,1968-10-26,1968-11-02,7,2
+762,The Smooth Country Sound Of Rex Allen,Rex Allen,42,1968-07-13,1968-07-20,7,2
+763,Country Memories,Slim Whitman,42,1967-11-18,1967-12-02,7,3
+764,Dave Dudley Sings Six Days On The Road,Dave Dudley,16,1964-01-11,1964-02-15,6,2
+765,Western Strings,Ray Price,18,1965-07-17,1965-07-24,6,2
+766,When Love Is Gone,The Browns Featuring Jim Edward Brown,18,1966-01-22,1966-01-29,6,2
+767,Mr. & Mrs. Country Music,Johnny & Jonie Mosby,18,1965-04-17,1965-05-01,6,3
+768,Especially For You,Kitty Wells,19,1964-04-11,1964-05-02,6,4
+769,Bryant's Back In Town,Jimmy Bryant,27,1966-05-21,1966-05-28,6,2
+770,By Request,Ernest Tubb,28,1966-05-07,1966-05-21,6,3
+771,Hank Williams / Hank Williams Jr. Again,Hank Williams,38,1967-03-04,1967-03-11,6,2
+772,The Gold Standard Collection Of Hank Thompson,Hank Thompson,42,1967-05-13,1967-05-20,6,2
+773,The World Of Junior Samples,Junior,42,1967-09-16,1967-09-23,6,2
+774,Bill Phillips Style,Bill Phillips,43,1967-08-19,1967-08-26,6,2
+775,From Heaven To Heartache,Bobby Lewis,43,1969-01-04,1969-01-11,6,2
+776,All New Just For You,Bobby Helms,43,1968-05-25,1968-06-08,6,3
+777,Your Lovin' Takes The Leavin' Out Of Me,Tommy Cash,44,1969-09-13,1969-10-04,6,4
+778,Y'All Come,Porter Wagoner,17,1964-01-11,1964-02-29,5,2
+779,Abilene,George Hamilton IV,18,1964-01-11,1964-02-01,5,2
+780,The Best Of Ned Miller,Ned Miller,28,1966-04-16,1966-04-23,5,2
+781,Special Delivery,Del Reeves,28,1966-06-11,1966-06-18,5,2
+782,Sweet Land Of Liberty,Tex Ritter,43,1967-07-01,1967-07-08,5,2
+783,The Nashville Guitars At Home,Nashville Guitars,43,1968-05-04,1968-05-18,5,3
+784,You've Been So Good To Me,V,44,1967-12-30,1968-01-13,5,3
+785,Mister Sincerity...A Tribute To Ernest Tubb,George Hamilton IV,19,1965-07-03,1965-07-10,4,2
+786,Songs About The Working Man,Dave Dudley,19,1964-05-16,1964-05-30,4,3
+787,It's A Man Every Time,Jean Shepard,19,1966-01-08,1966-03-12,4,3
+788,Those Singin' Swingin' Stompin' Sensational Stonemans,Stonemans,39,1966-08-27,1966-09-03,4,2
+789,Where'd Ya Stay Last Night,Webb Pierce,43,1967-05-06,1967-05-13,4,2
+790,"Urban, Suburban",The Fantastic Guitar Of Roy Clark,43,1968-07-27,1968-08-03,4,2
+791,If I Could Just Go Home,Ed Bruce,44,1968-05-11,1968-05-18,4,2
+792,White Fences And Evergreen Trees,Ferlin Husky,44,1968-12-28,1969-01-04,4,2
+793,Who Says God Is Dead!,Loretta Lynn,44,1968-03-16,1968-03-23,4,2
+794,Country Music By The Wayside,Various Artists,44,1968-06-08,1968-06-15,4,2
+795,Mel Tillis' Greatest Hits,Mel Tillis,44,1969-12-20,1969-12-27,4,2
+796,Ernest Tubb's Greatest Hits,Ernest Tubb,44,1968-08-17,1968-08-24,4,2
+797,Proud Mary,Anthony Armstrong Jones,44,1969-10-25,1969-11-01,4,2
+798,The Best Of Ben Colder,Ben Colder,44,1968-06-22,1968-06-29,4,2
+799,The International Jim Reeves,Jim Reeves,18,1964-01-25,1964-01-25,3,1
+800,Stonewall Jackson's Greatest Hits,Stonewall Jackson,20,1965-11-13,1965-12-11,3,3
+801,More Than Yesterday (More Country Songs & City Hits),Slim Whitman,28,1966-03-12,1966-03-12,3,1
+802,Switched On Nashville: Country Moog,Gil Trythall,43,1969-12-27,1969-12-27,3,1
+803,Heaven's Just A Prayer Away,Norma Jean,44,1968-01-27,1968-02-03,3,2
+804,Wine Women & Song,Ben Colder,44,1967-09-23,1967-09-30,3,2
+805,Tommy Collins On Tour (His Most Requested Songs),Tom,44,1968-05-25,1968-06-01,3,2
+806,Country Music Hootenanny,Various Artists,19,1964-02-01,1964-02-01,2,1
+807,Greatest Country & Western Hits No. 4,Various Artists,19,1964-01-18,1964-01-18,2,1
+808,The Hart Of Country Music,Freddie Hart,19,1966-02-05,1966-02-05,2,1
+809,By Request,Ferlin Husky,20,1964-10-31,1964-11-07,2,2
+810,Love Song Of The Waterfall,Slim Whitman,20,1965-07-17,1965-07-24,2,2
+811,Swingin' Country,Molly Bee,40,1967-03-25,1967-04-01,2,2
+812,All The World Is Lonely Now,Cal Smith,40,1967-01-14,1967-01-21,2,2
+813,Country Music Special,Johnny Wright,40,1966-08-27,1966-09-03,2,2
+814,Solid Gold '69,Chet Atkins,45,1969-12-20,1969-12-27,2,2
+815,Roll Your Own With Buck Owens' Buckaroos,The Buckaroos,45,1969-10-18,1969-10-25,2,2
+816,The Great Stonemans,Stonemans,45,1968-09-28,1968-10-05,2,2
+817,Swingin' & Singing My Song,Lawanda Lindsey,45,1969-07-19,1969-07-26,2,2
+818,Tell It Like It Is,Archie,45,1969-01-25,1969-02-01,2,2
+819,Claude Gray Sings,Claude Gray,45,1967-07-22,1967-07-29,2,2
+820,Monumental Country Hits,Various Artists,45,1968-08-17,1968-08-24,2,2
+821,"Ferlin Husky Sings The Songs Of Music City, U.S.A.",Ferlin Husky,20,1966-02-19,1966-02-19,1,1
+822,Cross Country,Webb Pierce,20,1964-01-11,1964-01-11,1,1

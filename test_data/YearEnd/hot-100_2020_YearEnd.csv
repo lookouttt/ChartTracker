@@ -1,0 +1,805 @@
+chart_position,song_title,artist,peak,first_date,last_date,points,weeks
+1,Blinding Lights,The Weeknd,1,2020-01-04,2020-12-26,8170,52
+2,Circles,Post Malone,1,2020-01-04,2020-11-07,5814,45
+3,Don't Start Now,Dua Lipa,2,2020-01-04,2020-11-07,5270,45
+4,The Box,Roddy Ricch,1,2020-01-04,2020-09-05,5261,36
+5,Rockstar,DaBaby Featuring Roddy Ricch,1,2020-05-02,2020-12-26,5221,35
+6,I Hope,Gabby Barrett Featuring Charlie Puth,3,2020-01-11,2020-12-26,4961,51
+7,Adore You,Harry Styles,6,2020-01-04,2020-11-28,4660,48
+8,Life Is Good,Future Featuring Drake,2,2020-01-25,2020-10-10,4585,38
+9,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",2,2020-02-22,2020-12-26,4431,45
+10,Say So,Doja Cat Featuring Nicki Minaj,1,2020-01-18,2020-10-03,3895,38
+11,Roses,SAINt JHN,4,2020-04-04,2020-11-21,3495,34
+12,Savage,Megan Thee Stallion,1,2020-03-28,2020-10-03,3453,28
+13,The Bones,Maren Morris,12,2020-01-04,2020-09-26,3332,39
+14,Before You Go,Lewis Capaldi,9,2020-02-08,2020-12-12,3264,44
+15,Intentions,Justin Bieber Featuring Quavo,5,2020-02-22,2020-09-19,3245,31
+16,Watermelon Sugar,Harry Styles,1,2020-01-04,2020-12-12,3216,33
+17,Memories,Maroon 5,2,2020-01-04,2020-07-11,3009,28
+18,Mood,24kGoldn Featuring iann dior,1,2020-08-22,2020-12-26,2985,19
+19,Laugh Now Cry Later,Drake Featuring Lil Durk,2,2020-08-29,2020-12-26,2901,18
+20,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,1,2020-06-27,2020-12-19,2793,26
+21,WAP,Cardi B Featuring Megan Thee Stallion,1,2020-08-22,2020-12-26,2761,19
+22,Blueberry Faygo,Lil Mosey,8,2020-02-22,2020-10-03,2680,33
+23,Go Crazy,Chris Brown & Young Thug,9,2020-05-23,2020-12-26,2642,32
+24,Falling,Trevor Daniel,17,2020-01-04,2020-08-15,2509,33
+25,Break My Heart,Dua Lipa,13,2020-04-11,2020-11-14,2497,32
+26,Dance Monkey,Tones And I,4,2020-01-04,2020-06-20,2474,25
+27,Dynamite,BTS,1,2020-09-05,2020-12-26,2459,17
+28,Someone You Loved,Lewis Capaldi,4,2020-01-04,2020-05-30,2442,22
+29,Everything I Wanted,Billie Eilish,9,2020-01-04,2020-07-04,2312,27
+30,Chasin' You,Morgan Wallen,16,2020-02-08,2020-10-10,2300,36
+31,Roxanne,Arizona Zervas,5,2020-01-04,2020-05-09,2243,19
+32,Toosie Slide,Drake,1,2020-04-18,2020-08-29,2200,20
+33,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,6,2020-07-18,2020-12-26,2111,24
+34,Hot Girl Bummer,blackbear,11,2020-01-04,2020-07-11,2077,28
+35,High Fashion,Roddy Ricch Featuring Mustard,20,2020-01-11,2020-07-18,2053,28
+36,My Oh My,Camila Cabello Featuring DaBaby,12,2020-01-04,2020-06-20,1866,25
+37,Death Bed,Powfu Featuring beabadoobee,23,2020-03-28,2020-09-19,1841,26
+38,"10,000 Hours",Dan + Shay & Justin Bieber,5,2020-01-04,2020-05-09,1822,19
+39,Ballin',Mustard & Roddy Ricch,11,2020-01-04,2020-05-30,1719,22
+40,Come & Go,Juice WRLD x Marshmello,2,2020-07-25,2020-12-05,1674,20
+41,Rain On Me,Lady Gaga & Ariana Grande,1,2020-06-06,2020-10-17,1641,20
+42,Heartless,The Weeknd,4,2020-01-04,2020-05-09,1621,19
+43,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,6,2020-08-29,2020-12-26,1584,18
+44,Holy,Justin Bieber Featuring Chance The Rapper,3,2020-10-03,2020-12-26,1502,13
+45,Got What I Got,Jason Aldean,16,2020-06-13,2020-11-28,1499,25
+46,Be Like That,Kane Brown With Swae Lee & Khalid,19,2020-07-25,2020-12-12,1456,21
+47,Nobody But You,Blake Shelton Duet With Gwen Stefani,18,2020-02-01,2020-07-11,1431,24
+48,If The World Was Ending,JP Saxe Featuring Julia Michaels,27,2020-04-11,2020-10-24,1417,29
+49,BOP,DaBaby,12,2020-01-04,2020-05-02,1410,18
+50,Positions,Ariana Grande,1,2020-11-07,2020-12-26,1391,8
+51,We Paid,Lil Baby & 42 Dugg,10,2020-05-16,2020-10-10,1380,22
+52,One Of Them Girls,Lee Brice,17,2020-06-13,2020-12-05,1377,26
+53,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,11,2020-07-18,2020-11-28,1364,20
+54,Popstar,DJ Khaled Featuring Drake,3,2020-08-01,2020-12-05,1349,19
+55,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,26,2020-01-04,2020-06-06,1337,23
+56,More Than My Hometown,Morgan Wallen,15,2020-05-02,2020-12-19,1315,26
+57,Bang!,AJR,24,2020-07-04,2020-12-26,1276,24
+58,No Guidance,Chris Brown Featuring Drake,15,2020-01-04,2020-05-02,1273,18
+59,Sunday Best,Surfaces,19,2020-03-14,2020-08-01,1262,21
+60,Said Sum,Moneybagg Yo,17,2020-07-18,2020-12-12,1254,22
+61,Mood Swings,Pop Smoke Featuring Lil Tjay,17,2020-07-18,2020-11-28,1253,20
+62,Party Girl,StaySolidRocky,21,2020-05-09,2020-09-19,1248,20
+63,One Margarita,Luke Bryan,19,2020-05-16,2020-09-26,1232,20
+64,Lose You To Love Me,Selena Gomez,5,2020-01-04,2020-04-04,1231,14
+65,Die From A Broken Heart,Maddie & Tae,22,2020-04-25,2020-10-10,1229,25
+66,Hard To Forget,Sam Hunt,26,2020-04-11,2020-08-22,1209,20
+67,ily,surf mesa Featuring Emilee,23,2020-06-06,2020-12-12,1174,28
+68,Rags2Riches,Rod Wave Featuring ATR Son Son,12,2020-07-11,2020-11-21,1169,20
+69,Kings & Queens,Ava Max,13,2020-08-22,2020-12-26,1164,19
+70,Wishing Well,Juice WRLD,5,2020-07-25,2020-12-05,1163,20
+71,The Bigger Picture,Lil Baby,3,2020-06-27,2020-11-07,1145,20
+72,Good As Hell,Lizzo,6,2020-01-04,2020-03-28,1130,13
+73,Emotionally Scarred,Lil Baby,31,2020-03-14,2020-08-29,1129,25
+74,Godzilla,Eminem Featuring Juice WRLD,3,2020-02-01,2020-06-13,1128,20
+75,Heart On Ice,Rod Wave,25,2020-01-04,2020-05-23,1095,21
+76,Dior,Pop Smoke,22,2020-02-29,2020-07-18,1087,21
+77,Supalonely,BENEE Featuring Gus Dapperton,39,2020-03-28,2020-08-22,1083,22
+78,Woah,Lil Baby,15,2020-01-04,2020-04-11,1082,15
+79,Sum 2 Prove,Lil Baby,16,2020-01-25,2020-06-06,1078,20
+80,I Hope You're Happy Now,Carly Pearce & Lee Brice,27,2020-01-18,2020-07-04,1062,25
+81,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",1,2020-05-09,2020-08-01,1004,13
+82,Does To Me,Luke Combs Featuring Eric Church,20,2020-03-28,2020-08-01,1002,19
+83,Lovin' On You,Luke Combs,23,2020-07-11,2020-11-21,999,20
+84,You Should Be Sad,Halsey,26,2020-01-25,2020-05-23,989,18
+85,Bluebird,Miranda Lambert,26,2020-04-18,2020-08-29,981,20
+86,Stuck With U,Ariana Grande & Justin Bieber,1,2020-05-23,2020-09-19,979,18
+87,Yummy,Justin Bieber,2,2020-01-18,2020-04-25,970,15
+88,I Should Probably Go To Bed,Dan + Shay,42,2020-08-15,2020-12-26,949,20
+89,All I Want For Christmas Is You,Mariah Carey,1,2020-01-04,2020-12-26,937,6
+90,Tap In,Saweetie,20,2020-07-25,2020-11-28,934,19
+91,Walk Em Down,NLE Choppa Featuring Roddy Ricch,38,2020-04-04,2020-08-15,927,20
+92,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,33,2020-06-13,2020-12-05,914,25
+93,Suicidal,YNW Melly & Juice WRLD,20,2020-01-04,2020-04-25,893,16
+94,What You Know Bout Love,Pop Smoke,25,2020-07-18,2020-12-26,880,15
+95,Midnight Sky,Miley Cyrus,14,2020-08-29,2020-12-19,874,17
+96,HIGHEST IN THE ROOM,Travis Scott,8,2020-01-04,2020-05-09,861,11
+97,Rockin' Around The Christmas Tree,Brenda Lee,2,2020-01-04,2020-12-26,850,6
+98,Slide,H.E.R. Featuring YG,43,2020-01-04,2020-05-16,850,20
+99,Cardigan,Taylor Swift,1,2020-08-08,2020-11-07,845,14
+100,P*$$y Fairy (OTW),Jhene Aiko,40,2020-02-01,2020-07-18,836,25
+101,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,36,2020-08-08,2020-12-19,827,20
+102,Cool Again,Kane Brown,29,2020-05-09,2020-10-24,812,20
+103,Hawai,Maluma & The Weeknd,12,2020-09-05,2020-12-26,806,17
+104,Senorita,Shawn Mendes & Camila Cabello,11,2020-01-04,2020-03-14,805,11
+105,Homesick,Kane Brown,35,2020-01-04,2020-04-18,801,16
+106,Beer Can't Fix,Thomas Rhett Featuring Jon Pardi,36,2020-03-28,2020-07-25,780,18
+107,Bad Guy,Billie Eilish,14,2020-01-04,2020-03-14,778,11
+108,Girls In The Hood,Megan Thee Stallion,28,2020-07-11,2020-12-05,772,18
+109,7 Summers,Morgan Wallen,6,2020-08-29,2020-12-19,765,17
+110,Out West,JACKBOYS Featuring Young Thug,38,2020-01-11,2020-06-20,754,22
+111,Dakiti,Bad Bunny & Jhay Cortez,5,2020-11-14,2020-12-26,751,7
+112,More Hearts Than Mine,Ingrid Andress,30,2020-01-11,2020-05-23,745,20
+113,Stupid Love,Lady Gaga,5,2020-03-14,2020-06-13,742,10
+114,I Love My Country,Florida Georgia Line,40,2020-04-11,2020-09-12,735,20
+115,After A Few,Travis Denning,31,2020-04-11,2020-07-18,731,15
+116,Be Kind,Marshmello & Halsey,29,2020-05-16,2020-08-22,725,15
+117,Be A Light,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",42,2020-04-18,2020-09-12,717,22
+118,Levitating,Dua Lipa Featuring DaBaby,20,2020-10-17,2020-12-26,716,11
+119,Trampoline,SHAED,16,2020-01-04,2020-03-07,713,10
+120,BEST ON EARTH,Russ & BIA,46,2020-01-04,2020-05-02,712,18
+121,Pretty Heart,Parker McCollum,36,2020-07-04,2020-12-05,711,20
+122,In Your Eyes,The Weeknd,16,2020-04-04,2020-07-11,710,15
+123,Jingle Bell Rock,Bobby Helms,3,2020-01-04,2020-12-26,683,5
+124,One Man Band,Old Dominion,26,2020-01-04,2020-03-14,678,11
+125,My Ex's Best Friend,Machine Gun Kelly X blackbear,28,2020-08-22,2020-12-26,670,18
+126,Tusa,Karol G & Nicki Minaj,42,2020-01-04,2020-05-02,662,18
+127,Gooba,6ix9ine,3,2020-05-23,2020-07-25,652,10
+128,Like That,Doja Cat Featuring Gucci Mane,50,2020-06-13,2020-10-10,651,18
+129,Love You Like I Used To,Russell Dickerson,31,2020-09-19,2020-12-26,643,15
+130,Heartless,Diplo Presents Thomas Wesley Featuring Morgan Wallen,39,2020-01-11,2020-06-27,630,18
+131,Some Girls,Jameson Rodgers,29,2020-08-22,2020-12-05,625,16
+132,Lonely,Justin Bieber & benny blanco,14,2020-10-31,2020-12-26,621,9
+133,Franchise,Travis Scott Featuring Young Thug & M.I.A.,1,2020-10-10,2020-12-05,620,9
+134,What A Man Gotta Do,Jonas Brothers,16,2020-02-01,2020-04-18,609,12
+135,Truth Hurts,Lizzo,18,2020-01-04,2020-02-29,607,9
+136,Wonder,Shawn Mendes,18,2020-10-17,2020-12-19,595,10
+137,Juicy,Doja Cat & Tyga,41,2020-01-04,2020-03-21,594,12
+138,Starting Over,Chris Stapleton,25,2020-09-12,2020-12-26,591,16
+139,Only Human,Jonas Brothers,25,2020-01-11,2020-03-07,587,9
+140,Kinfolks,Sam Hunt,34,2020-01-04,2020-03-14,585,11
+141,Greece,DJ Khaled Featuring Drake,8,2020-08-01,2020-11-07,582,15
+142,You Broke Me First.,Tate McRae,50,2020-09-05,2020-12-26,578,17
+143,Diamonds,Sam Smith,40,2020-10-03,2020-12-26,569,13
+144,It's The Most Wonderful Time Of The Year,Andy Williams,6,2020-01-04,2020-12-26,566,5
+145,I Don't Care,Ed Sheeran & Justin Bieber,28,2020-01-11,2020-03-07,560,9
+146,Sucker,Jonas Brothers,29,2020-01-11,2020-03-07,557,9
+147,34+35,Ariana Grande,8,2020-11-14,2020-12-26,556,7
+148,I Love Me,Demi Lovato,18,2020-03-21,2020-05-23,549,10
+149,Mr. Right Now,21 Savage & Metro Boomin Featuring Drake,10,2020-10-17,2020-12-26,545,11
+150,Bandit,Juice WRLD & YoungBoy Never Broke Again,22,2020-01-04,2020-02-29,545,9
+151,God Whispered Your Name,Keith Urban,60,2020-05-02,2020-09-12,542,20
+152,What She Wants Tonight,Luke Bryan,46,2020-01-11,2020-04-25,537,16
+153,Forever After All,Luke Combs,2,2020-11-07,2020-12-26,532,8
+154,Heather,Conan Gray,46,2020-08-29,2020-12-19,532,15
+155,B.S.,Jhene Aiko Featuring H.E.R.,24,2020-03-21,2020-12-26,530,20
+156,Yo Perreo Sola,Bad Bunny,53,2020-03-14,2020-07-18,530,17
+157,Righteous,Juice WRLD,11,2020-05-09,2020-08-29,529,16
+158,Here And Now,Kenny Chesney,38,2020-04-18,2020-07-25,524,15
+159,24,Money Man Featuring Lil Baby,49,2020-08-29,2020-11-28,524,14
+160,Better Together,Luke Combs,30,2020-10-24,2020-12-26,520,10
+161,Hot,Young Thug Featuring Gunna,21,2020-01-04,2020-02-22,519,8
+162,Therefore I Am,Billie Eilish,2,2020-11-21,2020-12-26,510,6
+163,Slow Dance In A Parking Lot,Jordan Davis,37,2020-01-11,2020-05-23,505,19
+164,Catch,Brett Young,29,2020-02-08,2020-06-20,498,17
+165,Homemade,Jake Owen,39,2020-02-08,2020-05-23,487,16
+166,After Party,Don Toliver,57,2020-05-02,2020-09-19,487,20
+167,Believe It,PARTYNEXTDOOR & Rihanna,23,2020-04-11,2020-07-11,482,14
+168,A Holly Jolly Christmas,Burl Ives,4,2020-01-04,2020-12-26,476,4
+169,Even Though I'm Leaving,Luke Combs,30,2020-01-04,2020-02-22,475,8
+170,Ain't Always The Cowboy,Jon Pardi,55,2020-09-12,2020-12-26,473,16
+171,Chicago Freestyle,Drake Featuring Giveon,14,2020-05-16,2020-08-01,469,12
+172,Level Of Concern,twenty one pilots,23,2020-04-25,2020-07-04,465,11
+173,Nobody's Love,Maroon 5,41,2020-08-08,2020-10-10,457,10
+174,Feliz Navidad,Jose Feliciano,10,2020-01-04,2020-12-26,432,5
+175,Futsal Shuffle 2020,Lil Uzi Vert,30,2020-01-04,2020-03-28,430,10
+176,Why We Drink,Justin Moore,50,2020-06-13,2020-09-19,422,15
+177,Panini,Lil Nas X,17,2020-01-04,2020-02-08,420,6
+178,"Big, Big Plans",Chris Lane,42,2020-10-10,2020-12-26,411,11
+179,Last Christmas,Wham!,11,2020-01-04,2020-12-26,406,5
+180,Smile,Juice WRLD & The Weeknd,8,2020-08-22,2020-10-31,399,10
+181,Done,Chris Janson,41,2020-06-27,2020-09-12,398,12
+182,Martin & Gina,Polo G,61,2020-05-30,2020-12-19,397,19
+183,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,11,2020-01-04,2020-12-26,393,5
+184,The Christmas Song (Merry Christmas To You),Nat King Cole,15,2020-01-04,2020-12-26,392,5
+185,Dollaz On My Head,Gunna Featuring Young Thug,38,2020-06-06,2020-10-31,389,19
+186,Heartache Medication,Jon Pardi,42,2020-01-04,2020-02-22,384,8
+187,Hit Different,SZA Featuring Ty Dolla $ign,29,2020-09-19,2020-12-19,383,14
+188,Un Dia (One Day),"J Balvin, Dua Lipa, Bad Bunny & Tainy",63,2020-08-08,2020-11-07,374,14
+189,South Of The Border,Ed Sheeran Featuring Camila Cabello & Cardi B,49,2020-01-04,2020-03-07,371,10
+190,One Big Country Song,LOCASH,50,2020-06-13,2020-08-22,371,11
+191,Don't Rush,Young T & Bugsey Featuring Headie One,56,2020-05-16,2020-08-22,370,14
+192,Breaking Me,Topic & A7S,53,2020-08-01,2020-10-31,363,13
+193,Ridin' Roads,Dustin Lynch,47,2020-01-04,2020-04-25,361,13
+194,The 1,Taylor Swift,4,2020-08-08,2020-09-12,355,6
+195,That Way,Lil Uzi Vert,20,2020-03-14,2020-06-20,342,12
+196,Body,Megan Thee Stallion,12,2020-12-05,2020-12-26,338,4
+197,Everywhere But On,Matt Stell,48,2020-09-19,2020-11-28,337,11
+198,Don't Stop,Megan Thee Stallion Featuring Young Thug,30,2020-10-17,2020-12-19,334,10
+199,Trollz,6ix9ine & Nicki Minaj,1,2020-06-27,2020-07-18,332,4
+200,My Future,Billie Eilish,6,2020-08-15,2020-09-19,332,6
+201,Ice Cream,BLACKPINK X Selena Gomez,13,2020-09-12,2020-10-31,331,8
+202,In Between,Scotty McCreery,53,2020-04-25,2020-07-18,331,13
+203,Turks,"NAV, Gunna & Travis Scott",17,2020-04-11,2020-06-20,326,11
+204,Flex,Polo G Featuring Juice WRLD,30,2020-05-30,2020-08-01,325,9
+205,Sleigh Ride,The Ronettes,19,2020-01-04,2020-12-26,321,4
+206,We Back,Jason Aldean,62,2020-01-11,2020-03-28,321,12
+207,TOES,DaBaby Featuring Lil Baby & Moneybagg Yo,55,2020-01-11,2020-03-07,319,9
+208,Dreams,Fleetwood Mac,12,2020-10-17,2020-11-07,317,4
+209,Need It,Migos Featuring YoungBoy Never Broke Again,62,2020-06-06,2020-09-19,316,15
+210,VIBEZ,DaBaby,53,2020-01-04,2020-02-22,315,8
+211,Make Me Want To,Jimmie Allen,49,2020-01-11,2020-03-14,314,10
+212,Runnin,21 Savage & Metro Boomin,9,2020-10-17,2020-11-28,312,7
+213,Kacey Talk,YoungBoy Never Broke Again,50,2020-08-29,2020-11-28,305,14
+214,I Wish Grandpas Never Died,Riley Green,66,2020-01-11,2020-03-28,304,12
+215,Mamacita,"Black Eyed Peas, Ozuna + J.Rey Soul",62,2020-06-20,2020-08-29,303,11
+216,Happy Holiday / The Holiday Season,Andy Williams,24,2020-01-04,2020-12-26,291,4
+217,I Called Mama,Tim McGraw,53,2020-07-11,2020-10-31,291,12
+218,Underneath The Tree,Kelly Clarkson,25,2020-01-04,2020-12-26,290,4
+219,Graveyard,Halsey,37,2020-01-04,2020-02-08,289,6
+220,Monster,Shawn Mendes & Justin Bieber,8,2020-12-05,2020-12-26,288,4
+221,B.I.T.C.H.,Megan Thee Stallion,31,2020-02-08,2020-04-25,286,10
+222,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,12,2020-01-04,2020-12-26,284,4
+223,Conversations,Juice WRLD,7,2020-07-25,2020-08-29,282,6
+224,Life Goes On,BTS,1,2020-12-05,2020-12-19,281,3
+225,Rudolph The Red-Nosed Reindeer,Gene Autry,22,2020-01-04,2020-12-26,277,4
+226,Tyler Herro,Jack Harlow,34,2020-11-07,2020-12-26,275,8
+227,Got It On Me,Pop Smoke,31,2020-07-18,2020-09-26,274,10
+228,Exile,Taylor Swift Featuring Bon Iver,6,2020-08-08,2020-09-05,272,5
+229,No Idea,Don Toliver,46,2020-01-04,2020-02-22,272,8
+230,After Hours,The Weeknd,20,2020-02-29,2020-04-18,271,7
+231,Christmas (Baby Please Come Home),Darlene Love,29,2020-01-04,2020-12-26,266,4
+232,Holiday,Lil Nas X,37,2020-11-28,2020-12-26,258,5
+233,Myron,Lil Uzi Vert,13,2020-03-28,2020-05-09,256,7
+234,Hate The Other Side,Juice WRLD & Marshmello Featuring Polo G & The Kid LAROI,10,2020-07-25,2020-09-05,255,7
+235,White Christmas,Bing Crosby,32,2020-01-04,2020-12-26,255,4
+236,Grace,Lil Baby & 42 Dugg,48,2020-03-14,2020-07-11,251,15
+237,Baby Pluto,Lil Uzi Vert,6,2020-03-21,2020-04-11,249,4
+238,pov,Ariana Grande,40,2020-11-14,2020-12-19,247,6
+239,(There's No Place Like) Home For The Holidays,Perry Como,37,2020-01-04,2020-12-26,240,4
+240,Ride It.,Regard,62,2020-04-25,2020-06-27,240,10
+241,Life's A Mess,Juice WRLD X Halsey,9,2020-07-18,2020-08-22,238,6
+242,Find My Way,DaBaby,22,2020-04-18,2020-05-16,234,5
+243,Good News,Mac Miller,17,2020-01-25,2020-02-15,233,4
+244,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,32,2020-01-04,2020-12-26,231,4
+245,P2,Lil Uzi Vert,11,2020-03-21,2020-04-25,229,6
+246,Relacion,"Sech, Daddy Yankee & J Balvin Featuring ROSALIA & Farruko",64,2020-09-19,2020-11-28,228,11
+247,Lover,Taylor Swift,34,2020-01-04,2020-01-25,227,4
+248,On Chill,Wale Featuring Jeremih,37,2020-01-04,2020-01-25,224,4
+249,Start Wit Me,Roddy Ricch & Gunna,56,2020-01-04,2020-02-22,224,8
+250,Come Thru,Summer Walker & Usher,66,2020-02-08,2020-05-16,213,13
+251,Daisies,Katy Perry,40,2020-05-30,2020-07-11,211,7
+252,Vete,Bad Bunny,36,2020-01-04,2020-04-11,210,14
+253,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,15,2020-01-04,2020-01-18,208,3
+254,One Night Standards,Ashley McBryde,76,2020-06-20,2020-09-26,208,15
+255,X,Jonas Brothers Featuring Karol G,33,2020-05-30,2020-07-11,205,7
+256,3 Headed Goat,Lil Durk Featuring Lil Baby & Polo G,43,2020-05-23,2020-10-31,201,16
+257,U 2 Luv,Ne-Yo & Jeremih,66,2020-10-10,2020-12-05,201,8
+258,Willow,Taylor Swift,1,2020-12-26,2020-12-26,200,1
+259,ON,BTS,4,2020-03-07,2020-03-14,200,2
+260,Good Time,Niko Moon,71,2020-10-10,2020-12-26,200,11
+261,Pain 1993,Drake Featuring Playboi Carti,7,2020-05-16,2020-05-30,199,3
+262,Run Rudolph Run,Chuck Berry,29,2020-01-04,2020-12-26,198,3
+263,Lo Mein,Lil Uzi Vert,8,2020-03-21,2020-04-04,196,3
+264,What If I Never Get Over You,Lady Antebellum,40,2020-01-04,2020-01-25,195,4
+265,Do It,Chloe X Halle,63,2020-06-27,2020-11-07,191,11
+266,OK Not To Be OK,Marshmello & Demi Lovato,36,2020-09-26,2020-10-31,190,6
+267,It's Beginning To Look A Lot Like Christmas,Michael Buble,33,2020-12-12,2020-12-26,189,3
+268,Whoopty,CJ,51,2020-11-21,2020-12-26,189,6
+269,The Other Side,SZA X Justin Timberlake,61,2020-03-14,2020-04-25,189,7
+270,Go Stupid,Polo G Featuring NLE Choppa & Stunna 4 Vegas,60,2020-02-29,2020-06-06,187,9
+271,Girl Of My Dreams,Rod Wave,65,2020-04-25,2020-09-12,186,16
+272,Playing Games,Summer Walker,49,2020-01-04,2020-01-25,182,4
+273,SUGAR,BrockHampton,66,2020-01-18,2020-03-21,182,9
+274,Heatin Up,Lil Baby & Gunna,18,2020-03-14,2020-05-16,181,7
+275,Talk,Khalid,40,2020-01-11,2020-01-25,173,3
+276,Tell Me U Luv Me,Juice WRLD & Trippie Redd,38,2020-06-13,2020-08-01,171,4
+277,Heat,Chris Brown Featuring Gunna,53,2020-01-04,2020-01-25,171,4
+278,Know Your Worth,Khalid x Disclosure,57,2020-02-22,2020-04-11,171,8
+279,Make No Sense,YoungBoy Never Broke Again,79,2020-01-18,2020-04-11,169,12
+280,Si Veo A Tu Mama,Bad Bunny,32,2020-03-14,2020-04-11,166,5
+281,I'm Ready,Sam Smith & Demi Lovato,36,2020-05-02,2020-05-23,162,4
+282,Silly Watch,Lil Uzi Vert,9,2020-03-21,2020-03-28,161,2
+283,Throat Baby (Go Baby),BRS Kash,69,2020-10-31,2020-12-26,161,9
+284,Jump,DaBaby Featuring YoungBoy Never Broke Again,17,2020-05-02,2020-05-23,159,4
+285,homecoming queen?,Kelsea Ballerini,65,2020-01-11,2020-04-04,158,10
+286,Blood On My Jeans,Juice WRLD,12,2020-07-25,2020-08-15,157,4
+287,Something Special,Pop Smoke,41,2020-07-18,2020-08-29,157,7
+288,Numbers,"A Boogie Wit da Hoodie Featuring Roddy Ricch, Gunna & London On Da Track",23,2020-02-29,2020-03-14,154,3
+289,Took Her To The O,King Von,47,2020-11-21,2020-12-19,153,5
+290,Into The Unknown,Idina Menzel & AURORA,55,2020-01-04,2020-04-11,153,8
+291,La Dificil,Bad Bunny,33,2020-03-14,2020-04-11,151,5
+292,To Die For,Sam Smith,46,2020-02-29,2020-04-04,151,6
+293,Rare,Selena Gomez,30,2020-01-25,2020-03-07,145,7
+294,Oprah's Bank Account,"Lil Yachty, Drake & DaBaby",55,2020-03-21,2020-04-25,144,6
+295,All In,Lil Baby,45,2020-05-09,2020-07-04,143,8
+296,Glock In My Lap,21 Savage & Metro Boomin,19,2020-10-17,2020-10-31,139,3
+297,Caramelo,Ozuna x Karol G x Myke Towers,76,2020-08-29,2020-10-31,139,10
+298,No Time To Die,Billie Eilish,16,2020-02-29,2020-03-14,137,3
+299,Over Now,Calvin Harris X The Weeknd,38,2020-09-12,2020-10-10,137,5
+300,Golden,Harry Styles,74,2020-11-07,2020-12-19,136,7
+301,U Played,MoneyBagg Yo Featuring Lil Baby,53,2020-01-18,2020-02-15,135,5
+302,Take What You Want,Post Malone Featuring Ozzy Osbourne & Travis Scott,63,2020-01-04,2020-02-01,135,5
+303,Champagne Night,Lady A,75,2020-10-31,2020-12-19,135,8
+304,Blind,DaBaby Featuring Young Thug,74,2020-10-03,2020-11-28,133,9
+305,Santa Tell Me,Ariana Grande,32,2020-12-19,2020-12-26,131,2
+306,Prisoner,Miley Cyrus Featuring Dua Lipa,54,2020-12-05,2020-12-26,129,4
+307,Titanic,Juice WRLD,14,2020-07-25,2020-08-01,126,2
+308,Camelot,NLE Choppa,65,2020-01-04,2020-02-15,126,6
+309,The Last Great American Dynasty,Taylor Swift,13,2020-08-08,2020-08-15,123,2
+310,Go!,Kid LAROI & Juice WRLD,52,2020-06-27,2020-08-08,123,5
+311,Ran$om,Lil Tecca,33,2020-01-04,2020-01-11,119,2
+312,Bad Energy,Juice WRLD,16,2020-07-25,2020-08-01,118,2
+313,My Tears Ricochet,Taylor Swift,16,2020-08-08,2020-08-15,117,2
+314,Remember You Young,Thomas Rhett,61,2020-01-04,2020-01-25,117,4
+315,Beautiful People,Ed Sheeran Featuring Khalid,42,2020-01-11,2020-01-18,115,2
+316,On Me,Lil Baby,30,2020-12-19,2020-12-26,112,2
+317,Anyone,Demi Lovato,34,2020-02-08,2020-02-15,112,2
+318,Commercial,Lil Baby Featuring Lil Uzi Vert,23,2020-03-14,2020-03-21,111,2
+319,Wonderful Christmastime,Paul McCartney,45,2020-12-19,2020-12-26,111,2
+320,So Done,The Kid LAROI,59,2020-11-07,2020-12-19,110,7
+321,Put Your Records On,Ritt Momney,79,2020-10-10,2020-12-19,110,9
+322,Suge,DaBaby,43,2020-01-11,2020-01-18,109,2
+323,I Do It,Lil Wayne Featuring Big Sean & Lil Baby,33,2020-02-15,2020-02-22,108,2
+324,Hole In The Bottle,Kelsea Ballerini,72,2020-10-24,2020-12-19,107,9
+325,D4L,"Future, Drake & Young Thug",19,2020-05-16,2020-05-23,106,2
+326,August,Taylor Swift,23,2020-08-08,2020-08-15,106,2
+327,Forever,Justin Bieber Featuring Post Malone & Clever,24,2020-02-29,2020-03-07,104,2
+328,Stay High,Juice WRLD,34,2020-07-25,2020-08-01,104,2
+329,Somebody's Problem,Morgan Wallen,25,2020-12-05,2020-12-19,102,3
+330,Rich N*gga Sh*t,21 Savage & Metro Boomin Featuring Young Thug,26,2020-10-17,2020-10-24,102,2
+331,Make It Rain,Pop Smoke Featuring Rowdy Rebel,49,2020-06-27,2020-07-18,102,2
+332,Lil Top,YoungBoy Never Broke Again,28,2020-03-07,2020-03-14,101,2
+333,Leave Em Alone,"Layton Greene, Lil Baby, City Girls & PnB Rock",67,2020-01-04,2020-01-25,101,4
+334,21,Polo G,62,2020-05-30,2020-09-05,99,8
+335,Easy,DaniLeigh Featuring Chris Brown,79,2020-01-04,2020-02-22,99,8
+336,Homecoming,Lil Uzi Vert,22,2020-03-21,2020-03-28,98,2
+337,Yikes,Nicki Minaj,23,2020-02-22,2020-02-29,98,2
+338,Bean (Kobe),Lil Uzi Vert Featuring Chief Keef,19,2020-03-28,2020-04-04,97,2
+339,Drinking Alone,Carrie Underwood,74,2020-05-09,2020-06-27,96,7
+340,Black Parade,Beyonce,37,2020-07-04,2020-07-11,94,2
+341,PTSD,"G Herbo Featuring Chance The Rapper, Juice WRLD & Lil Uzi Vert",38,2020-03-14,2020-05-09,93,5
+342,Cooler Than A Bitch,Gunna Featuring Roddy Ricch,41,2020-06-06,2020-06-20,92,3
+343,Ignorantes,Bad Bunny & Sech,49,2020-02-29,2020-03-21,92,3
+344,Trillionaire,Future Featuring YoungBoy Never Broke Again,34,2020-05-30,2020-06-20,91,4
+345,Desires,Drake Featuring Future,27,2020-05-16,2020-05-23,90,2
+346,Motive,Ariana Grande Featuring Doja Cat,32,2020-11-14,2020-11-21,90,2
+347,Snow On Tha Bluff,J. Cole,54,2020-06-27,2020-07-04,89,2
+348,Underdog,Alicia Keys,69,2020-02-08,2020-05-09,89,5
+349,July,Noah Cyrus & Leon Bridges,85,2020-01-11,2020-07-04,89,16
+350,Blue & Grey,BTS,13,2020-12-05,2020-12-05,88,1
+351,Solitaires,Future Featuring Travis Scott,32,2020-05-30,2020-06-13,88,3
+352,Fighting Demons,Juice WRLD,35,2020-07-25,2020-08-01,88,2
+353,Sour Candy,Lady Gaga & BLACKPINK,33,2020-06-13,2020-06-20,87,2
+354,Whole Lotta Choppas,Sada Baby Featuring Nicki Minaj,35,2020-10-03,2020-11-07,87,3
+355,Blue World,Mac Miller,38,2020-02-01,2020-02-08,86,2
+356,Bloody Valentine,Machine Gun Kelly,50,2020-10-10,2020-10-31,86,4
+357,Those Kinda Nights,Eminem Featuring Ed Sheeran,31,2020-02-01,2020-02-08,85,2
+358,Safaera,"Bad Bunny, Jowell & Randy & Nengo Flow",81,2020-03-14,2020-05-09,85,7
+359,Move Ya Hips,A$AP Ferg Featuring  Nicki Minaj & MadeinTYO,19,2020-08-15,2020-08-22,84,2
+360,Mirrorball,Taylor Swift,26,2020-08-08,2020-08-15,83,2
+361,Yessirskiii,Lil Uzi Vert & 21 Savage,26,2020-03-28,2020-04-04,83,2
+362,Darkness,Eminem,28,2020-02-01,2020-02-08,83,2
+363,GANG GANG,JACKBOYS & Sheck Wes,48,2020-01-11,2020-01-18,83,2
+364,Prices,Lil Uzi Vert,25,2020-03-21,2020-03-28,82,2
+365,Slidin,21 Savage & Metro Boomin,32,2020-10-17,2020-10-24,82,2
+366,Gangstas,Pop Smoke,37,2020-07-18,2020-07-25,82,2
+367,Up Up And Away,Juice WRLD,42,2020-07-25,2020-08-01,82,2
+368,Drankin N Smokin,Future & Lil Uzi Vert,31,2020-11-28,2020-12-05,81,2
+369,Alone Again,The Weeknd,21,2020-04-04,2020-04-04,80,1
+370,Champagne Problems,Taylor Swift,21,2020-12-26,2020-12-26,80,1
+371,Invisible String,Taylor Swift,37,2020-08-08,2020-08-15,80,2
+372,Stay,BTS,22,2020-12-05,2020-12-05,79,1
+373,The Adventures Of Moon Man & Slim Shady,Kid Cudi & Eminem,22,2020-07-25,2020-07-25,79,1
+374,Aim For The Moon,Pop Smoke Featuring Quavo,34,2020-07-18,2020-07-25,79,2
+375,Time Flies,Drake,30,2020-05-16,2020-05-23,78,2
+376,How You Like That,BLACKPINK,33,2020-07-11,2020-07-18,78,2
+377,My Window,YoungBoy Never Broke Again Featuring Lil Wayne,35,2020-09-26,2020-10-03,78,2
+378,Wash Us In The Blood,Kanye West Featuring Travis Scott,49,2020-07-11,2020-07-18,78,2
+379,Scared To Live,The Weeknd,24,2020-04-04,2020-04-04,77,1
+380,Hardest To Love,The Weeknd,25,2020-04-04,2020-04-04,76,1
+381,Not You Too,Drake Featuring Chris Brown,25,2020-05-16,2020-05-16,76,1
+382,Save Your Tears,The Weeknd,41,2020-04-04,2020-04-11,76,2
+383,Many Men,21 Savage & Metro Boomin,33,2020-10-17,2020-10-24,75,2
+384,La Noche de Anoche,Bad Bunny & ROSALIA,53,2020-12-12,2020-12-19,75,2
+385,HAD ENOUGH,Don Toliver Featuring Quavo & Offset,52,2020-01-11,2020-01-18,74,2
+386,Live Off My Closet,Lil Baby Featuring Future,28,2020-03-14,2020-03-14,73,1
+387,POP,Lil Uzi Vert,28,2020-03-21,2020-03-21,73,1
+388,Too Late,The Weeknd,28,2020-04-04,2020-04-04,73,1
+389,Off The Table,Ariana Grande Featuring The Weeknd,35,2020-11-14,2020-11-21,72,2
+390,Epidemic,Polo G,47,2020-10-10,2020-10-24,71,3
+391,Still Goin Down,Morgan Wallen,46,2020-12-05,2020-12-12,70,2
+392,Deep Pockets,Drake,32,2020-05-16,2020-05-16,69,1
+393,Snowchild,The Weeknd,32,2020-04-04,2020-04-04,69,1
+394,Demons,Drake Featuring Fivio Foreign & Sosa Geek,34,2020-05-16,2020-05-23,69,2
+395,Seven,Taylor Swift,35,2020-08-08,2020-08-15,69,2
+396,Unaccommodating,Eminem Featuring Young M.A,36,2020-02-01,2020-02-08,69,2
+397,Betty,Taylor Swift,42,2020-08-08,2020-08-15,69,2
+398,Bigger Than Life,Lil Uzi Vert,33,2020-03-21,2020-03-21,68,1
+399,Under The Mistletoe,Kelly Clarkson & Brett Eldredge,59,2020-12-12,2020-12-19,68,2
+400,"No Body, No Crime",Taylor Swift Featuring HAIM,34,2020-12-26,2020-12-26,67,1
+401,Celebration Station,Lil Uzi Vert,34,2020-03-21,2020-03-21,67,1
+402,When To Say When,Drake,35,2020-05-16,2020-05-16,66,1
+403,@ MEH,Playboi Carti,35,2020-05-02,2020-05-02,66,1
+404,What That Speed Bout!?,"Mike WiLL Made-It, Nicki Minaj & YoungBoy Never Broke Again",35,2020-11-21,2020-11-21,66,1
+405,Forget Me Too,Machine Gun Kelly & Halsey,44,2020-10-10,2020-11-07,66,3
+406,Shotta Flow 5,NLE Choppa,54,2020-06-27,2020-07-11,66,3
+407,Jerry Sprunger,Tory Lanez & T-Pain,81,2020-01-11,2020-02-22,66,6
+408,You Better Move,Lil Uzi Vert,36,2020-03-21,2020-03-21,65,1
+409,Physical,Dua Lipa,60,2020-02-15,2020-04-11,65,2
+410,Fallin',Why Don't We,37,2020-10-17,2020-10-17,64,1
+411,I'm Sorry,Lil Uzi Vert,37,2020-03-21,2020-03-21,64,1
+412,44 Bulldog,Pop Smoke,39,2020-07-18,2020-07-25,64,2
+413,Nice To Meet Ya,Niall Horan,75,2020-01-04,2020-01-25,64,4
+414,Errbody,Lil Baby,41,2020-12-19,2020-12-26,63,2
+415,Escape From LA,The Weeknd,39,2020-04-04,2020-04-04,62,1
+416,Landed,Drake,39,2020-05-16,2020-05-16,62,1
+417,'Tis The Damn Season,Taylor Swift,39,2020-12-26,2020-12-26,62,1
+418,This Is Me Trying,Taylor Swift,39,2020-08-08,2020-08-08,62,1
+419,Venetia,Lil Uzi Vert,39,2020-03-21,2020-03-21,62,1
+420,Man Of The Year,Juice WRLD,51,2020-07-25,2020-08-01,62,2
+421,Loyal,PARTYNEXTDOOR Featuring Drake,60,2020-02-22,2020-04-11,62,2
+422,Dicked Down In Dallas,Trey Lewis,65,2020-12-12,2020-12-19,62,2
+423,Rockin' Around The Christmas Tree,Justin Bieber,71,2020-12-12,2020-12-26,62,3
+424,The Man,Taylor Swift,85,2020-03-07,2020-04-25,62,5
+425,Blue Christmas,Elvis Presley,40,2020-01-04,2020-01-04,61,1
+426,Gold Rush,Taylor Swift,40,2020-12-26,2020-12-26,61,1
+427,Just Like Magic,Ariana Grande,43,2020-11-14,2020-11-21,61,2
+428,Drug Addiction,YoungBoy Never Broke Again,44,2020-09-26,2020-10-03,61,2
+429,Screw Juice,Juice WRLD,46,2020-07-25,2020-08-01,61,2
+430,You're Mines Still,Yung Bleu Featuring Drake,52,2020-10-31,2020-11-07,61,2
+431,Tequila Shots,Kid Cudi,41,2020-12-26,2020-12-26,60,1
+432,Can't Die,Juice WRLD,50,2020-07-25,2020-08-01,60,2
+433,Past Life,Trevor Daniel x Selena Gomez,77,2020-07-11,2020-08-29,60,5
+434,223's,YNW Melly & 9lokknine,78,2020-01-04,2020-01-25,59,4
+435,Tip Toe,Roddy Ricch Featuring A Boogie Wit da Hoodie,79,2020-01-04,2020-01-25,59,4
+436,Jingle Bells,Frank Sinatra,43,2020-01-04,2020-01-04,58,1
+437,Yea Yea,Pop Smoke,43,2020-07-18,2020-07-18,58,1
+438,Without You,The Kid LAROI,63,2020-12-19,2020-12-26,58,2
+439,SkyBox,Gunna,65,2020-03-21,2020-06-06,58,2
+440,PICK UP,DaBaby Featuring Quavo,44,2020-05-02,2020-05-02,57,1
+441,Like It's Christmas,Jonas Brothers,44,2020-01-04,2020-01-04,57,1
+442,Illicit Affairs,Taylor Swift,44,2020-08-08,2020-08-08,57,1
+443,La Santa,Bad Bunny X Daddy Yankee,53,2020-03-14,2020-03-21,57,2
+444,Chrome Heart Tags,Lil Uzi Vert,45,2020-03-21,2020-03-21,56,1
+445,From Florida With Love,Drake,45,2020-05-16,2020-05-16,56,1
+446,Faith,The Weeknd,45,2020-04-04,2020-04-04,56,1
+447,Baby It's Cold Outside,Dean Martin,45,2020-01-04,2020-01-04,56,1
+448,Tolerate It,Taylor Swift,45,2020-12-26,2020-12-26,56,1
+449,Lotus,Lil Uzi Vert,45,2020-03-28,2020-03-28,56,1
+450,NASTY,DaBaby Featuring Ashanti & Megan Thee Stallion,50,2020-05-02,2020-05-09,56,2
+451,Take Me Home For Christmas,Dan + Shay,58,2020-12-19,2020-12-26,56,2
+452,Back To The Streets,Saweetie Featuring Jhene Aiko,76,2020-11-07,2020-12-19,56,4
+453,Stripes Like Burberry,Future & Lil Uzi Vert,46,2020-11-28,2020-11-28,55,1
+454,Dive Bar,Garth Brooks & Blake Shelton,78,2020-02-08,2020-03-07,55,5
+455,Red Eye,YoungBoy Never Broke Again,47,2020-03-07,2020-03-07,54,1
+456,Deck The Halls,Nat King Cole,47,2020-12-26,2020-12-26,54,1
+457,I Want It,Juice WRLD,47,2020-07-25,2020-07-25,54,1
+458,Baby,Lil Baby & DaBaby,47,2020-01-11,2020-01-11,54,1
+459,Shut Up,Ariana Grande,47,2020-11-14,2020-11-14,54,1
+460,Mad Woman,Taylor Swift,47,2020-08-08,2020-08-08,54,1
+461,Lion King On Ice,J. Cole,51,2020-08-08,2020-08-15,54,2
+462,Six Feet Apart,Luke Combs,58,2020-05-16,2020-05-23,54,2
+463,Without You,Luke Combs Featuring Amanda Shires,70,2020-10-03,2020-11-07,54,2
+464,Happy Does,Kenny Chesney,85,2020-10-31,2020-12-05,54,6
+465,g n f (Give No Fxk),"Migos, Young Thug & Travis Scott",48,2020-02-29,2020-02-29,53,1
+466,Circles,Mac Miller,48,2020-02-01,2020-02-01,53,1
+467,Outta Time,Bryson Tiller Featuring Drake,48,2020-10-17,2020-10-17,53,1
+468,Thriller,Michael Jackson,48,2020-11-14,2020-11-14,53,1
+469,She Knows This,Kid Cudi,49,2020-12-26,2020-12-26,52,1
+470,"You're A Mean One, Mr. Grinch",Thurl Ravenscroft,49,2020-01-04,2020-01-04,52,1
+471,Goosebumps,Travis Scott,49,2020-05-09,2020-05-09,52,1
+472,Nasty,Ariana Grande,49,2020-11-14,2020-11-14,52,1
+473,Be Something,Polo G Featuring Lil Baby,57,2020-05-30,2020-06-06,52,2
+474,Moral Of The Story,Ashe Featuring Niall Horan,71,2020-03-07,2020-10-10,52,3
+475,Can I,Kehlani Featuring Tory Lanez,50,2020-05-23,2020-05-23,51,1
+476,Only The Young,Taylor Swift,50,2020-02-15,2020-02-15,51,1
+477,That's It,Future & Lil Uzi Vert,50,2020-11-28,2020-11-28,51,1
+478,You Gon' Learn,"Eminem Featuring Royce da 5'9"" & White Gold",52,2020-02-01,2020-02-08,51,2
+479,Otherside Of America,Meek Mill,64,2020-06-20,2020-06-27,51,2
+480,Bust Me,Lil Uzi Vert,51,2020-03-21,2020-03-21,50,1
+481,Losses,Drake,51,2020-05-16,2020-05-16,50,1
+482,The Climb Back,J. Cole,52,2020-08-01,2020-08-08,50,2
+483,Captain Hook,Megan Thee Stallion,74,2020-03-21,2020-05-09,50,4
+484,War,Drake,52,2020-05-16,2020-05-16,49,1
+485,Happiness,Taylor Swift,52,2020-12-26,2020-12-26,49,1
+486,Safety Net,Ariana Grande Featuring Ty Dolla $ign,52,2020-11-14,2020-11-14,49,1
+487,Tommy Lee,Tyla Yaweh & Post Malone,65,2020-06-27,2020-07-04,49,2
+488,All In,YoungBoy Never Broke Again,67,2020-09-05,2020-09-26,49,3
+489,Letter To Nipsey,Meek Mill Featuring Roddy Ricch,73,2020-02-08,2020-02-15,49,2
+490,LIGHTSKIN SH*T,DaBaby Featuring Future & jetsonmade,53,2020-05-02,2020-05-02,48,1
+491,Trapped In The Sun,Future,53,2020-05-30,2020-05-30,48,1
+492,Spicy,Ty Dolla $ign Featuring Post Malone,53,2020-11-07,2020-11-07,48,1
+493,Enjoy Yourself,Pop Smoke Featuring Karol G,56,2020-07-18,2020-08-01,48,2
+494,Broke In A Minute,Tory Lanez,64,2020-04-25,2020-05-02,48,2
+495,La Jeepeta,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka,93,2020-08-22,2020-10-31,48,10
+496,Wassup,Lil Uzi Vert Featuring Future,54,2020-03-28,2020-03-28,47,1
+497,Get Ugly,Lil Baby,54,2020-03-14,2020-03-14,47,1
+498,Real Baby Pluto,Future & Lil Uzi Vert,54,2020-11-28,2020-11-28,47,1
+499,All Bad,Future Featuring Lil Uzi Vert,54,2020-05-30,2020-05-30,47,1
+500,Snitchin,Pop Smoke Featuring Quavo & Future,54,2020-07-18,2020-07-18,47,1
+501,Stupid Again,Tory Lanez,54,2020-04-25,2020-04-25,47,1
+502,Show Out,"Kid Cudi, Skepta & Pop Smoke",54,2020-12-26,2020-12-26,47,1
+503,Me And My Guitar,A Boogie Wit da Hoodie,58,2020-02-29,2020-03-07,47,2
+504,Practice,DaBaby,86,2020-11-07,2020-12-19,47,5
+505,Top Floor,Gunna Featuring Travis Scott,55,2020-06-06,2020-06-06,46,1
+506,Bad Bitch From Tokyo (Intro),Pop Smoke,55,2020-07-18,2020-07-18,46,1
+507,WHAT TO DO?,JACKBOYS Featuring Don Toliver,56,2020-01-11,2020-01-18,46,2
+508,One Too Many,Keith Urban Duet With P!nk,62,2020-10-03,2020-10-31,46,4
+509,My Dawg,21 Savage & Metro Boomin,56,2020-10-17,2020-10-17,45,1
+510,Epiphany,Taylor Swift,57,2020-08-08,2020-08-08,44,1
+511,Wunna,Gunna,57,2020-06-06,2020-06-06,44,1
+512,Iris,Phoebe & Maggie,57,2020-11-28,2020-11-28,44,1
+513,Creature,Pop Smoke Featuring Swae Lee,57,2020-07-18,2020-07-18,44,1
+514,Black Swan,BTS,57,2020-02-01,2020-02-01,44,1
+515,Evermore,Taylor Swift Featuring Bon Iver,57,2020-12-26,2020-12-26,44,1
+516,Bleed,A Boogie Wit da Hoodie,57,2020-07-04,2020-07-04,44,1
+517,Brand New Draco,21 Savage & Metro Boomin,57,2020-10-17,2020-10-17,44,1
+518,King Of My City,A Boogie Wit da Hoodie,69,2020-02-15,2020-02-29,44,3
+519,"Baby, I'm Jealous",Bebe Rexha Featuring Doja Cat,58,2020-10-24,2020-10-24,43,1
+520,No Sucker,Lil Baby & Moneybagg Yo,58,2020-03-14,2020-03-14,43,1
+521,Peace,Taylor Swift,58,2020-08-08,2020-08-08,43,1
+522,Fine By Time,YoungBoy Never Broke Again,58,2020-03-07,2020-03-07,43,1
+523,Te Mudaste,Bad Bunny,60,2020-12-12,2020-12-19,43,2
+524,Boyfriend,Selena Gomez,59,2020-04-25,2020-04-25,42,1
+525,Lovesick Girls,BLACKPINK,59,2020-10-17,2020-10-17,42,1
+526,Blindfold,Gunna Featuring Lil Baby,59,2020-06-06,2020-06-06,42,1
+527,How,Lil Baby,59,2020-03-14,2020-03-14,42,1
+528,Bad Bad,YoungBoy Never Broke Again,59,2020-03-07,2020-03-07,42,1
+529,Lonely If You Are,Chase Rice,91,2020-08-29,2020-10-03,42,6
+530,Knocked Off,YoungBoy Never Broke Again,60,2020-03-07,2020-03-07,41,1
+531,Strawberry Peels,Lil Uzi Vert Featuring Young Thug & Gunna,60,2020-03-28,2020-03-28,41,1
+532,Leaving Heaven,Eminem Featuring Skylar Grey,61,2020-02-01,2020-02-01,40,1
+533,Ivy,Taylor Swift,61,2020-12-26,2020-12-26,40,1
+534,Mahogany,Lil Wayne,61,2020-02-15,2020-02-15,40,1
+535,Snitches & Rats,21 Savage & Metro Boomin Featuring Young Nudy,61,2020-10-17,2020-10-17,40,1
+536,Sigues Con El,Arcangel x Sech,78,2020-04-25,2020-06-13,40,3
+537,Letter From Houston,Rod Wave,62,2020-08-22,2020-08-22,39,1
+538,The Voice,Lil Durk,62,2020-09-19,2020-09-19,39,1
+539,Moon Relate,Lil Uzi Vert,62,2020-03-28,2020-03-28,39,1
+540,Pero Ya No,Bad Bunny,63,2020-03-14,2020-03-14,38,1
+541,Complicated,Mac Miller,63,2020-02-01,2020-02-01,38,1
+542,Six Thirty,Ariana Grande,63,2020-11-14,2020-11-14,38,1
+543,CAN'T STOP,DaBaby,63,2020-05-02,2020-05-02,38,1
+544,Coney Island,Taylor Swift Featuring The National,63,2020-12-26,2020-12-26,38,1
+545,BLAME IT ON BABY,DaBaby,64,2020-05-02,2020-05-02,37,1
+546,Yo Visto Asi,Bad Bunny,64,2020-12-12,2020-12-12,37,1
+547,Another Day,Kid Cudi,64,2020-12-26,2020-12-26,37,1
+548,Hand Me Downs,Mac Miller,64,2020-02-01,2020-02-01,37,1
+549,Forever,Lil Baby Featuring Lil Wayne,64,2020-03-14,2020-03-14,37,1
+550,Fuck The World,Rod Wave,64,2020-04-18,2020-04-18,37,1
+551,Marni On Me,Future & Lil Uzi Vert,64,2020-11-28,2020-11-28,37,1
+552,Wolves,Big Sean Featuring Post Malone,65,2020-09-19,2020-10-03,37,2
+553,West Coast Shit,Pop Smoke Featuring Tyga & Quavo,65,2020-07-18,2020-07-18,36,1
+554,Sasuke,Lil Uzi Vert,65,2020-05-09,2020-05-09,36,1
+555,Happiness Over Everything (H.O.E.),Jhene Aiko Featuring Future & Miguel,65,2020-03-21,2020-03-21,36,1
+556,My Hair,Ariana Grande,65,2020-11-14,2020-11-14,36,1
+557,Social Distancing,Lil Baby,65,2020-05-16,2020-05-16,36,1
+558,Zoo York,Lil Tjay Featuring Fivio Foreign & Pop Smoke,65,2020-05-23,2020-05-23,36,1
+559,Gone Too Soon,Andrew Jannakos,65,2020-09-26,2020-09-26,36,1
+560,Don't Need Friends,NAV Featuring Lil Baby,65,2020-11-21,2020-11-21,36,1
+561,Cry Baby,Megan Thee Stallion Featuring DaBaby,71,2020-12-05,2020-12-26,36,2
+562,Might Not Give Up,A Boogie Wit da Hoodie Featuring Young Thug,66,2020-02-29,2020-02-29,35,1
+563,The Code,King Von Featuring Polo G,66,2020-11-21,2020-11-21,35,1
+564,I Can Show You,Lil Uzi Vert,66,2020-03-28,2020-03-28,35,1
+565,TKN,ROSALIA & Travis Scott,66,2020-06-13,2020-06-13,35,1
+566,Argentina,Gunna,67,2020-06-06,2020-06-06,34,1
+567,Million Dollar Play,Future & Lil Uzi Vert,67,2020-11-28,2020-11-28,34,1
+568,Dorothea,Taylor Swift,67,2020-12-26,2020-12-26,34,1
+569,Pray 4 Love,Rod Wave,67,2020-04-18,2020-04-18,34,1
+570,Premonition (Intro),Eminem,67,2020-02-01,2020-02-01,34,1
+571,You Got It,VEDO,87,2020-09-26,2020-10-24,34,4
+572,Trap This Way (This Way),Lil Uzi Vert,68,2020-03-28,2020-03-28,33,1
+573,Hard To Choose One,Future,68,2020-05-30,2020-05-30,33,1
+574,I Can See,Mac Miller,68,2020-02-01,2020-02-01,33,1
+575,Sleeping On The Floor,Future & Lil Uzi Vert,68,2020-11-28,2020-11-28,33,1
+576,Run,Joji,68,2020-02-22,2020-02-22,33,1
+577,Toxic,Kehlani,68,2020-05-23,2020-05-23,33,1
+578,Long Story Short,Taylor Swift,68,2020-12-26,2020-12-26,33,1
+579,Slow Dancing In The Dark,Joji,80,2020-01-04,2020-01-11,33,2
+580,GATTI,"JACKBOYS, Pop Smoke & Travis Scott",69,2020-01-11,2020-01-11,32,1
+581,Fly To My Room,BTS,69,2020-12-05,2020-12-05,32,1
+582,Ridin Strikers,Future,69,2020-05-30,2020-05-30,32,1
+583,The Other Guy,Luke Combs,69,2020-11-07,2020-11-07,32,1
+584,Repeat After Me (Interlude),The Weeknd,69,2020-04-04,2020-04-04,32,1
+585,Happy Xmas (War Is Over),John Legend,69,2020-01-04,2020-01-04,32,1
+586,SAD SHIT,DaBaby,69,2020-05-02,2020-05-02,32,1
+587,Lithuania,Big Sean Featuring Travis Scott,69,2020-09-19,2020-09-19,32,1
+588,Telepathy,BTS,70,2020-12-05,2020-12-05,31,1
+589,Obvious,Ariana Grande,70,2020-11-14,2020-11-14,31,1
+590,Met Gala,Gunna,70,2020-06-06,2020-06-06,31,1
+591,Damage,H.E.R.,70,2020-11-07,2020-11-07,31,1
+592,Lets Link,WhoHeem,86,2020-09-12,2020-09-26,31,3
+593,Hate The Way,G-Eazy Featuring blackbear,71,2020-10-31,2020-10-31,30,1
+594,Hoax,Taylor Swift,71,2020-08-08,2020-08-08,30,1
+595,Cowboy Like Me,Taylor Swift,71,2020-12-26,2020-12-26,30,1
+596,DROP,DaBaby Featuring A Boogie Wit da Hoodie & London On Da Track,71,2020-05-02,2020-05-02,30,1
+597,West Side,Ariana Grande,71,2020-11-14,2020-11-14,30,1
+598,No Opp Left Behind,21 Savage & Metro Boomin,71,2020-10-17,2020-10-17,30,1
+599,Hitek Tek,Future,71,2020-05-30,2020-05-30,30,1
+600,In Too Deep,Eminem,71,2020-02-01,2020-02-01,30,1
+601,Enemies,Post Malone Featuring DaBaby,85,2020-01-04,2020-01-18,30,3
+602,Secure The Bag,Lil Uzi Vert,72,2020-03-21,2020-03-21,29,1
+603,Dis-ease,BTS,72,2020-12-05,2020-12-05,29,1
+604,Leaders,Lil Uzi Vert Featuring NAV,72,2020-03-28,2020-03-28,29,1
+605,Real Shit,Juice WRLD x benny blanco,72,2020-12-19,2020-12-19,29,1
+606,Haciendo Que Me Amas,Bad Bunny,72,2020-12-12,2020-12-12,29,1
+607,Dead Trollz,YoungBoy Never Broke Again,72,2020-09-26,2020-09-26,29,1
+608,Favorite Time Of Year,Carrie Underwood,80,2020-12-12,2020-12-26,29,3
+609,Thug Love,A Boogie Wit da Hoodie,73,2020-02-29,2020-02-29,28,1
+610,Deep End Freestyle,Sleepy Hallow,80,2020-06-20,2020-06-27,28,2
+611,Death,Trippie Redd Featuring DaBaby,83,2020-01-04,2020-01-11,28,2
+612,Rodeo,Lil Nas X & Cardi B Or Nas,74,2020-02-22,2020-02-22,27,1
+613,Thief In The Night,Rod Wave,74,2020-04-18,2020-04-18,27,1
+614,Way Out,Jack Harlow Featuring Big Sean,74,2020-12-26,2020-12-26,27,1
+615,Te Deseo Lo Mejor,Bad Bunny,74,2020-12-12,2020-12-12,27,1
+616,TALK ABOUT IT,DaBaby,74,2020-05-02,2020-05-02,27,1
+617,The Plan,Travis Scott,74,2020-09-05,2020-09-05,27,1
+618,Steppin On N*ggas,21 Savage & Metro Boomin,74,2020-10-17,2020-10-17,27,1
+619,Let Me Know (I Wonder Why Freestyle),Juice WRLD,81,2020-01-04,2020-01-11,27,2
+620,Marjorie,Taylor Swift,75,2020-12-26,2020-12-26,26,1
+621,Know My Rights,6LACK Featuring Lil Baby,75,2020-07-11,2020-07-11,26,1
+622,Love Language,Ariana Grande,75,2020-11-14,2020-11-14,26,1
+623,Woods,Mac Miller,75,2020-02-01,2020-02-01,26,1
+624,Too Comfortable,Future,75,2020-05-30,2020-05-30,26,1
+625,Urgency,Lil Uzi Vert Featuring Syd,76,2020-03-21,2020-03-21,25,1
+626,Cross Roads,YoungBoy Never Broke Again,76,2020-09-26,2020-09-26,25,1
+627,Tragic,The Kid LAROI Featuring YoungBoy Never Brok Again & Internet Money,76,2020-11-21,2020-11-21,25,1
+628,Diana,Pop Smoke Featuring King Combs,76,2020-07-18,2020-07-18,25,1
+629,Oh Santa!,Mariah Carey Featuring Ariana Grande & Jennifer Hudson,76,2020-12-19,2020-12-19,25,1
+630,Daechwita,Agust D,76,2020-06-06,2020-06-06,25,1
+631,No Auto,Lil Uzi Vert Featuring Lil Durk,76,2020-03-28,2020-03-28,25,1
+632,Tycoon,Future,76,2020-04-18,2020-04-18,25,1
+633,RIP Luv,21 Savage & Metro Boomin,76,2020-10-17,2020-10-17,25,1
+634,All These N**gas,King Von Featuring Lil Durk,77,2020-11-21,2020-11-21,24,1
+635,I Remember,Rod Wave,77,2020-04-18,2020-04-18,24,1
+636,Booker T,Bad Bunny,78,2020-12-12,2020-12-12,23,1
+637,The Greatest,Rod Wave,78,2020-04-18,2020-04-18,23,1
+638,Mr. Solo Dolo III,Kid Cudi,78,2020-12-26,2020-12-26,23,1
+639,Nasty Girl / On Camera,Gunna,78,2020-06-06,2020-06-06,23,1
+640,Same Thing,Lil Baby,78,2020-03-14,2020-03-14,23,1
+641,Blastoff,Internet Money Featuring Juice WRLD & Trippie Redd,79,2020-09-12,2020-09-12,22,1
+642,El Mundo Es Mio,Bad Bunny,79,2020-12-12,2020-12-12,22,1
+643,Posted With Demons,Future,79,2020-05-30,2020-05-30,22,1
+644,Hate Me,Ellie Goulding & Juice WRLD,79,2020-01-04,2020-01-04,22,1
+645,Tunnel Vision (Outro),Pop Smoke,79,2020-07-18,2020-07-18,22,1
+646,Hallelujah,Carrie Underwood & John Legend,84,2020-12-19,2020-12-26,22,2
+647,Change Your Life,Kehlani Featuring Jhene Aiko,80,2020-05-23,2020-05-23,21,1
+648,Stain,A Boogie Wit da Hoodie Featuring DaBaby,80,2020-02-29,2020-02-29,21,1
+649,Weeeeee,Trippie Redd,80,2020-11-14,2020-11-14,21,1
+650,Dive,Kid Cudi,80,2020-12-26,2020-12-26,21,1
+651,Dolly,Lil Tecca & Lil Uzi Vert,80,2020-10-03,2020-10-03,21,1
+652,Until I Bleed Out,The Weeknd,80,2020-04-04,2020-04-04,21,1
+653,Everybody,Mac Miller,80,2020-02-01,2020-02-01,21,1
+654,RIP Lil Phat,YoungBoy Never Broke Again,80,2020-03-07,2020-03-07,21,1
+655,Crazy Story 2.0,King Von Featuring Lil Durk,81,2020-11-21,2020-11-21,20,1
+656,Hoy Cobre,Bad Bunny,81,2020-12-12,2020-12-12,20,1
+657,Touch The Sky,Future,81,2020-05-30,2020-05-30,20,1
+658,Canceled,Larray,81,2020-10-31,2020-10-31,20,1
+659,The Last Backyard...,YoungBoy Never Broke Again,81,2020-09-26,2020-09-26,20,1
+660,Low Down,Lil Baby,81,2020-05-16,2020-05-16,20,1
+661,Last Time I Say Sorry,Kane Brown & John Legend,89,2020-04-11,2020-04-18,20,2
+662,Deep Reverence,Big Sean Featuring Nipsey Hussle,82,2020-09-19,2020-09-19,19,1
+663,Closure,Taylor Swift,82,2020-12-26,2020-12-26,19,1
+664,Shots Fired,Megan Thee Stallion,82,2020-12-05,2020-12-05,19,1
+665,One Of My,Future,82,2020-05-30,2020-05-30,19,1
+666,All Dat,Moneybagg Yo X Megan Thee Stallion,84,2020-01-18,2020-01-25,19,2
+667,Peta,Roddy Ricch Featuring Meek Mill,86,2020-01-18,2020-01-25,19,2
+668,Come This Way,Lil Uzi Vert,83,2020-03-28,2020-03-28,18,1
+669,Marsh,Eminem,83,2020-02-01,2020-02-01,18,1
+670,Expensive,Ty Dolla $ign Featuring Nicki Minaj,83,2020-09-12,2020-09-12,18,1
+671,Always Do,The Kid LAROI,83,2020-11-21,2020-11-21,18,1
+672,Eleven,Khalid,83,2020-01-25,2020-01-25,18,1
+673,Ain't Easy,YoungBoy Never Broke Again,83,2020-05-09,2020-05-09,18,1
+674,KEII,Anuel AA,83,2020-02-22,2020-02-22,18,1
+675,Always Forever,Bryson Tiller,83,2020-10-17,2020-10-17,18,1
+676,T.D,"Lil Yachty & Tierra Whack Featuring A$AP Rocky & Tyler, The Creator",83,2020-06-13,2020-06-13,18,1
+677,Livin' The Dream,Morgan Wallen,83,2020-12-05,2020-12-05,18,1
+678,My Time,BTS,84,2020-03-07,2020-03-07,17,1
+679,Years Go By,Bryson Tiller,84,2020-10-17,2020-10-17,17,1
+680,MOTW,Gunna,84,2020-06-06,2020-06-06,17,1
+681,Alice,Lady Gaga,84,2020-06-13,2020-06-13,17,1
+682,Let It Go,Summer Walker,84,2020-07-25,2020-07-25,17,1
+683,Harlem Shake,Future Featuring Young Thug,84,2020-05-30,2020-05-30,17,1
+684,Ribbon In The Sky,Rod Wave,84,2020-04-18,2020-04-18,17,1
+685,DND,Polo G,84,2020-04-25,2020-04-25,17,1
+686,No Regrets,Eminem Featuring Don Toliver,84,2020-02-01,2020-02-01,17,1
+687,Cold As You,Luke Combs,84,2020-11-07,2020-11-07,17,1
+688,Young Wheezy,NAV With Gunna,84,2020-11-21,2020-11-21,17,1
+689,Me Vs Me,Moneybagg Yo,88,2020-05-23,2020-05-30,17,2
+690,Bichota,Karol G,89,2020-12-05,2020-12-19,17,3
+691,What's Your Country Song,Thomas Rhett,85,2020-11-28,2020-11-28,16,1
+692,CHAMPION,DaBaby,85,2020-05-02,2020-05-02,16,1
+693,Long RD,YoungBoy Never Broke Again,85,2020-03-07,2020-03-07,16,1
+694,Heaven On Earth,Kid Cudi,85,2020-12-26,2020-12-26,16,1
+695,Yellow Hearts,Ant Saunders,92,2020-01-04,2020-01-11,16,2
+696,Beers And Sunshine,Darius Rucker,93,2020-11-21,2020-11-28,16,2
+697,Come Around Me,Justin Bieber,86,2020-02-29,2020-02-29,15,1
+698,Pain Away,Meek Mill Featuring Lil Durk,86,2020-12-05,2020-12-05,15,1
+699,I Dare You,Kelly Clarkson,86,2020-05-02,2020-05-02,15,1
+700,Diamonds,YoungBoy Never Broke Again,86,2020-05-09,2020-05-09,15,1
+701,Conversations In The Dark,John Legend,86,2020-01-25,2020-01-25,15,1
+702,Humble,Lil Baby,86,2020-05-16,2020-05-16,15,1
+703,Gimmick,Gunna,86,2020-06-06,2020-06-06,15,1
+704,Hasta Que Dios Diga,Anuel AA & Bad Bunny,86,2020-06-13,2020-06-13,15,1
+705,Plastic,Future & Lil Uzi Vert,86,2020-11-28,2020-11-28,15,1
+706,My Affection,Summer Walker & PARTYNEXTDOOR,86,2020-07-25,2020-07-25,15,1
+707,Freestyle,Rod Wave,86,2020-08-22,2020-08-22,15,1
+708,Filter,BTS,87,2020-03-07,2020-03-07,14,1
+709,Mama Mia,Lil Wayne,87,2020-02-15,2020-02-15,14,1
+710,Maldita Pobreza,Bad Bunny,87,2020-12-12,2020-12-12,14,1
+711,Triggered,Jhene Aiko,87,2020-03-21,2020-03-21,14,1
+712,Got The Guap,Lil Uzi Vert Featuring Young Thug,87,2020-03-28,2020-03-28,14,1
+713,B*tch From da Souf,Mulatto,95,2020-08-22,2020-09-05,14,3
+714,Don't Believe The Hype,Polo G,88,2020-05-30,2020-05-30,13,1
+715,Right Foot Creep,YoungBoy Never Broke Again,88,2020-09-26,2020-09-26,13,1
+716,Lose Somebody,Kygo & OneRepublic,88,2020-06-13,2020-06-13,13,1
+717,Funeral,Lil Wayne,88,2020-02-15,2020-02-15,13,1
+718,My Truck,Breland,92,2020-07-04,2020-07-11,13,2
+719,Take You Dancing,Jason Derulo,94,2020-11-14,2020-11-28,13,3
+720,Protect da Brand,Moneybagg Yo Featuring DaBaby,89,2020-01-25,2020-01-25,12,1
+721,Reminds Me Of You,The Kid LAROI & Juice WRLD,89,2020-12-26,2020-12-26,12,1
+722,Money Spread,Lil Uzi Vert Featuring Young Nudy,89,2020-03-28,2020-03-28,12,1
+723,Nice To Meet Ya,Meghan Trainor Featuring Nicki Minaj,89,2020-02-15,2020-02-15,12,1
+724,Bichiyal,Bad Bunny & Yaviah,89,2020-03-14,2020-03-14,12,1
+725,Better,Zayn,89,2020-10-10,2020-10-10,12,1
+726,Bat Man,YoungBoy Never Broke Again,89,2020-03-07,2020-03-07,12,1
+727,Lock It Up,Eminem Featuring Anderson .Paak,89,2020-02-01,2020-02-01,12,1
+728,All I Want,Olivia Rodrigo,90,2020-01-18,2020-01-25,12,2
+729,La Toxica,Farruko,95,2020-11-07,2020-11-28,12,4
+730,Sad People,Kid Cudi,90,2020-12-26,2020-12-26,11,1
+731,Bout My Business,YoungBoy Never Broke Again Featuring Sherhonda Gaulden,90,2020-05-09,2020-05-09,11,1
+732,Cardigan,Don Toliver,90,2020-03-28,2020-03-28,11,1
+733,Believe,Meek Mill Featuring Justin Timberlake,90,2020-02-22,2020-02-22,11,1
+734,When You Down,Lil Tecca & Polo G Featuring Lil Durk,90,2020-10-03,2020-10-03,11,1
+735,Surf,Mac Miller,91,2020-02-01,2020-02-01,10,1
+736,Said N Done,21 Savage & Metro Boomin,91,2020-10-17,2020-10-17,10,1
+737,We Should,Lil Baby & Young Thug,91,2020-03-14,2020-03-14,10,1
+738,Me Gusta,Anitta Featuring Cardi B & Myke Towers,91,2020-10-03,2020-10-03,10,1
+739,Drunk Face,Machine Gun Kelly,91,2020-10-10,2020-10-10,10,1
+740,Damaged,Kid Cudi,91,2020-12-26,2020-12-26,10,1
+741,Viral Moment,Lil Durk,91,2020-05-23,2020-05-23,10,1
+742,Candy,Doja Cat,96,2020-01-04,2020-01-11,10,2
+743,Stay Down,"Lil Durk, 6LACK & Young Thug",92,2020-11-14,2020-11-14,9,1
+744,Look At Her Now.,Selena Gomez,92,2020-01-25,2020-01-25,9,1
+745,Wet. (She Got That...),YFN Lucci,92,2020-10-03,2020-10-03,9,1
+746,No Dribble,DaBaby x Stunna 4 Vegas,92,2020-08-15,2020-08-15,9,1
+747,Do It On The Tip,Megan Thee Stallion Featuring City Girls & Hot Girl Meg,92,2020-12-05,2020-12-05,9,1
+748,Baby Sitter,DaBaby Featuring Offset,92,2020-01-04,2020-01-04,9,1
+749,Stick That In Your Country Song,Eric Church,92,2020-07-11,2020-07-11,9,1
+750,Beautiful Pain (Losin My Mind),Polo G,92,2020-05-30,2020-05-30,9,1
+751,Rough Ryder,YoungBoy Never Broke Again,92,2020-05-09,2020-05-09,9,1
+752,Shake The Room,Pop Smoke Featuring Quavo,93,2020-03-07,2020-03-07,8,1
+753,33,Polo G,93,2020-05-30,2020-05-30,8,1
+754,None Of Your Concern,Jhene Aiko Featuring Big Sean,93,2020-03-21,2020-03-21,8,1
+755,Stepdad,Eminem,93,2020-02-01,2020-02-01,8,1
+756,Get Me,Justin Bieber Featuring Kehlani,93,2020-02-15,2020-02-15,8,1
+757,Circles,Megan Thee Stallion,94,2020-12-05,2020-12-05,7,1
+758,First Man,Camila Cabello,94,2020-02-08,2020-02-08,7,1
+759,20/20,Lil Tjay,94,2020-01-18,2020-01-18,7,1
+760,"Ay, Dios Mio!",Karol G,94,2020-10-10,2020-10-10,7,1
+761,La Droga,Bad Bunny,94,2020-12-12,2020-12-12,7,1
+762,One Shot,YoungBoy Never Broke Again Featuring Lil Baby,94,2020-07-04,2020-07-04,7,1
+763,Solia,Bad Bunny,94,2020-03-14,2020-03-14,7,1
+764,Need Me,J.I The Prince Of N.Y,95,2020-06-27,2020-07-04,7,2
+765,Loco Contigo,"DJ Snake, J. Balvin & Tyga",95,2020-01-11,2020-01-11,6,1
+766,Cinderella Story,A Boogie Wit da Hoodie,95,2020-02-29,2020-02-29,6,1
+767,What If I Told You That I Love You,Ali Gatie,95,2020-02-08,2020-02-08,6,1
+768,Hard Days,Brantley Gilbert,95,2020-06-20,2020-06-20,6,1
+769,Body Language,Big Sean Featuring Ty Dolla $ign & Jhene Aiko,95,2020-09-19,2020-09-19,6,1
+770,I Know,Polo G,95,2020-05-30,2020-05-30,6,1
+771,The Other Girl,Kelsea Ballerini x Halsey,95,2020-04-04,2020-04-04,6,1
+772,Thug Life,Rod Wave,95,2020-04-18,2020-04-18,6,1
+773,Perfect,Logic,95,2020-08-08,2020-08-08,6,1
+774,The Man Who Loves You The Most,Zac Brown Band,96,2020-06-27,2020-06-27,5,1
+775,Spicy,Nas Featuring Fivio Foreign & A$AP Ferg,96,2020-09-05,2020-09-05,5,1
+776,ORANGE SODA,Baby Keem,98,2020-01-18,2020-02-22,5,3
+777,Esta Cabron Ser Yo,Bad Bunny X Anuel AA,97,2020-03-14,2020-03-14,4,1
+778,Pardon,T.I. Featuring Lil Baby,97,2020-10-31,2020-10-31,4,1
+779,Why Would I Stop?,Big Sean,97,2020-09-19,2020-09-19,4,1
+780,Rockstar Chainz,Future,97,2020-11-28,2020-11-28,4,1
+781,Money Over Fallouts,Tory Lanez,97,2020-10-10,2020-10-10,4,1
+782,No Judgement,Niall Horan,97,2020-02-22,2020-02-22,4,1
+783,Feel Me,Selena Gomez,98,2020-03-07,2020-03-07,3,1
+784,Dirty Stick,YoungBoy Never Broke Again,98,2020-09-26,2020-09-26,3,1
+785,Feigning,Gunna,98,2020-06-06,2020-06-06,3,1
+786,Sofia,Clairo,98,2020-10-24,2020-10-24,3,1
+787,Thick,DJ Chose Featuring BeatKing,98,2020-11-14,2020-11-14,3,1
+788,Habitual,Justin Bieber,98,2020-02-29,2020-02-29,3,1
+789,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",98,2020-01-11,2020-01-11,3,1
+790,Can't Explain,Lil Baby,99,2020-03-14,2020-03-14,2,1
+791,Thug Of Spades,YoungBoy Never Broke Again Featuring DaBaby,99,2020-05-09,2020-05-09,2,1
+792,No Weakness,Rod Wave,99,2020-04-18,2020-04-18,2,1
+793,"F*ck You, Goodbye",The Kid LAROI Featuring Machine Gun Kelly,99,2020-11-21,2020-11-21,2,1
+794,Cover Me Up,Morgan Wallen,99,2020-12-05,2020-12-05,2,1
+795,YaYa,6ix9ine,99,2020-07-18,2020-07-18,2,1
+796,Head & Heart,Joel Corry X MNEK,99,2020-11-07,2020-11-07,2,1
+797,Worldwide Beautiful,Kane Brown,100,2020-06-20,2020-06-20,1,1
+798,Bought A Bad Bitch,Future & Lil Uzi Vert,100,2020-11-28,2020-11-28,1,1
+799,"Wine, Beer, Whiskey",Little Big Town,100,2020-11-07,2020-11-07,1,1
+800,All Around Me,Justin Bieber,100,2020-02-29,2020-02-29,1,1
+801,Boss Bitch,Doja Cat,100,2020-04-25,2020-04-25,1,1
+802,Beautiful Trip,Kid Cudi,100,2020-12-26,2020-12-26,1,1
+803,That's On Me,Mac Miller,100,2020-02-01,2020-02-01,1,1
+804,Silent Night,Carrie Underwood,100,2020-12-19,2020-12-19,1,1
