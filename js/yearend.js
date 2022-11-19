@@ -54,7 +54,7 @@ $(function() {
     //initializing the table
     CsvToHtmlTable.init({
         csv_path: 'data/YearEnd/' + pChart + '_' + pYear + '_YearEnd.csv', 
-        row_limit: 250,
+        row_limit: 200,
         element: 'ye-table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},

@@ -38,7 +38,11 @@ CsvToHtmlTable = {
                 if (row_limit === 0) {
                     rowLimit = csvData.length;
                 } else {
-                    rowLimit = row_limit + 1;
+                    if (row_limit < csvData.length) {
+                        rowLimit = row_limit + 1;
+                    } else {
+                        rowLimit = csvData.length;
+                    }
                 }
 
                 for (var rowIdx = 1; rowIdx < rowLimit; rowIdx++) {
