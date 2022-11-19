@@ -29,7 +29,7 @@ $(function() {
 
     //initializing the table
     CsvToHtmlTable.init({
-        csv_path: 'data/hot-100/hot-100_' + pDate1 + '.csv', 
+        csv_path: 'test_data/hot-100/hot-100_' + pDate1 + '.csv', 
         row_limit: 10,
         element: 'hot100-container', 
         allow_download: true,
@@ -38,7 +38,7 @@ $(function() {
         //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
     });
     CsvToHtmlTable.init({
-        csv_path: 'data/billboard-200/billboard-200_' + pDate2 + '.csv', 
+        csv_path: 'test_data/billboard-200/billboard-200_' + pDate2 + '.csv', 
         row_limit: 10,
         element: 'billboard200-container', 
         allow_download: true,

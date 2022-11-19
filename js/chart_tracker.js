@@ -99,6 +99,15 @@ let charts_r_b = [
 let top_charts = [
     ['hot-100','Hot 100','1958-08-04','2022-11-05'],
     ['billboard-200','Billboard 200','1963-08-17','2022-11-05'],
+    ['hot-mainstream-rock-tracks','Hot Mainstream Rock Tracks','1981-03-21','2022-11-05'],
+    ['country-songs','Country Songs','1958-10-20','2022-11-05'],
+    ['r-b-hip-hop-songs','R&B / Hip-Hop Songs','1958-10-20','2022-11-05'],
+    ['christian-airplay','Christian Airplay','2003-06-21','2022-11-05']
+]
+
+/*let top_charts = [
+    ['hot-100','Hot 100','1958-08-04','2022-11-05'],
+    ['billboard-200','Billboard 200','1963-08-17','2022-11-05'],
     ['bubbling-under-hot-100-singles','Bubbling Under','1992-12-05','2022-11-05'],
     ['hot-singles-recurrents','Hot Singles Recurrents','1991-11-30','2022-11-05'],
     ['adult-contemporary','Adult Contemporary','1961-07-17','2022-11-05'],
@@ -109,7 +118,7 @@ let top_charts = [
     ['r-b-hip-hop-albums','R&B / Hip-Hop Albums','1965-01-30','2022-11-05'],
     ['alternative-airplay','Alternative Airplay','1988-09-10','2022-11-05'],
     ['triple-a','Triple A','1996-01-20','2022-11-05']
-]
+]*/
 
 let genre_list = [
     'General Charts',

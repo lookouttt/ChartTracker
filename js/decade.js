@@ -56,7 +56,7 @@ $(function() {
     
     //initializing the table
     CsvToHtmlTable.init({
-        csv_path: 'data/Decade/' + pChart + '_' + pDecade + '_Decade.csv', 
+        csv_path: 'test_data/Decade/' + pChart + '_' + pDecade + '_Decade.csv', 
         row_limit: 500,
         element: 'de-table-container', 
         allow_download: true,
