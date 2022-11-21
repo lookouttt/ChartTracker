@@ -1,5 +1,8 @@
 $(function() {
     createGenreDropdowns();
+    document.getElementById("ct-header").innerHTML = ctHeader;
+    document.getElementById("ct-footer").innerHTML = ctFooter;
+    document.getElementById("contactModal").innerHTML = contactModal;
 
     let params = new URLSearchParams(window.location.search);
     let pDate = params.get('date');

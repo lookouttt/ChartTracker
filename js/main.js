@@ -1,5 +1,8 @@
 $(function() {
     createGenreDropdowns();
+    document.getElementById("ct-header").innerHTML = ctHeader;
+    document.getElementById("ct-footer").innerHTML = ctFooter;
+    document.getElementById("contactModal").innerHTML = contactModal;
 
     let pDate1 = charts_general[0][chart_most_recent];
     let printDate = new Date(pDate1);
