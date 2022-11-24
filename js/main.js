@@ -31,7 +31,7 @@ $(function() {
     });
 
     //initializing the table
-    CsvToHtmlTable.init({
+ /*   CsvToHtmlTable.init({
         csv_path: 'data/hot-100/hot-100_' + pDate1 + '.csv', 
         row_limit: 10,
         element: 'hot100-container', 
@@ -39,7 +39,7 @@ $(function() {
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false}
         //custom_formatting: [[4, format_link]] //execute the function on the 4th column of every row
-    });
+    });*/
     CsvToHtmlTable.init({
         csv_path: 'data/billboard-200/billboard-200_' + pDate2 + '.csv', 
         row_limit: 10,
