@@ -1,6 +1,5 @@
 node_modules
-example.html
-package.json.bak
-data
+*.bak
+*.log
+ui/data
 dist
-dist.zip
